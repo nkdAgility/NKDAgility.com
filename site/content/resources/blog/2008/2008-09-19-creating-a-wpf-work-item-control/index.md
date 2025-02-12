@@ -21,12 +21,8 @@ aliasesFor404:
 - /creating-a-wpf-work-item-control
 - /blog/creating-a-wpf-work-item-control
 - /resources/blog/creating-a-wpf-work-item-control
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Code and Complexity
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

@@ -21,12 +21,8 @@ aliasesFor404:
 - /wpf-threading
 - /blog/wpf-threading
 - /resources/blog/wpf-threading
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

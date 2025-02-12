@@ -28,25 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
-- Agile Leadership
-- Organisational Agility
-- Team Collaboration
-- Change Management
-- Agile Coaching
-- Agile Project Management
-- Self Organisation
-- Continuous Improvement
 - Agile Frameworks
-- Leadership Training
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- BetaCodex
+- Change Management
+- Decision Making
+- Organisational Change
+- Organisational Culture
+- Pragmatic Thinking
+- Scaling Agility
+- Software Developers
+- Software Development
+- Technical Leadership
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- Agile Product Management
+- Business Agility
 - Enterprise Agility
 - People and Process
-- Resilience and Change
 
 ---
 How do you think Agile is evolving since its inception in 2001?

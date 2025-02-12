@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
-tags:
-- Deployment Strategies
-- Continuous Delivery
-- Team Collaboration
-- Change Management
-- Evidence Based Management
-- Agile Tools
-- Technical Excellence
-- Value Delivery
-- Agile Project Management
-- Lean Principles
-- Continuous Improvement
-- Agile Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- DevOps
-- Azure DevOps
-- Value Delivery
-- Practical Techniques and Tooling
-- Resilience and Change
+categories: []
 
 ---
  In this video, we tackle one of the most critical challenges in Azure DevOps data migration: minimizing downtime. For organizations with thousands of engineers, even a short downtime can disrupt productivity. However, careful planning, strategic use of dry runs, and effective teamwork can help minimize downtime to almost zero.

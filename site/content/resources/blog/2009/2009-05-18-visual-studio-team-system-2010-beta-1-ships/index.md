@@ -21,10 +21,8 @@ aliasesFor404:
 - /visual-studio-team-system-2010-beta-1-ships
 - /blog/visual-studio-team-system-2010-beta-1-ships
 - /resources/blog/visual-studio-team-system-2010-beta-1-ships
-tags:
-- Azure DevOps
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 
 ---
 [Visual Studio 2010 Team Suit Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) and [Visual Studio 2010 Team Foundation Server Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) will be available to download from MSDN today at 5pm (GMT) and to the general public on Wednesday.

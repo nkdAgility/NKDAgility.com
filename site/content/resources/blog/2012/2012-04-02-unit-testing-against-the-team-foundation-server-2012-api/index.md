@@ -21,12 +21,8 @@ aliasesFor404:
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /blog/unit-testing-against-the-team-foundation-server-2012-api
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
-tags:
-- Test Driven Development
-- Automated Testing
-categories:
-- Azure DevOps
-- Technical Excellence
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

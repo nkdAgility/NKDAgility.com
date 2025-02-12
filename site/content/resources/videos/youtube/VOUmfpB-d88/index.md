@@ -28,28 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Mentoring Program
-- Scrum
-- Scrum Team
-- Agile Product Management
-- Continuous Learning
-- Team Collaboration
-- Change Management
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
 - Agile Transformation
-- Evidence Based Improvement
-- Agile Values and Principles
+- Coaching
+- Continuous Learning
 - Customer Feedback Loops
-- Team Motivation
-- Value Delivery
-- Agile Community
+- Mentoring
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
 - Discovery and Learning
 - People and Process
 - Value Delivery
-- Organisational Agility
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

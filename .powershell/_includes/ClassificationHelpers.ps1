@@ -1,3 +1,4 @@
+. ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/OpenAI.ps1
 function Get-CatalogHashtable {
     param (
@@ -13,11 +14,7 @@ function Get-CatalogHashtable {
 
     # Loop through each object and store the Title-Description pair in the hashtable
     foreach ($markdownMeta in $catalog) {
-        $instructions = $markdownMeta.FrontMatter.Instructions
-        if ($instructions -eq $null) {
-            $instructions = $markdownMeta.FrontMatter.Description
-        }
-        $catalogHash[$markdownMeta.FrontMatter.Title] = $instructions
+        $catalogHash[$markdownMeta.FrontMatter.Title] = $markdownMeta.FrontMatter
     }
 
     return $catalogHash
@@ -27,132 +24,31 @@ function Get-CategoryConfidenceWithChecksum {
     param (
         [string]$ResourceContent,
         [string]$ResourceTitle,
-        [hashtable]$Catalog,
         [string]$CacheFolder,
         [string]$ClassificationType = "classification",
         [int]$MinConfidence = 50,
-        [int]$MaxCategories = 5
+        [int]$MaxCategories = 5,
+        [switch]$batch
     )
 
     if (!(Test-Path $CacheFolder)) {
         New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
+    }
+
+    $catalog = @{}
+    switch ($ClassificationType) {
+        "categories" {
+            $catalog = Get-CatalogHashtable -Classification "categories"
+        }
+        "tags" {
+            $catalog = Get-CatalogHashtable -Classification "tags"
+        }
     }
 
     $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
-
-    $cachedData = @{}
-    if (Test-Path $cacheFile) {
-        try {
-            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
-        }
-        catch {
-            Write-Debug "Warning: Cache file corrupted. Resetting cache."
-            $cachedData = @{}
-        }
-    }
-
-    $categoryScores = @{}
-    $count = 0;
-    $total = $Catalog.Keys.Count
-    foreach ($category in $Catalog.Keys) {
-        Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
-        $count++
-        if ($cachedData.PSObject.Properties[$category]) {
-            $categoryScores[$category] = $cachedData.$category
-            continue
-        }
-        $prompt = @"
-You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. With that classification meaning "$($Catalog[$category])"
-
-Rules:
-1. **Only classify the content into this category if it is a clear, primary topic.**
-   - If the category is **only briefly mentioned**, **do not classify it**.
-   - If the content is **mostly about something else**, return `"confidence": 0`.
-2. **Confidence Levels:**
-   - **80-100:** The content is **primarily about this category**.
-   - **50-79:** The category is **a major but secondary theme**.
-   - **Below 50:** The category **is not relevant enough**.
-3. **Do not classify based on loose associations.** The category must be **central to the content.**
-
-return format should be valid json that looks like this:
-{
-  "category": "$category",
-  "confidence": 92,
-  "reasoning": "Content heavily discusses Scrum roles and events."
-}
-
-do not wrap the json in anything else, just return the json object.
-
-**Content Title:** "$ResourceTitle"  
-**Content:** "$ResourceContent"
-"@
-
-        $aiResponse = Get-OpenAIResponse -Prompt $prompt
-        $aiResponseJson = $aiResponse | ConvertFrom-Json
-
-        $aiConfidence = if ($aiResponseJson.PSObject.Properties["confidence"]) { $aiResponseJson.confidence } else { 0 }
-
-        $nonAiConfidence = 0
-        $categoryWords = $category -split '\s+'
-        $contentWords = ($ResourceTitle + " " + $ResourceContent) -split '\s+'
-        $escapedCategory = [Regex]::Escape($category)
-
-        if ($category -in $contentWords) {
-            $nonAiConfidence += 50
-        }
-        elseif ($contentWords | Where-Object { $_ -match $escapedCategory }) {
-            $nonAiConfidence += 30
-        }
-        else {
-            foreach ($word in $categoryWords) {
-                if ($contentWords -contains $word) {
-                    $nonAiConfidence += 10
-                }
-            }
-        }
-
-        $finalScore = [math]::Round(($aiConfidence * 0.7) + ($nonAiConfidence * 0.3))
-
-        $categoryScores[$category] = [PSCustomObject]@{
-            "category"          = $category
-            "ai_confidence"     = $aiConfidence
-            "non_ai_confidence" = $nonAiConfidence
-            "final_score"       = $finalScore
-            "reasoning"         = $aiResponseJson.reasoning
-            "level"             = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
-        }
-        if ($aiResponseJson.reasoning -ne $null) {
-            $cachedData | Add-Member -MemberType NoteProperty -Name $category -Value $categoryScores[$category] -Force
-        }
-        # Save cache after each API call
-        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-    }
-
-    Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
-
-    $finalSelection = $categoryScores.Values | Where-Object { $_.level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
-    return $finalSelection | ConvertTo-Json -Depth 1
-}
-
-function Get-BatchCategoryConfidenceWithChecksum {
-    param (
-        [string]$ResourceContent,
-        [string]$ResourceTitle,
-        [hashtable]$Catalog,
-        [string]$CacheFolder,
-        [string]$ClassificationType = "classification",
-        [int]$MinConfidence = 50,
-        [int]$MaxCategories = 5
-    )
-
-    if (!(Test-Path $CacheFolder)) {
-        New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
-    }
-
     $batchJsonlOutout = Join-Path $CacheFolder "data.index.$ClassificationType-output.jsonl"
     $batchJsonlInput = Join-Path $CacheFolder "data.index.$ClassificationType-input.jsonl"
     $batchFile = Join-Path $CacheFolder "data.index.$ClassificationType.batch"
-    $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
 
     # If the batch file exists, check the status
     if (Test-Path $batchFile) {
@@ -170,50 +66,17 @@ function Get-BatchCategoryConfidenceWithChecksum {
                     try {
                         if ($rawAiBatchResult.response.body.choices[0].message.content -match '(?s)```json\s*(.*?)\s*```') {
                             $jsonContent = $matches[1] # Extracted JSON content 
-                            $aiResponseJson = $jsonContent | ConvertFrom-Json
+                            $aiResponseJson = $jsonContent
                         }
                         else {
-                            $aiResponseJson = $rawAiBatchResult.response.body.choices[0].message.content | ConvertFrom-Json 
+                            $aiResponseJson = $rawAiBatchResult.response.body.choices[0].message.content 
                         }
                     }
                     catch {
                         Write-ErrorLog "Error parsing AI response for $CacheFolder. Skipping."
                         continue
                     }
-                   
-                    $category = $aiResponseJson.category
-                    $aiConfidence = if ($aiResponseJson.PSObject.Properties["confidence"]) { $aiResponseJson.confidence } else { 0 }
-
-                    # Non-AI Confidence Calculation
-                    $nonAiConfidence = 0
-                    $categoryWords = $category -split '\s+'
-                    $contentWords = ($ResourceTitle + " " + $ResourceContent) -split '\s+'
-                    $escapedCategory = [Regex]::Escape($category)
-
-                    if ($category -in $contentWords) {
-                        $nonAiConfidence += 50
-                    }
-                    elseif ($contentWords | Where-Object { $_ -match $escapedCategory }) {
-                        $nonAiConfidence += 30
-                    }
-                    else {
-                        foreach ($word in $categoryWords) {
-                            if ($contentWords -contains $word) {
-                                $nonAiConfidence += 10
-                            }
-                        }
-                    }
-
-                    $finalScore = [math]::Round(($aiConfidence * 0.7) + ($nonAiConfidence * 0.3))
-
-                    $categoryScores[$category] = [PSCustomObject]@{
-                        "category"          = $category
-                        "ai_confidence"     = $aiConfidence
-                        "non_ai_confidence" = $nonAiConfidence
-                        "final_score"       = $finalScore
-                        "reasoning"         = $aiResponseJson.reasoning
-                        "level"             = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
-                    }
+                    $categoryScores[$category] = Get-ConfidenceFromAIResponse -Category $category -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
                 }
 
                 # Save updated cache
@@ -225,7 +88,7 @@ function Get-BatchCategoryConfidenceWithChecksum {
                 Remove-Item $batchJsonlOutout -Force
             }
             "in_progress" {
-                Write-Warning "Batch still in progress. Please wait for completion."
+                Write-WarningLog "Batch still in progress. Please wait for completion."
                 return @()
             }
             "failed" {
@@ -235,45 +98,76 @@ function Get-BatchCategoryConfidenceWithChecksum {
                 return @()
             }
             default {
-                Write-WarningLog $batchStatus
+                Write-WarningLogLog $batchStatus
                 return @()
             }
         }
     }
 
-    # If cache exists, use it
+
+    $cachedData = @{}
     if (Test-Path $cacheFile) {
         try {
-            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -Depth 10 -ErrorAction Stop
-
-            $categoryScores = @{}
-            foreach ($category in $Catalog.Keys) {
-                if ($cachedData.PSObject.Properties[$category]) {
-                    $categoryScores[$category] = $cachedData.$category
+            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+            Write-DebugLog "Load Cache: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+            $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog.Keys }
+            if ( $keysToRemove.Count -gt 0) {
+                # If there are keys to remove, remove them and update the cache
+                Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
+                foreach ($key in $keysToRemove) {
+                    $cachedData.PSObject.Properties.Remove($key)
                 }
-            }        
-
-            $finalSelection = $categoryScores.Values | Where-Object { $_.level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
-            return $finalSelection | ConvertTo-Json -Depth 1
+                Write-DebugLog "     After: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+                $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+            }
         }
         catch {
-            Write-Debug "Warning: Cache file corrupted. Resetting cache."
-            Remove-Item $cacheFile -Force
+            Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
+            $cachedData = @{}
         }
     }
 
-    # If batch file does not exist, create a new batch
+    $categoryScores = @{}
+    $count = 0;
+    $total = $Catalog.Keys.Count
     $prompts = @()
-    $categoryMap = @{}
-
     foreach ($category in $Catalog.Keys) {
+        Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
+        $count++
+        if ($cachedData.PSObject.Properties[$category]) {            
+            $cachedCategory = $cachedData.$category
+            # If the cache is up to date, skip the API call
+            if (($cachedCategory.calculated_at) -and (([DateTimeOffset]$cachedCategory.calculated_at) -gt ([DateTimeOffset]$Catalog[$category].date))) {
+                # Recalculate final_score and level
+                $finalScore = [math]::Round(($cachedCategory.ai_confidence * 0.9) + ($cachedCategory.non_ai_confidence * 0.1))
+                $level = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
+            
+                if ($cachedCategory.final_score -ne $finalScore -or $cachedCategory.level -ne $level) {
+                    $cachedCategory.final_score = $finalScore
+                    $cachedCategory.level = $level
+                    $cachedCategory.calculated_at = (Get-Date).ToUniversalTime().ToString("s")
+                
+                    # Update cache
+                    $cachedData.$category = $cachedCategory
+                    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                    Write-DebugLog "Updated cache for $category"    
+                }
+            
+                $categoryScores[$category] = $cachedCategory
+                continue
+            }           
+        }
         $prompt = @"
-You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**.
+You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. 
+
+With that classification meaning:
+
+"$($Catalog[$category].Instructions)"
 
 Rules:
 1. **Only classify the content into this category if it is a clear, primary topic.**
    - If the category is **only briefly mentioned**, **do not classify it**.
-   - If the content is **mostly about something else**, return `"confidence": 0` .
+   - If the content is **mostly about something else**, return `"confidence": 0`.
 2. **Confidence Levels:**
    - **80-100:** The content is **primarily about this category**.
    - **50-79:** The category is **a major but secondary theme**.
@@ -283,7 +177,7 @@ Rules:
 return format should be valid json that looks like this:
 {
   "category": "$category",
-  "confidence": 92,
+  "confidence": 0,
   "reasoning": "Content heavily discusses Scrum roles and events."
 }
 
@@ -292,21 +186,101 @@ do not wrap the json in anything else, just return the json object.
 **Content Title:** "$ResourceTitle"  
 **Content:** "$ResourceContent"
 "@
-        $prompts += $prompt
-        $categoryMap[$prompts.Count - 1] = $category
+
+        if ($batch) {
+            $prompts += $prompt
+        }
+        else {
+            $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
+
+            $categoryScores[$category] = Get-ConfidenceFromAIResponse -Category $category -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
+
+            if ($categoryScores[$category].reasoning -ne $null) {
+                $cachedData | Add-Member -MemberType NoteProperty -Name $category -Value $categoryScores[$category] -Force
+            }
+            # Save cache after each API call
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        }
+       
     }
 
-    if ($prompts.Count -gt 0) {
-        # Submit batch and save batch ID
-        $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
-        $batchId | Set-Content -Path $batchFile -Force
-        Write-Warning "Batch submitted. Processing..."
-        else {
-            Write-Warning "Batch not submitted. Too many tokens in progress. try again later."
+    if ($batch) {
+        if ($prompts.Count -gt 0) {
+            # Submit batch and save batch ID
+            $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
+            if ($batchId) {
+                $batchId | Set-Content -Path $batchFile -Force
+                Write-WarningLog "Batch submitted. Processing..."
+            }
+            else {
+                Write-WarningLog "Batch not submitted. Too many tokens in progress. try again later."
+            }
+            return @()
         }
-        return @()
+    }
+    else {
+        Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
+
+        $finalSelection = $categoryScores.Values | Where-Object { $_.level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
+        return $finalSelection | ConvertTo-Json -Depth 1
     }
 }
+
+function Get-ConfidenceFromAIResponse {
+    param (
+        [string]$Category,
+        [string]$AIResponseJson,
+        [string]$ResourceTitle,
+        [string]$ResourceContent
+    )
+    try {
+        if ($AIResponseJson -match '(?s)```json\s*(.*?)\s*```') {
+            $AIResponseJson = $matches[1] # Extracted JSON content 
+        
+        }
+        $AIResponse = $AIResponseJson | ConvertFrom-Json -ErrorAction Stop
+    }
+    catch {
+        Write-ErrorLog "Error parsing AI response for $Category. Skipping. Error: $_"
+        Write-ErrorLog "AI Response Json: {AIResponseJson}" -PropertyValues $AIResponseJson
+        exit
+    }
+   
+    $aiConfidence = if ($AIResponse.PSObject.Properties["confidence"]) { $AIResponse.confidence } else { 0 }
+    
+    # Non-AI Confidence Calculation
+    $nonAiConfidence = 0
+    $categoryWords = $Category -split '\s+'
+    $contentWords = ($ResourceTitle + " " + $ResourceContent) -split '\s+'
+    $escapedCategory = [Regex]::Escape($Category)
+
+    if ($Category -in $contentWords) {
+        $nonAiConfidence += 50
+    }
+    elseif ($contentWords | Where-Object { $_ -match $escapedCategory }) {
+        $nonAiConfidence += 30
+    }
+    else {
+        foreach ($word in $categoryWords) {
+            if ($contentWords -contains $word) {
+                $nonAiConfidence += 10
+            }
+        }
+    }
+
+    $finalScore = [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
+
+    return [PSCustomObject]@{
+        "category"          = $Category
+        "calculated_at"     = (Get-Date).ToUniversalTime().ToString("s")
+        "ai_confidence"     = $aiConfidence
+        "non_ai_confidence" = $nonAiConfidence
+        "final_score"       = $finalScore
+        "reasoning"         = $AIResponse.reasoning
+        "level"             = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
+    }
+}
+
 
 function Remove-ClassificationsFromCache {
     param (
@@ -320,7 +294,7 @@ function Remove-ClassificationsFromCache {
 
     # Check if the cache file exists
     if (!(Test-Path $cacheFile)) {
-        Write-Warning "Cache file does not exist. No action needed."
+        Write-WarningLog "Cache file does not exist. No action needed."
         return
     }
 
@@ -329,7 +303,7 @@ function Remove-ClassificationsFromCache {
         $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
     }
     catch {
-        Write-Warning "Cache file is corrupted or unreadable. Unable to process."
+        Write-WarningLog "Cache file is corrupted or unreadable. Unable to process."
         return
     }
 
@@ -344,7 +318,7 @@ function Remove-ClassificationsFromCache {
             Write-Host "Removed classification '$classification' from cache."
         }
         else {
-            Write-Warning "Classification '$classification' not found in cache. Skipping."
+            Write-WarningLog "Classification '$classification' not found in cache. Skipping."
         }
     }
 
@@ -354,7 +328,7 @@ function Remove-ClassificationsFromCache {
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
-        Write-Warning "No classifications were removed. Cache remains unchanged."
+        Write-WarningLog "No classifications were removed. Cache remains unchanged."
     }
 }
 
@@ -370,7 +344,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
     # Check if the cache file exists
     if (!(Test-Path $cacheFile)) {
-        Write-Warning "Cache file does not exist. No action needed."
+        Write-WarningLog "Cache file does not exist. No action needed."
         return
     }
 
@@ -379,7 +353,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
         $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
     }
     catch {
-        Write-Warning "Cache file is corrupted or unreadable. Unable to process."
+        Write-WarningLog "Cache file is corrupted or unreadable. Unable to process."
         return
     }
 
@@ -397,7 +371,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
             } 
         }
         else {
-            Write-Warning "Classification '$classification' not found in cache. Skipping."
+            Write-WarningLog "Classification '$classification' not found in cache. Skipping."
         }
     }
 
@@ -407,6 +381,6 @@ function Remove-ClassificationsFromCacheThatLookBroken {
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
-        Write-Warning "No classifications were removed. Cache remains unchanged."
+        Write-WarningLog "No classifications were removed. Cache remains unchanged."
     }
 }

@@ -25,25 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Agile Tools
-- Team Collaboration
-- Continuous Improvement
-- Working Agreements
-- Agile Planning
-- Value Delivery
-- Customer Feedback Loops
-- Agile Values and Principles
-- Discovery and Learning
-- Agile Methodology
-- Team Motivation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Practical Techniques and Tooling
-- People and Process
+categories: []
 
 ---
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 

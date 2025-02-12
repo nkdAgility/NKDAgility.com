@@ -25,12 +25,8 @@ aliasesFor404:
 - /tfs-event-handler-in--net-3-5
 - /blog/tfs-event-handler-in--net-3-5
 - /resources/blog/tfs-event-handler-in-net-3-5
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

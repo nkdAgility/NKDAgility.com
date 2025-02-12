@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
-tags:
-- Entrepreneurship
-- Evidence Based Management
-- Value Prioritisation
-- Team Collaboration
-- Agile Product Discovery
-- Decision Theory
-- Customer Feedback Loops
-- Ability to Innovate
-- Agile Strategy
-- Continuous Improvement
-- Agile Leadership
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Metrics and Learning
-- Discovery and Learning
-- Organisational Agility
+categories: []
 
 ---
  The Entrepreneurial Stance: Key Considerations for Product Owners! Dive into the entrepreneurial mindset of product owners! Discover how to connect teams to value and make evidence-based decisions. 🎯📊

@@ -25,29 +25,21 @@ duration: 127
 isShort: false
 tags:
 - Engineering Excellence
-- Technical Leadership
+- Engineering Practices
+- Pragmatic Thinking
+- Software Development
 - Technical Debt
-- Continuous Improvement
-- Team Collaboration
-- Agile Strategy
-- Value Delivery
-- Customer Satisfaction
-- Agile Software Development
-- Systems Thinking
-- Organisational Agility
-- Agile Transformation
-- Lean Thinking
+- Technical Leadership
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
+- People and Process
 - Technical Excellence
 - Value Delivery
-- Organisational Agility
-- People and Process
-- Value Stream Management
 
 ---
  # Partnering for Engineering Excellence and Technical Leadership | Martin Hinshelwood  

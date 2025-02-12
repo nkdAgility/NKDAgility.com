@@ -26,8 +26,7 @@ aliasesFor404:
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags: []
-categories:
-- DevOps
+categories: []
 preview: image-15-5-4.png
 
 ---

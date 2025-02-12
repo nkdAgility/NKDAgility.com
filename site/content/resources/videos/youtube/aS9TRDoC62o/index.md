@@ -30,27 +30,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Agile Software Development
-- Continuous Delivery
+- Deployment Frequency
 - Engineering Excellence
-- Agile Planning
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Transformation
-- Value Delivery
-- Agile Values and Principles
-- Organisational Agility
-- Technical Excellence
-- Agile Methodology
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Strategy
+- Technical Leadership
+- Technical Mastery
+- Working Software
 resourceTypes:
 - video
 categories:
 - DevOps
-- Organisational Agility
-- Technical Excellence
 - Market Adaptability
-- Value Delivery
+- Product Delivery
 
 ---
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 

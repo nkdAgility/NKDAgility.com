@@ -25,11 +25,8 @@ aliasesFor404:
 - /one-team-project-to-rule-them-all
 - /blog/one-team-project-to-rule-them-all
 - /resources/blog/one-team-project
-tags:
-- Scaled Agile
-- Agile Planning Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

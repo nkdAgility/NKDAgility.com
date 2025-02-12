@@ -27,29 +27,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Agile Transformation
-- Change Management
-- Agile Values and Principles
-- Business Agility
-- Team Collaboration
+- Agile Leadership
+- Agile Philosophy
 - Agile Strategy
-- Agile Methodology
-- Agile Apocalypse
-- Self Organisation
+- Agile Transformation
+- Agile Values and Principles
+- BetaCodex
+- Change Management
+- Organisational Change
 - Organisational Culture
-- Decision Making
-- Systems Thinking
-- Evidence Based Management
+- Organisational Physics
+- Product Management
+- Scaling Agility
+- Software Development
+- Strategy
 resourceTypes:
 - video
 layout: video
 categories:
-- Organisational Agility
+- Business Agility
 - Enterprise Agility
 - People and Process
-- Resilience and Change
-- Systems Thinking
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

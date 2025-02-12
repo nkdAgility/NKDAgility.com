@@ -27,28 +27,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Management
-- Decision Theory
-- Data Driven Decisions
-- Team Collaboration
-- Strategic Goals
-- Continuous Improvement
-- Trend Analysis
-- Value Delivery
+- Ability to Innovate
 - Agile Strategy
-- Organisational Agility
-- Employee Engagement
-- Systems Thinking
-- Evidence Based Improvement
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Sensemaking
+- Software Development
+- Strategy
+- Trend Analysis
 resourceTypes:
 - video
 layout: video
 categories:
 - Metrics and Learning
-- Value Delivery
-- Organisational Agility
-- Decision Theory
 - People and Process
+- Value Delivery
 
 ---
 ## **What is Evidence-Based Management?**

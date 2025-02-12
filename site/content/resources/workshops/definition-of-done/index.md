@@ -2,7 +2,7 @@
 title: Definition of Done
 description: Explore the Definition of Done (DoD) in this 4-hour workshop, featuring engaging exercises and insights to enhance your team's understanding of project completion.
 ResourceId: IgRDk1wrh65
-ResourceImport: true
+ResourceImport: false
 ResourceType: workshops
 resourceTypes: workshop
 layout: workshop

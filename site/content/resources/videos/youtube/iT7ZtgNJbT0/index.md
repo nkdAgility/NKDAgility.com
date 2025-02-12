@@ -30,27 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
+- Agile Project Management
 - Agile Transformation
-- Team Collaboration
-- Team Motivation
-- Agile Product Management
-- Continuous Improvement
-- Agile Community
-- Agile Software Development
-- Customer Feedback Loops
-- Agile Leadership
-- Agile Values and Principles
-- Discovery and Learning
-- Employee Engagement
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
 - People and Process
-- Discovery and Learning
-- Organisational Agility
-- Value Delivery
+- Personal
 
 ---
 **What was your best day as an Agile consultant?**

@@ -1,42 +1,317 @@
 {
-  "DevOps": {
-    "category": "DevOps",
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T20:36:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses leadership roles and Scrum practices without a focus on decision-making processes or uncertainty.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-11T20:36:01",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses leadership roles within Scrum, which is a framework used in DevOps practices, but the primary focus is on leadership rather than DevOps itself.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses leadership roles and the transition from management to leadership within organisations, which aligns with fostering a culture of agility. However, it primarily focuses on individual leadership rather than broader organisational agility practices.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-11T20:36:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses leadership roles within Scrum and Agile methodologies, without a clear focus on Lean principles or practices.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-11T20:36:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses leadership and the transition from management to leadership roles, which relates to fostering a culture of adaptability and change within organisations. However, it primarily focuses on leadership styles and Scrum roles rather than organisational resilience or change management practices.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T20:36:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses leadership roles and principles in Agile, with no focus on installation or configuration of tools.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-11T20:36:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses leadership roles and management practices, with no focus on software code quality or complexity.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-11T20:36:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses leadership roles and Scrum Master responsibilities without a focus on flow efficiency or optimisation of work throughput.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T20:36:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses leadership roles within Scrum and Agile practices, without any mention of AI or automation.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T20:36:10",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the role of Scrum Masters and leadership in Agile environments, which are relevant to product delivery, but the primary focus is on leadership rather than the end-to-end process of delivering software products.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T20:36:11",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "Content discusses the role of the Scrum Master and leadership within Agile frameworks, but primarily focuses on leadership concepts rather than Agile product management practices.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T20:36:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses leadership in the context of Scrum and Agile methodologies, touching on the importance of leadership roles and the transition from management to leadership. However, the primary focus is on leadership qualities rather than explicit processes of discovery and learning.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T20:36:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses leadership roles and Scrum practices, with no clear focus on Systems Thinking principles or applications.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T20:36:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses leadership roles and management practices without a clear focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T20:36:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses leadership roles and the transition from management to leadership, without a clear focus on transparency or accountability.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T20:36:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the role of Scrum Masters and leadership within Agile frameworks, which aligns with practical techniques in Agile. However, it primarily focuses on leadership philosophy rather than specific tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T20:36:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses leadership in the context of Agile and Scrum, and mentions training events related to Professional Agile Leadership and Scrum Master certifications, making it a major but secondary theme.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T20:36:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses leadership roles and Scrum Master responsibilities without a clear focus on market adaptability strategies.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T20:36:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-11T20:36:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses leadership roles within Scrum and Agile methodologies, without a focus on DevOps principles or practices.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
+    "calculated_at": "2025-02-11T20:36:24",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses leadership and Scrum roles, with no clear focus on Azure DevOps or its related tools and practices.",
+    "reasoning": "Content heavily discusses leadership and Scrum roles, with no mention of Azure DevOps or its functionalities.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T20:36:25",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses leadership in the context of Agile methodologies and references several books related to leadership and Scrum, making it a major theme, though not the sole focus.",
+    "level": "Secondary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T20:36:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses leadership in the context of modern management practices and the role of Scrum Masters, which are relevant to fostering a culture of adaptability and innovation. However, the primary focus is on leadership rather than business agility itself.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
+    "calculated_at": "2025-02-11T20:36:28",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses leadership roles, particularly in the context of Scrum, without a clear focus on Kanban principles or practices.",
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T20:36:29",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses leadership roles within Scrum, particularly the Scrum Master as a leader, which relates to value delivery in Agile contexts. However, the primary focus is on leadership qualities and management transitions rather than specific value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T20:36:31",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the role of Scrum Masters and leadership in agile environments, which relates to agile practices, but the primary focus is on leadership rather than technical engineering practices.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses leadership roles and management practices rather than engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 85,
-    "non_ai_confidence": 50,
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T20:36:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses leadership roles and the transition from management to leadership, with a focus on the Scrum Master role, but does not address scaling Agile practices across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T20:36:34",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses leadership roles in the context of modern management practices and the Scrum Master as a leadership role, which aligns with themes of organisational agility, but it primarily focuses on leadership rather than agility as a central topic.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T20:36:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses personal leadership development and the role of Scrum Masters, but primarily focuses on management practices rather than personal experiences or reflections.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T20:36:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
     "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the role of the Scrum Master as a leader within the Scrum framework, discussing leadership principles in the context of Scrum practices.",
+    "reasoning": "Content primarily discusses leadership roles, the transition from management to leadership, and the importance of Scrum Masters as leaders, which aligns closely with team dynamics and collaboration in Agile environments.",
     "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T20:36:38",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses leadership roles within organisations, particularly in the context of Scrum, which touches on the interplay between social dynamics and organisational structures. However, it primarily focuses on leadership rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T20:36:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses leadership in the context of Agile practices, particularly focusing on the role of Scrum Masters, which is a significant theme. However, it primarily centres on personal development and leadership philosophy rather than specific news or reviews related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T20:36:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses leadership roles and management practices, with no focus on metrics, data, or learning methodologies.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T20:36:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses leadership roles and Scrum practices, with no clear focus on Application Lifecycle Management.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T20:36:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses leadership roles and Scrum practices, with no clear focus on Value Stream Management principles or techniques.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T20:36:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses leadership and its impact on team dynamics, which aligns with organisational psychology principles. However, it primarily focuses on Scrum roles and methodologies, making the psychological aspects a secondary theme.",
+    "level": "Ignored"
   }
 }

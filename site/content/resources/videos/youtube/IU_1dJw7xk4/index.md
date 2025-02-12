@@ -28,27 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban Theory
-- Change Management
-- Evidence Based Management
-- Systems Thinking
-- Continuous Improvement
-- Cycle Time
-- Value Stream Management
-- Agile Planning
-- Team Collaboration
+- Agile Frameworks
 - Agile Project Management
-- Lean Thinking
 - Agile Transformation
-- Predictability in Kanban
+- Cycle Time
+- Decision Making
+- Evidence Based Leadership
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
+- Throughput
 resourceTypes:
 - video
 categories:
 - Kanban
 - Metrics and Learning
 - People and Process
-- Value Stream Management
-- Organisational Agility
 
 ---
 ### Transitioning from Traditional Project Management to Kanban

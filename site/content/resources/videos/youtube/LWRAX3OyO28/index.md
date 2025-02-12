@@ -24,20 +24,32 @@ preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 332
 isShort: false
 tags:
-- Agile Product Management
-- Azure DevOps
+- Automated Testing
+- Continuous Delivery
+- Deployment Frequency
+- Deployment Strategies
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
+- Software Developers
+- Software Development
+- Technical Mastery
+- Test Automation
+- Throughput
+- Windows
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- Continuous Delivery
+- Azure DevOps
 - DevOps
 - Technical Excellence
-- Metrics and Learning
-- Value Delivery
-- AI and Automation in Agility
 
 ---
  The True Power of Continuous Delivery: Reducing Risk and Increasing Effectiveness | Martin Hinshelwood

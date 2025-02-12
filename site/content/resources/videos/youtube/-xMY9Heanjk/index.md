@@ -27,27 +27,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Strategic
-- People and Process
-- Agile Values and Principles
-- Lean Agile
-- Scrum Team
-- Empirical Process Control
-- Agile Mentoring
-- Agile Product Management
-- Agile Product Validation
-- Agile Apocalypse
-- Agile Methodology
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Continuous Learning
 - Customer Feedback Loops
-- Evidence Based Improvement
-- Agile Software Development
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Strategy
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
-- Lean
+- Agile Product Management
+- Metrics and Learning
 - People and Process
 
 ---

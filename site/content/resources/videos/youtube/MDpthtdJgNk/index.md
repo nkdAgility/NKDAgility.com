@@ -28,26 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Change Management
-- Team Collaboration
-- Working Agreements
-- Agile Planning
-- Systems Thinking
-- Value Stream Management
-- Continuous Improvement
-- Agile Product Management
-- Lean Thinking
-- Agile Transformation
-- Employee Engagement
-- Agile Values and Principles
+- Agile Frameworks
+- Operational Practices
+- Pragmatic Thinking
+- Strategy
 resourceTypes:
 - video
 categories:
 - Kanban
 - People and Process
-- Organisational Agility
-- Value Stream Management
-- Resilience and Change
+- Practical Techniques and Tooling
 
 ---
 ### Embracing Kanban: A Creative Approach to Workflow Optimization

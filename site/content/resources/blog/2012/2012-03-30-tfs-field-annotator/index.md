@@ -21,11 +21,8 @@ aliasesFor404:
 - /tfs-field-annotator
 - /blog/tfs-field-annotator
 - /resources/blog/tfs-field-annotator
-tags:
-- Agile Tools
-- Azure DevOps
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-cloud-azure-link-4-4.png
 
 ---

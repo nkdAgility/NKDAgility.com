@@ -22,12 +22,8 @@ aliasesFor404:
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
-tags:
-- Agile Problem Solving
-categories:
-- DevOps
-- Scrum
-- Technical Excellence
+tags: []
+categories: []
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

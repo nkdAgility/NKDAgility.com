@@ -21,12 +21,8 @@ aliasesFor404:
 - /mvvm-for-dummies
 - /blog/mvvm-for-dummies
 - /resources/blog/mvvm-for-dummies
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

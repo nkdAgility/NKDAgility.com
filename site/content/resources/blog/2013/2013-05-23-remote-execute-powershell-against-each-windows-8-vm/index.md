@@ -21,26 +21,8 @@ aliasesFor404:
 - /remote-execute-powershell-against-each-windows-8-vm
 - /blog/remote-execute-powershell-against-each-windows-8-vm
 - /resources/blog/remote-execute-powershell-against-each-windows-8-vm
-tags:
-- DevOps
-- Discovery and Learning
-- Engineering Practices
-- Experimentation
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Value Delivery
-- Windows
-- Working Software
-categories:
-- Code and Complexity
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: image11-1-1.png
 
 ---

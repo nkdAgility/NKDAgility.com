@@ -25,12 +25,9 @@ aliasesFor404:
 - /simpsonize-me-
 - /blog/simpsonize-me-
 - /resources/blog/simpsonize-me
-categories:
-- Discovery and Learning
+categories: []
 preview: nakedalm-logo-128-link-2-1.png
-tags:
-- Featured
-- Personal
+tags: []
 
 ---
 [Scott Miller](http://geekswithblogs.net/appsguild) alerted my to this with his [post](http://geekswithblogs.net/appsguild/archive/2007/07/18/114038.aspx "Simpsonize Me!") about 4 days ago, and I have finally got it working:

@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: false
-tags:
-- Leadership Training
-- Employee Engagement
-- Change Management
-- Business Agility
-- Continuous Learning
-- Agile Coaching
-- Value Delivery
-- Agile Product Management
-- Agile Certification
-- Organisational Change
-- Technical Mastery
-- Agile Strategy
-- Agile Transformation
-- Customer Feedback Loops
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Value Delivery
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Practical Techniques and Tooling
+categories: []
 
 ---
  #leadership is always about developing practices, skills, and systems that help you acquire competitive advantage, and #agileleadership even more so because we work in a complex environment.

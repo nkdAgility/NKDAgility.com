@@ -22,17 +22,8 @@ aliasesFor404:
 - /blog/time-that-task-vsts-check-in-policy
 - /resources/blog/time-that-task-vsts-check-in-policy
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Sociotechnical Systems
-- Practical Techniques and Tooling
-tags:
-- Software Development
-- Ability to Innovate
-- Application Lifecycle Management
-- Pragmatic Thinking
-- Software Developers
-- Troubleshooting
-- Modern Source Control
+categories: []
+tags: []
 
 ---
 I have found this interesting policy for TFS.

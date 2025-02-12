@@ -21,11 +21,8 @@ aliasesFor404:
 - /setting-up-sharepoint-for-the-enterprise
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /resources/blog/setting-up-sharepoint-for-the-enterprise
-tags:
-- Deployment Strategies
-- Site Reliability Engineering
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

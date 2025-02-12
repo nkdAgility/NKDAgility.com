@@ -29,27 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Discovery and Learning
-- Scaling Agility
-tags:
-- Agile Community
-- Agile Software Development
-- Agile Project Management
-- Agile Methodology
-- Agile Digital Tools
-- Agile Values and Principles
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Product Discovery
-- Agile Product Management
-- Agile Transformation
-- Lean Startup
-- Agile Estimation
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=J8J-5GycFsk)

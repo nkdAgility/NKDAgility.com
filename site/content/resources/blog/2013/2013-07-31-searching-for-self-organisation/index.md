@@ -21,26 +21,8 @@ aliasesFor404:
 - /searching-for-self-organisation
 - /blog/searching-for-self-organisation
 - /resources/blog/searching-for-self-organisation
-tags:
-- Accountability
-- Agile Problem Solving
-- Agile Values and Principles
-- Agility
-- Enterprise Agility
-- Organisational Agility
-- Organisational Culture
-- Organisational Physics
-- Organisational Transformational Mastery
-- People and Process
-- Pragmatic Thinking
-- Scaling Agility
-- Self Organisation
-- Systems Thinking
-- Team Collaboration
-categories:
-- Organisational Agility
-- People and Process
-- Systems Thinking
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

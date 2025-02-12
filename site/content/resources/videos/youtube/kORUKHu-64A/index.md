@@ -28,16 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Organisational Change
-- Business Agility
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
-- Value Delivery
-- Organisational Agility
-- Governance
 - People and Process
 
 ---

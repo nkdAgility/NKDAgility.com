@@ -21,11 +21,8 @@ aliasesFor404:
 - /even-scrum-should-have-detailed-task-descriptions
 - /blog/even-scrum-should-have-detailed-task-descriptions
 - /resources/blog/even-scrum-should-have-detailed-task-descriptions
-tags:
-- Definition of Done
-categories:
-- People and Process
-- Scrum
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

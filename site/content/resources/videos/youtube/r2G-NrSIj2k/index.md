@@ -23,10 +23,13 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Agile Project Management
+- Engineering Excellence
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
 - Software Development
-- Continuous Improvement
-- Evidence Based Management
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,10 +37,8 @@ resourceTypes:
 - video
 categories:
 - Code and Complexity
-- Technical Excellence
 - Practical Techniques and Tooling
-- DevOps
-- Value Delivery
+- Technical Excellence
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

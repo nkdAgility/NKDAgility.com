@@ -25,13 +25,9 @@ aliasesFor404:
 - /who-broke-the-build-
 - /blog/who-broke-the-build-
 - /resources/blog/who-broke-the-build
-tags:
-- Continuous Integration
-- Technical Excellence
+tags: []
 preview: metro-visual-studio-2010-128-link-10-10.png
-categories:
-- Code and Complexity
-- Technical Excellence
+categories: []
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

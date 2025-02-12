@@ -21,11 +21,8 @@ aliasesFor404:
 - /list-all-files-changed-under-an-iteration
 - /blog/list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
-tags:
-- System Configuration
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

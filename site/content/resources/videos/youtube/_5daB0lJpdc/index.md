@@ -27,29 +27,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Certification
-- Scrum Master
-- Scrum Team
-- Agile Coaching
-- Continuous Improvement
-- Agile Values and Principles
-- Team Collaboration
-- Employee Engagement
-- Agile Transformation
 - Pragmatic Thinking
-- Technical Excellence
-- Value Delivery
-- Organisational Change
-- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
 - People and Process
-- Value Delivery
-- Discovery and Learning
-- Organisational Psychology
 
 ---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration—dogma has no place here.

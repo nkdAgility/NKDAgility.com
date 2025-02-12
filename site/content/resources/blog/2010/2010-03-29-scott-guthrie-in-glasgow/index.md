@@ -21,12 +21,8 @@ aliasesFor404:
 - /scott-guthrie-in-glasgow
 - /blog/scott-guthrie-in-glasgow
 - /resources/blog/scott-guthrie-in-glasgow
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Events and Presentations
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

@@ -22,29 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
-tags:
-- Customer Satisfaction
-- Team Collaboration
-- Team Motivation
-- Agile Values and Principles
-- Psychological Safety
-- Employee Engagement
-- Continuous Improvement
-- Value Delivery
-- Agile Transformation
-- Organisational Culture
-- Agile Community
-- Change Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Psychology
-- Value Delivery
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Kindness #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #developer #productmanager #productmanagement 

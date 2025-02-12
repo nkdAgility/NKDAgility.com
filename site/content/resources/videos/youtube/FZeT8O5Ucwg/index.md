@@ -22,35 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false
-tags:
-- Agile Transformation
-- Organisational Change
-- Change Management
-- Agile Values and Principles
-- Lean Thinking
-- Continuous Improvement
-- Agile Coaching
-- Systems Thinking
-- Evidence Based Management
-- Agile Software Development
-- Agile Leadership
-- Customer Feedback Loops
-- Agile Methodology
-- Agile Apocalypse
-- Business Agility
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Systems Thinking
-- Organisational Agility
-- People and Process
-- Metrics and Learning
-- Lean
-- Events and Presentations
+categories: []
 
 ---
  Something very close to my heart is helping folks understand the origin of the practices that are commonly used in management today. I feel that only with an understanding of history can we figure out how to change the future. I often talk about this in my classes and help folks see why things are the way that they are in many organisations.

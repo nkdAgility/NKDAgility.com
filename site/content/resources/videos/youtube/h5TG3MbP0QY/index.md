@@ -29,27 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Accountability
-- Agile Values and Principles
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Product Management
-- Technical Excellence
-- Agile Methodology
-- Lean Principles
-- Evidence Based Management
-- Organisational Change
-- Agile Transformation
-- Psychological Safety
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Psychology
-- Value Delivery
-- Transparency and Accountability
+categories: []
 
 ---
 ## "But in the Real World..."

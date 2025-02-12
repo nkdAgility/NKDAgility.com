@@ -27,12 +27,8 @@ aliasesFor404:
 - /blog/southparkify---simpsonize---better-with-both-
 - /southparkify
 - /resources/blog/southparkify-simpsonize-better-with-both
-categories:
-- People and Process
-- Discovery and Learning
-tags:
-- Featured
-- Personal
+categories: []
+tags: []
 
 ---
 simpsonize---better-with-both-

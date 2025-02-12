@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Values and Principles
-- Lean Thinking
-- Value Prioritisation
-- Continuous Improvement
-- Agile Planning
-- Agile Product Discovery
-- Team Collaboration
-- Agile Strategy
-- Value Delivery
-- Lean Product Development
-- Agile Software Development
-- Kanban Theory
-- Agile Transformation
-- Evidence Based Improvement
+tags: []
 resourceTypes:
 - video
-categories:
-- Value Delivery
-- Lean
-- Kanban
-- Systems Thinking
-- Organisational Agility
+categories: []
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

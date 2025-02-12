@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/tfs-gotcha-(sp1)
 - /resources/blog/tfs-gotcha-sp1
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Install and Configuration
-- Azure DevOps
-tags:
-- Application Lifecycle Management
-- Technical Excellence
+categories: []
+tags: []
 
 ---
 If you are out there and you have installed SP1 for Team Foundation Server you probably went through as much pain as I did...

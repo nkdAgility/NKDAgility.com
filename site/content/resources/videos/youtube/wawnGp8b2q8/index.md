@@ -22,23 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: false
-tags:
-- Agile Mentoring
-- Organisational Culture
-- Change Management
-- Agile Values and Principles
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Metrics and Learning
-- People and Process
-- Resilience and Change
+categories: []
 
 ---
  The new #immersivelearning experience from Scrum.Org is perfectly suited to the Professional Agile Leadership Essentials course. It gives you heaps of time to digest the information, apply what you have learned, and take advantage of the blend of coaching and teaching that the course entails.

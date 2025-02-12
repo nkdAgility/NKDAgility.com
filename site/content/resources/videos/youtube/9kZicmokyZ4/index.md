@@ -27,25 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Evidence Based Management
-- Decision Theory
-- Change Management
-- Continuous Improvement
-- Value Delivery
-- Agile Strategy
-- Business Agility
-- Data Driven Decisions
-- Agile Planning
-- Systems Thinking
-- Evidence Based Improvement
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Value Delivery
-- Organisational Agility
+categories: []
 
 ---
 In today’s fast-paced, ever-evolving business world, it’s not enough to simply make changes and hope for the best. We need to understand the true impact of our actions—whether they’re improving or hindering our overall success. This is where evidence-based management comes into play. If you're working in an Agile environment, it’s essential to have the right tools in place to measure success and progress effectively.

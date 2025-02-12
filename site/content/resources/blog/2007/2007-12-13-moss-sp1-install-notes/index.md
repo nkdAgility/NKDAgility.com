@@ -21,12 +21,8 @@ aliasesFor404:
 - /moss-sp1-install-notes
 - /blog/moss-sp1-install-notes
 - /resources/blog/moss-sp1-install-notes
-tags:
-- Deployment Strategies
-- Continuous Delivery
-categories:
-- Install and Configuration
-- News and Reviews
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

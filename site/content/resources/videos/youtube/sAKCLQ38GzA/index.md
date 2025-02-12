@@ -28,16 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
-- Lean Thinking
+- Agile Philosophy
+- Agile Strategy
+- Employee Engagement
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Product Management
+- Product Strategy
+- Strategic Goals
+- Team Motivation
 resourceTypes:
 - video
 categories:
 - Organisational Psychology
 - People and Process
-- Agile Product Management
-- Value Delivery
-- Discovery and Learning
+- Sociotechnical Systems
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

@@ -27,13 +27,9 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview---architecture
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-architecture
-tags:
-- Technical Excellence
-- Agile Software Development
+tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories:
-- Application Lifecycle Management
-- Technical Excellence
+categories: []
 
 ---
 How Visual Studio helps teams explore, understand, maintain, and uphold their project's architecture. Introduction to some basic architecture & design concepts and common trouble spots for teams.

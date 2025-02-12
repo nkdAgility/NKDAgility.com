@@ -27,23 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Accountability
-- Agile Product Ownership
-- Scrum Team
-- Sprint Review
-- Customer Feedback Loops
-- Team Motivation
-- Psychological Safety
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Scrum
-- Transparency and Accountability
-- Organisational Psychology
+categories: []
 
 ---
 ## Product Owner's Misstep

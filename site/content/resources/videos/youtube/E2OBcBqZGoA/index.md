@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg
 duration: 46
 isShort: true
-tags:
-- Team Motivation
-- Business Agility
-- Organisational Agility
-- Agile Strategy
-- Team Collaboration
-- Self Organisation
-- Change Management
-- Employee Engagement
-- Agile Transformation
-- Leadership Training
-- Agile Values and Principles
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Events and Presentations
-- Market Adaptability
-- Resilience and Change
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo Join Martin Hinshelwood and Dr Joanna Plaskonka for an 18-minute presentation on #agileleadership and #agileentrepreneurship in the 21st Century. Stay for the 40 minute Q&A session afterward. Register on https://events.teams.microsoft.com/event/18ce0eb6-2b89-4e62-bab0-4c78a27ee18e@686c55d4-ab81-4a17-9eef-6472a5633fab 

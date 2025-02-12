@@ -25,18 +25,8 @@ aliasesFor404:
 - /reuse-your-msdn-benefits-with-your-org-id
 - /blog/reuse-your-msdn-benefits-with-your-org-id
 - /resources/blog/reuse-msdn-benefits-org-id
-tags:
-- Azure DevOps
-- Organisational Change
-- Software Development
-- System Configuration
-- Technical Mastery
-- Troubleshooting
-- Windows
-categories:
-- Install and Configuration
-- Miscellaneous
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

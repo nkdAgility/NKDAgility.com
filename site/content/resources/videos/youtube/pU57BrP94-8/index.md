@@ -28,28 +28,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Coaching
-- Team Collaboration
+- Coaching
 - Continuous Learning
-- Agile Mentoring Program
-- Agile Product Discovery
-- Agile Community
-- Scrum Team
-- Agile Product Management
-- Agile Software Development
-- Discovery and Learning
-- Employee Engagement
-- Agile Transformation
-- Value Delivery
-- Agile Values and Principles
+- Empirical Process Control
+- Mentoring
+- Pragmatic Thinking
+- Team Collaboration
 resourceTypes:
 - video
 categories:
-- People and Process
 - Discovery and Learning
-- Organisational Agility
 - Metrics and Learning
-- Scrum
+- People and Process
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

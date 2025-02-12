@@ -25,13 +25,9 @@ aliasesFor404:
 - /tfs-eventhandler--message-queuing
 - /blog/tfs-eventhandler--message-queuing
 - /resources/blog/tfs-eventhandler-message-queuing
-tags:
-- Agile Software Development
-- Technical Excellence
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Azure DevOps
-- Application Lifecycle Management
+categories: []
 
 ---
 As I mentioned in my previous post I am currently building an [EventHandler](http://blog.hinshelwood.com/archive/2007/04/27/Team-Server-Event-Handlers-made-easy.aspx) infrastructure for [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").

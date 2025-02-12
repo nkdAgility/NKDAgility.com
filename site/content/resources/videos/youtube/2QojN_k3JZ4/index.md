@@ -21,19 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true
-tags:
-- Definition of Done
-- Scrum Team
-- Agile Values and Principles
-- Team Collaboration
-- Technical Excellence
-- Continuous Improvement
-- Team Motivation
-- Agile Software Development
-- Accountability
-- Value Delivery
-- Employee Engagement
-- Organisational Culture
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -41,10 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Technical Excellence
-- Organisational Agility
-- People and Process
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo 7 virtues of #agile. Diligence. #agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #agilecoach #scrummaster #productowner #agileleader #developer 

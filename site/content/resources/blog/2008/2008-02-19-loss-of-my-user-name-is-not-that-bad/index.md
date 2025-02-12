@@ -25,12 +25,8 @@ aliasesFor404:
 - /loss-of-my-user-name-is-not-that-bad---
 - /blog/loss-of-my-user-name-is-not-that-bad---
 - /resources/blog/loss-of-my-user-name-is-not-that-bad
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

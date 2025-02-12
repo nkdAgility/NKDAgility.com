@@ -28,29 +28,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Motivation
-- Employee Engagement
-- Agile Mentoring Program
-- Leadership Training
-- Organisational Culture
-- Continuous Improvement
-- Agile Transformation
-- Agile Leadership
-- Psychological Safety
-- Team Collaboration
 - Change Management
-- Agile Product Management
-- Agile Community
-- Value Delivery
-- Agile Mentoring
+- Coaching
+- Continuous Learning
+- Employee Engagement
+- Mentoring
+- Organisational Change
+- Organisational Culture
+- Pragmatic Thinking
+- Product Management
+- Team Motivation
+- Team Performance
+- Technical Leadership
 resourceTypes:
 - video
 categories:
+- Discovery and Learning
 - Organisational Psychology
 - People and Process
-- Discovery and Learning
-- Agile Product Management
-- Resilience and Change
 
 ---
 In today's fast-paced work environment, it's crucial to recognize that a team's morale directly impacts their engagement and, consequently, the success of the organization. When people are unhappy or disengaged, their productivity and creativity suffer. But how do we ensure our teams are not just engaged but also motivated to deliver their best work? The answer lies in understanding the core drivers of human motivation and leveraging mentorship programs to elevate team performance.

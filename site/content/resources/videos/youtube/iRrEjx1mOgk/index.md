@@ -29,20 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-tags:
-- Featured
-- Agile Community
-- Agile Digital Tools
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Methodology
-- Agile Software Development
-- Agile Product Discovery
-- Agile Product Management
-- Agile Project Management
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=iRrEjx1mOgk)

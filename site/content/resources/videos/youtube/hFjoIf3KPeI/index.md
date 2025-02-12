@@ -30,25 +30,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Sprint Review
-- Sprint Planning Workshop
-- Continuous Improvement
-- Customer Feedback Loops
-- Definition of Done
-- Agile Values and Principles
+- Accountability
+- Agile Frameworks
+- Agile Leadership
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Coaching
 - Employee Engagement
-- Agile Software Development
-- Agile Product Discovery
-- Psychological Safety
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
-- Organisational Psychology
+- Agile Product Management
 - People and Process
 - Value Delivery
-- Agile Product Management
 
 ---
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 

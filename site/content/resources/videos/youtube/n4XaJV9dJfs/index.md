@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
-tags:
-- Complexity Thinking
-- Empirical Process Control
-- Definition of Done
-- Scrum Team
-- Transparency
-- Agile Planning
-- Agile Product Discovery
-- Continuous Improvement
-- Scrum Product Management
-- Evidence Based Management
-- Team Collaboration
-- Agile Software Development
-- Agile Values and Principles
-- Agile Methodology
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Complexity Thinking
-- Transparency and Accountability
-- People and Process
-- Value Delivery
+categories: []
 
 ---
  Mastering Scrum Complexity: Navigate the Agile Landscape

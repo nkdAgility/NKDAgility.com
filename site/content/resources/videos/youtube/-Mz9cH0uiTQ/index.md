@@ -21,22 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false
-tags:
-- Agility
-- People and Process
-- Agile Strategy
-- Agile Problem Solving
-- Value Delivery
-- Agile Mentoring
-- Agile Coaching
-- Value Prioritisation
-- Agile Software Development
-- Agile Leadership
-- Agile Community
-- Scrum
-- Agile Transformation
-- Coaching
-- Strategic
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -44,10 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- People and Process
-- Value Delivery
-- Scrum
+categories: []
 
 ---
  Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating. You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve.

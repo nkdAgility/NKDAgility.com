@@ -25,26 +25,8 @@ aliasesFor404:
 - /configuring-jenkins-to-talk-to-tfs-2013
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
-tags:
-- Agile Tools
-- Application Lifecycle Management
-- Change Management
-- CI/CD
-- Continuos Integration
-- Continuous Integration
-- DevOps
-- Engineering Excellence
-- Modern Source Control
-- Software Developers
-- Software Development
-- System Configuration
-- Test Strategy
-- Value Delivery
-- Working Software
-categories:
-- Code and Complexity
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

@@ -25,12 +25,8 @@ aliasesFor404:
 - /guidance--a-branching-strategy-for-scrum-teams
 - /blog/guidance--a-branching-strategy-for-scrum-teams
 - /resources/blog/guidance-a-branching-strategy-for-scrum-teams
-tags:
-- Definition of Done
-categories:
-- Scrum
-- Application Lifecycle Management
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

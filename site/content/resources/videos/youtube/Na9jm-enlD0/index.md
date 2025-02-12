@@ -30,28 +30,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Agile Product Ownership
+- Agile Leadership
+- Agile Project Management
 - Decision Making
 - Entrepreneurship
-- Agile Product Discovery
-- Agile Leadership
-- Scrum Product Management
-- Evidence Based Management
-- Continuous Improvement
-- Psychological Safety
-- Agile Values and Principles
-- Lean Startup
-- Systems Thinking
-- Value Delivery
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Scrum Product Development
+- Sensemaking
+- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Organisational Agility
 - Decision Theory
-- Agile Product Management
 - People and Process
-- Discovery and Learning
+- Products and Books
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

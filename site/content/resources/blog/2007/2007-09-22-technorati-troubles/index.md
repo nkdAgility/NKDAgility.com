@@ -21,12 +21,9 @@ aliasesFor404:
 - /technorati-troubles
 - /blog/technorati-troubles
 - /resources/blog/technorati-troubles
-categories:
-- News and Reviews
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Technical Debt
-- Customer Feedback Loops
+tags: []
 
 ---
 Recently I have been having real trouble with Technorati. I have been trying to mop up my loose blog claims and I have been having a problem. Technorati seems unable to get a lock on redirected URL's, I don't see why that would be an issue, but it is. In a effort to try to remedy this problem I have put all of my claim codes here:

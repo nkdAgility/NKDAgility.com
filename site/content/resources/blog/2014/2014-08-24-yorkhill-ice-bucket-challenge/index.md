@@ -21,13 +21,8 @@ aliasesFor404:
 - /yorkhill-ice-bucket-challenge
 - /blog/yorkhill-ice-bucket-challenge
 - /resources/blog/yorkhill-ice-bucket-challenge
-tags:
-- Miscellaneous
-- Personal
-categories:
-- Events and Presentations
-- Miscellaneous
-- Personal
+tags: []
+categories: []
 preview: yorkhill-ice-bucket-challange-5-5.png
 
 ---

@@ -21,12 +21,8 @@ aliasesFor404:
 - /integrate-sharepoint-2010-with-team-foundation-server-2010
 - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
 - /resources/blog/integrate-sharepoint-2010-with-team-foundation-server-2010
-tags:
-- Agile Tools
-- Azure DevOps
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-15-15.png
 
 ---

@@ -29,26 +29,8 @@ sitemap:
 layout: video
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- News and Reviews
-tags:
-- Featured
-- Agile Community
-- Agile Digital Tools
-- Agile Methodology
-- Agile Product Discovery
-- Agile Product Management
-- Agile Software Development
-- Agile Values and Principles
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Customer Feedback Loops
-- Experimentation
-- Lean Startup
-- Value Delivery
+categories: []
+tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=5myUBqzRiXk)

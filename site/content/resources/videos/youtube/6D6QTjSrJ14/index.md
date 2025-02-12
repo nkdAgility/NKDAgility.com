@@ -29,29 +29,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Customer Satisfaction
-- Agile Product Discovery
+- Coaching
 - Continuous Learning
-- Agile Coaching
-- Agile Product Management
-- Team Collaboration
-- Agile Evolution
-- Employee Engagement
-- Agile Software Development
-- Agile Community
-- Discovery and Learning
-- Value Delivery
-- Agile Transformation
-- Business Agility
+- Customer Feedback Loops
+- Customer Satisfaction
 resourceTypes:
 - video
 layout: video
 categories:
 - Discovery and Learning
-- Organisational Agility
 - People and Process
 - Value Delivery
-- Metrics and Learning
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

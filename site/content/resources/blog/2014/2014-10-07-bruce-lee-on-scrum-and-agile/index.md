@@ -21,26 +21,8 @@ aliasesFor404:
 - /bruce-lee-on-scrum-and-agile
 - /blog/bruce-lee-on-scrum-and-agile
 - /resources/blog/bruce-lee-on-scrum-and-agile
-tags:
-- Agile AI
-- Agile Apocalypse
-- Agile Community
-- Agile Digital Tools
-- Agile Evolution
-- Agile Frameworks
-- Agile Leader
-- Agile Methodology
-- Agile Problem Solving
-- Agile Software Engineering
-- Agile Tools
-- Agile Transformation
-- Agile Values and Principles
-- Lean Agile
-- Scrum
-categories:
-- Agile Product Management
-- People and Process
-- Scrum
+tags: []
+categories: []
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

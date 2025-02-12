@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
-tags:
-- Agile Apocalypse
-- Team Motivation
-- Change Management
-- Evidence Based Management
-- Continuous Improvement
-- Team Collaboration
-- Strategic Goals
-- Agile Values and Principles
-- Accountability
-- Psychological Safety
-- Systems Thinking
-- Employee Engagement
-- Agile Transformation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- People and Process
-- Organisational Agility
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo Sometimes, making mistakes isn't a bad thing because it is the path to continuous learning, improved decision-making, and ultimately, great judgement. At other times, it's simply a sign of poor judgement and decision-making, and if there is no commitment to learn and improve, poor judgement can be a sign of impending doom.

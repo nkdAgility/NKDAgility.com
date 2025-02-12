@@ -29,26 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Agile Product Management
-- Discovery and Learning
-- People and Process
-tags:
-- Agile Planning
-- Agile Product Discovery
-- Scrum Product Management
-- Product Backlog
-- Agile Community
-- Team Collaboration
-- Agile Software Development
-- Agile Values and Principles
-- Discovery and Learning
-- Customer Feedback Loops
-- Agile Project Management
-- Agile Methodology
-- Continuous Improvement
-- Team Motivation
+categories: []
+tags: []
 
 ---
  In this 90 minutes free Workshop, we will cover an  "Introduction to User Stories" with some interactive sessions around building good user stories and when to break them down.

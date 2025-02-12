@@ -21,11 +21,8 @@ aliasesFor404:
 - /free-online-training-from-microsoft
 - /blog/free-online-training-from-microsoft
 - /resources/blog/free-online-training-from-microsoft
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Discovery and Learning
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

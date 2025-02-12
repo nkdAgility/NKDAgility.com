@@ -25,22 +25,8 @@ aliasesFor404:
 - /installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
-tags:
-- Featured
-- MVP
-- Software Developers
-- Software Development
-- Software Increment
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Windows
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

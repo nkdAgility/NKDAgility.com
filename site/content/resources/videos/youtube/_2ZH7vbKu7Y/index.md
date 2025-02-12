@@ -30,25 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Motivation
-- Continuous Learning
-- Leadership Training
-- Agile Coaching
-- Employee Engagement
-- Organisational Culture
+- Ability to Innovate
+- Agile Leadership
+- Agile Philosophy
 - Change Management
-- Agile Transformation
+- Coaching
+- Continuous Learning
+- Employee Engagement
+- Mentoring
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
 - Psychological Safety
-- Agile Software Development
-- Agile Values and Principles
-- Systems Thinking
-- Technical Excellence
+- Team Collaboration
+- Team Motivation
+- Team Performance
+- Technical Leadership
 categories:
-- Discovery and Learning
-- Organisational Agility
 - People and Process
+- Personal
 - Resilience and Change
-- Technical Excellence
 
 ---
 In any organization, the skills and knowledge of a team can determine its success or failure. But what happens when a team is identified as deficient? How do you as a leader address the issue before resorting to drastic measures like firing? The answer lies in training and fostering a continuous learning environment.

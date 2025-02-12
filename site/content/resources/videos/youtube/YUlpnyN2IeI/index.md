@@ -30,27 +30,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Agility
 - Agile Frameworks
-- Scrum Master
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
 - Agile Values and Principles
-- Agile Community
-- Agile Software Development
-- Adaptive Strategy
-- Agile Coaching
-- Agile Evolution
+- Empirical Process Control
 - Pragmatic Thinking
-- Agile Methodology
-- Agile Problem Solving
-- Agile Software Engineering
-- Lean Agile
+- Scrum Master
+- Software Developers
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Enterprise Agility
+- Personal
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

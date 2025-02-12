@@ -28,28 +28,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
-- Flow Efficiency
-- Team Motivation
-- Agile Product Management
-- Continuous Improvement
-- Agile Software Development
-- Agile Values and Principles
-- Evidence Based Management
-- Lean Thinking
-- Agile Resource Management
-- Customer Satisfaction
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
 - Agile Transformation
-- Team Collaboration
-- Discovery and Learning
+- Agile Values and Principles
+- Continuous Learning
+- Lean Principles
+- Lean Product Development
+- Lean Thinking
+- Operational Practices
+- Organisational Culture
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Team Motivation
+- Team Performance
+- Throughput
 resourceTypes:
 - video
 categories:
+- Agile Product Management
+- Product Delivery
 - Value Delivery
-- Flow Efficiency
-- People and Process
-- Discovery and Learning
-- Organisational Agility
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

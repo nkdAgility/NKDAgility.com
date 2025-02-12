@@ -22,26 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 isShort: true
-tags:
-- Agile Values and Principles
-- Definition of Done
-- Continuous Improvement
-- Agile Transformation
-- Team Collaboration
-- Agile Methodology
-- Agile Coaching
-- Team Motivation
-- Business Agility
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Value Delivery
-- Technical Excellence
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 kinds of #agile bandits. This video features #specialsprints

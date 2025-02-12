@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Motivation
-- Scrum Values
-- Scrum Team
-- Agile Product Management
-- Continuous Improvement
-- Employee Engagement
-- Technical Excellence
-- Value Delivery
-- Working Software
-- Agile Methodology
-- Agile Product Discovery
-- Customer Feedback Loops
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Value Delivery
-- Technical Excellence
-- Discovery and Learning
+categories: []
 
 ---
 ## The Joy of Being a Scrum Developer

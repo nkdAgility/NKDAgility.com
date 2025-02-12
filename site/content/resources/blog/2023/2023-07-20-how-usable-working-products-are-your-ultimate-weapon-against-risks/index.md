@@ -23,10 +23,25 @@ aliasesFor404:
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
-- Agile Product Validation
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Customer Feedback Loops
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Increment
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Working Software
 categories:
-- DevOps
-- Technical Excellence
+- Agile Product Management
+- Market Adaptability
+- Value Delivery
 preview: image-1.jpg
 
 ---

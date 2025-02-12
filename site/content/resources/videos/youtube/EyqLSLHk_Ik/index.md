@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false
-tags:
-- Team Collaboration
-- Team Motivation
-- Agile Mentoring Program
-- Engineering Excellence
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Product Discovery
-- Continuous Improvement
-- Agile Software Development
-- Agile Leadership
-- Technical Excellence
-- Scrum Team
-- Agile Values and Principles
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Psychology
-- Technical Excellence
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
  How do you create a great product if you don't know what you can't possibly know? How do you navigate uncertainty and complexity when there is so much at stake? How do you move confidently ahead when there is a great deal of volatility and ambiguity in the markets you serve?

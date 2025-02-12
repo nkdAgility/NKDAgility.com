@@ -28,27 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Culture
-- Team Motivation
-- Employee Engagement
-- Leadership Training
+- Accountability
 - Agile Leadership
 - Change Management
+- Employee Engagement
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
 - Team Collaboration
-- Continuous Improvement
-- Psychological Safety
-- Agile Transformation
-- Agile Values and Principles
-- Systems Thinking
-- Decision Making
-- Agile Project Management
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
 categories:
 - Organisational Agility
-- People and Process
 - Organisational Psychology
-- Resilience and Change
+- People and Process
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

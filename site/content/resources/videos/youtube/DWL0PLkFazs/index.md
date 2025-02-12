@@ -22,27 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 isShort: false
-tags:
-- Leadership Training
-- Team Motivation
-- Organisational Culture
-- Employee Engagement
-- Agile Coaching
-- Customer Satisfaction
-- Agile Community
-- Change Management
-- Agile Transformation
-- Team Collaboration
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Organisational Psychology
+categories: []
 
 ---
  Its important to get the right fit for your organisation. Is your trainer right for you? Do they create the right level of infectious optimism? 

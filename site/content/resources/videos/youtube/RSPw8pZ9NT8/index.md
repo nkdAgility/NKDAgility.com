@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
-tags:
-- Kanban Theory
-- Value Stream Management
-- Flow Efficiency
-- Cycle Time
-- Lead Time
-- Agile Planning
-- Agile Forecasting
-- Continuous Improvement
-- Evidence Based Management
-- Systems Thinking
-- Agile Strategy
-- Business Agility
-- Agile Tools
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Kanban
-- Value Stream Management
-- Metrics and Learning
-- Value Delivery
-- Systems Thinking
+categories: []
 
 ---
  #scrum is a great solution for teams wanting to acquire an #agileframework to help navigate complexity in #productdevelopment. That said, some of the events and artefacts don't resonate with every team, and so #kanban has become an increasingly popular option for #productdevelopment teams that want to navigate complexity, grow agile capabilities, but don't want a #scrumframework in their environment.

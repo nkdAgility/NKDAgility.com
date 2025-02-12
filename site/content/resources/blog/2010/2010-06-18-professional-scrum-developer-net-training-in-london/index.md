@@ -25,12 +25,8 @@ aliasesFor404:
 - /professional-scrum-developer-(-net)-training-in-london
 - /blog/professional-scrum-developer-(-net)-training-in-london
 - /resources/blog/professional-scrum-developer-net-training-in-london
-tags:
-- Scrum Product Development
-- Definition of Done
-categories:
-- Events and Presentations
-- Scrum
+tags: []
+categories: []
 preview: metro-event-128-link-1-1.png
 
 ---

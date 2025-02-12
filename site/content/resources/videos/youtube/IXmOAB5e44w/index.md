@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false
-tags:
-- Customer Satisfaction
-- Team Collaboration
-- Team Motivation
-- Employee Engagement
-- Agile Community
-- Value Delivery
-- Customer Retention
-- Agile Product Management
-- Agile Project Management
-- Agile Methodology
-- Agile Digital Tools
-- Agile Estimation
-- Agile Transformation
-- Continuous Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Value Delivery
-- Organisational Agility
-- Discovery and Learning
+categories: []
 
 ---
  We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.

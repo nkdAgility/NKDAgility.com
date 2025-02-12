@@ -21,12 +21,9 @@ aliasesFor404:
 - /mozy-backup
 - /blog/mozy-backup
 - /resources/blog/mozy-backup
-categories:
-- News and Reviews
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
-tags:
-- Customer Satisfaction
-- Digital Transformation
+tags: []
 
 ---
 I was looking for an online backup solution and [Scott Hanselman](http://www.hanselman.com/blog/OnLosingDataAndAFamilyBackupStrategy.aspx) provided it for me: Thanks Scott and good luck with all the [new stuff](http://www.hanselman.com/blog/NewJobNewHouseNewBabyAndDesigningATotallyNewHomeOffice.aspx) :).

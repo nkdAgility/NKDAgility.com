@@ -27,27 +27,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Systems Thinking
-- Team Motivation
-- Employee Engagement
-- Value Delivery
-- Continuous Improvement
+- Lean Principles
+- Lean Product Development
 - Lean Thinking
-- Agile Planning
-- Agile Methodology
-- Organisational Agility
-- Technical Excellence
-- Agile Product Management
-- Value Stream Management
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
 categories:
 - Flow Efficiency
-- Systems Thinking
-- Value Stream Management
 - People and Process
-- Organisational Agility
+- Value Delivery
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

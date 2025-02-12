@@ -21,11 +21,8 @@ aliasesFor404:
 - /head-first-design-patterns
 - /blog/head-first-design-patterns
 - /resources/blog/head-first-design-patterns
-tags:
-- Agile Books
-- Technical Excellence
-categories:
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

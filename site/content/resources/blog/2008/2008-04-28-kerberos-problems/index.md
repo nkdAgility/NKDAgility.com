@@ -21,11 +21,8 @@ aliasesFor404:
 - /kerberos-problems
 - /blog/kerberos-problems
 - /resources/blog/kerberos-problems
-tags:
-- Technical Debt
-- Agile Problem Solving
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

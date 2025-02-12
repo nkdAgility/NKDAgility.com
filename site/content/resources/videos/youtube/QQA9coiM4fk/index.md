@@ -28,28 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps
-- Azure DevOps
-- Agile Tools
-- Change Management
-- Continuous Improvement
-- Technical Excellence
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Product Management
-- Evidence Based Management
-- Value Delivery
-- Agile Planning
-- Agile Software Development
-- Organisational Change
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:
-- DevOps
 - Azure DevOps
-- People and Process
+- DevOps
 - Practical Techniques and Tooling
-- Value Delivery
 
 ---
 ## Navigating the Complexities with Expert Guidance 

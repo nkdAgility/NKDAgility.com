@@ -21,13 +21,9 @@ aliasesFor404:
 - /office-2010-install
 - /blog/office-2010-install
 - /resources/blog/office-2010-install
-tags:
-- Windows
-- System Configuration
+tags: []
 preview: metro-office-128-link-7-1.png
-categories:
-- Install and Configuration
-- Value Delivery
+categories: []
 
 ---
 Now I have [uninstalled Office 2007 32bit](http://blog.hinshelwood.com/archive/2009/07/16/installing-office-2010-gotcha-1.aspx) I am ready to get this 2010 thing going…

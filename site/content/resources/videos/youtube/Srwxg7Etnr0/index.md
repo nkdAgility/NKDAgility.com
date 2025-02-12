@@ -28,28 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Scrum Product Management
-- Definition of Ready
-- Definition of Done
+- Agile Frameworks
 - Agile Planning
+- Agile Project Management
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
 - Team Collaboration
-- Agile Product Ownership
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Values and Principles
-- Agile Product Discovery
-- Team Motivation
-- Evidence Based Management
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Value Delivery
-- Discovery and Learning
-- Organisational Agility
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

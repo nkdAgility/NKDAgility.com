@@ -21,11 +21,8 @@ aliasesFor404:
 - /updating-the-command-line-parser
 - /blog/updating-the-command-line-parser
 - /resources/blog/updating-the-command-line-parser
-tags:
-- Technical Excellence
-- Agile Software Development
-categories:
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

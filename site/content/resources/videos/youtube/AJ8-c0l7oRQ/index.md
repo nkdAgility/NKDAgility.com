@@ -25,22 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Scrum Team
-- Agile Product Discovery
-- Complexity Thinking
-- Agile Values and Principles
-- Discovery and Learning
-- Continuous Improvement
-- Agile Transformation
-- Organisational Change
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Complexity Thinking
+categories: []
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 

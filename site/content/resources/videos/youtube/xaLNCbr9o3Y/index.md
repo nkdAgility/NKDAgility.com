@@ -29,10 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Kanban
-- Scrum
+categories: []
 
 ---
  Daniel Vacanti will be joining me for a Live chat about the upcoming Professional Scrum with Kanban running in Edinburgh on 18th May 2020. We will discuss how we plan to approach the class and will take questions from anyone interested in comming along. 

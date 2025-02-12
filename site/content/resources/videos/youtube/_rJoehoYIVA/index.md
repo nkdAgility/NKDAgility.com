@@ -27,28 +27,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Change Management
-- Technical Debt
-- Continuous Improvement
-- Agile Software Development
-- Deployment Strategies
-- Evidence Based Management
-- Business Agility
-- Agile Tools
-- Organisational Change
-- Value Delivery
-- Agile Product Management
-- Agile Project Management
-- Customer Feedback Loops
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 layout: video
 categories:
 - Azure DevOps
-- Application Lifecycle Management
+- DevOps
 - Practical Techniques and Tooling
-- Value Stream Management
-- Resilience and Change
 
 ---
 In the ever-evolving world of technology, companies often find themselves in need of migrating to more modern, efficient platforms. Azure DevOps is a popular choice for many, offering a robust suite of tools and services designed to streamline development processes. However, the path to a successful migration can be fraught with challenges and complexities. In this post, I'll share my experiences and insights into Azure DevOps migration, highlighting common scenarios, challenges, and best practices.

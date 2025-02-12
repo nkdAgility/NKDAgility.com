@@ -21,11 +21,8 @@ aliasesFor404:
 - /advanced-email-content
 - /blog/advanced-email-content
 - /resources/blog/advanced-email-content
-tags:
-- Agile Software Development
-- Team Collaboration
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

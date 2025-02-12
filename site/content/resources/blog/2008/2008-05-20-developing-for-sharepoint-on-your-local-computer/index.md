@@ -21,11 +21,8 @@ aliasesFor404:
 - /developing-for-sharepoint-on-your-local-computer
 - /blog/developing-for-sharepoint-on-your-local-computer
 - /resources/blog/developing-for-sharepoint-on-your-local-computer
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

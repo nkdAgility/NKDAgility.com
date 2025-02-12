@@ -21,13 +21,9 @@ aliasesFor404:
 - /recipe-for-team-server-in-a-small-business
 - /blog/recipe-for-team-server-in-a-small-business
 - /resources/blog/recipe-for-team-server-in-a-small-business
-tags:
-- Agile Tools
-- Team Collaboration
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- Application Lifecycle Management
-- Install and Configuration
+categories: []
 
 ---
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.

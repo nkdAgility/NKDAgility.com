@@ -28,28 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Discovery
-- Customer Satisfaction
-- Value Prioritisation
-- Agile Planning
-- Continuous Improvement
-- Experimentation
-- Agile Product Validation
-- Market Adaptability
-- Organisational Agility
-- Lean Thinking
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
-- Team Collaboration
-- Agile Software Development
+- Decision Making
+- Empirical Process Control
+- Pragmatic Thinking
+- Product Management
+- Software Development
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- Market Adaptability
-- Discovery and Learning
-- Value Delivery
-- Technical Excellence
+- Agile Product Management
+- Business Agility
+- People and Process
 
 ---
 In the world of Agile, there’s a common misconception that agility equals speed. However, this idea is as much of an oxymoron as the concept of an "agile project manager." The truth is, Agile isn’t about rushing through tasks or speeding up processes; it's about spending your time wisely on valuable endeavors. Let’s dive deeper into what agility truly means and why it’s not about doing things faster, but doing the right things.

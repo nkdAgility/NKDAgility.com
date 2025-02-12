@@ -28,28 +28,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
-- Empirical Process Control
-- Organisational Change
-- Continuous Improvement
-- Agile Product Discovery
-- Team Collaboration
-- Customer Satisfaction
+- Ability to Innovate
+- Agile Frameworks
 - Agile Leadership
-- Agile Product Management
-- Value Delivery
-- Change Management
-- Agile Evolution
-- Team Motivation
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
 - Agile Transformation
+- Agile Values and Principles
+- Change Management
+- Continuous Learning
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Hypothesis Driven Development
+- Organisational Change
+- Pragmatic Thinking
+- Software Development
+- Strategy
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- Value Delivery
-- Discovery and Learning
-- Resilience and Change
 - Agile Product Management
+- Organisational Agility
+- People and Process
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

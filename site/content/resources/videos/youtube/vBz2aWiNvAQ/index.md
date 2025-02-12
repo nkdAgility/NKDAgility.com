@@ -29,26 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scrum
-- Events and Presentations
-- Value Delivery
-tags:
-- Sprint Review
-- Scrum Team
-- Scrum Product Management
-- Agile Planning
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Product Discovery
-- Agile Product Ownership
-- Definition of Done
-- Agile Software Development
-- Agile Methodology
-- Agile Values and Principles
-- Team Collaboration
-- Evidence Based Improvement
-- Working Software
+categories: []
+tags: []
 
 ---
  This is a Free Live Virtual 90m "How to run a Sprint Review" from Martin Hinshelwood.

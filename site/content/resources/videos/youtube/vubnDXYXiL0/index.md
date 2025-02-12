@@ -28,16 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Management
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Large Scale Agility
+- Pragmatic Thinking
+- Professional Scrum
+- Scaled Agile
+- Scaling Agility
+- Scaling Scrum
+- Software Development
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Scaling Agility
-- Systems Thinking
 - People and Process
-- Value Delivery
-- Scrum
-- Enterprise Agility
+- Practical Techniques and Tooling
+- Scaling Agility
 
 ---
 # Tailoring Scrum to Scale: Building Your Own Framework for Success

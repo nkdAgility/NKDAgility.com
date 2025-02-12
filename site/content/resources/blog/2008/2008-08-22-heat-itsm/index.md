@@ -21,12 +21,8 @@ aliasesFor404:
 - /heat-itsm
 - /blog/heat-itsm
 - /resources/blog/heat-itsm
-tags:
-- Agile Tools
-- Application Lifecycle Management
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---

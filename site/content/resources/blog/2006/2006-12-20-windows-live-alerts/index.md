@@ -21,11 +21,8 @@ aliasesFor404:
 - /windows-live-alerts
 - /blog/windows-live-alerts
 - /resources/blog/windows-live-alerts
-tags:
-- Personal
-- Windows
-categories:
-- Personal
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

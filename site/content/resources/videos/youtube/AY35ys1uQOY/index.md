@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Scrum Product Management
-- Definition of Done
-- Team Motivation
-- Agile Planning
-- Continuous Improvement
-- Agile Values and Principles
-- Team Collaboration
-- Agile Product Management
-- Discovery and Learning
-- Customer Feedback Loops
-- Agile Product Discovery
-- Psychological Safety
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Value Delivery
+categories: []
 
 ---
 ## Is Your Sprint Goal Hitting the Mark?

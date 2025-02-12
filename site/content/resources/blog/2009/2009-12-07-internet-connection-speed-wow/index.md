@@ -29,11 +29,9 @@ aliasesFor404:
 - /internet-connection-speed--wow
 - /blog/internet-connection-speed--wow
 - /resources/blog/internet-connection-speed-wow
-categories:
-- Personal
+categories: []
 preview: nakedalm-logo-128-link-5-1.png
-tags:
-- Personal
+tags: []
 
 ---
 I have been a cable customer in the UK since day one when it was Cable & Wireless.

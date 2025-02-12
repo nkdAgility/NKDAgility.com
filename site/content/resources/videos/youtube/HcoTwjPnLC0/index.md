@@ -29,25 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Ownership
-- Value Prioritisation
-- Customer Satisfaction
-- Agile Values and Principles
-- Team Collaboration
-- Agile Software Development
-- Agile Frameworks
-- Continuous Improvement
-- Agile Product Discovery
-- Business Agility
-- Agile Strategy
-- Value Delivery
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- People and Process
+categories: []
 
 ---
 ## Defining Roles in Agile

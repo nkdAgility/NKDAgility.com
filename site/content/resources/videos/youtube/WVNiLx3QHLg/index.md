@@ -29,28 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Leadership Training
-- Decision Making
-- Systems Thinking
-- Organisational Agility
-- Team Collaboration
-- Employee Engagement
-- Change Management
-- Continuous Improvement
-- Agile Values and Principles
-- Technical Mastery
-- Agile Transformation
-- Evidence Based Leadership
-- Self Organisation
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Decision Theory
-- Organisational Psychology
-- Systems Thinking
+categories: []
 
 ---
 **Why I love heirarchies of competence**

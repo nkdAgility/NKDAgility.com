@@ -30,29 +30,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Team
-- Scrum Master
-- Agile Coaching
-- Agile Mentoring
-- Agile Product Management
-- Agile Problem Solving
-- Continuous Improvement
-- Technical Excellence
-- Agile Certification
-- Agile Values and Principles
-- Team Collaboration
-- Employee Engagement
-- Agile Software Development
-- Value Delivery
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Mentoring
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
-- Agile Product Management
+- Discovery and Learning
 - People and Process
-- Organisational Agility
-- Technical Excellence
 
 ---
 How does Naked Agility select associate Scrum Trainers?

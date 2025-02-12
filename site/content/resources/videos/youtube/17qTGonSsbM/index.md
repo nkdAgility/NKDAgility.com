@@ -27,28 +27,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Strategy
-- Agility
+- AI
 - Decision Making
-- Resilience and Change
-- Organisational Agility
-- Business Agility
-- Ability to Innovate
-- Organisational Change
-- Continuous Improvement
-- Strategic
-- Change Management
-- Adaptive Strategy
-- Product Discovery
-- Product Owner
-- Market Adaptability
+- Pragmatic Thinking
+- Product Strategy
+- Sensemaking
+- Strategy
 resourceTypes:
 - video
 layout: video
 categories:
 - Organisational Agility
 - Resilience and Change
-- Market Adaptability
 
 ---
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional Scrum trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️

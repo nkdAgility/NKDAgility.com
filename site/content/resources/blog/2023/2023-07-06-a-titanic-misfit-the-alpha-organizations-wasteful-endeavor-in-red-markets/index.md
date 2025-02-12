@@ -27,8 +27,14 @@ aliasesFor404:
 - /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 tags:
-- Ability to Innovate
-categories: []
+- BetaCodex
+- Lean Thinking
+- Organisational Change
+- Organisational Physics
+categories:
+- Complexity Thinking
+- Enterprise Agility
+- Lean
 preview: image-1.jpg
 
 ---

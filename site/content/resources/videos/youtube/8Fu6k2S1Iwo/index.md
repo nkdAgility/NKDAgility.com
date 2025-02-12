@@ -29,25 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Value Delivery
-- Practical Techniques and Tooling
-tags:
-- Continuous Delivery
-- Agile Tools
-- Scrum Values
-- Team Collaboration
-- Transparency
-- Agile Product Management
-- Evidence Based Management
-- Agile Software Development
-- Self Organisation
-- Agile Leadership
-- Technical Excellence
-- Continuous Improvement
-- Agile Product Discovery
-- Value Delivery
-- Organisational Agility
+categories: []
+tags: []
 
 ---
  Martin and Simon discuss the intricacies of Scrum and Continuous Delivery. They delve into practical scenarios, share insights, and provide actionable takeaways for teams looking to optimize their agile journey. 📘📈

@@ -29,11 +29,8 @@ aliasesFor404:
 - /100-000-visits
 - /blog/100-000-visits
 - /resources/blog/100000-visits
-tags:
-- Market Share
-- Featured
-categories:
-- Metrics and Learning
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

@@ -27,28 +27,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Definition of Done
-- Transparency
+- Agile Frameworks
 - Agile Planning
-- Organisational Change
+- Agile Project Management
+- Agile Transformation
+- Empirical Process Control
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Scrum Values
+- Software Developers
+- Software Development
 - Team Collaboration
-- Continuous Improvement
-- Agile Product Management
-- Agile Values and Principles
-- Accountability
-- Product Backlog
-- Change Management
-- Team Motivation
+- Team Performance
+- Transparency
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
-- Organisational Agility
-- Transparency and Accountability
+- Agile Product Management
 - People and Process
-- Discovery and Learning
+- Transparency and Accountability
 
 ---
 What would you advise a scrum team to do in their first 4 weeks?

@@ -21,12 +21,9 @@ aliasesFor404:
 - /interview-with-my-favourite-author
 - /blog/interview-with-my-favourite-author
 - /resources/blog/interview-with-my-favourite-author
-categories:
-- Products and Books
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Featured
-- Agile Books
+tags: []
 
 ---
 My favourite author, David Webber, has an interview on you tube.

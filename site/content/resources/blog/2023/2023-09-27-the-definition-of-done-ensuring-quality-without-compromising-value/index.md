@@ -27,11 +27,22 @@ aliasesFor404:
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
-- Value Delivery
+- Agile Project Management
+- Definition of Done
+- Empirical Process Control
+- Engineering Excellence
+- Increment
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Transparency
+- Working Software
 categories:
 - Product Delivery
-- Scrum
 - Transparency and Accountability
+- Value Delivery
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

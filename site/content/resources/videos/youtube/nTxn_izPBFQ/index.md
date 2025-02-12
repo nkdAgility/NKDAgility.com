@@ -30,27 +30,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Ownership
-- Leadership Training
-- Agile Product Discovery
-- Agile Strategy
-- Customer Feedback Loops
-- Continuous Improvement
-- Experimentation
-- Agile Values and Principles
-- Agile Transformation
-- Agile Digital Tools
-- Scrum Product Management
-- Agile Community
-- Agile Methodology
+- Agile Leadership
+- Agile Project Management
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Scrum Product Development
 resourceTypes:
 - video
 categories:
 - Agile Product Management
-- Organisational Agility
 - People and Process
-- Discovery and Learning
-- Scrum
+- Products and Books
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

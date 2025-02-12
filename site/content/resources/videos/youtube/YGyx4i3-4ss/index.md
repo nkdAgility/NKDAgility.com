@@ -22,24 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 isShort: true
-tags:
-- Evidence Based Improvement
-- Data Driven Decisions
-- People and Process
-- Sensemaking
-- Evidence Based Management
-- Decision Making
-- Pragmatic Thinking
-- Agile Problem Solving
-- Systemic Thinking
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
+categories: []
 
 ---
  Visit https://www.nkdagility.com to find out more about the PPDV course from Scrum.org #agile #scrum #productowner #productmanager #projectmanager #productdevelopment #projectmanagement 

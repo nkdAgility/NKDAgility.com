@@ -28,28 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
-- Scrum Product Management
-- Scrum Team
-- Backlog Refinement
-- Agile Product Ownership
-- Value Prioritisation
-- Transparency
-- Continuous Improvement
+- Agile Frameworks
 - Agile Planning
-- Agile Product Discovery
-- Customer Feedback Loops
-- Definition of Done
-- Agile Methodology
-- Technical Excellence
+- Agile Planning Tools
+- Agile Project Management
+- Backlog Refinement
+- Product Backlog
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Transparency
 resourceTypes:
 - video
 categories:
 - Agile Product Management
-- Scrum
+- Products and Books
 - Value Delivery
-- Transparency and Accountability
-- Practical Techniques and Tooling
 
 ---
 In today's fast-paced Agile environments, effective product backlog management is key to ensuring teams stay focused, aligned, and efficient. Scrum.org has recently launched a new **Product Backlog Management** course, and it’s shaping up to be an exciting addition to their offerings. Having worked with countless teams and seen firsthand how backlog mismanagement can derail progress, this course offers practical, actionable skills that every Scrum team can benefit from.

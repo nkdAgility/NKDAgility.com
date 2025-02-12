@@ -25,28 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Change Management
-- Scrum Master
-- Team Motivation
-- Organisational Change
-- Agile Transformation
-- Team Collaboration
-- Agile Values and Principles
-- Continuous Improvement
-- Psychological Safety
-- Employee Engagement
-- Systems Thinking
-- Agility
-- Agile Methodology
-- Agile Community
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Resilience and Change
+categories: []
 
 ---
 ## Debunking the "Magic" Myth

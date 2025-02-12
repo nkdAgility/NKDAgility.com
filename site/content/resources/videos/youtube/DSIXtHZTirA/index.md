@@ -23,30 +23,33 @@ preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
 tags:
+- Automated Testing
+- Continuous Delivery
+- Customer Feedback Loops
 - Customer Satisfaction
 - Deployment Frequency
-- Continuous Delivery
-- Technical Excellence
-- Agile Software Development
-- Evidence Based Management
-- Agile Tools
-- Azure DevOps
-- Team Collaboration
-- Agile Product Discovery
-- Agile Planning
-- Agile Leadership
+- Deployment Strategies
 - Engineering Excellence
+- Engineering Practices
+- Experimentation
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Product Validation
+- Release Management
+- Software Developers
+- Software Development
+- Technical Mastery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Performance Engineering
-- Technical Excellence
-- Value Delivery
 - Azure DevOps
-- Metrics and Learning
+- DevOps
+- Product Delivery
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

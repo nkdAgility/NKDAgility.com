@@ -22,20 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: true
-tags:
-- Kanban
-- Kanban training
-- Kanban coaching
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Kanban
-- Value Stream Management
-- Flow Efficiency
+categories: []
 
 ---
  Ready to supercharge your campaigns with Kanban? This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.

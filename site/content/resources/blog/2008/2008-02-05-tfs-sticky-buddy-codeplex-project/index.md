@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-sticky-buddy-codeplex-project
 - /blog/tfs-sticky-buddy-codeplex-project
 - /resources/blog/tfs-sticky-buddy-codeplex-project
-tags:
-- Agile Tools
-- Team Collaboration
-categories:
-- Azure DevOps
-- Code and Complexity
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

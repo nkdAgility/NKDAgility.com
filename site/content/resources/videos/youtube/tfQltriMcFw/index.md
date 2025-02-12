@@ -24,17 +24,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/tfQltriMcFw/maxresdefault.jpg
 duration: 31
 isShort: true
-tags:
-- Scrum
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scrum
-- Events and Presentations
-- Discovery and Learning
+categories: []
 
 ---
  A collection is videos of Scrum training in Action 

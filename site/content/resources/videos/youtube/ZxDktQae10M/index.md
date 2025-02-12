@@ -24,14 +24,6 @@ duration: 1977
 isShort: false
 tags:
 - System Configuration
-- Azure DevOps
-- Technical Mastery
-- Software Development
-- Technical Excellence
-- Working Software
-- DevOps
-- Operational Practices
-- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -41,7 +33,6 @@ resourceTypes:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 
 ---
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc

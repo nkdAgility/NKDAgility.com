@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 isShort: true
-tags:
-- Product Backlog
-- Scrum Product Management
-- Agile Product Ownership
-- Value Prioritisation
-- Backlog Refinement
-- Scrum Team
-- Definition of Done
-- Continuous Improvement
-- Agile Planning
-- Customer Feedback Loops
-- Agile Product Discovery
-- Agile Methodology
-- Team Collaboration
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Scrum
-- Value Delivery
-- People and Process
-- Lean
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo If you're interested in the new Professional Scrum Product Backlog Management course from @ScrumOrg you'll find this excerpt from Martin Hinshelwood talking about the new course valuable. To watch the full video, visit https://youtu.be/UOzrABhafx0 

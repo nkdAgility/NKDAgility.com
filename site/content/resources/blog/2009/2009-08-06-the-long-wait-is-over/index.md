@@ -21,11 +21,8 @@ aliasesFor404:
 - /the-long-wait-is-over
 - /blog/the-long-wait-is-over
 - /resources/blog/the-long-wait-is-over
-tags:
-- Windows
-- System Configuration
-categories:
-- '""'
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -28,26 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
-- Agile Product Ownership
+- Agile Philosophy
+- Product Management
 - Product Owner
-- Agile Product Discovery
-- Value Prioritisation
-- Agile Strategy
-- Customer Feedback Loops
-- Agile Leadership
-- Organisational Agility
-- Continuous Improvement
-- Agile Values and Principles
-- Lean Thinking
-- Evidence Based Management
-- Team Collaboration
+- Professional Scrum
 resourceTypes:
 - video
 categories:
-- Value Delivery
 - Agile Product Management
-- Organisational Agility
+- Value Delivery
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

@@ -32,27 +32,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Scrum Team
-- Scrum Values
-- Definition of Done
-- Software Increment
-- Continuous Improvement
-- Agile Transformation
-- Team Collaboration
-- Organisational Change
+- Agile Frameworks
 - Agile Planning
-- Evidence Based Improvement
-- Technical Excellence
-- Agile Software Development
+- Agile Project Management
+- Agile Transformation
+- Empirical Process Control
+- Increment
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Performance
+- Working Software
 resourceTypes:
 - video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Value Delivery
-- Organisational Agility
-- Technical Excellence
+- Product Delivery
 
 ---
 ## The APS Advantage: Exploring Professional Scrum Mastery

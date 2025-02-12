@@ -22,27 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
 isShort: false
-tags:
-- Agile Tools
-- Agile Software Development
-- Agile Project Management
-- Team Collaboration
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Product Management
-- Technical Debt
-- Agile Transformation
-- Evidence Based Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
+categories: []
 
 ---
  Have you ever seen the massage "Some of the features of Team Web Access are not available to you" when you access TFS 2013? Have you wondered how to get access to those features? Find out here.

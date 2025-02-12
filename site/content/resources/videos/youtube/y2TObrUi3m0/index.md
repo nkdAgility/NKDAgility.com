@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 isShort: false
-tags:
-- Agility
-- Agile Values and Principles
-- Coaching
-- Agile Community
-- Agile Pilot
-- Agile Transformation
-- Agile Methodology
-- Agile Coaching
-- Agile Evolution
-- Agile Project Management
-- Agile Strategy
-- Agile Software Engineering
-- Agile Software Development
-- Strategic
-- Discovery and Learning
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Organisational Agility
-- Agile Product Management
+categories: []
 
 ---
  *Unlocking Agile Success: Beyond Tools and Techniques*

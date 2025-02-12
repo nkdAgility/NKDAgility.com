@@ -29,27 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Scrum Values
-- Agile Project Management
-- Complexity Thinking
-- Continuous Improvement
-- Team Collaboration
-- Agile Product Discovery
-- Agile Software Development
-- Empirical Process Control
-- Agile Methodology
-- Agile Product Management
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Complexity Thinking
-- People and Process
-- Organisational Agility
-- Discovery and Learning
+categories: []
 
 ---
 **What is Scrum?**

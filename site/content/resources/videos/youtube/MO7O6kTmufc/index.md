@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
-tags:
-- Decision Theory
-- Data Driven Decisions
-- Continuous Improvement
-- Agile Planning
-- Strategic Goals
-- Value Delivery
-- Evidence Based Improvement
-- Agile Product Management
-- Team Collaboration
-- Agile Leadership
-- Systems Thinking
-- Agile Software Development
-- Customer Feedback Loops
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- Decision Theory
-- Value Delivery
+categories: []
 
 ---
  Introduction to Evidence-based Management Excerpt 2 #agile #evidencebasedleadership #evidencebasedmanagement #ebm #scrum #leadership #agileleadership 

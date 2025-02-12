@@ -21,11 +21,8 @@ aliasesFor404:
 - /vote-for-your-feature
 - /blog/vote-for-your-feature
 - /resources/blog/vote-for-your-feature
-tags:
-- Customer Feedback Loops
-- Agile Product Discovery
-categories:
-- Agile Product Management
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

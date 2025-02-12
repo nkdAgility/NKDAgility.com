@@ -2,7 +2,7 @@
 title: Nexus Guide
 description: Discover the Nexus framework for scaling Scrum, enabling multiple teams to collaborate effectively and deliver integrated products with enhanced value.
 ResourceId: iC8MlA3TE7S
-ResourceImport: true
+ResourceImport: false
 ResourceType: guides
 resourceTypes: guide
 layout: guide
@@ -36,15 +36,30 @@ card:
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
 categories:
-- Scaling Agility
-- Scrum
-- Value Delivery
-- Transparency and Accountability
-- Technical Excellence
+- People and Process
 - Product Delivery
+- Scaling Agility
 tags:
+- Accountability
+- Agile Frameworks
+- Agile Project Management
+- Definition of Done
+- Empirical Process Control
+- Increment
+- Large Scale Agility
+- Product Backlog
+- Product Owner
+- Professional Scrum
+- Scaled Agile
+- Scaling Agility
+- Scaling Scrum
 - Scrum Master
-- Agile Product Management
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Transparency
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

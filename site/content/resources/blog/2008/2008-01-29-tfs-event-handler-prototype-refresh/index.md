@@ -25,12 +25,8 @@ aliasesFor404:
 - /tfs-event-handler-(prototype)-refresh
 - /blog/tfs-event-handler-(prototype)-refresh
 - /resources/blog/tfs-event-handler-prototype-refresh
-tags:
-- Agile Software Development
-- Continuous Improvement
-categories:
-- Application Lifecycle Management
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

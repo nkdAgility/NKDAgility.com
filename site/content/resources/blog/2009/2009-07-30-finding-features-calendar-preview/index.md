@@ -25,10 +25,8 @@ aliasesFor404:
 - /finding-features--calendar-preview
 - /blog/finding-features--calendar-preview
 - /resources/blog/finding-features-calendar-preview
-tags:
-- '""'
-categories:
-- '""'
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

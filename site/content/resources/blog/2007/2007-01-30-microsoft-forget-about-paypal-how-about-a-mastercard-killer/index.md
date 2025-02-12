@@ -29,13 +29,9 @@ aliasesFor404:
 - /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
 - /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
 - /resources/blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
-tags:
-- Market Share
-- Entrepreneurship
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Market Adaptability
-- News and Reviews
+categories: []
 
 ---
 Ever since PayPal burst on to the scene, the Nostradamus types have been predicting one PayPal killer after another. First it was "e-gold," then Western Union, then C2IT (by Citibank), then Google.

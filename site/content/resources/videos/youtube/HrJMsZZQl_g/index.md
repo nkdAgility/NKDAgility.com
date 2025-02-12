@@ -30,26 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Continuous Improvement
-- Team Collaboration
-- Change Management
-- Agile Product Management
+- Agile Frameworks
 - Agile Planning
-- Agile Product Discovery
-- Evidence Based Improvement
-- Agile Values and Principles
-- Team Motivation
-- Discovery and Learning
+- Agile Project Management
+- Coaching
+- Continuous Learning
 - Customer Feedback Loops
+- Empirical Process Control
+- Experimentation
+- Operational Practices
+- Pragmatic Thinking
+- Scrum Master
+- Scrum Team
+- Software Development
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
-- People and Process
-- Metrics and Learning
 - Discovery and Learning
-- Organisational Agility
+- Metrics and Learning
+- People and Process
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

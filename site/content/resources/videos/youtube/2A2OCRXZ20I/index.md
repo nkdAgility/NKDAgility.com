@@ -29,25 +29,8 @@ sitemap:
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
-- Events and Presentations
-- People and Process
-tags:
-- Scrum Master
-- Scrum Team
-- Definition of Done
-- Daily Scrum
-- Agile Values and Principles
-- Team Collaboration
-- Continuous Improvement
-- Agile Project Management
-- Working Software
-- Agile Methodology
-- Agile Coaching
-- Agile Software Development
-- Agile Product Management
-- Team Motivation
+categories: []
+tags: []
 
 ---
  This is a live interactive workshop where we will dive into the Daily Scrum, why it's there, and how to run one.

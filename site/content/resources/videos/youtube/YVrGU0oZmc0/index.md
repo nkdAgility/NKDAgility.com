@@ -24,27 +24,32 @@ preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=A
 duration: 557
 isShort: false
 tags:
-- DevOps
 - Continuous Delivery
-- Working Software
-- Software Developers
-- Continuos Delivery
-- Value Delivery
-- Software Development
-- Engineering Practices
-- Azure DevOps
-- Operational Practices
-- Continuous Improvement
-- Frequent Releases
-- Product Strategy
+- Customer Feedback Loops
+- Deployment Frequency
+- Deployment Strategies
 - Engineering Excellence
-- Ability to Innovate
+- Engineering Practices
+- Experimentation
+- Frequent Releases
+- Hypothesis Driven Development
+- Operational Practices
+- Pragmatic Thinking
+- Product Validation
+- Release Management
+- Software Developers
+- Software Development
+- Technical Mastery
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories: []
+categories:
+- DevOps
+- Product Delivery
+- Value Delivery
 
 ---
  Unlocking Continuous Delivery with Feature Flags: The Key to Faster, Safer Deployments

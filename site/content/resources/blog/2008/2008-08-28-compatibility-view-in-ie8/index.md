@@ -21,13 +21,9 @@ aliasesFor404:
 - /compatibility-view-in-ie8
 - /blog/compatibility-view-in-ie8
 - /resources/blog/compatibility-view-in-ie8
-tags:
-- Technical Debt
-- Agile Software Development
+tags: []
 preview: nakedalm-logo-128-link-2-2.png
-categories:
-- Install and Configuration
-- Application Lifecycle Management
+categories: []
 
 ---
 If you were worried about your pages viewing correctly in IE8 Beta 1 you had to restart your browser to enable "IE7 Compatibility mode". Now it is easy:

@@ -25,11 +25,8 @@ aliasesFor404:
 - /guidance--how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
-tags:
-- Modern Source Control
-- Agile Software Development
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

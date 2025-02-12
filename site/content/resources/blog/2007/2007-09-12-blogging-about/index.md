@@ -25,11 +25,8 @@ aliasesFor404:
 - /blogging-about---
 - /blog/blogging-about---
 - /resources/blog/blogging-about
-tags:
-- Personal
-- Agile Software Development
-categories:
-- Discovery and Learning
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

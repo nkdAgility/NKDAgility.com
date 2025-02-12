@@ -28,28 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Master
-- Scrum Team
-- Scrum Values
-- Agile Certification
-- Continuous Improvement
-- Professional Scrum
-- Agile Community
-- Value Delivery
-- Customer Feedback Loops
-- Technical Excellence
-- Agile Product Management
+- Agile Frameworks
 - Agile Project Management
-- Evidence Based Leadership
+- Agile Values and Principles
+- Continuous Learning
 resourceTypes:
 - video
 categories:
-- Scrum
-- Organisational Agility
 - People and Process
-- Value Delivery
-- Transparency and Accountability
+- Personal
 
 ---
 Why did you choose the Scrum.Org track rather than the Scrum Alliance track?

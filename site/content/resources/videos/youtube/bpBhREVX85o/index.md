@@ -28,26 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Scrum Product Management
-- Agile Product Discovery
-- Value Prioritisation
+- Agile Frameworks
+- Agile Project Management
 - Agile Strategy
 - Decision Making
-- Evidence Based Management
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Product Validation
-- Team Collaboration
-- Strategic Goals
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
-- Organisational Agility
-- Value Delivery
-- Decision Theory
 - People and Process
+- Value Delivery
 
 ---
 How does scrum help leadership teams pick the most valuable work to focus on?

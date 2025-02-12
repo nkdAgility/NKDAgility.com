@@ -28,28 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Coaching
-- Leadership Training
+- Agile Frameworks
+- Agile Leadership
+- Agile Project Management
 - Agile Strategy
-- Change Management
-- Business Agility
 - Agile Transformation
-- Team Collaboration
-- Continuous Improvement
-- Agile Product Management
-- Agile Problem Solving
-- Systems Thinking
-- Employee Engagement
-- Agile Digital Tools
-- Agile Values and Principles
+- Coaching
+- Decision Making
+- Mentoring
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Software Development
+- Technical Leadership
 resourceTypes:
 - video
 categories:
+- Business Agility
 - Organisational Agility
 - People and Process
-- Value Delivery
-- Discovery and Learning
-- Agile Product Management
 
 ---
 In what circumstances is agile consulting appropriate?

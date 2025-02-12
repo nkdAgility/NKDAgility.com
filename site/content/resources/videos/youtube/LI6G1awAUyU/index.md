@@ -22,22 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false
-tags:
-- DevOps
-- Agile Coaching
-- Scrum Team
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- DevOps
-- Organisational Agility
-- People and Process
-- Agile Product Management
-- Events and Presentations
+categories: []
 
 ---
  #devops is that mysterious partner to #agile in many environments. It's something that has stumped many an #agilecoach or #agileconsultant, because it requires knowledge and practise in the environment to thrive.

@@ -28,28 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Management
-- Agile Mentoring Program
-- Team Collaboration
-- Value Stream Management
-- Continuous Learning
-- Agile Product Discovery
+- Ability to Innovate
 - Change Management
-- Organisational Agility
-- Agile Leadership
-- Customer Feedback Loops
-- Value Delivery
-- Agile Strategy
-- Agile Transformation
-- Evidence Based Improvement
+- Coaching
+- Continuous Learning
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Forecasting
+- Mentoring
+- Operational Practices
+- Organisational Change
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Sensemaking
 resourceTypes:
 - video
 categories:
 - Discovery and Learning
 - Metrics and Learning
-- Agile Product Management
-- Value Delivery
-- Organisational Agility
+- People and Process
 
 ---
 In today's fast-paced business environment, continuous learning is not just a luxury—it's a necessity. But how do we move beyond traditional learning methods to something that truly makes an impact? Enter **immersive learning**, a game-changing approach designed to not only impart knowledge but also drive real-world application and transformation within organizations.

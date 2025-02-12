@@ -28,25 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Business Agility
-- Continuous Improvement
-- Market Adaptability
-- Organisational Agility
-- Change Management
+- Agile Philosophy
 - Agile Strategy
-- Adaptive Leadership
+- BetaCodex
+- Change Management
 - Organisational Change
-- Agile Transformation
-- Customer Feedback Loops
-- Evidence Based Management
-- Systems Thinking
-- Agile Values and Principles
-- Resilience and Change
+- Organisational Physics
+- Pragmatic Thinking
+- Sensemaking
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- Market Adaptability
+- Business Agility
+- People and Process
 - Resilience and Change
 
 ---

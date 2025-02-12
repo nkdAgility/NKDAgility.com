@@ -24,19 +24,11 @@ preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 201
 isShort: false
 tags:
-- Agile Estimation
-- Agile Forecasting
-- Agile Planning
-- Agile Software Development
-- Agile Values and Principles
-- Evidence Based Management
-- Team Collaboration
-- Continuous Improvement
-- Decision Theory
-- Agile Predictability
-- Lean Thinking
-- Systems Thinking
-- Value Delivery
+- Decision Making
+- Estimation
+- Forecasting
+- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -44,10 +36,7 @@ resourceTypes:
 - video
 categories:
 - Decision Theory
-- Metrics and Learning
-- Value Delivery
-- People and Process
-- Discovery and Learning
+- Product Delivery
 
 ---
  Estimation in Software Projects: Why Probabilistic Forecasting is Better | Martin Hinshelwood

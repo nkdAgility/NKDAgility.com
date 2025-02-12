@@ -25,13 +25,9 @@ aliasesFor404:
 - /register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /blog/register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /resources/blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-tags:
-- Agile Certification
-- Agile Tools
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+categories: []
 
 ---
 Exam 70-510: TS: Visual Studio 2005 Team Foundation Server counts as credit towards the following certification.

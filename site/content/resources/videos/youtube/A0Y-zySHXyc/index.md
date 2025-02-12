@@ -29,27 +29,25 @@ sitemap:
   priority: 0.6
 tags:
 - Accountability
-- Team Collaboration
-- Scrum Team
-- Agile Product Ownership
+- Agile Leadership
+- Agile Project Management
 - Decision Making
 - Organisational Culture
-- Employee Engagement
-- Agile Transformation
-- Continuous Improvement
-- Agile Methodology
-- Agile Values and Principles
-- Scrum Values
-- Psychological Safety
-- Evidence Based Leadership
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Transparency and Accountability
-- Scrum
-- Organisational Psychology
+- Agile Product Management
 - People and Process
-- Value Delivery
+- Transparency and Accountability
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

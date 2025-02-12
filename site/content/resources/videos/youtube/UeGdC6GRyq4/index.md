@@ -29,30 +29,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Certification
-- Employee Engagement
-- Agile Mentoring Program
-- Agile Leadership
-- Continuous Learning
-- Value Delivery
-- Agile Product Management
-- Organisational Change
-- Agile Community
-- Entrepreneurship
-- Change Management
-- Market Adaptability
-- Technical Mastery
-- Agile Transformation
-- Customer Feedback Loops
+tags: []
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Value Delivery
-- Resilience and Change
+- Miscellaneous
+- Personal
 
 ---
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 

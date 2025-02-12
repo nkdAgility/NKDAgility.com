@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
-tags:
-- Scrum Team
-- Scrum Master
-- Continuous Improvement
-- Agile Values and Principles
-- Team Collaboration
-- Team Motivation
-- Agile Coaching
-- Agile Product Management
-- Value Delivery
-- Customer Feedback Loops
-- Agile Transformation
-- Evidence Based Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Value Delivery
-- Organisational Agility
-- People and Process
-- Metrics and Learning
+categories: []
 
 ---
  Jeff Sutherland, the co-creator of #scrum, titled his book 'How to do twice the work in half the time' and it's been a value proposition for the #scrumframework ever since.

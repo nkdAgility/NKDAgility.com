@@ -23,8 +23,17 @@ preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Agile Product Validation
-- Agile Software Development
+- Engineering Excellence
+- Engineering Practices
+- Experimentation
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Mastery
+- Test Driven Development
+- Test First Development
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,10 +41,8 @@ resourceTypes:
 - video
 categories:
 - Code and Complexity
+- DevOps
 - Technical Excellence
-- Value Delivery
-- Practical Techniques and Tooling
-- Discovery and Learning
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

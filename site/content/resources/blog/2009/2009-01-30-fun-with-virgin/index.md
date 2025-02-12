@@ -13,24 +13,23 @@ layout: blog
 resourceTypes: blog
 slug: fun-with-virgin
 aliases:
-  - /blog/fun-with-virgin
-  - /fun-with-virgin
-  - /fun-with-virgin+
-  - /blog/fun-with-virgin+
-  - /resources/PHUHjUVq45E
-  - /resources/blog/fun-with-virgin
+- /blog/fun-with-virgin
+- /fun-with-virgin
+- /fun-with-virgin+
+- /blog/fun-with-virgin+
+- /resources/PHUHjUVq45E
+- /resources/blog/fun-with-virgin
 aliasesFor404:
-  - /fun-with-virgin
-  - /blog/fun-with-virgin
-  - /fun-with-virgin+
-  - /blog/fun-with-virgin+
-  - /resources/blog/fun-with-virgin
-categories:
-  - Personal
+- /fun-with-virgin
+- /blog/fun-with-virgin
+- /fun-with-virgin+
+- /blog/fun-with-virgin+
+- /resources/blog/fun-with-virgin
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
-tags:
----
+tags: []
 
+---
 We are getting a new carpet tomorrow… my wife is 8 and a half months pregnant and she’s nesting…
 
 [![iStock_000002524909XnestSmall](images/FunwithVirgin_13775-iStock_000002524909XnestSmall_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-FunwithVirgin_13775-iStock_000002524909XnestSmall_2.jpg)

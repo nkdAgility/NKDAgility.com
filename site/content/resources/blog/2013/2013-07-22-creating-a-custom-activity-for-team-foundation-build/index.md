@@ -21,26 +21,8 @@ aliasesFor404:
 - /creating-a-custom-activity-for-team-foundation-build
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
-tags:
-- Agile Tools
-- Application Lifecycle Management
-- Azure DevOps
-- CI/CD
-- Continuos Integration
-- DevOps
-- Engineering Practices
-- Software Developers
-- Software Development
-- Software Increment
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Test Automation
-- Working Software
-categories:
-- Code and Complexity
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

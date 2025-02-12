@@ -27,26 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Team Collaboration
-- Leadership Training
-- Technical Mastery
-- Agile Values and Principles
-- Employee Engagement
-- Change Management
-- Agile Community
-- Organisational Culture
-- Agile Transformation
-- Continuous Improvement
-- Agile Mentoring
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Technical Excellence
-- Organisational Psychology
+categories: []
 
 ---
 Hiring an Agile coach can be a game changer for organizations striving to embrace agility. However, finding the right fit for your organization isn't just about credentials and buzzwords. One of the most critical factors when selecting an Agile coach is their ability to **engage and gain credibility with teams and leadership**. Let's dive into why this is so essential and how you can make the best hiring decision.

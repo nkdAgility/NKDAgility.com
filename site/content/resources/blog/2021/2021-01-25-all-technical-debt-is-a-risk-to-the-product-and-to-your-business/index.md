@@ -26,11 +26,20 @@ aliasesFor404:
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-tags: []
+tags:
+- Engineering Excellence
+- Pragmatic Thinking
+- Product Management
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Technical Debt
+- Technical Mastery
+- Transparency
 categories:
-- Azure DevOps
-- DevOps
-- Scrum
+- People and Process
+- Product Delivery
+- Transparency and Accountability
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

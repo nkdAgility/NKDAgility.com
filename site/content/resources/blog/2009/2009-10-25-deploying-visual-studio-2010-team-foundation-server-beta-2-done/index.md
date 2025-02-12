@@ -25,13 +25,9 @@ aliasesFor404:
 - /deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
-tags:
-- Continuous Delivery
-- Azure DevOps
+tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories:
-- Install and Configuration
-- Azure DevOps
+categories: []
 
 ---
 Well, nothing like hitting the ground running, my first job at SSW was to join the TFS Migration Team, it was a fun experience, let me tell you how it went.

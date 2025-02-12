@@ -25,11 +25,8 @@ aliasesFor404:
 - /tfs-event-handler--coverage-&-comments
 - /blog/tfs-event-handler--coverage-&-comments
 - /resources/blog/tfs-event-handler-coverage-comments
-tags:
-- Security issues on uploaded assemblies
-- Referenced assemblies issues
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

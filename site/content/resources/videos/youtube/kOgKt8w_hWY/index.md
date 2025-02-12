@@ -29,11 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Organisational Agility
-- Enterprise Agility
+categories: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=kOgKt8w_hWY)

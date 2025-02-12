@@ -24,30 +24,17 @@ preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 172
 isShort: false
 tags:
-- Agile Strategy
-- Value Prioritisation
-- Technical Excellence
-- Agile Coaching
-- Business Agility
-- Agile Product Discovery
-- Evidence Based Management
-- Continuous Improvement
-- Agile Leadership
-- Systems Thinking
-- Decision Theory
-- Agile Transformation
-- Customer Feedback Loops
+- Coaching
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- Value Delivery
-- Technical Excellence
-- Organisational Agility
-- Value Stream Management
 - People and Process
+- Product Delivery
+- Value Delivery
 
 ---
  Building High-Value Teams and Maximizing ROI with Naked Agility | Martin Hinshelwood

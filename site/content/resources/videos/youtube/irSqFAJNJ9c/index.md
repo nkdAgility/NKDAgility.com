@@ -28,27 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Organisational Culture
+- Pragmatic Thinking
 - Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
 - Team Collaboration
 - Team Motivation
-- Accountability
-- Psychological Safety
-- Continuous Improvement
-- Scrum Values
-- Agile Product Ownership
-- Agile Project Management
-- Evidence Based Management
-- Organisational Culture
-- Agile Transformation
-- Employee Engagement
+- Team Performance
+- Transparency
 resourceTypes:
 - video
 categories:
-- Scrum
-- Organisational Psychology
+- Agile Product Management
 - People and Process
-- Value Delivery
-- Transparency and Accountability
+- Sociotechnical Systems
 
 ---
 Sure, there are poor practices that impact **scrum teams**, but I tend to focus on the outcomes to determine whether a **scrum team** is failing or progressing.

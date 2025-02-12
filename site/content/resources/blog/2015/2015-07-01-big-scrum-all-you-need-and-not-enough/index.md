@@ -25,10 +25,8 @@ aliasesFor404:
 - /big-scrum--all-you-need-and-not-enough
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/blog/big-scrum-all-you-need-and-not-enough
-tags:
-- Agile Product Management
-categories:
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: clip_image003-3-3.png
 
 ---

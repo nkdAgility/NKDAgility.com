@@ -26,8 +26,7 @@ aliasesFor404:
 - /getting-started-with-a-modern-source-control-system-and-devops
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
-tags:
-- Definition of Done
+tags: []
 categories: []
 preview: excellence-1-1.jpg
 

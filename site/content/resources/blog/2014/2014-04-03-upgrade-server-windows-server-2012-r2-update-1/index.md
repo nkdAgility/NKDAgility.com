@@ -25,23 +25,8 @@ aliasesFor404:
 - /upgrade-your-server-to-windows-server-2012-r2-update-1
 - /blog/upgrade-your-server-to-windows-server-2012-r2-update-1
 - /resources/blog/upgrade-server-windows-server-2012-r2-update-1
-tags:
-- Azure DevOps
-- DevOps
-- Frequent Releases
-- Operational Practices
-- Software Developers
-- Software Development
-- Software Increment
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Windows
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: nakedalm-windows-logo-6-6.png
 
 ---

@@ -27,11 +27,8 @@ aliasesFor404:
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /one-team-project-collection-to-rule-them-all
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

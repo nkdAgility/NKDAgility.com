@@ -25,12 +25,8 @@ aliasesFor404:
 - /does-test-driven-development-speed-up-development-
 - /blog/does-test-driven-development-speed-up-development-
 - /resources/blog/does-test-driven-development-speed-up-development
-tags:
-- Test Driven Development
-- Agile Software Development
-categories:
-- Technical Excellence
-- Code and Complexity
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

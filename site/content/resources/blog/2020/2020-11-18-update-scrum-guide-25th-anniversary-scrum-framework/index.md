@@ -25,11 +25,8 @@ aliasesFor404:
 - /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
-tags:
-- Professional Scrum
-- Scaling Agility
-categories:
-- Scrum
+tags: []
+categories: []
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---

@@ -1,1506 +1,1019 @@
 {
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than discussing change management as a central theme.",
-    "level": "Ignored"
-  },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in ensuring effective delivery within a Scrum framework, with no clear focus on site reliability.",
-    "level": "Ignored"
-  },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum framework, making Agile principles central to the discussion.",
-    "level": "Secondary"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating delivery within a Scrum framework, which is central to Agile Transformation principles.",
-    "level": "Secondary"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating software delivery within a Scrum framework, emphasising accountability and effectiveness in software development processes.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role in ensuring effective delivery, which is central to scaling agility within Scrum teams.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the Scrum Master's accountability for delivery, which is closely tied to the concept of 'Definition of Done' as it emphasises the necessity of delivering a usable increment every sprint.",
-    "level": "Secondary"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, which is a central theme in Agile Planning, particularly within the Scrum framework.",
-    "level": "Secondary"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, without focusing on Agile certifications.",
-    "level": "Ignored"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than focusing on system configuration.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for the Scrum Team's delivery and effectiveness, making team performance the central theme.",
-    "level": "Secondary"
-  },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring delivery within a Scrum framework, rather than focusing on Agile digital tools.",
-    "level": "Ignored"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the Scrum Master's accountability for delivery, which aligns with Lean principles of value delivery and continuous improvement.",
-    "level": "Secondary"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in the context of Scrum methodology, with no mention or relevance to Azure Repos.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the Scrum Master's role in facilitating effective delivery and continuous improvement within a Scrum Team, which is central to organisational agility.",
-    "level": "Secondary"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the Scrum Master's role in ensuring effective delivery, which requires a level of technical mastery to facilitate practices like TDD and continuous integration.",
-    "level": "Secondary"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, which is central to the Scrum framework and its values.",
-    "level": "Secondary"
-  },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than focusing on data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and effectiveness, rather than Kanban Flow.",
-    "level": "Ignored"
-  },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, rather than focusing on Agile estimation techniques or practices.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's accountability for delivery, which is a significant aspect of the Scrum framework, but it does not primarily focus on the product backlog itself.",
-    "level": "Ignored"
-  },
-  "Sprint Planning Workshop": {
-    "category": "Sprint Planning Workshop",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery and the effectiveness of Scrum Teams, with no clear focus on sprint planning workshops.",
-    "level": "Ignored"
-  },
-  "Kanban Training": {
-    "category": "Kanban Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and effectiveness, rather than Kanban training.",
-    "level": "Ignored"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery within the Scrum framework, emphasising the importance of delivery as a measure of effectiveness in Agile practices.",
-    "level": "Secondary"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the Scrum Master's accountability for delivery, which is central to effective lean product development practices.",
-    "level": "Secondary"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the role of the Scrum Master in facilitating team delivery, which implies collaboration across functions, but the primary focus is on the Scrum Master's accountability rather than on cross-functional team dynamics.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-11T14:39:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, rather than focusing on hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the Scrum Master's accountability for delivery, which ties into broader strategic goals of effectiveness and value delivery, but it primarily focuses on Scrum roles and responsibilities.",
-    "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, making it the primary focus throughout.",
-    "level": "Secondary"
-  },
-  "CI/CD": {
-    "category": "CI/CD",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum framework, without a clear focus on CI/CD practices or principles.",
-    "level": "Ignored"
-  },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of the Scrum Master in ensuring delivery within a Scrum Team, rather than discussing adaptive leadership principles.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on the Scrum Master's accountability for delivery within the Scrum framework, discussing strategies for effective delivery and continuous improvement, which are central to Agile strategy.",
-    "level": "Secondary"
-  },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 95,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the role of the Scrum Master in ensuring effective delivery within a Scrum framework, which is a core aspect of Agile Software Development.",
-    "level": "Secondary"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's role in ensuring effective delivery, which is a significant aspect of product strategy, but the primary focus is on Scrum roles and responsibilities rather than overarching product strategy.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum framework, rather than focusing on Behaviour Driven Development as a central theme.",
-    "level": "Ignored"
-  },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role in ensuring effective delivery and continuous improvement, making evidence-based practices central to the discussion.",
-    "level": "Secondary"
-  },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than focusing on adaptive strategies.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of effective delivery as a foundational measure of a Scrum Team's success.",
-    "level": "Secondary"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of the Scrum Master in enabling the Scrum Team's effectiveness, which includes aspects of mentoring and coaching, but the primary focus is on accountability for delivery rather than mentoring itself.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the role and accountability of the Scrum Master in facilitating team delivery, emphasising the importance of people and processes in achieving effective outcomes.",
-    "level": "Secondary"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's accountability for delivery, which is a significant aspect of the Sprint Review process, but it primarily focuses on the Scrum Master's role and responsibilities rather than the Sprint Review itself.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 95,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "Content is primarily focused on the Scrum Master's accountability for delivery, detailing their role, responsibilities, and the importance of delivery within the Scrum framework.",
-    "level": "Secondary"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery within a Scrum Team, rather than focusing on the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising its critical role in the effectiveness of a Scrum Team, which aligns closely with the MVP concept.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating software delivery, which is central to the responsibilities of software development teams.",
-    "level": "Secondary"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the Scrum Master's accountability for delivery within a Scrum Team, which is a key aspect of large scale agility frameworks.",
-    "level": "Secondary"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's role in creating an environment conducive to effective delivery, which includes fostering psychological safety as a means to empower the team. However, the primary focus remains on delivery and accountability rather than psychological safety itself.",
-    "level": "Ignored"
-  },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating delivery and continuous improvement within the Scrum framework, which is central to Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, rather than focusing on Agile forecasting.",
-    "level": "Ignored"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery and the effectiveness of Scrum Teams, with no clear focus on Sprint Review Workshops.",
-    "level": "Ignored"
-  },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in the Scrum framework, focusing on delivery and team effectiveness, rather than Lean UX principles.",
-    "level": "Ignored"
-  },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, which is central to the effectiveness of the Scrum Team and aligns closely with release planning principles.",
-    "level": "Secondary"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, without any mention of Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Master's role in facilitating effective delivery and continuous improvement, which aligns with lean principles, but the primary focus is on Scrum roles and responsibilities rather than lean thinking itself.",
-    "level": "Ignored"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, linking it to empirical assessment and continuous improvement, which are core principles of Evidence Based Management.",
-    "level": "Secondary"
-  },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role in ensuring effective delivery, which is central to the technical strategy of Scrum implementation.",
-    "level": "Secondary"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on Value Stream Mapping.",
-    "level": "Ignored"
-  },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role in ensuring the Scrum Team has the resources and support needed for effective delivery, which is central to Agile Resource Management.",
-    "level": "Secondary"
-  },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role in facilitating effective delivery and continuous improvement within a Scrum Team, which is central to Agile problem-solving principles.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses the Scrum Master's accountability for delivery within the Scrum framework, emphasising the importance of consistent delivery as a measure of team effectiveness.",
-    "level": "Secondary"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on the role of the Scrum Master within the Scrum framework, emphasising accountability for delivery, effectiveness, and continuous improvement, which are central themes in Agile Methodology.",
-    "level": "Secondary"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the Scrum Master's role in fostering an environment conducive to delivery, which touches on aspects of organisational culture, but the primary focus is on Scrum processes and accountability.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on asynchronous development.",
-    "level": "Ignored"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role in facilitating team effectiveness and accountability for delivery, which is central to technical leadership in Agile frameworks.",
-    "level": "Secondary"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of delivery as a foundational measure of a Scrum Team's effectiveness.",
-    "level": "Secondary"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in the Scrum framework, focusing on delivery and team effectiveness, with no mention of Azure Pipelines.",
-    "level": "Ignored"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of delivering usable increments of software as a measure of effectiveness in Scrum.",
-    "level": "Secondary"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on market adaptability.",
-    "level": "Ignored"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating and coaching the Scrum Team towards effective delivery, emphasising accountability and the creation of an environment conducive to success.",
-    "level": "Secondary"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on portfolio management.",
-    "level": "Ignored"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content mentions automated testing as part of the Scrum Master's role in enabling technical excellence, but it is not the primary focus of the discussion.",
-    "level": "Ignored"
-  },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum framework, with no clear focus on predictability in Kanban.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating effective delivery, which is central to the principles of business agility.",
-    "level": "Secondary"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating effective delivery within a Scrum Team, highlighting the importance of understanding and improving team dynamics and processes, which aligns closely with sensemaking.",
-    "level": "Secondary"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of consistent product delivery and its role in the Scrum framework.",
-    "level": "Secondary"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on innovation.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than analysing trends.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, without a clear focus on digital transformation as a central theme.",
-    "level": "Ignored"
-  },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 95,
-    "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the role of the Scrum Master in ensuring effective delivery within a Scrum framework, which is central to Agile Software Engineering principles.",
-    "level": "Secondary"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses continuous improvement as a theme related to Scrum, but the primary focus is on the Scrum Master's accountability for delivery.",
-    "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in fostering an environment for effective delivery and continuous improvement, making it a central theme.",
-    "level": "Secondary"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, with no clear focus on Test First Development or related practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role and accountability of the Scrum Master within the Scrum framework, which is a key aspect of Scaled Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum framework, which is central to Agile Project Management.",
-    "level": "Secondary"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of consistent delivery as a measure of effectiveness within the Scrum framework.",
-    "level": "Secondary"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's role in enabling the Scrum Team to self-manage and self-optimize, which is a significant theme, but the primary focus is on accountability for delivery.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery and the effectiveness of the Scrum Team, rather than focusing on the Daily Scrum itself.",
-    "level": "Ignored"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, with no mention of revenue or employee metrics.",
-    "level": "Ignored"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on employee engagement.",
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, without focusing on hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
+    "calculated_at": "2025-02-11T14:39:52",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than focusing on experimentation as a central theme.",
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, without a focus on experimentation or hypothesis-driven approaches.",
     "level": "Ignored"
   },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum framework, which is a central theme in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-11T14:39:54",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on decision theory.",
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within a Scrum Team, focusing on delivery and effectiveness in a project management context, which does not align with the principles and practices of entrepreneurship.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-11T14:39:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, rather than focusing on the Product Backlog itself or its management.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
+    "calculated_at": "2025-02-11T14:39:57",
     "ai_confidence": 95,
     "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the Scrum Master's accountability for delivery within the Scrum framework, detailing their role and responsibilities in ensuring effective delivery and continuous improvement.",
-    "level": "Secondary"
+    "final_score": 86.0,
+    "reasoning": "Content primarily focuses on the Scrum Master's accountability for delivery within the Scrum framework, discussing roles, responsibilities, and the importance of delivery in Scrum effectiveness.",
+    "level": "Primary"
   },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and effectiveness, rather than Kanban coaching.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-11T14:40:02",
     "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the Scrum Master's role in facilitating learning and continuous improvement within the Scrum framework, making learning a significant but secondary theme.",
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating team effectiveness and delivery, touching on systems thinking principles and the interplay between team dynamics and organisational context. However, the primary focus is on Scrum practices rather than a comprehensive exploration of organisational dynamics.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-11T14:40:04",
     "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in ensuring effective delivery within the Scrum framework, which is a key aspect of Application Lifecycle Management.",
-    "level": "Secondary"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, with no focus on source control practices or tools.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the role of the Scrum Master in ensuring delivery within a Scrum framework, which is a key aspect of Agile planning, but it primarily focuses on accountability and effectiveness rather than specific planning tools.",
-    "level": "Ignored"
-  },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum framework, which is central to Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, rather than focusing on a test strategy.",
-    "level": "Ignored"
-  },
-  "Cycle": {
-    "category": "Cycle",
-    "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 9.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than focusing on the concept of a cycle.",
-    "level": "Ignored"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, with no mention of market share.",
-    "level": "Ignored"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Master's role in facilitating effective delivery and accountability, which involves decision-making aspects, but the primary focus is on Scrum roles and responsibilities rather than decision-making itself.",
-    "level": "Ignored"
-  },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of consistent delivery as a measure of effectiveness in Agile practices.",
-    "level": "Secondary"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within the Scrum framework, focusing on accountability for delivery and team effectiveness, rather than DevOps practices or principles.",
-    "level": "Ignored"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in ensuring effective delivery within a Scrum Team, with no mention or relevance to nonlinear dynamics.",
-    "level": "Ignored"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content mentions Test-Driven Development (TDD) as part of the Scrum Master's role in enabling technical excellence, but it is not the primary focus of the discussion, which centres around the Scrum Master's accountability for delivery.",
-    "level": "Ignored"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses the Scrum Master's role in ensuring transparency regarding progress, impediments, and value delivery, but the primary focus is on accountability for delivery.",
-    "level": "Ignored"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, the importance of effective delivery in Scrum, and the practices that enable operational success within a Scrum framework.",
-    "level": "Secondary"
-  },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Master's accountability for delivery within a Scrum Team, which is a significant aspect of Agile practices, but it does not primarily focus on Agile Scaling as a central theme.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery within a Scrum Team, rather than focusing on working agreements.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating delivery and continuous improvement, emphasising the importance of empirical processes in Scrum.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on the Scrum Master's accountability for delivery, emphasising the importance of technical skills and practices that enable effective delivery within a Scrum framework.",
-    "level": "Secondary"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in relation to delivery within a Scrum Team, rather than focusing on a homepage or introductory content.",
-    "level": "Ignored"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than discussing Agile Portfolio Management.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role in ensuring effective delivery, accountability, and continuous improvement, which are central to pragmatic thinking in a Scrum context.",
-    "level": "Secondary"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the role of the Scrum Master in facilitating team effectiveness and collaboration, which is a significant theme, but the primary focus is on accountability for delivery rather than collaboration tools specifically.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in ensuring effective delivery within a Scrum framework, emphasising accountability and continuous improvement, which are central themes in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Scrum Product Management": {
-    "category": "Scrum Product Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, the importance of effective delivery in Scrum, and the role of the Scrum Team in achieving product success.",
-    "level": "Secondary"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in ensuring effective delivery within a Scrum framework, which is central to Agile Product Management.",
-    "level": "Secondary"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on remote working.",
-    "level": "Ignored"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the strategic importance of effective delivery within the Scrum framework and its implications for team success.",
-    "level": "Secondary"
-  },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating delivery within a Scrum framework, which is a key aspect of Agile tools and methodologies.",
-    "level": "Secondary"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating team effectiveness and collaboration, emphasising shared accountability for delivery within the Scrum Team.",
-    "level": "Secondary"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in a Scrum Team, focusing on delivery and effectiveness within Agile methodologies, with no mention of Windows.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than discussing miscellaneous topics.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master, with no significant focus on the Product Owner's role or responsibilities.",
-    "level": "Ignored"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, with no clear focus on Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, rather than focusing on cycle time as a specific metric or concept.",
-    "level": "Ignored"
-  },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of delivering usable increments in Scrum, which is central to the concept of software increments.",
-    "level": "Secondary"
-  },
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on the role and accountability of the Scrum Master within the Scrum framework, detailing how this role is essential for ensuring effective delivery and continuous improvement in a Scrum Team.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating team effectiveness and delivery, which aligns with coaching principles. It emphasises creating an environment for growth, support, and continuous improvement, central to coaching practices.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T14:40:06",
+    "ai_confidence": 75,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's accountability for delivery, which relates to leadership principles, but the primary focus is on Scrum roles and processes rather than evidence-based leadership specifically.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, which is central to the effectiveness of Scrum teams and their scaling.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Scrum Master's accountability for delivery and effectiveness, emphasising the importance of empirical evidence in assessing team performance and organisational health. While it primarily focuses on Scrum roles and responsibilities, it also touches on the principles of evidence-based practices in leadership, making it a significant but secondary theme.",
     "level": "Secondary"
   },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 92,
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-11T14:40:08",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of the Scrum Master in ensuring delivery and effectiveness within a Scrum Team, rather than discussing employee engagement strategies or practices.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-11T14:40:10",
+    "ai_confidence": 75,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery and its critical role in ensuring value is realised through effective Scrum practices.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on accountability for delivery and effectiveness, which are relevant to product management. However, it leans more towards Scrum implementation details rather than broader product management strategies.",
     "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
+    "calculated_at": "2025-02-11T14:40:12",
     "ai_confidence": 92,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role and accountability in facilitating effective delivery within a Scrum Team, which is central to Agile Leadership principles.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role and accountability in ensuring effective delivery within a Scrum Team, making Scrum Product Development the primary focus.",
-    "level": "Secondary"
-  },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the Scrum Master's role in fostering an environment for effective delivery, addressing systemic issues, and ensuring continuous improvement, which aligns closely with systemic thinking principles.",
-    "level": "Secondary"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum framework, which aligns closely with BetaCodex principles.",
-    "level": "Secondary"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "While the content primarily discusses the Scrum Master's accountability for delivery, it touches on aspects of team motivation through the emphasis on creating an environment for effective delivery and continuous improvement, making it a significant but secondary theme.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, rather than focusing on an Agile Mentoring Program.",
-    "level": "Ignored"
-  },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in the Scrum framework, focusing on delivery and team effectiveness, without any mention of Agile AI.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in facilitating team effectiveness and delivery, which aligns closely with mentoring principles in an Agile context.",
-    "level": "Secondary"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and effectiveness, rather than Kanban principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 95,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "Content primarily focuses on the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum framework, discussing key principles and responsibilities central to Scrum.",
+    "final_score": 84.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating team success, accountability for delivery, and creating an environment conducive to continuous improvement, which are central themes of Agile Leadership.",
     "level": "Primary"
   },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-11T14:40:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery and the effectiveness of the Scrum Team, without a clear focus on the Daily Scrum event or its specific practices.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-11T14:40:22",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than focusing on deployment strategies.",
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in the context of Agile project management, focusing on delivery and team effectiveness rather than system configuration or related technical aspects.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 95,
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-11T14:40:25",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master in ensuring effective delivery within a Scrum Team, which is more about project management and team dynamics than the strategic adoption of digital technologies for business transformation.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-11T14:40:26",
+    "ai_confidence": 92,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the Scrum Master's accountability for delivery, detailing how effective delivery is essential for the Scrum Team's success and effectiveness. It discusses the importance of creating conditions for delivery, the implications of failing to deliver, and the role of the Scrum Master in facilitating this process.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "Content heavily discusses the Scrum Master's role in ensuring effective delivery of working software, emphasising accountability, value delivery, and the importance of producing usable increments in Scrum.",
+    "level": "Primary"
   },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of delivering value and the role of the Scrum Team in validating product effectiveness through consistent delivery.",
-    "level": "Secondary"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and effectiveness, rather than the Kanban process.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, with no significant focus on technical debt.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of throughput in the context of Scrum and team effectiveness.",
-    "level": "Secondary"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than focusing on product discovery.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-11T14:40:28",
     "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Scrum Master's role in facilitating effective delivery and continuous improvement, which involves decision-making processes within the Scrum framework. However, the primary focus is on accountability and delivery rather than structured decision-making methodologies.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-11T14:40:31",
+    "ai_confidence": 75,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the role of the Scrum Master in facilitating delivery and effectiveness within a Scrum Team, which implies a connection to organisational dynamics and change. However, the primary focus remains on Scrum practices rather than explicit organisational change.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in the Scrum framework, focusing on delivery and effectiveness rather than Kanban or its scaling.",
-    "level": "Ignored"
-  },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role and accountability in ensuring effective delivery within a Scrum Team, which is central to agile leadership.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of the Scrum Master in fostering an environment for effective delivery, which includes empowering teams and promoting self-management. While the primary focus is on accountability for delivery, it also touches on the importance of creating a culture that supports self-organisation and autonomy within the Scrum Team.",
     "level": "Secondary"
   },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 92,
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-11T14:40:32",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating effective delivery and continuous improvement within a Scrum framework, which is central to engineering practices.",
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring delivery within a Scrum Team, without addressing remote working practices, challenges, or solutions.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-11T14:40:34",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of delivery and continuous improvement within the Scrum framework, which aligns with Lean principles. However, it primarily focuses on the role of the Scrum Master and Scrum practices rather than explicitly addressing Lean Product Development as a central theme.",
     "level": "Secondary"
   },
-  "Lean Startup": {
-    "category": "Lean Startup",
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-11T14:40:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the Scrum Master's role in fostering an environment conducive to delivery and continuous improvement, which touches on cultural aspects. However, the primary focus is on Scrum practices and accountability rather than a deep exploration of organisational culture itself.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-11T14:40:39",
+    "ai_confidence": 45,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in ensuring delivery and effectiveness within a Scrum Team, with only peripheral references to feedback mechanisms. While it touches on the importance of delivery for generating feedback, it does not focus on the processes of collecting and utilising customer feedback as a central theme.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-11T14:40:40",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on Lean Startup principles.",
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, without any mention of Azure Repos or related functionalities.",
     "level": "Ignored"
   },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's role in enabling effective delivery, which includes aspects of continuous integration, but the primary focus is on Scrum roles and accountability rather than continuous integration itself.",
-    "level": "Ignored"
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-11T14:40:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the Scrum Master's role in ensuring transparency regarding progress, impediments, and value delivery, which is a key aspect of fostering an environment of trust and accountability.",
+    "level": "Secondary"
   },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's role in delivery and effectiveness, which is a significant aspect of Agile practices, but it primarily focuses on accountability and team dynamics rather than product discovery specifically.",
-    "level": "Ignored"
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-11T14:40:44",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of delivery in the context of Scrum and the Scrum Master's role in ensuring that a usable increment is produced every sprint, which relates to the Definition of Done. However, the primary focus is on the Scrum Master's accountability and team dynamics rather than explicitly outlining the criteria that comprise a Definition of Done.",
+    "level": "Secondary"
   },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-11T14:40:46",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and effectiveness, rather than Kanban Theory.",
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring delivery within a Scrum framework, focusing on team dynamics and accountability rather than product strategy methodologies, market analysis, or customer-centric approaches.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
+    "calculated_at": "2025-02-11T14:40:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on customer retention.",
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, without a clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's role in facilitating delivery and effectiveness within a Scrum Team, which touches on organisational dynamics, but the primary focus is on Scrum practices rather than organisational physics.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Master's role in enabling effective delivery and continuous improvement, which involves understanding systemic issues and fostering collaboration. However, the primary focus is on Scrum roles and responsibilities rather than systems thinking as a central theme.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-11T14:40:49",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, which are not central to Site Reliability Engineering.",
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in the Scrum framework, focusing on delivery and effectiveness, which are not related to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
-  "Test Automation": {
-    "category": "Test Automation",
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-11T14:40:51",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "Content primarily discusses the role of the Scrum Master in facilitating effective delivery and continuous improvement within a Scrum Team, which aligns with strategic approaches in Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-11T14:40:53",
     "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the role of the Scrum Master in ensuring effective delivery, which includes enabling practices like Test-Driven Development (TDD) and automated testing. However, the primary focus is on Scrum roles and accountability rather than test automation itself.",
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the Scrum Master's role in facilitating delivery and continuous improvement, which relates to the Ability to Innovate, but the primary focus is on Scrum practices rather than directly measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
-  "Accountability": {
-    "category": "Accountability",
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-11T14:40:54",
     "ai_confidence": 95,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily focuses on the Scrum Master's accountability for delivery within a Scrum Team, detailing their responsibilities and the implications of this accountability on team effectiveness.",
+    "non_ai_confidence": 0,
+    "final_score": 86.0,
+    "reasoning": "Content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing accountability for delivery, team dynamics, and principles of effective Scrum implementation.",
     "level": "Primary"
   },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 0,
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T14:40:57",
+    "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, rather than entrepreneurship.",
+    "final_score": 27.0,
+    "reasoning": "The content primarily focuses on the role and accountability of the Scrum Master within a Scrum Team, which is more about team-level practices rather than strategies for scaling agility across an organisation.",
     "level": "Ignored"
   },
-  "Agile Community": {
-    "category": "Agile Community",
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-11T14:40:59",
     "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role and accountability of the Scrum Master within the Scrum framework, which is a core aspect of the Agile Community.",
-    "level": "Secondary"
-  },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in ensuring effective delivery within a Scrum framework, emphasising accountability, continuous improvement, and the importance of delivery as a measure of effectiveness.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's role in ensuring effective delivery, which is a significant aspect of value stream management, but it primarily focuses on Scrum roles and responsibilities.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Master's role in ensuring effective delivery, which includes addressing systemic issues and removing impediments. However, the primary focus is on accountability and effectiveness rather than direct troubleshooting.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of consistent delivery in the Scrum framework, which directly relates to deployment frequency.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on resilience or change.",
-    "level": "Ignored"
-  },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating delivery and continuous improvement within a Scrum Team, which is central to Agile coaching principles.",
-    "level": "Secondary"
-  },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Scrum Master's role in facilitating team effectiveness and accountability, which includes elements of leadership, but the primary focus is on Scrum processes and delivery rather than leadership training specifically.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in the context of Scrum methodology, focusing on accountability for delivery rather than personal themes.",
-    "level": "Ignored"
-  },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 85,
     "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the Scrum Master's accountability for delivery within the Scrum framework, which is a key aspect of Agile Product Ownership.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "Content heavily discusses the role of the Scrum Master in fostering team collaboration, shared accountability, and creating an environment conducive to effective delivery within a Scrum framework.",
+    "level": "Primary"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-11T14:41:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, without a clear focus on customer satisfaction or related metrics.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-11T14:41:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses accountability for delivery and continuous improvement within a Scrum framework, which aligns with Lean principles of maximising value while minimising waste. However, the primary focus is on Scrum roles and responsibilities rather than Lean Thinking itself.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-11T14:41:06",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in ensuring delivery and effectiveness of the Scrum Team, with only indirect references to Cycle Time as it relates to delivery. The focus is more on accountability and team dynamics rather than on measuring or improving Cycle Time specifically.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-11T14:41:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating effective delivery and continuous improvement, touching on principles of accountability and team dynamics. However, it primarily focuses on Scrum roles rather than core engineering practices like clean code, TDD, or CI/CD.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-11T14:41:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within a Scrum Team, focusing on delivery and team effectiveness rather than on portfolio management, strategic alignment, or investment prioritisation.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-11T14:41:16",
+    "ai_confidence": 95,
+    "non_ai_confidence": 20,
+    "final_score": 88.0,
+    "reasoning": "Content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on accountability for delivery, which is a core aspect of Agile software development practices.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-11T14:41:21",
+    "ai_confidence": 75,
     "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Scrum Master's accountability for delivery, emphasising the importance of effective delivery as a foundation for engineering excellence within Scrum teams.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of the Scrum Master in ensuring effective delivery and continuous improvement within a Scrum Team, which aligns with principles of engineering excellence. However, the primary focus is on Scrum roles and responsibilities rather than broader engineering practices.",
     "level": "Secondary"
   },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 0,
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-11T14:41:23",
+    "ai_confidence": 85,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in ensuring effective delivery within a Scrum Team, with no clear focus on complexity science.",
-    "level": "Ignored"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the Scrum Master's role in facilitating delivery and effectiveness within a Scrum Team, which relates to organisational transformation, but the primary focus is on Scrum practices rather than broader organisational transformation strategies.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 95,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the role of the Scrum Master and the accountability of the Scrum Team for delivery, making it central to the discussion.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the Scrum Master's accountability for delivery, which is closely related to throughput in terms of ensuring work items are completed effectively and efficiently. It addresses the importance of delivery as a measure of effectiveness and explores strategies for enabling consistent delivery, aligning well with the key topics of throughput.",
     "level": "Secondary"
   },
-  "Azure Boards": {
-    "category": "Azure Boards",
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-11T14:41:25",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in relation to delivery within Scrum teams, without any mention of Azure Boards.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery and effectiveness of the Scrum Team, rather than focusing on backlog refinement.",
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, without any mention of Azure Pipelines or related CI/CD practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-11T14:41:27",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in ensuring effective delivery, which is closely tied to Agile principles such as accountability, continuous improvement, and delivering value. While it references Scrum practices, the focus on the underlying Agile values and principles justifies a strong classification in this category.",
+    "level": "Secondary"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-11T14:41:30",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content briefly mentions automated testing as part of the Scrum Master's role in enabling technical excellence, but the primary focus is on the Scrum Master's accountability for delivery and team effectiveness, making automated testing a secondary theme.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-11T14:41:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, which does not align with Site Reliability Engineering principles.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-11T14:41:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master, not the Product Owner. It focuses on delivery accountability and team effectiveness, which are not central to the Product Owner's responsibilities.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-11T14:41:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating effective delivery and continuous improvement, which aligns with change management principles, but it primarily focuses on Scrum roles and responsibilities rather than broader change management strategies.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-11T14:41:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the role of the Scrum Master in enabling team effectiveness and delivery, which includes elements of mentoring and coaching. However, the primary focus is on accountability for delivery rather than mentoring techniques or strategies.",
+    "level": "Secondary"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-11T14:41:38",
     "ai_confidence": 92,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Scrum Master's role in ensuring effective delivery, which is central to Agile principles of accountability, continuous improvement, and delivering value.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating delivery and continuous improvement within a Scrum Team, emphasising the importance of empirical process control through delivery, feedback, and adaptation.",
+    "level": "Primary"
   },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-11T14:41:45",
     "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Master's role in facilitating effective delivery and continuous improvement, which touches on aspects of complexity thinking, but the primary focus is on Scrum roles and responsibilities rather than complexity as a central theme.",
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Scrum Master's role in ensuring effective delivery, which indirectly relates to product validation through the emphasis on delivering value and obtaining feedback. However, the primary focus is on Scrum roles and responsibilities rather than direct methodologies for validating product ideas with users.",
     "level": "Ignored"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-11T14:41:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, without any mention of Azure Boards or its functionalities.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-11T14:41:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, with no mention or analysis of revenue per employee or related financial metrics.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-11T14:41:51",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "Content primarily discusses the role of the Scrum Master in facilitating effective delivery within a Scrum Team, which is central to Agile methodologies and directly relates to the responsibilities of software developers in an Agile context.",
+    "level": "Secondary"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-11T14:41:53",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content briefly mentions Test-Driven Development (TDD) as part of the Scrum Master's role in enabling technical excellence, but the primary focus is on the accountability of the Scrum Master for delivery within the Scrum framework.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-11T14:41:56",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of delivery in the Scrum framework, emphasising the Scrum Master's role in facilitating effective and continuous delivery. While it primarily focuses on the Scrum Master's accountability, it also touches on principles of continuous improvement and the necessity of delivering usable increments, which aligns with the themes of frequent releases.",
+    "level": "Secondary"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-11T14:41:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery and the effectiveness of Scrum Teams, without focusing on estimation techniques, empirical data, or collaborative practices related to estimation.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-11T14:41:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring effective delivery within a Scrum Team, rather than focusing on the identification and resolution of technical issues.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-11T14:42:01",
+    "ai_confidence": 92,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "Content heavily discusses the role of the Scrum Master in ensuring the delivery of usable increments, emphasising the importance of delivery in the Scrum framework and its impact on team effectiveness.",
+    "level": "Primary"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-11T14:42:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within a Scrum Team, focusing on delivery and effectiveness in an Agile context. It does not address any aspects related to the Windows operating system or its management.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-11T14:42:05",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Scrum Master's role in ensuring delivery and effectiveness, which indirectly relates to the outcomes of Sprint Reviews, but does not focus primarily on the Sprint Review process itself.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-11T14:42:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivery in the context of Scrum, which indirectly relates to Lead Time as it touches on the accountability for delivering value to customers. However, it primarily focuses on the role of the Scrum Master and the Scrum Team's effectiveness rather than explicitly measuring or optimising Lead Time.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-11T14:42:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on delivery and team accountability. While it touches on aspects of team collaboration and effectiveness, it does not explicitly address scaling Agile practices across multiple teams or at an enterprise level.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-11T14:42:11",
     "ai_confidence": 92,
     "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating delivery and effectiveness within a Scrum Team, which is central to the principles of Enterprise Agility.",
+    "final_score": 83.0,
+    "reasoning": "Content heavily discusses the Scrum Master's role in facilitating effective delivery within a Scrum Team, emphasising practical problem-solving strategies and real-world applications of Agile principles.",
+    "level": "Primary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-11T14:42:13",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of delivery in the context of Scrum, highlighting the Scrum Master's role in facilitating effective delivery and continuous improvement. While it primarily focuses on the Scrum Master's accountability and team dynamics, it also touches on the implications of delivery frequency for effectiveness and value delivery, making it a significant but secondary theme.",
     "level": "Secondary"
   },
-  "Continuos Integration": {
-    "category": "Continuos Integration",
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-11T14:42:14",
+    "ai_confidence": 95,
+    "non_ai_confidence": 0,
+    "final_score": 86.0,
+    "reasoning": "Content primarily focuses on the role of the Scrum Master in ensuring effective delivery within a Scrum framework, discussing accountability, team dynamics, and the importance of delivery in agile project management.",
+    "level": "Primary"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-11T14:42:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "While the content primarily discusses the role of the Scrum Master in ensuring delivery within a Scrum framework, it briefly touches on practices like automated testing and continuous integration as part of enabling effective delivery. However, the main focus is on Scrum principles rather than CI itself.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-11T14:42:17",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in ensuring effective delivery within a Scrum Team, which aligns with Agile principles and strategies for continuous value delivery and organisational accountability.",
+    "level": "Secondary"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-11T14:42:19",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the accountability of the Scrum Master in ensuring effective delivery within a Scrum framework, which relates to Continuous Delivery principles. However, the primary focus is on Scrum roles and responsibilities rather than Continuous Delivery practices themselves.",
+    "level": "Ignored"
+  },
+  "BetaCodex": {
+    "category": "BetaCodex",
+    "calculated_at": "2025-02-11T14:42:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and effectiveness rather than the principles of BetaCodex or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-11T14:42:23",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating team delivery and effectiveness, which touches on aspects of cross-functional collaboration, but the primary focus is on the Scrum Master's accountability rather than on cross-functional teams themselves.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-11T14:42:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery and the importance of delivering usable increments, rather than focusing on the Definition of Ready or its criteria.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-11T14:42:26",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Master's role in enabling effective delivery, which includes aspects of continuous integration, but the primary focus is on accountability and team dynamics rather than continuous integration itself.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating effective delivery and continuous improvement, which touches on aspects of sensemaking in terms of understanding team dynamics and decision-making processes. However, the primary focus is on Scrum roles and responsibilities rather than a deep exploration of sensemaking principles or frameworks.",
     "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-11T14:42:29",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Scrum Master's role in fostering an environment conducive to team delivery and effectiveness, which relates to team motivation. However, the primary focus is on accountability and delivery rather than explicit motivational strategies.",
+    "level": "Secondary"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-11T14:42:30",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 84.0,
+    "reasoning": "Content heavily discusses the Scrum Master's role in facilitating team effectiveness and delivery, aligning closely with strategies for enhancing team performance and collaboration.",
+    "level": "Primary"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-11T14:42:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in ensuring effective delivery within a Scrum Team, with no mention or integration of AI concepts or applications.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-11T14:42:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and effectiveness, which does not align with the principles or practices of Scaling Kanban.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-11T14:42:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in the Scrum framework, focusing on delivery and team effectiveness, without any mention of Behaviour Driven Development principles, practices, or related tools.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-11T14:42:39",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses the accountability of the Scrum Master for delivery and effectiveness within the Scrum framework, rather than focusing on working agreements or team norms that enhance collaboration.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-11T14:42:40",
+    "ai_confidence": 65,
+    "non_ai_confidence": 0,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of delivery and effectiveness in Scrum, touching on concepts of value maximisation and continuous improvement, which align with Lean Principles. However, the primary focus is on Scrum roles and responsibilities rather than Lean methodologies specifically.",
+    "level": "Secondary"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-11T14:42:41",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 83.0,
+    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating effective delivery within a Scrum framework, which is central to Agile transformation principles.",
+    "level": "Primary"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-11T14:42:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring effective delivery within a Scrum Team, without addressing technical debt or its management.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-11T14:42:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Scrum Master's accountability for delivery, which relates to the Scrum values of commitment and respect, but it primarily focuses on the role and responsibilities of the Scrum Master rather than a direct exploration of Scrum values themselves.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-11T14:42:47",
+    "ai_confidence": 45,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master and the importance of delivery within Scrum teams, which relates more to project management and team dynamics than to organisational change strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-11T14:42:49",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions automated testing as part of the Scrum Master's role in enabling effective delivery, but the primary focus is on Scrum principles and the accountability of the Scrum Master rather than on test automation itself.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-11T14:42:52",
+    "ai_confidence": 95,
+    "non_ai_confidence": 30,
+    "final_score": 88.0,
+    "reasoning": "Content primarily focuses on the role of the Scrum Master in ensuring effective delivery within a Scrum framework, discussing accountability, team dynamics, and the importance of delivering value, which are central to Scrum Product Development.",
+    "level": "Primary"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-11T14:42:53",
+    "ai_confidence": 92,
+    "non_ai_confidence": 10,
+    "final_score": 84.0,
+    "reasoning": "Content primarily discusses the Scrum Master's role in ensuring effective delivery and continuous improvement within a Scrum Team, aligning closely with operational practices aimed at enhancing efficiency and performance.",
+    "level": "Primary"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-11T14:42:55",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Scrum Master's role in facilitating effective delivery and continuous improvement, which aligns with the principles of Evidence-Based Management. However, the primary focus is on Scrum roles and responsibilities rather than a comprehensive exploration of EBM principles.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-11T14:43:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery and effectiveness of the Scrum Team, without focusing on backlog refinement practices or discussions.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-11T14:43:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the role of the Scrum Master in ensuring effective delivery within a Scrum Team, which is relevant to scaling practices, but it primarily focuses on individual team dynamics rather than broader scaling frameworks or coordination among multiple teams.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-11T14:43:05",
+    "ai_confidence": 95,
+    "non_ai_confidence": 20,
+    "final_score": 88.0,
+    "reasoning": "Content primarily focuses on the Scrum Master's accountability for delivery, detailing their role, responsibilities, and the importance of facilitating effective Scrum practices.",
+    "level": "Primary"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-11T14:43:08",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master and team-level practices within the Scrum framework, rather than discussing large-scale Agile principles or frameworks for scaling Agile across an organisation.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-11T14:43:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum Team, without a clear focus on forecasting methods or practices.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-11T14:43:11",
+    "ai_confidence": 92,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating team effectiveness, accountability for delivery, and fostering a culture of continuous improvement, all of which are central to technical leadership in agile environments.",
+    "level": "Primary"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-11T14:43:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring delivery within a Scrum framework, focusing on accountability and team effectiveness rather than methodologies for identifying customer needs or defining product features.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-11T14:43:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master within the Scrum framework, focusing on delivery and team effectiveness, rather than Lean Startup principles such as MVP, Build-Measure-Learn, or validated learning.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-11T14:43:18",
+    "ai_confidence": 92,
+    "non_ai_confidence": 0,
+    "final_score": 83.0,
+    "reasoning": "Content heavily discusses the role of the Scrum Master in facilitating effective delivery, which is central to Agile Planning principles, including accountability, iterative processes, and continuous improvement.",
+    "level": "Primary"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-11T14:43:20",
+    "ai_confidence": 95,
+    "non_ai_confidence": 50,
+    "final_score": 90.0,
+    "reasoning": "The content primarily discusses the accountability of the Scrum Master in ensuring the Scrum Team's delivery and effectiveness, emphasising ownership and collective responsibility within the Agile framework.",
+    "level": "Primary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-11T14:43:22",
+    "ai_confidence": 45,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in ensuring delivery within a Scrum framework, which is not directly focused on the concept of Minimum Viable Product (MVP) or its development and validation processes.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-11T14:43:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in relation to delivery within a Scrum Team, without focusing on collaboration tools or their impact on team dynamics.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-11T14:43:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Scrum Master's role in creating an environment conducive to effective delivery, which includes fostering psychological safety as a means to empower teams. However, the primary focus is on accountability for delivery rather than psychological safety itself.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-11T14:43:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating team delivery and effectiveness within the Scrum framework, rather than focusing on specific deployment strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-11T14:43:28",
+    "ai_confidence": 95,
+    "non_ai_confidence": 20,
+    "final_score": 88.0,
+    "reasoning": "Content primarily discusses the Scrum Master's role and accountability in ensuring the Scrum Team's delivery and effectiveness, aligning closely with key topics of Scrum Team dynamics and responsibilities.",
+    "level": "Primary"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-11T14:43:30",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating effective delivery and continuous improvement, touching on technical practices like Test-Driven Development and automated testing, but primarily focuses on Scrum roles and responsibilities rather than deep technical mastery.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-11T14:43:32",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Scrum Master's role in ensuring effective delivery, which is a key aspect of release management, but it primarily focuses on Scrum principles and team dynamics rather than the broader strategies and practices of release management.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-11T14:43:34",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content briefly mentions Test-Driven Development (TDD) as part of the Scrum Master's role in enabling technical excellence, but the primary focus is on the accountability of the Scrum Master for delivery within the Scrum framework.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-11T14:43:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master in ensuring delivery within a Scrum Team, without exploring patterns or shifts in Agile methodologies or their implications for strategic decision-making.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-11T14:43:39",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating delivery and continuous improvement, which aligns with Agile principles of value delivery and team accountability. It also touches on the importance of adaptability and the Scrum framework's foundational principles, making Agile philosophy a central theme.",
+    "level": "Secondary"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-11T14:43:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master within the Scrum framework, focusing on team delivery and effectiveness, which does not directly relate to version control practices.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-11T14:43:43",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating delivery within a Scrum framework, which is related to Agile methodologies. However, it primarily focuses on accountability and effectiveness rather than specific Agile planning tools or techniques.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-11T14:43:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in the Scrum framework, focusing on delivery and team effectiveness, without addressing Acceptance Test Driven Development or its principles.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-11T14:43:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the role and accountability of the Scrum Master in ensuring delivery within a Scrum framework, focusing on team dynamics and effectiveness rather than asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-11T14:43:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master in ensuring effective delivery within a Scrum Team, with no direct reference to market share, competitive advantage, or related strategies.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-11T14:43:52",
+    "ai_confidence": 45,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of the Scrum Master in ensuring delivery within a Scrum Team, rather than discussing long-term strategic goals or business agility.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-11T14:43:54",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Scrum Master's role in fostering an environment for effective delivery and continuous improvement, highlighting the importance of learning from feedback and creating a culture of curiosity. However, the primary focus is on accountability for delivery rather than continuous learning itself.",
+    "level": "Secondary"
   }
 }

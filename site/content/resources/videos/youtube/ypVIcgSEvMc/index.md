@@ -25,11 +25,7 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Discovery and Learning
-- Continuous Learning
-- Customer Retention
-- Value Delivery
+tags: []
 resourceTypes:
 - video
 categories: []

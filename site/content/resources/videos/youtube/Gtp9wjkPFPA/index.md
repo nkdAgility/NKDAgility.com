@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Methodology
-- Team Collaboration
-- Continuous Delivery
-- Agile Values and Principles
-- Business Agility
-- Organisational Agility
-- Agile Strategy
-- Change Management
-- Agile Leadership
-- Systems Thinking
-- Agile Scaling
-- Agile Evolution
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- DevOps
-- People and Process
-- Organisational Agility
-- Value Delivery
-- Lean
+categories: []
 
 ---
 ## DevOps & Agile: Two Sides of the Same Coin 🪙

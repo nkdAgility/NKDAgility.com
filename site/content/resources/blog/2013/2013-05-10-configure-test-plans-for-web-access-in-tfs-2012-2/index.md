@@ -21,26 +21,8 @@ aliasesFor404:
 - /configure-test-plans-for-web-access-in-tfs-2012-2
 - /blog/configure-test-plans-for-web-access-in-tfs-2012-2
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
-tags:
-- Agile Digital Tools
-- Application Lifecycle Management
-- Automated Testing
-- Azure Boards
-- Engineering Practices
-- Operational Practices
-- Software Development
-- System Configuration
-- Team Collaboration
-- Technical Excellence
-- Technical Mastery
-- Test Automation
-- Test Strategy
-- Troubleshooting
-- Working Software
-categories:
-- Azure DevOps
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 
 ---
 Configure Test Plans for web access in TFS 2012.2 is a little tricky and we need to be very specific on how we configure it so that our Team can see the right test Plans.

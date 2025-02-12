@@ -1,66 +1,10 @@
 {
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS and the management of Product Backlog Items and tasks, which is not central to site reliability practices or principles.",
-    "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of correctly structuring Product Backlog Items and Tasks in Agile planning to maximise workflow efficiency and minimise waste.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and tasks within an Agile framework, which relates to optimising the flow of work. However, it primarily focuses on the limitations of the TFS tools rather than a comprehensive approach to value stream management.",
-    "level": "Ignored"
-  },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile Planning tools and the breakdown of Product Backlog Items, which relates to integrating UX practices into agile workflows, but it primarily focuses on technical issues with the tools rather than user-focused product development.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in TFS Agile Planning Tools, with no clear focus on deployment frequency or optimising software deployment.",
-    "level": "Ignored"
-  },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in TFS 2012, focusing on nested tasks and their implications for agile workflows.",
-    "level": "Secondary"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS and the handling of Product Backlog Items and tasks, with a focus on technical details rather than large-scale agile transformations or change management.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which are relevant to Agile practices, but the primary focus is on tool usage rather than structured mentoring or coaching.",
     "level": "Ignored"
   },
   "Decision Making": {
@@ -111,14 +55,6 @@
     "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in TFS Agile Planning Tools, focusing on workflow and tool limitations rather than deployment strategies.",
     "level": "Ignored"
   },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the planning and decision-making process related to Agile methodologies and the use of tools, which is a significant theme, but it primarily focuses on technical issues rather than long-term strategic planning.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 0,
@@ -134,22 +70,6 @@
     "final_score": 73.0,
     "reasoning": "Content primarily discusses the use of Agile Planning Tools within TFS 2012, focusing on nested tasks and their implications for agile planning and workflow.",
     "level": "Secondary"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications of using nested tasks in Agile planning, which aligns closely with balancing customer needs and technical feasibility in product strategy.",
-    "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the challenges of using nested tasks in Agile planning tools, hinting at the complexity of managing workflows in non-linear ways, but it primarily focuses on specific tool usage rather than a broader exploration of complexity thinking.",
-    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -173,22 +93,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications for planning and workflow in Agile, which relates to prioritising investments in initiatives, but it is primarily focused on the use of specific tools rather than strategic alignment.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the challenges and solutions related to Agile Planning Tools, focusing on the adaptation of workflows to fit Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in TFS, with no clear focus on structured review sessions or gathering insights.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -222,14 +126,6 @@
     "final_score": 21.0,
     "reasoning": "The content primarily focuses on the technical aspects of using Agile Planning Tools in TFS, with only a minor mention of the development process and team dynamics, which are not central to the theme of entrepreneurship.",
     "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content provides key insights into the use of nested tasks in TFS 2012 Agile Planning Tools, highlighting best practices and potential pitfalls, which are essential for Agile practitioners.",
-    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -271,22 +167,6 @@
     "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS and the implications of nested tasks, without focusing on identifying patterns or shifts for strategic decision-making.",
     "level": "Ignored"
   },
-  "Kanban Training": {
-    "category": "Kanban Training",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in the context of Agile Planning Tools, with a focus on TFS and Scrum practices, rather than Kanban principles or training.",
-    "level": "Ignored"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS and the implications of nested tasks, which is more focused on project management and tool functionality rather than understanding complex, interconnected systems and their unpredictable behaviour.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "ai_confidence": 45,
@@ -294,22 +174,6 @@
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the use of nested tasks in Agile Planning Tools and the implications for workflow, rather than focusing on customer feedback or learning from delivery.",
     "level": "Ignored"
-  },
-  "Scrum Product Management": {
-    "category": "Scrum Product Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the management of Product Backlog Items and their breakdown into tasks within a Scrum framework, highlighting the importance of correctly categorising work items in Agile planning tools.",
-    "level": "Secondary"
-  },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in the context of managing Product Backlog Items and tasks, which is central to Agile practices.",
-    "level": "Secondary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -334,14 +198,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the visibility of tasks in Agile Planning Tools, which relates to transparency in agile processes, but it is primarily focused on the technical aspects of using TFS rather than on transparency itself.",
     "level": "Ignored"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in the context of managing Product Backlog Items and tasks, which are central to Agile methodologies.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -391,22 +247,6 @@
     "reasoning": "The content primarily discusses issues related to nested tasks in TFS 2012 Agile Planning Tools, providing steps to reproduce the problem and suggesting solutions, which aligns well with troubleshooting.",
     "level": "Secondary"
   },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile methodologies and tools, particularly in the context of managing Product Backlog Items and tasks, which is relevant to Agile practices but does not focus on certification or accreditation.",
-    "level": "Ignored"
-  },
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications for planning and forecasting work in an Agile context.",
-    "level": "Secondary"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "ai_confidence": 75,
@@ -414,38 +254,6 @@
     "final_score": 52.0,
     "reasoning": "The content discusses Agile planning tools and the breakdown of Product Backlog Items, which relates to clean code and test-first development principles, but it primarily focuses on tool usage rather than core engineering practices.",
     "level": "Secondary"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the misuse of nested tasks in Agile Planning Tools, highlighting how this misinterpretation can lead to issues in Agile workflows.",
-    "level": "Secondary"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS and the handling of Product Backlog Items and tasks, which is related to Agile methodologies but does not focus on Continuous Delivery as a central theme.",
-    "level": "Ignored"
-  },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of using nested tasks within Agile Planning Tools, indicating an understanding of interdependencies in project management. However, the primary focus is on tool usage rather than a holistic organisational challenge.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of using nested tasks within Agile Planning tools, indicating a consideration of holistic approaches to workflow and project management.",
-    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -455,36 +263,12 @@
     "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications for Agile planning, which relates to decision-making in an Agile context, but it is primarily focused on the use of specific tools rather than empirical evidence for organisational agility.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in TFS, focusing on the management of Product Backlog Items and tasks within an Agile framework.",
-    "level": "Secondary"
-  },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools and nested tasks in TFS, with no clear focus on adaptive leadership or navigating uncertainty.",
-    "level": "Ignored"
-  },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
     "final_score": 41.0,
     "reasoning": "The content discusses the breakdown of Product Backlog Items and tasks in the context of Agile planning, which relates to structuring work around business behaviour, but it primarily focuses on tool usage and specific issues rather than BDD as a central theme.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning tools and the handling of tasks within a development process, with only a brief mention of changing workflows. The main focus is on technical issues rather than organisational resilience or managing change.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -519,30 +303,6 @@
     "reasoning": "The content primarily discusses the use of Agile Planning Tools and nested tasks in TFS, with a focus on practical implementation rather than applying empirical evidence to drive leadership decisions.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the decision-making process involved in breaking down Product Backlog Items and Tasks within Agile planning, reflecting on how these decisions impact workflow and tool usage.",
-    "level": "Secondary"
-  },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in TFS, focusing on the breakdown of Product Backlog Items and the implications for Agile workflows.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of correctly structuring Product Backlog Items and Tasks to optimise workflow and visibility in Agile planning, which directly relates to maximising value delivery.",
-    "level": "Secondary"
-  },
   "MVP": {
     "category": "MVP",
     "ai_confidence": 50,
@@ -567,28 +327,12 @@
     "reasoning": "The content discusses agile planning tools and the breakdown of Product Backlog Items, which are relevant to agile practices, but the primary focus is on specific tool usage rather than enterprise-wide transformation.",
     "level": "Ignored"
   },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and tasks in Agile planning, which relates to predictability in value delivery, but it primarily focuses on the limitations of TFS tools rather than enhancing consistency and reliability in Kanban.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS and the implications of nested tasks, with no clear focus on measuring or enhancing customer happiness.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning tools and the handling of tasks within Team Foundation Server, with a focus on technical details rather than market adaptability.",
     "level": "Ignored"
   },
   "Technical Mastery": {
@@ -607,14 +351,6 @@
     "reasoning": "The content discusses the breakdown of Product Backlog Items and Tasks, which relates to the completion of work items, but it primarily focuses on the use of Agile Planning Tools rather than measuring the rate of work completion.",
     "level": "Ignored"
   },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in Agile planning tools, with a focus on workflow and tool limitations rather than a structured approach to testing.",
-    "level": "Ignored"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "ai_confidence": 0,
@@ -631,52 +367,12 @@
     "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in TFS Agile Planning Tools, with no focus on test automation or software testing.",
     "level": "Ignored"
   },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items into tasks, which is a key aspect of estimating work effort in agile development.",
-    "level": "Secondary"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses the breakdown of Product Backlog Items and the importance of structuring tasks effectively, which aligns with minimising waste and maximising value in an agile context, but it is primarily focused on specific issues with TFS tools.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which are relevant to Agile practices, but the primary focus is on tool usage rather than broader organisational transformation.",
-    "level": "Ignored"
-  },
-  "Sprint Planning Workshop": {
-    "category": "Sprint Planning Workshop",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications for sprint planning, making it a significant theme, though not the sole focus.",
-    "level": "Secondary"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the importance of aligning tasks with agile principles, which relates to delivering value and aligning initiatives with strategic goals.",
-    "level": "Secondary"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile Planning tools and the breakdown of Product Backlog Items, which relates to optimising work-in-progress, but the primary focus is on the limitations of nested tasks in TFS rather than Kanban principles.",
     "level": "Ignored"
   },
   "Lean Startup": {
@@ -693,22 +389,6 @@
     "non_ai_confidence": 20,
     "final_score": 62.0,
     "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and Tasks, emphasising the importance of correctly defining work items to achieve a true increment of value.",
-    "level": "Secondary"
-  },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the need to adapt workflows and planning tools in response to challenges faced in Agile practices, indicating a secondary theme of evolving strategies.",
-    "level": "Ignored"
-  },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications of task management in Agile environments, focusing on optimising workflows and resource allocation.",
     "level": "Secondary"
   },
   "Working Software": {
@@ -767,14 +447,6 @@
     "reasoning": "The content primarily discusses the importance of adapting workflows based on the evidence of how nested tasks are handled in Agile Planning Tools, emphasising the need for transparency and inspection in the development process.",
     "level": "Secondary"
   },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications for planning and managing tasks within an Agile framework, which is central to release planning.",
-    "level": "Secondary"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 85,
@@ -783,36 +455,12 @@
     "reasoning": "Content primarily discusses the use of Agile Planning Tools in relation to Product Backlog Items and tasks, aligning with agile principles and their application in achieving business goals.",
     "level": "Secondary"
   },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in TFS Agile Planning Tools, with a focus on workflow issues rather than optimising work-in-progress limits and lead times.",
-    "level": "Ignored"
-  },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which relates to agile methodologies and team workflows, but it primarily focuses on technical issues rather than servant leadership or empowerment.",
-    "level": "Ignored"
-  },
   "Product Backlog": {
     "category": "Product Backlog",
     "ai_confidence": 92,
     "non_ai_confidence": 20,
     "final_score": 70.0,
     "reasoning": "Content primarily discusses the management and breakdown of Product Backlog Items in the context of Agile Planning Tools, providing strategies for effective backlog refinement.",
-    "level": "Secondary"
-  },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which aligns with Agile principles, but it primarily focuses on tool usage rather than coaching teams towards a true Agile ethos.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -823,36 +471,12 @@
     "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications for planning and workflow in Agile development, indicating a focus on product management and strategy.",
     "level": "Secondary"
   },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses Agile planning tools and the breakdown of Product Backlog Items, which are central concepts in Agile methodologies.",
-    "level": "Secondary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses the breakdown of Product Backlog Items and tasks, which relates to team ownership and workflow management, but it primarily focuses on the technical aspects of using TFS tools rather than empowering teams to drive value autonomously.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile planning tools and the breakdown of tasks, which relates to adaptability in project management, but it primarily focuses on specific issues with the tools rather than a broader theme of organisational agility.",
-    "level": "Ignored"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses issues related to the use of nested tasks in TFS Agile Planning Tools, focusing on Product Backlog Items and tasks rather than Kanban practices.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -871,22 +495,6 @@
     "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in Agile Planning Tools, with no clear focus on defining tests before implementation.",
     "level": "Ignored"
   },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in TFS and how to effectively manage Product Backlog Items and Tasks, which aligns with agile frameworks and techniques.",
-    "level": "Secondary"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to nested tasks in TFS 2012 Agile Planning Tools, which is not relevant to the concept of homepage posts for quick access.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
     "ai_confidence": 50,
@@ -902,14 +510,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses issues related to task management and workflow in Agile planning tools, which can indirectly relate to technical debt by highlighting inefficiencies in the development process. However, it primarily focuses on the use of specific tools rather than a clear strategy for managing or reducing technical debt.",
     "level": "Ignored"
-  },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on the management of Product Backlog Items and the implications of using nested tasks, which directly relates to maximising product value through effective backlog management.",
-    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -935,52 +535,12 @@
     "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS and the handling of nested tasks, without a clear focus on remote working practices or enabling effective distributed teams.",
     "level": "Ignored"
   },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile Planning Tools and the importance of breaking down Product Backlog Items, which relates to responding to customer needs and market changes, but it primarily focuses on technical issues with the tools rather than broader organisational agility.",
-    "level": "Ignored"
-  },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools within Team Foundation Server, focusing on nested tasks and their implications in Agile workflows.",
-    "level": "Secondary"
-  },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items in TFS, which relates to improving agile practices, but it is primarily focused on tool usage rather than empirical data or metrics.",
-    "level": "Ignored"
-  },
-  "CI/CD": {
-    "category": "CI/CD",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in Visual Studio Team Foundation Server, focusing on Agile planning tools rather than Continuous Integration and Continuous Delivery.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses the breakdown of Product Backlog Items and tasks in Agile planning, which relates to visualising workflows and optimising value delivery, but it primarily focuses on the limitations of the tools rather than a comprehensive value stream mapping approach.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile Planning tools and the breakdown of Product Backlog Items, which relates to the flow of value in a system, but it primarily focuses on the limitations of nested tasks in TFS rather than Kanban as a central theme.",
     "level": "Ignored"
   },
   "Continuous Learning": {
@@ -990,38 +550,6 @@
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on the use of Agile Planning Tools in TFS and the implications of nested tasks, with only a minor mention of workflow adjustments and best practices, which does not strongly align with the theme of continuous learning.",
     "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the use of Team Foundation Server (TFS) for agile planning, specifically focusing on the management of Product Backlog Items and tasks within the context of Azure DevOps tools.",
-    "level": "Secondary"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues and solutions related to Agile Planning Tools in TFS, with no personal thoughts or experiences shared.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the management of Product Backlog Items and tasks within the context of Agile planning tools, which is central to the application lifecycle management process.",
-    "level": "Secondary"
-  },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in the context of managing Product Backlog Items and tasks, which aligns with launching small-scale agile initiatives.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1037,14 +565,6 @@
     "non_ai_confidence": 0,
     "final_score": 59.0,
     "reasoning": "Content primarily discusses techniques for managing Product Backlog Items and tasks within Agile planning, focusing on improving operational efficiency in the context of TFS tools.",
-    "level": "Secondary"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses Agile planning tools and the breakdown of Product Backlog Items, which are relevant to the DevOps practice of continuous value delivery, but the primary focus is on specific issues with TFS rather than a broader DevOps context.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -1078,14 +598,6 @@
     "final_score": 38.0,
     "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which are relevant to Agile practices, but it primarily focuses on specific issues with TFS rather than extending Agile practices across multiple teams.",
     "level": "Ignored"
-  },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications for planning and delivery in agile teams, which enhances forecast accuracy and delivery consistency.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1127,14 +639,6 @@
     "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in the context of Visual Studio 2012 Team Foundation Server, focusing on Agile Planning tools rather than Kanban principles or scaling them in large organisations.",
     "level": "Ignored"
   },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications for Agile planning, which aligns with identifying customer needs and shaping product ideas through iterative exploration.",
-    "level": "Secondary"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 85,
@@ -1149,22 +653,6 @@
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses Agile planning and the breakdown of tasks within a team context, which relates to organisational dynamics, but the primary focus is on technical issues with TFS tools rather than systems thinking.",
-    "level": "Ignored"
-  },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which relates to Agile practices, but it is primarily focused on technical issues with a specific tool rather than certifications or validations of expertise.",
-    "level": "Ignored"
-  },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and tasks within an Agile context, indicating a major theme related to managing complex systems in Agile planning, but it primarily focuses on specific tool usage rather than broader complexity science principles.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1191,22 +679,6 @@
     "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in TFS Agile Planning Tools, with no focus on automated testing or related practices.",
     "level": "Ignored"
   },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses agile practices related to task management and backlog items within the context of TFS, indicating a focus on agile methodologies, but it does not primarily address the broader theme of scaling agile across large organisations.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses best practices for using Agile Planning Tools in TFS, focusing on the importance of correctly structuring Product Backlog Items and Tasks to ensure effective project management and maintainability.",
-    "level": "Secondary"
-  },
   "Scrum Values": {
     "category": "Scrum Values",
     "ai_confidence": 45,
@@ -1231,44 +703,12 @@
     "reasoning": "The content primarily discusses the technical aspects of using TFS Agile Planning Tools and does not focus on fostering engagement or high performance within teams.",
     "level": "Ignored"
   },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of breaking down Product Backlog Items and aligning tasks with Agile planning, which relates to prioritising high-impact work. However, the primary focus is on the technical aspects of using TFS tools rather than a direct alignment with business goals.",
-    "level": "Secondary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
     "final_score": 3.0,
     "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in TFS 2012 Agile Planning Tools, focusing on tool limitations and workflow solutions rather than asynchronous development practices.",
-    "level": "Ignored"
-  },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of using nested tasks in Agile planning, which relates to validating product ideas through effective backlog management. However, it primarily focuses on tool usage rather than direct user testing or market fit.",
-    "level": "Ignored"
-  },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the nuances of using Agile Planning Tools in TFS, focusing on refining the understanding and implementation of Product Backlog Items and Tasks, which aligns with continuous improvement in Agile practices.",
-    "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the use of nested tasks in TFS 2012 Agile Planning Tools, focusing on specific issues and solutions related to Agile methodologies, rather than miscellaneous topics.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -1295,38 +735,6 @@
     "reasoning": "The content discusses the importance of breaking down Product Backlog Items and Tasks, which relates to team ownership of commitments, but it primarily focuses on the technical aspects of using TFS tools rather than accountability as a central theme.",
     "level": "Ignored"
   },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning tools and the structure of tasks within them, with only a minor mention of data integrity and reporting. The focus is not on leveraging data insights for strategic decisions.",
-    "level": "Ignored"
-  },
-  "Continuos Integration": {
-    "category": "Continuos Integration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items in TFS Agile Planning Tools, with no clear focus on Continuous Integration practices.",
-    "level": "Ignored"
-  },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items and the implications of using nested tasks within Agile Planning tools, aligning closely with Lean Agile principles of efficiency and value optimisation.",
-    "level": "Secondary"
-  },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications for Agile planning, which aligns with technical decisions in the context of Agile methodologies. However, it primarily focuses on tool usage rather than a broader strategic alignment with business objectives.",
-    "level": "Secondary"
-  },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
     "ai_confidence": 50,
@@ -1341,22 +749,6 @@
     "non_ai_confidence": 10,
     "final_score": 62.0,
     "reasoning": "Content primarily discusses the management of Product Backlog Items and the implications of task structuring in Agile planning, which aligns closely with the responsibilities of a Product Owner.",
-    "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the use of Product Backlog Items and tasks within the context of Agile planning, which is central to Scrum methodology.",
-    "level": "Secondary"
-  },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the use of Agile Planning Tools in TFS, focusing on the breakdown of Product Backlog Items and the implications for Agile workflows.",
     "level": "Secondary"
   },
   "Digital Transformation": {
@@ -1391,28 +783,12 @@
     "reasoning": "Content primarily discusses the use of Azure Boards and Agile Planning tools in managing Product Backlog Items and tasks, highlighting their functionalities and limitations.",
     "level": "Secondary"
   },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the breakdown of Product Backlog Items into tasks and the implications for Agile planning, which is central to delivering working software iteratively.",
-    "level": "Secondary"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which relates to team workflows and collaboration, but it primarily focuses on tool usage rather than the concept of cross-functional teams.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of using nested tasks, which touches on the exploration aspect of Agile, but primarily focuses on tool usage and specific issues rather than a broader exploration of Agile principles.",
     "level": "Ignored"
   },
   "Scrum Master": {
@@ -1439,38 +815,6 @@
     "reasoning": "Content heavily discusses the use of Agile Planning Tools in the context of software development, specifically addressing the management of Product Backlog Items and tasks within an Agile framework.",
     "level": "Secondary"
   },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile planning tools and the breakdown of Product Backlog Items, which relates to Kanban principles, but it primarily focuses on specific issues with TFS and nested tasks rather than the foundational principles of Kanban as a value delivery strategy.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the optimisation of task management within agile teams, focusing on the correct use of Product Backlog Items and Tasks in the context of agile planning tools.",
-    "level": "Secondary"
-  },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS 2012 and does not focus on developing leadership skills or capabilities.",
-    "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of correctly structuring Product Backlog Items and Tasks in Agile planning, reflecting the iterative learning and improvement ethos of Agile methodologies.",
-    "level": "Secondary"
-  },
   "Team Performance": {
     "category": "Team Performance",
     "ai_confidence": 80,
@@ -1478,21 +822,5 @@
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the effective use of Agile Planning tools and the importance of correctly structuring Product Backlog Items and Tasks, which directly relates to maximising team effectiveness and collaboration.",
     "level": "Secondary"
-  },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile principles and tools, particularly in the context of managing Product Backlog Items and tasks within an Agile framework, but does not explicitly address AI-driven decision-making or automation.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools in TFS 2012 and the handling of nested tasks, without a focus on mentoring or developing future leaders in Agile.",
-    "level": "Ignored"
   }
 }

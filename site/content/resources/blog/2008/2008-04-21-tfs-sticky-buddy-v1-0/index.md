@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-sticky-buddy-v1-0
 - /blog/tfs-sticky-buddy-v1-0
 - /resources/blog/tfs-sticky-buddy-v1-0
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Azure DevOps
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-2-1.png
 
 ---

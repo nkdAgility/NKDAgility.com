@@ -24,29 +24,34 @@ preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
 tags:
-- Customer Feedback Loops
-- Value Delivery
-- Lean Product Development
-- Deployment Frequency
-- Data Driven Decisions
-- Software Development
+- Ability to Innovate
 - Continuous Delivery
-- Continuos Delivery
-- Agile Software Development
 - Continuous Integration
+- Continuous Learning
+- Customer Feedback Loops
+- Decision Making
+- Deployment Frequency
+- Engineering Excellence
+- Engineering Practices
 - Lead Time
-- Agile Product Management
-- Agile Problem Solving
-- Continuous Improvement
+- Lean Product Development
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
 - Product Strategy
+- Product Validation
+- Software Development
+- Throughput
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories:
+- Market Adaptability
 - Product Delivery
-- Metrics and Learning
 - Value Delivery
 
 ---

@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
 isShort: true
-tags:
-- Scrum Product Management
-- Product Owner
-- Agile Product Management
-- Team Collaboration
-- Agile Product Discovery
-- Customer Feedback Loops
-- Agile Planning
-- Continuous Improvement
-- Agile Values and Principles
-- Team Motivation
-- Agile Transformation
-- Agile Community
-- Scrum Team
-- Value Delivery
-- Agile Mentoring
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Product Management
-- People and Process
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about his favourite #scrumcourse to teach, and why that #scrumtraining resonates so much.

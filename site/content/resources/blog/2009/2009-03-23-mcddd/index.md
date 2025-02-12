@@ -21,11 +21,9 @@ aliasesFor404:
 - /mcddd
 - /blog/mcddd
 - /resources/blog/mcddd
-categories:
-- Events and Presentations
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
-tags:
-- Personal
+tags: []
 
 ---
 Its that time again and you should all be in Glasgow on the 2nd May for [Developer Day Scotland 2](http://developerdayscotland.com). There are some excellent speakers, some we saw last time and some new.

@@ -21,15 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true
-tags:
-- Agile Product Ownership
-- Team Collaboration
-- Team Motivation
-- Agile Transformation
-- Agile Values and Principles
-- Organisational Culture
-- Agile Coaching
-- Agile Apocalypse
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -37,11 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Agile Product Management
-- Transparency and Accountability
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the 5 #agile bandits. This video features a toxic #productowner 

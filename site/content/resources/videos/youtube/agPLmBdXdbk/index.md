@@ -25,17 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Transformation
-- Team Collaboration
-- Agile Methodology
-- Agile Community
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
+categories: []
 
 ---
 **Must have trait in an Agile Consultant**

@@ -25,29 +25,32 @@ duration: 477
 isShort: false
 tags:
 - Automated Testing
-- Continuous Integration
 - Continuous Delivery
-- Azure DevOps
-- Agile Software Development
-- Technical Excellence
-- Value Delivery
-- Site Reliability
-- Agile Product Management
-- Customer Feedback Loops
-- Lean Thinking
-- Agile Digital Tools
-- Evidence Based Management
+- Continuous Integration
+- Deployment Frequency
+- Deployment Strategies
+- Digital Transformation
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Site Reliability Engineering
+- Software Developers
+- Software Development
+- Strategy
+- Technical Mastery
+- Test Automation
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories:
-- AI and Automation in Agility
 - DevOps
-- Technical Excellence
-- Value Delivery
-- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Product Delivery
 
 ---
  Automate Everything: Building Reliable, Fast, and Scalable Products

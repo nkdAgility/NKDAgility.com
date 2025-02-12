@@ -25,11 +25,8 @@ aliasesFor404:
 - /community-credit-and-geekswithblogs-up-a-tree---
 - /blog/community-credit-and-geekswithblogs-up-a-tree---
 - /resources/blog/community-credit-and-geekswithblogs-up-a-tree
-tags:
-- Agile Community
-- Customer Feedback Loops
-categories:
-- News and Reviews
+tags: []
+categories: []
 preview: metro-award-link-1-1.png
 
 ---

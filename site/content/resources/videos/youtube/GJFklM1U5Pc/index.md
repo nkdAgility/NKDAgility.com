@@ -28,29 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Technical Excellence
-- Continuous Improvement
-- Agile Product Management
+- Accountability
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
 - Agile Transformation
-- Organisational Change
-- Agile Values and Principles
+- Coaching
+- Continuous Learning
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
 - Team Performance
-- Evidence Based Leadership
-- Agile Software Development
-- Definition of Done
-- Agile Coaching
-- Agile Product Ownership
-- Systems Thinking
-- Change Management
+- Technical Leadership
+- Trend Analysis
 resourceTypes:
 - video
 categories:
-- Scrum
-- Technical Excellence
-- Organisational Agility
+- DevOps
 - People and Process
-- Value Delivery
-- Resilience and Change
+- Transparency and Accountability
 
 ---
 The current state of Scrum Master roles is, to put it mildly, troubling. Across organizations, there’s a significant, systemic lack of competence in the Scrum Master accountability. This shortfall has grown from the agile boom of the past two decades, creating a demand for Scrum Masters that far outstrips the available supply. As a result, many individuals have transitioned into these roles without the necessary skills or experience to succeed.

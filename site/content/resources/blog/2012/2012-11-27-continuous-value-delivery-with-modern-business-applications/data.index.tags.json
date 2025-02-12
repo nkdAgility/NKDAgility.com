@@ -1,12 +1,4 @@
 {
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the transition to continuous delivery in Microsoft products, specifically mentioning Team Foundation Server, which is a key component of Azure DevOps.",
-    "level": "Secondary"
-  },
   "Azure Boards": {
     "category": "Azure Boards",
     "ai_confidence": 50,
@@ -47,14 +39,6 @@
     "reasoning": "The content primarily discusses continuous delivery and the cultural shifts required in software development, with only a brief mention of Scrum practices. Acceptance Test Driven Development is not a central theme.",
     "level": "Ignored"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, which are central to Agile Product Management practices.",
-    "level": "Secondary"
-  },
   "Continuous Integration": {
     "category": "Continuous Integration",
     "ai_confidence": 92,
@@ -79,36 +63,12 @@
     "reasoning": "Content primarily discusses the need for more frequent software delivery and the cultural changes required to achieve this, which directly relates to reducing lead time in software development.",
     "level": "Secondary"
   },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous delivery and the need for frequent updates, which aligns with Kanban principles, but it primarily focuses on the Scrum framework and Microsoft's practices.",
-    "level": "Ignored"
-  },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Framework and its principles, indicating a secondary theme related to Agile methodologies, but it primarily focuses on continuous delivery and software development practices.",
-    "level": "Ignored"
-  },
   "Organisational Culture": {
     "category": "Organisational Culture",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the cultural challenges organisations face in adapting to modern software delivery practices, highlighting the need for a shift in mindset and addressing underlying issues.",
-    "level": "Secondary"
-  },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, highlighting Agile principles and tools like Visual Studio and Team Foundation Server.",
     "level": "Secondary"
   },
   "Continuous Learning": {
@@ -134,14 +94,6 @@
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, highlighting the need for organisations to adapt to modern practices, which is a key aspect of digital transformation.",
     "level": "Secondary"
-  },
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the need for frequent software delivery and mentions Scrum practices, indicating a secondary theme related to Agile methodologies.",
-    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -183,14 +135,6 @@
     "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting agile practices in software development.",
     "level": "Secondary"
   },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses continuous delivery and deployment challenges, which are key aspects of site reliability, but it primarily focuses on software development practices and organisational culture.",
-    "level": "Secondary"
-  },
   "Definition of Done": {
     "category": "Definition of Done",
     "ai_confidence": 30,
@@ -223,14 +167,6 @@
     "reasoning": "Content heavily discusses the importance of continuous delivery and frequent updates in software development, specifically highlighting practices that lead to working software.",
     "level": "Secondary"
   },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, highlighting the need for organisations to adapt their strategies to deliver value more frequently and effectively.",
-    "level": "Secondary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
     "ai_confidence": 0,
@@ -245,30 +181,6 @@
     "non_ai_confidence": 20,
     "final_score": 70.0,
     "reasoning": "Content heavily discusses continuous delivery practices in software development, specifically referencing Visual Studio and Team Foundation Server, which are central to the software development process.",
-    "level": "Secondary"
-  },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the need for continuous delivery and frequent updates in software development, aligning closely with Agile principles and practices, particularly in the context of scaling Agile methodologies like Scrum.",
-    "level": "Secondary"
-  },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous delivery and the need for frequent updates, which aligns with Kanban principles, but it primarily focuses on the Scrum framework and Microsoft's practices.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of continuous delivery and frequent updates in software development, aligning closely with the principles of flow efficiency.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -294,14 +206,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the need for frequent delivery of software updates and the challenges associated with it, which relates to product discovery in terms of understanding consumer needs and improving product offerings. However, the primary focus is on software delivery practices rather than product discovery itself.",
     "level": "Ignored"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, particularly highlighting Microsoft's practices and the benefits of frequent updates.",
-    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -335,44 +239,12 @@
     "reasoning": "The content discusses the importance of delivering working software frequently, which aligns with Scrum principles, but the primary focus is on continuous delivery practices rather than Scrum values specifically.",
     "level": "Ignored"
   },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of delivering software frequently and mentions Scrum practices, but the primary focus is on continuous delivery and organisational culture rather than estimation specifically.",
-    "level": "Ignored"
-  },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of continuous delivery and frequent updates in software development, which implies a data-driven approach to decision-making in the context of software release cycles. However, the primary focus is on software development practices rather than explicitly on data-driven decisions.",
-    "level": "Ignored"
-  },
   "Technical Leadership": {
     "category": "Technical Leadership",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, highlighting leadership in adopting modern practices, particularly by Microsoft.",
-    "level": "Secondary"
-  },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the need for frequent delivery and the challenges associated with it, which aligns with the principles of predictability in Kanban, but it primarily focuses on continuous delivery and software development practices.",
-    "level": "Ignored"
-  },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery and the planning involved in frequent software updates, particularly in the context of Visual Studio and Team Foundation Server.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -383,14 +255,6 @@
     "reasoning": "The content discusses the importance of delivering software in shorter cycles, which aligns with the principles of Sprint Reviews, but the primary focus is on continuous delivery and organisational culture rather than the Sprint Review itself.",
     "level": "Ignored"
   },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and agile practices in software development, particularly through the lens of the Scrum framework.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "ai_confidence": 30,
@@ -399,28 +263,12 @@
     "reasoning": "The content discusses software delivery practices and mentions Scrum in passing, but it is primarily focused on continuous delivery and organisational culture rather than the Daily Scrum itself.",
     "level": "Ignored"
   },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the need for organisations to adapt their software delivery practices and addresses cultural challenges, which aligns with adaptive leadership principles, but it primarily focuses on software development and delivery rather than leadership itself.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the importance of continuous delivery and frequent updates in software development, aligning closely with Agile principles of delivering working software regularly.",
-    "level": "Secondary"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the need for organisations to transform their software delivery practices to adopt continuous delivery, highlighting cultural and operational changes necessary for effective transformation.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -463,14 +311,6 @@
     "reasoning": "The content discusses the need for organisations to adapt their software delivery practices, which relates to self-organisation, but it is primarily focused on continuous delivery and the challenges associated with it.",
     "level": "Ignored"
   },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses continuous delivery and the challenges associated with software development practices, with only a brief mention of Scrum, which is not central to the overall topic.",
-    "level": "Ignored"
-  },
   "BetaCodex": {
     "category": "BetaCodex",
     "ai_confidence": 50,
@@ -478,14 +318,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses continuous delivery and the Scrum Framework, which are related to BetaCodex principles, but the primary focus is on software development practices rather than BetaCodex itself.",
     "level": "Ignored"
-  },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the need for continuous delivery and the challenges associated with it, which aligns closely with Agile principles and problem-solving in software development.",
-    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -501,22 +333,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of delivering software updates frequently to meet consumer expectations, which indirectly relates to customer retention, but the primary focus is on software development practices rather than retention strategies.",
-    "level": "Ignored"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, highlighting the need for frequent updates and the resolution of underlying issues to improve delivery processes.",
-    "level": "Secondary"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of continuous delivery and references the Scrum Framework, indicating a significant focus on Agile principles, but it primarily centres on software development practices rather than mentoring.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -550,14 +366,6 @@
     "final_score": 52.0,
     "reasoning": "The content discusses continuous delivery and deployment challenges, which are relevant to Site Reliability Engineering, but the primary focus is on software development practices and organisational culture.",
     "level": "Secondary"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous value delivery in software development, with a focus on Microsoft and Visual Studio, making it a major but secondary theme.",
-    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -599,36 +407,12 @@
     "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, addressing operational challenges and practices that organisations must adopt to improve delivery frequency and quality.",
     "level": "Secondary"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses continuous delivery practices and the challenges associated with deploying software frequently, which are central themes in DevOps.",
-    "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the complexities and challenges of continuous delivery in software development, particularly in relation to Microsoft products, highlighting the need to address underlying issues for effective delivery.",
-    "level": "Secondary"
-  },
   "Frequent Releases": {
     "category": "Frequent Releases",
     "ai_confidence": 92,
     "non_ai_confidence": 0,
     "final_score": 64.0,
     "reasoning": "Content primarily discusses the need for and implementation of frequent software releases, particularly in the context of Microsoft's Visual Studio and Team Foundation Server, highlighting the shift towards continuous delivery.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting Agile principles in software development.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -687,60 +471,12 @@
     "reasoning": "The content discusses the shift towards continuous delivery and the need for organisations to adapt their software development practices, which aligns with strategic goals in improving delivery efficiency and responsiveness to consumer needs.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software development practices and continuous delivery rather than decision theory.",
-    "level": "Ignored"
-  },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous delivery and the need for frequent updates in software development, which aligns with Agile principles, but it primarily focuses on Microsoft's practices rather than Agile Product Discovery specifically.",
-    "level": "Ignored"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses continuous value delivery in software development, focusing on Microsoft and Visual Studio, rather than serving as a homepage or introductory content.",
-    "level": "Ignored"
-  },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting practices that align with Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Scrum Framework and its principles related to continuous delivery, making Agile practices a significant theme, but it is primarily focused on software development practices and Microsoft products.",
-    "level": "Ignored"
-  },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
     "final_score": 59.0,
     "reasoning": "Content discusses the importance of delivering working software frequently, referencing the Scrum Framework's emphasis on creating deployable software at least every 30 days.",
-    "level": "Secondary"
-  },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting Agile principles in software development.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -751,30 +487,6 @@
     "reasoning": "Content primarily discusses the need for continuous delivery and frequent updates in software development, aligning closely with Lean principles of minimising waste and delivering value quickly.",
     "level": "Secondary"
   },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery and the cultural changes required in software development, aligning closely with Agile principles.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery in software development, highlighting technical practices and challenges associated with modern business applications.",
-    "level": "Secondary"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software development practices, continuous delivery, and the Scrum framework, with no clear focus on nonlinear dynamics.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "ai_confidence": 0,
@@ -782,22 +494,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses software development practices and continuous delivery rather than focusing on team motivation.",
     "level": "Ignored"
-  },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous delivery and references the Scrum Framework, indicating a significant focus on Agile principles, but it primarily centres on software development practices and Microsoft products.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the cultural and organisational changes required for continuous delivery in software development, highlighting the importance of addressing underlying issues within teams and processes.",
-    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -807,14 +503,6 @@
     "reasoning": "The content discusses the Scrum Framework's emphasis on delivering working software frequently, which is a significant theme, but the primary focus is on continuous delivery practices in software development rather than specifically on scaling Scrum.",
     "level": "Ignored"
   },
-  "CI/CD": {
-    "category": "CI/CD",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, particularly in relation to Microsoft and Visual Studio, highlighting the importance of frequent updates and addressing deployment challenges.",
-    "level": "Secondary"
-  },
   "Remote Working": {
     "category": "Remote Working",
     "ai_confidence": 0,
@@ -822,14 +510,6 @@
     "final_score": 3.0,
     "reasoning": "The content primarily discusses software development practices and continuous delivery, with no clear focus on remote working.",
     "level": "Ignored"
-  },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the need for organisations to address underlying issues in software delivery processes, highlighting systemic problems and cultural barriers that hinder continuous value delivery.",
-    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -839,52 +519,12 @@
     "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, highlighting trends in release cycles and consumer expectations.",
     "level": "Secondary"
   },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous delivery and the need for frequent updates in software development, which aligns with Agile principles, but it primarily focuses on specific tools and practices rather than broader portfolio management strategies.",
-    "level": "Ignored"
-  },
   "Transparency": {
     "category": "Transparency",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 35.0,
     "reasoning": "The content discusses the shift towards continuous delivery and the challenges associated with it, which implies a level of transparency in software development practices, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and frequent updates in software development, which aligns with the principles of value prioritisation by emphasising delivering value to consumers more rapidly.",
-    "level": "Secondary"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software development practices and the continuous delivery model, with no clear focus on personal experiences or topics.",
-    "level": "Ignored"
-  },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of frequent software delivery and references the Scrum Framework, indicating a significant focus on Agile principles, though it also covers broader topics related to software development practices.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the evolution of software delivery practices and the importance of continuous delivery, which relates to learning and adapting in software development, but it is primarily focused on specific software tools and practices rather than a broader theme of discovery and learning.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -894,14 +534,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses Team Foundation Server, which is related to Azure Repos, but the primary focus is on continuous delivery and software development practices rather than Azure Repos specifically.",
     "level": "Ignored"
-  },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the need for frequent software delivery and the challenges associated with it, aligning closely with Agile principles of predictability and iterative development.",
-    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -917,14 +549,6 @@
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses the need for frequent delivery of software and the challenges associated with it, which aligns with the principles of hypothesis-driven development, but it is primarily focused on continuous delivery practices and organisational culture.",
-    "level": "Ignored"
-  },
-  "Sprint Planning Workshop": {
-    "category": "Sprint Planning Workshop",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the importance of frequent software delivery and mentions Scrum practices, indicating a secondary theme related to sprint cycles.",
     "level": "Ignored"
   },
   "Test Driven Development": {
@@ -943,14 +567,6 @@
     "reasoning": "Content primarily discusses the need for continuous delivery and the elimination of old practices that hinder value delivery, aligning closely with Lean Thinking principles.",
     "level": "Secondary"
   },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous delivery and the need for frequent updates, which aligns with Kanban principles, but it primarily focuses on the Scrum framework and Microsoft's practices.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "ai_confidence": 50,
@@ -967,14 +583,6 @@
     "reasoning": "The content discusses continuous delivery and the need for frequent updates, which aligns with scaling practices in Kanban, but it primarily focuses on the challenges and practices of software delivery rather than Kanban specifically.",
     "level": "Ignored"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of continuous value delivery in software development, particularly through the lens of modern practices and the Scrum Framework.",
-    "level": "Secondary"
-  },
   "Mentoring": {
     "category": "Mentoring",
     "ai_confidence": 0,
@@ -982,14 +590,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses software development practices and continuous delivery, with no clear focus on mentoring.",
     "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of continuous delivery and frequent updates in software development, aligning closely with agile principles.",
-    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1023,38 +623,6 @@
     "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, particularly focusing on Microsoft's practices and the benefits of frequent updates.",
     "level": "Secondary"
   },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the complexities involved in software delivery and deployment processes, which aligns with themes in complexity science, but it primarily focuses on software development practices rather than complexity science itself.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses various aspects of software delivery and development practices, which are secondary themes to the main focus on continuous value delivery in business applications.",
-    "level": "Ignored"
-  },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software development practices and continuous delivery, with no clear focus on leadership training.",
-    "level": "Ignored"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the strategic shift towards continuous delivery in software development, highlighting the need for organisations to adapt their practices to meet consumer demands for more frequent updates.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "ai_confidence": 50,
@@ -1071,14 +639,6 @@
     "reasoning": "Content discusses the Scrum Framework's emphasis on delivering working software at least every 30 days, indicating a strong focus on Scrum principles.",
     "level": "Secondary"
   },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the need for continuous delivery and the challenges associated with it, which are relevant to testing strategies, but the primary focus is on software delivery practices rather than a detailed test strategy.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "ai_confidence": 80,
@@ -1086,14 +646,6 @@
     "final_score": 59.0,
     "reasoning": "The content discusses the importance of delivering software updates more frequently to meet consumer expectations, highlighting the relationship between continuous delivery and customer satisfaction.",
     "level": "Secondary"
-  },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of continuous delivery and agile practices, particularly in the context of software development and the Scrum Framework, but it is primarily focused on the challenges and changes in software delivery rather than resource management specifically.",
-    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1111,14 +663,6 @@
     "reasoning": "The content primarily discusses continuous delivery and the challenges associated with it, rather than focusing on backlog refinement.",
     "level": "Ignored"
   },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the need for continuous delivery and agile practices in software development, highlighting the shift in organisational culture required for enterprise agility.",
-    "level": "Secondary"
-  },
   "Accountability": {
     "category": "Accountability",
     "ai_confidence": 50,
@@ -1126,30 +670,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the need for organisations to take responsibility for their software delivery practices and the cultural changes required to improve them, making accountability a significant theme.",
     "level": "Ignored"
-  },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting the need for frequent software updates and addressing cultural challenges in software development.",
-    "level": "Secondary"
-  },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting Agile practices in software development.",
-    "level": "Secondary"
-  },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting leadership in adopting agile practices within software development.",
-    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1159,36 +679,12 @@
     "reasoning": "The content primarily discusses software development practices and continuous delivery rather than focusing on entrepreneurship as a central theme.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the need for organisations to adopt continuous delivery practices and the cultural shifts required to support more frequent software updates, aligning closely with the principles of organisational agility.",
-    "level": "Secondary"
-  },
   "Software Development": {
     "category": "Software Development",
     "ai_confidence": 92,
     "non_ai_confidence": 10,
     "final_score": 67.0,
     "reasoning": "Content heavily discusses continuous delivery practices in software development, specifically in relation to Microsoft and Visual Studio, making it a primary topic.",
-    "level": "Secondary"
-  },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous delivery and the need for frequent updates in software development, which aligns with Lean UX principles, but it primarily focuses on the practices of Microsoft and the Scrum framework rather than Lean UX itself.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "Content discusses the Scrum Framework's emphasis on delivering working software every 30 days, indicating a strong focus on Scrum principles.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1199,14 +695,6 @@
     "reasoning": "The content discusses the importance of continuous delivery and the cultural shifts required in organisations, which aligns with evidence-based leadership principles, but it primarily focuses on software development practices.",
     "level": "Ignored"
   },
-  "Scrum Product Management": {
-    "category": "Scrum Product Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content discusses the importance of delivering working software frequently, aligning with Scrum principles, and mentions Scrum's role in addressing deployment challenges.",
-    "level": "Secondary"
-  },
   "Scaled Agile": {
     "category": "Scaled Agile",
     "ai_confidence": 80,
@@ -1215,36 +703,12 @@
     "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting the need for frequent software updates and addressing cultural challenges in organisations.",
     "level": "Secondary"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the need for continuous delivery and the underlying issues in software development, which aligns with systems thinking principles, but it primarily focuses on software delivery practices.",
-    "level": "Ignored"
-  },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of frequent software delivery and references the Scrum Framework, indicating a significant focus on Agile principles, though it primarily centres on Microsoft's practices.",
-    "level": "Secondary"
-  },
   "Organisational Physics": {
     "category": "Organisational Physics",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
     "final_score": 56.0,
     "reasoning": "Content primarily discusses the cultural and organisational changes required for continuous value delivery in software development, aligning closely with the principles of Organisational Physics.",
-    "level": "Secondary"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery and the challenges associated with traditional software development practices, which aligns closely with Agile principles.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1271,38 +735,6 @@
     "reasoning": "The content discusses the Scrum Framework and its emphasis on delivering working software frequently, but the primary focus is on continuous delivery practices in software development.",
     "level": "Ignored"
   },
-  "Continuos Integration": {
-    "category": "Continuos Integration",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, particularly in relation to Visual Studio and Team Foundation Server, highlighting the importance of frequent updates and addressing deployment challenges.",
-    "level": "Secondary"
-  },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and frequent updates in software development, aligning closely with Agile principles and practices.",
-    "level": "Secondary"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of frequent software delivery and mentions the Scrum Framework, indicating a connection to Agile principles, but it primarily focuses on software development practices rather than mentoring specifically.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery and the need for organisations to adapt their software development practices to deliver value more frequently, which aligns closely with the principles of business agility.",
-    "level": "Secondary"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "ai_confidence": 85,
@@ -1310,14 +742,6 @@
     "final_score": 59.0,
     "reasoning": "Content primarily discusses the importance of continuous delivery and the challenges associated with it, highlighting engineering practices that enhance software development efficiency.",
     "level": "Secondary"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of delivering software frequently, which aligns with Scrum principles, but it primarily focuses on continuous delivery and organisational culture rather than specifically on Sprint Review Workshops.",
-    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1335,14 +759,6 @@
     "reasoning": "Content primarily discusses the importance of continuous delivery in software development, focusing on technical challenges and solutions related to deployment and software updates.",
     "level": "Secondary"
   },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the need for continuous delivery and frequent software updates, highlighting the shift in software development practices towards more regular increments.",
-    "level": "Secondary"
-  },
   "System Configuration": {
     "category": "System Configuration",
     "ai_confidence": 50,
@@ -1350,46 +766,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the challenges and practices related to software delivery and deployment, which are relevant to system configuration, but the primary focus is on the cultural shift in software development rather than specific system configuration topics.",
     "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the cultural shifts required in software development, which are central themes in value stream management.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, highlighting the need for organisations to adapt and overcome traditional practices that hinder progress.",
-    "level": "Secondary"
-  },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting agile principles in software development.",
-    "level": "Secondary"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the need for frequent software updates and the shift towards continuous delivery, highlighting how organisations must adapt to changing consumer expectations.",
-    "level": "Secondary"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses continuous delivery practices and the importance of frequent software updates, which are central themes in Application Lifecycle Management.",
-    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
@@ -1406,38 +782,6 @@
     "final_score": 56.0,
     "reasoning": "Content primarily discusses the shift in software delivery practices and the cultural changes required within organisations to adopt continuous delivery, highlighting the need for organisational change to improve software development processes.",
     "level": "Secondary"
-  },
-  "Kanban Training": {
-    "category": "Kanban Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses continuous delivery and software development practices, with a focus on Microsoft and Visual Studio, rather than Kanban training specifically.",
-    "level": "Ignored"
-  },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the shift towards continuous delivery in software development, highlighting the strategic implications for organisations and the need to adapt to modern practices.",
-    "level": "Secondary"
-  },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of continuous delivery and the Scrum Framework, emphasising the need for frequent software updates and addressing organisational culture in software development.",
-    "level": "Secondary"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses continuous delivery and software development practices, with only a brief mention of Scrum, which is not central to the overall topic.",
-    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1461,22 +805,6 @@
     "non_ai_confidence": 10,
     "final_score": 67.0,
     "reasoning": "Content primarily discusses the shift towards continuous delivery and the challenges associated with deploying software frequently, making deployment strategies a central theme.",
-    "level": "Secondary"
-  },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the need for continuous delivery and improvement in software development practices, highlighting the importance of addressing underlying issues to enhance delivery frequency and quality.",
-    "level": "Secondary"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the Scrum Framework, highlighting the need for frequent software updates and addressing cultural challenges in software development.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {

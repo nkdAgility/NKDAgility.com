@@ -21,16 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true
-tags:
-- Team Collaboration
-- Psychological Safety
-- Accountability
-- Continuous Improvement
-- Organisational Culture
-- Team Motivation
-- Business Agility
-- Change Management
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -38,11 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Organisational Psychology
-- Resilience and Change
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Patience. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productmanagement #productmanager #agile #scrum 

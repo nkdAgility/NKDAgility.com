@@ -8,43 +8,48 @@ date: 2025-02-13T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Benjamin Day
-    external: https://www.linkedin.com/in/benjaminpday/
-  - name: Dave Westgarth
-    external: https://www.linkedin.com/in/dave-westgarth/
-  - name: Vladimir Khvostov
-    external: https://www.linkedin.com/in/vladimirkhvostov/
+- name: Benjamin Day
+  external: https://www.linkedin.com/in/benjaminpday/
+- name: Dave Westgarth
+  external: https://www.linkedin.com/in/dave-westgarth/
+- name: Vladimir Khvostov
+  external: https://www.linkedin.com/in/vladimirkhvostov/
 layout: blog
 resourceTypes: blog
 slug: testing-in-production-maximises-quality-and-value
 aliases:
-  - /resources/_ncZFfeCrnS
+- /resources/_ncZFfeCrnS
 aliasesFor404:
-  - /testing-in-production-maximises-quality-and-value
-  - /blog/testing-in-production-maximises-quality-and-value
+- /testing-in-production-maximises-quality-and-value
+- /blog/testing-in-production-maximises-quality-and-value
 tags:
-  - Azure DevOps
-  - CI/CD
-  - Continuous Delivery
-  - Continuous Improvement
-  - Customer Feedback Loops
-  - Deployment Strategies
-  - DevOps
-  - Engineering Excellence
-  - Experimentation
-  - Software Development
-  - Strategic
-  - Technical Strategy
-  - Value Delivery
-  - Windows
-  - Working Software
+- Continuous Delivery
+- Customer Feedback Loops
+- Deployment Frequency
+- Deployment Strategies
+- Digital Transformation
+- Empirical Process Control
+- Engineering Excellence
+- Engineering Practices
+- Experimentation
+- Frequent Releases
+- Increment
+- Operational Practices
+- Pragmatic Thinking
+- Product Validation
+- Release Management
+- Software Developers
+- Software Development
+- Strategy
+- Technical Mastery
+- Working Software
 categories:
-  - DevOps
-  - Product Delivery
-  - Value Delivery
+- DevOps
+- Product Delivery
+- Value Delivery
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
----
 
+---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.
 
 One such paradigm shift in software delivery is audience-based deployment.

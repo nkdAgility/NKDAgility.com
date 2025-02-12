@@ -21,12 +21,8 @@ aliasesFor404:
 - /windows-live-writer-beta-3
 - /blog/windows-live-writer-beta-3
 - /resources/blog/windows-live-writer-beta-3
-tags:
-- Deployment Strategies
-- Customer Feedback Loops
-categories:
-- Install and Configuration
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

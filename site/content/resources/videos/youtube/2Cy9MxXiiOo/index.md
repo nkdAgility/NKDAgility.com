@@ -26,28 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Sprint Planning Workshop
-- Scrum Product Management
-- Scrum Team
-- Sprint Review
-- Definition of Done
-- Agile Planning
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Product Management
-- Continuous Improvement
-- Agile Values and Principles
-- Agile Product Discovery
-- Value Delivery
-- Team Motivation
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- Agile Product Management
-- Value Delivery
+categories: []
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Complexity Thinking
-- Agile Planning
-- Agile Software Development
-- Agile Transformation
-- Systems Thinking
-- Organisational Agility
-- Change Management
-- Agile Values and Principles
-- Agile Methodology
-- Agile Problem Solving
-- Evidence Based Management
-- Continuous Improvement
-- Agile Leadership
-- Business Agility
+tags: []
 resourceTypes:
 - video
-categories:
-- Complexity Thinking
-- Agile Product Management
-- Systems Thinking
-- Discovery and Learning
-- People and Process
+categories: []
 
 ---
 ## Project Management in Intricate Environments

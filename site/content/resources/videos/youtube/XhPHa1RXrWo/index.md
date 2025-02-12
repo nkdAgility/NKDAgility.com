@@ -28,29 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Evolution
-- Agile Values and Principles
-- Agile Methodology
-- Agile Leadership
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Organisational Agility
-- Agile Product Discovery
-- Technical Mastery
-- Agile Coaching
-- Change Management
-- Systems Thinking
-- Evidence Based Management
+- Agile Frameworks
+- Agile Philosophy
+- Agile Strategy
 - Agile Transformation
+- Agile Values and Principles
+- Organisational Physics
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
 categories:
-- People and Process
-- Organisational Agility
-- Technical Excellence
-- Discovery and Learning
 - Complexity Thinking
+- Organisational Agility
+- People and Process
 
 ---
 **Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses—like your neighborhood cobbler—knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.

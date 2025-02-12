@@ -19,24 +19,29 @@ aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- Agile Software Development
-- Agile Software Engineering
-- Agility
-- Continuos Delivery
+- Agile Strategy
 - Continuous Delivery
 - Continuous Integration
-- Cycle Time
-- DevOps
+- Decision Making
+- Deployment Frequency
+- Deployment Strategies
+- Engineering Excellence
 - Engineering Practices
-- Flow Efficiency
+- Frequent Releases
+- Lead Time
 - Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
 - Software Developers
 - Software Development
-- Value Delivery
-- Value Stream Management
+- Strategy
+- Technical Mastery
+- Throughput
+- Working Software
 categories:
-- Code and Complexity
 - DevOps
+- Technical Excellence
 - Value Delivery
 preview: 2025-02-06-stop-promoting-branches.jpg
 

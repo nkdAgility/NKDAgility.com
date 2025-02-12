@@ -27,28 +27,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Agile Product Management
-- Value Prioritisation
-- Continuous Improvement
-- Lean Thinking
-- Evidence Based Management
-- Technical Debt
-- Agile Product Discovery
-- Customer Feedback Loops
-- Agile Software Development
-- Definition of Done
-- Value Delivery
+- Agile Planning
+- Agile Project Management
+- Lean Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Team Performance
 resourceTypes:
 - video
 layout: video
 categories:
-- Value Delivery
-- Lean
 - Agile Product Management
 - Metrics and Learning
-- Value Stream Management
+- People and Process
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 

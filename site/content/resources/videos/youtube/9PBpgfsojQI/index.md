@@ -28,29 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategic Goals
-- Agile Product Ownership
-- Scrum Product Management
-- Team Collaboration
-- Continuous Improvement
-- Employee Engagement
 - Agile Planning
-- Value Delivery
-- Agile Product Discovery
-- Business Agility
-- Agile Leadership
-- Customer Feedback Loops
-- Agile Transformation
-- Technical Excellence
+- Agile Project Management
+- Agile Strategy
+- Coaching
+- Continuous Learning
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Product Strategy
+- Scrum Product Development
+- Software Development
+- Strategy
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- People and Process
 - Agile Product Management
+- People and Process
 - Value Delivery
-- Scrum
-- Kanban
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

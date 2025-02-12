@@ -29,11 +29,8 @@ resourceTypes:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories:
-- Decision Theory
-tags:
-- Team Motivation
-- Business Agility
+categories: []
+tags: []
 
 ---
  Unlock the secrets of ethical agility! Martin Hinshelwood and Simon Reindl dive deep into the world of agile ethics, personal values, and the implications of our actions in today's fast-paced professional landscape. From civilisations' first steps to the challenges of modern organisations, join the journey of reflection and discovery. 🌍🔍💼

@@ -21,12 +21,8 @@ aliasesFor404:
 - /new-event-handlers
 - /blog/new-event-handlers
 - /resources/blog/new-event-handlers
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Install and Configuration
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

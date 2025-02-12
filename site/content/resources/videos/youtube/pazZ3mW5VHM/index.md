@@ -31,23 +31,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Team Collaboration
-- Agile Values and Principles
-- Scrum Team
-- Agile Mentoring
-- Team Motivation
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Community
-- Agile Leadership
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Psychology
-- Events and Presentations
+categories: []
 
 ---
 ## Common Comments from the PSPO Course

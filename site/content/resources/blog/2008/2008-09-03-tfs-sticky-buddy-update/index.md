@@ -21,13 +21,9 @@ aliasesFor404:
 - /tfs-sticky-buddy-update
 - /blog/tfs-sticky-buddy-update
 - /resources/blog/tfs-sticky-buddy-update
-tags:
-- Agile Tools
-- Continuous Improvement
+tags: []
 preview: metro-aggreko-128-link-1-1.png
-categories:
-- Application Lifecycle Management
-- Install and Configuration
+categories: []
 
 ---
 The Sticky Buddy has been updated to fix the following problems:

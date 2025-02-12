@@ -21,11 +21,8 @@ aliasesFor404:
 - /tfs-event-handler-ctp-2-released
 - /blog/tfs-event-handler-ctp-2-released
 - /resources/blog/tfs-event-handler-ctp-2-released
-tags:
-- Agile Software Development
-- Continuous Delivery
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

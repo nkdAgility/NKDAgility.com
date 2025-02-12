@@ -25,11 +25,8 @@ aliasesFor404:
 - /vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
 - /blog/vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
 - /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-tags:
-- Technical Debt
-- Agile Tools
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-problem-icon-2-2.png
 
 ---

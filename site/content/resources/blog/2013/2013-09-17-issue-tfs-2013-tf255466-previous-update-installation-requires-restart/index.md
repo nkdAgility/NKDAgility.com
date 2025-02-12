@@ -25,21 +25,8 @@ aliasesFor404:
 - /issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /blog/issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
-tags:
-- Azure DevOps
-- Operational Practices
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Windows
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-problem-icon-4-4.png
 
 ---

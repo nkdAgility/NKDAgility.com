@@ -22,11 +22,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
 duration: 2112
 isShort: false
-tags:
-- Miscellaneous
-- DevOps
-- Scrum
-- MVP
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -34,8 +30,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Events and Presentations
-- Miscellaneous
 - DevOps
 
 ---

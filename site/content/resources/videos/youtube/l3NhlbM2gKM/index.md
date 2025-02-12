@@ -28,27 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Scrum Master
-- Scrum Product Management
-- Agile Estimation
-- Continuous Improvement
-- Agile Planning
+- Agile Frameworks
+- Agile Project Management
 - Backlog Refinement
-- Technical Excellence
-- Value Delivery
-- Agile Product Management
-- Evidence Based Improvement
-- Agile Values and Principles
-- Complexity Thinking
+- Estimation
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
-- Metrics and Learning
 - People and Process
-- Discovery and Learning
-- Technical Excellence
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

@@ -28,26 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agility
-- Scrum
-- Agile Software Development
-- Agile Transformation
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
 - Agile Project Management
-- Agile Software Engineering
-- Agile Product Management
-- People and Process
 - Agile Strategy
-- Agile Leader
-- Agile Community
-- Agile Coaching
-- Agile Evolution
-- Agile Pilot
-- Agile Methodology
+- Agile Transformation
+- Change Management
+- Coaching
+- Continuous Learning
+- Digital Transformation
+- Organisational Change
+- Organisational Culture
+- Pragmatic Thinking
+- Software Development
+- Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
 - Agile Product Management
+- Organisational Agility
 - People and Process
 
 ---

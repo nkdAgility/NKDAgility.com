@@ -4,7 +4,7 @@ resourceTypes: workshop
 layout: workshop
 description: The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review.
 ResourceId: 8gWwC3tvV_f
-ResourceImport: true
+ResourceImport: false
 ResourceType: workshops
 aliases:
 - /workshops/Sprint-Review-1.html
@@ -40,26 +40,30 @@ card:
   content: Discover more about "Sprint Review
   title: 'Sprint Review #1'
 categories:
-- Scrum
-- Transparency and Accountability
-- People and Process
-- Value Delivery
 - Discovery and Learning
+- People and Process
+- Transparency and Accountability
 tags:
-- Sprint Review
-- Scrum Team
-- Definition of Done
-- Product Backlog
-- Agile Planning
-- Team Collaboration
-- Continuous Improvement
+- Agile Transformation
+- Continuous Learning
 - Customer Feedback Loops
-- Agile Product Ownership
-- Working Agreements
-- Agile Product Management
+- Decision Making
+- Increment
+- Pragmatic Thinking
+- Product Backlog
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Master
 - Scrum Product Development
-- Evidence Based Management
+- Scrum Team
+- Software Developers
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Team Performance
 - Transparency
+- Working Software
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

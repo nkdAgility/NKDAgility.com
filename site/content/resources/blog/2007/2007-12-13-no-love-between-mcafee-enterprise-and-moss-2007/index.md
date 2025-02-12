@@ -21,11 +21,8 @@ aliasesFor404:
 - /no-love-between-mcafee-enterprise-and-moss-2007
 - /blog/no-love-between-mcafee-enterprise-and-moss-2007
 - /resources/blog/no-love-between-mcafee-enterprise-and-moss-2007
-tags:
-- Technical Debt
-- Change Management
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

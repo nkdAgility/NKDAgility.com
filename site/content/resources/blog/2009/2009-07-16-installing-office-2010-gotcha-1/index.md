@@ -21,11 +21,9 @@ aliasesFor404:
 - /installing-office-2010-gotcha-1
 - /blog/installing-office-2010-gotcha-1
 - /resources/blog/installing-office-2010-gotcha-1
-tags:
-- Troubleshooting
+tags: []
 preview: nakedalm-logo-128-link-2-2.png
-categories:
-- '""'
+categories: []
 
 ---
 I am installing office 2010, and I ran into my first gotcha!

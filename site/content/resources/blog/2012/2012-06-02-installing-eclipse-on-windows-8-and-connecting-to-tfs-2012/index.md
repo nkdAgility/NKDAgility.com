@@ -21,12 +21,8 @@ aliasesFor404:
 - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
-tags:
-- Agile Software Development
-- Application Lifecycle Management
-categories:
-- Install and Configuration
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-12-12.png
 
 ---

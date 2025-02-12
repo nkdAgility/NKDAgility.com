@@ -24,30 +24,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/atV8TIupSsg/maxresdefault.jpg
 duration: 81
 isShort: false
-tags:
-- Leadership Training
-- Agile Coaching
-- Agile Values and Principles
-- Agile Methodology
-- Agile Community
-- Remote Working
-- Agile Transformation
-- Professional Scrum
-- Agile Scaling
-- Agile Project Management
-- Agile Software Development
-- Continuous Learning
-- Team Collaboration
-- Team Motivation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Events and Presentations
-- Organisational Agility
-- Agile Product Management
+categories: []
 
 ---
  This Professional Agile Leadership workshop is open to the public and delivered over 4 1/2 days from  27 – 30 July 2020 at:

@@ -21,10 +21,8 @@ aliasesFor404:
 - /visual-studio-2010-supports-uml
 - /blog/visual-studio-2010-supports-uml
 - /resources/blog/visual-studio-2010-supports-uml
-tags:
-- '""'
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

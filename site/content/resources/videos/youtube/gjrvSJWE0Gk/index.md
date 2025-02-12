@@ -26,28 +26,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Predictability
-- Evidence Based Management
-- Agile Planning
-- Value Stream Management
-- Team Collaboration
-- Continuous Improvement
-- Agile Forecasting
-- Data Driven Decisions
-- Lean Thinking
-- Flow Efficiency
-- Value Delivery
-- Agile Transformation
-- Kanban Theory
-- Agile Digital Tools
+- Decision Making
+- Estimation
+- Forecasting
+- Operational Practices
+- Pragmatic Thinking
+- Strategy
 resourceTypes:
 - video
 categories:
 - Metrics and Learning
+- Practical Techniques and Tooling
 - Value Delivery
-- Kanban
-- Flow Efficiency
-- Value Stream Management
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course

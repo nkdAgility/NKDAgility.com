@@ -22,34 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
-tags:
-- Scrum Master
-- Agile Community
-- Continuous Learning
-- Team Collaboration
-- Agile Product Management
-- Agile Certification
-- Agile Problem Solving
-- Team Motivation
-- Psychological Safety
-- Agile Transformation
-- Value Delivery
-- Scrum Team
-- Evidence Based Improvement
-- Coaching
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
-- Organisational Agility
-- Value Delivery
+categories: []
 
 ---
  The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.

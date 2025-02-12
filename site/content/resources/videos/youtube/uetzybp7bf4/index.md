@@ -24,31 +24,35 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
-- Continuous Improvement
-- Team Motivation
-- Employee Engagement
-- Business Agility
-- Value Prioritisation
-- Decision Theory
-- Evidence Based Management
-- Organisational Culture
-- Agile Product Discovery
-- Customer Feedback Loops
-- Experimentation
-- Lean Thinking
+- Ability to Innovate
 - Agile Leadership
-- Entrepreneurship
+- Agile Philosophy
+- Agile Strategy
+- Change Management
+- Continuous Learning
+- Decision Making
+- Lean Product Development
+- Operational Practices
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Sensemaking
+- Strategy
+- Team Collaboration
+- Team Motivation
+- Team Performance
+- Technical Leadership
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- Value Delivery
-- Metrics and Learning
-- People and Process
-- Organisational Agility
 - Discovery and Learning
+- People and Process
+- Transparency and Accountability
 
 ---
  Empowering Teams with Financial Transparency: Maximizing ROI in Product Development | Martin Hinshelwood

@@ -21,12 +21,9 @@ aliasesFor404:
 - /unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 - /blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
-tags:
-- Troubleshooting
+tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories:
-- Application Lifecycle Management
-- Install and Configuration
+categories: []
 
 ---
 I have a number of [CodePlex](http://www.codeplex.com "CodePlex") projects that I connect to from work and I have had a problem since 2008 that it does not always send my authentication to the proxy server (ISA). What this manifests as is that I get a popup telling me that “Proxy authentication is required”. The workaround was to connect in offline and then click the connect button and everything invariable works with no additional problems.

@@ -25,29 +25,24 @@ duration: 613
 isShort: false
 tags:
 - Automated Testing
-- Continuous Integration
-- Test Automation
-- Agile Software Development
-- Value Delivery
-- Customer Feedback Loops
-- Deployment Frequency
-- Agile Tools
-- Azure DevOps
-- Technical Excellence
 - Continuous Delivery
-- Lean Thinking
-- Evidence Based Management
+- Continuous Integration
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Technical Mastery
+- Test Automation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- AI and Automation in Agility
-- Technical Excellence
-- Value Delivery
-- Flow Efficiency
-- Code and Complexity
+- Azure DevOps
+- DevOps
+- Practical Techniques and Tooling
 
 ---
  Why Automation Is Key to Reducing Mistakes and Maximizing Efficiency in Software Development | Martin Hinshelwood

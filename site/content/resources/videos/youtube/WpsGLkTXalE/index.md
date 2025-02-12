@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
 duration: 50
 isShort: true
-tags:
-- Agile Apocalypse
-- Psychological Safety
-- Team Collaboration
-- Team Motivation
-- Customer Feedback Loops
-- Continuous Improvement
-- Employee Engagement
-- Organisational Culture
-- Agile Values and Principles
-- Change Management
-- Business Agility
-- Decision Making
-- Accountability
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- Transparency and Accountability
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo Stillness is key to great work. The ability to reflect, do the deep work, and remain calm is a super power. That said, in the realms of #agile, Silence can be harbinger of disaster. Martin Hinshelwood explains why.

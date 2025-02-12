@@ -25,13 +25,9 @@ aliasesFor404:
 - /always-prompted-for-credentials-in-tfs-2010-
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/blog/always-prompted-for-credentials-in-tfs-2010
-tags:
-- Technical Debt
-- Agile Tools
+tags: []
 preview: metro-visual-studio-2005-128-link-6-6.png
-categories:
-- Install and Configuration
-- Azure DevOps
+categories: []
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-10-10.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo.png)

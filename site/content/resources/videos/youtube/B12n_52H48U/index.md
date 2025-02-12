@@ -30,28 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Agile Product Ownership
-- Decision Making
+- Accountability
+- Agile Project Management
 - Agile Strategy
-- Change Management
-- Continuous Improvement
-- Market Adaptability
-- Team Collaboration
-- Agile Planning
-- Agile Product Discovery
-- Evidence Based Management
-- Customer Feedback Loops
-- Adaptive Leadership
-- Agile Transformation
+- Decision Making
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Scrum Product Development
+- Sensemaking
 resourceTypes:
 - video
 categories:
+- Agile Product Management
 - Decision Theory
-- Organisational Agility
 - People and Process
-- Discovery and Learning
-- Value Delivery
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

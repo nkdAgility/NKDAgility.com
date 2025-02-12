@@ -30,26 +30,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Management
-- Customer Feedback Loops
-- Agile Product Discovery
-- Agile Coaching
-- Continuous Improvement
-- Team Collaboration
-- Agile Product Management
+- Agile Frameworks
 - Agile Planning
-- Agile Values and Principles
-- Psychological Safety
-- Experimentation
-- Value Delivery
+- Agile Project Management
+- Customer Feedback Loops
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Team Performance
+- Working Software
 resourceTypes:
 - video
 categories:
-- Scrum
-- Events and Presentations
 - Agile Product Management
-- People and Process
-- Discovery and Learning
+- Events and Presentations
+- Product Delivery
 
 ---
 ## 🚀 Demystifying the Sprint Review Workshop 

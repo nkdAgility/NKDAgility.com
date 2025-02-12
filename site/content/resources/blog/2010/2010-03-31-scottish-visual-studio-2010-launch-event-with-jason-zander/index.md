@@ -21,12 +21,8 @@ aliasesFor404:
 - /scottish-visual-studio-2010-launch-event-with-jason-zander
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 - /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
-tags:
-- Agile Software Development
-- Agile Product Management
-categories:
-- Application Lifecycle Management
-- Events and Presentations
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

@@ -23,25 +23,33 @@ preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Technical Excellence
+- Automated Testing
+- Azure Pipelines
+- Continuous Delivery
+- Continuous Integration
 - Deployment Frequency
-- Agile Software Development
-- DevOps
-- Agile Product Management
-- Value Delivery
+- Deployment Strategies
 - Engineering Excellence
-- Agile Values and Principles
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Transformation
-- Evidence Based Management
+- Engineering Practices
+- Frequent Releases
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
+- Software Developers
+- Software Development
+- Technical Mastery
+- Windows
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- People and Process
+- DevOps
+- Product Delivery
+- Technical Excellence
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

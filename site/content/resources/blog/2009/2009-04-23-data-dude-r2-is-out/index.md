@@ -25,11 +25,8 @@ aliasesFor404:
 - /data-dude-r2-is-out-
 - /blog/data-dude-r2-is-out-
 - /resources/blog/data-dude-r2-is-out
-tags:
-- Software Development
-categories:
-- Application Lifecycle Management
-- Install and Configuration
+tags: []
+categories: []
 
 ---
 Coming hot on the heals of Visual Studio Team System 2008 Database Edition GDR is the [Visual Studio Team System 2008 Database Edition GDR R2](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en) which features some new bits and better support for SQL 2008.

@@ -29,26 +29,8 @@ sitemap:
 layout: video
 resourceTypes:
 - video
-tags:
-- DevOps
-- Windows
-- Azure DevOps
-- Azure Repos
-- Azure Boards
-- Software Development
-- Software Developers
-- Working Software
-- System Configuration
-- Agile Digital Tools
-- Agile Tools
-- Pragmatic Thinking
-- Azure Pipelines
-- CI/CD
-- Technical Excellence
-categories:
-- DevOps
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 
 ---
  Use: https://youtu.be/Qt1Ywu_KLrc

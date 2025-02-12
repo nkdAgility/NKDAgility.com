@@ -21,11 +21,8 @@ aliasesFor404:
 - /interviewing-for-microsoft
 - /blog/interviewing-for-microsoft
 - /resources/blog/interviewing-for-microsoft
-tags:
-- Technical Mastery
-- Agile Software Development
-categories:
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -21,11 +21,8 @@ aliasesFor404:
 - /information-sync
 - /blog/information-sync
 - /resources/blog/information-sync
-tags:
-- Customer Satisfaction
-- Agile Product Management
-categories:
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

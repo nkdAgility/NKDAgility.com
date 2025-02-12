@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 isShort: false
-tags:
-- Kanban
-- Agile Tools
-- Agile Planning
-- Team Collaboration
-- Agile Software Development
-- Continuous Delivery
-- Scrum Team
-- Definition of Done
-- Kanban Process
-- Agile Product Management
-- Value Stream Management
-- Lead Time
-- Flow Efficiency
-- Agile Product Discovery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Kanban
-- Azure DevOps
-- Practical Techniques and Tooling
-- Value Stream Management
-- People and Process
+categories: []
 
 ---
  Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency.

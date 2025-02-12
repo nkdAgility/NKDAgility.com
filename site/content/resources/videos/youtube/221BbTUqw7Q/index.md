@@ -31,27 +31,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Team
-- Scrum Master
-- Definition of Done
-- Continuous Improvement
-- Agile Product Ownership
+- Agile Frameworks
+- Agile Project Management
 - Empirical Process Control
-- Agile Values and Principles
-- Team Collaboration
-- Agile Product Management
-- Agile Coaching
-- Agile Transformation
-- Evidence Based Improvement
-- Team Motivation
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Development
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Discovery and Learning
 
 ---
 ## Scrum's True Potential: A Journey Through the APS Immersive Class

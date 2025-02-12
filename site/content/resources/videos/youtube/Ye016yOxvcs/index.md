@@ -29,27 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Agile Problem Solving
-- Pragmatic Thinking
-- People and Process
-- Agile Values and Principles
-- Ability to Innovate
-- Agile Transformation
-- Agile Software Engineering
-- Experimentation
-- Agile Leader
-- Agile Community
-- Continuous Improvement
-- Agility
-- Agile AI
-- Sensemaking
+tags: []
 resourceTypes:
 - video
-categories:
-- People and Process
-- Market Adaptability
+categories: []
 
 ---
 ## The Journey to Understanding

@@ -1,50 +1,317 @@
 {
-  "Miscellaneous": {
-    "category": "Miscellaneous",
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T18:21:57",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the critique of 'User Stories' in product backlog management and advocates for a shift to 'Product Backlog Items', making it more about product development terminology rather than miscellaneous topics.",
+    "reasoning": "Content primarily discusses the terminology and framework of product backlog management, specifically critiquing the use of 'User Stories' without a focus on decision-making processes or uncertainty.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-11T18:21:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the terminology and management of product backlog items, focusing on user stories without addressing broader organisational agility or its implications.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-11T18:21:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the terminology and management of product backlog items in the context of Scrum, without a clear focus on Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-11T18:22:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the terminology and framework for product backlog management, with no clear focus on organisational resilience or change management.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T18:22:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the terminology and conceptual framework of product backlog management rather than installation or configuration processes.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-11T18:22:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the terminology and management of product backlog items rather than the complexities of software code or development processes.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-11T18:22:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the terminology and conceptual framework of product backlog management rather than optimising work throughput or addressing flow efficiency principles.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T18:22:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses the terminology and management of product backlog items, with no mention of AI or automation in Agile practices.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T18:22:07",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the terminology and framework for managing product backlog items, which is central to effective product delivery practices. It addresses the implications of language on product development and suggests a shift towards a more flexible approach, aligning well with the methodologies involved in delivering usable software products.",
+    "level": "Secondary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T18:22:09",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the concept of 'User Stories' within the context of product backlog management, which is a key aspect of Agile Product Management. It addresses the role of language in shaping product development practices and proposes a shift towards a more flexible terminology that aligns with Agile principles.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T18:22:10",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of language in product development and proposes a shift in terminology to enhance clarity and communication, which aligns with the theme of continuous learning and adapting methodologies. However, the primary focus is on terminology rather than broader discovery and learning processes.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T18:22:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the terminology and implications of 'User Stories' versus 'Product Backlog Items' in product development, without a clear focus on Systems Thinking principles or interconnectedness within complex systems.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T18:22:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the implications of language on product development and organisational behaviour, which aligns with complexity thinking principles. However, it primarily focuses on the terminology used in Agile practices rather than a comprehensive exploration of complexity science.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T18:22:15",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of clear communication and transparency in product backlog management, advocating for a shift from 'User Stories' to 'Product Backlog Items' to enhance understanding and reduce miscommunication.",
+    "level": "Secondary"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T18:22:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the terminology used in product backlog management, specifically advocating for a shift from 'User Stories' to 'Product Backlog Items'. While it touches on practical implications for Agile practices, the primary focus is on language and conceptual clarity rather than specific tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T18:22:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the terminology and implications of 'User Stories' in product development, without reference to any events, presentations, or discussions related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T18:22:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the terminology and structure of product backlog management rather than strategies for enhancing market adaptability.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T18:22:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the concept of 'User Stories' and proposes a change to 'Product Backlog Items', which directly relates to Agile methodologies and practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:22:23",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses product backlog management and the impact of language on product development, which are relevant to DevOps practices, but the primary focus is on the terminology rather than the broader DevOps processes.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the terminology and management of product backlog items, focusing on user stories and their implications in product development, rather than DevOps principles or practices.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
+    "calculated_at": "2025-02-11T18:22:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concept of 'User Stories' and their impact on product backlog management, without specific reference to Azure DevOps or its functionalities.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T18:22:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the terminology used in product development, specifically 'User Stories' and 'Product Backlog Items', which relates to Agile methodologies. However, it primarily focuses on the author's perspective rather than reviewing or analysing specific products or literature.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T18:22:28",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses product backlog management and user stories, which are relevant to Agile methodologies often used in Azure DevOps, but it does not primarily focus on Azure DevOps itself.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of language and terminology in product development, which relates to adaptability and communication within agile practices. However, it primarily focuses on the concept of 'User Stories' and their replacement rather than broader principles of business agility.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
+    "calculated_at": "2025-02-11T18:22:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concept of 'User Stories' and their impact on product backlog management, with a focus on terminology rather than Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T18:22:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of clarity and transparency in product backlog management, which aligns with Kanban principles, but it primarily focuses on the terminology of 'User Stories' versus 'Product Backlog Items'.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the impact of terminology on product development and communication, which relates to value delivery, but primarily focuses on the critique of 'User Stories' rather than strategies for delivering value.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:22:34",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the terminology used in product backlog management, which relates to agile practices, but it is primarily focused on the language and clarity rather than engineering practices like TDD, CI/CD, or modular architecture.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the terminology and conceptual framework of product backlog management rather than engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T18:22:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the terminology and management of product backlog items, rather than scaling Agile practices across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T18:22:37",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the impact of terminology on product development and suggests a shift towards a more flexible framework, which aligns with the principles of organisational agility. However, the primary focus is on the terminology rather than broader agile practices or organisational strategies.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T18:22:38",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content includes personal reflections and insights on the use of 'User Stories' in product development, but it primarily focuses on a proposed change in terminology rather than personal experiences or anecdotes.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T18:22:40",
     "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "Content primarily discusses the concept of 'Product Backlog Items' in the context of Scrum, highlighting the importance of language in product development and its impact on Scrum practices.",
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the impact of language on team communication and product development processes, particularly in the context of Agile methodologies. It highlights how terminology influences team dynamics and clarity in collaboration, making it a central theme.",
     "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T18:22:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the impact of language on product development and team communication, which relates to sociotechnical interactions. However, it primarily focuses on terminology rather than a broader exploration of sociotechnical systems.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T18:22:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the terminology and conceptual framework of product backlog management rather than providing news or reviews related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T18:22:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the terminology and implications of using 'User Stories' versus 'Product Backlog Items' in product development, without a focus on metrics, data, or learning mechanisms.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T18:22:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the terminology and conceptual framework around product backlog management, specifically critiquing the use of 'User Stories' and advocating for 'Product Backlog Items', which does not directly relate to the management of the entire application lifecycle.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T18:22:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the terminology and framework of product backlog management, focusing on user stories and product backlog items, rather than the flow of value or principles of Value Stream Management.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T18:22:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses terminology and frameworks in product development, specifically focusing on 'User Stories' and 'Product Backlog Items', without addressing psychological principles or theories related to motivation, engagement, or team dynamics.",
+    "level": "Ignored"
   }
 }

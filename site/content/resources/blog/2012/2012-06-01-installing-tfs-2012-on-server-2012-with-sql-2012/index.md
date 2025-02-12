@@ -21,12 +21,8 @@ aliasesFor404:
 - /installing-tfs-2012-on-server-2012-with-sql-2012
 - /blog/installing-tfs-2012-on-server-2012-with-sql-2012
 - /resources/blog/installing-tfs-2012-on-server-2012-with-sql-2012
-tags:
-- Agile Software Development
-- Azure DevOps
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-31-31.png
 
 ---

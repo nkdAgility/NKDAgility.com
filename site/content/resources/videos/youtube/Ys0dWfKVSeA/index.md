@@ -29,13 +29,25 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Empirical Process Control
+- Organisational Culture
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Scrum
 - Agile Product Management
 - People and Process
+- Value Delivery
 
 ---
 ## Reflecting on Scrum's Mirror  

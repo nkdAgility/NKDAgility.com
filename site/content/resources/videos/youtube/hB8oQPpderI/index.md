@@ -29,29 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Agile Coaching
-- Agile Community
-- Continuous Learning
-- Discovery and Learning
-- Agile Project Management
-- Scrum Team
-- Agile Product Management
-- Agile Values and Principles
-- Employee Engagement
-- Agile Software Development
-- Agile Methodology
-- Agile Training
-- Agile Transformation
-- Agile Digital Tools
+tags: []
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- People and Process
-- Scrum
-- Collaborative Learning
+categories: []
 
 ---
 **One limitation of reading a book vs attending a course**

@@ -21,11 +21,8 @@ aliasesFor404:
 - /community-credit-feedback
 - /blog/community-credit-feedback
 - /resources/blog/community-credit-feedback
-tags:
-- Agile Community
-- Customer Feedback Loops
-categories:
-- People and Process
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

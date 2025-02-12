@@ -21,11 +21,8 @@ aliasesFor404:
 - /flashing-your-windows-phone-6-for-dummies
 - /blog/flashing-your-windows-phone-6-for-dummies
 - /resources/blog/flashing-your-windows-phone-6-for-dummies
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

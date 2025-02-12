@@ -27,9 +27,7 @@ aliasesFor404:
 - /resources/blog/the-most-usefull-net-tool-on-the-face-of-the-planet
 tags: []
 preview: metro-binary-vb-128-link-1-1.png
-categories:
-- Products and Books
-- Practical Techniques and Tooling
+categories: []
 
 ---
 Reflector!

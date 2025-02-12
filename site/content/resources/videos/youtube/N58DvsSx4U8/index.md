@@ -28,28 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Azure DevOps
-- Team Collaboration
-- Change Management
-- Continuous Improvement
-- Agile Tools
-- Systems Thinking
-- Organisational Change
-- Agile Transformation
-- Value Delivery
-- Technical Excellence
-- Agile Software Development
-- Customer Feedback Loops
-- Lean Thinking
-- Agile Project Management
+- Digital Transformation
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
 categories:
-- DevOps
 - Azure DevOps
+- DevOps
 - People and Process
-- Value Stream Management
-- Technical Excellence
 
 ---
 ## A Journey to DevOps Success

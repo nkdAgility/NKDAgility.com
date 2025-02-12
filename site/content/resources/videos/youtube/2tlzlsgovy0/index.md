@@ -21,20 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
 duration: 56
 isShort: true
-tags:
-- Strategic Goals
-- Team Collaboration
-- Team Motivation
-- Business Agility
-- Agile Strategy
-- Self Organisation
-- Agile Product Ownership
-- Value Prioritisation
-- Agile Leadership
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Transformation
-- Organisational Agility
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -42,12 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Transparency and Accountability
+categories: []
 
 ---
  Visit https://www.nkdagility.com Is your team truly Agile? Do your team members clearly understand the product vision and how their daily work contributes to your strategic goals? 🎯

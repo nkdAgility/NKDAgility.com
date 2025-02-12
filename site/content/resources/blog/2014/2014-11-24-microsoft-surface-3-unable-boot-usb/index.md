@@ -25,26 +25,8 @@ aliasesFor404:
 - /microsoft-surface-3-unable-to-boot-from-usb
 - /blog/microsoft-surface-3-unable-to-boot-from-usb
 - /resources/blog/microsoft-surface-3-unable-boot-usb
-tags:
-- Continuous Improvement
-- Discovery and Learning
-- Engineering Excellence
-- Engineering Practices
-- Experimentation
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Windows
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-windows-logo-5-5.png
 
 ---

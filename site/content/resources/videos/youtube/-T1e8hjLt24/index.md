@@ -21,12 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
-tags:
-- Discovery and Learning
-- Continuous Learning
-- Continuous Improvement
-- Ability to Innovate
-- Pragmatic Thinking
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -34,8 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the top 5 things he would teach a newbie #productowner. This is part 5. Visit https://youtu.be/XKmWMXagVgQ to watch the full video.

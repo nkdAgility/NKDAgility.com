@@ -29,28 +29,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
 - Agile Leadership
-- Agile Coaching
-- Team Collaboration
-- Organisational Agility
-- Agile Values and Principles
-- Continuous Learning
-- Agile Transformation
-- Employee Engagement
-- Agile Community
-- Agile Evolution
+- Agile Project Management
+- Mentoring
+- Scrum Master
 - Scrum Team
-- Agile Methodology
-- Self Organisation
+- Technical Leadership
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
-- Organisational Agility
 - People and Process
-- Organisational Psychology
-- Enterprise Agility
 
 ---
 ## Ascending the Leadership Ladder

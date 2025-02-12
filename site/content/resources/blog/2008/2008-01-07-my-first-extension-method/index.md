@@ -25,12 +25,8 @@ aliasesFor404:
 - /my-first-extension-method---
 - /blog/my-first-extension-method---
 - /resources/blog/my-first-extension-method
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Code and Complexity
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

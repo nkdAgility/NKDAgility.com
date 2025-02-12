@@ -21,16 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
-tags:
-- Team Collaboration
-- Psychological Safety
-- Agile Values and Principles
-- Accountability
-- Empirical Process Control
-- Continuous Improvement
-- Customer Feedback Loops
-- Team Motivation
-- Organisational Culture
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -38,11 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Organisational Psychology
-- Transparency and Accountability
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Humility. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productmanagement #productdevelopment #projectmanager #productmanager #developer #scrummaster #productowner #agilecoach #agileleadership 

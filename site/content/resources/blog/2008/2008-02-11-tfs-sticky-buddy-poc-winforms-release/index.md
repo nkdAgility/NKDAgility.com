@@ -25,12 +25,8 @@ aliasesFor404:
 - /tfs-sticky-buddy-poc-(winforms)-release
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Application Lifecycle Management
-- Code and Complexity
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

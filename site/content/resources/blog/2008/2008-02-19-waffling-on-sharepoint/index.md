@@ -25,11 +25,8 @@ aliasesFor404:
 - /waffling-on-sharepoint---
 - /blog/waffling-on-sharepoint---
 - /resources/blog/waffling-on-sharepoint
-tags:
-- Technical Debt
-- Value Delivery
-categories:
-- People and Process
+tags: []
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

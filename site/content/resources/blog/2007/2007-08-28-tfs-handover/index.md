@@ -21,12 +21,8 @@ aliasesFor404:
 - /tfs-handover
 - /blog/tfs-handover
 - /resources/blog/tfs-handover
-tags:
-- Application Lifecycle Management
-- Technical Excellence
-categories:
-- Install and Configuration
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

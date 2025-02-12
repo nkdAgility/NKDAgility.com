@@ -28,27 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Business Agility
-- Organisational Agility
-- Change Management
-- Team Motivation
-- Employee Engagement
-- Value Delivery
-- Continuous Improvement
-- Systems Thinking
+- Ability to Innovate
 - Agile Strategy
-- Market Adaptability
-- Agile Leadership
-- Psychological Safety
-- Team Collaboration
-- Evidence Based Management
+- Continuous Learning
+- Operational Practices
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Sensemaking
+- Strategic Goals
+- Strategy
 resourceTypes:
 - video
 categories:
+- Business Agility
 - Organisational Agility
-- Market Adaptability
-- Value Delivery
-- Resilience and Change
 - People and Process
 
 ---

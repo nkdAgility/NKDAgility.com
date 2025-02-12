@@ -30,10 +30,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Technical Excellence
+categories: []
 
 ---
 ## Agile Coach vs. Professional Coach

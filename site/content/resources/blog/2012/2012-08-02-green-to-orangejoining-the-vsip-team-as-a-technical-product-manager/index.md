@@ -25,11 +25,8 @@ aliasesFor404:
 - /green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
-tags:
-- Agile Product Management
-- Technical Strategy
-categories:
-- Agile Product Management
+tags: []
+categories: []
 
 ---
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

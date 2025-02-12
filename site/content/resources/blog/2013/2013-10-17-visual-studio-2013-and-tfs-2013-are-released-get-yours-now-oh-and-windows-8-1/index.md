@@ -29,26 +29,8 @@ aliasesFor404:
 - /visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
 - /blog/visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
 - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
-tags:
-- Agile Digital Tools
-- Agile Tools
-- Application Lifecycle Management
-- Azure Repos
-- Collaboration Tools
-- DevOps
-- Frequent Releases
-- Modern Source Control
-- Release Planning
-- Software Developers
-- Software Development
-- Software Increment
-- Technical Excellence
-- Technical Mastery
-- Windows
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Product Delivery
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Scrum Values
-- Agile Transformation
-- Team Motivation
-- Team Collaboration
-- Continuous Improvement
-- Psychological Safety
-- Agile Methodology
-- Accountability
-- Employee Engagement
-- Agile Coaching
-- Agile Software Development
-- Agile Project Management
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Psychology
+categories: []
 
 ---
 ## Spotting an Ineffective Scrum Master's Day

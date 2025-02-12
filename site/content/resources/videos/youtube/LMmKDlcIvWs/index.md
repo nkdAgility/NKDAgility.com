@@ -28,28 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban Theory
-- Continuous Improvement
-- Systems Thinking
-- Value Stream Management
+- Agile Frameworks
+- Continuous Learning
+- Lean Principles
 - Lean Thinking
-- Agile Planning
-- Change Management
-- Evidence Based Management
-- Flow Efficiency
-- Agile Strategy
-- Agile Tools
-- Team Collaboration
-- Agile Product Management
-- Agile Software Development
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
 resourceTypes:
 - video
 categories:
 - Kanban
-- Systems Thinking
 - Metrics and Learning
-- Value Stream Management
-- People and Process
+- Practical Techniques and Tooling
 
 ---
 ### Demystifying Kanban: A Strategy for Continuous Improvement

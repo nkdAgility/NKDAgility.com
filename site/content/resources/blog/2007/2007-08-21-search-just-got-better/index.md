@@ -21,12 +21,8 @@ aliasesFor404:
 - /search-just-got-better
 - /blog/search-just-got-better
 - /resources/blog/search-just-got-better
-tags:
-- Customer Satisfaction
-- Agile Product Discovery
-categories:
-- Products and Books
-- News and Reviews
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-6-1.png
 
 ---

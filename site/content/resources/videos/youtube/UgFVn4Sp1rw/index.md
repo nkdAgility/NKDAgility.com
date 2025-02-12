@@ -24,19 +24,31 @@ preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 675
 isShort: false
 tags:
-- Agile Product Management
-- Employee Engagement
+- Ability to Innovate
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Lean Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Scrum Product Development
+- Software Development
+- Strategy
+- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
-- Value Delivery
 - Agile Product Management
-- Scrum
-- Value Stream Management
+- Metrics and Learning
+- People and Process
 
 ---
  Understanding Product Costs and Maximizing Value | Martin Hinshelwood

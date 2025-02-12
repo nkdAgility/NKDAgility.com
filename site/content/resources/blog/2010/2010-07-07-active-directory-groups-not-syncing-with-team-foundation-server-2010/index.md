@@ -21,13 +21,9 @@ aliasesFor404:
 - /active-directory-groups-not-syncing-with-team-foundation-server-2010
 - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 - /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
-tags:
-- Agile Software Development
-- Technical Debt
+tags: []
 preview: metro-SSWLogo-128-link-7-7.png
-categories:
-- Azure DevOps
-- Install and Configuration
+categories: []
 
 ---
 ![](images/symbol-error.png)For a little while now I had been investigating an odd occurrence in Team Foundation Server. Users added to Active Directory groups have not been filtering back into the Team Foundation Server groups cache. The meant that we had to add users directly to Team Foundation Server in order to give them permission. While this was not ideal, it did not really inconvenience us that much, but we are now trying to streamline our security and need it fixed.

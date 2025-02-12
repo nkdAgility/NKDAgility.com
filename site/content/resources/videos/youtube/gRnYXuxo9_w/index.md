@@ -22,29 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false
-tags:
-- Team Collaboration
-- Transparency
-- Scrum Master
-- Scrum Team
-- Accountability
-- Continuous Improvement
-- Psychological Safety
-- Agile Product Management
-- Agile Project Management
-- Value Delivery
-- Agile Software Development
-- Agile Methodology
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Transparency and Accountability
-- People and Process
+categories: []
 
 ---
  *Unlocking Team Potential: The Power of Openness in Scrum*

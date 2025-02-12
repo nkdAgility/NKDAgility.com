@@ -25,12 +25,8 @@ aliasesFor404:
 - /what-the-0x80072020-
 - /blog/what-the-0x80072020-
 - /resources/blog/what-the-0x80072020
-tags:
-- Technical Debt
-- Agile Software Development
-categories:
-- Code and Complexity
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

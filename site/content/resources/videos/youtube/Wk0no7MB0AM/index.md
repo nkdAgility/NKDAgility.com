@@ -22,20 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true
-tags:
-- Agile Project Management
-- Agile Leadership
-- Agile Methodology
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Psychology
+categories: []
 
 ---
  War is one of the seven signs of the Agile-pocolypse! ⚔️

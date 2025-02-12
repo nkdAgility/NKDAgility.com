@@ -22,30 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true
-tags:
-- Change Management
-- Team Motivation
-- Strategic Goals
-- Organisational Change
-- Employee Engagement
-- Team Collaboration
-- Business Agility
-- Agile Values and Principles
-- Continuous Improvement
-- Customer Feedback Loops
-- Value Delivery
-- Agile Transformation
-- Organisational Agility
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood. First virtue, #chastity. Visit https://www.nkdagility.com

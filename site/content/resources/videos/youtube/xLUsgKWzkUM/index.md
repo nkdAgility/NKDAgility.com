@@ -22,27 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: true
-tags:
-- Product Owner
-- Agile Product Ownership
-- Scrum Product Management
-- Team Collaboration
-- Value Prioritisation
-- Agile Planning
-- Accountability
-- Continuous Improvement
-- Customer Feedback Loops
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Transparency and Accountability
-- People and Process
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo Many people are assigned the #productowner accountability without any formal #scrumtraining or skills development. We've featured a short excerpt from a video where Martin Hinshelwood talks about the value of training for a product owner, you can watch the full video on  https://youtu.be/2_CowcUpzAA

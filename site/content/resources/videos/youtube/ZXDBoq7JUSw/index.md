@@ -28,15 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- Continuous Improvement
 - Continuous Learning
-- Personal
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Personal
+categories: []
 
 ---
 ## Level Up Your Game: 3 Unbeatable Reasons to Enhance Your Skills

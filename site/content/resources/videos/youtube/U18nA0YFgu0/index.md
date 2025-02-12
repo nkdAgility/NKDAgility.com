@@ -29,26 +29,18 @@ sitemap:
   priority: 0.6
 tags:
 - Accountability
+- Agile Philosophy
+- Agile Project Management
 - Organisational Culture
-- Team Collaboration
-- Agile Leadership
-- Continuous Improvement
-- Psychological Safety
-- Team Motivation
-- Agile Problem Solving
-- Scrum Team
-- Sprint Review
-- Agile Values and Principles
-- Change Management
-- Employee Engagement
-- DevOps
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
 categories:
-- Organisational Agility
 - People and Process
+- Personal
 - Transparency and Accountability
-- Organisational Psychology
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

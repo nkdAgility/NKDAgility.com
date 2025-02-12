@@ -27,13 +27,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Strategy
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
+- Throughput
+- Transparency
 resourceTypes:
 - video
 categories:
 - Kanban
+- Metrics and Learning
 - Transparency and Accountability
-- People and Process
 
 ---
 ### Embracing Kanban for Enhanced Workflow and Predictability

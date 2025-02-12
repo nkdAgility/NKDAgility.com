@@ -25,12 +25,8 @@ aliasesFor404:
 - /get-your-rtm-here-
 - /blog/get-your-rtm-here-
 - /resources/blog/get-your-rtm-here
-tags:
-- Agile Software Development
-- Continuous Delivery
-categories:
-- Application Lifecycle Management
-- News and Reviews
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

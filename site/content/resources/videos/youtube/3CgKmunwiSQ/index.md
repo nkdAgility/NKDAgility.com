@@ -27,27 +27,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Theory
-- Data Driven Decisions
-- Systems Thinking
-- Continuous Improvement
-- Change Management
-- Organisational Agility
-- Value Delivery
-- Team Collaboration
-- Employee Engagement
-- Agile Leadership
-- Evidence Based Improvement
-- Lean Thinking
-- Agile Methodology
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
 categories:
-- Metrics and Learning
 - Decision Theory
-- Systems Thinking
-- Organisational Agility
+- Metrics and Learning
 - People and Process
 
 ---

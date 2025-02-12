@@ -25,26 +25,8 @@ aliasesFor404:
 - /avoid-the-pick-n-mix-branching-anti-pattern
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
-tags:
-- Agile Software Development
-- Agile Software Engineering
-- Application Lifecycle Management
-- Change Management
-- Continuos Delivery
-- Continuous Delivery
-- Flow Efficiency
-- Modern Source Control
-- Release Planning
-- Software Developers
-- Software Development
-- Technical Debt
-- Technical Excellence
-- Technical Strategy
-- Working Software
-categories:
-- Application Lifecycle Management
-- Code and Complexity
-- Product Delivery
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

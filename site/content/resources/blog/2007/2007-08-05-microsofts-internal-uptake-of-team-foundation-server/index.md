@@ -25,13 +25,8 @@ aliasesFor404:
 - /microsoft's-internal-uptake-of-team-foundation-server
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
 - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
-tags:
-- Agile Tools
-- Team Collaboration
-categories:
-- Azure DevOps
-- News and Reviews
-- Products and Books
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

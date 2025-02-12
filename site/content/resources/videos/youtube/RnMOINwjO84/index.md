@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
-tags:
-- Decision Theory
-- Agile Planning
-- Business Agility
-- Change Management
-- Agile Product Discovery
-- Complexity Thinking
-- Continuous Improvement
-- Agile Leadership
-- Agile Product Management
-- Systems Thinking
-- Agile Strategy
-- Agile Software Development
-- Agile Transformation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Decision Theory
-- Organisational Agility
-- Discovery and Learning
-- Complexity Thinking
-- Metrics and Learning
+categories: []
 
 ---
  Making Agile Decisions in a Complex World: Why There Are No Rules

@@ -28,27 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Change Management
-- Systems Thinking
-- Organisational Agility
-- Agile Transformation
-- Business Agility
-- Continuous Improvement
-- Evidence Based Management
-- Organisational Change
-- Team Collaboration
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
 - Agile Strategy
-- Psychological Safety
-- Value Delivery
-- Employee Engagement
-- Agile Product Discovery
+- Agile Transformation
+- Change Management
+- Digital Transformation
+- Evidence Based Leadership
+- Operational Practices
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Scaling Agility
+- Sensemaking
+- Strategy
 resourceTypes:
 - video
 categories:
-- Systems Thinking
-- Organisational Agility
-- Metrics and Learning
-- Value Delivery
+- Business Agility
+- People and Process
 - Resilience and Change
 
 ---

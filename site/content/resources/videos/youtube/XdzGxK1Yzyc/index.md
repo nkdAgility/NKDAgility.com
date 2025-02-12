@@ -28,26 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Management
-- Scrum Team
 - Accountability
-- Agile Product Ownership
-- Customer Feedback Loops
+- Agile Frameworks
+- Agile Project Management
+- Agile Strategy
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Product Strategy
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Development
 - Strategic Goals
+- Strategy
 - Team Collaboration
-- Agile Product Discovery
-- Value Delivery
-- Continuous Improvement
-- Agile Leadership
-- Agile Values and Principles
-- Transparency
 resourceTypes:
 - video
 categories:
-- Scrum
 - Agile Product Management
 - People and Process
-- Transparency and Accountability
 - Value Delivery
 
 ---

@@ -21,11 +21,8 @@ aliasesFor404:
 - /team-foundation-server-2010-event-handling-with-subscribers
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
-tags:
-- Agile Software Development
-- Agile Tools
-categories:
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

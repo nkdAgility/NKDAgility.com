@@ -22,21 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
-tags:
-- Agile Training
-- Employee Engagement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Agile Training
-- People and Process
-- Value Delivery
-- Events and Presentations
+categories: []
 
 ---
  Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.

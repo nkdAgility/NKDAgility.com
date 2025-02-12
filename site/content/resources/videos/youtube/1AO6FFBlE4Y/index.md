@@ -21,20 +21,15 @@ preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Technical Debt
 - Engineering Excellence
-- Continuous Delivery
-- Agile Software Development
-- Team Collaboration
-- Customer Satisfaction
-- Deployment Frequency
-- Value Delivery
-- Agile Product Management
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Debt
 - Technical Mastery
-- Agile Product Discovery
-- Systems Thinking
-- Lean Thinking
-- Evidence Based Management
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,10 +39,8 @@ resourceTypes:
 - video
 categories:
 - Code and Complexity
+- Product Delivery
 - Technical Excellence
-- Value Delivery
-- Value Stream Management
-- Resilience and Change
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

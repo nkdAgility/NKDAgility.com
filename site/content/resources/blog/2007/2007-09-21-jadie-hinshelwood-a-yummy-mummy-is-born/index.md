@@ -25,13 +25,9 @@ aliasesFor404:
 - /jadie-hinshelwood--a-yummy-mummy-is-born-
 - /blog/jadie-hinshelwood--a-yummy-mummy-is-born-
 - /resources/blog/jadie-hinshelwood-a-yummy-mummy-is-born
-categories:
-- People and Process
-- Organisational Psychology
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
-tags:
-- Featured
-- Personal
+tags: []
 
 ---
 My wife, Jadie Hinshelwood, has just started [blogging](http://jadie.hinshelwood.com/2007/09/story-so-far.html) about our journey to get pregnant, miscarriage via [A Yummy Mummy is Born](http://jadie.hinshelwood.com), I hope you will give her some support.

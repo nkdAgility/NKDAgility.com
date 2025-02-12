@@ -26,29 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Scrum Master
-- Scrum Team
-- People and Process
-- Pragmatic Thinking
-- Team Performance
-- Team Collaboration
-- Agile Project Management
-- Lean Agile
-- Agile Software Development
-- Agile Leader
-- Scrum Product Development
-- Team Motivation
-- Scrum Product Management
-- Professional Scrum
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- People and Process
-- Flow Efficiency
+categories: []
 
 ---
 **Worst trait in unskilled scrum masters?**

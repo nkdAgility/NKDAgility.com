@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Leadership
-- Scrum Master
-- Agile Coaching
-- Team Collaboration
-- Leadership Training
-- Agile Product Management
-- Agile Community
-- Technical Mastery
-- Continuous Improvement
-- Agile Values and Principles
-- Customer Feedback Loops
-- Agile Mentoring
-- Agile Transformation
-- Psychological Safety
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Technical Excellence
-- Discovery and Learning
+categories: []
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

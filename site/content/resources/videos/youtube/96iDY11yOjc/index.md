@@ -28,26 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Motivation
-- Continuous Learning
-- Technical Mastery
-- Agile Leadership
-- Agile Values and Principles
-- Agile Mentoring
-- Employee Engagement
-- Discovery and Learning
-- Agile Transformation
-- Agile Community
-- Technical Excellence
-- Agile Digital Tools
 - Coaching
+- Continuous Learning
+- Employee Engagement
+- Mentoring
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
 categories:
 - Discovery and Learning
 - People and Process
-- Organisational Psychology
-- Technical Excellence
+- Personal
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

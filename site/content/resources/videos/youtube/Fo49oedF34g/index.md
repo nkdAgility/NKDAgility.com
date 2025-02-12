@@ -23,30 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
-tags:
-- Agile Coaching
-- Scrum Team
-- Team Collaboration
-- Team Motivation
-- Agile Values and Principles
-- Organisational Agility
-- Agile Transformation
-- Employee Engagement
-- Customer Satisfaction
-- Agile Methodology
-- Agile Community
-- Continuous Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- Agile Product Management
-- People and Process
-- Value Delivery
+categories: []
 
 ---
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?

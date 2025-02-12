@@ -28,27 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Agility
-- Scrum Product Development
-- Coaching
-- Agile Software Development
-- People and Process
-- Agile Software Engineering
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Empirical Process Control
+- Increment
+- Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
-- Discovery and Learning
-- Software Development
-- Scrum Product Management
-- Empirical Process Control
+- Scrum Product Development
 - Scrum Team
-- Agile Product Validation
+- Software Development
+- Team Collaboration
+- Team Performance
+- Working Software
 resourceTypes:
 - video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Discovery and Learning
+- Value Delivery
 
 ---
 What will you learn on the professional scrum master course?

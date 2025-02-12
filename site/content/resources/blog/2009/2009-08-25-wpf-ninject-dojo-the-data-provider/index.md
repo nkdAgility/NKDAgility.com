@@ -25,11 +25,8 @@ aliasesFor404:
 - /wpf-ninject-dojo--the-data-provider
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/blog/wpf-ninject-dojo-the-data-provider
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

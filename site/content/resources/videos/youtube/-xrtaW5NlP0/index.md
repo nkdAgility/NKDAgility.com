@@ -27,27 +27,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Throughput
-- Kanban Flow
-- Agility
-- Flow Efficiency
-- Kanban Coaching
+- Agile Frameworks
 - Cycle Time
-- Kanban Theory
-- Kanban Process
-- Predictability in Kanban
-- People and Process
-- Systemic Thinking
-- Systems Thinking
-- Kanban Training
-- Data Driven Decisions
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Throughput
 resourceTypes:
 - video
 layout: video
 categories:
-- Kanban
 - Flow Efficiency
+- Kanban
 - People and Process
 
 ---

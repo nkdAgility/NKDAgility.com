@@ -25,13 +25,8 @@ aliasesFor404:
 - /using-multiple-email-alias-with-your-existing-microsoft-id
 - /blog/using-multiple-email-alias-with-your-existing-microsoft-id
 - /resources/blog/using-multiple-email-alias-existing-microsoft-id
-tags:
-- Pragmatic Thinking
-- System Configuration
-- Windows
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+tags: []
+categories: []
 preview: nakedalm-windows-logo-7-7.png
 
 ---

@@ -1,10 +1,1019 @@
 {
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 85,
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-11T21:12:01",
+    "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on validating assumptions and delivering value through real user feedback in a production environment, which aligns closely with adaptive strategies in product development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of validating assumptions through real user feedback and emphasises the need for experimentation in a production environment, aligning closely with the principles of hypothesis-driven development.",
     "level": "Secondary"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-11T21:12:02",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of validating assumptions through real user feedback and the necessity of releasing features into production to gather insights, which aligns closely with the principles of experimentation in Agile workflows.",
+    "level": "Secondary"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-11T21:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of understanding user needs and validating assumptions to deliver value, which aligns with value creation in entrepreneurship. However, it primarily focuses on product management and user feedback rather than broader entrepreneurial principles.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-11T21:12:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions, rather than focusing on the Product Backlog or its management.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-11T21:12:07",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value to users, which aligns with Scrum principles of delivering increments and gathering feedback. However, it does not focus primarily on Scrum roles, events, or artifacts, making it a secondary theme.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-11T21:12:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of understanding user needs and validating assumptions in a production environment, which relates to organisational dynamics and systems thinking. However, the primary focus is on product management and user feedback rather than a comprehensive exploration of organisational physics.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-11T21:12:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses product validation and user feedback rather than coaching practices or team development.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-11T21:12:11",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of validating assumptions through empirical data, such as customer satisfaction and product usage, which aligns with evidence-based leadership principles. It emphasises data-driven decision-making and the need for real user feedback to inform leadership decisions, making it a primary focus of the discussion.",
+    "level": "Secondary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-11T21:12:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions employee satisfaction as a key indicator of value, but the primary focus is on product validation and usage rather than employee engagement strategies.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-11T21:12:13",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the importance of understanding user needs, validating assumptions through customer feedback, and the financial implications of releasing features early, all of which are central themes in product management.",
+    "level": "Secondary"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-11T21:12:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through user feedback and production, without a clear focus on Agile leadership roles or practices.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-11T21:12:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses value delivery, user feedback, and production environments, with no clear focus on Daily Scrum or its related practices.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-11T21:12:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of user feedback and value delivery in production environments, rather than focusing on system configuration processes or methodologies.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-11T21:12:19",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value through real user feedback, which aligns with themes of business agility and operational efficiency. However, it primarily focuses on product management and user feedback rather than a broader strategic adoption of digital technologies.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-11T21:12:21",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of delivering software to real users in production to validate assumptions and measure value, aligning closely with the principles of working software.",
+    "level": "Secondary"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-11T21:12:22",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of validating assumptions through data collection and user feedback, which aligns with evidence-based decision-making principles. It emphasises the need for understanding user needs and the impact of releasing features in production to enhance value, making decision-making a central theme.",
+    "level": "Secondary"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-11T21:12:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through user feedback, rather than focusing on self-organisation principles or practices.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-11T21:12:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses value delivery, user feedback, and production environments, with no clear focus on remote working practices or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-11T21:12:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of validating assumptions through real user feedback, minimising waste by releasing features early, and understanding user needs, which aligns closely with Lean Product Development principles.",
+    "level": "Secondary"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-11T21:12:27",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses employee satisfaction and its impact on product value, indicating a connection to organisational culture, but the primary focus is on product validation and delivery rather than cultural aspects.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-11T21:12:30",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of understanding user needs and validating assumptions through real user feedback, which aligns with customer feedback loops. However, it also covers broader topics such as product usage and financial implications of releasing features, making feedback a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-11T21:12:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions, with no direct reference to Azure Repos or its functionalities.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-11T21:12:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through real user feedback, rather than focusing on transparency in Agile processes.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-11T21:12:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions, rather than focusing on the Definition of Done criteria or its role in Agile and Scrum.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-11T21:12:35",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of understanding user needs, validating assumptions, and measuring customer satisfaction, which are relevant to product strategy. However, it primarily focuses on the execution and operational aspects of releasing products rather than strategic planning or vision formulation.",
+    "level": "Secondary"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-11T21:12:37",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of understanding user needs, measuring customer satisfaction, and validating assumptions through real user feedback, which are all relevant to customer retention strategies. However, it also delves into broader topics such as financial implications and the necessity of releasing features, which may detract from a primary focus on customer retention.",
+    "level": "Secondary"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-11T21:12:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through user feedback and production, without a clear focus on Value Stream Mapping or its principles.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-11T21:12:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value in production, which aligns with strategic approaches in Agile environments. However, it primarily focuses on practical aspects of product delivery rather than a comprehensive strategic framework.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-11T21:12:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of validating assumptions through empirical data, emphasising customer and employee satisfaction as key indicators of value. It also highlights the role of Evidence-Based Management in measuring value and improving agility, making the topic central to the Ability to Innovate category.",
+    "level": "Secondary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-11T21:12:43",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value in production, which aligns with Agile principles, but it does not focus primarily on Agile frameworks themselves.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T21:12:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through production, without addressing scaling agility frameworks or organisational practices.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-11T21:12:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, with a focus on user and employee satisfaction, rather than on team collaboration or dynamics within Agile, Scrum, or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-11T21:12:47",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses customer satisfaction as a key measure of user happiness and its importance in validating assumptions about product value. However, it also covers broader topics such as product usage and employee satisfaction, making customer satisfaction a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-11T21:12:48",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering value to users and validating assumptions, which aligns with Lean principles. However, it primarily focuses on user feedback and product release strategies rather than core Lean concepts like waste elimination or continuous improvement.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-11T21:12:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions, without a clear focus on Cycle Time as a metric or its implications.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-11T21:12:51",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value through production, which aligns with Agile principles. However, it primarily focuses on user feedback and business value rather than core engineering practices like clean code or TDD.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-11T21:12:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through user feedback and production, rather than focusing on the management of a portfolio of projects or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-11T21:12:54",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of validating assumptions through user feedback and the significance of releasing features into production, which aligns with Agile practices and Evidence-Based Management in software projects. However, it also touches on broader business concepts, which slightly detracts from its primary focus on software development.",
+    "level": "Secondary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-11T21:12:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions through real user feedback and the significance of releasing features into production to deliver value, which aligns with engineering practices. However, the primary focus is on value delivery and user satisfaction rather than specific engineering excellence practices.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-11T21:12:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering value efficiently and the need to validate assumptions through real user feedback, which relates to throughput. However, the primary focus is on value delivery and user satisfaction rather than directly measuring or optimising throughput.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-11T21:12:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions, without any specific reference to Azure Pipelines or related CI/CD practices.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-11T21:13:00",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of delivering value, validating assumptions through user feedback, and the significance of getting features into production, which aligns with Agile principles. However, it primarily focuses on practical aspects of value delivery rather than a deep exploration of Agile values and principles.",
+    "level": "Secondary"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-11T21:13:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions through real user feedback, rather than focusing on automated testing principles or practices.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-11T21:13:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of user feedback and value delivery in production, without focusing on Site Reliability Engineering principles or practices.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-11T21:13:05",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of understanding user needs, validating assumptions, and delivering value, which are key responsibilities of a Product Owner. However, it does not explicitly focus on the Product Owner role or its specific practices, making it a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-11T21:13:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through production, rather than focusing on change management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-11T21:13:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without focusing on mentoring or coaching aspects.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-11T21:13:09",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of validating assumptions through real user feedback and the necessity of releasing features into production to deliver value, which aligns closely with the principles of empirical process control in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-11T21:13:11",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of validating product assumptions through real user feedback, measuring customer satisfaction, and understanding product usage, which aligns closely with the key topics of product validation.",
+    "level": "Secondary"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-11T21:13:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without any specific reference to Azure Boards or its functionalities.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-11T21:13:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the financial implications of releasing features early and the cost of delay, which relates to productivity and financial efficiency, but it is primarily focused on product validation and user feedback rather than directly on revenue per employee metrics.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-11T21:13:15",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value in production, which relates to Agile principles. However, it primarily focuses on broader concepts of value measurement and user feedback rather than specific practices or roles of software developers within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-11T21:13:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions through user feedback, rather than focusing on the principles and practices of Test First Development.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-11T21:13:18",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of releasing features to real users in production to validate assumptions and deliver value, aligning closely with the principles of Frequent Releases.",
+    "level": "Secondary"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-11T21:13:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, rather than focusing on estimation techniques or practices within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-11T21:13:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of user feedback and value delivery in production, rather than identifying or resolving technical issues.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-11T21:13:24",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the importance of delivering value through software increments in production, emphasising validation, user feedback, and the financial implications of early releases, which aligns closely with the Increment category.",
+    "level": "Secondary"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-11T21:13:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses product management and user feedback, with no clear focus on the Windows operating system or its functionalities.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-11T21:13:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without a clear focus on the Sprint Review process or its specific elements.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-11T21:13:29",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering value to users and the implications of delay in releasing features, which relates to Lead Time. However, it primarily focuses on user feedback and validation rather than a direct exploration of Lead Time as a metric.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-11T21:13:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without a focus on scaling Agile practices or coordination among multiple teams.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-11T21:13:31",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses practical strategies for validating assumptions and delivering value in a production environment, aligning closely with pragmatic thinking in Agile and DevOps contexts.",
+    "level": "Secondary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-11T21:13:33",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of releasing features into production to validate assumptions and deliver value, which aligns closely with the principles of deployment frequency in Agile and DevOps practices.",
+    "level": "Secondary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-11T21:13:34",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value to users, which aligns with agile principles. However, it primarily focuses on the concept of releasing features into production rather than specific agile methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-11T21:13:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions with real users, rather than focusing on Continuous Integration principles or practices.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-11T21:13:37",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of delivering value through real user feedback and the necessity of releasing features into production to validate assumptions, which aligns closely with Agile principles of continuous value delivery and adaptability.",
+    "level": "Secondary"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-11T21:13:39",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of releasing features to production to validate assumptions and deliver value, which aligns with Continuous Delivery principles. However, it primarily focuses on user feedback and value measurement rather than the technical practices and methodologies of Continuous Delivery.",
+    "level": "Secondary"
+  },
+  "BetaCodex": {
+    "category": "BetaCodex",
+    "calculated_at": "2025-02-11T21:13:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions through user feedback and the significance of releasing features into production, without a clear focus on BetaCodex principles or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-11T21:13:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without a clear focus on cross-functional teams or their characteristics.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-11T21:13:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, rather than focusing on the criteria for backlog item readiness.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-11T21:13:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of understanding user needs and validating assumptions through data collection, which aligns with sensemaking principles. However, the primary focus is on product development and release strategies rather than a comprehensive exploration of sensemaking in complex environments.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-11T21:13:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, with a focus on customer and employee satisfaction, but does not centralise on team motivation or dynamics.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-11T21:13:47",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of value delivery and user feedback, which are relevant to team performance in an Agile context, but it primarily focuses on product validation and financial implications rather than team dynamics or collaboration.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-11T21:13:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses value delivery, user feedback, and production environments without any mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-11T21:13:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without a clear focus on Kanban principles or scaling Kanban practices.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-11T21:13:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through real user feedback, without a clear focus on Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-11T21:13:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without focusing on working agreements or team collaboration principles.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-11T21:13:53",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value to users, which aligns with Lean principles of value creation and waste reduction. However, it primarily focuses on user feedback and product release strategies rather than core Lean concepts.",
+    "level": "Secondary"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-11T21:13:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value to users, which aligns with Agile principles. However, it primarily focuses on product management and user feedback rather than a comprehensive discussion on Agile transformation strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-11T21:13:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value to users, with no clear focus on technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-11T21:13:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through user feedback and production, without a clear focus on Scrum Values.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-11T21:13:58",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value to users, which touches on aspects of organisational agility. However, it primarily focuses on product management and user feedback rather than organisational change strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-11T21:13:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions through user feedback, without a focus on test automation principles or practices.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-11T21:14:01",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of validating assumptions and gathering user feedback, which aligns with Scrum principles, but it does not explicitly focus on Scrum roles, events, or the Scrum framework.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-11T21:14:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of validating assumptions through real user feedback and the financial implications of releasing features early, which aligns with operational efficiency and delivery within Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-11T21:14:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of validating assumptions through empirical data, such as customer satisfaction and product usage, which aligns closely with the principles of Evidence-Based Management. It also references the Evidence-Based Management Guide, indicating a strong focus on data-driven decision-making.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-11T21:14:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, rather than focusing on backlog refinement practices or techniques.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-11T21:14:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without a clear focus on scaling Scrum principles or practices.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-11T21:14:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses value delivery and user feedback in production, without a clear focus on the Scrum Master role or responsibilities.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-11T21:14:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through user feedback and production releases, without addressing large-scale Agile frameworks or enterprise-level strategies.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-11T21:14:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through user feedback, rather than focusing on forecasting methodologies or practices within Agile and Scrum.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-11T21:14:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of understanding user needs and validating assumptions through real user feedback, which aligns with the principles of technical leadership in fostering a culture of continuous improvement and learning. However, the primary focus is on value delivery and user feedback rather than on technical leadership practices or team dynamics.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-11T21:14:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of understanding user needs, validating assumptions through real user feedback, and the significance of releasing features to gather insights, which aligns closely with the principles of product discovery.",
+    "level": "Secondary"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-11T21:14:15",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of validating assumptions through real user feedback, emphasising the need to release a minimum viable product (MVP) to gather insights and improve value delivery, which aligns closely with Lean Startup principles.",
+    "level": "Secondary"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-11T21:14:17",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value to users, which aligns with Agile principles. However, it primarily focuses on the need for real user feedback and production releases rather than specific Agile planning methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-11T21:14:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without a clear focus on accountability or team ownership principles.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-11T21:14:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of validating assumptions through real user feedback and the necessity of releasing features into production to deliver value, which aligns closely with MVP principles.",
+    "level": "Secondary"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-11T21:14:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without focusing on collaboration tools or team dynamics.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-11T21:14:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, with a focus on customer and employee satisfaction, rather than on psychological safety or creating a supportive team environment.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-11T21:14:27",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of releasing features into production to validate assumptions and deliver value, which aligns with deployment strategies. However, it primarily focuses on the value of user feedback and the financial implications of early releases rather than specific deployment methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-11T21:14:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of delivering value and validating assumptions in production, without a clear focus on Scrum roles, team dynamics, or collaboration techniques.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-11T21:14:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of user feedback and validation in product development, focusing on business value rather than technical practices or software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-11T21:14:31",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of releasing software to real users in production to validate assumptions and deliver value, aligning closely with key topics in Release Management.",
+    "level": "Secondary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-11T21:14:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of releasing features to production and validating assumptions through user feedback, without addressing the principles or practices of Test Driven Development.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-11T21:14:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without a clear focus on trend analysis within Agile, DevOps, or business agility frameworks.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-11T21:14:35",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of delivering value through user feedback, validation, and the necessity of releasing features into production, which aligns closely with Agile principles of customer collaboration and continuous improvement.",
+    "level": "Secondary"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-11T21:14:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses product value, user feedback, and the importance of releasing features to production, without any focus on version control practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-11T21:14:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without a clear focus on Agile Planning Tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-11T21:14:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value through real user feedback, without a clear focus on Acceptance Test Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-11T21:14:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of validating assumptions and delivering value in production, without any focus on asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-11T21:14:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses user feedback, product validation, and the importance of releasing features in production, without a clear focus on market share strategies or competitive advantage.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-11T21:14:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions and delivering value to users, which aligns with strategic goals related to business agility and responsiveness. However, the primary focus is on operational tactics and user feedback rather than explicitly defining long-term strategic objectives.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-11T21:14:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of validating assumptions and gathering feedback from real users to improve product value, which aligns with the principles of Continuous Learning. However, the primary focus is on production and value delivery rather than on continuous learning practices or team improvement.",
+    "level": "Ignored"
   }
 }

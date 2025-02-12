@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
 isShort: true
-tags:
-- Agile Apocalypse
-- Agile Certification
-- Agile Coaching
-- Team Motivation
-- Change Management
-- Organisational Change
-- Agile Values and Principles
-- Agile Methodology
-- Agile Community
-- Agile Transformation
-- Agile Evolution
-- Employee Engagement
-- Psychological Safety
-- Continuous Improvement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- People and Process
-- Organisational Agility
-- News and Reviews
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo In the context of the #agile industry, the anti-christ represents fake experts who sell snake oil and hype up customer expectations. In this short video, Martin Hinshelwood explains why they are a sign of the #agile apocalypse.

@@ -28,24 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Agile Digital Tools
-- Lean Agile
-- Kanban Training
-- Kanban Coaching
-- Kanban Process
-- Agile Problem Solving
-- Agile Community
-- Kanban Flow
-- Kanban Theory
-- Agile Software Engineering
-- Agile Product Management
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Lean Principles
 - Lean Thinking
+- Operational Practices
 - Pragmatic Thinking
-- Agility
+- Software Developers
+- Software Development
+- Throughput
 resourceTypes:
 - video
-categories: []
+categories:
+- Flow Efficiency
+- Kanban
+- People and Process
 
 ---
 ## Why Less is Always More When It Comes to WIP

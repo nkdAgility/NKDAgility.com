@@ -28,28 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Scrum Team
-- Technical Debt
-- Team Collaboration
+- Agile Frameworks
 - Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
 - Self Organisation
-- Continuous Improvement
-- Agile Product Ownership
-- Value Delivery
-- Agile Values and Principles
-- Change Management
-- Organisational Agility
-- Evidence Based Management
-- Team Motivation
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Performance
+- Technical Debt
+- Technical Leadership
 resourceTypes:
 - video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Technical Excellence
-- Organisational Agility
-- Value Delivery
+- Sociotechnical Systems
 
 ---
 # Scrum and Micromanagement: Dispelling the Myth 🚀

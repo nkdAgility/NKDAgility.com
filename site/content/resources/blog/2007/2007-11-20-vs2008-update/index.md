@@ -21,12 +21,8 @@ aliasesFor404:
 - /vs2008-update
 - /blog/vs2008-update
 - /resources/blog/vs2008-update
-tags:
-- Agile Software Development
-- Modern Source Control
-categories:
-- Install and Configuration
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

@@ -29,26 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Agile Coaching
-- Team Collaboration
-- Change Management
-- Systems Thinking
-- Technical Mastery
-- Discovery and Learning
-- Employee Engagement
-- Organisational Agility
-- Agile Product Discovery
-- Evidence Based Management
-- Agile Leadership
-- Customer Feedback Loops
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
+- DevOps
 - Discovery and Learning
 - People and Process
-- Organisational Agility
-- Technical Excellence
-- DevOps
 
 ---
 In today’s fast-paced digital landscape, the concept of self-taught learning is more prevalent than ever. However, as we dive deeper into the realms of software development, DevOps, and organizational transformation, it's crucial to recognize the limitations that come with learning in isolation. While self-taught knowledge has its merits, there are significant benefits to bringing in external expertise. This post explores the importance of diverse knowledge and how it can help organizations break through the barriers that self-taught learning often creates.

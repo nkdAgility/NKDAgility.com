@@ -28,26 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
-- Agile Estimation
-- Value Stream Management
-- Throughput
+- Agile Project Management
 - Cycle Time
-- Evidence Based Management
-- Agile Transformation
-- Team Collaboration
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Software Development
-- Technical Excellence
+- Estimation
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Throughput
+- Transparency
 resourceTypes:
 - video
 categories:
+- Agile Product Management
 - Metrics and Learning
-- Value Delivery
-- Flow Efficiency
 - People and Process
-- Organisational Agility
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

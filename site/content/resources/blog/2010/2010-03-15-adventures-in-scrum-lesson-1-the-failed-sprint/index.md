@@ -25,12 +25,8 @@ aliasesFor404:
 - /adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
-tags:
-- Scrum Team
-- Definition of Done
-categories:
-- Scrum
-- People and Process
+tags: []
+categories: []
 preview: metro-SSWLogo-128-link-1-1.png
 
 ---

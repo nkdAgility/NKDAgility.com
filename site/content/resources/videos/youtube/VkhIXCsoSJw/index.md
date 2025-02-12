@@ -25,28 +25,34 @@ duration: 529
 isShort: false
 tags:
 - Automated Testing
+- Azure Pipelines
 - Continuous Delivery
-- Technical Excellence
-- Customer Feedback Loops
-- Agile Software Development
+- Continuous Integration
+- Continuous Learning
+- Cycle Time
+- Deployment Frequency
+- Digital Transformation
 - Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 - Technical Debt
-- Agile Product Management
-- Value Delivery
-- Continuous Improvement
-- Team Collaboration
-- Agile Digital Tools
+- Technical Mastery
+- Test Automation
+- Throughput
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories:
-- Technical Excellence
 - DevOps
-- Metrics and Learning
-- Value Delivery
-- AI and Automation in Agility
+- Practical Techniques and Tooling
+- Technical Excellence
 
 ---
  Automate Everything: Boosting Engineering Excellence and Building Confidence

@@ -24,30 +24,30 @@ preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 169
 isShort: false
 tags:
+- Agile Philosophy
 - Agile Planning
-- Technical Leadership
-- Engineering Excellence
-- Agile Product Discovery
-- Continuous Improvement
-- Agile Software Development
-- Agile Values and Principles
-- Agile Transformation
-- Complexity Thinking
-- Decision Theory
-- Systems Thinking
+- Agile Project Management
 - Agile Strategy
-- Value Delivery
+- Agile Transformation
+- Agile Values and Principles
+- Continuous Learning
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Leadership
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- Technical Excellence
-- Value Delivery
-- Organisational Agility
-- Complexity Thinking
-- Discovery and Learning
+- Market Adaptability
+- People and Process
+- Product Delivery
 
 ---
  Solving Missed Deadlines and Budget Overruns in Software Projects | Martin Hinshelwood  

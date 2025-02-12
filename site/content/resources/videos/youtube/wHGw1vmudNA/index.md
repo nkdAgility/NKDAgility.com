@@ -28,15 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
-- Agile Transformation
+- Organisational Culture
 resourceTypes:
 - video
 categories:
-- Organisational Agility
 - People and Process
-- Organisational Psychology
-- Resilience and Change
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

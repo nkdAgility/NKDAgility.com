@@ -24,32 +24,25 @@ preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 266
 isShort: false
 tags:
-- Team Collaboration
-- Agile Product Discovery
-- Agile Planning
-- Agile Leadership
-- Continuous Improvement
-- Technical Mastery
-- Business Agility
-- Agile Transformation
-- Value Delivery
-- Systems Thinking
-- Lean Thinking
-- Agile Software Development
-- Cross Functional Teams
-- Agile Values and Principles
+- Agile Strategy
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Software Developers
+- Software Development
+- Strategy
+- Team Performance
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- Organisational Agility
 - People and Process
-- Agile Product Management
+- Product Delivery
 - Value Delivery
-- Technical Excellence
-- Discovery and Learning
 
 ---
  Building a High-Performance Delivery Engine for Your Organization | Martin Hinshelwood

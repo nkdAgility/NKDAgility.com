@@ -24,18 +24,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/JzUUQ4R9SCk/maxresdefault.jpg
 duration: 6841
 isShort: false
-tags:
-- Scrum
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scrum
-- Events and Presentations
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
  00:09:30 Icebreaker

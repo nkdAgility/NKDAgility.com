@@ -28,28 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Coaching
-- Scrum Team
-- Technical Mastery
-- Agile Product Management
-- Continuous Improvement
-- DevOps
-- Agile Values and Principles
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Continuous Learning
+- Engineering Excellence
+- Mentoring
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 - Team Collaboration
-- Agile Software Development
-- Agile Mentoring
-- Technical Excellence
-- Systems Thinking
-- Discovery and Learning
-- Psychological Safety
+- Technical Leadership
+- Technical Mastery
 resourceTypes:
 - video
 categories:
-- Scrum
-- Technical Excellence
 - DevOps
 - People and Process
-- Discovery and Learning
+- Practical Techniques and Tooling
 
 ---
 ## Limits of Professional Coaching

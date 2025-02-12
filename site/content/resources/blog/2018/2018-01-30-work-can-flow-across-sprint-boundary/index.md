@@ -26,8 +26,7 @@ aliasesFor404:
 - /work-can-flow-across-the-sprint-boundary
 - /blog/work-can-flow-across-the-sprint-boundary
 - /resources/blog/work-can-flow-across-sprint-boundary
-tags:
-- Empirical Process Control
+tags: []
 categories: []
 preview: nkdagility-cross-sprint-boundary-2-1.png
 

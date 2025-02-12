@@ -30,26 +30,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Agile Transformation
-- Continuous Improvement
-- Team Collaboration
-- Cross Functional Teams
-- Agile Product Management
+- Agile Frameworks
+- Agile Planning
 - Agile Project Management
-- Value Delivery
-- Organisational Agility
-- Agile Values and Principles
-- Employee Engagement
-- Change Management
+- Agile Strategy
+- Agile Transformation
+- Coaching
+- Continuous Learning
+- Operational Practices
+- Organisational Change
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
-- Organisational Agility
-- People and Process
-- Value Delivery
 - Discovery and Learning
+- People and Process
+- Practical Techniques and Tooling
 
 ---
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**

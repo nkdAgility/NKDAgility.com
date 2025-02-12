@@ -23,25 +23,25 @@ aliasesFor404:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
+- Agile Product Management
+- Organisational Agility
 - People and Process
-- Resilience and Change
-- Scrum
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
-- Agile Product Management
-- Agile Software Development
-- Agility
-- Complexity Thinking
-- Market Adaptability
-- People and Process
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Empirical Process Control
+- Increment
+- Pragmatic Thinking
 - Professional Scrum
-- Resilience and Change
-- Scrum
+- Scrum Master
 - Scrum Product Development
-- Scrum Product Management
 - Scrum Team
-- Scrum Values
 - Software Development
+- Team Collaboration
 - Team Performance
 
 ---

@@ -25,12 +25,8 @@ aliasesFor404:
 - /tfs-event-handler--ctp-1-delayed
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Azure DevOps
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -22,27 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: false
-tags:
-- Agile Software Development
-- Continuous Delivery
-- Technical Excellence
-- Scrum Team
-- Definition of Done
-- Software Increment
-- Deployment Strategies
-- Agile Project Management
-- Agile Methodology
-- Azure DevOps
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
+categories: []
 
 ---
  Have you tried to install TFS 2013? Its so ridiculously easy compared to early versions of TFS that you can do it in your sleep. See Martin configure TFS as a standard single server with full SQL Server, Analysis Services, and Reporting Services.

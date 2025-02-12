@@ -26,25 +26,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Scrum Team
-- Agile Community
-- Employee Engagement
-- Continuous Learning
-- Psychological Safety
-- Agile Values and Principles
-- Discovery and Learning
-- Agile Mentoring
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- People and Process
-- Discovery and Learning
-- Scrum
-- Organisational Psychology
+categories: []
 
 ---
 In today’s fast-paced world, learning isn’t just about acquiring knowledge—it’s about building lasting connections. This is especially true when it comes to immersive learning, where relationships formed with fellow learners play a pivotal role in enhancing the overall experience. As a Scrum Trainer, I’ve witnessed firsthand how these connections can elevate a practitioner’s journey, allowing them to not only learn but grow alongside their peers.

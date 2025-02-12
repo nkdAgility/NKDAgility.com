@@ -25,26 +25,8 @@ aliasesFor404:
 - /ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
-tags:
-- Agile Product Management
-- Agile Product Ownership
-- Agile Product Validation
-- Agile Software Development
-- Agile Tools
-- Agility
-- Azure DevOps
-- Deployment Strategies
-- Product Owner
-- Release Planning
-- Scrum Product Development
-- Scrum Product Management
-- Software Developers
-- Software Development
-- Windows
-categories:
-- Agile Product Management
-- Azure DevOps
-- Events and Presentations
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -1,282 +1,317 @@
 {
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "Content discusses the Definition of Done and its implications for quality and value delivery, which are central to DevOps principles, although it primarily focuses on Scrum practices.",
-    "level": "Secondary"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Definition of Done and acceptance criteria in the context of agile project management, without a clear focus on Azure DevOps or its tools.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Definition of Done and its relationship with acceptance criteria, focusing on quality and transparency in the context of Scrum, rather than Kanban principles.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency in agile practices, which are relevant to technical excellence, but the primary focus is on the nuances of quality assurance rather than engineering practices like TDD or CI/CD.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 85,
-    "non_ai_confidence": 50,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the Definition of Done, a key concept within the Scrum framework, discussing its importance for quality and transparency in iterative processes.",
-    "level": "Secondary"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
-    "ai_confidence": 30,
+    "calculated_at": "2025-02-11T18:06:40",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the Definition of Done and its implications for quality and transparency in agile processes, with only a minor mention of decision-making aspects related to acceptance criteria.",
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria in Agile methodologies, without a focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:06:42",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency, which are important for organisational responsiveness, but the primary focus is on Scrum practices rather than broader enterprise agility.",
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, focusing on team-level agile practices without organisational context.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "ai_confidence": 75,
+    "calculated_at": "2025-02-11T18:06:44",
+    "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of the Definition of Done in ensuring quality and value delivery, which aligns with Lean principles, but it primarily focuses on Scrum roles and events.",
-    "level": "Secondary"
+    "final_score": 3.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria in the context of Scrum, without a clear focus on Lean principles or methodologies.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "ai_confidence": 45,
+    "calculated_at": "2025-02-11T18:06:45",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily focuses on the Definition of Done and its implications for quality and transparency in agile processes, with only a minor mention of adaptability and flexibility in the context of Scrum, which does not make resilience and change a central theme.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria in Scrum, focusing on quality assurance rather than organisational resilience or change management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T18:06:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Definition of Done and its implications in Scrum, rather than focusing on installation or configuration of tools or software.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, which are not related to installation or configuration processes.",
     "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-11T18:06:48",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) as a measure of quality in software development, focusing on maintaining standards and transparency, which are key aspects of code quality and best practices.",
-    "level": "Secondary"
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Definition of Done and Acceptance Criteria in the context of Scrum, focusing on quality assurance and transparency rather than the interplay between code quality and complexity.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "ai_confidence": 45,
+    "calculated_at": "2025-02-11T18:06:49",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on the Definition of Done and its relationship with acceptance criteria, discussing quality and transparency rather than optimising throughput or addressing bottlenecks in the value stream.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Definition of Done and its relationship with acceptance criteria, focusing on quality and transparency rather than optimising work throughput.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T18:06:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the Definition of Done and its implications for quality and transparency in agile practices, without a clear focus on AI-driven automation or its role in enhancing agility.",
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria in Agile practices without any mention of AI or automation.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-11T18:06:52",
+    "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the Definition of Done and its implications for ensuring quality in product delivery, highlighting its importance in the context of delivering usable software increments.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its implications for quality assurance in the context of product delivery, focusing on maintaining standards and transparency, which are central to effective product delivery practices.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-11T18:06:54",
+    "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the Definition of Done and its implications for quality and value delivery in an Agile context, discussing how it relates to acceptance criteria and transparency in product management.",
+    "final_score": 64.0,
+    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its implications for quality and transparency in Agile practices, particularly in relation to Scrum. While it touches on Agile principles, the focus is more on quality assurance rather than broader Agile product management strategies.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:06:56",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the nuances of the Definition of Done and its implications for quality and transparency in product development, indicating a focus on continuous learning and improvement in agile practices.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, focusing on quality assurance rather than discovery or learning processes.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "ai_confidence": 45,
+    "calculated_at": "2025-02-11T18:06:58",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on the Definition of Done and its relationship with acceptance criteria, rather than a holistic approach to problem-solving or decision-making. Systems Thinking is not central to the discussion.",
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Definition of Done and Acceptance Criteria in the context of Scrum, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "ai_confidence": 30,
+    "calculated_at": "2025-02-11T18:06:59",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the Definition of Done and acceptance criteria in Scrum, with no significant discussion on complexity science or related concepts.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Definition of Done and Acceptance Criteria in Scrum, without a clear focus on complexity science or its principles.",
     "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-11T18:07:00",
+    "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of the Definition of Done in maintaining transparency and clarity in Agile processes, making it a central theme.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of the Definition of Done (DoD) in ensuring transparency and quality within Agile practices, highlighting how clarity in standards impacts accountability and team dynamics.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T18:07:01",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Definition of Done and its relationship with acceptance criteria, which are important concepts in Agile practices. However, it primarily focuses on the nuances of these concepts rather than exploring specific tools or methodologies.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency in Agile practices, which relates to practical techniques. However, it primarily focuses on the philosophical aspects rather than specific tools or methodologies.",
     "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:07:03",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Definition of Done and its implications in Agile practices, with a mention of upcoming professional Scrum classes, indicating a secondary theme related to events and presentations.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Definition of Done and acceptance criteria in Agile, without a focus on specific events or presentations.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "ai_confidence": 45,
+    "calculated_at": "2025-02-11T18:07:05",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily focuses on the Definition of Done and its implications for quality and transparency in agile processes, with only a minor mention of adaptability in the context of maintaining standards.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Definition of Done and its implications for quality and transparency, without a clear focus on market adaptability strategies or practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T18:07:06",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the Definition of Done and its relationship with acceptance criteria, which are specific topics within agile methodologies, rather than a miscellaneous theme.",
+    "reasoning": "Content heavily discusses the Definition of Done and its relationship with acceptance criteria, which are central to Scrum practices.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-11T18:07:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Definition of Done and acceptance criteria within the context of Scrum, which is not central to DevOps principles.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-11T18:07:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria in the context of Agile practices, without any specific mention of Azure DevOps.",
     "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
+    "calculated_at": "2025-02-11T18:07:09",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Definition of Done and its implications in Agile practices, with a mention of professional Scrum classes offered by NKDAgility, indicating a secondary theme related to products and services in the Agile domain.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Definition of Done and its implications in Agile practices, which aligns with the category's focus on Agile methodologies. However, it primarily centres on the concept rather than specific products or literature.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T18:07:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, which are specific to Scrum practices rather than the broader principles of business agility.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-11T18:07:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Definition of Done and Acceptance Criteria within the context of Scrum, with no clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-11T18:07:14",
+    "ai_confidence": 70,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the Definition of Done and its impact on quality and value delivery, emphasising the importance of maintaining standards for effective iterative delivery.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in relation to maintaining quality and transparency, which are essential for delivering value in Agile practices. While it primarily focuses on quality measures, it also touches on the implications for value delivery, making it a significant theme.",
     "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-11T18:07:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its implications for quality and transparency in software development, which relates to engineering practices. However, the primary focus is on the nuances of DoD and acceptance criteria rather than broader technical excellence methodologies.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T18:07:19",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the Definition of Done and its relationship with acceptance criteria, without discussing scaling approaches or frameworks like LeSS, Nexus, or Scrum@Scale.",
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, which are individual team practices rather than scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T18:07:21",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of the Definition of Done and its impact on quality and transparency, which relates to organisational agility, but the primary focus is on quality standards rather than agility itself.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Definition of Done and its implications for quality and flexibility in Agile practices, which are relevant to organisational agility, but the primary focus is on Scrum roles and events rather than broader organisational agility strategies.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
+    "calculated_at": "2025-02-11T18:07:22",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Definition of Done and its implications in Scrum methodology, with no clear personal thoughts or experiences presented.",
+    "reasoning": "Content heavily discusses the Definition of Done and its implications in Agile practices without personal anecdotes or reflections.",
     "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-11T18:07:24",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the Definition of Done and its implications on team processes and quality standards, highlighting the importance of clarity and adaptability in product development.",
-    "level": "Secondary"
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Definition of Done and its implications for team dynamics and flexibility in Agile processes, making it a major but secondary theme.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:07:25",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for team effectiveness and quality assurance, making it a major but secondary theme.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Definition of Done and acceptance criteria in the context of quality assurance in software development, without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
+    "calculated_at": "2025-02-11T18:07:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Definition of Done and its implications in Agile practices, without focusing on industry news, updates, or reviews of tools or trends.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Definition of Done and its implications in Agile practices, lacking a focus on news or reviews.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:07:28",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency, which relates to metrics in terms of ensuring standards. However, the primary focus is on the nuances of quality assurance rather than a clear, central theme of using data and feedback for continuous improvement.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Definition of Done and its relationship with acceptance criteria, focusing on quality and transparency rather than metrics or learning.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:07:29",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency in software development, which are relevant to the application lifecycle, but the primary focus is on Scrum practices rather than a comprehensive view of application lifecycle management.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Definition of Done and acceptance criteria within the context of Scrum, which is more focused on Agile methodologies rather than the broader scope of Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:07:30",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Definition of Done and its implications for quality and transparency in value delivery, making it a major but secondary theme in the context of value stream management.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, which are primarily related to Scrum practices rather than Value Stream Management.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T18:07:31",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Definition of Done and its implications for quality and transparency in agile practices, without a clear focus on motivation, engagement, leadership, or team dynamics.",
+    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   }
 }

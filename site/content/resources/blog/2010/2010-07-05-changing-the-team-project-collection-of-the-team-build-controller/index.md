@@ -21,13 +21,9 @@ aliasesFor404:
 - /changing-the-team-project-collection-of-the-team-build-controller
 - /blog/changing-the-team-project-collection-of-the-team-build-controller
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
-tags:
-- Application Lifecycle Management
-- DevOps
+tags: []
 preview: metro-SSWLogo-128-link-6-6.png
-categories:
-- Install and Configuration
-- Azure DevOps
+categories: []
 
 ---
 ![BuildIcon_Large](images/ab2235c2ab06_E4A0-BuildIcon_Large_-1-1.png)

@@ -29,26 +29,8 @@ aliasesFor404:
 - /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
-tags:
-- Agile Digital Tools
-- Agile Tools
-- Application Lifecycle Management
-- Azure DevOps
-- Change Management
-- DevOps
-- Engineering Excellence
-- Modern Source Control
-- Release Planning
-- Software Developers
-- Software Development
-- Software Increment
-- System Configuration
-- Technical Mastery
-- Working Software
-categories:
-- Application Lifecycle Management
-- Azure DevOps
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

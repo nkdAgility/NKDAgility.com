@@ -29,17 +29,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Scrum
-- Evidence Based Improvement
-- Technical Excellence
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Discovery and Learning
+categories: []
 
 ---
 **#1 tip for a new Scrum Master**

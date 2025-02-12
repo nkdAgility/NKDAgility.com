@@ -21,12 +21,8 @@ aliasesFor404:
 - /envisioning-vs-provisioning
 - /blog/envisioning-vs-provisioning
 - /resources/blog/envisioning-vs-provisioning
-tags:
-- Agile Software Development
-- Technical Mastery
-categories:
-- People and Process
-- Discovery and Learning
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

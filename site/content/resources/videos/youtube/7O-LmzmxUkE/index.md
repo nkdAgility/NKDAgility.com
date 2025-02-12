@@ -27,24 +27,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Sprint Planning Workshop
-- Definition of Done
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Daily Scrum
 - Empirical Process Control
-- Scrum Product Management
-- Continuous Improvement
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
 - Team Collaboration
-- Agile Product Management
+- Team Performance
 - Transparency
-- Agile Values and Principles
-- Evidence Based Improvement
-- Agile Software Development
-- Working Software
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
 - Transparency and Accountability
 

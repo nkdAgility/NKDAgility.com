@@ -21,22 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false
-tags:
-- Scrum Team
-- Scrum Master
-- Continuous Delivery
-- Value Delivery
-- Agile Product Ownership
-- Customer Feedback Loops
-- Agile Planning
-- Team Collaboration
-- Agile Product Management
-- Definition of Done
-- Agile Transformation
-- Team Motivation
-- Self Organisation
-- Continuous Improvement
-- Discovery and Learning
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -44,9 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- People and Process
+categories: []
 
 ---
  #agileconsulting and #agilecoaching can seem somewhat nebulous at times because many coaches and consultants don't provide clear outcomes that a client can expect.

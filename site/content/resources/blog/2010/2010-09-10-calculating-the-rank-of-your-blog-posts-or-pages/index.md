@@ -21,11 +21,8 @@ aliasesFor404:
 - /calculating-the-rank-of-your-blog-posts-or-pages
 - /blog/calculating-the-rank-of-your-blog-posts-or-pages
 - /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
-tags:
-- Agile Product Management
-- Evidence Based Management
-categories:
-- Metrics and Learning
+tags: []
+categories: []
 preview: metro-binary-vb-128-link-11-11.png
 
 ---

@@ -28,28 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Apocalypse
-- Organisational Agility
-- Team Collaboration
-- Employee Engagement
+- Accountability
+- Agile Leadership
+- Agile Philosophy
+- Agile Strategy
+- BetaCodex
 - Change Management
-- Value Stream Management
 - Decision Making
-- Systems Thinking
-- Continuous Improvement
-- Agile Transformation
-- Lean Thinking
-- Technical Debt
-- Evidence Based Management
-- Psychological Safety
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Self Organisation
+- Sensemaking
+- Team Collaboration
+- Team Motivation
 resourceTypes:
 - video
 categories:
 - Organisational Agility
 - People and Process
-- Value Stream Management
-- Resilience and Change
-- Systems Thinking
+- Transparency and Accountability
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

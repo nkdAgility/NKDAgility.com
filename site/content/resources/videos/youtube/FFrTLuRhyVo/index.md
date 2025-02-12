@@ -23,27 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true
-tags:
-- Value Delivery
-- Agile Product Discovery
-- Business Agility
-- Continuous Improvement
-- Ability to Innovate
-- Team Collaboration
-- Strategic Goals
-- Evidence Based Management
-- Agile Strategy
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Value Delivery
-- Technical Excellence
-- Discovery and Learning
-- Organisational Agility
-- Value Stream Management
+categories: []
 
 ---
  Missed opportunities, the hidden cost of #technicaldebt visit https://www.nkdagility.com #agile #productdevelopment #productmanagement #projectmanagement #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #projectmanager #productowner #scrummaster 

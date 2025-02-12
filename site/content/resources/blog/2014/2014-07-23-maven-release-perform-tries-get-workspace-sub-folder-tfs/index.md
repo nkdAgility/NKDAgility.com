@@ -25,26 +25,8 @@ aliasesFor404:
 - /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
-tags:
-- Application Lifecycle Management
-- Azure Repos
-- CI/CD
-- Continuos Integration
-- Deployment Strategies
-- Engineering Practices
-- Modern Source Control
-- Release Planning
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
-- Working Software
-categories:
-- Application Lifecycle Management
-- Code and Complexity
-- Install and Configuration
+tags: []
+categories: []
 preview: naked-alm-jenkins-logo-2-2.png
 
 ---

@@ -21,26 +21,8 @@ aliasesFor404:
 - /new-un-versioned-repository-in-tfs-2012
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- Azure Repos
-- CI/CD
-- DevOps
-- Engineering Practices
-- Modern Source Control
-- Operational Practices
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Technical Strategy
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

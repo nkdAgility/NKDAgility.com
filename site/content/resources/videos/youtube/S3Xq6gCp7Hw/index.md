@@ -28,28 +28,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Management
-- Agile Product Discovery
-- Value Prioritisation
-- Customer Feedback Loops
-- Agile Planning
-- Agile Product Ownership
-- Evidence Based Management
-- Continuous Improvement
-- Team Collaboration
-- Strategic Goals
+- Agile Frameworks
+- Agile Project Management
 - Agile Strategy
-- Lean Thinking
-- Agile Software Development
-- Technical Excellence
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Hypothesis Driven Development
+- Pragmatic Thinking
+- Product Backlog
+- Product Discovery
+- Product Management
+- Product Owner
+- Product Strategy
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Strategy
+- Team Performance
 resourceTypes:
 - video
 categories:
 - Agile Product Management
-- Scrum
+- Market Adaptability
 - Value Delivery
-- Discovery and Learning
-- Organisational Agility
 
 ---
 In my opinion, it’s the whole ball game.

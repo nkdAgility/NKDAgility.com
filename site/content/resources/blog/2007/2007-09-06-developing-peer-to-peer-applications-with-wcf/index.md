@@ -21,11 +21,8 @@ aliasesFor404:
 - /developing-peer-to-peer-applications-with-wcf
 - /blog/developing-peer-to-peer-applications-with-wcf
 - /resources/blog/developing-peer-to-peer-applications-with-wcf
-tags:
-- Agile Software Development
-- Technical Excellence
-categories:
-- Events and Presentations
+tags: []
+categories: []
 
 ---
 I recently had the need to create and deliver a presentation on [Developing Peer-To-Peer Applications With WCF](http://presentations.multidimensionalfreethinking.co.uk/Developing%20Peer-To-Peer%20Applications%20With%20WCF.pptx). Although the technical content was good, my delivery was not. I got stage fright...

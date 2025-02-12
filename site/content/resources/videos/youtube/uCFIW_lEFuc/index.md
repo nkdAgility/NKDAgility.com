@@ -22,20 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: false
-tags:
-- Agile Product Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Transparency and Accountability
-- Discovery and Learning
+categories: []
 
 ---
  Navigating the Sin of Sloth in Agile

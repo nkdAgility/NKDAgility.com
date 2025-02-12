@@ -25,22 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Scrum Team
-- Agile Coaching
-- Team Collaboration
-- Agile Values and Principles
-- Organisational Culture
-- Team Motivation
-- Change Management
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Agility
+categories: []
 
 ---
 ## Debunking the Lego Approach 

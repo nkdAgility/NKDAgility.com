@@ -21,13 +21,9 @@ aliasesFor404:
 - /new-laptop-and-windows-7
 - /blog/new-laptop-and-windows-7
 - /resources/blog/new-laptop-and-windows-7
-categories:
-- Install and Configuration
-- Personal
+categories: []
 preview: nakedalm-logo-128-link-3-1.png
-tags:
-- Technical Support
-- Windows
+tags: []
 
 ---
 We have needed a new laptop in the Hinshelwood household for a while now. My old laptop was 8 years old, and although it was a mobile desktop, it ran Vista like a dog… Now the main use of a laptop in our household is for internet and pictures, but I defiantly wanted to run Windows 7.

@@ -21,12 +21,9 @@ aliasesFor404:
 - /linked-in-codeplex-developers-group
 - /blog/linked-in-codeplex-developers-group
 - /resources/blog/linked-in-codeplex-developers-group
-categories:
-- People and Process
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
-tags:
-- Agile Community
-- Software Developers
+tags: []
 
 ---
 If you are a developer on Codeplex then there are now two Codeplex LinkedIn groups for you to join.

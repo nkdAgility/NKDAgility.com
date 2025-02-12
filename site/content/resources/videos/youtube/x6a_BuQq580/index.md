@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg
 duration: 186
 isShort: false
-tags:
-- Change Management
-- Continuous Delivery
-- Technical Excellence
-- Agile Planning
-- Evidence Based Management
-- Agile Transformation
-- Value Delivery
-- Systems Thinking
-- Organisational Change
-- Agile Software Development
-- Customer Feedback Loops
-- Agile Project Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- DevOps
-- Azure DevOps
-- Practical Techniques and Tooling
-- Value Stream Management
-- Resilience and Change
+categories: []
 
 ---
  In this video, I address a common concern in Azure DevOps migrations: the fear of incomplete migrations and data loss. With experience in hundreds of migrations using Microsoft’s database import tool, I can confidently say that data loss is extremely rare, and any limitations or adjustments are fully manageable with the right preparation.

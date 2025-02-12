@@ -25,10 +25,8 @@ aliasesFor404:
 - /post-event--msdn-roadshow-(glasgow)
 - /blog/post-event--msdn-roadshow-(glasgow)
 - /resources/blog/post-event-msdn-roadshow-glasgow
-tags:
-- Agile Software Development
-categories:
-- Events and Presentations
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -28,24 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agility
-- Agile Leader
 - Agile Leadership
+- Agile Philosophy
+- Agile Transformation
 - Organisational Change
-- Change Management
-- People and Process
-- Organisational Agility
-- Ability to Innovate
-- Agile Strategy
-- Resilience and Change
-- Business Agility
-- Enterprise Agility
-- Agile Community
-- Agile Methodology
-- Agile Coaching
 resourceTypes:
 - video
-categories: []
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
 
 ---
 Product of Conventional Practices

@@ -25,11 +25,8 @@ aliasesFor404:
 - /tfs-integration-tools–issue--analysisprovider-not-found
 - /blog/tfs-integration-tools–issue--analysisprovider-not-found
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
-tags:
-- Technical Debt
-- Agile Software Development
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-problem-icon-3-3.png
 
 ---

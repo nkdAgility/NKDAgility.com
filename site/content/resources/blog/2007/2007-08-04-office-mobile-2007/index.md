@@ -21,12 +21,8 @@ aliasesFor404:
 - /office-mobile-2007
 - /blog/office-mobile-2007
 - /resources/blog/office-mobile-2007
-tags:
-- Agile Software Development
-- Product Discovery
-categories:
-- Products and Books
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-office-128-link-1-1.png
 
 ---

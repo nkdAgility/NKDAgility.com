@@ -25,13 +25,9 @@ aliasesFor404:
 - /solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-tags:
-- Automated Testing
-- Test Driven Development
+tags: []
 preview: metro-visual-studio-2010-128-link-6-6.png
-categories:
-- Application Lifecycle Management
-- Technical Excellence
+categories: []
 
 ---
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!

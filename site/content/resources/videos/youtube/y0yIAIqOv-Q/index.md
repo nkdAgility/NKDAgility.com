@@ -30,27 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agility
-- Coaching
-- Agile Coaching
-- Agile Software Development
-- People and Process
-- Agile Leadership
-- Agile Software Engineering
-- Enterprise Agility
 - Agile Project Management
-- Agile Community
-- Agile Evolution
-- Agile Strategy
-- Agile Methodology
 - Agile Transformation
-- Scrum
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:
 - People and Process
-- Resilience and Change
-- Enterprise Agility
 
 ---
 **When should an organisation consider a professional agile consultant?**

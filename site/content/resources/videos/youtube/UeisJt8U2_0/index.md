@@ -28,26 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
+- Agile Project Management
+- Professional Scrum
 - Scrum Master
-- Agile Apocalypse
-- Scrum Values
-- Team Collaboration
-- Technical Debt
-- Continuous Improvement
-- Team Motivation
-- Agile Methodology
-- Organisational Change
-- Employee Engagement
-- Agile Product Management
-- Systems Thinking
+- Scrum Team
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
 - People and Process
-- Organisational Agility
-- Technical Excellence
-- Resilience and Change
+- Personal
 
 ---
 # Navigating the Plague of Incompetence in Agile Coaching 🚧

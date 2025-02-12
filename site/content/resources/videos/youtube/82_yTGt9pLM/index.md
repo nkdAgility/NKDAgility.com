@@ -21,21 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 isShort: false
-tags:
-- Agile Coaching
-- Change Management
-- Team Collaboration
-- Agile Strategy
-- Business Agility
-- Agile Product Discovery
-- Agile Transformation
-- Organisational Agility
-- Agile Leadership
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Community
-- Evidence Based Management
-- Agile Values and Principles
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -43,12 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Value Delivery
-- Discovery and Learning
-- Practical Techniques and Tooling
+categories: []
 
 ---
  #agileconsulting can appear somewhat nebulous because of the adaptive and responsive nature of consulting engagements. That said, we all like to know what we are buying before making an investment in a service, so in this short video Martin Hinshelwood explains what NKD Agility Agile Consulting services look, sound, and feel like.

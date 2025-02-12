@@ -27,12 +27,8 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview---code-management-and-build
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-code-management-build
-categories:
-- Application Lifecycle Management
-- Azure DevOps
-tags:
-- Modern Source Control
-- Continuous Integration
+categories: []
+tags: []
 
 ---
 code-management-and-build

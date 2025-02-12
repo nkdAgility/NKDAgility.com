@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: false
-tags:
-- Agile Leadership
-- Agile Product Ownership
-- Systems Thinking
-- Organisational Agility
-- Agile Evolution
-- Agile Strategy
-- Team Collaboration
-- Organisational Culture
-- Continuous Improvement
-- Employee Engagement
-- Agile Product Management
-- Agile Community
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- Agile Product Management
-- Organisational Psychology
-- Systems Thinking
-- People and Process
+categories: []
 
 ---
  A #productowner, especially in #scrum, is often referred to as the CEO of the product. Someone tasked with ensuring that the #scrumteam are building the most valuable product for customers, and the most viable product for the organization.

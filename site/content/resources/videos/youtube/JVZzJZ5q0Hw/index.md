@@ -30,28 +30,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Definition of Done
-- Product Backlog
-- Backlog Refinement
+- Agile Frameworks
 - Agile Planning
-- Team Collaboration
-- Continuous Improvement
-- Agile Product Management
-- Team Motivation
-- Agile Values and Principles
-- Evidence Based Improvement
-- Technical Excellence
-- Agile Estimation
+- Agile Planning Tools
+- Agile Project Management
+- Agile Transformation
+- Backlog Refinement
+- Definition of Ready
+- Estimation
+- Pragmatic Thinking
+- Product Backlog
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Value Delivery
-- Technical Excellence
-- Discovery and Learning
+- Product Delivery
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

@@ -28,26 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Theory
-- Evidence Based Management
-- Value Prioritisation
-- Agile Product Discovery
-- Continuous Improvement
-- Customer Feedback Loops
-- Technical Excellence
-- Lean Principles
-- Agile Values and Principles
-- Psychological Safety
+- Decision Making
+- Evidence Based Leadership
 - Experimentation
-- Agile Transformation
+- Hypothesis Driven Development
+- Pragmatic Thinking
+- Product Management
+- Product Owner
 resourceTypes:
 - video
 categories:
+- Agile Product Management
 - Metrics and Learning
-- Value Delivery
-- Discovery and Learning
-- People and Process
-- Decision Theory
+- Personal
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

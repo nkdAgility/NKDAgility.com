@@ -21,12 +21,8 @@ aliasesFor404:
 - /windows-mobile-device-center
 - /blog/windows-mobile-device-center
 - /resources/blog/windows-mobile-device-center
-tags:
-- Deployment Strategies
-- Customer Feedback Loops
-categories:
-- Install and Configuration
-- Products and Books
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

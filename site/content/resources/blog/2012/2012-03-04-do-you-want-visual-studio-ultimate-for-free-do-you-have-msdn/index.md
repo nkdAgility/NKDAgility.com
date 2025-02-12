@@ -25,11 +25,8 @@ aliasesFor404:
 - /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
-tags:
-- Software Developers
-- Technical Excellence
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

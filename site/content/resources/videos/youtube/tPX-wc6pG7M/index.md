@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: false
-tags:
-- Team Motivation
-- Employee Engagement
-- Organisational Agility
-- Change Management
-- Self Organisation
-- Agile Values and Principles
-- Organisational Culture
-- Business Agility
-- Leadership Training
-- Agile Transformation
-- Continuous Improvement
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Organisational Psychology
-- Value Delivery
-- Events and Presentations
+categories: []
 
 ---
  🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟 

@@ -25,13 +25,9 @@ aliasesFor404:
 - /i-always-like-a-good-serenity-plug---
 - /blog/i-always-like-a-good-serenity-plug---
 - /resources/blog/i-always-like-a-good-serenity-plug
-categories:
-- People and Process
-- Discovery and Learning
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Agile Product Discovery
-- Agile Software Development
+tags: []
 
 ---
 Your results:  

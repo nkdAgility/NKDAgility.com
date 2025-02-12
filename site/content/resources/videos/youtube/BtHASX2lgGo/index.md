@@ -22,33 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
-tags:
-- Agile Planning
-- Scrum Product Management
-- Sprint Planning Workshop
-- Agile Product Discovery
-- Continuous Improvement
-- Agile Product Ownership
-- Value Delivery
-- Team Collaboration
-- Agile Software Development
-- Agile Values and Principles
-- Evidence Based Management
-- Lean Principles
-- Agile Transformation
-- Agile Digital Tools
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Value Delivery
-- Agile Product Management
-- People and Process
-- Discovery and Learning
-- Scrum
+categories: []
 
 ---
  The Agile Illusion: Unmasking the Burndown Trap in Sprint Planning - Discover why traditional burndown charts might be misleading your Agile process. Join us as we explore more effective ways to plan and execute sprints. 

@@ -30,27 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Change Management
-- Team Collaboration
-- Decision Theory
-- Business Agility
-- Systems Thinking
+- Decision Making
 - Organisational Change
-- Self Organisation
-- Market Adaptability
-- Continuous Improvement
-- Agile Values and Principles
-- Team Motivation
-- Evidence Based Management
+- Organisational Culture
+- Organisational Physics
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- People and Process
 - Market Adaptability
-- Complexity Thinking
-- Resilience and Change
+- People and Process
+- Sociotechnical Systems
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Systems Thinking
-- Organisational Agility
-- Change Management
-- Team Collaboration
-- Continuous Improvement
-- Agile Values and Principles
-- Evidence Based Management
-- Lean Thinking
-- Agile Transformation
-- Employee Engagement
-- Psychological Safety
-- Complexity Thinking
-- Agile Methodology
+tags: []
 resourceTypes:
 - video
-categories:
-- Systems Thinking
-- People and Process
-- Organisational Agility
-- Lean
-- Resilience and Change
+categories: []
 
 ---
 ## People, Systems, and Finding the Balance 

@@ -27,15 +27,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
 resourceTypes:
 - video
 categories:
 - Discovery and Learning
-- People and Process
-- Organisational Agility
-- Metrics and Learning
-- Resilience and Change
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

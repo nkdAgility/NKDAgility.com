@@ -28,29 +28,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategic Goals
-- Evidence Based Management
-- Team Collaboration
+- Ability to Innovate
 - Agile Leadership
-- Decision Theory
-- Business Agility
-- Organisational Agility
-- Employee Engagement
-- Value Delivery
-- Agile Product Ownership
+- Agile Philosophy
+- Agile Strategy
 - Change Management
-- Systems Thinking
-- Leadership Training
-- Continuous Improvement
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Product Strategy
+- Sensemaking
+- Strategic Goals
+- Strategy
+- Team Motivation
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- People and Process
 - Agile Product Management
-- Decision Theory
+- People and Process
 - Value Delivery
-- Resilience and Change
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

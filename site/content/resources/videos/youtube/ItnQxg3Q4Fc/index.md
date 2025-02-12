@@ -30,26 +30,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Leadership Training
-- Business Agility
-- Change Management
-- Organisational Change
-- Agile Strategy
-- Systems Thinking
-- Employee Engagement
-- Team Collaboration
-- Agile Values and Principles
-- Market Adaptability
-- Continuous Improvement
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
 - Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Change Management
+- Decision Making
+- Large Scale Agility
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Scaled Agile
+- Scaling Agility
+- Strategy
+- Team Collaboration
+- Technical Leadership
 resourceTypes:
 - video
 categories:
-- Organisational Agility
+- Business Agility
 - Market Adaptability
 - People and Process
-- Resilience and Change
-- Value Delivery
 
 ---
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey

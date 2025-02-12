@@ -29,12 +29,8 @@ aliasesFor404:
 - /in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
-tags:
-- Team Performance
-categories:
-- Azure DevOps
-- DevOps
-- Scrum
+tags: []
+categories: []
 preview: 146713119-1-1.jpg
 
 ---

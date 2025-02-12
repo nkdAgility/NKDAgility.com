@@ -21,12 +21,8 @@ aliasesFor404:
 - /how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
-tags:
-- Application Lifecycle Management
-- Agile Tools
-categories:
-- Application Lifecycle Management
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-visual-studio-2010-128-link-30-30.png
 
 ---

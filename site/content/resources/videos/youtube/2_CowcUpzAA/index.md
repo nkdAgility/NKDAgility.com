@@ -27,29 +27,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Scrum Product Management
-- Agile Product Ownership
-- Value Prioritisation
-- Strategic Goals
-- Agile Planning
-- Trend Analysis
-- Decision Theory
-- Customer Feedback Loops
-- Continuous Improvement
-- Agile Product Discovery
 - Accountability
-- Agile Strategy
-- Business Agility
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Product Strategy
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Strategy
 resourceTypes:
 - video
 layout: video
 categories:
 - Agile Product Management
-- Value Delivery
-- Organisational Agility
-- Market Adaptability
 - People and Process
+- Value Delivery
 
 ---
 When most people hear the term "Product Owner," they typically think about managing a product backlog and making sure the team works through it. While this is part of the job, it’s a very small piece of the puzzle. In reality, the Product Owner role is far more significant, with broader responsibilities and accountability. Let’s dive deeper into what it means to be a true Product Owner in an Agile environment, and why many who take on the role often find themselves surprised by its complexity.

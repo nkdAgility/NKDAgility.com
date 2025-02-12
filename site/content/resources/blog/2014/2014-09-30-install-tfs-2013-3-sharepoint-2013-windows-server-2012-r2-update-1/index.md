@@ -25,26 +25,8 @@ aliasesFor404:
 - /install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
 - /blog/install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
 - /resources/blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
-tags:
-- Agile Tools
-- Azure DevOps
-- Azure Repos
-- Engineering Excellence
-- Modern Source Control
-- Operational Practices
-- Software Developers
-- Software Development
-- Software Increment
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Value Delivery
-- Windows
-- Working Software
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

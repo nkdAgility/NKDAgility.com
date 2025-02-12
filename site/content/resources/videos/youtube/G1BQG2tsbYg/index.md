@@ -28,30 +28,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
-- Strategic Goals
-- Agile Predictability
-- Business Agility
-- Agile Strategy
-- Team Collaboration
-- Continuous Improvement
-- Systems Thinking
-- Agile Product Management
-- Value Stream Management
+- Agile Frameworks
 - Agile Leadership
-- Evidence Based Management
-- Lean Thinking
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
 - Agile Transformation
-- Customer Feedback Loops
+- Agile Values and Principles
+- Change Management
+- Decision Making
+- Digital Transformation
+- Forecasting
+- Operational Practices
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Strategic Goals
+- Strategy
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- Systems Thinking
-- Metrics and Learning
-- Value Stream Management
-- Market Adaptability
-- Practical Techniques and Tooling
+- Agile Product Management
+- Business Agility
+- Enterprise Agility
 
 ---
 **Predictability** is a key factor for businesses striving to meet their goals consistently. It helps reduce uncertainty, allowing organizations to focus on achieving desired outcomes. However, achieving predictability is not easy. This blog post explores the challenges to predictability in business, the role of agile, and practical steps you can take to enhance predictability in your organization.

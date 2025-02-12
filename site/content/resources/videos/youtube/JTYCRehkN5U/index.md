@@ -28,27 +28,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Decision Making
 - Definition of Done
-- Scrum Team
-- Software Increment
-- Continuous Delivery
-- Agile Product Management
-- Technical Debt
+- Empirical Process Control
 - Engineering Excellence
-- Agile Software Development
-- Customer Feedback Loops
-- Value Delivery
-- Agile Planning
-- Agile Product Discovery
-- Evidence Based Management
+- Engineering Practices
+- Increment
+- Operational Practices
+- Pragmatic Thinking
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Technical Debt
+- Technical Leadership
+- Technical Mastery
+- Working Software
 resourceTypes:
 - video
 categories:
+- Agile Product Management
+- Azure DevOps
 - Technical Excellence
-- Value Delivery
-- Product Delivery
-- Scrum
-- Metrics and Learning
 
 ---
 In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As Scrum and Agile practitioners, we often discuss the importance of technical excellence, but it's more than just a concept—it's the cornerstone of risk mitigation and successful product delivery. Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.

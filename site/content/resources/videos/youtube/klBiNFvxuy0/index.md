@@ -28,24 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Scrum Values
-- Empirical Process Control
-- Scrum Team
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Product Management
-- Agile Coaching
-- Team Collaboration
-- Discovery and Learning
+- Agile Frameworks
+- Agile Project Management
 - Agile Transformation
-- Technical Excellence
-- Value Delivery
-- Evidence Based Improvement
+- Agile Values and Principles
+- Continuous Learning
+- Empirical Process Control
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Software Development
 resourceTypes:
 - video
 categories:
-- Transparency and Accountability
+- Discovery and Learning
+- People and Process
 
 ---
 What is the most common Aha moment people have in a scrum course?

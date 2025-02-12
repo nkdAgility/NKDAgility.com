@@ -23,21 +23,26 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
-- Software Development
-- People and Process
-- Agile Product Management
-- Scrum Product Management
-- Value Prioritisation
-- Product Strategy
+- Ability to Innovate
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Hypothesis Driven Development
+- Organisational Physics
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
 - Product Owner
-- Value Delivery
-- Working Software
-- Lean Product Development
-- Agile Transformation
-- Strategic
-- Agile Software Development
-- Enterprise Agility
-- Agile Product Validation
+- Product Strategy
+- Sensemaking
+- Software Development
+- Strategic Goals
+- Strategy
+- Team Collaboration
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -45,9 +50,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Value Delivery
 - Agile Product Management
+- Metrics and Learning
+- People and Process
 
 ---
  #agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.

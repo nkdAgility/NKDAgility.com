@@ -29,27 +29,20 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- Value Delivery
 - Metrics and Learning
-- Technical Excellence
-- Value Stream Management
-tags:
-- Organisational Culture
-- Technical Leadership
-- Engineering Excellence
-- Systems Thinking
-- Value Stream Management
-- Continuous Improvement
-- Agile Software Development
-- Evidence Based Management
-- Business Agility
-- Agile Strategy
+- People and Process
 - Value Delivery
-- Customer Feedback Loops
-- Agile Product Management
-- Change Management
-- Agile Transformation
+tags:
+- Agile Strategy
+- Decision Making
+- Engineering Excellence
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Technical Leadership
+- Transparency
 
 ---
  Build a Culture of Engineering Excellence with Naked Agility | Martin Hinshelwood

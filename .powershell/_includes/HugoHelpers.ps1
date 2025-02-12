@@ -10,12 +10,16 @@ else {
 class HugoMarkdown {
     [System.Collections.Specialized.OrderedDictionary]$FrontMatter
     [string]$BodyContent
+    [string]$FilePath
+    [string]$FolderPath
 
-    HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent) {
+    HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath, [string]$FolderPath) {
         # Directly assign the front matter to the class property
         $this.FrontMatter = $frontMatter
         # Set the body content
         $this.BodyContent = $bodyContent
+        $this.FilePath = $FilePath
+        $this.FolderPath = $FolderPath
     }
 }
 
@@ -24,7 +28,6 @@ function Get-HugoMarkdown {
         [Parameter(Mandatory = $true)]
         [string]$Path
     )
-
     # Read the entire content of the Markdown file
     $content = Get-Content -Path $Path -Raw
 
@@ -42,7 +45,7 @@ function Get-HugoMarkdown {
         exit 1
     }
 
-    return [HugoMarkdown]::new($frontMatter, $bodyContent)
+    return [HugoMarkdown]::new($frontMatter, $bodyContent, $Path, (Get-Item -Path $Path).DirectoryName)
 }
 
 function Remove-Field {

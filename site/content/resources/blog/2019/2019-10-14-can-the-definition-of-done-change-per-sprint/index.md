@@ -25,11 +25,8 @@ aliasesFor404:
 - /can-the-definition-of-done-change-per-sprint-
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
-tags:
-- Agile Planning Tools
-categories:
-- Scrum
-- Technical Excellence
+tags: []
+categories: []
 preview: 20190906_152025-2-2.gif
 
 ---

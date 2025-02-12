@@ -21,13 +21,9 @@ aliasesFor404:
 - /netidme
 - /blog/netidme
 - /resources/blog/netidme
-tags:
-- Agile Product Discovery
-- Digital Transformation
+tags: []
 preview: metro-sharepoint-128-link-1-1.png
-categories:
-- Sociotechnical Systems
-- Application Lifecycle Management
+categories: []
 
 ---
 I have just been made aware of a [new ('ish) service.](http://www.netidme.net/ "netidme") It allows you to verify the identity of those users you interact with online. This is a very usefully service for any online site or community where users are under 18, but is there any value for those of us that are not?

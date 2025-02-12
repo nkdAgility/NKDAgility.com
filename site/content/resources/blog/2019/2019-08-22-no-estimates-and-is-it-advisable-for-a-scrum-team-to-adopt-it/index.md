@@ -25,8 +25,7 @@ aliasesFor404:
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
-tags:
-- Continuos Delivery
+tags: []
 categories: []
 preview: iStock-847664136-1-1.jpg
 

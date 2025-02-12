@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scaled Agile
-- Scaling Scrum
-- Scrum
-- Scrum Team
-- Scrum Product Development
-- Agile Scaling
-- Continuous Improvement
-- Technical Excellence
-- Value Delivery
-- Agile Methodology
-- Agile Product Management
-- Agile Values and Principles
-- Evidence Based Improvement
-- Agile Evolution
+tags: []
 resourceTypes:
 - video
-categories:
-- Scaling Agility
-- Scrum
-- Value Delivery
+categories: []
 
 ---
 ## "Don't scale scrum" - A Common Refrain 

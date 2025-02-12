@@ -23,25 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 isShort: true
-tags:
-- Technical Excellence
-- Agile Software Development
-- Continuous Improvement
-- Engineering Excellence
-- Agile Values and Principles
-- Team Collaboration
-- Agile Leadership
-- Decision Making
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Code and Complexity
-- Technical Excellence
-- Value Delivery
+categories: []
 
 ---
  Bad code isn't #technicaldebt, it's incompetence. https://www.nkdagility.com 

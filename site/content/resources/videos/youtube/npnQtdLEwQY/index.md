@@ -24,29 +24,24 @@ preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 668
 isShort: false
 tags:
-- Continuous Improvement
-- Technical Excellence
-- Definition of Done
-- Value Delivery
-- Customer Satisfaction
-- Agile Software Development
-- Systems Thinking
-- Lean Thinking
-- Site Reliability Engineering
-- Agile Digital Tools
-- Evidence Based Management
-- Agile Transformation
+- Decision Making
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Technical Debt
+- Technical Mastery
+- Windows
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
+- Code and Complexity
+- DevOps
 - Technical Excellence
-- Value Delivery
-- Application Lifecycle Management
-- People and Process
-- Value Stream Management
 
 ---
  Understanding and Managing Technical Debt: Lessons for Every Organization | Martin Hinshelwood

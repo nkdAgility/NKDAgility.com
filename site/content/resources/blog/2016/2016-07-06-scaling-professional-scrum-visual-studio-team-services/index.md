@@ -25,9 +25,7 @@ aliasesFor404:
 - /scaling-professional-scrum-with-visual-studio-team-services
 - /blog/scaling-professional-scrum-with-visual-studio-team-services
 - /resources/blog/scaling-professional-scrum-visual-studio-team-services
-tags:
-- Agile Frameworks
-- Strategic
+tags: []
 categories: []
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
 

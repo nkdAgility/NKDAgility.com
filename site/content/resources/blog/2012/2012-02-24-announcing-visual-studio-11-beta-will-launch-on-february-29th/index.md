@@ -21,12 +21,8 @@ aliasesFor404:
 - /announcing-visual-studio-11-beta-will-launch-on-february-29th
 - /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
 - /resources/blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
-tags:
-- Agile Software Development
-- Application Lifecycle Management
-categories:
-- News and Reviews
-- Azure DevOps
+tags: []
+categories: []
 
 ---
 Its that time again where the Visual Studio and team Foundation Server teams are pushing out their next version of their tools, Visual Studio 11. [Steven & Lori Borg](http://nwcadence.com) teamed up to present a video on [why you would want to Go-Live with Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/). I used the Go-Live with many companies with the Visual Studio 2010 launch with no problems. Its as safe as a “RTM” product from most other teams.

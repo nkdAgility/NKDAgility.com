@@ -21,20 +21,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
-tags:
-- Scrum Team
-- Agile Values and Principles
-- Continuous Improvement
-- Self Organisation
-- Team Collaboration
-- Agile Transformation
-- Agile Methodology
-- Psychological Safety
-- Agile Product Management
-- Evidence Based Improvement
-- Agile Coaching
-- Agile Leadership
-- Team Motivation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -42,12 +29,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Psychology
-- Value Delivery
-- Discovery and Learning
+categories: []
 
 ---
  The #PSMII or #advancedprofessionalscrummaster course, developed by #scrumorg, has been designed to escalate the knowledge, skills, and capabilities of a #scrummaster to a more advanced, professional level.

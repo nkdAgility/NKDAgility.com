@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Improvement
-- Transparency
-- Kanban Theory
-- Kanban Coaching
-- Agile Tools
-- Flow Efficiency
-- Value Delivery
-- Team Collaboration
-- Lean Thinking
-- Agile Planning
-- Agile Software Development
-- Cycle Time
-- Throughput
-- Working Agreements
+tags: []
 resourceTypes:
 - video
-categories:
-- Kanban
-- Transparency and Accountability
-- Metrics and Learning
-- Value Stream Management
-- Continuous Improvement
+categories: []
 
 ---
 In the world of Agile, we often hear about different tools and frameworks that help teams optimize their processes. One such tool is **Kanban**. Often misunderstood as a process in itself, Kanban is not a process but rather a powerful tool that provides clarity and insight into whatever process you're already using.

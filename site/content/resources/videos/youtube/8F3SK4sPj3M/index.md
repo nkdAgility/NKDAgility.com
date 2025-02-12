@@ -27,18 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Strategic Goals
-- Agile Evolution
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- Value Delivery
-- Organisational Agility
-- People and Process
-- Market Adaptability
+categories: []
 
 ---
 ## Stepping Up Your Game as a Product Owner

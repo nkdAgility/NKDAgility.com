@@ -28,27 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban Theory
-- Kanban Process
-- Flow Efficiency
-- Value Delivery
-- Continuous Improvement
-- Systems Thinking
+- Agile Frameworks
+- Agile Project Management
+- Lean Principles
 - Lean Thinking
-- Agile Planning
-- Team Collaboration
-- Evidence Based Management
-- Value Stream Management
-- Technical Excellence
-- Agile Methodology
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
+- Throughput
 resourceTypes:
 - video
 categories:
-- Kanban
 - Flow Efficiency
-- Value Stream Management
-- People and Process
-- Metrics and Learning
+- Kanban
+- Practical Techniques and Tooling
 
 ---
 ### Actively Managing Your Workflow in a Kanban Strategy

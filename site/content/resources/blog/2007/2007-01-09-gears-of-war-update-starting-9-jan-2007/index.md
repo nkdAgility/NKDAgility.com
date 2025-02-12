@@ -23,8 +23,7 @@ aliasesFor404:
 - /resources/blog/gears-of-war-update-starting-9-jan-2007
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- News and Reviews
+categories: []
 
 ---
 A Gears of War update should start pushing through the system at some point tomorrow, Tuesday January 9, 2007 prior to the two new multiplayer maps being available on Xbox Live Marketplace on Wednesday January 10, 2007.

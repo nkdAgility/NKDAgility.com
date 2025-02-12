@@ -28,28 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Definition of Done
-- Technical Debt
+- Agile Frameworks
 - Agile Planning
-- Team Motivation
-- Continuous Improvement
-- Agile Product Management
-- Scrum Product Management
-- Value Delivery
-- Agile Software Development
-- Team Collaboration
+- Agile Project Management
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
 - Transparency
-- Agile Values and Principles
 resourceTypes:
 - video
 categories:
-- Scrum
-- Value Delivery
-- Technical Excellence
+- Agile Product Management
 - People and Process
-- Transparency and Accountability
+- Product Delivery
 
 ---
 ## Interpreting the Sprint Backlog

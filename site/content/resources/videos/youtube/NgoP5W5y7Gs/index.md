@@ -23,17 +23,21 @@ preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Continuous Integration
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Code and Complexity
-- Technical Excellence
+- Azure DevOps
 - DevOps
-- Application Lifecycle Management
 - Practical Techniques and Tooling
 
 ---

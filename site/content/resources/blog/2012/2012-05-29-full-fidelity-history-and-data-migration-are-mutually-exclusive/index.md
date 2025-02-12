@@ -21,11 +21,8 @@ aliasesFor404:
 - /full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
-tags:
-- Application Lifecycle Management
-- Technical Debt
-categories:
-- Application Lifecycle Management
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

@@ -25,11 +25,8 @@ aliasesFor404:
 - /issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 - /blog/issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 - /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
-tags:
-- Technical Excellence
-- Agile Software Development
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: metro-problem-icon-5-5.png
 
 ---

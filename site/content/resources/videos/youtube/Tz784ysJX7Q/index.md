@@ -24,32 +24,18 @@ preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
 tags:
-- Customer Satisfaction
-- Deployment Strategies
-- Technical Excellence
-- Continuous Delivery
-- Agile Product Management
-- Value Delivery
-- Agile Software Development
-- Evidence Based Management
-- Agile Leadership
-- Business Agility
-- Change Management
-- Systems Thinking
-- Technical Debt
-- Agile Values and Principles
-- Lean Principles
+- Decision Making
+- Engineering Excellence
+- Pragmatic Thinking
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories:
-- Value Delivery
-- Technical Excellence
+- Complexity Thinking
 - People and Process
-- Resilience and Change
-- Systems Thinking
+- Product Delivery
 
 ---
  Balancing Speed and Stability in Delivery: Why Quality Should Always Come First

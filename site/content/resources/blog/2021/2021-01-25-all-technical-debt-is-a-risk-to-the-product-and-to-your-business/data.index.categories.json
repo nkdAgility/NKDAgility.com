@@ -1,50 +1,317 @@
 {
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T20:39:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the risks associated with technical debt and the decision-making processes involved in managing it, particularly in the context of software development and business investments. However, the primary focus is on technical debt rather than decision theory itself.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-11T20:39:21",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the implications of technical debt on product delivery and organisational performance, highlighting the need for a culture of quality and responsiveness. However, it primarily focuses on technical debt rather than broader enterprise agility frameworks or practices.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-11T20:39:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical debt and its implications on product delivery, with a focus on Scrum practices rather than Lean principles.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-11T20:39:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery and organisational performance, highlighting the need for change management practices and a culture of quality. While it primarily focuses on technical debt, it also touches on the importance of adapting to customer needs and improving processes, which aligns with the themes of resilience and change.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T20:39:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the implications of technical debt and its impact on product delivery, rather than focusing on installation or configuration processes.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-11T20:39:29",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses technical debt, its implications on software quality, and the complexities involved in managing it within software development processes. It explores the relationship between technical debt and code quality, making it a central theme.",
+    "level": "Secondary"
+  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-11T20:39:30",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the impact of technical debt on product delivery efficiency and the need for improved processes to enhance flow in software development.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery speed and quality, which relates to flow efficiency. However, the primary focus is on technical debt rather than flow efficiency principles or techniques.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T20:39:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses technical debt and its implications on software delivery, with no clear focus on AI or automation in Agile practices.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T20:39:33",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the implications of technical debt on product delivery, including the importance of understanding and managing technical debt to ensure quality and timely delivery of software products. It also touches on methodologies like Scrum and the need for iterative development, which are central to effective product delivery.",
     "level": "Secondary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T20:39:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the transition to Agile practices, specifically Scrum, in addressing technical debt and improving product delivery. However, the primary focus is on technical debt rather than Agile product management principles.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T20:39:37",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of understanding technical debt and its implications on product delivery, which relates to learning from past experiences and adapting processes. However, the primary focus is on the risks associated with technical debt rather than on discovery and learning methodologies.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T20:39:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the implications of technical debt on organisational dynamics and decision-making processes, highlighting the interconnectedness of technical debt and product delivery. However, it primarily focuses on technical debt rather than a comprehensive exploration of Systems Thinking principles.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T20:39:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the non-linear accumulation of technical debt and its implications for product delivery, which aligns with complexity thinking principles. However, the primary focus is on technical debt rather than a comprehensive exploration of complexity science.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T20:39:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of transparency in understanding technical debt and its implications for business accountability. It highlights the need for clear communication and the consequences of neglecting transparency, making it a primary focus of the discussion.",
+    "level": "Secondary"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T20:39:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the implications of technical debt and references the adoption of Scrum and continuous delivery practices at Microsoft, indicating a major theme related to practical techniques and tooling in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T20:39:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical debt in software development without reference to specific events, presentations, or discussions related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T20:39:48",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery and the need for agile methodologies, such as Scrum, to improve responsiveness to market demands. However, the primary focus is on technical debt rather than market adaptability strategies.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T20:39:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical debt and its implications within software development, referencing specific practices and methodologies such as Scrum.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-11T20:39:50",
+    "ai_confidence": 50,
     "non_ai_confidence": 50,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the implications of technical debt on product delivery and the importance of continuous delivery practices, particularly through the lens of Scrum and feedback loops, which are central to DevOps principles.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses technical debt and its implications on product delivery, touching on the need for automation and the shift to Agile practices like Scrum, which are relevant to DevOps principles. However, the primary focus is on technical debt rather than DevOps as a central theme.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-11T20:39:52",
+    "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses technical debt in the context of software development, specifically referencing Team Foundation Server and the transition to Azure DevOps practices, indicating a strong focus on Azure DevOps methodologies.",
-    "level": "Secondary"
+    "final_score": 47.0,
+    "reasoning": "The content discusses technical debt in the context of software development and references Azure DevOps in relation to the transformation of delivery practices at Microsoft, but the primary focus is on technical debt rather than Azure DevOps itself.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T20:39:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses technical debt in the context of product delivery and its implications for business, which aligns with the category's focus on products. However, it does not primarily focus on specific products or literature, making it a secondary theme.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T20:39:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery and the need for organisations to adapt their processes, such as moving to shorter feedback loops and agile methodologies, to improve responsiveness and quality. However, the primary focus is on technical debt rather than business agility principles.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
+    "calculated_at": "2025-02-11T20:39:57",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical debt and its implications for product delivery, with only a brief mention of Scrum and no clear focus on Kanban principles or practices.",
+    "reasoning": "Content primarily discusses technical debt and its implications for product delivery, with a focus on Scrum practices rather than Kanban principles.",
     "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T20:39:58",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery and business value, emphasising the importance of understanding and managing technical debt to ensure high-quality delivery and customer satisfaction. It also highlights the shift to Agile methodologies, specifically Scrum, to improve value delivery through shorter feedback loops and continuous delivery practices.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-11T20:40:00",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the implications of technical debt on product quality and business risk, emphasising the importance of engineering practices such as automation, continuous delivery, and agile methodologies to mitigate these risks.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses technical debt and its implications on software quality and delivery, which relates to technical excellence. However, the primary focus is on the business perspective and risks associated with technical debt rather than specific engineering practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T20:40:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical debt and its implications on product delivery, with a focus on individual team practices rather than scaling Agile methodologies across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T20:40:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery and highlights the shift to Agile methodologies, specifically Scrum, to improve responsiveness and customer feedback integration. However, the primary focus is on technical debt rather than organisational agility as a central theme.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T20:40:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical debt and its implications for businesses, with a focus on practices and experiences at Microsoft, rather than personal reflections or anecdotes.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T20:40:05",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the impact of technical debt on product delivery and the organisational changes made at Microsoft to improve processes, highlighting the importance of team dynamics, leadership, and culture in addressing these challenges.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 65.0,
-    "reasoning": "Content discusses the transition to 3-week Sprints using Scrum to address technical debt, highlighting Scrum's role in improving delivery and transparency.",
-    "level": "Secondary"
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T20:40:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the impact of technical debt on business and organisational culture, highlighting the need for understanding and managing technical risks within a sociotechnical context. However, the primary focus is on technical debt rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T20:40:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the implications of technical debt in software development rather than providing news or reviews related to Agile, DevOps, or technology updates.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T20:40:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery and the importance of feedback loops in Agile practices, particularly through the example of Microsoft transitioning to shorter Sprints. However, the primary focus is on technical debt rather than metrics and learning.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T20:43:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses technical debt and its implications on product delivery, which relates to the management of software applications. However, it primarily focuses on the risks associated with technical debt rather than the broader aspects of Application Lifecycle Management.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T20:43:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical debt and its implications on product delivery, rather than focusing on Value Stream Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T20:43:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses technical debt and its implications on product delivery, with a focus on project management practices rather than psychological principles or theories related to organisational behaviour.",
+    "level": "Ignored"
   }
 }

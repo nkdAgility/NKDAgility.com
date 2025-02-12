@@ -28,28 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Discovery
-- Discovery and Learning
-- Experimentation
-- Agile Product Validation
-- Team Collaboration
 - Continuous Learning
-- Evidence Based Management
-- Agile Product Management
-- Value Delivery
-- Customer Feedback Loops
-- Lean Product Development
-- Agile Planning
-- Agile Leadership
-- Product Strategy
+- Decision Making
+- Experimentation
+- Hypothesis Driven Development
+- Lean Startup
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Validation
+- Sensemaking
 resourceTypes:
 - video
 categories:
 - Discovery and Learning
-- Metrics and Learning
 - People and Process
-- Agile Product Management
-- Value Delivery
+- Products and Books
 
 ---
 ## **Why the PPDV Course Was Created**

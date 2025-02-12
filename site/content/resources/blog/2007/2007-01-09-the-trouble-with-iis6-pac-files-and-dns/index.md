@@ -29,19 +29,9 @@ aliasesFor404:
 - /the-trouble-with-iis6---pac-files-and-dns
 - /blog/the-trouble-with-iis6---pac-files-and-dns
 - /resources/blog/the-trouble-with-iis6-pac-files-and-dns
-tags:
-- Troubleshooting
-- System Configuration
-- Windows
-- Pragmatic Thinking
-- Software Development
-- Technical Excellence
-- Technical Mastery
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+categories: []
 
 ---
 Now, I have, up until now, not had any experience with proxy servers. Well, to be honest, I still don't... But I do have some experience with IIS as I have been using it since the sad old days of NT4. Yes that's right, before Active Directory, The bad old days when domains were the work of a craftsman.

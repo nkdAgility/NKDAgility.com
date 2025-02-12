@@ -27,28 +27,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Empirical Process Control
-- Scrum Master
-- Scrum Team
-- Complexity Thinking
-- Continuous Improvement
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
 - Agile Values and Principles
-- Evidence Based Management
-- Team Collaboration
-- Agile Product Management
-- Agile Coaching
-- Systems Thinking
-- Agile Transformation
-- Technical Excellence
+- Empirical Process Control
+- Pragmatic Thinking
+- Sensemaking
+- Software Development
 resourceTypes:
 - video
 layout: video
 categories:
 - Complexity Thinking
-- Scrum
 - People and Process
-- Discovery and Learning
-- Systems Thinking
 
 ---
 If you could teach just one thing about Scrum, what would it be?

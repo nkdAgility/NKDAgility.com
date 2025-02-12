@@ -28,30 +28,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Management
-- Customer Satisfaction
 - Ability to Innovate
-- Decision Theory
-- Agile Product Management
-- Continuous Improvement
-- Data Driven Decisions
-- Agile Planning
-- Agile Tools
-- Technical Debt
-- Value Stream Management
-- Agile Product Discovery
-- Trend Analysis
-- Systems Thinking
+- Agile Project Management
 - Agile Strategy
+- Customer Feedback Loops
+- Customer Satisfaction
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Product Validation
+- Sensemaking
+- Software Development
+- Strategy
+- Trend Analysis
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
-- Organisational Agility
 - Agile Product Management
-- Value Delivery
-- Technical Excellence
-- Discovery and Learning
+- Metrics and Learning
+- People and Process
 
 ---
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.

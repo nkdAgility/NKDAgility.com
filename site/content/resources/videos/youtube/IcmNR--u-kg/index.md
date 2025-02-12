@@ -23,33 +23,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false
-tags:
-- Agile Coaching
-- Continuous Learning
-- Team Collaboration
-- Change Management
-- Evidence Based Management
-- Discovery and Learning
-- Agile Transformation
-- Employee Engagement
-- Agile Values and Principles
-- Organisational Change
-- Agile Leadership
-- Agile Product Management
-- Systems Thinking
-- Team Motivation
-- Agile Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- People and Process
-- Systems Thinking
-- Organisational Agility
-- Metrics and Learning
+categories: []
 
 ---
  *Revolutionizing Workforce Skills: The Power of Immersive Learning* - Discover how immersive learning transforms entry-level capabilities in our latest video. Dive deep into practical skills application and real-world problem-solving with our innovative approach. 

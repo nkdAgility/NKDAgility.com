@@ -22,9 +22,26 @@ aliasesFor404:
 - /sprint-goal-is-an-immediate-tactical-goal
 - /blog/sprint-goal-is-an-immediate-tactical-goal
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Empirical Process Control
+- Hypothesis Driven Development
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Product Strategy
+- Product Validation
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Strategy
 categories:
-- Scrum
+- Agile Product Management
+- People and Process
+- Value Delivery
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

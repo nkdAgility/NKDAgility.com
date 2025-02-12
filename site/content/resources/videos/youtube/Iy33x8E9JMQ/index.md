@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Change Management
-- Evidence Based Management
-- Decision Theory
-- Pragmatic Thinking
-- Organisational Agility
-- Continuous Improvement
-- Systems Thinking
-- Agile Values and Principles
-- Evidence Based Improvement
-- Agile Transformation
-- Employee Engagement
-- Team Collaboration
-- Customer Feedback Loops
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Market Adaptability
-- Resilience and Change
+categories: []
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

@@ -27,28 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Scrum Team
-- Agile Transformation
-- Change Management
-- Organisational Change
-- Agile Values and Principles
-- Continuous Improvement
-- Systems Thinking
-- Team Collaboration
-- Agile Product Management
-- Evidence Based Improvement
-- Customer Feedback Loops
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Organisational Agility
-- Systems Thinking
-- Value Delivery
-- Resilience and Change
+categories: []
 
 ---
 ## The Reality of Scrum Adoption 🤔  

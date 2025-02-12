@@ -28,27 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Team
-- Scrum Product Management
-- Sprint Planning Workshop
-- Daily Scrum
-- Backlog Refinement
-- Value Delivery
-- Kanban Theory
-- Flow Efficiency
-- Continuous Improvement
+- Agile Frameworks
 - Agile Planning
-- Agile Product Management
-- Customer Satisfaction
+- Agile Project Management
+- Increment
+- Operational Practices
+- Pragmatic Thinking
+- Scrum Product Development
+- Software Development
+- Strategy
+- Team Performance
+- Working Software
 resourceTypes:
 - video
 categories:
-- Value Delivery
-- Flow Efficiency
-- Kanban
-- Scrum
 - Metrics and Learning
+- Product Delivery
+- Value Delivery
 
 ---
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban

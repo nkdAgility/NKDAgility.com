@@ -25,13 +25,9 @@ aliasesFor404:
 - /deep-vein-thrombosis-(dvt)
 - /blog/deep-vein-thrombosis-(dvt)
 - /resources/blog/deep-vein-thrombosis-dvt
-categories:
-- Resilience and Change
-- Value Delivery
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Organisational Change
-- Evidence Based Improvement
+tags: []
 
 ---
 As most of my friends know a very good friend of mine, Katie McPherson died 4 years ago of DVT. I would like to share a letter I received from her brother, another very good friend of mine, and I would ask you to sign the petition.

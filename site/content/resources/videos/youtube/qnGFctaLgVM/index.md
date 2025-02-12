@@ -27,29 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Ownership
-- Scrum Product Management
-- Agile Coaching
-- Agile Mentoring Program
-- Team Collaboration
-- Team Motivation
-- Agile Leadership
-- Agile Values and Principles
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Community
-- Agile Certification
-- Technical Mastery
-- Leadership Training
+tags: []
 resourceTypes:
 - video
-categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
-- Scrum
-- Events and Presentations
+categories: []
 
 ---
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 

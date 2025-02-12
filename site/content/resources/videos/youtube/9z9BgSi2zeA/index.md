@@ -27,27 +27,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Coaching
-- Leadership Training
-- Business Agility
-- Agile Strategy
-- Organisational Agility
-- Technical Mastery
-- Change Management
-- Agile Values and Principles
-- Team Collaboration
-- Agile Transformation
-- Agile Community
-- Employee Engagement
-- Systems Thinking
+tags: []
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Technical Excellence
-- Enterprise Agility
+categories: []
 
 ---
 Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand Scrum or Agile frameworks—it's about their ability to deeply engage with both the technical teams and leadership. They must gain credibility in both arenas to effectively drive the transformation.

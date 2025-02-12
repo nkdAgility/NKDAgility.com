@@ -21,12 +21,8 @@ aliasesFor404:
 - /service-manager-factory
 - /blog/service-manager-factory
 - /resources/blog/service-manager-factory
-tags:
-- Application Lifecycle Management
-- Continuous Delivery
-categories:
-- Application Lifecycle Management
-- Code and Complexity
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

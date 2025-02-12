@@ -1,28 +1,4 @@
 {
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses improving software delivery processes and consistent cadence, which are relevant to Agile practices, but it does not focus explicitly on Agile forecasting as a primary topic.",
-    "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the author's journey in Application Lifecycle Management (ALM) and their reflections on improving customer interactions, but the emphasis is more on personal experience and insights rather than a singular topic of 'Featured'.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 79,
-    "non_ai_confidence": 0,
-    "final_score": 55.0,
-    "reasoning": "The content discusses the importance of adapting application lifecycle management (ALM) processes to improve customer experiences and deliver value, indicating a focus on market adaptability as a major theme.",
-    "level": "Secondary"
-  },
   "Test First Development": {
     "category": "Test First Development",
     "ai_confidence": 0,
@@ -63,22 +39,6 @@
     "reasoning": "The content discusses consulting practices and emphasizes understanding the client's needs and delivering value, which are related to evidence-based approaches in management, but the primary focus is on application lifecycle management and personal motivation rather than a clear, central discussion on evidence-based management.",
     "level": "Ignored"
   },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the improvement of software delivery processes, customer interactions, and achieving agility, which are central themes in Lean Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "Although the content primarily discusses Application Lifecycle Management (ALM) and customer experience, it highlights the importance of improving software delivery processes, which aligns with agile principles and practices.",
-    "level": "Ignored"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "ai_confidence": 0,
@@ -103,14 +63,6 @@
     "reasoning": "The content discusses Agile methodologies and improving software delivery processes, but it primarily focuses on Application Lifecycle Management (ALM) and personal reflections, with only tangential references to principles that may relate to Scrum.",
     "level": "Ignored"
   },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "While the content discusses systems and processes related to Application Lifecycle Management (ALM), it is primarily focused on customer interactions and personal motivations rather than the core themes of complexity science.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
     "ai_confidence": 80,
@@ -127,14 +79,6 @@
     "reasoning": "The content discusses concepts related to delivering better customer experiences and improving interactions. However, it does not focus primarily on psychological safety; hence, it is not relevant enough.",
     "level": "Ignored"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and its relation to software delivery processes, which are relevant to Azure DevOps, but it does not focus primarily on Azure DevOps itself.",
-    "level": "Ignored"
-  },
   "Modern Source Control": {
     "category": "Modern Source Control",
     "ai_confidence": 0,
@@ -143,22 +87,6 @@
     "reasoning": "The content primarily discusses the author's journey in Application Lifecycle Management (ALM) and improving customer experiences, with no clear focus on source control practices or concepts.",
     "level": "Ignored"
   },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content discusses the author's vision and approach to Application Lifecycle Management (ALM) and customer engagement, but it does not specifically address Agile Estimation as a clear or primary topic.",
-    "level": "Ignored"
-  },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "The content discusses concepts related to Agile processes and mentions influential books like 'Getting Naked' and 'Start with Why', which are relevant to the theme of Agile, but the primary focus is on the author's experiences with Application Lifecycle Management (ALM) rather than Agile methodologies specifically.",
-    "level": "Secondary"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "ai_confidence": 75,
@@ -166,14 +94,6 @@
     "final_score": 52.0,
     "reasoning": "The content discusses improving customer experience and client loyalty through better consulting practices, indicating a major focus on customer engagement and retention strategies.",
     "level": "Secondary"
-  },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 27,
-    "non_ai_confidence": 0,
-    "final_score": 19.0,
-    "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) and customer engagement, with the concept of reliable software delivery being mentioned, but it does not directly address site reliability as a central theme.",
-    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -191,14 +111,6 @@
     "reasoning": "The content primarily discusses themes around Application Lifecycle Management (ALM) and personal reflections on consulting, with no clear focus on Azure Pipelines.",
     "level": "Ignored"
   },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses improving customer experiences in ALM through introspection and methodologies that align with evidence-based practices, particularly through the emphasis on understanding 'why' and the processes involved in delivering consistent software.",
-    "level": "Secondary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "ai_confidence": 50,
@@ -214,38 +126,6 @@
     "final_score": 56.0,
     "reasoning": "The content discusses how to improve customer experience in the context of ALM services, emphasizing the importance of understanding customer needs and delivering software that meets those needs, which is central to customer satisfaction.",
     "level": "Secondary"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses improving software delivery processes and customer interactions, which are relevant to coaching and promoting agile methodologies, including Kanban principles. However, it does not specifically focus on Kanban coaching as the primary topic.",
-    "level": "Ignored"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses a desired state of delivering software on a consistent cadence and creating steady movement towards better software practices, which suggests an alignment with the Kanban principles of continuous improvement and flow. However, it primarily focuses on broader themes of Application Lifecycle Management and consulting.",
-    "level": "Ignored"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content discusses improvements in software delivery processes and emphasizes the importance of agility and continuous feedback, which are central themes in the Agile methodology.",
-    "level": "Secondary"
-  },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses the importance of understanding customer needs and improving processes, which are relevant to data-driven decision making in application lifecycle management.",
-    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -271,22 +151,6 @@
     "reasoning": "The content primarily discusses the author's journey and philosophy toward providing Application Lifecycle Management (ALM) services, emphasizing the importance of understanding customer needs and improving interaction. While the primary focus is on ALM processes and customer relationships, it also touches on entrepreneurial elements like vision and personal mission, making it a significant theme.",
     "level": "Secondary"
   },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses concepts related to agility and how to deliver software effectively, aligning well with the notion of an Agile Pilot. It emphasizes the importance of agile processes and improving customer experiences in ALM, central to the agile methodology.",
-    "level": "Secondary"
-  },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and personal reflections on consulting practices. Kanban Flow is not a clear or primary topic.",
-    "level": "Ignored"
-  },
   "Decision Making": {
     "category": "Decision Making",
     "ai_confidence": 70,
@@ -303,14 +167,6 @@
     "reasoning": "The content discusses improving customer experiences and delivering value through Application Lifecycle Management (ALM) by analyzing and peeling away unnecessary layers in processes, which embodies practical and pragmatic thinking.",
     "level": "Secondary"
   },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the author's journey towards improving software delivery processes and emphasizes the importance of agility and continuous feedback, aligning closely with Agile principles.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "ai_confidence": 92,
@@ -319,36 +175,12 @@
     "reasoning": "Content primarily focuses on the importance of delivering working software at a consistent and frequent cadence, discussing the challenges and aspirations related to deployment frequency in the context of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on improving client interaction and software delivery processes, emphasizing the importance of agility in software development.",
-    "level": "Secondary"
-  },
   "Technical Debt": {
     "category": "Technical Debt",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 38.0,
     "reasoning": "The content discusses layers of process and inefficiencies, which can hint at technical debt as a hindrance to delivering agile software, but is primarily focused on ALM and consulting philosophy.",
-    "level": "Ignored"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 65.0,
-    "reasoning": "Content primarily focuses on the principles of Agile and the importance of continuous delivery and feedback, aligned with Agile Product Management practices.",
-    "level": "Secondary"
-  },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "While the content focuses on Application Lifecycle Management and improving customer experiences, it mentions the importance of delivering working software on a consistent cadence, which is a fundamental aspect of release planning.",
     "level": "Ignored"
   },
   "Technical Mastery": {
@@ -366,30 +198,6 @@
     "final_score": 38.0,
     "reasoning": "While the main focus is on Application Lifecycle Management (ALM) and improving customer experiences, there are elements that discuss continuous delivery, feedback loops, and striving for agility, which relate to empirical process control principles.",
     "level": "Ignored"
-  },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 82,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the importance of understanding customer needs and improving processes to deliver better software, which aligns strongly with Agile Product Discovery concepts.",
-    "level": "Secondary"
-  },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and customer engagement without directly addressing Kanban theory or practices. While there is an emphasis on improving processes and delivering software efficiently, the category of Kanban Theory is not central to the content.",
-    "level": "Ignored"
-  },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content extensively discusses principles related to Application Lifecycle Management (ALM) and emphasizes the importance of providing working software, feedback loops, and customer engagement—all central themes in the Agile community.",
-    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -415,14 +223,6 @@
     "reasoning": "Content emphasizes the importance of delivering software consistently and adapting to customer needs, reflecting core principles of large scale agility.",
     "level": "Secondary"
   },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the importance of delivering software consistently and gathering continuous feedback, aligning it closely with the principles of Continuous Delivery.",
-    "level": "Secondary"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
     "ai_confidence": 70,
@@ -439,28 +239,12 @@
     "reasoning": "While the content discusses the importance of delivering value and improving customer experiences, accountability as a primary theme is not the focus, and the content is mostly centered around personal insights and experiences rather than accountability itself.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content is primarily focused on Application Lifecycle Management, discussing the author's journey and insights on helping customers improve their software delivery processes, including a clear 'why' behind ALM services.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
     "final_score": 49.0,
     "reasoning": "The content discusses improving processes to deliver value to customers, which is aligned with Lean principles, although it is framed within the context of Application Lifecycle Management rather than being solely focused on Lean Thinking.",
-    "level": "Ignored"
-  },
-  "Scrum Product Management": {
-    "category": "Scrum Product Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses aspects related to Application Lifecycle Management (ALM) and improving customer interactions, which relate to Scrum principles, but Scrum is not the primary focus.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -479,14 +263,6 @@
     "reasoning": "The content discusses concepts like the importance of understanding why organizations operate the way they do, particularly in the context of Application Lifecycle Management (ALM), but it does not focus primarily on the principles of Organisational Physics itself.",
     "level": "Ignored"
   },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "While the content mainly focuses on Application Lifecycle Management (ALM) and enhancing customer experiences, it discusses significantly the movement towards agility and continuous improvement, which are important aspects of Agile Scaling.",
-    "level": "Secondary"
-  },
   "Software Development": {
     "category": "Software Development",
     "ai_confidence": 85,
@@ -494,46 +270,6 @@
     "final_score": 66.0,
     "reasoning": "Content focuses on Application Lifecycle Management (ALM) and improving software delivery processes, making software development a clear primary topic.",
     "level": "Secondary"
-  },
-  "CI/CD": {
-    "category": "CI/CD",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses application lifecycle management and emphasizes the importance of delivering software consistently and frequently, which aligns well with CI/CD principles.",
-    "level": "Secondary"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content is primarily focused on improving software delivery processes and emphasizes the importance of agility in Application Lifecycle Management, which aligns closely with the theme of Enterprise Agility.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and improving software delivery processes, representing a major theme related to technical excellence.",
-    "level": "Secondary"
-  },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 62,
-    "non_ai_confidence": 20,
-    "final_score": 49.0,
-    "reasoning": "The content discusses aspects of ALM and delivering software more frequently, which includes the notion of understanding customer needs, but it primarily focuses on personal experiences and reflections rather than directly on Agile Product Ownership.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM), customer interactions, and improving software delivery processes. Decision Theory is not central to the topic.",
-    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -559,14 +295,6 @@
     "reasoning": "The content primarily discusses personal reflections on Application Lifecycle Management (ALM) and consulting practices, with a focus on customer experience and development processes, but does not specifically address Azure Boards.",
     "level": "Ignored"
   },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content focuses on Application Lifecycle Management (ALM) and the importance of delivering software consistently, which aligns with Agile principles and practices.",
-    "level": "Secondary"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "ai_confidence": 85,
@@ -574,22 +302,6 @@
     "final_score": 62.0,
     "reasoning": "The content focuses significantly on the principles of Agile, particularly through the lens of improving software delivery processes and application lifecycle management (ALM), aligning with core Agile strategies such as starting with 'why' and fostering a culture of continuous improvement.",
     "level": "Secondary"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses improving customer interactions and delivery processes in ALM, aligning with the principles of Agile methodology, but it is primarily focused on personal reflections and experiences rather than direct mentoring.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses the thought process behind consulting and improving customer experiences, touching on themes relevant to complexity thinking, but it primarily focuses on ALM practices.",
-    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -615,14 +327,6 @@
     "reasoning": "The content primarily discusses personal reflections on application lifecycle management (ALM) and customer interaction rather than focusing on cross functional teams.",
     "level": "Ignored"
   },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content discusses the importance of understanding the 'why' behind actions in the context of Application Lifecycle Management and how it relates to leadership and customer interactions, with references to influential leadership literature.",
-    "level": "Secondary"
-  },
   "Product Strategy": {
     "category": "Product Strategy",
     "ai_confidence": 70,
@@ -638,14 +342,6 @@
     "final_score": 41.0,
     "reasoning": "The content discusses improving customer interaction and software delivery processes, which aligns with themes of lean principles, but focuses more broadly on ALM and personal reflections rather than solely on lean product development.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the discovery process in Application Lifecycle Management (ALM) and emphasizes understanding client needs and improving processes, indicating a strong focus on learning and discovery.",
-    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -695,14 +391,6 @@
     "reasoning": "The content discusses guiding and improving customer interactions in ALM and reflects on leadership concepts, making mentoring a secondary theme.",
     "level": "Ignored"
   },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content discusses Application Lifecycle Management (ALM) and improving software delivery processes, which aligns closely with DevOps principles.",
-    "level": "Secondary"
-  },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
     "ai_confidence": 30,
@@ -717,38 +405,6 @@
     "non_ai_confidence": 0,
     "final_score": 56.0,
     "reasoning": "Content primarily discusses the importance of delivering software that meets consumer needs frequently and the author's mission to facilitate that through Application Lifecycle Management (ALM).",
-    "level": "Secondary"
-  },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses improving software delivery processes and emphasizes achieving a consistent cadence in software production, which aligns well with the concept of software increments.",
-    "level": "Secondary"
-  },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on personal reflections about ALM, customer engagement, and philosophical insights rather than discussing test strategy in any substantial way.",
-    "level": "Ignored"
-  },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "While the content mainly focuses on Application Lifecycle Management (ALM) and the author's personal journey, it discusses themes of leadership, understanding customer needs, and organizational change which align with principles of adaptive leadership, making it a significant secondary theme.",
-    "level": "Ignored"
-  },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on achieving consistent software delivery and the importance of alignment with customer needs, which are key aspects of Agile Predictability.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -783,22 +439,6 @@
     "reasoning": "The content predominantly discusses Application Lifecycle Management (ALM) and personal insights into improving customer interactions rather than portfolio management.",
     "level": "Ignored"
   },
-  "Sprint Planning Workshop": {
-    "category": "Sprint Planning Workshop",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on personal experiences, reflections on ALM, and the importance of understanding customer needs, without addressing sprint planning specifically.",
-    "level": "Ignored"
-  },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 82,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "Content primarily discusses improving software delivery processes and the importance of customer feedback, aligning closely with Agile principles.",
-    "level": "Secondary"
-  },
   "Technical Leadership": {
     "category": "Technical Leadership",
     "ai_confidence": 80,
@@ -815,14 +455,6 @@
     "reasoning": "The content primarily discusses the author's approach to improving customer interactions and ALM (Application Lifecycle Management) processes, emphasizing the importance of understanding the 'why' behind organizational actions, which is a key element of organisational change.",
     "level": "Secondary"
   },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily focuses on improving software delivery processes and emphasizes the importance of agility in the context of Application Lifecycle Management (ALM).",
-    "level": "Secondary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "ai_confidence": 50,
@@ -831,22 +463,6 @@
     "reasoning": "The content discusses themes of self-organisation in the context of Agile methodologies and ALM, but is primarily focused on personal experiences and insights related to consulting and customer interaction.",
     "level": "Ignored"
   },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses improving software delivery processes, customer engagement, and the underlying principles of workload management which relate to value stream management, but it is primarily focused on personal insights and consulting experiences.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses improving customer interactions and delivering software more consistently, emphasizing the importance of agility in software processes, which is central to the author's mission and themes of the blog.",
-    "level": "Secondary"
-  },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
     "ai_confidence": 80,
@@ -854,30 +470,6 @@
     "final_score": 59.0,
     "reasoning": "The content emphasizes the importance of delivering working software more frequently and discusses the need for a consistent cadence in software delivery, aligning well with the concept of Continuous Delivery.",
     "level": "Secondary"
-  },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content focuses on improving customer experiences in ALM, highlighting the need for frequent feedback and consistent delivery of software, which aligns with Agile principles.",
-    "level": "Secondary"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the author's journey and philosophy related to improving customer experience and application lifecycle management, with a clear focus on continuous improvement in software delivery processes.",
-    "level": "Secondary"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile concepts, especially related to Application Lifecycle Management (ALM), and touches on the importance of guiding customers towards agility, although it is primarily focused on the author's personal reflections and experiences rather than a structured Agile Mentoring Program.",
-    "level": "Ignored"
   },
   "BetaCodex": {
     "category": "BetaCodex",
@@ -894,14 +486,6 @@
     "final_score": 31.0,
     "reasoning": "While the content discusses personal experiences and insights related to Application Lifecycle Management (ALM), it does not primarily focus on analyzing trends. The themes are more about personal growth, customer engagement, and the journey towards better software delivery rather than a clear trend analysis.",
     "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content focuses on improving software delivery processes, emphasizing consistent delivery and customer value, which are central themes in flow efficiency.",
-    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -926,22 +510,6 @@
     "final_score": 31.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) and improving software delivery processes, which can relate to Scrum practices, but does not primarily focus on Scrum itself.",
     "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and does not focus on Kanban as a central topic, although processes related to Agile are mentioned.",
-    "level": "Ignored"
-  },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the importance of understanding the 'why' behind software delivery and emphasizes delivering value to customers, which aligns closely with the theme of value prioritisation in the context of Application Lifecycle Management.",
-    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -983,38 +551,6 @@
     "reasoning": "The content is primarily focused on Application Lifecycle Management (ALM) and the author's personal journey and beliefs, with no clear or primary discussion on Scaling Kanban.",
     "level": "Ignored"
   },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and the importance of starting with 'why' in providing value to customers, but does not explicitly focus on Lean UX principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the principles and practices surrounding Application Lifecycle Management (ALM) and its connection to delivering software more efficiently, emphasizing the importance of agility and continuous feedback, which are central themes in Agile Resource Management.",
-    "level": "Secondary"
-  },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses application lifecycle management (ALM) and the author's personal insights, with only a vague and indirect mention of agility without any focus on Agile certifications.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses concepts related to Application Lifecycle Management (ALM) and agile processes, mentioning agility and delivery cadence, but Scrum is not clearly or primarily addressed.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "ai_confidence": 65,
@@ -1029,22 +565,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses personal reflections on domain selection and Application Lifecycle Management (ALM) consulting, without a clear focus on Revenue per Employee as a topic.",
-    "level": "Ignored"
-  },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content is primarily focused on improving Application Lifecycle Management (ALM) practices and developing a strategic approach to customer interaction and software delivery, which aligns with the concept of technical strategy.",
-    "level": "Secondary"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and the importance of agile processes, but it primarily focuses on personal reflections and experiences rather than specifically on Agile Portfolio Management.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1095,36 +615,12 @@
     "reasoning": "The content discusses principles of Application Lifecycle Management (ALM) and consulting but does not primarily focus on the concept of MVP.",
     "level": "Ignored"
   },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 72,
-    "non_ai_confidence": 10,
-    "final_score": 53.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and touches on agile principles, indicating that agile tools are a significant focus, but it also diverges into broader themes of consulting and customer experience.",
-    "level": "Secondary"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses the author's philosophy on improving client experiences and helping customers adopt Application Lifecycle Management (ALM) effectively, focusing on the theme of transformation and adaptation in organizations.",
-    "level": "Secondary"
-  },
   "Change Management": {
     "category": "Change Management",
     "ai_confidence": 85,
     "non_ai_confidence": 20,
     "final_score": 66.0,
     "reasoning": "The content discusses the need for customers to change their software processes and move towards agility, emphasizing the importance of discovery and improvement in client relationships, which aligns closely with change management principles.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 79,
-    "non_ai_confidence": 20,
-    "final_score": 61.0,
-    "reasoning": "Content discusses the application of Agile principles in ALM and emphasizes improving software delivery and customer interactions, making Agile a major theme.",
     "level": "Secondary"
   },
   "Agile Transformation": {
@@ -1151,14 +647,6 @@
     "reasoning": "The content discusses the author's journey and philosophy behind Application Lifecycle Management (ALM), touching on the importance of clear communication and understanding client needs, but it is primarily centered around personal perspective and experiences, not explicitly focusing on transparency.",
     "level": "Ignored"
   },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily focuses on improving customer relationships and software delivery processes, emphasizing the importance of understanding the 'why' behind business actions, which aligns with the concept of adaptive strategy.",
-    "level": "Secondary"
-  },
   "Software Developers": {
     "category": "Software Developers",
     "ai_confidence": 80,
@@ -1166,14 +654,6 @@
     "final_score": 59.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and the software development process, emphasizing the importance of delivering quality software consistently, which relates directly to software developers.",
     "level": "Secondary"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on personal experiences and reflections related to Application Lifecycle Management (ALM) and client interactions, with no clear discussion or emphasis on Sprint Review Workshops.",
-    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1183,28 +663,12 @@
     "reasoning": "The content primarily focuses on improving software delivery processes, which inherently relates to throughput in terms of delivering working software consistently and efficiently.",
     "level": "Secondary"
   },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of delivering working software on a consistent cadence and emphasizes the need for feedback in processes, which aligns with principles of predictability in Kanban. However, the overall focus is more on personal experiences and motivations rather than exclusively on Kanban predictability.",
-    "level": "Ignored"
-  },
   "Sprint Review": {
     "category": "Sprint Review",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses personal philosophy on Application Lifecycle Management and improving customer experiences, with no mention or focus on Sprint Reviews.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) and the author's journey regarding consulting services in that space, with the mention of domains and some philosophical musings. Miscellaneous themes are not central.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -1223,14 +687,6 @@
     "reasoning": "The content discusses Application Lifecycle Management (ALM) and improving software delivery processes, but it primarily focuses on personal reflections, naming domains, and client interactions rather than specific deployment strategies.",
     "level": "Ignored"
   },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses concepts from leadership-oriented materials such as Simon Sinek's 'Start with Why', emphasizing the importance of understanding motivation and purpose in leadership roles, making it a significant theme.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "ai_confidence": 0,
@@ -1238,14 +694,6 @@
     "final_score": 3.0,
     "reasoning": "Content primarily focuses on the author's journey in Application Lifecycle Management (ALM) and personal insights rather than discussing specific working agreements.",
     "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses improving customer experiences and value delivery in Application Lifecycle Management (ALM), emphasizing the importance of understanding customer needs and delivering consistent, working software.",
-    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1255,60 +703,12 @@
     "reasoning": "The content discusses the importance of understanding customer needs and improving software delivery processes, which aligns with Lean Startup principles, but it focuses heavily on Application Lifecycle Management (ALM) rather than Lean Startup specifically.",
     "level": "Ignored"
   },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 40,
-    "non_ai_confidence": 10,
-    "final_score": 31.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and general principles of agility, but it does not focus specifically on Agile Certification as a central topic.",
-    "level": "Ignored"
-  },
   "Windows": {
     "category": "Windows",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and personal reflections on consulting, with only brief mentions of Visual Studio and related domains. Windows is not a primary topic.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily focuses on enhancing consulting processes within Application Lifecycle Management (ALM) and improving customer interactions, making 'People and Process' a clear, central theme.",
-    "level": "Secondary"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and personal reflections on consulting practices, with no central focus on nonlinear dynamics.",
-    "level": "Ignored"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 35,
-    "non_ai_confidence": 0,
-    "final_score": 24.0,
-    "reasoning": "The content discusses personal reflections and insights related to ALM and improving customer experiences, but does not primarily focus on any homepage elements or characteristics.",
-    "level": "Ignored"
-  },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content discusses improving customer interactions and ALM processes, emphasizing the need for agility and consistent software delivery.",
-    "level": "Secondary"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the author's personal journey in choosing a domain and reflects on their motivations and experiences in the consulting field, making personal insights a significant but secondary theme.",
     "level": "Ignored"
   },
   "Definition of Ready": {
@@ -1343,28 +743,12 @@
     "reasoning": "The content discusses Application Lifecycle Management (ALM) principles, consulting practices, and personal experiences, but does not focus on collaboration tools as a clear primary topic.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the improvement of processes in software delivery and the importance of understanding the underlying systems at play, but it primarily focuses on personal experiences and reflections on ALM rather than on systems thinking as a central topic.",
-    "level": "Ignored"
-  },
   "Lead Time": {
     "category": "Lead Time",
     "ai_confidence": 78,
     "non_ai_confidence": 10,
     "final_score": 58.0,
     "reasoning": "The content discusses achieving better software delivery and emphasizes the need for consistent cadence and shorter lead times in the context of software delivery processes.",
-    "level": "Secondary"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content heavily discusses the importance of delivering software in an agile manner and emphasizes the journey towards agility in software processes.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
@@ -1375,14 +759,6 @@
     "reasoning": "The content discusses the importance of understanding customer needs and improving software delivery, which aligns with the principles of hypothesis-driven development as it emphasizes the necessity of testing assumptions through customer feedback to enhance product outcomes.",
     "level": "Ignored"
   },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on improving customer experiences in software delivery, aligning with principles of Agile Coaching, particularly in Application Lifecycle Management (ALM) and fostering agility.",
-    "level": "Secondary"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "ai_confidence": 50,
@@ -1390,22 +766,6 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the importance of improving interactions with customers and enhancing team processes in the context of Application Lifecycle Management (ALM), indicating team collaboration as a key theme.",
     "level": "Ignored"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on improving software delivery processes and discusses principles that align closely with Agile values, particularly in terms of customer feedback and consistent software delivery.",
-    "level": "Secondary"
-  },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 82,
-    "non_ai_confidence": 0,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses the importance of understanding the deeper layers and processes in Application Lifecycle Management (ALM), and how systemic thinking applies to improving interactions and services for customers. It emphasizes a holistic view in problem-solving which aligns closely with systemic thinking.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1415,28 +775,12 @@
     "reasoning": "The content primarily discusses the importance of consistent and frequent software delivery, which aligns closely with principles of Continuous Integration.",
     "level": "Secondary"
   },
-  "Continuos Integration": {
-    "category": "Continuos Integration",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the concept of delivering software consistently and the need for continuous feedback, which aligns closely with continuous integration principles.",
-    "level": "Secondary"
-  },
   "Scaling Agility": {
     "category": "Scaling Agility",
     "ai_confidence": 85,
     "non_ai_confidence": 0,
     "final_score": 59.0,
     "reasoning": "Content discusses the importance of agile processes, customer interactions, and the goal of delivering software more consistently and frequently, aligning closely with the theme of Scaling Agility.",
-    "level": "Secondary"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on the strategic vision and purpose behind Application Lifecycle Management (ALM), including the importance of understanding 'why' in business and how this drives better customer interactions and service delivery.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -1463,14 +807,6 @@
     "reasoning": "The content specifically discusses the importance of delivering software consistently and on a shorter cadence, which aligns closely with the concept of cycle time in software development.",
     "level": "Secondary"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily focuses on the author's journey in improving ALM services and helping customers adapt and change their processes to achieve better software delivery, demonstrating a clear theme of resilience and change in a professional context.",
-    "level": "Secondary"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "ai_confidence": 75,
@@ -1478,14 +814,6 @@
     "final_score": 52.0,
     "reasoning": "The content discusses improving software delivery processes and emphasizes the importance of consistent and frequent delivery of working software, aligning with Lean principles. However, it predominantly focuses on personal insights and experiences rather than a thorough exploration of Lean Principles themselves.",
     "level": "Secondary"
-  },
-  "Kanban Training": {
-    "category": "Kanban Training",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and the author's personal journey and philosophy rather than focusing on Kanban or Kanban training specifically.",
-    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",

@@ -1,282 +1,317 @@
 {
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile and Scrum principles, including the need for adaptability and flexibility, which are aspects of complexity thinking; however, it primarily focuses on practical advice regarding Scrum rather than on complexity thinking as a clear, primary topic.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses Scrum practices, emphasizing flexibility and adaptability, which align with systems thinking principles, but Scrum is the primary focus rather than a deep exploration of systems thinking itself.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 40,
-    "non_ai_confidence": 10,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses Scrum methodology and advice, with only a brief mention of educational tools and strategies, but does not focus on any specific products or books.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Scrum methodologies and personal advice related to Scrum and Agile practices. Transparency and accountability are not the main focus.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T22:01:02",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content is primarily focused on Scrum and Agile methodologies, not on miscellaneous topics.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content revolves primarily around Scrum advice and methodologies, but the personal aspect is only a major but secondary theme as the focus is mainly professional and educational.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on Scrum principles and advice related to Agile methodologies, rather than on code or complexity.",
-    "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content focuses on the practical application of Scrum and Agile principles, emphasizing the importance of adapting frameworks to deliver value rather than strictly following prescribed methods.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum principles and practices, focusing on advice related to Agile methodologies rather than Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses Scrum practices and advice, which are related to Agile methodologies, but it does not clearly focus on the overall lifecycle management of applications.",
-    "level": "Ignored"
-  },
-  "Product Delivery": {
-    "category": "Product Delivery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum principles and advice rather than focusing on product delivery.",
-    "level": "Ignored"
-  },
-  "Install and Configuration": {
-    "category": "Install and Configuration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content focuses on advice regarding Scrum methodologies and frameworks rather than installation or configuration processes.",
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-11T22:01:03",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses principles of Agile frameworks, particularly Scrum, emphasizing the importance of adaptability and pragmatism over strict adherence to processes, which aligns closely with the concept of enterprise agility.",
-    "level": "Secondary"
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without addressing broader organisational implications or strategies for enterprise agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T22:01:04",
+    "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content mentions Lean as part of a broader discussion about Agile and Scrum, indicating it is a major theme but not the primary focus.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content primarily discusses Scrum and its principles, with some references to Agile. Kanban is mentioned indirectly but not as a primary topic.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content discusses the pragmatic approach to Scrum, emphasizing the importance of people and interactions over strict processes, which aligns well with the People and Process category.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content discusses Scrum methodologies and personal advice on agile practices but does not focus on decision theory as a primary topic.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses Scrum advice and Agile principles without mentioning AI or automation as a main topic.",
-    "level": "Ignored"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses Agile and Scrum practices which are related to sociotechnical systems in terms of people and processes, but the focus is mainly on personal advice and perspective rather than an in-depth exploration of sociotechnical systems themselves.",
-    "level": "Ignored"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on Agile principles, particularly in the context of Scrum, and emphasizes flexibility and adaptation in product management.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 55.0,
-    "reasoning": "The content discusses the nature of learning and adapting methodologies in Agile and Scrum, presenting a major theme around learning from experience and education in these frameworks.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile and Scrum practices, emphasizing flexible approaches to using frameworks, which is relevant to practical techniques, but the focus is more on philosophy and advice rather than specific techniques or tools.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Scrum methodologies and advice related to Agile practices, which are aspects of technical excellence in project management; however, it largely focuses on experiences and opinions, making it a secondary theme.",
-    "level": "Ignored"
-  },
-  "Metrics and Learning": {
-    "category": "Metrics and Learning",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses learning from the Scrum framework and adapting methods based on experience, but the primary focus is more on Scrum advice and its application rather than specifically on metrics or structured learning.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
     "final_score": 3.0,
-    "reasoning": "The content primarily focuses on Scrum principles and advice rather than news or reviews.",
-    "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "While the content primarily discusses Scrum and Agile methodologies, it briefly mentions DevOps in the context of discussing broader practices and strategies. However, DevOps is not the primary focus of the content.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses concepts related to Agile methodologies, emphasizing adaptability, flexibility, and the importance of being pragmatic rather than dogmatic in implementing frameworks like Scrum, which aligns closely with the principles of organisational agility.",
-    "level": "Secondary"
-  },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "While the content discusses Agile and Scrum, it focuses mainly on framework advice rather than organisational psychology principles.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content primarily discusses Scrum advice, principles, and the importance of flexibility in Scrum practices.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses Scrum principles and emphasizes adapting practices for value, but it revolves more around general Scrum advice and philosophy rather than specifically focusing on flow efficiency.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses adapting Scrum practices, emphasizing flexibility and pragmatic approaches to Agile principles, making it heavily focused on the theme of Scaling Agility.",
-    "level": "Secondary"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 82,
-    "non_ai_confidence": 0,
-    "final_score": 57.0,
-    "reasoning": "Content primarily discusses the importance of flexibility and adaptability in using Scrum and Agile methodologies, emphasizing that processes can be adapted to suit individual needs, which aligns strongly with the theme of market adaptability.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on Scrum advice and methodologies rather than events or presentations.",
-    "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on Scrum and Agile methodologies without a central discussion on Azure DevOps.",
+    "reasoning": "Content heavily discusses Scrum and Agile principles without a clear focus on Lean methodologies.",
     "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
+    "calculated_at": "2025-02-11T22:01:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses adaptability and the importance of being pragmatic in applying Scrum, which aligns with themes of resilience and change, but this theme is secondary to the main focus on Scrum practices.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses adaptability and flexibility within Scrum and Agile frameworks, which aligns with the theme of resilience and change. However, the primary focus is on Scrum practices rather than organisational resilience strategies.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T22:01:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum principles and advice rather than installation or configuration processes.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-11T22:01:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum and Agile methodologies, which are not directly related to software code quality or complexity.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-11T22:01:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum advice and the flexibility of Agile methodologies, without a clear focus on optimising flow efficiency or addressing bottlenecks in the value stream.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T22:01:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum practices and advice without any mention of AI or automation.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T22:01:15",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, which are relevant to product delivery, but it primarily focuses on personal advice and opinions rather than structured practices or methodologies directly related to the end-to-end process of delivering software products.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T22:01:22",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content primarily discusses Scrum principles and the importance of flexibility and adaptation within Agile frameworks, which are relevant to Agile Product Management. However, it does not explicitly focus on product management aspects such as backlog prioritisation or stakeholder engagement.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T22:01:24",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of adapting Scrum practices based on learning and experimentation, which aligns with the themes of discovery and learning. However, the primary focus is on Scrum advice rather than a broader exploration of discovery and learning methodologies.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T22:01:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum and Agile methodologies without a focus on Systems Thinking principles or interconnectedness within complex systems.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T22:01:27",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of adaptability in frameworks like Scrum, which aligns with complexity thinking. However, it primarily focuses on practical advice rather than a deep exploration of complexity science or its theories.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T22:01:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum practices and personal advice rather than focusing on transparency and accountability principles.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T22:01:29",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Scrum practices and the importance of adapting frameworks, which aligns with practical techniques, but it primarily focuses on philosophical views rather than specific tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T22:01:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses personal advice and opinions on Scrum practices rather than specific events or presentations.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T22:01:32",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of adapting frameworks to suit organisational needs, which aligns with the theme of market adaptability. However, it primarily focuses on Scrum advice rather than broader market adaptability strategies.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T22:01:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum principles, advice, and frameworks, making it primarily focused on Agile methodologies.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-11T22:01:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content heavily discusses Scrum principles and practices, which are not central to DevOps discussions.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-11T22:01:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum principles and advice, with no specific mention of Azure DevOps or its functionalities.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T22:01:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses personal experiences and opinions regarding Scrum practices rather than specific products or literature.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T22:01:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of adaptability in using frameworks like Scrum, which aligns with the theme of business agility. However, the primary focus is on Scrum practices rather than a broader discussion on business agility itself.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-11T22:01:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum principles and advice, with no focus on Kanban methodology or its practices.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T22:01:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Scrum and Agile practices, which relates to delivering value. However, it primarily focuses on personal advice and opinions rather than structured methodologies or strategies for value delivery.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-11T22:01:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum advice and Agile philosophy rather than specific engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T22:01:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses individual Scrum practices and advice rather than scaling Agile methodologies across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T22:01:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and adaptability in using Scrum, but it primarily focuses on Scrum practices rather than broader organisational agility strategies.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T22:01:46",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses personal reflections and insights on Scrum practices, including advice received and personal interpretations of Agile principles, making it a strong fit for the Personal category.",
+    "level": "Secondary"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T22:01:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the human aspects of Scrum and Agile methodologies, emphasising the importance of flexibility, pragmatism, and the role of people in adapting processes. It critiques dogmatic adherence to frameworks and highlights the significance of team dynamics and individual experiences in implementing Agile practices.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T22:01:50",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, touching on the importance of adapting processes to fit organisational needs, which aligns with sociotechnical principles. However, the primary focus is on Scrum advice rather than a deep exploration of sociotechnical systems.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T22:01:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses personal opinions and advice on Scrum practices rather than providing news or reviews related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T22:01:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of adapting frameworks like Scrum based on value and effectiveness, which touches on the iterative learning process. However, it primarily focuses on Scrum practices rather than metrics or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T22:01:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum principles and practices, which are not directly related to Application Lifecycle Management.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T22:01:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and advice, with no direct relation to Value Stream Management principles or techniques.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T22:01:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   }
 }

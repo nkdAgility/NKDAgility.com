@@ -28,26 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Coaching
-- Scrum Master
-- Agile Values and Principles
-- Lean Principles
-- Team Collaboration
-- Continuous Improvement
-- Self Organisation
-- Agile Mentoring
-- Agile Community
-- Discovery and Learning
-- Customer Feedback Loops
-- Psychological Safety
+- Coaching
+- Mentoring
 resourceTypes:
 - video
 categories:
-- People and Process
-- Scrum
 - Lean
-- Discovery and Learning
-- Organisational Agility
+- People and Process
 
 ---
 If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences—mine happens to be Scrum—it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.

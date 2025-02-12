@@ -2,7 +2,7 @@
 title: Customer Working Agreement
 description: Establish a clear Working Agreement in a 60-minute workshop, ensuring customer understanding of roles, goals, and agility for project success.
 ResourceId: hjlKdneL4t8
-ResourceImport: true
+ResourceImport: false
 ResourceType: workshops
 resourceTypes: workshop
 layout: workshop

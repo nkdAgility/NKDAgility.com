@@ -28,14 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
 - Agile Values and Principles
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Team Performance
+- Transparency
 resourceTypes:
 - video
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Value Delivery
 - Transparency and Accountability
 
 ---

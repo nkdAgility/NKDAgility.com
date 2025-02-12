@@ -25,12 +25,8 @@ aliasesFor404:
 - /a-change-for-the-better--2---aggreko-to-ssw
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 - /resources/blog/a-change-for-the-better-2
-tags:
-- Agile Leadership
-- Employee Engagement
-categories:
-- Technical Excellence
-- Azure DevOps
+tags: []
+categories: []
 preview: metro-SSWLogo-128-link-3-1.png
 
 ---

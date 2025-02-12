@@ -25,13 +25,9 @@ aliasesFor404:
 - /i'm-luke-skywalker-according-to-the-star-wars-personality-test-
 - /blog/i'm-luke-skywalker-according-to-the-star-wars-personality-test-
 - /resources/blog/im-luke-skywalker-according-to-the-star-wars-personality-test
-categories:
-- News and Reviews
-- Discovery and Learning
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
-tags:
-- Featured
-- Personal
+tags: []
 
 ---
 [![](images/Card_LukeSkywalker-1-1.jpg)](http://www.liquidgeneration.com/Media/Games/The_Ultimate_Star_Wars_Personality_Test/)

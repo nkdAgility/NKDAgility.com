@@ -22,7 +22,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
-tags: []
+tags:
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -30,7 +31,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
 - Personal
 
 ---

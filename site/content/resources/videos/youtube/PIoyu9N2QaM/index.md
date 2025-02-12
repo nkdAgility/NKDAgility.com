@@ -32,26 +32,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Scrum Values
-- Team Collaboration
-- Team Motivation
-- Agile Planning
-- Continuous Improvement
-- Agile Product Management
 - Accountability
-- Agile Methodology
+- Agile Frameworks
+- Agile Project Management
+- Professional Scrum
+- Scrum Master
 - Scrum Team
-- Value Delivery
-- Agile Evolution
-- Evidence Based Improvement
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
 - People and Process
-- Organisational Agility
-- Transparency and Accountability
 
 ---
 ## Unpacking the Differences

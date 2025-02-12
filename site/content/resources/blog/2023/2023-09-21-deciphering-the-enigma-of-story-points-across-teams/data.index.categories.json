@@ -1,98 +1,317 @@
 {
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses metrics and processes related to team performance and value delivery, which are relevant to DevOps principles, but the primary focus is on Story Points and agile methodologies.",
-    "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses Story Points and agile methodologies, with no clear focus on Azure DevOps tools or practices.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses flow metrics and value delivery, which are central to Kanban principles, but it primarily focuses on Story Points and their implications in agile frameworks.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses metrics related to team performance and value delivery, which are important aspects of agile engineering practices. However, it primarily focuses on the subjective nature of Story Points rather than on broader engineering practices like TDD, CI/CD, or modular architecture.",
-    "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "Content primarily discusses the use of Story Points within the context of Scrum, focusing on their role in team discussions and backlog refinement, which are key aspects of the Scrum framework.",
-    "level": "Secondary"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
-    "ai_confidence": 75,
+    "calculated_at": "2025-02-11T18:10:44",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses decision-making in the context of using Story Points and other metrics to optimise team performance and value delivery, making Decision Theory a major theme.",
-    "level": "Secondary"
+    "final_score": 45.0,
+    "reasoning": "The content discusses decision-making processes related to the use of Story Points and metrics in Agile frameworks, highlighting the importance of informed choices based on data. However, the primary focus is on Scrum roles and events rather than a comprehensive exploration of decision theory.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
+    "calculated_at": "2025-02-11T18:10:45",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses metrics and practices that can enhance team performance and value delivery, which are relevant to organisational responsiveness and adaptability, but it primarily focuses on Story Points and team-level discussions.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses metrics and practices related to team performance and value delivery, which are relevant to enterprise agility, but primarily focuses on team-level practices without a broader organisational context.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-11T18:10:47",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising value delivery and minimising waste through metrics like throughput and value, aligning closely with Lean principles.",
-    "level": "Secondary"
+    "final_score": 45.0,
+    "reasoning": "The content discusses value delivery and metrics related to throughput and value, which are relevant to Lean principles, but the primary focus is on Agile methodologies and Story Points.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-11T18:10:50",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and strategies for optimising team performance and value delivery, which are relevant to organisational resilience and adaptive change, but it is primarily focused on Story Points and agile methodologies.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the use of Story Points and metrics in Agile frameworks, focusing on team performance rather than organisational resilience or change management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T18:10:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the use and implications of Story Points in agile frameworks, focusing on metrics and value delivery rather than installation or configuration of tools or software.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the subjective nature of Story Points and their impact on team performance, rather than installation or configuration of tools.",
     "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "ai_confidence": 75,
+    "calculated_at": "2025-02-11T18:10:53",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the use of Story Points in agile development, focusing on metrics and best practices for team performance, making it a major theme, though not the sole focus.",
-    "level": "Secondary"
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the use of Story Points in agile frameworks and their implications for team performance, rather than focusing on code quality or complexity in software development.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-11T18:10:54",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on optimising throughput and value delivery in agile frameworks, discussing metrics like throughput, cycle time, and work in process, which are central to improving flow efficiency.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses throughput and flow metrics, emphasising their importance in optimising team performance and value delivery, which aligns closely with the principles of Flow Efficiency.",
     "level": "Secondary"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T18:10:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the use of Story Points in Agile frameworks, focusing on metrics and value delivery rather than AI and automation.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T18:10:59",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the use of Story Points in agile frameworks, focusing on their role in planning and measuring team performance, which relates to product delivery. However, the primary focus is on the subjective nature of Story Points rather than the broader methodologies and practices of product delivery.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T18:11:01",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "Content primarily discusses the use of Story Points in Agile frameworks, particularly in relation to value delivery and team performance, which aligns closely with Agile Product Management principles.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T18:11:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the subjective nature of Story Points and their role in team discussions, which touches on learning and understanding within teams. However, the primary focus is on metrics and performance rather than explicit methodologies for discovery and learning.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T18:11:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the use of Story Points in agile frameworks and focuses on metrics for team performance, rather than exploring Systems Thinking principles or interconnectedness within organisational dynamics.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T18:11:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the subjective nature of Story Points and their implications for team performance, which touches on themes of complexity in understanding team dynamics and value delivery. However, the primary focus is on metrics and agile practices rather than a deep exploration of complexity science principles.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T18:11:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the use of Story Points and metrics for team performance, without a clear focus on transparency or accountability principles.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T18:11:09",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of Story Points and Planning Poker as tools within Agile practices, focusing on their application in backlog refinement and team discussions. However, the primary emphasis is on the subjective nature of Story Points and alternative metrics for measuring team performance, which makes the category a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T18:11:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the use of Story Points in Agile frameworks, focusing on metrics and team performance rather than events or presentations.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T18:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses metrics and practices related to Agile methodologies, particularly focusing on throughput and value delivery, which are relevant to market adaptability. However, the primary focus is on Story Points and team performance metrics rather than directly addressing strategies for responding to market shifts.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T18:11:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the use of Story Points within Agile frameworks, specifically referencing Scrum principles and practices.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-11T18:11:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Story Points and Agile methodologies, particularly Scrum, without a clear focus on DevOps principles or practices.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-11T18:11:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Story Points and Agile methodologies without specific reference to Azure DevOps tools or practices.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T18:11:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the concept of Story Points in Agile methodologies, focusing on their subjective nature and implications for team performance, rather than reviewing or analysing specific products or literature.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T18:11:19",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses metrics and practices related to team performance and value delivery, which are relevant to business agility, but the primary focus is on Story Points and their implications rather than a broader exploration of business agility principles.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-11T18:11:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses flow metrics such as throughput and cycle time, which are relevant to Kanban principles, but the primary focus is on Story Points and their role in Agile frameworks, particularly Scrum.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T18:11:21",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the relationship between Story Points and value delivery, emphasising the importance of throughput and value metrics in Agile frameworks. It aligns well with the principles of iterative development and techniques for measuring customer value.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-11T18:11:23",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses metrics related to team performance and value delivery, which are relevant to technical practices, but the primary focus is on the subjective nature of Story Points rather than engineering methodologies or practices that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T18:11:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the use of Story Points and metrics for individual team performance rather than scaling Agile practices across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T18:11:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the use of Story Points and metrics like throughput and value, which are relevant to Agile methodologies. However, the primary focus is on the subjective nature of Story Points rather than broader organisational agility strategies or practices.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T18:11:27",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content includes personal insights and experiences regarding the use of Story Points in Agile practices, but it primarily focuses on technical discussions and metrics rather than personal anecdotes or reflections.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T18:11:33",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the subjective nature of Story Points and their role in team discussions, which relates to team dynamics and collaboration. It also touches on the importance of understanding and refining processes within Agile frameworks, making it a significant theme, though not the sole focus.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T18:11:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the interplay between team dynamics, metrics, and value delivery in agile frameworks, which aligns with sociotechnical systems. However, the primary focus is on Story Points and metrics rather than a broader sociotechnical analysis.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T18:11:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the subjective nature of Story Points in Agile methodologies, focusing on metrics and team performance rather than industry news or reviews.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T18:11:38",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the use of metrics such as throughput and value in Agile practices, emphasising evidence-based decision-making and continuous improvement, which aligns well with the category.",
+    "level": "Secondary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T18:11:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the use of Story Points in Agile methodologies, focusing on team performance metrics rather than the overall management of the application lifecycle.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T18:11:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses metrics related to throughput and value, which are relevant to Value Stream Management, but the primary focus is on Story Points and Agile practices, making it a secondary theme.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T18:11:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses metrics and methodologies related to Agile frameworks, specifically Story Points and team performance, without addressing psychological principles or theories relevant to organisational behaviour.",
+    "level": "Ignored"
   }
 }

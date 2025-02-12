@@ -27,28 +27,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Community
-- Agile Transformation
-- Agile Project Management
-- Agile Software Development
-- Agile Values and Principles
-- Team Collaboration
-- Team Motivation
-- Agile Leadership
-- Agile Digital Tools
-- Agile Estimation
-- Customer Feedback Loops
-- Continuous Learning
-- Agile Product Management
-- Agile Scaling
-- Scrum Team
+tags: []
 resourceTypes:
 - video
 categories:
 - Events and Presentations
-- Organisational Agility
-- Discovery and Learning
+- News and Reviews
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

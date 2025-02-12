@@ -23,31 +23,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/1CCv95gd_oU/hqdefault.jpg
 duration: 2739
 isShort: false
-tags:
-- Team Performance
-- Team Collaboration
-- Employee Engagement
-- Agile Methodology
-- Agile Community
-- Agile Transformation
-- Psychological Safety
-- Continuous Learning
-- Coaching
-- Agile Values and Principles
-- Change Management
-- Organisational Culture
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 layout: video
 resourceTypes:
 - video
-categories:
-- Organisational Agility
-- People and Process
-- Organisational Psychology
-- Events and Presentations
+categories: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=1CCv95gd_oU)

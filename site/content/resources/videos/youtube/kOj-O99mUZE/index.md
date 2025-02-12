@@ -28,27 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scaled Agile
-- Agile Portfolio Management
-- Value Stream Management
-- Business Agility
-- Leadership Training
-- Systems Thinking
-- Flow Efficiency
-- Agile Strategy
-- Continuous Improvement
-- Predictability in Kanban
-- Agile Digital Tools
+- Agile Frameworks
 - Agile Project Management
-- Value Delivery
+- Agile Strategy
+- Agile Transformation
+- Large Scale Agility
+- Operational Practices
+- Organisational Change
+- Organisational Physics
+- Portfolio Management
+- Pragmatic Thinking
+- Scaled Agile
+- Scaling Agility
+- Scaling Kanban
+- Strategy
+- Throughput
 resourceTypes:
 - video
 categories:
-- Scaling Agility
-- Organisational Agility
-- Value Stream Management
-- Flow Efficiency
 - Kanban
+- Product Delivery
+- Value Delivery
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

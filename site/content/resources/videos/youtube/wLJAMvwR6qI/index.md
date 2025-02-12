@@ -29,12 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Metrics and Learning
-- Decision Theory
-- Agile Product Management
-- People and Process
+categories: []
 
 ---
  Professional Product Discovery and Validation course learning outcomes. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #scrumtraining #productdiscovery #productowner #projectmanager 

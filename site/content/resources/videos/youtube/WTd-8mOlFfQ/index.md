@@ -31,22 +31,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Team Collaboration
-- Team Motivation
-- Working Agreements
-- Agile Values and Principles
-- Continuous Improvement
-- Accountability
-- Scrum Team
-- Agile Project Management
-- Agile Software Development
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Transparency and Accountability
+categories: []
 
 ---
 ## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2

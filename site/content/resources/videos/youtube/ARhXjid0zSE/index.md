@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
-tags:
-- Agile Apocalypse
-- Team Collaboration
-- Agile Coaching
-- Scrum Team
-- Continuous Improvement
-- Employee Engagement
-- Agile Values and Principles
-- Organisational Change
-- Agile Transformation
-- Customer Feedback Loops
-- Team Motivation
-- Discovery and Learning
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- People and Process
-- Organisational Agility
-- Metrics and Learning
+categories: []
 
 ---
  #shorts #shortsvideo #shortvideo #agile loves abundance. An abundance of ideas, creativity, and collaboration. That said, sometimes you experience #famine and in this short video, Martin Hinshelwood explains what that looks like and why it's a sign of impending doom.

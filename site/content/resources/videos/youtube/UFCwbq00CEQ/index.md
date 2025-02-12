@@ -22,26 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true
-tags:
-- Team Motivation
-- Psychological Safety
-- Agile Estimation
-- Agile Values and Principles
-- Continuous Improvement
-- Agile Coaching
-- Agile Transformation
-- Evidence Based Improvement
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Metrics and Learning
-- People and Process
-- Value Delivery
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 #agile bandits. This video features 'say-do' metrics.

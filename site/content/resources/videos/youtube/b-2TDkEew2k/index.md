@@ -22,32 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
-tags:
-- Scrum Master
-- Scrum Team
-- Scrum Values
-- Agile Coaching
-- Team Collaboration
-- Team Motivation
-- Continuous Improvement
-- Agile Values and Principles
-- Agile Transformation
-- Employee Engagement
-- Agile Community
-- Technical Excellence
-- Psychological Safety
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Lean
-- Value Delivery
-- Scrum
-- Technical Excellence
-- People and Process
+categories: []
 
 ---
  #shorts #shortvideo #shortsvideo 7 Virtues of #agile. Temperance. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productdevelopment #productmanager #projectmanager #agilecoach #scrummaster 

@@ -29,23 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories:
-- Scrum
-- Definition of Done
-- People and Process
-- Events and Presentations
-- Practical Techniques and Tooling
-tags:
-- Definition of Done
-- Scrum Team
-- Agile Planning
-- Agile Project Management
-- Continuous Improvement
-- Working Agreements
-- Agile Values and Principles
-- Agile Software Development
-- Agile Product Management
-- Team Collaboration
+categories: []
+tags: []
 
 ---
  We will dive into what a Definition of Done is, what it should look like, and how you can run a workshop with your teams to create one.

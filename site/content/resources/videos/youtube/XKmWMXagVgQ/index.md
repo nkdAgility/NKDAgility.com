@@ -29,26 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Scrum Product Ownership
-- Evidence Based Management
-- Agile Product Discovery
-- Agile Community
-- Agile Tools
+- Product Management
 - Product Owner
-- Agile Values and Principles
-- Team Collaboration
-- Technical Mastery
-- Discovery and Learning
-- Agile Software Development
-- Customer Feedback Loops
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Agile Product Management
-- Scrum
-- Metrics and Learning
-- Value Delivery
+- Discovery and Learning
+- Products and Books
 
 ---
 As a new product owner, you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **continuous learning**.

@@ -27,25 +27,8 @@ aliasesFor404:
 - /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
 - /powershell-tfs-2013-api--2
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
-tags:
-- Application Lifecycle Management
-- Azure DevOps
-- DevOps
-- Engineering Excellence
-- Engineering Practices
-- Modern Source Control
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- Software Increment
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Working Software
-categories:
-- Code and Complexity
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: metro-powershell-logo-1-1.png
 
 ---

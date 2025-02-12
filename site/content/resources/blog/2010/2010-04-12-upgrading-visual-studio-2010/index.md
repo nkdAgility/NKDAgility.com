@@ -21,13 +21,9 @@ aliasesFor404:
 - /upgrading-visual-studio-2010
 - /blog/upgrading-visual-studio-2010
 - /resources/blog/upgrading-visual-studio-2010
-tags:
-- Agile Software Development
-- Technical Excellence
+tags: []
 preview: metro-visual-studio-2010-128-link-3-1.png
-categories:
-- Install and Configuration
-- Technical Excellence
+categories: []
 
 ---
 ![vs2010_ultimate_web](images/UpgradingVisualStudio2010_D9B8-vs2010_ultimate_web_-8-6.jpg)I have been running Visual Studio 2010 as my main development studio on my development computer since the RC was released. I need to upgrade that to the RTM, but first I need to remove it. Microsoft have done a lot of work to make this easy, and it works. Its as easy as uninstalling from the control panel.

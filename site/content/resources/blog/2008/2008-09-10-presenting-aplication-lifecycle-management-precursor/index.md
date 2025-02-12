@@ -25,13 +25,9 @@ aliasesFor404:
 - /presenting-aplication-lifecycle-management--precursor
 - /blog/presenting-aplication-lifecycle-management--precursor
 - /resources/blog/presenting-aplication-lifecycle-management-precursor
-tags:
-- Application Lifecycle Management
-- Agile Methodology
+tags: []
 preview: metro-aggreko-128-link-1-1.png
-categories:
-- Application Lifecycle Management
-- Events and Presentations
+categories: []
 
 ---
 I am doing a presentation this afternoon on Application Lifecycle Management (ALM). This is the first time that I have ever presented on this topic, and I found out that I was doing it on Friday!

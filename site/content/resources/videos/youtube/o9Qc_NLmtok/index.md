@@ -25,29 +25,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum
-- Scrum Team
-- Scrum Product Management
-- Definition of Done
-- Software Increment
-- Continuous Delivery
-- Agile Product Management
-- Team Collaboration
-- Agile Planning
-- Continuous Learning
-- Agile Product Discovery
-- Agile Coaching
-- Agile Transformation
-- Team Motivation
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Discovery and Learning
-- Organisational Agility
-- People and Process
-- Metrics and Learning
+categories: []
 
 ---
 ## Immersive Learning: 8 Weeks of Deep Engagement

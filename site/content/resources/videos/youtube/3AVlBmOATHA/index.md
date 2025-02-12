@@ -27,29 +27,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Change Management
-- Business Agility
-- Agile Strategy
-- Team Collaboration
-- Team Motivation
-- Employee Engagement
 - Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Change Management
 - Organisational Change
-- Customer Satisfaction
-- Value Delivery
-- Agile Product Management
-- Agile Product Discovery
-- Agile Community
-- Evidence Based Management
+- Organisational Culture
+- Pragmatic Thinking
+- Product Management
+- Team Collaboration
 resourceTypes:
 - video
 layout: video
 categories:
+- Business Agility
 - Organisational Agility
 - People and Process
-- Value Delivery
-- Metrics and Learning
-- Resilience and Change
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

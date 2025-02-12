@@ -26,27 +26,26 @@ isShort: false
 tags:
 - Continuous Delivery
 - Deployment Strategies
-- Team Collaboration
-- Agile Product Management
-- Systems Thinking
-- Continuous Improvement
-- Customer Feedback Loops
-- Agile Software Development
-- Technical Excellence
-- Site Reliability Engineering
-- Agile Values and Principles
-- Evidence Based Management
-- Lean Principles
-- Agile Transformation
-- Agile Digital Tools
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Strategy
+- Technical Mastery
+- Windows
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories:
-- Metrics and Learning
 - DevOps
+- People and Process
+- Systems Thinking
 
 ---
  In this video, I dive into a question I often get: *What are the best practices for enabling continuous delivery?* The answer may surprise you—there are no best practices in complex environments. Instead, there are *adequate practices* that must adapt to the ever-changing dynamics of your team, product, and market. Watch as I explore the philosophies and techniques that can support your organization in delivering quality software continuously while maintaining user trust and system reliability.

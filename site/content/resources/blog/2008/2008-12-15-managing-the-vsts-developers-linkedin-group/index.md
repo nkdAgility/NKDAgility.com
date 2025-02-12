@@ -25,12 +25,8 @@ aliasesFor404:
 - /managing-the-“vsts-developers”-linkedin-group-
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/blog/managing-the-vsts-developers-linkedin-group
-tags:
-- Team Collaboration
-- Agile Community
-categories:
-- Application Lifecycle Management
-- People and Process
+tags: []
+categories: []
 
 ---
 [![n2381079695_7151](images/eb4ca28d54bb_77F8-n2381079695_7151_3-1-1.jpg)](//www.linkedin.com/e/gis/104499)

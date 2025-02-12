@@ -29,12 +29,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Discovery and Learning
-- People and Process
-- Organisational Agility
-- Events and Presentations
+categories: []
 
 ---
  naked Agility Limited is a professional company that offers training, coaching, mentoring, and facilitation to help people and teams evolve, integrate, and continuously improve.

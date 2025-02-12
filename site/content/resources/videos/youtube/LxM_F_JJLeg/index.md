@@ -22,31 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false
-tags:
-- Systems Thinking
-- Organisational Agility
-- Change Management
-- Team Collaboration
-- Employee Engagement
-- Continuous Improvement
-- Agile Transformation
-- Psychological Safety
-- Value Delivery
-- Lean Thinking
-- Agile Methodology
-- Technical Excellence
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Systems Thinking
-- People and Process
-- Metrics and Learning
-- Organisational Agility
-- Resilience and Change
+categories: []
 
 ---
  *Don't Let Incompetence Mask as Malevolence*

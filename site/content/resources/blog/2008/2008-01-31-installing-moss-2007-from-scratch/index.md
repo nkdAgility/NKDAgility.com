@@ -21,11 +21,8 @@ aliasesFor404:
 - /installing-moss-2007-from-scratch
 - /blog/installing-moss-2007-from-scratch
 - /resources/blog/installing-moss-2007-from-scratch
-tags:
-- Agile Software Development
-- Continuous Improvement
-categories:
-- Install and Configuration
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-7-7.png
 
 ---

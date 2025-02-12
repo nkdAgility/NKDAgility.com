@@ -24,19 +24,26 @@ preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
 duration: 362
 isShort: false
 tags:
-- Technical Debt
 - Continuous Delivery
-- Agile Product Discovery
-- Customer Feedback Loops
-- Evidence Based Management
-- Agile Software Development
-- Lean Thinking
-- Agile Product Management
-- Team Collaboration
-- Agile Values and Principles
-- Experimentation
-- Technical Excellence
-- Agile Transformation
+- Continuous Integration
+- Deployment Frequency
+- Deployment Strategies
+- Empirical Process Control
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Increment
+- Lean Principles
+- Lean Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
+- Software Developers
+- Software Development
+- Technical Debt
+- Technical Mastery
+- Throughput
+- Working Software
 resourceTypes:
 - video
 sitemap:
@@ -44,6 +51,8 @@ sitemap:
   priority: 0.4
 categories:
 - DevOps
+- Product Delivery
+- Value Delivery
 
 ---
  The Power of Frequent Deployments: Reducing Technical Debt and Delivering Better Products

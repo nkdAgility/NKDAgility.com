@@ -22,27 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 isShort: false
-tags:
-- Release Planning
-- Continuous Delivery
-- Agile Tools
-- Deployment Strategies
-- Agile Software Development
-- Technical Excellence
-- Azure DevOps
-- Agile Project Management
-- Value Delivery
-- Evidence Based Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Install and Configuration
-- Application Lifecycle Management
-- DevOps
+categories: []
 
 ---
  Have you seen how easy it is to install and configure a full release management suite with Visual Studio 2013? See Martin install and configure the new Visual Studio 2013 Release Management Server, Client, and Deployment Agent in under 10 minutes.

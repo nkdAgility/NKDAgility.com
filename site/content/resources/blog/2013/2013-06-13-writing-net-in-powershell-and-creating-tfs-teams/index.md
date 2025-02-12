@@ -25,26 +25,8 @@ aliasesFor404:
 - /writing--net-in-powershell-and-creating-tfs-teams
 - /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
-tags:
-- Agile Tools
-- Azure DevOps
-- Discovery and Learning
-- Engineering Practices
-- Experimentation
-- Modern Source Control
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- System Configuration
-- Technical Excellence
-- Technical Mastery
-- Windows
-- Working Software
-categories:
-- Code and Complexity
-- Practical Techniques and Tooling
-- Technical Excellence
+tags: []
+categories: []
 preview: image11-1-1.png
 
 ---

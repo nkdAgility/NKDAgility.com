@@ -22,13 +22,7 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
-tags:
-- Agility
-- Agile Apocalypse
-- People and Process
-- Agile Community
-- Software Development
-- Software Developers
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

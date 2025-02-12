@@ -28,27 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Scrum Team
-- Scrum Values
-- Continuous Improvement
-- Team Collaboration
 - Accountability
-- Organisational Agility
-- Agile Coaching
-- Change Management
-- Agile Transformation
+- Agile Frameworks
+- Agile Project Management
 - Professional Scrum
-- Evidence Based Management
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
 - Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
 - People and Process
-- Organisational Agility
-- Value Delivery
-- Transparency and Accountability
+- Sociotechnical Systems
 
 ---
 Many Scrum Masters step into their role without fully understanding what it entails. Often, the title of Scrum Master is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.

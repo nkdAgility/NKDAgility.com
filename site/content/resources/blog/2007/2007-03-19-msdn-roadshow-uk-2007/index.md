@@ -21,11 +21,8 @@ aliasesFor404:
 - /msdn-roadshow-uk-2007
 - /blog/msdn-roadshow-uk-2007
 - /resources/blog/msdn-roadshow-uk-2007
-tags:
-- Agile Community
-- Agile Software Development
-categories:
-- Events and Presentations
+tags: []
+categories: []
 preview: metro-event-128-link-1-1.png
 
 ---

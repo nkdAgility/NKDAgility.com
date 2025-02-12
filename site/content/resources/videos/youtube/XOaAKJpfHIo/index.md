@@ -28,26 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agility
-- DevOps
-- Strategic
-- Continuous Delivery
-- Value Delivery
-- Agile Software Development
-- Agile Product Validation
-- Software Development
-- Value Prioritisation
-- Agile Software Engineering
-- People and Process
+- Agile Philosophy
+- Agile Project Management
 - Agile Strategy
+- Agile Transformation
+- Customer Retention
+- Customer Satisfaction
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 - Working Software
-- Agile Product Management
-- Business Agility
 resourceTypes:
 - video
 categories:
 - DevOps
-- Lean
+- Product Delivery
 - Value Delivery
 
 ---

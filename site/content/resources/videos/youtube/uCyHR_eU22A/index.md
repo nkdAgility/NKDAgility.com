@@ -28,27 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Management
-- Sprint Planning Workshop
-- Scrum Team
-- Value Prioritisation
+- Agile Frameworks
 - Agile Planning
+- Agile Planning Tools
+- Agile Project Management
+- Decision Making
+- Pragmatic Thinking
+- Product Backlog
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
 - Team Collaboration
-- Agile Product Ownership
-- Definition of Done
-- Continuous Improvement
-- Agile Software Development
-- Technical Excellence
-- Evidence Based Management
-- Agile Values and Principles
 resourceTypes:
 - video
 categories:
-- Scrum
 - Agile Product Management
-- Value Delivery
 - People and Process
-- Technical Excellence
+- Value Delivery
 
 ---
 ## Navigating Sprint Backlog Selection
