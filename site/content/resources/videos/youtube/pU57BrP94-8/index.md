@@ -27,10 +27,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
+- Continuous Learning
+- Empirical Process Control
+- Mentoring
+- Pragmatic Thinking
+- Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

@@ -27,10 +27,24 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Increment
+- Operational Practices
+- Pragmatic Thinking
+- Scrum Product Development
+- Software Development
+- Strategy
+- Team Performance
+- Working Software
 resourceTypes:
 - video
-categories: []
+categories:
+- Metrics and Learning
+- Product Delivery
+- Value Delivery
 
 ---
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban

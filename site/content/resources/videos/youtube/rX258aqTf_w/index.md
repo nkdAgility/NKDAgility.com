@@ -27,10 +27,27 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Coaching
+- Decision Making
+- Mentoring
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Software Development
+- Technical Leadership
 resourceTypes:
 - video
-categories: []
+categories:
+- Business Agility
+- Organisational Agility
+- People and Process
 
 ---
 In what circumstances is agile consulting appropriate?

@@ -27,10 +27,27 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Change Management
+- Continuous Learning
+- Empirical Process Control
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Sensemaking
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Market Adaptability
+- People and Process
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:

@@ -27,10 +27,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Windows
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Market Adaptability
+- People and Process
 
 ---
 When organizations embark on the journey of adopting DevOps practices, they often encounter significant challenges. One of the most common is what I like to call "regression" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.

@@ -29,10 +29,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Project Management
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Scrum Product Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Products and Books
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

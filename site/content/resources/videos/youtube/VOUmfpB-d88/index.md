@@ -27,10 +27,27 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Continuous Learning
+- Customer Feedback Loops
+- Mentoring
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Value Delivery
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

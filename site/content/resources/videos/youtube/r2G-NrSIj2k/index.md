@@ -22,13 +22,23 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
-tags: []
+tags:
+- Engineering Excellence
+- Engineering Practices
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

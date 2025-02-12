@@ -1,1490 +1,1019 @@
 {
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile practices, focusing on continuous delivery rather than specifically on Agile Forecasting.",
-    "level": "Ignored"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile, focusing on their roles in delivering value to customers. The category 'Featured' is not a central topic; instead, the content is about DevOps and Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses continuous delivery of value to customers and the importance of DevOps and Agile, which are relevant to market adaptability. However, the main focus is on the integration of DevOps and Agile practices rather than directly on market adaptability itself.",
-    "level": "Ignored"
-  },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "While the content discusses Agile and its interrelation with DevOps, the focus is largely on the broader concepts and practices rather than specific certifications or training programs related to Agile.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on their importance in continuous delivery, but does not address Test First Development directly.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content emphasizes collaborative teams and a happy, inspired workforce, which are elements of organisational culture, but primarily focuses on the integration of DevOps and Agile practices.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "Content discusses the importance of agile principles and practices in the context of DevOps, indicating a strong connection to agile leadership themes, but the primary focus is on DevOps.",
-    "level": "Secondary"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 64,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile methodologies and emphasizes the importance of feedback and data in the continuous delivery of value to customers, indicating a level of sensemaking regarding effective practices in software development.",
-    "level": "Ignored"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses how feedback and data inform agile product development, indicating a secondary theme related to evidence-based practices.",
-    "level": "Ignored"
-  },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile methodologies, emphasizing the importance of Lean practices in delivering value and getting feedback quickly from customers.",
-    "level": "Secondary"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, with no clear focus on Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content mentions Scrum in the context of Agile but focuses primarily on DevOps and its relationship with Agile, making Scrum a secondary theme.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses DevOps and its relationship with Agile, which is not directly focused on Scaling Scrum, making it less relevant to the category.",
-    "level": "Ignored"
-  },
-  "Complexity Science": {
-    "category": "Complexity Science",
-    "ai_confidence": 35,
-    "non_ai_confidence": 0,
-    "final_score": 24.0,
-    "reasoning": "The content discusses DevOps and Agile practices related to software delivery but does not focus on complexity science as a central theme.",
-    "level": "Ignored"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses how Agile and DevOps are interconnected and emphasizes the values of collaboration, feedback, and delivering value to customers, which aligns closely with Agile principles.",
-    "level": "Secondary"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of DevOps and Agile in delivering value to customers, focusing on collaboration, delivery, and processes, without addressing psychological safety as a central topic.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies rather than modern source control. Source control is not a central theme.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile principles, indicating that Agile is a significant component, but it mainly focuses on the broader integration of these methodologies rather than specifically on Scaled Agile practices.",
-    "level": "Ignored"
-  },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content largely discusses the relationship and integration of Agile and DevOps, with a focus on continuous delivery rather than specific Agile estimation practices.",
-    "level": "Ignored"
-  },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile concepts and their relation to DevOps extensively, indicating that Agile is a major theme, but it also focuses significantly on the DevOps perspective.",
-    "level": "Ignored"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content briefly mentions the positive impact of a happy and inspired workforce on customer experience, but the primary focus is on DevOps and Agile practices rather than employee engagement.",
-    "level": "Ignored"
-  },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content predominantly discusses DevOps and Agile methodologies, focusing on their role in delivering value to customers rather than specifically addressing Site Reliability principles.",
-    "level": "Ignored"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "While the content touches upon agile and effective teamwork, it primarily discusses DevOps and its importance in delivering value to customers rather than Scrum values specifically.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, with no specific mention of Azure Pipelines or its features. The topic of Azure Pipelines is not central to the content.",
-    "level": "Ignored"
-  },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the importance of feedback and data in the context of Agile and DevOps, which relates to evidence-based improvement practices, but the primary focus is still on the integration and application of Agile and DevOps rather than on evidence-based improvement itself.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content discusses Agile in depth, its relationship with DevOps, and its importance in delivering value to customers, indicating a strong focus on Agile strategy.",
-    "level": "Secondary"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the relationship between DevOps and Agile, emphasizing continuous delivery and collaboration rather than asynchronous development specifically.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the role of DevOps and Agile in delivering value to customers, emphasizing the importance of customer feedback and effective delivery to enhance customer satisfaction.",
-    "level": "Secondary"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, without a clear focus on Kanban or Kanban coaching.",
-    "level": "Ignored"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies without a clear mention or focus on the Kanban process.",
-    "level": "Ignored"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile and DevOps in relation to value delivery, indicating Agile as a significant theme but not as the primary focus.",
-    "level": "Ignored"
-  },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of feedback and data in the context of Agile and DevOps practices, indicating that data informs the product development process, making it a major but secondary theme.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the importance of DevOps in the context of Agile and continuous delivery, with no clear focus on the specific topic of 'Definition of Done'.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content discusses DevOps and Agile practices in the context of delivering value to customers. While Product Owner responsibilities relate to delivering value, the primary focus is on DevOps and Agile rather than Product Ownership itself.",
-    "level": "Ignored"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on DevOps and Agile practices without any mention or relevance to Windows.",
-    "level": "Ignored"
-  },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "The content discusses agile principles and their integration with DevOps, making agile a major theme alongside DevOps, though it is not the sole focus.",
-    "level": "Secondary"
-  },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile practices without specific reference to Kanban Flow. Kanban is not central to the discussion.",
-    "level": "Ignored"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of DevOps and Agile in delivering value to customers, which involves aspects of decision making about what to build next based on feedback and data.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies in delivering continuous value, focusing on practical solutions and problem-solving in a collaborative context.",
-    "level": "Secondary"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content primarily discusses DevOps and Agile practices, but includes a secondary focus on achieving strategic objectives related to continuous delivery of value to customers.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 49,
-    "non_ai_confidence": 0,
-    "final_score": 34.0,
-    "reasoning": "The content discusses DevOps and Agile in the context of continuous delivery, but does not focus specifically on deployment frequency as a primary topic.",
-    "level": "Ignored"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content predominantly discusses the relationship between DevOps and Agile practices, emphasizing their interconnectedness in delivering value and achieving business agility.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the notions of DevOps and Agile methodologies in terms of team collaboration and delivery processes, without a clear focus on system configuration.",
-    "level": "Ignored"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the integration of Agile and DevOps, focusing on continuous delivery of value to customers and the role of Agile practices in product development.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 76,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses DevOps and Agile methodologies, which are closely related to software development practices. While the primary focus is on DevOps and its importance in Agile processes, it still significantly relates to the work of software developers in delivering solutions.",
-    "level": "Secondary"
-  },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "While the content discusses DevOps and Agile in the context of continuous delivery and getting software to customers, the primary focus is on the philosophies and practices of DevOps and Agile, rather than on specific release planning strategies.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses DevOps practices and how they relate to Agile methodologies, emphasizing their importance in delivering value to customers. However, the primary focus is more about the integration of concepts rather than deep technical principles or mastery.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses principles of empiricism in the context of DevOps and Agile, but it is primarily focused on the relationship between DevOps and Agile rather than on empirical process control itself.",
-    "level": "Ignored"
-  },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "Content extensively discusses the relationship between Agile and DevOps, highlighting their integration in delivering value to customers and informing agile product development. While Agile is a major theme, the focus on DevOps indicates it is a secondary but significant theme.",
-    "level": "Secondary"
-  },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile processes, with no mention or focus on Kanban Theory.",
-    "level": "Ignored"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "While the content discusses key aspects of DevOps and Agile, it briefly touches on the importance of lean delivery, making it a significant but secondary theme rather than a primary focus.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile practices and emphasizes coaching and training, but the primary focus is on the integration of DevOps with Agile rather than Agile mentoring specifically.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, with no clear focus on Behaviour Driven Development.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content significantly discusses Agile and its integration with DevOps, highlighting the collaborative and delivery aspects that relate to large scale agility, but it also focuses on DevOps and continuous delivery, making it a secondary theme.",
-    "level": "Ignored"
-  },
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the relationship between Agile and DevOps, emphasizing the importance of Agile principles in delivering value and integrating with DevOps practices.",
-    "level": "Secondary"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on DevOps and Agile practices related to continuous delivery and collaboration, with a limited discussion on accountability aspects such as feedback and validating work value, but it is not the main focus.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses DevOps and Agile in the context of delivering value and continuous feedback, which are relevant to application lifecycle management. However, it primarily focuses on the integration of Agile and DevOps rather than a holistic view of the application lifecycle itself.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content extensively discusses the Lean delivery of working, valuable software and emphasizes the importance of feedback and continuous improvement, making Lean Thinking a significant theme in the context of Agile and DevOps.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content discusses how Agile principles integrate with DevOps, emphasizing the importance of Agile practices in delivering value to customers.",
-    "level": "Secondary"
-  },
-  "Scrum Product Management": {
-    "category": "Scrum Product Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile principles and their relationship with DevOps, touching on product development aspects relevant to Scrum, but does not focus primarily on Scrum Product Management itself.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses DevOps and Agile practices extensively, focusing on the delivery of value and the importance of effective teamwork in engineering processes, but does not center on engineering excellence as a distinct primary theme.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile and DevOps extensively, highlighting principles related to team collaboration and effective delivery, which are relevant to the broader concept of Organisational Physics. However, it primarily focuses on Agile and DevOps rather than organisational physics specifically.",
-    "level": "Ignored"
-  },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile and its integration with DevOps in the context of delivering value, but Agile Scaling is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 88,
-    "non_ai_confidence": 20,
-    "final_score": 68.0,
-    "reasoning": "Content primarily discusses the role of DevOps in the context of software delivery, especially in relation to agile methodologies, emphasizing their significance in software development.",
-    "level": "Secondary"
-  },
-  "CI/CD": {
-    "category": "CI/CD",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses the importance of DevOps in the context of continuous delivery, making CI/CD a clear, central topic.",
-    "level": "Secondary"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the integration and importance of Agile and DevOps in delivering value to customers, focusing on continuous improvement and team collaboration.",
-    "level": "Secondary"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses the integration of DevOps and Agile practices in delivering value to customers, emphasizing the importance of technical practices in software development.",
-    "level": "Secondary"
-  },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses Agile principles and their relation to DevOps, indicating a significant focus on Agile methodologies, though it primarily revolves around the DevOps perspective.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on DevOps and Agile practices in the context of software delivery, rather than on decision theory.",
-    "level": "Ignored"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses DevOps and Agile methodologies primarily, without any specific reference to Azure Repos.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on DevOps and Agile methodologies, without any mention or central discussion of Azure Boards.",
-    "level": "Ignored"
-  },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the intersection of Agile and DevOps, emphasizing collaborative problem-solving and continuous delivery, making Agile a major theme, although it's integrated with DevOps concepts.",
-    "level": "Secondary"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile practices related to continuous delivery of value to customers, without any focus on revenue metrics or employee productivity.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses interconnectedness and integration of Agile and DevOps practices in managing complex solutions, focusing on continuous delivery and problem-solving, which aligns well with Complexity Thinking as a major theme.",
-    "level": "Secondary"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the importance of DevOps in agile methodologies and continuous delivery, with no clear focus on the Product Backlog topic.",
-    "level": "Ignored"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile, emphasizing teamwork and collaboration as essential elements but does not specifically focus on cross-functional teams as a clear primary topic.",
-    "level": "Ignored"
-  },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "While the content mainly focuses on the relationship between DevOps and Agile, it discusses themes of team collaboration, leadership, and the importance of Agile practices in delivering value, indicating it is a major but secondary theme.",
-    "level": "Secondary"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "While the content discusses the importance of DevOps and Agile in delivering value to customers, it primarily focuses on DevOps practices rather than a clear product strategy. The theme of product development is present but not the primary focus.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of DevOps and Agile in continuous delivery, but does not focus on cycle time as a clear topic.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the concepts of DevOps and Agile and their relevance in delivering customer value, but its primary focus is on industry practices rather than discovery and learning.",
-    "level": "Ignored"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies in the context of continuous delivery to customers, with no substantial focus on value stream mapping.",
-    "level": "Ignored"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the importance of DevOps in delivering working software and continuous value to customers, emphasizing practices that lead to effective software delivery.",
-    "level": "Secondary"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "While the content discusses the importance of DevOps and Agile in delivering value to customers, it primarily focuses on the overall process of delivery rather than specifically on product discovery. The mention of obtaining feedback for product development hints at product discovery, but this is not the central theme of the content.",
-    "level": "Ignored"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of DevOps and Agile in delivering value to customers, without a focus on market share as a topic.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile practices, focusing on their integration and importance in delivering value to customers. Test Automation is not mentioned or discussed as a central theme.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of DevOps in relation to Agile, focusing on continuous delivery and team collaboration, without addressing technical debt as a central theme.",
-    "level": "Ignored"
-  },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of DevOps and Agile in the context of delivering value to customers, which is a significant aspect of technical strategy. However, the content also emphasizes collaboration and team dynamics, making the category a major but secondary theme.",
-    "level": "Secondary"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, with no clear focus on Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on DevOps and Agile methodologies, with no clear primary discussion on mentoring.",
-    "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content heavily discusses the significance of DevOps in the context of continuous delivery and its interplay with Agile practices.",
-    "level": "Secondary"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on their roles in continuous delivery and teamwork, without mentioning Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 49,
-    "non_ai_confidence": 0,
-    "final_score": 34.0,
-    "reasoning": "While the content discusses the importance of DevOps and Agile in the context of delivering value quickly, it primarily focuses on their integration rather than frequent releases as a clear, central topic.",
-    "level": "Ignored"
-  },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of DevOps and Agile in the context of delivering software and value to customers, but it is primarily focused on DevOps and Agile rather than strictly on Software Increment itself.",
-    "level": "Ignored"
-  },
-  "Test Strategy": {
-    "category": "Test Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile, focusing on delivery and continuous improvement, rather than specifically addressing test strategies.",
-    "level": "Ignored"
-  },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies in the context of software delivery, with limited relevance to Adaptive Leadership concepts.",
-    "level": "Ignored"
-  },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the relationship between Agile and DevOps, emphasizing the importance of rapid feedback and continuous delivery, which are aspects of Agile predictability, but it mainly focuses on DevOps.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly discusses the importance of DevOps in relation to Agile, with no clear focus on Daily Scrum practices or principles.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "While the content discusses the integration of DevOps and Agile practices that support innovation and improvement in delivering solutions, 'Ability to Innovate' is a major but secondary theme rather than the primary focus.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 65,
-    "non_ai_confidence": 0,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of DevOps and Agile in delivering value to customers, which is a significant theme in the context of digital transformation. However, the focus is more on the methodologies rather than on digital transformation as a primary topic.",
-    "level": "Ignored"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on delivery and team collaboration, which are not central themes of Portfolio Management.",
-    "level": "Ignored"
-  },
-  "Sprint Planning Workshop": {
-    "category": "Sprint Planning Workshop",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and its relationship with Agile practices, without focusing on sprint planning or related workshops.",
-    "level": "Ignored"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 60,
-    "non_ai_confidence": 30,
-    "final_score": 51.0,
-    "reasoning": "The content discusses agile coaching and agile consultancy, making coaching a significant but secondary theme compared to the primary focus on DevOps and agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the integration of Agile and DevOps practices, emphasizing the importance of Agile methodologies in the delivery of software solutions.",
-    "level": "Secondary"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content primarily discusses DevOps and Agile practices and their importance in delivering value to customers, but does not center on technical leadership itself.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of DevOps and Agile in the context of delivering value to customers, highlighting collaboration and team dynamics, which are aspects of organisational change. However, the primary focus remains on the processes and practices rather than explicit organisational change themes.",
-    "level": "Ignored"
-  },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content mainly focuses on the relationship and integration between Agile and DevOps, emphasizing Agile principles and practices in delivering value to customers.",
-    "level": "Secondary"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile, focusing on delivery and team collaboration rather than on self-organization as a central theme.",
-    "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of DevOps in the context of continuous delivery of value to customers, which aligns with value stream management, although it primarily focuses on Agile and DevOps practices.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on their roles in software delivery and team dynamics, rather than entrepreneurship as a central theme.",
-    "level": "Ignored"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses the importance of DevOps in the continuous delivery of value to customers, integrating the concepts of Agile and emphasizing the significance of delivery practices.",
-    "level": "Secondary"
-  },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content discusses the importance of DevOps in the context of Agile practices, with a strong emphasis on continuous delivery of value and obtaining feedback which are crucial for product validation.",
-    "level": "Secondary"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content emphasizes the importance of DevOps and Agile practices in delivering continuous value to customers, discussing feedback loops and adaptation which are key aspects of continuous improvement.",
-    "level": "Secondary"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "While the content primarily focuses on the relationship between DevOps and Agile, it discusses themes relevant to Agile mentoring and training, making it a secondary but significant theme.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on DevOps and Agile methodologies, without any clear mention or relevance to the BetaCodex framework.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile practices in the context of delivering value to customers, without a clear focus on trend analysis.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the continuous delivery of value to customers, which is related to customer retention, but it primarily focuses on DevOps and Agile practices rather than on customer retention strategies themselves.",
-    "level": "Ignored"
-  },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, emphasizing adaptability and response to feedback, which are crucial elements of adaptive strategies. However, the primary focus is on DevOps and Agile rather than a strategy explicitly labeled as adaptive.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of DevOps in the continuous delivery of value to customers, aligning closely with the concept of flow efficiency in delivery processes.",
-    "level": "Secondary"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile but primarily focuses on delivery systems rather than ongoing learning practices or principles.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of DevOps and Agile in the context of continuous delivery of value, without a focus on troubleshooting or resolving problems.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, with no substantial focus on Kanban.",
-    "level": "Ignored"
-  },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on the delivery of value to customers through the integration of DevOps and Agile practices, emphasizing the importance of getting working software to customers quickly for effective feedback and value validation.",
-    "level": "Secondary"
-  },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the integration and importance of Agile principles in the context of DevOps, highlighting their interconnected roles in delivering value to customers.",
-    "level": "Secondary"
-  },
-  "Agile AI": {
-    "category": "Agile AI",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the relationship between Agile and DevOps and how they contribute to continuous delivery of value, but it primarily focuses on DevOps as related to Agile rather than being centered on Agile AI specifically.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies in relation to the software development process and continuous delivery of value to customers, without a focus on remote working.",
-    "level": "Ignored"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content discusses DevOps and Agile principles related to software delivery, but does not focus on automated testing as a primary topic.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, without any focus on Scaling Kanban.",
-    "level": "Ignored"
-  },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Lean delivery in the context of DevOps and Agile, positioning Lean as a significant part of the overall discussion about software delivery to customers.",
-    "level": "Ignored"
-  },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile and DevOps in relation to continuous delivery and team collaboration, making Agile a significant theme, though it also focuses heavily on DevOps.",
-    "level": "Ignored"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The primary focus of the content is on the principles of DevOps and Agile methodologies, rather than serving as a homepage or introductory content about a specific site or service.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "Content discusses Scrum in the context of Agile, but the primary focus is on DevOps and the relationship between Agile and DevOps rather than on Scrum itself.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the importance of DevOps and Agile in the delivery of value to customers, rather than focusing on working agreements.",
-    "level": "Ignored"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile and DevOps in the context of project delivery but does not focus specifically on Agile Portfolio Management as a primary topic.",
-    "level": "Ignored"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the role of DevOps in ensuring continuous delivery of value to customers, making it a central theme throughout the text.",
-    "level": "Secondary"
-  },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the integration of Agile and DevOps, emphasizing Agile principles and practices throughout while discussing continuous delivery and team collaboration.",
-    "level": "Secondary"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles of DevOps and Agile in continuous delivery, with no focus on backlog refinement.",
-    "level": "Ignored"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile practices and their importance in delivering value to customers, without a clear focus on evidence-based leadership principles.",
-    "level": "Ignored"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses how DevOps and Agile practices focus on continuous delivery and operational effectiveness in delivering value to customers.",
-    "level": "Secondary"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile and DevOps concepts, which emphasize teamwork and collaboration, but the primary focus is on their roles in delivering value rather than specific collaboration tools.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on DevOps and Agile principles and their importance in continuous delivery, with no substantial discussion on Sprint Review specifically.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses DevOps and Agile, with a focus on delivery and customer value, rather than specifically addressing concepts related to MVP.",
-    "level": "Ignored"
-  },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile principles and practices in relation to DevOps, making Agile a major theme but not the primary focus, which is on the integration and delivery aspects of DevOps.",
-    "level": "Ignored"
-  },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content mentions organizational transformation in the context of Agile and DevOps practices, but primarily focuses on the delivery of software and value to customers, making it a secondary theme.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the intertwined relationship between DevOps and Agile, focusing on collaborative team dynamics and effective delivery of value, which aligns significantly with the principles of organisational agility.",
-    "level": "Secondary"
-  },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile, highlighting their interconnection in delivering value to customers, making Agile a significant theme but not the central focus.",
-    "level": "Ignored"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 82,
-    "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the integration of Agile and DevOps, with a strong emphasis on Agile principles and their importance in continuous delivery, positioning Agile as a primary focus.",
-    "level": "Secondary"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the importance of feedback in the context of DevOps and Agile, emphasizing short feedback loops and adaptation based on customer feedback, which aligns well with the theme of Customer Feedback Loops.",
-    "level": "Secondary"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile in the context of delivering value to customers, without focusing on transparency as a clear topic.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content frequently mentions Agile and Scrum in relation to DevOps, presenting Scrum as part of the Agile framework, but is primarily focused on DevOps practices. Scrum is discussed but not as the main theme.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the importance of DevOps in relation to Agile, focusing on continuous delivery and customer value, without addressing the Definition of Ready as a central topic.",
-    "level": "Ignored"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on the concepts of DevOps and Agile, and does not address Sprint Review Workshops as a clear topic.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of DevOps in the context of continuous delivery, emphasizing the speed and effectiveness of delivering value to customers.",
-    "level": "Secondary"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses continuous delivery and the importance of getting working software to customers quickly, which aligns with the principles of Lean Product Development. However, the primary focus is more on DevOps and Agile, thus it is a secondary theme.",
-    "level": "Ignored"
-  },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration of DevOps and Agile practices for continuous delivery of value, without addressing Kanban or predictability.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content primarily discusses the integration and importance of Agile and DevOps in delivering value to customers, emphasizing core Agile principles.",
-    "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on the relationship between DevOps and Agile, rather than on miscellaneous topics.",
-    "level": "Ignored"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 65,
-    "non_ai_confidence": 0,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of DevOps in the continuous delivery of value, suggesting a focus on delivery strategies, making it a major theme, albeit secondary to the overall discussion about Agile and DevOps practices.",
-    "level": "Ignored"
-  },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies with a focus on their implementation and efficiency in delivering value to customers, rather than on leadership or leadership training concepts.",
-    "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the continuous delivery of value to customers through DevOps and Agile practices, emphasizing the importance of getting working software to customers efficiently.",
-    "level": "Secondary"
-  },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "While the content primarily discusses DevOps, it places significant emphasis on agile practices and the interconnectedness of agile and DevOps. It mentions agile training and coaching as part of its offerings, indicating a focus on agile methodologies, though certification is not the central theme.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the importance of teamwork, collaboration, and the integration of Agile and DevOps practices, emphasizing people in processes to deliver value to customers.",
-    "level": "Secondary"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on DevOps and Agile methodologies, discussing their roles in continuous delivery of value to customers. Nonlinear dynamics is not a central theme in this text.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses DevOps and Agile practices related to delivery and collaboration, rather than focusing on change management as a core topic.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "Content discusses Agile in the context of DevOps and continuous delivery, making it a significant but secondary theme to the overall discussion.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on their roles in continuous delivery and team collaboration, rather than personal experiences or topics.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of Agile and DevOps in team collaboration and effectiveness, touching upon the need for a happy and inspired workforce, but the primary focus is on DevOps and delivery rather than team motivation.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Although the content primarily discusses DevOps and Agile, it briefly references the collaborative nature of teams and mentions Scrum in the broader context of Agile practices, making it a significant but secondary theme.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "While the content discusses Agile and DevOps, which are related to Systems Thinking in terms of integrated processes and collaboration, the primary focus is on the delivery of value through these methodologies rather than on Systems Thinking itself.",
-    "level": "Ignored"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps and Agile practices, focusing on their importance in the continuous delivery of value, rather than specifically addressing lead time.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses agile principles at length and emphasizes collaboration and continuous delivery, although it primarily focuses on DevOps integration with Agile rather than solely Agile planning itself.",
-    "level": "Secondary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-11T22:49:48",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of testing hypotheses and receiving feedback in the context of DevOps and Agile, but it primarily focuses on the relationship between DevOps and Agile, rather than being centered on Hypothesis Driven Development itself.",
-    "level": "Ignored"
-  },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 60,
-    "non_ai_confidence": 10,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile concepts and their relationship with DevOps, highlighting the importance of agile practices and coaching within software development, making agile coaching a significant theme.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of agile practices and team collaboration in delivering value through DevOps.",
-    "level": "Secondary"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the relationship and integration between Agile and DevOps, emphasizing Agile principles while referencing its practices extensively.",
-    "level": "Secondary"
-  },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the interrelated roles of DevOps and Agile in delivering value, highlighting their integrated nature, which reflects some principles of systemic thinking. However, the primary focus is on DevOps and Agile rather than systemic thinking itself.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "Content discusses the role of DevOps in delivering value to customers, which is closely related to Continuous Integration practices, but mainly focuses on the intersection between DevOps and Agile instead of Continuous Integration as a primary topic.",
-    "level": "Ignored"
-  },
-  "Continuos Integration": {
-    "category": "Continuos Integration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses DevOps extensively and its relationship with Agile in the context of continuous delivery of value, which is closely related to continuous integration practices. However, the focus is more on the collaboration and delivery aspects rather than technical aspects of continuous integration itself.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the integration of Agile and DevOps practices, emphasizing continuous delivery and the importance of Agile in achieving effective solutions, which aligns closely with the concept of scaling agility.",
-    "level": "Secondary"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "Content discusses the strategic importance of aligning DevOps and Agile methodologies to continuously deliver value to customers, making it a primary focus of the overall message.",
-    "level": "Secondary"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the importance of Agile practices and team collaboration, which are central to team performance, although it primarily focuses on DevOps and continuous delivery.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback and data in informing product development decisions, which aligns with hypothesis-driven development principles. However, the primary focus is on the relationship between DevOps and Agile rather than on hypothesis formulation and experimentation.",
     "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses the relationship between DevOps and Agile in delivering value to customers, which includes some aspects of feedback and validation but does not primarily focus on experimentation.",
-    "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 79,
-    "non_ai_confidence": 10,
-    "final_score": 58.0,
-    "reasoning": "While the content heavily discusses DevOps and its interrelation with Agile, it focuses more on the conceptual discussion of delivery and Agile methodologies rather than specifically on Azure DevOps practices or tools.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content focuses primarily on DevOps and Agile practices, discussing their importance in delivering value to customers rather than directly addressing resilience and change.",
-    "level": "Ignored"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content discusses the importance of Lean delivery of working, valuable, usable software to customers, which aligns closely with Lean Principles.",
-    "level": "Secondary"
-  },
-  "Kanban Training": {
-    "category": "Kanban Training",
+    "calculated_at": "2025-02-11T22:49:49",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on DevOps and its relationship with Agile, with no clear mention or discussion of Kanban training.",
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and team collaboration rather than on hypothesis-driven experimentation or testing ideas.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-11T22:49:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on software delivery and team collaboration, rather than entrepreneurship principles or practices.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-11T22:49:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and team collaboration rather than the specifics of managing a Product Backlog.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-11T22:49:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile, with Scrum mentioned only in the context of Agile practices, lacking a central focus on Scrum principles or roles.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-11T22:49:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on their roles in software delivery rather than systems thinking or organisational dynamics.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-11T22:49:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses Agile and DevOps practices and mentions coaching in the context of helping teams evolve and improve, but the primary focus is on the integration of DevOps and Agile rather than on coaching techniques or practices.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-11T22:49:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies without a clear focus on evidence-based leadership principles or practices.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-11T22:49:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on delivery processes rather than employee engagement strategies or practices.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-11T22:50:00",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of Agile methodologies, which is relevant to product management. However, the primary focus is on DevOps and Agile practices rather than strategic product management discussions.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-11T22:50:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and its relationship with Agile, without a clear focus on leadership roles or practices within Agile contexts.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-11T22:50:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile principles without specific reference to the Daily Scrum event.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-11T22:50:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on their roles in software delivery rather than system configuration.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-11T22:50:05",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps and Agile in delivering value to customers, which relates to the strategic use of digital technologies for business transformation. However, the primary focus is on DevOps and Agile methodologies rather than a broader discussion on digital transformation itself.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-11T22:50:07",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of DevOps in the continuous delivery of value to customers, which aligns with the principles of working software. However, the primary focus is on the relationship between DevOps and Agile rather than solely on working software itself.",
+    "level": "Secondary"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-11T22:50:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps and Agile in delivering value to customers, touching on feedback loops and data-driven insights, which are relevant to decision-making. However, the primary focus is on the integration of DevOps and Agile rather than structured decision-making methodologies.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-11T22:50:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than self-organisation principles.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-11T22:50:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile methodologies, focusing on continuous delivery and value to customers, without addressing remote working practices or challenges.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-11T22:50:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers and touches on Lean delivery principles, but the primary focus is on the relationship between DevOps and Agile rather than Lean Product Development specifically.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-11T22:50:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on their integration and delivery aspects rather than organisational culture.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-11T22:50:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of feedback in the context of DevOps and Agile, highlighting the need for quick feedback loops to inform product development. However, the primary focus is on DevOps and Agile practices rather than a dedicated exploration of customer feedback loops.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-11T22:50:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses DevOps and Agile methodologies without any mention of Azure Repos or its functionalities.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-11T22:50:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than transparency in Agile processes.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-11T22:50:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of DevOps in relation to Agile practices, without addressing the Definition of Done or its criteria.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-11T22:50:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses DevOps and Agile practices, focusing on delivery and team dynamics rather than product strategy, vision, or roadmap development.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-11T22:50:27",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of DevOps and Agile in delivering value to customers, which is a significant aspect of customer retention. However, it primarily focuses on the methodologies rather than specific strategies for retaining customers, making it a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-11T22:50:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices, with no clear focus on Value Stream Mapping or its principles.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-11T22:50:30",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile in delivering value to customers, which aligns with strategic approaches in Agile environments. However, it primarily focuses on the operational aspects rather than a clear strategic framework.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-11T22:50:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than directly addressing the measurement and improvement of innovation capabilities.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-11T22:50:33",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and their relationship with DevOps, making Agile a significant theme, but the primary focus is on DevOps and its role in value delivery.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T22:50:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile at the team level, without addressing scaling agility across the organisation or frameworks for scaling agile practices.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-11T22:50:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Agile and DevOps, highlighting the importance of teamwork and collaboration in delivering value to customers. However, the primary focus is on the concepts of DevOps and Agile rather than specific techniques or strategies for team collaboration.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-11T22:50:37",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of DevOps and Agile in delivering value to customers, which relates to customer satisfaction. However, the primary focus is on the methodologies rather than directly exploring customer satisfaction principles or practices.",
+    "level": "Secondary"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-11T22:50:38",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Lean delivery in the context of DevOps and Agile, making Lean a significant but secondary theme in the overall focus on DevOps and Agile practices.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-11T22:50:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of DevOps and Agile in delivering value to customers, without a clear focus on Cycle Time as a metric or its implications.",
     "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
+    "calculated_at": "2025-02-11T22:50:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting the importance of continuous delivery and feedback loops, which are relevant to engineering practices. However, the primary focus is on the integration of DevOps and Agile rather than specific engineering methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-11T22:50:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices, focusing on delivery and team collaboration rather than portfolio management or strategic alignment of projects.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-11T22:50:44",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies in the context of software delivery, focusing on practices that enhance the software development lifecycle.",
+    "level": "Secondary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-11T22:50:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of continuous delivery and its relationship with Agile practices, which are relevant to engineering excellence. However, the primary focus is on Agile and team dynamics rather than specific engineering practices or standards.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-11T22:50:47",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers, which relates to throughput in terms of delivering work efficiently. However, the primary focus is on the relationship between DevOps and Agile rather than a detailed exploration of throughput metrics or optimisation strategies.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-11T22:50:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile principles without specific reference to Azure Pipelines or related practices.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-11T22:50:50",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile principles in relation to DevOps, highlighting collaboration, continuous delivery, and customer value, but primarily focuses on the integration of DevOps rather than solely on Agile values.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-11T22:50:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of DevOps and Agile in delivering value to customers, without a focus on automated testing principles or practices.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-11T22:50:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses DevOps and Agile methodologies without addressing Site Reliability Engineering principles or practices.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-11T22:50:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices, with no clear focus on the responsibilities or role of a Product Owner.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-11T22:50:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than change management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-11T22:50:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of DevOps in the context of Agile methodologies, without a clear focus on mentoring or coaching practices.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-11T22:50:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting the importance of feedback loops and adaptation, which are key aspects of empirical process control. However, the primary focus is on the integration of DevOps and Agile rather than a detailed exploration of empirical process control itself.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-11T22:50:59",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers and mentions the need for feedback and validation of work, which aligns with product validation principles. However, the primary focus is on DevOps and Agile methodologies rather than directly on product validation practices.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-11T22:51:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, without any specific focus on Azure Boards or its functionalities.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-11T22:51:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses DevOps and Agile practices without any focus on revenue per employee metrics or related financial efficiency discussions.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-11T22:51:06",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on DevOps and Agile practices as integral to delivering value to customers in a software development context.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile methodologies, focusing on their importance in delivering value to customers, which is central to the role of software developers.",
     "level": "Secondary"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-11T22:51:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on continuous delivery and team collaboration, without addressing Test First Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-11T22:51:09",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of continuous delivery and the integration of Agile practices, which aligns with the principles of Frequent Releases. However, the primary focus is on the relationship between DevOps and Agile rather than on frequent releases specifically.",
+    "level": "Secondary"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-11T22:51:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than estimation techniques or practices.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-11T22:51:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of DevOps and Agile in delivering value to customers, without focusing on troubleshooting techniques or methodologies.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-11T22:51:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of delivering value to customers, which relates to the concept of Increment in Agile. However, the primary focus is on DevOps rather than the Increment itself.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-11T22:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, with no mention of the Windows operating system or related topics.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-11T22:51:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile principles, with no clear focus on Sprint Review or its related topics.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-11T22:51:17",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers, which indirectly relates to Lead Time through the emphasis on quick delivery and feedback. However, it primarily focuses on the integration of Agile and DevOps rather than explicitly measuring or optimising Lead Time.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-11T22:51:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices without a focus on scaling Agile across multiple teams or enterprise-level initiatives.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-11T22:51:19",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the practical integration of DevOps and Agile principles in delivering value to customers, emphasising real-world applications and problem-solving strategies relevant to project management.",
+    "level": "Secondary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-11T22:51:21",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers and mentions the need for quick feedback loops, which relates to deployment frequency. However, the primary focus is on the integration of Agile and DevOps rather than specifically on optimising deployment intervals.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-11T22:51:23",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Agile principles and their integration with DevOps, highlighting the importance of collaboration, feedback, and iterative development, which are central to Agile Project Management. However, the primary focus is on the relationship between DevOps and Agile rather than solely on Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-11T22:51:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than Continuous Integration principles and practices.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-11T22:51:25",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the integration of Agile and DevOps in delivering value to customers, highlighting the importance of Agile principles in strategic planning and execution. However, the primary focus is on DevOps practices rather than a comprehensive Agile strategy.",
+    "level": "Secondary"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-11T22:51:27",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile in the context of delivering value to customers, which is a significant aspect of Continuous Delivery. However, the primary focus is on the integration of DevOps and Agile rather than on Continuous Delivery principles and practices specifically.",
+    "level": "Ignored"
+  },
+  "BetaCodex": {
+    "category": "BetaCodex",
+    "calculated_at": "2025-02-11T22:51:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on their integration and delivery of value to customers, rather than the principles of BetaCodex or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-11T22:51:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and practices rather than the structure and dynamics of cross-functional teams.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-11T22:51:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on continuous delivery rather than the criteria for backlog item readiness.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-11T22:51:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on delivery and collaboration rather than the interpretation of complexity or decision-making processes.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-11T22:51:33",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of collaboration and teamwork within Agile and DevOps contexts, which are relevant to team motivation, but the primary focus is on the delivery of value and technical practices rather than explicit motivational strategies.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-11T22:51:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, highlighting the importance of collaboration and effective team dynamics in delivering value to customers, which aligns with team performance themes. However, the primary focus is on DevOps rather than team performance specifically.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-11T22:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-11T22:51:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, with no focus on Kanban principles or scaling Kanban practices.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-11T22:51:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, with no clear focus on Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-11T22:51:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, without focusing on working agreements or team collaboration norms.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-11T22:51:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers, which aligns with Lean principles of value maximisation. However, the primary focus is on DevOps and Agile methodologies rather than Lean principles specifically.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-11T22:51:42",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the relationship between Agile and DevOps, highlighting Agile principles and practices, but primarily focuses on DevOps as a delivery mechanism. Agile is a significant theme, but the content is more about the integration of DevOps with Agile rather than a direct discussion on Agile transformation strategies.",
+    "level": "Secondary"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-11T22:51:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of DevOps and Agile in delivering value to customers, with no clear focus on technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-11T22:51:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices, with no clear focus on Scrum Values.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-11T22:51:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices in the context of software delivery, without a clear focus on organisational change strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-11T22:51:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of DevOps and Agile in delivering value to customers, without a focus on test automation principles, practices, or tools.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-11T22:51:48",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile and DevOps in relation to delivering value to customers, which is a significant aspect of Scrum product development, but it primarily focuses on the integration of DevOps and Agile rather than Scrum specifically.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-11T22:51:49",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of continuous delivery and its integration with Agile practices, which aligns with operational efficiency. However, it primarily focuses on the relationship between DevOps and Agile rather than specific operational practices or techniques.",
+    "level": "Secondary"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-11T22:51:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than empirical evidence or decision-making processes central to Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-11T22:51:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on continuous delivery rather than backlog refinement practices.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-11T22:51:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices, with no clear focus on scaling Scrum principles or frameworks.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-11T22:51:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies without a clear focus on the Scrum Master role or responsibilities.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-11T22:51:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices at the team level, without a focus on scaling Agile methodologies across an organisation.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-11T22:51:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of DevOps in the context of Agile practices, focusing on delivery and collaboration rather than specific forecasting methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-11T22:51:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile methodologies, highlighting their importance in delivering value to customers, which aligns with technical leadership principles. However, it primarily focuses on the concepts of DevOps and Agile rather than specific technical leadership strategies or practices.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-11T22:51:59",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses DevOps and Agile methodologies, focusing on delivery and team collaboration rather than directly exploring customer needs or defining product features.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-11T22:52:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, with no clear focus on Lean Startup principles or the iterative learning process central to that methodology.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-11T22:52:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and their integration with DevOps, highlighting the importance of feedback and iterative processes, which are relevant to Agile Planning. However, the primary focus is on DevOps rather than Agile Planning specifically.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-11T22:52:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and collaboration rather than accountability or ownership within teams.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-11T22:52:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on continuous delivery and team collaboration, without addressing the concept of Minimum Viable Product or its related strategies.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-11T22:52:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on delivery and team dynamics rather than specific collaboration tools.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-11T22:52:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on delivery and collaboration rather than psychological safety.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-11T22:52:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, focusing on team collaboration and continuous delivery of value, rather than specific deployment strategies.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-11T22:52:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile principles, with only a brief mention of Scrum, making it not relevant enough to classify under the Scrum Team category.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-11T22:52:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of Agile practices, touching on aspects of continuous delivery and the integration of methodologies. However, the primary focus is on Agile and team dynamics rather than deep technical practices or principles of software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-11T22:52:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of continuous delivery, which is a significant aspect of release management. However, the primary focus is on the relationship between DevOps and Agile rather than on specific release management practices.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-11T22:52:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, with no focus on Test Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-11T22:52:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of DevOps in the context of Agile methodologies, focusing on delivery and collaboration rather than analysing trends or shifts within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-11T22:52:18",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Agile principles and their integration with DevOps, highlighting the importance of collaboration, continuous delivery, and customer value. However, it primarily focuses on the relationship between Agile and DevOps rather than solely on Agile philosophy.",
+    "level": "Secondary"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-11T22:52:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, with no direct focus on version control practices or strategies.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-11T22:52:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, without focusing on Agile Planning Tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-11T22:52:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile practices without any focus on Acceptance Test Driven Development or acceptance criteria.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-11T22:52:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on their integration and importance in continuous delivery, without addressing asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-11T22:52:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile methodologies, focusing on their importance in delivering value to customers, rather than strategies for increasing market share.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-11T22:52:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile in delivering value to customers, which touches on strategic objectives but primarily focuses on operational practices and methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-11T22:52:28",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile practices, highlighting the importance of feedback loops and continuous delivery, which are relevant to Continuous Learning. However, the primary focus is on the relationship between DevOps and Agile rather than on Continuous Learning principles and practices.",
+    "level": "Ignored"
   }
 }

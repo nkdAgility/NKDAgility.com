@@ -27,10 +27,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Practical Techniques and Tooling
 
 ---
 ## Navigating the Complexities with Expert Guidance 

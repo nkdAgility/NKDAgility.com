@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Change Management
+- Continuous Learning
+- Decision Making
+- Empirical Process Control
+- Experimentation
+- Hypothesis Driven Development
+- Organisational Change
+- Software Development
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Organisational Agility
+- People and Process
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

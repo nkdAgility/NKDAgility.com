@@ -27,10 +27,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
 
 ---
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀

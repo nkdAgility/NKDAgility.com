@@ -29,10 +29,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Continuous Learning
+- Organisational Change
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Practical Techniques and Tooling
 
 ---
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**

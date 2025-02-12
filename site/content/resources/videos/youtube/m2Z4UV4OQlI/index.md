@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Ability to Innovate
+- Agile Leadership
+- Agile Strategy
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Organisational Change
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Strategy
+- Technical Leadership
+- Transparency
+- Trend Analysis
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
 
 ---
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.

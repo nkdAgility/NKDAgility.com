@@ -27,10 +27,23 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
+- Decision Making
+- Experimentation
+- Hypothesis Driven Development
+- Lean Startup
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Validation
+- Sensemaking
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Products and Books
 
 ---
 ## **Why the PPDV Course Was Created**

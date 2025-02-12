@@ -29,10 +29,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Change Management
+- Large Scale Agility
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Scaling Agility
+- Strategy
+- Technical Leadership
 resourceTypes:
 - video
-categories: []
+categories:
+- Business Agility
+- Market Adaptability
+- People and Process
 
 ---
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey

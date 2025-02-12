@@ -27,10 +27,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Digital Transformation
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- People and Process
 
 ---
 ## A Journey to DevOps Success

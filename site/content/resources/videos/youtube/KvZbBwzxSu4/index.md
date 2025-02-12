@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Strategy
+- Change Management
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Product Strategy
+- Sensemaking
+- Strategic Goals
+- Strategy
+- Team Motivation
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Value Delivery
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

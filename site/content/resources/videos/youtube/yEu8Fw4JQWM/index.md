@@ -27,10 +27,23 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Lean Principles
+- Lean Thinking
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Throughput
 resourceTypes:
 - video
-categories: []
+categories:
+- Flow Efficiency
+- Kanban
+- People and Process
 
 ---
 ## Why Less is Always More When It Comes to WIP

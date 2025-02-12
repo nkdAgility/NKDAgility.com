@@ -27,10 +27,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Philosophy
+- Continuous Learning
+- Operational Practices
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
 
 ---
 **Why do you think that 4 half days is a better format than 2 full days?**

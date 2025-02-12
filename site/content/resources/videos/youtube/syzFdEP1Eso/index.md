@@ -27,7 +27,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Definition of Done
+- Pragmatic Thinking
+- Professional Scrum
+- Software Development
 resourceTypes:
 - video
 categories: []

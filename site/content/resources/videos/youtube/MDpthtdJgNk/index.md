@@ -27,10 +27,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Operational Practices
+- Pragmatic Thinking
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- People and Process
+- Practical Techniques and Tooling
 
 ---
 ### Embracing Kanban: A Creative Approach to Workflow Optimization

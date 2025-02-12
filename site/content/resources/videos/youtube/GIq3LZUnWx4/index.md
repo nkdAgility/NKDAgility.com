@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Philosophy
+- Product Management
+- Product Owner
+- Professional Scrum
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Value Delivery
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

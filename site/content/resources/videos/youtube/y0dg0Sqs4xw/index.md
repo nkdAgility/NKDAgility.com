@@ -27,10 +27,26 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Continuous Learning
+- Decision Making
+- Empirical Process Control
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
 
 ---
 What is a common mistake made by rookie agile consultants?

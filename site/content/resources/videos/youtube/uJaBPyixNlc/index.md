@@ -29,10 +29,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Mentoring
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
 
 ---
 How does Naked Agility select associate Scrum Trainers?

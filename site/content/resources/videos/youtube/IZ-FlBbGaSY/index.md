@@ -22,13 +22,31 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
-tags: []
+tags:
+- Continuous Delivery
+- Continuous Integration
+- Deployment Frequency
+- Deployment Strategies
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
+- Software Developers
+- Software Development
+- Technical Mastery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Product Delivery
+- Technical Excellence
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

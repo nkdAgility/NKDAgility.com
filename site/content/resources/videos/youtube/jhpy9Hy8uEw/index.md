@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Values and Principles
+- Continuous Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Personal
 
 ---
 Why did you choose the Scrum.Org track rather than the Scrum Alliance track?

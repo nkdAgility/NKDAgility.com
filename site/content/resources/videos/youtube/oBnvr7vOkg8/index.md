@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Transformation
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Lean
+- People and Process
+- Personal
 
 ---
 **How does someone become an Agile consultant?**

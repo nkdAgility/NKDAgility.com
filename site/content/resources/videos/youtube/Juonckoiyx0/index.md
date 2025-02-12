@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Values and Principles
+- Pragmatic Thinking
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Team Performance
+- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

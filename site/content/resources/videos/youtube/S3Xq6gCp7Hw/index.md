@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Project Management
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Pragmatic Thinking
+- Product Backlog
+- Product Discovery
+- Product Management
+- Product Owner
+- Product Strategy
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Market Adaptability
+- Value Delivery
 
 ---
 In my opinion, it’s the whole ball game.

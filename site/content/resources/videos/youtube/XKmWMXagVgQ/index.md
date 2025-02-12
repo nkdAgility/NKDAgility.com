@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
+- Product Management
+- Product Owner
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Discovery and Learning
+- Products and Books
 
 ---
 As a new product owner, you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **continuous learning**.

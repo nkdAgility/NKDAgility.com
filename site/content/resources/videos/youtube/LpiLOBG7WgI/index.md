@@ -29,10 +29,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Customer Feedback Loops
+- Pragmatic Thinking
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Sprint Review
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

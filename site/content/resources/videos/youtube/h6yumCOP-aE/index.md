@@ -27,10 +27,24 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Accountability
+- Agile Project Management
+- Operational Practices
+- Pragmatic Thinking
+- Self Organisation
+- Software Development
+- Strategy
+- Team Collaboration
+- Team Motivation
+- Team Performance
+- Working Agreements
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- People and Process
+- Sociotechnical Systems
 
 ---
 ### Achieving Team Alignment with Kanban: The Importance of a Working Agreement

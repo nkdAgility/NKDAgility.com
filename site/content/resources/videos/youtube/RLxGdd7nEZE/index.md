@@ -27,10 +27,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Change Management
+- Organisational Change
+- Organisational Physics
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Sociotechnical Systems
+- Systems Thinking
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

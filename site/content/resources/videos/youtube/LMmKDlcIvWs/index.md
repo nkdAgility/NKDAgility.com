@@ -27,10 +27,21 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Continuous Learning
+- Lean Principles
+- Lean Thinking
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- Metrics and Learning
+- Practical Techniques and Tooling
 
 ---
 ### Demystifying Kanban: A Strategy for Continuous Improvement

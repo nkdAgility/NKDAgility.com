@@ -22,13 +22,27 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false
-tags: []
+tags:
+- Engineering Excellence
+- Engineering Practices
+- Experimentation
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Mastery
+- Test Driven Development
+- Test First Development
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Code and Complexity
+- DevOps
+- Technical Excellence
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

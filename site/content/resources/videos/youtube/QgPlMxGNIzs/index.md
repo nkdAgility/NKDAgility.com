@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Decision Making
+- Organisational Change
+- Organisational Culture
+- Pragmatic Thinking
+- Scaling Agility
+- Software Developers
+- Software Development
+- Technical Leadership
 resourceTypes:
 - video
-categories: []
+categories:
+- Business Agility
+- Enterprise Agility
+- People and Process
 
 ---
 How do you think Agile is evolving since its inception in 2001?

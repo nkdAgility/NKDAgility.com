@@ -1,52 +1,4 @@
 {
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the distinction between complicated and complex work, emphasizing the nature of complexity in Agile methodologies and the principles guiding decision-making in uncertain environments.",
-    "level": "Secondary"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses concepts related to complexity and how different types of work (complicated vs. complex) require different approaches, which aligns with systems thinking principles. However, it primarily focuses on Agile methodologies rather than being a comprehensive discussion on systems thinking itself.",
-    "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 20,
-    "non_ai_confidence": 20,
-    "final_score": 20.0,
-    "reasoning": "The content primarily discusses Agile methodologies and concepts, with a brief mention of products in the context of complex work. However, products are not a central focus and the main topic is Agile principles and practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Agile values and principles, focusing on the nature of complicated versus complex work, and does not relate to transparency and accountability as a central theme.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile methodologies, complex and complicated work, and Scrum values rather than anything classified as 'Miscellaneous'.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile methodologies, complex work, and Scrum practices. It does not focus on personal experiences, identities, or topics directly related to personal matters.",
-    "level": "Ignored"
-  },
   "Code and Complexity": {
     "category": "Code and Complexity",
     "ai_confidence": 70,
@@ -55,228 +7,310 @@
     "reasoning": "The content discusses complex and complicated work, particularly in the context of software engineering and Agile methodologies, suggesting that code development is inherently complex and evolves continuously. This theme is important but secondary to the overall discussion about Agile principles.",
     "level": "Secondary"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile principles and values extensively, but the primary focus is on Agile methodologies and their application rather than explicit value delivery mechanisms.",
-    "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-11T22:23:07",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile principles, complex vs. complicated work, and Scrum values, without a clear focus on Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 35,
-    "non_ai_confidence": 0,
-    "final_score": 24.0,
-    "reasoning": "While the content discusses Agile and Scrum frameworks, it focuses primarily on the principles and values of Agile rather than the specific processes or lifecycle aspects typically associated with Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Product Delivery": {
-    "category": "Product Delivery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile principles, complex versus complicated work, and values in the Agile methodology, rather than focusing on product delivery.",
-    "level": "Ignored"
-  },
-  "Install and Configuration": {
-    "category": "Install and Configuration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Agile principles, Scrum, and the nature of complex work rather than any topics related to installation or configuration.",
+    "reasoning": "Content primarily discusses Agile principles and frameworks without a clear focus on decision-making processes or the application of decision theory concepts.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-11T22:23:09",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the principles and values of Agile methodology and how they apply to complex work, which is central to understanding enterprise agility.",
-    "level": "Secondary"
+    "final_score": 46.0,
+    "reasoning": "The content discusses agile principles and their application in complex work environments, touching on the adaptability and continuous improvement aspects relevant to enterprise agility, but it primarily focuses on team-level practices and values rather than broader organisational implications.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
+    "calculated_at": "2025-02-11T22:23:10",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content is primarily focused on Agile principles, complex and complicated work, and the values guiding Agile teams, with little direct reference to Lean principles or methodologies.",
-    "level": "Ignored"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content discusses Agile and Scrum, but does not focus on Kanban as a primary topic.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 65.0,
-    "reasoning": "Content discusses Agile values and principles, emphasizing team dynamics, roles, and the adaptive processes related to Scrum, making it primarily about people and processes.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 35,
-    "non_ai_confidence": 0,
-    "final_score": 24.0,
-    "reasoning": "The content focuses primarily on Agile methodologies and the distinction between complicated and complex work, with only a brief mention of decision-making in the context of uncertainty and the agile approach. It does not delve into formal decision theory concepts.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 40,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile principles, complexities in work, and Scrum values without a clear focus on AI and automation.",
-    "level": "Ignored"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile values and principles, which are relevant to sociotechnical systems, particularly in the context of teamwork, collaboration, and navigating complex problems. However, it primarily focuses on Agile methodology rather than a deeper exploration of sociotechnical systems as a primary topic.",
-    "level": "Ignored"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses Agile principles, values, and frameworks, particularly in the context of complex work and the differences between complicated and complex environments. It also references Scrum values, indicating a centrality to Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses concepts of Agile methodologies, focusing on the importance of continuous discovery, experimentation, and adaptability in complex project environments, which aligns closely with the theme of discovery and learning.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses Agile principles and the differences between complicated and complex work, with some mention of Scrum values. However, it does not focus on practical techniques or specific tooling.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses Agile and Scrum methodologies, exploring complex and complicated work, but its primary focus is on values and principles rather than technical practices or standards.",
-    "level": "Ignored"
-  },
-  "Metrics and Learning": {
-    "category": "Metrics and Learning",
-    "ai_confidence": 40,
-    "non_ai_confidence": 10,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses Agile principles and concepts, focusing on the complexities of work in Agile and Scrum environments, without a central focus on metrics or learning specifically.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Agile methodologies and their focus on values and principles, rather than being a news article or a review of a product or service.",
-    "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 35,
-    "non_ai_confidence": 0,
-    "final_score": 24.0,
-    "reasoning": "The content primarily focuses on Agile methodologies and Scrum principles, with only a brief mention of automation in software engineering. DevOps is not the main topic.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses Agile principles and how organizations can adapt to change and complexity, emphasizing the need for a framework that fosters organizational agility.",
-    "level": "Secondary"
-  },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses values and principles in Agile and Scrum environments, connecting to team dynamics and workforce effectiveness, indicating a secondary theme of organisational psychology.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "The content discusses Scrum values and their role in navigating complex work, indicating a strong focus on Scrum as a framework within Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily addresses the distinction between complicated and complex work within the context of Agile principles and does not focus on flow efficiency as a central topic.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 60,
-    "non_ai_confidence": 10,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile values and principles extensively, framing Agile as a framework for adapting to complexity. However, it primarily focuses on the philosophical underpinnings of Agile rather than explicitly detailing aspects of scaling agility in organizations.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses how Agile frameworks and values enable organizations to adapt to changing circumstances, highlighting the importance of continuous improvement and inspection in complex environments.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Agile principles and values, focusing on complex versus complicated work, with no clear connection to events or presentations.",
-    "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on Agile principles and methodologies, particularly Scrum, without any central connection to Azure DevOps.",
+    "reasoning": "Content heavily discusses Agile principles and practices, with no clear focus on Lean methodologies or concepts.",
     "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-11T22:23:12",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the ability to adapt in complex environments and emphasizes values that guide an organization through change and uncertainty, centralizing resilience and adaptability as key themes.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and the importance of adaptability in complex work environments, which aligns with themes of resilience and change. However, it primarily focuses on Agile methodologies rather than explicitly addressing organisational resilience or change management practices.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-11T22:23:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile principles and values rather than installation or configuration processes.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-11T22:23:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile values and principles, focusing on the nature of complicated versus complex work, rather than optimising throughput or addressing flow efficiency directly.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-11T22:23:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 40,
+    "final_score": 4.0,
+    "reasoning": "Content primarily discusses Agile values and principles, focusing on the nature of complex work and the importance of adaptability in Agile frameworks, without any mention of AI or automation technologies.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-11T22:23:47",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and values, which are relevant to product delivery methodologies, but it primarily focuses on the philosophical aspects of Agile rather than specific practices or methodologies directly related to the end-to-end process of delivering software products.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-11T22:23:49",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and values, particularly in relation to Scrum, but does not focus specifically on product management practices or the role of the Product Owner.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-11T22:23:51",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of values and principles in Agile and Scrum, emphasising the role of experimentation, discovery, and continuous improvement in complex work environments. It highlights the need for teams to adapt and learn from their experiences, aligning well with the themes of discovery and learning.",
     "level": "Secondary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-11T22:23:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses complex and complicated work, highlighting the need for adaptive frameworks and values in decision-making processes, which aligns with Systems Thinking principles. However, the primary focus is on Agile methodologies rather than a direct exploration of Systems Thinking itself.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-11T22:23:54",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the distinction between complicated and complex work, emphasising the non-linear dynamics and uncertainties inherent in complex systems. It references the need for emergent practices and the role of values in navigating complexity, aligning well with the principles of complexity thinking.",
+    "level": "Secondary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-11T22:23:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the nature of complex versus complicated work in Agile, focusing on values and principles rather than transparency and accountability.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-11T22:23:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses Agile values and principles without a clear focus on practical techniques, tools, or methodologies that enhance Agile and DevOps practices.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-11T22:23:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile principles and practices without reference to specific events, presentations, or discussions related to Agile or DevOps conferences.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-11T22:23:59",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and their role in adapting to complex work environments, which is relevant to market adaptability, but it primarily focuses on the values and principles of Agile rather than specific strategies or practices for enhancing market responsiveness.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-11T22:24:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and Scrum values, making it directly relevant to Agile methodologies.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-11T22:24:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile principles and Scrum practices, with no clear focus on DevOps concepts or practices.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-11T22:24:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and Scrum practices without any mention of Azure DevOps.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-11T22:24:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Agile principles and complex work rather than specific products or literature.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-11T22:24:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the principles of Agile and its focus on values and principles, which are relevant to business agility. However, it primarily centres on Agile methodologies rather than explicitly addressing broader business agility concepts.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-11T22:24:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile principles and Scrum values, with no clear focus on Kanban methodology or its practices.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-11T22:24:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and values, which are related to value delivery, but it primarily focuses on the nature of complex work and the importance of values in navigating uncertainty rather than specific strategies or methodologies for delivering value to customers.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-11T22:24:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile values and principles rather than specific engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-11T22:24:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile values and principles, focusing on the nature of complex work rather than scaling Agile practices across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-11T22:24:13",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses Agile principles and values, emphasising the importance of adaptability and responsiveness in complex work environments, which aligns closely with the themes of organisational agility.",
+    "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-11T22:24:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile principles and frameworks without personal anecdotes or reflections.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-11T22:24:15",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Agile principles and values, focusing on the human behaviours and team dynamics necessary for navigating complex work environments. It highlights the importance of collaboration, culture, and continuous improvement, which are central themes in the 'People and Process' category.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-11T22:24:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and values, which relate to team dynamics and organisational culture, but it primarily focuses on the nature of complex work rather than the interplay between social and technical systems.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-11T22:24:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile principles and methodologies without providing news updates or reviews related to Agile, DevOps, or technology.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-11T22:24:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile values and principles, focusing on the nature of complex work rather than metrics or learning methodologies.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-11T22:24:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile principles and practices, focusing on values and complex work rather than the management of software application lifecycles.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-11T22:24:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile principles and practices, focusing on the nature of complicated versus complex work, rather than directly addressing Value Stream Management concepts.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-11T22:24:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and frameworks, focusing on values and principles rather than psychological aspects of organisational behaviour.",
+    "level": "Ignored"
   }
 }

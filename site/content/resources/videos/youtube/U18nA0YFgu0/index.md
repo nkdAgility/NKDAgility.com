@@ -27,10 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Accountability
+- Agile Philosophy
+- Agile Project Management
+- Organisational Culture
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Personal
+- Transparency and Accountability
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

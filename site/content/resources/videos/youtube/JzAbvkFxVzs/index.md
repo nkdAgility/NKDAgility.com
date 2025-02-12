@@ -27,10 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Values and Principles
+- Pragmatic Thinking
+- Scrum Master
+- Scrum Values
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Personal
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:

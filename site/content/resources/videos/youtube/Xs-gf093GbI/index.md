@@ -27,7 +27,9 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Management
+- Product Strategy
 resourceTypes:
 - video
 categories: []

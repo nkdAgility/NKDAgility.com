@@ -27,10 +27,27 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Continuous Learning
+- Customer Feedback Loops
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Discovery and Learning
+- People and Process
 
 ---
 If you're an organization that invests heavily in training—especially if you're supporting a large number of people trying to step into the Scrum Master role—then immersive learning should be at the top of your list. It’s an investment that can dramatically increase your team's effectiveness. Unlike traditional training, where learning can quickly fade, immersive learning helps people **internalize** the knowledge and put it into practice immediately.

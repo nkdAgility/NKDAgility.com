@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Transformation
+- Decision Making
+- Employee Engagement
+- Organisational Culture
+- Product Management
+- Product Owner
+- Scrum Product Development
+- Scrum Team
+- Sprint Review
+- Team Collaboration
+- Team Motivation
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Value Delivery
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

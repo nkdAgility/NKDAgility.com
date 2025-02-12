@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Ability to Innovate
+- Agile Project Management
+- Customer Satisfaction
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Sensemaking
+- Software Development
+- Strategy
+- Trend Analysis
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Metrics and Learning
+- People and Process
 
 ---
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.

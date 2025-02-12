@@ -30,7 +30,9 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Events and Presentations
+- News and Reviews
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

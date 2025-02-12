@@ -27,10 +27,25 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Project Management
+- Cycle Time
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
+- Throughput
+- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- Metrics and Learning
+- Transparency and Accountability
 
 ---
 ### Avoiding Common Mistakes in Your Kanban Strategy

@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Ability to Innovate
+- Agile Philosophy
+- Continuous Learning
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Hypothesis Driven Development
+- Lean Principles
+- Lean Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Validation
+- Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Value Delivery
 
 ---
 In today’s fast-paced, ever-evolving market, understanding user needs and maximizing value are crucial for successful product development. The right approach can not only boost user satisfaction but also significantly improve your return on investment (ROI). This course is designed to equip you with the tools, techniques, and mindset needed to revolutionize your product development process.

@@ -27,10 +27,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Lean Principles
+- Lean Thinking
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
+- Throughput
 resourceTypes:
 - video
-categories: []
+categories:
+- Flow Efficiency
+- Kanban
+- Practical Techniques and Tooling
 
 ---
 ### Actively Managing Your Workflow in a Kanban Strategy

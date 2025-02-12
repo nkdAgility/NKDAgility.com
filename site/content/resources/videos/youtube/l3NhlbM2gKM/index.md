@@ -27,10 +27,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Backlog Refinement
+- Estimation
+- Pragmatic Thinking
+- Software Developers
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

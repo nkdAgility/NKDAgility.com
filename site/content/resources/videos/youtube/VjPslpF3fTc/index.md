@@ -27,10 +27,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

@@ -22,13 +22,23 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
-tags: []
+tags:
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Practical Techniques and Tooling
 
 ---
 # Shift Left: Building Quality and Security From the Start

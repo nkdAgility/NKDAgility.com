@@ -27,10 +27,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Pragmatic Thinking
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Personal
 
 ---
 ### The Danger of Ignoring Problems in Your Kanban Strategy

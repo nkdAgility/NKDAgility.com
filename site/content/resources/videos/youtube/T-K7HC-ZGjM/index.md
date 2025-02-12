@@ -27,10 +27,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
 
 ---
 ## Interpreting the Sprint Backlog

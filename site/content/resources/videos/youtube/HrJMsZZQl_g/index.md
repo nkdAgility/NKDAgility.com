@@ -29,10 +29,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Coaching
+- Continuous Learning
+- Customer Feedback Loops
+- Empirical Process Control
+- Experimentation
+- Operational Practices
+- Pragmatic Thinking
+- Scrum Master
+- Scrum Team
+- Software Development
+- Team Collaboration
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

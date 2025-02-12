@@ -27,10 +27,24 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Cycle Time
+- Decision Making
+- Evidence Based Leadership
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
+- Throughput
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- Metrics and Learning
+- People and Process
 
 ---
 ### Transitioning from Traditional Project Management to Kanban

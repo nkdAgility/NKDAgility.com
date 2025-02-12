@@ -30,7 +30,10 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Complexity Thinking
+- People and Process
+- Sociotechnical Systems
 
 ---
 What is Taylorism and how did it influence project management?

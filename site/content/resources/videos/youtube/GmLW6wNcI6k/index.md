@@ -29,10 +29,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Philosophy
+- Empirical Process Control
+- Pragmatic Thinking
+- Sensemaking
 resourceTypes:
 - video
-categories: []
+categories:
+- Complexity Thinking
+- Discovery and Learning
+- People and Process
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

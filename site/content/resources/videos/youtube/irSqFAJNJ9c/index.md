@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Organisational Culture
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Motivation
+- Team Performance
+- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Sociotechnical Systems
 
 ---
 Sure, there are poor practices that impact **scrum teams**, but I tend to focus on the outcomes to determine whether a **scrum team** is failing or progressing.

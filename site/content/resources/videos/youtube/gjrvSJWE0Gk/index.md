@@ -25,10 +25,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Decision Making
+- Estimation
+- Forecasting
+- Operational Practices
+- Pragmatic Thinking
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Metrics and Learning
+- Practical Techniques and Tooling
+- Value Delivery
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course

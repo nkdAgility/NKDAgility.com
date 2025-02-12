@@ -29,10 +29,23 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Leadership
+- Agile Project Management
+- Decision Making
+- Entrepreneurship
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Scrum Product Development
+- Sensemaking
+- Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Decision Theory
+- People and Process
+- Products and Books
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

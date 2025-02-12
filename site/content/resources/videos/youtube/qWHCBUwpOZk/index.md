@@ -25,10 +25,23 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Cycle Time
+- Lean Principles
+- Lean Thinking
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
+- Throughput
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- Metrics and Learning
+- Practical Techniques and Tooling
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

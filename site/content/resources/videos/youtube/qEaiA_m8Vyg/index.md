@@ -25,10 +25,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
+- Continuous Learning
+- Customer Feedback Loops
+- Empirical Process Control
+- Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

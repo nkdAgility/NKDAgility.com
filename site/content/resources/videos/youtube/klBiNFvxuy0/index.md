@@ -27,10 +27,23 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Agile Values and Principles
+- Continuous Learning
+- Empirical Process Control
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
 
 ---
 What is the most common Aha moment people have in a scrum course?

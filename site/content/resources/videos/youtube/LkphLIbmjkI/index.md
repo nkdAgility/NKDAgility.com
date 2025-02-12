@@ -27,10 +27,26 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Continuous Learning
+- Engineering Excellence
+- Mentoring
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Team Collaboration
+- Technical Leadership
+- Technical Mastery
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- People and Process
+- Practical Techniques and Tooling
 
 ---
 ## Limits of Professional Coaching

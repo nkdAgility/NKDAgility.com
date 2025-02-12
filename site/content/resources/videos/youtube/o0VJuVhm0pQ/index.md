@@ -27,10 +27,28 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Ability to Innovate
+- Agile Frameworks
+- Agile Leadership
+- Agile Project Management
+- Agile Transformation
+- Agile Values and Principles
+- Customer Retention
+- Customer Satisfaction
+- Empirical Process Control
+- Evidence Based Leadership
+- Pragmatic Thinking
+- Product Management
+- Scrum Product Development
+- Software Development
+- Working Software
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Value Delivery
 
 ---
 In high competition markets, how does scrum product development help acquire and retain customers?

@@ -27,10 +27,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Personal
 
 ---
 # Navigating the Plague of Incompetence in Agile Coaching 🚧

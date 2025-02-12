@@ -27,10 +27,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Organisational Change
+- Organisational Physics
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Organisational Agility
+- People and Process
+- Sociotechnical Systems
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:

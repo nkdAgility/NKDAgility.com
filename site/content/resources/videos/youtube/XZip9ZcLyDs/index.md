@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Project Management
+- Scrum Master
+- Scrum Team
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
 
 ---
 **Why is becoming a Scrum Master a great career option?**

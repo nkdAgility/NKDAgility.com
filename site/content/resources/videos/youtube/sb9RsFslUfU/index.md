@@ -30,7 +30,10 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- People and Process
+- Personal
 
 ---
 ## From Practitioner to Consultant

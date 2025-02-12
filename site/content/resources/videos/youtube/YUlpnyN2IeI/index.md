@@ -29,10 +29,24 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Agile Values and Principles
+- Empirical Process Control
+- Pragmatic Thinking
+- Scrum Master
+- Software Developers
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Personal
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received
