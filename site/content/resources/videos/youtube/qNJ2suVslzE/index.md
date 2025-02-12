@@ -23,13 +23,33 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBAuNIUpdN0JKx8msFH_ZzcrnsvLw
 duration: 259
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Empirical Process Control
+- Lean Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Software Developers
+- Software Development
+- Strategy
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Market Adaptability
+- People and Process
 
 ---
  Overcoming Scope Creep: Focus on Value, Not Fixed Scope | Martin Hinshelwood

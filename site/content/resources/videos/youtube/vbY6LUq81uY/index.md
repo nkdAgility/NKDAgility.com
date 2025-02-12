@@ -23,13 +23,30 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
 duration: 437
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Decision Making
+- Entrepreneurship
+- Experimentation
+- Hypothesis Driven Development
+- Lean Principles
+- Lean Product Development
+- Lean Startup
+- MVP
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Strategy
+- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- Value Delivery
 
 ---
  Funding Products Like an Entrepreneur: Hypothesis-Driven Development | Martin Hinshelwood

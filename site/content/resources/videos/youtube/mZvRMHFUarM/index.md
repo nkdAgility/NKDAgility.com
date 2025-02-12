@@ -23,13 +23,20 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
 duration: 201
 isShort: false
-tags: []
+tags:
+- Decision Making
+- Estimation
+- Forecasting
+- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Decision Theory
+- Product Delivery
 
 ---
  Estimation in Software Projects: Why Probabilistic Forecasting is Better | Martin Hinshelwood

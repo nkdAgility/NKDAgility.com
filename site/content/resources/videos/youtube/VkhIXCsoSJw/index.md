@@ -23,13 +23,36 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
-tags: []
+tags:
+- Automated Testing
+- Azure Pipelines
+- Continuous Delivery
+- Continuous Integration
+- Continuous Learning
+- Cycle Time
+- Deployment Frequency
+- Digital Transformation
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Debt
+- Technical Mastery
+- Test Automation
+- Throughput
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories: []
+categories:
+- DevOps
+- Practical Techniques and Tooling
+- Technical Excellence
 
 ---
  Automate Everything: Boosting Engineering Excellence and Building Confidence

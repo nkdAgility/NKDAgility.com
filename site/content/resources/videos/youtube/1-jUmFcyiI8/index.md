@@ -23,13 +23,36 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Continuous Delivery
+- Continuous Integration
+- Continuous Learning
+- Customer Feedback Loops
+- Decision Making
+- Deployment Frequency
+- Engineering Excellence
+- Engineering Practices
+- Lead Time
+- Lean Product Development
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Product Strategy
+- Product Validation
+- Software Development
+- Throughput
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories: []
+categories:
+- Market Adaptability
+- Product Delivery
+- Value Delivery
 
 ---
  *Mastering Deployment Frequency: Shorten Feedback Loops, Maximize Value*

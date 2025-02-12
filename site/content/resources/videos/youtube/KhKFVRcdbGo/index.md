@@ -28,8 +28,21 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Metrics and Learning
+- People and Process
+- Value Delivery
+tags:
+- Agile Strategy
+- Decision Making
+- Engineering Excellence
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Technical Leadership
+- Transparency
 
 ---
  Build a Culture of Engineering Excellence with Naked Agility | Martin Hinshelwood

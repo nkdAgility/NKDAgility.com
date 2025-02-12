@@ -23,13 +23,18 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 isShort: false
-tags: []
+tags:
+- Coaching
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Product Delivery
+- Value Delivery
 
 ---
  Building High-Value Teams and Maximizing ROI with Naked Agility | Martin Hinshelwood

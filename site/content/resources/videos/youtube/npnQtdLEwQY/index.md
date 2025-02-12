@@ -23,13 +23,25 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
 duration: 668
 isShort: false
-tags: []
+tags:
+- Decision Making
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Technical Debt
+- Technical Mastery
+- Windows
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Code and Complexity
+- DevOps
+- Technical Excellence
 
 ---
  Understanding and Managing Technical Debt: Lessons for Every Organization | Martin Hinshelwood

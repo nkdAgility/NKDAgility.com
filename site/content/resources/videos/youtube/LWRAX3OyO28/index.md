@@ -23,13 +23,33 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
 duration: 332
 isShort: false
-tags: []
+tags:
+- Automated Testing
+- Continuous Delivery
+- Deployment Frequency
+- Deployment Strategies
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
+- Software Developers
+- Software Development
+- Technical Mastery
+- Test Automation
+- Throughput
+- Windows
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Technical Excellence
 
 ---
  The True Power of Continuous Delivery: Reducing Risk and Increasing Effectiveness | Martin Hinshelwood

@@ -2,7 +2,7 @@
 title: 'Working from Paradise: A Quick Update'
 description: "\U0001F334 Martin is working from Cancun until Jan 23, 2025! Meetings continue as usual, just note the 5-hour time difference. Reach out anytime!"
 ResourceId: I3QFLrCOXnN
-ResourceImport: true
+ResourceImport: false
 ResourceType: newsletters
 date: 2024-12-10
 preview: class-marketing-Q32021.jpg
@@ -11,12 +11,8 @@ resourceTypes: newsletter
 layout: newsletter
 aliases:
 - /resources/I3QFLrCOXnN
-categories:
-- Organisational Agility
-- People and Process
-- Market Adaptability
-tags:
-- Communication
+categories: []
+tags: []
 
 ---
 Dear Valued Clients,

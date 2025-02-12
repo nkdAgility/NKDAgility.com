@@ -23,13 +23,36 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
 duration: 379
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Leadership
+- Agile Philosophy
+- Agile Strategy
+- Change Management
+- Continuous Learning
+- Decision Making
+- Lean Product Development
+- Operational Practices
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Sensemaking
+- Strategy
+- Team Collaboration
+- Team Motivation
+- Team Performance
+- Technical Leadership
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Transparency and Accountability
 
 ---
  Empowering Teams with Financial Transparency: Maximizing ROI in Product Development | Martin Hinshelwood

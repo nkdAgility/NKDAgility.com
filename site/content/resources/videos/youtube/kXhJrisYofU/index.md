@@ -23,13 +23,36 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
 duration: 496
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Change Management
+- Decision Making
+- Digital Transformation
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Organisational Change
+- Organisational Physics
+- Portfolio Management
+- Pragmatic Thinking
+- Product Management
+- Software Development
+- Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Resilience and Change
 
 ---
  Beyond Budgeting: Adapting to Modern Product Development | Martin Hinshelwood

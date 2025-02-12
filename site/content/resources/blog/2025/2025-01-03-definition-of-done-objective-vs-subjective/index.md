@@ -26,16 +26,21 @@ tags:
 - Agile Planning
 - Agile Project Management
 - Definition of Done
+- Empirical Process Control
 - Engineering Excellence
 - Engineering Practices
 - Increment
 - Operational Practices
 - Pragmatic Thinking
+- Product Management
 - Professional Scrum
+- Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Software Developers
 - Software Development
+- Technical Leadership
+- Technical Mastery
 - Working Software
 categories:
 - Agile Product Management

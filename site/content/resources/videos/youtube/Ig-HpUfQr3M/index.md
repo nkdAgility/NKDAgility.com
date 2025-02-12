@@ -23,13 +23,36 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLACFsGXtu1B4-DDKlhw6S8Y18Zr0w
 duration: 501
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Continuous Learning
+- Decision Making
+- Engineering Excellence
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Hypothesis Driven Development
+- Large Scale Agility
+- Lean Product Development
+- Portfolio Management
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Owner
+- Product Strategy
+- Product Validation
+- Sensemaking
+- Software Development
+- Technical Debt
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- People and Process
 
 ---
  Hypothesis-Driven Product Development: Allocating Budget for Maximum Impact | Martin Hinshelwood

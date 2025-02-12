@@ -23,13 +23,34 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLA3dRTcLKc5KZt_uc_-QOOambvXxw
 duration: 477
 isShort: false
-tags: []
+tags:
+- Automated Testing
+- Continuous Delivery
+- Continuous Integration
+- Deployment Frequency
+- Deployment Strategies
+- Digital Transformation
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
+- Site Reliability Engineering
+- Software Developers
+- Software Development
+- Strategy
+- Technical Mastery
+- Test Automation
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories: []
+categories:
+- DevOps
+- Practical Techniques and Tooling
+- Product Delivery
 
 ---
  Automate Everything: Building Reliable, Fast, and Scalable Products

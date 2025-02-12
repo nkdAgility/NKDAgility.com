@@ -23,13 +23,36 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
 duration: 362
 isShort: false
-tags: []
+tags:
+- Continuous Delivery
+- Continuous Integration
+- Deployment Frequency
+- Deployment Strategies
+- Empirical Process Control
+- Engineering Excellence
+- Engineering Practices
+- Frequent Releases
+- Increment
+- Lean Principles
+- Lean Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Release Management
+- Software Developers
+- Software Development
+- Technical Debt
+- Technical Mastery
+- Throughput
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories: []
+categories:
+- DevOps
+- Product Delivery
+- Value Delivery
 
 ---
  The Power of Frequent Deployments: Reducing Technical Debt and Delivering Better Products

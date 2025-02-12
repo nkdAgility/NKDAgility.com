@@ -23,13 +23,33 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
 duration: 557
 isShort: false
-tags: []
+tags:
+- Continuous Delivery
+- Customer Feedback Loops
+- Deployment Frequency
+- Deployment Strategies
+- Engineering Excellence
+- Engineering Practices
+- Experimentation
+- Frequent Releases
+- Hypothesis Driven Development
+- Operational Practices
+- Pragmatic Thinking
+- Product Validation
+- Release Management
+- Software Developers
+- Software Development
+- Technical Mastery
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories: []
+categories:
+- DevOps
+- Product Delivery
+- Value Delivery
 
 ---
  Unlocking Continuous Delivery with Feature Flags: The Key to Faster, Safer Deployments

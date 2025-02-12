@@ -23,13 +23,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
-tags: []
+tags:
+- Decision Making
+- Engineering Excellence
+- Pragmatic Thinking
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-categories: []
+categories:
+- Complexity Thinking
+- People and Process
+- Product Delivery
 
 ---
  Balancing Speed and Stability in Delivery: Why Quality Should Always Come First

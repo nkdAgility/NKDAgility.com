@@ -1,1498 +1,1019 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses decision-making processes related to deployment frequency and feedback loops, which are relevant to decision theory, but the primary focus is on product development and delivery rather than decision theory itself.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the processes involved in product development and delivery, emphasising the importance of feedback loops, team dynamics, and the relationship between engineering and business.",
-    "level": "Secondary"
-  },
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops, continuous delivery, and iterative cycles, which are central concepts in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses deployment frequency, feedback loops, and the importance of trust in product delivery, but it does not primarily focus on Scrum values themselves.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-12T15:03:33",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes without a clear focus on Azure Boards.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of deployment frequency and feedback loops in product development, which are key aspects of trend analysis in understanding market responsiveness and operational efficiency.",
-    "level": "Secondary"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of feedback loops, continuous delivery, and iterative cycles in product development, which are central to experimentation in a business context.",
-    "level": "Secondary"
-  },
-  "Kanban Process": {
-    "category": "Kanban Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses aspects of deployment frequency, feedback loops, and continuous delivery, which are relevant to the Kanban process, but it primarily focuses on broader themes of product development and delivery rather than specifically on Kanban.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of tight feedback loops, continuous delivery, and the iterative process in product development, which are central themes in Lean Product Development.",
-    "level": "Secondary"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and continuous delivery, which are central to engineering excellence.",
-    "level": "Secondary"
-  },
-  "Homepage": {
-    "category": "Homepage",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on a homepage or its elements.",
-    "level": "Ignored"
-  },
-  "Agile Community": {
-    "category": "Agile Community",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of feedback loops, continuous delivery, and collaboration between engineering and business, which are central themes in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Value Prioritisation": {
-    "category": "Value Prioritisation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of prioritising features and delivery speed to maximise business value, focusing on how to effectively respond to market demands and customer expectations.",
-    "level": "Secondary"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the importance of understanding the entire pipeline from ideation to delivery, which aligns with value stream mapping principles. However, it primarily focuses on deployment frequency and feedback loops rather than explicitly mapping value streams.",
-    "level": "Secondary"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the importance of rapid deployment and feedback loops in adapting to market demands and customer expectations.",
-    "level": "Secondary"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of feedback loops and continuous delivery, which are related to self-organisation, but the primary focus is on deployment frequency and metrics rather than self-organisation itself.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and the iterative process of product development, which are central themes in Agile Planning.",
-    "level": "Secondary"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops and metrics in decision making for product development and delivery, emphasising how these factors influence the speed and effectiveness of decisions in a business context.",
-    "level": "Secondary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of continuous delivery and feedback loops, which are relevant to scaling Kanban practices, but the primary focus is on deployment frequency and product delivery rather than specifically on Kanban methodologies.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
+    "non_ai_confidence": 30,
     "final_score": 3.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery in product development, without a clear focus on test automation.",
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery in software development, without any mention of AI or its integration within Agile or DevOps practices.",
     "level": "Ignored"
   },
-  "Organisational Transformational Mastery": {
-    "category": "Organisational Transformational Mastery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes and feedback loops to enhance organisational agility and responsiveness, which aligns closely with transformational mastery.",
-    "level": "Secondary"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and continuous delivery, which are central themes in Agile Transformation.",
-    "level": "Secondary"
-  },
-  "Technical Strategy": {
-    "category": "Technical Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on strategies for improving deployment frequency and feedback loops to accelerate time to market, which are central to technical strategy.",
-    "level": "Secondary"
-  },
-  "Agile Evolution": {
-    "category": "Agile Evolution",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and continuous delivery, which are central themes in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on deployment frequency, feedback loops, and product delivery processes, which are not central to the 'Miscellaneous' category.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery, feedback loops, and collaboration between engineering and business, which are central themes in Scaled Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Certification": {
-    "category": "Agile Certification",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to agile methodologies, such as continuous delivery and feedback loops, but does not focus specifically on Agile Certification as a primary topic.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of reducing time to market, optimising deployment frequency, and improving feedback loops, all of which are central to the concept of cycle time.",
-    "level": "Secondary"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the relationship between engineering and business, without a clear focus on working agreements.",
-    "level": "Ignored"
-  },
-  "Agile Coaching": {
-    "category": "Agile Coaching",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes, feedback loops, and the importance of continuous delivery, which are central themes in Agile coaching.",
-    "level": "Secondary"
-  },
-  "Agile Pilot": {
-    "category": "Agile Pilot",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and continuous delivery, which are central themes in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery, without a clear focus on BetaCodex principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Mentoring Program": {
-    "category": "Agile Mentoring Program",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to agile methodologies, such as feedback loops and continuous delivery, but it primarily focuses on deployment strategies and metrics rather than mentoring specifically.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of team dynamics, feedback loops, and the role of engineering teams in delivering products efficiently, which directly relates to team performance.",
-    "level": "Secondary"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of tight feedback loops, continuous delivery, and the relationship between engineering and business, which are central to Agile principles.",
-    "level": "Secondary"
-  },
-  "Kanban Coaching": {
-    "category": "Kanban Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery, without a clear focus on Kanban principles or coaching.",
-    "level": "Ignored"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on revenue per employee.",
-    "level": "Ignored"
-  },
-  "Agile Methodology": {
-    "category": "Agile Methodology",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of tight feedback loops, continuous delivery, and iterative cycles, which are central concepts in Agile methodology.",
-    "level": "Secondary"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency and feedback loops to enhance time to market, which aligns closely with strategic goals of improving business agility and responsiveness.",
-    "level": "Secondary"
-  },
-  "Nonlinear Dynamics": {
-    "category": "Nonlinear Dynamics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on nonlinear dynamics.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dynamics of product development, delivery processes, and the importance of feedback loops, which are central themes in Organisational Physics.",
-    "level": "Secondary"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery, feedback loops, and the role of engineering in aligning with business needs, which are central themes in technical leadership.",
-    "level": "Secondary"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of feedback loops, deployment frequency, and continuous delivery in product management, aligning closely with Agile principles.",
-    "level": "Secondary"
-  },
-  "Agile Forecasting": {
-    "category": "Agile Forecasting",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, feedback loops, and the ability to quickly adapt to market demands, which are central themes in Agile forecasting.",
-    "level": "Secondary"
-  },
-  "Agile Resource Management": {
-    "category": "Agile Resource Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and the relationship between product development and delivery, which are central themes in Agile Resource Management.",
-    "level": "Secondary"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency and feedback loops to accelerate time to market, which aligns closely with Lean Principles of efficiency and continuous improvement.",
-    "level": "Secondary"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deployment frequency, continuous delivery, and feedback loops, which are relevant to Azure Pipelines, but the primary focus is on broader product development and delivery processes.",
-    "level": "Ignored"
-  },
-  "Agile Predictability": {
-    "category": "Agile Predictability",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of deployment frequency, feedback loops, and the ability to quickly deliver features to meet business expectations, which are central to Agile predictability.",
-    "level": "Secondary"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-12T15:03:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses aspects of deployment frequency and feedback loops, which are relevant to Scrum practices, but the primary focus is on deployment strategies and business needs rather than Scrum team dynamics.",
-    "level": "Ignored"
-  },
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses deployment frequency, continuous delivery, and the importance of feedback loops in product development, which are central themes in DevOps.",
-    "level": "Secondary"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on employee engagement.",
-    "level": "Ignored"
-  },
-  "Kanban Theory": {
-    "category": "Kanban Theory",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to feedback loops and continuous delivery, which are relevant to Kanban principles, but it primarily focuses on deployment frequency and product delivery rather than Kanban theory itself.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of deployment frequency, feedback loops, and continuous delivery, which are central themes in Application Lifecycle Management.",
-    "level": "Secondary"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of feedback loops, continuous delivery, and iterative cycles in product development, which are central to empirical process control.",
-    "level": "Secondary"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of deployment frequency and continuous delivery to enhance time to market, indicating a strong focus on frequent releases.",
-    "level": "Secondary"
-  },
-  "Release Planning": {
-    "category": "Release Planning",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, feedback loops, and the need for rapid delivery to meet business expectations, which are central to effective release planning.",
-    "level": "Secondary"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the challenges and considerations in deploying features quickly and effectively, touching on potential blockers and the need to address issues as they arise, which aligns with troubleshooting themes. However, it is primarily focused on deployment strategies and feedback loops rather than direct troubleshooting.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, rather than focusing on backlog refinement or related processes.",
-    "level": "Ignored"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the importance of metrics, feedback loops, and data collection in product development and delivery, which are central to Evidence Based Management.",
-    "level": "Secondary"
-  },
-  "Adaptive Leadership": {
-    "category": "Adaptive Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of adapting to feedback loops and the need for agility in product delivery, which aligns with adaptive leadership principles, but it primarily focuses on deployment strategies and metrics.",
-    "level": "Ignored"
-  },
-  "Agile Apocalypse": {
-    "category": "Agile Apocalypse",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of tight feedback loops and continuous delivery in agile product development, highlighting the challenges and strategies involved in maintaining speed and quality in a rapidly changing environment.",
-    "level": "Secondary"
-  },
-  "Systemic Thinking": {
-    "category": "Systemic Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the interconnectedness of deployment processes, feedback loops, and the importance of understanding the entire pipeline from ideation to delivery, which aligns closely with systemic thinking principles.",
-    "level": "Secondary"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product development processes, with no clear focus on remote working.",
-    "level": "Ignored"
-  },
-  "Continuos Integration": {
-    "category": "Continuos Integration",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the importance of continuous delivery and the feedback loop in the context of product development, highlighting how these practices can accelerate time to market and improve responsiveness to business opportunities.",
-    "level": "Secondary"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses aspects of deployment frequency, feedback loops, and continuous delivery, which are relevant to agile planning, but the primary focus is on deployment strategies and metrics rather than specific agile planning tools.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on personal themes.",
-    "level": "Ignored"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery in product development, without a clear focus on automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses aspects of deployment frequency, feedback loops, and continuous delivery, which are relevant to scaling Scrum practices, but the primary focus is on deployment strategies and metrics rather than Scrum itself.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops, deployment frequency, and the iterative process in product development, which are central to pragmatic thinking in a business context.",
-    "level": "Secondary"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, but does not focus on Acceptance Test Driven Development as a clear, primary topic.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the need for organisations to adapt their deployment processes and feedback loops to improve time to market, which is a key aspect of organisational change.",
-    "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to delivery cycles and feedback loops, which are relevant to Scrum practices, but it primarily focuses on deployment strategies and metrics rather than Scrum itself.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops, deployment frequency, and collaboration between engineering and business, which are central to the role of a Product Owner.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of feedback loops, continuous delivery, and the relationship between product development and business needs, which are central themes in Agile Project Management.",
-    "level": "Secondary"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of deployment frequency, feedback loops, and the relationship between product development and delivery, all of which are central to effective product strategy.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of reducing time to market, optimising deployment frequency, and maintaining a tight feedback loop to enhance flow efficiency in product delivery.",
-    "level": "Secondary"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of trust and communication between engineering teams and the business, highlighting the need for transparency in product delivery and decision-making processes.",
-    "level": "Secondary"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes and feedback loops, which are essential aspects of change management in product development.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses deployment frequency, feedback loops, and the role of engineering in product delivery, which are central themes for software developers.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of deployment frequency, continuous delivery, and the feedback loop in software development, making it central to the topic.",
-    "level": "Secondary"
-  },
-  "Agile Estimation": {
-    "category": "Agile Estimation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, but does not focus on Agile estimation techniques or practices.",
-    "level": "Ignored"
-  },
-  "Agile Books": {
-    "category": "Agile Books",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to agile methodologies, such as feedback loops and continuous delivery, but it primarily focuses on deployment strategies and metrics rather than being a clear, primary topic on agile practices or literature.",
-    "level": "Ignored"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery rather than system configuration specifically.",
-    "level": "Ignored"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of rapid iteration, feedback loops, and continuous delivery in product development, which are central themes of the Lean Startup methodology.",
-    "level": "Secondary"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of trust between engineering and the business, as well as the need for collaboration and communication, which are key aspects of organisational culture. However, the primary focus is on deployment processes and metrics, making organisational culture a secondary theme.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, feedback loops, and continuous delivery in enhancing product development and market responsiveness, which are key aspects of digital transformation.",
-    "level": "Secondary"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery rather than focusing on Sprint Reviews or their specific outcomes.",
-    "level": "Ignored"
-  },
-  "Predictability in Kanban": {
-    "category": "Predictability in Kanban",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content discusses deployment frequency, feedback loops, and the importance of stability in environments, but it primarily focuses on broader themes of product delivery and business responsiveness rather than specifically addressing predictability in Kanban.",
-    "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses deployment frequency, continuous delivery, and the importance of feedback loops in product development, which are central themes in Azure DevOps practices.",
-    "level": "Secondary"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency and feedback loops in product development, which are critical for business success and entrepreneurship.",
-    "level": "Secondary"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without a clear focus on technical debt.",
-    "level": "Ignored"
-  },
-  "Lean Agile": {
-    "category": "Lean Agile",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of tight feedback loops, continuous delivery, and iterative cycles in product development, which are central themes in Lean Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Kanban Flow": {
-    "category": "Kanban Flow",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to deployment frequency, feedback loops, and continuous delivery, which are relevant to Kanban Flow, but it primarily focuses on broader themes of product development and delivery management.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery rather than focusing on Daily Scrum practices or events.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and the feedback loop in the context of product development, emphasising the need for rapid deployment and iteration to meet business demands.",
-    "level": "Secondary"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the importance of delivering features quickly to meet customer expectations and build trust, indicating that customer satisfaction is a significant theme, though not the sole focus.",
-    "level": "Secondary"
-  },
-  "Agile Tools": {
-    "category": "Agile Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops and continuous delivery in product development, which are central concepts in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and continuous delivery, which are central themes in large scale agility.",
-    "level": "Secondary"
-  },
-  "Agile Digital Tools": {
-    "category": "Agile Digital Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, feedback loops, and continuous delivery in product development, which are central themes in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Software Development": {
-    "category": "Agile Software Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses continuous delivery, feedback loops, and the importance of rapid iteration in product development, which are central themes in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Software Increment": {
-    "category": "Software Increment",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, feedback loops, and continuous delivery, which are central to the concept of software increments.",
-    "level": "Secondary"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on coaching as a central theme.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, continuous delivery, and the feedback loop in product development, which are central themes in modern source control practices.",
-    "level": "Secondary"
-  },
-  "Site Reliability": {
-    "category": "Site Reliability",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, stability of environments, and continuous delivery, which are central themes in site reliability.",
-    "level": "Secondary"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops and continuous delivery in product development, emphasising the need for ongoing learning and adaptation based on user feedback and performance metrics.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops, continuous delivery, and the relationship between product development and delivery, which are central themes in Scrum methodologies.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of a tight feedback loop and continuous delivery in adapting to changes and meeting customer expectations, which aligns closely with the themes of resilience and change.",
-    "level": "Secondary"
-  },
-  "Strategic": {
-    "category": "Strategic",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes and feedback loops to enhance time to market, which is a strategic consideration for product development and business success.",
-    "level": "Secondary"
-  },
-  "Sprint Review Workshops": {
-    "category": "Sprint Review Workshops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery rather than focusing on Sprint Review Workshops.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of feedback loops, continuous delivery, and the relationship between product development and business needs, which are central themes in Agile strategy.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses optimising deployment frequency, feedback loops, and the entire pipeline from ideation to delivery, which are central themes in Value Stream Management.",
-    "level": "Secondary"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, but does not focus on Test Driven Development as a clear, primary topic.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of tight feedback loops, continuous delivery, and the role of engineering in responding to business needs, which are central themes in Agile Leadership.",
-    "level": "Secondary"
-  },
-  "Agile Product Ownership": {
-    "category": "Agile Product Ownership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops, continuous delivery, and collaboration between engineering and business, which are central themes in Agile Product Ownership.",
-    "level": "Secondary"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of speed in product delivery and how it relates to customer expectations and competitive advantage, indicating a secondary theme of market share.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of collaboration between engineering teams and the business, as well as the need for trust and effective communication to maximise value delivery. However, the primary focus is on deployment metrics and feedback loops rather than explicit team collaboration techniques.",
     "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
-    "ai_confidence": 75,
+    "calculated_at": "2025-02-12T15:03:37",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of rapid deployment and feedback loops in product development, which aligns with MVP principles, but it also covers broader topics related to delivery management and organisational dynamics.",
-    "level": "Secondary"
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of rapid iteration, feedback loops, and continuous delivery, which are relevant to MVP development. However, it primarily focuses on deployment strategies and operational efficiency rather than explicitly defining or discussing MVPs as a central theme.",
+    "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of deployment frequency, feedback loops, and the ability to adapt quickly to market demands, which are central to organisational agility.",
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-12T15:03:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of deployment frequency in relation to time to market, feedback loops, and continuous delivery. It explores strategies for improving deployment intervals and the impact of deployment frequency on business opportunities, making it a central theme.",
     "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-12T15:03:43",
+    "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, feedback loops, and the ability to deliver features quickly to the market, which are all central to the concept of throughput.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of deployment frequency, feedback loops, and the overall speed of delivering features to market, which are all central to the concept of throughput in Agile and DevOps contexts.",
     "level": "Secondary"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the importance of deployment frequency, feedback loops, and the need for continuous delivery to maximise business value and meet customer expectations.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and continuous delivery, which are central to scaling agility in product development.",
-    "level": "Secondary"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 95,
-    "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on deployment frequency, feedback loops, and continuous delivery in software development, discussing how these factors impact time to market and product delivery.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, stability of environments, and continuous delivery, all of which are central to effective deployment strategies.",
-    "level": "Secondary"
-  },
-  "Sprint Planning Workshop": {
-    "category": "Sprint Planning Workshop",
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-12T15:03:44",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery rather than focusing on sprint planning or related activities.",
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery rather than Scrum Values such as commitment, courage, focus, openness, or respect.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-12T15:03:46",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of reducing time to market through tight feedback loops, continuous delivery, and iterative cycles, which aligns closely with Lean principles of minimising waste and maximising learning. It emphasises the role of customer feedback and the need for continuous improvement in product development, making Lean Product Development a central theme.",
+    "level": "Secondary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-12T15:03:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and continuous delivery, without a focus on Test Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-12T15:03:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery in product development, without a clear focus on test automation principles, frameworks, or practices.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-12T15:03:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment strategies, feedback loops, and product development processes, with no specific focus on the Windows operating system or its functionalities.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-12T15:03:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery, with no clear focus on mentoring or coaching in Agile environments.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-12T15:03:53",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of feedback loops, continuous delivery, and the role of data in decision-making, which are central to empirical process control in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-12T15:03:57",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses practical problem-solving strategies related to deployment frequency, feedback loops, and continuous delivery within Agile and DevOps contexts. It emphasises real-world applications of these principles to enhance collaboration and efficiency, making it a clear fit for the category.",
+    "level": "Secondary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-12T15:03:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses deployment processes, feedback loops, and product delivery, with no focus on employee motivation, commitment, or engagement strategies.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-12T15:04:01",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of delivering features quickly and iteratively, which aligns with the concept of Increments in Agile. However, it primarily focuses on deployment frequency and feedback loops rather than the specific delivery of potentially shippable product increments.",
+    "level": "Secondary"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-12T15:04:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of feedback loops, deployment frequency, and the ability to iterate quickly in product development, which are all critical aspects of fostering innovation within an organisation. It emphasises the need for empirical data and continuous improvement, aligning well with the principles of Evidence-Based Management.",
+    "level": "Secondary"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-12T15:04:05",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the strategic importance of optimising delivery processes, reducing time to market, and enhancing feedback loops within Agile environments. It aligns well with the key topics of strategic alignment, value-driven approaches, and continuous improvement practices in strategy formulation and execution.",
+    "level": "Secondary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-12T15:04:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without a clear focus on Agile Planning Tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-12T15:04:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery rather than the management of a portfolio of projects or strategic alignment with business goals.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-12T15:04:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and delivery management without a clear focus on the Scrum Master role or responsibilities.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-12T15:04:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback loops, continuous delivery, and the role of engineering teams in responding to business needs, which are relevant to team performance. However, it primarily focuses on deployment metrics and business opportunities rather than specific strategies for enhancing team dynamics or collaboration.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-12T15:04:15",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of feedback loops, continuous delivery, and iterative cycles in product development, which are central to Agile Planning principles. It addresses how to optimise delivery and adapt to changing requirements, aligning well with Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-12T15:04:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, but does not focus on forecasting methodologies or practices within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-12T15:04:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the dynamics of product delivery rather than estimation techniques or practices within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-12T15:04:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of metrics, data collection, and feedback loops in improving organisational performance and decision-making, which aligns closely with the principles of Evidence-Based Management.",
+    "level": "Secondary"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-12T15:04:21",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous delivery in product development, which relates to organisational agility. However, it primarily focuses on technical aspects of deployment and delivery rather than broader organisational change strategies or frameworks.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-12T15:04:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery, without a clear focus on Azure Boards or its functionalities in Agile project management.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-12T15:04:27",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of rapid deployment and feedback loops in product development, which indirectly relates to maintaining and expanding market share by meeting customer expectations and responding to market opportunities. However, the primary focus is on operational efficiency rather than explicit strategies for increasing market share.",
     "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content discusses the importance of trust and accountability between engineering teams and the business, particularly in meeting customer expectations and delivering features promptly.",
-    "level": "Secondary"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of collaboration between engineering, sales, and the business to effectively deliver products and meet customer expectations.",
-    "level": "Secondary"
-  },
-  "Agile Product Discovery": {
-    "category": "Agile Product Discovery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of feedback loops, continuous delivery, and the integration of product development with business needs, which are central themes in Agile Product Discovery.",
-    "level": "Secondary"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
+    "calculated_at": "2025-02-12T15:04:29",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses aspects of product development and delivery that relate to managing a portfolio of products, but it primarily focuses on deployment frequency and feedback loops rather than portfolio management as a central theme.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of trust and responsibility in the context of delivering features and meeting customer expectations, which relates to accountability. However, it primarily focuses on deployment frequency and feedback loops rather than a clear, central theme of accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Agile AI": {
-    "category": "Agile AI",
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-12T15:04:31",
     "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of tight feedback loops and continuous delivery in product development, which aligns closely with Agile principles.",
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the principles and practices of Continuous Delivery, focusing on deployment frequency, feedback loops, and the importance of maintaining a production-ready state. It highlights the role of continuous shipping to production and the need for a tight iterative cycle, which aligns closely with the core themes of Continuous Delivery.",
     "level": "Secondary"
   },
-  "Complexity Science": {
-    "category": "Complexity Science",
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-12T15:04:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without focusing on working agreements or team collaboration norms.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-12T15:04:34",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback loops and delivery speed in relation to customer expectations and trust, indicating a focus on customer satisfaction as a secondary theme.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-12T15:04:37",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the complexities of product development and delivery, focusing on feedback loops and iterative processes, which are relevant to complexity science, but the primary focus is on deployment strategies and organisational dynamics.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous delivery in product development, which are relevant to Agile practices. However, it primarily focuses on technical aspects and deployment strategies rather than explicitly addressing leadership roles or practices within Agile contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-12T15:04:39",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of deployment frequency, feedback loops, and the ability to continuously ship to production, which are central themes of Continuous Integration. It explores how these practices enhance collaboration and responsiveness in software development, aligning well with CI principles.",
+    "level": "Secondary"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-12T15:04:41",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses concepts related to reducing time to market, continuous delivery, and iterative learning, which align with Lean principles. However, it primarily focuses on deployment strategies and feedback loops rather than explicitly addressing Lean principles or waste reduction.",
+    "level": "Secondary"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-12T15:04:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery, with no clear focus on the Daily Scrum or its related practices.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-12T15:04:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback loops, continuous delivery, and responsiveness to customer needs, which are aligned with Agile principles. However, it primarily focuses on deployment strategies and metrics rather than a deep exploration of Agile values and principles.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-12T15:04:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, but does not focus on automated testing principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
+    "calculated_at": "2025-02-12T15:04:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without a clear focus on the Definition of Ready.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without addressing the criteria or practices related to the Definition of Ready.",
     "level": "Ignored"
   },
-  "Leadership Training": {
-    "category": "Leadership Training",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on deployment frequency, feedback loops, and product delivery rather than leadership training. While it touches on aspects of team dynamics and trust, these are not the central themes.",
-    "level": "Ignored"
-  },
-  "Kanban Training": {
-    "category": "Kanban Training",
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-12T15:04:48",
     "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery rather than Kanban principles or training.",
-    "level": "Ignored"
-  },
-  "Agility": {
-    "category": "Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of tight feedback loops, continuous delivery, and the ability to iterate quickly in product development, which are central themes of agility.",
-    "level": "Secondary"
-  },
-  "Agile Leader": {
-    "category": "Agile Leader",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes, feedback loops, and the role of delivery managers in agile environments, highlighting the importance of trust and collaboration in product development.",
-    "level": "Secondary"
-  },
-  "Continuos Delivery": {
-    "category": "Continuos Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery in reducing time to market, improving deployment frequency, and enabling rapid iteration based on customer feedback.",
-    "level": "Secondary"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of feedback loops and delivery speed, which are relevant to managing a product backlog, but the primary focus is on deployment and continuous delivery rather than explicitly on the backlog itself.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the importance of a tight feedback loop and continuous delivery in product development, which are essential for innovation and responding to market opportunities.",
-    "level": "Secondary"
-  },
-  "Continuous Improvement": {
-    "category": "Continuous Improvement",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes, reducing time to market, and enhancing feedback loops, which are all key aspects of continuous improvement.",
-    "level": "Secondary"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses aspects of delivery management and feedback loops, which are relevant to Scrum practices, but it primarily focuses on deployment frequency and product delivery rather than Scrum roles or events.",
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of speed in product delivery, without addressing the specific criteria or principles of the Definition of Done.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the importance of collaboration between engineering, sales, and the business to enhance delivery speed and responsiveness to market opportunities, indicating a significant focus on cross-functional teamwork.",
-    "level": "Secondary"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
+    "calculated_at": "2025-02-12T15:04:50",
     "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on team motivation.",
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without a clear focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-12T15:04:51",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the role of software developers in optimising deployment frequency, feedback loops, and continuous delivery, which are central to Agile and DevOps methodologies.",
+    "level": "Secondary"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-12T15:04:53",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of trust between engineering teams and the business, as well as the need for a supportive environment to enable quick iterations and feedback loops, which are related to psychological safety.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts related to deployment frequency, feedback loops, and continuous delivery, which are relevant to Agile practices. However, it primarily focuses on individual practices and metrics rather than explicitly addressing the coordination and management of multiple teams or enterprise-level scaling of Agile methodologies.",
     "level": "Ignored"
   },
-  "CI/CD": {
-    "category": "CI/CD",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, continuous delivery, and feedback loops in the context of product development and market responsiveness, which are central themes in CI/CD practices.",
-    "level": "Secondary"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes, reducing time to market, and enhancing feedback loops, which are key principles of Lean Thinking.",
-    "level": "Secondary"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the interconnectedness of deployment processes, feedback loops, and the importance of understanding the entire pipeline from ideation to delivery, which aligns closely with systems thinking principles.",
-    "level": "Secondary"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-12T15:04:55",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
     "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of feedback loops in product development and delivery, emphasising the need for continuous iteration based on customer feedback and telemetry to improve performance and meet customer expectations.",
-    "level": "Secondary"
-  },
-  "Evidence Based Improvement": {
-    "category": "Evidence Based Improvement",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes and feedback loops to enhance product delivery, emphasising the importance of data and metrics in improving time to market.",
-    "level": "Secondary"
-  },
-  "Kanban": {
-    "category": "Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to feedback loops and continuous delivery, which are relevant to Kanban principles, but the primary focus is on deployment frequency and product development rather than Kanban itself.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on optimising deployment processes, feedback loops, and continuous delivery, which are key aspects of technical excellence in software development.",
-    "level": "Secondary"
-  },
-  "Scrum Product Management": {
-    "category": "Scrum Product Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops, deployment frequency, and the relationship between product development and delivery, which are central themes in Scrum Product Management.",
-    "level": "Secondary"
-  },
-  "Featured": {
-    "category": "Featured",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of deployment frequency and feedback loops in product development, which is a significant theme but not the primary focus.",
-    "level": "Ignored"
-  },
-  "Adaptive Strategy": {
-    "category": "Adaptive Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency and feedback loops to enhance time to market, which aligns closely with adaptive strategies in product development.",
-    "level": "Secondary"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on understanding and improving the feedback loop in product development, which is central to sensemaking in the context of decision-making and learning from data.",
-    "level": "Secondary"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses strategies to reduce time to market and improve deployment frequency, focusing on the importance of feedback loops and continuous delivery.",
-    "level": "Secondary"
-  },
-  "Agile Scaling": {
-    "category": "Agile Scaling",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency and feedback loops, which are central to Agile Scaling principles.",
-    "level": "Secondary"
-  },
-  "Agile Mentoring": {
-    "category": "Agile Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to agile practices, such as feedback loops and continuous delivery, but it primarily focuses on deployment strategies and metrics rather than mentoring in an agile context.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, but does not focus on Test First Development as a clear, primary topic.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of collaboration between engineering, sales, and customers to improve delivery speed and trust, making collaboration a significant theme.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses deployment frequency, feedback loops, continuous delivery, and the importance of engineering in product development, making engineering practices the primary focus.",
-    "level": "Secondary"
-  },
-  "Lean UX": {
-    "category": "Lean UX",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of tight feedback loops and continuous delivery in product development, which are central tenets of Lean UX.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, feedback loops, and the ability to continuously deliver features to production, which are central themes in continuous delivery.",
+    "reasoning": "Content primarily discusses continuous delivery, feedback loops, and the importance of deployment frequency in software development, aligning closely with CI/CD practices and Agile methodologies.",
     "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
+    "calculated_at": "2025-02-12T15:04:57",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes without a clear focus on Azure Repos or its functionalities.",
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery without any direct reference to Azure Repos or its functionalities.",
     "level": "Ignored"
   },
-  "Agile Problem Solving": {
-    "category": "Agile Problem Solving",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of tight feedback loops, continuous delivery, and iterative cycles in product development, which are central to Agile methodologies.",
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-12T15:04:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without a clear focus on Acceptance Test Driven Development or its principles.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-12T15:05:01",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the importance of tight feedback loops in product development, focusing on how to collect and act on customer feedback to improve delivery speed and product quality.",
     "level": "Secondary"
   },
-  "Agile Certifications": {
-    "category": "Agile Certifications",
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-12T15:05:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of tight feedback loops, continuous delivery, and the alignment of product development with business needs, which are central to Agile strategy. It emphasises adaptability, responsiveness to change, and the integration of Agile principles into the delivery process, making it a strong fit for the category.",
+    "level": "Secondary"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-12T15:05:04",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, without a clear focus on Agile certifications.",
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the dynamics of product development and delivery, without a clear focus on collaboration tools or their impact on Agile team communication.",
     "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-12T15:05:07",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of tight feedback loops, continuous delivery, and iterative cycles, which are central to Agile practices. It addresses how these concepts can enhance responsiveness and adaptability in product development, aligning well with Agile transformation principles.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-12T15:05:08",
+    "ai_confidence": 85,
     "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses deployment frequency, feedback loops, and continuous delivery, which are central to operational practices in product development.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses techniques for improving operational efficiency, particularly through the use of feedback loops, continuous delivery, and metrics for deployment. It focuses on practical strategies for enhancing delivery speed and quality, which aligns closely with the key topics of the Operational Practices category.",
     "level": "Secondary"
   },
-  "Windows": {
-    "category": "Windows",
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-12T15:05:10",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of structured decision-making in product development and delivery, emphasising the role of data, feedback loops, and collaboration in making informed choices. It aligns well with the principles of evidence-based management and the need for empirical support in decision-making processes.",
+    "level": "Secondary"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-12T15:05:11",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of continuous delivery, feedback loops, and the iterative process in software development, which are central to the concept of working software. It emphasises the need for functional software that meets customer expectations and the role of metrics in assessing software quality.",
+    "level": "Secondary"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-12T15:05:13",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product development processes, with no clear focus on Windows or related topics.",
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery rather than focusing on the Sprint Review process or its specific elements.",
     "level": "Ignored"
   },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the importance of data-driven decision-making in product development and delivery, emphasising the need for continuous feedback loops and metrics to improve performance and trust between engineering and business.",
-    "level": "Secondary"
-  },
-  "Test Strategy": {
-    "category": "Test Strategy",
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-12T15:05:15",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses deployment frequency, feedback loops, and the importance of telemetry in product delivery, which are relevant to testing strategies, but the primary focus is on overall product development and delivery processes.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of deployment frequency, stability of environments, and the importance of telemetry, which are relevant to Site Reliability Engineering. However, the primary focus is on accelerating time to market and product delivery rather than explicitly on SRE principles or practices.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-12T15:05:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of speed in product delivery, without a clear focus on psychological safety or its related themes.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "ai_confidence": 75,
+    "calculated_at": "2025-02-12T15:05:19",
+    "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the importance of delivering features quickly to meet customer expectations and build trust, which is a significant theme, though not the primary focus.",
-    "level": "Secondary"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency, stability of environments, and continuous delivery, which are central themes in Site Reliability Engineering.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the importance of feedback loops and learning from deployment metrics to improve product delivery and responsiveness to customer needs.",
-    "level": "Secondary"
-  },
-  "Business Agility": {
-    "category": "Business Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency, feedback loops, and the importance of agility in product delivery to meet business needs and customer expectations.",
-    "level": "Secondary"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses deployment frequency, feedback loops, and continuous delivery, which are relevant to Scrum practices, but it primarily focuses on broader concepts of product development and delivery rather than Scrum specifically.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the intricacies of deployment processes, feedback loops, and the complexities involved in product development and delivery, highlighting the need for adaptability and responsiveness in a dynamic environment.",
-    "level": "Secondary"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on mentoring.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
     "final_score": 64.0,
-    "reasoning": "Content heavily discusses the importance of rapid deployment, feedback loops, and continuous delivery, which are central to enterprise agility.",
+    "reasoning": "The content discusses the importance of maintaining customer trust and expectations through continuous delivery and feedback loops, which are relevant to customer retention strategies. However, the primary focus is on deployment processes and engineering practices rather than direct customer retention methodologies.",
     "level": "Secondary"
   },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the importance of deployment frequency in relation to time to market, continuous delivery, and the ability to respond to business opportunities quickly.",
-    "level": "Secondary"
-  },
-  "Agile Software Engineering": {
-    "category": "Agile Software Engineering",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of continuous delivery, feedback loops, and the relationship between product development and delivery, which are central themes in Agile Software Engineering.",
-    "level": "Secondary"
-  },
-  "Agile Product Validation": {
-    "category": "Agile Product Validation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the importance of feedback loops, continuous delivery, and the relationship between product development and market needs, which are central themes in Agile Product Validation.",
-    "level": "Secondary"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 85,
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-12T15:05:21",
+    "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on deployment strategies, feedback loops, and continuous delivery, showcasing a deep understanding of technical processes in product development.",
-    "level": "Secondary"
-  },
-  "Data Driven Decisions": {
-    "category": "Data Driven Decisions",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the importance of collecting data and telemetry to inform product development and delivery decisions, emphasising the role of data in optimising feedback loops and decision-making processes.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without a clear focus on the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Agile Portfolio Management": {
-    "category": "Agile Portfolio Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on optimising deployment frequency and feedback loops, which are central to Agile principles and portfolio management strategies.",
-    "level": "Secondary"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of feedback loops and iterative cycles in product development, which aligns with principles of Behaviour Driven Development, but it primarily focuses on deployment frequency and delivery processes.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the processes and strategies involved in product development and delivery, emphasising the importance of feedback loops and rapid iteration, which are central to effective product discovery.",
-    "level": "Secondary"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of feedback loops, rapid iteration, and data-driven decision-making in product development, which aligns closely with the principles of Hypothesis Driven Development.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of rapid feedback loops, continuous delivery, and iterative cycles in product development, which aligns closely with Lean Startup principles. It emphasises the need for a tight feedback loop to learn from customer interactions and adapt quickly, reflecting the core concepts of the Lean Startup methodology.",
     "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-12T15:05:23",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the importance of continuous delivery and feedback loops in product development, which are central to asynchronous development practices.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and continuous delivery, without a clear focus on asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-12T15:05:24",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of feedback loops, continuous delivery, and the iterative process of shipping features based on user feedback, which aligns closely with hypothesis-driven experimentation in Agile workflows.",
     "level": "Secondary"
+  },
+  "BetaCodex": {
+    "category": "BetaCodex",
+    "calculated_at": "2025-02-12T15:05:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery processes, without a clear focus on BetaCodex principles or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-12T15:05:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery processes, with no clear focus on revenue per employee metrics or related financial efficiency discussions.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-12T15:05:29",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts related to deployment frequency, continuous delivery, and feedback loops, which are relevant to Azure Pipelines. However, it lacks specific references to Azure Pipelines or its configuration, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-12T15:05:31",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses the importance of tight feedback loops, continuous delivery, and iterative cycles, which are central themes in Agile Project Management. It also touches on the need for collaboration between engineering and business, aligning with agile principles.",
+    "level": "Secondary"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-12T15:05:34",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts related to efficiency, feedback loops, and continuous delivery, which align with Lean principles. However, it primarily focuses on deployment and product development rather than explicitly addressing Lean Thinking principles or waste elimination.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-12T15:05:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of product development and delivery, touching on the importance of stakeholder expectations and the need for effective communication between engineering and the business. However, it primarily focuses on deployment metrics and feedback loops rather than the specific responsibilities and practices of a Product Owner.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-12T15:05:38",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of deployment frequency, feedback loops, and continuous delivery, which are relevant to Agile practices. However, it primarily focuses on operational aspects rather than explicitly addressing large-scale Agile frameworks or enterprise-level strategies.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-12T15:05:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the relationship between product development and delivery, without a clear focus on the Product Backlog or its management.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-12T15:05:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery processes without a clear focus on team dynamics or motivation strategies.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-12T15:05:42",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of feedback loops, data collection, and iterative development, which are key aspects of hypothesis-driven development. However, it primarily focuses on deployment frequency and operational efficiency rather than explicitly formulating and testing hypotheses.",
+    "level": "Secondary"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-12T15:05:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery rather than Value Stream Mapping or its principles.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-12T15:05:46",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous delivery in product development, which relates to understanding customer needs and iterating on product features. However, the primary focus is on deployment metrics and engineering processes rather than explicit methodologies for product discovery.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-12T15:05:49",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of deployment frequency, continuous delivery, and the feedback loop in accelerating time to market, which aligns closely with the principles of Frequent Releases.",
+    "level": "Secondary"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-12T15:05:51",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of feedback loops, continuous delivery, and adaptability in product development, which are central themes of Agile Philosophy. It emphasises collaboration between engineering and business, the need for trust, and the iterative nature of delivering value to customers, aligning well with Agile principles.",
+    "level": "Secondary"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-12T15:05:53",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of deployment frequency and feedback loops in relation to business agility and responsiveness to market opportunities, which aligns with strategic goals. However, it primarily focuses on operational tactics and delivery processes rather than explicitly defining long-term strategic objectives.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-12T15:05:54",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of reducing time to market and the processes involved in delivering features to customers quickly, which aligns closely with the concept of Lead Time.",
+    "level": "Secondary"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-12T15:05:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without a clear focus on Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-12T15:05:58",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of feedback loops, iterative development, and the need for continuous delivery, which are central to Scrum practices. However, it does not explicitly mention Scrum roles or events, making it a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-12T15:06:01",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of feedback loops, deployment frequency, and the relationship between product development and delivery, which are central to product strategy. It explores how these elements contribute to meeting customer expectations and aligning with business opportunities, making it a significant discussion on product strategy.",
+    "level": "Secondary"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-12T15:06:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of feedback loops and data collection in decision-making processes, which aligns with sensemaking principles. However, the primary focus is on deployment frequency and technical aspects of product delivery rather than a comprehensive exploration of sensemaking in complex environments.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-12T15:06:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of deployment frequency, feedback loops, and continuous delivery, which are relevant to technical practices. However, it primarily focuses on business needs and expectations rather than deep technical principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-12T15:06:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of trust and communication between engineering teams and the business, as well as the need for visibility in the deployment process. However, the primary focus is on deployment frequency and feedback loops rather than transparency as a central theme.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-12T15:06:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and the relationship between engineering and business, without a clear focus on Scrum roles, team dynamics, or collaboration practices specific to a Scrum Team.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-12T15:06:11",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of reducing time to market and improving feedback loops, which are related to Cycle Time. However, it primarily focuses on deployment frequency and the overall delivery process rather than Cycle Time as a central theme.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-12T15:06:12",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of feedback loops, continuous delivery, and the iterative process of learning from deployments, which aligns closely with the principles of Continuous Learning in Agile and DevOps environments.",
+    "level": "Secondary"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-12T15:06:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of deployment frequency and feedback loops in the context of Agile and DevOps practices, which are relevant to trend analysis. However, it primarily focuses on operational efficiency and delivery processes rather than explicitly analysing trends or shifts within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-12T15:06:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of continuous delivery and feedback loops, which are relevant to self-organisation principles. However, it primarily focuses on deployment metrics and the relationship between engineering and business rather than explicitly addressing self-organisation practices or team autonomy.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-12T15:06:18",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of deployment frequency, continuous delivery, and the feedback loop in software development, which aligns closely with the principles of engineering excellence and best practices in software craftsmanship.",
+    "level": "Secondary"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-12T15:06:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of deployment frequency, feedback loops, and continuous delivery in enhancing business agility and operational efficiency, which are key aspects of digital transformation. It focuses on how organisations can leverage these practices to respond to market demands and improve customer engagement.",
+    "level": "Secondary"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-12T15:06:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery rather than the technical aspects of system configuration.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-12T15:06:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of stable environments in product delivery, without a clear focus on technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-12T15:06:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and continuous delivery, without a clear focus on scaling Scrum principles or practices in large organisations.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-12T15:06:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery, without a focus on remote working practices or Agile methodologies in a distributed context.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-12T15:06:28",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of metrics, data collection, and feedback loops in improving leadership decisions and organisational performance, aligning well with the principles of Evidence-Based Leadership.",
+    "level": "Secondary"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-12T15:06:30",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of deployment frequency, continuous delivery, and the need for a stable environment to facilitate faster deployments. While it touches on broader themes of product development and feedback loops, the emphasis on deployment practices and strategies indicates that it is a significant theme within the content.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-12T15:06:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and the importance of continuous delivery, without a clear focus on backlog refinement or related Agile practices.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-12T15:06:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous delivery, which are relevant to scaling agility. However, it primarily focuses on deployment metrics and team-level practices rather than broader organisational strategies for scaling agility.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-12T15:06:38",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of feedback loops, deployment frequency, and the integration of product development with business needs, which are central themes in product management. It addresses how to align product delivery with customer expectations and business opportunities, making it a significant discussion on product management strategies.",
+    "level": "Secondary"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-12T15:06:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of trust between engineering teams and the business, as well as the need for a culture that supports continuous delivery and responsiveness to market demands. However, the primary focus is on deployment metrics and processes rather than a deep exploration of organisational culture itself.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-12T15:06:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses continuous delivery and the importance of deployment frequency, which are relevant to modern source control practices. However, it primarily focuses on broader concepts of product development and business responsiveness rather than specific version control methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-12T15:06:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and product delivery rather than coaching practices or team development.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-12T15:06:46",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the dynamics of organisational processes, particularly focusing on feedback loops, deployment frequency, and the interplay between product development and business needs. It emphasises systems thinking in the context of organisational performance and decision-making, aligning well with the principles of Organisational Physics.",
+    "level": "Secondary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-12T15:06:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of tight feedback loops, continuous delivery, and iterative cycles in product development, which are central to validating product ideas through user engagement and feedback. It emphasises the need for real user interaction and telemetry to inform product decisions, aligning well with the key topics of product validation.",
+    "level": "Secondary"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-12T15:06:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and continuous delivery without a clear focus on Kanban principles or scaling Kanban practices.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-12T15:06:50",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses strategies for improving deployment frequency, feedback loops, and the importance of continuous delivery, all of which are central to effective release management.",
+    "level": "Secondary"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-12T15:06:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of rapid deployment and feedback loops in product development, which relates to the entrepreneurial process of innovation and responding to market demands. However, the primary focus is on technical aspects of deployment rather than the broader principles of entrepreneurship.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-12T15:06:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous delivery in product development, which relates to technical leadership principles. However, it primarily focuses on deployment strategies and metrics rather than directly addressing the core aspects of guiding teams or fostering collaboration.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-12T15:06:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of feedback loops and deployment frequency in product development, rather than focusing on the identification and resolution of technical issues.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-12T15:06:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous delivery in product development, which relates to change management principles. However, it primarily focuses on deployment strategies and metrics rather than a comprehensive exploration of change management practices.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-12T15:07:00",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of continuous delivery, feedback loops, and the role of engineering in product development, which aligns closely with key topics in Engineering Practices such as CI/CD and automation.",
+    "level": "Secondary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-12T15:07:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts related to deployment frequency, feedback loops, and continuous delivery, which are relevant to Agile practices. However, it does not explicitly focus on specific Agile frameworks or provide a comparative analysis, making Agile a secondary theme rather than the primary focus.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-12T15:07:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses deployment frequency, feedback loops, and continuous delivery, without a clear focus on Test First Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-12T15:07:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and continuous delivery, which are not central to Scrum principles, roles, or practices.",
+    "level": "Ignored"
   }
 }

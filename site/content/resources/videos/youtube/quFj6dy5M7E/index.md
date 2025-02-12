@@ -23,13 +23,26 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
 duration: 266
 isShort: false
-tags: []
+tags:
+- Agile Strategy
+- Operational Practices
+- Organisational Physics
+- Pragmatic Thinking
+- Product Management
+- Software Developers
+- Software Development
+- Strategy
+- Team Performance
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Product Delivery
+- Value Delivery
 
 ---
  Building a High-Performance Delivery Engine for Your Organization | Martin Hinshelwood

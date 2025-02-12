@@ -23,13 +23,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
-tags: []
+tags:
+- Engineering Excellence
+- Organisational Culture
+- Pragmatic Thinking
+- Technical Leadership
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Sociotechnical Systems
 
 ---
  # Building a Culture of Quality and Engineering Excellence | Martin Hinshelwood  

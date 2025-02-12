@@ -23,13 +23,35 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAYflUb0emeyDkvO71n8DlDn3Kg5Q
 duration: 525
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Decision Making
+- Digital Transformation
+- Engineering Excellence
+- Evidence Based Leadership
+- Evidence Based Management
+- Lean Principles
+- Lean Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Software Developers
+- Software Development
+- Strategy
+- Trend Analysis
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Metrics and Learning
+- People and Process
 
 ---
  Engineering Excellence: Eliminating Waste and Maximizing ROI | Martin Hinshelwood

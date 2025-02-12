@@ -46,7 +46,7 @@ $Counter = 1
 $hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending 
 
 foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
-    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles : $($hugoMarkdown.FrontMatter.date) : $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
     $Counter++
     $PercentComplete = ($Counter / $TotalFiles) * 100
 
@@ -158,7 +158,7 @@ foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
     }
 
-    if ($hugoMarkdown.FrontMatter.draft -ne $true) {
+    if ($hugoMarkdown.FrontMatter.draft -ne $true -or (-not ($hugoMarkdown.FrontMatter.ResourceType -eq "videos" -and $hugoMarkdown.FrontMatter.isShort -eq $true))) {
         # Do for Non-Draft items only
        
 

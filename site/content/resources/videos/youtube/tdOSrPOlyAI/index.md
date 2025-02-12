@@ -23,13 +23,23 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
 duration: 127
 isShort: false
-tags: []
+tags:
+- Engineering Excellence
+- Engineering Practices
+- Pragmatic Thinking
+- Software Development
+- Technical Debt
+- Technical Leadership
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Technical Excellence
+- Value Delivery
 
 ---
  # Partnering for Engineering Excellence and Technical Leadership | Martin Hinshelwood  

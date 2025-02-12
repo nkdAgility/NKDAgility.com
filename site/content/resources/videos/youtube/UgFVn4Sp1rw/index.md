@@ -23,13 +23,32 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
 duration: 675
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Lean Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Scrum Product Development
+- Software Development
+- Strategy
+- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Metrics and Learning
+- People and Process
 
 ---
  Understanding Product Costs and Maximizing Value | Martin Hinshelwood
