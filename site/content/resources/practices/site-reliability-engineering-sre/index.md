@@ -2,7 +2,7 @@
 title: Site Reliability Engineering (SRE)
 description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
 ResourceId: K0i7PIZARDw
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 resourceTypes: practice
 layout: practice

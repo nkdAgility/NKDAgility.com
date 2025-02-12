@@ -2,7 +2,7 @@
 title: Common Goals
 description: All participants and stakeholders should understand the overall strategic goals and be able to see how the work contributes to it
 ResourceId: K-0Kt7CHeQw
-ResourceImport: true
+ResourceImport: false
 ResourceType: principles
 resourceTypes: principles
 layout: principles

@@ -2,7 +2,7 @@
 title: Product Scorecard
 description: It seems that the resource details are incomplete. Please provide more information about the resource so I can help you create an engaging description.
 ResourceId: g4aUBoHHLme
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 resourceTypes: practice
 layout: practice
