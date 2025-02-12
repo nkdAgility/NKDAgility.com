@@ -2,7 +2,7 @@
 title: Definition of Done (DoD)
 description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
 ResourceId: mAZrKmLwc3L
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 subtitle: Getting Started with the Definition of Done (DoD)
 creator: Martin Hinshelwood

@@ -2,7 +2,7 @@
 title: Customer Focus
 description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
 ResourceId: p1bdjnIJDmW
-ResourceImport: true
+ResourceImport: false
 ResourceType: principles
 date: 2024-09-17
 creator: Martin Hinshelwood
@@ -20,21 +20,8 @@ card:
     content: Start Optimizing Now
   title: Customer Focus
   content: Maintain a strong Customer Focus to ensure that the needs and feedback of the customer are at the heart of everything we do.
-categories:
-- Organisational Agility
-- Value Delivery
-- Customer Focus
-tags:
-- Customer Satisfaction
-- Agile Product Discovery
-- Customer Feedback Loops
-- Agile Product Management
-- Agile Values and Principles
-- Continuous Improvement
-- Employee Engagement
-- Team Collaboration
-- Business Agility
-- Agile Community
+categories: []
+tags: []
 
 ---
 Coming soon!

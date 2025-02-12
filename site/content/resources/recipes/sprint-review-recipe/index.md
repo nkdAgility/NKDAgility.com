@@ -2,7 +2,7 @@
 title: Sprint Review Recipe
 description: A starter recipe for a Sprint Planning event with suggested facilitation options.
 ResourceId: K4kkSAG3R7m
-ResourceImport: true
+ResourceImport: false
 ResourceType: recipes
 resourceTypes: recipe
 layout: recipe

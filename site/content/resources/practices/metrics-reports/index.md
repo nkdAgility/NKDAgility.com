@@ -2,7 +2,7 @@
 title: Metrics and Reports
 description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
 ResourceId: 26FWeqJuu0P
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 resourceTypes: practice
 layout: practice

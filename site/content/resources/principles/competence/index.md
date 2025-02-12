@@ -2,7 +2,7 @@
 title: Competence
 description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
 ResourceId: I3eGjbYOnzu
-ResourceImport: true
+ResourceImport: false
 ResourceType: principles
 date: 2024-09-17
 creator: Martin Hinshelwood
@@ -20,12 +20,8 @@ card:
     content: Start Optimizing Now
   title: Competence
   content: Foster a culture of competence where skills and expertise are continuously developed to drive excellence in every aspect of the organization.
-categories:
-- Value Delivery
-- Organisational Agility
-- Discovery and Learning
-tags:
-- Featured
+categories: []
+tags: []
 
 ---
 Coming soon!

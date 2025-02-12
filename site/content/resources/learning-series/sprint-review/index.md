@@ -2,7 +2,7 @@
 title: The Sprint Review
 description: The Sprint Review is not about the past, it's about the future. Its purpose to bring the right people (stakeholders) up to speed on the current state (increment), so that we can make decisions about the future desired state (Product Backlog).
 ResourceId: 9omxdDJCVDL
-ResourceImport: true
+ResourceImport: false
 ResourceType: learning-series
 resourceTypes: learning-series
 layout: resources/learning-series
@@ -34,21 +34,8 @@ card:
   title: The Sprint Review
 aliases:
 - /resources/9omxdDJCVDL
-categories:
-- Scrum
-- Events and Presentations
-- Value Delivery
-tags:
-- Sprint Review
-- Scrum Team
-- Definition of Done
-- Software Increment
-- Continuous Delivery
-- Customer Feedback Loops
-- Agile Product Management
-- Backlog Refinement
-- Sprint Review Workshops
-- Agile Methodology
+categories: []
+tags: []
 
 ---
 Comming soon

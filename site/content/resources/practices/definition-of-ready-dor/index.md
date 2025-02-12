@@ -2,7 +2,7 @@
 title: Definition of Ready (DoR)
 description: Definition of Ready can result in significant anti-patterns in teams.
 ResourceId: afLYe__TZKq
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 resourceTypes: practice
 layout: practice

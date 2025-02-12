@@ -2,7 +2,7 @@
 title: Sprint Planning Recipe
 description: Master Sprint Planning with this guide! Learn to craft effective goals, select backlog items, and create actionable plans for successful sprints.
 ResourceId: D1dSEM9ni3C
-ResourceImport: true
+ResourceImport: false
 ResourceType: recipes
 resourceTypes: recipe
 layout: recipe

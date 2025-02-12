@@ -2,7 +2,7 @@
 title: Product Increment
 description: A Product Increment is a tangible outcome of development, showcasing new features or improvements that enhance the product's value in each iteration.
 ResourceId: m1DWI59M-Tf
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 resourceTypes: practice
 layout: practice

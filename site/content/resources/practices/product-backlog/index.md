@@ -2,7 +2,7 @@
 title: Product Backlog
 description: Discover the essentials of a Product Backlog and its items, key components for effective project management and agile development.
 ResourceId: HbKuUsE28mC
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 resourceTypes: practice
 layout: practice

@@ -2,7 +2,7 @@
 title: Continuous Delivery
 description: Continuous delivery of valuable product to at least some subset of real users every iteration (including the first) and gathering feedback
 ResourceId: ThwZ-YCKBf-
-ResourceImport: true
+ResourceImport: false
 ResourceType: principles
 resourceTypes: principles
 layout: principles
