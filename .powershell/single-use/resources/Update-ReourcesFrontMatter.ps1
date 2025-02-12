@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Information'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\"
+$outputDir = ".\site\content\resources\Methods"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
@@ -38,7 +38,7 @@ $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 $resourceTypeCounts = @{}
 
 
-$Counter = 1
+$Counter = 0
 
 
 
@@ -46,9 +46,10 @@ $Counter = 1
 $hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending 
 
 foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
-    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
     $Counter++
     $PercentComplete = ($Counter / $TotalFiles) * 100
+    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+ 
 
     Write-DebugLog "--------------------------------------------------------"
     Write-InfoLog "Processing post: { ResolvePath }" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
@@ -158,9 +159,8 @@ foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
     }
 
-    if ($hugoMarkdown.FrontMatter.draft -ne $true -or (-not ($hugoMarkdown.FrontMatter.ResourceType -eq "videos" -and $hugoMarkdown.FrontMatter.isShort -eq $true))) {
-        # Do for Non-Draft items only
-       
+    if ($hugoMarkdown.FrontMatter.draft -eq $true -or ($hugoMarkdown.FrontMatter.ResourceType -eq "videos" -and $hugoMarkdown.FrontMatter.isShort -ne $true)) {
+        # Do for Non-Draft items only      
 
         #================Themes, Categories, & TAGS==========================
         $BodyContent = $hugoMarkdown.BodyContent

@@ -2,7 +2,7 @@
 title: Scrum Framework
 description: 'Explore the Scrum Framework: a powerful agile methodology that enhances team collaboration, boosts productivity, and delivers value through iterative progress.'
 ResourceId: peNS32Lw-sn
-ResourceImport: true
+ResourceImport: false
 ResourceType: methods
 weight: 1
 draft: true
@@ -20,25 +20,10 @@ card:
     content: More info
   title: Scrum Framework
   content: Scrum Framework
-categories:
-- Scrum
-- People and Process
-- Value Delivery
+categories: []
 tags:
-- Scrum
-- Scrum Team
-- Scrum Master
-- Scrum Values
-- Definition of Done
-- Software Increment
-- Continuous Delivery
-- Agile Methodology
-- Agile Product Management
-- Agile Planning
-- Agile Product Discovery
-- Team Collaboration
-- Team Motivation
-- Value Delivery
+- Agile Frameworks
+- Software Development
 
 ---
 Description of Scrum Framework.

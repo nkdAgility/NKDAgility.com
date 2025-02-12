@@ -23,13 +23,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true
-tags: []
+tags:
+- Engineering Excellence
+- Engineering Practices
+- Software Development
+- Technical Mastery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Technical Excellence
+- Value Delivery
 
 ---
  The superpower of quality visit https://www.nkdagility.com #agile #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #projectmanagement #productdevelopment #productmanagement #productowner #scrummaster #productmanager #scrum 

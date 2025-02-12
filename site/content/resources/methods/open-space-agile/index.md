@@ -2,7 +2,7 @@
 title: Open Space Agile
 description: Explore common failures in project management, including lack of commitment, absence of sprint goals, and challenges in non-complex environments.
 ResourceId: U-6FN9nj1fM
-ResourceImport: true
+ResourceImport: false
 ResourceType: methods
 date: 2024-09-17
 creator: Martin Hinshelwood
@@ -22,21 +22,8 @@ card:
     content: Start Optimizing Now
   title: Open Space Agile
   content: Harness the power of Open Space Agile to enable dynamic self-organization. Facilitate meaningful discussions and collaborative decision-making across your team.
-categories:
-- Organisational Agility
-- People and Process
-- Scrum
-tags:
-- Agile Planning
-- Team Collaboration
-- Team Motivation
-- Agile Transformation
-- Agile Values and Principles
-- Scrum Team
-- Definition of Done
-- Sprint Planning Workshop
-- Continuous Improvement
-- Working Agreements
+categories: []
+tags: []
 
 ---
 # Common failures

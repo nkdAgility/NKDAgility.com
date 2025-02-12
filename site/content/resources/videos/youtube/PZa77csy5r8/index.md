@@ -23,13 +23,26 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
 duration: 459
 isShort: false
-tags: []
+tags:
+- Continuous Delivery
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Technical Debt
+- Technical Leadership
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- Code and Complexity
+- DevOps
 
 ---
  # Understanding and Managing Technical Debt: Lessons from Azure DevOps | Martin Hinshelwood  
