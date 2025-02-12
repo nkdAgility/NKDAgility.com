@@ -25,6 +25,7 @@ tags:
 - Agile Frameworks
 - Agile Leadership
 - Agile Project Management
+- Agile Strategy
 - Agile Transformation
 - Organisational Culture
 - Pragmatic Thinking
@@ -32,7 +33,6 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
-- Self Organisation
 - Software Developers
 - Software Development
 - Strategy
@@ -43,7 +43,7 @@ tags:
 - Technical Mastery
 categories:
 - Agile Product Management
-- Business Agility
+- Organisational Agility
 - People and Process
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 

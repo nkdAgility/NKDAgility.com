@@ -26,6 +26,7 @@ aliasesFor404:
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
 - Agile Frameworks
+- Agile Planning
 - Agile Project Management
 - Agile Transformation
 - Continuous Delivery
@@ -42,7 +43,6 @@ tags:
 - Scrum Team
 - Software Developers
 - Software Development
-- Strategy
 - Team Performance
 - Working Software
 categories:
