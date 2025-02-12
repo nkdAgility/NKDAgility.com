@@ -25,19 +25,24 @@ aliasesFor404:
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
+- Agile Frameworks
 - Agile Project Management
+- Agile Transformation
 - Continuous Delivery
 - Deployment Frequency
 - Empirical Process Control
 - Engineering Practices
+- Frequent Releases
 - Increment
 - Operational Practices
+- Pragmatic Thinking
 - Professional Scrum
 - Release Management
 - Scrum Product Development
 - Scrum Team
 - Software Developers
 - Software Development
+- Strategy
 - Team Performance
 - Working Software
 categories:

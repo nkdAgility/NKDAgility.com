@@ -22,14 +22,37 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Hypothesis Driven Development
+- Organisational Physics
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Owner
+- Product Strategy
+- Sensemaking
+- Software Development
+- Strategic Goals
+- Strategy
+- Team Collaboration
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Metrics and Learning
+- People and Process
 
 ---
  #agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.

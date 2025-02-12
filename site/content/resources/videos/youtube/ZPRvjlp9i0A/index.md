@@ -29,7 +29,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
 
 ---
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

@@ -30,16 +30,21 @@ tags:
 - Accountability
 - Agile Frameworks
 - Agile Leadership
+- Agile Planning
 - Agile Project Management
+- Agile Transformation
 - Empirical Process Control
 - Increment
 - Operational Practices
+- Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Software Developers
 - Software Development
 - Team Collaboration
+- Team Performance
 - Technical Leadership
 - Working Software
 categories:

@@ -28,16 +28,21 @@ tags:
 - Customer Feedback Loops
 - Deployment Frequency
 - Deployment Strategies
+- Empirical Process Control
 - Engineering Excellence
+- Engineering Practices
 - Experimentation
 - Frequent Releases
 - Increment
 - Operational Practices
 - Pragmatic Thinking
+- Product Validation
+- Release Management
 - Software Developers
 - Software Development
 - Strategy
 - Technical Mastery
+- Working Software
 categories:
 - Azure DevOps
 - DevOps

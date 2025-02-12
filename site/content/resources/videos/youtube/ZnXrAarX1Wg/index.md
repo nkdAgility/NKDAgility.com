@@ -27,10 +27,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Project Management
+- Agile Transformation
+- Coaching
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
 
 ---
 **No go zone for Agile consultants**

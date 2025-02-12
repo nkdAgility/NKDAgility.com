@@ -22,14 +22,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
-tags: []
+tags:
+- Agile Leadership
+- Agile Project Management
+- Scrum Master
+- Scrum Team
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
 
 ---
  #shorts #shortsvideo #shortvideo Martin Hinshelwood explores one of the biggest misconceptions about a #scrummaster 

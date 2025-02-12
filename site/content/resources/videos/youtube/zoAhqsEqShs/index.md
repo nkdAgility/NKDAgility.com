@@ -49,7 +49,7 @@ resourceTypes:
 - video
 categories:
 - Agile Product Management
-- Enterprise Agility
+- Organisational Agility
 - People and Process
 
 ---

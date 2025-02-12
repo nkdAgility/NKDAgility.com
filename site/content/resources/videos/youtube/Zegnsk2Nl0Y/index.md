@@ -22,14 +22,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
-tags: []
+tags:
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Practical Techniques and Tooling
 
 ---
  #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 5

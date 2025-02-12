@@ -23,13 +23,24 @@ aliasesFor404:
 preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCCJvxRnT7rlMn8MlnyQgBfNMJTrg
 duration: 413
 isShort: false
-tags: []
+tags:
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Technical Debt
+- Technical Leadership
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- People and Process
+- Technical Excellence
 
 ---
  Chaos Costs Money: How Engineering Excellence Controls Chaos and Boosts Productivity | Martin Hinshelwood

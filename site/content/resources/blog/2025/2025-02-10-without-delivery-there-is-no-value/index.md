@@ -25,6 +25,7 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
+- Agile Strategy
 - Agile Transformation
 - Continuous Delivery
 - Customer Feedback Loops
@@ -32,8 +33,12 @@ tags:
 - Evidence Based Management
 - Frequent Releases
 - Increment
+- Lead Time
+- Product Management
 - Product Validation
+- Release Management
 - Scrum Product Development
+- Software Developers
 - Software Development
 - Transparency
 - Working Software

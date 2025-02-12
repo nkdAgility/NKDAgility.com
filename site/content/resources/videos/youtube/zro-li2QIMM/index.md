@@ -22,14 +22,16 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
-tags: []
+tags:
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Personal
 
 ---
  #shorts #shortsvideo #shortvideo 7 virtues of #agile. Charity. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #productmanagement #scrummaster #agilecoach #productowner #agileleadership 

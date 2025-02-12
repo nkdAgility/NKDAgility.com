@@ -25,17 +25,22 @@ tags:
 - Agile Frameworks
 - Agile Leadership
 - Agile Project Management
+- Agile Transformation
 - Organisational Culture
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Self Organisation
+- Software Developers
 - Software Development
 - Strategy
 - Team Collaboration
+- Team Motivation
 - Team Performance
 - Technical Leadership
+- Technical Mastery
 categories:
 - Agile Product Management
 - Business Agility
