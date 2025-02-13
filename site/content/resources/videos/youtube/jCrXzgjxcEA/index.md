@@ -22,14 +22,29 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning Tools
+- Agile Project Management
+- Azure Boards
+- Collaboration Tools
+- Cycle Time
+- Lead Time
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- Kanban
+- Practical Techniques and Tooling
 
 ---
  Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency.

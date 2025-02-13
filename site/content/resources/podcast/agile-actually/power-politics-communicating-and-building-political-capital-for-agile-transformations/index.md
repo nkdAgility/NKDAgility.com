@@ -6,11 +6,7 @@ ResourceImport: false
 ResourceType: podcast
 date: 2024-06-04
 categories:
-- Transparency and Accountability
-- Organisational Agility
 - People and Process
-- Discovery and Learning
-- Resilience and Change
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -18,8 +14,7 @@ slug: power-politics-communicating-and-building-political-capital-for-agile-tran
 aliases:
 - /resources/2RYiDJ9l8wh
 tags:
-- Agile Product Management
-- Systems Thinking
+- Transparency
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/06/37154808-1717508586054-52b451df81ef9.jpg)

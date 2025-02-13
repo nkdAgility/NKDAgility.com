@@ -50,9 +50,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - Decision Theory
 - People and Process
+- Product Delivery
 
 ---
  How do you create a great product if you don't know what you can't possibly know? How do you navigate uncertainty and complexity when there is so much at stake? How do you move confidently ahead when there is a great deal of volatility and ambiguity in the markets you serve?

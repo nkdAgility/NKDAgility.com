@@ -44,7 +44,7 @@ resourceTypes:
 categories:
 - Organisational Agility
 - People and Process
-- Personal
+- Sociotechnical Systems
 
 ---
  What makes us tick? Why do we exist?

@@ -2,14 +2,11 @@
 title: Mindset Versus Philosophy
 description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
 ResourceId: G2XUaCtiq8w
-ResourceImport: true
+ResourceImport: false
 ResourceType: podcast
 date: 2024-02-22
 categories:
 - Transparency and Accountability
-- People and Process
-- Discovery and Learning
-- Organisational Agility
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -18,19 +15,6 @@ aliases:
 - /resources/G2XUaCtiq8w
 tags:
 - Transparency
-- Agile Coaching
-- Agile Values and Principles
-- Team Collaboration
-- Continuous Improvement
-- Agile Software Development
-- Agile Methodology
-- Organisational Culture
-- Agile Community
-- Change Management
-- Evidence Based Management
-- Psychological Safety
-- Team Motivation
-- Agile Leadership
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

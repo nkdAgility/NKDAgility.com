@@ -22,14 +22,22 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 isShort: false
-tags: []
+tags:
+- Azure Boards
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Azure DevOps
+- DevOps
+- Product Delivery
 
 ---
  Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! 🛠️✨

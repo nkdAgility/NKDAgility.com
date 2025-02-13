@@ -21,7 +21,27 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Planning Tools
+- Agile Project Management
+- Azure Boards
+- Backlog Refinement
+- Cycle Time
+- Increment
+- Pragmatic Thinking
+- Product Backlog
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Team Performance
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -29,7 +49,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
 
 ---
  Uncover the secrets to transforming your Scrum and Agile practices with Azure DevOps. From myth-busting to practical setup, embark on a journey to enhance your project's efficiency.

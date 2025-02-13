@@ -39,9 +39,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- Flow Efficiency
 - Kanban
 - Metrics and Learning
+- Practical Techniques and Tooling
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

@@ -40,9 +40,9 @@ tags:
 - Pragmatic Thinking
 - Product Management
 - Product Owner
-- Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Software Developers
 - Software Development
 - Strategy
 - Team Collaboration

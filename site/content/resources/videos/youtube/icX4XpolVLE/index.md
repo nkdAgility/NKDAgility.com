@@ -22,14 +22,33 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Philosophy
+- Continuous Delivery
+- Continuous Learning
+- Digital Transformation
+- Engineering Excellence
+- Engineering Practices
+- Experimentation
+- Operational Practices
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Team Collaboration
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Metrics and Learning
+- People and Process
 
 ---
  🚀 Transform Your Workflow with DevOps: A Comprehensive Guide 🚀

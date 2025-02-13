@@ -22,14 +22,27 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Planning Tools
+- Agile Project Management
+- Azure Boards
+- Pragmatic Thinking
+- Product Backlog
+- Scrum Product Development
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Practical Techniques and Tooling
 
 ---
  Discover how to revolutionize your project management approach by ditching traditional backlog hierarchies for a more flexible, value-focused system.

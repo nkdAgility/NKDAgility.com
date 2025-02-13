@@ -22,14 +22,24 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Team Collaboration
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Kanban
+- People and Process
+- Practical Techniques and Tooling
 
 ---
  Unlock the Power of Kanban: Streamline Your Workflow for Maximum Efficiency 🚀

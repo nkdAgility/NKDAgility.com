@@ -40,8 +40,8 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Metrics and Learning
 - Practical Techniques and Tooling
+- Value Delivery
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

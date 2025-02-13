@@ -22,14 +22,27 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Coaching
+- Decision Making
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Strategy
+- Throughput
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Flow Efficiency
+- Metrics and Learning
+- Practical Techniques and Tooling
 
 ---
  Discover the transformative power of Kanban in optimizing pull systems for continuous improvement. This video unveils practical strategies and insights for enhancing workflow efficiency, identifying bottlenecks, and making data-driven decisions that propel productivity. Perfect for teams looking to leverage flow metrics and refine their processes. Dive in to see how Kanban can illuminate the path to operational excellence in your organization!

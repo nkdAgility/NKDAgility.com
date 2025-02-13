@@ -43,8 +43,8 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Metrics and Learning
 - People and Process
+- Practical Techniques and Tooling
 
 ---
 ### Transitioning from Traditional Project Management to Kanban
