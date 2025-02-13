@@ -1,6 +1,6 @@
 ---
-title: Your Partner in On Time, On Budget Delivery
-description: Unlock your team's potential! Join Martin Hinshelwood as he reveals how to maximise ROI through high-quality work and agile practices.
+title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
+description: Maximise your software investment with Naked Agility! Discover how to ensure quality, foster expertise, and boost ROI in your development process.
 date: 2024-12-13T06:30:00Z
 ResourceId: jKXc6hByR_k
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: your-partner-in-on-time,-on-budget-delivery
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=jKXc6hByR_k
 aliases:
 - /resources/videos/jKXc6hByR_k
 - /resources/videos/your-partner-in-on-time,-on-budget-delivery
@@ -28,7 +27,7 @@ tags:
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -37,43 +36,34 @@ categories:
 - Value Delivery
 
 ---
- Building High-Value Teams and Maximizing ROI with Naked Agility | Martin Hinshelwood
+If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in engineering practices or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the coaching and advice you need to maximise your return on investment.
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore how organizations can maximize their return on investment (ROI) by fostering high-quality work and hypothesis-driven practices across all levels—from engineering teams to executive leadership. If you’re looking to turn your software products into organizational assets that continuously deliver value, this video is for you.
+### Understanding the Context
 
-📌 Chapters:
+To truly excel in delivering value, it’s essential to understand the context in which your teams operate. This understanding enables the highest quality of work. When we’re building software products—whether they’re the core of our business or a side project—we want to ensure that we’re creating products of the highest possible quality. 
 
-1. 00:00 – Introduction: Maximizing ROI Through Quality and Hypothesis-Driven Practices
-2. 02:30 – The Role of Teams in Delivering High-Quality Products
-3. 05:00 – How Every Line of Code Becomes an Organizational Asset
-4. 07:45 – Why Technical Expertise is Essential for Business Success
-5. 10:30 – Enabling Leadership: Supporting CTOs and CEOs in Decision-Making
-6. 13:15 – Aligning Engineering Practices with Business Goals
-7. 16:00 – The Naked Agility Approach to Coaching and Advising
+Every product we build and every line of code written by our teams is an organisational asset. Think of it like investing in a building; it’s infrastructure that you’ve developed and invested in, and it should yield a continuous return on investment. But are we ensuring that these assets are of the highest quality?
 
-🎯 Who This Video is For:
+### The Importance of Due Diligence
 
-• CTOs, CEOs, and business leaders seeking to align software development with business objectives
-• Engineering teams focused on delivering high-quality, high-value work
-• Organizations aiming to maximize ROI through better technical and strategic decisions
-• Teams looking to treat software products as strategic organizational assets
+When you purchase a building, you conduct extensive due diligence. You assess its condition, its potential for appreciation, and its overall value. However, when it comes to software, the process is often shrouded in opacity. We rely on the “magic wizards” who craft our software, but we may not fully grasp the implications of their work. 
 
-📖 What You’ll Learn:
+This is where having technical expertise becomes crucial. Whether you have in-house talent or need to bring in external experts, understanding the intricate relationships within your software development process is vital. This knowledge allows you to maximise the value your business can deliver to the market.
 
-• Why every product and line of code is a long-term investment in your organization
-• The importance of hypothesis-driven practices in maximizing ROI
-• How to align technical expertise with leadership decision-making for greater impact
-• Why high-quality software products are like infrastructure for your business
-• How Naked Agility can help you build high-performing teams and maximize your investment
+### Key Takeaways for Maximising ROI
 
-💡 Key Takeaways:
+Here are some actionable insights to help you maximise your return on investment in software development:
 
-• Treat software development as an investment in your organization’s future.
-• High-quality products require alignment between engineering practices and business goals.
-• Hypothesis-driven practices enable better decisions at all levels of the organization.
-• Naked Agility provides coaching and advising to help you maximize ROI at every level.
+- **Invest in Quality**: Treat every line of code as an asset. Ensure that your teams are equipped to produce high-quality work consistently.
+  
+- **Conduct Regular Reviews**: Just as you would inspect a building, regularly review your software products to ensure they meet quality standards and align with business goals.
 
-At NKD Agility, we help organizations maximize their return on investment by fostering high-quality work, aligning engineering practices with business goals, and building hypothesis-driven decision-making. Ready to transform your teams and deliver more value? Visit us today on https://www.nkdagility.com and let’s get started.
+- **Foster Technical Expertise**: Ensure that your leadership team has access to technical knowledge, whether through training or hiring experts. This will help bridge the gap between business objectives and technical execution.
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=jKXc6hByR_k)
+- **Embrace Hypothesis-Driven Practices**: Encourage your teams to adopt a hypothesis-driven approach to feature development. This will help you prioritise features that deliver the most value.
+
+- **Budget Wisely**: Allocate resources effectively across your engineering practices to ensure that you’re maximising your investment.
+
+### Conclusion
+
+In conclusion, building a successful organisation that delivers high value requires a deep understanding of both the technical and business aspects of software development. By investing in quality, conducting due diligence, and fostering technical expertise, you can ensure that your organisation not only meets but exceeds its goals. At Naked Agility, we’re committed to helping you navigate this journey, ensuring that every investment you make yields the highest possible return. Let’s work together to unlock the full potential of your teams and your organisation.

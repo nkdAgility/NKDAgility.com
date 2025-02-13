@@ -1,6 +1,6 @@
 ---
-title: Building a Culture of Continuous Improvement
-description: Empower your teams with financial transparency! Discover how to enhance decision-making and ROI in product development for continuous improvement.
+title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
+description: Empower your team to thrive by fostering a culture of ownership and financial insight. Discover how team-level P&L can boost ROI and drive success!
 date: 2024-12-12T06:30:00Z
 ResourceId: uetzybp7bf4
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: building-a-culture-of-continuous-improvement
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=uetzybp7bf4
 aliases:
 - /resources/videos/uetzybp7bf4
 - /resources/videos/building-a-culture-of-continuous-improvement
@@ -24,13 +23,13 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
-- Ability to Innovate
 - Agile Leadership
 - Agile Philosophy
 - Agile Strategy
 - Change Management
 - Continuous Learning
 - Decision Making
+- Evidence Based Management
 - Lean Product Development
 - Operational Practices
 - Organisational Culture
@@ -46,52 +45,53 @@ tags:
 - Transparency
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
+- Decision Theory
 - People and Process
-- Transparency and Accountability
+- Value Delivery
 
 ---
- Empowering Teams with Financial Transparency: Maximizing ROI in Product Development | Martin Hinshelwood
+If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I discuss how empowering teams with financial context and transparency can significantly improve decision-making and ROI in product development. By fostering a culture of ownership and enabling teams to understand the value and cost of their work, organizations can create a powerful foundation for continuous improvement and smarter investments.
+### Cultivating a Culture of Continuous Improvement
 
-📌 Chapters:
+To achieve this, we need to cultivate a culture of continuous improvement. Yes, I know it sounds like buzzword bingo, but hear me out. The essence of this approach lies in hypothesis-driven practices. Here’s how it works:
 
-1. 00:00 – Introduction: The Importance of Ownership and Financial Transparency
-2. 03:00 – Building a Culture of Continuous Improvement
-3. 06:15 – Hypothesis-Driven Practices for Better Decision-Making
-4. 09:30 – Real-World Lessons from Google and Microsoft
-5. 12:45 – Why Teams Need Access to Financial Data
-6. 16:00 – Advocating for Team-Level P&L Accountability
-7. 18:30 – Transforming Teams into Entrepreneurs
+- **Generate Ideas**: Start with a hypothesis or an idea.
+- **Test and Gather Feedback**: Implement a small-scale version of that idea and gather feedback from customers.
+- **Adapt and Improve**: Use the feedback to refine the idea, doubling down on what works.
 
-🎯 Who This Video is For:
+This iterative process allows us to pivot—changing our direction based on what we learn—or, in some cases, to kill an idea that isn’t gaining traction. Take a look at the infamous Google Graveyard; it’s a testament to how even the giants can make tough decisions about what to invest in.
 
-• Leaders looking to foster a culture of ownership and responsibility within teams
-• Product and project managers aiming to maximize ROI from team efforts
-• Organizations struggling with ineffective decision-making due to lack of context
-• Agile teams seeking to align their work with business goals
+### Understanding the Financial Context
 
-📖 What You’ll Learn:
+For your team to truly care about the product and the customers, they need to understand the financial context of their decisions. Unfortunately, I often see organisations, particularly in professional services, shielding their teams from financial realities. This is a dysfunctional behaviour that can lead to poor decision-making.
 
-• Why financial transparency leads to better decision-making and higher ROI
-• How to empower teams by providing context around value and cost
-• The benefits of hypothesis-driven practices and iterative feedback loops
-• How team-level P&L accountability drives smarter investments
-• Real-world examples of how Google and Microsoft adapt based on ROI
+Imagine trying to run a business without any knowledge of your budget, spending, or revenue. How effective would you be at making decisions? The same applies to every member of your team. If they lack insight into the financial implications of their work, they may make misguided choices about which features to build or how to build them.
 
-💡 Key Takeaways:
+### Advocating for Team-Level P&L
 
-• Teams make better decisions when they understand the financial impact of their work.
-• Shielding teams from financial data leads to inefficiencies and missed opportunities.
-• Treating teams like entrepreneurs fosters ownership and accountability.
-• A culture of continuous improvement requires transparency and context.
+I advocate for every team to conduct their own Profit and Loss (P&L) analysis. This means understanding:
 
-At NKD Agility, we help organizations empower their teams with the tools, practices, and financial transparency needed to maximize value and ROI. Ready to unlock the full potential of your teams? Visit us today on https://www.nkdagility.com and let’s build smarter, more effective teams together.
+- **Value Contribution**: What value is your team bringing to the business?
+- **Cost of Operations**: What does it cost to operate as a team?
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=uetzybp7bf4)
+The goal is to ensure that the value generated exceeds the cost. When teams are aware of these metrics, they can make informed decisions that align with the broader business objectives. This entrepreneurial mindset empowers team members to consider how to maximise their contributions within the context of the product.
+
+### Aligning Short-Term and Long-Term Goals
+
+As a business owner, CTO, or CEO, you’re likely focused on both short-term wins and long-term sustainability. This dual focus should extend to every team member. If you hide financial information from them, you risk them making decisions that don’t align with the company’s goals.
+
+- **Short-Term Wins**: Identify quick revenue-generating opportunities.
+- **Long-Term Objectives**: Consider how to build sustainable income over time.
+
+By integrating financial insights into the daily operations of your teams, you’ll foster a culture of accountability and informed decision-making. 
+
+### Conclusion
+
+In summary, don’t shield your teams from financial realities. Instead, empower them with the information they need to make sound decisions. Implementing team-level P&L analyses can lead to higher returns on investment and greater value delivery. When every member of your organisation understands the financial context of their work, they’ll be better equipped to contribute meaningfully to your business’s success. 
+
+Let’s embrace this shift together and watch as our teams thrive in an environment where they feel ownership and responsibility for their contributions.
