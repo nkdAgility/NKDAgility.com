@@ -17,6 +17,15 @@ Instructions: |-
   - The relationship between forecasting and continuous improvement in Agile practices.
 
   **Strictly exclude** discussions that do not directly relate to the methodologies and practices of forecasting within Agile and Scrum, such as unrelated project management techniques, non-empirical approaches, or general business strategies that do not focus on Agile principles.
+headline:
+  cards: []
+  title: Forecasting
+  subtitle: 'Forecasting in Agile and Scrum: Leverage empirical data to predict timelines, manage risks, and enhance value delivery across methodologies.'
+  content: |-
+    This classification focuses on enhancing forecasting within Agile and Scrum frameworks by leveraging empirical data to make informed predictions about delivery timelines. It’s all about using real-world insights to manage risks effectively and optimise the value delivered to stakeholders. By understanding the dynamics of your team's performance and the complexities of the work at hand, you can make better decisions that align with your project goals.
+
+    Key topics in this classification should include techniques for measuring and analysing team velocity, understanding flow in Kanban, and applying principles from Lean and DevOps to improve forecasting accuracy. Posts may also explore the role of Evidence-Based Management in refining these practices, as well as insights from complexity theory to navigate unpredictable environments. Whether you're looking to enhance your Scrum ceremonies or integrate forecasting into your DevOps pipeline, this classification has you covered.
+  updated: 2025-02-13T10:59:03Z
 
 ---
 

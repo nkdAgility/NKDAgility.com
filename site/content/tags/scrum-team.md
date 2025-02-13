@@ -18,6 +18,15 @@ Instructions: |-
   - Metrics and indicators of team performance and health
 
   **Strictly exclude** unrelated content such as general Agile principles not specific to Scrum, discussions on non-Scrum methodologies, or any misinterpretations of team dynamics that do not align with the Scrum framework as outlined in the Scrum Guide and by key figures like Ken Schwaber and Mike Beedle.
+headline:
+  cards: []
+  title: Scrum Team
+  subtitle: Exploring collaboration, roles, and dynamics for high-performing Scrum Teams in Agile, Lean, and DevOps environments.
+  content: |-
+    This classification dives into the collaboration and dynamics that make up a high-performing Scrum Team. It’s all about understanding how team members interact, communicate, and work together to deliver value in an Agile environment. Posts here should explore the roles within the team, the importance of effective communication, and how to foster a culture of trust and accountability.
+
+    Key topics include the principles outlined in the Scrum Guide, insights from Agile thought leaders, and connections to Lean and DevOps practices. Additionally, discussions on how to apply Evidence-Based Management to enhance team performance and adapt to complexity will be valuable. Whether you're looking to improve team dynamics or implement new practices, this classification is your go-to for all things Scrum Team-related.
+  updated: 2025-02-13T10:56:06Z
 
 ---
 

@@ -17,6 +17,15 @@ Instructions: |-
   - Leadership and cultural considerations in scaling Scrum
 
   **Strictly exclude** discussions on unrelated Agile methodologies, non-Scrum frameworks, or misinterpretations of Scrum principles that do not pertain to scaling practices.
+headline:
+  cards: []
+  title: Scaling Scrum
+  subtitle: 'Scaling Scrum: Integrating Agile principles across large organisations while embracing Lean, DevOps, and Evidence-Based Management for optimal delivery.'
+  content: |-
+    This classification focuses on the application of Scrum principles in larger organisations, ensuring that agility is preserved even as teams and projects scale. It’s all about adapting the core tenets of Scrum to fit the complexities of a bigger environment, while still fostering collaboration, transparency, and continuous improvement. 
+
+    Posts in this category should explore key topics such as integrating Kanban practices, leveraging Lean methodologies, and embracing DevOps principles to enhance delivery. Additionally, discussions around Evidence-Based Management and Complexity Theory can provide valuable insights into navigating the challenges of scaling Scrum effectively.
+  updated: 2025-02-13T10:56:16Z
 
 ---
 

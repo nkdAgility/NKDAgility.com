@@ -18,6 +18,15 @@ Instructions: |-
   - Leveraging metrics and feedback loops to enhance team performance.
 
   **Strictly exclude** any discussions that deviate from the core principles of technical leadership, such as unrelated management theories, non-agile methodologies, or personal anecdotes that do not contribute to the understanding of technical leadership in an agile context.
+headline:
+  cards: []
+  title: Technical Leadership
+  subtitle: Empowering teams through technical expertise and agile methodologies, fostering innovation and efficiency in software development.
+  content: |-
+    This classification focuses on the role of technical leadership in guiding development teams through the complexities of software delivery. It emphasises the importance of combining technical expertise with agile methodologies to foster a culture of collaboration, innovation, and continuous improvement. Posts in this category should explore how leaders can effectively support their teams in navigating challenges, implementing practices from frameworks like Scrum and Kanban, and embracing the principles of DevOps and Lean.
+
+    Key topics include strategies for mentoring and coaching team members, the integration of evidence-based management to inform decision-making, and the application of complexity theory to enhance adaptability in dynamic environments. Additionally, discussions may cover the influence of notable figures in the field, such as Gene Kim and Ken Schwaber, and how their insights can shape effective technical leadership in modern software development.
+  updated: 2025-02-13T10:54:28Z
 
 ---
 

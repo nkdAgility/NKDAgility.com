@@ -19,6 +19,15 @@ Instructions: |-
   - Discussions that focus solely on personal leadership styles without reference to empirical evidence.
   - Content that misinterprets evidence-based practices as merely relying on subjective opinions or experiences.
   - Topics unrelated to leadership, such as technical implementations or specific Agile practices that do not connect to leadership decision-making.
+headline:
+  cards: []
+  title: Evidence Based Leadership
+  subtitle: Harness empirical insights to enhance leadership effectiveness across Agile, DevOps, Lean, and Evidence-Based Management frameworks.
+  content: |-
+    This classification focuses on the integration of empirical evidence into leadership practices, emphasising how data-driven insights can enhance decision-making and foster continuous improvement. By leveraging findings from Agile, Scrum, DevOps, Lean, and Evidence-Based Management, leaders can navigate complex environments more effectively and adapt their strategies based on real-world outcomes.
+
+    Posts in this category should explore key topics such as the application of evidence in leadership roles, the impact of data on team dynamics, and the role of metrics in guiding organisational change. Additionally, discussions may include insights from influential figures like Ken Schwaber and Gene Kim, as well as frameworks like the Cynefin Framework, to illustrate how evidence-based approaches can lead to more resilient and responsive leadership in various contexts.
+  updated: 2025-02-13T10:59:18Z
 
 ---
 

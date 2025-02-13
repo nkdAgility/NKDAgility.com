@@ -17,6 +17,15 @@ Instructions: |-
   - The importance of building a customer-centric culture within organisations.
 
   **Strictly exclude** any discussions that do not directly relate to the strategies for retaining customers, such as unrelated marketing tactics, general business strategies not focused on customer engagement, or misinterpretations of Agile and DevOps principles that do not pertain to customer retention.
+headline:
+  cards: []
+  title: Customer Retention
+  subtitle: Strategies for enhancing user loyalty and minimising churn through value-driven practices in Agile, Lean, and DevOps frameworks.
+  content: |-
+    This classification focuses on the various strategies and practices aimed at keeping customers engaged and reducing churn. It highlights the importance of delivering continuous value to users, drawing insights from Agile, Lean, and DevOps methodologies. By understanding customer needs and leveraging frameworks like Kanban and Scrum, organisations can create a more responsive and adaptive approach to retention.
+
+    Posts in this category should explore key topics such as user feedback loops, value stream mapping, and the role of metrics in understanding customer behaviour. Additionally, discussions around the integration of Evidence-Based Management and Complexity Theory can provide valuable perspectives on navigating the challenges of customer retention in a dynamic environment.
+  updated: 2025-02-13T11:02:38Z
 
 ---
 

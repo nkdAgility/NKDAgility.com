@@ -16,6 +16,15 @@ Instructions: |-
   - The impact of cross-functional teams on team dynamics and performance.
 
   **Strictly exclude** discussions that focus on unrelated team structures, such as functional teams, or misinterpretations of Agile principles that do not align with the core philosophy of cross-functional collaboration.
+headline:
+  cards: []
+  title: Cross Functional Teams
+  subtitle: Empowering Agile delivery through diverse skill sets, fostering collaboration and innovation across teams for optimal value creation.
+  content: |-
+    Cross-functional teams are at the heart of Agile methodologies, bringing together diverse skill sets to create a collaborative environment that drives innovation and efficiency. These teams are designed to cover all aspects of a project, from development to testing and deployment, ensuring that they can deliver value quickly and effectively. By breaking down silos and fostering open communication, cross-functional teams can adapt to changing requirements and tackle complex challenges with ease.
+
+    In this classification, you'll find posts that explore the dynamics of cross-functional teams within various frameworks like Scrum, Kanban, and DevOps. Key topics include team composition, collaboration techniques, the role of leadership, and how to measure success through evidence-based management. Whether you're looking to enhance team performance or understand the principles behind effective collaboration, this space is all about sharing insights and practices that empower teams to thrive.
+  updated: 2025-02-13T11:02:48Z
 
 ---
 

@@ -16,6 +16,15 @@ Instructions: |-
   - Methods for assessing and enhancing team dynamics and performance.  
 
   **Strictly exclude** any content that does not directly relate to the mentoring process, such as technical implementation details, project management tools, or unrelated business strategies that do not align with the core principles of Agile and its methodologies.
+headline:
+  cards: []
+  title: Mentoring
+  subtitle: Guidance and coaching for agile professionals, enhancing skills in Scrum, Kanban, DevOps, Lean, and Evidence-Based Management.
+  content: |-
+    This classification focuses on the art of mentoring within agile environments, providing insights and support for professionals looking to enhance their skills and leadership capabilities. It’s all about fostering growth through shared experiences, practical advice, and tailored coaching that aligns with agile methodologies like Scrum, Kanban, and Lean.
+
+    Posts in this category should explore key topics such as effective coaching techniques, the role of a mentor in agile transformations, and the integration of principles from DevOps and Evidence-Based Management. Additionally, discussions around complexity theory and its implications for mentoring in dynamic environments can enrich the understanding of how to navigate challenges and drive continuous improvement.
+  updated: 2025-02-13T10:58:13Z
 
 ---
 

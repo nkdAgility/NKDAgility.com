@@ -16,6 +16,15 @@ Instructions: |-
   - Risk Management in Deployments: Strategies for assessing and mitigating risks associated with software releases.
 
   **Strictly exclude** discussions that do not directly relate to the methodologies of deploying software, such as general software development practices, project management techniques unrelated to deployment, or theoretical discussions that do not provide actionable insights into deployment strategies.
+headline:
+  cards: []
+  title: Deployment Strategies
+  subtitle: Optimising software delivery through effective risk management and speed, informed by Agile, DevOps, and Lean principles.
+  content: |-
+    This classification focuses on the various approaches to deploying software in a way that balances the need for speed with the management of risk. It’s all about finding the right methods to get your product into the hands of users quickly while ensuring that quality and reliability are not compromised. Posts in this category should explore different deployment strategies, including continuous delivery, blue-green deployments, canary releases, and feature toggles, as well as the principles behind them.
+
+    Key topics to cover include the role of Agile and Scrum in shaping deployment practices, insights from DevOps and Lean methodologies, and how evidence-based management can inform decision-making in deployment processes. Additionally, discussions around complexity theory and its implications for deployment strategies can provide valuable perspectives on navigating uncertainty in software delivery.
+  updated: 2025-02-13T11:00:11Z
 
 ---
 

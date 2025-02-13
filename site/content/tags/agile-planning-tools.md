@@ -16,6 +16,15 @@ Instructions: |-
   - Metrics and KPIs for measuring the effectiveness of Agile Planning Tools in project delivery.
 
   **Strictly exclude** any discussions that do not directly relate to the planning tools used in Agile methodologies, such as general project management tools that do not adhere to Agile principles, or unrelated software development practices that do not focus on Agile execution.
+headline:
+  cards: []
+  title: Agile Planning Tools
+  subtitle: Streamline Agile execution with tools for effective backlog management, forecasting, and team collaboration across Kanban, Scrum, and DevOps methodologies.
+  content: |-
+    This classification focuses on tools that enhance Agile planning and execution, making it easier for teams to manage their backlogs, forecast project timelines, and collaborate effectively. By leveraging these tools, teams can streamline their workflows and adapt to changing requirements, ensuring that they remain responsive and efficient in their delivery.
+
+    Key topics in this classification include backlog management techniques, forecasting methods, collaboration strategies across Agile frameworks like Scrum and Kanban, and insights from Lean and DevOps practices. Posts may also explore the integration of Evidence-Based Management principles and Complexity Theory to improve decision-making and adaptability in dynamic environments.
+  updated: 2025-02-13T11:04:28Z
 
 ---
 

@@ -18,6 +18,15 @@ Instructions: |-
   - Integration of Lean and Agile principles in portfolio management.
 
   **Strictly exclude** any discussions that do not directly relate to the management of a portfolio of projects, such as operational management, team-level Agile practices, or unrelated business strategies that do not focus on the alignment of strategy with execution.
+headline:
+  cards: []
+  title: Portfolio Management
+  subtitle: Align strategy with execution in Portfolio Management to optimise value streams, prioritise investments, and enhance organisational agility across frameworks.
+  content: |-
+    This classification focuses on the art and science of Portfolio Management, where the aim is to bridge the gap between strategic goals and day-to-day execution. It’s all about making informed decisions on where to invest resources, ensuring that value streams are optimised, and fostering agility within the organisation. By understanding the interplay between various frameworks like Agile, Lean, and DevOps, teams can better navigate the complexities of their projects and initiatives.
+
+    Posts in this category should explore key topics such as prioritisation techniques, value stream mapping, and the integration of evidence-based management principles. Additionally, insights from thought leaders in Kanban, Scrum, and Continuous Delivery can provide valuable perspectives on enhancing organisational performance. Emphasising practices that promote adaptability and responsiveness will help teams thrive in an ever-changing environment.
+  updated: 2025-02-13T10:57:48Z
 
 ---
 

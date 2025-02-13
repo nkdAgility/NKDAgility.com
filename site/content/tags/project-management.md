@@ -18,6 +18,15 @@ Instructions: |-
   - Adaptation of agile practices in various organisational contexts.
 
   **Strictly exclude** any discussions that focus on traditional project management methodologies, unrelated software development practices, or misinterpretations of agile principles that do not align with the core philosophies of Agile Project Management.
+headline:
+  cards: []
+  title: Agile Project Management
+  subtitle: Mastering agile methodologies for flexible project delivery, integrating Kanban, Scrum, DevOps, and Lean principles for optimal results.
+  content: |-
+    This classification focuses on the dynamic world of Agile Project Management, where flexibility and responsiveness are key to delivering successful projects. It encompasses a variety of methodologies, including Scrum, Kanban, and Lean, allowing teams to adapt to changing requirements and improve collaboration. By integrating principles from DevOps and Evidence-Based Management, this classification highlights the importance of continuous delivery and data-driven decision-making in managing projects effectively.
+
+    Posts in this category should explore topics such as the fundamentals of Agile and Scrum, the application of Kanban for workflow optimisation, the role of DevOps in enhancing project delivery, and Lean practices for waste reduction. Additionally, discussions on complexity theory and its implications for project management can provide valuable insights into navigating uncertainty and fostering innovation within teams.
+  updated: 2025-02-13T10:57:05Z
 
 ---
 

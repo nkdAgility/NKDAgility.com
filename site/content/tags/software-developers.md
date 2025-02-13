@@ -16,6 +16,15 @@ Instructions: |-
   - Strategies for effective communication and collaboration among developers and other stakeholders.
 
   **Strictly exclude** any discussions that do not directly relate to the role of software developers in Agile and DevOps contexts, such as general business management topics, unrelated software engineering practices, or non-technical discussions.
+headline:
+  cards: []
+  title: Software Developers
+  subtitle: Empowering software developers through agile methodologies, DevOps practices, and evidence-based management for enhanced collaboration and delivery.
+  content: |-
+    This classification focuses on empowering software developers through the integration of modern engineering practices, agile methodologies, and DevOps principles. It highlights the importance of collaboration, continuous delivery, and evidence-based management in enhancing the software development lifecycle. Posts in this category should explore how frameworks like Scrum and Kanban can be effectively implemented, drawing insights from thought leaders such as Ken Schwaber and Daniel Vacanti.
+
+    Key topics include agile practices, DevOps strategies, lean principles, and the application of complexity theory in software development. Contributors are encouraged to share experiences and insights on improving team dynamics, optimising workflows, and fostering a culture of continuous improvement, all while keeping the developer's perspective at the forefront.
+  updated: 2025-02-13T10:55:28Z
 
 ---
 

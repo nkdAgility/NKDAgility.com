@@ -20,6 +20,15 @@ Instructions: |-
   - General discussions on Agile or Scrum without a focus on acceptance testing
   - Content that misrepresents ATDD as solely a testing phase rather than a collaborative development approach
   - Topics unrelated to acceptance criteria, such as coding practices or design patterns that do not directly relate to ATDD principles.
+headline:
+  cards: []
+  title: Acceptance Test Driven Development
+  subtitle: Enhance software quality by defining clear acceptance criteria in ATDD, ensuring alignment with business needs across Agile, DevOps, and Lean practices.
+  content: |-
+    This classification focuses on Acceptance Test Driven Development (ATDD), a collaborative approach that emphasises defining clear, testable acceptance criteria before any coding begins. By involving stakeholders, developers, and testers early in the process, ATDD ensures that everyone is on the same page regarding what success looks like, ultimately leading to higher quality software that meets business needs.
+
+    Posts in this classification should explore key topics such as the principles of ATDD, its integration with Agile and Scrum methodologies, and its relevance in DevOps and Lean practices. Additionally, discussions on how ATDD aligns with Evidence-Based Management and addresses complexity in software development can provide valuable insights for teams looking to enhance their development processes.
+  updated: 2025-02-13T11:05:07Z
 
 ---
 

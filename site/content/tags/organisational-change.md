@@ -17,6 +17,15 @@ Instructions: |-
   - Evidence-based approaches to measuring the effectiveness of change initiatives.
 
   **Strictly exclude** unrelated content such as technical discussions on software development practices, specific coding techniques, or tools that do not directly relate to the organisational change process. Misinterpretations of the core classification, such as conflating organisational change with mere project management or operational efficiency without a focus on agility, should also be avoided.
+headline:
+  cards: []
+  title: Organisational Change
+  subtitle: Transforming organisations to enhance agility, resilience, and continuous improvement through evidence-based practices and collaborative frameworks.
+  content: |-
+    This classification focuses on the dynamic process of organisational change, emphasising the need for agility and resilience in today’s fast-paced environment. It explores how organisations can adapt their structures, cultures, and practices to thrive amidst uncertainty and complexity. By leveraging insights from Agile, Scrum, Lean, and DevOps methodologies, posts in this category will highlight transformative strategies that foster collaboration, continuous improvement, and evidence-based decision-making.
+
+    Key topics include the principles of Kanban and Lean thinking, the role of Agile frameworks in enhancing team performance, and the integration of DevOps practices to streamline workflows. Additionally, discussions may delve into complexity theory and its implications for managing change, as well as the importance of fostering a culture that embraces experimentation and learning.
+  updated: 2025-02-13T10:57:58Z
 
 ---
 

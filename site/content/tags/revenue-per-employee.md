@@ -19,6 +19,15 @@ Instructions: |-
   - Discussions unrelated to financial metrics or productivity analysis.
   - Misinterpretations of revenue per employee as a standalone performance indicator without context.
   - Content that does not align with the principles of Agile, DevOps, or Evidence-Based Management in relation to workforce efficiency.
+headline:
+  cards: []
+  title: Revenue per Employee
+  subtitle: Assessing organisational efficiency by analysing revenue generated per employee within Agile, Lean, and DevOps frameworks.
+  content: |-
+    This classification focuses on understanding how effectively an organisation generates revenue relative to its workforce. By examining revenue per employee, we can gain insights into productivity, financial efficiency, and overall organisational health. This metric is particularly relevant in Agile, Lean, and DevOps environments, where optimising resources and enhancing value delivery are key objectives.
+
+    Posts in this classification should explore various aspects of revenue per employee, including its implications in Kanban and Agile frameworks, as well as its relationship with Lean principles and DevOps practices. Topics may cover strategies for improving this metric, case studies demonstrating its impact, and discussions on how it aligns with Evidence-Based Management and Complexity Theory to foster a culture of continuous improvement and adaptability.
+  updated: 2025-02-13T10:56:30Z
 
 ---
 

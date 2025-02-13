@@ -19,6 +19,15 @@ Instructions: |-
   - General discussions on Agile principles without a focus on experimentation.
   - Misinterpretations of experimentation that do not align with hypothesis-driven methodologies.
   - Content that does not relate to testing ideas or validating assumptions within Agile workflows.
+headline:
+  cards: []
+  title: Experimentation
+  subtitle: Harness hypothesis-driven experimentation to validate ideas and assumptions across Agile, Lean, and DevOps methodologies.
+  content: |-
+    This classification focuses on the practice of using hypothesis-driven experimentation to explore and validate ideas within Agile workflows. It encourages teams to embrace a mindset of curiosity and learning, allowing them to test assumptions and make informed decisions based on evidence rather than guesswork. By fostering a culture of experimentation, teams can adapt more effectively to change and continuously improve their processes.
+
+    Key topics in this classification include designing and conducting experiments, interpreting results, and applying findings to enhance workflows in Agile, Lean, and DevOps contexts. Posts may also delve into the principles of Evidence-Based Management, exploring how data-driven insights can inform decision-making and drive organisational growth. Additionally, connections to complexity theory can provide valuable perspectives on navigating uncertainty and fostering innovation in dynamic environments.
+  updated: 2025-02-13T10:59:10Z
 
 ---
 

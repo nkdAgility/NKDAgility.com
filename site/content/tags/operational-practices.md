@@ -17,6 +17,15 @@ Instructions: |-
   - Evidence-based decision-making in operational contexts.
 
   **Strictly exclude** discussions that do not directly relate to the improvement of operational efficiency, such as theoretical debates without practical application, unrelated business strategies, or content that misinterprets the core principles of Agile, DevOps, or Lean methodologies.
+headline:
+  cards: []
+  title: Operational Practices
+  subtitle: Enhancing efficiency and delivery through proven techniques in Agile, Lean, DevOps, and Evidence-Based Management practices.
+  content: |-
+    This classification focuses on the practical techniques and strategies that enhance operational efficiency and delivery within teams and organisations. It encompasses a variety of methodologies, including Agile, Lean, DevOps, and Evidence-Based Management, providing a holistic view of how to optimise workflows and improve outcomes. 
+
+    Posts in this category should explore key topics such as Kanban principles, Scrum frameworks, Lean thinking, and the integration of DevOps practices. Additionally, they may delve into concepts from complexity theory and evidence-based management, offering insights into how these approaches can be applied to navigate challenges and drive continuous improvement in operational practices.
+  updated: 2025-02-13T10:58:01Z
 
 ---
 

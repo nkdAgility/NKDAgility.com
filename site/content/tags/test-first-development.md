@@ -16,6 +16,15 @@ Instructions: |-
   - Common challenges and misconceptions related to Test First Development and strategies to overcome them.
 
   **Strictly exclude** discussions that focus on unrelated software development practices, such as purely design-oriented approaches, or those that misinterpret the core principles of Agile and TDD.
+headline:
+  cards: []
+  title: Test First Development
+  subtitle: Prioritising quality through early test definition, enhancing collaboration in Agile, DevOps, and Lean methodologies for effective delivery.
+  content: |-
+    This classification focuses on the practice of defining tests before any code is written, ensuring that quality is embedded from the very start of the development process. By prioritising testing early, teams can foster a culture of collaboration and shared understanding, which is essential in Agile, Scrum, and DevOps environments. This approach not only helps in clarifying requirements but also aligns with Lean principles by reducing waste and enhancing flow.
+
+    Posts in this classification should explore key topics such as test-driven development (TDD), behaviour-driven development (BDD), and the integration of testing within continuous delivery pipelines. Additionally, discussions may include the impact of early testing on team dynamics, the role of feedback loops in Kanban, and how these practices contribute to evidence-based management and decision-making in complex environments.
+  updated: 2025-02-13T10:54:13Z
 
 ---
 

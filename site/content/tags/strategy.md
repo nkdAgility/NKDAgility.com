@@ -20,6 +20,15 @@ Instructions: |-
   - Discussions unrelated to Agile, Scrum, or DevOps strategies
   - Misinterpretations of strategic concepts outside the Agile and Lean contexts
   - Generic business strategy discussions that do not incorporate Agile principles
+headline:
+  cards: []
+  title: Strategy
+  subtitle: Craft and enhance strategies in Agile, Scrum, and DevOps to align teams, optimise delivery, and achieve sustainable competitive advantage.
+  content: |-
+    This classification focuses on the development and refinement of strategies within Agile, Scrum, and DevOps frameworks. It’s all about aligning teams, optimising delivery processes, and fostering a sustainable competitive edge in a rapidly changing environment. Posts in this category should explore how to effectively implement strategies that enhance collaboration, improve workflow, and adapt to the complexities of modern project management.
+
+    Key topics include the integration of Kanban principles, insights from Lean methodologies, and the application of Evidence-Based Management to inform decision-making. Additionally, discussions around Continuous Delivery and the influence of Complexity Theory on strategic planning are essential. By examining these areas, contributors can share valuable practices that help teams navigate challenges and drive successful outcomes.
+  updated: 2025-02-13T10:55:14Z
 
 ---
 

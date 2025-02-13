@@ -16,6 +16,15 @@ Instructions: |-
   - Case studies or examples of successful remote Agile implementations.
 
   **Strictly exclude** any content that does not directly relate to the practices, challenges, or solutions of remote working within Agile frameworks, such as general remote work tips unrelated to Agile methodologies or discussions on non-Agile project management approaches.
+headline:
+  cards: []
+  title: Remote Working
+  subtitle: Best practices for fostering collaboration and productivity in agile teams across distributed environments, informed by Lean and DevOps principles.
+  content: |-
+    This classification focuses on the practices that enhance collaboration and productivity for agile teams working in distributed environments. It explores how remote working can be effectively managed through frameworks and principles from Agile, Scrum, Lean, and DevOps, ensuring that teams remain engaged and aligned despite geographical distances.
+
+    Posts in this category should cover key topics such as communication strategies, tools for remote collaboration, techniques for maintaining team cohesion, and methods for measuring productivity and performance. Additionally, insights from Evidence-Based Management and Complexity Theory can provide valuable perspectives on navigating the challenges of remote work, helping teams adapt and thrive in a dynamic landscape.
+  updated: 2025-02-13T10:56:34Z
 
 ---
 

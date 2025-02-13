@@ -20,6 +20,15 @@ Instructions: |-
   - Discussions on specific Agile frameworks (e.g., Scrum, Kanban) without reference to their underlying values and principles.
   - Misinterpretations of Agile as merely a set of practices or tools rather than a philosophy.
   - Content that focuses on unrelated methodologies or frameworks outside the Agile context.
+headline:
+  cards: []
+  title: Agile Values and Principles
+  subtitle: Explore the core Agile values and principles to foster true agility, enhance collaboration, and drive continuous value delivery across teams.
+  content: |-
+    This classification dives into the core values and principles that underpin Agile methodologies, providing a solid foundation for teams aiming to embrace true agility. By exploring these concepts, you'll gain insights into fostering collaboration, enhancing adaptability, and driving continuous value delivery in your projects. 
+
+    Key topics include the Agile Manifesto, the principles of Scrum, Lean practices, and the integration of DevOps. You'll also find discussions on how these values relate to complexity theory and evidence-based management, helping you navigate the challenges of modern software development and organisational change.
+  updated: 2025-02-13T11:04:11Z
 
 ---
 

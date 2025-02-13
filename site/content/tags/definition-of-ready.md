@@ -19,6 +19,13 @@ Instructions: |-
   - Discussions on Definition of Done, as it pertains to the completion of work rather than its readiness.
   - General Agile principles that do not specifically address the criteria for backlog item readiness.
   - Misinterpretations of the DoR that deviate from its purpose of ensuring actionable standards for sprint planning.
+headline:
+  cards: []
+  title: Definition of Ready
+  subtitle: Establishing clear criteria for backlog items to enhance sprint readiness and optimise workflow in Agile, Scrum, and DevOps environments.
+  content: |-
+    The Definition of Ready (DoR) can help teams clarify when backlog items are prepared for Sprint Planning, but it should be [applied cautiously](). In Scrum, readiness is subjective, reflecting the shared understanding between Developers, the Product Owner, and Stakeholders. A rigid DoR can create a false sense of completeness, discourage essential refinement, and cause confusion with the Definition of Done (DoD), which is an objective standard.
 
+    Teams might consider using flexible guidelines to foster shared understanding rather than a strict checklist. Continuous collaboration and refinement remain crucial for effective backlog management. For more insights, visit the dedicated page: Definition of Ready (DoR)]({{< ref /resources/practices/definition-of-ready-dor >}}).
+  updated: 2025-02-13T11:00:18Z
 ---
-

@@ -16,6 +16,15 @@ Instructions: |-
   - Integration with Agile and DevOps: How Lean Thinking complements Agile methodologies and DevOps practices.
 
   **Strictly exclude** discussions that deviate from Lean principles, such as unrelated management theories, non-technical productivity hacks, or misinterpretations of Lean as merely cost-cutting measures.
+headline:
+  cards: []
+  title: Lean Thinking
+  subtitle: Optimising workflows by integrating Lean principles with Agile, DevOps, and Evidence-Based Management for enhanced efficiency and reduced waste.
+  content: |-
+    This classification focuses on Lean Thinking, a mindset aimed at minimising waste and maximising value in various workflows. It encourages a culture of continuous improvement, where teams actively seek to streamline processes and enhance efficiency. By integrating Lean principles with Agile, DevOps, and Evidence-Based Management, practitioners can create more responsive and effective systems that adapt to changing needs.
+
+    Posts in this classification should explore key topics such as the principles of Lean, the role of Kanban in visualising work, and the application of Lean in Agile and DevOps environments. Discussions may also include insights from influential figures like Taiichi Ohno and Gene Kim, as well as the relevance of complexity theory in understanding organisational dynamics. Overall, the aim is to share practical approaches that foster a Lean mindset across teams and projects.
+  updated: 2025-02-13T10:58:25Z
 
 ---
 

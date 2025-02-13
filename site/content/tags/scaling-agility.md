@@ -17,6 +17,15 @@ Instructions: |-
   - The impact of organisational structure and design on the effectiveness of scaled agile practices.
 
   **Strictly exclude** discussions that focus solely on team-level agile practices, unrelated methodologies, or misinterpretations of scaling agility that do not align with the core principles of agile philosophy and frameworks.
+headline:
+  cards: []
+  title: Scaling Agility
+  subtitle: Empowering organisations to enhance agility through frameworks, practices, and evidence-based strategies across all levels and disciplines.
+  content: |-
+    This classification focuses on the journey of organisations as they scale agility beyond traditional frameworks, fostering a culture of adaptability and responsiveness at every level. It’s all about integrating practices from Agile, Lean, Kanban, and DevOps to create a holistic approach that empowers teams to thrive in complex environments.
+
+    Posts in this category should explore key topics such as the principles of Evidence-Based Management, the application of Complexity Theory, and the interplay between Agile methodologies and Lean practices. Contributors are encouraged to share insights on real-world implementations, challenges faced, and strategies for cultivating an agile mindset across teams and departments.
+  updated: 2025-02-13T10:56:23Z
 
 ---
 

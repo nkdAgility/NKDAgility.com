@@ -16,6 +16,15 @@ Instructions: |-
   - Case studies or examples of successful team collaboration in Agile or DevOps contexts.
 
   **Strictly exclude** discussions that focus on individual performance, unrelated project management methodologies, or any misinterpretations of team dynamics that do not align with Agile, Scrum, or DevOps principles.
+headline:
+  cards: []
+  title: Team Collaboration
+  subtitle: Fostering effective teamwork and communication across Agile, DevOps, and Lean practices for enhanced performance and shared ownership.
+  content: |-
+    This classification focuses on the dynamics of teamwork and communication within Agile, DevOps, and Lean environments. It highlights the importance of shared ownership and collaboration in driving high performance and achieving project goals. Posts in this category should explore how teams can effectively work together, leveraging frameworks like Scrum and Kanban, while also considering the principles of Evidence-Based Management and Complexity Theory.
+
+    Key topics include strategies for enhancing communication, tools for fostering collaboration, and methods for building trust among team members. Additionally, discussions may cover the role of leadership in supporting teamwork, the impact of organisational culture on collaboration, and practical insights from thought leaders in the field, such as Gene Kim and Ken Schwaber.
+  updated: 2025-02-13T10:54:44Z
 
 ---
 
