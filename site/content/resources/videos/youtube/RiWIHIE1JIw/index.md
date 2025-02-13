@@ -29,8 +29,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Daily Scrum
+- Decision Making
+- Empirical Process Control
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Transparency
+- Windows
 
 ---
  This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:

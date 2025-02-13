@@ -22,14 +22,37 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Continuous Learning
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Hypothesis Driven Development
+- Lean Product Development
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Owner
+- Product Strategy
+- Product Validation
+- Scrum Product Development
+- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Discovery and Learning
+- People and Process
 
 ---
  Thinking of doing the PPDV course? Here's a quick overview of the course from Dr Joanna Plaskonka. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #productowner #projectmanager #productmanager #productdiscovery #agileproductdevelopment 

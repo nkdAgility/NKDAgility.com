@@ -22,14 +22,29 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
-tags: []
+tags:
+- Agile Leadership
+- Agile Philosophy
+- Agile Values and Principles
+- BetaCodex
+- Coaching
+- Employee Engagement
+- Organisational Culture
+- Pragmatic Thinking
+- Self Organisation
+- Team Collaboration
+- Team Motivation
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Organisational Agility
+- People and Process
+- Personal
 
 ---
  What makes us tick? Why do we exist?

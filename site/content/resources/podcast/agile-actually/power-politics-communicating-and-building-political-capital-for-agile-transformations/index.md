@@ -2,7 +2,7 @@
 title: Power & Politics! Communicating and Building Political Capital for Agile Transformations!
 description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
 ResourceId: 2RYiDJ9l8wh
-ResourceImport: true
+ResourceImport: false
 ResourceType: podcast
 date: 2024-06-04
 categories:

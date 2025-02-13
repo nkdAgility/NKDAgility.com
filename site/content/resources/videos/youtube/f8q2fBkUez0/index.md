@@ -22,14 +22,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
 duration: 4859
 isShort: false
-tags: []
+tags:
+- Decision Making
+- Entrepreneurship
+- Organisational Change
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Sociotechnical Systems
 
 ---
  ### Panel Description: "Should Companies Take Money Off the Table? Exploring Motivation Beyond Financial Incentives"

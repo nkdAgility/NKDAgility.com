@@ -22,14 +22,37 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false
-tags: []
+tags:
+- Agile Leadership
+- Agile Philosophy
+- Agile Strategy
+- Agile Values and Principles
+- Coaching
+- Continuous Learning
+- Cross Functional Teams
+- Decision Making
+- Engineering Excellence
+- Mentoring
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Motivation
+- Team Performance
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Decision Theory
+- People and Process
 
 ---
  How do you create a great product if you don't know what you can't possibly know? How do you navigate uncertainty and complexity when there is so much at stake? How do you move confidently ahead when there is a great deal of volatility and ambiguity in the markets you serve?

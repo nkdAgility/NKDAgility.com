@@ -22,14 +22,34 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Continuous Learning
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Hypothesis Driven Development
+- Lean Product Development
+- Lean Startup
+- MVP
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Strategy
+- Product Validation
+- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- Metrics and Learning
+- Product Delivery
 
 ---
  Professional Product Discovery and Validation course learning outcomes. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #scrumtraining #productdiscovery #productowner #projectmanager 

@@ -22,14 +22,24 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: false
-tags: []
+tags:
+- Change Management
+- Coaching
+- Decision Making
+- Organisational Change
+- Organisational Physics
+- Pragmatic Thinking
+- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Organisational Agility
+- People and Process
+- Resilience and Change
 
 ---
  Due to the lack of regulation in the Agile industry, there are a number of people who have had poor experiences with people who claim to be an #agilecoach, but don't possess the skills, certifications, and experience to be one.

@@ -22,14 +22,25 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
 duration: 414
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Metrics and Learning
+- People and Process
+- Value Delivery
 
 ---
  An introduction to Evidence Based Management. Visit https://www.nkdagility.com #agile #scrum #ebm #evidencebasedmanagement #evidencebasedleadership #agileprojectmanagement #agileproductdevelopment 

@@ -22,14 +22,31 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Philosophy
+- Continuous Learning
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Hypothesis Driven Development
+- Lean Product Development
+- Lean Startup
+- Pragmatic Thinking
+- Product Discovery
+- Product Management
+- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
+- People and Process
+- Value Delivery
 
 ---
  What you will be able to do after the PPDV course with Dr Joanna Plaskonka. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #scrumtraining #productowner #productmanager #projectmanager #agileproductdevelopment 
