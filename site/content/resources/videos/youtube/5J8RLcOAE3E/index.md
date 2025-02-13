@@ -1,6 +1,6 @@
 ---
-title: Continuous Delivery Without Compromise - Why Best Practices Don’t Exist in Complex Systems
-description: Discover why there are no best practices in complex systems. Learn adaptable strategies for continuous delivery that ensure quality and user trust.
+title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
+description: Discover how to enhance continuous delivery in complex environments with audience-based strategies, testing in production, and a commitment to improvement.
 date: 2025-01-23T06:30:03Z
 ResourceId: 5J8RLcOAE3E
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=5J8RLcOAE3E
 aliases:
 - /resources/videos/5J8RLcOAE3E
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
@@ -41,47 +40,35 @@ resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 categories:
 - DevOps
-- People and Process
+- Resilience and Change
 - Systems Thinking
 
 ---
- In this video, I dive into a question I often get: *What are the best practices for enabling continuous delivery?* The answer may surprise you—there are no best practices in complex environments. Instead, there are *adequate practices* that must adapt to the ever-changing dynamics of your team, product, and market. Watch as I explore the philosophies and techniques that can support your organization in delivering quality software continuously while maintaining user trust and system reliability.
+I often find myself in discussions about the best practices for enabling continuous delivery within teams. It’s a question that comes up frequently, and I want to address it head-on: there are no best practices in complex environments. Best practices are a concept that applies to simple tasks in straightforward situations where a procedure can be followed consistently to achieve the same results. However, the world we operate in is anything but simple.
 
- 📚 *Chapters*  
-1. *00:00 Introduction* – Why best practices don’t exist in complex environments.  
-2. *02:15 Adequate Practices, Not Best Practices* – Adapting to your unique context.  
-3. *05:00 Audience-Based Delivery vs. Environment-Based Delivery* – Moving away from traditional Dev-Test-Staging-Production models.  
-4. *08:45 Testing in Production* – Embracing the reality of modern systems.  
-5. *11:30 Real-World Example: Azure DevOps Team* – How audience-based delivery transformed deployment.  
-6. *16:00 The Role of Telemetry in Continuous Delivery* – Monitoring, feedback, and decision-making.  
-7. *19:30 Circuit Breaker Pattern and System Resilience* – Ensuring users can work even when parts of the system fail.  
-8. *25:00 Fix It, Find It, and Fix It Again* – A philosophy for evolving automated checks.  
-9. *29:00 Final Thoughts* – Continuous improvement as a relentless pursuit.  
+Instead, I prefer to say that there are only adequate practices tailored to the specific situation at hand, and these practices can—and often do—change. This is a fundamental truth we must embrace. While we may not have a one-size-fits-all solution, there are several practices that many organisations have successfully leveraged to enhance their continuous delivery efforts. Let’s explore some of these practices and how they can support cross-functional collaboration without compromising quality.
 
+### Audience-Based Delivery
 
- 🎯 *Who This Video is For*  
-- *Engineering Teams & Leaders*: Seeking ways to support frequent, high-quality deployments.  
-- *Delivery Managers & Product Owners*: Balancing user experience with delivery speed.  
-- *CTOs & System Architects*: Adopting adaptive philosophies in system design.  
-- *Software Teams Moving to Continuous Delivery*: Transitioning to modern deployment strategies.  
+One of the most powerful practices I advocate for is the implementation of an audience-based delivery strategy. Traditionally, the delivery pipeline followed a linear path: development, testing, staging, and finally production. This model, while familiar, is fraught with inefficiencies and costs. It often leads to a scenario where quality is tested in rather than built in, which is the most expensive way to ensure quality.
 
- 🌟 *What You’ll Learn*  
-- Why best practices don’t apply to complex systems and what to use instead.  
-- How audience-based delivery models enable better testing in production.  
-- The importance of telemetry and feedback loops in continuous delivery.  
-- How the Azure DevOps team leveraged audience-based delivery and automation to evolve their systems.  
-- Why resilience patterns like the circuit breaker are critical for maintaining user trust during system failures.  
+By shifting to an audience-based delivery model, we can deploy small changes quickly to a limited set of users. This allows us to validate our product in real-world scenarios, which is invaluable. The Windows team at Microsoft exemplifies this approach. They deploy updates to internal users nightly, allowing developers to test their code in production almost immediately. This rapid feedback loop is crucial for continuous improvement.
 
- 💡 *Key Takeaways*  
-- *No Best Practices*: Instead, focus on adaptable, adequate practices suited to your unique context.  
-- *Audience-Based Delivery Works*: Deploy small changes to select users and expand iteratively.  
-- *Testing in Production is Necessary*: There’s no substitute for real-world validation in complex systems.  
-- *Resilience is Key*: Implement strategies like the circuit breaker pattern to ensure continued usability.  
-- **Relentless Improvement**: Continuously update your practices and systems to support quality and stability.  
+### Testing in Production
 
- 🔗 *Ready to Enable Continuous Delivery for Your Team?*  
-At **Naked Agility**, we help organizations embrace modern practices, adopt adaptive philosophies, and deliver quality software with confidence. Visit **[www.nkdagility.com](https://www.nkdagility.com)** to learn more about how we can support your journey to continuous delivery. Let’s create systems that evolve with your needs! 
- [Watch on Youtube](https://www.youtube.com/watch?v=5J8RLcOAE3E)
+The concept of testing in production is another critical aspect of this audience-based model. There is no perfect simulation of a production environment; the only way to truly validate our work is to deploy it. By allowing a small group of users to access new features, we can monitor how the product performs and make adjustments as necessary. This practice not only enhances our understanding of user interactions but also helps us identify and rectify issues before a wider rollout.
+
+### The Philosophy of Find It and Fix It
+
+When we talk about continuous delivery, we must also adopt a philosophy of “find it and fix it.” If something slips through our automated checks and makes it into production, we need to investigate how that happened and adjust our processes accordingly. This isn’t just about fixing bugs; it’s about evolving our architecture and practices to prevent similar issues in the future.
+
+For instance, the Azure DevOps team faced challenges when a non-essential service caused significant disruptions. They learned that it’s better to allow the system to continue functioning, even if it means displaying a less-than-ideal user experience, rather than taking everything offline. This approach not only maintains user productivity but also provides valuable insights into system resilience.
+
+### Embracing Change
+
+Ultimately, the key takeaway here is that we must continuously seek to improve our products and our processes. This relentless pursuit of betterment is not merely a best practice; it’s a philosophy that should underpin everything we do. By embracing change and being willing to adapt, we can create a more robust and responsive delivery pipeline that meets the needs of our users.
+
+In conclusion, while the term “best practices” may be misleading in the context of complex environments, there are certainly effective practices and philosophies we can adopt. By focusing on audience-based delivery, testing in production, and a commitment to continuous improvement, we can enhance our ability to deliver quality software efficiently. Let’s keep the conversation going and share our experiences as we navigate this ever-evolving landscape together.

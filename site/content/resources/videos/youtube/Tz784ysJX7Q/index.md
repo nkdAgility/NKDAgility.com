@@ -1,6 +1,6 @@
 ---
-title: Balancing Speed and Stability in Delivery
-description: Discover how to prioritise quality over speed in software delivery. Learn the true costs of rushing and why stability builds trust.
+title: 'Balancing Speed and Stability: Why Quality Should Always Come First in Delivery Management'
+description: Discover how to balance speed and stability in project delivery. Learn why prioritising quality over tight deadlines is essential for long-term success.
 date: 2025-01-24T06:30:21Z
 ResourceId: Tz784ysJX7Q
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: balancing-speed-and-stability-in-delivery
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=Tz784ysJX7Q
 aliases:
 - /resources/videos/Tz784ysJX7Q
 - /resources/videos/balancing-speed-and-stability-in-delivery
@@ -31,53 +30,35 @@ resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 categories:
 - Complexity Thinking
 - People and Process
 - Product Delivery
 
 ---
- Balancing Speed and Stability in Delivery: Why Quality Should Always Come First
+One of the questions I often encounter as a delivery manager is how to balance speed and stability, especially when we're under pressure from tight deadlines. However, I would argue that there's a fundamental issue with the premise of this question: why are we under such tight deadlines in the first place? More often than not, these deadlines exist because stakeholders lack confidence in our ability to meet them. This is the absurdity of deadlines.
 
-In this video, I address one of the most common questions I get: How do we balance speed and stability when faced with tight deadlines? The answer lies not just in practices but in the principles that underpin our work. Learn why stability and quality should always outweigh speed and what happens when we prioritize speed at the expense of trust and excellence.
-________________________________________
+Let’s consider the nature of deadlines. Some deadlines are imposed by external factors, such as regulatory requirements. For instance, if a government introduces a new regulation that our software must comply with, we might face a deadline that seems absolute. However, even in these situations, we have options. We can choose to pay the fines for non-compliance rather than rush to deliver a feature that may not be ready. 
 
-📚 Chapters:
+Here are a few key points to consider:
 
-1. 00:00 Introduction – The dilemma of speed versus stability.
-2. 01:30 The Real Issue with Deadlines – Why most deadlines exist and how they erode trust.
-3. 05:00 External Deadlines Aren’t Absolute – Understanding fines versus the cost of rushing.
-4. 07:45 The True Cost of Poor Quality – How rushing features impacts your brand and business.
-5. 12:30 Lessons from Zoom’s Pandemic Response – The risks of sacrificing quality for user growth.
-6. 17:15 Moral and Ethical Considerations – Why integrity matters in business decisions.
-7. 20:30 Stability Over Speed – Building trust through quality and reliability.
-8. 24:00 Call to Action – Partner with Naked Agility to deliver better software at a sustainable pace.
+- **Assess the Real Cost**: What is the cost of building a feature quickly? What are the implications of pushing for speed? If we rush, we risk tripping over ourselves, leading to a product that could damage our brand and erode customer trust. 
 
-🎯 Who This Video is For:
+- **Quality Over Speed**: It’s crucial to deliver features with the right capabilities and quality. Shipping a poor-quality product can have long-term repercussions that far outweigh any short-term gains from meeting a deadline. 
 
-• Delivery Managers & Product Owners: Balancing feature demands with organizational integrity.
-• CTOs & Technology Leaders: Navigating tight deadlines without compromising on quality.
-• Engineering Teams: Understanding the broader implications of technical and ethical trade-offs.
-• Organizations Facing Tight Deadlines: Learn why speed is not the ultimate goal.
+- **The Fine Dilemma**: While paying fines may seem undesirable, it’s often a more viable option than delivering a subpar product. The fines are typically much smaller than the potential costs associated with a failed product launch.
 
-🌟 What You’ll Learn:
+Reflecting on my experiences, I recall the case of Zoom during the pandemic. As their user base skyrocketed, they faced a critical decision: cap the number of users or scale up their infrastructure. They opted for the latter, prioritising user growth over quality. This led to significant compromises, including the disabling of encryption features, which had been a key selling point. 
 
-• Why most deadlines are arbitrary and how to assess their true impact.
-• The long-term costs of prioritizing speed over stability.
-• Real-world examples of how quality failures affect business trust and reputation.
-• Ethical considerations in software development and delivery.
-• How to communicate the importance of stability to stakeholders under pressure.
+This decision had dire consequences. Many organisations still block Zoom due to concerns over security and trust. It’s a stark reminder that reducing quality to ship features faster can backfire spectacularly. 
 
-💡 Key Takeaways:
+So, how do we strike a balance between speed and stability? 
 
-• Deadlines Often Stem from Distrust: Most deadlines arise because stakeholders doubt the team’s ability to deliver.
-• External Deadlines Are Negotiable: Paying fines may be less costly than rushing a poorly built feature.
-• Quality Erosion is Costly: Rushing features can damage your brand, customer trust, and long-term viability.
-• Stability First: A stable, high-quality product is more important than meeting arbitrary deadlines.
-• Learn from Failures: Examples like Zoom during the pandemic highlight the risks of sacrificing quality for growth.
-________________________________________
-🔗 Ready to Build Software the Right Way?
+1. **Prioritise Stability**: Stability is paramount. It’s far more important than speed. If you find yourself in a situation where you must choose, always opt for stability and quality.
 
-At Naked Agility, we help organizations deliver high-quality, stable software without compromising speed or integrity. Visit https://www.nkdagility.com to learn how we can help you navigate deadlines, deliver value, and build trust with your customers. Let’s focus on doing things right, together! 
- [Watch on Youtube](https://www.youtube.com/watch?v=Tz784ysJX7Q)
+2. **Make Ethical Choices**: Avoid the temptation to cut corners. The easier, cheaper path may lead to ethical dilemmas that can tarnish your brand and reputation.
+
+3. **Communicate with Stakeholders**: Educate your stakeholders about the implications of rushing projects. Help them understand that quality work takes time and that the long-term benefits of a stable product far outweigh the short-term gains of speed.
+
+In conclusion, while the pressure to deliver quickly can be overwhelming, we must remember that the foundation of a successful product is built on stability and quality. If it means paying a fine or missing a deadline, so be it. Let’s commit to doing things well and properly, ensuring that we maintain the trust of our customers and the integrity of our brand.

@@ -214,7 +214,7 @@ Act as a professional ghostwriter and SEO specialist to craft a compelling, SEO-
 
 - **Match My Voice & Style**: Mirror my natural language, tone, and phrasing as found in my previous writings and content. Keep the title conversational yet authoritative.
 - **SEO Optimised**: Include relevant, high-impact keywords that resonate with my target audience and improve search engine rankings.
-- **Engaging & Click-Worthy**: The title should spark curiosity or convey clear value to the reader. Consider using numbers, questions, or action words to make it more engaging.
+- **Engaging & Click-Worthy**: The title should spark curiosity or convey clear value to the reader, keep it simple and direct.
 - **Title Only**: Provide only the final title without any additional commentary, tags, or explanations.
 - do not wrap in quotes
 
