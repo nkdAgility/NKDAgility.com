@@ -47,8 +47,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
+- Product Delivery
 - Technical Excellence
 
 ---

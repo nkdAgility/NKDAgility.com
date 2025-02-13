@@ -25,7 +25,6 @@ isShort: false
 tags:
 - Ability to Innovate
 - Agile Philosophy
-- Agile Project Management
 - Agile Strategy
 - Continuous Learning
 - Decision Making
@@ -35,6 +34,7 @@ tags:
 - Experimentation
 - Hypothesis Driven Development
 - Lean Product Development
+- Lean Startup
 - Pragmatic Thinking
 - Product Discovery
 - Product Management
@@ -50,9 +50,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - Discovery and Learning
 - People and Process
+- Product Delivery
 
 ---
  Thinking of doing the PPDV course? Here's a quick overview of the course from Dr Joanna Plaskonka. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #productowner #projectmanager #productmanager #productdiscovery #agileproductdevelopment 

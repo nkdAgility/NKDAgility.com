@@ -21,25 +21,11 @@ card:
     content: Learn More
   content: Discover more about Accountabilities for the Scrum Team and how it can help you in your Agile journey!
   title: Accountabilities for the Scrum Team
-categories:
-- Scrum
-- Transparency and Accountability
-- People and Process
+categories: []
 tags:
+- Agile Frameworks
+- Agile Project Management
 - Scrum Team
-- Accountability
-- Scrum Master
-- Definition of Done
-- Scrum Values
-- Agile Product Management
-- Team Collaboration
-- Continuous Improvement
-- Agile Planning
-- Agile Software Development
-- Agile Methodology
-- Team Motivation
-- Working Agreements
-- Agile Product Ownership
 
 ---
 While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.

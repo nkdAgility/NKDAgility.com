@@ -35,15 +35,15 @@ tags:
 - Engineering Practices
 - Lead Time
 - Lean Product Development
+- Lean Startup
 - Operational Practices
-- Organisational Physics
 - Pragmatic Thinking
 - Product Management
 - Product Strategy
 - Product Validation
+- Release Management
+- Software Developers
 - Software Development
-- Throughput
-- Working Software
 resourceTypes:
 - video
 sitemap:

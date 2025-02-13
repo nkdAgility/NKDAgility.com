@@ -49,7 +49,7 @@ resourceTypes:
 categories:
 - Agile Product Management
 - Market Adaptability
-- People and Process
+- Product Delivery
 
 ---
  Overcoming Scope Creep: Focus on Value, Not Fixed Scope | Martin Hinshelwood

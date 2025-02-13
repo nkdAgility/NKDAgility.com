@@ -24,25 +24,26 @@ card:
   content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
   title: Metrics and Reports
 categories:
-- Metrics and Learning
-- Value Stream Management
 - Flow Efficiency
+- Metrics and Learning
+- Transparency and Accountability
 tags:
-- Customer Satisfaction
-- Employee Engagement
-- Defect Trend
-- Mean Time to Repair
-- Deployment Frequency
-- Work in Progress (WIP)
+- Agile Project Management
 - Cycle Time
-- Throughput
+- Decision Making
+- Deployment Frequency
+- Empirical Process Control
+- Engineering Excellence
+- Evidence Based Leadership
 - Evidence Based Management
-- Value Stream Management
-- Agile Planning
-- Continuous Improvement
+- Operational Practices
+- Pragmatic Thinking
+- Product Management
+- Release Management
+- Team Performance
+- Throughput
 - Transparency
-- Team Collaboration
-- Agile Software Development
+- Working Software
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

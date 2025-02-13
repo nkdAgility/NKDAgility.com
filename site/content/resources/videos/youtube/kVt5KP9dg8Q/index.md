@@ -43,8 +43,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Business Agility
 - People and Process
+- Product Delivery
 - Value Delivery
 
 ---

@@ -24,10 +24,10 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
-- Ability to Innovate
 - Agile Leadership
 - Agile Philosophy
 - Agile Strategy
+- Agile Values and Principles
 - Change Management
 - Continuous Learning
 - Decision Making

@@ -45,7 +45,7 @@ resourceTypes:
 - video
 categories:
 - Discovery and Learning
-- Metrics and Learning
+- Product Delivery
 - Value Delivery
 
 ---

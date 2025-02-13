@@ -40,9 +40,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - Code and Complexity
 - DevOps
+- Value Delivery
 
 ---
  # Understanding and Managing Technical Debt: Lessons from Azure DevOps | Martin Hinshelwood  

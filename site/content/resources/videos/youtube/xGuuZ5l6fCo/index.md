@@ -30,6 +30,7 @@ sitemap:
 tags:
 - Agile Frameworks
 - Agile Leadership
+- Agile Philosophy
 - Agile Planning
 - Agile Project Management
 - Agile Strategy
@@ -38,12 +39,11 @@ tags:
 - Change Management
 - Customer Feedback Loops
 - Decision Making
+- Empirical Process Control
 - Operational Practices
 - Organisational Change
-- Organisational Culture
 - Product Discovery
 - Product Management
-- Product Validation
 - Team Collaboration
 - Team Motivation
 - Team Performance
@@ -52,7 +52,7 @@ resourceTypes:
 - video
 categories:
 - Agile Product Management
-- Business Agility
+- People and Process
 - Product Delivery
 
 ---

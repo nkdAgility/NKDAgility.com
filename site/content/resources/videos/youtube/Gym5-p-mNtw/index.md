@@ -49,7 +49,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Agile Product Management
+- Business Agility
 - Metrics and Learning
 - People and Process
 

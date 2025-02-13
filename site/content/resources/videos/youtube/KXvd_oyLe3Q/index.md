@@ -52,7 +52,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Metrics and Learning
+- Discovery and Learning
 - Resilience and Change
 
 ---

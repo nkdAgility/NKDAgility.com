@@ -33,7 +33,7 @@ card:
 categories:
 - Flow Efficiency
 - Kanban
-- Metrics and Learning
+- Product Delivery
 tags:
 - Accountability
 - Agile Frameworks

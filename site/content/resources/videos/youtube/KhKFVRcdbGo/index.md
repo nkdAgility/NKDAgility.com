@@ -30,8 +30,8 @@ resourceTypes:
 - video
 categories:
 - Metrics and Learning
-- People and Process
 - Value Delivery
+- Value Stream Management
 tags:
 - Agile Strategy
 - Decision Making

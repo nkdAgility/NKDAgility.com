@@ -38,27 +38,25 @@ aliasesFor404:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
 categories:
-- Metrics and Learning
-- Value Delivery
-- Technical Excellence
-- People and Process
-- DevOps
-tags:
-- Agile Software Development
-- Agile Values and Principles
-- Agile Tools
-- Customer Feedback Loops
-- Continuous Improvement
 - Agile Product Management
+- Metrics and Learning
+- People and Process
+tags:
+- Agile Frameworks
+- Agile Philosophy
 - Agile Planning
-- Team Collaboration
-- DevOps
-- Evidence Based Management
-- Agile Transformation
-- Technical Excellence
-- Agile Product Discovery
 - Agile Project Management
-- Value Delivery
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Continuous Integration
+- Customer Feedback Loops
+- Engineering Excellence
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Working Software
 
 ---
 Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).

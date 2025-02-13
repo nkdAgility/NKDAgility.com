@@ -35,19 +35,24 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Coaching
+- Engineering Practices
 - Mentoring
+- Pragmatic Thinking
 - Professional Scrum
+- Scaled Agile
+- Scaling Agility
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Software Developers
 - Software Development
+- Strategy
 - Team Performance
 - Technical Leadership
 categories:
 - Agile Product Management
 - People and Process
-- Practical Techniques and Tooling
+- Product Delivery
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

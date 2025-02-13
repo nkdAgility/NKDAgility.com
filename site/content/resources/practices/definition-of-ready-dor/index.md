@@ -23,26 +23,21 @@ card:
   content: Discover more about Definition of Ready (DoR) and how it can help you in your Agile journey!
   title: Definition of Ready (DoR)
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Value Delivery
-- Technical Excellence
-- Discovery and Learning
 tags:
-- Definition of Ready
-- Scrum Product Management
-- Definition of Done
-- Backlog Refinement
+- Agile Frameworks
 - Agile Planning
-- Agile Product Ownership
-- Team Collaboration
-- Agile Software Development
-- Continuous Improvement
-- Agile Estimation
-- Working Agreements
-- Sprint Planning Workshop
-- Agile Values and Principles
+- Agile Project Management
+- Backlog Refinement
+- Definition of Ready
+- Pragmatic Thinking
 - Product Backlog
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
 
 ---
 From the perspective of Scrum, the idea of Ready, as applied to a Backlog Item, represents everyone's (Developers, Product Owner, & Stakeholders) understanding of what is needed to implement that Backlog Item. Since this is subjective and not objective, having a definition of what constitutes ready is not possible.

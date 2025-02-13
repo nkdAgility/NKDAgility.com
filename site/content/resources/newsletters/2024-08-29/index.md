@@ -17,26 +17,16 @@ aliasesFor404:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
-- Discovery and Learning
 - Agile Product Management
-- People and Process
-- Value Delivery
-- Events and Presentations
+- Discovery and Learning
+- Products and Books
 tags:
-- Agile Product Discovery
-- Agile Product Validation
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Leadership
-- Product Strategy
-- Continuous Improvement
-- Agile Software Development
-- Scrum Product Management
-- Agile Community
-- Lean Product Development
-- Evidence Based Management
-- Agile Methodology
-- Professional Scrum
+- Customer Satisfaction
+- Experimentation
+- Product Discovery
+- Product Management
+- Product Owner
+- Product Validation
 
 ---
 **Dear Innovators and Product Enthusiasts,**

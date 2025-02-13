@@ -36,9 +36,9 @@ card:
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
 categories:
-- People and Process
 - Product Delivery
 - Scaling Agility
+- Transparency and Accountability
 tags:
 - Accountability
 - Agile Frameworks
