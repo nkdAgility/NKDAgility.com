@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Sprint Review
-  subtitle: Facilitating stakeholder engagement and transparency through iterative feedback on product increments in Agile and Lean methodologies.
-  content: |-
-    The Sprint Review is a key event in Agile and Scrum that focuses on evaluating the increment of work completed during the sprint. It’s all about gathering feedback from stakeholders, ensuring transparency, and making necessary adjustments to the product. This collaborative session allows teams to showcase their progress, discuss what went well, and identify areas for improvement, fostering a culture of continuous learning and adaptation.
-
-    Posts in this classification should cover topics such as effective facilitation techniques, stakeholder engagement strategies, and methods for incorporating feedback into future sprints. Additionally, connections to Lean principles, DevOps practices, and Evidence-Based Management can provide valuable insights into optimising the review process and enhancing team performance.
-  updated: 2025-02-13T10:55:21Z
+  subtitle: Facilitating stakeholder engagement and iterative improvement through transparent evaluation of progress and outcomes.
+  content: A collaborative session for evaluating the increment, fostering stakeholder engagement, and gathering feedback to inform future work. Posts should explore techniques for effective communication, methods for assessing progress, and strategies for incorporating insights into subsequent iterations, enhancing overall project transparency and alignment with stakeholder needs.
+  updated: 2025-02-13T12:02:12Z
 
 ---
 

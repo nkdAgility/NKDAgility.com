@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Organisational Culture
-  subtitle: Understanding how organisational culture influences agility, responsiveness, and transformation in Agile, DevOps, and Lean practices.
-  content: |-
-    This classification dives into the vital role organisational culture plays in shaping how teams embrace agility, respond to change, and drive transformation. It highlights the interplay between culture and methodologies like Agile, Scrum, DevOps, and Lean, showcasing how a supportive environment can enhance collaboration, innovation, and efficiency.
-
-    Posts in this category should explore key topics such as the impact of leadership styles on team dynamics, the importance of psychological safety, and how cultural values align with practices from Kanban, Lean, and Evidence-Based Management. Additionally, discussions around complexity theory and frameworks like Cynefin can provide insights into navigating organisational challenges and fostering a culture that thrives on adaptability and continuous improvement.
-  updated: 2025-02-13T10:57:54Z
+  subtitle: Cultivating a responsive environment that fosters innovation, collaboration, and continuous improvement for transformative success.
+  content: Exploring the dynamics of workplace culture and its impact on collaboration, innovation, and adaptability. Posts delve into practices that enhance team engagement, foster psychological safety, and drive continuous improvement, drawing insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
+  updated: 2025-02-13T12:03:37Z
 
 ---
 

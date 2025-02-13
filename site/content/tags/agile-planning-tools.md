@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Agile Planning Tools
-  subtitle: Streamline Agile execution with tools for effective backlog management, forecasting, and team collaboration across Kanban, Scrum, and DevOps methodologies.
-  content: |-
-    This classification focuses on tools that enhance Agile planning and execution, making it easier for teams to manage their backlogs, forecast project timelines, and collaborate effectively. By leveraging these tools, teams can streamline their workflows and adapt to changing requirements, ensuring that they remain responsive and efficient in their delivery.
-
-    Key topics in this classification include backlog management techniques, forecasting methods, collaboration strategies across Agile frameworks like Scrum and Kanban, and insights from Lean and DevOps practices. Posts may also explore the integration of Evidence-Based Management principles and Complexity Theory to improve decision-making and adaptability in dynamic environments.
-  updated: 2025-02-13T11:04:28Z
+  subtitle: Streamline project execution with effective planning tools that enhance collaboration, backlog management, and forecasting for successful outcomes.
+  content: Facilitate effective project execution through strategic planning tools that improve collaboration, enhance backlog prioritisation, and enable accurate forecasting. Posts should explore methodologies for optimising workflow, managing team dynamics, and leveraging data-driven insights to drive successful project outcomes in complex environments.
+  updated: 2025-02-13T12:06:21Z
 
 ---
 

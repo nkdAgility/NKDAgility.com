@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Lean Product Development
-  subtitle: Streamline product creation by minimising waste and maximising learning through Agile, Lean, and DevOps principles.
-  content: |-
-    This classification focuses on the principles and practices of Lean Product Development, emphasising the importance of minimising waste while maximising learning throughout the product creation process. It draws on insights from Lean, Agile, and DevOps methodologies, encouraging teams to adopt a mindset of continuous improvement and adaptability in a fast-paced environment.
-
-    Posts in this category should explore key topics such as value stream mapping, iterative development, and the integration of Kanban and Scrum practices. Additionally, discussions around Evidence-Based Management and Complexity Theory can provide valuable perspectives on decision-making and navigating uncertainty in product development. By leveraging these frameworks, teams can enhance their ability to deliver high-quality products that meet customer needs efficiently.
-  updated: 2025-02-13T10:58:36Z
+  subtitle: Streamlining product creation by reducing inefficiencies and enhancing insights through iterative learning and adaptive processes.
+  content: Fostering efficient product development through iterative cycles that prioritise learning and adaptability. Emphasising the reduction of waste, teams should explore practices that enhance collaboration, visualise workflows, and leverage data-driven insights to inform decision-making, ultimately delivering value more effectively and responsively.
+  updated: 2025-02-13T12:04:07Z
 
 ---
 

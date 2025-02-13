@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Remote Working
-  subtitle: Best practices for fostering collaboration and productivity in agile teams across distributed environments, informed by Lean and DevOps principles.
-  content: |-
-    This classification focuses on the practices that enhance collaboration and productivity for agile teams working in distributed environments. It explores how remote working can be effectively managed through frameworks and principles from Agile, Scrum, Lean, and DevOps, ensuring that teams remain engaged and aligned despite geographical distances.
-
-    Posts in this category should cover key topics such as communication strategies, tools for remote collaboration, techniques for maintaining team cohesion, and methods for measuring productivity and performance. Additionally, insights from Evidence-Based Management and Complexity Theory can provide valuable perspectives on navigating the challenges of remote work, helping teams adapt and thrive in a dynamic landscape.
-  updated: 2025-02-13T10:56:34Z
+  subtitle: Strategies for fostering collaboration and productivity in distributed teams across various methodologies and frameworks.
+  content: Strategies for enhancing collaboration and productivity in distributed teams, emphasising communication, trust-building, and adaptive workflows. Posts should explore tools, techniques, and frameworks that facilitate seamless interaction, accountability, and continuous improvement, while addressing challenges unique to remote environments and fostering a culture of engagement and innovation.
+  updated: 2025-02-13T12:03:01Z
 
 ---
 

@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Deployment Strategies
-  subtitle: Optimising software delivery through effective risk management and speed, informed by Agile, DevOps, and Lean principles.
-  content: |-
-    This classification focuses on the various approaches to deploying software in a way that balances the need for speed with the management of risk. It’s all about finding the right methods to get your product into the hands of users quickly while ensuring that quality and reliability are not compromised. Posts in this category should explore different deployment strategies, including continuous delivery, blue-green deployments, canary releases, and feature toggles, as well as the principles behind them.
-
-    Key topics to cover include the role of Agile and Scrum in shaping deployment practices, insights from DevOps and Lean methodologies, and how evidence-based management can inform decision-making in deployment processes. Additionally, discussions around complexity theory and its implications for deployment strategies can provide valuable perspectives on navigating uncertainty in software delivery.
-  updated: 2025-02-13T11:00:11Z
+  subtitle: Optimising software release methods to enhance delivery speed while minimising potential risks.
+  content: Strategies for deploying software encompass methods that enhance the speed of delivery while effectively managing associated risks. Posts should explore techniques such as continuous integration, automated testing, release planning, and feedback loops, emphasising the importance of adaptability and responsiveness in dynamic environments.
+  updated: 2025-02-13T12:04:57Z
 
 ---
 

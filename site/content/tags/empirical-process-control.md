@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Empirical Process Control
-  subtitle: Harnessing evidence-driven insights for adaptive decision-making in Agile, Lean, and DevOps practices.
-  content: |-
-    This classification focuses on the principles of adapting and evolving practices based on real evidence rather than assumptions. It emphasises the importance of transparency and regular inspection in processes, allowing teams to make informed decisions that enhance their workflows. By leveraging insights from various methodologies like Agile, Lean, and DevOps, this approach encourages continuous improvement and responsiveness to change.
-
-    Posts in this classification should explore key topics such as the role of empirical data in decision-making, the significance of feedback loops, and the application of frameworks like Kanban and Scrum. Additionally, discussions around Evidence-Based Management and its connection to complexity theory can provide valuable perspectives on navigating uncertainty and fostering a culture of learning within teams.
-  updated: 2025-02-13T11:00:04Z
+  subtitle: Harnessing insights through observation and transparency to drive informed decision-making and continuous improvement.
+  content: Utilising data-driven insights to enhance processes and outcomes, this classification emphasises the importance of regular evaluation and transparency. Posts should explore topics such as iterative improvement, performance metrics, feedback loops, and the role of collaboration in fostering a culture of continuous learning and adaptation.
+  updated: 2025-02-13T12:04:52Z
 
 ---
 

@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Lean Startup
-  subtitle: Rapidly validate business ideas using Lean principles, integrating Agile, DevOps, and Evidence-Based Management for minimal risk and maximum learning.
-  content: |-
-    This classification focuses on the Lean Startup methodology, which emphasises the importance of quickly testing and validating business ideas to minimise risk and maximise learning. By applying Lean principles, entrepreneurs can efficiently iterate on their concepts, ensuring they meet market needs without wasting resources. This approach is particularly relevant in today's fast-paced environment, where adaptability and responsiveness are key to success.
-
-    Posts in this classification should explore topics such as the Build-Measure-Learn feedback loop, customer development, and the role of Agile practices in fostering innovation. Additionally, connections to Kanban for workflow management, DevOps for seamless delivery, and Evidence-Based Management for informed decision-making can enrich discussions. Emphasising real-world applications and case studies will help illustrate how Lean Startup principles can drive sustainable growth and value creation.
-  updated: 2025-02-13T10:58:28Z
+  subtitle: Rapidly test and validate business concepts to minimise risk and enhance decision-making through iterative learning and evidence-based insights.
+  content: A methodology for swiftly evaluating and refining business concepts through iterative experimentation and data-driven insights. Posts should explore hypothesis testing, customer feedback loops, minimum viable products, and metrics for success, emphasising the importance of learning and adaptation in uncertain environments.
+  updated: 2025-02-13T12:03:59Z
 
 ---
 

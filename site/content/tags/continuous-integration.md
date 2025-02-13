@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Continuous Integration
-  subtitle: 'Streamline development with Continuous Integration: merge code frequently, catch errors early, and enhance collaboration across Agile, DevOps, and Lean practices.'
-  content: |-
-    Continuous Integration (CI) is all about making development smoother and more efficient. It encourages teams to merge their code changes frequently, which helps catch errors early and keeps the codebase in good shape. This approach not only enhances collaboration but also aligns well with Agile, Scrum, and DevOps principles, ensuring that teams can deliver value quickly and reliably.
-
-    In this classification, you'll find posts that dive into the core practices of CI, including automated testing, build processes, and deployment strategies. Expect discussions on how CI fits within Kanban and Lean methodologies, as well as its role in Evidence-Based Management. Whether you're exploring the technical aspects or the cultural shifts needed for successful implementation, this is the place to learn how CI can transform your development workflow.
-  updated: 2025-02-13T11:02:56Z
+  subtitle: Streamline development processes by merging code frequently, identifying issues early, and ensuring a robust and reliable codebase.
+  content: Facilitate rapid and reliable software development by integrating code changes frequently. Emphasise early error detection, automated testing, and seamless collaboration to enhance code quality and team efficiency. Explore topics such as version control, build automation, testing frameworks, and deployment strategies to ensure a resilient software delivery pipeline.
+  updated: 2025-02-13T12:05:27Z
 
 ---
 

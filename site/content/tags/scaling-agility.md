@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Scaling Agility
-  subtitle: Empowering organisations to enhance agility through frameworks, practices, and evidence-based strategies across all levels and disciplines.
-  content: |-
-    This classification focuses on the journey of organisations as they scale agility beyond traditional frameworks, fostering a culture of adaptability and responsiveness at every level. It’s all about integrating practices from Agile, Lean, Kanban, and DevOps to create a holistic approach that empowers teams to thrive in complex environments.
-
-    Posts in this category should explore key topics such as the principles of Evidence-Based Management, the application of Complexity Theory, and the interplay between Agile methodologies and Lean practices. Contributors are encouraged to share insights on real-world implementations, challenges faced, and strategies for cultivating an agile mindset across teams and departments.
-  updated: 2025-02-13T10:56:23Z
+  subtitle: Empowering organisations to enhance responsiveness and adaptability through effective practices and collaborative frameworks at all levels.
+  content: Cultivating organisational responsiveness and adaptability through collaborative frameworks and iterative practices. Posts explore team dynamics, workflow optimisation, continuous improvement, and evidence-based decision-making, drawing insights from complexity theory and management principles to enhance performance across all levels of the organisation.
+  updated: 2025-02-13T12:02:53Z
 
 ---
 

@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Daily Scrum
-  subtitle: Enhance team synergy and responsiveness through Daily Scrums, fostering alignment with Sprint Goals and adapting to evolving project dynamics.
-  content: |-
-    The Daily Scrum is a vital touchpoint for teams to align on their progress and adapt their plans in a fast-paced environment. It’s all about fostering open communication, ensuring everyone is on the same page, and keeping the Sprint Goal in sight. This brief, focused meeting helps teams inspect their work, identify any roadblocks, and make necessary adjustments to stay agile and responsive.
-
-    Posts in this classification should explore key topics such as effective facilitation techniques, the role of the Daily Scrum in various frameworks like Kanban and Lean, and its impact on team dynamics and productivity. Additionally, discussions around integrating the Daily Scrum with DevOps practices and Evidence-Based Management principles can provide valuable insights into enhancing team performance and adaptability in complex project landscapes.
-  updated: 2025-02-13T11:02:27Z
+  subtitle: Enhance team synergy and responsiveness through focused daily check-ins, ensuring alignment with objectives and adaptability to change.
+  content: Facilitate team cohesion and responsiveness through structured, time-boxed discussions. Emphasise progress evaluation, plan adjustments, and commitment to objectives, fostering a culture of transparency and continuous improvement. Explore topics such as team dynamics, goal alignment, and adaptive planning strategies.
+  updated: 2025-02-13T12:05:10Z
 
 ---
 

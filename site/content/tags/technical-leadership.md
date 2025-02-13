@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Technical Leadership
-  subtitle: Empowering teams through technical expertise and agile methodologies, fostering innovation and efficiency in software development.
-  content: |-
-    This classification focuses on the role of technical leadership in guiding development teams through the complexities of software delivery. It emphasises the importance of combining technical expertise with agile methodologies to foster a culture of collaboration, innovation, and continuous improvement. Posts in this category should explore how leaders can effectively support their teams in navigating challenges, implementing practices from frameworks like Scrum and Kanban, and embracing the principles of DevOps and Lean.
-
-    Key topics include strategies for mentoring and coaching team members, the integration of evidence-based management to inform decision-making, and the application of complexity theory to enhance adaptability in dynamic environments. Additionally, discussions may cover the influence of notable figures in the field, such as Gene Kim and Ken Schwaber, and how their insights can shape effective technical leadership in modern software development.
-  updated: 2025-02-13T10:54:28Z
+  subtitle: Empowering teams through expert guidance and best practices for effective software development and delivery.
+  content: Empowering development teams through strategic guidance and technical expertise, fostering collaboration and innovation. Posts should explore effective methodologies, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from industry thought leaders and frameworks to enhance delivery and adaptability in complex environments.
+  updated: 2025-02-13T12:01:49Z
 
 ---
 

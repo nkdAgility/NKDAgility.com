@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Asynchronous Development
-  subtitle: Enhance collaboration and efficiency in distributed teams through Asynchronous Development practices rooted in Agile, Lean, and DevOps principles.
-  content: |-
-    Asynchronous Development is all about fostering collaboration across teams that may not be in the same place or time zone. It allows for flexibility and efficiency, enabling teams to work at their own pace while still contributing to shared goals. This approach is particularly relevant in today’s fast-paced environment, where traditional synchronous methods can hinder progress and innovation.
-
-    Posts in this classification should explore key topics such as the principles of Agile and Lean, the role of Kanban in managing workflows, and how DevOps practices can enhance delivery. Additionally, discussions around Evidence-Based Management and Complexity Theory can provide insights into making informed decisions in a dynamic landscape. By embracing these concepts, teams can improve their collaboration and adapt to the complexities of modern development.
-  updated: 2025-02-13T11:03:42Z
+  subtitle: Enhance collaboration and productivity through flexible workflows that empower distributed teams to thrive in dynamic environments.
+  content: Facilitate effective collaboration across time zones by embracing flexible workflows that prioritise communication and transparency. Posts should explore strategies for managing work in progress, optimising team interactions, and leveraging tools that support distributed environments, enhancing overall productivity and responsiveness to change.
+  updated: 2025-02-13T12:06:02Z
 
 ---
 

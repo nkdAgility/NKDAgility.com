@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Agile Frameworks
-  subtitle: Explore key Agile frameworks, their principles, and applications to enhance organisational agility, value delivery, and continuous improvement.
-  content: |-
-    Dive into the world of Agile frameworks, where you'll uncover the diverse methodologies that drive organisational agility and enhance value delivery. This classification is all about exploring frameworks like Scrum, Kanban, and Lean, and understanding how they can be applied in real-world scenarios. You'll also see how these frameworks intersect with DevOps practices and Evidence-Based Management, providing a holistic view of agility in action.
-
-    Posts in this category should cover key topics such as the principles and practices of various Agile frameworks, their applications in different contexts, and their impact on team dynamics and organisational culture. Expect insights from thought leaders like Ken Schwaber, Daniel Vacanti, and Gene Kim, as well as discussions on complexity theory and continuous improvement strategies that can help teams navigate the challenges of modern project management.
-  updated: 2025-02-13T11:04:43Z
+  subtitle: Discover and evaluate frameworks for iterative development, enhancing team collaboration, and optimising value delivery in dynamic environments.
+  content: Examine various frameworks that facilitate iterative development, fostering collaboration and enhancing value delivery. Posts should delve into principles, methodologies, and real-world applications, drawing insights from experts and exploring the interplay between complexity, team dynamics, and continuous improvement in organisational contexts.
+  updated: 2025-02-13T12:06:31Z
 
 ---
 

@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Azure Pipelines
-  subtitle: Streamline your CI/CD processes with Azure Pipelines for efficient automation in Agile, DevOps, and Lean environments.
-  content: |-
-    This classification focuses on the use of Azure Pipelines to automate the software development lifecycle, making it a vital tool for teams embracing Agile, DevOps, and Lean methodologies. Posts in this category should explore how Azure Pipelines can enhance continuous integration and continuous delivery (CI/CD) processes, enabling teams to deliver high-quality software more efficiently. 
-
-    Key topics include setting up and configuring pipelines, integrating testing and deployment processes, and leveraging Azure's capabilities to support Agile practices like Kanban and Scrum. Additionally, discussions may touch on how Azure Pipelines aligns with principles from Lean and Evidence-Based Management, helping teams to optimise workflows and make informed decisions based on real-time data.
-  updated: 2025-02-13T11:03:30Z
+  subtitle: Streamlining software delivery through automated workflows for efficient builds, testing, and deployment processes.
+  content: Automating the software delivery lifecycle enhances collaboration and accelerates time-to-market. Posts should explore continuous integration, continuous deployment, and the integration of testing within workflows, while addressing the principles of flow, feedback, and iterative improvement to optimise delivery efficiency and quality.
+  updated: 2025-02-13T12:05:52Z
 
 ---
 

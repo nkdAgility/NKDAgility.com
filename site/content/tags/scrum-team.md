@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Scrum Team
-  subtitle: Exploring collaboration, roles, and dynamics for high-performing Scrum Teams in Agile, Lean, and DevOps environments.
-  content: |-
-    This classification dives into the collaboration and dynamics that make up a high-performing Scrum Team. It’s all about understanding how team members interact, communicate, and work together to deliver value in an Agile environment. Posts here should explore the roles within the team, the importance of effective communication, and how to foster a culture of trust and accountability.
-
-    Key topics include the principles outlined in the Scrum Guide, insights from Agile thought leaders, and connections to Lean and DevOps practices. Additionally, discussions on how to apply Evidence-Based Management to enhance team performance and adapt to complexity will be valuable. Whether you're looking to improve team dynamics or implement new practices, this classification is your go-to for all things Scrum Team-related.
-  updated: 2025-02-13T10:56:06Z
+  subtitle: Optimising teamwork dynamics for enhanced collaboration and performance in high-functioning project environments.
+  content: Collaboration and dynamics within a high-performing team are essential for delivering value and fostering innovation. Posts should explore roles, responsibilities, communication strategies, conflict resolution, and continuous improvement practices, while also considering the impact of complexity and variability in project environments.
+  updated: 2025-02-13T12:02:40Z
 
 ---
 

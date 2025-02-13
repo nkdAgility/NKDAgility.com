@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Backlog Refinement
-  subtitle: Enhance clarity and prioritisation in your backlog to ensure readiness for execution across Agile, Scrum, DevOps, and Lean methodologies.
-  content: |-
-    Backlog Refinement is all about making sure your team's work is clear, prioritised, and ready to go. This process helps you break down larger tasks into manageable pieces, ensuring that everyone understands what needs to be done and why. It’s a crucial step in Agile and Scrum, where clarity can significantly impact the flow of work and team productivity.
-
-    In this classification, you'll find posts that dive into techniques for effective backlog management, tips for prioritising tasks, and insights on how to keep your backlog aligned with your team's goals. Expect discussions on the interplay between Agile, Lean, and DevOps practices, as well as how to leverage Evidence-Based Management to make informed decisions. Whether you're exploring Kanban principles or the complexities of team dynamics, this is the place to enhance your backlog refinement skills.
-  updated: 2025-02-13T11:03:22Z
+  subtitle: Enhance project clarity and execution readiness through effective prioritisation and definition of tasks in your workflow.
+  content: Enhance project execution by ensuring tasks are clearly defined, prioritised, and ready for implementation. Posts should explore techniques for effective task management, prioritisation frameworks, stakeholder engagement, and the impact of well-structured workflows on team performance and delivery outcomes.
+  updated: 2025-02-13T12:05:45Z
 
 ---
 

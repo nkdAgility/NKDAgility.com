@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Agile Transformation
-  subtitle: 'Empower your organisation through Agile Transformation: embrace change, enhance processes, and foster a culture of continuous improvement and agility.'
-  content: |-
-    This classification focuses on the journey of Agile Transformation within organisations, highlighting the shift in mindsets and processes necessary to achieve true agility. It’s all about embracing change, fostering a culture of continuous improvement, and adapting to the complexities of modern business environments. Posts in this category should explore practical strategies, frameworks, and real-world examples that illustrate how teams can evolve their practices and enhance collaboration.
-
-    Key topics include the principles of Agile and Scrum, insights from Lean methodologies, and the integration of DevOps practices. Discussions may also delve into Evidence-Based Management and Complexity Theory, providing a holistic view of how organisations can navigate their transformation journeys. Whether it’s through Kanban techniques or the latest in Continuous Delivery, the aim is to equip readers with the knowledge and tools to drive effective change.
-  updated: 2025-02-13T11:04:15Z
+  subtitle: Empower your organisation to embrace change, enhance collaboration, and foster a culture of continuous improvement for lasting success.
+  content: Cultivate a culture of adaptability and responsiveness within your organisation. Explore strategies for mindset shifts, process evolution, and enhanced collaboration. Posts should delve into frameworks, metrics for success, and techniques for navigating complexity, ultimately driving sustainable improvement and value delivery.
+  updated: 2025-02-13T12:06:13Z
 
 ---
 

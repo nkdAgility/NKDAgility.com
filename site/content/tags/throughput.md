@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Throughput
-  subtitle: Measuring work completion rates to optimise flow and enhance delivery in Agile, Scrum, Kanban, and DevOps environments.
-  content: |-
-    Throughput is all about understanding how quickly work items move through your process, giving you insights into your team's efficiency and flow. It’s a key metric in Agile, Scrum, Kanban, and DevOps that helps you identify bottlenecks and optimise delivery. By measuring throughput, you can make informed decisions that enhance your workflow and improve overall performance.
-
-    Posts in this classification should explore topics like the principles of Kanban, the role of throughput in Agile and Scrum frameworks, and its significance in Lean and DevOps practices. You might also delve into how throughput relates to Evidence-Based Management and Complexity Theory, providing a well-rounded view of how to effectively manage and improve work processes in dynamic environments.
-  updated: 2025-02-13T10:54:09Z
+  subtitle: Optimising Work Completion Rates for Enhanced Efficiency and Flow in Project Management
+  content: A measure of work item completion rates within specified timeframes, this classification examines flow efficiency, cycle time, and bottleneck identification. It encompasses practices for optimising throughput, enhancing team performance, and improving delivery predictability, drawing insights from various methodologies and frameworks to foster continuous improvement.
+  updated: 2025-02-13T12:01:30Z
 
 ---
 

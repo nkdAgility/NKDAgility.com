@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Lead Time
-  subtitle: Optimising the duration from task initiation to delivery, enhancing flow in Agile, Kanban, and DevOps practices for improved customer satisfaction.
-  content: |-
-    This classification focuses on the concept of lead time, which is all about measuring the duration from when work starts to when it reaches the customer. Understanding lead time is crucial for teams looking to enhance their workflow and deliver value more efficiently. It plays a significant role in various methodologies, including Kanban, Agile, and DevOps, helping teams identify bottlenecks and improve their processes.
-
-    Posts in this classification should explore key topics such as techniques for measuring lead time, strategies for reducing it, and its impact on customer satisfaction. Additionally, discussions around the relationship between lead time and practices from Lean, Evidence-Based Management, and Complexity Theory can provide valuable insights into optimising delivery and fostering a culture of continuous improvement.
-  updated: 2025-02-13T10:58:43Z
+  subtitle: Optimising the duration from task start to customer satisfaction, enhancing workflow efficiency and delivery effectiveness.
+  content: A comprehensive examination of the duration from task initiation to customer delivery, emphasising the importance of minimising delays and enhancing throughput. Posts should explore workflow optimisation, bottleneck identification, cycle time reduction, and the impact of process improvements on customer satisfaction and overall delivery effectiveness.
+  updated: 2025-02-13T12:04:12Z
 
 ---
 

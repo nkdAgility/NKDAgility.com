@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Professional Scrum
-  subtitle: Explore Scrum principles, roles, and practices, integrating Agile, Lean, and DevOps insights for effective professional development and team success.
-  content: |-
-    This classification dives into the core of Scrum, offering insights that help professionals navigate its principles, roles, and practices. It’s all about understanding how Scrum fits within the broader Agile landscape, while also connecting with Lean, Kanban, and DevOps methodologies. Whether you're a Scrum Master, Product Owner, or team member, this space is designed to enhance your knowledge and application of Scrum in real-world scenarios.
-
-    Posts in this classification should cover key topics such as the Scrum framework, team dynamics, the role of the Scrum Master, and the importance of evidence-based management. Additionally, exploring the interplay between Scrum and other methodologies like Kanban and Lean will provide a well-rounded perspective, helping teams to adapt and thrive in complex environments.
-  updated: 2025-02-13T10:57:09Z
+  subtitle: Explore essential principles, roles, and practices for professionals navigating collaborative frameworks and iterative processes.
+  content: In-depth exploration of iterative frameworks, emphasising roles, responsibilities, and collaborative practices. Posts delve into team dynamics, stakeholder engagement, and continuous improvement, while integrating insights from complexity theory and evidence-based management to enhance decision-making and adaptability in dynamic environments.
+  updated: 2025-02-13T12:03:11Z
 
 ---
 

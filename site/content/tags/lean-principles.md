@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Lean Principles
-  subtitle: Streamline processes and enhance value through iterative learning, continuous improvement, and evidence-based decision-making in Agile and DevOps.
-  content: |-
-    This classification focuses on the core principles of Lean thinking, which aim to eliminate waste and enhance value in various processes. It encourages a culture of iterative learning and continuous improvement, making it highly relevant for teams working within Agile, Scrum, and DevOps frameworks. By embracing Lean principles, organisations can streamline their workflows, foster collaboration, and adapt to changing demands more effectively.
-
-    Posts in this classification should explore key topics such as the application of Lean methodologies in Kanban and Agile environments, the integration of Lean with DevOps practices, and the role of evidence-based management in driving improvements. Additionally, discussions around complexity theory and its implications for Lean practices can provide valuable insights into navigating uncertainty and enhancing decision-making.
-  updated: 2025-02-13T10:58:40Z
+  subtitle: Optimising processes to enhance value delivery through iterative learning and systematic improvement.
+  content: A systematic approach to enhancing value delivery by identifying and eliminating inefficiencies. Posts should explore iterative learning, process optimisation, flow management, and the integration of feedback loops, drawing on insights from systems thinking, complexity theory, and continuous improvement methodologies.
+  updated: 2025-02-13T12:04:10Z
 
 ---
 

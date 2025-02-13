@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Hypothesis Driven Development
-  subtitle: Driving product decisions through experimentation and validated learning, integrating Agile, Lean, and DevOps principles for continuous improvement.
-  content: |-
-    This classification focuses on the practice of using experimentation and validated learning to inform product development decisions. It encourages teams to formulate hypotheses about their products and test them through iterative cycles, allowing for data-driven insights that can lead to better outcomes. By embracing this approach, teams can adapt quickly to changing user needs and market conditions, making it a vital part of Agile, Lean, and DevOps methodologies.
-
-    Key topics in this classification include the formulation of testable hypotheses, designing experiments, analysing results, and applying findings to enhance product features. Posts may also explore the integration of Evidence-Based Management principles, the role of complexity theory in understanding user behaviour, and how practices from Kanban and Scrum can support a culture of continuous improvement and learning.
-  updated: 2025-02-13T10:58:53Z
+  subtitle: Driving product decisions through experimentation and learning to enhance value delivery and adapt to changing needs.
+  content: Utilising structured experimentation and empirical evidence to inform product decisions enhances value delivery and responsiveness to user needs. Posts should explore methodologies for hypothesis formulation, testing, data analysis, and iterative learning, alongside frameworks that support decision-making in complex environments.
+  updated: 2025-02-13T12:04:21Z
 
 ---
 

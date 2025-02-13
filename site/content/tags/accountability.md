@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Accountability
-  subtitle: Empowering teams through ownership and trust, fostering high performance in Agile, Scrum, DevOps, and Lean methodologies.
-  content: |-
-    Accountability in Agile is all about taking ownership of commitments and outcomes, creating a culture where teams feel empowered to deliver without the fear of blame. This mindset not only builds trust among team members but also drives high performance, enabling teams to adapt and thrive in complex environments.
-
-    Posts in this classification should explore topics like the role of accountability in Agile and Scrum frameworks, the impact of ownership on team dynamics, and how accountability aligns with principles from Lean and DevOps. Additionally, discussions around Evidence-Based Management and its connection to accountability, as well as insights from complexity theory, can provide valuable perspectives on fostering a culture of responsibility and continuous improvement.
-  updated: 2025-02-13T11:05:02Z
+  subtitle: Fostering ownership and trust within teams to enhance performance and commitment in dynamic environments.
+  content: Encouraging a culture of ownership and transparency enhances team dynamics and commitment. Posts should explore practices that promote responsibility for outcomes, the importance of trust in collaboration, and strategies for fostering a supportive environment that drives performance in complex, evolving contexts.
+  updated: 2025-02-13T12:06:34Z
 
 ---
 

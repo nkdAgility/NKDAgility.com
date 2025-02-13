@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Organisational Physics
-  subtitle: Exploring systems thinking to enhance organisational dynamics through Agile, Lean, DevOps, and Evidence-Based Management principles.
-  content: |-
-    This classification dives into the fascinating interplay of systems thinking and organisational dynamics, helping teams and leaders grasp how their structures and processes influence performance. By exploring concepts from Agile, Lean, DevOps, and Evidence-Based Management, it aims to shed light on how organisations can adapt and thrive in complex environments.
-
-    Posts in this category should cover key topics such as the principles of Kanban and its application in managing flow, the Agile and Scrum frameworks for iterative development, Lean methodologies for waste reduction, and the integration of DevOps practices for seamless delivery. Additionally, insights from complexity theory and evidence-based management will provide a richer understanding of how to navigate organisational challenges and foster a culture of continuous improvement.
-  updated: 2025-02-13T10:57:51Z
+  subtitle: Harnessing systems thinking to navigate and shape the complexities of organisational behaviour and dynamics.
+  content: Exploring the interplay of systems thinking and organisational behaviour, this classification delves into the dynamics of team interactions, decision-making processes, and the influence of culture on performance. Posts should examine frameworks, methodologies, and real-world applications that enhance understanding and management of complex organisational systems.
+  updated: 2025-02-13T12:03:33Z
 
 ---
 

@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Technical Debt
-  subtitle: Navigating and minimising technical debt to enhance development efficiency and support Agile, DevOps, and Lean practices.
-  content: |-
-    Technical debt refers to the shortcuts and compromises made during software development that can hinder future progress. It’s crucial for teams to recognise and manage this debt to ensure they maintain a healthy development velocity. Posts in this classification should explore strategies for identifying, prioritising, and addressing technical debt, as well as the impact it has on Agile, DevOps, and Lean methodologies.
-
-    Key topics include the relationship between technical debt and team performance, the role of continuous delivery in mitigating debt, and practical approaches for integrating debt management into Kanban and Scrum practices. Additionally, discussions around evidence-based management and complexity theory can provide insights into how teams can navigate the challenges posed by technical debt while fostering a culture of sustainable development.
-  updated: 2025-02-13T10:54:32Z
+  subtitle: Navigating and minimising code liabilities to ensure consistent development flow and enhance project sustainability.
+  content: A critical examination of code liabilities that hinder development efficiency and project longevity. Posts should explore strategies for identifying, prioritising, and addressing these liabilities, as well as their impact on team performance, product quality, and overall organisational health.
+  updated: 2025-02-13T12:01:54Z
 
 ---
 

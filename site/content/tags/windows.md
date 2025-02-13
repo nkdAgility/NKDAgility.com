@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Windows
-  subtitle: 'Explore the Windows operating system: installation, configuration, troubleshooting, and updates for seamless user experience and productivity.'
-  content: |-
-    This classification focuses on the Windows operating system, a vital platform for both personal and professional use. It encompasses a range of topics including installation, configuration, troubleshooting, and updates, making it relevant for users looking to enhance their experience and productivity. 
-
-    Posts in this category should delve into practical aspects of using Windows, such as optimising system performance, managing updates effectively, and resolving common issues. Additionally, connections to Agile and DevOps practices can be explored, highlighting how Windows can support collaborative workflows and continuous delivery in software development environments.
-  updated: 2025-02-13T10:53:47Z
+  subtitle: Comprehensive insights on the Windows operating system, covering setup, management, troubleshooting, and system enhancements.
+  content: The Windows operating system encompasses essential aspects such as installation, configuration, system management, troubleshooting, and security updates. Posts should delve into user experience enhancements, performance optimisation, and integration with various applications, providing practical insights for both novice and experienced users.
+  updated: 2025-02-13T12:01:14Z
 
 ---
 

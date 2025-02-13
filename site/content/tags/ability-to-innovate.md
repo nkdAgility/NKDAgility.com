@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Ability to Innovate
-  subtitle: Enhance your organisation's innovation capacity through Evidence-Based Management, leveraging empirical data for sustainable value delivery.
-  content: |-
-    This classification focuses on enhancing your organisation's ability to innovate by utilising Evidence-Based Management (EBM) principles. It encourages teams to measure their innovation capacity and make informed decisions based on empirical data, ensuring that new value is delivered sustainably. By integrating insights from Agile, Scrum, Lean, and DevOps methodologies, organisations can create a culture that fosters continuous improvement and adaptability.
-
-    Posts in this classification should explore key topics such as the role of EBM in driving innovation, practical techniques for measuring innovation capacity, and strategies for leveraging data to inform decision-making. Additionally, discussions around the intersection of Kanban, Lean practices, and complexity theory can provide valuable perspectives on navigating the challenges of innovation in a dynamic environment.
-  updated: 2025-02-13T11:05:10Z
+  subtitle: Foster sustainable innovation by leveraging empirical insights to enhance value delivery and informed decision-making within your organisation.
+  content: Enhance your organisation's capacity for innovation by utilising empirical insights to drive sustainable value creation. Explore practices that foster a culture of experimentation, informed decision-making, and continuous improvement, while addressing topics such as measurement frameworks, team dynamics, and the interplay between complexity and innovation.
+  updated: 2025-02-13T12:06:39Z
 
 ---
 

@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Decision Making
-  subtitle: Structured, evidence-based strategies for informed decision-making in Agile, Lean, DevOps, and Complexity contexts.
-  content: |-
-    This classification focuses on the art and science of making informed decisions in dynamic environments, drawing from structured, evidence-based approaches. It’s all about leveraging insights from Agile, Lean, DevOps, and Complexity Theory to navigate the complexities of modern business landscapes. By applying frameworks and methodologies from thought leaders like Ken Schwaber, Gene Kim, and Taiichi Ohno, we aim to enhance decision-making processes that are both effective and adaptable.
-
-    Posts in this category should explore key topics such as the principles of Evidence-Based Management, the role of Kanban in visualising workflow, and the impact of Agile and Scrum practices on team dynamics. Additionally, discussions around Continuous Delivery and the application of Complexity Theory, including the Cynefin Framework, will provide valuable perspectives on how to approach decision-making in uncertain and rapidly changing contexts.
-  updated: 2025-02-13T11:02:24Z
+  subtitle: Empowering informed choices through structured analysis and evidence-driven insights for effective organisational outcomes.
+  content: Utilising structured methodologies and empirical data to enhance organisational decision-making, this classification encompasses topics such as risk assessment, performance metrics, stakeholder engagement, and adaptive strategies. It emphasises the importance of informed choices in navigating complexity and fostering sustainable growth within dynamic environments.
+  updated: 2025-02-13T12:05:07Z
 
 ---
 

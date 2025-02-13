@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Release Management
-  subtitle: Strategies for effective planning and execution of incremental software releases in Agile, DevOps, and Lean environments.
-  content: |-
-    This classification focuses on the strategies and practices involved in planning and executing software releases in an incremental and iterative manner. It highlights the importance of aligning release management with Agile, DevOps, and Lean principles to enhance collaboration, reduce waste, and deliver value more effectively. 
-
-    Posts in this category should explore key topics such as release planning techniques, the role of Kanban in managing flow, the integration of Continuous Delivery practices, and the application of Evidence-Based Management to inform decision-making. Additionally, discussions around complexity theory and its implications for release management can provide valuable insights into navigating uncertainty and fostering adaptability in software development.
-  updated: 2025-02-13T10:56:58Z
+  subtitle: Strategies for orchestrating timely and efficient software releases through iterative planning and continuous improvement.
+  content: Strategies for coordinating software releases that emphasise iterative planning, stakeholder collaboration, and continuous feedback. Posts should explore techniques for managing workflows, minimising bottlenecks, and enhancing delivery quality, while considering the complexities of team dynamics and organisational culture.
+  updated: 2025-02-13T12:03:03Z
 
 ---
 

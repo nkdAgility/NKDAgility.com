@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Team Performance
-  subtitle: Enhancing collaboration and effectiveness in agile teams through proven methodologies and evidence-based practices.
-  content: |-
-    This classification focuses on enhancing the effectiveness and collaboration of agile teams, drawing insights from various methodologies and frameworks. It’s all about understanding how teams can work better together, adapt to change, and deliver value more efficiently. Posts in this category should explore practical strategies, tools, and techniques that help teams improve their performance, whether through Agile, Scrum, Kanban, or Lean principles.
-
-    Key topics include team dynamics, communication strategies, performance metrics, and the role of leadership in fostering a collaborative environment. Additionally, insights from DevOps and Evidence-Based Management can provide a broader perspective on optimising workflows and decision-making processes. By integrating concepts from complexity theory, teams can better navigate challenges and uncertainties, ultimately driving continuous improvement and innovation.
-  updated: 2025-02-13T10:54:36Z
+  subtitle: Enhancing collaboration and effectiveness in teams through proven practices and frameworks for optimal performance.
+  content: Fostering high-performing teams through collaborative practices and frameworks that enhance communication, adaptability, and accountability. Posts should explore topics such as workflow optimisation, iterative progress, team dynamics, performance metrics, and the impact of complexity on team interactions and decision-making.
+  updated: 2025-02-13T12:01:57Z
 
 ---
 

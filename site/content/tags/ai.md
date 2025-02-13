@@ -18,12 +18,9 @@ Instructions: |-
 headline:
   cards: []
   title: AI
-  subtitle: Harness AI to drive smarter decisions, streamline processes, and foster innovation across Agile, DevOps, and software development practices.
-  content: |-
-    Explore how AI can transform the landscape of Agile, DevOps, and software development by enhancing decision-making, automating processes, and driving innovation. This classification delves into the intersection of AI with methodologies like Scrum and Kanban, highlighting insights from thought leaders such as Ken Schwaber and Daniel Vacanti. 
-
-    Posts in this category should cover key topics such as AI-driven analytics for performance improvement, automation tools that streamline workflows, and innovative applications of AI in managing complexity and uncertainty. By examining real-world examples and practical applications, we aim to provide a comprehensive view of how AI can be leveraged to optimise practices and foster a culture of continuous improvement.
-  updated: 2025-02-13T11:03:46Z
+  subtitle: Harness intelligent solutions to drive informed choices, streamline processes, and foster innovation in software development and project management.
+  content: Utilise intelligent solutions to improve decision-making, automate workflows, and stimulate innovation in project management and software development. Posts should explore topics such as process optimisation, performance metrics, team dynamics, and the integration of technology to enhance collaboration and efficiency.
+  updated: 2025-02-13T12:06:06Z
 
 ---
 

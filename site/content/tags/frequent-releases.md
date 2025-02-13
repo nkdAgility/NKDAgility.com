@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Frequent Releases
-  subtitle: Facilitating rapid, incremental enhancements through continuous delivery in Agile, DevOps, and Lean methodologies for optimal stakeholder value.
-  content: |-
-    This classification focuses on the practice of delivering updates and improvements to users and stakeholders frequently and consistently. It highlights the importance of incremental changes that enhance user experience and provide immediate value, aligning with principles from Agile, DevOps, and Lean methodologies. By embracing a culture of frequent releases, teams can respond swiftly to feedback and adapt to changing needs, ensuring that their products remain relevant and effective.
-
-    Key topics in this classification should include strategies for implementing continuous delivery, the role of Kanban in managing workflow, and the integration of Agile and Scrum practices to facilitate rapid iterations. Additionally, discussions around the impact of frequent releases on team dynamics, stakeholder engagement, and overall project success are essential. Insights from Evidence-Based Management and Complexity Theory can further enrich the understanding of how to navigate the challenges and opportunities that come with frequent releases.
-  updated: 2025-02-13T10:58:58Z
+  subtitle: Delivering incremental enhancements swiftly to maximise value for users and stakeholders through continuous improvement practices.
+  content: Facilitating the rapid and consistent delivery of enhancements, this classification emphasises practices that promote responsiveness to user feedback and evolving requirements. Posts should explore topics such as iterative development, minimising cycle times, prioritising value delivery, and leveraging metrics for informed decision-making.
+  updated: 2025-02-13T12:04:23Z
 
 ---
 

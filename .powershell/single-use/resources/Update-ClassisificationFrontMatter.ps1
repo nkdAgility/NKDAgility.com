@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\categories\"
+$outputDir = ".\site\content\tags\"
 
 # Get list of directories and select the first 10
 $classes = Get-ChildItem -Path $outputDir | Sort-Object { $_ } -Descending | Select-Object -First 300 

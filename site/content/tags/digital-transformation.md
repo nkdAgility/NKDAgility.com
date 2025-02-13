@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Digital Transformation
-  subtitle: Driving business agility and innovation through the adoption of modern digital technologies and practices across Agile, DevOps, and Lean methodologies.
-  content: |-
-    This classification focuses on the journey of organisations as they embrace digital technologies to enhance their operations and foster innovation. It highlights the importance of agility in adapting to changing market demands and leveraging modern practices across Agile, DevOps, and Lean methodologies. Posts in this category should explore how digital transformation can streamline processes, improve collaboration, and ultimately drive business success.
-
-    Key topics include the integration of Kanban principles for workflow optimisation, the application of Agile and Scrum frameworks for iterative development, and the role of DevOps in enabling continuous delivery. Additionally, discussions around Lean practices for waste reduction, Evidence-Based Management for informed decision-making, and insights from Complexity Theory to navigate organisational challenges are essential. This classification serves as a hub for sharing experiences, strategies, and lessons learned in the digital transformation landscape.
-  updated: 2025-02-13T11:00:07Z
+  subtitle: Embracing innovative technologies to enhance organisational responsiveness and foster continuous improvement.
+  content: Harnessing cutting-edge digital technologies to enhance organisational adaptability and stimulate innovation. Posts should explore the integration of data-driven decision-making, process optimisation, and customer-centric approaches, while addressing the challenges of complexity and fostering a culture of continuous learning and improvement.
+  updated: 2025-02-13T12:04:55Z
 
 ---
 

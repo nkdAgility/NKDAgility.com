@@ -18,12 +18,9 @@ Instructions: |-
 headline:
   cards: []
   title: Trend Analysis
-  subtitle: Uncover patterns and shifts in Agile, Lean, and DevOps to drive informed strategic decisions and enhance organisational performance.
-  content: |-
-    This classification focuses on uncovering patterns and shifts within Agile, Lean, and DevOps practices to guide strategic decision-making. By analysing trends, organisations can better understand their operational dynamics and adapt to changes in their environment, ultimately enhancing performance and delivery.
-
-    Posts in this category should explore key topics such as the evolution of Kanban methodologies, insights from the Scrum framework, principles of Lean thinking, and the integration of DevOps practices. Additionally, discussions on Evidence-Based Management and Complexity Theory can provide valuable perspectives on navigating uncertainty and fostering a culture of continuous improvement.
-  updated: 2025-02-13T10:54:00Z
+  subtitle: Uncovering patterns and shifts to guide informed strategic choices and enhance organisational effectiveness.
+  content: Identifying and analysing shifts in organisational performance and market dynamics to enhance strategic decision-making. Posts should explore metrics, visualisation techniques, and frameworks that support continuous improvement, stakeholder engagement, and adaptive planning, drawing on insights from systems thinking and complexity theory.
+  updated: 2025-02-13T12:01:25Z
 
 ---
 

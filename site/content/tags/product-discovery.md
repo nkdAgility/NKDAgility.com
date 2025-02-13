@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Product Discovery
-  subtitle: Uncovering customer needs and defining impactful features through Agile, Lean, and Evidence-Based practices for effective product discovery.
-  content: |-
-    This classification focuses on the essential process of understanding customer needs and translating them into valuable product features. It emphasises the importance of collaboration, experimentation, and iterative learning, drawing from Agile, Lean, and DevOps methodologies. Posts in this category should explore techniques for engaging with users, validating ideas, and prioritising features that deliver real value.
-
-    Key topics include user research methods, prototyping, feedback loops, and the role of cross-functional teams in product discovery. Additionally, insights from complexity theory can help navigate the unpredictable nature of customer preferences and market demands, ensuring that teams remain adaptable and responsive throughout the discovery process.
-  updated: 2025-02-13T10:57:33Z
+  subtitle: Uncovering user needs and prioritising impactful features for successful product development.
+  content: Exploring user insights to shape product features that deliver real value. Posts should delve into techniques for gathering customer feedback, methods for validating ideas, prioritisation frameworks, and strategies for aligning product development with market demands, ensuring a focus on continuous improvement and adaptability.
+  updated: 2025-02-13T12:03:23Z
 
 ---
 

@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Agile Planning
-  subtitle: 'Strategic Agile Planning: Align teams, optimise delivery, and enhance value through flexibility, predictability, and evidence-based decision-making.'
-  content: |-
-    Agile Planning is all about finding the sweet spot between flexibility and predictability in your projects. It’s essential for aligning teams, optimising delivery, and ensuring that value flows continuously. This classification dives into how Agile methodologies, particularly Scrum and Kanban, can be effectively applied to plan and manage work in a way that adapts to change while still meeting goals.
-
-    Posts in this category should explore key topics like the principles of Agile and Lean, the role of Evidence-Based Management in decision-making, and the integration of DevOps practices to enhance collaboration and efficiency. Additionally, insights from complexity theory can help teams navigate uncertainty and complexity in their planning processes, making it easier to respond to evolving project needs.
-  updated: 2025-02-13T11:04:25Z
+  subtitle: Streamline planning to enhance adaptability and predictability, fostering team alignment and continuous value delivery across diverse methodologies.
+  content: Facilitate effective planning that enhances responsiveness and reliability, ensuring team cohesion and sustained value creation. Explore practices for optimising workflows, managing uncertainty, and leveraging empirical data to inform decision-making, while addressing complexities inherent in project environments.
+  updated: 2025-02-13T12:06:18Z
 
 ---
 

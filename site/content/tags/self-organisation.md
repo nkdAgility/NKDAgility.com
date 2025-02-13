@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Self Organisation
-  subtitle: Empowering teams to autonomously drive value through self-organisation, leveraging Agile, Lean, and DevOps principles for optimal performance.
-  content: |-
-    This classification focuses on the concept of self-organisation within teams, highlighting how empowering individuals to take ownership can lead to enhanced collaboration and value delivery. It draws from various methodologies, including Agile, Lean, and DevOps, to illustrate how teams can thrive when given the autonomy to make decisions and adapt to changing circumstances.
-
-    Posts in this category should explore key topics such as the principles of self-organisation, the role of leadership in fostering autonomy, and practical techniques for implementing self-organising teams. Additionally, connections to frameworks like Kanban and the Cynefin Framework can provide insights into managing complexity and improving team dynamics, while evidence-based management practices can help teams measure their effectiveness and drive continuous improvement.
-  updated: 2025-02-13T10:55:39Z
+  subtitle: Fostering team autonomy to enhance value delivery through collaborative decision-making and adaptive practices.
+  content: Encouraging teams to assume responsibility for their work fosters a culture of collaboration and adaptability. Posts should explore practices that enhance decision-making, promote transparency, and leverage collective intelligence, drawing insights from complexity theory and evidence-based management to navigate challenges and optimise outcomes.
+  updated: 2025-02-13T12:02:31Z
 
 ---
 

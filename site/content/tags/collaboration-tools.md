@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Collaboration Tools
-  subtitle: Empowering Agile Teams with Seamless Communication and Coordination Tools for Enhanced Collaboration and Efficiency
-  content: |-
-    This classification focuses on tools that enhance communication and coordination within Agile teams, making collaboration smoother and more effective. By leveraging these platforms, teams can reduce friction in their workflows, enabling them to respond quickly to changes and maintain alignment on project goals. 
-
-    Key topics in this classification should include the integration of collaboration tools within Kanban and Scrum frameworks, their role in supporting DevOps practices, and how they contribute to Lean methodologies. Additionally, discussions may explore the impact of these tools on Evidence-Based Management and their relevance in navigating complexity within team dynamics.
-  updated: 2025-02-13T11:03:02Z
+  subtitle: Empowering seamless communication and coordination for high-performing teams across various methodologies and frameworks.
+  content: Tools that enhance communication and streamline coordination, enabling teams to adapt and respond effectively to changing demands. Posts should explore integration techniques, visual management, workflow optimisation, and the impact of these tools on team dynamics and performance in various project environments.
+  updated: 2025-02-13T12:05:33Z
 
 ---
 

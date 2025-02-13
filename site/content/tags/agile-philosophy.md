@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Agile Philosophy
-  subtitle: Explore the Agile philosophy as a transformative ethos for value delivery, integrating insights from Scrum, Kanban, Lean, and DevOps practices.
-  content: |-
-    Dive into the Agile philosophy to uncover how it shapes organisations and drives value delivery. This classification encourages a deeper understanding of Agile as a mindset rather than just a set of frameworks, highlighting its relevance across various practices like Scrum, Kanban, Lean, and DevOps.
-
-    Posts in this category should explore key topics such as the principles behind Agile methodologies, the role of evidence-based management in decision-making, and insights from thought leaders like Ken Schwaber and Gene Kim. Additionally, discussions on complexity theory and its implications for Agile practices can provide valuable perspectives on navigating uncertainty in today’s fast-paced environments.
-  updated: 2025-02-13T11:04:32Z
+  subtitle: Explore the guiding principles of value delivery, fostering adaptability and collaboration within teams and organisations for sustainable success.
+  content: Explore the principles of iterative improvement and collaborative teamwork, emphasising the importance of customer value and responsiveness to change. Posts should delve into practices that enhance transparency, foster continuous learning, and address complexity in organisational processes, drawing insights from various frameworks and methodologies.
+  updated: 2025-02-13T12:06:26Z
 
 ---
 

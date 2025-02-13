@@ -18,12 +18,9 @@ Instructions: |-
 headline:
   cards: []
   title: Engineering Practices
-  subtitle: 'Engineering Practices: Essential techniques for Agile success, emphasising clean code, automation, and test-first development across methodologies.'
-  content: |-
-    This classification focuses on the essential engineering practices that underpin Agile methodologies, emphasising the importance of clean code, automation, and test-first development. It serves as a guide for teams looking to enhance their software delivery processes, ensuring that quality and efficiency are at the forefront of their work. 
-
-    Posts in this category should explore key topics such as code quality, continuous integration and delivery, automated testing, and the principles of Lean and DevOps. Additionally, connections to frameworks like Kanban and insights from thought leaders in Agile and Evidence-Based Management can provide valuable context and practical applications for these practices in real-world scenarios.
-  updated: 2025-02-13T10:59:29Z
+  subtitle: 'Best practices for software development: prioritising quality, automation, and iterative improvement for effective delivery and team collaboration.'
+  content: Practices that enhance software quality and team efficiency through principles of clean code, automation, and iterative development. Posts should explore topics such as continuous integration, testing methodologies, code reviews, and collaborative workflows, fostering an environment of ongoing improvement and effective delivery.
+  updated: 2025-02-13T12:04:44Z
 
 ---
 

@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Product Management
-  subtitle: Navigating customer needs, business goals, and technical feasibility through Agile, Lean, and DevOps principles for effective product strategy.
-  content: |-
-    This classification focuses on the art and science of product management, where the aim is to harmonise customer needs, business objectives, and technical capabilities. It’s all about making informed decisions that drive product success while adapting to the ever-changing landscape of technology and market demands. 
-
-    Posts in this category should explore key topics such as Agile methodologies, Scrum practices, Lean principles, and the integration of DevOps for continuous delivery. Additionally, insights from Evidence-Based Management and Complexity Theory can provide valuable perspectives on navigating uncertainty and fostering innovation in product strategy.
-  updated: 2025-02-13T10:57:25Z
+  subtitle: Navigating customer desires, business objectives, and technical realities for effective product strategy and delivery.
+  content: Integrating user insights, organisational objectives, and technical constraints to shape effective product strategies. Posts should explore prioritisation techniques, stakeholder engagement, iterative development, and performance measurement, while considering frameworks that enhance adaptability and responsiveness in complex environments.
+  updated: 2025-02-13T12:03:21Z
 
 ---
 

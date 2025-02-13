@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Scaled Agile
-  subtitle: Scaling agile methodologies across teams and enterprises, integrating Lean, DevOps, and Evidence-Based Management for enhanced collaboration and delivery.
-  content: |-
-    This classification focuses on the application of Agile principles across larger organisations, where multiple teams collaborate to deliver value efficiently. It’s all about extending Agile practices beyond individual teams to create a cohesive framework that supports enterprise-level initiatives. By integrating methodologies like Lean, Kanban, and DevOps, organisations can enhance their agility and responsiveness to change.
-
-    Posts in this classification should explore key topics such as the implementation of Scaled Agile Frameworks (SAFe), the role of leadership in fostering a culture of collaboration, and the importance of Evidence-Based Management in decision-making. Additionally, discussions around the challenges of scaling Agile, the interplay between complexity theory and organisational dynamics, and practical insights from thought leaders in the field will provide valuable perspectives for those looking to navigate the complexities of Scaled Agile.
-  updated: 2025-02-13T10:56:27Z
+  subtitle: Integrating collaborative practices across teams to enhance delivery and responsiveness in complex environments.
+  content: Facilitating the alignment of collaborative methodologies across diverse teams and large-scale projects, this classification addresses the integration of iterative development, continuous improvement, and value delivery. Posts should explore frameworks, metrics, and practices that enhance responsiveness, adaptability, and stakeholder engagement in complex environments.
+  updated: 2025-02-13T12:02:56Z
 
 ---
 

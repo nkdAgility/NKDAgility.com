@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Pragmatic Thinking
-  subtitle: Pragmatic strategies for navigating complexity in Agile, Lean, DevOps, and Evidence-Based Management practices.
-  content: |-
-    This classification focuses on the practical application of experience-based problem-solving techniques in complex environments, drawing insights from Agile, Lean, DevOps, and Evidence-Based Management. It encourages a mindset that values adaptability and responsiveness, helping teams navigate the intricacies of their projects while fostering a culture of continuous improvement.
-
-    Posts in this category should explore key topics such as the principles of Kanban and Lean thinking, the frameworks of Agile and Scrum, and the integration of DevOps practices. Additionally, discussions on complexity theory and evidence-based management will provide valuable perspectives on making informed decisions in uncertain situations, ultimately enhancing team performance and project outcomes.
-  updated: 2025-02-13T10:57:44Z
+  subtitle: Navigating complex challenges with practical insights and experience-driven solutions for effective decision-making.
+  content: Pragmatic Thinking emphasises practical problem-solving in intricate environments, leveraging real-world experiences to inform decisions. It encompasses topics such as workflow optimisation, iterative improvement, team dynamics, and evidence-based evaluation, drawing insights from complexity theory and management practices to enhance organisational effectiveness and adaptability.
+  updated: 2025-02-13T12:03:28Z
 
 ---
 

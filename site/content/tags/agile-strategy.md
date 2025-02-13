@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Agile Strategy
-  subtitle: Align vision and execution with Agile Strategy to enhance adaptability, drive continuous value, and navigate complexity in dynamic environments.
-  content: |-
-    This classification focuses on the strategic aspects of Agile methodologies, emphasising how organisations can align their long-term vision with adaptable execution to foster continuous value delivery. It encourages a holistic approach that integrates principles from Agile, Scrum, Lean, and DevOps, ensuring that teams can navigate complexity and respond effectively to changing environments.
-
-    Posts in this category should explore key topics such as the integration of Kanban and Scrum practices, the role of Evidence-Based Management in decision-making, and the application of Complexity Theory to enhance organisational agility. Contributors are encouraged to share insights on aligning team dynamics with strategic goals, leveraging Lean principles for efficiency, and utilising DevOps practices to streamline delivery processes.
-  updated: 2025-02-13T11:04:20Z
+  subtitle: Align vision and execution to foster adaptability and deliver ongoing value through strategic insights and evidence-based practices.
+  content: Cultivate a resilient organisational framework that enhances strategic alignment and responsiveness to change. Posts should explore practices for continuous improvement, value delivery, and decision-making informed by data, while addressing complexity and fostering a culture of collaboration and learning.
+  updated: 2025-02-13T12:06:15Z
 
 ---
 

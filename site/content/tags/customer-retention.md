@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Customer Retention
-  subtitle: Strategies for enhancing user loyalty and minimising churn through value-driven practices in Agile, Lean, and DevOps frameworks.
-  content: |-
-    This classification focuses on the various strategies and practices aimed at keeping customers engaged and reducing churn. It highlights the importance of delivering continuous value to users, drawing insights from Agile, Lean, and DevOps methodologies. By understanding customer needs and leveraging frameworks like Kanban and Scrum, organisations can create a more responsive and adaptive approach to retention.
-
-    Posts in this category should explore key topics such as user feedback loops, value stream mapping, and the role of metrics in understanding customer behaviour. Additionally, discussions around the integration of Evidence-Based Management and Complexity Theory can provide valuable perspectives on navigating the challenges of customer retention in a dynamic environment.
-  updated: 2025-02-13T11:02:38Z
+  subtitle: Strategies for enhancing user loyalty and minimising attrition through ongoing value creation and engagement techniques.
+  content: Strategies for fostering long-term user engagement and loyalty through tailored experiences, feedback loops, and value-driven interactions. Posts should explore techniques for understanding user needs, implementing effective communication, and leveraging data to enhance satisfaction and reduce turnover.
+  updated: 2025-02-13T12:05:17Z
 
 ---
 

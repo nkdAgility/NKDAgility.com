@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Strategic Goals
-  subtitle: Aligning long-term strategic goals with Agile principles to enhance business agility and competitive advantage across various methodologies.
-  content: |-
-    This classification focuses on the long-term strategic goals that organisations set to enhance their agility and maintain a competitive edge in a rapidly changing environment. It encourages a holistic view, integrating principles from Agile, Scrum, Lean, and DevOps to ensure that these goals are not only aspirational but also actionable and measurable. 
-
-    Posts in this category should explore key topics such as aligning strategic objectives with Agile methodologies, the role of evidence-based management in goal setting, and how to adapt strategies in response to complexity and uncertainty. Additionally, insights from thought leaders like Ken Schwaber and Gene Kim can provide valuable perspectives on integrating these goals into everyday practices, fostering a culture of continuous improvement and responsiveness.
-  updated: 2025-02-13T10:55:17Z
+  subtitle: Aligning long-term objectives with organisational adaptability and market positioning for sustained success and growth.
+  content: Establishing long-term objectives that enhance organisational flexibility and market responsiveness. Posts should explore frameworks for prioritising initiatives, measuring progress, and adapting strategies based on empirical evidence, while considering the complexities of team dynamics and external environments.
+  updated: 2025-02-13T12:02:09Z
 
 ---
 

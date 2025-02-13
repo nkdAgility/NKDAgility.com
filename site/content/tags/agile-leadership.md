@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Agile Leadership
-  subtitle: Empower teams and drive change through Agile Leadership, fostering adaptability and a culture of continuous improvement across methodologies.
-  content: |-
-    Agile Leadership is all about guiding teams through change and fostering an environment where adaptability thrives. It’s crucial for leaders to empower their teams, encouraging a mindset of continuous improvement that aligns with Agile, Scrum, and Lean principles. This classification focuses on how leaders can effectively navigate the complexities of modern work environments, drawing insights from thought leaders like Ken Schwaber and Gene Kim.
-
-    Posts in this category should explore key topics such as team empowerment, the role of leadership in Agile transformations, and the integration of practices from Kanban, DevOps, and Evidence-Based Management. Additionally, discussions around complexity theory and its implications for leadership styles can provide valuable perspectives on managing uncertainty and driving innovation.
-  updated: 2025-02-13T11:04:35Z
+  subtitle: Empower teams to embrace change, enhance adaptability, and cultivate a culture of ongoing improvement for sustainable success.
+  content: Cultivate leadership that inspires teams to navigate complexity and embrace change. Explore practices that enhance collaboration, foster innovation, and promote a mindset of continuous learning. Posts should delve into team dynamics, decision-making frameworks, and strategies for sustaining improvement in fast-paced environments.
+  updated: 2025-02-13T12:06:28Z
 
 ---
 

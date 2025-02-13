@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Transparency
-  subtitle: Fostering openness in agile practices to enhance trust, accountability, and informed decision-making across teams and processes.
-  content: |-
-    This classification focuses on the importance of transparency in agile methodologies, highlighting how openness and visibility can foster trust and accountability within teams. By embracing transparency, organisations can create an environment where information flows freely, enabling better decision-making and collaboration. This is particularly relevant in contexts like Kanban, Agile, Scrum, and DevOps, where clear communication and shared understanding are essential for success.
-
-    Posts in this classification should explore key topics such as the role of transparency in agile processes, techniques for enhancing visibility in workflows, and the impact of open communication on team dynamics. Additionally, discussions may include insights from Lean principles and Evidence-Based Management, as well as the application of complexity theory to navigate challenges in transparency. By addressing these areas, contributors can help teams cultivate a culture of openness that drives continuous improvement and innovation.
-  updated: 2025-02-13T10:54:05Z
+  subtitle: Fostering openness and visibility in processes to enhance trust, accountability, and informed decision-making across teams.
+  content: Promoting openness and visibility in processes cultivates trust and accountability, enabling informed decision-making. Posts should explore practices that enhance communication, foster collaboration, and utilise metrics for continuous improvement, drawing insights from frameworks and methodologies that prioritise adaptability and responsiveness in complex environments.
+  updated: 2025-02-13T12:01:28Z
 
 ---
 

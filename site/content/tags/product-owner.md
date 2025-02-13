@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Product Owner
-  subtitle: Driving product success through strategic backlog prioritisation and stakeholder collaboration in Agile, Lean, and DevOps environments.
-  content: |-
-    The role of a Product Owner is crucial in steering the product towards maximum value by effectively managing the backlog and aligning with stakeholders. This classification focuses on the practices and strategies that empower Product Owners to prioritise features, refine user stories, and ensure that the development team is aligned with the overall vision. Posts in this category should explore techniques for backlog management, stakeholder engagement, and the integration of Agile, Lean, and DevOps principles.
-
-    Key topics include the nuances of prioritisation frameworks, the importance of clear communication with stakeholders, and the application of evidence-based management to inform decision-making. Additionally, insights from Kanban and complexity theory can provide valuable perspectives on managing flow and adapting to changing requirements. Whether you're delving into Scrum methodologies or exploring Lean principles, this classification aims to equip Product Owners with the knowledge to drive product success effectively.
-  updated: 2025-02-13T10:57:21Z
+  subtitle: Driving product success through strategic prioritisation and collaboration with stakeholders for optimal value delivery.
+  content: Maximising product value through strategic backlog prioritisation and fostering collaboration with stakeholders. Posts should explore effective techniques for aligning product vision with user needs, utilising metrics for informed decision-making, and enhancing team dynamics to ensure continuous delivery of high-quality outcomes.
+  updated: 2025-02-13T12:03:18Z
 
 ---
 

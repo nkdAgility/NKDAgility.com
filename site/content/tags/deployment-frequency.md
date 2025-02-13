@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Deployment Frequency
-  subtitle: Enhancing software delivery through optimal deployment frequency for improved feedback and value in Agile, DevOps, and Lean practices.
-  content: |-
-    This classification focuses on the frequency of software deployments and how it impacts the overall delivery of value in Agile, DevOps, and Lean environments. By optimising deployment frequency, teams can create shorter feedback loops, allowing for quicker adjustments and improvements based on real user experiences. This approach aligns with principles from Kanban and Agile methodologies, emphasising flow and responsiveness to change.
-
-    Posts in this classification should explore key topics such as strategies for increasing deployment frequency, the relationship between deployment and team performance, and the role of automation in facilitating faster releases. Additionally, discussions may include insights from Evidence-Based Management and Complexity Theory, highlighting how understanding variability and complexity can inform deployment strategies and enhance organisational agility.
-  updated: 2025-02-13T11:00:14Z
+  subtitle: Enhancing software delivery speed to improve feedback and maximise value through effective deployment strategies.
+  content: Optimising the frequency of software releases to foster rapid feedback and enhance value delivery. Posts should explore strategies for minimising cycle times, improving release planning, and utilising metrics to inform decision-making, while addressing the complexities of team dynamics and system interactions.
+  updated: 2025-02-13T12:05:00Z
 
 ---
 

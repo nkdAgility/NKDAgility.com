@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Continuous Learning
-  subtitle: Empowering teams through a culture of growth, knowledge sharing, and continuous improvement across Agile, DevOps, and Lean practices.
-  content: |-
-    This classification is all about nurturing a culture of growth and knowledge sharing within teams, ensuring that everyone is on a continuous journey of improvement. It’s relevant for anyone looking to enhance their skills and adapt to the ever-changing landscape of Agile, DevOps, and Lean practices. By embracing a growth mindset, teams can better navigate challenges and seize opportunities for development.
-
-    Posts in this category should explore key topics like effective learning strategies, the role of feedback in team dynamics, and methods for fostering collaboration and innovation. Additionally, insights from influential figures in Kanban, Agile, DevOps, and Lean can provide valuable perspectives on how to implement continuous learning in practice. Whether it’s through workshops, retrospectives, or knowledge-sharing sessions, the focus is on creating an environment where learning is a shared responsibility and a core value.
-  updated: 2025-02-13T11:02:52Z
+  subtitle: Empowering teams through knowledge sharing and a growth mindset for ongoing improvement and adaptability in complex environments.
+  content: Encouraging a culture of ongoing learning and adaptation, this classification highlights practices that enhance team collaboration, knowledge sharing, and reflective improvement. Posts should explore topics such as feedback loops, experimentation, metrics for learning, and strategies for navigating complex challenges in dynamic environments.
+  updated: 2025-02-13T12:05:24Z
 
 ---
 

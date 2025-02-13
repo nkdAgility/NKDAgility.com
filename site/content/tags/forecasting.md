@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Forecasting
-  subtitle: 'Forecasting in Agile and Scrum: Leverage empirical data to predict timelines, manage risks, and enhance value delivery across methodologies.'
-  content: |-
-    This classification focuses on enhancing forecasting within Agile and Scrum frameworks by leveraging empirical data to make informed predictions about delivery timelines. It’s all about using real-world insights to manage risks effectively and optimise the value delivered to stakeholders. By understanding the dynamics of your team's performance and the complexities of the work at hand, you can make better decisions that align with your project goals.
-
-    Key topics in this classification should include techniques for measuring and analysing team velocity, understanding flow in Kanban, and applying principles from Lean and DevOps to improve forecasting accuracy. Posts may also explore the role of Evidence-Based Management in refining these practices, as well as insights from complexity theory to navigate unpredictable environments. Whether you're looking to enhance your Scrum ceremonies or integrate forecasting into your DevOps pipeline, this classification has you covered.
-  updated: 2025-02-13T10:59:03Z
+  subtitle: Empower decision-making through data-driven predictions, risk management, and value optimisation for effective project delivery.
+  content: Utilise empirical data to enhance prediction accuracy for project timelines, enabling informed decision-making and effective risk management. Posts should explore techniques for value optimisation, the impact of variability on delivery, and methods for integrating feedback loops to improve forecasting reliability in complex environments.
+  updated: 2025-02-13T12:04:26Z
 
 ---
 

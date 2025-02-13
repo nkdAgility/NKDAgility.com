@@ -24,12 +24,9 @@ Instructions: |-
 headline:
   cards: []
   title: Estimation
-  subtitle: Master Agile estimation techniques to enhance forecasting, manage uncertainty, and align team expectations through empirical data and collaboration.
-  content: |-
-    Estimation in Agile and Scrum is all about making informed predictions to guide your team's work. It helps you navigate uncertainty and align expectations by leveraging empirical data and collaborative techniques. This classification focuses on the various methods and practices that can enhance your forecasting abilities, whether you're using story points, T-shirt sizes, or other estimation techniques.
-
-    Key topics in this classification include the principles of Agile estimation, the role of team collaboration in refining estimates, and the impact of empirical data on decision-making. You'll also find insights on how estimation fits within the broader contexts of Kanban, Lean, and DevOps, as well as its connection to Evidence-Based Management and Complexity Theory.
-  updated: 2025-02-13T10:59:22Z
+  subtitle: Enhance your forecasting skills and manage uncertainty through collaborative techniques and empirical data analysis.
+  content: Enhance your ability to predict project outcomes and navigate uncertainty through collaborative approaches and data-driven insights. Explore techniques for aligning team expectations, refining prioritisation, and utilising historical performance metrics to inform decision-making in complex environments.
+  updated: 2025-02-13T12:04:37Z
 
 ---
 

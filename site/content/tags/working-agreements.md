@@ -18,12 +18,9 @@ Instructions: |-
 headline:
   cards: []
   title: Working Agreements
-  subtitle: Establishing collaborative norms and principles for effective teamwork in Agile, Scrum, DevOps, and Lean environments.
-  content: |-
-    This classification focuses on the essential agreements that teams establish to foster collaboration and enhance productivity. Working agreements are the shared understandings that guide how team members interact, make decisions, and resolve conflicts, ensuring everyone is on the same page. They are crucial in Agile, Scrum, DevOps, and Lean environments, where effective teamwork is key to delivering value.
-
-    Posts in this category should explore topics such as the creation and evolution of working agreements, the role of these agreements in different methodologies like Kanban and Scrum, and their impact on team dynamics and performance. Additionally, discussions may include how working agreements can adapt to complexity and change, drawing on insights from Evidence-Based Management and Complexity Theory to support continuous improvement and effective collaboration.
-  updated: 2025-02-13T10:53:21Z
+  subtitle: Fostering collaborative principles and team norms to enhance productivity and communication in dynamic work environments.
+  content: Establishing collaborative norms and principles enhances team dynamics and productivity. Posts should explore techniques for fostering trust, communication, and accountability, as well as methods for adapting to changing environments and addressing conflicts, drawing insights from complexity theory and evidence-based management.
+  updated: 2025-02-13T12:01:11Z
 
 ---
 

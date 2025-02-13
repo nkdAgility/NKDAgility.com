@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Change Management
-  subtitle: Navigating organisational change by fostering adaptive mindsets and effective processes, avoiding superficial transformation efforts.
-  content: |-
-    This classification focuses on guiding organisations through the often tricky terrain of change, ensuring that shifts in mindset and processes are meaningful and sustainable. It’s all about moving beyond superficial efforts and transformation theatre, fostering a culture that embraces adaptability and continuous improvement.
-
-    Posts in this category should explore key topics such as the principles of Agile and Scrum, the role of Kanban in managing flow, and the integration of DevOps practices for seamless delivery. Additionally, insights from Lean methodologies and Evidence-Based Management can provide valuable frameworks for understanding and navigating complexity in organisational change.
-  updated: 2025-02-13T11:03:10Z
+  subtitle: Navigating organisational shifts to foster genuine transformation and sustainable practices without falling into superficial change.
+  content: Facilitating authentic organisational transformation by reshaping mindsets and processes, this classification emphasises sustainable practices over superficial changes. It encompasses topics such as continuous improvement, stakeholder engagement, adaptive leadership, and the integration of evidence-based decision-making to navigate complexity and foster resilience in dynamic environments.
+  updated: 2025-02-13T12:05:38Z
 
 ---
 

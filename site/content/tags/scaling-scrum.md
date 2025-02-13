@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Scaling Scrum
-  subtitle: 'Scaling Scrum: Integrating Agile principles across large organisations while embracing Lean, DevOps, and Evidence-Based Management for optimal delivery.'
-  content: |-
-    This classification focuses on the application of Scrum principles in larger organisations, ensuring that agility is preserved even as teams and projects scale. It’s all about adapting the core tenets of Scrum to fit the complexities of a bigger environment, while still fostering collaboration, transparency, and continuous improvement. 
-
-    Posts in this category should explore key topics such as integrating Kanban practices, leveraging Lean methodologies, and embracing DevOps principles to enhance delivery. Additionally, discussions around Evidence-Based Management and Complexity Theory can provide valuable insights into navigating the challenges of scaling Scrum effectively.
-  updated: 2025-02-13T10:56:16Z
+  subtitle: Implementing Scrum principles across large organisations to enhance responsiveness and collaboration in complex environments.
+  content: Implementing Scrum principles across extensive organisations to foster adaptability and teamwork in intricate settings. Posts should explore frameworks for synchronising multiple teams, integrating Kanban methodologies, addressing complexity, and utilising evidence-based management to enhance decision-making and performance.
+  updated: 2025-02-13T12:02:48Z
 
 ---
 

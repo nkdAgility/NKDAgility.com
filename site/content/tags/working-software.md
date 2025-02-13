@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Working Software
-  subtitle: Delivering high-quality, functional software through Agile, DevOps, and Lean principles to meet evolving customer needs effectively.
-  content: |-
-    This classification focuses on the delivery of functional software that not only meets customer needs but also adapts to changing requirements. It encompasses various methodologies and frameworks, including Agile, Scrum, DevOps, and Lean, highlighting the importance of collaboration, iterative development, and continuous improvement. Posts in this category should explore how teams can effectively implement these practices to enhance software quality and responsiveness.
-
-    Key topics include the principles of Agile and Scrum, the role of DevOps in streamlining development and operations, Lean practices for maximising value while minimising waste, and the application of Evidence-Based Management to make informed decisions. Additionally, discussions around complexity theory and its implications for software delivery can provide valuable insights into navigating unpredictable environments and fostering innovation.
-  updated: 2025-02-13T10:52:54Z
+  subtitle: Delivering functional software that meets user needs through iterative improvement and effective collaboration.
+  content: Delivering high-quality software that aligns with user requirements through continuous iteration and collaboration. Posts should explore topics such as user feedback integration, iterative development cycles, quality assurance practices, and the impact of team dynamics on software delivery efficiency.
+  updated: 2025-02-13T12:01:08Z
 
 ---
 

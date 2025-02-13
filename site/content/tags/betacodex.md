@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: BetaCodex
-  subtitle: 'Explore BetaCodex: A framework for decentralised, adaptive, and human-centric design, fostering agility through Lean, DevOps, and Evidence-Based Management principles.'
-  content: |-
-    Dive into the world of BetaCodex, where we champion a decentralised and adaptive approach to organisational design. This classification is all about fostering a human-centric environment that breaks free from traditional hierarchies, allowing teams to thrive in a truly agile setting. 
-
-    Posts here should explore key topics like Lean principles, DevOps practices, and Evidence-Based Management, drawing insights from thought leaders such as Ken Schwaber and Gene Kim. You'll also find discussions on complexity theory and frameworks like Cynefin, helping organisations navigate the unpredictable landscape of modern business.
-  updated: 2025-02-13T11:03:13Z
+  subtitle: Foster decentralised, adaptive structures that prioritise human potential and responsiveness over traditional hierarchies and rigid processes.
+  content: Cultivate a dynamic organisational framework that prioritises collaboration, adaptability, and continuous improvement. Explore practices that enhance team autonomy, optimise workflow, and leverage empirical data to navigate complexity, fostering environments where innovation thrives and human potential is maximised.
+  updated: 2025-02-13T12:05:41Z
 
 ---
 

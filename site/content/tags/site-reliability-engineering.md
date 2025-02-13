@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Site Reliability Engineering
-  subtitle: Integrating software engineering with Agile, DevOps, and Lean principles to enhance system reliability and scalability in complex environments.
-  content: |-
-    This classification focuses on the intersection of software engineering and operational excellence, specifically in the realm of Site Reliability Engineering (SRE). It highlights how SRE applies principles from Agile, DevOps, and Lean methodologies to create systems that are not only scalable but also resilient. By embracing a culture of collaboration and continuous improvement, SRE teams work to bridge the gap between development and operations, ensuring that services remain reliable and performant in the face of complexity and change.
-
-    Posts in this classification should explore key topics such as incident management, monitoring and observability, automation, and the integration of SRE practices with Agile and DevOps frameworks. Additionally, discussions around metrics, performance optimisation, and the application of complexity theory in operational contexts are encouraged. By sharing insights and experiences, contributors can help foster a deeper understanding of how SRE can enhance system reliability and support organisational goals.
-  updated: 2025-02-13T10:55:32Z
+  subtitle: Ensuring robust and scalable systems through engineering practices and continuous improvement methodologies.
+  content: Integrating software engineering principles with operational practices to enhance system reliability and scalability. Posts should explore incident management, performance monitoring, automation strategies, and the cultural aspects of collaboration between development and operations teams, fostering a proactive approach to system resilience and user satisfaction.
+  updated: 2025-02-13T12:02:19Z
 
 ---
 

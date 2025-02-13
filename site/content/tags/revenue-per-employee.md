@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Revenue per Employee
-  subtitle: Assessing organisational efficiency by analysing revenue generated per employee within Agile, Lean, and DevOps frameworks.
-  content: |-
-    This classification focuses on understanding how effectively an organisation generates revenue relative to its workforce. By examining revenue per employee, we can gain insights into productivity, financial efficiency, and overall organisational health. This metric is particularly relevant in Agile, Lean, and DevOps environments, where optimising resources and enhancing value delivery are key objectives.
-
-    Posts in this classification should explore various aspects of revenue per employee, including its implications in Kanban and Agile frameworks, as well as its relationship with Lean principles and DevOps practices. Topics may cover strategies for improving this metric, case studies demonstrating its impact, and discussions on how it aligns with Evidence-Based Management and Complexity Theory to foster a culture of continuous improvement and adaptability.
-  updated: 2025-02-13T10:56:30Z
+  subtitle: Optimising workforce output by evaluating the financial impact of each employee's contribution to revenue generation.
+  content: Evaluating the financial contribution of each employee to overall organisational success, this classification encompasses productivity metrics, workforce efficiency, and revenue generation strategies. Posts should explore methods for enhancing individual performance, aligning team goals with financial outcomes, and utilising data-driven insights to inform workforce management decisions.
+  updated: 2025-02-13T12:02:58Z
 
 ---
 

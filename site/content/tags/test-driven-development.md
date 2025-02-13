@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Test Driven Development
-  subtitle: Enhancing software quality through automated tests, aligning with Agile, DevOps, and Lean principles for effective delivery and continuous improvement.
-  content: |-
-    This classification focuses on Test Driven Development (TDD), a vital approach that emphasises writing automated tests before coding to shape software design and enhance quality. TDD encourages developers to think critically about requirements and design, fostering a culture of continuous improvement and collaboration within Agile and DevOps environments. 
-
-    Posts in this category should explore key topics such as the TDD cycle, the relationship between TDD and Agile methodologies, its impact on team dynamics, and how it aligns with Lean principles. Additionally, discussions on integrating TDD with Continuous Delivery practices and its role in managing complexity within software projects are highly relevant.
-  updated: 2025-02-13T10:54:16Z
+  subtitle: Enhancing software quality through automated testing to inform design decisions and foster continuous improvement.
+  content: Automated testing shapes software design by ensuring code quality and facilitating iterative improvements. Posts should explore the integration of tests in the development process, the impact on design decisions, and the role of feedback loops in enhancing product reliability and responsiveness to change.
+  updated: 2025-02-13T12:01:41Z
 
 ---
 

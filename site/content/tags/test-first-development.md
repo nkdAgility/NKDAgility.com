@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Test First Development
-  subtitle: Prioritising quality through early test definition, enhancing collaboration in Agile, DevOps, and Lean methodologies for effective delivery.
-  content: |-
-    This classification focuses on the practice of defining tests before any code is written, ensuring that quality is embedded from the very start of the development process. By prioritising testing early, teams can foster a culture of collaboration and shared understanding, which is essential in Agile, Scrum, and DevOps environments. This approach not only helps in clarifying requirements but also aligns with Lean principles by reducing waste and enhancing flow.
-
-    Posts in this classification should explore key topics such as test-driven development (TDD), behaviour-driven development (BDD), and the integration of testing within continuous delivery pipelines. Additionally, discussions may include the impact of early testing on team dynamics, the role of feedback loops in Kanban, and how these practices contribute to evidence-based management and decision-making in complex environments.
-  updated: 2025-02-13T10:54:13Z
+  subtitle: Prioritising quality by establishing clear criteria before development, fostering efficiency and clarity in the delivery process.
+  content: Prioritising quality through the establishment of testing criteria prior to development enhances clarity and efficiency in the delivery process. Posts should explore practices related to test design, validation techniques, integration strategies, and the impact of early testing on project outcomes and team dynamics.
+  updated: 2025-02-13T12:01:34Z
 
 ---
 

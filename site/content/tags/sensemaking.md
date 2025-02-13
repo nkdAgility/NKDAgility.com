@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Sensemaking
-  subtitle: Navigating complexity to empower informed decision-making in Agile, Lean, DevOps, and Evidence-Based Management practices.
-  content: |-
-    This classification focuses on helping organisations navigate the complexities of their environments to make informed decisions. It draws on insights from various frameworks and methodologies, including Agile, Lean, DevOps, and Evidence-Based Management, to provide a holistic view of how to interpret and respond to challenges. By understanding the nuances of complexity theory, teams can better align their practices with the realities they face.
-
-    Posts in this classification should explore key topics such as the Cynefin Framework, the role of feedback loops in Kanban, and the principles of Lean thinking. They may also delve into the dynamics of team interactions in Agile and Scrum, the importance of continuous delivery in DevOps, and how evidence-based management can guide decision-making. Ultimately, the aim is to empower organisations to make sense of their unique situations and drive effective change.
-  updated: 2025-02-13T10:55:36Z
+  subtitle: Navigating complexity to empower informed decision-making and enhance organisational understanding.
+  content: Facilitating organisational clarity amidst uncertainty, this classification encompasses practices for interpreting complex environments, enhancing decision-making, and fostering adaptive strategies. Topics include systems thinking, stakeholder engagement, feedback loops, and the application of frameworks that support continuous learning and improvement in dynamic contexts.
+  updated: 2025-02-13T12:02:28Z
 
 ---
 

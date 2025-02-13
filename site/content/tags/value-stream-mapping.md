@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Value Stream Mapping
-  subtitle: Mapping workflows to enhance efficiency and value delivery in Agile, Lean, and DevOps practices.
-  content: |-
-    Value Stream Mapping is all about visualising workflows to pinpoint inefficiencies and enhance the delivery of value across various methodologies like Agile, Lean, and DevOps. By mapping out the steps involved in a process, teams can better understand how work flows, where bottlenecks occur, and how to streamline operations for improved outcomes. This approach is particularly relevant in contexts such as Kanban, where visual management is key, and in Agile and Scrum, where iterative improvements are essential.
-
-    Posts in this classification should delve into topics like identifying value streams, analysing process steps, and implementing changes to optimise flow. They can also explore connections to Lean principles, the role of Value Stream Mapping in DevOps and Continuous Delivery, and how it ties into Evidence-Based Management and Complexity Theory. By focusing on these areas, contributors can help teams leverage Value Stream Mapping to drive continuous improvement and deliver greater value to customers.
-  updated: 2025-02-13T10:53:53Z
+  subtitle: Mapping workflows to uncover bottlenecks and enhance efficiency in delivering value across processes.
+  content: Visualising workflows to pinpoint inefficiencies and enhance the flow of value delivery. Posts should explore techniques for mapping processes, identifying bottlenecks, and implementing improvements, drawing on insights from systems thinking, process optimisation, and continuous improvement methodologies.
+  updated: 2025-02-13T12:01:18Z
 
 ---
 

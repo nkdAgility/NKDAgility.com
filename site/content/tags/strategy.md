@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Strategy
-  subtitle: Craft and enhance strategies in Agile, Scrum, and DevOps to align teams, optimise delivery, and achieve sustainable competitive advantage.
-  content: |-
-    This classification focuses on the development and refinement of strategies within Agile, Scrum, and DevOps frameworks. It’s all about aligning teams, optimising delivery processes, and fostering a sustainable competitive edge in a rapidly changing environment. Posts in this category should explore how to effectively implement strategies that enhance collaboration, improve workflow, and adapt to the complexities of modern project management.
-
-    Key topics include the integration of Kanban principles, insights from Lean methodologies, and the application of Evidence-Based Management to inform decision-making. Additionally, discussions around Continuous Delivery and the influence of Complexity Theory on strategic planning are essential. By examining these areas, contributors can share valuable practices that help teams navigate challenges and drive successful outcomes.
-  updated: 2025-02-13T10:55:14Z
+  subtitle: Craft and enhance strategic approaches to align teams, optimise workflows, and achieve lasting competitive success in dynamic environments.
+  content: Cultivate a robust framework for aligning organisational objectives with team capabilities, enhancing workflow efficiency, and fostering innovation. Explore topics such as performance metrics, continuous improvement, stakeholder engagement, and adaptive planning to navigate complexity and drive sustainable outcomes in ever-evolving environments.
+  updated: 2025-02-13T12:02:07Z
 
 ---
 

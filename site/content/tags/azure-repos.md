@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Azure Repos
-  subtitle: Streamline source control in Azure Repos to enhance collaboration and efficiency in Agile, DevOps, and Lean software development practices.
-  content: |-
-    This classification focuses on the use of Azure Repos as a vital tool for managing source control in modern software development. It highlights how Azure Repos can enhance collaboration and streamline workflows within Agile, DevOps, and Lean methodologies. By integrating source control with practices from frameworks like Scrum and Kanban, teams can improve their efficiency and adaptability in delivering high-quality software.
-
-    Posts in this classification should cover key topics such as version control strategies, branching and merging techniques, integration with CI/CD pipelines, and the role of Azure Repos in supporting evidence-based management. Additionally, discussions on how Azure Repos aligns with principles from complexity theory and Lean thinking can provide valuable insights into optimising development processes and fostering a culture of continuous improvement.
-  updated: 2025-02-13T11:03:26Z
+  subtitle: Streamline source control and collaboration for efficient software development and delivery in modern teams.
+  content: Facilitate effective source control and collaboration within software development teams, enabling streamlined workflows and enhanced code quality. Posts should explore versioning strategies, branching models, integration techniques, and the impact of collaborative practices on team dynamics and project outcomes.
+  updated: 2025-02-13T12:05:48Z
 
 ---
 

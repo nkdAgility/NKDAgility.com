@@ -17,12 +17,9 @@ Instructions: |-
 headline:
   cards: []
   title: Scrum Values
-  subtitle: Explore the core Scrum values of commitment, courage, focus, openness, and respect, essential for Agile success and team collaboration.
-  content: |-
-    The Scrum Values are the heart of effective teamwork and collaboration within Agile frameworks. They encompass commitment, courage, focus, openness, and respect, guiding teams to create a supportive environment where everyone can thrive. Understanding and embodying these values is crucial for fostering a culture that embraces change, encourages innovation, and enhances productivity.
-
-    Posts in this classification should explore how these values influence team dynamics, decision-making, and overall project success. They can also delve into the interplay between Scrum Values and other methodologies like Kanban and Lean, as well as their relevance in DevOps practices and Evidence-Based Management. By highlighting real-world applications and insights from thought leaders, this classification aims to inspire teams to integrate these values into their daily work.
-  updated: 2025-02-13T10:55:44Z
+  subtitle: Core principles fostering teamwork and trust, essential for effective collaboration and continuous improvement in project delivery.
+  content: Core values that underpin effective teamwork and collaboration, fostering an environment of trust and transparency. Posts should explore the significance of commitment, courage, focus, openness, and respect in enhancing team dynamics, driving continuous improvement, and navigating complex project landscapes.
+  updated: 2025-02-13T12:02:38Z
 
 ---
 

@@ -24,12 +24,9 @@ Instructions: |-
 headline:
   cards: []
   title: Team Motivation
-  subtitle: Empowering agile teams through engagement and ownership for sustained high performance in dynamic environments.
-  content: |-
-    This classification focuses on the essential elements that drive engagement, ownership, and high performance within agile teams. It explores how fostering a motivated team environment can lead to improved collaboration, innovation, and adaptability in dynamic settings. By understanding the nuances of team motivation, organisations can create a culture that supports continuous improvement and resilience.
-
-    Key topics in this classification include strategies for enhancing team dynamics, the role of leadership in motivating teams, and the impact of various frameworks like Scrum and Kanban on team performance. Additionally, it delves into the principles of Lean and DevOps, highlighting how these methodologies can contribute to a motivated workforce. Posts may also touch on evidence-based management practices and insights from complexity theory to better understand team behaviours and dynamics.
-  updated: 2025-02-13T10:54:40Z
+  subtitle: Empowering teams to enhance engagement, ownership, and performance through effective collaboration and continuous improvement.
+  content: Cultivating a culture of engagement and accountability, this classification explores strategies to enhance team dynamics and performance. Posts should delve into collaboration techniques, motivation theories, feedback mechanisms, and the impact of organisational structures on team effectiveness, drawing insights from various management and complexity frameworks.
+  updated: 2025-02-13T12:02:00Z
 
 ---
 

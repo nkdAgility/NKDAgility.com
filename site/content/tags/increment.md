@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Increment
-  subtitle: Delivering valuable software iteratively, embracing Agile, Lean, and DevOps principles for continuous improvement and evidence-based decision-making.
-  content: |-
-    This classification focuses on the concept of delivering incremental value through software development, emphasising the importance of iterative progress in Agile, Lean, and DevOps practices. It highlights how teams can effectively manage their workflows to ensure that each iteration results in a working product that meets user needs and adapts to changing requirements. 
-
-    Key topics for posts in this classification should include techniques for effective backlog management, the role of feedback loops in refining product features, and strategies for measuring value delivery. Additionally, discussions around the integration of Kanban principles, the impact of continuous delivery on team dynamics, and the application of evidence-based management to enhance decision-making processes are highly relevant.
-  updated: 2025-02-13T10:58:50Z
+  subtitle: Delivering valuable software incrementally to enhance responsiveness and adaptability in evolving environments.
+  content: Delivering functional software in iterative cycles enhances responsiveness to user needs and market changes. Posts should explore practices for effective planning, prioritisation, and feedback integration, as well as the role of collaboration and continuous improvement in fostering innovation and reducing waste in development processes.
+  updated: 2025-02-13T12:04:17Z
 
 ---
 

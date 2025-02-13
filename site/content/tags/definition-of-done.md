@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Definition of Done
-  subtitle: Define completion criteria to enhance transparency and quality across Agile, Scrum, DevOps, and Lean practices for effective team alignment.
-  content: |-
-    The Definition of Done (DoD) is all about setting clear expectations for when work is considered complete. It helps teams maintain transparency and ensures that everyone is on the same page regarding quality standards. By defining what "done" means, teams can avoid misunderstandings and ensure that all necessary criteria are met before a task is marked as finished.
-
-    In this classification, posts should explore key topics such as the creation and implementation of DoD in Agile and Scrum environments, its role in DevOps and Continuous Delivery, and how it aligns with Lean principles. Additionally, discussions can include the impact of DoD on team dynamics, evidence-based management, and its relevance in managing complexity within projects.
-  updated: 2025-02-13T11:00:24Z
+  subtitle: Establish clear criteria for completion to enhance transparency and ensure quality across teams and projects.
+  content: Establishing a clear completion standard enhances team alignment and project quality. Posts should explore criteria for assessing work readiness, the impact on workflow efficiency, and methods for fostering shared understanding among team members, ensuring consistent delivery and accountability across various contexts.
+  updated: 2025-02-13T12:05:05Z
 
 ---
 

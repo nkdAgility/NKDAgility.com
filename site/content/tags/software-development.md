@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Software Development
-  subtitle: Techniques and methodologies for high-quality software engineering, embracing Agile, DevOps, Lean, and Evidence-Based Management principles.
-  content: |-
-    This classification focuses on the diverse techniques and methodologies that drive effective software engineering. It encompasses a range of approaches, including Agile, Scrum, DevOps, and Lean, all aimed at enhancing the quality and efficiency of software development processes. By exploring these practices, readers can gain insights into how to adapt and implement strategies that suit their unique project needs.
-
-    Key topics within this classification include the principles of Agile and Scrum, the role of Kanban in workflow management, the integration of DevOps for continuous delivery, and Lean practices for optimising processes. Additionally, it touches on Evidence-Based Management to inform decision-making and the application of Complexity Theory to navigate the challenges of software development in dynamic environments.
-  updated: 2025-02-13T10:55:25Z
+  subtitle: Innovative practices and frameworks for delivering high-quality software solutions efficiently and effectively.
+  content: A comprehensive exploration of methodologies and frameworks that enhance the delivery of software solutions. Posts should delve into workflow optimisation, team collaboration, iterative development, and continuous improvement, drawing insights from industry thought leaders and established theories to foster effective engineering practices.
+  updated: 2025-02-13T12:02:14Z
 
 ---
 

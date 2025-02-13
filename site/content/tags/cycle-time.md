@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Cycle Time
-  subtitle: Measuring the duration of work completion to enhance efficiency and inform decision-making across Agile, Lean, and DevOps practices.
-  content: |-
-    Cycle time is all about understanding how long it takes to get work done, from the moment it starts to when it’s finished. This classification is crucial for teams looking to improve their workflow and efficiency, whether they’re using Kanban, Agile, or DevOps methodologies. By tracking cycle time, teams can identify bottlenecks, streamline processes, and make informed decisions that enhance productivity.
-
-    Posts in this classification should delve into key topics like measuring cycle time, its impact on team performance, and techniques for reducing it. They can explore insights from thought leaders in Agile, Lean, and DevOps, as well as how cycle time relates to evidence-based management and complexity theory. Whether you’re a Kanban enthusiast or a Scrum practitioner, understanding cycle time can help you optimise your processes and deliver value more effectively.
-  updated: 2025-02-13T11:02:31Z
+  subtitle: Measuring the duration from initiation to completion of tasks to enhance workflow efficiency and optimise performance.
+  content: Measuring the time taken to complete a work item from initiation to delivery, this classification aids in identifying bottlenecks and enhancing workflow. Relevant topics include task prioritisation, throughput analysis, process optimisation, and the impact of variability on performance, drawing insights from various methodologies and frameworks.
+  updated: 2025-02-13T12:05:12Z
 
 ---
 

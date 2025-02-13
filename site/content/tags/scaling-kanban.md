@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Scaling Kanban
-  subtitle: Optimising flow and efficiency in large organisations through scalable Kanban principles and practices.
-  content: |-
-    This classification focuses on the application of Kanban principles in larger organisations, aiming to enhance flow and efficiency across multiple teams and departments. It explores how to scale Kanban effectively, ensuring that the core values of visual management, continuous improvement, and limiting work in progress are maintained even as complexity increases. 
-
-    Posts in this category should delve into key topics such as the integration of Kanban with Agile and Scrum methodologies, the role of DevOps in facilitating smoother workflows, and the importance of evidence-based management in decision-making. Additionally, discussions around Lean principles and complexity theory can provide valuable insights into overcoming challenges when implementing Kanban at scale.
-  updated: 2025-02-13T10:56:20Z
+  subtitle: Optimising workflow and enhancing efficiency through scalable Kanban practices in large organisations.
+  content: Implementing Kanban principles across large organisations to enhance workflow and optimise resource allocation. Posts should explore visual management, work-in-progress limits, cycle time reduction, and continuous improvement, while addressing challenges in complex environments and fostering a culture of collaboration and accountability.
+  updated: 2025-02-13T12:02:51Z
 
 ---
 

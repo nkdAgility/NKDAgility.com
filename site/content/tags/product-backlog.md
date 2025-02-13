@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Product Backlog
-  subtitle: Strategies and techniques for managing and refining product backlogs in Agile, Scrum, Kanban, and Lean methodologies.
-  content: |-
-    This classification focuses on the essential practices for managing and refining the product backlog within Agile frameworks like Scrum and Kanban. It’s all about ensuring that your backlog is not just a list of tasks, but a dynamic tool that reflects the team's priorities and adapts to changing needs. Posts in this category should explore techniques for backlog grooming, prioritisation strategies, and how to align the backlog with overall project goals.
-
-    Key topics include the role of the product owner, effective user story creation, and the integration of feedback loops to enhance backlog clarity. Additionally, insights from Lean and DevOps methodologies can provide valuable perspectives on optimising flow and reducing waste in backlog management. Emphasising evidence-based approaches will help teams make informed decisions that drive value and foster collaboration.
-  updated: 2025-02-13T10:57:37Z
+  subtitle: Optimising backlog management for prioritisation, refinement, and delivery in complex environments.
+  content: Effective backlog management encompasses techniques for prioritising, refining, and delivering work items in dynamic environments. It involves understanding stakeholder needs, utilising flow metrics, and adapting to changing requirements, while fostering collaboration and transparency to enhance team performance and value delivery.
+  updated: 2025-02-13T12:03:26Z
 
 ---
 

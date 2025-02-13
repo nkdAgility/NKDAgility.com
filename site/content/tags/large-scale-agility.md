@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Large Scale Agility
-  subtitle: Driving enterprise-wide transformation through agile practices, Lean principles, and evidence-based management for sustainable innovation.
-  content: |-
-    This classification focuses on the principles and practices of scaling agile methodologies across entire organisations, moving beyond individual teams to foster a culture of collaboration and innovation. It highlights the importance of integrating frameworks like Scrum, Kanban, and Lean to create a cohesive approach that aligns with the unique needs of large enterprises. 
-
-    Key topics include the application of evidence-based management to inform decision-making, the role of DevOps in enhancing delivery and operational efficiency, and the insights from complexity theory to navigate organisational challenges. Posts should explore real-world examples, frameworks, and tools that facilitate large-scale agility, ensuring that transformation efforts are sustainable and impactful.
-  updated: 2025-02-13T10:58:47Z
+  subtitle: Transforming organisations through collaborative frameworks and innovative practices for sustainable growth and adaptability.
+  content: Facilitating enterprise-wide transformation through collaborative frameworks that enhance responsiveness and innovation. Posts should explore systemic practices, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
+  updated: 2025-02-13T12:04:15Z
 
 ---
 

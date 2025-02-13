@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Organisational Change
-  subtitle: Transforming organisations to enhance agility, resilience, and continuous improvement through evidence-based practices and collaborative frameworks.
-  content: |-
-    This classification focuses on the dynamic process of organisational change, emphasising the need for agility and resilience in today’s fast-paced environment. It explores how organisations can adapt their structures, cultures, and practices to thrive amidst uncertainty and complexity. By leveraging insights from Agile, Scrum, Lean, and DevOps methodologies, posts in this category will highlight transformative strategies that foster collaboration, continuous improvement, and evidence-based decision-making.
-
-    Key topics include the principles of Kanban and Lean thinking, the role of Agile frameworks in enhancing team performance, and the integration of DevOps practices to streamline workflows. Additionally, discussions may delve into complexity theory and its implications for managing change, as well as the importance of fostering a culture that embraces experimentation and learning.
-  updated: 2025-02-13T10:57:58Z
+  subtitle: Transforming structures and processes to enhance adaptability and foster resilience in dynamic environments.
+  content: Facilitating transformation initiatives that enhance adaptability and resilience within organisations. Posts should explore frameworks for continuous improvement, the role of team dynamics, the impact of leadership on change, and strategies for managing complexity in evolving environments.
+  updated: 2025-02-13T12:03:39Z
 
 ---
 

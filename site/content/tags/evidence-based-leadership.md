@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Evidence Based Leadership
-  subtitle: Harness empirical insights to enhance leadership effectiveness across Agile, DevOps, Lean, and Evidence-Based Management frameworks.
-  content: |-
-    This classification focuses on the integration of empirical evidence into leadership practices, emphasising how data-driven insights can enhance decision-making and foster continuous improvement. By leveraging findings from Agile, Scrum, DevOps, Lean, and Evidence-Based Management, leaders can navigate complex environments more effectively and adapt their strategies based on real-world outcomes.
-
-    Posts in this category should explore key topics such as the application of evidence in leadership roles, the impact of data on team dynamics, and the role of metrics in guiding organisational change. Additionally, discussions may include insights from influential figures like Ken Schwaber and Gene Kim, as well as frameworks like the Cynefin Framework, to illustrate how evidence-based approaches can lead to more resilient and responsive leadership in various contexts.
-  updated: 2025-02-13T10:59:18Z
+  subtitle: Harnessing data-driven insights to enhance leadership effectiveness and foster continuous improvement in dynamic environments.
+  content: Utilising empirical data to inform leadership strategies enhances decision-making and drives organisational growth. Posts should explore topics such as performance metrics, team dynamics, feedback loops, and adaptive leadership practices, emphasising the importance of evidence in navigating complex environments and fostering a culture of continuous improvement.
+  updated: 2025-02-13T12:04:34Z
 
 ---
 

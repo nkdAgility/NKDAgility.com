@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Modern Source Control
-  subtitle: Best practices for version control and branching strategies in Agile, DevOps, and Lean software development methodologies.
-  content: |-
-    This classification focuses on the essential practices of version control and branching strategies that are crucial for modern software development. It highlights how effective source control can enhance collaboration, streamline workflows, and support continuous delivery in Agile, DevOps, and Lean environments. By understanding these practices, teams can better manage code changes, reduce conflicts, and maintain a high-quality codebase.
-
-    Posts in this classification should cover key topics such as Git workflows, branching models, code review processes, and integration techniques. Additionally, they can explore the interplay between source control and methodologies like Kanban and Scrum, as well as the principles of Evidence-Based Management and Complexity Theory, providing insights into how these practices can adapt to evolving project needs and team dynamics.
-  updated: 2025-02-13T10:58:10Z
+  subtitle: Optimising version control and branching techniques for efficient software development and collaboration.
+  content: Effective version control and branching strategies are essential for enhancing collaboration and streamlining software development workflows. Posts should explore topics such as repository management, conflict resolution, integration techniques, and the impact of version control on team dynamics and project delivery.
+  updated: 2025-02-13T12:03:47Z
 
 ---
 

@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Customer Satisfaction
-  subtitle: Enhancing customer happiness through evidence-based practices and agile methodologies for optimal product-market alignment.
-  content: |-
-    This classification focuses on understanding and improving customer satisfaction as a vital component of achieving product-market fit. It encompasses various methodologies and frameworks, including Agile, Scrum, Lean, and DevOps, to explore how teams can effectively measure and enhance customer happiness. By leveraging evidence-based management principles, organisations can make informed decisions that align their products with customer needs and expectations.
-
-    Key topics within this classification should include techniques for gathering customer feedback, strategies for implementing changes based on that feedback, and the role of continuous delivery in maintaining customer satisfaction. Posts may also delve into the importance of collaboration across teams, the impact of complexity theory on customer interactions, and how practices from Kanban and Lean can streamline processes to better serve customers.
-  updated: 2025-02-13T11:02:35Z
+  subtitle: Enhancing customer happiness through effective measurement and strategies for optimal product alignment.
+  content: Evaluating and improving customer satisfaction involves understanding user needs, gathering feedback, and aligning product offerings with market demands. Posts should explore measurement techniques, feedback loops, user experience design, and strategies for fostering engagement, ensuring that products resonate with target audiences and drive loyalty.
+  updated: 2025-02-13T12:05:15Z
 
 ---
 
