@@ -15,6 +15,15 @@ Instructions: |-
   - The impact of technical excellence on team collaboration and overall project success.
 
   **Strictly exclude** discussions that do not directly relate to engineering practices, such as general Agile philosophy, team dynamics without a technical focus, or unrelated business strategies. Misinterpretations of the core classification, such as conflating technical excellence with purely managerial or operational topics, should also be avoided.
+headline:
+  cards: []
+  title: Technical Excellence
+  subtitle: Engineering practices fostering agility through TDD, CI/CD, modular design, and emergent solutions for effective delivery and continuous improvement.
+  content: |-
+    This classification focuses on the engineering practices that drive agility and enhance the delivery of high-quality software. It encompasses a range of methodologies and techniques, such as Test-Driven Development (TDD), Continuous Integration/Continuous Delivery (CI/CD), modular architecture, and emergent design. By adopting these practices, teams can respond more effectively to change, improve collaboration, and foster a culture of continuous improvement.
+
+    Posts in this category should explore key topics like the principles of Lean and Agile, the role of DevOps in streamlining workflows, and the application of complexity theory in software development. Insights from influential figures in the field, such as Gene Kim and Ken Schwaber, can provide valuable context and guidance. Ultimately, the aim is to highlight how these practices contribute to technical excellence and support teams in navigating the complexities of modern software development.
+  updated: 2025-02-13T11:28:13Z
 
 ---
 

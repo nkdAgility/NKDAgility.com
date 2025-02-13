@@ -20,6 +20,15 @@ Instructions: |-
   - General discussions on Agile, Scrum, or DevOps that do not specifically mention Azure DevOps
   - Technical details unrelated to Azure DevOps services or tools
   - Personal opinions or experiences that do not provide insights into Azure DevOps functionalities or practices
+headline:
+  cards: []
+  title: Azure DevOps
+  subtitle: 'Streamline your development process with Azure DevOps: tools for CI/CD, collaboration, and agile project management inspired by industry leaders.'
+  content: |-
+    Azure DevOps is a versatile platform that brings together tools for continuous integration and delivery (CI/CD), collaboration, and agile project management, making it a go-to choice for teams looking to enhance their development workflows. It supports various methodologies, including Agile and Scrum, allowing teams to implement practices from the Scrum Guide and leverage insights from thought leaders like Ken Schwaber and Martin Fowler. 
+
+    In this classification, you'll find posts that explore key topics such as Kanban principles, Lean practices, and the integration of DevOps methodologies. Expect discussions on how to effectively manage projects, improve team collaboration, and apply evidence-based management techniques to drive better outcomes. Whether you're delving into complexity theory or seeking to optimise your CI/CD pipelines, this space is all about sharing knowledge and experiences to help teams thrive in a dynamic environment.
+  updated: 2025-02-13T11:30:11Z
 
 ---
 

@@ -18,6 +18,15 @@ Instructions: |-
   - The impact of DevOps on product delivery efficiency and collaboration.
 
   **Strictly exclude** discussions that deviate from the core principles of product delivery, such as unrelated software development practices, theoretical discussions without practical application, or topics that do not directly contribute to the understanding of delivering software products effectively.
+headline:
+  cards: []
+  title: Product Delivery
+  subtitle: Streamlined processes for delivering software products through Agile, DevOps, and Lean methodologies, ensuring quality and customer satisfaction.
+  content: |-
+    This classification focuses on the journey of delivering software products that truly meet customer needs, emphasising the importance of collaboration, flexibility, and continuous improvement. It encompasses the entire lifecycle from planning and development to testing and deployment, ensuring that teams can respond effectively to changing requirements and deliver value quickly.
+
+    Key topics include Agile methodologies like Scrum and Kanban, principles of Lean thinking, and the integration of DevOps practices to enhance collaboration between development and operations. Posts should also explore concepts from Evidence-Based Management to inform decision-making, as well as insights from Complexity Theory to navigate the unpredictable nature of software delivery.
+  updated: 2025-02-13T11:28:47Z
 
 ---
 

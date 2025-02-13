@@ -17,6 +17,15 @@ Instructions: |-
   - Integration of Agile, Lean, and DevOps practices to enhance organisational responsiveness.
 
   **Strictly exclude** discussions that focus on unrelated methodologies, frameworks, or practices that do not directly contribute to the understanding or implementation of business agility, such as traditional project management approaches or non-agile frameworks.
+headline:
+  cards: []
+  title: Business Agility
+  subtitle: Empower organisations to swiftly adapt and innovate through Agile, Lean, and DevOps principles for sustained value delivery in dynamic markets.
+  content: |-
+    This classification focuses on the principles and practices that enable organisations to be more responsive and innovative in a fast-paced business environment. It highlights the importance of integrating Agile, Lean, and DevOps methodologies to foster a culture of continuous improvement and value delivery. By embracing these approaches, teams can better navigate complexity and uncertainty, ensuring they remain competitive and relevant.
+
+    Posts in this category should explore key topics such as the application of Kanban for workflow optimisation, the role of Scrum in enhancing team collaboration, and the impact of DevOps on accelerating delivery cycles. Additionally, discussions around Evidence-Based Management and Complexity Theory will provide insights into making informed decisions and adapting strategies based on real-world data and evolving market conditions.
+  updated: 2025-02-13T11:30:06Z
 
 ---
 

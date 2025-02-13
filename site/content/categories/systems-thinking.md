@@ -16,6 +16,15 @@ Instructions: |-
   - Tools and frameworks that support Systems Thinking, including the Cynefin Framework and Soft Systems Methodology.
 
   **Strictly exclude** discussions that focus solely on linear problem-solving approaches, isolated methodologies without consideration of interconnections, or any misinterpretations of Systems Thinking that do not align with its core principles and philosophies.
+headline:
+  cards: []
+  title: Systems Thinking
+  subtitle: Explore Systems Thinking to navigate complexity, enhance decision-making, and foster sustainable change across Agile, DevOps, and Lean practices.
+  content: |-
+    This classification focuses on Systems Thinking as a vital approach to navigating the complexities of modern organisational environments. It encourages a holistic view, helping teams and leaders understand interdependencies and the broader context of their work. By applying Systems Thinking, organisations can enhance decision-making processes and foster sustainable change, making it particularly relevant in Agile, DevOps, and Lean practices.
+
+    Posts in this classification should explore key topics such as the principles of Systems Thinking, its application in Kanban and Agile frameworks, and its role in Evidence-Based Management. Additionally, discussions may include insights from complexity theory and how these concepts can be integrated into continuous delivery and improvement efforts. By connecting these ideas, contributors can provide valuable perspectives on driving effective change and innovation within teams and organisations.
+  updated: 2025-02-13T11:28:21Z
 
 ---
 

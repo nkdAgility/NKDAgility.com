@@ -17,6 +17,15 @@ Instructions: |-
   - The role of organisational culture in shaping employee behaviour
 
   **Strictly exclude** discussions that do not directly relate to the psychological aspects of organisational behaviour, such as technical methodologies, specific Agile or DevOps practices, or unrelated business strategies. Misinterpretations of core psychological theories or oversimplifications of complex human behaviours should also be avoided.
+headline:
+  cards: []
+  title: Organisational Psychology
+  subtitle: Exploring motivation, engagement, leadership, and team dynamics through Agile, Lean, and DevOps principles for effective organisational performance.
+  content: |-
+    This classification dives into the fascinating world of organisational psychology, focusing on how motivation, engagement, leadership, and team dynamics shape workplace culture and performance. It’s all about understanding the human side of work and how it interacts with methodologies like Agile, Lean, and DevOps to create thriving teams and organisations.
+
+    Posts in this category should explore key topics such as the psychological principles behind team collaboration, the impact of leadership styles on motivation, and the dynamics of high-performing teams. Additionally, connections to frameworks like the Cynefin Framework and practices from Evidence-Based Management can provide valuable insights into navigating complexity and fostering a culture of continuous improvement.
+  updated: 2025-02-13T11:29:04Z
 
 ---
 

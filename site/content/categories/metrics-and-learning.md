@@ -17,6 +17,15 @@ Instructions: |-
   - Tools and technologies that facilitate data-driven decision-making.
 
   **Strictly exclude** any discussions that deviate from the core principles of metrics and learning, such as anecdotal evidence without data support, unrelated management theories, or practices that do not align with Agile, DevOps, or Lean philosophies.
+headline:
+  cards: []
+  title: Metrics and Learning
+  subtitle: Harnessing data and feedback to enhance team performance and processes across Agile, DevOps, and Lean methodologies.
+  content: |-
+    This classification focuses on the role of metrics and learning in fostering a culture of continuous improvement within teams and processes. By leveraging data and feedback, teams can make informed decisions that enhance their performance and adapt to changing circumstances. This approach is vital across various methodologies, including Agile, Scrum, DevOps, and Lean, as it encourages a mindset of experimentation and learning.
+
+    Posts in this category should explore key topics such as the use of metrics to track progress, the importance of feedback loops, and techniques for analysing data to drive improvements. Additionally, discussions may include insights from thought leaders like Ken Schwaber and Gene Kim, as well as frameworks like the Cynefin Framework, to illustrate how teams can navigate complexity and uncertainty while striving for excellence.
+  updated: 2025-02-13T11:29:18Z
 
 ---
 

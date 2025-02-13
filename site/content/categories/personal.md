@@ -18,6 +18,15 @@ Instructions: |-
   - Technical discussions or detailed analyses of Agile, Scrum, DevOps, or Lean frameworks.
   - Content that misrepresents or deviates from the original theories and philosophies of the mentioned methodologies.
   - Generalised statements that do not provide personal context or insights.
+headline:
+  cards: []
+  title: Personal
+  subtitle: Reflections on personal experiences and insights in Agile, Lean, DevOps, and Evidence-Based Management practices.
+  content: |-
+    This classification is all about sharing personal insights and experiences related to Agile, Lean, DevOps, and Evidence-Based Management. It’s a space for individuals to reflect on their journeys, challenges, and learnings in these fields, offering a more human perspective on the methodologies and practices that shape our work environments. 
+
+    Posts in this category should cover a range of topics, including personal anecdotes from implementing Kanban or Scrum, lessons learned from DevOps transformations, and reflections on the principles of Lean thinking. Writers are encouraged to explore how complexity theory influences their approach to problem-solving and decision-making, as well as how evidence-based management has impacted their teams and organisations.
+  updated: 2025-02-13T11:28:54Z
 
 ---
 
