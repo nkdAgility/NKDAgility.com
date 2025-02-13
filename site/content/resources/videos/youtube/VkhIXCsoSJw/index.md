@@ -1,6 +1,6 @@
 ---
-title: Automate Everything - Boosting Engineering Excellence and Building Confidence
-description: Discover how automation enhances engineering excellence, boosts confidence, and accelerates product development in this insightful video!
+title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
+description: Unlock the secrets of successful product development! Discover how automation transforms testing, deployment, and quality assurance for engineering teams.
 date: 2025-01-14T06:45:00Z
 ResourceId: VkhIXCsoSJw
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: automate-everything-boosting-engineering-excellence-and-building-confidence
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=VkhIXCsoSJw
 aliases:
 - /resources/videos/VkhIXCsoSJw
 - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
@@ -48,49 +47,47 @@ resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 categories:
 - DevOps
 - Practical Techniques and Tooling
 - Technical Excellence
 
 ---
- Automate Everything: Boosting Engineering Excellence and Building Confidence
+When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.
 
-Automation is the cornerstone of engineering excellence. Whether you're developing simple features or managing complex systems like Azure DevOps, automation helps you build better products, faster—and with more confidence. In this video, I discuss why automating everything, from testing to deployment, is key to shortening feedback loops, improving code quality, and gaining customer trust.
+### The Power of Automation
 
-📚 Chapters:
+Automating everything is crucial for instilling confidence in our engineering teams. Here’s what I mean by that:
 
-1. 00:00 Introduction – Why automation is essential for complex product development.
-2. 01:30 The Role of Batch Sizes – Breaking down work into smaller, more manageable pieces.
-3. 03:00 Azure DevOps Case Study: Flipping the Pyramid – How transitioning to fast-running unit tests revolutionized their process.
-4. 06:15 Building Confidence in Teams and Customers – Creating reliable systems to enhance trust.
-5. 08:45 Automating Telemetry and Observability – The Twitter Sentiment Bot and creative interim solutions.
-6. 11:00 Pushing Boundaries with Automation – How to continually improve your systems and processes.
+- **Automated Testing**: This is non-negotiable. We need to ensure that every piece of code we write is automatically tested. This not only saves time but also helps catch issues early in the development cycle.
+  
+- **Automated Deployment**: Continuous deployment to production hinges on our ability to automate the deployment process. The more we can automate, the more frequently we can release updates.
 
-🎯 Who This Video is For:
+- **Automated Validation**: Collecting telemetry data from our products allows us to validate our assumptions and decisions automatically. This feedback loop is invaluable.
 
-• Software developers and engineering teams striving for continuous delivery.
-• Product managers interested in improving deployment confidence and customer satisfaction.
-• CTOs, team leads, and decision-makers aiming to modernize their engineering practices.
-• Organizations managing large, complex systems with high interdependencies.
+A prime example of this can be seen in the Azure DevOps team. When they transitioned to deploying their cloud version of the product, they faced significant challenges. They were accustomed to biannual releases, but suddenly, they were aiming for three releases every week. This shift required a complete overhaul of their approach to automation.
 
-🌟 What You’ll Learn:
+### Tackling Technical Debt
 
-• Why automation is critical for reducing time to learn and iterate on ideas.
-• The impact of flipping the test pyramid: From slow system tests to fast unit tests.
-• How automation builds confidence within teams and fosters trust with customers.
-• Creative approaches, like the Twitter Sentiment Bot, to bridge automation gaps during transitions.
-• Practical steps to move toward full automation and continuous delivery.
+The Azure DevOps team had to confront their technical debt head-on. They were dealing with poor-quality code and a testing infrastructure that was, frankly, terrible. Imagine waiting 48 hours to find out if a code change was successful! Their regression suite took even longer—up to a week. This was simply unacceptable.
 
-💡 Key Takeaways:
+To address this, they focused on reducing their cycle time—the time it takes to learn from an idea to deployment and back again. They identified their testing infrastructure as a major bottleneck. By converting long-running functional tests into short, efficient unit tests, they flipped their testing pyramid. Over four years, they transformed their testing strategy from 80,000 long-running tests to an impressive 880,000 short tests. This monumental shift reduced their feedback loop from 48 hours to just three and a half minutes.
 
-• Automate everything: testing, deployments, validation, and telemetry.
-• Focus on reducing time to learn by shortening feedback loops.
-• Confidence is built on reliability—customers and teams thrive on trust.
-• Use temporary automation solutions (like sentiment monitoring) as you build out robust systems.
-• Continuous improvement and automation lead to better products and happier customers.
+### Empowering Developers
 
-🔗 Ready to embrace automation and elevate your engineering practices?
-Visit https://www.nkdagility.com to discover how Naked Agility can help your organization automate effectively, shorten feedback loops, and build confidence in your teams and products. Let’s start building excellence today! 
- [Watch on Youtube](https://www.youtube.com/watch?v=VkhIXCsoSJw)
+One of the key changes they implemented was enabling developers to run command-line calls to set up the necessary components for local testing. This meant that developers could have a local copy of the system running, allowing them to test their work in real-time. This empowerment not only boosted individual confidence but also fostered a collective sense of capability within the team.
+
+### Building Customer Confidence
+
+As we improve our internal processes, we also enhance our customers' confidence in our product. When things go wrong—and they will—it's crucial to own up to mistakes and rectify them swiftly. Customers who have faith in our ability to fix issues will be more forgiving when problems arise. They’ll understand that mistakes are part of the journey, especially when they see our commitment to quality and improvement.
+
+### The Importance of Quality
+
+In complex systems like Azure DevOps, confidence must permeate every level of the organisation. Each team member needs to trust that the components they rely on from other teams will meet the necessary quality standards. This trust is built through a shared commitment to quality and attention to detail.
+
+### Conclusion: The Path to Continuous Delivery
+
+In summary, the journey towards continuous delivery is paved with automation. There should be no room for manual testing in our processes. While we may need temporary solutions—like the Twitter sentiment bot that monitored negative feedback during deployments—these should only serve as crutches while we work towards full automation.
+
+By pushing the boundaries of what we can automate, we not only improve our code and quality but also enhance our engagement with customers. The road may be long, but with dedication and a focus on automation, we can achieve remarkable results. Let’s keep pushing forward, embracing the challenges, and striving for excellence in everything we do.
