@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Products and Books
-  subtitle: Explore insightful reviews and discussions on Agile, DevOps, and Lean literature, tools, and software to enhance your knowledge and practice.
-  content: |-
-    This classification focuses on reviews and discussions surrounding books, tools, and software products that are pivotal to Agile, DevOps, and Lean methodologies. It serves as a resource for practitioners looking to deepen their understanding and enhance their skills through literature and practical tools. Whether you're exploring the principles of Kanban through the works of Daniel Vacanti or diving into the nuances of DevOps with insights from Gene Kim, this space is all about sharing knowledge that drives effective practices.
-
-    Key topics include foundational texts like the Scrum Guide and Lean principles from Taiichi Ohno, as well as contemporary discussions on Evidence-Based Management and Complexity Theory. Posts may cover influential authors and thought leaders, such as Ken Schwaber, Jez Humble, and Mary Poppendieck, providing a well-rounded perspective on how these resources can be applied in real-world scenarios.
-  updated: 2025-02-13T11:28:44Z
+  subtitle: Explore insightful reviews and discussions on tools, literature, and software that enhance team performance and foster effective workflows.
+  content: In-depth analyses and critiques of literature, tools, and software that enhance team dynamics and optimise workflows. Posts delve into methodologies, frameworks, and principles that support continuous improvement, effective collaboration, and evidence-based decision-making, drawing insights from renowned thought leaders and established practices in the field.
+  updated: 2025-02-13T11:58:50Z
 
 ---
 

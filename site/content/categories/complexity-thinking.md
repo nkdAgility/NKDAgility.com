@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Complexity Thinking
-  subtitle: Navigating uncertainty in organisations through complexity science, emergence, and nonlinear dynamics for Agile, DevOps, and Lean practices.
-  content: |-
-    This classification dives into the world of complexity thinking, focusing on how we can better understand and navigate the unpredictable nature of organisations and systems. By leveraging insights from complexity science, emergence, and nonlinear dynamics, it helps us tackle uncertainty in a more informed way. Key frameworks like the Cynefin Framework and concepts from Ralph Stacey are essential here, guiding us through the intricacies of decision-making in complex environments.
-
-    Posts in this category should explore a variety of topics, including the application of complexity theory in Agile and Scrum practices, the integration of Kanban principles, and the role of complexity in DevOps and Lean methodologies. Additionally, discussions around Evidence-Based Management and how these ideas can enhance organisational effectiveness are highly relevant. Overall, this classification encourages a deeper understanding of how complexity influences our work and decision-making processes.
-  updated: 2025-02-13T11:29:58Z
+  subtitle: Navigating uncertainty and organisational dynamics through complexity science and emergent strategies for effective decision-making.
+  content: An exploration of organisational dynamics and decision-making through the lens of complexity science. This classification encompasses emergent strategies, nonlinear interactions, and frameworks such as Cynefin and Stacey, providing insights into navigating uncertainty and fostering adaptive practices in complex environments.
+  updated: 2025-02-13T11:59:47Z
 
 ---
 

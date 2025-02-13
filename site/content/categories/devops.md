@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: DevOps
-  subtitle: Integrating people, processes, and tools for seamless delivery and continuous improvement in Agile, Lean, and Evidence-Based Management practices.
-  content: |-
-    This classification focuses on the collaborative culture and practices that bring together development and operations teams to enhance the delivery of software and services. It highlights the importance of integrating people, processes, and tools to foster a continuous flow of value to end users. Posts in this category should explore how DevOps principles align with Agile methodologies, Lean practices, and Evidence-Based Management, emphasising the role of feedback loops and iterative improvements.
-
-    Key topics include the implementation of continuous integration and continuous delivery (CI/CD), the use of automation tools, and the significance of cross-functional teams. Additionally, discussions around metrics for measuring success, the impact of complexity theory on DevOps practices, and insights from thought leaders in the field will enrich the understanding of how to effectively navigate the challenges of modern software development and delivery.
-  updated: 2025-02-13T11:29:51Z
+  subtitle: Integrating teams, processes, and tools to ensure seamless delivery of value and enhance user satisfaction through continuous improvement.
+  content: A collaborative approach that integrates teams, processes, and tools to enhance the flow of value delivery. Posts should explore continuous improvement, feedback loops, performance metrics, and the interplay between technology and organisational culture, drawing insights from systems thinking and complexity theory.
+  updated: 2025-02-13T11:59:41Z
 
 ---
 

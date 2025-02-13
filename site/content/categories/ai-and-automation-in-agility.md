@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: AI and Automation in Agility
-  subtitle: Harnessing AI and automation to boost agility, streamline decision-making, and optimise software delivery across Agile, DevOps, and Lean practices.
-  content: |-
-    This classification focuses on the intersection of AI and automation within Agile methodologies, exploring how these technologies can enhance team agility, improve decision-making, and streamline software delivery. Posts in this category should delve into practical applications of AI tools in Agile, Scrum, and DevOps environments, highlighting real-world examples and insights from thought leaders like Ken Schwaber and Gene Kim.
-
-    Key topics include the role of AI in optimising Kanban workflows, automating repetitive tasks, and facilitating evidence-based management. Additionally, discussions around the implications of complexity theory on AI adoption in Agile practices, as well as the integration of Lean principles with automation, are encouraged. This classification aims to inspire teams to embrace innovative solutions that drive efficiency and adaptability in their processes.
-  updated: 2025-02-13T11:30:19Z
+  subtitle: Harnessing intelligent automation to optimise workflows, enhance decision-making, and streamline software delivery processes.
+  content: Harnessing intelligent automation to improve workflow efficiency, facilitate informed decision-making, and accelerate software delivery. Posts should explore the integration of AI technologies, the impact on team dynamics, and the enhancement of process visibility, drawing insights from established methodologies and frameworks in the field.
+  updated: 2025-02-13T12:00:00Z
 
 ---
 

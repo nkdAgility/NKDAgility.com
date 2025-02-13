@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Business Agility
-  subtitle: Empower organisations to swiftly adapt and innovate through Agile, Lean, and DevOps principles for sustained value delivery in dynamic markets.
-  content: |-
-    This classification focuses on the principles and practices that enable organisations to be more responsive and innovative in a fast-paced business environment. It highlights the importance of integrating Agile, Lean, and DevOps methodologies to foster a culture of continuous improvement and value delivery. By embracing these approaches, teams can better navigate complexity and uncertainty, ensuring they remain competitive and relevant.
-
-    Posts in this category should explore key topics such as the application of Kanban for workflow optimisation, the role of Scrum in enhancing team collaboration, and the impact of DevOps on accelerating delivery cycles. Additionally, discussions around Evidence-Based Management and Complexity Theory will provide insights into making informed decisions and adapting strategies based on real-world data and evolving market conditions.
-  updated: 2025-02-13T11:30:06Z
+  subtitle: Empower organisations to swiftly adapt and innovate, ensuring continuous delivery of value in a dynamic marketplace.
+  content: Foster an environment where organisations can swiftly respond to market changes, enhance innovation, and ensure consistent value delivery. Posts should explore frameworks for iterative improvement, visual workflow management, team collaboration, and decision-making under uncertainty, drawing insights from complexity theory and evidence-based management.
+  updated: 2025-02-13T11:59:51Z
 
 ---
 

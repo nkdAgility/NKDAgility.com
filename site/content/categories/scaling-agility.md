@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Scaling Agility
-  subtitle: Exploring tailored scaling strategies for Agile frameworks, including LeSS, Nexus, and Scrum@Scale, within diverse contexts like DevOps and Lean.
-  content: |-
-    This classification dives into the world of scaling agility, focusing on how organisations can adapt and implement frameworks like LeSS, Nexus, and Scrum@Scale to fit their unique needs. It’s all about finding the right balance between structure and flexibility, ensuring that teams can collaborate effectively while delivering value at scale. 
-
-    Posts in this category should explore key topics such as custom scaling strategies, the integration of Kanban principles, and the interplay between Agile, Lean, and DevOps practices. Additionally, insights from complexity theory and evidence-based management can provide valuable perspectives on navigating the challenges of scaling in dynamic environments.
-  updated: 2025-02-13T11:28:32Z
+  subtitle: Innovative frameworks for enhancing team collaboration and delivery efficiency through tailored scaling methods and practices.
+  content: Exploring tailored frameworks for enhancing team collaboration and delivery efficiency, this classification delves into unique scaling methodologies. It encompasses practices from various contexts, including iterative development, flow management, and evidence-based decision-making, while addressing complexities in team dynamics and organisational structures.
+  updated: 2025-02-13T11:58:44Z
 
 ---
 

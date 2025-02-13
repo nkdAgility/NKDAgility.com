@@ -77,16 +77,18 @@ $classes | ForEach-Object {
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description' -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -addAfter 'title' 
         } 
-        if (-not $hugoMarkdown.FrontMatter.headline -or ($hugoMarkdown.FrontMatter.headline.updated -lt ([datetime]::Parse("2025-01-12T10:55:28Z")))) {
+        if (-not $hugoMarkdown.FrontMatter.headline -or (([datetime]$hugoMarkdown.FrontMatter.headline.updated) -lt ([datetime]::Parse("2025-02-13T11:58:02Z")))) {
 
             $classificationHeadlinePrompt = @"
 You are an expert in Agile, Scrum, DevOps, and Evidence-Based Management.
 
 Your task is to generate a **headline subtitle** for a **classification** used to categorise blog posts.
 The subtitle should:
-    - **Concisely convey the scope and purpose** of the classification.
-    - **Fit within 160 characters**.
-    - **Help users quickly understand** what topics fall under this classification.
+
+- **Concisely convey the scope and purpose** of the classification.
+- **Fit within 160 characters**.
+- **Help users quickly understand** what topics fall under this classification.
+- Avoid using the words Agile, Lean, and DevOps and instead focus on the intent of the classification.
 
 Classification Title: $($hugoMarkdown.FrontMatter.title)
 Current Description: $($hugoMarkdown.FrontMatter.description)
@@ -111,17 +113,20 @@ You are an expert in Agile, Scrum, DevOps, and Evidence-Based Management.
 
 Your task is to generate a **short description** for a **classification** used to categorise blog posts.
 The description should:
+- Use more detail and specific language than "$ClassificationHeadline"
 - **Define the scope and relevance** of the classification.
-- **Be clear and concise**, with **no more than two paragraphs**.
+- **Be clear and concise**, with **no more than 50 words**.
 - **Outline the key topics** that posts in this classification should cover.
-- The output should be less formal
+- Avoid using the words Agile, Lean, and DevOps and instead focus on the intent of the classification.
+- Do not use "This classification focuses.." just describe it
+- Do not use "Key topics in this classification.."
+- Do not start with "$($hugoMarkdown.FrontMatter.title): "
+- 
 
 Classification Title: $($hugoMarkdown.FrontMatter.title)
 Current Description: $($hugoMarkdown.FrontMatter.description)
 
 Generate the classification description only with no additional text.
-- Do not start with "$($hugoMarkdown.FrontMatter.title): "
-- Do not include the generated subtitle of "$ClassificationHeadline".
 - Do not enclose in quotes
 - Never use the term "best practices" only "practices"
 
@@ -146,7 +151,7 @@ When generating the description, consider the following contexts and include rel
                 content  = $ClassificationDescription
                 updated  = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
             }
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'headline' -fieldValue  $headline -addAfter 'Instructions' 
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'headline' -fieldValue  $headline -addAfter 'Instructions' -Overwrite
         }
 
             

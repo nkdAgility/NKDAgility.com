@@ -18,12 +18,9 @@ Instructions: |-
 headline:
   cards: []
   title: Install and Configuration
-  subtitle: Comprehensive guides for setting up and configuring tools and platforms in Agile, DevOps, and Lean environments.
-  content: |-
-    This classification focuses on the practical aspects of setting up and configuring various tools, software, and platforms essential for Agile, Scrum, DevOps, and Lean methodologies. It serves as a resource for practitioners looking to streamline their workflows and enhance team collaboration through effective installations and configurations. 
-
-    Posts in this category should cover a range of topics, including step-by-step installation guides, configuration tips for popular tools, and discussions on integrating these tools within Agile frameworks like Scrum and Kanban. Additionally, insights into how these setups can support continuous delivery and evidence-based management practices are encouraged, providing a holistic view of the installation and configuration landscape.
-  updated: 2025-02-13T11:29:31Z
+  subtitle: Comprehensive resources for setting up and optimising tools, software, and platforms to enhance workflow and productivity.
+  content: Comprehensive guides and discussions on the setup, installation, and configuration of tools, software, and platforms. Posts should delve into system requirements, integration techniques, troubleshooting methods, and optimisation strategies to enhance operational efficiency and support effective workflow management.
+  updated: 2025-02-13T11:59:23Z
 
 ---
 

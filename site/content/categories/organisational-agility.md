@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Organisational Agility
-  subtitle: Empowering organisations to swiftly adapt through Agile, Lean, and DevOps principles for enhanced responsiveness and innovation.
-  content: |-
-    This classification focuses on how organisations can enhance their ability to respond swiftly to changes in the market, customer preferences, and new opportunities. It encompasses a range of methodologies and frameworks, including Agile, Lean, DevOps, and Evidence-Based Management, all aimed at fostering a culture of adaptability and continuous improvement. By embracing these practices, organisations can create a more responsive environment that encourages innovation and collaboration.
-
-    Key topics within this classification should include the principles of Agile and Scrum, the flow and efficiency of Kanban, the integration of DevOps for seamless delivery, and Lean practices that eliminate waste. Additionally, discussions around Evidence-Based Management and Complexity Theory will provide insights into making informed decisions in uncertain environments. Posts should explore real-world applications, case studies, and strategies that empower teams to thrive in a dynamic landscape.
-  updated: 2025-02-13T11:29:08Z
+  subtitle: Empowering organisations to swiftly respond to change, enhance customer satisfaction, and seize new opportunities through effective strategies.
+  content: A dynamic approach enabling organisations to swiftly navigate shifting market landscapes and evolving customer expectations. Posts should explore frameworks for continuous improvement, effective prioritisation, team collaboration, and decision-making under uncertainty, drawing insights from systems thinking, flow management, and empirical evidence to enhance organisational responsiveness.
+  updated: 2025-02-13T11:59:06Z
 
 ---
 

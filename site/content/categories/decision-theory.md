@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Decision Theory
-  subtitle: Navigating uncertainty in decision-making through heuristics, probability, and behavioural insights across Agile, Lean, and DevOps frameworks.
-  content: |-
-    This classification dives into the art and science of making decisions when faced with uncertainty, drawing on insights from heuristics, probability, and behavioural economics. It’s all about understanding how we can navigate complex environments, whether in Agile, Lean, or DevOps contexts, and how these frameworks can inform our decision-making processes.
-
-    Posts in this category should explore key topics like the role of heuristics in streamlining choices, the impact of probability on risk assessment, and the influence of behavioural economics on team dynamics. Additionally, connections to frameworks like Kanban and Evidence-Based Management can provide practical applications, while insights from Complexity Theory can help us grasp the nuances of decision-making in unpredictable scenarios.
-  updated: 2025-02-13T11:29:55Z
+  subtitle: Navigating choices in uncertain landscapes through insights from heuristics, probability, and human behaviour.
+  content: Exploring the intricacies of decision-making under uncertainty, this classification delves into the application of heuristics, probabilistic reasoning, and insights from behavioural economics. Posts should examine strategies for effective choices, risk assessment, and the influence of cognitive biases in various organisational contexts.
+  updated: 2025-02-13T11:59:45Z
 
 ---
 

@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Product Delivery
-  subtitle: Streamlined processes for delivering software products through Agile, DevOps, and Lean methodologies, ensuring quality and customer satisfaction.
-  content: |-
-    This classification focuses on the journey of delivering software products that truly meet customer needs, emphasising the importance of collaboration, flexibility, and continuous improvement. It encompasses the entire lifecycle from planning and development to testing and deployment, ensuring that teams can respond effectively to changing requirements and deliver value quickly.
-
-    Key topics include Agile methodologies like Scrum and Kanban, principles of Lean thinking, and the integration of DevOps practices to enhance collaboration between development and operations. Posts should also explore concepts from Evidence-Based Management to inform decision-making, as well as insights from Complexity Theory to navigate the unpredictable nature of software delivery.
-  updated: 2025-02-13T11:28:47Z
+  subtitle: Streamlined processes for delivering functional software, encompassing planning, development, testing, and deployment for optimal customer satisfaction.
+  content: A systematic approach to delivering functional software products that prioritises customer value through iterative planning, development, testing, and deployment. Posts should explore workflow optimisation, team collaboration, quality assurance, and the integration of feedback loops to enhance product outcomes and responsiveness to change.
+  updated: 2025-02-13T11:58:52Z
 
 ---
 

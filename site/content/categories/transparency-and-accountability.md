@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Transparency and Accountability
-  subtitle: Promoting openness and responsibility in Agile teams through effective practices and frameworks for enhanced collaboration and decision-making.
-  content: |-
-    This classification focuses on the importance of transparency and accountability within Agile teams, highlighting how these principles foster a culture of openness and responsibility. By embracing these values, teams can enhance collaboration, improve decision-making, and align their efforts towards shared goals. 
-
-    Posts in this category should explore key topics such as the role of transparency in Kanban and Scrum frameworks, the impact of accountability on team dynamics, and how these principles can be integrated into DevOps practices. Additionally, discussions around Evidence-Based Management and Complexity Theory can provide insights into how teams can navigate uncertainty and complexity while maintaining alignment and trust.
-  updated: 2025-02-13T11:28:08Z
+  subtitle: Promoting openness and responsibility to enhance team alignment and decision-making in complex environments.
+  content: Encouraging a culture of openness and responsibility enhances team alignment and decision-making in complex environments. Posts should explore practices for fostering trust, effective communication, and shared ownership, while addressing the dynamics of team interactions and the impact of transparency on performance and adaptability.
+  updated: 2025-02-13T11:58:34Z
 
 ---
 

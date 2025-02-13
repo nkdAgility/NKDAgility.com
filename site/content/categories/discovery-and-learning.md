@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Discovery and Learning
-  subtitle: Fostering innovation and continuous learning in product development through Agile, Lean, DevOps, and Evidence-Based Management principles.
-  content: |-
-    This classification dives into the exciting world of discovery and learning, focusing on how teams can innovate and grow within product and software development. It encourages exploration of new ideas and practices that enhance collaboration, adaptability, and efficiency, drawing from various methodologies like Agile, Lean, and DevOps. 
-
-    Posts in this category should cover key topics such as the principles of Kanban, the Scrum framework, and the importance of continuous delivery. Additionally, insights from complexity theory and evidence-based management can provide valuable perspectives on navigating uncertainty and fostering a culture of learning. Whether it's through practical tips, case studies, or thought-provoking discussions, this space is all about embracing change and driving improvement.
-  updated: 2025-02-13T11:29:47Z
+  subtitle: Fostering innovation and knowledge growth through exploration and experimentation in product and software development.
+  content: Encouraging exploration and experimentation to drive innovation and enhance knowledge within product and software development. Posts should delve into techniques for fostering creativity, iterative learning, and adaptive problem-solving, while addressing the complexities of team dynamics and organisational culture.
+  updated: 2025-02-13T11:59:39Z
 
 ---
 

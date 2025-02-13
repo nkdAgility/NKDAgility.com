@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Code and Complexity
-  subtitle: Exploring software code quality and best practices through Agile, DevOps, and Complexity Theory for effective development and delivery.
-  content: |-
-    This classification dives into the intricate world of software code and its relationship with complexity. It’s all about understanding how code quality impacts development practices and delivery outcomes. Posts here will explore various methodologies, including Agile, Scrum, and DevOps, while also considering insights from Lean principles and Complexity Theory. 
-
-    Key topics include code maintainability, refactoring techniques, the role of metrics in assessing code quality, and how to navigate the complexities of software systems. Expect discussions on frameworks like Kanban and the Cynefin Framework, as well as the influence of thought leaders in the field. Whether you're looking to improve your coding practices or understand the broader implications of complexity in software development, this is the place to be.
-  updated: 2025-02-13T11:30:02Z
+  subtitle: Exploring software quality and development practices to navigate complexity and enhance delivery efficiency.
+  content: Exploring the intricacies of software code quality and development practices, this classification delves into strategies for managing complexity, enhancing delivery efficiency, and fostering collaboration. Topics include continuous improvement, workflow optimisation, and the interplay between team dynamics and technical excellence.
+  updated: 2025-02-13T11:59:49Z
 
 ---
 

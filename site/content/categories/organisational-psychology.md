@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Organisational Psychology
-  subtitle: Exploring motivation, engagement, leadership, and team dynamics through Agile, Lean, and DevOps principles for effective organisational performance.
-  content: |-
-    This classification dives into the fascinating world of organisational psychology, focusing on how motivation, engagement, leadership, and team dynamics shape workplace culture and performance. It’s all about understanding the human side of work and how it interacts with methodologies like Agile, Lean, and DevOps to create thriving teams and organisations.
-
-    Posts in this category should explore key topics such as the psychological principles behind team collaboration, the impact of leadership styles on motivation, and the dynamics of high-performing teams. Additionally, connections to frameworks like the Cynefin Framework and practices from Evidence-Based Management can provide valuable insights into navigating complexity and fostering a culture of continuous improvement.
-  updated: 2025-02-13T11:29:04Z
+  subtitle: Exploring the drivers of workplace behaviour, collaboration, and leadership effectiveness for enhanced team performance and organisational success.
+  content: Exploring the intricacies of human behaviour within organisations, this classification delves into motivation, engagement, leadership styles, and team dynamics. It emphasises the interplay between individual and collective performance, fostering a deeper understanding of how these elements contribute to organisational effectiveness and adaptability in complex environments.
+  updated: 2025-02-13T11:59:03Z
 
 ---
 

@@ -21,12 +21,9 @@ Instructions: |-
 headline:
   cards: []
   title: Value Stream Management
-  subtitle: Optimising value flow through strategic management, aligning work with customer outcomes in Agile, Lean, and DevOps contexts.
-  content: |-
-    This classification focuses on the strategic approach of Value Stream Management, which aims to enhance the flow of value within an organisation. It’s all about optimising efficiency, minimising waste, and ensuring that work aligns with what customers truly need. By understanding and mapping out value streams, teams can identify bottlenecks and improve processes, leading to better outcomes for both the organisation and its customers.
-
-    Posts in this classification should delve into key topics such as the principles of Lean and Agile methodologies, the role of Kanban in visualising workflows, and the integration of DevOps practices for continuous delivery. Additionally, exploring concepts from Evidence-Based Management and Complexity Theory can provide valuable insights into how organisations can adapt and thrive in a dynamic environment.
-  updated: 2025-02-13T11:28:01Z
+  subtitle: Optimising organisational flow to enhance value delivery, minimise waste, and align efforts with customer needs and outcomes.
+  content: A systematic approach to enhancing organisational performance by mapping and analysing workflows, identifying bottlenecks, and fostering collaboration. Posts should explore techniques for visualising processes, measuring efficiency, and aligning team efforts with customer value, drawing insights from complexity theory and evidence-based management principles.
+  updated: 2025-02-13T11:58:30Z
 
 ---
 

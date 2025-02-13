@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Sociotechnical Systems
-  subtitle: Exploring the interplay of technology and organisational dynamics to enhance software delivery and team performance in complex environments.
-  content: |-
-    This classification dives into the fascinating interplay between technology and organisational structures, focusing on how they influence software delivery and team effectiveness. It’s all about understanding the dynamics that shape our work environments, especially in Agile, Scrum, DevOps, and Lean contexts. 
-
-    Posts in this category should explore key topics like the principles of Kanban, the roles of Agile frameworks, the impact of DevOps practices, and the insights from complexity theory. By examining these elements, we can uncover how to create more effective teams and improve delivery processes, ultimately leading to better outcomes in our projects.
-  updated: 2025-02-13T11:28:29Z
+  subtitle: Exploring the interplay between technology and organisational dynamics to enhance software delivery and team performance.
+  content: Exploring the intricate relationships between technology and organisational frameworks, this classification delves into practices that enhance software delivery and team dynamics. Topics include workflow optimisation, team collaboration, performance metrics, and the impact of organisational culture on technology adoption and innovation.
+  updated: 2025-02-13T11:58:42Z
 
 ---
 

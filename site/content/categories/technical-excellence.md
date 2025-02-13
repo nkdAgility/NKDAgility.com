@@ -18,12 +18,9 @@ Instructions: |-
 headline:
   cards: []
   title: Technical Excellence
-  subtitle: Engineering practices fostering agility through TDD, CI/CD, modular design, and emergent solutions for effective delivery and continuous improvement.
-  content: |-
-    This classification focuses on the engineering practices that drive agility and enhance the delivery of high-quality software. It encompasses a range of methodologies and techniques, such as Test-Driven Development (TDD), Continuous Integration/Continuous Delivery (CI/CD), modular architecture, and emergent design. By adopting these practices, teams can respond more effectively to change, improve collaboration, and foster a culture of continuous improvement.
-
-    Posts in this category should explore key topics like the principles of Lean and Agile, the role of DevOps in streamlining workflows, and the application of complexity theory in software development. Insights from influential figures in the field, such as Gene Kim and Ken Schwaber, can provide valuable context and guidance. Ultimately, the aim is to highlight how these practices contribute to technical excellence and support teams in navigating the complexities of modern software development.
-  updated: 2025-02-13T11:28:13Z
+  subtitle: Practices that enhance software quality and responsiveness through effective design, testing, and delivery methodologies.
+  content: Practices that foster high-quality software development through effective design, rigorous testing, and streamlined delivery. Topics include test-driven development, continuous integration and delivery, modular architecture, and adaptive design, all aimed at enhancing responsiveness and collaboration within teams.
+  updated: 2025-02-13T11:58:37Z
 
 ---
 

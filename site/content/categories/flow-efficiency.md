@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Flow Efficiency
-  subtitle: Enhancing value stream throughput by minimising bottlenecks and maximising flow efficiency in Agile, Lean, and DevOps practices.
-  content: |-
-    This classification focuses on enhancing the flow of work through the value stream, aiming to boost speed and eliminate bottlenecks. It’s all about understanding how work moves from start to finish and finding ways to make that journey smoother and more efficient. By applying principles from Kanban, Agile, Lean, and DevOps, we can create a more responsive and adaptive workflow that meets the needs of teams and stakeholders alike.
-
-    Posts in this category should explore key topics such as visualising work in progress, managing flow and cycle times, and implementing practices that reduce waste and improve delivery speed. Insights from thought leaders like Daniel Vacanti and Gene Kim can provide valuable perspectives on optimising processes, while frameworks like the Cynefin can help navigate complexity in workflows. Whether you're looking to refine your Kanban board or integrate flow efficiency into your DevOps practices, this classification offers a space for sharing ideas and experiences that drive continuous improvement.
-  updated: 2025-02-13T11:29:35Z
+  subtitle: Enhancing work throughput to streamline processes, eliminate delays, and maximise value delivery across the entire workflow.
+  content: Optimising the flow of work through the value stream enhances delivery speed and minimises delays. Posts should explore techniques for identifying and alleviating bottlenecks, measuring throughput, and applying systems thinking to improve overall efficiency, drawing on insights from various methodologies and frameworks.
+  updated: 2025-02-13T11:59:25Z
 
 ---
 

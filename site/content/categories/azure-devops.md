@@ -23,12 +23,9 @@ Instructions: |-
 headline:
   cards: []
   title: Azure DevOps
-  subtitle: 'Streamline your development process with Azure DevOps: tools for CI/CD, collaboration, and agile project management inspired by industry leaders.'
-  content: |-
-    Azure DevOps is a versatile platform that brings together tools for continuous integration and delivery (CI/CD), collaboration, and agile project management, making it a go-to choice for teams looking to enhance their development workflows. It supports various methodologies, including Agile and Scrum, allowing teams to implement practices from the Scrum Guide and leverage insights from thought leaders like Ken Schwaber and Martin Fowler. 
-
-    In this classification, you'll find posts that explore key topics such as Kanban principles, Lean practices, and the integration of DevOps methodologies. Expect discussions on how to effectively manage projects, improve team collaboration, and apply evidence-based management techniques to drive better outcomes. Whether you're delving into complexity theory or seeking to optimise your CI/CD pipelines, this space is all about sharing knowledge and experiences to help teams thrive in a dynamic environment.
-  updated: 2025-02-13T11:30:11Z
+  subtitle: Streamline collaboration and delivery with integrated tools for continuous improvement and effective project management.
+  content: A comprehensive suite of tools designed to enhance collaboration, streamline workflows, and facilitate continuous delivery. Posts should explore practices in project management, team dynamics, process optimisation, and metrics for performance evaluation, drawing insights from established methodologies and frameworks in software development and organisational management.
+  updated: 2025-02-13T11:59:54Z
 
 ---
 

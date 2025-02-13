@@ -19,12 +19,9 @@ Instructions: |-
 headline:
   cards: []
   title: Application Lifecycle Management
-  subtitle: Streamlining software development, maintenance, and governance through Agile, DevOps, and Lean principles for optimal application lifecycle management.
-  content: |-
-    This classification focuses on the holistic approach to managing software applications from inception to retirement. It encompasses the practices and methodologies that ensure applications are developed, maintained, and governed effectively throughout their lifecycle. By integrating principles from Agile, DevOps, and Lean, this classification highlights the importance of continuous improvement and adaptability in a fast-paced tech environment.
-
-    Posts in this category should explore key topics such as the integration of Kanban and Scrum methodologies, the role of DevOps in streamlining delivery, and the application of Lean principles to eliminate waste. Additionally, discussions on Evidence-Based Management and Complexity Theory can provide insights into making informed decisions and navigating the complexities of software development.
-  updated: 2025-02-13T11:30:15Z
+  subtitle: Streamlining software development, maintenance, and governance for optimal performance and continuous improvement throughout the application lifecycle.
+  content: A comprehensive approach to overseeing software applications from inception to retirement, emphasising iterative development, stakeholder collaboration, and adaptive governance. Posts should explore methodologies for enhancing workflow efficiency, managing technical debt, ensuring quality assurance, and fostering a culture of continuous learning and improvement.
+  updated: 2025-02-13T11:59:56Z
 
 ---
 

@@ -22,12 +22,9 @@ Instructions: |-
 headline:
   cards: []
   title: Resilience and Change
-  subtitle: Strategies for fostering organisational resilience and navigating adaptive change through Agile, Lean, and DevOps principles.
-  content: |-
-    This classification focuses on the interplay between organisational resilience and the ability to adapt to change in a fast-paced environment. It highlights how teams can cultivate a culture of flexibility and responsiveness, drawing on principles from Agile, Lean, and DevOps. By exploring these themes, posts will provide insights into how organisations can thrive amidst uncertainty and complexity.
-
-    Key topics include strategies for implementing Kanban and Scrum methodologies to enhance workflow and adaptability, the role of DevOps in fostering collaboration and continuous delivery, and the application of Evidence-Based Management to make informed decisions. Additionally, discussions may delve into Complexity Theory and frameworks like Cynefin to better understand and navigate the challenges of change.
-  updated: 2025-02-13T11:28:37Z
+  subtitle: Navigating organisational adaptability and resilience through effective strategies and insights for sustainable change.
+  content: Strategies for fostering organisational adaptability and resilience through informed decision-making and iterative learning. Posts should explore frameworks for managing change, enhancing team collaboration, and utilising data-driven insights to navigate complexity and uncertainty in dynamic environments.
+  updated: 2025-02-13T11:58:47Z
 
 ---
 

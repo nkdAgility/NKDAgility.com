@@ -20,12 +20,9 @@ Instructions: |-
 headline:
   cards: []
   title: Metrics and Learning
-  subtitle: Harnessing data and feedback to enhance team performance and processes across Agile, DevOps, and Lean methodologies.
-  content: |-
-    This classification focuses on the role of metrics and learning in fostering a culture of continuous improvement within teams and processes. By leveraging data and feedback, teams can make informed decisions that enhance their performance and adapt to changing circumstances. This approach is vital across various methodologies, including Agile, Scrum, DevOps, and Lean, as it encourages a mindset of experimentation and learning.
-
-    Posts in this category should explore key topics such as the use of metrics to track progress, the importance of feedback loops, and techniques for analysing data to drive improvements. Additionally, discussions may include insights from thought leaders like Ken Schwaber and Gene Kim, as well as frameworks like the Cynefin Framework, to illustrate how teams can navigate complexity and uncertainty while striving for excellence.
-  updated: 2025-02-13T11:29:18Z
+  subtitle: Harnessing data and insights to foster ongoing enhancement in team dynamics and operational workflows.
+  content: Utilising quantitative and qualitative insights to enhance team performance and streamline workflows. Posts should explore data-driven decision-making, feedback loops, process optimisation, and the interplay between team dynamics and operational efficiency, drawing on principles from systems thinking and complexity theory.
+  updated: 2025-02-13T11:59:13Z
 
 ---
 
