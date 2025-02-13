@@ -1,6 +1,6 @@
 ---
-title: Sloth! 7 deadly sins of Agile.
-description: "Explore the sin of Sloth in Agile! Martin reveals pitfalls and the need for honesty in practices. Avoid complacency and align with Agile values! \U0001F680\U0001F40C"
+title: 'Conquering Sloth in Agile: 6 Signs Your Team Might Be Stalling'
+description: Uncover the hidden signs of sloth in Agile practices. Learn how to empower your team, deliver value, and embrace true agility in your projects!
 date: 2023-10-20T16:01:48Z
 ResourceId: uCFIW_lEFuc
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: uCFIW_lEFuc
 url: /resources/videos/:slug
 slug: sloth!-7-deadly-sins-of-agile-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=uCFIW_lEFuc
 aliases:
 - /resources/videos/uCFIW_lEFuc
 - /resources/videos/sloth!-7-deadly-sins-of-agile-
@@ -25,43 +24,39 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories: []
 
 ---
- Navigating the Sin of Sloth in Agile
+One of the seven deadly sins of Agile is sloth, and I’ve seen it manifest in various ways across teams, organisations, and leadership. It’s a pervasive issue that often goes unnoticed, yet it can severely hinder our progress towards true agility. 
 
-Sloth, one of the seven deadly sins of Agile, can manifest in various ways across teams, organisations, and leadership. In this video, Martin 🎥 delves deep into the pitfalls of not genuinely committing to Agile principles, even when we claim to be following them. 
+When we say we’re doing Agile but fail to deliver working products at the end of each Sprint, we’re not just missing the mark; we’re being lazy. Here are some common signs of sloth in Agile practices that I’ve encountered:
 
-From failing to deliver a working product at the end of a Sprint to having convoluted deployment processes, Martin highlights the common indicators of Sloth in Agile practices. 🚫🐌 He emphasises the importance of honesty and transparency, urging teams to be upfront about their capabilities within the Agile framework.
+### 1. **Failure to Deliver Working Software**
+Are teams delivering working software to real users every iteration, including the first? This is the essence of Agile. If you’re not getting ideas in front of customers and gathering feedback, you’re not doing Agile. It’s as simple as that. 
 
-Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
+### 2. **Lack of a Product Charter**
+Is there a product charter that lays down the mission and strategic goals? Do all team members understand how they contribute? Without this clarity, how can we expect our teams to make informed decisions? We’re hiring smart, capable individuals, yet we’re not empowering them with the information they need. If communication is lacking, that’s sloth.
 
-In this insightful discussion, Martin also touches upon the challenges faced by organisations that are mandated to adopt Agile for products that might not be suited for it. Whether it's traditional development methods or complex underlying systems, it's crucial to genuinely align actions with Agile values. 🔄📈
+### 3. **Ignoring User Feedback**
+Are you turning feedback from users into concrete work items on Sprint timelines shorter than one month? Engaging with customers and getting parts of your product in front of them shouldn’t be a Herculean task. If you’re not doing this, you’re being lazy.
 
-Subscribe to our newsletter, "NKDAgility Digest": https://nkdagility.com/subscribe-newsletter/
+### 4. **Bureaucratic Deployment Processes**
+The full ecosystem of your project should be Agile. If you have Agile programming teams followed by linear bureaucratic deployments, you’re failing. It’s crucial to get the working product in front of users quickly to close feedback loops and validate assumptions. If it takes too long to deploy, you’re not being Agile.
 
-Key Takeaways:
+### 5. **Inability to Change Requirements**
+Are teams empowered to change their requirements based on feedback? The people doing the work should have the authority to adapt the backlog as needed. If your organisation insists on sticking to a rigid list of requirements, that’s fundamentally not Agile. Welcome changing requirements, even late in development.
 
-00:00:05 Introduction to the Seven Deadly Sins of Agile
-00:00:30 Common Signs of Sloth in Agile Practices
-00:01:00 Discrepancies in Agile Implementation
-00:01:29 The Need for Honesty and Transparency in Agile
+### 6. **Resistance to Process Change**
+Finally, are teams empowered to change their processes based on what they learn? Agile is about emergent practices and continuous adaptation. If senior leadership is unwilling to allow teams to evolve their processes, they’re missing the point of Agile. 
 
-7 Deadly Sins of Agile Playlist: https://youtube.com/playlist?list=PLQEC_R53iJWOFJcaaeEVVIO1o-9Lik2TQ&si=qDLDIwYFnG6OQGmS
+These six indicators embody sloth in Agile. If you’re not able to do these things, it’s a sign that you’re not genuinely interested in moving towards agility. It’s time to get off your arse and fix it.
 
-- Part 1: https://youtu.be/4mkwTMMtKls
-- Part 2: https://youtu.be/fZLGlqMdejA
-- Part 3: https://youtu.be/2ASLFX2i9_g
-- Part 4: https://youtu.be/RBZFAxEUQC4
-- Part 5: https://youtu.be/BDFrmCV_c68
-- Part 6: https://youtu.be/uCFIW_lEFuc
-- Part 7: https://youtu.be/U18nA0YFgu0
+In my experience, honesty and transparency are crucial. If your product isn’t suited to Agile, or if your organisation’s structure is holding you back, it’s better to acknowledge that than to pretend otherwise. 
 
-For those struggling to implement Agile principles or align their actions with its values, NKDAgility is here to help! Dive into the video to learn more and avoid the pitfalls of Sloth in your Agile journey. 🚀
+I highly recommend checking out the article "Detecting Agile BS" from the US Department of Defense. It’s a fantastic resource that outlines these issues and provides a workflow for addressing them.
 
-#agile #sloth #agileprinciples #nkdagility #scrum #teams #organisations #leadership #transparency 
- [Watch on Youtube](https://www.youtube.com/watch?v=uCFIW_lEFuc)
+If you found this discussion valuable, please like, follow, and subscribe. I always welcome comments, and if you’d like to chat about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Let’s work together to overcome sloth and truly embrace the Agile mindset!

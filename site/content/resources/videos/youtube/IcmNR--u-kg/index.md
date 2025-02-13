@@ -1,6 +1,6 @@
 ---
-title: How will the immersive learning experience change the game in terms of entry level capabilities?
-description: "Explore how immersive learning revolutionises entry-level skills, enhancing practical application and problem-solving in workforce development. \U0001F31F\U0001F680"
+title: "Transform Your Team's Skills: The Power of Immersive Learning in the Workplace"
+description: Transform your team's skills with immersive learning! Discover how hands-on experiences and coaching can enhance real-world application and foster growth.
 date: 2023-07-31T07:00:12Z
 ResourceId: IcmNR--u-kg
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=IcmNR--u-kg
 aliases:
 - /resources/videos/IcmNR--u-kg
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
@@ -26,44 +25,33 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories: []
 
 ---
- *Revolutionizing Workforce Skills: The Power of Immersive Learning* - Discover how immersive learning transforms entry-level capabilities in our latest video. Dive deep into practical skills application and real-world problem-solving with our innovative approach. 
+When it comes to enhancing entry-level capabilities in the workplace, I’ve found that immersive learning experiences truly change the game. In my experience, traditional training methods often fall short. We typically find ourselves in a two-day training class, inundated with theory that feels disconnected from the realities of our jobs. This approach can lead to what I call "single loop learning," where participants absorb content but struggle to apply it effectively in their day-to-day roles.
 
-*Book today - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*
+### The Shift to Immersive Learning
 
-In this video, Martin explores the dynamic world of immersive learning and its impact on workforce development. 🚀 Learn how this method contrasts with traditional training, focusing on real-world applications over theoretical learning. 📚 Join us to uncover how immersive learning fosters double-loop learning, empowers problem-solving, and reshapes organizational mindsets. 🌟
+Immersive learning flips this model on its head. Instead of drowning in theory, we focus on a small amount of content that participants can immediately apply. Over the course of five to seven days, learners are given the opportunity to explore how to implement these concepts within their own organisations. This hands-on approach allows them to confront real-world challenges head-on.
 
-*Key Takeaways:*
-00:00:04 Immersive vs Traditional Training
-00:00:34 Practical Application in Organizations
-00:01:07 Double-Loop Learning in Practice
-00:01:38 Overcoming Organizational Resistance
-00:01:54 Coaching for Individual and Group Learning
+Here’s what I’ve observed about the benefits of immersive learning:
 
-*Innovative Immersion Training at NKDAgility*
+- **Real-World Application**: Participants can directly connect what they learn to their work environment. They encounter roadblocks, questions, and challenges that arise in their specific contexts.
+- **Feedback Loops**: The immersive programme encourages a feedback loop where learners can return to the group to discuss their experiences. This is where the magic happens—participants engage in "double loop learning," reflecting on their experiences and collaboratively solving problems.
+- **Challenging Stubborn Ideas**: It’s not uncommon for individuals to cling to the phrase, “This is how I’ve always done it.” Immersive learning creates a safe space for challenging these entrenched beliefs, fostering a culture of openness and adaptability.
 
-NKDAgility's Immersion Training reimagines traditional classroom learning. Our approach involves:
+### The Role of Coaching and Consulting
 
-- *Incremental Classroom Learning:* Short, engaging live sessions spread over several weeks, each lasting up to 4 hours. This structure allows learners to thoroughly understand each concept at a comfortable pace.
-- *Outcome-Based Assignments:* Assignments linked to each session emphasize practical application and innovation, catering to various skill levels and backgrounds.
-- *Facilitated Reflections:* Each class starts with a reflective session where learners discuss their assignment experiences with their Professional Scrum Trainer, fostering peer learning and actionable insights.
+One of the standout features of our immersive training is the inclusion of coaching and consulting. This isn’t just a one-off training session; it’s an ongoing journey. Participants receive individual coaching as part of the programme, allowing them to delve deeper into their specific challenges and receive tailored guidance.
 
-This Immersion Training is designed to offer a more interactive, reflective, and practical learning experience, ensuring not just knowledge acquisition but also application and growth. Join us for a transformative educational journey.
+- **Group Learning**: The collective experience of the group enhances understanding and fosters a sense of community. Participants learn from each other’s successes and setbacks.
+- **Individual Support**: The additional coaching ensures that everyone has the opportunity to address their unique challenges, making the learning experience more personalised and impactful.
 
-Starting in 2024, we will be running immersive classes in bundles as Learning Journeys that you can book together, or on their own! Our 24Q1 bundles are:
+### Conclusion
 
-- Professional Scrum Product Owner & Product Backlog Management Skills: https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/pspo-2024-01-17-50822/
-- Professional Scrum Master & Professional Scrum Facilitation Skills: https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/psm-2024-01-17-50838/
-- Professional Agile Leadership Essentials & Evidence-Based Management (PAL-EBM): https://nkdagility.com/training-courses/scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/pal-ebm-2024-03-08-50867/
- 
-*BOOK TODAY - https://nkdagility.com/training-courses/course-schedule/ -- Reginal pricing, bulk discount, & alumni discounts available!*
+In my view, the shift from traditional training to immersive learning is essential for developing the capabilities that today’s organisations need. By connecting theory to practice and fostering an environment of continuous feedback and support, we empower individuals to thrive in their roles.
 
-If you are underemployed, we can also create custom payment plans to help you out. Just ask!
-
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner 
- [Watch on Youtube](https://www.youtube.com/watch?v=IcmNR--u-kg)
+If you’re interested in exploring how immersive learning can transform your team’s capabilities, I invite you to reach out. Let’s have a chat over coffee—book a session with me through Naked Agility. I’m always eager to discuss agile, scrum, or DevOps, and I look forward to hearing your thoughts!

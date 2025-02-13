@@ -1,6 +1,6 @@
 ---
-title: The Cost of Chaos. The Impact of Poor Technical Leadership
-description: Discover how poor technical leadership fuels chaos in software delivery and learn to boost productivity through engineering excellence with Martin Hinshelwood.
+title: 'Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence'
+description: Transform chaos into clarity! Discover how optimising systems and tackling technical debt can boost productivity and innovation in your organisation.
 date: 2024-12-16T06:00:00Z
 ResourceId: zqMzD1PXq4s
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: the-cost-of-chaos-the-impact-of-poor-technical-leadership
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=zqMzD1PXq4s
 aliases:
 - /resources/videos/zqMzD1PXq4s
 - /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
@@ -34,7 +33,7 @@ tags:
 - Technical Mastery
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -43,45 +42,34 @@ categories:
 - Technical Excellence
 
 ---
- Chaos Costs Money: How Engineering Excellence Controls Chaos and Boosts Productivity | Martin Hinshelwood
+Chaos costs money. In my experience working with various organisations, I've seen firsthand how they struggle to manage the chaos that often surrounds the delivery of usable, working products to their customers. The result? Substandard work, a barrage of bugs hitting production, and a frustrating cycle of rework because things simply don’t meet the minimum standards we expect. It’s a familiar tale, and one that I’ve encountered time and again.
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, we’ll explore how engineering mediocrity and technical debt contribute to chaos and waste in software delivery—and how investing in technical leadership and engineering excellence can transform your organization.
+### Understanding the Shift
 
-Learn how the Azure DevOps team achieved an incredible 24x increase in feature delivery by controlling chaos, refactoring systems, and focusing on technical excellence.
+When I’m building products, I often find myself in a position where I need to solve a problem. You identify a challenge, envision a solution, and set off in that direction. However, as time passes, the landscape can shift dramatically. This shift might be due to emerging market opportunities or the need to scale operations. 
 
-📌 Chapters:
+The solution that once seemed perfect can quickly become inadequate. I’ve witnessed this in various sectors, particularly in industries like airlines and car rentals, where technical debt accumulates over time. Choices made years ago can lead to a tangled web of outdated systems that no longer serve the organisation’s needs. 
 
-1. 00:00 – Introduction: The Cost of Chaos in Software Development
-2. 01:45 – Examples of Suboptimal Systems in Organizations
-3. 04:00 – Technical Debt vs. Technical Rust: Why Systems Degrade Over Time
-4. 06:15 – The Role of Technical Leadership in Reducing Chaos
-5. 08:30 – How Azure DevOps Improved Feature Delivery by 24x
-6. 12:00 – The Value of Fast Feedback Loops: From 48 Hours to 3 Minutes
-7. 14:45 – Engineering Excellence as a Value Center
+### The Dangers of Technical Debt
 
-🎯 Who This Video is For:
+Take, for instance, a customer I worked with who built their own source control system three decades ago. At that time, the options available were limited, and they had no choice but to create a bespoke solution. Fast forward to today, and it’s clear that this approach no longer makes sense. With robust source control systems like Git readily available, the need to cling to outdated technology becomes a liability.
 
-• CTOs, engineering managers, and business leaders struggling with inefficiency and chaos in product delivery
-• Product and development teams interested in optimizing their systems
-• Organizations weighed down by technical debt or outdated processes
-• Agile and DevOps practitioners focused on increasing value delivery
+Investing time and money to transition from legacy systems to modern solutions is crucial. This is where technical leadership and engineering excellence come into play. We must focus on ensuring that our systems and processes are as effective as possible, making our teams’ jobs smoother and more efficient.
 
-📖 What You’ll Learn:
+### The Value of Optimisation
 
-• Why technical debt and outdated systems lead to chaos
-• The importance of investing in systems and tools to reduce inefficiency
-• How fast feedback loops can transform team productivity
-• Real-world examples, including how the Azure DevOps team improved productivity
-• How technical leadership drives engineering excellence
+Satya Nadella at Microsoft exemplifies this approach. He prioritises optimising systems so that the best engineers can focus on delivering features rather than wrestling with outdated processes. This investment in system optimisation is not merely a cost; it’s a value centre that supports our ability to innovate and deliver new features.
 
-💡 Key Takeaways:
+A prime example of this is the Azure DevOps team. Back in 2012, they were delivering around 25 features to production each year with a workforce of 650 people. Through a commitment to technical excellence and leadership, they transformed their output to over 600 features annually. This remarkable increase was achieved by addressing both technical debt and the accumulation of what I like to call “technical cruft”—the sediment that builds up in systems over time.
 
-• Chaos in software delivery stems from outdated systems, poor leadership, and lack of investment in engineering excellence.
-• The Azure DevOps team reduced feedback time from 48 hours to 3 minutes, enabling smaller, faster, and more reliable changes.
-• Investing in tools and systems reduces inefficiency and increases scalability, enabling teams to deliver more value.
-• Technical excellence is not a cost—it’s a value center that amplifies productivity and ROI.
+### The Impact of Testing
 
-At NKD Agility, we specialize in helping organizations eliminate chaos, refactor outdated systems, and build engineering excellence. Ready to transform your product delivery? Contact us today on https://www.nkdagility.com to learn how we can help.
+One of the pivotal changes they made was shifting from long-running system tests to unit tests. This transition took four years of dedicated effort, but the results were staggering. They reduced the time it took to verify changes from 48 hours to just 3.5 minutes. Imagine the productivity boost if you could instantly know whether a change was successful rather than waiting two days. 
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=zqMzD1PXq4s)
+This rapid feedback loop allows teams to make smaller, more frequent changes, leading to a better product that is scalable and less reliant on quick fixes. Instead of patching over problems with Band-Aids, teams can focus on building robust solutions that stand the test of time.
+
+### Conclusion: The Cost of Chaos
+
+Ultimately, the cost of chaos stems from poor technical leadership and a culture of engineering mediocrity. By empowering your best engineers to focus on optimising systems, you enable every team member to add value more easily. This shift not only enhances productivity but also fosters a culture of excellence that can propel your organisation forward.
+
+In my journey, I’ve learned that addressing chaos is not just about managing the present; it’s about preparing for the future. By investing in the right systems and processes today, we can ensure that we’re not just surviving the chaos but thriving in it.

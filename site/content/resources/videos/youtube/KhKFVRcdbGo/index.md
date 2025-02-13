@@ -1,6 +1,6 @@
 ---
-title: NKD Agility. Your Partner in Cost Effective Software Development
-description: Transform your organisation's value delivery with Naked Agility. Discover strategies for engineering excellence and cost-effective software development.
+title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
+description: Transform your organisation's culture with Naked Agility. Discover how to optimise systems for maximum value and achieve engineering excellence today!
 date: 2024-12-21T06:00:00Z
 ResourceId: KhKFVRcdbGo
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: nkd-agility-your-partner-in-cost-effective-software-development
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=KhKFVRcdbGo
 aliases:
 - /resources/videos/KhKFVRcdbGo
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
@@ -25,7 +24,7 @@ duration: 150
 isShort: false
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -45,37 +44,32 @@ tags:
 - Transparency
 
 ---
- Build a Culture of Engineering Excellence with Naked Agility | Martin Hinshelwood
+Creating a culture of engineering excellence within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.
 
-Creating a culture of engineering excellence is not about enforcing values—it’s about transforming your system of delivering value. In this video, we explore how Naked Agility helps organizations define, measure, and optimize their systems to achieve maximum value and technical leadership.
-________________________________________
-📌 Chapters:
-1. 00:00 – Introduction: Understanding Organizational Culture
-2. 02:30 – Defining Your System of Delivering Value
-3. 05:15 – Measuring Impact: Metrics and Transparency
-4. 08:45 – Making Substantive Changes to Drive Optimization
-5. 11:00 – Achieving Technical Leadership and Engineering Excellence
-________________________________________
-🎯 Who This Video is For:
-• Organizations aiming to foster a culture of engineering excellence
-• CTOs, engineering leaders, and Scrum teams looking to optimize their value delivery
-• Businesses focused on reducing costs or maximizing ROI for software development
-• Teams striving to align their work with broader organizational outcomes
-________________________________________
-📖 What You’ll Learn:
-• Why culture is a reflection of your system and how to transform it
-• The importance of defining and monitoring your system of delivering value
-• How to use metrics and transparency to uncover opportunities for optimization
-• Strategies for balancing cost control with value maximization
-• How Naked Agility empowers organizations to make better decisions through data
-________________________________________
-💡 Key Takeaways:
-• Culture isn’t something you directly create—it’s a byproduct of your system and its outcomes.
-• Naked Agility helps organizations identify, measure, and improve their value delivery systems.
-• Metrics and transparency enable teams to make informed decisions that drive value optimization.
-• A focus on technical leadership and engineering excellence ensures long-term organizational success.
-________________________________________
-At Naked Agility, we specialize in helping organizations achieve technical leadership and foster a culture of engineering excellence. Contact us on https://www.nkdagility.com today to start your journey toward value-driven decision-making and optimized outcomes.
+### Understanding Your Current System
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=KhKFVRcdbGo)
+At Naked Agility, we focus on helping organisations understand their current system of delivering value. This understanding is crucial because it allows us to measure the elements that truly impact your goals. Here’s how we approach this:
+
+- **Monitor the System**: We start by observing how your organisation currently operates. This involves looking at workflows, team dynamics, and existing processes.
+- **Identify the System**: Next, we define what your system of delivering value looks like. This clarity is essential for effective optimisation.
+- **Create Metrics**: We help you establish metrics that provide insight into your system. Transparency is key here; the more you can see, the better decisions you can make.
+
+### Optimising for Value
+
+The ultimate aim of our work is to create the highest value optimisation within your specific context. Whether your goal is to reduce costs or, as I would advocate, to maximise value, we tailor our approach to meet your needs. 
+
+- **Maximising Value**: In my experience, focusing on maximising value leads to more sustainable outcomes. It’s not just about cutting costs; it’s about enhancing the quality and impact of what you deliver.
+- **Technical Leadership**: Achieving engineering excellence requires a commitment to understanding your system. This means measuring its performance and making informed changes to optimise your goals.
+
+### Making Substantive Changes
+
+Once we have a clear understanding of your system and the metrics that matter, we can begin to implement substantive changes. This iterative process allows us to test and refine our approaches, ensuring that we are always moving towards your desired outcomes.
+
+- **Control Costs**: By understanding your system, you can better control costs without sacrificing quality.
+- **Achieve Technical Leadership**: With the right metrics and insights, you can position your organisation as a leader in technical excellence.
+
+### Let’s Get Started
+
+If you’re ready to embark on this journey towards engineering excellence, I invite you to contact me today. Together, we can transform your organisation’s culture and optimise your system for maximum value. 
+
+In conclusion, remember that culture is not something we create in isolation; it’s a reflection of the systems and practices we put in place. By focusing on understanding and optimising these systems, we can cast a new shadow—one that reflects excellence and value in everything you do.

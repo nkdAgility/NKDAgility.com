@@ -1,6 +1,6 @@
 ---
-title: Measuring and Monitoring Costs for Continuous Improvement
-description: Unlock the secrets of product costs and ROI in software development. Empower your team with financial insights for continuous improvement!
+title: 'Mastering Product Development Costs: Empower Your Team for Financial Success'
+description: Unlock the secrets of product development costs! Discover how to empower your team with financial awareness and drive innovation for greater profitability.
 date: 2024-12-20T07:00:00Z
 ResourceId: UgFVn4Sp1rw
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: measuring-and-monitoring-costs-for-continuous-improvement
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=UgFVn4Sp1rw
 aliases:
 - /resources/videos/UgFVn4Sp1rw
 - /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
@@ -42,7 +41,7 @@ tags:
 - Throughput
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -51,41 +50,57 @@ categories:
 - People and Process
 
 ---
- Understanding Product Costs and Maximizing Value | Martin Hinshelwood
-In this video, we dive into the complexities of product costs and how to evaluate the return on investment (ROI) of your software development efforts. From understanding cost per sprint to leveraging evidence-based management for decision-making, this discussion highlights the importance of empowering every team member to think like an entrepreneur.
-________________________________________
-📌 Chapters:
-1. 00:00 – Introduction: The True Cost of Building Software Products
-2. 03:00 – Calculating Cost Per Sprint: Hardware and People
-3. 06:45 – Empowering Teams with Financial Context
-4. 10:15 – The Role of Evidence-Based Management
-5. 13:30 – Metrics for Current and Future Market Value
-6. 17:45 – Capability Metrics: Time to Market & Ability to Innovate
-7. 21:00 – Reducing Technical Debt and Improving Quality
-________________________________________
-🎯 Who This Video is For:
-• CTOs and engineering leaders aiming to improve ROI for product development
-• Product managers and Scrum teams looking to connect cost to value
-• Organizations struggling with technical debt, low quality, or slow delivery cycles
-• Teams interested in evidence-based management and holistic decision-making
-________________________________________
-📖 What You’ll Learn:
-• How to calculate cost per sprint and assess the ROI of each iteration
-• The value of every team member understanding the financial impact of their work
-• The role of evidence-based management in identifying and monitoring key metrics
-• Metrics for assessing current market value, future opportunities, and capability
-• How to balance innovation vs. maintenance for long-term success
-• Why addressing technical debt and poor quality is critical for faster time to market
-________________________________________
-💡 Key Takeaways:
-• Product costs are driven primarily by people and infrastructure—understanding these is vital.
-• Teams that understand the cost and value of their work make better decisions.
-• Evidence-based management provides a framework for monitoring market value and organizational capability.
-• Measuring and addressing technical debt and low quality unlocks faster delivery and more innovation.
-• Empowering teams with financial knowledge fosters a culture of ownership and continuous improvement.
-________________________________________
-🚀 Call to Action:
-At Naked Agility, we help organizations understand the true cost of their products and empower teams to maximize value delivery. Contact us on https://www.nkdagility.com to discover how we can support your journey toward evidence-based management, financial awareness, and agile product excellence.
+When it comes to building products, understanding the cost associated with those products is absolutely crucial. Over the years, I've learned that the financial landscape of product development is complex, but it boils down to a few key components. The two primary costs in software development are typically hardware and, more significantly, the people involved. If you have a team of 50 people working on a product, their salaries will likely represent your largest expense. Following that, if you're deploying to the cloud, your infrastructure costs will come into play as your second biggest expense.
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=UgFVn4Sp1rw)
+### Understanding Your Cost Profile
+
+To effectively manage these costs, I often discuss the concept of cost per sprint. This is a vital metric that helps us evaluate whether the investment in another sprint is justified. Here are some questions to consider:
+
+- **What is the cost of this sprint?**
+- **What value are we delivering?**
+- **Are we achieving a clear return on investment?**
+
+By framing our discussions around these questions, we can ensure that every sprint is not just a routine task but a strategic investment in our product's future.
+
+### Empowering Teams with Financial Awareness
+
+One of the most effective ways to minimise costs and maximise value is to ensure that every team member understands the financial implications of their work. When individuals grasp the cost of their contributions, they are more likely to make informed decisions that align with the overall goals of the product. 
+
+I advocate for every team to operate as if they are running their own Profit and Loss (P&L) statement. This means not only focusing on the value added by their features but also understanding the revenue generated and the costs incurred. Here’s how to approach this:
+
+- **Identify the revenue attributed to each feature.**
+- **Calculate the costs associated with developing and maintaining that feature.**
+- **Evaluate whether the team is making a profit on their work.**
+
+If a team finds they are not generating profit, it raises an important question: should they pivot to focus on something more lucrative?
+
+### The Importance of Context in Product Management
+
+Understanding the financial dynamics of product development requires a broader perspective. Teams need to be aware of the market landscape, including:
+
+- **Current market value**: This encompasses customer satisfaction, employee engagement, and usage metrics.
+- **Hypothetical future value**: This is represented in the product backlog and involves assessing potential market opportunities.
+
+For instance, consider Netflix's strategy in creating new shows. They often opt for new content over sequels because the first season of a new show attracts new viewers, while sequels tend to draw less interest. This strategic choice illustrates the importance of understanding market dynamics and aligning product development efforts accordingly.
+
+### Metrics That Matter
+
+To effectively gauge our cost-to-value profile, we need to monitor several key areas:
+
+1. **Market Value**: Understand both current and potential future value.
+2. **Organisational Capability**: Measure time to market and the ability to innovate. 
+   - **Time to Market**: How quickly can we turn an idea into a product?
+   - **Ability to Innovate**: How much time is spent on new market opportunities versus maintaining existing products?
+
+These metrics are not one-size-fits-all; they must be tailored to your specific context and industry. For example, if your organisation struggles with high technical debt, you may find yourself spending more time on maintenance than innovation. 
+
+### Continuous Improvement Through Measurement
+
+Once you have a handle on these metrics, the next step is to identify what to measure next to achieve the greatest impact. This is a continuous cycle of assessment and adjustment. 
+
+- **Monitor revenue and costs**: Keep a close eye on the financial health of your product.
+- **Evaluate the effectiveness of your processes**: What barriers are hindering your ability to deliver quickly? 
+
+By fostering a culture of financial awareness and continuous improvement, we empower every team member to make informed decisions that contribute to the overall success of the product. 
+
+In conclusion, understanding the cost of building products is not just about numbers; it’s about creating a mindset where every team member feels responsible for the financial outcomes of their work. This approach not only enhances decision-making but also drives the organisation towards greater profitability and innovation. As a CTO or product leader, disseminating this knowledge throughout your organisation is paramount. It’s about creating a shared understanding that ultimately leads to better products and happier customers.

@@ -1,6 +1,6 @@
 ---
-title: Overview of the 8-week Immersive learning experience
-description: "Discover the power of immersive learning in Scrum and project management! Join Martin as he explores real-world applications and transformative training. \U0001F30D✨"
+title: 'Transform Your Agile Training: The Power of Immersive Learning for Lasting Impact'
+description: Transform your Agile learning with immersive techniques that bridge theory and practice. Discover how real-world relevance boosts retention and application!
 date: 2023-06-08T07:00:30Z
 ResourceId: qrEqX_5FWM8
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
 slug: overview-of-the-8-week-immersive-learning-experience
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=qrEqX_5FWM8
 aliases:
 - /resources/videos/qrEqX_5FWM8
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience
@@ -25,45 +24,39 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories: []
 
 ---
- *Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.
+When it comes to learning, especially in the realm of Agile and Scrum, the traditional classroom model often leaves much to be desired. I’ve seen it time and again: participants leave with their heads filled with information, yet only retain about ten per cent of it two weeks later. This is where immersive learning comes into play, and I’m excited to share my thoughts on this transformative approach.
 
-*Book today - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*
+### What is Immersive Learning?
 
-In this video, Martin delves into the essence of immersive learning, especially in the realms of Scrum, project management, and DevOps. 🌟 He unravels how this innovative approach contrasts with traditional learning models, bringing course content to life by connecting it with real-world scenarios. 🌍✨ Be ready for an engaging exploration of immersive learning’s impact on practical skill development and organizational value creation.
+At its core, immersive learning is about bridging the gap between theory and practice. Instead of the conventional two-day or four half-day classes, immersive learning connects the content directly to the participants' real-world experiences. This is not just about delivering a set of slides; it’s about weaving the participants' stories into the fabric of the learning process.
 
-*Key Takeaways:*
-00:00:05 Introduction to Immersive Learning
-00:01:02 Structure of Immersive Learning
-00:02:01 Applying Learning in Real-world Scenarios
-00:03:35 Benefits of Immersive Learning
-00:05:34 Concluding Thoughts on Immersive Learning
+- **Real-World Relevance**: In traditional classes, we often rely on case studies that may not resonate with everyone. Immersive learning flips this on its head by allowing participants to bring their own challenges and contexts into the classroom. This means that the learning is not just theoretical; it’s applicable and relevant to their day-to-day work.
 
-*Innovative Immersion Training at NKDAgility*
+### The Structure of Immersive Learning
 
-NKDAgility's Immersion Training reimagines traditional classroom learning. Our approach involves:
+So, how does this immersive approach work in practice? Instead of cramming everything into a few consecutive days, we spread the learning over multiple sessions. For instance, in a typical Professional Scrum Master (PSM) course, we might have seven half-day sessions, each spaced out over a week. This structure allows for:
 
-- *Incremental Classroom Learning:* Short, engaging live sessions spread over several weeks, each lasting up to 4 hours. This structure allows learners to thoroughly understand each concept at a comfortable pace.
-- *Outcome-Based Assignments:* Assignments linked to each session emphasize practical application and innovation, catering to various skill levels and backgrounds.
-- *Facilitated Reflections:* Each class starts with a reflective session where learners discuss their assignment experiences with their Professional Scrum Trainer, fostering peer learning and actionable insights.
+- **Debriefing Sessions**: Each session begins with a debrief of the previous assignment. This is crucial. It’s a time for participants to share their experiences, discuss challenges, and learn from one another. Imagine having six people in a class, each bringing their unique insights to the table. This collaborative environment fosters deeper understanding and connection.
 
-This Immersion Training is designed to offer a more interactive, reflective, and practical learning experience, ensuring not just knowledge acquisition but also application and growth. Join us for a transformative educational journey.
+- **Assignments with Real Impact**: After the debrief, we introduce new content, followed by an assignment that participants can implement in their own organisations. For example, a product owner might be tasked with defining what "value" means for their business. This isn’t just an academic exercise; it’s a chance to bring real change to their workplace.
 
-Starting in 2024, we will be running immersive classes in bundles as Learning Journeys that you can book together, or on their own! Our 24Q1 bundles are:
+### The Value of Practice
 
-- _Professional Scrum Product Owner & Product Backlog Management Skills: https://nkdagility.com/training-courses/scrum-training-courses/_professional-scrum-product-owner-pspo-with-certification/pspo-2024-01-17-50822/
-- _Professional Scrum Master & Professional Scrum Facilitation Skills: https://nkdagility.com/training-courses/scrum-training-courses/_professional-scrum-master-psm-with-certification/psm-2024-01-17-50838/
-- _Professional Agile Leadership Essentials & Evidence-Based Management (PAL-EBM): https://nkdagility.com/training-courses/scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/pal-ebm-2024-03-08-50867/_
+One of the key differences between musicians and martial artists is their commitment to practice. In the same vein, immersive learning emphasises the importance of applying what you’ve learned. Each week, participants have the opportunity to try out new concepts and techniques in their own environments. This iterative process not only reinforces learning but also builds confidence in applying Agile principles.
 
-*BOOK TODAY - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*
+- **Feedback Loops**: When participants return to the next session, they can share their findings and experiences. This creates a feedback loop that enhances learning and allows for continuous improvement. If a participant discovers that their organisation doesn’t even have a clear definition of value, we can explore strategies to uncover that information together.
 
-If you are underemployed, we can also create custom payment plans to help you out. Just ask!
+### Why I Believe in This Format
 
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner 
- [Watch on Youtube](https://www.youtube.com/watch?v=qrEqX_5FWM8)
+I genuinely believe that this immersive learning format provides far greater value to students. It’s not just about filling their brains with knowledge; it’s about ensuring they can connect that knowledge back to their work. This approach helps participants navigate the complexities of their corporate environments and equips them with the tools to ask the right questions.
+
+- **Long-Term Retention**: By spreading the learning over a longer period and connecting it to real-world applications, participants are more likely to retain information and apply it effectively. This is a game-changer in the world of Agile training.
+
+In conclusion, immersive learning is not just a trend; it’s a necessary evolution in how we approach education in Agile and Scrum. By focusing on real-world applications and fostering collaboration, we can create a learning environment that truly empowers participants. If you’re interested in exploring this further or have any questions about Agile, Scrum, or DevOps, I invite you to book a coffee chat with me through Naked Agility. Let’s connect and discuss how we can enhance your learning journey!

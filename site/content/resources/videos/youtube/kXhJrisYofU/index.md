@@ -1,6 +1,6 @@
 ---
-title: Agile Budgeting for Predictable Costs
-description: Discover how Beyond Budgeting transforms financial management for agile teams, enabling flexibility and value-driven decisions in dynamic markets.
+title: 'Rethinking Budgeting: How to Break Free from Traditional Constraints and Maximise Value'
+description: Break free from traditional budgeting! Discover how Beyond Budgeting fosters agility, maximises value, and seizes opportunities in a dynamic market.
 date: 2024-12-09T06:30:00Z
 ResourceId: kXhJrisYofU
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: agile-budgeting-for-predictable-costs
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=kXhJrisYofU
 aliases:
 - /resources/videos/kXhJrisYofU
 - /resources/videos/agile-budgeting-for-predictable-costs
@@ -46,7 +45,7 @@ tags:
 - Strategy
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -55,43 +54,40 @@ categories:
 - Resilience and Change
 
 ---
- Beyond Budgeting: Adapting to Modern Product Development | Martin Hinshelwood
+In the world of traditional budgeting, we often find ourselves entrenched in a cycle that feels more like a battleground than a strategic planning session. Each year, we gather around the table, armed with our spreadsheets and projections, ready to fight for our share of the budget pie. It’s a familiar scene: departments squabbling over funds, each vying for the largest slice, knowing that if they don’t spend their allocated budget, they risk losing it the following year. 
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I discuss how traditional budgeting methods are holding organizations back in dynamic, fast-changing markets. Instead of rigid, annual budgets, we explore how Beyond Budgeting principles enable more adaptive, flexible, and value-driven financial management aligned with modern product development practices.
+This approach, while seemingly straightforward, is fraught with pitfalls. For instance, if a project is allocated a million dollars but only utilises half of that, the following year’s budget discussions become a challenge. The narrative shifts from “we need more” to “why should we give you the same amount again?” This creates a culture of underutilisation and fear of not spending, which ultimately stifles innovation and responsiveness.
 
-📌 Chapters:
+### The Flaws of Annual Budgeting
 
-1. 00:00 – Introduction: The Problem with Traditional Budgeting
-2. 02:30 – Why Annual Budgets Don’t Fit Agile Product Development
-3. 05:15 – Missed Opportunities: The Hidden Costs of Rigid Budgets
-4. 08:45 – Adopting a Venture Capitalist Approach to Budgeting
-5. 12:00 – Real-World Examples: The Cost of Inflexibility
-6. 15:30 – Aligning Budget Cycles with Product Cycles
-7. 18:00 – Exploring Beyond Budgeting for Agile Teams
+Let’s take a moment to reflect on the implications of this traditional model:
 
-🎯 Who This Video is For:
+- **Rigidity**: Once the budget is set, it’s as if we’ve sealed our fate. The market is dynamic, and the needs of our customers can shift in an instant. Yet, we’re stuck with a budget that was ratified months ago, often before we even had a chance to see how the year would unfold.
+  
+- **Missed Opportunities**: Imagine a scenario where a brilliant idea emerges mid-year, one that could capture a significant market opportunity. However, because it wasn’t included in the annual budget, it’s sidelined, and we lose out on potential revenue and growth.
 
-• Product managers and project managers struggling with rigid budgeting cycles
-• Finance leaders seeking to support agile product development
-• Organizations transitioning from project-based to product-based operating models
-• Teams looking for strategies to better align budgets with market opportunities
+- **Unrealised Value**: In the realm of evidence-based management, we often talk about unrealised value. This is the value that exists in our backlog but isn’t being acted upon. The traditional budgeting cycle makes it incredibly difficult to adapt to these shifts, leading to a backlog that doesn’t reflect the true potential of our products.
 
-📖 What You’ll Learn:
+### Embracing Beyond Budgeting
 
-• The limitations of traditional yearly budget cycles in dynamic markets
-• How Beyond Budgeting principles support adaptability and value-driven decisions
-• The benefits of treating budgets like venture capital funding for products
-• How aligning budgeting with product cycles reduces missed opportunities
-• Real-world examples of how rigid budgeting has led to massive losses
+So, how do we break free from this cycle? Enter the concept of **Beyond Budgeting**. This approach encourages organisations to rethink their budgeting processes, allowing for more flexibility and responsiveness. Here’s what I’ve learned from my experiences:
 
-💡 Key Takeaways:
+- **Dynamic Funding**: Instead of allocating all funds at the start of the year, consider a model where you have a pool of finance available. This allows you to allocate resources to projects as they arise, based on their current value and potential impact.
 
-• Traditional budgeting creates inflexibility and unrealized value.
-• Agile product development requires continuous adaptation, not fixed yearly plans.
-• Product-focused budgeting empowers teams to allocate resources dynamically.
-• Beyond Budgeting principles enable organizations to seize opportunities and minimize risks.
+- **Iterative Investment**: In the agile world, we’re accustomed to delivering working products to our customers frequently. This principle can be applied to budgeting as well. By assessing projects regularly, you can decide whether to continue funding them or pivot to new initiatives that offer greater value.
 
-At NKD Agility, we help organizations align their financial practices with modern product development approaches. Ready to move beyond rigid budgets and unlock more value? Visit us today on https://www.nkdagility.com and let’s explore how Beyond Budgeting can transform your organization.
+- **Value-Driven Decisions**: Shift your focus from merely spending the budget to maximising value. This means being willing to stop funding projects that no longer deliver value and redirecting those resources to more promising opportunities.
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=kXhJrisYofU)
+### A Real-World Example
+
+I recently worked with a manufacturing client who faced a significant challenge. They had an ageing machine that was producing faulty parts, leading to costly recalls. Despite the clear need for a new machine, the request for a $10 million investment was denied because it wasn’t in the budget for that year. The result? A billion-dollar recall that could have been avoided.
+
+This scenario highlights the dangers of rigid budgeting. The cost of inaction far outweighed the initial investment, and it’s a stark reminder of why we need to adapt our budgeting processes to be more aligned with the realities of our business environment.
+
+### Conclusion
+
+In conclusion, the traditional budgeting model is no longer fit for purpose in today’s fast-paced, ever-changing market. By embracing Beyond Budgeting principles, we can create a more agile, responsive organisation that prioritises value over rigid allocations. 
+
+As we move forward, let’s challenge the status quo and rethink how we approach budgeting. It’s time to allocate resources in a way that reflects the dynamic nature of our work, allowing us to seize opportunities as they arise and ultimately drive greater success for our organisations. 
+
+Remember, the goal is not just to spend the budget but to maximise the value we deliver to our customers and stakeholders. Let’s make that our new mantra.
