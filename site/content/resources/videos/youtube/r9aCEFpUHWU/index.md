@@ -22,14 +22,29 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- Coaching
+- Operational Practices
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Team Performance
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
 
 ---
  The Importance of Competent Scrum Masters in Driving Team Success

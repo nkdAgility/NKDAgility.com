@@ -1,5 +1,6 @@
 ---
 title: Windows
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: The Windows operating system, including installation, configuration, troubleshooting, and updates.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Integration with other software and systems
 
   **Strictly exclude** any content that pertains to non-Windows operating systems, unrelated software applications, or general IT concepts that do not specifically address the Windows environment. Misinterpretations of the Windows operating system's functionalities or comparisons with other operating systems should also be avoided.
+headline:
+  cards: []
+  title: Windows
+  subtitle: Comprehensive insights on the Windows operating system, covering setup, management, troubleshooting, and system enhancements.
+  content: The Windows operating system encompasses essential aspects such as installation, configuration, system management, troubleshooting, and security updates. Posts should delve into user experience enhancements, performance optimisation, and integration with various applications, providing practical insights for both novice and experienced users.
+  updated: 2025-02-13T12:01:14Z
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: DevOps
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: The union of people, process, and tools, to enable continuous delivery of value to the end users.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Challenges and common pitfalls in adopting DevOps practices
 
   **Strictly exclude** unrelated content or misinterpretations of the core classification, such as discussions solely focused on traditional project management, non-technical team dynamics, or unrelated software development methodologies that do not align with the principles of DevOps.
+headline:
+  cards: []
+  title: DevOps
+  subtitle: Integrating teams, processes, and tools to ensure seamless delivery of value and enhance user satisfaction through continuous improvement.
+  content: A collaborative approach that integrates teams, processes, and tools to enhance the flow of value delivery. Posts should explore continuous improvement, feedback loops, performance metrics, and the interplay between technology and organisational culture, drawing insights from systems thinking and complexity theory.
+  updated: 2025-02-13T11:59:41Z
 
 ---
 

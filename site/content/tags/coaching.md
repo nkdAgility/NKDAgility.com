@@ -1,5 +1,6 @@
 ---
 title: Coaching
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: The art of unlocking potential in teams and leaders through guidance rather than directives.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Case studies and examples of successful coaching interventions.
 
   **Strictly exclude** discussions that focus on directive leadership, performance evaluations, or any content that misrepresents the collaborative and supportive nature of coaching in Agile and DevOps contexts.
+headline:
+  cards: []
+  title: Coaching
+  subtitle: Empowering teams and leaders through insightful guidance, fostering growth and adaptability in complex environments.
+  content: Unlocking the potential of individuals and teams through tailored guidance, fostering a culture of continuous improvement and adaptability. Posts explore facilitation techniques, performance enhancement, collaborative decision-making, and the dynamics of team interactions, drawing insights from complexity theory and evidence-based management principles.
+  updated: 2025-02-13T12:05:35Z
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Organisational Physics
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying systems thinking to understand and influence organisational dynamics.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Discussions that do not relate to systems thinking or organisational dynamics.
   - Misinterpretations of systems thinking that do not align with established theories.
   - Content focused solely on individual behaviours without considering the organisational context.
+headline:
+  cards: []
+  title: Organisational Physics
+  subtitle: Harnessing systems thinking to navigate and shape the complexities of organisational behaviour and dynamics.
+  content: Exploring the interplay of systems thinking and organisational behaviour, this classification delves into the dynamics of team interactions, decision-making processes, and the influence of culture on performance. Posts should examine frameworks, methodologies, and real-world applications that enhance understanding and management of complex organisational systems.
+  updated: 2025-02-13T12:03:33Z
 
 ---
 

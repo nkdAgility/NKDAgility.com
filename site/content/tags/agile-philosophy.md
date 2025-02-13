@@ -1,5 +1,6 @@
 ---
 title: Agile Philosophy
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Understand the Agile philosophy and its impact on organisations. Go beyond frameworks to explore Agile as a guiding ethos for value delivery.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Technical discussions on specific Agile frameworks without reference to the underlying philosophy
   - Misinterpretations of Agile as merely a set of practices or tools
   - Content that does not address the broader implications of Agile as a mindset or ethos
+headline:
+  cards: []
+  title: Agile Philosophy
+  subtitle: Explore the guiding principles of value delivery, fostering adaptability and collaboration within teams and organisations for sustainable success.
+  content: Explore the principles of iterative improvement and collaborative teamwork, emphasising the importance of customer value and responsiveness to change. Posts should delve into practices that enhance transparency, foster continuous learning, and address complexity in organisational processes, drawing insights from various frameworks and methodologies.
+  updated: 2025-02-13T12:06:26Z
 
 ---
 

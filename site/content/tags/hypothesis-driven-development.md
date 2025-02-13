@@ -1,5 +1,6 @@
 ---
 title: Hypothesis Driven Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Using experimentation and validated learning to drive product decisions.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - General discussions on Agile or Scrum without a focus on hypothesis formulation and experimentation.
   - Content that does not involve empirical testing or data-driven decision-making.
   - Misinterpretations of hypothesis-driven development that do not align with the principles of validated learning and experimentation.
+headline:
+  cards: []
+  title: Hypothesis Driven Development
+  subtitle: Driving product decisions through experimentation and learning to enhance value delivery and adapt to changing needs.
+  content: Utilising structured experimentation and empirical evidence to inform product decisions enhances value delivery and responsiveness to user needs. Posts should explore methodologies for hypothesis formulation, testing, data analysis, and iterative learning, alongside frameworks that support decision-making in complex environments.
+  updated: 2025-02-13T12:04:21Z
 
 ---
 

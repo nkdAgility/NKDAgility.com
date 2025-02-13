@@ -1,5 +1,6 @@
 ---
 title: Throughput
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Measuring the rate at which work items are completed in a given time frame.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
 
   **Strictly exclude:**  
   Discussions unrelated to the measurement and optimisation of work completion rates, such as general project management practices, unrelated Agile methodologies, or non-technical topics. Misinterpretations of throughput that do not align with its definition in the context of Agile, DevOps, and Lean philosophies should also be excluded.
+headline:
+  cards: []
+  title: Throughput
+  subtitle: Optimising Work Completion Rates for Enhanced Efficiency and Flow in Project Management
+  content: A measure of work item completion rates within specified timeframes, this classification examines flow efficiency, cycle time, and bottleneck identification. It encompasses practices for optimising throughput, enhancing team performance, and improving delivery predictability, drawing insights from various methodologies and frameworks to foster continuous improvement.
+  updated: 2025-02-13T12:01:30Z
 
 ---
 

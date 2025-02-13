@@ -1,5 +1,6 @@
 ---
 title: Software Developers
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Enabling developers with modern engineering and agile practices.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Strategies for effective communication and collaboration among developers and other stakeholders.
 
   **Strictly exclude** any discussions that do not directly relate to the role of software developers in Agile and DevOps contexts, such as general business management topics, unrelated software engineering practices, or non-technical discussions.
+headline:
+  cards: []
+  title: Software Developers
+  subtitle: Empowering software creators with innovative practices and frameworks for enhanced collaboration and delivery efficiency.
+  content: Empowering developers through modern engineering practices that enhance collaboration, streamline workflows, and foster continuous improvement. Posts should explore topics such as iterative development, visual management, team dynamics, process optimisation, and the integration of feedback loops to drive effective delivery and innovation.
+  updated: 2025-02-13T12:02:17Z
 
 ---
 

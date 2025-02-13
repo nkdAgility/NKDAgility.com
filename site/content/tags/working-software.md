@@ -1,5 +1,6 @@
 ---
 title: Working Software
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Delivering functional, high-quality software that meets customer needs.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Discussions on non-software-related topics or products.
   - Theoretical concepts that do not directly relate to the delivery of functional software.
   - Misinterpretations of working software that deviate from Agile and Scrum principles.
+headline:
+  cards: []
+  title: Working Software
+  subtitle: Delivering functional software that meets user needs through iterative improvement and effective collaboration.
+  content: Delivering high-quality software that aligns with user requirements through continuous iteration and collaboration. Posts should explore topics such as user feedback integration, iterative development cycles, quality assurance practices, and the impact of team dynamics on software delivery efficiency.
+  updated: 2025-02-13T12:01:08Z
 
 ---
 

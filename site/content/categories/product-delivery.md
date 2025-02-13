@@ -1,5 +1,6 @@
 ---
 title: Product Delivery
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: The process of delivering usable working software products to customers, including planning, development, testing, and deployment.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   - The impact of DevOps on product delivery efficiency and collaboration.
 
   **Strictly exclude** discussions that deviate from the core principles of product delivery, such as unrelated software development practices, theoretical discussions without practical application, or topics that do not directly contribute to the understanding of delivering software products effectively.
+headline:
+  cards: []
+  title: Product Delivery
+  subtitle: Streamlined processes for delivering functional software, encompassing planning, development, testing, and deployment for optimal customer satisfaction.
+  content: A systematic approach to delivering functional software products that prioritises customer value through iterative planning, development, testing, and deployment. Posts should explore workflow optimisation, team collaboration, quality assurance, and the integration of feedback loops to enhance product outcomes and responsiveness to change.
+  updated: 2025-02-13T11:58:52Z
 
 ---
 

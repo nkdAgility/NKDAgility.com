@@ -1,5 +1,6 @@
 ---
 title: Technical Excellence
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Engineering practices that enable agility, including TDD, CI/CD, modular architecture, and emergent design.
 Instructions: |-
@@ -15,6 +16,12 @@ Instructions: |-
   - The impact of technical excellence on team collaboration and overall project success.
 
   **Strictly exclude** discussions that do not directly relate to engineering practices, such as general Agile philosophy, team dynamics without a technical focus, or unrelated business strategies. Misinterpretations of the core classification, such as conflating technical excellence with purely managerial or operational topics, should also be avoided.
+headline:
+  cards: []
+  title: Technical Excellence
+  subtitle: Practices that enhance software quality and responsiveness through effective design, testing, and delivery methodologies.
+  content: Practices that foster high-quality software development through effective design, rigorous testing, and streamlined delivery. Topics include test-driven development, continuous integration and delivery, modular architecture, and adaptive design, all aimed at enhancing responsiveness and collaboration within teams.
+  updated: 2025-02-13T11:58:37Z
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Scrum Product Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Leveraging Scrum to iteratively build and refine products based on customer feedback.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions unrelated to Scrum, such as general project management or non-Agile methodologies.
   - Misinterpretations of Scrum principles, such as advocating for waterfall approaches or ignoring customer feedback.
   - Content that does not focus on product development or lacks a clear connection to Scrum practices.
+headline:
+  cards: []
+  title: Scrum Product Development
+  subtitle: Iterative product enhancement through collaborative feedback and adaptive planning for optimal customer satisfaction.
+  content: A framework for collaboratively developing and refining products through iterative cycles, emphasising continuous improvement and responsiveness to user feedback. Posts should explore team dynamics, roles, ceremonies, and tools that enhance transparency, adaptability, and value delivery in complex environments.
+  updated: 2025-02-13T12:02:43Z
 
 ---
 

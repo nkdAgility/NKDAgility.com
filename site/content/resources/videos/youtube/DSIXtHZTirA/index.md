@@ -49,7 +49,7 @@ resourceTypes:
 categories:
 - Azure DevOps
 - DevOps
-- Product Delivery
+- People and Process
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

@@ -246,7 +246,14 @@ function Get-ConfidenceFromAIResponse {
         exit
     }
    
-    $aiConfidence = if ($AIResponse.PSObject.Properties["confidence"]) { $AIResponse.confidence } else { 0 }
+    try {
+        $aiConfidence = if ($AIResponse.PSObject.Properties["confidence"]) { $AIResponse.confidence } else { 0 }
+    }
+    catch {
+        Write-ErrorLog "Error parsing AI response for $Category. Skipping. Error: $_"
+        Write-ErrorLog "AI Response Json: {AIResponseJson}" -PropertyValues $AIResponseJson
+        exit
+    }
     
     # Non-AI Confidence Calculation
     $nonAiConfidence = 0

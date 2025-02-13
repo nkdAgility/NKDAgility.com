@@ -1,5 +1,6 @@
 ---
 title: Daily Scrum
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Maximise team alignment and adaptability with the Daily Scrum. Inspect progress, adapt plans, and ensure focus on the Sprint Goal.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Discussions unrelated to the Scrum framework or the Daily Scrum event.
   - Misinterpretations of the Daily Scrum's purpose, such as using it for status reporting to stakeholders.
   - Content that focuses on Agile principles without specific reference to the Daily Scrum.
+headline:
+  cards: []
+  title: Daily Scrum
+  subtitle: Enhance team synergy and responsiveness through focused daily check-ins, ensuring alignment with objectives and adaptability to change.
+  content: Facilitate team cohesion and responsiveness through structured, time-boxed discussions. Emphasise progress evaluation, plan adjustments, and commitment to objectives, fostering a culture of transparency and continuous improvement. Explore topics such as team dynamics, goal alignment, and adaptive planning strategies.
+  updated: 2025-02-13T12:05:10Z
 
 ---
 

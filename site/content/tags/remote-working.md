@@ -1,5 +1,6 @@
 ---
 title: Remote Working
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Best practices for enabling effective distributed and remote agile teams.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Case studies or examples of successful remote Agile implementations.
 
   **Strictly exclude** any content that does not directly relate to the practices, challenges, or solutions of remote working within Agile frameworks, such as general remote work tips unrelated to Agile methodologies or discussions on non-Agile project management approaches.
+headline:
+  cards: []
+  title: Remote Working
+  subtitle: Strategies for fostering collaboration and productivity in distributed teams across various methodologies and frameworks.
+  content: Strategies for enhancing collaboration and productivity in distributed teams, emphasising communication, trust-building, and adaptive workflows. Posts should explore tools, techniques, and frameworks that facilitate seamless interaction, accountability, and continuous improvement, while addressing challenges unique to remote environments and fostering a culture of engagement and innovation.
+  updated: 2025-02-13T12:03:01Z
 
 ---
 

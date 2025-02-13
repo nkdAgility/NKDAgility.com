@@ -1,5 +1,6 @@
 ---
 title: Discovery and Learning
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Exploring new ideas, innovation, and continuous learning in product and software development.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Discussions that focus solely on project management without reference to learning or discovery.
   - Content that misrepresents the principles of Agile, Scrum, or DevOps in the context of innovation.
   - Topics unrelated to the processes of learning, such as technical implementation details without a learning aspect.
+headline:
+  cards: []
+  title: Discovery and Learning
+  subtitle: Fostering innovation and knowledge growth through exploration and experimentation in product and software development.
+  content: Encouraging exploration and experimentation to drive innovation and enhance knowledge within product and software development. Posts should delve into techniques for fostering creativity, iterative learning, and adaptive problem-solving, while addressing the complexities of team dynamics and organisational culture.
+  updated: 2025-02-13T11:59:39Z
 
 ---
 

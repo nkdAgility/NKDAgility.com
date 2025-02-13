@@ -29,8 +29,12 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Practical Techniques and Tooling
+tags:
+- Azure Repos
+- Modern Source Control
+- Software Development
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=9lBvhLXW8xY)

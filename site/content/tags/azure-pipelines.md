@@ -1,5 +1,6 @@
 ---
 title: Azure Pipelines
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Automating builds, tests, and deployments with Azure Pipelines.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   - Best practices for optimising pipeline performance and reliability.
 
   **Strictly exclude** any discussions that do not directly relate to Azure Pipelines, such as general DevOps principles without specific reference to Azure, unrelated cloud services, or non-technical topics. Misinterpretations of Azure Pipelines, such as discussions solely focused on Azure infrastructure without mentioning pipelines, should also be excluded.
+headline:
+  cards: []
+  title: Azure Pipelines
+  subtitle: Streamlining software delivery through automated workflows for efficient builds, testing, and deployment processes.
+  content: Automating the software delivery lifecycle enhances collaboration and accelerates time-to-market. Posts should explore continuous integration, continuous deployment, and the integration of testing within workflows, while addressing the principles of flow, feedback, and iterative improvement to optimise delivery efficiency and quality.
+  updated: 2025-02-13T12:05:52Z
 
 ---
 

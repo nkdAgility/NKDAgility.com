@@ -1,5 +1,6 @@
 ---
 title: Mentoring
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Guidance and coaching for agile professionals and leadership.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Methods for assessing and enhancing team dynamics and performance.  
 
   **Strictly exclude** any content that does not directly relate to the mentoring process, such as technical implementation details, project management tools, or unrelated business strategies that do not align with the core principles of Agile and its methodologies.
+headline:
+  cards: []
+  title: Mentoring
+  subtitle: Empowering professionals through tailored guidance and coaching for effective leadership and continuous improvement.
+  content: Support for professionals seeking to enhance their leadership capabilities and foster a culture of continuous improvement. Posts should explore effective coaching techniques, the role of mentorship in team dynamics, and strategies for navigating complex organisational challenges, drawing insights from established frameworks and thought leaders.
+  updated: 2025-02-13T12:03:50Z
 
 ---
 

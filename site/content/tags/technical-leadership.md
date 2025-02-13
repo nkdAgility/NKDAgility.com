@@ -1,5 +1,6 @@
 ---
 title: Technical Leadership
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Guiding development teams with technical expertise and agile best practices.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   - Leveraging metrics and feedback loops to enhance team performance.
 
   **Strictly exclude** any discussions that deviate from the core principles of technical leadership, such as unrelated management theories, non-agile methodologies, or personal anecdotes that do not contribute to the understanding of technical leadership in an agile context.
+headline:
+  cards: []
+  title: Technical Leadership
+  subtitle: Empowering teams through expert guidance and best practices for effective software development and delivery.
+  content: Empowering development teams through strategic guidance and technical expertise, fostering collaboration and innovation. Posts should explore effective methodologies, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from industry thought leaders and frameworks to enhance delivery and adaptability in complex environments.
+  updated: 2025-02-13T12:01:49Z
 
 ---
 

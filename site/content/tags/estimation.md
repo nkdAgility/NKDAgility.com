@@ -1,5 +1,6 @@
 ---
 title: Estimation
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Master estimation in Agile and Scrum. Improve forecasting, manage uncertainty, and align expectations using empirical data and collaborative techniques.
 Instructions: |-
@@ -21,6 +22,12 @@ Instructions: |-
   - Misinterpretations of estimation as mere guesswork or arbitrary numbers
   - Content that does not reference empirical data or collaborative techniques in estimation
   - Topics focused solely on project management outside the Agile context
+headline:
+  cards: []
+  title: Estimation
+  subtitle: Enhance your forecasting skills and manage uncertainty through collaborative techniques and empirical data analysis.
+  content: Enhance your ability to predict project outcomes and navigate uncertainty through collaborative approaches and data-driven insights. Explore techniques for aligning team expectations, refining prioritisation, and utilising historical performance metrics to inform decision-making in complex environments.
+  updated: 2025-02-13T12:04:37Z
 
 ---
 

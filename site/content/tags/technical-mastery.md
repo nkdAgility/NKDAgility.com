@@ -1,5 +1,6 @@
 ---
 title: Technical Mastery
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Achieving excellence in software craftsmanship, architecture, and engineering practices.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Tools and frameworks that support software engineering excellence.
 
   **Strictly exclude** any discussions that deviate from the core principles of software craftsmanship, such as project management strategies unrelated to technical practices, business agility concepts without a technical focus, or general discussions on team dynamics that do not address engineering excellence.
+headline:
+  cards: []
+  title: Technical Mastery
+  subtitle: Elevating software craftsmanship through best practices in architecture, engineering, and continuous improvement methodologies.
+  content: Cultivating expertise in software development through a focus on architectural integrity, engineering precision, and iterative enhancement. Posts explore methodologies for optimising workflows, fostering collaboration, and implementing effective feedback loops, while addressing the complexities of project management and team dynamics in a rapidly evolving technological landscape.
+  updated: 2025-02-13T12:01:46Z
 
 ---
 

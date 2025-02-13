@@ -1,5 +1,6 @@
 ---
 title: Continuous Delivery
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Deliver changes safely and quickly with Continuous Delivery (CD). Ensure every change is production-ready with minimal manual intervention.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Case studies and real-world applications of Continuous Delivery in organisations.
 
   **Strictly exclude** any discussions that deviate from the core principles of Continuous Delivery, such as unrelated software development methodologies, project management practices not tied to CD, or misinterpretations of the Continuous Delivery framework.
+headline:
+  cards: []
+  title: Continuous Delivery
+  subtitle: Streamline your release process to ensure rapid, reliable delivery of changes with minimal manual effort and maximum readiness for production.
+  content: Achieve rapid and reliable software delivery by ensuring every change is production-ready through automated testing, integration, and deployment. Posts should explore practices for minimising manual effort, enhancing collaboration, and maintaining quality, while addressing the complexities of change management and team dynamics in software development.
+  updated: 2025-02-13T12:05:30Z
 
 ---
 

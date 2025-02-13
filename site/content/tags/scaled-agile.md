@@ -1,5 +1,6 @@
 ---
 title: Scaled Agile
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Extending agile practices across multiple teams and enterprise-level initiatives.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions that focus solely on individual Agile practices without reference to scaling
   - Content that misrepresents the principles of Agile or its application in a non-scaled context
   - Topics unrelated to the coordination and management of multiple teams or enterprise-level initiatives
+headline:
+  cards: []
+  title: Scaled Agile
+  subtitle: Integrating collaborative practices across teams to enhance delivery and responsiveness in complex environments.
+  content: Facilitating the alignment of collaborative methodologies across diverse teams and large-scale projects, this classification addresses the integration of iterative development, continuous improvement, and value delivery. Posts should explore frameworks, metrics, and practices that enhance responsiveness, adaptability, and stakeholder engagement in complex environments.
+  updated: 2025-02-13T12:02:56Z
 
 ---
 

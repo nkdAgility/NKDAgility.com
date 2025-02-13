@@ -1,5 +1,6 @@
 ---
 title: Sprint Review
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Inspecting and adapting the increment to ensure transparency and stakeholder feedback.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Common challenges faced during Sprint Reviews and strategies to overcome them.
 
   **Strictly exclude** unrelated content such as general Agile principles not specific to Sprint Reviews, discussions on other Scrum events (like Sprint Planning or Daily Scrum), or misinterpretations of the review process that do not align with the Scrum Guide or the philosophies of its founders.
+headline:
+  cards: []
+  title: Sprint Review
+  subtitle: Facilitating stakeholder engagement and iterative improvement through transparent evaluation of progress and outcomes.
+  content: A collaborative session for evaluating the increment, fostering stakeholder engagement, and gathering feedback to inform future work. Posts should explore techniques for effective communication, methods for assessing progress, and strategies for incorporating insights into subsequent iterations, enhancing overall project transparency and alignment with stakeholder needs.
+  updated: 2025-02-13T12:02:12Z
 
 ---
 

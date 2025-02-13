@@ -1,5 +1,6 @@
 ---
 title: Lean Thinking
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying Lean principles to reduce waste and improve efficiency in workflows.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Integration with Agile and DevOps: How Lean Thinking complements Agile methodologies and DevOps practices.
 
   **Strictly exclude** discussions that deviate from Lean principles, such as unrelated management theories, non-technical productivity hacks, or misinterpretations of Lean as merely cost-cutting measures.
+headline:
+  cards: []
+  title: Lean Thinking
+  subtitle: Optimising workflows by minimising waste and enhancing efficiency through systematic thinking and continuous improvement principles.
+  content: A systematic approach to enhancing operational effectiveness by identifying and eliminating non-value-adding activities. Posts should explore workflow optimisation, value stream mapping, process improvement techniques, and the integration of feedback loops to foster a culture of continuous enhancement and responsiveness to change.
+  updated: 2025-02-13T12:03:56Z
 
 ---
 

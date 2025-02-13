@@ -1,5 +1,6 @@
 ---
 title: Strategy
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Develop and refine strategy in Agile, Scrum, and DevOps. Align teams, optimise delivery, and drive sustainable competitive advantage.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions unrelated to Agile, Scrum, or DevOps strategies
   - Misinterpretations of strategic concepts outside the Agile and Lean contexts
   - Generic business strategy discussions that do not incorporate Agile principles
+headline:
+  cards: []
+  title: Strategy
+  subtitle: Craft and enhance strategic approaches to align teams, optimise workflows, and achieve lasting competitive success in dynamic environments.
+  content: Cultivate a robust framework for aligning organisational objectives with team capabilities, enhancing workflow efficiency, and fostering innovation. Explore topics such as performance metrics, continuous improvement, stakeholder engagement, and adaptive planning to navigate complexity and drive sustainable outcomes in ever-evolving environments.
+  updated: 2025-02-13T12:02:07Z
 
 ---
 

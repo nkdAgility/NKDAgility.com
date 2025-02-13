@@ -2,7 +2,7 @@
 title: Agile at Microsoft
 description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the critical role of language and transparency in the agile world. Tune in for insights!
 ResourceId: U_pzYjx6qk6
-ResourceImport: true
+ResourceImport: false
 ResourceType: podcast
 date: 2024-04-25
 categories:

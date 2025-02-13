@@ -1,5 +1,6 @@
 ---
 title: Deployment Frequency
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Optimising how often software is deployed to enhance feedback loops and value delivery.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - The impact of deployment frequency on team dynamics and collaboration.
 
   **Strictly exclude** discussions that do not directly relate to the optimisation of deployment intervals, such as general software development practices unrelated to Agile or DevOps, or topics that misinterpret the core principles of continuous delivery and deployment.
+headline:
+  cards: []
+  title: Deployment Frequency
+  subtitle: Enhancing software delivery speed to improve feedback and maximise value through effective deployment strategies.
+  content: Optimising the frequency of software releases to foster rapid feedback and enhance value delivery. Posts should explore strategies for minimising cycle times, improving release planning, and utilising metrics to inform decision-making, while addressing the complexities of team dynamics and system interactions.
+  updated: 2025-02-13T12:05:00Z
 
 ---
 

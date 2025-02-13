@@ -2,7 +2,7 @@
 title: Beta Codex Cell Structure Design
 description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
 ResourceId: 5KmsJtm570B
-ResourceImport: true
+ResourceImport: false
 ResourceType: methods
 date: 2024-09-17
 creator: Martin Hinshelwood
@@ -22,25 +22,8 @@ card:
     content: Start Optimizing Now
   title: Beta Codex Cell Structure Design
   content: Implement Beta Codex cell structure design to decentralize and scale your organization. Create a flexible, adaptive team structure that promotes innovation.
-categories:
-- Discovery and Learning
-- Systems Thinking
-- Value Delivery
-tags:
-- BetaCodex
-- Agile Methodology
-- Team Collaboration
-- Team Performance
-- Agile Leadership
-- Organisational Agility
-- Agile Transformation
-- Lean Startup
-- Agile Digital Tools
-- Continuous Improvement
-- Evidence Based Management
-- Systems Thinking
-- Value Delivery
-- Agile Community
+categories: []
+tags: []
 
 ---
 Coming soon!

@@ -1,5 +1,6 @@
 ---
 title: Agile Project Management
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying agile methodologies to deliver projects with flexibility and responsiveness.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   - Adaptation of agile practices in various organisational contexts.
 
   **Strictly exclude** any discussions that focus on traditional project management methodologies, unrelated software development practices, or misinterpretations of agile principles that do not align with the core philosophies of Agile Project Management.
+headline:
+  cards: []
+  title: Agile Project Management
+  subtitle: Navigating project delivery with adaptive strategies for enhanced responsiveness and continuous improvement.
+  content: Utilising iterative methodologies to enhance project delivery, this classification emphasises adaptability, team collaboration, and customer feedback. Posts should explore workflow visualisation, incremental progress, stakeholder engagement, and the integration of empirical data to inform decision-making and optimise outcomes in complex environments.
+  updated: 2025-02-13T12:03:08Z
 
 ---
 

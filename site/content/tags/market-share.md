@@ -1,5 +1,6 @@
 ---
 title: Market Share
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Gaining competitive advantage by expanding a product’s presence in its market segment.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Metrics and KPIs for measuring market share and competitive advantage.
 
   **Strictly exclude** any discussions that do not directly relate to market share, such as general business management practices, unrelated product features, or non-competitive analysis. Misinterpretations of market share, such as conflating it with overall business growth without specific reference to market presence, should also be avoided.
+headline:
+  cards: []
+  title: Market Share
+  subtitle: Maximising product visibility and influence to secure a leading position in targeted market segments.
+  content: Enhancing a product's visibility and influence within its market segment is essential for achieving a competitive edge. Posts should explore strategies for market penetration, customer engagement, brand positioning, and the impact of market dynamics on product success, drawing insights from industry thought leaders and frameworks.
+  updated: 2025-02-13T12:03:53Z
 
 ---
 

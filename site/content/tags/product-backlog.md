@@ -1,5 +1,6 @@
 ---
 title: Product Backlog
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Strategies and techniques for effective backlog management and refinement.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - The impact of a well-managed backlog on team performance and delivery outcomes.
 
   **Strictly exclude** discussions on unrelated topics such as project management outside of Agile, non-Agile methodologies, or general software development practices that do not pertain to backlog management. Misinterpretations of the Product Backlog's role or its significance in Agile frameworks should also be avoided.
+headline:
+  cards: []
+  title: Product Backlog
+  subtitle: Optimising backlog management for prioritisation, refinement, and delivery in complex environments.
+  content: Effective backlog management encompasses techniques for prioritising, refining, and delivering work items in dynamic environments. It involves understanding stakeholder needs, utilising flow metrics, and adapting to changing requirements, while fostering collaboration and transparency to enhance team performance and value delivery.
+  updated: 2025-02-13T12:03:26Z
 
 ---
 

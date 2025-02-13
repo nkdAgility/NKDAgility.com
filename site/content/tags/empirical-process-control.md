@@ -1,5 +1,6 @@
 ---
 title: Empirical Process Control
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Adapting based on evidence, not assumptions, through inspection and transparency.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Discussions that focus on prescriptive or deterministic approaches to project management.
   - Content that misinterprets empirical process control as merely following processes without the need for evidence-based adjustments.
   - Topics unrelated to Agile, Scrum, or the principles of empirical process control, such as unrelated business strategies or non-Agile methodologies.
+headline:
+  cards: []
+  title: Empirical Process Control
+  subtitle: Harnessing insights through observation and transparency to drive informed decision-making and continuous improvement.
+  content: Utilising data-driven insights to enhance processes and outcomes, this classification emphasises the importance of regular evaluation and transparency. Posts should explore topics such as iterative improvement, performance metrics, feedback loops, and the role of collaboration in fostering a culture of continuous learning and adaptation.
+  updated: 2025-02-13T12:04:52Z
 
 ---
 

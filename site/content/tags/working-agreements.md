@@ -1,5 +1,6 @@
 ---
 title: Working Agreements
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Establishing team norms and collaboration principles for effective teamwork.
 Instructions: |-
@@ -15,6 +16,12 @@ Instructions: |-
   - The impact of working agreements on team performance and collaboration.
 
   **Strictly exclude** any discussions that deviate from the core principles of teamwork and collaboration, such as unrelated project management methodologies, personal opinions on team dynamics without a structured approach, or misinterpretations of Agile and Scrum philosophies.
+headline:
+  cards: []
+  title: Working Agreements
+  subtitle: Fostering collaborative principles and team norms to enhance productivity and communication in dynamic work environments.
+  content: Establishing collaborative norms and principles enhances team dynamics and productivity. Posts should explore techniques for fostering trust, communication, and accountability, as well as methods for adapting to changing environments and addressing conflicts, drawing insights from complexity theory and evidence-based management.
+  updated: 2025-02-13T12:01:11Z
 
 ---
 

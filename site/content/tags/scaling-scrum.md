@@ -1,5 +1,6 @@
 ---
 title: Scaling Scrum
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying Scrum principles at scale to maintain agility across large organisations.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Leadership and cultural considerations in scaling Scrum
 
   **Strictly exclude** discussions on unrelated Agile methodologies, non-Scrum frameworks, or misinterpretations of Scrum principles that do not pertain to scaling practices.
+headline:
+  cards: []
+  title: Scaling Scrum
+  subtitle: Implementing Scrum principles across large organisations to enhance responsiveness and collaboration in complex environments.
+  content: Implementing Scrum principles across extensive organisations to foster adaptability and teamwork in intricate settings. Posts should explore frameworks for synchronising multiple teams, integrating Kanban methodologies, addressing complexity, and utilising evidence-based management to enhance decision-making and performance.
+  updated: 2025-02-13T12:02:48Z
 
 ---
 

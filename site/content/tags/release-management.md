@@ -1,5 +1,6 @@
 ---
 title: Release Management
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Approaches to planning incremental and iterative software releases.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - General discussions on Agile or Scrum without a focus on release processes
   - Non-technical content unrelated to software delivery
   - Misinterpretations of release management as solely project management or change management without the context of software releases.
+headline:
+  cards: []
+  title: Release Management
+  subtitle: Strategies for orchestrating timely and efficient software releases through iterative planning and continuous improvement.
+  content: Strategies for coordinating software releases that emphasise iterative planning, stakeholder collaboration, and continuous feedback. Posts should explore techniques for managing workflows, minimising bottlenecks, and enhancing delivery quality, while considering the complexities of team dynamics and organisational culture.
+  updated: 2025-02-13T12:03:03Z
 
 ---
 

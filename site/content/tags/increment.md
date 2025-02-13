@@ -1,5 +1,6 @@
 ---
 title: Increment
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Delivering working, valuable software every iteration.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   **Strictly exclude:**
   - Discussions unrelated to the delivery of software increments, such as general project management practices not specific to Agile.
   - Misinterpretations of the Increment concept, such as equating it with non-iterative delivery methods or focusing solely on documentation rather than working software.
+headline:
+  cards: []
+  title: Increment
+  subtitle: Delivering valuable software incrementally to enhance responsiveness and adaptability in evolving environments.
+  content: Delivering functional software in iterative cycles enhances responsiveness to user needs and market changes. Posts should explore practices for effective planning, prioritisation, and feedback integration, as well as the role of collaboration and continuous improvement in fostering innovation and reducing waste in development processes.
+  updated: 2025-02-13T12:04:17Z
 
 ---
 

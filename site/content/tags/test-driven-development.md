@@ -1,5 +1,6 @@
 ---
 title: Test Driven Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Driving software design through automated tests for better quality.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Tools and frameworks that support TDD (e.g., JUnit, NUnit, Mocha)
 
   **Strictly exclude** any discussions that deviate from the core principles of TDD, such as general software development practices that do not specifically address the TDD methodology, or unrelated testing strategies that do not involve the TDD cycle.
+headline:
+  cards: []
+  title: Test Driven Development
+  subtitle: Enhancing software quality through automated testing to inform design decisions and foster continuous improvement.
+  content: Automated testing shapes software design by ensuring code quality and facilitating iterative improvements. Posts should explore the integration of tests in the development process, the impact on design decisions, and the role of feedback loops in enhancing product reliability and responsiveness to change.
+  updated: 2025-02-13T12:01:41Z
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Scrum Team
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Collaboration and dynamics within a high-performing Scrum Team.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   - Metrics and indicators of team performance and health
 
   **Strictly exclude** unrelated content such as general Agile principles not specific to Scrum, discussions on non-Scrum methodologies, or any misinterpretations of team dynamics that do not align with the Scrum framework as outlined in the Scrum Guide and by key figures like Ken Schwaber and Mike Beedle.
+headline:
+  cards: []
+  title: Scrum Team
+  subtitle: Optimising teamwork dynamics for enhanced collaboration and performance in high-functioning project environments.
+  content: Collaboration and dynamics within a high-performing team are essential for delivering value and fostering innovation. Posts should explore roles, responsibilities, communication strategies, conflict resolution, and continuous improvement practices, while also considering the impact of complexity and variability in project environments.
+  updated: 2025-02-13T12:02:40Z
 
 ---
 

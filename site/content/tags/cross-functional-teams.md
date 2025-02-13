@@ -1,5 +1,6 @@
 ---
 title: Cross Functional Teams
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: 'The Agile ideal: teams with all the skills needed to deliver end-to-end value.'
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - The impact of cross-functional teams on team dynamics and performance.
 
   **Strictly exclude** discussions that focus on unrelated team structures, such as functional teams, or misinterpretations of Agile principles that do not align with the core philosophy of cross-functional collaboration.
+headline:
+  cards: []
+  title: Cross Functional Teams
+  subtitle: Empowered teams equipped with diverse skills to deliver comprehensive solutions and drive continuous improvement across projects.
+  content: Teams composed of diverse skill sets collaborate to enhance problem-solving and innovation, ensuring seamless delivery of value. Posts should explore team dynamics, communication strategies, roles and responsibilities, and methods for fostering a culture of continuous improvement and adaptability in complex environments.
+  updated: 2025-02-13T12:05:22Z
 
 ---
 

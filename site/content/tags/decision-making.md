@@ -1,5 +1,6 @@
 ---
 title: Decision Making
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying structured, evidence-based approaches to make informed business choices.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Case studies demonstrating successful evidence-based decision-making in Agile and DevOps environments.
 
   **Strictly exclude** any discussions that deviate from the core principles of structured decision-making, such as anecdotal evidence, personal opinions without empirical support, or unrelated business strategies that do not align with evidence-based practices.
+headline:
+  cards: []
+  title: Decision Making
+  subtitle: Empowering informed choices through structured analysis and evidence-driven insights for effective organisational outcomes.
+  content: Utilising structured methodologies and empirical data to enhance organisational decision-making, this classification encompasses topics such as risk assessment, performance metrics, stakeholder engagement, and adaptive strategies. It emphasises the importance of informed choices in navigating complexity and fostering sustainable growth within dynamic environments.
+  updated: 2025-02-13T12:05:07Z
 
 ---
 

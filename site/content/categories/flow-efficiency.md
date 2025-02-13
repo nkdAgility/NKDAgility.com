@@ -1,5 +1,6 @@
 ---
 title: Flow Efficiency
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Optimising the throughput of work across the value stream to improve speed and reduce bottlenecks.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Integration of flow efficiency concepts with DevOps practices for continuous delivery.
 
   **Strictly exclude** discussions that do not directly relate to the optimisation of work throughput, such as unrelated project management methodologies, general productivity tips, or misinterpretations of Lean and Agile principles.
+headline:
+  cards: []
+  title: Flow Efficiency
+  subtitle: Enhancing work throughput to streamline processes, eliminate delays, and maximise value delivery across the entire workflow.
+  content: Optimising the flow of work through the value stream enhances delivery speed and minimises delays. Posts should explore techniques for identifying and alleviating bottlenecks, measuring throughput, and applying systems thinking to improve overall efficiency, drawing on insights from various methodologies and frameworks.
+  updated: 2025-02-13T11:59:25Z
 
 ---
 

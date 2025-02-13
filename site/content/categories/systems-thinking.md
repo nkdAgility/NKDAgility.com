@@ -1,5 +1,6 @@
 ---
 title: Systems Thinking
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Apply Systems Thinking to understand complexity, improve decision-making, and drive sustainable organisational change.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Tools and frameworks that support Systems Thinking, including the Cynefin Framework and Soft Systems Methodology.
 
   **Strictly exclude** discussions that focus solely on linear problem-solving approaches, isolated methodologies without consideration of interconnections, or any misinterpretations of Systems Thinking that do not align with its core principles and philosophies.
+headline:
+  cards: []
+  title: Systems Thinking
+  subtitle: Explore interconnected systems to navigate complexity, enhance decision-making, and foster lasting organisational transformation.
+  content: Explore the dynamics of interconnected systems to unravel complexity, enhance strategic decision-making, and facilitate enduring organisational transformation. Posts should delve into topics such as feedback loops, system behaviour, stakeholder interactions, and the implications of complexity theory on management practices.
+  updated: 2025-02-13T11:58:40Z
 
 ---
 

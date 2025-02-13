@@ -1,5 +1,6 @@
 ---
 title: Lean
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: A strategy focused on maximising value while minimising waste, originating from the Toyota Production System.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions that focus solely on Agile or Scrum without reference to Lean principles.
   - Content that misinterprets Lean as merely cost-cutting or efficiency without considering value creation.
   - Topics unrelated to Lean methodologies, such as general management theories or unrelated business strategies.
+headline:
+  cards: []
+  title: Lean
+  subtitle: Maximising value through systematic improvement and waste reduction, inspired by principles from manufacturing and management experts.
+  content: A systematic approach to enhancing organisational performance by identifying and eliminating inefficiencies. Posts should explore value stream mapping, flow optimisation, continuous improvement, and the integration of feedback loops, drawing insights from management theories and practices to foster a culture of learning and adaptability.
+  updated: 2025-02-13T11:59:18Z
 
 ---
 

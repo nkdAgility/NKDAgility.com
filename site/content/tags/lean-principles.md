@@ -1,5 +1,6 @@
 ---
 title: Lean Principles
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Minimising waste and maximising value through iterative learning and continuous improvement.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Integration of Lean with Agile and DevOps methodologies
 
   **Strictly exclude** discussions that deviate from the core principles of Lean, such as unrelated management theories, non-iterative processes, or practices that do not focus on waste reduction and value maximisation.
+headline:
+  cards: []
+  title: Lean Principles
+  subtitle: Optimising processes to enhance value delivery through iterative learning and systematic improvement.
+  content: A systematic approach to enhancing value delivery by identifying and eliminating inefficiencies. Posts should explore iterative learning, process optimisation, flow management, and the integration of feedback loops, drawing on insights from systems thinking, complexity theory, and continuous improvement methodologies.
+  updated: 2025-02-13T12:04:10Z
 
 ---
 

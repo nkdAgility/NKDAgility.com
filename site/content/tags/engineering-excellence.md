@@ -1,5 +1,6 @@
 ---
 title: Engineering Excellence
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Promoting high standards in software craftsmanship and development practices.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions unrelated to software development practices, such as project management methodologies not tied to engineering.
   - Misinterpretations of engineering excellence that do not align with established theories or practices in software craftsmanship.
   - Content that focuses solely on non-technical aspects of team dynamics or organisational culture without a direct link to engineering practices.
+headline:
+  cards: []
+  title: Engineering Excellence
+  subtitle: Fostering superior software practices and craftsmanship for sustainable development and continuous improvement.
+  content: Cultivating a culture of quality in software development, this classification emphasises practices that enhance collaboration, efficiency, and adaptability. Topics include process optimisation, team dynamics, continuous feedback, and the integration of metrics to inform decision-making, fostering an environment of ongoing learning and improvement.
+  updated: 2025-02-13T12:04:48Z
 
 ---
 

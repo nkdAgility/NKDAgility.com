@@ -29,8 +29,26 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Agile Product Management
+- Product Delivery
+- Value Delivery
+tags:
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Customer Feedback Loops
+- Organisational Change
+- Organisational Culture
+- Pragmatic Thinking
+- Product Backlog
+- Software Developers
+- Software Development
+- Team Performance
 
 ---
  Fixed Video: https://youtu.be/5RJpAeKMRzs

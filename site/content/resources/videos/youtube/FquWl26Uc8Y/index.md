@@ -23,7 +23,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 isShort: true
-tags: []
+tags:
+- Engineering Excellence
+- Technical Debt
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.4

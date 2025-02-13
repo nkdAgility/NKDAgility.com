@@ -1,5 +1,6 @@
 ---
 title: Forecasting
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Enhance forecasting in Agile and Scrum. Use empirical data to predict delivery timelines, manage risk, and optimise value delivery.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - The relationship between forecasting and continuous improvement in Agile practices.
 
   **Strictly exclude** discussions that do not directly relate to the methodologies and practices of forecasting within Agile and Scrum, such as unrelated project management techniques, non-empirical approaches, or general business strategies that do not focus on Agile principles.
+headline:
+  cards: []
+  title: Forecasting
+  subtitle: Empower decision-making through data-driven predictions, risk management, and value optimisation for effective project delivery.
+  content: Utilise empirical data to enhance prediction accuracy for project timelines, enabling informed decision-making and effective risk management. Posts should explore techniques for value optimisation, the impact of variability on delivery, and methods for integrating feedback loops to improve forecasting reliability in complex environments.
+  updated: 2025-02-13T12:04:26Z
 
 ---
 

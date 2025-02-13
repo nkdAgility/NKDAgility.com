@@ -1,5 +1,6 @@
 ---
 title: Product Management
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Balancing customer needs, business goals, and technical feasibility in product strategy.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Metrics and KPIs for measuring product success and customer satisfaction.
 
   **Strictly exclude** discussions that do not directly relate to the strategic aspects of product management, such as technical implementation details, unrelated project management methodologies, or personal opinions that lack a foundation in established product management theories and practices.
+headline:
+  cards: []
+  title: Product Management
+  subtitle: Navigating customer desires, business objectives, and technical realities for effective product strategy and delivery.
+  content: Integrating user insights, organisational objectives, and technical constraints to shape effective product strategies. Posts should explore prioritisation techniques, stakeholder engagement, iterative development, and performance measurement, while considering frameworks that enhance adaptability and responsiveness in complex environments.
+  updated: 2025-02-13T12:03:21Z
 
 ---
 

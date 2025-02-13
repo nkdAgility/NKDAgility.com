@@ -21,7 +21,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
 duration: 2299
 isShort: false
-tags: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Organisational Culture
+- Pragmatic Thinking
+- Scrum Product Development
+- Software Developers
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -29,7 +42,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
 
 ---
  This video unravels the complex challenges of implementing an agile philosophy within organizations. Through a deep dive into the "Seven Deadly Sins of Agile," I share personal insights and experiences to guide you away from common pitfalls and towards a more effective and genuinely agile approach. From lust for quick fixes to the pride that blinds, we'll explore how these sins can derail your agile journey and what you can do to stay on the right path.

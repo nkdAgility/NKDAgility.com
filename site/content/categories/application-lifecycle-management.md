@@ -1,5 +1,6 @@
 ---
 title: Application Lifecycle Management
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Managing the development, maintenance, and governance of software applications throughout their lifecycle.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Risk management strategies throughout the application lifecycle.
 
   **Strictly exclude** any discussions that do not directly relate to the management of software applications or that misinterpret the core principles of Application Lifecycle Management, such as unrelated software development methodologies or general project management topics.
+headline:
+  cards: []
+  title: Application Lifecycle Management
+  subtitle: Streamlining software development, maintenance, and governance for optimal performance and continuous improvement throughout the application lifecycle.
+  content: A comprehensive approach to overseeing software applications from inception to retirement, emphasising iterative development, stakeholder collaboration, and adaptive governance. Posts should explore methodologies for enhancing workflow efficiency, managing technical debt, ensuring quality assurance, and fostering a culture of continuous learning and improvement.
+  updated: 2025-02-13T11:59:56Z
 
 ---
 

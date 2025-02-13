@@ -40,8 +40,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Code and Complexity
 - DevOps
+- People and Process
 - Technical Excellence
 
 ---

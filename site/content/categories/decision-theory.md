@@ -1,5 +1,6 @@
 ---
 title: Decision Theory
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Decision-making in uncertain environments using heuristics, probability, and behavioural economics.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   **Strictly exclude:**
   - Discussions unrelated to decision-making processes, such as technical implementations or specific Agile methodologies without a focus on decision-making.
   - Misinterpretations of decision theory that do not align with its core principles, such as deterministic approaches that ignore uncertainty.
+headline:
+  cards: []
+  title: Decision Theory
+  subtitle: Navigating choices in uncertain landscapes through insights from heuristics, probability, and human behaviour.
+  content: Exploring the intricacies of decision-making under uncertainty, this classification delves into the application of heuristics, probabilistic reasoning, and insights from behavioural economics. Posts should examine strategies for effective choices, risk assessment, and the influence of cognitive biases in various organisational contexts.
+  updated: 2025-02-13T11:59:45Z
 
 ---
 

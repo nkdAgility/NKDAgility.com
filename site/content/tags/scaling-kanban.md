@@ -1,5 +1,6 @@
 ---
 title: Scaling Kanban
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying Kanban principles at scale for better flow and efficiency in large organisations.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Continuous improvement and feedback loops in a scaled Kanban context.
 
   **Strictly exclude** discussions that deviate from the core principles of Kanban, such as unrelated Agile methodologies that do not incorporate Kanban practices, or misinterpretations of Kanban's application in non-scaled environments.
+headline:
+  cards: []
+  title: Scaling Kanban
+  subtitle: Optimising workflow and enhancing efficiency through scalable Kanban practices in large organisations.
+  content: Implementing Kanban principles across large organisations to enhance workflow and optimise resource allocation. Posts should explore visual management, work-in-progress limits, cycle time reduction, and continuous improvement, while addressing challenges in complex environments and fostering a culture of collaboration and accountability.
+  updated: 2025-02-13T12:02:51Z
 
 ---
 

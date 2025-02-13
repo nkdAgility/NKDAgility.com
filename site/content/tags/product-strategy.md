@@ -1,5 +1,6 @@
 ---
 title: Product Strategy
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Defining a vision and roadmap to create a competitive and sustainable product.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Metrics and KPIs for measuring product success and sustainability.
 
   **Strictly exclude** any discussions that deviate from the core principles of product strategy, such as technical implementation details, team dynamics unrelated to strategy, or general Agile/Scrum practices that do not directly inform product vision and roadmap development.
+headline:
+  cards: []
+  title: Product Strategy
+  subtitle: Crafting a clear vision and actionable roadmap for sustainable product success in a dynamic market landscape.
+  content: Crafting a comprehensive vision and actionable roadmap that aligns product development with market needs and customer insights. Posts should explore strategic planning, prioritisation techniques, stakeholder engagement, and methods for adapting to changing environments, ensuring long-term product viability and competitive advantage.
+  updated: 2025-02-13T12:03:16Z
 
 ---
 

@@ -2,7 +2,7 @@
 title: Daily Scrum Recipe
 description: Maximise your Daily Scrum's impact! Focus on collaboration, transparency, and strategic planning to overcome challenges and achieve your Sprint Goal.
 ResourceId: M4qDhvrXwp-
-ResourceImport: true
+ResourceImport: false
 ResourceType: recipes
 resourceTypes: recipe
 layout: recipe
@@ -39,26 +39,26 @@ card:
   content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
   title: Daily Scrum Recipe
 categories:
-- Scrum
+- Flow Efficiency
 - People and Process
-- Value Delivery
-- Transparency and Accountability
 - Practical Techniques and Tooling
 tags:
-- Daily Scrum
-- Scrum Team
-- Scrum Master
-- Definition of Done
-- Continuous Improvement
-- Team Collaboration
+- Agile Frameworks
 - Agile Planning
+- Agile Project Management
+- Daily Scrum
+- Empirical Process Control
+- Operational Practices
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Performance
 - Transparency
-- Agile Product Management
-- Value Delivery
-- Agile Software Development
-- Self Organisation
-- Evidence Based Management
-- Agile Values and Principles
 
 ---
 The Daily Scrum is an essential event in the Scrum framework. It offers the

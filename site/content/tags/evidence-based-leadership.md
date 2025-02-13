@@ -1,5 +1,6 @@
 ---
 title: Evidence Based Leadership
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying empirical evidence to drive leadership decisions and improvements.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Discussions that focus solely on personal leadership styles without reference to empirical evidence.
   - Content that misinterprets evidence-based practices as merely relying on subjective opinions or experiences.
   - Topics unrelated to leadership, such as technical implementations or specific Agile practices that do not connect to leadership decision-making.
+headline:
+  cards: []
+  title: Evidence Based Leadership
+  subtitle: Harnessing data-driven insights to enhance leadership effectiveness and foster continuous improvement in dynamic environments.
+  content: Utilising empirical data to inform leadership strategies enhances decision-making and drives organisational growth. Posts should explore topics such as performance metrics, team dynamics, feedback loops, and adaptive leadership practices, emphasising the importance of evidence in navigating complex environments and fostering a culture of continuous improvement.
+  updated: 2025-02-13T12:04:34Z
 
 ---
 

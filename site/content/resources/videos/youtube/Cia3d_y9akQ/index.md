@@ -22,14 +22,27 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 isShort: false
-tags: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Sociotechnical Systems
 
 ---
  💡 Debunking Scrum Master Misconceptions: Why Competence is Key 🚀

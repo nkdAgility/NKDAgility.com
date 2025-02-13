@@ -1,5 +1,6 @@
 ---
 title: Lean Startup
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying Lean principles to rapidly test and validate business ideas with minimal risk.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Case studies illustrating successful Lean Startup implementations.
 
   **Strictly exclude** unrelated content or misinterpretations of the core classification, such as general business management practices that do not specifically apply Lean principles, discussions on established corporate strategies without a focus on innovation, or any content that does not emphasise the iterative learning process central to the Lean Startup methodology.
+headline:
+  cards: []
+  title: Lean Startup
+  subtitle: Rapidly test and validate business concepts to minimise risk and enhance decision-making through iterative learning and evidence-based insights.
+  content: A methodology for swiftly evaluating and refining business concepts through iterative experimentation and data-driven insights. Posts should explore hypothesis testing, customer feedback loops, minimum viable products, and metrics for success, emphasising the importance of learning and adaptation in uncertain environments.
+  updated: 2025-02-13T12:03:59Z
 
 ---
 

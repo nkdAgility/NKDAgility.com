@@ -1,5 +1,6 @@
 ---
 title: Complexity Thinking
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: An approach to understanding and managing organisations, systems, and uncertainty using complexity science, emergence, and nonlinear dynamics. Incudes but not limited to Cynefin and Stacy.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions that do not reference complexity science or its principles
   - Misinterpretations of complexity as merely chaotic or random behaviour
   - Content that focuses solely on traditional management theories without integrating complexity perspectives
+headline:
+  cards: []
+  title: Complexity Thinking
+  subtitle: Navigating uncertainty and organisational dynamics through complexity science and emergent strategies for effective decision-making.
+  content: An exploration of organisational dynamics and decision-making through the lens of complexity science. This classification encompasses emergent strategies, nonlinear interactions, and frameworks such as Cynefin and Stacey, providing insights into navigating uncertainty and fostering adaptive practices in complex environments.
+  updated: 2025-02-13T11:59:47Z
 
 ---
 

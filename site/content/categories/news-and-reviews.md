@@ -1,5 +1,6 @@
 ---
 title: News and Reviews
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Industry news, updates, and reviews of tools, books, and trends in Agile, DevOps, and technology.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Content that focuses solely on personal opinions without supporting evidence or industry relevance.
   - Technical tutorials or how-to guides that do not relate to news or reviews.
   - Any content that strays from the core themes of Agile, DevOps, and technology updates.
+headline:
+  cards: []
+  title: News and Reviews
+  subtitle: Stay updated with the latest industry insights, tool reviews, and emerging trends in technology and management practices.
+  content: Explore the latest developments and evaluations in technology and management methodologies. Posts delve into tools, literature, and trends, emphasising practical applications and insights from thought leaders. Topics include workflow optimisation, team dynamics, performance metrics, and the impact of emerging technologies on organisational effectiveness.
+  updated: 2025-02-13T11:59:08Z
 
 ---
 

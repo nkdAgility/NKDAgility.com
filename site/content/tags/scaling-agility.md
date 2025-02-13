@@ -1,5 +1,6 @@
 ---
 title: Scaling Agility
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Moving beyond frameworks to build agility at every level.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - The impact of organisational structure and design on the effectiveness of scaled agile practices.
 
   **Strictly exclude** discussions that focus solely on team-level agile practices, unrelated methodologies, or misinterpretations of scaling agility that do not align with the core principles of agile philosophy and frameworks.
+headline:
+  cards: []
+  title: Scaling Agility
+  subtitle: Empowering organisations to enhance responsiveness and adaptability through effective practices and collaborative frameworks at all levels.
+  content: Cultivating organisational responsiveness and adaptability through collaborative frameworks and iterative practices. Posts explore team dynamics, workflow optimisation, continuous improvement, and evidence-based decision-making, drawing insights from complexity theory and management principles to enhance performance across all levels of the organisation.
+  updated: 2025-02-13T12:02:53Z
 
 ---
 

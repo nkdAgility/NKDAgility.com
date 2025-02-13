@@ -1,5 +1,6 @@
 ---
 title: Frequent Releases
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Ensuring continuous delivery of incremental improvements to users and stakeholders.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions unrelated to software delivery, such as project management methodologies not focused on release frequency.
   - Misinterpretations of frequent releases as merely increasing the number of releases without considering quality and user impact.
   - Content that does not align with the principles of Agile, DevOps, or Continuous Delivery as defined by the original theorists and practitioners.
+headline:
+  cards: []
+  title: Frequent Releases
+  subtitle: Delivering incremental enhancements swiftly to maximise value for users and stakeholders through continuous improvement practices.
+  content: Facilitating the rapid and consistent delivery of enhancements, this classification emphasises practices that promote responsiveness to user feedback and evolving requirements. Posts should explore topics such as iterative development, minimising cycle times, prioritising value delivery, and leveraging metrics for informed decision-making.
+  updated: 2025-02-13T12:04:23Z
 
 ---
 

@@ -2,7 +2,7 @@
 title: Agile Product Operating Model
 description: Explore the Agile Product Operating Model, a framework designed to enhance collaboration, flexibility, and efficiency in product development processes.
 ResourceId: cBWi9iKD1Sa
-ResourceImport: true
+ResourceImport: false
 ResourceType: methods
 weight: 1
 draft: true
@@ -23,28 +23,8 @@ card:
     content: More info
   title: Agile Product Operating Model
   content: Agile Product Operating Model
-categories:
-- Agile Product Management
-- Organisational Agility
-- Value Delivery
-- Discovery and Learning
-- Flow Efficiency
-tags:
-- Agile Product Management
-- Agile Planning
-- Agile Product Discovery
-- Agile Strategy
-- Team Collaboration
-- Agile Product Ownership
-- Agile Software Development
-- Agile Frameworks
-- Agile Transformation
-- Business Agility
-- Customer Satisfaction
-- Continuous Improvement
-- Value Delivery
-- Agile Digital Tools
-- Agile Methodology
+categories: []
+tags: []
 
 ---
 Description of Agile Product Operating Model.

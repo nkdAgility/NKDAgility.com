@@ -1,5 +1,6 @@
 ---
 title: Cycle Time
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Tracking the time taken to complete a unit of work from start to finish.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Discussions unrelated to the measurement or implications of Cycle Time.
   - Misinterpretations of Cycle Time that do not align with Agile or DevOps philosophies.
   - Content that focuses on unrelated metrics or concepts outside the scope of workflow efficiency.
+headline:
+  cards: []
+  title: Cycle Time
+  subtitle: Measuring the duration from initiation to completion of tasks to enhance workflow efficiency and optimise performance.
+  content: Measuring the time taken to complete a work item from initiation to delivery, this classification aids in identifying bottlenecks and enhancing workflow. Relevant topics include task prioritisation, throughput analysis, process optimisation, and the impact of variability on performance, drawing insights from various methodologies and frameworks.
+  updated: 2025-02-13T12:05:12Z
 
 ---
 

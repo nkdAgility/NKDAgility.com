@@ -1,5 +1,6 @@
 ---
 title: Operational Practices
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Techniques and strategies for improving operational efficiency and delivery.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Evidence-based decision-making in operational contexts.
 
   **Strictly exclude** discussions that do not directly relate to the improvement of operational efficiency, such as theoretical debates without practical application, unrelated business strategies, or content that misinterprets the core principles of Agile, DevOps, or Lean methodologies.
+headline:
+  cards: []
+  title: Operational Practices
+  subtitle: Strategies and techniques for enhancing efficiency and optimising delivery in operational workflows.
+  content: A collection of practices aimed at enhancing workflow efficiency and delivery effectiveness. Posts explore visual management, work-in-progress limits, continuous improvement, and performance metrics, drawing insights from systems thinking, complexity theory, and empirical evidence to foster adaptive and responsive operational environments.
+  updated: 2025-02-13T12:03:42Z
 
 ---
 

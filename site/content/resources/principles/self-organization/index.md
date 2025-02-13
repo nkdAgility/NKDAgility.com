@@ -2,7 +2,7 @@
 title: Self-Organization
 description: Self Organizing teams have the autonomy to determine how to achieve their goals
 ResourceId: eyXbQF80i4R
-ResourceImport: true
+ResourceImport: false
 ResourceType: principles
 recommendedContent: 
 date: 2024-09-17
@@ -21,25 +21,17 @@ card:
   content: Discover more about Self-Organization and how it can help you in your Agile journey!
   title: Self-Organization
 categories:
-- Scrum
-- Organisational Agility
 - People and Process
-- Transparency and Accountability
 tags:
-- Self Organisation
+- Agile Frameworks
+- Agile Project Management
+- Professional Scrum
 - Scrum Master
 - Scrum Team
+- Self Organisation
+- Software Development
 - Team Collaboration
-- Team Motivation
-- Agile Values and Principles
-- Continuous Improvement
-- Working Agreements
-- Agile Leadership
-- Accountability
-- Agile Methodology
-- Agile Project Management
-- Agile Software Development
-- Employee Engagement
+- Team Performance
 
 ---
 Self-Organization: Scrum teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the Scrum Master helps to facilitate and guide the process

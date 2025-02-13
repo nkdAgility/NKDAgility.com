@@ -2,7 +2,7 @@
 title: Accountabilities for the Scrum Team
 description: Explore key accountabilities within our organisation for a deeper understanding of roles and responsibilities in agile project management.
 ResourceId: D4IlRdnMoRB
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 resourceTypes: practice
 layout: practice

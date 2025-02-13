@@ -1,5 +1,6 @@
 ---
 title: Large Scale Agility
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Scaling agile beyond teams to drive enterprise-wide transformation and innovation.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   - Case studies of successful large-scale Agile implementations
 
   **Strictly exclude** discussions that focus solely on team-level Agile practices, individual Agile methodologies without a scaling context, or unrelated business management theories that do not pertain to the principles of scaling Agile across an organisation.
+headline:
+  cards: []
+  title: Large Scale Agility
+  subtitle: Transforming organisations through collaborative frameworks and innovative practices for sustainable growth and adaptability.
+  content: Facilitating enterprise-wide transformation through collaborative frameworks that enhance responsiveness and innovation. Posts should explore systemic practices, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
+  updated: 2025-02-13T12:04:15Z
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Evidence Based Management
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying empirical evidence to optimise organisational agility and decision-making.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - The impact of EBM on stakeholder engagement and collaboration.
 
   **Strictly exclude** any discussions that deviate from the core principles of Evidence-Based Management, such as anecdotal evidence, unverified claims, or practices that do not rely on empirical data. Misinterpretations of EBM that suggest a purely subjective or opinion-based approach to management should also be avoided.
+headline:
+  cards: []
+  title: Evidence Based Management
+  subtitle: Harnessing data-driven insights to enhance organisational effectiveness and informed decision-making across diverse frameworks.
+  content: Utilising empirical data to enhance organisational performance and strategic decision-making, this classification encompasses practices that promote continuous improvement, adaptability, and responsiveness. Topics include metrics for assessing effectiveness, frameworks for managing complexity, and techniques for fostering a culture of evidence-driven insights.
+  updated: 2025-02-13T12:04:31Z
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Strategic Goals
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Defining long-term objectives that align with business agility and competitive advantage.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
   - Discussions unrelated to long-term objectives or business agility.
   - Misinterpretations of strategic goals that do not align with Agile principles.
   - Content focused solely on operational tactics without strategic context.
+headline:
+  cards: []
+  title: Strategic Goals
+  subtitle: Aligning long-term objectives with organisational adaptability and market positioning for sustained success and growth.
+  content: Establishing long-term objectives that enhance organisational flexibility and market responsiveness. Posts should explore frameworks for prioritising initiatives, measuring progress, and adapting strategies based on empirical evidence, while considering the complexities of team dynamics and external environments.
+  updated: 2025-02-13T12:02:09Z
 
 ---
 

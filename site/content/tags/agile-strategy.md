@@ -1,5 +1,6 @@
 ---
 title: Agile Strategy
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Drive long-term success with Agile Strategy. Align vision, execution, and adaptability to deliver continuous value.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions unrelated to Agile methodologies or strategies
   - Misinterpretations of Agile principles that do not align with the original theories
   - Content focused solely on technical practices without strategic context
+headline:
+  cards: []
+  title: Agile Strategy
+  subtitle: Align vision and execution to foster adaptability and deliver ongoing value through strategic insights and evidence-based practices.
+  content: Cultivate a resilient organisational framework that enhances strategic alignment and responsiveness to change. Posts should explore practices for continuous improvement, value delivery, and decision-making informed by data, while addressing complexity and fostering a culture of collaboration and learning.
+  updated: 2025-02-13T12:06:15Z
 
 ---
 

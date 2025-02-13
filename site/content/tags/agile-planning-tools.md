@@ -1,5 +1,6 @@
 ---
 title: Agile Planning Tools
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Optimise Agile execution with Agile Planning Tools. Enhance backlog management, forecasting, and collaboration across teams.
 Instructions: |-
@@ -16,6 +17,12 @@ Instructions: |-
   - Metrics and KPIs for measuring the effectiveness of Agile Planning Tools in project delivery.
 
   **Strictly exclude** any discussions that do not directly relate to the planning tools used in Agile methodologies, such as general project management tools that do not adhere to Agile principles, or unrelated software development practices that do not focus on Agile execution.
+headline:
+  cards: []
+  title: Agile Planning Tools
+  subtitle: Streamline project execution with effective planning tools that enhance collaboration, backlog management, and forecasting for successful outcomes.
+  content: Facilitate effective project execution through strategic planning tools that improve collaboration, enhance backlog prioritisation, and enable accurate forecasting. Posts should explore methodologies for optimising workflow, managing team dynamics, and leveraging data-driven insights to drive successful project outcomes in complex environments.
+  updated: 2025-02-13T12:06:21Z
 
 ---
 

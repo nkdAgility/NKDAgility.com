@@ -1,5 +1,6 @@
 ---
 title: Scrum Master
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Enabling and coaching teams towards high performance and agile success.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   - Real-world case studies and experiences of effective Scrum Masters.
 
   **Strictly exclude** discussions that do not directly relate to the Scrum Master role, such as general Agile methodologies without specific reference to Scrum, technical implementation details unrelated to team dynamics, or comparisons with other frameworks without a focus on the Scrum Master’s contributions.
+headline:
+  cards: []
+  title: Scrum Master
+  subtitle: Guiding teams to achieve peak performance through effective coaching and continuous improvement practices.
+  content: Facilitating team dynamics and fostering a culture of continuous improvement, this classification encompasses practices for enhancing collaboration, resolving conflicts, and optimising workflows. Posts should explore team coaching, performance metrics, stakeholder engagement, and adaptive planning, drawing insights from complexity theory and evidence-based management principles.
+  updated: 2025-02-13T12:02:45Z
 
 ---
 

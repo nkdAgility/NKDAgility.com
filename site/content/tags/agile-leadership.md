@@ -1,5 +1,6 @@
 ---
 title: Agile Leadership
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Drive change with Agile Leadership. Foster adaptability, empower teams, and create a culture of continuous improvement.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Discussions unrelated to leadership roles or practices within Agile contexts.
   - Misinterpretations of Agile principles that do not align with the foundational theories of Agile leadership.
   - Content that focuses solely on technical practices without addressing the leadership aspect.
+headline:
+  cards: []
+  title: Agile Leadership
+  subtitle: Empower teams to embrace change, enhance adaptability, and cultivate a culture of ongoing improvement for sustainable success.
+  content: Cultivate leadership that inspires teams to navigate complexity and embrace change. Explore practices that enhance collaboration, foster innovation, and promote a mindset of continuous learning. Posts should delve into team dynamics, decision-making frameworks, and strategies for sustaining improvement in fast-paced environments.
+  updated: 2025-02-13T12:06:28Z
 
 ---
 

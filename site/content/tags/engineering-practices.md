@@ -1,5 +1,6 @@
 ---
 title: Engineering Practices
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: 'The foundation of Agile: clean code, automation, and test-first development.'
 Instructions: |-
@@ -15,6 +16,12 @@ Instructions: |-
   - Pair Programming: A collaborative approach to coding where two developers work together at one workstation, promoting knowledge sharing and code quality.
 
   **Strictly exclude** discussions that deviate from the core principles of Agile engineering practices, such as project management methodologies unrelated to software development, non-technical topics, or personal opinions that do not align with established Agile philosophies.
+headline:
+  cards: []
+  title: Engineering Practices
+  subtitle: 'Best practices for software development: prioritising quality, automation, and iterative improvement for effective delivery and team collaboration.'
+  content: Practices that enhance software quality and team efficiency through principles of clean code, automation, and iterative development. Posts should explore topics such as continuous integration, testing methodologies, code reviews, and collaborative workflows, fostering an environment of ongoing improvement and effective delivery.
+  updated: 2025-02-13T12:04:44Z
 
 ---
 

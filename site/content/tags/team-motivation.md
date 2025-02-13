@@ -1,5 +1,6 @@
 ---
 title: Team Motivation
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Fostering engagement, ownership, and high performance within agile teams.
 Instructions: |-
@@ -21,6 +22,12 @@ Instructions: |-
   - Discussions unrelated to team dynamics, such as technical implementation details or tools without a motivational context.
   - Misinterpretations of motivation that do not align with agile principles or the original theories of team dynamics.
   - Content that focuses solely on individual performance without considering the team context.
+headline:
+  cards: []
+  title: Team Motivation
+  subtitle: Empowering teams to enhance engagement, ownership, and performance through effective collaboration and continuous improvement.
+  content: Cultivating a culture of engagement and accountability, this classification explores strategies to enhance team dynamics and performance. Posts should delve into collaboration techniques, motivation theories, feedback mechanisms, and the impact of organisational structures on team effectiveness, drawing insights from various management and complexity frameworks.
+  updated: 2025-02-13T12:02:00Z
 
 ---
 

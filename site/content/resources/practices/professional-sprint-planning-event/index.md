@@ -2,7 +2,7 @@
 title: Sprint Planning Event
 description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
 ResourceId: v_AGzuOgZ0g
-ResourceImport: true
+ResourceImport: false
 ResourceType: practices
 resourceTypes: practice
 layout: practice
@@ -36,27 +36,21 @@ card:
   content: Discover more about Sprint Planning Event and how it can help you in your Agile journey!
   title: Sprint Planning Event
 categories:
-- Scrum
+- Agile Product Management
 - People and Process
-- Value Delivery
-- Transparency and Accountability
-- Practical Techniques and Tooling
+- Product Delivery
 tags:
-- Sprint Planning Workshop
-- Scrum Team
-- Product Backlog
-- Definition of Done
-- Sprint Review
+- Agile Frameworks
 - Agile Planning
-- Team Collaboration
-- Agile Product Ownership
-- Transparency
-- Continuous Improvement
-- Value Delivery
-- Agile Methodology
-- Scrum Product Development
 - Agile Planning Tools
-- Customer Feedback Loops
+- Agile Project Management
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Team Collaboration
+- Team Performance
+- Transparency
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.

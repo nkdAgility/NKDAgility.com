@@ -1,5 +1,6 @@
 ---
 title: Agile Product Management
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Maximise product value with Agile Product Management. Align strategy, customer needs, and continuous delivery.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - The integration of Agile principles with Lean and DevOps practices to enhance product delivery.
 
   **Strictly exclude** discussions that do not directly relate to the Agile philosophy of product management, such as traditional project management methodologies, unrelated business strategies, or technical discussions that do not pertain to product value maximisation.
+headline:
+  cards: []
+  title: Agile Product Management
+  subtitle: Optimise product outcomes by aligning strategy with user needs and fostering a culture of continuous improvement and delivery.
+  content: Maximise product value by integrating user insights with strategic objectives, fostering a culture of iterative improvement and responsiveness. Posts should explore practices for prioritising features, enhancing team collaboration, and utilising metrics to inform decision-making, while addressing complexity and uncertainty in product development.
+  updated: 2025-02-13T12:00:04Z
 
 ---
 

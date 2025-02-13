@@ -1,5 +1,6 @@
 ---
 title: Personal
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Just some personal thoughts and experiences.
 Instructions: |-
@@ -18,6 +19,12 @@ Instructions: |-
   - Technical discussions or detailed analyses of Agile, Scrum, DevOps, or Lean frameworks.
   - Content that misrepresents or deviates from the original theories and philosophies of the mentioned methodologies.
   - Generalised statements that do not provide personal context or insights.
+headline:
+  cards: []
+  title: Personal
+  subtitle: Reflections on personal journeys, insights, and experiences in navigating complex systems and continuous improvement.
+  content: Explorations of individual experiences and insights in navigating complex systems, fostering continuous improvement, and enhancing team dynamics. Posts may delve into personal reflections on practices, challenges faced, and lessons learned in optimising workflows, collaboration, and adaptability within organisational contexts.
+  updated: 2025-02-13T11:58:57Z
 
 ---
 

@@ -2,7 +2,7 @@
 title: One Engineering System
 description: Unify engineering tools with the One Engineering System (1ES) to boost collaboration, streamline workflows, and enhance software development efficiency.
 ResourceId: 6z97VZamnQQ
-ResourceImport: true
+ResourceImport: false
 ResourceType: methods
 shorttitle: 1ES
 date: 2024-09-17

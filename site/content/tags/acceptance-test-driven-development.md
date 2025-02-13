@@ -1,5 +1,6 @@
 ---
 title: Acceptance Test Driven Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Drive high-quality software development with Acceptance Test Driven Development (ATDD). Define clear, testable acceptance criteria before implementation to ensure alignment with business needs.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - General discussions on Agile or Scrum without a focus on acceptance testing
   - Content that misrepresents ATDD as solely a testing phase rather than a collaborative development approach
   - Topics unrelated to acceptance criteria, such as coding practices or design patterns that do not directly relate to ATDD principles.
+headline:
+  cards: []
+  title: Acceptance Test Driven Development
+  subtitle: Ensure software quality by defining clear, testable criteria before development, aligning outcomes with business objectives and user needs.
+  content: Establish a framework for software development that prioritises quality through the definition of clear, testable criteria prior to implementation. Emphasise collaboration among stakeholders to ensure that outcomes meet user needs and business objectives, while fostering a culture of continuous improvement and adaptability.
+  updated: 2025-02-13T12:06:36Z
 
 ---
 

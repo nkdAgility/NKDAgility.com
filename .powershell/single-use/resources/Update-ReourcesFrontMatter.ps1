@@ -14,13 +14,12 @@ $outputDir = ".\site\content\resources\"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
-# Total count for progress tracking
-$TotalFiles = $resources.Count
+
 $Counter = 1
 
 
 $hugoMarkdownFiles = @()
-
+$TotalFiles = $resources.Count
 Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $TotalFiles
 $resources | ForEach-Object {
     if ((Test-Path $_)) {
@@ -38,17 +37,26 @@ $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 $resourceTypeCounts = @{}
 
 
-$Counter = 1
+$Counter = 0
 
 
+$TotalItems = $hugoMarkdownFiles.Count
+$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
+Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
+$TotalItems = $hugoMarkdownFiles.Count
+$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.draft -ne $true }
+Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.draft -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
 
 
-$hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending 
-
+$hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending
+# Total count for progress tracking
+$TotalItems = $hugoMarkdownFiles.Count
+Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($TotalItems)
 foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
-    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
     $Counter++
-    $PercentComplete = ($Counter / $TotalFiles) * 100
+    $PercentComplete = ($Counter / $TotalItems) * 100
+    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+ 
 
     Write-DebugLog "--------------------------------------------------------"
     Write-InfoLog "Processing post: { ResolvePath }" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
@@ -158,9 +166,8 @@ foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
     }
 
-    if ($hugoMarkdown.FrontMatter.draft -ne $true -or (-not ($hugoMarkdown.FrontMatter.ResourceType -eq "videos" -and $hugoMarkdown.FrontMatter.isShort -eq $true))) {
-        # Do for Non-Draft items only
-       
+    if ($hugoMarkdown.FrontMatter.draft -ne $true -or ($hugoMarkdown.FrontMatter.ResourceType -eq "videos" -and $hugoMarkdown.FrontMatter.isShort -ne $true)) {
+        # Do for Non-Draft items only      
 
         #================Themes, Categories, & TAGS==========================
         $BodyContent = $hugoMarkdown.BodyContent

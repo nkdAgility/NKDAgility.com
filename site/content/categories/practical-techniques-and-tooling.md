@@ -1,5 +1,6 @@
 ---
 title: Practical Techniques and Tooling
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Exploring different tools, methodologies, and frameworks to improve Agile and DevOps practices.
 Instructions: |-
@@ -20,6 +21,12 @@ Instructions: |-
   - Theoretical debates that do not involve specific tools or methodologies
   - Content that focuses solely on organisational culture without linking to practical techniques or tooling
   - Misinterpretations of Agile and DevOps principles that do not align with established frameworks and methodologies
+headline:
+  cards: []
+  title: Practical Techniques and Tooling
+  subtitle: Exploring methodologies and tools to enhance workflow efficiency and team collaboration across various frameworks and practices.
+  content: A comprehensive exploration of methodologies and tools designed to optimise workflow and enhance team collaboration. Posts delve into visual management techniques, iterative development, continuous delivery, and evidence-based decision-making, drawing insights from industry thought leaders and frameworks to foster effective practices in dynamic environments.
+  updated: 2025-02-13T11:58:54Z
 
 ---
 

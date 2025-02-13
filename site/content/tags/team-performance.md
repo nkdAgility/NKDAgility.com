@@ -1,5 +1,6 @@
 ---
 title: Team Performance
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Maximising effectiveness and collaboration within agile teams.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Continuous improvement practices and their effect on team outcomes.
 
   **Strictly exclude** unrelated content such as general management theories, non-agile team structures, or discussions that do not directly relate to the performance and collaboration of agile teams. Misinterpretations of Agile principles or practices that do not align with the core philosophies of Agile and Scrum should also be omitted.
+headline:
+  cards: []
+  title: Team Performance
+  subtitle: Enhancing collaboration and effectiveness in teams through proven practices and frameworks for optimal performance.
+  content: Fostering high-performing teams through collaborative practices and frameworks that enhance communication, adaptability, and accountability. Posts should explore topics such as workflow optimisation, iterative progress, team dynamics, performance metrics, and the impact of complexity on team interactions and decision-making.
+  updated: 2025-02-13T12:01:57Z
 
 ---
 

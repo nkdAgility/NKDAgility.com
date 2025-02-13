@@ -1,5 +1,6 @@
 ---
 title: Product Owner
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Maximising product value through effective backlog management and stakeholder alignment.
 Instructions: |-
@@ -19,6 +20,12 @@ Instructions: |-
 
   **Strictly exclude:**
   - Discussions unrelated to the Product Owner role, such as technical implementation details, team dynamics unrelated to the Product Owner, or general Agile/Scrum principles that do not specifically address the Product Owner's responsibilities. Misinterpretations of the Product Owner's role, such as conflating it with that of a Scrum Master or development team member, should also be excluded.
+headline:
+  cards: []
+  title: Product Owner
+  subtitle: Driving product success through strategic prioritisation and collaboration with stakeholders for optimal value delivery.
+  content: Maximising product value through strategic backlog prioritisation and fostering collaboration with stakeholders. Posts should explore effective techniques for aligning product vision with user needs, utilising metrics for informed decision-making, and enhancing team dynamics to ensure continuous delivery of high-quality outcomes.
+  updated: 2025-02-13T12:03:18Z
 
 ---
 

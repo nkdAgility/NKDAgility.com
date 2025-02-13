@@ -1,5 +1,6 @@
 ---
 title: Metrics and Learning
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Using data, metrics, and feedback to drive continuous improvement in teams and processes.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
   - Tools and technologies that facilitate data-driven decision-making.
 
   **Strictly exclude** any discussions that deviate from the core principles of metrics and learning, such as anecdotal evidence without data support, unrelated management theories, or practices that do not align with Agile, DevOps, or Lean philosophies.
+headline:
+  cards: []
+  title: Metrics and Learning
+  subtitle: Harnessing data and insights to foster ongoing enhancement in team dynamics and operational workflows.
+  content: Utilising quantitative and qualitative insights to enhance team performance and streamline workflows. Posts should explore data-driven decision-making, feedback loops, process optimisation, and the interplay between team dynamics and operational efficiency, drawing on principles from systems thinking and complexity theory.
+  updated: 2025-02-13T11:59:13Z
 
 ---
 

@@ -22,14 +22,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg
 duration: 186
 isShort: false
-tags: []
+tags:
+- Pragmatic Thinking
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Practical Techniques and Tooling
 
 ---
  In this video, I address a common concern in Azure DevOps migrations: the fear of incomplete migrations and data loss. With experience in hundreds of migrations using Microsoft’s database import tool, I can confidently say that data loss is extremely rare, and any limitations or adjustments are fully manageable with the right preparation.

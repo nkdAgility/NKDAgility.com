@@ -1,5 +1,6 @@
 ---
 title: Lead Time
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Measuring the time from work initiation to customer delivery.
 Instructions: |-
@@ -17,6 +18,12 @@ Instructions: |-
 
   **Strictly exclude:**  
   Discussions that focus on unrelated metrics (e.g., velocity, burn-down charts) or misinterpretations of Lead Time that do not align with its definition as a measure of time from work initiation to customer delivery.
+headline:
+  cards: []
+  title: Lead Time
+  subtitle: Optimising the duration from task start to customer satisfaction, enhancing workflow efficiency and delivery effectiveness.
+  content: A comprehensive examination of the duration from task initiation to customer delivery, emphasising the importance of minimising delays and enhancing throughput. Posts should explore workflow optimisation, bottleneck identification, cycle time reduction, and the impact of process improvements on customer satisfaction and overall delivery effectiveness.
+  updated: 2025-02-13T12:04:12Z
 
 ---
 
