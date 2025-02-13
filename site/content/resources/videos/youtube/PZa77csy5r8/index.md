@@ -39,7 +39,6 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - Code and Complexity
 - DevOps
 - Value Delivery

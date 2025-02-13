@@ -27,7 +27,6 @@ tags:
 - Agile Project Management
 - Continuous Learning
 - Decision Making
-- Empirical Process Control
 - Engineering Excellence
 - Evidence Based Leadership
 - Evidence Based Management

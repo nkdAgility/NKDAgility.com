@@ -43,8 +43,6 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
-- Product Delivery
 - Discovery and Learning
 - Product Delivery
 - Value Delivery
