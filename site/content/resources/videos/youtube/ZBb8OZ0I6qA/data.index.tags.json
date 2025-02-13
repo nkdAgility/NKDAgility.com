@@ -1,420 +1,4 @@
 {
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses backlog management and hierarchy issues rather than Test First Development.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses backlog management and the problems of hierarchical structures in agile methodologies, which does not strongly align with organisational culture.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the problems with hierarchical backlog management and promotes a flat list approach that enhances understanding and decision-making in product management.",
-    "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses backlog management, hierarchy issues in Agile frameworks, and emphasizes value-focused management of work items, which relates to scaling Scrum practices.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses backlog management and the issues associated with hierarchical structures in agile methodologies, rather than modern source control practices.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 68,
-    "non_ai_confidence": 10,
-    "final_score": 51.0,
-    "reasoning": "While Azure DevOps is mentioned as the tool of choice for managing backlogs, the primary focus of the content is on backlog management and the issues related to hierarchical structures rather than on Azure Pipelines specifically.",
-    "level": "Secondary"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses backlog management and challenges related to hierarchy in agile frameworks, rather than asynchronous development specifically.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses best practices for managing a product backlog, decision-making around prioritizing work items, and the role of a Product Owner in backlog management.",
-    "level": "Secondary"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 42,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses backlog management and the issues with hierarchical structures, with only mild references to aligning work with business value, which are not central strategic goals.",
-    "level": "Ignored"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 20,
-    "non_ai_confidence": 0,
-    "final_score": 14.0,
-    "reasoning": "The content primarily discusses backlog management and agile methodologies rather than specific system configuration aspects. While tools like Azure DevOps are mentioned, the discussion is not focused on system configuration.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on effective backlog management and teamwork dynamics within Agile methodologies, which requires a deep understanding of technical aspects like tooling and work hierarchy.",
-    "level": "Secondary"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 25,
-    "non_ai_confidence": 10,
-    "final_score": 20.0,
-    "reasoning": "The content discusses backlog management and agile methodologies extensively, but does not centrally focus on the Lean Startup principles or methodologies.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses backlog management, the issues with hierarchical structures, and agile practices, but it does not focus on Behaviour Driven Development as a clear or primary topic.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 65,
-    "non_ai_confidence": 0,
-    "final_score": 46.0,
-    "reasoning": "The content discusses backlog management techniques and challenges in hierarchical structures, relating to Agile practices, which are fundamental to large scale agility. However, it is not exclusively focused on large scale agility principles.",
-    "level": "Ignored"
-  },
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content extensively discusses backlog management in the context of Agile practices, particularly touching on frameworks such as Scrum and Kanban.",
-    "level": "Secondary"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the issues with hierarchical backlog management and how to focus on the flow of value, which aligns well with the principles of Lean Thinking.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content mainly focuses on backlog management within the context of Agile practices, emphasizing the issues of hierarchical structures versus flat lists, and discusses methodologies relevant to Scrum and Kanban.",
-    "level": "Secondary"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 55,
-    "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content discusses backlog management, Scrum, and Agile methodologies, which are related to engineering practices, but the primary focus is on backlog organization rather than a broad discussion of engineering excellence.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses the concept of backlog management and the inadequacies of hierarchical structures, which aligns with themes relevant to Organisational Physics, but it primarily focuses on Agile methodologies and tools.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 82,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "Content primarily discusses Agile principles and practices related to backlog management and the Scrum framework, particularly emphasizing the significance of managing a product backlog effectively without hierarchical structures.",
-    "level": "Secondary"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is solely focused on backlog management and does not address revenue per employee directly or indirectly.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the concept of a product backlog, its characteristics, and the implications of using a hierarchical approach versus a flat ordering of backlog items.",
-    "level": "Secondary"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily addresses the complexities of managing a product backlog, focusing on the need to avoid hierarchical structures and instead promote value-focused approaches, which aligns strongly with product strategy principles.",
-    "level": "Secondary"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses backlog management and hierarchical structures in Agile methodologies, with no clear focus on cycle time as a primary topic.",
-    "level": "Ignored"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content discusses backlog management and hierarchy issues in Agile practices, but it does not primarily focus on value stream mapping or its principles.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily focuses on effectively managing product backlogs and hierarchical relationships, discussing workflow and value over structure. Although it touches on aspects related to product discovery, it's mainly about backlog management and hierarchical issues.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses backlog management and the issues related to hierarchy in managing backlogs rather than focusing on technical debt.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses backlog management and hierarchy issues in Agile frameworks, with no central focus on frequent releases.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content primarily discusses backlog management and the challenges of hierarchical structures in agile frameworks, which indirectly relates to digital transformation themes such as managing work effectively and improving workflows, but is not the central focus.",
-    "level": "Ignored"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily discusses the issues with hierarchies in backlog management and emphasizes the importance of coaching teams on effective backlog handling to focus on value delivery.",
-    "level": "Secondary"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content primarily discusses backlog management and overcoming hierarchical structures in Agile methodologies, reflecting a strong emphasis on leadership in technical environments, though it is slightly more focused on practical tools rather than pure leadership themes.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content primarily discusses managing a backlog effectively and the issues with hierarchical structures, which relates to self-organization in agile teams.",
-    "level": "Secondary"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses backlog management and agile methodologies, which may relate to project management in a business context but does not center on entrepreneurship as a primary theme.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses backlog management and the issues with hierarchical structures, which are relevant to BetaCodex principles, but it focuses mainly on practical tools and examples rather than a deeper exploration of BetaCodex itself.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on issues related to backlog management and hierarchy in Agile methodologies rather than analyzing or discussing trends.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on managing product backlogs and the implications of hierarchical structures in backlog management, which does not relate to customer retention.",
-    "level": "Ignored"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses concepts related to backlog management and Agile methodologies, which include elements of learning through practical examples. However, it primarily focuses on challenges with hierarchical structures in backlogs rather than directly promoting continuous learning as its central theme.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content discusses issues related to backlog management and hierarchy, but the primary focus is on explaining a methodology for organizing backlogs rather than directly troubleshooting specific problems.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses backlog management, Scrum roles, and the structure of work items rather than remote working. Remote working is not a central theme.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses managing backlogs and workflows while implying the importance of value flow, which aligns with Kanban principles. However, it primarily focuses on backlog management issues rather than scaling Kanban specifically.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses managing backlogs effectively and the pitfalls of hierarchical structures in backlog management, which are central to the topic of backlog refinement.",
-    "level": "Secondary"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 20,
-    "non_ai_confidence": 10,
-    "final_score": 17.0,
-    "reasoning": "The content primarily discusses backlog management and hierarchy visualization in tools like Azure DevOps, rather than focusing on evidence-based leadership principles.",
-    "level": "Ignored"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 35,
-    "non_ai_confidence": 0,
-    "final_score": 24.0,
-    "reasoning": "The content mainly discusses the issues with backlog hierarchy and management in Agile frameworks, rather than focusing specifically on transparency as a central theme.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content discusses Scrum roles and emphasizes effective backlog management, which is central to Scrum methodology.",
-    "level": "Secondary"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses backlog management and ways to improve it by moving away from hierarchical structures, which indicates a major focus on managing change in agile practices.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses backlog management, hierarchy issues, and agile methodologies without a central focus on team motivation.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 55.0,
-    "reasoning": "The content discusses backlog management, which is crucial in Scrum practices, and emphasizes team dynamics in backlog prioritization.",
-    "level": "Secondary"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses backlog management, hierarchy issues, and Agile methodologies without focusing on lead time as a central topic.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses the challenges of managing a hierarchical backlog rather than focusing on hypothesis-driven development as a central theme.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 82,
-    "non_ai_confidence": 0,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses the challenges of hierarchical backlog management and emphasizes a flat backlog approach, which aligns closely with scaling agile principles.",
-    "level": "Secondary"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses backlog management within Scrum and Kanban methodologies, focusing on the drawbacks of hierarchical structures, rather than experimentation itself.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily focuses on backlog management and the pitfalls of hierarchical structures in Agile practices, which are key engineering practices in software development.",
-    "level": "Secondary"
-  },
   "AI": {
     "category": "AI",
     "calculated_at": "2025-02-12T14:52:49",
@@ -918,5 +502,518 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses backlog management and the issues with hierarchical structures, without addressing psychological safety or its implications in team dynamics.",
     "level": "Ignored"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-13T18:04:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses backlog management and the issues with hierarchical structures in backlog items, which relates to backlog refinement. However, it primarily focuses on the problems and solutions regarding hierarchy rather than the broader practices and techniques of backlog refinement.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-13T18:04:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and Agile practices without a focus on evidence-based leadership principles or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-13T18:04:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses backlog management and hierarchy issues in Scrum, with no clear focus on scaling Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-13T18:04:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures in Agile environments, rather than focusing on change management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-13T18:04:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dynamics of backlog management and the implications of hierarchical structures within teams, which relates to systems thinking and organisational behaviour. However, it primarily focuses on practical aspects of Scrum and Kanban rather than a comprehensive exploration of organisational physics principles.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-13T18:04:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices, focusing on hierarchy issues rather than customer needs or product feature definition.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-13T18:04:55",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses backlog management and prioritisation strategies, which are relevant to the Product Owner's role, but it primarily focuses on the challenges of hierarchical structures rather than the broader responsibilities and practices of a Product Owner.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-13T18:04:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the issues with hierarchical backlog management and the importance of a flat backlog structure, rather than focusing on transparency in Agile processes.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-13T18:04:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices, which are not central to product strategy.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-13T18:05:01",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content discusses the limitations of hierarchical structures in backlog management and promotes a flat list approach, which aligns with self-organisation principles. However, the primary focus is on backlog management techniques rather than self-organisation as a central theme.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-13T18:05:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures in Agile methodologies, rather than analysing trends or shifts in Agile, DevOps, or business agility frameworks.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-13T18:05:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses backlog management and Scrum practices, which are not directly focused on software craftsmanship or engineering excellence.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-13T18:05:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses backlog management and agile methodologies, with no clear focus on version control practices or source control systems.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-13T18:05:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and Agile methodologies without any reference to revenue per employee or related financial metrics.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-13T18:05:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures, without a clear focus on Lead Time as a metric or its implications.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-13T18:05:13",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content primarily discusses backlog management and the issues with hierarchical structures in Agile methodologies, which are more focused on technical implementations rather than the interpretation of complexity or decision-making processes in organisational contexts.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-13T18:05:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses backlog management and the issues with hierarchical structures, rather than focusing on Scrum Team dynamics, roles, or collaboration techniques.",
+    "level": "Ignored"
+  },
+  "BetaCodex": {
+    "category": "BetaCodex",
+    "calculated_at": "2025-02-13T18:05:17",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the limitations of hierarchical structures in backlog management and advocates for a more flexible, value-focused approach, which aligns with the principles of BetaCodex. However, the primary focus is on backlog management techniques rather than a comprehensive exploration of BetaCodex principles.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-13T18:05:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures in Agile methodologies, without a clear focus on technical debt or its implications.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-13T18:05:21",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses backlog management and the implications of hierarchy in Agile frameworks, which are relevant to product management, but the primary focus is on technical implementation details rather than strategic product management concepts.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-13T18:05:23",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of value delivery and the mindset required for effective backlog management, which aligns with Agile principles. However, it primarily focuses on specific practices related to backlog management rather than the broader Agile philosophy.",
+    "level": "Secondary"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-13T18:05:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses backlog management and the challenges of hierarchical structures in agile environments, which relates to technical leadership principles. However, it primarily focuses on backlog management techniques rather than directly addressing broader themes of technical leadership.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-13T18:05:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices without a clear focus on digital transformation or the strategic use of digital technologies for business transformation.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-13T18:05:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and technical practices related to Agile methodologies without a clear focus on organisational culture.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-13T18:05:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures in Agile practices, without any mention of Test First Development or related testing methodologies.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-13T18:05:43",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the importance of managing backlogs effectively and hints at coaching and mentoring programmes to help teams improve their practices, but the primary focus is on backlog management rather than coaching techniques or team development.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-13T18:05:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses backlog management and the issues with hierarchical structures, without a clear focus on scaling Scrum practices or frameworks. It does not address coordination among multiple teams or the challenges of scaling Scrum in large organisations.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-13T18:05:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures, without a clear focus on Cycle Time or its measurement.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-13T18:05:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and the issues with hierarchical structures, focusing on technical implementation rather than team dynamics or motivation.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-13T18:05:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures in Agile methodologies, without a clear focus on Value Stream Mapping or its principles.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-13T18:05:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices, with no focus on deployment methodologies or strategies.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-13T18:05:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices, with no clear focus on Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-13T18:05:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses backlog management and Agile practices, with no clear focus on identifying or resolving technical issues.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-13T18:06:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and the issues with hierarchical structures, focusing on operational tactics rather than long-term strategic objectives.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-13T18:06:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and hierarchical structures in Agile methodologies, without any focus on asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-13T18:06:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses backlog management and the implications of hierarchy in the context of Scrum, making it a major but secondary theme.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-13T18:06:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Azure DevOps and its backlog management features, which are relevant to Azure Pipelines, but the primary focus is on backlog hierarchy and management rather than on Azure Pipelines specifically.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-13T18:06:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and hierarchy issues without focusing on validating product ideas through user engagement or testing.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-13T18:06:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and the issues with hierarchical structures, but does not focus on experimentation or hypothesis-driven approaches within Agile workflows.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-13T18:06:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices without addressing large-scale Agile frameworks or enterprise-level strategies.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-13T18:06:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices without addressing scaling agility or organisational-level strategies.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-13T18:06:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and Agile methodologies without a clear focus on release management processes or practices.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-13T18:06:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum methodologies, which are not directly related to system configuration.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-13T18:06:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and hierarchy issues, with no clear focus on frequent software releases or related practices.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-13T18:06:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices without addressing remote working or Agile collaboration in a distributed context.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-13T18:06:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures, without a clear focus on continuous learning principles or practices.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-13T18:06:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses backlog management and hierarchy issues in Agile frameworks, which deviates from core engineering practices like clean code, TDD, or CI/CD.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-13T18:06:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses backlog management and the importance of focusing on value rather than a hierarchical structure, which aligns with Lean principles. However, the primary focus is on Scrum and Kanban practices, making Lean Thinking a secondary theme.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-13T18:06:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and Agile methodologies without a focus on customer retention strategies or user engagement.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-13T18:06:33",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "Content primarily discusses backlog management in an agile context, focusing on the importance of a flat backlog structure and the implications of hierarchical relationships on agile practices.",
+    "level": "Secondary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-13T18:06:35",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses backlog management and the challenges of hierarchical structures within Agile frameworks, particularly Scrum and Kanban. While it primarily focuses on practical issues and tooling, it does reference Agile principles and the importance of value delivery, making Agile frameworks a significant theme.",
+    "level": "Secondary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-13T18:06:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses backlog management and Scrum practices, which are not directly related to engineering excellence or software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-13T18:06:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices, which are not directly related to entrepreneurship principles or practices.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-13T18:06:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the management of product backlogs within a Scrum framework, focusing on the importance of backlog ordering, the implications of hierarchy, and techniques for effective backlog management.",
+    "level": "Secondary"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-13T18:06:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses backlog management and the issues with hierarchical structures in Agile methodologies, without a focus on hypothesis formulation, experimentation, or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-13T18:06:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses backlog management and Scrum practices without reference to Lean Startup principles, MVPs, or iterative learning processes.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-13T18:06:49",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the management of backlogs, specifically addressing the issues with hierarchical structures in backlog management and advocating for a flat list approach. It covers the importance of ordering backlog items based on value rather than a parent-child relationship, which aligns closely with the key topics of the Product Backlog category.",
+    "level": "Secondary"
   }
 }

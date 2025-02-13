@@ -40,12 +40,11 @@ card:
   content: Discover more about "Sprint Review
   title: 'Sprint Review #1'
 categories:
-- Discovery and Learning
 - People and Process
+- Product Delivery
 - Transparency and Accountability
 tags:
 - Agile Transformation
-- Continuous Learning
 - Customer Feedback Loops
 - Decision Making
 - Increment
@@ -57,6 +56,7 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Sensemaking
 - Software Developers
 - Software Development
 - Sprint Review

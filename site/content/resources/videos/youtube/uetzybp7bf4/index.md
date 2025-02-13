@@ -26,10 +26,10 @@ tags:
 - Agile Leadership
 - Agile Philosophy
 - Agile Strategy
+- Agile Values and Principles
 - Change Management
 - Continuous Learning
 - Decision Making
-- Evidence Based Management
 - Lean Product Development
 - Operational Practices
 - Organisational Culture
@@ -49,9 +49,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Decision Theory
+- Discovery and Learning
 - People and Process
-- Value Delivery
+- Transparency and Accountability
 
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.

@@ -32,27 +32,30 @@ card:
   content: Discover more about The Evidence-Based Management Guide
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
 categories:
-- Value Delivery
 - Metrics and Learning
-- Organisational Agility
-- Discovery and Learning
-- Complexity Thinking
-tags:
-- Evidence Based Management
-- Strategic Goals
-- Agile Planning
-- Customer Satisfaction
-- Ability to Innovate
-- Continuous Improvement
-- Experimentation
-- Value Stream Management
-- Agile Product Management
-- Decision Theory
-- Business Agility
-- Agile Product Discovery
-- Lean Thinking
-- Agile Leadership
+- People and Process
 - Value Delivery
+tags:
+- Ability to Innovate
+- Agile Frameworks
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Decision Making
+- Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Hypothesis Driven Development
+- Operational Practices
+- Organisational Change
+- Pragmatic Thinking
+- Product Management
+- Product Strategy
+- Professional Scrum
+- Revenue per Employee
+- Software Development
+- Strategic Goals
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

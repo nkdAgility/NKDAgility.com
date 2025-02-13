@@ -45,14 +45,14 @@ tags:
 - Organisational Change
 - Organisational Culture
 - Product Management
-- Software Developers
+- Software Development
 - Team Performance
 - Working Software
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - Business Agility
+- People and Process
 - Product Delivery
 
 ---

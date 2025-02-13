@@ -39,7 +39,7 @@ tags:
 - Empirical Process Control
 - Operational Practices
 - Organisational Change
-- Pragmatic Thinking
+- Organisational Physics
 - Self Organisation
 - Software Developers
 - Software Development
@@ -51,9 +51,9 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Agile Product Management
 - Business Agility
 - People and Process
+- Value Delivery
 
 ---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword—it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.

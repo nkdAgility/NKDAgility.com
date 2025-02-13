@@ -38,18 +38,16 @@ card:
   content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
   title: Sprint Review Recipe
 categories:
-- Metrics and Learning
-- People and Process
 - Practical Techniques and Tooling
+- Product Delivery
+- Value Delivery
 tags:
-- Agile Planning
+- Agile Frameworks
 - Agile Project Management
 - Customer Feedback Loops
 - Decision Making
 - Empirical Process Control
-- Forecasting
 - Increment
-- Operational Practices
 - Pragmatic Thinking
 - Product Backlog
 - Product Management
@@ -58,10 +56,12 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Software Developers
 - Software Development
 - Sprint Review
 - Team Collaboration
-- Transparency
+- Team Performance
+- Working Software
 
 ---
 When designing a flow for an event, it is hugely important to be clear on the purpose. For the Sprint Review, the purpose is to inspect the increment that was created during the Sprint as well as to adapt the Product Backlog based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.

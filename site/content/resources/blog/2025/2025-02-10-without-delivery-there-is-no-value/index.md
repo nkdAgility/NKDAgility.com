@@ -24,7 +24,7 @@ aliasesFor404:
 tags:
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
+- Agile Planning
 - Agile Strategy
 - Agile Transformation
 - Continuous Delivery

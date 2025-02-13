@@ -36,9 +36,9 @@ card:
   content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
   title: Sprint Planning Recipe
 categories:
-- Agile Product Management
 - People and Process
 - Practical Techniques and Tooling
+- Product Delivery
 tags:
 - Agile Frameworks
 - Agile Planning

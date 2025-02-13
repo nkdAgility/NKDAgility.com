@@ -24,9 +24,9 @@ duration: 501
 isShort: false
 tags:
 - Ability to Innovate
+- Agile Project Management
 - Continuous Learning
 - Decision Making
-- Empirical Process Control
 - Engineering Excellence
 - Evidence Based Leadership
 - Evidence Based Management

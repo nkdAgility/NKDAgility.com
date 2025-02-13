@@ -33,7 +33,6 @@ tags:
 - Agile Planning
 - Agile Project Management
 - Agile Transformation
-- Agile Values and Principles
 - Empirical Process Control
 - Increment
 - Operational Practices
@@ -42,6 +41,7 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Software Developers
 - Software Development
 - Team Collaboration
 - Team Performance

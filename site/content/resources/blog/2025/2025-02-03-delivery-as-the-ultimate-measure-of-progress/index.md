@@ -33,7 +33,6 @@ tags:
 - Deployment Frequency
 - Empirical Process Control
 - Engineering Practices
-- Frequent Releases
 - Increment
 - Operational Practices
 - Pragmatic Thinking
@@ -43,6 +42,7 @@ tags:
 - Scrum Team
 - Software Developers
 - Software Development
+- Strategy
 - Team Performance
 - Working Software
 categories:

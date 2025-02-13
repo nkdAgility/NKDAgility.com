@@ -58,8 +58,8 @@ card:
   content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
   title: The Scrum Guide
 categories:
-- Agile Product Management
 - People and Process
+- Product Delivery
 - Transparency and Accountability
 tags:
 - Agile Frameworks

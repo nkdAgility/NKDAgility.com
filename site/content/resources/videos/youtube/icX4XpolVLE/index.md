@@ -21,14 +21,33 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: false
-tags: []
+tags:
+- Ability to Innovate
+- Agile Philosophy
+- Continuous Delivery
+- Continuous Learning
+- Digital Transformation
+- Engineering Excellence
+- Engineering Practices
+- Experimentation
+- Operational Practices
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Team Collaboration
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Metrics and Learning
+- People and Process
 
 ---
 When I first encountered DevOps as a developer at Merrill Lynch, I was already well-acquainted with the frustrations that led to its creation. My journey began in the early 2000s, working for what were then called New Media agencies—essentially web development companies. Back then, we were doing everything wrong. We deployed directly from our local machines and edited in production. Continuous integration was a concept that was just beginning to gain traction, but most of us were blissfully unaware of its potential. 

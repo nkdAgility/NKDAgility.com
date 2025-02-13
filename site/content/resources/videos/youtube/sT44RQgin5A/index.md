@@ -51,7 +51,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Agile Product Management
+- Discovery and Learning
 - Metrics and Learning
 - Value Delivery
 

@@ -24,8 +24,8 @@ card:
   title: The Importance of Batch to Optimise Flow
 categories:
 - Events and Presentations
-- Flow Efficiency
 - People and Process
+- Practical Techniques and Tooling
 tags:
 - Agile Frameworks
 - Agile Project Management

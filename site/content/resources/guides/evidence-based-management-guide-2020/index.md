@@ -35,23 +35,30 @@ card:
 aliases:
 - /resources/Rv0ZjvwYVy5
 categories:
-- Decision Theory
-tags:
-- Evidence Based Management
-- Strategic Goals
-- Agile Planning
-- Customer Satisfaction
+- Discovery and Learning
+- Metrics and Learning
 - Value Delivery
-- Experimentation
+tags:
 - Ability to Innovate
-- Continuous Improvement
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Customer Satisfaction
 - Decision Making
-- Agile Product Management
-- Business Agility
-- Value Stream Management
-- Agile Product Discovery
-- Lean Thinking
 - Empirical Process Control
+- Evidence Based Leadership
+- Evidence Based Management
+- Experimentation
+- Hypothesis Driven Development
+- Lead Time
+- Operational Practices
+- Organisational Change
+- Pragmatic Thinking
+- Product Management
+- Product Strategy
+- Revenue per Employee
+- Strategic Goals
+- Strategy
 
 ---
 Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information

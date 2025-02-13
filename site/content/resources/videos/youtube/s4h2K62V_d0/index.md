@@ -40,9 +40,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Code and Complexity
 - DevOps
-- People and Process
-- Technical Excellence
+- Product Delivery
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

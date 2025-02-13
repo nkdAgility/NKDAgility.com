@@ -49,9 +49,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Azure DevOps
+- Product Delivery
 - Technical Excellence
+- Value Delivery
 
 ---
 In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As Scrum and Agile practitioners, we often discuss the importance of technical excellence, but it's more than just a concept—it's the cornerstone of risk mitigation and successful product delivery. Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.

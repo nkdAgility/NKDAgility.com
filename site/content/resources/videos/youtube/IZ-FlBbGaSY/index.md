@@ -48,8 +48,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Practical Techniques and Tooling
 - Product Delivery
-- Technical Excellence
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

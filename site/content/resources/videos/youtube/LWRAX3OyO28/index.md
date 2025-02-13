@@ -47,8 +47,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Product Delivery
 - Technical Excellence
-- Value Delivery
 
 ---
 If you're venturing into the realm of continuous delivery, you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the DevOps framework. 

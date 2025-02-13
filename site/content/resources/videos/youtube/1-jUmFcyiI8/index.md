@@ -24,7 +24,6 @@ duration: 551
 isShort: false
 tags:
 - Ability to Innovate
-- Agile Transformation
 - Continuous Delivery
 - Continuous Integration
 - Continuous Learning
@@ -33,7 +32,6 @@ tags:
 - Deployment Frequency
 - Engineering Excellence
 - Engineering Practices
-- Experimentation
 - Lead Time
 - Lean Product Development
 - Lean Startup
@@ -42,6 +40,8 @@ tags:
 - Product Management
 - Product Strategy
 - Product Validation
+- Release Management
+- Software Developers
 - Software Development
 resourceTypes:
 - video

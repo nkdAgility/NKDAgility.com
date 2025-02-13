@@ -32,7 +32,9 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management
+- Agile Strategy
 - Agile Transformation
+- Continuous Learning
 - Empirical Process Control
 - Increment
 - Pragmatic Thinking
@@ -40,9 +42,12 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Self Organisation
+- Software Developers
 - Software Development
 - Team Collaboration
 - Team Performance
+- Technical Leadership
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

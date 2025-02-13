@@ -17,26 +17,24 @@ aliasesFor404:
 - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 categories:
-- Discovery and Learning
 - Agile Product Management
-- People and Process
-- Value Delivery
-- Scrum
+- Discovery and Learning
+- Products and Books
 tags:
-- Agile Product Discovery
-- Agile Product Validation
-- Team Collaboration
+- Agile Project Management
 - Customer Feedback Loops
-- Scrum Product Management
-- Professional Scrum
+- Customer Satisfaction
+- Experimentation
+- Hypothesis Driven Development
+- Lean Startup
+- MVP
+- Pragmatic Thinking
 - Product Discovery
-- Agile Planning
-- Continuous Improvement
-- Team Motivation
-- Agile Leadership
-- Lean Product Development
-- Agile Software Development
-- Agile Values and Principles
+- Product Management
+- Product Strategy
+- Product Validation
+- Scrum Product Development
+- Team Collaboration
 
 ---
 **Dear Innovators and Product Enthusiasts,**

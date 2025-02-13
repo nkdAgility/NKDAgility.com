@@ -34,6 +34,7 @@ tags:
 - Hypothesis Driven Development
 - Lean Product Development
 - Lean Startup
+- Lean Startup
 - Pragmatic Thinking
 - Product Discovery
 - Product Management

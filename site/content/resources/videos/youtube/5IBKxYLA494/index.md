@@ -20,7 +20,27 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Planning Tools
+- Agile Project Management
+- Azure Boards
+- Backlog Refinement
+- Cycle Time
+- Increment
+- Pragmatic Thinking
+- Product Backlog
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Team Performance
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +48,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Product Delivery
 
 ---
 As your DevOps was built for agile teams by agile teams, there are numerous ways to leverage it to support your agile practices. Today, I want to share how to use Azure DevOps to enhance your Scrum process, drawing insights from Scrum.org and the teams at Microsoft who developed it. My focus will be on integrating the Scrum framework with value-focused, hypothesis-driven, flow-based practices.
