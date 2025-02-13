@@ -1,6 +1,6 @@
 ---
-title: Kanban with Azure DevOps
-description: Unlock Kanban's potential with Azure DevOps! Join Martin Hinshelwood for expert tips on enhancing workflow and collaboration in hybrid environments.
+title: 'Mastering Caman Strategy: How to Leverage Azure DevOps for Effective Visualisation in Hybrid Work Environments'
+description: Unlock the power of Azure DevOps to enhance your Caman strategy! Discover how to visualise workflows and establish shared rules for effective team collaboration.
 date: 2024-03-29T16:42:17Z
 ResourceId: jCrXzgjxcEA
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
 slug: kanban-with-azure-devops
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=jCrXzgjxcEA
 aliases:
 - /resources/videos/jCrXzgjxcEA
 - /resources/videos/kanban-with-azure-devops
@@ -37,7 +36,7 @@ tags:
 - Strategy
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -47,32 +46,48 @@ categories:
 - Practical Techniques and Tooling
 
 ---
- Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency.
+Creating an effective Caman strategy is no small feat, especially in our current hybrid work environment. As we navigate this new landscape, the need for digital tools to share our visualisations has never been more critical. One such tool that I find invaluable is Azure DevOps. Today, I want to share my insights on how to leverage Azure DevOps to visualise your work as part of a Caman strategy.
 
-Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
+As the owner and principal consultant at Naked Agility, I’ve spent years honing my skills as a professional Scrum trainer with Scrum.org and a Kanban trainer with Pro Kanban. My experience as a Microsoft MVP in GitHub and Azure DevOps has further deepened my understanding of these tools and their applications.
 
-Welcome to our comprehensive guide on how to leverage Kanban within Azure DevOps, hosted by Martin Hinshelwood, a seasoned expert in Scrum, Kanban, and Agile methodologies. With over 15 years as a Microsoft MVP in Github and Azure DevOps, Martin brings a wealth of knowledge and experience to those looking to optimize their software development processes in a hybrid work environment.
+### The Importance of Digital Tools
 
-In this video, we delve deep into the essentials of creating and managing an effective Kanban board for software teams using Azure DevOps. Whether you're new to Kanban or seeking to refine your existing strategy, this tutorial is tailored to help you visualize your work more effectively and foster a stable, productive system amidst the challenges of remote collaboration.
+Since the pandemic, many teams have shifted away from physical offices. Even when we are in the office, not everyone is present at the same time. This absence of a physical wall or meeting room to display our work visually has made digital tools essential. Azure Boards, in particular, provides a robust platform for managing and visualising our work.
 
-Key Takeaways:
-00:00:01 Introduction to Kanban in Hybrid Work Environments
-00:02:46 Setting Up Your First Azure DevOps Kanban Board
-00:04:51 Customizing Cards for Enhanced Visibility
-00:05:57 Managing Work Item States for Clarity
-00:07:50 Visualizing Workflow for Optimal Management
-00:10:03 Advanced Azure DevOps Board Customizations
+### Understanding Caman Strategy
 
-NKDAgility can help!
+Before diving into the specifics of Azure DevOps, it’s crucial to grasp that a Caman strategy extends beyond merely using a tool. It thrives in a stable system where everyone adheres to the same rules. However, the reality is that most of us operate in environments where individual choices can disrupt the overall system. 
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to optimise your Kanban workflow with Azure DevOps, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+#### Why Don't We Share Our Choices?
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+Often, we fail to recognise the significance of sharing our decisions. Those seemingly minor choices—like which item to pull or not—can have a profound impact on the entire system. We often create local optimisations that inadvertently harm the larger workflow.
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
-_Sign up for one of our mentor programs: https://nkdagility.com/global-consultancy-services/product-development-mentor-program/_
+### Establishing Shared Rules
 
-Because you dont just need agility, you need Naked Agility.
+To address this, I recommend gathering all participants involved in the workflow to collaboratively establish the rules they will follow. This doesn’t need to be perfect from the outset; you can adapt and refine these rules as you learn more about their impact. Starting with a rough workflow is perfectly acceptable, and you can enhance it over time.
 
-#KanbanBoard, #AzureDevOps, #VisualManagement, #WorkInProgress, #LeadTime #Kanban 
- [Watch on Youtube](https://www.youtube.com/watch?v=jCrXzgjxcEA)
+### Setting Up Your Caman Board in Azure DevOps
+
+Now, let’s explore how to create a Caman board for a typical software team in Azure DevOps. Here’s a step-by-step guide to managing your cards, customising your columns, and visualising your workflow.
+
+1. **Accessing Azure DevOps**: Start by navigating to your Azure DevOps environment. You’ll find the boards and backlog options on the left-hand side, which are essential for both Caman and Scrum teams.
+
+2. **Customising Your Board**: Click on the boards section to view your pre-set board. Here, you can customise the columns without altering the underlying work item states. This flexibility allows multiple teams to work within the same Azure DevOps project while maintaining distinct column configurations.
+
+3. **Understanding Work Item States**: Familiarise yourself with the work item states based on the process you’ve selected—be it Agile, Scrum, or CMMI. For instance, the Scrum process typically flows from new to approved, committed, and done.
+
+4. **Managing Work Items**: As you manage your work items, remember that Azure DevOps tracks lead time and cycle time. Lead time starts when an item is added to the system, while cycle time begins when work is actively in progress.
+
+5. **Visualising Your Workflow**: Set up your columns to reflect your workflow stages—inventory, backlog, discovery, development, validation, and done. This visual representation helps the team understand where each item stands in the process.
+
+6. **Configuring Columns and Swim Lanes**: You can configure your columns to include specific states and set work-in-progress (WIP) limits. Additionally, if you have different classes of service, consider adding swim lanes to differentiate between them.
+
+### Customising Cards and Fields
+
+Azure DevOps allows you to customise the information displayed on your cards. You can add fields, style rules, and annotations to ensure that the most relevant information is easily accessible. However, be cautious not to overcrowd your cards with too much information, as this can hinder clarity.
+
+### Conclusion
+
+Implementing a Caman strategy using Azure DevOps can significantly enhance your team's ability to visualise and manage work effectively. By establishing shared rules, customising your board, and understanding the flow of work, you can create a more efficient and transparent workflow.
+
+If you’re struggling to understand your systems or how work flows through them, Naked Agility is here to help. We specialise in assisting companies that build software to improve their processes. Don’t hesitate to reach out for support in minimising waste and optimising your workflow. Let’s work together to enhance your agility and effectiveness in this ever-evolving landscape.

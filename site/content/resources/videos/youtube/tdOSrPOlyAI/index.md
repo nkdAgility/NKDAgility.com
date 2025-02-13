@@ -1,6 +1,6 @@
 ---
-title: NKD Agility. Your Partner in Engineering Excellence
-description: Unlock engineering excellence with NKD Agility! Join Martin Hinshelwood as he explores quality, accountability, and technical leadership for your organisation.
+title: 'Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership'
+description: Transform your engineering practices with naked agility! Discover how to enhance quality, build trust, and foster technical leadership in your organisation.
 date: 2024-11-30T06:00:00Z
 ResourceId: tdOSrPOlyAI
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: nkd-agility-your-partner-in-engineering-excellence
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=tdOSrPOlyAI
 aliases:
 - /resources/videos/tdOSrPOlyAI
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
@@ -33,7 +32,7 @@ tags:
 - Technical Mastery
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -42,38 +41,37 @@ categories:
 - Value Delivery
 
 ---
- # Partnering for Engineering Excellence and Technical Leadership | Martin Hinshelwood  
+Naked agility can be a transformative partner in fostering engineering excellence and cultivating technical leadership within your organisation. Over the past few videos, I’ve delved into various aspects of this journey, and today, I want to share some insights that I believe are crucial for anyone looking to elevate their engineering practices.
 
-👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I wrap up our series on **engineering excellence** and **technical leadership** by discussing how Naked Agility can be your partner in achieving these goals. From addressing poor-quality products to shifting left across all aspects of development, I’ll show you how building a culture of quality and accountability can unlock value for your customers and your organization.
+### The Cost of Poor Quality
 
-**📌 Chapters:**  
-1. 00:00 – Introduction: Why Engineering Excellence Matters  
-2. 02:30 – The High Cost of Poor-Quality Products  
-3. 05:00 – Shifting Left: Building Skills and Capabilities in Teams  
-4. 08:45 – Managing vs. Paying Back Technical Debt  
-5. 12:00 – Creating a Culture of Quality and Transparency  
-6. 15:30 – How Naked Agility Can Help You Achieve Engineering Excellence  
+Let’s start with a fundamental truth: the high cost of bad quality. We’ve all encountered products that fall short of expectations—poor quality products can severely damage your brand’s reputation. Customers are less likely to engage with a product they perceive as subpar. This perception can linger long after the product has been improved or replaced. 
 
-**🎯 Who This Video is For:**  
-- Organizations seeking to elevate their engineering teams  
-- Engineering leaders and teams aiming to improve quality and reduce technical debt  
-- Product owners focused on aligning engineering practices with customer value  
-- Businesses ready to invest in a culture of excellence and accountability  
+- **Brand Recognition**: A poor-quality product can tarnish your brand image, making it essential to prioritise quality from the outset.
+- **Customer Trust**: Building trust with your customers hinges on delivering consistent, high-quality experiences.
 
-**📖 What You’ll Learn:**  
-- The hidden costs of poor-quality products, from brand damage to customer loss  
-- The importance of shifting left in areas like testing, user experience, security, and architecture  
-- Why paying back technical debt is more effective than managing it  
-- How transparency and accountability contribute to a culture of quality  
-- How Naked Agility supports organizations in creating value through engineering excellence  
+### Shifting Left: A Holistic Approach
 
-**💡 Key Takeaways:**  
-- Poor quality products damage your brand and cost more than you think.  
-- Shifting left empowers engineering teams to make better decisions earlier.  
-- Technical debt must be addressed transparently to foster continuous improvement.  
-- A culture of quality starts with technical leadership and shared accountability.  
+In our discussions, we’ve emphasised the importance of shifting left—not just in testing and test automation, but across the entire development lifecycle. This means integrating various components early in the process:
 
-At [NKD Agility](https://www.nkdagility.com), we specialize in helping organizations build technical leadership and engineering excellence to deliver better value to their customers. Let’s work together to create the systems, culture, and practices that enable your success. Visit us today to learn more!  
+- **Continuous Integration and Delivery**: These practices ensure that code changes are automatically tested and deployed, reducing the risk of integration issues later on.
+- **User Experience**: By considering user experience from the beginning, we can create products that truly resonate with our audience.
+- **Security and Architecture**: Incorporating security measures and architectural considerations early helps mitigate risks and fosters a more robust product.
 
-#softwaredevelopment #softwareengineering #developer #agile #productdevelopment #productmanagement #projectmanagement #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster 
- [Watch on Youtube](https://www.youtube.com/watch?v=tdOSrPOlyAI)
+All these elements need to be closely aligned with the engineering teams making the decisions. It’s about empowering those who are doing the work to take ownership of quality and excellence.
+
+### Addressing Technical Debt
+
+One of the most significant challenges we face in software development is technical debt. It’s not enough to simply manage it; we must actively pay it back. Here’s how we can approach this:
+
+- **Own Up to Mistakes**: When we encounter technical debt, we need to acknowledge it openly. Transparency is key to building a culture of trust and accountability.
+- **Create a Culture of Quality**: By fostering an environment where quality is paramount, we encourage teams to take pride in their work and strive for excellence.
+
+### Value Creation as Our Purpose
+
+Ultimately, our purpose is to create value for our customers. Naked agility can facilitate this by building the technical leadership and engineering excellence necessary for effective value creation. Here’s what you can do to harness this potential:
+
+- **Invest in Skills Development**: Equip your teams with the skills and capabilities they need to excel.
+- **Encourage Collaboration**: Foster a collaborative environment where all team members feel empowered to contribute to quality and innovation.
+
+In conclusion, embracing naked agility is not just about adopting new practices; it’s about instilling a mindset that prioritises quality, transparency, and continuous improvement. By doing so, we can create products that not only meet but exceed customer expectations, ultimately driving success for our organisations. Let’s commit to this journey together, and I assure you, the rewards will be well worth the effort.

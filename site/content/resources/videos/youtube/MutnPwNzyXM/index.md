@@ -1,6 +1,6 @@
 ---
-title: Most valuable lesson you learned as an agile consultant
-description: Discover the key lesson Martin Hinshelwood learned transitioning from agile practitioner to consultant, enhancing team collaboration and performance.
+title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
+description: Unlock the secret to client satisfaction! Discover why focusing on real needs, not just the SoW, is key to delivering lasting value in consulting.
 date: 2023-06-22T07:00:15Z
 ResourceId: MutnPwNzyXM
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: MutnPwNzyXM
 url: /resources/videos/:slug
 slug: most-valuable-lesson-you-learned-as-an-agile-consultant
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=MutnPwNzyXM
 aliases:
 - /resources/videos/MutnPwNzyXM
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
@@ -25,28 +24,44 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories: []
 
 ---
- Making the transition from #agilepractitioner to #agileconsultant can be tough, mainly because you are now working with teams of #agile teams rather than your own work, or team environment.
+As an agile consultant, I've learned a multitude of lessons over the years, but one stands out above the rest: the statement of work (SoW) often bears little resemblance to the actual problems my clients face. This insight transcends the realm of agile consulting; it applies to any consulting role. 
 
-It is a steep learning curve and significantly increases your knowledge, understanding, and capability with #agile and #scrum. In this short video, Martin Hinshelwood talks about the single most valuable lesson he has learned as an #agileconsultant.
+### The Disconnect Between SoW and Client Needs
 
-About NKD Agility
+In my experience, the primary focus for many consultants is to deliver on the SoW. It’s a straightforward approach: "Here’s the contract, and this is what we need to do." However, I’ve found that this can lead to a losing proposition. Delivering exactly what’s outlined in the SoW can result in unhappy clients because, more often than not, it doesn’t address their real needs. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+- **Unmet Needs**: Clients may receive what they asked for, but if it doesn’t bring about systemic, lasting change, they’re left feeling dissatisfied. 
+- **Temporary Solutions**: Without addressing the core issues, organisations often revert to their old ways as soon as the consultant leaves.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+### A Personal Anecdote
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Let me share a personal experience that illustrates this point. I was on a train in England, and the Wi-Fi was utterly horrendous. Frustrated, I tweeted the train company to express my dissatisfaction. Their response? "We’re not contractually obligated to provide Wi-Fi." 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+This response epitomises the pitfalls of rigidly adhering to a contract. It’s a classic case of missing the forest for the trees. The company was so focused on the letter of the contract that they neglected the spirit of customer service. 
 
-We would love to work with you. 
+### Rethinking Contracts
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=MutnPwNzyXM)
+This experience has shaped my approach to contracts. I often prefer to work without formal contracts, opting instead for a more flexible arrangement. Here’s how I typically operate:
+
+- **Variable Contracts**: I use what I call an "email contract." It’s simple: "Can you help us out?" "Yes, I can." "What dates?" "These dates." That’s enough for me to book my flights and get to work.
+- **Trust Over Formality**: This approach has served me well, especially with larger clients who often come with their own contracts. I assume an NDA for every engagement, but I prefer to maintain a level of flexibility that allows me to adapt to the client’s needs on the ground.
+
+### Delivering Value Beyond the SoW
+
+The key takeaway here is that delivering value should be the primary goal, not merely fulfilling the terms of a contract. I strive to provide enough value that my clients feel confident in saying, "Yes, Martin delivered." 
+
+- **Focus on Relationships**: Building a relationship with clients allows for a more dynamic and adaptive approach. When you understand their needs, you can deliver solutions that truly matter.
+- **Value-Driven Engagement**: By prioritising value over contractual obligations, I ensure that my clients receive the support they need, even if it diverges from the original SoW.
+
+### Conclusion
+
+In conclusion, the most valuable lesson I’ve learned as a consultant is to focus on the real needs of my clients rather than the constraints of a contract. By fostering relationships and delivering genuine value, I can help organisations achieve lasting change. 
+
+If you found this insight helpful, I encourage you to engage with me. Whether you want to discuss agile, scrum, or DevOps, feel free to book a coffee chat through Naked Agility. I always welcome the opportunity to connect and share ideas.

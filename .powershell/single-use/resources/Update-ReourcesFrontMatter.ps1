@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Information'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\"
+$outputDir = ".\site\content\resources\videos"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
@@ -40,8 +40,11 @@ $resourceTypeCounts = @{}
 $Counter = 0
 
 
+$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.Contains('canonicalURL') }
+
+
 $TotalItems = $hugoMarkdownFiles.Count
-$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
+#$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
 Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
 $TotalItems = $hugoMarkdownFiles.Count
 $hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.draft -ne $true }
@@ -177,15 +180,45 @@ foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
                 $BodyContent = Get-Content $captionsPath -Raw
             }
         }
-        #-----------------Categories-------------------
-        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
-        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
-        #-----------------Tags-------------------
-        $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20
-        $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
+        # #-----------------Categories-------------------
+        # $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
+        # $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
+        # #-----------------Tags-------------------
+        # $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20
+        # $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
 
+    }
+    # =================COMPLETE===================
+    # =================CONTENT===================
+    switch ($ResourceType) {
+        "blog" { 
+           
+        }
+        "podcast" { 
+                
+        }
+        "videos" { 
+            if ($hugoMarkdown.FrontMatter.Contains('canonicalURL')) {
+                if ( (Test-Path (Join-Path $hugoMarkdown.FolderPath "index.captions.en.md" ))) {
+                    $transcript = Get-Content -Path (Join-Path $hugoMarkdown.FolderPath "index.captions.en.md" ) -Raw
+                    $content = Get-NewPostBasedOnTranscript -ResourceTranscript $transcript
+                    $newTitle = Get-NewTitleBasedOnContent -Content $content
+                    $newDescription = Get-NewDescriptionBasedOnContent -Content $content
+                    If ($content -ne $null) {
+                        $hugoMarkdown.BodyContent = $content
+                        Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl'
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'title' -fieldValue $newTitle -Overwrite
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $newDescription -Overwrite
+                        $hugoMarkdown.FrontMatter.sitemap.priority = 0.6
+                    }
+                }
+            }
+        }
+        default { 
+                
+        }
     }
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath

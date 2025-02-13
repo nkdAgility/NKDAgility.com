@@ -1,6 +1,6 @@
 ---
-title: Judgement! 7 Harbingers agile apocalypse. But shorter!
-description: Discover how informed judgement shapes your agile journey! Join Martin Hinshelwood as he uncovers the pitfalls of poor decision-making.
+title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
+description: Discover how judgment in Agile can hinder team dynamics and innovation. Learn strategies to foster a supportive culture and enhance collaboration.
 date: 2023-11-01T11:30:27Z
 ResourceId: xk11NhTA_V8
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: xk11NhTA_V8
 url: /resources/videos/:slug
 slug: judgement!-7-harbingers-agile-apocalypse-but-shorter!
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=xk11NhTA_V8
 aliases:
 - /resources/videos/xk11NhTA_V8
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
@@ -25,31 +24,41 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories: []
 
 ---
- If you're fortunate, your journey to wisdom and excellence is informed by learning, coaching, and mentoring. In other words, your judgement is informed by experts who help guide you through the maze and onto solid ground.
+In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold. 
 
-Full video: https://youtu.be/FdQpGx-FW-0
+### The Many Faces of Judgment
 
-For most people, it's a journey from poor judgement and heaps of mistakes to learning through those trials until you stop making silly mistakes and your judgement improves.
+Judgment can manifest in various forms, often cloaked in the guise of rules and metrics that teams feel compelled to follow. Here are some common examples:
 
-In this short video, Martin Hinshelwood explores Judgement in the context of #agile and why it can be a sign of disaster down the road.
+- **Velocity Metrics**: Teams are often judged based on their velocity, which can lead to unhealthy competition and stress. If your velocity doesn't meet someone else's expectations, it can create a sense of failure.
+  
+- **Bug Counts**: The number of bugs in your code can become a point of contention. Teams may feel judged for having too many bugs, which can stifle innovation and risk-taking.
 
-About Naked Agility
+- **Code Volume**: Whether you’re writing too many or too few lines of code, there’s often someone ready to pass judgment. This can lead to a focus on quantity over quality, which is counterproductive.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+These judgments can have a profound impact on team dynamics, fostering an environment of fear rather than one of collaboration and growth.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+### The Importance of Goals and Metrics
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+To navigate this landscape, it’s crucial to set clear goals and create metrics that genuinely reflect progress towards those goals. However, we must remain vigilant. If the metrics we establish lead to negative behaviours—such as fear of failure or a lack of innovation—it's time to reassess and adapt them. 
 
-We would love to work with you. 
+Here are some strategies to consider:
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=xk11NhTA_V8)
+- **Focus on Outcomes, Not Outputs**: Shift your attention from merely counting lines of code or bugs to understanding the value delivered to the customer. This can help align the team’s efforts with the broader goals of the organisation.
+
+- **Encourage Open Dialogue**: Create a culture where team members feel safe discussing challenges and setbacks without fear of judgment. This openness can lead to more effective problem-solving and innovation.
+
+- **Iterate on Metrics**: Just as we iterate on our products, we should also iterate on our metrics. Regularly review and adjust them to ensure they support a positive and productive team environment.
+
+### Moving Forward
+
+As we continue to embrace Agile methodologies, let’s be mindful of the judgments we impose—both on ourselves and on our teams. By fostering a culture of support and understanding, we can mitigate the negative impacts of judgment and create an environment where agility can truly thrive.
+
+If you found this discussion valuable, I encourage you to engage with me further. Whether you want to chat about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Your thoughts and comments are always welcome, and I look forward to hearing from you!

@@ -1,6 +1,6 @@
 ---
-title: 5 October 2023 Product Ownership and Lean Product Development Workshop with Martin and Joanna
-description: "Join experts Joanna Płaskonka and Martin Hinshelwood in this 18-minute workshop to explore Product Ownership and Lean Product Development! \U0001F31F"
+title: 'Unlocking Success: How Lean Product Development Transforms Decision-Making and Value Creation'
+description: Discover how lean product development can enhance decision-making, minimise risks, and create value. Join our workshop for insights and real-world applications!
 date: 2023-09-28T08:29:48Z
 ResourceId: IFX3SRUlunc
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: 5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=IFX3SRUlunc
 aliases:
 - /resources/videos/IFX3SRUlunc
 - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
@@ -26,15 +25,40 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories: []
 
 ---
- 🌟 Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development! 🌟
+Over the past 18 months, I've noticed a significant uptick in interest and inquiries surrounding lean product development, particularly in the context of product ownership. This shift is not just a passing trend; it reflects a deeper desire within our industry to refine our decision-making processes regarding what we build. 
 
-Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and Lean Product Development.
+### The Driving Force Behind Lean Product Development
 
-Register at https://events.teams.microsoft.com/event/cc8555b2-77cc-466b-bf8a-1375f89873fd@686c55d4-ab81-4a17-9eef-6472a5633fab 
- [Watch on Youtube](https://www.youtube.com/watch?v=IFX3SRUlunc)
+So, what’s driving this surge in interest? I believe it stems from a collective recognition that we need to improve our ability to make informed choices about our products. Here are a few key factors contributing to this movement:
+
+- **Better Decision-Making**: There’s a growing emphasis on making the right bets. We want to ensure that the products we develop align with our customers' needs and market demands.
+- **Minimising Risks**: By adopting hypothesis-driven engineering practices, we can significantly reduce the chances of investing time and resources into the wrong projects.
+- **Value Creation**: Ultimately, the goal is to create more value for less money, leading to a higher return on investment.
+
+### The Importance of Lean Product Development
+
+Lean product development is not just a methodology; it’s a mindset that encourages us to think critically about our processes and outcomes. It’s about understanding the context in which we operate and making strategic decisions that benefit our organisations. 
+
+Joanna and I are excited to delve deeper into this topic in our upcoming workshop on product ownership and lean product management. We’ll spend about 18 minutes sharing insights, followed by a robust 40-minute Q&A session. This is your opportunity to bring your questions, ideas, and experiences to the table. 
+
+### What to Expect from the Workshop
+
+During the workshop, we’ll explore:
+
+- **Defining Lean Product Development**: What does it mean, and how can it be applied in our organisations?
+- **Future Trends**: What does the future hold for lean product development, and why is it crucial for our success?
+- **Real-World Applications**: We’ll discuss practical examples and case studies that illustrate the principles of lean product development in action.
+
+### Why This Matters
+
+In today’s fast-paced environment, organisations can no longer afford to waste resources. Lean product development offers a framework for minimising waste and maximising value. By embracing this approach, we can ensure that our teams are focused on building the right products that meet real customer needs.
+
+I encourage you to join us for this engaging discussion. Together, we can explore how lean product development can transform our approach to product ownership and ultimately lead to more successful outcomes for our organisations. Let’s work towards building a future where we waste less money and create more value. 
+
+I look forward to seeing you there and hearing your thoughts on this vital topic!

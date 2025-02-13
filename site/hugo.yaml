@@ -45,6 +45,7 @@ module:
         - "**/data.yaml"
         - "**/wordpress*"
         - "**/data.*"
+        - "**/index.captions.*.md"
 
 outputFormats:
   json:

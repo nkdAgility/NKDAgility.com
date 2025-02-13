@@ -1,6 +1,6 @@
 ---
-title: The Cost Saving Power of Automation
-description: Discover how automation transforms software development by reducing errors and enhancing efficiency. Learn from Azure DevOps' rapid feedback success!
+title: Why Embracing Automation is Essential for Reducing Human Error in Software Development
+description: Discover how automation transforms software development by minimising human error and enhancing efficiency. Learn why embracing automation is essential for success!
 date: 2024-12-18T06:45:00Z
 ResourceId: sdIPSpbeA9w
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: the-cost-saving-power-of-automation
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=sdIPSpbeA9w
 aliases:
 - /resources/videos/sdIPSpbeA9w
 - /resources/videos/the-cost-saving-power-of-automation
@@ -36,7 +35,7 @@ tags:
 - Test Automation
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -45,45 +44,38 @@ categories:
 - Practical Techniques and Tooling
 
 ---
- Why Automation Is Key to Reducing Mistakes and Maximizing Efficiency in Software Development | Martin Hinshelwood
+Automation is a game changer in the world of software development. It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field. 
 
-In this video, I discuss how automation plays a critical role in reducing human error and improving efficiency in software development. From minimizing the impact of missed steps to closing feedback loops quickly, automation is crucial for building high-quality software faster and more reliably.
+Let me share a couple of stories that illustrate the importance of automation and the pitfalls of relying solely on human execution.
 
-I’ll also share the incredible transformation of Azure DevOps, where they went from a feedback cycle of 48–72 hours to just 3.5 minutes. This kind of automation can make a huge difference in your organization’s ability to deliver high-quality products while saving time and reducing risks.
+### The Human Element in Testing
 
-📌 Chapters:
+Years ago, I had the opportunity to teach a group of testers how to use the Azure DevOps test tools. At that time, the tools were still quite new, and we had a series of workshops and labs designed to help them grasp the concepts. You’d think that testers, whose superpower is following test scripts, would excel at this. After all, they spend considerable time creating these scripts, right?
 
-1. 00:00 – Introduction: The Cost of Human Error in Software Development
-2. 02:30 – The Problem with Manual Processes: Mistakes and Missed Steps
-3. 06:00 – The Importance of Automation in Closing Feedback Loops
-4. 08:45 – The Knight Capital Group Example: How Small Mistakes Can Lead to Huge Losses
-5. 12:00 – Why Fast, Automated Testing Is Crucial for Speed and Accuracy
-6. 16:00 – How Azure DevOps Reduced Feedback Time from 48 Hours to 3.5 Minutes
-7. 18:30 – The Real Cost of Manual Testing and the ROI of Automation
+However, I kept receiving feedback that the labs were faulty. Testers were adamant that they were following the steps correctly, yet the tests were failing. The reality? They were missing steps or clicking the wrong buttons. This wasn’t a reflection of their skills; it was simply a human error. 
 
-🎯 Who This Video is For:
+### A Costly Mistake
 
-• CTOs, engineering managers, and tech leaders looking to implement automated testing
-• Teams working to improve feedback loops and delivery speed
-• Software developers and testers who want to understand the value of fast automation
-• Organizations struggling with manual processes and human error in software development
+On a more commercial note, consider the case of KN Capital Group. They faced bankruptcy due to a deployment error that stemmed from a simple oversight: a person failed to deploy the latest version of their trading software to all servers. With $400 million in the bank at the start of the day, they ended up declaring bankruptcy by the end of it. The cost of human error in this instance was catastrophic.
 
-📖 What You’ll Learn:
+These examples highlight a crucial point: when humans are involved, mistakes are inevitable. This is why automation is not just beneficial; it’s essential.
 
-• How manual processes in software development contribute to human error and inefficiency
-• Why automation is a key to closing feedback loops quickly
-• Real-world examples of how automation improves productivity and quality
-• How Azure DevOps dramatically improved their testing process with automation
-• The cost of manual testing vs. the benefits of automated solutions
+### Embracing Automation
 
-💡 Key Takeaways:
+I often say, "If it can be automated, it should be automated. If it can’t be automated, it should be rearchitected." This philosophy is about closing the feedback loop. Imagine writing a story and submitting it to a publisher, only to wait six months for feedback. By the time you receive it, you’ve moved on to other parts of the story, and now you have to revisit earlier sections with a different mindset. This cognitive load can be overwhelming, and it’s no different in software development.
 
-• Automation helps reduce human error, eliminate mistakes, and improve reliability.
-• Fast feedback loops—automation that runs in minutes, not days—are critical for speed and product quality.
-• The Azure DevOps team dramatically increased their productivity by automating their tests and reducing feedback time from 48 hours to just 3.5 minutes.
-• Automation leads to more features, better quality, and happier customers—all while reducing costs and inefficiencies.
+To mitigate this, we need automation that provides rapid feedback. Ideally, we want tests that run in minutes—if not seconds. The Azure DevOps team faced a similar challenge. Their automated tests took 48 to 72 hours to run, which is far too long. They realised that their testing pyramid was inverted, with too many long-running system tests and not enough fast-running unit tests. 
 
-If you're looking to implement automation to improve your development process, NKD Agility can help. Our expert team will guide you in automating testing, improving feedback loops, and ensuring the highest quality software at faster speeds. Contact us today on https://www.nkdagility.com to start your journey toward automation.
+By flipping that pyramid, they reduced their testing time from days to just three and a half minutes. This is the kind of efficiency we should strive for. 
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=sdIPSpbeA9w)
+### The Cost of Manual Processes
+
+Manual processes are the longest cycle in any development workflow. They are not only time-consuming but also prone to errors. I once worked with an organisation that had an astonishing ratio of testers to coders—600 testers for just 300 coders. Their quality was so poor that they required an excessive amount of manual QA hours to validate any changes. This is simply unsustainable.
+
+Imagine the cost of maintaining such a workforce versus investing in robust automation that can validate software changes quickly and accurately. By embracing automation, you can build more features with higher quality, leading to happier customers and ultimately, greater profitability.
+
+### Conclusion
+
+In conclusion, the path to effective software development lies in embracing automation. It’s not just about speeding up processes; it’s about reducing human error and creating a more reliable workflow. By automating where possible, we can focus on what truly matters—delivering high-quality software that meets the needs of our customers. 
+
+Let’s strive for a future where automation is at the forefront of our development practices, allowing us to innovate and grow without the burden of human error weighing us down.

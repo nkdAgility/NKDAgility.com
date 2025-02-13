@@ -1,6 +1,6 @@
 ---
-title: Referral program. 20% of the course fee credited to your account.
-description: Join our referral program and earn 20% of the course fee! Discover how you can benefit while helping others thrive in agile training.
+title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!'
+description: Unlock a £20 discount for friends and earn rewards with our new Referral Program! Join us in fostering a collaborative learning community today!
 date: 2023-06-15T07:00:06Z
 ResourceId: IXmOAB5e44w
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: IXmOAB5e44w
 url: /resources/videos/:slug
 slug: referral-program-20-of-the-course-fee-credited-to-your-account-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=IXmOAB5e44w
 aliases:
 - /resources/videos/IXmOAB5e44w
 - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
@@ -25,30 +24,43 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories: []
 
 ---
- We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.
+I’m excited to share with you a new initiative that I believe will not only enhance your learning experience but also foster a sense of community within our classes. Introducing the **£20 Referral Program**—a simple yet effective way to reward you for bringing your friends and colleagues along on this journey of growth and development.
 
-So much so, that we've created a referral program that benefits both you and the person you are referring to the tune of 20% of the course fee. That's right, 20%
+### Why a Referral Program?
 
-In this short video, Martin Hinshelwood explains how the referral program works, why it's super popular, and how you can take advantage of it.
+Let’s face it: getting your friends or colleagues to join you in a class can sometimes feel like pulling teeth. We all know the benefits of learning together—sharing insights, collaborating on challenges, and ultimately moving forward as a cohesive unit within our organisations. That’s why I thought it was high time we created a system that encourages this collaborative spirit.
 
-About NKD Agility
+### How It Works
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Here’s the lowdown on how the referral program operates:
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Get Your Code**: Head over to my website, where you can easily obtain your unique referral code.
+- **Share the Love**: Pass this code on to someone you think would benefit from attending a class. When they use it, they’ll receive a **£20 discount** on their class fee.
+- **Earn Rewards**: But it doesn’t stop there! For every person who signs up using your code, you’ll receive **£20 in store credit** towards future classes. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+### The Benefits
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+This program is designed to be mutually beneficial:
 
-We would love to work with you. 
+- **Collaborative Learning**: By inviting others to join you, you can learn together, share experiences, and deepen your understanding of the material.
+- **Cost-Effective**: If you refer five people, you could potentially earn enough credit to attend a class for free! Imagine the possibilities of expanding your knowledge without the financial burden.
+- **Community Building**: This initiative not only rewards you but also helps build a community of learners who are eager to grow and support one another.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=IXmOAB5e44w)
+### Why This Matters
+
+In my experience, the most impactful learning occurs in a collaborative environment. When you engage with others, you not only gain different perspectives but also create a network of support that can be invaluable in your professional journey. This referral program is my way of encouraging that spirit of collaboration and making it easier for you to bring others along for the ride.
+
+### Join the Movement
+
+I genuinely believe that this referral program will enhance your learning experience and help you build a stronger network within your organisation. If you’re interested in participating, simply visit my website to get your referral code and start sharing it with your colleagues and friends.
+
+Thank you for being a part of this journey with me. If you have any questions or want to discuss this further, feel free to reach out. I’m always here to chat about Agile, Scrum, DevOps, or anything else on your mind. And don’t forget to like, follow, and subscribe for more updates!
+
+Let’s learn and grow together!
