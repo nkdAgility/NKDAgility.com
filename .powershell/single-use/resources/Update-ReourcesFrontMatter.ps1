@@ -44,7 +44,7 @@ $hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.Contain
 
 
 $TotalItems = $hugoMarkdownFiles.Count
-$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
+#$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
 Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
 $TotalItems = $hugoMarkdownFiles.Count
 $hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.draft -ne $true }
