@@ -50,8 +50,8 @@ resourceTypes:
 - video
 categories:
 - Agile Product Management
-- Business Agility
 - Metrics and Learning
+- People and Process
 
 ---
  Engineering Excellence: Eliminating Waste and Maximizing ROI | Martin Hinshelwood

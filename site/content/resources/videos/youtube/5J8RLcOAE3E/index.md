@@ -43,9 +43,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories:
-- Code and Complexity
 - DevOps
-- Resilience and Change
+- People and Process
+- Systems Thinking
 
 ---
  In this video, I dive into a question I often get: *What are the best practices for enabling continuous delivery?* The answer may surprise you—there are no best practices in complex environments. Instead, there are *adequate practices* that must adapt to the ever-changing dynamics of your team, product, and market. Watch as I explore the philosophies and techniques that can support your organization in delivering quality software continuously while maintaining user trust and system reliability.

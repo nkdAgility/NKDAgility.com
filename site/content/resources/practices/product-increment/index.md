@@ -21,27 +21,9 @@ card:
     content: Learn More
   content: Discover more about Product Increment and how it can help you in your Agile journey!
   title: Product Increment
-categories:
-- Product Delivery
-- Agile Product Management
-- Scrum
-- Value Delivery
-- Technical Excellence
+categories: []
 tags:
-- Scrum Product Management
-- Definition of Done
-- Software Increment
-- Sprint Review
-- Continuous Delivery
-- Agile Product Management
-- Agile Planning
-- Agile Product Discovery
-- Team Collaboration
-- Customer Feedback Loops
-- Agile Values and Principles
-- Agile Methodology
-- Agile Transformation
-- Agile Software Development
+- Increment
 
 ---
 ## What is a Product Increment?

@@ -25,7 +25,6 @@ duration: 501
 isShort: false
 tags:
 - Ability to Innovate
-- Agile Project Management
 - Continuous Learning
 - Decision Making
 - Engineering Excellence
@@ -42,6 +41,7 @@ tags:
 - Product Owner
 - Product Strategy
 - Product Validation
+- Sensemaking
 - Software Development
 - Technical Debt
 sitemap:

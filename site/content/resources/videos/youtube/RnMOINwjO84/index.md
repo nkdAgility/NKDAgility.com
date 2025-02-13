@@ -47,7 +47,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Complexity Thinking
+- Organisational Agility
 - People and Process
 - Resilience and Change
 

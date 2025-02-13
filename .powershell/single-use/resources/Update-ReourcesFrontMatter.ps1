@@ -42,8 +42,11 @@ $Counter = 0
 
 
 
-
+$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
+$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.draft -ne $true }
+Write-InformationLog "Now ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownFiles.Count
 $hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending 
+
 
 foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
     $Counter++
@@ -159,7 +162,7 @@ foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
     }
 
-    if ($hugoMarkdown.FrontMatter.draft -eq $true -or ($hugoMarkdown.FrontMatter.ResourceType -eq "videos" -and $hugoMarkdown.FrontMatter.isShort -ne $true)) {
+    if ($hugoMarkdown.FrontMatter.draft -ne $true -or ($hugoMarkdown.FrontMatter.ResourceType -eq "videos" -and $hugoMarkdown.FrontMatter.isShort -ne $true)) {
         # Do for Non-Draft items only      
 
         #================Themes, Categories, & TAGS==========================
