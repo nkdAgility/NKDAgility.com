@@ -1,5 +1,6 @@
 ---
 title: Scrum Product Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Leveraging Scrum to iteratively build and refine products based on customer feedback.
 Instructions: |-

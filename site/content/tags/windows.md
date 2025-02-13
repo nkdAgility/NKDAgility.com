@@ -1,5 +1,6 @@
 ---
 title: Windows
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: The Windows operating system, including installation, configuration, troubleshooting, and updates.
 Instructions: |-

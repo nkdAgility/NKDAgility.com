@@ -1,5 +1,6 @@
 ---
 title: Events and Presentations
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Talks, conferences, webinars, and presentations related to Agile, DevOps, and software engineering.
 Instructions: |-

@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\tags\"
+$outputDir = ".\site\content\categories\"
 
 # Get list of directories and select the first 10
 $classes = Get-ChildItem -Path $outputDir | Sort-Object { $_ } -Descending | Select-Object -First 300 
@@ -27,7 +27,7 @@ $classes | ForEach-Object {
     $markdownFile = $_
     Write-InfoLog "--------------------------------------------------------"
     Write-InfoLog "Processing post: $(Resolve-Path -Path $markdownFile -Relative)"
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'trustpilot' -fieldValue $false -addAfter 'title' 
+    
     if ((Test-Path $markdownFile)) {
 
         # Load markdown as HugoMarkdown object
@@ -35,6 +35,8 @@ $classes | ForEach-Object {
 
         Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter ('$($hugoMarkdown.FrontMatter.title)') of $TotalFiles" -PercentComplete $PercentComplete
 
+
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'trustpilot' -fieldValue $false -addAfter 'title' 
         #=================description=================
         if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided") {
             # Generate a new description using OpenAI

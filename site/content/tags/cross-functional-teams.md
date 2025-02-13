@@ -1,5 +1,6 @@
 ---
 title: Cross Functional Teams
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: 'The Agile ideal: teams with all the skills needed to deliver end-to-end value.'
 Instructions: |-

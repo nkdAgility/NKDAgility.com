@@ -1,5 +1,6 @@
 ---
 title: Deployment Frequency
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Optimising how often software is deployed to enhance feedback loops and value delivery.
 Instructions: |-

@@ -1,5 +1,6 @@
 ---
 title: Sprint Review
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Inspecting and adapting the increment to ensure transparency and stakeholder feedback.
 Instructions: |-

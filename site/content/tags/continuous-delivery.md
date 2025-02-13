@@ -1,5 +1,6 @@
 ---
 title: Continuous Delivery
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Deliver changes safely and quickly with Continuous Delivery (CD). Ensure every change is production-ready with minimal manual intervention.
 Instructions: |-

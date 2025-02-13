@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Deep insights into Scrum principles, roles, and practices for professionals.
 Instructions: |-

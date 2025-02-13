@@ -1,5 +1,6 @@
 ---
 title: Throughput
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Measuring the rate at which work items are completed in a given time frame.
 Instructions: |-

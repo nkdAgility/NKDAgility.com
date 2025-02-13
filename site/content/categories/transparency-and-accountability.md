@@ -1,5 +1,6 @@
 ---
 title: Transparency and Accountability
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Fostering openness, responsibility, and alignment in Agile teams.
 Instructions: |-

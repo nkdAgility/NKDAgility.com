@@ -1,5 +1,6 @@
 ---
 title: Evidence Based Management
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying empirical evidence to optimise organisational agility and decision-making.
 Instructions: |-

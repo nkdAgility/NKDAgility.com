@@ -1,5 +1,6 @@
 ---
 title: Miscellaneous
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Topics that don't fit into any specific category.
 Instructions: |-

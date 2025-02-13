@@ -1,5 +1,6 @@
 ---
 title: Organisational Culture
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Exploring how culture shapes agility, responsiveness, and transformation.
 Instructions: |-

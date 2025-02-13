@@ -1,5 +1,6 @@
 ---
 title: Agile Values and Principles
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Understand and apply Agile Values and Principles based on first principles. Build a foundation for true agility and continuous value delivery
 Instructions: |-

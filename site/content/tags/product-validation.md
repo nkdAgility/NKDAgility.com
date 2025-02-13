@@ -1,5 +1,6 @@
 ---
 title: Product Validation
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Testing product ideas with real users to ensure market fit and customer value.
 Instructions: |-

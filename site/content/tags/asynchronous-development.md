@@ -1,5 +1,6 @@
 ---
 title: Asynchronous Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Enable seamless collaboration with Asynchronous Development. Improve efficiency, flexibility, and delivery across distributed teams.
 Instructions: |-

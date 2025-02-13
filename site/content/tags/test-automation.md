@@ -1,5 +1,6 @@
 ---
 title: Test Automation
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Automating software testing to improve quality and accelerate feedback loops.
 Instructions: |-

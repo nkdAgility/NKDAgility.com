@@ -1,5 +1,6 @@
 ---
 title: System Configuration
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Setting up and configuring software, hardware, and systems for optimal performance.
 Instructions: |-

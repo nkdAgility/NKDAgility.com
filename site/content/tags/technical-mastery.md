@@ -1,5 +1,6 @@
 ---
 title: Technical Mastery
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Achieving excellence in software craftsmanship, architecture, and engineering practices.
 Instructions: |-

@@ -1,5 +1,6 @@
 ---
 title: Product Backlog
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Strategies and techniques for effective backlog management and refinement.
 Instructions: |-

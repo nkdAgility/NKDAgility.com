@@ -1,5 +1,6 @@
 ---
 title: Resilience and Change
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Strategies for organisational resilience and adaptive change.
 Instructions: |-

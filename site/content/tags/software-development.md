@@ -1,5 +1,6 @@
 ---
 title: Software Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Techniques and methodologies for high-quality software engineering.
 Instructions: |-

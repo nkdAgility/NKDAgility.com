@@ -1,5 +1,6 @@
 ---
 title: Value Stream Management
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: A strategic approach to improving the flow of value through an organisation, optimising efficiency, reducing waste, and aligning work with customer outcomes.
 Instructions: |-

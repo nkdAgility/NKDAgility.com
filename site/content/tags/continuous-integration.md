@@ -1,5 +1,6 @@
 ---
 title: Continuous Integration
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Ensure fast, reliable development with Continuous Integration (CI). Merge code frequently, detect errors early, and maintain a healthy codebase.
 Instructions: |-

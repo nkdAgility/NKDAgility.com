@@ -1,5 +1,6 @@
 ---
 title: Technical Excellence
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Engineering practices that enable agility, including TDD, CI/CD, modular architecture, and emergent design.
 Instructions: |-

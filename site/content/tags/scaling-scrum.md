@@ -1,5 +1,6 @@
 ---
 title: Scaling Scrum
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying Scrum principles at scale to maintain agility across large organisations.
 Instructions: |-

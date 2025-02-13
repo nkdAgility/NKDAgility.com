@@ -1,5 +1,6 @@
 ---
 title: Forecasting
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Enhance forecasting in Agile and Scrum. Use empirical data to predict delivery timelines, manage risk, and optimise value delivery.
 Instructions: |-

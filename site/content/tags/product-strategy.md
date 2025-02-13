@@ -1,5 +1,6 @@
 ---
 title: Product Strategy
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Defining a vision and roadmap to create a competitive and sustainable product.
 Instructions: |-

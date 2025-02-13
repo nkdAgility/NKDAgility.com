@@ -1,5 +1,6 @@
 ---
 title: Revenue per Employee
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Measuring productivity and financial efficiency by revenue generated per employee.
 Instructions: |-

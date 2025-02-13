@@ -1,5 +1,6 @@
 ---
 title: Market Adaptability
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Enhancing an organisation’s ability to respond to market shifts and competitive pressures.
 Instructions: |-

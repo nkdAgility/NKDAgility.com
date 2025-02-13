@@ -1,5 +1,6 @@
 ---
 title: Personal
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Just some personal thoughts and experiences.
 Instructions: |-

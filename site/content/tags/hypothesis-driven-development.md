@@ -1,5 +1,6 @@
 ---
 title: Hypothesis Driven Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Using experimentation and validated learning to drive product decisions.
 Instructions: |-

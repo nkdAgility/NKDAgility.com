@@ -1,5 +1,6 @@
 ---
 title: Ability to Innovate
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Measure and improve your organisation’s Ability to Innovate (A2I) using Evidence-Based Management (EBM). Focus on delivering new value sustainably and leveraging empirical data for decision-making.
 Instructions: |-

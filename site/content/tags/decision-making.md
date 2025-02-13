@@ -1,5 +1,6 @@
 ---
 title: Decision Making
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying structured, evidence-based approaches to make informed business choices.
 Instructions: |-

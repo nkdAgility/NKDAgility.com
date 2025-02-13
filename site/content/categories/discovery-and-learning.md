@@ -1,5 +1,6 @@
 ---
 title: Discovery and Learning
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Exploring new ideas, innovation, and continuous learning in product and software development.
 Instructions: |-

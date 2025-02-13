@@ -1,5 +1,6 @@
 ---
 title: Backlog Refinement
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Improve clarity and readiness with Backlog Refinement. Ensure work is well-defined, prioritised, and ready for execution.
 Instructions: |-

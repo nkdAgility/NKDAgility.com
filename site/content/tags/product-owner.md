@@ -1,5 +1,6 @@
 ---
 title: Product Owner
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Maximising product value through effective backlog management and stakeholder alignment.
 Instructions: |-

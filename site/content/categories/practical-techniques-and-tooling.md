@@ -1,5 +1,6 @@
 ---
 title: Practical Techniques and Tooling
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: Exploring different tools, methodologies, and frameworks to improve Agile and DevOps practices.
 Instructions: |-

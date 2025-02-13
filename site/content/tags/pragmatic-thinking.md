@@ -1,5 +1,6 @@
 ---
 title: Pragmatic Thinking
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying practical, experience-based problem-solving in complex environments.
 Instructions: |-

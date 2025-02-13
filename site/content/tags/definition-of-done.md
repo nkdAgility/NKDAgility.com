@@ -1,5 +1,6 @@
 ---
 title: Definition of Done
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Ensure transparency and quality with the Definition of Done (DoD). Align teams on what it means for work to be truly complete.
 Instructions: |-

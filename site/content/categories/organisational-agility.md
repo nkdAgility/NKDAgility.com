@@ -1,5 +1,6 @@
 ---
 title: Organisational Agility
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: The ability of an organisation to rapidly adapt to market changes, customer needs, and emerging opportunities.
 Instructions: |-

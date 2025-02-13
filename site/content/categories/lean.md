@@ -1,5 +1,6 @@
 ---
 title: Lean
+trustpilot: false
 date: 2025-02-11T10:16:54Z
 description: A strategy focused on maximising value while minimising waste, originating from the Toyota Production System.
 Instructions: |-

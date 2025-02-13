@@ -1,5 +1,6 @@
 ---
 title: Strategy
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Develop and refine strategy in Agile, Scrum, and DevOps. Align teams, optimise delivery, and drive sustainable competitive advantage.
 Instructions: |-

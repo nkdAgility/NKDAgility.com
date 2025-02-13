@@ -1,5 +1,6 @@
 ---
 title: Lean Principles
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Minimising waste and maximising value through iterative learning and continuous improvement.
 Instructions: |-

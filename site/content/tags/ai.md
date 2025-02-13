@@ -1,5 +1,6 @@
 ---
 title: AI
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Leverage AI to enhance decision-making, automation, and innovation in Agile, DevOps, and software development.
 Instructions: |-

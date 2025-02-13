@@ -1,5 +1,6 @@
 ---
 title: Lead Time
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Measuring the time from work initiation to customer delivery.
 Instructions: |-

@@ -1,5 +1,6 @@
 ---
 title: Lean Product Development
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Minimising waste while maximising learning in product creation.
 Instructions: |-

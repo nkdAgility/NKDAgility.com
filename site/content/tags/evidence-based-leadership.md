@@ -1,5 +1,6 @@
 ---
 title: Evidence Based Leadership
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Applying empirical evidence to drive leadership decisions and improvements.
 Instructions: |-

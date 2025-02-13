@@ -1,5 +1,6 @@
 ---
 title: Operational Practices
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Techniques and strategies for improving operational efficiency and delivery.
 Instructions: |-

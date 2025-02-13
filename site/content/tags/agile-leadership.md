@@ -1,5 +1,6 @@
 ---
 title: Agile Leadership
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Drive change with Agile Leadership. Foster adaptability, empower teams, and create a culture of continuous improvement.
 Instructions: |-

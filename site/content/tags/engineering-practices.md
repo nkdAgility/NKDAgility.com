@@ -1,5 +1,6 @@
 ---
 title: Engineering Practices
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: 'The foundation of Agile: clean code, automation, and test-first development.'
 Instructions: |-

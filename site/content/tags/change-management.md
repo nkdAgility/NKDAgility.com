@@ -1,5 +1,6 @@
 ---
 title: Change Management
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Helping organisations shift mindsets and processes without falling into transformation theatre.
 Instructions: |-

@@ -1,5 +1,6 @@
 ---
 title: BetaCodex
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Embrace BetaCodex for decentralised, adaptive, and human-centric organisational design. Enable true agility beyond rigid hierarchies.
 Instructions: |-

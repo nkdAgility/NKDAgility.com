@@ -1,5 +1,6 @@
 ---
 title: MVP
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Building the Minimum Viable Product to test ideas and validate market assumptions quickly.
 Instructions: |-

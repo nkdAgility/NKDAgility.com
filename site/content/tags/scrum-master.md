@@ -1,5 +1,6 @@
 ---
 title: Scrum Master
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Enabling and coaching teams towards high performance and agile success.
 Instructions: |-

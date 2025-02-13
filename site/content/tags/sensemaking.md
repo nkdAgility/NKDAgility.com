@@ -1,5 +1,6 @@
 ---
 title: Sensemaking
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Helping organisations interpret complexity and make informed decisions.
 Instructions: |-

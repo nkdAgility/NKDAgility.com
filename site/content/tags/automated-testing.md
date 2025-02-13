@@ -1,5 +1,6 @@
 ---
 title: Automated Testing
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Ensure software quality and reliability with Automated Testing. Detect issues early, reduce manual effort, and accelerate delivery.
 Instructions: |-

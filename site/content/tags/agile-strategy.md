@@ -1,5 +1,6 @@
 ---
 title: Agile Strategy
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Drive long-term success with Agile Strategy. Align vision, execution, and adaptability to deliver continuous value.
 Instructions: |-

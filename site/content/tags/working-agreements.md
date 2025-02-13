@@ -1,5 +1,6 @@
 ---
 title: Working Agreements
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Establishing team norms and collaboration principles for effective teamwork.
 Instructions: |-

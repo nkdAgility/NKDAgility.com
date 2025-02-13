@@ -1,5 +1,6 @@
 ---
 title: Customer Feedback Loops
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Tightening the loop between delivery and learning to ensure products meet real needs.
 Instructions: |-

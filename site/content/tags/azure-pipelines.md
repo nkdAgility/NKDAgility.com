@@ -1,5 +1,6 @@
 ---
 title: Azure Pipelines
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Automating builds, tests, and deployments with Azure Pipelines.
 Instructions: |-

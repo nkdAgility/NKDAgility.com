@@ -1,5 +1,6 @@
 ---
 title: Empirical Process Control
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Adapting based on evidence, not assumptions, through inspection and transparency.
 Instructions: |-

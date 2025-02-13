@@ -1,5 +1,6 @@
 ---
 title: Collaboration Tools
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Platforms that remove friction in communication and coordination, supporting Agile teams.
 Instructions: |-

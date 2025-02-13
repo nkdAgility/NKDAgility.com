@@ -1,5 +1,6 @@
 ---
 title: Technical Leadership
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Guiding development teams with technical expertise and agile best practices.
 Instructions: |-

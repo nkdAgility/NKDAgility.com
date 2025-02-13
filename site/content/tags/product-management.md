@@ -1,5 +1,6 @@
 ---
 title: Product Management
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Balancing customer needs, business goals, and technical feasibility in product strategy.
 Instructions: |-

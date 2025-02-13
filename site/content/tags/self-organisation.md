@@ -1,5 +1,6 @@
 ---
 title: Self Organisation
+trustpilot: false
 date: 2025-02-11T10:17:24Z
 description: Empowering teams to take ownership and drive value autonomously.
 Instructions: |-
