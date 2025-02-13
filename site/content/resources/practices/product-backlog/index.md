@@ -21,26 +21,9 @@ card:
     content: Learn More
   content: Discover more about Product Backlog and how it can help you in your Agile journey!
   title: Product Backlog
-categories:
-- Agile Product Management
-- Scrum
-- Product Delivery
+categories: []
 tags:
 - Product Backlog
-- Scrum Product Management
-- Backlog Refinement
-- Definition of Ready
-- Definition of Done
-- Agile Planning
-- Agile Product Management
-- Agile Product Discovery
-- Agile Software Development
-- Agile Methodology
-- Agile Estimation
-- Value Prioritisation
-- Team Collaboration
-- Customer Feedback Loops
-- Continuous Improvement
 
 ---
 ## What is a Product Backlog?

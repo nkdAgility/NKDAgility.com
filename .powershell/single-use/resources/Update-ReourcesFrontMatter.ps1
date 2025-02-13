@@ -14,13 +14,12 @@ $outputDir = ".\site\content\resources\"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
-# Total count for progress tracking
-$TotalFiles = $resources.Count
+
 $Counter = 1
 
 
 $hugoMarkdownFiles = @()
-
+$TotalFiles = $resources.Count
 Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $TotalFiles
 $resources | ForEach-Object {
     if ((Test-Path $_)) {
@@ -41,17 +40,22 @@ $resourceTypeCounts = @{}
 $Counter = 0
 
 
-
+$TotalItems = $hugoMarkdownFiles.Count
 $hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
+Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
+$TotalItems = $hugoMarkdownFiles.Count
 $hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.draft -ne $true }
-Write-InformationLog "Now ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownFiles.Count
-$hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending 
+Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.draft -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
 
 
+$hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending
+# Total count for progress tracking
+$TotalItems = $hugoMarkdownFiles.Count
+Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($TotalItems)
 foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
     $Counter++
-    $PercentComplete = ($Counter / $TotalFiles) * 100
-    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalFiles | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+    $PercentComplete = ($Counter / $TotalItems) * 100
+    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
  
 
     Write-DebugLog "--------------------------------------------------------"
