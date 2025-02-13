@@ -1,6 +1,6 @@
 ---
-title: Monitoring and Measuring for Success
-description: Discover how to shift from traditional budgeting to hypothesis-driven product development for maximum impact with Martin Hinshelwood from NKD Agility.
+title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
+description: Transform your product investment strategy with hypothesis-driven engineering. Learn to maximise value, minimise waste, and adapt swiftly to customer needs.
 date: 2024-12-11T06:30:00Z
 ResourceId: Ig-HpUfQr3M
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: monitoring-and-measuring-for-success
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=Ig-HpUfQr3M
 aliases:
 - /resources/videos/Ig-HpUfQr3M
 - /resources/videos/monitoring-and-measuring-for-success
@@ -27,6 +26,7 @@ tags:
 - Ability to Innovate
 - Continuous Learning
 - Decision Making
+- Empirical Process Control
 - Engineering Excellence
 - Evidence Based Leadership
 - Evidence Based Management
@@ -41,12 +41,11 @@ tags:
 - Product Owner
 - Product Strategy
 - Product Validation
-- Sensemaking
 - Software Development
 - Technical Debt
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -55,43 +54,38 @@ categories:
 - People and Process
 
 ---
- Hypothesis-Driven Product Development: Allocating Budget for Maximum Impact | Martin Hinshelwood
+When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore the critical shift organizations need to make from traditional budgeting to hypothesis-driven product development. Instead of focusing on “staying within budget,” this approach emphasizes iterative learning, informed decision-making, and maximizing value by testing ideas early and often.
+### Embracing Hypothesis-Driven Engineering
 
-📌 Chapters:
+One of the key concepts I advocate for is **hypothesis-driven engineering practices**. Whether we’re developing new products or enhancing existing ones, starting with a hypothesis is crucial. Here’s how I approach it:
 
-1. 00:00 – Introduction: Rethinking Budgeting for Product Development
-2. 02:30 – Why Hypothesis-Driven Engineering Matters
-3. 05:15 – How to Use Experiments to Validate Ideas
-4. 08:45 – Real-World Example: Azure DevOps' Technical Debt Initiative
-5. 12:00 – Avoiding Costly Mistakes: Lessons from Windows 8
-6. 15:30 – The Importance of Quick Feedback Loops in Budget Allocation
-7. 18:00 – Applying Hypothesis-Driven Thinking at Every Level
+- **Identify the Idea**: What do we want to add to our product? This could be a feature on your backlog or a broader initiative across your product portfolio.
+  
+- **Define the Outcome**: What are we trying to achieve? This clarity helps in aligning our efforts with the desired results.
 
-🎯 Who This Video is For:
+- **Run Small Experiments**: What’s the smallest experiment we can conduct to test our hypothesis? This allows us to validate our ideas without committing extensive resources upfront.
 
-• Product managers and project managers seeking better budgeting and validation strategies
-• Teams and organizations wanting to avoid costly mistakes in product development
-• Agile practitioners and leaders focusing on iterative, value-driven approaches
-• Decision-makers responsible for allocating resources and prioritizing investments
+- **Measure Progress**: How will we assess whether we’re moving towards our goal? Regular evaluation is essential to determine if we should continue investing in a particular initiative.
 
-📖 What You’ll Learn:
+This methodology can be applied at any scale, from individual features to entire product lines.
 
-• How hypothesis-driven engineering practices improve product success rates
-• Why allocating budget dynamically is better than traditional annual plans
-• The importance of small experiments and quick feedback loops in minimizing risk
-• Real-world examples of costly failures and how to avoid them
-• How to apply hypothesis-driven decision-making at every organizational level
+### A Real-World Example: Azure DevOps
 
-💡 Key Takeaways:
+Let me share an insightful example from the Azure DevOps team at Microsoft. They faced a challenge: how to help customers manage their technical debt effectively. The product unit manager, who oversees budgetary control, recognised that people are the most significant expense in product development. With a team of exactly 600 people, the focus was on allocating resources to ideas that would yield the highest return on investment.
 
-• Don’t focus on staying within budget—focus on dynamically reallocating resources for maximum value.
-• Hypothesis-driven engineering ensures investments are validated early and often.
-• Quick feedback loops reduce waste and avoid large-scale failures.
-• Apply hypothesis-driven thinking at all levels, from individual teams to boardroom decisions.
+The team proposed a grand idea: to create tools that would help customers identify and manage their technical debt. This initiative required collaboration across various teams, each contributing their insights and expertise. They dedicated a significant amount of time—around four to six months—to explore this concept.
 
-At NKD Agility, we specialize in helping organizations implement hypothesis-driven engineering practices to maximize value and minimize risk. Ready to rethink how you allocate resources and build products? Visit https://www.nkdagility.com today and let’s transform your approach to product development.
+However, after extensive experimentation and customer feedback, they discovered that their solutions didn’t resonate with users. Despite the investment—potentially around £10 million—they learned a valuable lesson: not every idea will succeed, and sometimes, it’s better to pivot and redirect resources elsewhere.
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=Ig-HpUfQr3M)
+### Learning from Failure
+
+In traditional project management, this could easily be seen as wasted money. Yet, I argue that the learning gained from this experience is invaluable. They avoided the pitfalls of long-term investments in a failing idea, which could have resulted in a situation akin to the Windows 8 debacle. Imagine the cost of nearly 20,000 people working for six years on a product that ultimately disappointed customers and damaged brand reputation.
+
+This experience catalysed a shift in Microsoft’s approach. They recognised the need for rapid testing and validation of ideas, ensuring that they could quickly adapt based on customer feedback. This shift is not just necessary for product teams; it should permeate every level of the organisation, from the ground up to the boardroom.
+
+### Conclusion: The Path Forward
+
+In today’s fast-paced environment, adopting hypothesis-driven engineering practices is essential for success. It allows us to make informed decisions, minimise wasted resources, and ultimately deliver products that meet customer needs. 
+
+As we move forward, let’s commit to this approach at every level of our businesses. By doing so, we can ensure that our investments yield the maximum value and that we remain agile in the face of change. Remember, it’s not just about the money spent; it’s about the insights gained and the ability to pivot when necessary.

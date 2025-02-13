@@ -1,6 +1,6 @@
 ---
-title: Maximizing Value with Minimum Viable Products MVPs
-description: Discover how to maximise ROI with MVPs! Join Martin Hinshelwood as he shares entrepreneurial insights for funding and developing successful products.
+title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
+description: Discover how to fund your product like a venture capitalist! Learn to balance risk, iterate on ideas, and embrace the journey of innovation.
 date: 2024-12-10T06:30:00Z
 ResourceId: vbY6LUq81uY
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: maximizing-value-with-minimum-viable-products-mvps
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=vbY6LUq81uY
 aliases:
 - /resources/videos/vbY6LUq81uY
 - /resources/videos/maximizing-value-with-minimum-viable-products-mvps
@@ -40,52 +39,49 @@ tags:
 - Product Validation
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Metrics and Learning
+- Product Delivery
 - Value Delivery
 
 ---
- Funding Products Like an Entrepreneur: Hypothesis-Driven Development | Martin Hinshelwood
+Building products is an exhilarating journey into the unknown. Every time I sit down with a team to write code, I’m reminded that we’re embarking on a venture that has never been done before. If we weren’t, we wouldn’t be coding; we’d simply be purchasing a ready-made solution. This inherent uncertainty is what gives software engineering its unique character, and it’s also why we experience such a high degree of variance in our projects.
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore how building products is akin to launching a startup. When your team is writing code, they’re doing something that’s never been done before—and that requires a mindset shift. By thinking like entrepreneurs and funding products as venture capitalists would, you can maximize your return on investment while minimizing risks.
+### The Entrepreneurial Mindset
 
-📌 Chapters:
+In the business realm, this concept mirrors the world of entrepreneurship. When you have an idea that promises value—regardless of how that value is delivered—you need to seek investment to bring that idea to life. This process is akin to what I would do if I were to start a new business. I’d need to approach banks or venture capitalists, convincing them that my idea is worth their time and money. 
 
-1. 00:00 – Introduction: Building Products as a Venture Capitalist
-2. 02:30 – The Risk Profile of Building Products
-3. 05:00 – The Importance of Small Experiments and Proof of Concept
-4. 08:15 – Real-World Example: The Birth of IMDb
-5. 12:00 – Hypothesis-Driven Development vs. MVP Misuse
-6. 15:30 – How to Evaluate Return on Investment for Products
-7. 18:00 – Staying Within Budget with Continuous Experimentation
+- **Convincing Stakeholders**: Whether it’s internal stakeholders or external investors, the challenge remains the same: you must articulate why your idea deserves funding. 
+- **Risk and Reward**: New ideas are inherently risky. They don’t come with guarantees of success or a return on investment. In fact, statistics suggest that around 70% of new businesses fail within their first year, and a staggering 30% of those that survive the initial phase will falter within five years. 
 
-🎯 Who This Video is For:
+Understanding this risk profile is crucial when investing in uncharted territories, whether in business or product development.
 
-• Product managers and project managers seeking better ways to fund product development
-• Entrepreneurs and innovators looking for parallels between startups and internal product funding
-• Agile teams embracing hypothesis-driven development and continuous experimentation
-• Organizations wanting to maximize ROI on product and project investments
+### Funding Products Like a Venture Capitalist
 
-📖 What You’ll Learn:
+When it comes to funding a product, I advocate for a mindset similar to that of a venture capitalist. You need to assess the potential return on investment and gauge the value you expect to derive from your investment. Here’s how I approach this:
 
-• Why building software is inherently a high-risk, high-variance activity
-• How to adopt an entrepreneurial mindset for product funding within your organization
-• The importance of running small, hypothesis-driven experiments
-• How to evaluate the potential ROI of your product or project investments
-• Why products should be funded dynamically rather than upfront
+1. **Run Small Experiments**: Instead of committing large sums upfront, I prefer to conduct numerous small experiments. For instance, if I have an idea for a database of movie stars, I’d seek a modest budget to test its viability.
+   
+2. **Validate the Idea**: Engaging in ideation helps refine the concept. Questions like, “How can we monetise this?” or “What additional features could enhance its value?” are essential. This iterative process can lead to something as impactful as IMDb, which started as a simple database but evolved into a significant player in the film industry.
 
-💡 Key Takeaways:
+3. **Create a Business Plan**: Before I allow any spending, I want to see a well-thought-out business plan or a lean canvas. This ensures that all aspects of the idea have been considered.
 
-• Product development is like a startup: it’s risky, uncertain, and full of potential.
-• Lots of small experiments can help you discover what works while staying within budget.
-• Hypothesis-driven development enables you to adapt and invest only in what delivers value.
-• Think like a venture capitalist: focus on ROI, market fit, and continuous iteration.
+4. **Proof of Concept**: Once funding is secured, I expect to see a proof of concept. This initial version should be tested with real users to gauge its resonance and potential value.
 
-At NKD Agility, we help organizations embrace hypothesis-driven development and entrepreneurial funding models to maximize their product success. Ready to rethink how you build and fund products? Visit us today on https://www.nkdagility.com and let’s build your future together.
+5. **Iterate and Experiment**: The journey doesn’t stop at the proof of concept. I advocate for continuous experimentation. Each iteration should be a learning opportunity, allowing us to refine our approach based on user feedback and data.
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=vbY6LUq81uY)
+### Hypothesis-Driven Engineering Practices
+
+I often refer to this approach as hypothesis-driven engineering. While many use the term MVP (Minimum Viable Product), I find it’s frequently misapplied. An MVP should serve as a proof of concept that may ultimately be discarded before the final product is built. 
+
+- **Embrace Failure**: It’s essential to accept that many experiments will fail. However, the key is to identify the successful ones and invest further in those. 
+- **Stay Within Budget**: By running numerous small experiments, we can manage our budget effectively. Each experiment should have a clear hypothesis, expected outcomes, and measurable success criteria.
+
+### Balancing Heart and Data
+
+In the end, building products is not just about numbers; it’s about passion and vision. While data is crucial for making informed decisions, there’s also a human element that drives innovation. Balancing these aspects is vital for staying within budget while also fostering creativity and exploration.
+
+As we navigate the complexities of product development, let’s remember that every step into the unknown is an opportunity to learn, adapt, and ultimately succeed. Embrace the journey, and let’s build something remarkable together.

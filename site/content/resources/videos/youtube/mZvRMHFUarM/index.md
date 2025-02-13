@@ -1,6 +1,6 @@
 ---
-title: Estimating with Confidence
-description: Unlock reliable software project estimates with Martin Hinshelwood! Discover the power of probabilistic forecasting for confident, accurate planning.
+title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
+description: Unlock the secrets of effective software project management! Discover how probabilistic forecasting can replace traditional estimation for better outcomes.
 date: 2024-12-05T06:30:00Z
 ResourceId: mZvRMHFUarM
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: estimating-with-confidence
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=mZvRMHFUarM
 aliases:
 - /resources/videos/mZvRMHFUarM
 - /resources/videos/estimating-with-confidence
@@ -31,7 +30,7 @@ tags:
 - Software Development
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -39,44 +38,20 @@ categories:
 - Product Delivery
 
 ---
- Estimation in Software Projects: Why Probabilistic Forecasting is Better | Martin Hinshelwood
+One of the most significant challenges I encounter in the realm of software projects is the perennial struggle with estimation. It’s a topic that seems to generate endless debate and confusion. Many organisations feel compelled to engage in some form of estimation, whether that’s through absolute estimation—which often leads to errors—or by employing relative estimation tools. The reality, however, is that we often feel we need these estimates to chart our course forward. But do we really?
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I tackle one of the biggest challenges in software projects: estimation. Traditional estimation methods, whether absolute (hours) or relative (story points), often fall short in high-variance environments. Instead, I’ll explain how probabilistic forecasting can give you confidence and clarity without wasting time on inaccurate estimates.
+In my experience, what we truly need is the ability to forecast into the future with a degree of probability. When it comes to software delivery, where variance is high and uncertainty reigns, achieving accuracy in our predictions is nearly impossible. If you find yourself in a situation where more than 50% of your project is unknown, you can forget about precise predictions. Instead, we should focus on probabilistic forecasting.
 
-📌 Chapters:
+So, what does this look like in practice? Rather than attempting to estimate individual items in our backlog, we can utilise forecasting simulation tools to project our capabilities based on historical data. For instance, we might say, “In the next 30 days, we can deliver 50 items with an 85% likelihood.” This approach allows for the inherent unpredictability of software development while freeing our teams from the burden of extensive estimation processes.
 
-1. 00:00 – Introduction: Why Estimation is a Struggle in Software Projects
-2. 02:30 – The Problem with Absolute and Relative Estimation
-3. 05:15 – Understanding Variance and Why Accuracy Isn’t Possible
-4. 08:00 – The Power of Probabilistic Forecasting
-5. 11:15 – How to Use Historical Data for Forecasting
-6. 14:30 – Building Confidence with Probability (85% Confidence Level)
-7. 17:00 – Reducing Batch Sizes to Improve Understanding
+Here are a few key takeaways from this approach:
 
-🎯 Who This Video is For:
+- **Embrace Probabilities**: Instead of fixating on exact numbers, focus on probabilities. This shift in mindset can alleviate the pressure on teams and foster a more realistic outlook on project timelines.
+  
+- **Reduce Batch Size**: While we may not be estimating individual items, it’s still crucial for teams to analyse their work and break it down into smaller, manageable chunks. This practice not only aids in understanding the deliverables but also enhances our ability to execute effectively.
 
-• Product managers and project managers tired of unreliable estimates
-• Agile teams looking for better ways to plan and deliver work
-• Organizations struggling with high-variance environments and unpredictable timelines
-• Leaders seeking practical tools to improve confidence in delivery timelines
+- **Build Confidence**: In this new paradigm, we may not have traditional estimates, but we can still cultivate confidence in our forecasts. I often encourage teams to aim for an 85% confidence level. Given that around 70% of startups fail, this benchmark provides a pragmatic approach to assessing our likelihood of success.
 
-📖 What You’ll Learn:
+- **Assess Your Confidence Level**: Ask yourself, “What’s my confidence level in delivering this project?” As long as it exceeds 70%, you’re likely on solid ground. This perspective allows for a more flexible and adaptive approach to project management.
 
-• Why traditional estimation methods often fail in software projects
-• How probabilistic forecasting works and why it’s more reliable
-• The importance of analyzing and breaking down work to reduce batch sizes
-• How to use confidence levels (e.g., 85%) to set realistic expectations
-• Why understanding work is more important than estimating it
-
-💡 Key Takeaways:
-
-• Accurate estimation is impossible in high-variance environments—focus on probabilities instead.
-• Probabilistic forecasting uses historical data to predict outcomes with confidence.
-• Reducing batch sizes and understanding work leads to better execution.
-• Aim for an 85% confidence level to balance risk and realism in your forecasts.
-
-
-At NKD Agility, we help teams and organizations embrace modern forecasting techniques like probabilistic forecasting to deliver with confidence. Ready to leave outdated estimation methods behind? Visit us today and let’s help you forecast success.
-
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=mZvRMHFUarM)
+In conclusion, while the traditional methods of estimation may no longer serve us well in the fast-paced world of software development, we can still navigate the complexities of our projects with confidence. By embracing probabilistic forecasting and focusing on understanding our work, we can create a more agile and responsive environment that ultimately leads to better outcomes. Remember, it’s not about having all the answers; it’s about having a clear path forward, even amidst uncertainty.

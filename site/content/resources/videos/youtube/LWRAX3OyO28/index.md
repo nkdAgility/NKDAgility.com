@@ -1,6 +1,6 @@
 ---
-title: The Power of Continuous Delivery
-description: Discover the true power of Continuous Delivery with Martin Hinshelwood! Learn how to reduce risk, enhance reliability, and transform your software delivery.
+title: 'Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development'
+description: Unlock the true power of continuous delivery! Discover how automation transforms software delivery, mitigates risks, and boosts efficiency in your organisation.
 date: 2024-12-06T06:00:00Z
 ResourceId: LWRAX3OyO28
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: the-power-of-continuous-delivery
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=LWRAX3OyO28
 aliases:
 - /resources/videos/LWRAX3OyO28
 - /resources/videos/the-power-of-continuous-delivery
@@ -43,52 +42,45 @@ tags:
 - Working Software
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
 - Technical Excellence
+- Value Delivery
 
 ---
- The True Power of Continuous Delivery: Reducing Risk and Increasing Effectiveness | Martin Hinshelwood
+If you're venturing into the realm of continuous delivery, you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the DevOps framework. 
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I explore the real value of continuous delivery—and it’s not just about being faster. While speed is a byproduct, the true benefits lie in consistency, reliability, and risk reduction through automation. I’ll share examples, including lessons from Knight Capital Group and CrowdStrike, to illustrate why continuous delivery is essential for modern software development.
+### The Real Value of Automation
 
-📌 Chapters:
+When we talk about automation in the context of continuous delivery, we’re not just referring to the tools that facilitate deployment. We’re talking about a fundamental shift in how we approach software delivery. Here’s what I’ve learned from my experiences:
 
-1. 00:00 – Introduction: What is Continuous Delivery?
-2. 02:15 – The True Benefit: Reducing Risk and Increasing Reliability
-3. 05:00 – Lessons from Knight Capital and CrowdStrike
-4. 08:30 – Feedback Loops: How Continuous Delivery Improves Effectiveness
-5. 12:00 – Real-World Example: Azure DevOps Team’s Transformation
-6. 15:30 – Scaling Continuous Delivery: The Windows Team Example
-7. 18:00 – How DevOps Practices Enable Continuous Delivery
+- **Consistency and Reliability**: By automating deployments, we eliminate the variability introduced by human intervention. This consistency is crucial; it reduces the risk of errors that can lead to catastrophic failures.
+  
+- **Risk Mitigation**: Consider the infamous case of Knight Capital Group. Their manual deployment process led to a catastrophic failure, resulting in losses that forced them into bankruptcy. They went from having $450 million in the bank to filing for bankruptcy due to a single deployment gone wrong. This stark example underscores the importance of automation in safeguarding your organisation.
 
-🎯 Who This Video is For:
+### Protecting What Matters
 
-• Engineering leaders looking to reduce risk in software delivery
-• Teams aiming to implement or improve continuous delivery practices
-• Organizations seeking faster, more reliable deployment processes
-• Agile and DevOps practitioners focused on improving feedback loops
+In my journey, I’ve seen how automation can protect not just the business, but also its brand, employees, and customers. Here’s how:
 
-📖 What You’ll Learn:
+- **Automated Checks**: Implementing automated checks ensures that the software meets the minimum standards required by the business. This proactive approach significantly lowers the risk of deploying faulty software.
 
-• Why consistency and reliability are the core benefits of continuous delivery
-• How automation in DevOps reduces the risk of human error
-• The importance of faster feedback loops in improving product quality
-• Real-world examples of how continuous delivery transforms delivery capabilities
-• How practices like continuous testing and deployment ensure business protection
+- **Continuous Everything**: Embracing continuous testing, continuous deployment, and continuous delivery allows for rapid feedback loops. This means that if something goes awry, developers can identify and rectify issues much faster.
 
-💡 Key Takeaways:
+### The Azure DevOps Transformation
 
-• Continuous delivery isn’t just about speed—it’s about reducing risk and increasing consistency.
-• Automation is key to protecting your business, brand, employees, and customers.
-• Shorter feedback loops lead to faster problem detection and resolution.
-• Examples like Azure DevOps and Windows teams show the scalability of continuous delivery.
+A prime example of the power of continuous delivery is the transformation witnessed by the Azure DevOps team at Microsoft. They managed to increase their feature delivery from 12 to an astonishing 280 features per year, all while maintaining the same team size. How did they achieve this? 
 
-At NKD Agility, we help organizations unlock the full potential of continuous delivery and DevOps practices. Ready to reduce risk, improve reliability, and deliver value faster? Visit us today on https://www.nkdagility.com and let’s transform your delivery processes together.
+- **Shortened Feedback Loops**: They transformed their feedback loop from days to mere minutes. Previously, their automated build process took days to yield results; now, it takes just three and a half minutes to run the entire test suite. This rapid feedback not only reduces costs but also enhances effectiveness.
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=LWRAX3OyO28)
+### Real-World Impact
+
+The implications of continuous delivery extend beyond internal processes. For instance, the Windows team at Microsoft exemplifies the power of rapid deployment. They can move code from development to production in less than 24 hours. This agility allows them to get features in front of users quickly, iterating based on real-world feedback.
+
+If organisations like CrowdStrike had adopted similar practices, they could have avoided the errors that plagued their deployments. Continuous delivery, when executed effectively, reduces risk, enhances effectiveness, and accelerates feedback.
+
+### Conclusion
+
+In conclusion, the journey towards continuous delivery is not merely about speeding up deployments; it’s about embedding automation into the very fabric of your development process. By doing so, you not only protect your business but also empower your teams to deliver high-quality software consistently. Embrace the power of continuous delivery, and you’ll find that the benefits extend far beyond mere speed.

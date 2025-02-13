@@ -1,6 +1,6 @@
 ---
-title: Taming Scope Creep with Agile
-description: Master scope creep with Agile! Join Martin Hinshelwood as he reveals strategies to focus on value delivery and adapt to change in project management.
+title: 'Transforming Scope Creep into Success: Embrace Agility and Deliver Value in a Changing Market'
+description: Struggling with scope creep? Discover how embracing Agile principles can help you adapt to change, prioritise value, and enhance your product delivery.
 date: 2024-12-04T06:00:00Z
 ResourceId: qNJ2suVslzE
 ResourceType: videos
@@ -11,7 +11,6 @@ source: youtube
 url: /resources/videos/:slug
 slug: taming-scope-creep-with-agile
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=qNJ2suVslzE
 aliases:
 - /resources/videos/qNJ2suVslzE
 - /resources/videos/taming-scope-creep-with-agile
@@ -43,53 +42,37 @@ tags:
 - Working Software
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
 - Agile Product Management
-- Market Adaptability
 - People and Process
+- Value Delivery
 
 ---
- Overcoming Scope Creep: Focus on Value, Not Fixed Scope | Martin Hinshelwood
+If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance—the gap between your expectations and reality—exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.
 
-👋 Hi, I’m Martin Hinshelwood from NKD Agility, and in this video, I address a common challenge in project and product management: scope creep. The problem often lies in using outdated practices designed for low-variance environments, where the plan is predictable. I’ll show you how shifting to an Agile mindset and focusing on value delivery—rather than rigid scope and deadlines—can help you adapt to change and stay on track.
+### Understanding Scope Creep
 
-📌 Chapters:
+Scope creep isn't just a buzzword; it's a symptom of a deeper issue. When we cling to old ideas of fixed scope and deadlines, we miss the point of what we're trying to achieve: delivering a usable, working product that provides value to our customers. The reality is that the market is dynamic. Whether you're delivering a product to a business or a consumer, the ecosystem is constantly evolving. This means that what you need to deliver is also in a state of flux.
 
-1. 00:00 – Introduction: Why Scope Creep Happens
-2. 02:30 – The Problem with Fixed Scope in High-Variance Environments
-3. 05:15 – Moving to a Product Operating Model
-4. 08:00 – How Agile Helps Manage Change and Evolving Needs
-5. 11:00 – Why Value Delivery is More Important Than Fixed Scope
-6. 14:00 – Planning for Flexibility: Backlogs, Vision, and Direction
-7. 17:00 – Managing Budget and Time in Agile Contexts
+- **Continuous Change**: The requirements for your product will change over time. This could be in response to feedback from stakeholders or shifts in market demand. For instance, you might showcase a feature to your users, and they might respond with, "That's great, but now I need something entirely different." This is the ebb and flow of product development.
 
-🎯 Who This Video is For:
+- **Agility in Action**: This is precisely why Agile methodologies were developed. The Lean movement, which originated from the Toyota Production System, recognised the need for flexibility in production. Agile adapted these principles for software delivery, where change is not only possible but often necessary.
 
-• Product managers and project managers struggling with shifting requirements
-• Organizations transitioning from traditional project management to Agile practices
-• Teams looking to balance changing customer needs with delivery timelines
-• Agile practitioners seeking strategies to improve adaptability and focus on value
+### Shifting the Conversation
 
-📖 What You’ll Learn:
+If you're finding yourself in discussions about scope creep, it might be time to rethink the conversation. Instead of viewing scope as a fixed entity, we should embrace the idea that scope can—and should—change. Here are a few key points to consider:
 
-• Why traditional tools like Gantt charts fail in high-variance environments
-• How Agile and Lean principles help you adapt to scope changes
-• The importance of focusing on value delivery over fixed scope
-• How to manage time and budget effectively in Agile projects
-• Strategies for using product vision and dynamic backlogs to stay aligned
+- **Value Over Scope**: Our focus should shift from managing scope to delivering value. If we prioritise value, we can adapt our plans and resources to meet the evolving needs of our customers.
 
-💡 Key Takeaways:
+- **Dynamic Planning**: In an Agile context, we manage budget and time differently. With a clear product vision and a well-defined backlog that we know will change, we can plan effectively while remaining flexible. This allows us to pivot as needed without the stress of rigid scope constraints.
 
-• Scope creep is often a sign you’re working in a dynamic environment where fixed plans don’t apply.
-• Agile focuses on delivering value by adapting to change rather than resisting it.
-• A clear product vision and flexible backlog enable teams to pivot effectively.
-• Success in Agile isn’t measured by sticking to a rigid plan but by delivering value to customers.
+- **Embrace Feedback**: Regularly engaging with stakeholders and users can provide invaluable insights. Their feedback can guide your development process, ensuring that you're always aligned with their needs.
 
+### Conclusion
 
-At NKD Agility, we help teams and organizations embrace Agile principles to focus on value delivery and overcome challenges like scope creep. Ready to deliver more value with less stress? Visit us today on https://www.nkdagility.com and let’s transform how you approach product development.
+In conclusion, if you're struggling with scope creep, it may be a sign that you're still operating under outdated paradigms. Embrace the Agile mindset, where change is not only expected but welcomed. By focusing on delivering value and maintaining a flexible approach to planning, you can navigate the complexities of product delivery with confidence. Remember, the goal is not to stick to a predetermined scope but to ensure that what you deliver meets the needs of your customers in a rapidly changing environment. 
 
-#agile #productdevelopment #productmanagement #projectmanagement #devops #agileproductdevelopment #agileproductmanagement #agileprojectmanagement #projectmanager #productmanager #productowner #scrummaster #professionalscrumtrainer #scrum #leanproductdevelopment 
- [Watch on Youtube](https://www.youtube.com/watch?v=qNJ2suVslzE)
+Let’s shift our focus from scope to value, and in doing so, we can transform our approach to product delivery and ultimately achieve greater success.

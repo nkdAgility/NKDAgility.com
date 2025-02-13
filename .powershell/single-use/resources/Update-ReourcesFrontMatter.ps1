@@ -40,6 +40,9 @@ $resourceTypeCounts = @{}
 $Counter = 0
 
 
+$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.Contains('canonicalURL') }
+
+
 $TotalItems = $hugoMarkdownFiles.Count
 $hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
 Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
