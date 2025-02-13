@@ -1,6 +1,6 @@
 ---
-title: Professional Scrum Master (PSM) training class from naked Agility with Martin Hinshelwood [mktng]
-description: Join Martin Hinshelwood for an interactive PSM training workshop, enhancing your Scrum Master skills and gaining valuable insights into Scrum principles!
+title: 'Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters'
+description: Unlock your potential as a Scrum Master! Join our engaging workshop for hands-on learning, community support, and essential skills to thrive in Agile.
 date: 2022-07-27T18:45:17Z
 ResourceId: 5ZRMBfV9zpI
 ResourceType: videos
@@ -9,7 +9,6 @@ ResourceImportSource: Youtube
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/:slug
 slug: professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
-canonicalUrl: https://www.youtube.com/watch?v=5ZRMBfV9zpI
 aliases:
 - /resources/videos/5ZRMBfV9zpI
 - /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
@@ -24,7 +23,7 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 layout: video
 resourceTypes:
@@ -32,19 +31,32 @@ resourceTypes:
 categories: []
 
 ---
- This workshop is for practitioners that are interested in starting a career as a Scrum Master, existing Scrum Masters, agile coaches, and consultants trying to improve their use of Scrum.
+As I reflect on my journey in the world of Agile and Scrum, I often find myself drawn back to the transformative power of effective training. Recently, I had the pleasure of facilitating a workshop designed for those eager to embark on or enhance their careers as Scrum Masters. This experience reinforced my belief in the importance of a solid foundation in Scrum theory and principles.
 
-The Professional Scrum Master is an engaging, enjoyable learning experience where students gain a deep understanding of Scrum theory and principles, the Scrum Master accountabilities and why each element of the Scrum framework is important.
+### The Essence of the Professional Scrum Master Workshop
 
-Our training is delivered as an interactive, activity-based course over half-day sessions using Microsoft Teams, and Mural.
+This workshop is tailored for a diverse audience: aspiring Scrum Masters, seasoned practitioners, Agile coaches, and consultants. Each participant brings their unique perspective, enriching the learning environment. Here’s what makes this workshop stand out:
 
-Between sessions, we provide additional reading, writing, and watching activities to maximise the learning opportunities and complement the classroom experience.
+- **Engaging Learning Experience**: The Professional Scrum Master course is not just about theory; it’s an interactive, activity-based journey. We utilise platforms like Microsoft Teams and Mural to create a dynamic learning atmosphere. This approach ensures that participants are not passive recipients of information but active contributors to their learning.
 
-After the conclusion of the class, we provide access to a community of peers and continued access to the trainer through office hours, quarterly catchups, and constant engagement.
+- **Deep Understanding of Scrum**: Throughout the sessions, we delve into the core accountabilities of a Scrum Master and explore why each element of the Scrum framework is crucial. It’s vital for practitioners to grasp not just the ‘how’ but the ‘why’ behind Scrum practices. This understanding is what empowers them to lead teams effectively.
 
-To maximise validated learning all students are provided with a password to take the PSM1 assessment, and if they take it within 14 days and are unsuccessful will be granted a second attempt.
+- **Supplementary Learning Activities**: To maximise the learning experience, we provide additional reading, writing, and watching activities between sessions. This blend of classroom and self-directed learning allows participants to digest and reflect on the material, reinforcing their understanding.
 
-Our PSM class list: https://nkdagility.com/training/courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it/
+### Building a Community of Practice
 
-MN Classroom Content Preview: https://community.nkdagility.com/courses/6859485/content 
- [Watch on Youtube](https://www.youtube.com/watch?v=5ZRMBfV9zpI)
+One of the most rewarding aspects of this workshop is the community we foster. After the course concludes, participants gain access to a network of peers and ongoing support from trainers. This continuous engagement is invaluable:
+
+- **Office Hours and Quarterly Catch-ups**: We offer regular opportunities for participants to connect with trainers, ask questions, and share experiences. This ongoing dialogue helps solidify their learning and encourages them to apply their knowledge in real-world scenarios.
+
+- **Access to Assessments**: To ensure that participants can validate their learning, we provide a password for the PSM I assessment. If they don’t pass on their first attempt within 14 days, they’re granted a second chance. This policy reflects our commitment to their success and reinforces the idea that learning is a journey, not a destination.
+
+### My Personal Takeaway
+
+As I guide participants through this workshop, I am continually reminded of the profound impact that a well-structured training programme can have on an individual’s career. The excitement in the room, the questions asked, and the discussions that unfold are testaments to the thirst for knowledge that many professionals possess.
+
+In my experience, the role of a Scrum Master is not just about facilitating processes; it’s about nurturing a culture of collaboration, transparency, and continuous improvement. By investing in training and community, we equip Scrum Masters with the tools they need to thrive in their roles and drive meaningful change within their organisations.
+
+If you’re considering a career as a Scrum Master or looking to enhance your skills, I encourage you to seek out training opportunities that resonate with you. The journey may be challenging, but the rewards—both personal and professional—are well worth the effort. 
+
+Let’s continue to learn, grow, and embrace the Agile mindset together.

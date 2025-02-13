@@ -1,6 +1,6 @@
 ---
-title: Don’t put down to malevolence what can be explained by incompetence
-description: "Uncover how incompetence, not malevolence, often hinders agility in projects. Join Martin to transform your agile journey! \U0001F680 #agile #scrumtraining"
+title: 'Transforming Agile: How to Shift from Blame to Systemic Solutions for Better Team Dynamics'
+description: Discover how to transform your agile environment by addressing systemic issues rather than individual behaviours. Learn to foster adaptability and innovation today!
 date: 2023-09-29T07:00:14Z
 ResourceId: LxM_F_JJLeg
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: LxM_F_JJLeg
 url: /resources/videos/:slug
 slug: don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=LxM_F_JJLeg
 aliases:
 - /resources/videos/LxM_F_JJLeg
 - /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
@@ -25,29 +24,45 @@ isShort: false
 tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories: []
 
 ---
- *Don't Let Incompetence Mask as Malevolence*
+I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, Scrum Master, or product owner.
 
-We often mistake incompetence for malevolence in our agile journeys. Dive deep into how the system's incompetence can overshadow our efforts. 🚀 #productvision #agile #scrumtraining #scrumorg
+### Understanding Behaviour in Agile Environments
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+In my journey, I've observed that when people engage in behaviours that hinder our ability to deliver effectively, it’s rarely out of malice. More often than not, these actions stem from the way they are measured within the organisation. Here are a few key insights I've gathered over the years:
 
-In this video, Martin delves into the common misconception that challenges faced in agile environments are due to malevolence. Instead, he suggests that it's often the system's incompetence that's the real culprit. 🤔💡 Martin highlights how traditional project mindsets can hinder agility and emphasizes the importance of changing the system to achieve true agility. 🔄🌟
+- **Measurement Drives Behaviour**: The metrics we use to evaluate performance can significantly influence how individuals act. For instance, if developers are assessed based on the number of lines of code they produce, it can lead to counterproductive practices, such as excessive copying and pasting. This not only inflates their metrics but also detracts from the quality of the code.
 
-*NKDAgility can help!*
+- **The Pitfalls of Traditional Metrics**: I've seen organisations flip the script, rewarding fewer lines of code in an attempt to optimise efficiency. However, this can lead to a culture where developers are incentivised to do the bare minimum, resulting in a lack of innovation and engagement. 
 
-If you find it hard to navigate the challenges of agile systems, my team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can.
+- **Culture as a Reflection of Measurement**: Many leaders focus on changing the culture within their teams, believing that this will solve their problems. However, I’ve come to realise that culture is merely a shadow cast by the underlying measurement systems. To effect real change, we must first address how people are evaluated and incentivised.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's crucial to seek help sooner rather than later!
+### The Systemic Nature of Challenges
 
-_You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
-_Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses
+When I encounter resistance or feel as though I'm fighting an uphill battle to deliver a product, I remind myself that it’s often a systemic issue rather than a personal one. The systems in place can create barriers that inhibit progress. Here’s how I approach these challenges:
 
-Because you don't just need agility, you need Naked Agility. 
- [Watch on Youtube](https://www.youtube.com/watch?v=LxM_F_JJLeg)
+- **Identify Systemic Issues**: If you find yourself constantly thwarted by compliance checks or bureaucratic processes, it’s crucial to recognise that these are symptoms of a flawed system. The system is designed in a way that makes it difficult to adapt and respond to change.
+
+- **Simplifying Change Requests**: A common frustration in many organisations is the cumbersome process of handling change requests. When a customer needs to pivot, the response often involves lengthy forms and negotiations. This rigidity is a byproduct of a traditional project mindset that seeks to minimise variance. While this approach may work in manufacturing, it is ill-suited for software development, where flexibility and responsiveness are key.
+
+- **Shift the Focus**: Instead of viewing resistance as malevolence, consider it a reflection of systemic incompetence. By addressing the root causes—namely, the measurement systems and processes—we can create an environment that fosters collaboration and innovation.
+
+### Moving Forward
+
+In my experience, the path to agility is not about changing people but about transforming the systems that govern their behaviours. Here are a few steps to consider:
+
+- **Re-evaluate Metrics**: Assess the metrics you use to measure success. Are they encouraging the right behaviours? If not, it may be time to rethink them.
+
+- **Foster a Culture of Adaptability**: Encourage teams to embrace change and view it as an opportunity rather than a burden. This shift in mindset can lead to more innovative solutions and a more engaged workforce.
+
+- **Engage in Continuous Improvement**: Always be on the lookout for ways to improve processes and systems. This commitment to continuous improvement will help create a more agile and responsive organisation.
+
+In conclusion, the challenges we face in agile environments are often not due to the actions of individuals but rather the systems that shape their behaviours. By focusing on changing these systems, we can create a more conducive environment for agility to thrive. 
+
+If you found this discussion valuable, I encourage you to engage with me further. Whether you have questions about agile practices or want to share your experiences, feel free to reach out or book a coffee chat through Naked Agility. Let’s continue the conversation!
