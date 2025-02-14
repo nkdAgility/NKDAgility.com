@@ -21,11 +21,11 @@ function Get-CatalogHashtable {
     return $catalogHash
 }
 
-
 $catalogues = @{}
-$catalogues["categories"] = Get-CatalogHashtable -Classification "categories"
-$catalogues["tags"] = Get-CatalogHashtable -Classification "tags"
-$catalogues["full"] = $catalogues["categories"] + $catalogues["tags"]
+$catalogues["catalog"] = @{}
+$catalogues["catalog"]["categories"] = Get-CatalogHashtable -Classification "categories"
+$catalogues["catalog"]["tags"] = Get-CatalogHashtable -Classification "tags"
+$catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"]
 
 function Get-CategoryConfidenceWithChecksum {
     param (
@@ -42,62 +42,27 @@ function Get-CategoryConfidenceWithChecksum {
         New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
     }
 
-    $oldDataFiles = @((Join-Path $CacheFolder "data.index.tags.json"), (Join-Path $CacheFolder "data.index.categories.json"))
-    if ($oldDataFiles | Where-Object { Test-Path $_ }) {
-        try {
-            $dataFile = Join-Path $CacheFolder "data.index.classifications.json"
-            $data = $null;
-            if (Test-Path $dataFile) {
-                $data = Get-Content (Join-Path $CacheFolder "data.index.classifications.json") | ConvertFrom-Json -ErrorAction Stop
-            }
-            foreach ($oldDataFile in $oldDataFiles) {
-                if (Test-Path $oldDataFile) {
-                    $oldData = Get-Content $oldDataFile | ConvertFrom-Json -ErrorAction Stop
-                    if ($data -eq $null) {
-                        $data = $oldData
-                    }
-                    else {
-                        # Merge properties from $oldData into $data
-                        foreach ($property in $oldData.PSObject.Properties) {
-                            if (-not $data.PSObject.Properties.Name.Contains($property.Name)) {
-                                Add-Member -InputObject $data -MemberType NoteProperty -Name $property.Name -Value $property.Value
-                            }
-                            else {
-                                # Optionally, handle merging of existing properties if needed
-                                # For example, if it's a list, you can combine them
-                                if ($data.$($property.Name) -is [System.Collections.IList]) {
-                                    $data.$($property.Name) += $property.Value
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-            $data | ConvertTo-Json -Depth 2 | Set-Content -Path $dataFile -Force
-
-            foreach ($oldDataFile in $oldDataFiles) {
-                if (Test-Path $oldDataFile) {
-                    Remove-Item $oldDataFile -Force
-                }
-            }
-        }
-        catch {
-            Write-ErrorLog "Error migrating old data files. Please re-run the command.\n Error: $_"
-            exit
-        }
-    }
-
-
     $catalog = @{}
     
     switch ($ClassificationType) {
-        "categories" {
-            $catalog = Get-CatalogHashtable -Classification "categories"
+        { $_ -in "categories", "tags" } {
+            $catalog = $catalogues["catalog"][$ClassificationType]
+            $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
         }
-        "tags" {
-            $catalog = Get-CatalogHashtable -Classification "tags"
+        { "catalog_full" } {
+            $catalog = $catalogues["catalog_full"]
+            $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+        }
+        "marketing" {
+            $catalog = $catalogues["marketing"]
+            $catalog_full = $catalog
+            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+        }
+        default {
+            Write-ErrorLog "Invalid classification type. Please use 'categories', 'tags', or 'marketing'."
+            return @()
         }
     }
     $batchJsonlOutout = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-output.jsonl"
@@ -164,7 +129,7 @@ function Get-CategoryConfidenceWithChecksum {
         try {
             $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
             Write-DebugLog "Load Cache: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
-            $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $fullCatalogue.Keys }
+            $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog_full.Keys }
             if ( $keysToRemove.Count -gt 0) {
                 # If there are keys to remove, remove them and update the cache
                 Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
@@ -193,7 +158,7 @@ function Get-CategoryConfidenceWithChecksum {
             # If the cache is up to date, skip the API call
             if (($cachedCategory.calculated_at) -and (([DateTimeOffset]$cachedCategory.calculated_at) -gt ([DateTimeOffset]$Catalog[$category].date))) {
                 # Recalculate final_score and level
-                $finalScore = [math]::Round(($cachedCategory.ai_confidence * 0.9) + ($cachedCategory.non_ai_confidence * 0.1))
+                $finalScore = = Get-ComputedConfidence -aiConfidence $cachedCategory.ai_confidence -nonAiConfidence $cachedCategory.non_ai_confidence
                 $level = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
             
                 if ($cachedCategory.final_score -ne $finalScore -or $cachedCategory.level -ne $level) {
@@ -280,6 +245,14 @@ do not wrap the json in anything else, just return the json object.
     }
 }
 
+function Get-ComputedConfidence {
+    param (
+        [string]$aiConfidence,
+        [string]$nonAiConfidence
+    )
+    return [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
+}
+
 function Get-ConfidenceFromAIResponse {
     param (
         [string]$Category,
@@ -329,7 +302,7 @@ function Get-ConfidenceFromAIResponse {
         }
     }
 
-    $finalScore = [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
+    $finalScore = Get-ComputedConfidence -aiConfidence $aiConfidence -nonAiConfidence $nonAiConfidence
 
     return [PSCustomObject]@{
         "category"          = $Category
