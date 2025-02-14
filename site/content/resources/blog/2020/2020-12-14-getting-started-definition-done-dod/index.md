@@ -27,32 +27,32 @@ aliasesFor404:
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Decision Making
-- Definition of Done
-- Empirical Process Control
-- Engineering Excellence
-- Engineering Practices
 - Increment
-- Operational Practices
-- Pragmatic Thinking
-- Professional Scrum
+- Definition of Done
 - Scrum Product Development
-- Scrum Team
-- Software Developers
 - Software Development
-- Team Collaboration
-- Team Performance
+- Professional Scrum
 - Transparency
 - Working Software
+- Empirical Process Control
+- Scrum Team
+- Team Performance
+- Engineering Excellence
+- Software Developers
+- Engineering Practices
+- Agile Frameworks
+- Operational Practices
+- Pragmatic Thinking
+- Agile Project Management
+- Agile Planning
+- Team Collaboration
+- Decision Making
 categories:
-- Agile Product Management
-- People and Process
-- Practical Techniques and Tooling
-- Product Delivery
 - Scrum
+- People and Process
+- Product Delivery
+- Practical Techniques and Tooling
+- Agile Product Management
 - Value Delivery
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 

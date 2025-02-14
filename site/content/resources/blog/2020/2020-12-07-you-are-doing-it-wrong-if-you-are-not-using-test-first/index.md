@@ -23,27 +23,27 @@ aliasesFor404:
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 tags:
-- Automated Testing
-- Continuous Delivery
+- Test First Development
+- Software Development
 - Engineering Excellence
 - Engineering Practices
+- Test Driven Development
+- Working Software
+- Automated Testing
+- Software Developers
+- Test Automation
+- Product Validation
+- Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
-- Product Validation
-- Software Developers
-- Software Development
-- Technical Mastery
-- Test Automation
-- Test Driven Development
-- Test First Development
-- Working Software
+- Continuous Delivery
 categories:
+- Technical Excellence
 - Code and Complexity
+- Value Delivery
 - Practical Techniques and Tooling
 - Product Delivery
 - Scrum
-- Technical Excellence
-- Value Delivery
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

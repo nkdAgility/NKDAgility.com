@@ -26,21 +26,21 @@ aliasesFor404:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 tags:
-- Agile Frameworks
-- Agile Project Management
+- Transparency
 - Azure Boards
-- Lean Thinking
+- Software Development
+- Agile Project Management
+- Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking
-- Software Development
-- Transparency
+- Lean Thinking
 categories:
-- Azure DevOps
 - Flow Efficiency
 - Kanban
+- Azure DevOps
+- Practical Techniques and Tooling
 - Lean
 - People and Process
-- Practical Techniques and Tooling
 - Transparency and Accountability
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 

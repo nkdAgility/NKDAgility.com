@@ -21,41 +21,41 @@ aliasesFor404:
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
+- Scrum Master
 - Accountability
+- Scrum Team
+- Agile Project Management
+- Software Development
+- Scrum Product Development
+- Professional Scrum
+- Technical Leadership
+- Team Performance
+- Pragmatic Thinking
 - Agile Frameworks
 - Agile Leadership
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
-- Organisational Culture
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
-- Scrum Product Development
-- Scrum Team
-- Software Developers
-- Software Development
 - Strategy
-- Team Collaboration
+- Organisational Culture
+- Software Developers
 - Team Motivation
-- Team Performance
-- Technical Leadership
+- Team Collaboration
 - Technical Mastery
+- Agile Planning
+- Agile Transformation
 categories:
-- Agile Product Management
-- Business Agility
-- DevOps
-- Enterprise Agility
-- Lean
-- Organisational Agility
 - People and Process
-- Product Delivery
-- Resilience and Change
 - Scrum
-- Sociotechnical Systems
-- Technical Excellence
-- Transparency and Accountability
+- Agile Product Management
 - Value Delivery
+- Product Delivery
+- Organisational Agility
+- Business Agility
+- Sociotechnical Systems
+- Transparency and Accountability
+- Enterprise Agility
+- Technical Excellence
+- DevOps
+- Resilience and Change
+- Lean
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 
 ---

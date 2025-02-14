@@ -28,15 +28,15 @@ aliasesFor404:
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 tags:
 - Lean Thinking
-- Organisational Change
 - Organisational Physics
+- Organisational Change
 categories:
 - Beta Codex
-- Business Agility
 - Complexity Thinking
 - Enterprise Agility
-- Lean
 - Organisational Agility
+- Lean
+- Business Agility
 preview: image-1.jpg
 
 ---

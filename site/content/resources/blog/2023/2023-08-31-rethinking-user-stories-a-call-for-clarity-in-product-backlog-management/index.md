@@ -27,20 +27,20 @@ aliasesFor404:
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags:
-- Agile Project Management
-- Pragmatic Thinking
-- Product Backlog
-- Product Management
-- Product Owner
-- Scrum Product Development
-- Software Development
 - Transparency
+- Scrum Product Development
+- Product Management
+- Product Backlog
+- Product Owner
+- Agile Project Management
+- Software Development
+- Pragmatic Thinking
 categories:
-- Agile Product Management
 - People and Process
+- Agile Product Management
+- Transparency and Accountability
 - Product Delivery
 - Scrum
-- Transparency and Accountability
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

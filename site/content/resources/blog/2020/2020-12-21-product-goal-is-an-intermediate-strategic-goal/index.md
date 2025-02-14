@@ -23,44 +23,44 @@ aliasesFor404:
 - /blog/product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags:
-- Ability to Innovate
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Change Management
-- Continuous Learning
-- Decision Making
-- Evidence Based Leadership
 - Experimentation
-- Hypothesis Driven Development
+- Agile Project Management
 - Lean Product Development
-- Organisational Change
-- Product Discovery
-- Product Management
-- Product Strategy
-- Product Validation
-- Sensemaking
 - Strategic Goals
+- Change Management
+- Product Discovery
+- Ability to Innovate
+- Product Management
+- Evidence Based Leadership
+- Product Validation
+- Agile Strategy
+- Agile Philosophy
+- Organisational Change
+- Agile Transformation
+- Decision Making
+- Product Strategy
+- Agile Frameworks
+- Hypothesis Driven Development
+- Sensemaking
+- Continuous Learning
 categories:
-- Agile Product Management
 - Agile Product Operating Model
-- Business Agility
-- Complexity Thinking
-- DevOps
-- Discovery and Learning
-- Enterprise Agility
+- Agile Product Management
+- Value Delivery
 - Evidence Based Management
-- Lean
-- Market Adaptability
-- Metrics and Learning
-- Organisational Agility
+- Resilience and Change
+- Discovery and Learning
 - People and Process
 - Product Delivery
-- Resilience and Change
+- Market Adaptability
+- Business Agility
+- Metrics and Learning
+- Enterprise Agility
+- Organisational Agility
 - Sociotechnical Systems
-- Value Delivery
+- Complexity Thinking
+- Lean
+- DevOps
 preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---

@@ -27,40 +27,40 @@ aliasesFor404:
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Planning Tools
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Decision Making
-- Organisational Culture
-- Organisational Physics
 - Pragmatic Thinking
+- Sensemaking
+- Agile Project Management
+- Scrum Product Development
 - Product Backlog
 - Product Management
-- Product Owner
-- Scrum Product Development
-- Self Organisation
-- Sensemaking
+- Agile Strategy
 - Software Development
+- Agile Planning
+- Agile Frameworks
+- Product Owner
+- Agile Philosophy
+- Organisational Culture
+- Decision Making
+- Organisational Physics
 - Strategy
+- Agile Values and Principles
+- Agile Planning Tools
+- Agile Transformation
+- Self Organisation
 categories:
 - Agile Product Management
-- Agile Product Operating Model
-- Business Agility
-- Code and Complexity
-- Complexity Thinking
-- Discovery and Learning
-- Market Adaptability
-- Organisational Agility
-- People and Process
-- Product Delivery
 - Resilience and Change
-- Sociotechnical Systems
+- People and Process
+- Agile Product Operating Model
+- Discovery and Learning
+- Complexity Thinking
+- Product Delivery
 - Systems Thinking
+- Sociotechnical Systems
+- Organisational Agility
+- Code and Complexity
+- Market Adaptability
+- Business Agility
 preview: image-1.jpg
 
 ---

@@ -22,47 +22,47 @@ aliasesFor404:
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
 tags:
+- Increment
+- Transparency
+- Deployment Frequency
+- Software Development
+- Frequent Releases
+- Scrum Product Development
+- Product Validation
+- Customer Feedback Loops
+- Working Software
+- Release Management
+- Agile Transformation
+- Agile Planning
+- Product Management
+- Lead Time
+- Software Developers
+- Continuous Delivery
+- Agile Strategy
 - Agile Frameworks
 - Agile Philosophy
-- Agile Planning
 - Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Continuous Delivery
-- Customer Feedback Loops
-- Deployment Frequency
-- Frequent Releases
-- Increment
-- Lead Time
-- Product Management
-- Product Validation
-- Release Management
-- Scrum Product Development
-- Software Developers
-- Software Development
-- Transparency
-- Working Software
 categories:
+- Value Delivery
 - Agile Product Management
-- Agile Product Operating Model
-- Application Lifecycle Management
+- Product Delivery
+- People and Process
 - Business Agility
+- Metrics and Learning
+- Market Adaptability
+- Flow Efficiency
 - DevOps
 - Discovery and Learning
-- Enterprise Agility
-- Evidence Based Management
-- Flow Efficiency
-- Market Adaptability
-- Metrics and Learning
-- Organisational Agility
-- People and Process
-- Practical Techniques and Tooling
-- Product Delivery
-- Scrum
-- Technical Excellence
 - Transparency and Accountability
-- Value Delivery
 - Value Stream Management
+- Practical Techniques and Tooling
+- Scrum
+- Application Lifecycle Management
+- Organisational Agility
+- Technical Excellence
+- Agile Product Operating Model
+- Evidence Based Management
+- Enterprise Agility
 preview: 2025-02-10-without-delivery-no-value.jpg
 
 ---

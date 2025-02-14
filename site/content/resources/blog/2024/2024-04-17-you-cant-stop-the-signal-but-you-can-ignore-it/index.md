@@ -27,47 +27,47 @@ aliasesFor404:
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
-- Agile Product Management
-- Business Agility
-- Complexity Thinking
-- Discovery and Learning
-- Enterprise Agility
-- Flow Efficiency
-- Lean
-- Market Adaptability
-- Metrics and Learning
-- Organisational Agility
-- Organisational Psychology
 - People and Process
-- Product Delivery
-- Resilience and Change
-- Scrum
-- Sociotechnical Systems
-- Systems Thinking
 - Transparency and Accountability
+- Resilience and Change
+- Sociotechnical Systems
+- Enterprise Agility
+- Organisational Agility
+- Agile Product Management
+- Discovery and Learning
+- Market Adaptability
 - Value Delivery
+- Business Agility
+- Scrum
+- Systems Thinking
+- Complexity Thinking
+- Product Delivery
+- Metrics and Learning
+- Organisational Psychology
+- Lean
+- Flow Efficiency
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
 - Agile Frameworks
-- Agile Leadership
 - Agile Philosophy
-- Agile Project Management
-- Agile Strategy
+- Organisational Culture
 - Agile Transformation
 - Agile Values and Principles
-- Continuous Learning
-- Empirical Process Control
-- Operational Practices
-- Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Psychological Safety
-- Sensemaking
-- Software Developers
-- Software Development
-- Team Collaboration
-- Team Performance
 - Transparency
+- Operational Practices
+- Empirical Process Control
+- Team Performance
+- Agile Strategy
+- Agile Leadership
+- Continuous Learning
+- Team Collaboration
+- Agile Project Management
+- Software Development
+- Software Developers
+- Sensemaking
+- Psychological Safety
+- Pragmatic Thinking
+- Organisational Physics
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

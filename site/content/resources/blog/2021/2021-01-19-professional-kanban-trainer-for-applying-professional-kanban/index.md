@@ -23,10 +23,10 @@ aliasesFor404:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
-- Agile Frameworks
 - Agile Project Management
-- Operational Practices
+- Agile Frameworks
 - Software Development
+- Operational Practices
 categories:
 - Kanban
 - Practical Techniques and Tooling

@@ -27,44 +27,44 @@ aliasesFor404:
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
-- Ability to Innovate
-- Agile Frameworks
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Customer Satisfaction
-- Cycle Time
-- Decision Making
-- Deployment Frequency
-- Empirical Process Control
-- Evidence Based Leadership
-- Frequent Releases
-- Operational Practices
-- Pragmatic Thinking
-- Product Management
 - Revenue per Employee
 - Scrum Product Development
+- Ability to Innovate
+- Product Management
+- Agile Project Management
 - Software Development
-- Trend Analysis
+- Customer Satisfaction
+- Empirical Process Control
 - Working Software
+- Cycle Time
+- Agile Frameworks
+- Evidence Based Leadership
+- Operational Practices
+- Agile Strategy
+- Decision Making
+- Agile Transformation
+- Deployment Frequency
+- Frequent Releases
+- Trend Analysis
+- Pragmatic Thinking
 categories:
-- Agile Product Management
-- Agile Product Operating Model
-- Business Agility
-- Enterprise Agility
 - Evidence Based Management
-- Flow Efficiency
-- Market Adaptability
-- Metrics and Learning
-- Organisational Agility
-- People and Process
-- Practical Techniques and Tooling
-- Product Delivery
-- Products and Books
-- Resilience and Change
 - Scrum
-- Sociotechnical Systems
+- Agile Product Management
+- People and Process
 - Value Delivery
+- Product Delivery
+- Organisational Agility
+- Metrics and Learning
+- Enterprise Agility
+- Business Agility
+- Practical Techniques and Tooling
+- Market Adaptability
+- Flow Efficiency
+- Agile Product Operating Model
+- Resilience and Change
+- Products and Books
+- Sociotechnical Systems
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

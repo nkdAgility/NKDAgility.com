@@ -19,43 +19,43 @@ aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- Agile Strategy
+- Software Development
+- Engineering Practices
 - Continuous Delivery
+- Software Developers
+- Release Management
 - Continuous Integration
 - Deployment Frequency
-- Deployment Strategies
-- Engineering Excellence
-- Engineering Practices
-- Frequent Releases
-- Lead Time
-- Lean Principles
 - Modern Source Control
 - Operational Practices
+- Engineering Excellence
+- Deployment Strategies
+- Frequent Releases
 - Pragmatic Thinking
-- Release Management
-- Software Developers
-- Software Development
 - Strategy
-- Technical Mastery
-- Throughput
+- Lead Time
+- Agile Strategy
 - Working Software
+- Throughput
+- Technical Mastery
+- Lean Principles
 categories:
-- Application Lifecycle Management
-- Azure DevOps
-- Business Agility
-- Code and Complexity
-- Complexity Thinking
 - DevOps
-- Enterprise Agility
-- Flow Efficiency
-- Lean
-- Market Adaptability
-- Organisational Agility
-- Practical Techniques and Tooling
-- Product Delivery
 - Technical Excellence
 - Value Delivery
+- Product Delivery
+- Flow Efficiency
+- Practical Techniques and Tooling
+- Code and Complexity
+- Azure DevOps
+- Organisational Agility
+- Market Adaptability
 - Value Stream Management
+- Business Agility
+- Application Lifecycle Management
+- Complexity Thinking
+- Enterprise Agility
+- Lean
 preview: 2025-02-06-stop-promoting-branches.jpg
 
 ---

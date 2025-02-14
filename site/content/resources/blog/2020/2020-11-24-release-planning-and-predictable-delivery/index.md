@@ -22,41 +22,41 @@ aliasesFor404:
 - /blog/release-planning-and-predictable-delivery
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Backlog Refinement
-- Definition of Done
-- Empirical Process Control
-- Estimation
-- Increment
-- Operational Practices
-- Pragmatic Thinking
-- Professional Scrum
-- Release Management
-- Scrum Product Development
-- Software Developers
 - Software Development
-- Technical Debt
-- Technical Leadership
 - Transparency
+- Increment
+- Estimation
+- Pragmatic Thinking
+- Empirical Process Control
+- Scrum Product Development
 - Working Software
+- Agile Planning
+- Technical Leadership
+- Software Developers
+- Technical Debt
+- Release Management
+- Agile Project Management
+- Definition of Done
+- Backlog Refinement
+- Agile Frameworks
+- Professional Scrum
+- Agile Strategy
+- Operational Practices
 categories:
-- Agile Product Management
-- Agile Product Operating Model
-- Business Agility
-- DevOps
-- Enterprise Agility
-- Lean
-- Market Adaptability
-- Organisational Agility
-- People and Process
-- Practical Techniques and Tooling
 - Product Delivery
 - Scrum
-- Sociotechnical Systems
+- Agile Product Management
 - Value Delivery
+- People and Process
+- Organisational Agility
+- Practical Techniques and Tooling
+- Agile Product Operating Model
+- Enterprise Agility
+- Business Agility
+- Sociotechnical Systems
+- Market Adaptability
+- DevOps
+- Lean
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

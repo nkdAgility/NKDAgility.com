@@ -23,42 +23,42 @@ aliasesFor404:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
-- Agile Product Management
-- Business Agility
-- Complexity Thinking
-- Discovery and Learning
-- Market Adaptability
-- Organisational Agility
-- People and Process
-- Personal
-- Practical Techniques and Tooling
-- Product Delivery
-- Resilience and Change
 - Scrum
-- Sociotechnical Systems
+- People and Process
+- Agile Product Management
+- Organisational Agility
+- Resilience and Change
+- Complexity Thinking
+- Product Delivery
+- Market Adaptability
+- Personal
+- Discovery and Learning
 - Value Delivery
+- Practical Techniques and Tooling
+- Sociotechnical Systems
+- Business Agility
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
+- Agile Project Management
+- Scrum Product Development
+- Professional Scrum
+- Software Development
+- Empirical Process Control
+- Agile Planning
+- Pragmatic Thinking
+- Agile Transformation
 - Agile Frameworks
 - Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Continuous Learning
-- Empirical Process Control
-- Increment
-- Pragmatic Thinking
-- Professional Scrum
 - Scrum Master
-- Scrum Product Development
-- Scrum Team
-- Self Organisation
-- Software Developers
-- Software Development
-- Team Collaboration
 - Team Performance
+- Team Collaboration
+- Scrum Team
+- Increment
+- Continuous Learning
 - Technical Leadership
+- Self Organisation
+- Agile Strategy
+- Software Developers
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

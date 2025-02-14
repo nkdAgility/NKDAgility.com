@@ -27,33 +27,33 @@ aliasesFor404:
 - /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 tags:
-- Agile Planning
-- Agile Planning Tools
-- Agile Project Management
-- Backlog Refinement
-- Lean Principles
-- Lean Product Development
-- Lean Thinking
-- Operational Practices
-- Pragmatic Thinking
 - Product Backlog
 - Product Management
-- Product Owner
-- Product Strategy
-- Professional Scrum
-- Scrum Product Development
-- Software Development
-- Strategy
 - Transparency
+- Lean Product Development
+- Scrum Product Development
+- Lean Thinking
+- Backlog Refinement
+- Lean Principles
+- Product Owner
+- Professional Scrum
+- Agile Planning Tools
+- Agile Project Management
+- Agile Planning
+- Pragmatic Thinking
+- Software Development
+- Product Strategy
+- Strategy
+- Operational Practices
 categories:
-- Agile Product Management
-- Agile Product Operating Model
 - Lean
-- Product Delivery
-- Products and Books
-- Scrum
-- Transparency and Accountability
 - Value Delivery
+- Product Delivery
+- Agile Product Operating Model
+- Agile Product Management
+- Products and Books
+- Transparency and Accountability
+- Scrum
 preview: image-1.jpg
 
 ---

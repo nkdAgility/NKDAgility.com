@@ -23,22 +23,22 @@ aliasesFor404:
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 tags:
-- Agile Frameworks
+- Increment
+- Agile Values and Principles
 - Agile Philosophy
 - Agile Project Management
-- Agile Transformation
-- Agile Values and Principles
-- Increment
-- Organisational Culture
-- Pragmatic Thinking
 - Software Developers
-- Software Development
+- Agile Frameworks
 - Team Performance
+- Software Development
+- Agile Transformation
+- Pragmatic Thinking
+- Organisational Culture
 categories:
+- Scrum
+- People and Process
 - Agile Product Management
 - Organisational Agility
-- People and Process
-- Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 
 ---
