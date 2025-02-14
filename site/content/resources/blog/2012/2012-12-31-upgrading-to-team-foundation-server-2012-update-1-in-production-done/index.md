@@ -27,6 +27,8 @@ aliasesFor404:
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 tags: []
 categories:
+- Install and Configuration
+- Application Lifecycle Management
 - Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 

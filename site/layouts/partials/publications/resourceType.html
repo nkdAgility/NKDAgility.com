@@ -5,7 +5,12 @@
   <div class="categories p-1">
     {{ with .Params.categories }}
       {{ range . }}
-        <a href="{{ "/categories/" | relURL }}{{ . | urlize }}" class="btn btn-sm btn-nkdagility-secondary">{{ . }}</a>
+        {{ $category := . }}
+        {{ with $.Site.GetPage "taxonomy" (printf "categories/%s" ($category | urlize)) }}
+          <a href="{{ .Permalink }}" class="btn btn-sm btn-nkdagility-secondary">{{ $category }}</a>
+        {{ else }}
+          <a href="{{ printf "/resources/%s" ($category | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary">{{ $category }}</a>
+        {{ end }}
       {{ end }}
     {{ end }}
   </div>

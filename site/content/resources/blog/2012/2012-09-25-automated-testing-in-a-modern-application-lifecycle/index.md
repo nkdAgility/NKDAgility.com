@@ -23,8 +23,23 @@ aliasesFor404:
 - /blog/automated-testing-in-a-modern-application-lifecycle
 - /automated-testing-in-a-modern-application-lifecycle/
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
-tags: []
-categories: []
+tags:
+- Automated Testing
+- Software Development
+- Test Automation
+- Engineering Practices
+- Working Software
+- Technical Debt
+- Technical Mastery
+- Engineering Excellence
+- Software Developers
+- Operational Practices
+- Pragmatic Thinking
+- Windows
+categories:
+- Technical Excellence
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: metro-automated-test-icon-4-4.png
 
 ---

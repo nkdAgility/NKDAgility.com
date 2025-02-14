@@ -27,8 +27,13 @@ aliasesFor404:
 - /blog/tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 - /tfs-2012-update-1
 - /resources/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- System Configuration
+- Software Development
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-problem-icon-3-3.png
 
 ---

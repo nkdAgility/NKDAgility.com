@@ -27,8 +27,13 @@ aliasesFor404:
 - /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-tags: []
-categories: []
+tags:
+- System Configuration
+- Software Development
+- Troubleshooting
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-problem-icon-2-2.png
 
 ---

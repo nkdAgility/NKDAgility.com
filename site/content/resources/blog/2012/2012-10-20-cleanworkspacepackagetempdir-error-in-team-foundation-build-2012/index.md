@@ -27,8 +27,20 @@ aliasesFor404:
 - /blog/team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
 - /team-foundation-build-2012-issue
 - /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Continuous Integration
+- Technical Mastery
+- Operational Practices
+- Software Development
+- Engineering Excellence
+- Pragmatic Thinking
+- System Configuration
+- Windows
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-problem-icon-6-6.png
 
 ---
