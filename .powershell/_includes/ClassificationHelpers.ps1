@@ -1,5 +1,6 @@
 . ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/OpenAI.ps1
+
 function Get-CatalogHashtable {
     param (
         [string]$FolderPath = "site\content",
@@ -20,9 +21,11 @@ function Get-CatalogHashtable {
     return $catalogHash
 }
 
-if ($fullCatalogue -eq $null) {
-    $fullCatalogue = (Get-CatalogHashtable -Classification "categories") + (Get-CatalogHashtable -Classification "tags")
-}
+
+$catalogues = @{}
+$catalogues["categories"] = Get-CatalogHashtable -Classification "categories"
+$catalogues["tags"] = Get-CatalogHashtable -Classification "tags"
+$catalogues["full"] = $catalogues["categories"] + $catalogues["tags"]
 
 function Get-CategoryConfidenceWithChecksum {
     param (

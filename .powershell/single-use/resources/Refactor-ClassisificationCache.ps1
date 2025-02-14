@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog\"
+$outputDir = ".\site\content\resources\blog\2020"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 300 
@@ -59,28 +59,61 @@ $resources | ForEach-Object {
 
         Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter ('$($hugoMarkdown.FrontMatter.date)') of $TotalFiles" -PercentComplete $PercentComplete
 
-
-        $cacheFile = Join-Path $resourceDir "data.index.$ClassificationType.json"
-        $cachedData = @{}
-        if (Test-Path $cacheFile) {
+        $CacheFolder = $resourceDir
+        $oldDataFiles = @((Join-Path $CacheFolder "data.index.tags.json"), (Join-Path $CacheFolder "data.index.categories.json"))
+        if ($oldDataFiles | Where-Object { Test-Path $_ }) {
             try {
-                $cachedData = Get-Content $cacheFile | ConvertFrom-Json -Depth 2 -ErrorAction Stop
+                $dataFile = Join-Path $CacheFolder "data.index.classifications.json"
+                $data = $null;
+                if (Test-Path $dataFile) {
+                    $data = Get-Content (Join-Path $CacheFolder "data.index.classifications.json") | ConvertFrom-Json -ErrorAction Stop
+                }
+                foreach ($oldDataFile in $oldDataFiles) {
+                    if (Test-Path $oldDataFile) {
+                        $oldData = Get-Content $oldDataFile | ConvertFrom-Json -ErrorAction Stop
+                        if ($data -eq $null) {
+                            $data = $oldData
+                        }
+                        else {
+                            # Merge properties from $oldData into $data
+                            foreach ($property in $oldData.PSObject.Properties) {
+                                if (-not $data.PSObject.Properties.Name.Contains($property.Name)) {
+                                    Add-Member -InputObject $data -MemberType NoteProperty -Name $property.Name -Value $property.Value
+                                }
+                                else {
+                                    # Optionally, handle merging of existing properties if needed
+                                    # For example, if it's a list, you can combine them
+                                    if ($data.$($property.Name) -is [System.Collections.IList]) {
+                                        $data.$($property.Name) += $property.Value
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                $data | ConvertTo-Json -Depth 2 | Set-Content -Path $dataFile -Force
+    
+                foreach ($oldDataFile in $oldDataFiles) {
+                    if (Test-Path $oldDataFile) {
+                        Remove-Item $oldDataFile -Force
+                    }
+                }
             }
             catch {
-                Write-Debug "Warning: Cache file corrupted. Resetting cache."
-                $cachedData = @{}
+                Write-ErrorLog "Error migrating old data files. Please re-run the command.\n Error: $_"
+                exit
             }
         }
 
         Write-InfoLog "Original: $($cachedData.PSObject.Properties.Count) items"
    
-        $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog.Keys }
-        Write-InfoLog "Remove: $($keysToRemove.Count) items"
-        foreach ($key in $keysToRemove) {
-            $cachedData.PSObject.Properties.Remove($key)
-        }
-        Write-InfoLog "After: $($cachedData.PSObject.Properties.Count) items"
-        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        # $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog.Keys }
+        # Write-InfoLog "Remove: $($keysToRemove.Count) items"
+        # foreach ($key in $keysToRemove) {
+        #     $cachedData.PSObject.Properties.Remove($key)
+        # }
+        # Write-InfoLog "After: $($cachedData.PSObject.Properties.Count) items"
+        #$cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
    
 
     }
