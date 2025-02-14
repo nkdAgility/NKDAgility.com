@@ -317,7 +317,7 @@ function Get-OpenAIBatchesInProgress {
         # Loop through each batch and retrieve details
         foreach ($batch in $batchesResponse.data) {
             $batchId = $batch.id
-            Write-DebugLog "Batch ID: $batchId | Status: $($batch.status)"
+            Write-VerboseLog "Batch ID: $batchId | Status: $($batch.status)"
             if ($batch.status -eq "in_progress" -or $batch.status -eq "queued") {
                 $totalBatches++;
             }
