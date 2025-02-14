@@ -43,8 +43,18 @@ tags:
 - Technical Mastery
 - Working Software
 categories:
+- Agile Product Management
+- Discovery and Learning
+- Metrics and Learning
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
 - Product Delivery
+- Products and Books
 - Scrum
+- Sociotechnical Systems
+- Technical Excellence
+- Transparency and Accountability
 - Value Delivery
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 

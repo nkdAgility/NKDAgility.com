@@ -46,9 +46,15 @@ tags:
 - Strategy
 - Trend Analysis
 categories:
+- Beta Codex
 - Business Agility
+- Complexity Thinking
 - Enterprise Agility
+- Market Adaptability
 - Organisational Agility
+- People and Process
+- Resilience and Change
+- Sociotechnical Systems
 preview: 1686217267121-1-1-1.jpg
 
 ---

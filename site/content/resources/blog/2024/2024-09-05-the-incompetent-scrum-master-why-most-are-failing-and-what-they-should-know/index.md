@@ -51,8 +51,20 @@ tags:
 - Technical Leadership
 categories:
 - Agile Product Management
+- DevOps
+- Discovery and Learning
+- Lean
+- Metrics and Learning
+- News and Reviews
+- Organisational Agility
 - People and Process
+- Practical Techniques and Tooling
 - Product Delivery
+- Products and Books
+- Scaling Agility
+- Scrum
+- Sociotechnical Systems
+- Technical Excellence
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

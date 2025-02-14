@@ -24,8 +24,19 @@ aliasesFor404:
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
 - Agile Product Management
+- Business Agility
+- Complexity Thinking
+- Discovery and Learning
+- Market Adaptability
+- Organisational Agility
 - People and Process
+- Personal
+- Practical Techniques and Tooling
+- Product Delivery
+- Resilience and Change
 - Scrum
+- Sociotechnical Systems
+- Value Delivery
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Agile Frameworks

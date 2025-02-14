@@ -46,6 +46,12 @@ tags:
 - Working Software
 categories:
 - Agile Product Management
+- Agile Product Operating Model
+- Business Agility
+- DevOps
+- Market Adaptability
+- Organisational Agility
+- People and Process
 - Product Delivery
 - Value Delivery
 preview: image-1.jpg

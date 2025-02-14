@@ -44,9 +44,25 @@ tags:
 - Technical Mastery
 - Working Software
 categories:
+- Application Lifecycle Management
 - Azure DevOps
+- Business Agility
+- Code and Complexity
 - DevOps
+- Discovery and Learning
+- Enterprise Agility
+- Flow Efficiency
+- Market Adaptability
+- Metrics and Learning
+- News and Reviews
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
 - Product Delivery
+- Resilience and Change
+- Sociotechnical Systems
+- Technical Excellence
+- Value Delivery
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 
 ---

@@ -36,8 +36,13 @@ tags:
 - Team Motivation
 categories:
 - Business Agility
+- Discovery and Learning
 - Enterprise Agility
+- Market Adaptability
+- Organisational Agility
 - People and Process
+- Resilience and Change
+- Sociotechnical Systems
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 
 ---

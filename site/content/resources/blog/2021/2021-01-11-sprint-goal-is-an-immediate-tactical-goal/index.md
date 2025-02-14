@@ -45,8 +45,12 @@ tags:
 - Strategy
 categories:
 - Agile Product Management
+- Agile Product Operating Model
+- Lean
 - People and Process
+- Product Delivery
 - Scrum
+- Value Delivery
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

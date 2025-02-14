@@ -42,9 +42,15 @@ tags:
 - Strategic Goals
 - Strategy
 categories:
+- Agile Product Management
+- Events and Presentations
 - Evidence Based Management
 - Metrics and Learning
+- News and Reviews
 - People and Process
+- Products and Books
+- Scrum
+- Value Delivery
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

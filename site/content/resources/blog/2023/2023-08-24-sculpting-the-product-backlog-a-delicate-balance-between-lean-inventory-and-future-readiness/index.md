@@ -46,8 +46,13 @@ tags:
 - Strategy
 - Transparency
 categories:
+- Agile Product Management
+- Agile Product Operating Model
 - Lean
 - Product Delivery
+- Products and Books
+- Scrum
+- Transparency and Accountability
 - Value Delivery
 preview: image-1.jpg
 

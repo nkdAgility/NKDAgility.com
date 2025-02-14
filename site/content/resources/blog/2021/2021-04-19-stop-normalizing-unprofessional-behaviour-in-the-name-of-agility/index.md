@@ -36,6 +36,7 @@ tags:
 - Team Performance
 categories:
 - Agile Product Management
+- Organisational Agility
 - People and Process
 - Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg

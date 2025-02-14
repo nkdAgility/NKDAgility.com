@@ -46,7 +46,10 @@ tags:
 categories:
 - Agile Product Management
 - Metrics and Learning
+- People and Process
 - Scrum
+- Transparency and Accountability
+- Value Delivery
 preview: image-9-14-14.png
 
 ---

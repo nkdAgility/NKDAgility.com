@@ -48,9 +48,12 @@ tags:
 - Transparency
 - Working Software
 categories:
+- Agile Product Management
 - People and Process
+- Practical Techniques and Tooling
 - Product Delivery
 - Scrum
+- Value Delivery
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

@@ -39,6 +39,9 @@ tags:
 - Working Software
 categories:
 - Code and Complexity
+- Practical Techniques and Tooling
+- Product Delivery
+- Scrum
 - Technical Excellence
 - Value Delivery
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg

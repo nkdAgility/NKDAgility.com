@@ -43,7 +43,11 @@ tags:
 categories:
 - Agile Product Management
 - Agile Product Operating Model
+- Business Agility
+- Organisational Agility
 - People and Process
+- Product Delivery
+- Value Delivery
 preview: image-1.jpg
 
 ---

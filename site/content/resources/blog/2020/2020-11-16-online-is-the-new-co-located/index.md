@@ -31,6 +31,9 @@ tags:
 categories:
 - Events and Presentations
 - People and Process
+- Personal
+- Scrum
+- Sociotechnical Systems
 - Transparency and Accountability
 preview: image-21-3-3.png
 

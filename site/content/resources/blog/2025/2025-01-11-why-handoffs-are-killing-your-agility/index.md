@@ -39,9 +39,26 @@ tags:
 - Team Performance
 - Working Software
 categories:
+- Agile Product Management
+- Agile Product Operating Model
+- AI and Automation in Agility
 - Business Agility
+- Complexity Thinking
+- DevOps
+- Enterprise Agility
+- Flow Efficiency
+- Lean
+- Market Adaptability
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
 - Product Delivery
+- Resilience and Change
+- Scaling Agility
+- Sociotechnical Systems
+- Technical Excellence
 - Value Delivery
+- Value Stream Management
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

@@ -38,9 +38,11 @@ tags:
 - Team Performance
 - Transparency
 categories:
+- Agile Product Management
 - People and Process
 - Product Delivery
 - Scrum
+- Value Delivery
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

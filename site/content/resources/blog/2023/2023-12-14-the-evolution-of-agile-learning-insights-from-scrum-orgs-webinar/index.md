@@ -37,6 +37,9 @@ categories:
 - Discovery and Learning
 - Events and Presentations
 - People and Process
+- Products and Books
+- Scrum
+- Value Delivery
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

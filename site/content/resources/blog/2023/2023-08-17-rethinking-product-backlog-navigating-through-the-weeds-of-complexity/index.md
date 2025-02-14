@@ -49,8 +49,18 @@ tags:
 - Strategy
 categories:
 - Agile Product Management
+- Agile Product Operating Model
+- Business Agility
+- Code and Complexity
+- Complexity Thinking
+- Discovery and Learning
+- Market Adaptability
+- Organisational Agility
 - People and Process
+- Product Delivery
 - Resilience and Change
+- Sociotechnical Systems
+- Systems Thinking
 preview: image-1.jpg
 
 ---

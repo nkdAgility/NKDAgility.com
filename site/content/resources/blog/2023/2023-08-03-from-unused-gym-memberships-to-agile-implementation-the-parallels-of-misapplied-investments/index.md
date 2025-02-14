@@ -33,6 +33,8 @@ tags:
 - Software Developers
 - Software Development
 categories:
+- Agile Product Management
+- Business Agility
 - Organisational Agility
 - People and Process
 - Product Delivery

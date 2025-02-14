@@ -45,8 +45,17 @@ tags:
 - Working Software
 categories:
 - Agile Product Management
+- Agile Product Operating Model
 - Business Agility
+- Discovery and Learning
+- Evidence Based Management
+- Market Adaptability
+- Metrics and Learning
+- Organisational Agility
+- People and Process
+- Product Delivery
 - Value Delivery
+- Value Stream Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

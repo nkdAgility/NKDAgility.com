@@ -40,9 +40,22 @@ tags:
 - Throughput
 - Working Software
 categories:
+- Application Lifecycle Management
+- Azure DevOps
+- Business Agility
+- Code and Complexity
+- Complexity Thinking
 - DevOps
+- Enterprise Agility
+- Flow Efficiency
+- Lean
+- Market Adaptability
+- Organisational Agility
+- Practical Techniques and Tooling
+- Product Delivery
 - Technical Excellence
 - Value Delivery
+- Value Stream Management
 preview: 2025-02-06-stop-promoting-branches.jpg
 
 ---

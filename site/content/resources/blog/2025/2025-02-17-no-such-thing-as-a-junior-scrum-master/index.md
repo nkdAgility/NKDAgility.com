@@ -43,8 +43,19 @@ tags:
 - Technical Mastery
 categories:
 - Agile Product Management
+- Business Agility
+- DevOps
+- Enterprise Agility
+- Lean
+- Organisational Agility
 - People and Process
+- Product Delivery
+- Resilience and Change
 - Scrum
+- Sociotechnical Systems
+- Technical Excellence
+- Transparency and Accountability
+- Value Delivery
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 
 ---

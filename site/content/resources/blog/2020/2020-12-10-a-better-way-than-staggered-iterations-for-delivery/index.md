@@ -44,8 +44,17 @@ tags:
 - Test First Development
 - Working Software
 categories:
+- Agile Product Management
+- Agile Product Operating Model
+- Business Agility
+- Flow Efficiency
+- Market Adaptability
+- Organisational Agility
 - People and Process
+- Practical Techniques and Tooling
+- Product Delivery
 - Scrum
+- Technical Excellence
 - Value Delivery
 preview: staggered-iterations-for-delivery1-2-2.png
 

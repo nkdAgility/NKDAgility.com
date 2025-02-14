@@ -44,8 +44,19 @@ tags:
 - Working Software
 categories:
 - Agile Product Management
+- Agile Product Operating Model
+- Business Agility
+- DevOps
+- Enterprise Agility
+- Lean
+- Market Adaptability
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
 - Product Delivery
 - Scrum
+- Sociotechnical Systems
+- Value Delivery
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

@@ -47,8 +47,16 @@ tags:
 - Pragmatic Thinking
 - Team Motivation
 categories:
+- Complexity Thinking
+- Discovery and Learning
+- Enterprise Agility
+- Kanban
 - Lean
+- Organisational Agility
+- Organisational Psychology
 - People and Process
+- Products and Books
+- Scrum
 - Sociotechnical Systems
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 

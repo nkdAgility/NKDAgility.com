@@ -35,6 +35,7 @@ tags:
 - Team Performance
 - Technical Leadership
 categories:
+- Agile Product Management
 - People and Process
 - Product Delivery
 - Scrum

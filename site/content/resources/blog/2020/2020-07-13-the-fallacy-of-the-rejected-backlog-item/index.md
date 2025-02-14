@@ -43,6 +43,11 @@ tags:
 - Transparency
 - Working Software
 categories:
+- Agile Product Management
+- Agile Product Operating Model
+- Discovery and Learning
+- People and Process
+- Product Delivery
 - Scrum
 - Transparency and Accountability
 - Value Delivery

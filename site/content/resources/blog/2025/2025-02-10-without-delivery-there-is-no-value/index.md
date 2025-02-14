@@ -44,8 +44,25 @@ tags:
 - Working Software
 categories:
 - Agile Product Management
+- Agile Product Operating Model
+- Application Lifecycle Management
+- Business Agility
+- DevOps
+- Discovery and Learning
+- Enterprise Agility
+- Evidence Based Management
+- Flow Efficiency
+- Market Adaptability
+- Metrics and Learning
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
 - Product Delivery
+- Scrum
+- Technical Excellence
+- Transparency and Accountability
 - Value Delivery
+- Value Stream Management
 preview: 2025-02-10-without-delivery-no-value.jpg
 
 ---

@@ -49,8 +49,22 @@ tags:
 - Working Software
 categories:
 - Agile Product Management
+- Agile Product Operating Model
+- Business Agility
+- Enterprise Agility
 - Evidence Based Management
+- Flow Efficiency
+- Market Adaptability
+- Metrics and Learning
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
+- Product Delivery
+- Products and Books
+- Resilience and Change
 - Scrum
+- Sociotechnical Systems
+- Value Delivery
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

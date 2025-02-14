@@ -42,6 +42,9 @@ tags:
 categories:
 - Agile Product Management
 - People and Process
+- Product Delivery
+- Scrum
+- Sociotechnical Systems
 - Value Delivery
 preview: image-4-5-5.png
 

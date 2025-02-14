@@ -45,9 +45,12 @@ tags:
 - Team Collaboration
 - Team Performance
 categories:
+- Agile Product Management
 - People and Process
+- Practical Techniques and Tooling
 - Product Delivery
 - Scrum
+- Value Delivery
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

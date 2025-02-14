@@ -36,8 +36,11 @@ tags:
 - Strategy
 - Trend Analysis
 categories:
+- Business Agility
 - Enterprise Agility
+- Market Adaptability
 - Organisational Agility
+- People and Process
 - Resilience and Change
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 

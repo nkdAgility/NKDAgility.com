@@ -182,11 +182,11 @@ foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
         }
         #-----------------Categories-------------------
         $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20 
-        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
         #-----------------Tags-------------------
         $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20
-        $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
 
     }

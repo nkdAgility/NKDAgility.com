@@ -32,8 +32,11 @@ tags:
 - Organisational Physics
 categories:
 - Beta Codex
+- Business Agility
 - Complexity Thinking
 - Enterprise Agility
+- Lean
+- Organisational Agility
 preview: image-1.jpg
 
 ---

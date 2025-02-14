@@ -37,7 +37,12 @@ tags:
 - Throughput
 categories:
 - Agile Product Management
+- Evidence Based Management
+- Flow Efficiency
 - Metrics and Learning
+- People and Process
+- Practical Techniques and Tooling
+- Scrum
 - Value Delivery
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 

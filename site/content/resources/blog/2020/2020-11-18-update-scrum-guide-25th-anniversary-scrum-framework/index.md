@@ -37,7 +37,9 @@ tags:
 - Software Development
 categories:
 - Agile Product Management
+- News and Reviews
 - People and Process
+- Products and Books
 - Scrum
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 

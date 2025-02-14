@@ -59,8 +59,13 @@ tags:
 - Transparency
 categories:
 - Agile Product Management
+- Agile Product Operating Model
+- Evidence Based Management
 - People and Process
+- Product Delivery
 - Scrum
+- Transparency and Accountability
+- Value Delivery
 preview: image-3-3.png
 
 ---

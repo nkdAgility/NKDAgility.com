@@ -47,8 +47,14 @@ tags:
 - Technical Mastery
 - Working Software
 categories:
+- Agile Product Management
+- DevOps
 - People and Process
+- Practical Techniques and Tooling
+- Product Delivery
 - Scrum
+- Technical Excellence
+- Transparency and Accountability
 - Value Delivery
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 

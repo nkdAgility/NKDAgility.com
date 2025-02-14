@@ -48,8 +48,16 @@ tags:
 - Technical Leadership
 - Working Software
 categories:
+- Agile Product Management
+- Flow Efficiency
+- Metrics and Learning
+- Organisational Agility
+- People and Process
+- Practical Techniques and Tooling
 - Product Delivery
 - Scrum
+- Sociotechnical Systems
+- Transparency and Accountability
 - Value Delivery
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 

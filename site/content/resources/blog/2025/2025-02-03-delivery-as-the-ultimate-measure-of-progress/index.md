@@ -46,8 +46,20 @@ tags:
 - Team Performance
 - Working Software
 categories:
+- Agile Product Management
+- Business Agility
+- DevOps
+- Flow Efficiency
+- Market Adaptability
+- Metrics and Learning
+- News and Reviews
+- Organisational Agility
 - People and Process
+- Practical Techniques and Tooling
 - Product Delivery
+- Scrum
+- Sociotechnical Systems
+- Technical Excellence
 - Value Delivery
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
