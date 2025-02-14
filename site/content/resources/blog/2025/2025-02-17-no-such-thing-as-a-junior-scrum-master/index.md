@@ -24,15 +24,15 @@ tags:
 - Accountability
 - Agile Frameworks
 - Agile Leadership
+- Agile Planning
 - Agile Project Management
-- Operational Practices
+- Agile Transformation
 - Organisational Culture
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
-- Self Organisation
 - Software Developers
 - Software Development
 - Strategy
@@ -44,7 +44,7 @@ tags:
 categories:
 - Agile Product Management
 - People and Process
-- Product Delivery
+- Scrum
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 
 ---

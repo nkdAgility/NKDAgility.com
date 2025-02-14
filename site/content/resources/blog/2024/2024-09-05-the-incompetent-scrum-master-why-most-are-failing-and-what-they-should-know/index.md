@@ -37,10 +37,10 @@ tags:
 - Coaching
 - Engineering Practices
 - Mentoring
+- Operational Practices
 - Pragmatic Thinking
 - Professional Scrum
 - Scaled Agile
-- Scaling Agility
 - Scrum Master
 - Scrum Product Development
 - Scrum Team

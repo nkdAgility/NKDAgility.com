@@ -41,8 +41,8 @@ tags:
 - Working Software
 categories:
 - Product Delivery
+- Scrum
 - Transparency and Accountability
-- Value Delivery
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

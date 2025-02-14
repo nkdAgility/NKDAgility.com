@@ -30,8 +30,11 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
+- Agile Planning Tools
 - Agile Project Management
 - Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
 - Decision Making
 - Organisational Culture
 - Organisational Physics
@@ -40,11 +43,13 @@ tags:
 - Product Management
 - Product Owner
 - Scrum Product Development
+- Self Organisation
 - Sensemaking
 - Software Development
+- Strategy
 categories:
 - Agile Product Management
-- Discovery and Learning
+- People and Process
 - Resilience and Change
 preview: image-1.jpg
 

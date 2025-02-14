@@ -1,18 +1,1001 @@
 {
-  "Scaling Agility": {
-    "category": "Scaling Agility",
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-13T22:27:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-13T22:27:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, with no focus on mentoring or coaching techniques.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-13T22:27:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-13T22:27:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-13T22:27:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, rather than focusing on change management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-13T22:27:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide, focusing on Scrum roles and events, without addressing the Definition of Ready.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-13T22:27:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-13T22:27:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-13T22:27:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-13T22:27:30",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Scrum framework and its principles, which are related to the delivery of functional software. However, it primarily focuses on the updates to the Scrum Guide rather than directly addressing the characteristics or delivery of working software.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-13T22:27:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-13T22:27:32",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses updates to the Scrum Guide, which includes principles related to self-managing teams and accountability, but it primarily focuses on the roles and events within Scrum rather than explicitly addressing empirical process control as a central theme.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-13T22:27:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-13T22:27:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-13T22:27:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-13T22:27:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, with no clear focus on measuring or enhancing innovation capabilities.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-13T22:27:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-13T22:27:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-13T22:27:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide and Scrum roles, with no specific focus on backlog refinement practices.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-13T22:27:43",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses updates to the Scrum Guide, focusing on Scrum roles, self-management, and team accountability, which are central to scaling agility.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the self-managing nature of Scrum Teams and their accountability, which aligns closely with the principles of self-organisation in Agile methodologies.",
     "level": "Secondary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-13T22:27:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-13T22:27:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide and Scrum roles, with limited focus on Scrum Values.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-13T22:27:47",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Scrum Teams being cross-functional and self-managing, which is a significant aspect of cross-functional teams, but the primary focus is on the updates to the Scrum Guide rather than an in-depth exploration of cross-functional teams.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-13T22:27:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and specific Scrum roles and events, rather than strategic approaches within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-13T22:27:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses specific aspects of the Scrum framework and its updates, rather than the broader Agile philosophy.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-13T22:27:51",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of Scrum Teams, including self-management and accountability, which are relevant to team performance. However, the primary focus is on the updates to the Scrum Guide rather than on strategies or practices for enhancing team dynamics or collaboration.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-13T22:27:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-13T22:27:54",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide, focusing on Scrum roles, team dynamics, and key concepts such as the Product Goal and Sprint Goal, which are central to Agile Project Management.",
+    "level": "Secondary"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-13T22:27:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-13T22:27:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-13T22:27:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-13T22:27:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-13T22:28:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-13T22:28:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide and general Scrum principles, without a specific focus on the Daily Scrum event.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-13T22:28:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-13T22:28:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-13T22:28:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, rather than focusing on structured decision-making methodologies.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-13T22:28:11",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the role of the Product Owner within the context of the Scrum framework, but it primarily focuses on the overall Scrum Guide updates rather than exclusively on the Product Owner's responsibilities.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-13T22:28:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-13T22:28:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the roles and dynamics of Scrum Teams, including self-management and accountability, which are relevant to team collaboration. However, the primary focus is on the updates to the Scrum Guide rather than on enhancing team collaboration techniques or strategies.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-13T22:28:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of Scrum, including roles and events related to planning, but it primarily focuses on the updates to the Scrum Guide rather than on Agile Planning Tools themselves.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-13T22:28:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-13T22:28:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-13T22:28:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-13T22:28:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-13T22:28:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, without a focus on throughput measurement or optimisation.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-13T22:28:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-13T22:28:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-13T22:28:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-13T22:28:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, with no focus on estimation techniques or practices.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-13T22:28:29",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the roles, responsibilities, and dynamics of Scrum Teams as outlined in the updated Scrum Guide.",
+    "level": "Secondary"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-13T22:28:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide and Scrum principles without addressing scaling practices or frameworks for multiple teams.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-13T22:28:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-13T22:28:34",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Scrum roles and events, which are relevant to software developers working within Agile frameworks, but it primarily focuses on the Scrum Guide rather than the broader role of developers in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-13T22:28:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide and general Scrum principles, without a specific focus on the Sprint Review process.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-13T22:28:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-13T22:28:38",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content mentions the Definition of Done as part of the Scrum framework, but the primary focus is on the overall updates to the Scrum Guide rather than an in-depth discussion of the Definition of Done itself.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-13T22:28:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-13T22:28:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses updates to the Scrum Guide, which is a framework for Agile practices. While it touches on Agile principles, the focus is more on the specifics of Scrum rather than a broader discussion on Agile transformation strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-13T22:28:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-13T22:28:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-13T22:28:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-13T22:28:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-13T22:28:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-13T22:28:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, with no clear focus on Continuous Learning principles or practices.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-13T22:28:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-13T22:28:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-13T22:28:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without addressing leadership aspects or Agile leadership principles.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-13T22:28:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-13T22:28:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide and specific Scrum roles and events, without a focus on trend analysis or implications for Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-13T22:28:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-13T22:28:57",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the updates to the Scrum framework, detailing its principles, roles, and commitments, which aligns closely with the category of Agile Frameworks.",
+    "level": "Secondary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-13T22:28:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-13T22:28:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, with no focus on Lead Time or its measurement.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-13T22:29:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-13T22:29:01",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the role of the Product Owner and the Product Goal within the Scrum framework, which relates to product management, but the primary focus is on the Scrum Guide and its updates rather than broader product management strategies.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-13T22:29:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-13T22:29:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-13T22:29:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without focusing on hypothesis formulation or experimentation.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-13T22:29:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-13T22:29:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-13T22:29:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-13T22:29:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-13T22:29:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-13T22:29:10",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the Product Backlog in the context of the Scrum framework, particularly its relationship with the Product Goal and Sprint Planning, but the primary focus is on the overall updates to the Scrum Guide.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-13T22:29:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, which are not core engineering practices but rather project management methodologies.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-13T22:29:17",
+    "ai_confidence": 90,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the updates and key concepts of the Scrum Guide, focusing on Scrum roles, events, and principles.",
+    "final_score": 82.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide, focusing on Scrum roles, events, and artifacts, which are central to the Professional Scrum category.",
+    "level": "Primary"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-13T22:29:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-13T22:29:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-13T22:29:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-13T22:29:22",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses updates to the Scrum Guide, focusing on Scrum roles, the importance of the Product Backlog, and the self-managing nature of Scrum Teams, which are central to Scrum Product Development.",
     "level": "Secondary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-13T22:29:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-13T22:29:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-13T22:29:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-13T22:29:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-13T22:29:28",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the accountability of the Scrum Team in creating valuable increments and highlights the roles within the team, making accountability a significant theme, but it is not the primary focus of the overall content.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-13T22:29:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-13T22:29:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-13T22:29:31",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Scrum Guide and mentions the role of the Scrum Master within the Scrum Team, but it primarily focuses on the updates to the Scrum framework rather than the specific responsibilities or practices of a Scrum Master.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-13T22:29:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-13T22:29:33",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses the updates to the Scrum Guide, which is a key framework in Agile software development, focusing on roles, responsibilities, and processes within Scrum teams.",
+    "level": "Secondary"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-13T22:29:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-13T22:29:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-13T22:29:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-13T22:29:38",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Scrum framework and its principles, which are relevant to technical leadership in agile environments, but it primarily focuses on the updates to the Scrum Guide rather than on leadership strategies or practices.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-13T22:29:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the accountability of the Scrum Team in creating a valuable Increment and mentions the Definition of Done, which are relevant to the Increment concept, but the primary focus is on the updates to the Scrum Guide and Scrum roles.",
+    "level": "Secondary"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-13T22:29:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses updates to the Scrum Guide, which is central to Agile Planning methodologies, particularly in relation to Scrum roles, events, and the planning process.",
+    "level": "Secondary"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-13T22:29:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses updates to the Scrum Guide and Scrum roles, with no focus on forecasting methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-13T22:29:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses updates to the Scrum Guide, highlighting practical aspects of Scrum roles and responsibilities, which aligns with pragmatic thinking in Agile contexts. However, the primary focus is on the updates themselves rather than on practical problem-solving strategies or real-world applications.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-13T22:29:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-13T22:29:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
   }
 }

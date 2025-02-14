@@ -40,12 +40,13 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Software Developers
+- Software Development
 - Team Performance
 - Transparency
 categories:
 - Agile Product Management
 - Metrics and Learning
-- Value Delivery
+- Scrum
 preview: image-9-14-14.png
 
 ---

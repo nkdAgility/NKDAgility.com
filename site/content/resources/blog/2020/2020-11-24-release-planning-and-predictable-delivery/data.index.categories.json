@@ -1,34 +1,371 @@
 {
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 92,
-    "non_ai_confidence": 50,
-    "final_score": 79.0,
-    "reasoning": "Content primarily discusses the integration of agile methodologies with release management, emphasising the importance of predictable delivery and continuous quality, which are central themes in DevOps practices.",
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-13T22:17:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses strategies for release planning and predictable delivery within Agile frameworks, focusing on the importance of delivering working software, managing technical debt, and ensuring quality, which are all central to value delivery.",
     "level": "Secondary"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-13T22:17:44",
     "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses agile methodologies and software development practices, with a mention of DevOps principles and the importance of using a modern source control system, which aligns with Azure DevOps tools. However, the primary focus is on agile practices rather than Azure DevOps specifically.",
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the unpredictability of software development and the need for a cultural shift towards agility, which aligns with complexity thinking principles. However, the primary focus is on agile practices and release management rather than a deep exploration of complexity science itself.",
     "level": "Ignored"
   },
-  "Kanban": {
-    "category": "Kanban",
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-13T22:17:46",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses agile methodologies, particularly Scrum, and the challenges of release planning and predictable delivery, without a clear focus on Kanban principles or practices.",
+    "reasoning": "Content primarily discusses Agile methodologies, release planning, and software development processes without a clear focus on decision-making processes in uncertain environments.",
     "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T22:17:48",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of agile methodologies and release planning, touching on the importance of empirical data in software development. However, it primarily focuses on agile practices rather than a clear, central theme of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-13T22:17:50",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the challenges of integrating agile practices with release management and highlights the need for organisational change to embrace agility. It touches on the cultural shift required for agility, the role of leadership, and the importance of collaboration across teams, which aligns with the principles of Enterprise Agility. However, the primary focus remains on team-level practices and software development processes, making it a secondary theme.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-13T22:17:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile principles and Scrum practices, with no clear focus on Kanban methodology or its specific principles.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-13T22:17:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles, Scrum roles, and practices related to release planning and predictable delivery, making it primarily focused on established frameworks.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-13T22:17:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the unpredictability of software development and the importance of forecasting and continuous improvement, which are relevant to metrics and learning. However, the primary focus is on release planning and agile practices rather than metrics specifically.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-13T22:17:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the challenges of integrating agile methodologies with release management, highlighting the need for a cultural shift within organisations to embrace agility. While it touches on aspects of organisational resilience and adaptability, the primary focus is on technical practices and processes rather than a comprehensive exploration of resilience strategies or change management frameworks.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-13T22:17:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses agile methodologies and release planning without specific focus on Azure DevOps services or tools.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-13T22:17:59",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content discusses agile methodologies and release planning, touching on aspects of organisational change and the interconnectedness of roles within software development. However, it primarily focuses on practical strategies for software delivery rather than a comprehensive exploration of Systems Thinking principles.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T22:18:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies, Scrum roles, and release management without a direct focus on Platform Engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-13T22:18:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses agile principles, release planning, and the unpredictability of software development, without focusing on installation or configuration processes.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T22:18:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses agile methodologies and release planning, which are relevant to software development practices. However, it primarily focuses on Scrum and agile principles rather than the integration and standardisation aspects central to the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-13T22:18:06",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the interplay between agile methodologies and organisational structures, particularly in the context of release planning and predictable delivery. It highlights the cultural shifts required for effective software development and the importance of team dynamics, which aligns with sociotechnical systems principles. However, the primary focus is on agile practices rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-13T22:18:08",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the challenges of release planning and predictable delivery in agile software development, emphasising the importance of quality, technical debt management, and practices like TDD, which are central to achieving technical excellence.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of software development practices, including the importance of quality, technical debt, and the need for a Definition of Done, which are relevant to technical excellence. However, the primary focus is on agile release planning and management rather than on specific engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-13T22:18:09",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the interplay between agile methodologies, team dynamics, and the importance of leadership in fostering effective processes for release planning and predictable delivery. It addresses how organisational culture and structure impact agility and the role of teams in managing unpredictability in software development.",
     "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T22:18:10",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "Content primarily discusses Scrum principles, roles, and practices, particularly in the context of release planning and predictable delivery, aligning closely with the Scrum framework.",
+    "level": "Secondary"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-13T22:18:12",
+    "ai_confidence": 90,
+    "non_ai_confidence": 20,
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses release planning, predictable delivery, and the integration of agile methodologies in the context of product delivery. It addresses key aspects such as the importance of working software, quality assurance, and the role of cross-functional teams, making it highly relevant to the category.",
+    "level": "Primary"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-13T22:18:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile methodologies, release planning, and software development processes without a focus on psychological principles or theories related to motivation, engagement, leadership, or team dynamics.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-13T22:18:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the integration of agile practices with release planning, touching on aspects of predictability and quality in software development, which are relevant to DevOps. However, the primary focus is on agile methodologies and Scrum, making DevOps a secondary theme.",
+    "level": "Secondary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-13T22:18:18",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the integration of agile methodologies into organisational practices, focusing on the cultural and structural shifts necessary for effective release planning and predictable delivery. It addresses the challenges organisations face in embracing agility and highlights the importance of leadership, continuous improvement, and the alignment of processes with agile principles.",
+    "level": "Secondary"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-13T22:18:19",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the relationship between Agile and Lean principles, particularly in the context of software development and release planning. While Lean is a significant theme, the primary focus is on Agile methodologies, making Lean a secondary theme.",
+    "level": "Secondary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-13T22:18:21",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of release planning and predictability in software development, touching on the importance of optimising processes and managing technical debt, which are relevant to flow efficiency. However, the primary focus is on the challenges of predictability and agile methodologies rather than a direct emphasis on flow efficiency principles.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-13T22:18:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses release planning and predictable delivery in Agile without any mention of AI or automation technologies.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-13T22:18:26",
+    "ai_confidence": 30,
+    "non_ai_confidence": 20,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses agile methodologies, release planning, and the unpredictability of software development, with only peripheral references to concepts that could relate to value stream management. It does not focus on the core principles or practices of Value Stream Management.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-13T22:18:27",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses practical techniques for release planning and predictable delivery within Agile frameworks, including specific methodologies, practices, and tools that enhance team performance and collaboration.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T22:18:29",
+    "ai_confidence": 75,
+    "non_ai_confidence": 30,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the principles of agile release planning and the unpredictability of software development, which aligns with the Agile Product Operating Model. It touches on the need for a product-centric approach and the importance of continuous delivery and quality, making it a major theme, though it also delves into specific practices and roles within Scrum.",
+    "level": "Secondary"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-13T22:18:32",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the challenges of integrating Agile methodologies with release planning and predictable delivery, highlighting the need for organisations to adapt their processes to enhance agility and responsiveness to market demands. While it primarily focuses on Agile practices, it also touches on the importance of quality and continuous improvement, which are relevant to market adaptability.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-13T22:18:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release planning, predictable delivery, and the challenges of software development within an Agile framework, without a clear focus on discovery or learning processes.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-13T22:18:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the integration of Agile principles with release planning and predictable delivery, focusing on the role of Scrum, the importance of quality, and techniques for managing product development in an Agile context.",
+    "level": "Secondary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-13T22:18:38",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the relationship between agile methodologies and release management, highlighting the need for organisations to adapt their processes to achieve predictable delivery. It touches on the cultural shifts required for agility, the importance of quality in software development, and the need for leadership to embrace these changes, which aligns with the principles of business agility. However, the primary focus is on agile practices rather than a broader discussion of business agility as a central theme.",
+    "level": "Secondary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-13T22:18:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of transparency in Agile methodologies, particularly in relation to release planning and predictable delivery. However, it primarily focuses on the challenges of software development and the need for quality, making transparency a secondary theme rather than the primary focus.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T22:18:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile methodologies, release planning, and software development practices, without a clear focus on the principles of Beta Codex or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-13T22:18:43",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the relationship between software quality, technical debt, and the unpredictability of software development, which are relevant to code quality and complexity. However, the primary focus is on agile methodologies and release planning rather than a deep exploration of code complexity itself.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-13T22:18:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses aspects of release planning and delivery within an agile context, touching on the application lifecycle stages and the importance of quality and predictability in software development. However, it primarily focuses on agile methodologies rather than a comprehensive view of Application Lifecycle Management.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-13T22:18:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical aspects of Agile, Scrum, and release management without personal anecdotes or reflections.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-13T22:18:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses agile release planning and software development practices without reference to specific events, presentations, or discussions related to Agile or DevOps conferences.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-13T22:18:51",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the challenges of release planning and predictable delivery in Agile environments, touching on organisational structures and the need for cultural shifts, which are relevant to scaling Agile practices. However, it primarily focuses on individual team practices and Agile principles rather than explicitly addressing scaling methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-13T22:18:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses agile methodologies and release management without focusing on specific products or literature.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-13T22:18:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile methodologies and release planning, which are relevant to industry practices. However, it primarily focuses on theoretical aspects and personal insights rather than providing news updates or reviews.",
+    "level": "Ignored"
   }
 }

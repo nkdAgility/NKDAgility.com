@@ -1,34 +1,371 @@
 {
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 50,
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-13T22:09:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
     "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of quality in software delivery, emphasising DevOps practices, automation, and accountability in the context of Scrum teams, which aligns closely with the principles of DevOps.",
+    "reasoning": "The content primarily discusses the importance of delivering quality software and the accountability of Scrum teams in ensuring value delivery. It highlights practices such as continuous improvement, the role of developers in maintaining quality, and the need for alignment with customer expectations, which are central to the concept of value delivery in Agile frameworks.",
     "level": "Secondary"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 50,
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-13T22:09:27",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses DevOps practices and automation in the context of Scrum teams, indicating a significant but secondary theme related to Azure DevOps.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on software quality and accountability rather than complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-13T22:09:29",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "While the content touches on decision-making in the context of software quality and accountability, it primarily focuses on Scrum practices and roles rather than a comprehensive exploration of decision theory principles.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T22:09:31",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of quality in software development and the accountability of developers, which aligns with some principles of Evidence-Based Management. However, it primarily focuses on Scrum practices and team dynamics rather than a comprehensive exploration of EBM principles or empirical data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-13T22:09:33",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content primarily discusses Scrum roles and practices at the team level, focusing on quality software delivery and accountability of developers, without addressing broader organisational agility or transformation.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
+    "calculated_at": "2025-02-13T22:09:35",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum practices, roles, and the importance of quality in software development, with no significant focus on Kanban principles or practices.",
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-13T22:09:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-13T22:09:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of quality in software development and the accountability of developers, which relates to metrics and continuous improvement. However, the primary focus is on Scrum roles and practices rather than a detailed exploration of metrics and learning.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-13T22:09:41",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses Scrum roles, responsibilities, and the importance of quality in software development, with only a minor focus on accountability and improvement processes that could relate to resilience and change.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-13T22:09:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-13T22:09:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on software quality and accountability rather than Systems Thinking principles or holistic analysis.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T22:09:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-13T22:09:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles, accountability for quality, and the importance of working software, but does not provide any actionable instructions or insights related to installation or configuration of tools or software.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T22:09:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Scrum methodology rather than the principles and components of the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-13T22:09:49",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the roles and responsibilities of Scrum teams, the importance of quality in software delivery, and the accountability of developers within an organisational context. While it touches on sociotechnical themes, such as the relationship between team dynamics and software quality, the primary focus remains on Scrum practices rather than a comprehensive exploration of sociotechnical systems.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-13T22:09:51",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of quality in software development, accountability of developers, and the need for automation and DevOps practices, which are all central to technical excellence in engineering practices.",
+    "level": "Secondary"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-13T22:09:57",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the roles and responsibilities of Scrum teams, the importance of quality in software development, and the accountability of developers and leadership in the process. It emphasises team dynamics, the need for collaboration, and the impact of organisational culture on software quality, aligning well with the 'People and Process' category.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T22:09:58",
+    "ai_confidence": 90,
+    "non_ai_confidence": 50,
+    "final_score": 86.0,
+    "reasoning": "Content primarily discusses the roles, responsibilities, and practices of Scrum teams, emphasising the importance of quality in software delivery and the accountability of Developers and the Product Owner within the Scrum framework.",
+    "level": "Primary"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-13T22:10:00",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of quality in software delivery, the accountability of developers, and the role of Scrum in ensuring effective product delivery. It addresses methodologies and practices relevant to the end-to-end process of delivering usable software products, aligning well with the category's focus.",
+    "level": "Secondary"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-13T22:10:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on technical practices and accountability rather than psychological principles or theories related to motivation, engagement, or team dynamics.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-13T22:10:03",
+    "ai_confidence": 70,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of quality software delivery and mentions DevOps practices, automation, and the need for continuous improvement, which are relevant to DevOps. However, the primary focus is on Scrum methodologies and team dynamics rather than a comprehensive exploration of DevOps principles.",
+    "level": "Secondary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-13T22:10:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Scrum practices and the importance of quality in software delivery, which are relevant to organisational agility. However, it primarily focuses on Scrum roles and responsibilities rather than broader organisational agility strategies or cultural shifts.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-13T22:10:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-13T22:10:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and the accountability of developers, which relates to flow efficiency in terms of optimising work throughput. However, the primary focus is on Scrum roles and responsibilities rather than directly addressing flow efficiency principles or techniques.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-13T22:10:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on quality software delivery and accountability, without any mention of AI or automation technologies.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-13T22:10:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on software quality and accountability rather than the flow of value or Value Stream Management principles.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-13T22:10:12",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of quality in software development within the context of Scrum, highlighting practical techniques such as automation, source control, and the need for continuous improvement. It also references training resources for developers, which aligns well with the category's focus on practical application of Agile and DevOps methodologies.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T22:10:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Scrum practices and the importance of quality in software delivery, which aligns with Agile principles. However, it primarily focuses on Scrum roles and events rather than a broader discussion on the Agile Product Operating Model as a whole.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-13T22:10:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and the role of Scrum teams in adapting to stakeholder expectations, which aligns with the principles of Agile methodologies. However, the primary focus is on Scrum roles and practices rather than broader market adaptability strategies.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-13T22:10:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of quality in software development and the role of Scrum teams in delivering working software, which touches on the themes of continuous improvement and learning from past experiences. However, the primary focus is on Scrum roles and accountability rather than on broader discovery and learning methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-13T22:10:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the role of Scrum teams, the importance of quality in software delivery, and the accountability of Developers and the Product Owner, which are central themes in Agile Product Management.",
+    "level": "Secondary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-13T22:10:22",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and the accountability of developers, which relates to business agility principles. However, the primary focus is on Scrum practices and roles rather than a broader exploration of business agility as a central theme.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-13T22:10:23",
+    "ai_confidence": 75,
     "non_ai_confidence": 20,
     "final_score": 70.0,
-    "reasoning": "The content primarily discusses the importance of quality in software development, emphasising engineering practices such as automation, accountability for quality, and the need for continuous improvement, which are central to the concept of Technical Excellence.",
+    "reasoning": "The content discusses accountability of Developers for the quality of software and the importance of transparency in communication regarding quality decisions. It highlights the need for open discussions about expectations and the implications of cutting quality, which aligns with the principles of transparency and accountability in Agile teams.",
     "level": "Secondary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T22:10:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-13T22:10:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the importance of software quality, technical debt, and the accountability of developers in delivering working software, which are relevant to code quality and complexity. However, the primary focus is on Scrum practices and team dynamics rather than a deep exploration of code complexity or complexity theory.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-13T22:10:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on quality and accountability in software development rather than the broader scope of Application Lifecycle Management.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-13T22:10:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum practices, roles, and accountability in software development without personal anecdotes or reflections.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-13T22:10:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum roles, responsibilities, and quality in software development without reference to specific events, presentations, or discussions related to Agile or DevOps conferences.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-13T22:10:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on individual team practices rather than scaling Agile across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-13T22:10:32",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of quality in software development and mentions a specific training course for Professional Scrum Developers, indicating a secondary theme related to products and resources for Agile practices.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-13T22:10:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum practices and the responsibilities of Scrum teams, lacking a focus on industry news or reviews.",
+    "level": "Ignored"
   }
 }

@@ -26,8 +26,31 @@ aliasesFor404:
 - /getting-started-with-a-definition-of-done-(dod)
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
-tags: []
-categories: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Decision Making
+- Definition of Done
+- Empirical Process Control
+- Engineering Excellence
+- Engineering Practices
+- Increment
+- Operational Practices
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Performance
+- Transparency
+- Working Software
+categories:
+- People and Process
+- Product Delivery
+- Scrum
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

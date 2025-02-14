@@ -313,5 +313,59 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices, product delivery, and technical methodologies without addressing psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T21:49:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of delivering usable working products in Agile, focusing on practices and principles rather than empirical evidence or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T21:49:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile practices and the importance of delivering usable working products, without a clear focus on platform engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T21:49:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Agile practices and the importance of delivering usable working products, without a clear focus on the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T21:49:46",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering usable working products, which are relevant to Scrum practices, but it does not focus specifically on Scrum roles, events, or artifacts.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T21:49:47",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of delivering usable working products, continuous feedback loops, and iterative development, which are central themes of the Agile Product Operating Model.",
+    "level": "Secondary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T21:49:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile practices and the importance of delivering usable working products, without a focus on BetaCodex principles or decentralised organisational design.",
+    "level": "Ignored"
   }
 }

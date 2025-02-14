@@ -313,5 +313,59 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product backlog management and development processes without addressing psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T21:48:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the management of the Product Backlog in product development, focusing on lean inventory and future readiness, without a clear emphasis on evidence-based management principles or empirical data.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T21:48:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses product backlog management and does not focus on platform engineering principles or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T21:49:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Product Backlog in product development, which is not directly related to the principles or components of the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T21:49:02",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content primarily discusses the Product Backlog, which is a key Scrum artifact, and touches on principles of transparency and continuous reflection, aligning with Scrum practices.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T21:49:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of maintaining a lean Product Backlog, which is central to the Agile Product Operating Model. It addresses principles of product-centric development, the need for continuous reflection, and adapting to market dynamics, aligning well with the key topics of the category.",
+    "level": "Secondary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T21:49:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the management of a Product Backlog in product development, focusing on lean inventory and future readiness, without a clear emphasis on BetaCodex principles or decentralised organisational design.",
+    "level": "Ignored"
   }
 }

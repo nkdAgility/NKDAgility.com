@@ -28,7 +28,6 @@ tags:
 - Decision Making
 - Estimation
 - Evidence Based Leadership
-- Evidence Based Management
 - Forecasting
 - Operational Practices
 - Pragmatic Thinking

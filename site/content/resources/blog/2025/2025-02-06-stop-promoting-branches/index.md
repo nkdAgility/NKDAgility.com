@@ -22,13 +22,13 @@ tags:
 - Agile Strategy
 - Continuous Delivery
 - Continuous Integration
-- Decision Making
 - Deployment Frequency
 - Deployment Strategies
 - Engineering Excellence
 - Engineering Practices
 - Frequent Releases
 - Lead Time
+- Lean Principles
 - Modern Source Control
 - Operational Practices
 - Pragmatic Thinking

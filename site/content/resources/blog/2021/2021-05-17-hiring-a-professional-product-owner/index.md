@@ -44,19 +44,23 @@ tags:
 - Agile Project Management
 - Agile Strategy
 - Decision Making
-- Evidence Based Management
+- Evidence Based Leadership
+- Hypothesis Driven Development
+- Pragmatic Thinking
 - Product Backlog
 - Product Management
 - Product Owner
 - Professional Scrum
 - Scrum Product Development
 - Scrum Team
+- Software Development
 - Strategic Goals
 - Strategy
+- Transparency
 categories:
 - Agile Product Management
 - People and Process
-- Transparency and Accountability
+- Scrum
 preview: image-3-3.png
 
 ---

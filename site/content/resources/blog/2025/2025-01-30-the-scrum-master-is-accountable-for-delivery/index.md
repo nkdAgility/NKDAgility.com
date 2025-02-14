@@ -49,7 +49,7 @@ tags:
 - Working Software
 categories:
 - Product Delivery
-- Transparency and Accountability
+- Scrum
 - Value Delivery
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 

@@ -313,5 +313,59 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses terminology and frameworks in product development, specifically focusing on 'User Stories' and 'Product Backlog Items', without addressing psychological principles or theories related to motivation, engagement, or team dynamics.",
     "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T21:48:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the terminology and framework of product backlog management, specifically advocating for the use of 'Product Backlog Items' over 'User Stories', without a focus on empirical evidence or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T21:48:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the use of 'User Stories' in product backlog management, which is not directly related to platform engineering principles or practices.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T21:48:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the terminology and management of product backlogs, specifically criticising the use of 'User Stories' and advocating for 'Product Backlog Items', which does not align with the core principles of the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T21:48:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the concept of 'User Stories' and proposes a shift to 'Product Backlog Items', which relates to Scrum practices, but the primary focus is on language and communication rather than Scrum principles or frameworks.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T21:48:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the terminology used in product backlog management, specifically advocating for a shift from 'User Stories' to 'Product Backlog Items', which aligns with principles of product-centric development. However, it primarily focuses on language and terminology rather than broader Agile Product Operating Model concepts.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T21:48:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the terminology and framework of product backlog management, specifically critiquing the use of 'User Stories' and advocating for 'Product Backlog Items', without a clear focus on BetaCodex principles or decentralised organisational design.",
+    "level": "Ignored"
   }
 }

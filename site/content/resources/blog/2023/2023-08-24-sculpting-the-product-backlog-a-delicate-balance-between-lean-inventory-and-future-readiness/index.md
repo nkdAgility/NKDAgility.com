@@ -34,6 +34,7 @@ tags:
 - Lean Principles
 - Lean Product Development
 - Lean Thinking
+- Operational Practices
 - Pragmatic Thinking
 - Product Backlog
 - Product Management
@@ -41,11 +42,13 @@ tags:
 - Product Strategy
 - Professional Scrum
 - Scrum Product Development
+- Software Development
+- Strategy
 - Transparency
 categories:
-- Agile Product Management
 - Lean
-- Products and Books
+- Product Delivery
+- Value Delivery
 preview: image-1.jpg
 
 ---

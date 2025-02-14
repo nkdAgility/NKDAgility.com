@@ -1,34 +1,371 @@
 {
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily focuses on Test First principles and their importance in software development, which directly relates to continuous delivery and quality assurance in a DevOps context.",
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-13T22:05:23",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of Test First principles, particularly Test Driven Development (TDD), in delivering value to customers by ensuring that the software built meets customer expectations and reduces maintenance costs. It aligns well with the key topics of iterative development, customer value maximisation, and the role of effective practices in enhancing value delivery.",
     "level": "Secondary"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 50,
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-13T22:05:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Test First principles and software development practices, without a clear focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-13T22:05:26",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Test First principles and their importance in software development, mentioning Scrum and DevOps training in collaboration with Microsoft, indicating a significant but secondary theme related to Azure DevOps.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Test First principles and software development practices, with no clear focus on decision-making processes or the application of decision theory concepts.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T22:05:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Test First principles and practices, focusing on software development methodologies rather than Evidence-Based Management principles.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-13T22:05:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Test First principles and practices, focusing on team-level agile practices without addressing broader organisational implications or enterprise agility.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
+    "calculated_at": "2025-02-13T22:05:30",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Test First principles and Test Driven Development (TDD), with no clear focus on Kanban as a strategy for managing flow or improving value delivery.",
+    "reasoning": "Content primarily discusses Test First principles and methodologies, particularly Test Driven Development (TDD), without any focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-13T22:05:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Test First principles, Test Driven Development (TDD), and their relevance to Agile methodologies, making it primarily focused on established practices rather than miscellaneous topics.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-13T22:05:33",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback loops and validation in the context of Test First principles, which aligns with the theme of continuous improvement and evidence-based decision-making. However, the primary focus is on Test First methodologies rather than metrics and learning specifically.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-13T22:05:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies in software development, without a clear focus on organisational resilience or change management.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-13T22:05:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies, with a focus on testing practices rather than Azure DevOps specifically.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-13T22:05:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on Test First principles and methodologies in software development, without a clear emphasis on Systems Thinking or its core principles.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T22:05:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies such as TDD, ATDD, and BDD, without a clear focus on Platform Engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-13T22:05:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies in software development, rather than installation or configuration processes.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T22:05:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Test First principles and methodologies such as TDD, ATDD, and BDD, which are not central to the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-13T22:05:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Test First principles and their technical implications in software development, without a clear focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-13T22:05:44",
+    "ai_confidence": 90,
     "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on Test First principles, particularly Test Driven Development (TDD), and discusses its importance in ensuring software quality and agility, aligning closely with the category of Technical Excellence.",
+    "final_score": 81.0,
+    "reasoning": "The content primarily discusses Test-Driven Development (TDD) and its significance in ensuring code quality and reliability, which aligns closely with the principles of Technical Excellence. It elaborates on the benefits of adopting a test-first approach, the importance of validation in software development, and how these practices contribute to high-quality engineering. The focus on TDD as a methodology for improving software delivery processes supports the classification.",
+    "level": "Primary"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-13T22:05:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of Test First principles and their impact on team dynamics and software development processes, but it primarily focuses on technical aspects of testing methodologies rather than the interplay between human behaviour and structured methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T22:05:47",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses Test First principles and their relation to Scrum practices, particularly in the context of Professional Scrum Developer training. However, the primary focus is on testing methodologies rather than Scrum itself.",
     "level": "Secondary"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-13T22:05:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the importance of Test First principles, particularly Test Driven Development (TDD), in the context of delivering quality software products. It highlights how these practices contribute to meeting customer needs and reducing maintenance costs, which aligns closely with the methodologies and practices involved in product delivery.",
+    "level": "Secondary"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-13T22:05:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses software development practices, specifically Test First principles and methodologies, without addressing psychological aspects of organisational behaviour.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-13T22:05:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which relates to DevOps practices, particularly in the context of Continuous Delivery. However, the primary focus is on testing methodologies rather than a comprehensive exploration of DevOps principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-13T22:05:53",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Test First principles and their impact on software development processes, which relates to organisational agility through improved adaptability and responsiveness to customer needs. However, the primary focus is on testing methodologies rather than broader organisational agility strategies.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-13T22:05:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies related to software development, with a focus on Test Driven Development (TDD) and related practices, rather than Lean principles or waste reduction.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-13T22:05:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of Test First principles, which indirectly relates to flow efficiency by emphasising the reduction of rework and the shortening of feedback loops. However, the primary focus is on testing methodologies rather than directly optimising work throughput.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-13T22:05:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies like TDD, ATDD, and BDD, without a clear focus on AI or automation technologies within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-13T22:06:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies, focusing on software development practices rather than the flow of value within an organisation.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-13T22:06:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the practical application of Test First principles, including Test Driven Development (TDD), and how these methodologies can enhance software development practices. It provides insights into the implementation of these techniques, their benefits, and their relevance to Agile and DevOps practices.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T22:06:05",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which aligns with Agile methodologies. However, it primarily focuses on technical practices rather than a holistic view of the Agile Product Operating Model.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-13T22:06:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Test First principles and their role in improving software quality and responsiveness to customer needs, which aligns with market adaptability. However, the primary focus is on testing methodologies rather than broader market adaptability strategies.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-13T22:06:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of Test First principles and their role in improving software quality and team performance, which aligns with the theme of continuous learning and adaptation in product development. However, the primary focus is on technical implementation details rather than broader discovery and learning methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-13T22:06:11",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which relates to Agile practices. However, it primarily focuses on testing methodologies rather than the broader scope of Agile Product Management, making it a secondary theme.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-13T22:06:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Test First principles and methodologies, primarily focusing on Test Driven Development (TDD) and related practices, without a clear emphasis on business agility principles or practices.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-13T22:06:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Test First principles and their benefits in software development, without a clear focus on transparency or accountability within Agile teams.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T22:06:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Test First principles and practices in software development, focusing on methodologies like Test Driven Development (TDD) rather than the principles of decentralised, adaptive, and human-centric organisational design associated with Beta Codex.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-13T22:06:18",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the importance of Test First principles, particularly Test Driven Development (TDD), and how these practices relate to software quality and complexity. It explores the complexities of software development and the necessity of validating code to ensure maintainability and performance, aligning well with the key topics of the category.",
+    "level": "Secondary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-13T22:06:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which relates to the maintenance and validation stages of the application lifecycle. However, it primarily focuses on testing methodologies rather than the broader aspects of Application Lifecycle Management.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-13T22:06:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical aspects of Test First principles and their implementation in software development, lacking personal anecdotes or reflections.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-13T22:06:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies in software development, with no clear focus on events or presentations.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-13T22:06:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Test First principles and practices, focusing on individual team practices rather than scaling Agile methodologies across multiple teams or organisational structures.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-13T22:06:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the concept of Test First principles and their application in software development, without focusing on specific products or literature related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-13T22:06:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Test First principles and methodologies, focusing on their implementation and benefits rather than providing news or reviews related to Agile, DevOps, or technology updates.",
+    "level": "Ignored"
   }
 }

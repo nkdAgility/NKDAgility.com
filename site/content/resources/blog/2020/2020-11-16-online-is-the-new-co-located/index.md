@@ -21,8 +21,17 @@ aliasesFor404:
 - /online-is-the-new-co-located
 - /blog/online-is-the-new-co-located
 - /resources/blog/online-is-the-new-co-located
-tags: []
-categories: []
+tags:
+- Collaboration Tools
+- Pragmatic Thinking
+- Remote Working
+- Team Collaboration
+- Team Performance
+- Transparency
+categories:
+- Events and Presentations
+- People and Process
+- Transparency and Accountability
 preview: image-21-3-3.png
 
 ---

@@ -37,13 +37,12 @@ tags:
 - Decision Making
 - Empirical Process Control
 - Evidence Based Leadership
-- Evidence Based Management
 - Pragmatic Thinking
 - Product Management
 - Strategic Goals
 - Strategy
 categories:
-- Events and Presentations
+- Evidence Based Management
 - Metrics and Learning
 - People and Process
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg

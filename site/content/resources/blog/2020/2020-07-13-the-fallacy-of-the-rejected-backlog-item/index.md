@@ -21,8 +21,31 @@ aliasesFor404:
 - /the-fallacy-of-the-rejected-backlog-item
 - /blog/the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
-tags: []
-categories: []
+tags:
+- Accountability
+- Agile Planning
+- Agile Project Management
+- Definition of Done
+- Empirical Process Control
+- Increment
+- Product Backlog
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Sprint Review
+- Team Collaboration
+- Team Performance
+- Transparency
+- Working Software
+categories:
+- Scrum
+- Transparency and Accountability
+- Value Delivery
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

@@ -34,6 +34,7 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
+- Empirical Process Control
 - Increment
 - Pragmatic Thinking
 - Product Management
@@ -41,11 +42,12 @@ tags:
 - Software Developers
 - Software Development
 - Strategy
+- Transparency
 - Working Software
 categories:
 - Agile Product Management
-- Market Adaptability
 - Product Delivery
+- Value Delivery
 preview: image-1.jpg
 
 ---

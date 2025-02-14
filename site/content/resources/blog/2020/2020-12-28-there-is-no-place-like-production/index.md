@@ -24,14 +24,19 @@ aliasesFor404:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Ability to Innovate
+- Agile Philosophy
 - Agile Strategy
+- Decision Making
 - Deployment Frequency
-- Evidence Based Management
+- Empirical Process Control
+- Evidence Based Leadership
+- Experimentation
+- Frequent Releases
+- Hypothesis Driven Development
 - Increment
 - Lean Product Development
 - Lean Startup
 - MVP
-- Operational Practices
 - Pragmatic Thinking
 - Product Discovery
 - Product Management
@@ -41,7 +46,7 @@ tags:
 categories:
 - Agile Product Management
 - Business Agility
-- Metrics and Learning
+- Value Delivery
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

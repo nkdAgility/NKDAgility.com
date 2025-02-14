@@ -38,12 +38,13 @@ tags:
 - Scrum Team
 - Software Developers
 - Software Development
+- Strategy
 - Team Collaboration
 - Team Performance
 - Transparency
 categories:
-- Agile Product Management
-- Product Delivery
+- People and Process
+- Scrum
 - Value Delivery
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 

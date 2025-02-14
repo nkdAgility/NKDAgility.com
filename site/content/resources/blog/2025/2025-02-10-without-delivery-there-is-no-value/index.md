@@ -25,12 +25,12 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
+- Agile Project Management
 - Agile Strategy
 - Agile Transformation
 - Continuous Delivery
 - Customer Feedback Loops
 - Deployment Frequency
-- Evidence Based Management
 - Frequent Releases
 - Increment
 - Lead Time

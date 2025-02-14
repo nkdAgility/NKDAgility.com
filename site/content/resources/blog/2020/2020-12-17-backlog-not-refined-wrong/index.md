@@ -26,8 +26,31 @@ aliasesFor404:
 - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/blog/backlog-not-refined-wrong
-tags: []
-categories: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Planning Tools
+- Agile Project Management
+- Agile Transformation
+- Backlog Refinement
+- Definition of Ready
+- Empirical Process Control
+- Operational Practices
+- Pragmatic Thinking
+- Product Backlog
+- Product Owner
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Performance
+- Working Software
+categories:
+- People and Process
+- Scrum
+- Value Delivery
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

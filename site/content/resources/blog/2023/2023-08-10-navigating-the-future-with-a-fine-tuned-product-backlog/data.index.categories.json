@@ -313,5 +313,59 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the mechanics of managing a Product Backlog, with no focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T21:49:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of a well-ordered Product Backlog and mentions OKRs, which relate to data-driven decision-making. However, the primary focus is on Agile practices rather than a comprehensive exploration of Evidence-Based Management principles.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T21:49:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Product Backlog and Agile methodologies, with no direct connection to Platform Engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T21:49:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Product Backlog and Agile practices, specifically within the Scrum framework, without reference to the One Engineering System or its principles.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T21:49:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "Content primarily discusses the Product Backlog, a key artifact in the Scrum framework, and elaborates on its importance, ordering, refinement, and its role in guiding the team towards Sprint and Product Goals.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T21:49:22",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of a well-ordered and refined Product Backlog, which is central to the Agile Product Operating Model. It addresses principles of product-centric development, continuous feedback, and alignment with customer needs, making it a significant focus of the discussion.",
+    "level": "Secondary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T21:49:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the mechanics of Agile project management, specifically focusing on the Product Backlog, without addressing the principles or practices of BetaCodex.",
+    "level": "Ignored"
   }
 }

@@ -30,22 +30,27 @@ tags:
 - Ability to Innovate
 - Agile Frameworks
 - Agile Project Management
+- Agile Strategy
 - Agile Transformation
 - Customer Satisfaction
 - Cycle Time
 - Decision Making
+- Deployment Frequency
 - Empirical Process Control
 - Evidence Based Leadership
-- Evidence Based Management
+- Frequent Releases
+- Operational Practices
+- Pragmatic Thinking
 - Product Management
 - Revenue per Employee
 - Scrum Product Development
 - Software Development
+- Trend Analysis
 - Working Software
 categories:
 - Agile Product Management
-- Enterprise Agility
-- People and Process
+- Evidence Based Management
+- Scrum
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

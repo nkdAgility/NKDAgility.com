@@ -28,19 +28,24 @@ tags:
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
+- Agile Values and Principles
 - Customer Feedback Loops
 - Engineering Excellence
 - Engineering Practices
 - Frequent Releases
 - Increment
+- Lean Product Development
 - Operational Practices
 - Pragmatic Thinking
+- Product Management
+- Product Validation
+- Scrum Product Development
 - Software Developers
 - Software Development
 - Working Software
 categories:
 - Agile Product Management
-- Market Adaptability
+- Agile Product Operating Model
 - Value Delivery
 preview: image-1.jpg
 

@@ -38,8 +38,8 @@ tags:
 - Transparency
 categories:
 - Agile Product Management
-- Product Delivery
-- Value Delivery
+- Agile Product Operating Model
+- Scrum
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 
 ---

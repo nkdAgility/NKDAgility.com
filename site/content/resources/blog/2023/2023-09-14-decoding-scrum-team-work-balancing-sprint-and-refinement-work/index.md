@@ -33,9 +33,11 @@ tags:
 - Azure Boards
 - Backlog Refinement
 - Increment
+- Operational Practices
 - Pragmatic Thinking
 - Product Backlog
 - Professional Scrum
+- Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Software Developers
@@ -43,9 +45,9 @@ tags:
 - Team Collaboration
 - Team Performance
 categories:
-- Agile Product Management
-- Practical Techniques and Tooling
+- People and Process
 - Product Delivery
+- Scrum
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

@@ -33,6 +33,7 @@ tags:
 categories:
 - People and Process
 - Products and Books
+- Scrum
 preview: image-2-2.png
 
 ---

@@ -1,34 +1,371 @@
 {
-  "DevOps": {
-    "category": "DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily discusses improving delivery processes and team structures to enhance agility and continuous delivery, which are central themes in DevOps.",
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-13T22:00:34",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses strategies for improving delivery processes within Agile frameworks, focusing on the importance of cross-functional teams, iterative development, and continuous delivery, which are central to value delivery.",
     "level": "Secondary"
   },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 50,
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-13T22:00:35",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses agile methodologies and practices that align with CI/CD principles, which are relevant to Azure DevOps, but the primary focus is on Scrum and delivery processes rather than Azure DevOps specifically.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices without a clear focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-13T22:00:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and the drawbacks of staggered iterations, without a clear focus on decision-making processes or the principles of Decision Theory.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T22:00:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the drawbacks of staggered iterations and advocates for agile practices without a clear focus on empirical evidence or data-driven decision-making principles central to Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-13T22:00:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of cross-functional teams and the need for a culture of collaboration and continuous improvement, which are relevant to enterprise agility. However, it primarily focuses on team-level practices and does not extensively address broader organisational implications.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
-    "ai_confidence": 45,
+    "calculated_at": "2025-02-13T22:00:45",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses issues with staggered iterations and Scrum practices, with only a minor mention of concepts that could relate to Kanban, such as flow and team responsibilities.",
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-13T22:00:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum principles and practices, specifically addressing staggered iterations and their impact on delivery, which aligns with established Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-13T22:00:50",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of feedback loops and continuous improvement methodologies in the context of Agile delivery, particularly in relation to staggered iterations and their impact on quality and technical debt. However, the primary focus is on delivery processes rather than metrics and learning specifically.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-13T22:00:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses agile methodologies and the importance of cross-functional teams, which are relevant to fostering adaptability and improving organisational processes. However, the primary focus is on technical implementations and Scrum practices rather than a comprehensive exploration of resilience and change management principles.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-13T22:00:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without specific reference to Azure DevOps functionalities or practices.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-13T22:00:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile methodologies and the issues with staggered iterations, without a clear focus on Systems Thinking principles or holistic analysis of interconnected components.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T22:00:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and Scrum practices without a direct connection to platform engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-13T22:00:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile methodologies and the issues with staggered iterations, rather than focusing on installation or configuration of tools or software.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T22:01:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses agile methodologies and the drawbacks of staggered iterations, without a clear focus on the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-13T22:01:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the interplay between agile methodologies and team dynamics, particularly in the context of software delivery. While it primarily focuses on technical practices, it also touches on the importance of cross-functional teams and the impact of organisational structures on agility, making it a significant but secondary theme.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-13T22:01:04",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "The content primarily discusses engineering practices that enhance agility, including cross-functional teams, test-first approaches, and continuous delivery, which are central to the theme of Technical Excellence.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses engineering practices and methodologies that enhance agility in software delivery, including cross-functional teams, test-first approaches, and the importance of delivering working software in each iteration.",
     "level": "Secondary"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-13T22:01:07",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of team dynamics, cross-functional teams, and the impact of structured methodologies on software delivery, which aligns closely with the themes of collaboration and process improvement in Agile environments.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T22:01:09",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "Content primarily discusses Scrum principles, including the importance of cross-functional teams, working software at the end of each iteration, and the role of testing within Sprints, aligning closely with Scrum practices.",
+    "level": "Secondary"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-13T22:01:11",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses methodologies for improving product delivery, specifically critiquing staggered iterations and advocating for cross-functional teams, asynchronous development, and continuous delivery practices.",
+    "level": "Secondary"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-13T22:01:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical methodologies and Agile practices, with no clear focus on psychological principles or theories related to organisational behaviour.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-13T22:01:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses aspects of agile delivery and the importance of cross-functional teams, which are relevant to DevOps principles. However, the primary focus is on Scrum practices rather than a comprehensive exploration of DevOps as a whole.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-13T22:01:25",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses strategies for improving delivery processes and fostering agility within teams, emphasising cross-functional collaboration and continuous improvement, which are central to organisational agility.",
+    "level": "Secondary"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-13T22:01:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and Scrum practices without a clear focus on Lean principles or waste reduction strategies.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-13T22:01:28",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the inefficiencies of staggered iterations and advocates for practices that enhance flow efficiency, such as cross-functional teams, asynchronous development, and continuous delivery. It focuses on optimising the delivery process and reducing bottlenecks, aligning well with the principles of Flow Efficiency.",
+    "level": "Secondary"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-13T22:01:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the drawbacks of staggered iterations in Agile delivery and suggests improvements to Agile practices without mentioning AI or automation technologies.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-13T22:01:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum practices and the issues with staggered iterations, rather than focusing on the principles or techniques of Value Stream Management.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-13T22:01:32",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses practical techniques for improving Agile delivery, including cross-functional teams, asynchronous development, and test-first approaches, which align closely with the category's focus on methodologies and tooling in Agile practices.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T22:01:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Agile approach to product delivery, focusing on cross-functional teams, continuous feedback, and the importance of delivering working software in iterations, which aligns closely with the principles of the Agile Product Operating Model.",
+    "level": "Secondary"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-13T22:01:38",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Agile methodologies and practices that enhance responsiveness to change, including the importance of cross-functional teams and continuous delivery, which are central to market adaptability.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-13T22:01:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of agile methodologies and the need for continuous improvement in software delivery processes, which aligns with the themes of learning from failures and successes. However, the primary focus is on project management and Scrum practices rather than a broader exploration of discovery and learning methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-13T22:01:43",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses Agile methodologies, specifically focusing on the implications of staggered iterations and the importance of cross-functional teams, which are central to Agile Product Management principles.",
+    "level": "Secondary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-13T22:01:45",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of agile methodologies, specifically critiquing staggered iterations and advocating for practices that enhance agility, such as cross-functional teams and continuous delivery. It aligns well with the principles of business agility and the need for organisations to adapt and innovate effectively.",
+    "level": "Secondary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-13T22:01:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses staggered iterations and their impact on software delivery, with a focus on technical processes rather than transparency and accountability principles.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T22:01:47",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses agile methodologies and the importance of cross-functional teams, which aligns with some principles of BetaCodex, but it primarily focuses on Scrum practices rather than a comprehensive discussion of BetaCodex principles.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-13T22:01:49",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the impact of staggered iterations on technical debt and software quality, which relates to code quality and complexity. However, the primary focus is on agile methodologies rather than a deep exploration of code complexity principles.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-13T22:01:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices, focusing on delivery processes rather than the comprehensive management of the application lifecycle.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-13T22:01:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical aspects of Agile delivery methods and critiques staggered iterations without personal anecdotes or reflections.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-13T22:01:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the drawbacks of staggered iterations in software delivery and offers solutions, without reference to any specific events, presentations, or discussions related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-13T22:01:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of cross-functional teams and the need for integrated practices to enhance agility, which aligns with scaling Agile principles. However, it primarily focuses on individual team practices rather than broader scaling frameworks or methodologies.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-13T22:01:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the drawbacks of staggered iterations in Agile delivery and suggests improvements, without focusing on specific products or literature.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-13T22:01:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses methodologies and practices related to Agile delivery rather than providing news or reviews about industry updates or tools.",
+    "level": "Ignored"
   }
 }

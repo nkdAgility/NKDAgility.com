@@ -30,18 +30,20 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
+- Empirical Process Control
 - Increment
 - Pragmatic Thinking
 - Product Management
 - Scrum Product Development
 - Software Developers
 - Software Development
+- Technical Debt
 - Transparency
 - Working Software
 categories:
 - Agile Product Management
+- Agile Product Operating Model
 - People and Process
-- Product Delivery
 preview: image-1.jpg
 
 ---

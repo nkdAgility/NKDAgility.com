@@ -42,13 +42,13 @@ tags:
 - Continuous Learning
 - Empirical Process Control
 - Operational Practices
-- Organisational Change
 - Organisational Culture
+- Organisational Physics
 - Pragmatic Thinking
 - Psychological Safety
+- Sensemaking
 - Software Developers
 - Software Development
-- Strategy
 - Team Collaboration
 - Team Performance
 - Transparency

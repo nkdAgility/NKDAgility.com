@@ -313,5 +313,59 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum practices and delivery methodologies in software engineering, with no focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T21:46:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum practices and the importance of delivery in software development, without a focus on empirical evidence or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T21:46:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T21:46:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum practices and delivery metrics, which are not central to the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T21:46:33",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "Content primarily discusses Scrum principles, particularly the importance of delivery in the context of Scrum practices and the distinction between Done and Delivered increments.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T21:46:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Scrum practices and the importance of delivery in Agile methodologies, which aligns with the Agile Product Operating Model as a secondary theme. However, it primarily focuses on Scrum rather than the broader Agile Product Operating Model.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T21:46:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on delivery and progress measurement rather than the principles of Beta Codex or decentralised organisational design.",
+    "level": "Ignored"
   }
 }

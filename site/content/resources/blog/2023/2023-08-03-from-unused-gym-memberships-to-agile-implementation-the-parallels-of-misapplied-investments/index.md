@@ -33,9 +33,9 @@ tags:
 - Software Developers
 - Software Development
 categories:
-- Agile Product Management
 - Organisational Agility
 - People and Process
+- Product Delivery
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

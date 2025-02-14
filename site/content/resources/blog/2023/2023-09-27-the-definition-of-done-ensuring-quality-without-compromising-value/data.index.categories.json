@@ -313,5 +313,59 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T21:48:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Definition of Done and its relationship with acceptance criteria, without a clear focus on Evidence-Based Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T21:48:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria in the context of Agile methodologies, without a direct connection to platform engineering principles or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T21:48:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, which are not central to the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T21:48:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "Content primarily discusses the Definition of Done, a key aspect of the Scrum framework, and its relationship with acceptance criteria, emphasising transparency and quality in Scrum practices.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T21:48:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Definition of Done and its implications for quality and value delivery, which are relevant to the Agile Product Operating Model, but the primary focus is on the nuances of quality standards rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T21:48:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Definition of Done and acceptance criteria in Scrum, which are not central to the principles of BetaCodex.",
+    "level": "Ignored"
   }
 }

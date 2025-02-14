@@ -21,8 +21,26 @@ aliasesFor404:
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-tags: []
-categories: []
+tags:
+- Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Pragmatic Thinking
+- Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Scrum Values
+- Software Developers
+- Software Development
+- Team Collaboration
+- Team Performance
+- Transparency
+categories:
+- People and Process
+- Product Delivery
+- Scrum
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

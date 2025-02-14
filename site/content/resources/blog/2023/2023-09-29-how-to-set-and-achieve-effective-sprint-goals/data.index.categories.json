@@ -313,5 +313,59 @@
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the tactical aspects of setting Sprint Goals rather than psychological principles or theories related to motivation, engagement, or team dynamics.",
     "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T21:48:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily focuses on the concept of Sprint Goals within the Scrum framework, without discussing the principles or practices of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-13T21:48:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-13T21:48:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-13T21:48:05",
+    "ai_confidence": 90,
+    "non_ai_confidence": 50,
+    "final_score": 86.0,
+    "reasoning": "Content primarily discusses the concept of Sprint Goals within the Scrum framework, detailing their importance, creation, and examples, which aligns closely with Scrum principles and practices.",
+    "level": "Primary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-13T21:48:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content primarily discusses the concept of Sprint Goals within the Scrum framework, which is a component of Agile methodologies. While it touches on aspects of value delivery and team accountability, it does not comprehensively address the broader Agile Product Operating Model or its principles, making it a major but secondary theme.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-13T21:48:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
   }
 }

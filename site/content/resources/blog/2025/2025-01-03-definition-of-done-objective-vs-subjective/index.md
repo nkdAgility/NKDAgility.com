@@ -32,19 +32,19 @@ tags:
 - Increment
 - Operational Practices
 - Pragmatic Thinking
+- Product Management
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Software Developers
 - Software Development
-- Team Performance
 - Technical Leadership
 - Technical Mastery
 - Working Software
 categories:
-- Agile Product Management
 - Product Delivery
+- Scrum
 - Value Delivery
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 

@@ -35,9 +35,9 @@ tags:
 - Team Performance
 - Technical Leadership
 categories:
-- Agile Product Management
 - People and Process
 - Product Delivery
+- Scrum
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

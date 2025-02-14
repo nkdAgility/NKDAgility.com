@@ -25,8 +25,31 @@ aliasesFor404:
 - /professional-scrum-teams-build-software-that-works
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
-tags: []
-categories: []
+tags:
+- Accountability
+- Agile Frameworks
+- Agile Project Management
+- Decision Making
+- Empirical Process Control
+- Engineering Excellence
+- Engineering Practices
+- Increment
+- Operational Practices
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
+- Team Performance
+- Technical Debt
+- Technical Leadership
+- Technical Mastery
+- Working Software
+categories:
+- People and Process
+- Scrum
+- Value Delivery
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

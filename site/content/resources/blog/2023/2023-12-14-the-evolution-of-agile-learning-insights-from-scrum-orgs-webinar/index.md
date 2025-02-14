@@ -35,8 +35,8 @@ tags:
 - Pragmatic Thinking
 categories:
 - Discovery and Learning
+- Events and Presentations
 - People and Process
-- Products and Books
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

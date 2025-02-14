@@ -39,6 +39,7 @@ tags:
 categories:
 - People and Process
 - Personal
+- Scrum
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---
