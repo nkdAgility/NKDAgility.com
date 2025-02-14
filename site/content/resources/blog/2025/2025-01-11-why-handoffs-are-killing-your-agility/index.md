@@ -20,28 +20,28 @@ aliasesFor404:
 tags:
 - Software Development
 - Operational Practices
+- Cross Functional Teams
 - Team Collaboration
 - Software Developers
 - Agile Project Management
-- Cross Functional Teams
 - Team Performance
 - Lean Principles
 - Pragmatic Thinking
-- Lean Product Development
 - Strategy
-- Agile Philosophy
-- Agile Planning
-- Lean Thinking
-- Agile Frameworks
-- Working Software
-- Agile Strategy
-- Cycle Time
-- Engineering Excellence
+- Lean Product Development
+- Engineering Practices
 - Organisational Physics
+- Technical Leadership
+- Agile Philosophy
+- Agile Frameworks
+- Engineering Excellence
+- Agile Strategy
+- Agile Transformation
+- Agile Planning
 categories:
+- Organisational Agility
 - Value Delivery
 - Business Agility
-- Product Delivery
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

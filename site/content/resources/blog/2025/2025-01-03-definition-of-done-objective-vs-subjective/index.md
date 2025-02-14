@@ -27,21 +27,21 @@ tags:
 - Software Development
 - Scrum Product Development
 - Professional Scrum
-- Working Software
 - Operational Practices
+- Working Software
 - Agile Frameworks
 - Agile Planning
-- Engineering Excellence
-- Pragmatic Thinking
 - Software Developers
 - Agile Project Management
-- Scrum Team
+- Engineering Excellence
+- Pragmatic Thinking
 - Scrum Master
-- Product Management
-- Technical Mastery
-- Technical Leadership
-- Empirical Process Control
 - Engineering Practices
+- Team Performance
+- Technical Leadership
+- Technical Mastery
+- Scrum Team
+- Empirical Process Control
 categories:
 - Scrum
 - Product Delivery

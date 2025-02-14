@@ -27,21 +27,21 @@ tags:
 - Deployment Frequency
 - Software Development
 - Frequent Releases
-- Scrum Product Development
-- Product Validation
-- Customer Feedback Loops
 - Working Software
-- Release Management
-- Agile Transformation
-- Agile Planning
-- Product Management
-- Lead Time
-- Software Developers
-- Continuous Delivery
-- Agile Strategy
-- Agile Frameworks
-- Agile Philosophy
+- Customer Feedback Loops
+- Product Validation
+- Scrum Product Development
 - Agile Project Management
+- Release Management
+- Lead Time
+- Continuous Delivery
+- Agile Frameworks
+- Software Developers
+- Agile Transformation
+- Agile Philosophy
+- Agile Strategy
+- Product Management
+- Agile Planning
 categories:
 - Value Delivery
 - Agile Product Management

@@ -20,6 +20,10 @@ function Get-CatalogHashtable {
     return $catalogHash
 }
 
+if ($fullCatalogue -eq $null) {
+    $fullCatalogue = (Get-CatalogHashtable -Classification "categories") + (Get-CatalogHashtable -Classification "tags")
+}
+
 function Get-CategoryConfidenceWithChecksum {
     param (
         [string]$ResourceContent,
@@ -35,20 +39,67 @@ function Get-CategoryConfidenceWithChecksum {
         New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
     }
 
-    $catalog = @{}
-    switch ($ClassificationType) {
-        "categories" {
-            $catalog = Get-CatalogHashtable -Classification "categories"
+    $oldDataFiles = @((Join-Path $CacheFolder "data.index.tags.json"), (Join-Path $CacheFolder "data.index.categories.json"))
+    if ($oldDataFiles | Where-Object { Test-Path $_ }) {
+        try {
+            $dataFile = Join-Path $CacheFolder "data.index.classifications.json"
+            $data = $null;
+            if (Test-Path $dataFile) {
+                $data = Get-Content (Join-Path $CacheFolder "data.index.classifications.json") | ConvertFrom-Json -ErrorAction Stop
+            }
+            foreach ($oldDataFile in $oldDataFiles) {
+                if (Test-Path $oldDataFile) {
+                    $oldData = Get-Content $oldDataFile | ConvertFrom-Json -ErrorAction Stop
+                    if ($data -eq $null) {
+                        $data = $oldData
+                    }
+                    else {
+                        # Merge properties from $oldData into $data
+                        foreach ($property in $oldData.PSObject.Properties) {
+                            if (-not $data.PSObject.Properties.Name.Contains($property.Name)) {
+                                Add-Member -InputObject $data -MemberType NoteProperty -Name $property.Name -Value $property.Value
+                            }
+                            else {
+                                # Optionally, handle merging of existing properties if needed
+                                # For example, if it's a list, you can combine them
+                                if ($data.$($property.Name) -is [System.Collections.IList]) {
+                                    $data.$($property.Name) += $property.Value
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            $data | ConvertTo-Json -Depth 2 | Set-Content -Path $dataFile -Force
+
+            foreach ($oldDataFile in $oldDataFiles) {
+                if (Test-Path $oldDataFile) {
+                    Remove-Item $oldDataFile -Force
+                }
+            }
         }
-        "tags" {
-            $catalog = Get-CatalogHashtable -Classification "tags"
+        catch {
+            Write-ErrorLog "Error migrating old data files. Please re-run the command.\n Error: $_"
+            exit
         }
     }
 
-    $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
-    $batchJsonlOutout = Join-Path $CacheFolder "data.index.$ClassificationType-output.jsonl"
-    $batchJsonlInput = Join-Path $CacheFolder "data.index.$ClassificationType-input.jsonl"
-    $batchFile = Join-Path $CacheFolder "data.index.$ClassificationType.batch"
+
+    $catalog = @{}
+    
+    switch ($ClassificationType) {
+        "categories" {
+            $catalog = Get-CatalogHashtable -Classification "categories"
+            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+        }
+        "tags" {
+            $catalog = Get-CatalogHashtable -Classification "tags"
+            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+        }
+    }
+    $batchJsonlOutout = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-output.jsonl"
+    $batchJsonlInput = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-input.jsonl"
+    $batchFile = Join-Path $CacheFolder "data.index.classifications.$ClassificationType.batch"
 
     # If the batch file exists, check the status
     if (Test-Path $batchFile) {
@@ -110,7 +161,7 @@ function Get-CategoryConfidenceWithChecksum {
         try {
             $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
             Write-DebugLog "Load Cache: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
-            $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog.Keys }
+            $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $fullCatalogue.Keys }
             if ( $keysToRemove.Count -gt 0) {
                 # If there are keys to remove, remove them and update the cache
                 Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
