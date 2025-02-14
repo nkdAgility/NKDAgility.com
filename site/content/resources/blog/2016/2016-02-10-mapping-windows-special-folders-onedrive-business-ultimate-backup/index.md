@@ -27,8 +27,12 @@ aliasesFor404:
 - /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /mapping-your-windows-special-folders-to-onedrive-for-business
 - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: clip_image001-1-1.png
 
 ---

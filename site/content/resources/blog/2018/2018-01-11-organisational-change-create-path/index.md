@@ -27,24 +27,24 @@ aliasesFor404:
 - /resources/blog/organisational-change-create-path
 tags:
 - Organisational Change
-- Change Management
 - Pragmatic Thinking
+- Change Management
 - Large Scale Agility
-- Agile Frameworks
 - Organisational Culture
+- Agile Leadership
 - Scaled Agile
+- Agile Frameworks
+- Continuous Learning
 - Software Development
 - Professional Scrum
-- Agile Leadership
-- Continuous Learning
-- Agile Strategy
-- Technical Leadership
-- Team Collaboration
-- Scaling Agility
 - Organisational Physics
-- Agile Transformation
+- Technical Leadership
+- Agile Strategy
+- Scaling Agility
 - Empirical Process Control
-- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Agile Philosophy
 - Operational Practices
 categories:
 - People and Process

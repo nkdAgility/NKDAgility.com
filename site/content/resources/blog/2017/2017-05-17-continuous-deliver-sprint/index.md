@@ -32,24 +32,24 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Increment
-- Empirical Process Control
 - Scrum Team
 - Working Software
+- Empirical Process Control
 - Agile Planning
 - Software Developers
-- Software Development
-- Team Performance
-- Professional Scrum
 - Scrum Master
 - Scrum Product Development
-- Deployment Frequency
-- Agile Strategy
+- Professional Scrum
+- Software Development
+- Team Performance
 - Frequent Releases
-- Agile Frameworks
-- Agile Transformation
-- Operational Practices
 - Pragmatic Thinking
+- Agile Transformation
+- Deployment Frequency
 - Strategy
+- Operational Practices
+- Agile Frameworks
+- Agile Strategy
 categories:
 - Scrum
 - People and Process

@@ -25,9 +25,27 @@ aliasesFor404:
 - /live-site-culture-&-site-reliability-engineering
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/blog/live-site-culture-site-reliability-engineering
-categories: []
+categories:
+- DevOps
+- Market Adaptability
+- Events and Presentations
 preview: 2020-06-17_13-06-30-1-1.jpg
-tags: []
+tags:
+- Frequent Releases
+- Deployment Frequency
+- Software Development
+- Pragmatic Thinking
+- Continuous Learning
+- Operational Practices
+- Engineering Excellence
+- Agile Transformation
+- Working Software
+- Release Management
+- Digital Transformation
+- Software Developers
+- Trend Analysis
+- Technical Mastery
+- Agile Philosophy
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

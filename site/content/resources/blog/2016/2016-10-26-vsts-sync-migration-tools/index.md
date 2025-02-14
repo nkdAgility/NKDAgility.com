@@ -21,8 +21,11 @@ aliasesFor404:
 - /vsts-sync-migration-tools
 - /blog/vsts-sync-migration-tools
 - /resources/blog/vsts-sync-migration-tools
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: image_thumb-1-1.png
 
 ---

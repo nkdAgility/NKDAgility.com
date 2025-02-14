@@ -32,10 +32,10 @@ tags:
 - Test First Development
 - Continuous Delivery
 - Operational Practices
+- Automated Testing
 - Engineering Excellence
 - Release Management
 - Engineering Practices
-- Automated Testing
 - Software Developers
 - Technical Mastery
 - Frequent Releases

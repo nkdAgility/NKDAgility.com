@@ -25,8 +25,20 @@ aliasesFor404:
 - /open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
-tags: []
-categories: []
+tags:
+- Continuous Integration
+- System Configuration
+- Operational Practices
+- Modern Source Control
+- Software Development
+- Software Developers
+- Pragmatic Thinking
+- Azure Pipelines
+- Continuous Delivery
+categories:
+- DevOps
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

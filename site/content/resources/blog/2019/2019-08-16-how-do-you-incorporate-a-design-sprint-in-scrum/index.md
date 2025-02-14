@@ -31,8 +31,8 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Team Performance
-- Team Collaboration
 - Software Development
+- Team Collaboration
 - Agile Transformation
 - Pragmatic Thinking
 - Software Developers

@@ -30,22 +30,22 @@ tags:
 - Agile Project Management
 - Professional Scrum
 - Scrum Product Development
+- Agile Strategy
 - Agile Frameworks
+- Product Management
 - Change Management
 - Cycle Time
-- Product Management
-- Agile Strategy
+- Agile Planning
 - Organisational Change
 - Agile Transformation
-- Agile Planning
 - Forecasting
 - Decision Making
-- Estimation
 - Software Development
-- Operational Practices
+- Estimation
 - Software Developers
-- Pragmatic Thinking
 - Strategy
+- Operational Practices
+- Pragmatic Thinking
 categories:
 - Scrum
 - People and Process

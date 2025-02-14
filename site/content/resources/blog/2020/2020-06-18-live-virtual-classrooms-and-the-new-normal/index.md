@@ -25,8 +25,13 @@ aliasesFor404:
 - /live-virtual-classroom's-and-the-new-normal
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
-tags: []
-categories: []
+tags:
+- Remote Working
+- Pragmatic Thinking
+categories:
+- People and Process
+- Resilience and Change
+- Personal
 preview: image-1-1-1.png
 
 ---

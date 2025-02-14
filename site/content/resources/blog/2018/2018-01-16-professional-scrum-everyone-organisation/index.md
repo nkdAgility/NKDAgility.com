@@ -29,24 +29,24 @@ aliasesFor404:
 tags:
 - Transparency
 - Software Developers
+- Scrum Master
 - Change Management
 - Agile Project Management
 - Professional Scrum
-- Organisational Change
 - Scrum Product Development
-- Scrum Master
-- Agile Strategy
+- Organisational Change
+- Organisational Culture
 - Self Organisation
-- Software Development
 - Team Motivation
 - Team Collaboration
 - Agile Leadership
-- Organisational Physics
+- Agile Frameworks
+- Agile Strategy
 - Scaling Agility
-- Empirical Process Control
-- Team Performance
-- Agile Transformation
+- Agile Planning
 - Agile Philosophy
+- Organisational Physics
+- Team Performance
 categories:
 - People and Process
 - Scrum

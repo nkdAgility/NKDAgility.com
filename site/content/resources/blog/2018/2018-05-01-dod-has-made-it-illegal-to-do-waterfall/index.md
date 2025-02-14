@@ -24,24 +24,24 @@ aliasesFor404:
 tags:
 - Increment
 - Empirical Process Control
+- Large Scale Agility
 - Working Software
 - Scrum Product Development
-- Software Developers
 - Software Development
-- Agile Values and Principles
-- Large Scale Agility
 - Agile Project Management
-- Agile Transformation
-- Organisational Change
-- Frequent Releases
+- Agile Values and Principles
+- Software Developers
 - Pragmatic Thinking
-- Agile Philosophy
-- Agile Frameworks
-- Change Management
+- Frequent Releases
 - Agile Planning
+- Agile Transformation
+- Agile Frameworks
+- Agile Philosophy
 - Agile Strategy
+- Organisational Change
+- Change Management
+- Digital Transformation
 - Engineering Excellence
-- Deployment Frequency
 categories:
 - Scrum
 - People and Process

@@ -33,15 +33,15 @@ tags:
 - Pragmatic Thinking
 - Scrum Product Development
 - Team Collaboration
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Agile Frameworks
 - Coaching
 - Self Organisation
 categories:
 - Scrum
-- Events and Presentations
 - People and Process
+- Events and Presentations
 preview: PSX_20190823_113052-1-1.jpg
 
 ---

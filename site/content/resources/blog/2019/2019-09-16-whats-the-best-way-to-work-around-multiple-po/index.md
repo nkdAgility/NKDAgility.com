@@ -26,23 +26,23 @@ aliasesFor404:
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags:
-- Scrum Product Development
 - Product Backlog
 - Scrum Team
-- Professional Scrum
-- Product Owner
 - Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
 - Agile Project Management
 - Agile Frameworks
 - Software Developers
+- Decision Making
+- Pragmatic Thinking
 - Software Development
+- Agile Transformation
+- Strategy
+- Agile Planning
 - Agile Strategy
 - Accountability
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Planning
-- Decision Making
-- Strategy
 - Technical Leadership
 categories:
 - Scrum

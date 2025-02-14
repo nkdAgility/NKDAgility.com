@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/agile-in-africa-2016
 - /resources/blog/agile-africa-2016
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- Personal
+- News and Reviews
 preview: clip_image001-1-2-2.jpg
 
 ---

@@ -31,13 +31,13 @@ tags:
 - Scrum Master
 - Professional Scrum
 - Scrum Product Development
+- Agile Project Management
 - Team Performance
 - Agile Frameworks
 - Team Collaboration
 - Team Motivation
-- Software Development
 - Agile Transformation
-- Agile Project Management
+- Software Development
 - Pragmatic Thinking
 - Technical Leadership
 - Software Developers

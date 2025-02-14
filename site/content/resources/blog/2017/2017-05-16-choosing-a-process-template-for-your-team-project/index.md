@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
 tags: []
-categories: []
+categories:
+- Agile Product Management
+- Practical Techniques and Tooling
 preview: IC749984-1-1.png
 
 ---

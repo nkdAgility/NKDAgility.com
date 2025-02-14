@@ -29,24 +29,24 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Throughput
-- Increment
 - Transparency
-- Definition of Done
+- Increment
 - Scrum Product Development
 - Empirical Process Control
-- Continuous Delivery
+- Definition of Done
 - Software Development
-- Working Software
-- Professional Scrum
-- Engineering Practices
 - Scrum Team
+- Working Software
+- Continuous Delivery
+- Engineering Practices
 - Sprint Review
-- Team Performance
+- Professional Scrum
 - Operational Practices
 - Agile Planning
 - Software Developers
-- Pragmatic Thinking
+- Team Performance
 - Agile Transformation
+- Agile Frameworks
 categories:
 - Scrum
 - People and Process

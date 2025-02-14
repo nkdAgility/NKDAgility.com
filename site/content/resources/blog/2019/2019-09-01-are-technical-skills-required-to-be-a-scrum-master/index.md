@@ -29,19 +29,19 @@ tags:
 - Coaching
 - Scrum Product Development
 - Technical Mastery
-- Software Development
-- Professional Scrum
+- Scrum Team
 - Scrum Master
 - Team Performance
-- Scrum Team
+- Software Development
+- Professional Scrum
 - Technical Leadership
-- Pragmatic Thinking
 - Agile Leadership
-- Agile Transformation
-- Agile Project Management
 - Agile Frameworks
-- Organisational Change
+- Agile Project Management
+- Agile Transformation
+- Pragmatic Thinking
 - Engineering Practices
+- Organisational Change
 - Mentoring
 categories:
 - Scrum
