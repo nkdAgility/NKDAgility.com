@@ -32,8 +32,8 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Working Software
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Increment
 - Software Developers
 - Empirical Process Control
@@ -41,8 +41,8 @@ tags:
 - Pragmatic Thinking
 categories:
 - Scrum
-- Product Delivery
 - Transparency and Accountability
+- Product Delivery
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

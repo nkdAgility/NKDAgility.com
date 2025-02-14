@@ -26,18 +26,18 @@ tags:
 - Increment
 - Agile Values and Principles
 - Agile Philosophy
+- Agile Transformation
+- Team Performance
+- Software Development
 - Agile Project Management
 - Software Developers
 - Agile Frameworks
-- Team Performance
-- Software Development
-- Agile Transformation
 - Pragmatic Thinking
 - Organisational Culture
 categories:
 - Scrum
-- People and Process
 - Agile Product Management
+- People and Process
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 
 ---

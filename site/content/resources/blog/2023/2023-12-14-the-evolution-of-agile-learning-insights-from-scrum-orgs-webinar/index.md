@@ -34,8 +34,8 @@ tags:
 - Coaching
 - Agile Transformation
 categories:
-- People and Process
 - Discovery and Learning
+- People and Process
 - Events and Presentations
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 

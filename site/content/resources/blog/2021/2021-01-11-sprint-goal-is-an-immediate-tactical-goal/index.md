@@ -26,27 +26,27 @@ tags:
 - Scrum Product Development
 - Product Management
 - Product Owner
-- Professional Scrum
-- Hypothesis Driven Development
 - Pragmatic Thinking
 - Agile Project Management
-- Agile Frameworks
+- Professional Scrum
+- Hypothesis Driven Development
 - Agile Planning
+- Agile Frameworks
 - Strategy
 - Software Development
 - Agile Strategy
-- Scrum Team
-- Empirical Process Control
-- Product Discovery
-- Product Validation
 - Product Strategy
-- Accountability
+- Product Discovery
+- Empirical Process Control
+- Product Validation
+- Scrum Team
 - Experimentation
 - Decision Making
+- Accountability
 categories:
 - Scrum
-- People and Process
 - Agile Product Management
+- People and Process
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

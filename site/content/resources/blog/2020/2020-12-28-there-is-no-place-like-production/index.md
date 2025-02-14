@@ -24,29 +24,29 @@ aliasesFor404:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Increment
-- Product Validation
 - Product Management
 - Release Management
-- Lean Product Development
-- Working Software
+- Product Validation
 - Product Discovery
+- Working Software
 - Ability to Innovate
-- Experimentation
+- Lean Product Development
+- Hypothesis Driven Development
+- Empirical Process Control
 - Lean Startup
 - Frequent Releases
-- Hypothesis Driven Development
-- MVP
-- Pragmatic Thinking
-- Agile Strategy
+- Experimentation
 - Evidence Based Leadership
-- Deployment Frequency
+- Agile Strategy
+- Pragmatic Thinking
 - Agile Philosophy
-- Empirical Process Control
+- Operational Practices
 - Decision Making
+- MVP
 categories:
 - Agile Product Management
 - Business Agility
-- Value Delivery
+- Discovery and Learning
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

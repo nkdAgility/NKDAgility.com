@@ -27,22 +27,22 @@ tags:
 - Increment
 - Agile Values and Principles
 - Agile Planning
-- Agile Transformation
+- Product Management
+- Working Software
 - Scrum Product Development
 - Agile Frameworks
-- Product Management
 - Agile Strategy
 - Agile Project Management
+- Agile Transformation
 - Agile Philosophy
-- Working Software
-- Pragmatic Thinking
 - Software Development
-- Empirical Process Control
 - Software Developers
+- Empirical Process Control
+- Pragmatic Thinking
 - Technical Debt
 categories:
-- Agile Product Operating Model
 - Agile Product Management
+- Agile Product Operating Model
 - People and Process
 preview: image-1.jpg
 

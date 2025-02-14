@@ -30,10 +30,10 @@ tags:
 - Scrum Team
 - Scrum Product Development
 - Agile Planning
-- Agile Project Management
-- Agile Frameworks
-- Self Organisation
 - Software Development
+- Agile Project Management
+- Self Organisation
+- Agile Frameworks
 - Increment
 categories:
 - Scrum

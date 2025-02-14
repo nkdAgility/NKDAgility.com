@@ -29,27 +29,27 @@ tags:
 - Working Software
 - Software Development
 - Scrum Product Development
-- Professional Scrum
 - Engineering Excellence
 - Scrum Team
+- Professional Scrum
 - Accountability
 - Increment
-- Technical Debt
-- Software Developers
 - Empirical Process Control
-- Team Performance
+- Software Developers
+- Technical Debt
 - Agile Project Management
-- Technical Mastery
+- Team Performance
 - Engineering Practices
+- Technical Mastery
+- Agile Frameworks
 - Pragmatic Thinking
 - Operational Practices
-- Agile Frameworks
-- Technical Leadership
 - Decision Making
+- Technical Leadership
 categories:
 - Scrum
 - People and Process
-- Value Delivery
+- Agile Product Management
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

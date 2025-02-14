@@ -33,21 +33,21 @@ tags:
 - Lean Product Development
 - Scrum Product Development
 - Lean Thinking
-- Backlog Refinement
 - Lean Principles
 - Product Owner
-- Professional Scrum
-- Agile Planning Tools
+- Backlog Refinement
 - Agile Project Management
-- Agile Planning
+- Professional Scrum
 - Pragmatic Thinking
+- Agile Planning Tools
+- Agile Planning
 - Software Development
 - Product Strategy
-- Strategy
 - Operational Practices
+- Strategy
 categories:
 - Lean
-- Value Delivery
+- Agile Product Management
 - Product Delivery
 preview: image-1.jpg
 

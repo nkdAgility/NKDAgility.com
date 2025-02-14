@@ -32,19 +32,19 @@ tags:
 - Accountability
 - Scrum Team
 - Team Performance
-- Team Collaboration
-- Agile Frameworks
-- Scrum Master
 - Agile Planning
 - Pragmatic Thinking
-- Software Developers
+- Team Collaboration
+- Scrum Master
+- Agile Frameworks
 - Software Development
+- Software Developers
 - Strategy
-- Coaching
 - Transparency
+- Coaching
 categories:
 - Scrum
-- Value Delivery
+- Agile Product Management
 - People and Process
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 

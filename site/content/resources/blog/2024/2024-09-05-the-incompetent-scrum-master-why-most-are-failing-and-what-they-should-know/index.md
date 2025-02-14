@@ -30,29 +30,29 @@ aliasesFor404:
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Agile Project Management
-- Scrum Master
 - Agile Frameworks
 - Scrum Team
+- Scrum Master
+- Team Performance
 - Software Development
 - Professional Scrum
-- Team Performance
-- Agile Transformation
-- Technical Leadership
-- Scrum Product Development
 - Agile Planning
+- Technical Leadership
+- Agile Transformation
 - Software Developers
-- Mentoring
+- Scrum Product Development
 - Accountability
 - Coaching
-- Pragmatic Thinking
+- Mentoring
 - Strategy
+- Pragmatic Thinking
 - Engineering Practices
 - Scaled Agile
-- Operational Practices
+- Continuous Learning
 categories:
 - People and Process
 - Agile Product Management
-- Product Delivery
+- Practical Techniques and Tooling
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

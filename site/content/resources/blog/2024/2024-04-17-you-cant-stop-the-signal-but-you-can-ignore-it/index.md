@@ -34,23 +34,23 @@ preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
 - Agile Frameworks
 - Agile Philosophy
-- Organisational Culture
 - Agile Transformation
+- Organisational Culture
 - Agile Values and Principles
 - Transparency
-- Operational Practices
-- Empirical Process Control
 - Team Performance
+- Software Development
+- Agile Project Management
 - Agile Strategy
-- Agile Leadership
+- Empirical Process Control
 - Continuous Learning
 - Team Collaboration
-- Agile Project Management
-- Software Development
+- Operational Practices
+- Agile Leadership
 - Software Developers
+- Strategy
+- Change Management
 - Sensemaking
-- Psychological Safety
-- Pragmatic Thinking
 - Organisational Physics
 
 ---

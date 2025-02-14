@@ -24,22 +24,22 @@ aliasesFor404:
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
 tags:
 - Product Backlog
-- Backlog Refinement
 - Professional Scrum
+- Backlog Refinement
 - Scrum Product Development
-- Product Owner
-- Agile Project Management
-- Agile Frameworks
-- Product Management
-- Agile Planning Tools
 - Agile Planning
-- Transparency
+- Agile Project Management
+- Agile Planning Tools
+- Product Owner
+- Product Management
+- Agile Frameworks
 - Software Development
 - Pragmatic Thinking
+- Transparency
 categories:
 - Scrum
-- Agile Product Operating Model
 - Agile Product Management
+- Agile Product Operating Model
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 
 ---

@@ -33,12 +33,12 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Agile Frameworks
-- Agile Leadership
 - Scrum Product Development
+- Agile Leadership
 - Technical Leadership
 - Product Management
-- Accountability
 - Experimentation
+- Accountability
 categories:
 - People and Process
 - Value Delivery

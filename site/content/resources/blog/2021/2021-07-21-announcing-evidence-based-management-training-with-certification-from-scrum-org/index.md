@@ -29,21 +29,21 @@ aliasesFor404:
 - /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
 tags:
 - Evidence Based Leadership
-- Ability to Innovate
 - Agile Project Management
+- Ability to Innovate
 - Agile Leadership
-- Agile Strategy
-- Agile Frameworks
 - Strategic Goals
-- Decision Making
-- Empirical Process Control
+- Agile Frameworks
+- Agile Strategy
 - Strategy
+- Empirical Process Control
 - Pragmatic Thinking
+- Decision Making
 - Product Management
 - Agile Transformation
 categories:
 - Evidence Based Management
-- Metrics and Learning
+- Events and Presentations
 - People and Process
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 

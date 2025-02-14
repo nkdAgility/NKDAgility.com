@@ -30,16 +30,16 @@ tags:
 - Technical Debt
 - Transparency
 - Technical Mastery
-- Software Developers
 - Software Development
+- Software Developers
 - Engineering Excellence
 - Pragmatic Thinking
 - Product Management
 - Scrum Product Development
 categories:
+- Transparency and Accountability
 - People and Process
 - Product Delivery
-- Transparency and Accountability
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

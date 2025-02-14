@@ -25,11 +25,11 @@ aliasesFor404:
 tags:
 - Agile Leadership
 - Scrum Master
-- Agile Project Management
 - Scrum Team
-- Team Motivation
+- Agile Project Management
 - Professional Scrum
 - Technical Leadership
+- Team Motivation
 categories:
 - People and Process
 - Scrum

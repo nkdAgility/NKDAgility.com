@@ -26,21 +26,21 @@ tags:
 - Transparency
 - Scrum Team
 - Scrum Product Development
+- Agile Planning
+- Team Performance
 - Scrum Values
 - Software Developers
-- Team Performance
-- Agile Planning
+- Software Development
 - Agile Project Management
 - Agile Frameworks
-- Software Development
 - Product Owner
 - Team Collaboration
 - Product Management
 - Pragmatic Thinking
 categories:
 - Scrum
+- Agile Product Management
 - People and Process
-- Product Delivery
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

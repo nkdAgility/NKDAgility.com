@@ -25,12 +25,12 @@ tags:
 - Scrum Master
 - Scrum Team
 - Scrum Product Development
-- Professional Scrum
 - Software Development
+- Professional Scrum
 - Technical Leadership
+- Team Performance
 - Agile Project Management
 - Agile Frameworks
-- Team Performance
 - Accountability
 - Agile Leadership
 - Coaching
