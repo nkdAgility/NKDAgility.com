@@ -182,10 +182,11 @@ function Get-CategoryConfidenceWithChecksum {
                 Write-WarningLog "Batch still in progress. Please wait for completion."
             }
             "failed" {
-                Write-ErrorLog "Batch failed. Please try again."
+                Write-ErrorLog "Batch failed for $batchId. Please try again."
                 Remove-Item $batchFile -Force
                 Remove-Item $batchJsonlInput -Force
                 $batchStatus = $null
+                exit
             }
             default {
                 Write-WarningLogLog $batchStatus

@@ -21,7 +21,11 @@ aliasesFor404:
 - /upgrading-to-team-foundation-server-2012-update-1
 - /blog/upgrading-to-team-foundation-server-2012-update-1
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1
-tags: []
+tags:
+- System Configuration
+- Software Development
+- Release Management
+- Windows
 categories: []
 
 ---

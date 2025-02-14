@@ -28,7 +28,10 @@ aliasesFor404:
 - /tfs-2012-update-1
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-problem-icon-2-2.png
 
 ---
