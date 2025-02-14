@@ -28,27 +28,27 @@ tags:
 - Increment
 - Software Development
 - Agile Project Management
-- Scrum Team
-- Scrum Product Development
-- Continuous Delivery
-- Working Software
 - Engineering Practices
-- Deployment Frequency
+- Scrum Product Development
+- Scrum Team
+- Working Software
+- Continuous Delivery
 - Release Management
-- Professional Scrum
-- Team Performance
 - Software Developers
+- Professional Scrum
 - Empirical Process Control
+- Deployment Frequency
 - Operational Practices
-- Frequent Releases
-- Agile Planning
-- Agile Transformation
+- Team Performance
 - Agile Frameworks
-- Pragmatic Thinking
+- Strategy
+- Agile Transformation
+- Agile Planning
+- Frequent Releases
 categories:
 - Product Delivery
-- Value Delivery
 - People and Process
+- Value Delivery
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

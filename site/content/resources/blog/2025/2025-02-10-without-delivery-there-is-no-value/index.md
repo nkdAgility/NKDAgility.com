@@ -26,25 +26,25 @@ tags:
 - Transparency
 - Deployment Frequency
 - Software Development
-- Frequent Releases
-- Working Software
+- Scrum Product Development
 - Customer Feedback Loops
 - Product Validation
-- Scrum Product Development
-- Agile Project Management
-- Release Management
-- Lead Time
-- Continuous Delivery
-- Agile Frameworks
-- Software Developers
-- Agile Transformation
-- Agile Philosophy
+- Working Software
+- Frequent Releases
 - Agile Strategy
+- Agile Frameworks
 - Product Management
+- Software Developers
+- Release Management
+- Continuous Delivery
+- Agile Transformation
+- Lead Time
 - Agile Planning
+- Agile Project Management
+- Agile Philosophy
 categories:
-- Value Delivery
 - Agile Product Management
+- Value Delivery
 - Product Delivery
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []

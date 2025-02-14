@@ -26,22 +26,22 @@ tags:
 - Deployment Strategies
 - Software Development
 - Continuous Delivery
-- Frequent Releases
-- Technical Mastery
 - Deployment Frequency
 - Software Developers
 - Engineering Excellence
+- Frequent Releases
+- Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
 - Strategy
-- Experimentation
-- Customer Feedback Loops
 - Increment
-- Working Software
-- Empirical Process Control
-- Release Management
+- Customer Feedback Loops
+- Experimentation
 - Product Validation
+- Empirical Process Control
+- Digital Transformation
 - Ability to Innovate
+- Working Software
 - Engineering Practices
 categories:
 - DevOps

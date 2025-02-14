@@ -42,15 +42,16 @@ function Get-CategoryConfidenceWithChecksum {
         New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
     }
 
-    $catalog = @{}
-    
+    # Populate Catalogues
+    Write-InfoLog "   Populating Catalogues"
+    $catalog = @{}    
     switch ($ClassificationType) {
         { $_ -in "categories", "tags" } {
             $catalog = $catalogues["catalog"][$ClassificationType]
             $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
         }
-        { "catalog_full" } {
+        "catalog_full" {
             $catalog = $catalogues["catalog_full"]
             $catalog_full = $catalogues["catalog_full"]
             $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
@@ -65,6 +66,91 @@ function Get-CategoryConfidenceWithChecksum {
             return @()
         }
     }
+
+    # Load from Cache and validate its contents
+    $cachedData = @{}
+    Write-InfoLog "   Populating Cache"
+    if (Test-Path $cacheFile) {
+        # Load from cache
+        try {
+            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+        }
+        catch {
+            Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
+            $cachedData = @{}
+        }
+        Write-DebugLog "Cache Contains: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+        # Remove items that are not in catalogue            
+        $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog_full.Keys }
+        if ( $keysToRemove.Count -gt 0) {
+            # If there are keys to remove, remove them and update the cache
+            Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
+            foreach ($key in $keysToRemove) {
+                $cachedData.PSObject.Properties.Remove($key)
+            }
+            Write-DebugLog "     After: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+            Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
+        }           
+        # Check if the cache is up to date
+        $expiredCount = 0
+        foreach ($key in $cachedData.PSObject.Properties) {
+            $entry = $key.Value
+            if (([DateTimeOffset]$entry.calculated_at) -lt ([DateTimeOffset]$catalog_full[$key.Name].date)) {
+                Write-DebugLog "Cache is out of date for $key"
+                $cachedData.PSObject.Properties.Remove($key)
+                $expiredCount++
+            }
+        }
+        if ($expiredCount -gt 0) {
+            Write-DebugLog "  Removed {expiredCount} Expired Items" -PropertyValues $expiredCount
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        }
+        # Check if the cache uses the latest calculations
+        $recalculatedCount = 0
+        foreach ($key in $cachedData.PSObject.Properties) {
+            $entry = $key.Value
+            $finalScore = Get-ComputedConfidence -aiConfidence $entry.ai_confidence -nonAiConfidence $entry.non_ai_confidence
+            $level = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
+            if ($entry.final_score -ne $finalScore -or $entry.level -ne $level) {
+                $entry.final_score = $finalScore
+                $entry.level = $level
+                $entry.calculated_at = (Get-Date).ToUniversalTime().ToString("s")                
+                # Update cache
+                $cachedData.($key.name) = $entry
+                $recalculatedCount++
+            }
+        }
+        if ($recalculatedCount -gt 0) {
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+            Write-DebugLog "  Recalculated for {recalculatedCount} Items" -PropertyValues $recalculatedCount
+        }
+    }
+
+    # Build Scores from cache and missings
+    $categoryScores = @{}
+    $categoryMissing = @{}
+    $count = 0;
+    $total = $catalog.Keys.Count
+    foreach ($category in $catalog.Keys) {
+        Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
+        $count++
+        if ($cachedData.PSObject.Properties[$category]) {            
+            $categoryScores[$category] = $cachedData.$category      
+        }
+        else {
+            $categoryMissing[$category] = $category
+        }
+    }
+    # Return if good to go
+    if ($categoryMissing.Count -eq 0) {
+        $finalSelection = $categoryScores.Values | Where-Object { $_.level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
+        return $finalSelection | ConvertTo-Json -Depth 1
+    }
+
+    # Get new data for missing items
+
+
     $batchJsonlOutout = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-output.jsonl"
     $batchJsonlInput = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-input.jsonl"
     $batchFile = Join-Path $CacheFolder "data.index.classifications.$ClassificationType.batch"
@@ -123,28 +209,6 @@ function Get-CategoryConfidenceWithChecksum {
         }
     }
 
-
-    $cachedData = @{}
-    if (Test-Path $cacheFile) {
-        try {
-            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
-            Write-DebugLog "Load Cache: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
-            $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog_full.Keys }
-            if ( $keysToRemove.Count -gt 0) {
-                # If there are keys to remove, remove them and update the cache
-                Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
-                foreach ($key in $keysToRemove) {
-                    $cachedData.PSObject.Properties.Remove($key)
-                }
-                Write-DebugLog "     After: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
-                $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-            }
-        }
-        catch {
-            Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
-            $cachedData = @{}
-        }
-    }
 
     $categoryScores = @{}
     $count = 0;
@@ -247,8 +311,8 @@ do not wrap the json in anything else, just return the json object.
 
 function Get-ComputedConfidence {
     param (
-        [string]$aiConfidence,
-        [string]$nonAiConfidence
+        [int]$aiConfidence,
+        [int]$nonAiConfidence
     )
     return [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
 }
