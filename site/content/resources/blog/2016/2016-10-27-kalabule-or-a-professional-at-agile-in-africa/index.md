@@ -28,7 +28,10 @@ tags:
 - Software Development
 - Software Developers
 - Organisational Culture
-categories: []
+categories:
+- Events and Presentations
+- People and Process
+- Scrum
 preview: clip_image001-2-2.png
 
 ---

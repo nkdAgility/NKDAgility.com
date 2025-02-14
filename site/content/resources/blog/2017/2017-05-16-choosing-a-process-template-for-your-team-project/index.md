@@ -23,8 +23,9 @@ aliasesFor404:
 - /resources/blog/choosing-a-process-template-for-your-team-project
 tags: []
 categories:
+- Scrum
+- People and Process
 - Agile Product Management
-- Practical Techniques and Tooling
 preview: IC749984-1-1.png
 
 ---

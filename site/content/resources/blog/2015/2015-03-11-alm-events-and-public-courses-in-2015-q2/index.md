@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/alm-events-and-public-courses-in-2015-q2
 - /resources/blog/alm-events-and-public-courses-in-2015-q2
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- News and Reviews
+- DevOps
 preview: metro-event-icon-1-1.png
 
 ---

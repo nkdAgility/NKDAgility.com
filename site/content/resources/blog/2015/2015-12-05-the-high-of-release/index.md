@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/the-high-of-release
 - /resources/blog/the-high-of-release
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- DevOps
+- Product Delivery
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

@@ -29,8 +29,8 @@ tags:
 - Continuous Integration
 - System Configuration
 - Operational Practices
-- Modern Source Control
 - Software Development
+- Modern Source Control
 - Software Developers
 - Pragmatic Thinking
 - Azure Pipelines

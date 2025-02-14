@@ -21,8 +21,10 @@ aliasesFor404:
 - /government-cloud-first-policy
 - /blog/government-cloud-first-policy
 - /resources/blog/government-cloud-first-policy
-tags: []
-categories: []
+tags:
+- Digital Transformation
+categories:
+- News and Reviews
 preview: government-cloud-640x400-1-1.png
 
 ---

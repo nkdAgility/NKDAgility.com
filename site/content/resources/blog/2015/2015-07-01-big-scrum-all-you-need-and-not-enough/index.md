@@ -25,8 +25,26 @@ aliasesFor404:
 - /big-scrum--all-you-need-and-not-enough
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/blog/big-scrum-all-you-need-and-not-enough
-tags: []
-categories: []
+tags:
+- Large Scale Agility
+- Professional Scrum
+- Scaling Scrum
+- Scaling Agility
+- Team Performance
+- Software Development
+- Scrum Product Development
+- Scaled Agile
+- Software Developers
+- Agile Frameworks
+- Strategy
+- Agile Transformation
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Strategy
+categories:
+- Scrum
+- Events and Presentations
+- People and Process
 preview: clip_image003-3-3.png
 
 ---

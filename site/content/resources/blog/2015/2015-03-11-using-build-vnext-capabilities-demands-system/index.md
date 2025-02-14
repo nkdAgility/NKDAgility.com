@@ -25,8 +25,16 @@ aliasesFor404:
 - /using-the-build-vnext-capabilities-and-demands-system
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/blog/using-build-vnext-capabilities-demands-system
-tags: []
-categories: []
+tags:
+- Windows
+- Azure Pipelines
+- System Configuration
+- Software Development
+- Continuous Integration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---
