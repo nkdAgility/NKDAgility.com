@@ -50,14 +50,6 @@ categories:
 - People and Process
 - Sociotechnical Systems
 - Lean
-- Complexity Thinking
-- Discovery and Learning
-- Enterprise Agility
-- Organisational Psychology
-- Organisational Agility
-- Products and Books
-- Kanban
-- Scrum
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

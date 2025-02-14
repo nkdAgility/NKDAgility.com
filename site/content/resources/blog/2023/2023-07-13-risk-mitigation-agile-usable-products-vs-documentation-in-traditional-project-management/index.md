@@ -48,12 +48,6 @@ categories:
 - Agile Product Management
 - Product Delivery
 - Value Delivery
-- Organisational Agility
-- Market Adaptability
-- Agile Product Operating Model
-- Business Agility
-- People and Process
-- DevOps
 preview: image-1.jpg
 
 ---

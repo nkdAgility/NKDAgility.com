@@ -47,23 +47,8 @@ categories:
 - DevOps
 - Product Delivery
 - Azure DevOps
-- Value Delivery
-- Technical Excellence
-- Practical Techniques and Tooling
-- Market Adaptability
-- Enterprise Agility
-- People and Process
-- Organisational Agility
-- Discovery and Learning
-- Business Agility
-- Metrics and Learning
-- Resilience and Change
-- Sociotechnical Systems
-- Application Lifecycle Management
-- Flow Efficiency
-- News and Reviews
-- Code and Complexity
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
+marketing: []
 
 ---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.

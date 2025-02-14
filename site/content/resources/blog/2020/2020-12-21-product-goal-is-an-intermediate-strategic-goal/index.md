@@ -47,20 +47,6 @@ categories:
 - Agile Product Operating Model
 - Agile Product Management
 - Value Delivery
-- Evidence Based Management
-- Resilience and Change
-- Discovery and Learning
-- People and Process
-- Product Delivery
-- Market Adaptability
-- Business Agility
-- Metrics and Learning
-- Enterprise Agility
-- Organisational Agility
-- Sociotechnical Systems
-- Complexity Thinking
-- Lean
-- DevOps
 preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---

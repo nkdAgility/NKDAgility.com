@@ -39,9 +39,6 @@ categories:
 - Organisational Agility
 - Resilience and Change
 - Enterprise Agility
-- Market Adaptability
-- Business Agility
-- People and Process
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

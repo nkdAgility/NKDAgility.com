@@ -46,16 +46,6 @@ categories:
 - Scrum
 - Product Delivery
 - Value Delivery
-- Agile Product Management
-- Metrics and Learning
-- Technical Excellence
-- People and Process
-- Practical Techniques and Tooling
-- Products and Books
-- Sociotechnical Systems
-- Organisational Agility
-- Transparency and Accountability
-- Discovery and Learning
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

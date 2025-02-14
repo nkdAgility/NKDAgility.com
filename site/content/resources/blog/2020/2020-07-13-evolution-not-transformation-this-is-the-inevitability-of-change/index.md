@@ -50,15 +50,6 @@ categories:
 - Organisational Agility
 - People and Process
 - Resilience and Change
-- Discovery and Learning
-- Business Agility
-- Enterprise Agility
-- Market Adaptability
-- Events and Presentations
-- Complexity Thinking
-- Sociotechnical Systems
-- Beta Codex
-- DevOps
 preview: image-15-5-4.png
 
 ---

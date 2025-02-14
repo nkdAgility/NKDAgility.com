@@ -39,8 +39,6 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
-- Products and Books
-- News and Reviews
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---

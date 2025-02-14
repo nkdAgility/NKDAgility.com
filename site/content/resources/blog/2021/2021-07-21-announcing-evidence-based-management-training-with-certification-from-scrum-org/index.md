@@ -45,12 +45,6 @@ categories:
 - Evidence Based Management
 - Metrics and Learning
 - People and Process
-- Events and Presentations
-- Value Delivery
-- Products and Books
-- News and Reviews
-- Scrum
-- Agile Product Management
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

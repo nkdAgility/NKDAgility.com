@@ -51,20 +51,6 @@ categories:
 - Evidence Based Management
 - Scrum
 - Agile Product Management
-- People and Process
-- Value Delivery
-- Product Delivery
-- Organisational Agility
-- Metrics and Learning
-- Enterprise Agility
-- Business Agility
-- Practical Techniques and Tooling
-- Market Adaptability
-- Flow Efficiency
-- Agile Product Operating Model
-- Resilience and Change
-- Products and Books
-- Sociotechnical Systems
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

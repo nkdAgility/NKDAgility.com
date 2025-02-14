@@ -48,9 +48,6 @@ categories:
 - Scrum
 - People and Process
 - Product Delivery
-- Practical Techniques and Tooling
-- Agile Product Management
-- Value Delivery
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

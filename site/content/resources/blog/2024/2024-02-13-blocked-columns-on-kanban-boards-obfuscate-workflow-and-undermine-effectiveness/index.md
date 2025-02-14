@@ -38,10 +38,6 @@ categories:
 - Flow Efficiency
 - Kanban
 - Azure DevOps
-- Practical Techniques and Tooling
-- Lean
-- People and Process
-- Transparency and Accountability
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 
 ---

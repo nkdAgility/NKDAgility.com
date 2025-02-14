@@ -51,16 +51,6 @@ categories:
 - Agile Product Management
 - Resilience and Change
 - People and Process
-- Agile Product Operating Model
-- Discovery and Learning
-- Complexity Thinking
-- Product Delivery
-- Systems Thinking
-- Sociotechnical Systems
-- Organisational Agility
-- Code and Complexity
-- Market Adaptability
-- Business Agility
 preview: image-1.jpg
 
 ---

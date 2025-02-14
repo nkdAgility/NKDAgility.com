@@ -46,11 +46,6 @@ categories:
 - Scrum
 - Transparency and Accountability
 - Value Delivery
-- People and Process
-- Product Delivery
-- Agile Product Management
-- Discovery and Learning
-- Agile Product Operating Model
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

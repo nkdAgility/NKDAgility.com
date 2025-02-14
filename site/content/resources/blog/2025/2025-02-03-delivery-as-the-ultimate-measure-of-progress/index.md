@@ -49,18 +49,6 @@ categories:
 - Product Delivery
 - Value Delivery
 - People and Process
-- Practical Techniques and Tooling
-- Agile Product Management
-- DevOps
-- Metrics and Learning
-- Market Adaptability
-- Scrum
-- Technical Excellence
-- Organisational Agility
-- Flow Efficiency
-- Business Agility
-- News and Reviews
-- Sociotechnical Systems
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

@@ -51,9 +51,6 @@ categories:
 - Scrum
 - People and Process
 - Value Delivery
-- Product Delivery
-- Practical Techniques and Tooling
-- Agile Product Management
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

@@ -40,8 +40,6 @@ categories:
 - Scrum
 - Agile Product Operating Model
 - Agile Product Management
-- Value Delivery
-- Product Delivery
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 
 ---

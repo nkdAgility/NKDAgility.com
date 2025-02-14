@@ -42,23 +42,6 @@ categories:
 - Value Delivery
 - Business Agility
 - Product Delivery
-- Organisational Agility
-- People and Process
-- Flow Efficiency
-- Lean
-- Agile Product Management
-- DevOps
-- Technical Excellence
-- Practical Techniques and Tooling
-- Enterprise Agility
-- Value Stream Management
-- Market Adaptability
-- Sociotechnical Systems
-- Resilience and Change
-- Scaling Agility
-- Agile Product Operating Model
-- AI and Automation in Agility
-- Complexity Thinking
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

@@ -53,18 +53,6 @@ categories:
 - People and Process
 - Agile Product Management
 - Product Delivery
-- Practical Techniques and Tooling
-- Scrum
-- Metrics and Learning
-- Scaling Agility
-- DevOps
-- Discovery and Learning
-- Sociotechnical Systems
-- Technical Excellence
-- Organisational Agility
-- Products and Books
-- News and Reviews
-- Lean
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

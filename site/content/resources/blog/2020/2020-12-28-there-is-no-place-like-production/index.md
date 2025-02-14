@@ -47,15 +47,6 @@ categories:
 - Agile Product Management
 - Business Agility
 - Value Delivery
-- Metrics and Learning
-- Product Delivery
-- Agile Product Operating Model
-- Discovery and Learning
-- Value Stream Management
-- People and Process
-- Organisational Agility
-- Evidence Based Management
-- Market Adaptability
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

@@ -26,17 +26,6 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
-- Organisational Agility
-- Resilience and Change
-- Complexity Thinking
-- Product Delivery
-- Market Adaptability
-- Personal
-- Discovery and Learning
-- Value Delivery
-- Practical Techniques and Tooling
-- Sociotechnical Systems
-- Business Agility
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Agile Project Management

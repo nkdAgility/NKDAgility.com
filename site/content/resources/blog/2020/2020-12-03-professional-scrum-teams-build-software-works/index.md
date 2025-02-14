@@ -50,12 +50,6 @@ categories:
 - Scrum
 - People and Process
 - Value Delivery
-- Technical Excellence
-- Product Delivery
-- Agile Product Management
-- Practical Techniques and Tooling
-- Transparency and Accountability
-- DevOps
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

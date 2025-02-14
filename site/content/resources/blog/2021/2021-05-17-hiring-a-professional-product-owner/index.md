@@ -61,11 +61,6 @@ categories:
 - Scrum
 - Agile Product Management
 - People and Process
-- Transparency and Accountability
-- Value Delivery
-- Product Delivery
-- Evidence Based Management
-- Agile Product Operating Model
 preview: image-3-3.png
 
 ---

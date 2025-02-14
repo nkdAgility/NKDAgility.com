@@ -46,17 +46,6 @@ categories:
 - Product Delivery
 - Scrum
 - Agile Product Management
-- Value Delivery
-- People and Process
-- Organisational Agility
-- Practical Techniques and Tooling
-- Agile Product Operating Model
-- Enterprise Agility
-- Business Agility
-- Sociotechnical Systems
-- Market Adaptability
-- DevOps
-- Lean
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

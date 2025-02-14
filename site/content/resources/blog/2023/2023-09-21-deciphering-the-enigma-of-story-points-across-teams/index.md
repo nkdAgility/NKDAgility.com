@@ -39,11 +39,6 @@ categories:
 - Agile Product Management
 - Value Delivery
 - Metrics and Learning
-- Flow Efficiency
-- People and Process
-- Practical Techniques and Tooling
-- Evidence Based Management
-- Scrum
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

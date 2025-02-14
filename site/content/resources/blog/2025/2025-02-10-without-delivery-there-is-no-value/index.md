@@ -46,24 +46,8 @@ categories:
 - Value Delivery
 - Agile Product Management
 - Product Delivery
-- People and Process
-- Business Agility
-- Metrics and Learning
-- Market Adaptability
-- Flow Efficiency
-- DevOps
-- Discovery and Learning
-- Transparency and Accountability
-- Value Stream Management
-- Practical Techniques and Tooling
-- Scrum
-- Application Lifecycle Management
-- Organisational Agility
-- Technical Excellence
-- Agile Product Operating Model
-- Evidence Based Management
-- Enterprise Agility
 preview: 2025-02-10-without-delivery-no-value.jpg
+marketing: []
 
 ---
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.

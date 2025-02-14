@@ -51,9 +51,6 @@ categories:
 - Scrum
 - People and Process
 - Product Delivery
-- Practical Techniques and Tooling
-- Agile Product Management
-- Value Delivery
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

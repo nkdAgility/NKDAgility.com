@@ -47,13 +47,6 @@ categories:
 - Agile Product Operating Model
 - Agile Product Management
 - Value Delivery
-- Product Delivery
-- Market Adaptability
-- Organisational Agility
-- Metrics and Learning
-- Technical Excellence
-- Practical Techniques and Tooling
-- Lean
 preview: image-1.jpg
 
 ---

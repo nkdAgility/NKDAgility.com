@@ -44,10 +44,6 @@ categories:
 - Agile Product Operating Model
 - Agile Product Management
 - People and Process
-- Product Delivery
-- Value Delivery
-- Organisational Agility
-- Business Agility
 preview: image-1.jpg
 
 ---

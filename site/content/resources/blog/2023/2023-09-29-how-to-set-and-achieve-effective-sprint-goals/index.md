@@ -46,8 +46,6 @@ categories:
 - Scrum
 - Value Delivery
 - People and Process
-- Product Delivery
-- Agile Product Management
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

@@ -47,15 +47,6 @@ categories:
 - Scrum
 - Value Delivery
 - People and Process
-- Business Agility
-- Technical Excellence
-- Product Delivery
-- Organisational Agility
-- Practical Techniques and Tooling
-- Agile Product Operating Model
-- Flow Efficiency
-- Market Adaptability
-- Agile Product Management
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

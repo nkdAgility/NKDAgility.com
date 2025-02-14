@@ -83,6 +83,7 @@ cascade:
 
 permalinks:
   taxonomy:
+    marketing: "/marketing/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences"
     course-topics: "/capabilities/training-courses/course-topics"
@@ -91,6 +92,7 @@ permalinks:
     customer-industry: "/company/customers/industry"
     people-abilities: "/company/people/abilities"
   term:
+    marketing: "/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences/:slug/"
     course-topics: "/capabilities/training-courses/:slug/"

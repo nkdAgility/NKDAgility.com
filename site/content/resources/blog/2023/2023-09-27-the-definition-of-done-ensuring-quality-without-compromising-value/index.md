@@ -43,8 +43,6 @@ categories:
 - Scrum
 - Product Delivery
 - Transparency and Accountability
-- Value Delivery
-- Agile Product Management
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

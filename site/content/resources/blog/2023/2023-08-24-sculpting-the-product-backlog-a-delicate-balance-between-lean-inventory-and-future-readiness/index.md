@@ -49,11 +49,6 @@ categories:
 - Lean
 - Value Delivery
 - Product Delivery
-- Agile Product Operating Model
-- Agile Product Management
-- Products and Books
-- Transparency and Accountability
-- Scrum
 preview: image-1.jpg
 
 ---

@@ -47,10 +47,6 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
-- Value Delivery
-- Product Delivery
-- Agile Product Operating Model
-- Lean
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

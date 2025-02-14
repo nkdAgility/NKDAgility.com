@@ -38,7 +38,6 @@ categories:
 - Scrum
 - People and Process
 - Product Delivery
-- Agile Product Management
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

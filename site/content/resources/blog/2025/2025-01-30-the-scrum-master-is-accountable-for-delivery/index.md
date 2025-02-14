@@ -51,14 +51,6 @@ categories:
 - Scrum
 - Product Delivery
 - Value Delivery
-- Transparency and Accountability
-- People and Process
-- Agile Product Management
-- Organisational Agility
-- Practical Techniques and Tooling
-- Metrics and Learning
-- Flow Efficiency
-- Sociotechnical Systems
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 ---

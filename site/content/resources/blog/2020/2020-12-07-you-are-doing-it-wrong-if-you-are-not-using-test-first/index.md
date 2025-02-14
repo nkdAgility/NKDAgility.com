@@ -41,9 +41,6 @@ categories:
 - Technical Excellence
 - Code and Complexity
 - Value Delivery
-- Practical Techniques and Tooling
-- Product Delivery
-- Scrum
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

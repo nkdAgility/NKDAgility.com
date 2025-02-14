@@ -32,9 +32,6 @@ categories:
 - People and Process
 - Transparency and Accountability
 - Events and Presentations
-- Sociotechnical Systems
-- Personal
-- Scrum
 preview: image-21-3-3.png
 
 ---

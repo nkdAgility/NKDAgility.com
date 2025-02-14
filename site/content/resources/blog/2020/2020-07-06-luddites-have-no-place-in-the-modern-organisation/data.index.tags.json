@@ -421,5 +421,581 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, without a clear focus on release management processes.",
     "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-14T08:57:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the influence of organisational culture on hiring practices, leadership, and the transition to Agile methodologies, making it a central theme.",
+    "level": "Secondary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-14T08:57:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the transition to agile practices, with a focus on hiring and leadership rather than employee engagement strategies.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-14T08:57:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses organisational culture and leadership rather than estimation practices in Agile or Scrum.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-14T08:57:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the transition to agile practices, without a clear focus on Scrum Team dynamics or roles.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-14T08:57:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile evolution, without a clear focus on Scaling Scrum principles or frameworks.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-14T08:57:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the need for hiring practices that align with agile methodologies, without a clear focus on psychological safety or its implications.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-14T09:21:38",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the transition to Agile methodologies and the importance of hiring the right people for cross-functional teams, which are relevant to software developers, but it primarily focuses on organisational culture and leadership rather than specific practices or roles of developers.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-14T09:21:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile, without any mention of Sprint Reviews or related processes.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-14T09:21:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses organisational change and the importance of hiring the right people to foster innovation and agility, which are relevant to entrepreneurship. However, the primary focus is on organisational culture and agile practices rather than entrepreneurship itself.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-14T09:21:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses organisational culture and the transition to agile practices, with no mention of the Definition of Done or its criteria.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-14T09:22:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, without a clear focus on portfolio management or related methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-14T09:22:47",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the cultural shifts necessary for Agile transformation, the importance of hiring the right people, and references the evolution of Microsoft towards Agile practices. However, it primarily focuses on the concept of Luddites and cultural resistance rather than detailed Agile methodologies or frameworks.",
+    "level": "Secondary"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-14T09:22:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile methodologies, without any direct reference to AI or its applications.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-14T09:22:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses organisational culture and agile leadership, with no mention of Test Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-14T09:22:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, without any mention of Test First Development or related testing methodologies.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-14T09:22:53",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the cultural changes necessary for organisations to adapt to modern business practices, particularly in the context of agile methodologies and leadership evolution at Microsoft. While it touches on digital transformation themes, it primarily focuses on cultural aspects and hiring practices rather than the strategic adoption of digital technologies.",
+    "level": "Secondary"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-14T09:22:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of adapting organisational culture and leadership in response to changing environments, which relates to sensemaking. However, the primary focus is on hiring practices and the concept of Luddites rather than a deep exploration of sensemaking principles or frameworks.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-14T09:22:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of adapting organisational culture and practices to foster agility and innovation, which aligns with the principles of Continuous Learning, but it primarily focuses on the concept of Luddites and organisational change.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-14T09:22:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the transition to agile practices, with no focus on diagnosing or resolving technical issues.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-14T09:22:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses organisational culture and agile leadership, with no mention of Azure Repos or related functionalities.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-14T09:23:00",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the role of leadership in fostering a culture that embraces change and adaptability within organisations, particularly in the context of Agile practices. It highlights the importance of hiring the right people and the impact of leadership styles, specifically referencing servant leadership and the evolution of Microsoft under Satya Nadella's guidance.",
+    "level": "Secondary"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-14T09:23:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses organisational culture and agile leadership, with no focus on version control practices.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-14T09:23:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the evolution of organisational practices and cultural shifts towards Agile methodologies, particularly in the context of Microsoft. However, it primarily focuses on the concept of Luddites and cultural resistance rather than a detailed analysis of trends.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-14T09:23:08",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses organisational culture, the transition from traditional to agile models, and the impact of leadership on organisational change, which aligns with systems thinking principles. However, it primarily focuses on hiring practices and the concept of Luddites, making the category a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-14T09:23:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the transition to an agile model and the cultural changes necessary for this shift, indicating a major theme related to Agile frameworks, but it does not focus primarily on specific frameworks or their principles.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-14T09:23:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile, without a clear focus on deployment frequency or related practices.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-14T09:23:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the transition to agile practices, with no clear focus on Lead Time as a metric.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-14T09:23:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses organisational culture and leadership in the context of Agile, without addressing MVP concepts or practices.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-14T09:23:16",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses organisational culture and the transition to agile methodologies, which are relevant to product management, but the primary focus is on cultural change rather than specific product management strategies.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-14T09:23:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, with no clear focus on Continuous Integration principles or practices.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-14T09:23:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational change and leadership, with only a brief mention of Microsoft without specific focus on Windows operating system functionalities.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-14T09:23:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, without a focus on hypothesis formulation or experimentation.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-14T09:23:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of agile evolution, with no focus on asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-14T09:23:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, without a focus on customer satisfaction or related metrics.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-14T09:23:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the need for agile leadership, with no clear focus on frequent software releases or related practices.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-14T09:23:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the cultural shifts and leadership roles necessary for organisational change towards Agile practices, particularly in the context of large-scale transformations like that of Microsoft. However, it primarily focuses on cultural aspects and individual roles rather than specific frameworks or strategies for scaling Agile across an entire organisation.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-14T09:23:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses organisational culture and Agile methodologies without addressing Site Reliability Engineering principles or practices.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-14T09:23:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile, without focusing on the Product Backlog or its management.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-14T09:23:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile transformation, rather than specific engineering practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-14T09:23:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership rather than Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-14T09:23:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses organisational culture and agile leadership, with no mention of Acceptance Test Driven Development or related principles.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-14T09:23:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile transformation, without a focus on remote working practices or challenges.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-14T09:23:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the transition from traditional organisational models to agile practices, highlighting the importance of leadership and cultural change, which are relevant to scaling Agile, but it does not focus explicitly on frameworks or coordination among multiple teams.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-14T09:23:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses organisational culture and leadership in the context of Agile, but does not focus specifically on Scrum principles, roles, or product development practices.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-14T09:23:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of agile transformation, without focusing on product validation methodologies or user engagement.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-14T09:23:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership rather than coaching practices or techniques.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-14T09:23:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the need for the right people in Agile environments, without a clear focus on transparency or its related practices.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-14T09:23:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile evolution, without a focus on Kanban principles or scaling Kanban practices.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-14T09:23:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the transition to Agile practices, with a focus on hiring and leadership rather than accountability within teams.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-14T09:23:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the transition to agile methodologies, without a focus on Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-14T09:23:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile, without a focus on hypothesis-driven experimentation or testing ideas.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-14T09:23:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership without a clear focus on the Scrum Master role or responsibilities.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-14T09:23:50",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of hiring practices and organisational culture in the context of transitioning to Agile methodologies, which relates to operational efficiency. However, it primarily focuses on cultural aspects rather than specific operational practices or techniques.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-14T09:23:51",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile methodologies and the importance of organisational culture in adapting to modern software development practices, making it a major but secondary theme.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-14T09:23:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, with no clear focus on Continuous Delivery principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-14T09:23:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile practices, with no focus on test automation or related topics.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-14T09:23:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and Agile leadership rather than product strategy methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-14T09:23:57",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of leadership in fostering an agile culture and the transition from traditional models to agile practices, which aligns with technical leadership principles. However, it primarily focuses on cultural aspects and hiring practices rather than specific technical leadership strategies.",
+    "level": "Secondary"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-14T09:23:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile, without a clear focus on the delivery of software increments.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-14T09:24:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses organisational culture and the need for the right people in agile transitions, rather than specific Agile Planning methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-14T09:24:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and leadership in the context of Agile, without focusing on forecasting methods or practices.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-14T09:24:05",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of hiring the right people and adapting organisational culture to facilitate Agile practices, which aligns with pragmatic problem-solving in complex environments. However, it also includes broader discussions on culture and leadership that may detract from a strict focus on pragmatic thinking.",
+    "level": "Secondary"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-14T09:24:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and the transition to Agile practices, with no direct mention of technical debt or its management.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-14T09:24:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses organisational culture and leadership rather than customer feedback mechanisms.",
+    "level": "Ignored"
   }
 }

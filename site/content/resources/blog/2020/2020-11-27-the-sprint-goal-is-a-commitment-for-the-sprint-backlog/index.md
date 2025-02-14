@@ -41,8 +41,6 @@ categories:
 - Scrum
 - People and Process
 - Product Delivery
-- Agile Product Management
-- Value Delivery
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

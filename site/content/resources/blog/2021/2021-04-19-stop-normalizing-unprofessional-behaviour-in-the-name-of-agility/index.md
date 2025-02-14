@@ -38,7 +38,6 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
-- Organisational Agility
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 
 ---

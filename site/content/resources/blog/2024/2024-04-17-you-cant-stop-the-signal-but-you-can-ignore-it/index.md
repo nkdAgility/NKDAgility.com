@@ -30,22 +30,6 @@ categories:
 - People and Process
 - Transparency and Accountability
 - Resilience and Change
-- Sociotechnical Systems
-- Enterprise Agility
-- Organisational Agility
-- Agile Product Management
-- Discovery and Learning
-- Market Adaptability
-- Value Delivery
-- Business Agility
-- Scrum
-- Systems Thinking
-- Complexity Thinking
-- Product Delivery
-- Metrics and Learning
-- Organisational Psychology
-- Lean
-- Flow Efficiency
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
 - Agile Frameworks

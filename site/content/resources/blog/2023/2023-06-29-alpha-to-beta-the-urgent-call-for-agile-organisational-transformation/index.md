@@ -49,12 +49,6 @@ categories:
 - Enterprise Agility
 - Organisational Agility
 - Business Agility
-- Resilience and Change
-- People and Process
-- Market Adaptability
-- Complexity Thinking
-- Sociotechnical Systems
-- Beta Codex
 preview: 1686217267121-1-1-1.jpg
 
 ---

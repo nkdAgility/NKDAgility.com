@@ -39,7 +39,6 @@ categories:
 - Scrum
 - Product Delivery
 - Agile Product Management
-- Value Delivery
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 
 ---
