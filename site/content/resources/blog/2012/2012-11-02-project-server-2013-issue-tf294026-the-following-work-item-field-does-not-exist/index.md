@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 - Troubleshooting
 categories:
 - Practical Techniques and Tooling

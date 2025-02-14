@@ -1,1058 +1,1361 @@
 {
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves aspects of project management and team collaboration relevant to Azure Boards, making it a major but secondary theme.",
-    "level": "Secondary"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with no clear discussion or emphasis on Lean Startup principles.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, touching on aspects of project management and agile processes, but it primarily focuses on technical setup rather than agile planning itself.",
-    "level": "Ignored"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on project management and agile processes, which are relevant to product strategy, but the primary focus is on technical setup and configuration.",
-    "level": "Ignored"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves aspects of continuous integration, but the primary focus is on installation and configuration rather than CI practices.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, which touches on aspects of large scale agility, particularly in the context of managing enterprise projects and aligning them with agile processes. However, the primary focus is on technical integration rather than large scale agility itself.",
-    "level": "Ignored"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on lead time as a central topic.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server and Team Foundation Server, touching on management practices and the importance of agile processes, which are relevant to organisational culture, but the primary focus is on technical setup and configuration.",
-    "level": "Ignored"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012, with no clear emphasis on continuous learning as a primary topic.",
-    "level": "Ignored"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, with no clear mention or discussion of revenue per employee.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which is a significant aspect of digital transformation in project management and software development. However, the primary focus is on technical installation and configuration details rather than a broader discussion of digital transformation principles.",
-    "level": "Secondary"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than automated testing.",
-    "level": "Ignored"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, which implies collaboration across different functional areas, but the primary focus is on technical setup rather than team dynamics.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than the concept of 'Definition of Ready'.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on agile processes, but the primary focus is on technical setup rather than leadership principles.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on agile processes and the roles of development teams and product owners, but the primary focus is on technical setup rather than agile strategy itself.",
-    "level": "Ignored"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than defining or discussing the concept of 'Definition of Done'.",
-    "level": "Ignored"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no significant discussion or analysis related to market share.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with only a brief mention of time tracking and project management concepts. Cycle time is not a central theme.",
-    "level": "Ignored"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, detailing the steps necessary to set up working software systems.",
-    "level": "Secondary"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with only a brief mention of employee management practices and the importance of agile processes.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the integration of Project Server 2013 with Team Foundation Server 2012, detailing installation, configuration, and troubleshooting steps relevant to software development practices.",
-    "level": "Secondary"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on integrating Project Server 2013 with Team Foundation Server 2012, which are both collaboration tools used for project management and team collaboration.",
-    "level": "Secondary"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server and touches on agile processes, but the primary focus is on technical setup rather than a comprehensive exploration of agile transformation.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012, rather than exploring product discovery concepts.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, touching on project management and agile processes, which are relevant to lean product development, but the primary focus is on technical setup rather than lean principles.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, touching on project management and agile processes, which are related to empirical process control, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 9.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than on Test First Development.",
-    "level": "Ignored"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on agile processes, which are related to Scrum values, but the primary focus is on technical setup rather than Scrum values themselves.",
-    "level": "Ignored"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on project management principles and the importance of agile processes, which are relevant to technical leadership, but the primary focus is on technical setup and troubleshooting.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012, with no mention of a Sprint Review or related activities.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than daily scrum practices or meetings.",
-    "level": "Ignored"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, mentioning agile processes and the importance of roles within a team, but the primary focus is on technical setup rather than agile principles.",
-    "level": "Ignored"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation, configuration, and troubleshooting, without a clear emphasis on Value Stream Mapping.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, which indirectly relates to team performance through project management and collaboration tools, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves managing changes in project management tools and processes, but the primary focus is on technical setup rather than change management principles.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, highlighting the challenges and solutions encountered during the process. While it touches on innovative practices in project management, the primary focus is on technical setup and troubleshooting rather than a clear exploration of innovation itself.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on the importance of agile processes and team autonomy, indicating a secondary theme of self-organisation.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses integrating Project Server 2013 with Team Foundation Server 2012, touching on project management and agile processes, which are relevant to BetaCodex principles, but the primary focus is on technical integration rather than the BetaCodex framework itself.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, mentioning Scrum roles and processes as part of the integration, but the primary focus is on technical setup rather than Scrum team dynamics.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with no clear discussion or emphasis on customer retention strategies or themes.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, including specific issues encountered during the process, such as error messages and configuration challenges, which are central to troubleshooting the integration.",
-    "level": "Secondary"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on project management and the importance of agile processes, which implies decision-making aspects. However, the primary focus is on technical setup and configuration rather than decision-making itself.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, which involves collaboration between teams and project management tools, but the primary focus is on technical setup rather than collaboration itself.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, focusing on installation steps and troubleshooting, which are not central to Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and mentions the role of the Product Owner in managing Product Backlog Items and Bugs, indicating a secondary theme related to the Product Owner's responsibilities.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, mentioning work item types like Product Backlog Item, which indicates a significant focus on project management and backlog items.",
-    "level": "Secondary"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily focuses on integrating Project Server 2013 with Team Foundation Server 2012, which is a key aspect of managing projects and resources effectively, aligning closely with portfolio management principles.",
-    "level": "Secondary"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than test automation.",
-    "level": "Ignored"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the installation, configuration, and integration of Project Server 2013 with Team Foundation Server 2012, detailing operational steps and practices involved in setting up these systems.",
-    "level": "Secondary"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no significant discussion on frequent releases.",
-    "level": "Ignored"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, touching on project management principles and the importance of avoiding micromanagement, which aligns with evidence-based management themes.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the integration of Project Server 2013 with Team Foundation Server 2012, detailing installation and configuration processes, rather than discussing technical debt.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, focusing on installation steps and troubleshooting rather than deployment frequency.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on the practical integration of Project Server 2013 with Team Foundation Server 2012, discussing real-world challenges and solutions in project management.",
-    "level": "Secondary"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with no substantial discussion on psychological safety.",
-    "level": "Ignored"
-  },
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server and mentions agile processes, but the primary focus is on installation and configuration rather than agile frameworks themselves.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which implies a strategic goal of improving project management and collaboration. However, the primary focus is on technical installation and configuration details rather than explicitly outlining strategic goals.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, which includes references to agile processes and roles like Product Owner, indicating a secondary theme related to Scrum.",
-    "level": "Ignored"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on project management practices, including the importance of avoiding micromanagement and focusing on value delivery, which aligns with lean principles as a secondary theme.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content briefly touches on the importance of allowing development teams to manage their tasks and the need for a shift from micromanagement to empowering teams, but the primary focus is on technical integration and setup.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, which touches on project management and agile processes, but it is primarily focused on technical setup rather than scaling Scrum specifically.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no significant discussion on remote working practices.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012, with no significant discussion on trend analysis.",
-    "level": "Ignored"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the integration of Project Server 2013 with Team Foundation Server 2012, detailing installation and configuration processes. Transparency is not a central theme.",
-    "level": "Ignored"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which is related to Azure DevOps services, but the primary focus is on Project Server rather than Azure Repos specifically.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no significant discussion or emphasis on Behaviour Driven Development.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the installation and integration of Project Server 2013 with Team Foundation Server 2012, with no clear discussion or emphasis on hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on project management practices, including the importance of focusing on high-level project organisation rather than micromanagement, which aligns with lean principles.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses integrating Project Server 2013 with Team Foundation Server 2012, which relates to project management and planning tools, but the primary focus is on installation and configuration rather than agile planning specifically.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on integrating Project Server 2013 with Team Foundation Server 2012, detailing installation and configuration processes, rather than discussing Scaling Kanban.",
-    "level": "Ignored"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with no clear emphasis on mentoring or guidance.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on Azure Pipelines.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no significant discussion on asynchronous development concepts.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, detailing installation steps and best practices, which are key aspects of engineering practices.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which is relevant to continuous delivery practices, but the primary focus is on installation and configuration rather than continuous delivery itself.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, detailing installation and configuration steps, rather than discussing working agreements.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, which involves aspects of project management and agile processes, but it is primarily focused on technical setup rather than Scrum principles.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, detailing installation and configuration processes, rather than discussing customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on project management practices and the importance of agile processes, which are relevant to coaching in a project management context.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than backlog refinement.",
-    "level": "Ignored"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of proper usage of Project Server for management and accountability in project tracking, but it is primarily focused on technical integration rather than accountability itself.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on technical integration and configuration of Project Server 2013 with Team Foundation Server 2012, with only brief mentions of project management concepts that are not central to entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 95,
-    "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the integration of Project Server 2013 with Team Foundation Server 2012, detailing installation, configuration, and troubleshooting processes, which are central to software development practices.",
-    "level": "Secondary"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with no clear discussion or emphasis on evidence-based leadership principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, touching on agile processes and roles, but the primary focus is on technical setup rather than scaled agile methodologies.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on project management and organisational processes, but it primarily focuses on technical setup and troubleshooting rather than organisational physics as a central theme.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the process of integrating Project Server 2013 with Team Foundation Server 2012, which involves trial and error, troubleshooting, and configuration adjustments, indicating a significant focus on experimentation in the context of software integration.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves managing project data flow and configuration, indicating a focus on improving throughput in project management processes.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content briefly mentions agile processes and roles related to Scrum, but the primary focus is on integrating Project Server with Team Foundation Server, making Scrum Master a secondary theme.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on installation, configuration, and the importance of agile processes, but it primarily focuses on technical setup rather than broader engineering excellence principles.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, which is a modern source control system. While it focuses on installation and configuration, the central theme revolves around using TFS for project management and source control.",
-    "level": "Secondary"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, detailing installation, configuration, and troubleshooting processes.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the installation and configuration processes for Project Server 2013 and its integration with Team Foundation Server 2012, detailing specific steps and requirements.",
-    "level": "Secondary"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which is relevant to MVP processes, but the primary focus is on installation and configuration rather than MVP principles.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on aspects of project management and organisational processes, but it primarily focuses on technical installation and configuration details.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, which touches on agile processes and project management, but the primary focus is on technical setup rather than scaling agility itself.",
-    "level": "Ignored"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 75,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves Windows Server and related technologies. While Windows is a significant aspect of the installation and configuration process, the main focus is on Project Server and TFS integration rather than Windows itself.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily focuses on the installation, configuration, and integration of Project Server 2013 with Team Foundation Server 2012, detailing the steps necessary for deployment and setup.",
-    "level": "Secondary"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on the challenges and processes involved, which implies a level of sensemaking regarding project management and tool usage. However, the primary focus is on technical setup rather than a deep exploration of sensemaking itself.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012, with no substantial discussion on decision theory concepts.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content discusses the integration of Project Server 2013 with Team Foundation Server 2012, highlighting the importance of agile processes and the role of project management in an enterprise context.",
-    "level": "Secondary"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, touching on project management principles and the importance of agile processes, which aligns with Lean methodologies, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, highlighting challenges and resolutions, which implies a theme of adapting to change and overcoming obstacles. However, the primary focus is on technical setup rather than resilience and change as a central theme.",
-    "level": "Ignored"
-  },
-  "Install and Configuration": {
-    "category": "Install and Configuration",
-    "ai_confidence": 95,
-    "non_ai_confidence": 30,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on the installation and configuration processes for Project Server 2013 and its integration with Team Foundation Server 2012, detailing specific steps, prerequisites, and configuration wizards.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves technical steps and configurations, but the primary focus is on installation and setup rather than code complexity.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which touches on aspects of flow efficiency in project management, but the primary focus is on installation and configuration processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses integrating Project Server 2013 with Team Foundation Server 2012, touching on agile processes and project management, but it is primarily focused on technical setup rather than AI and automation.",
-    "level": "Ignored"
-  },
-  "Product Delivery": {
-    "category": "Product Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the installation and integration of Project Server 2013 with Team Foundation Server 2012, detailing the steps necessary for effective product delivery in a project management context.",
-    "level": "Secondary"
-  },
   "Agile Product Management": {
     "category": "Agile Product Management",
+    "calculated_at": "2025-02-14T15:22:48",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, touching on aspects of project management and agile processes, but it primarily focuses on technical setup rather than agile product management principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012, which involves learning about the tools and processes. However, the primary focus is on technical implementation rather than discovery and learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on project management and organisational processes, which are relevant to systems thinking, but the primary focus is on technical setup and configuration.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on project management complexities and the challenges of aligning agile processes with traditional project management practices, but it is primarily focused on technical setup rather than complexity thinking as a central theme.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with no clear discussion on transparency or accountability.",
+    "final_score": 48.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on Agile processes, but the primary focus is on technical setup and configuration rather than Agile product management principles.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-14T15:22:50",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on the installation, configuration, and integration of Project Server 2013 with Team Foundation Server 2012, detailing practical steps and tooling required for the process.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the practical steps and techniques for integrating Project Server 2013 with Team Foundation Server 2012, including installation, configuration, and troubleshooting, which aligns well with the category's focus on practical application of tools and methodologies.",
     "level": "Secondary"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-14T15:22:55",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to internal development processes and tools. However, it primarily focuses on specific software installation and configuration rather than broader platform engineering principles.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-14T15:22:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no mention of events or presentations.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear focus on Evidence-Based Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-14T15:22:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no significant focus on code quality or complexity theory.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-14T15:23:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on the technical implementation and configuration of Project Server 2013 and Team Foundation Server 2012, with little emphasis on discovery or learning processes.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-14T15:23:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes without any mention of AI or automation in Agile practices.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-14T15:23:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, without any clear reference to Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-14T15:23:05",
+    "ai_confidence": 90,
+    "non_ai_confidence": 30,
+    "final_score": 84.0,
+    "reasoning": "The content primarily focuses on the installation and configuration processes for Project Server 2013 and its integration with Team Foundation Server 2012, providing detailed step-by-step instructions and troubleshooting insights.",
+    "level": "Primary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-14T15:23:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration steps rather than transparency and accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which implies a need for adaptability in project management tools and processes, but it is primarily focused on technical setup rather than market adaptability as a central theme.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
+    "calculated_at": "2025-02-14T15:23:09",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the integration of Project Server 2013 with Team Foundation Server 2012, detailing installation and configuration processes rather than discussing miscellaneous topics.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on products or books.",
-    "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on the benefits of this integration for project management and delivery value through effective use of tools.",
-    "level": "Secondary"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on agile processes, indicating a secondary theme of organisational agility.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on technical aspects of integrating Project Server 2013 with Team Foundation Server 2012, with no clear personal theme or narrative.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses the integration of Project Server and Team Foundation Server, touching on project management processes and roles, but the primary focus is on technical setup and configuration.",
+    "reasoning": "Content primarily focuses on the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear discussion on strategies or practices that enhance market adaptability.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-14T15:23:11",
+    "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on the sociotechnical aspects of project management and team collaboration, but it primarily focuses on technical installation and configuration details.",
+    "final_score": 27.0,
+    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, with limited discussion on the sociotechnical aspects such as team dynamics or organisational culture.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-14T15:23:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, lacking discussions on organisational resilience or change management.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-14T15:23:15",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which touches on aspects of DevOps such as collaboration between development and operations tools. However, the primary focus is on project management tools rather than core DevOps principles.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-14T15:23:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on technical installation and configuration details, which are not aligned with the Miscellaneous category.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-14T15:23:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than decision-making processes or theories.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-14T15:23:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, detailing installation and configuration steps rather than providing news or reviews.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no reference to events, presentations, or discussions related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-14T15:23:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration and setup of Project Server 2013 with Team Foundation Server 2012, with no clear focus on optimising work throughput or flow efficiency principles.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-14T15:23:24",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on the roles of team members and the challenges of managing projects in an Agile context, but primarily focuses on technical setup and configuration.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-14T15:23:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on aspects of agile processes and project management within an enterprise context. However, it primarily focuses on technical setup and configuration rather than a comprehensive exploration of enterprise agility principles.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-14T15:23:28",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on aspects of agile processes and the importance of adapting project management tools to support agile methodologies. However, the primary focus is on technical setup rather than a comprehensive exploration of business agility principles.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
+    "calculated_at": "2025-02-14T15:23:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012, with only brief mentions of concepts related to metrics such as earned value management and time tracking.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with minimal discussion on metrics or learning principles.",
     "level": "Ignored"
   },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on integrating Project Server 2013 with Team Foundation Server 2012, detailing installation, configuration, and management processes, which are central to application lifecycle management.",
-    "level": "Secondary"
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-14T15:23:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, without any mention of Kanban principles or practices.",
+    "level": "Ignored"
   },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-14T15:23:35",
     "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses Project Server as an earned value management system and touches on aspects of project management and integration with Team Foundation Server, indicating a secondary theme related to value stream management.",
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on installation and configuration processes, which are relevant to technical practices. However, the primary focus is on the integration process rather than on broader engineering methodologies or practices that enhance agility in software development.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-14T15:23:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, without a focus on complexity science or its principles.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
+    "calculated_at": "2025-02-14T15:23:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical integration of Project Server 2013 with Team Foundation Server 2012, with no focus on psychological principles or theories related to organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-14T15:23:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which touches on aspects of product delivery such as configuration and deployment. However, the primary focus is on installation and troubleshooting rather than the broader methodologies and practices of delivering usable software products.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-14T15:23:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than principles of decentralised, adaptive, and human-centric organisational design.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-14T15:23:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration rather than Value Stream Management principles.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-14T15:23:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, without focusing on reviews, analyses, or discussions of literature or tools relevant to Agile methodologies or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-14T15:23:47",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on aspects of value management and the importance of aligning project management with Agile processes. However, the primary focus is on technical implementation details rather than a comprehensive exploration of value delivery strategies.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-14T15:23:48",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the integration of Project Server and Team Foundation Server, touching on management practices and the impact of project management tools on team dynamics, which aligns with organisational psychology as a secondary theme.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to Azure DevOps tools, but the primary focus is on Project Server rather than Azure DevOps itself.",
     "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-14T15:23:50",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content includes personal reflections on the challenges faced while integrating Project Server 2013 with Team Foundation Server 2012, as well as insights into the author's experiences and frustrations with the tools. However, the primary focus remains on technical details and installation processes.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-14T15:23:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear discussion on Systems Thinking principles or applications.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-14T15:23:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than the principles or practices of the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-14T15:23:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, focusing on technical setup rather than Agile principles or product-centric development.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-14T15:23:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on agile processes, indicating a secondary theme of organisational agility, but the primary focus is on technical setup and configuration.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-14T15:23:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily focuses on technical installation and configuration steps for Project Server 2013 and Team Foundation Server 2012, rather than discussing industry news, updates, or reviews.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-14T15:24:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to managing software applications and their lifecycle stages, particularly in deployment and configuration. However, the primary focus is on installation and configuration processes rather than a comprehensive discussion of application lifecycle management methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-14T15:24:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses integrating Project Server with Team Foundation Server and mentions agile processes, including roles like Product Owner and Development Team, which are relevant to Scrum, but the primary focus is on technical integration rather than Scrum principles or practices.",
+    "level": "Secondary"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-14T15:24:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, with no mention of Daily Scrum or related topics.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-14T15:24:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on the Definition of Done or its principles.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-14T15:24:19",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on installation, configuration, and troubleshooting, which relates to software engineering practices. However, the primary focus is on project management tools rather than core software craftsmanship principles.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-14T15:24:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration details rather than exploring customer needs or product feature definitions.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-14T15:24:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than Continuous Delivery principles or practices.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-14T15:24:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, lacking discussions on long-term objectives or business agility.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-14T15:24:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on Lead Time as a metric or its implications.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-14T15:24:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical integration of Project Server 2013 with Team Foundation Server 2012, with no significant focus on organisational culture or its impact on Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-14T15:24:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on the Definition of Ready or its criteria.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-14T15:24:34",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which touches on aspects of project management and organisational strategy alignment. However, it primarily focuses on technical setup and troubleshooting rather than broader portfolio management practices.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-14T15:24:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, mentioning Product Backlog Items in the context of mapping work item types, which indicates a secondary theme related to backlog management.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-14T15:24:37",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on agile processes, but the primary focus is on installation and configuration rather than Agile Planning methodologies.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-14T15:24:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than Value Stream Mapping or Lean principles.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-14T15:24:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no focus on customer feedback mechanisms or practices.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-14T15:24:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which touches on operational practices related to project management and workflow optimisation. However, the primary focus is on installation and configuration rather than specific operational efficiency techniques.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-14T15:24:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than Scrum Team dynamics, roles, or collaboration techniques.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-14T15:24:46",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on Agile processes, indicating a major but secondary theme related to Agile philosophy.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-14T15:24:47",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on aspects of Agile processes and project management, which are relevant to strategic alignment in Agile environments. However, the primary focus is on technical setup rather than strategic development or refinement.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-14T15:24:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no focus on validating product ideas through user engagement or feedback.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-14T15:24:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and mentions the importance of solid agile processes, indicating a secondary theme related to Agile transformation.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-14T15:24:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical implementation details related to Project Server and Team Foundation Server, with no focus on mentoring or coaching in Agile environments.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-14T15:24:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than automated testing principles or practices.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-14T15:24:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the technical integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than team performance or collaboration strategies.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-14T15:24:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration rather than the delivery of software increments or Agile practices.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-14T15:25:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, without any mention of Acceptance Test Driven Development or related principles.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-14T15:25:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves software installation, configuration, and the management of software development processes. It touches on methodologies relevant to software development, such as project management and agile practices.",
+    "level": "Secondary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-14T15:25:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and mentions agile processes, but the primary focus is on installation and configuration rather than agile methodologies or principles.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-14T15:25:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on the importance of solid agile processes, indicating a secondary theme related to Agile values and principles.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-14T15:25:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration rather than Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-14T15:25:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration rather than version control practices.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-14T15:25:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear focus on empirical process control principles or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-14T15:25:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical integration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on Scrum Values.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-14T15:25:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Project Server 2013 and its integration with Team Foundation Server 2012, with no clear focus on Azure Boards or Agile project management practices.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-14T15:25:17",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to collaboration tools in an Agile context, but the primary focus is on installation and configuration rather than on enhancing team communication or coordination.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-14T15:25:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration rather than organisational change strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-14T15:25:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, focusing on technical setup rather than Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-14T15:25:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, without a focus on frequent software releases or related practices.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-14T15:25:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical implementation details related to Project Server and Team Foundation Server integration, without a focus on customer satisfaction or experience.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-14T15:25:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than on scaling Scrum principles or practices.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-14T15:25:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical implementation and integration of Project Server 2013 with Team Foundation Server 2012, without a focus on evidence-based leadership principles or practices.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-14T15:25:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical integration of Project Server 2013 with Team Foundation Server 2012, with no focus on psychological safety or related themes.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-14T15:25:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, without discussing scaling agile practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-14T15:25:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration rather than engineering practices or software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-14T15:25:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no focus on revenue per employee metrics or related financial efficiency discussions.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-14T15:25:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no focus on asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-14T15:25:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on technical aspects of integrating Project Server 2013 with Team Foundation Server 2012, lacking a clear discussion on organisational dynamics or systems thinking.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-14T15:25:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical integration of Project Server 2013 with Team Foundation Server 2012, with no focus on customer retention strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-14T15:25:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practical steps for integrating Project Server 2013 with Team Foundation Server 2012, highlighting real-world applications and problem-solving strategies, but it is primarily focused on technical installation and configuration rather than broader Agile or Scrum principles.",
+    "level": "Ignored"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-14T15:25:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on backlog refinement or related Agile practices.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-14T15:25:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, lacking a clear emphasis on innovation capabilities or Evidence-Based Management principles.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-14T15:25:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, which touches on aspects of project management and agile processes, but does not primarily focus on Scrum principles or practices.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-14T15:25:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which touches on aspects of Agile processes and project management at an enterprise level, but it primarily focuses on technical setup rather than scaling Agile practices across multiple teams.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-14T15:25:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical processes related to Project Server and Team Foundation Server integration, with no focus on employee engagement strategies or practices.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-14T15:25:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than Lean principles or waste minimisation.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-14T15:25:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than test automation principles or practices.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-14T15:25:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than entrepreneurial principles or practices.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-14T15:25:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to the delivery of functional software. However, the primary focus is on installation and configuration processes rather than on the characteristics or best practices of working software.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-14T15:25:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and setup rather than Agile planning methodologies or tools.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-14T15:25:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration rather than Continuous Integration principles or practices.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-14T15:25:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no focus on market share strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-14T15:26:01",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on the challenges of managing Agile processes, indicating a secondary theme of Agile leadership in the context of project management.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-14T15:26:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, detailing installation and configuration steps without discussing sensemaking principles or decision-making processes.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-14T15:26:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, which are not related to Site Reliability Engineering principles.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-14T15:26:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no focus on hypothesis formulation, experimentation, or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-14T15:26:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear discussion on structured decision-making methodologies or evidence-based practices.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-14T15:26:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than Lean principles or waste reduction.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-14T15:26:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves aspects of release management such as installation, configuration, and deployment processes. However, the primary focus is on the technical setup rather than a comprehensive discussion on release management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-14T15:26:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and mentions the role of the Product Owner in managing Product Backlog Items (PBIs) and Bugs, indicating a secondary theme related to the Product Owner's responsibilities.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-14T15:26:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than on Cycle Time or its implications.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-14T15:26:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, without any direct reference to Azure Pipelines or CI/CD practices.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-14T15:26:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear focus on deployment frequency or related optimisation strategies.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-14T15:26:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, lacking a central discussion on change management principles or practices.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-14T15:26:27",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which touches on aspects of team collaboration and project management within Agile frameworks. However, the primary focus is on technical setup and troubleshooting rather than on enhancing team dynamics or communication.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-14T15:26:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-14T15:26:30",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to the use of digital tools for project management and operational efficiency. However, it primarily focuses on technical installation and configuration rather than broader strategic themes of digital transformation.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-14T15:26:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, without a clear focus on Minimum Viable Product concepts or methodologies.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-14T15:26:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, without any mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-14T15:26:37",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the installation and configuration processes for Project Server 2013 and its integration with Team Foundation Server 2012, which aligns closely with system configuration practices.",
+    "level": "Secondary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-14T15:26:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on technical implementation details and integration processes between Project Server 2013 and Team Foundation Server 2012, rather than discussing product strategy methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-14T15:26:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on technical setup and integration of Project Server 2013 with Team Foundation Server 2012, lacking discussions on guiding teams, agile methodologies, or leadership principles.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-14T15:26:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, with no focus on estimation techniques or Agile practices.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-14T15:38:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical integration of Project Server 2013 with Team Foundation Server 2012, with no focus on coaching practices or themes.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-14T15:38:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical integration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on accountability or team dynamics in an Agile context.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-14T15:38:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical implementation details related to Project Server and Team Foundation Server integration, with no clear focus on team motivation or dynamics.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-14T15:38:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and its integration with Team Foundation Server 2012, without a focus on hypothesis-driven experimentation or Agile workflows.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-14T15:38:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, with no focus on Sprint Review processes or related topics.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-14T15:38:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, without a focus on forecasting methodologies or practices within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-14T15:38:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on aspects of Agile processes and the importance of aligning project management tools with Agile methodologies. However, the primary focus is on technical setup rather than a comprehensive Agile strategy.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-14T15:38:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes rather than cross-functional team dynamics or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-14T15:38:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, focusing on technical setup rather than Lean principles or waste reduction.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-14T15:38:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, including specific issues encountered during the process and their resolutions, which aligns well with troubleshooting methodologies.",
+    "level": "Secondary"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-14T15:38:49",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, touching on aspects of Agile processes and project management, but it primarily focuses on installation and configuration rather than core engineering practices.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-14T15:38:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration and configuration of Project Server 2013 with Team Foundation Server 2012, without a clear focus on transparency in Agile processes.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-14T15:38:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and its integration with Team Foundation Server, rather than focusing on deployment strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-14T15:38:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than remote working practices or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-14T15:38:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical integration of Project Server 2013 with Team Foundation Server 2012, lacking discussions on growth mindset, knowledge sharing, or continuous improvement principles.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-14T15:38:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than addressing technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-14T15:39:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical integration of Project Server and Team Foundation Server, with no clear focus on Scrum Master responsibilities or practices.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-14T15:39:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, without any mention of Test First Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-14T15:39:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to software development practices and tools. However, it primarily focuses on installation and configuration rather than Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-14T15:39:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear discussion on trends or their implications in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-14T15:39:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and touches on the challenges of managing tasks and empowering teams, which aligns with self-organisation principles, but it primarily focuses on technical setup rather than self-organisation as a central theme.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-14T15:39:15",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, touching on project management tools and processes, but does not primarily focus on Agile frameworks or their principles.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-14T15:39:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than working agreements or team collaboration norms.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-14T15:39:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration rather than Kanban principles or scaling practices.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-14T15:39:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, rather than Test Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-14T15:39:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, with no clear focus on Azure Repos functionalities or practices.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-14T15:39:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, with no clear focus on throughput measurement or optimisation.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-14T15:39:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses integrating Project Server with Team Foundation Server, which touches on enterprise-level project management and Agile processes, but it primarily focuses on technical setup rather than large-scale Agile principles or frameworks.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-14T15:39:28",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server, touching on aspects of project management and the role of product management in aligning technical capabilities with project goals. However, the primary focus is on technical implementation details rather than strategic product management practices.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-14T15:39:30",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the installation and configuration of Project Server 2013, which is closely tied to the Windows operating system environment, specifically mentioning Windows Server 2012 and related components. It provides detailed steps and prerequisites that are relevant to managing a Windows-based system.",
+    "level": "Secondary"
   }
 }

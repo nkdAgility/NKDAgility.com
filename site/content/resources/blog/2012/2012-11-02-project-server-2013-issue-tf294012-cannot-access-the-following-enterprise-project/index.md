@@ -27,8 +27,13 @@ aliasesFor404:
 - /blog/project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
 - /project-server-2013-issue
 - /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- System Configuration
+- Pragmatic Thinking
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: metro-problem-icon-8-8.png
 
 ---

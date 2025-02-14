@@ -25,7 +25,10 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Decision Making
-categories: []
+categories:
+- Products and Books
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---
