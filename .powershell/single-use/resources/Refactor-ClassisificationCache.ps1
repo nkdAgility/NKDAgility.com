@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog\2020"
+$outputDir = "site\content\resources\blog\"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending | Select-Object -First 300 
@@ -71,7 +71,7 @@ $resources | ForEach-Object {
                 foreach ($oldDataFile in $oldDataFiles) {
                     if (Test-Path $oldDataFile) {
                         $oldData = Get-Content $oldDataFile | ConvertFrom-Json -ErrorAction Stop
-                        if ($data -eq $null) {
+                        if ($null -eq $data -or ($data.PSObject.Properties.Name.Count -eq 0)) {
                             $data = $oldData
                         }
                         else {
