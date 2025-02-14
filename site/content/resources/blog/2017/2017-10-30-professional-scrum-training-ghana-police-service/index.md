@@ -25,8 +25,31 @@ aliasesFor404:
 - /professional-scrum-training-for-the-ghana-police-service
 - /blog/professional-scrum-training-for-the-ghana-police-service
 - /resources/blog/professional-scrum-training-ghana-police-service
-tags: []
-categories: []
+tags:
+- Agile Frameworks
+- Scrum Product Development
+- Software Development
+- Working Software
+- Organisational Change
+- Professional Scrum
+- Agile Planning
+- Agile Transformation
+- Scrum Team
+- Empirical Process Control
+- Team Performance
+- Continuous Learning
+- Self Organisation
+- Team Collaboration
+- Operational Practices
+- Change Management
+- Agile Project Management
+- Scrum Master
+- Pragmatic Thinking
+- Agile Leadership
+categories:
+- Scrum
+- Agile Product Management
+- Practical Techniques and Tooling
 preview: clip_image006_thumb-3-3.jpg
 
 ---

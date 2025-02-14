@@ -25,8 +25,13 @@ aliasesFor404:
 - /scrum-tapas--scrum-and-continuous-delivery
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
-tags: []
-categories: []
+tags:
+- Software Development
+- Agile Frameworks
+- Agile Project Management
+categories:
+- Events and Presentations
+- Scrum
 preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png
 
 ---

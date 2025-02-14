@@ -25,8 +25,12 @@ aliasesFor404:
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Products and Books
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 
 ---

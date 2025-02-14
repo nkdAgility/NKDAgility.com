@@ -25,8 +25,20 @@ aliasesFor404:
 - /introducing-kanban-for-professional-scrum-teams
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/blog/introducing-kanban-professional-scrum-teams
-tags: []
-categories: []
+tags:
+- Throughput
+- Agile Project Management
+- Operational Practices
+- Software Development
+- Software Developers
+- Agile Frameworks
+- Pragmatic Thinking
+- Professional Scrum
+- Agile Transformation
+categories:
+- Metrics and Learning
+- Practical Techniques and Tooling
+- Events and Presentations
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

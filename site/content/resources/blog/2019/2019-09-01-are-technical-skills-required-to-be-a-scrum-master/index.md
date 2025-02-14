@@ -25,8 +25,28 @@ aliasesFor404:
 - /are-technical-skills-required-to-be-a-scrum-master-
 - /blog/are-technical-skills-required-to-be-a-scrum-master-
 - /resources/blog/are-technical-skills-required-to-be-a-scrum-master
-tags: []
-categories: []
+tags:
+- Coaching
+- Scrum Product Development
+- Technical Mastery
+- Software Development
+- Professional Scrum
+- Scrum Master
+- Team Performance
+- Scrum Team
+- Technical Leadership
+- Pragmatic Thinking
+- Agile Leadership
+- Agile Transformation
+- Agile Project Management
+- Agile Frameworks
+- Organisational Change
+- Engineering Practices
+- Mentoring
+categories:
+- Scrum
+- Events and Presentations
+- Agile Product Management
 preview: 1029723898-1-1.jpg
 
 ---

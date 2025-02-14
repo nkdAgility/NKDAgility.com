@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/scrum-tapas--the-importance-of-professionalism
 - /resources/blog/scrum-tapas-importance-professionalism
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- Scrum
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
 
 ---

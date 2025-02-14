@@ -29,8 +29,31 @@ aliasesFor404:
 - /i-do-continuous-deliver--why-should-i-sprint-
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
 - /resources/blog/continuous-deliver-sprint
-tags: []
-categories: []
+tags:
+- Agile Project Management
+- Increment
+- Empirical Process Control
+- Scrum Team
+- Working Software
+- Agile Planning
+- Software Developers
+- Software Development
+- Team Performance
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Deployment Frequency
+- Agile Strategy
+- Frequent Releases
+- Agile Frameworks
+- Agile Transformation
+- Operational Practices
+- Pragmatic Thinking
+- Strategy
+categories:
+- Scrum
+- People and Process
+- Practical Techniques and Tooling
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

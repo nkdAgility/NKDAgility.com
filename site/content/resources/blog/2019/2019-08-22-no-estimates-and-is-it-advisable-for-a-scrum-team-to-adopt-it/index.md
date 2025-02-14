@@ -25,8 +25,31 @@ aliasesFor404:
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
-tags: []
-categories: []
+tags:
+- Estimation
+- Throughput
+- Agile Planning
+- Software Development
+- Scrum Team
+- Cycle Time
+- Scrum Product Development
+- Pragmatic Thinking
+- Software Developers
+- Agile Frameworks
+- Agile Project Management
+- Team Performance
+- Agile Transformation
+- Operational Practices
+- Professional Scrum
+- Working Software
+- Continuous Learning
+- Empirical Process Control
+- Team Collaboration
+- Scrum Master
+categories:
+- Scrum
+- Metrics and Learning
+- People and Process
 preview: iStock-847664136-1-1.jpg
 
 ---

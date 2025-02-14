@@ -26,8 +26,31 @@ aliasesFor404:
 - /professional-scrum-is-for-everyone-in-your-organisation
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
-tags: []
-categories: []
+tags:
+- Transparency
+- Software Developers
+- Change Management
+- Agile Project Management
+- Professional Scrum
+- Organisational Change
+- Scrum Product Development
+- Scrum Master
+- Agile Strategy
+- Self Organisation
+- Software Development
+- Team Motivation
+- Team Collaboration
+- Agile Leadership
+- Organisational Physics
+- Scaling Agility
+- Empirical Process Control
+- Team Performance
+- Agile Transformation
+- Agile Philosophy
+categories:
+- People and Process
+- Scrum
+- Agile Product Management
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---
