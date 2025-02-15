@@ -21,7 +21,19 @@ aliasesFor404:
 - /team-foundation-server-2013-is-production-ready
 - /blog/team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
-tags: []
+tags:
+- Technical Debt
+- Software Development
+- Agile Project Management
+- Working Software
+- Software Developers
+- Agile Frameworks
+- Agile Strategy
+- Frequent Releases
+- Engineering Excellence
+- Pragmatic Thinking
+- Transparency
+- Technical Mastery
 categories:
 - Products and Books
 - News and Reviews

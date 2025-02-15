@@ -27,7 +27,18 @@ aliasesFor404:
 - /blog/a-change-for-the-better--4---homecoming
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
-tags: []
+tags:
+- Mentoring
+- Coaching
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
+- Agile Leadership
+- Agile Frameworks
+- Agile Strategy
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling

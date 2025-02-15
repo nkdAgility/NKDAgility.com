@@ -28,7 +28,10 @@ aliasesFor404:
 - /tfs-2012
 - /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- DevOps
 preview: metro-problem-icon-7-7.png
 
 ---

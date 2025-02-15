@@ -27,7 +27,15 @@ aliasesFor404:
 - /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
 - /tfs-2012-update-1
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
-tags: []
+tags:
+- Windows
+- System Configuration
+- Operational Practices
+- Technical Mastery
+- Software Development
+- Release Management
+- Troubleshooting
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

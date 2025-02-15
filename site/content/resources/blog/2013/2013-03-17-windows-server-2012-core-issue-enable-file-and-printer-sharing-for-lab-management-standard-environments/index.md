@@ -25,8 +25,13 @@ aliasesFor404:
 - /lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
 - /blog/lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
 - /resources/blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Troubleshooting
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: puzzle-issue-problem-128-link-6-6.png
 
 ---

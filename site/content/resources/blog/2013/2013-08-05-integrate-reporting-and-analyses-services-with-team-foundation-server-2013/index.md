@@ -21,7 +21,11 @@ aliasesFor404:
 - /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
-tags: []
+tags:
+- System Configuration
+- Technical Mastery
+- Software Development
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

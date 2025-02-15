@@ -25,7 +25,14 @@ aliasesFor404:
 - /install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
 - /blog/install-of-tfs-2013-3-with-sharepoint-2013-on-windows-server-2012-r2-update-1
 - /resources/blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
-tags: []
+tags:
+- Windows
+- Operational Practices
+- System Configuration
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -25,7 +25,14 @@ aliasesFor404:
 - /merge-team-projects-into-one-in-tfs
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
-tags: []
+tags:
+- Modern Source Control
+- System Configuration
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

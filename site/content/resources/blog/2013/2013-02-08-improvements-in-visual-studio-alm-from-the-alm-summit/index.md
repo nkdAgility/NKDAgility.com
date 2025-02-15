@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags: []
-categories: []
+categories:
+- Kanban
+- Practical Techniques and Tooling
+- Events and Presentations
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

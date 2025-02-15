@@ -29,7 +29,9 @@ aliasesFor404:
 - /the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /blog/the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /resources/blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-categories: []
+categories:
+- Install and Configuration
+- Personal
 preview: nakedalm-logo-128-link-9-9.png
 tags: []
 

@@ -25,7 +25,10 @@ aliasesFor404:
 - /issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
-tags: []
+tags:
+- Troubleshooting
+- System Configuration
+- Software Development
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

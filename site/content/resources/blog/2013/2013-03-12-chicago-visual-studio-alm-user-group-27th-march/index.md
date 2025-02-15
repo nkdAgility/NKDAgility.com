@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Events and Presentations
+- Kanban
 preview: metro-UserGroup-128-2-2.png
 
 ---

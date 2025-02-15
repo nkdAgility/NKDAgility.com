@@ -27,8 +27,14 @@ aliasesFor404:
 - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /sharepoint-2013-issue
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- System Configuration
+- Technical Mastery
+- Software Development
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: metro-sharepoint-128-link-8-8.png
 
 ---

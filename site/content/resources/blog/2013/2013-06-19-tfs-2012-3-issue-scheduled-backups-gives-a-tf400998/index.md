@@ -27,8 +27,17 @@ aliasesFor404:
 - /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
 - /tfs-2012-3-issue
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Software Development
+- Pragmatic Thinking
+- Troubleshooting
+- Technical Mastery
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

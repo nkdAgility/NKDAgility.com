@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags: []
-categories: []
+categories:
+- Application Lifecycle Management
+- Product Delivery
+- Value Delivery
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 
 ---

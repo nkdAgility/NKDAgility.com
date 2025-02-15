@@ -25,7 +25,12 @@ aliasesFor404:
 - /issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
-tags: []
+tags:
+- Troubleshooting
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

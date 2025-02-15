@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 If you have multiple service accounts for TFS 2012 and you are in a corporation chances are that two things are true:

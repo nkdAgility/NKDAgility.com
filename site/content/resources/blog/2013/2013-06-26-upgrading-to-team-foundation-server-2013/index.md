@@ -21,8 +21,18 @@ aliasesFor404:
 - /upgrading-to-team-foundation-server-2013
 - /blog/upgrading-to-team-foundation-server-2013
 - /resources/blog/upgrading-to-team-foundation-server-2013
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Release Management
+- Technical Mastery
+- Software Development
+- Troubleshooting
+- Pragmatic Thinking
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Products and Books
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

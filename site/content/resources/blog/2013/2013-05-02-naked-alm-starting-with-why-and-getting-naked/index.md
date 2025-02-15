@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags: []
-categories: []
+categories:
+- Application Lifecycle Management
+- Discovery and Learning
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

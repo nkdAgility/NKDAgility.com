@@ -25,8 +25,16 @@ aliasesFor404:
 - /tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
-tags: []
-categories: []
+tags:
+- Continuous Integration
+- System Configuration
+- Windows
+- Software Development
+- Troubleshooting
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

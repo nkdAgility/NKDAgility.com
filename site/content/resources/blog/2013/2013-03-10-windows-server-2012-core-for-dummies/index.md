@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/windows-server-2012-core-for-dummies
 - /resources/blog/windows-server-2012-core-for-dummies
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-server-instances-7-7.png
 
 ---

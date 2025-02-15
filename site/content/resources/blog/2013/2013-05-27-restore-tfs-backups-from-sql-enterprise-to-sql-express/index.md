@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /resources/blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: lazy1-5-5.jpg
 
 ---

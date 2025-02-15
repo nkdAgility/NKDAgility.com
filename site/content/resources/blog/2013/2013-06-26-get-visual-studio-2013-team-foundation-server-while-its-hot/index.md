@@ -25,8 +25,31 @@ aliasesFor404:
 - /what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
-tags: []
-categories: []
+tags:
+- Portfolio Management
+- Product Backlog
+- Team Collaboration
+- Agile Planning Tools
+- Collaboration Tools
+- Agile Project Management
+- Software Developers
+- Azure Boards
+- Agile Planning
+- Agile Strategy
+- Software Development
+- Team Performance
+- Scrum Product Development
+- Working Software
+- Agile Frameworks
+- Agile Transformation
+- Pragmatic Thinking
+- Automated Testing
+- Strategy
+- Engineering Excellence
+categories:
+- Agile Product Management
+- Product Delivery
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

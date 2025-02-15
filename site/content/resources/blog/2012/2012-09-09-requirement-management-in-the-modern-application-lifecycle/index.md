@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags: []
-categories: []
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Product Delivery
 preview: metro-requirements-icon-14-14.png
 
 ---

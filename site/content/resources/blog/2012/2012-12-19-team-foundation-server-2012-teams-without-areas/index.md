@@ -33,7 +33,10 @@ tags:
 - Pragmatic Thinking
 - Working Software
 - Product Backlog
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags: []
-categories: []
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---
