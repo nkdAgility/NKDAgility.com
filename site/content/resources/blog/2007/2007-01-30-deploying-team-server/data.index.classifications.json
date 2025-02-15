@@ -302,5 +302,205 @@
     "final_score": 35.0,
     "reasoning": "The content discusses the need for TFS and its implications for project management, but it primarily focuses on the technical aspects of implementation rather than evidence-based management principles.",
     "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the implementation of TFS and its importance for effective operation in a large organisation, indicating a focus on improving processes and collaboration, which are key aspects of enterprise agility.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the implementation of TFS and its importance for managing a large number of developers, which relates to scaling agility in a development environment.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the implementation of TFS and its importance for managing development processes, which aligns with value stream management principles, but it is primarily focused on the logistical and cost aspects of the project.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for a comprehensive system (TFS) to improve efficiency and reduce costs, which aligns with Lean principles, but it is primarily focused on the implementation details rather than Lean methodologies themselves.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 59.0,
+    "reasoning": "The content primarily discusses a presentation made about TFS, indicating that events and presentations are a central theme.",
+    "level": "Secondary"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses TFS (Team Foundation Server) and its implementation, which relates to software products, but the primary focus is on project management and infrastructure rather than on products or books themselves.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the complexities of implementing TFS in a large organisation, highlighting the challenges and considerations involved in managing a large team and project scope, but it is primarily focused on the logistics and costs rather than a deep exploration of complexity thinking.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the implementation of TFS and its advantages, which relates to learning about project management and development processes, but the primary focus is on the logistical and financial aspects of the implementation.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the implementation of TFS and its implications for project management and development processes, making it a major theme, though not the sole focus.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses the implementation and challenges of TFS in a corporate environment, rather than providing news or reviews.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the implementation and configuration of TFS, including the need for additional infrastructure and environments, but it is primarily focused on the justification and implications of the project rather than detailed installation steps.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the implementation of TFS in a large organisation, highlighting the interplay between technology, team structure, and organisational needs, making sociotechnical considerations a significant theme.",
+    "level": "Secondary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the need for a comprehensive system (TFS) to improve operational effectiveness, which relates to flow efficiency, but it is not the primary focus.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "Content primarily discusses the implementation and advantages of TFS (Team Foundation Server) in a development environment, including considerations for infrastructure and tooling necessary for effective project management.",
+    "level": "Secondary"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the implementation of TFS and its importance for effective operation in a large development environment, highlighting the value it brings to the project.",
+    "level": "Secondary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "Content discusses the need for a comprehensive TFS implementation to enhance operational effectiveness in a growing team, indicating a focus on organisational adaptability and efficiency.",
+    "level": "Secondary"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the implementation and costs associated with Team Foundation Server (TFS) in a development environment, without a clear focus on AI or automation in agility.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the implementation of TFS in a corporate environment, focusing on project management and technical requirements, with personal reflections being a minor aspect.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the need for a comprehensive solution in a changing project scope, indicating a secondary theme of resilience in adapting to increased demands.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the implementation of TFS and the logistical considerations of a software development project, with no clear focus on organisational psychology.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 41.0,
+    "reasoning": "The content discusses the need for TFS and mentions calculating metrics, indicating that metrics are a significant aspect of the overall topic, but the primary focus is on the implementation and costs associated with TFS.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the need for a comprehensive system to manage development processes and mentions the importance of visibility and tracking in a large team, indicating a secondary theme of transparency.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 21.0,
+    "reasoning": "The content discusses TFS implementation and project management aspects but does not primarily focus on Agile methodologies or product management principles.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the need for a comprehensive solution for development processes, highlighting the importance of integrating various systems and technologies, which aligns with systems thinking principles.",
+    "level": "Secondary"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 59.0,
+    "reasoning": "Content primarily discusses the implementation and costs associated with TFS, which is central to the delivery of the project.",
+    "level": "Secondary"
   }
 }
