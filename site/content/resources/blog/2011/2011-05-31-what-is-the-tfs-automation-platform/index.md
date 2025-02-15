@@ -23,7 +23,10 @@ aliasesFor404:
 - /resources/blog/what-is-the-tfs-automation-platform
 tags: []
 preview: metro-visual-studio-2010-128-link-2-2.png
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Platform Engineering
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb2-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton2.gif)The TFS Automation Platform is a project that will be developed initially as the [TFS Iteration Automation](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/20/new-rangers-project-tfs-iteration-automation.aspx) project for the Rangers, but which has a grander  vision to solve a need for customers to have things just happen within TFS.

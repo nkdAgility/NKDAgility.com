@@ -25,7 +25,16 @@ aliasesFor404:
 - /what-is-the-roll-of-the-project-manager-in-scrum-
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
 - /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
-tags: []
+tags:
+- Agile Project Management
+- Scrum Product Development
+- Scrum Team
+- Professional Scrum
+- Agile Transformation
+- Software Development
+- Agile Frameworks
+- Transparency
+- Organisational Change
 categories:
 - Scrum
 - People and Process

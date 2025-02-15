@@ -21,8 +21,16 @@ aliasesFor404:
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /blog/constructing-a-framework-for-the-tfs-automation-platform
 - /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
-tags: []
-categories: []
+tags:
+- Software Development
+- Technical Mastery
+- Pragmatic Thinking
+- Software Developers
+- System Configuration
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Platform Engineering
 
 ---
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.

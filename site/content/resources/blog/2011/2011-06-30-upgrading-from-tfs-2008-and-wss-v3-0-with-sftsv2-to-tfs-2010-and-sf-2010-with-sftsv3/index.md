@@ -21,7 +21,23 @@ aliasesFor404:
 - /upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 - /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 - /resources/blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
-tags: []
+tags:
+- System Configuration
+- Software Development
+- Troubleshooting
+- Windows
+- Operational Practices
+- Pragmatic Thinking
+- Software Developers
+- Agile Project Management
+- Scrum Product Development
+- Scaled Agile
+- Working Software
+- Release Management
+- Agile Frameworks
+- Technical Mastery
+- Engineering Excellence
+- Modern Source Control
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

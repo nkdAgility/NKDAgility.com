@@ -25,11 +25,14 @@ aliasesFor404:
 - /coffee-talk--scrum-versus-kanban
 - /blog/coffee-talk--scrum-versus-kanban
 - /resources/blog/coffee-talk-scrum-versus-kanban
-tags: []
+tags:
+- Software Development
+- Agile Project Management
+- Agile Frameworks
 categories:
 - Events and Presentations
 - Lean
-- Scrum
+- Kanban
 preview: metro-event-128-link-1-1.png
 
 ---

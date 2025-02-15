@@ -21,7 +21,13 @@ aliasesFor404:
 - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
-tags: []
+tags:
+- System Configuration
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- Windows
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

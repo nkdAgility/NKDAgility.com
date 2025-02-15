@@ -21,8 +21,19 @@ aliasesFor404:
 - /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Modern Source Control
+- Working Software
+- System Configuration
+- Software Development
+- Azure Boards
+- Pragmatic Thinking
+- Release Management
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

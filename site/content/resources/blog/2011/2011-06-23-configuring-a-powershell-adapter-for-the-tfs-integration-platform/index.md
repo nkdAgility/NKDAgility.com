@@ -21,7 +21,14 @@ aliasesFor404:
 - /configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
-tags: []
+tags:
+- System Configuration
+- Technical Mastery
+- Modern Source Control
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

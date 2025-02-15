@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/installing-visual-studio-2010-service-pack-1
 tags: []
 preview: metro-visual-studio-2010-128-link-13-13.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 [![vs2010logo_thumb[1]](images/Installing-Visual-Studio-2010-Service-Pa_77C9-vs2010logo_thumb1_thumb-11-11.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-2010-Service-Pa_77C9-vs2010logo_thumb1_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. This post seams almost redundant as I had no problems, but I think that is as valuable to other thinking of installing the Service Pack as all the problems that we sometimes get.

@@ -23,6 +23,8 @@ aliasesFor404:
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
 - Software Development
+- Team Collaboration
+- Software Developers
 - Strategy
 categories:
 - Practical Techniques and Tooling

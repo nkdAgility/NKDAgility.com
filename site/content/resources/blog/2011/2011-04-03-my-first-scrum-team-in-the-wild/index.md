@@ -21,8 +21,31 @@ aliasesFor404:
 - /my-first-scrum-team-in-the-wild
 - /blog/my-first-scrum-team-in-the-wild
 - /resources/blog/my-first-scrum-team-in-the-wild
-tags: []
-categories: []
+tags:
+- Agile Project Management
+- Agile Planning
+- Software Development
+- Agile Frameworks
+- Scrum Product Development
+- Scrum Team
+- Estimation
+- Product Owner
+- Agile Planning Tools
+- Product Backlog
+- Team Collaboration
+- Team Performance
+- Scrum Master
+- Agile Transformation
+- Professional Scrum
+- Pragmatic Thinking
+- Operational Practices
+- Software Developers
+- Backlog Refinement
+- Empirical Process Control
+categories:
+- Scrum
+- Agile Product Management
+- Product Delivery
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

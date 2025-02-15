@@ -51,32 +51,34 @@ $hugoMarkdownObjects | ForEach-Object {
     $hugoMarkdownQueue.Enqueue($_)
 }
 $hugoMarkdownBatchQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
-# Time settings
-$lastCheck = Get-Date
-$checkInterval = [TimeSpan]::FromMinutes(1)  # Adjust as needed
 $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
+Write-InfoLog "Initialise Batch Count..."
+$batchesInProgress = Get-OpenAIBatchesInProgress
+Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
 while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
-
-    if ((Get-Date) - $lastCheck -ge $checkInterval -and $hugoMarkdownBatchQueue.Count -gt 0) {
-        Write-DebugLog "Processing markdown files. $Counter of $TotalItems processed."
-        $lastCheck = Get-Date
+    $mode = "Queue"
+    if ($hugoMarkdownBatchQueue.Count -gt $batchesInProgress) {
+        $mode = "Batch"
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
-        Write-Progress -id 1 -Activity "Processing Markdown Objects $($hugoMarkdownQueue.count)|$($hugoMarkdownBatchQueue.count)" -Status "Interlude to Check Batch | Batch Queue: $($hugoMarkdownBatchQueue.count) | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-Progress -id 1 -Activity "Processing [Q1:$($hugoMarkdownQueue.count)][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress]" -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
-        
     }
-    else {
-        if ($hugoMarkdownQueue.Count -eq 0) {
-            continue
-        }
+    elseif ($hugoMarkdownQueue.Count -gt 0) {
+        $mode = "Queue"
         $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
         $Counter++
         $PercentComplete = ($Counter / $TotalItems) * 100
-        Write-Progress -id 1 -Activity "Processing Markdown Objects $($hugoMarkdownQueue.count)|$($hugoMarkdownBatchQueue.count)" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-Progress -id 1 -Activity "Processing [Q1:$($hugoMarkdownQueue.count)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress]" -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-DebugLog "--------------------------------------------------------"
         Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
-    }  
+    }
+    else {
+        Write-DebugLog "Checking Batch status..."
+        $batchesInProgress = Get-OpenAIBatchesInProgress
+        Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
+        continue
+    }
 
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
@@ -243,6 +245,11 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
     if ($resources.Count -gt 0) {
         $hugoMarkdownBatchQueue.Enqueue($hugoMarkdown)
+        if ($hugoMarkdownBatchQueue.Count -gt $batchesInProgress -and $mode -eq "Queue") {
+            Write-DebugLog "Checking Batch status..."
+            $batchesInProgress = Get-OpenAIBatchesInProgress
+            Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
+        }         
     }
 }
 

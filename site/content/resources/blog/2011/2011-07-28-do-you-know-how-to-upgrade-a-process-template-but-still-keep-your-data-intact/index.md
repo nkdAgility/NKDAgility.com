@@ -25,7 +25,13 @@ aliasesFor404:
 - /upgrading-your-process-template-in-team-foundation-server
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
-tags: []
+tags:
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- System Configuration
+- Troubleshooting
+- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

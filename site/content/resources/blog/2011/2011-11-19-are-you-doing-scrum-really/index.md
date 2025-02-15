@@ -25,7 +25,21 @@ aliasesFor404:
 - /are-you-doing-scrum--really-
 - /blog/are-you-doing-scrum--really-
 - /resources/blog/are-you-doing-scrum-really
-tags: []
+tags:
+- Increment
+- Agile Project Management
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Scrum Master
+- Agile Planning
+- Team Performance
+- Professional Scrum
+- Software Developers
+- Agile Transformation
+- Pragmatic Thinking
+- Agile Frameworks
+- Strategy
 categories:
 - Scrum
 - People and Process

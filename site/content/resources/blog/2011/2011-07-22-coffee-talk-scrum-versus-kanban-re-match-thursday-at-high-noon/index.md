@@ -28,8 +28,8 @@ aliasesFor404:
 tags: []
 categories:
 - Events and Presentations
-- Scrum
 - Kanban
+- Scrum
 preview: metro-nwc-128-link-2-2.png
 
 ---

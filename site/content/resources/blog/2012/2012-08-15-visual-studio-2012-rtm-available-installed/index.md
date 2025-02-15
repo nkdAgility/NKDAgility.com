@@ -25,7 +25,14 @@ aliasesFor404:
 - /visual-studio-2012-rtm-available-&-installed
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
-tags: []
+tags:
+- Software Development
+- System Configuration
+- Release Management
+- Technical Mastery
+- Engineering Excellence
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 - News and Reviews

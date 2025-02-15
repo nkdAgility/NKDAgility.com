@@ -21,7 +21,21 @@ aliasesFor404:
 - /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
-tags: []
+tags:
+- Mentoring
+- Agile Project Management
+- Scrum Product Development
+- Change Management
+- Agile Transformation
+- Team Performance
+- Software Development
+- Professional Scrum
+- Organisational Change
+- Pragmatic Thinking
+- Agile Frameworks
+- Software Developers
+- Team Collaboration
+- Technical Leadership
 categories:
 - Scrum
 - Agile Product Management
