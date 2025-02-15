@@ -1,1058 +1,1361 @@
 {
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners within the context of Agile methodologies, highlighting dysfunctions and the need for a single point of accountability to achieve agility.",
-    "level": "Secondary"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the dysfunction caused by having both Project Managers and Product Owners, touching on the importance of having a single point of accountability, which aligns with Scrum values. However, the primary focus is on organisational structure rather than Scrum values themselves.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners in the context of agile methodologies, with a mention of TFS (Team Foundation Server), which is related to Azure Boards. However, the primary focus is on team dynamics and organisational structure rather than Azure Boards specifically.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunctions and challenges faced by teams with both Project Managers and Product Owners, rather than analysing trends in the industry or organisation.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunctions and challenges of having both Project Managers and Product Owners in an organisation, rather than focusing on experimentation.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-15T10:59:47",
     "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners, highlighting the dysfunctions in team structures and the impact on agility, which aligns closely with lean product development principles.",
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners within Agile frameworks, highlighting the importance of clear ownership and accountability in product delivery.",
     "level": "Secondary"
   },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the dysfunctions in team structures involving Project Managers and Product Owners, highlighting the impact on agility and team effectiveness, which aligns with principles of engineering excellence.",
-    "level": "Secondary"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-15T10:59:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, rather than focusing on Value Stream Mapping.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction of team roles and responsibilities in Agile environments, without focusing on specific practical techniques or tooling.",
     "level": "Ignored"
   },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, emphasising the need for organisational restructuring to improve team dynamics and agility.",
-    "level": "Secondary"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the impact on team agility and the need for organisational restructuring to achieve effective agile planning.",
-    "level": "Secondary"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the decision-making challenges and the need for organisational restructuring to improve agility.",
-    "level": "Secondary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, highlighting the challenges in agile environments, which relates to scaling practices, but it is primarily focused on the roles and responsibilities rather than scaling Kanban specifically.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-15T10:59:51",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners within agile teams, with no mention of test automation.",
-    "level": "Ignored"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the dysfunction caused by having both Project Managers and Product Owners, emphasising the need for organisational restructuring to achieve agility.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in the context of agile practices, highlighting dysfunctions and the need for organisational restructuring to achieve greater agility.",
-    "level": "Secondary"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and roles rather than cycle time.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the need for clear roles and responsibilities, which aligns with working agreements in agile teams.",
-    "level": "Secondary"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners in an organisation, highlighting the challenges in agile practices and the need for restructuring to achieve greater agility.",
-    "level": "Secondary"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the dysfunction of teams caused by the presence of both Project Managers and Product Owners, highlighting the impact on team dynamics and performance.",
-    "level": "Secondary"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the importance of having a single master for teams, which aligns closely with Agile principles.",
-    "level": "Secondary"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners within teams, with no clear focus on revenue or financial metrics.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses the dysfunction caused by the roles of Project Managers and Product Owners, highlighting the need for organisational restructuring to achieve agility, which aligns with strategic goals. However, the primary focus is on the roles and their interactions rather than explicitly outlining strategic goals.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunctions arising from the roles of Project Managers and Product Owners within an organisation, highlighting the impact on team dynamics and agility.",
-    "level": "Secondary"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of Project Managers and Product Owners, highlighting the dysfunctions in team structures and the need for organisational reform to achieve agility, which is central to effective technical leadership.",
-    "level": "Secondary"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the need for organisational restructuring to achieve agility, which aligns with Lean Principles.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with no clear focus on Azure Pipelines.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners within teams, highlighting the dysfunction that arises from having multiple leaders, which is central to Scrum team dynamics.",
-    "level": "Secondary"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than employee engagement.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the dysfunctions arising from the roles of Project Managers and Product Owners, touching on the need for clear accountability and value delivery, which are relevant to empirical process control in agile methodologies.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than frequent releases.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses dysfunctions in team structures involving Project Managers and Product Owners, highlighting issues that arise from this setup. While it addresses problems and suggests a solution, the primary focus is on organisational roles rather than troubleshooting specific issues.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners, highlighting the dysfunction that arises from having multiple Product Owners, which indirectly relates to backlog management and refinement.",
+    "reasoning": "Content heavily discusses the roles of Project Managers and Product Owners in agile teams, without a clear focus on platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunctions arising from the roles of Project Managers and Product Owners, highlighting the need for evidence-based restructuring to improve team agility and accountability.",
-    "level": "Secondary"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners within teams, without a clear focus on remote working.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners in the context of agile methodologies, highlighting the dysfunctions that arise from their coexistence and the impact on team dynamics, which is a significant aspect of agile planning.",
-    "level": "Secondary"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners within agile teams, with no mention of automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the challenges in agile environments and the need for organisational restructuring to enhance agility.",
-    "level": "Secondary"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunctions arising from the roles of Project Managers and Product Owners, emphasising the need for organisational restructuring to achieve agility, which aligns closely with pragmatic thinking.",
-    "level": "Secondary"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by the presence of both Project Managers and Product Owners, highlighting the need for organisational restructuring to achieve agility.",
-    "level": "Secondary"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the role of Product Owners in relation to Project Managers and the impact on team dynamics and agility.",
-    "level": "Secondary"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners, their impact on team dynamics, and the need for organisational restructuring to enhance agility, which are central to product strategy.",
-    "level": "Secondary"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on roles and responsibilities rather than transparency.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the need for organisational restructuring to achieve agility, which is central to change management.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in agile software development, highlighting the dysfunctions that arise in teams, which is central to the software development process.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in the context of agile software development, highlighting the dysfunctions that arise in teams and the impact on delivering working software.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, rather than focusing on system configuration.",
-    "level": "Ignored"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agile practices rather than Lean Startup principles.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunctions arising from the roles of Project Managers and Product Owners within an organisation, highlighting the impact on team dynamics and agility, which are central to organisational culture.",
-    "level": "Secondary"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses the dysfunction in team structures involving Project Managers and Product Owners, highlighting the need for organisational change to achieve agility, which is a key aspect of digital transformation.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunctions arising from having both Project Managers and Product Owners in an organisation, focusing on team dynamics and accountability rather than on Sprint Reviews.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners within teams, focusing on organisational structure and agile methodologies rather than entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than technical debt.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, rather than focusing on Daily Scrum practices or events.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with no clear focus on Continuous Integration.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-15T10:59:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure rather than evidence-based management principles.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-15T10:59:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in an organisation, focusing on team dynamics and agility rather than code quality or complexity in software development.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-15T10:59:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the roles and dysfunctions of Project Managers and Product Owners, focusing on project management rather than discovery or learning processes.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-15T10:59:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
     "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agile practices rather than customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners in an organisation, highlighting the challenges in achieving agility in large-scale settings.",
-    "level": "Secondary"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the dysfunctions in team structures involving Project Managers and Product Owners, highlighting the need for organisational change to improve agility, which aligns with coaching principles.",
-    "level": "Secondary"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with no clear focus on source control practices.",
-    "level": "Ignored"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the dysfunctions in team structures involving Project Managers and Product Owners, rather than focusing on continuous learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners within Scrum, highlighting the dysfunctions and challenges in agile teams, which aligns closely with Scrum Product Development principles.",
-    "level": "Secondary"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the roles of Project Managers and Product Owners in relation to agile practices, highlighting dysfunctions and the need for organisational restructuring to achieve agility.",
-    "level": "Secondary"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by the presence of both Project Managers and Product Owners, highlighting the impact on team dynamics and agility, which is central to Agile Leadership.",
-    "level": "Secondary"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners within teams, with no clear focus on market share.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners in relation to team dynamics and agility, indicating a significant focus on the challenges of managing product delivery, which aligns with MVP concepts.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and roles rather than throughput.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the challenges in achieving agility and the need for organisational restructuring to support agile practices.",
-    "level": "Secondary"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the roles of Project Managers and Product Owners in agile software development, highlighting the dysfunctions and challenges faced by teams in this context.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and roles rather than deployment strategies.",
-    "level": "Ignored"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the roles of Project Managers and Product Owners, focusing on accountability in value delivery and the dysfunction arising from unclear reporting structures.",
-    "level": "Secondary"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the dysfunctions arising from the roles of Project Managers and Product Owners, emphasising the impact on team dynamics and collaboration.",
-    "level": "Secondary"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners, highlighting the complexities and dysfunctions in team structures, which relates to managing projects and products, but it is primarily focused on team dynamics rather than portfolio management itself.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and roles rather than the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the roles of Product Owners and Project Managers, focusing on the implications for product backlogs and team dynamics in agile environments.",
-    "level": "Secondary"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses organisational structure and roles in relation to agility, suggesting a need for reform to improve team dynamics, which implies an innovative approach to problem-solving. However, the primary focus is on the dysfunction of teams rather than innovation itself.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners, highlighting the dysfunctions in teams and the importance of having a single master, which is central to Scrum principles.",
-    "level": "Secondary"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the dysfunctions arising from the roles of Project Managers and Product Owners within teams, highlighting the need for cross-functional collaboration and the impact on team dynamics.",
-    "level": "Secondary"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the dysfunction of teams due to conflicting roles of Project Managers and Product Owners, which indirectly relates to team motivation by highlighting the challenges teams face in achieving agility and clarity in their roles.",
-    "level": "Ignored"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses team dynamics and roles but primarily focuses on the dysfunction caused by overlapping responsibilities of Project Managers and Product Owners, rather than explicitly addressing psychological safety.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, highlighting issues related to agility and team organisation, which are relevant to Lean Thinking principles, but it is primarily focused on the roles and responsibilities within project management.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunctions arising from the roles of Project Managers and Product Owners, highlighting the complexities and challenges in organisational structures that affect team dynamics and agility.",
-    "level": "Secondary"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and roles rather than lead time.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than Test First Development.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners in a team setting, highlighting the dysfunction that arises from their interactions, which is relevant to collaboration tools but is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in agile teams, highlighting the dysfunctions and challenges that arise from their interactions, which is central to effective engineering practices.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with a focus on organisational structure rather than continuous delivery practices.",
-    "level": "Ignored"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with no clear focus on Azure Repos.",
-    "level": "Ignored"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of Project Managers and Product Owners, highlighting the dysfunctions in team structures and the need for organisational reorganisation to improve agility.",
-    "level": "Secondary"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with no clear focus on Windows or related topics.",
-    "level": "Ignored"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the dysfunctions in team structures involving Project Managers and Product Owners, highlighting the need for organisational change to improve agility, which aligns with evidence-based leadership principles.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agile practices, without a clear emphasis on customer retention.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with no clear focus on Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners within Scrum teams, highlighting dysfunctions and the need for clear accountability in agile environments.",
-    "level": "Secondary"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the dysfunctions in team structures involving Project Managers and Product Owners, highlighting the need for organisational change and guidance, which aligns with mentoring principles, but it is primarily focused on project management and agile practices.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and roles rather than deployment frequency.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners in agile teams, highlighting the dysfunctions and challenges that arise from their interactions, which is a significant aspect of technical project management.",
-    "level": "Ignored"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and roles rather than the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners in agile teams, but it primarily focuses on organisational dysfunction and team dynamics rather than Behaviour Driven Development specifically.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the roles of Product Owners and Project Managers, highlighting the challenges in product delivery and team dynamics, which are relevant to product discovery but are not the primary focus.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility rather than asynchronous development.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the dysfunction caused by having both Project Managers and Product Owners, emphasising the need for organisational restructuring to achieve greater agility.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities of Project Managers and Product Owners, highlighting the dysfunctions that arise from their coexistence in teams, which is central to the topic.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners in relation to team dynamics and agility, which are relevant to value stream management, but the primary focus is on the dysfunction caused by these roles rather than on value stream management itself.",
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and team dynamics rather than AI and automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the need for organisational restructuring to achieve greater agility, which aligns closely with Lean principles.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T10:59:58",
     "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agile practices, rather than events or presentations.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the roles of Product Owners and Project Managers in relation to products, making it a major theme, but it primarily focuses on team dynamics and organisational structure.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 75,
     "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the complexities and dysfunctions arising from the roles of Project Managers and Product Owners within teams, highlighting the challenges of multi-tasking and accountability in agile environments, making it a major theme.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses the dysfunctions in team structures involving Project Managers and Product Owners, rather than focusing on discovery and learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the roles and responsibilities of Project Managers and Product Owners, highlighting decision-making challenges within organisational structures, but it primarily focuses on team dynamics and agile practices.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners within the context of agile methodologies, highlighting the impact on team dynamics and project management, which are central to Application Lifecycle Management.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with a focus on organisational structure rather than code or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agile practices rather than news or reviews.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in agile environments, without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
+    "calculated_at": "2025-02-15T10:59:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agile practices rather than installation or configuration topics.",
-    "level": "Ignored"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the roles and interactions between Project Managers and Product Owners within organisational structures, highlighting the sociotechnical dynamics that affect team functionality and agility.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting issues related to team efficiency and the need for clear roles to improve agility.",
-    "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, which is a significant theme, but the primary focus is on the roles and responsibilities within agile project management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, highlighting the need for organisational restructuring and the use of tools like TFS to facilitate collaboration, making it a major but secondary theme.",
-    "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in relation to value delivery, highlighting the dysfunctions that arise when both roles exist simultaneously and the impact on team agility.",
-    "level": "Secondary"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the dysfunction caused by having both Project Managers and Product Owners, emphasising the need for organisational restructuring to achieve greater agility.",
-    "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 9.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and agility challenges, without any mention of AI or automation.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses organisational structure and roles in relation to agility, indicating a need for adaptability in project management and product ownership, but it is primarily focused on the dysfunction of teams rather than market adaptability itself.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles and dysfunctions of Project Managers and Product Owners within organisations, focusing on team dynamics and agile methodologies, rather than personal experiences or topics.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the dysfunction in teams caused by the presence of both Project Managers and Product Owners, highlighting the need for organisational change to achieve agility. While the primary focus is on team dynamics and roles, the theme of organisational restructuring for improved resilience and adaptability is significant.",
-    "level": "Secondary"
-  },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dysfunctions within teams caused by the roles of Project Managers and Product Owners, highlighting the impact on team dynamics and organisational structure.",
-    "level": "Secondary"
-  },
-  "Metrics and Learning": {
-    "category": "Metrics and Learning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and roles rather than metrics or learning.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure and team dynamics rather than installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "ai_confidence": 75,
+    "calculated_at": "2025-02-15T11:00:01",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the roles of Project Managers and Product Owners, highlighting issues of accountability and responsibility in project management, which are central themes. However, the primary focus is on the dysfunction of team structures rather than transparency and accountability itself.",
-    "level": "Secondary"
+    "final_score": 46.0,
+    "reasoning": "The content discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting issues of accountability and responsibility within Agile teams. However, it primarily focuses on the structural challenges rather than explicitly addressing transparency and accountability as central themes.",
+    "level": "Ignored"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities of Project Managers and Product Owners, highlighting the dysfunctions that arise in agile teams when both roles are present, and emphasising the importance of having a single Product Owner for effective agile practices.",
-    "level": "Secondary"
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-15T11:00:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, highlighting the challenges in achieving agility. While it touches on the need for organisational restructuring to enhance agility, the primary focus is on team dynamics rather than broader market adaptability strategies.",
+    "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-15T11:00:05",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the dysfunctions in team structures involving Project Managers and Product Owners, highlighting the need for organisational reorganisation to achieve agility, which aligns with systems thinking principles.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the interplay between Project Managers and Product Owners within an organisational context, highlighting how their roles affect team dynamics and agility in software development.",
     "level": "Secondary"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-15T11:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses organisational structure and the challenges of agility, which are related to change management. However, it primarily focuses on the dysfunction of roles rather than strategies for resilience or adaptive change.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-15T11:00:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners, focusing on agile methodologies rather than DevOps principles or practices.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-15T11:00:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the roles of Project Managers and Product Owners within Agile frameworks, highlighting dysfunctions and organisational challenges related to Agile practices.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-15T11:00:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in Agile environments, without a clear focus on decision-making processes or the principles of Decision Theory.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T11:00:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, without reference to any specific events, presentations, or discussions related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-15T11:00:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure rather than optimising work throughput.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-15T11:00:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the dysfunctions arising from the roles of Project Managers and Product Owners, focusing on team dynamics, accountability, and the impact on agility, which aligns closely with the category's themes.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-15T11:00:21",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the dysfunction caused by having both Project Managers and Product Owners in an organisation, highlighting the impact on team agility and the need for organisational restructuring to support agile principles. While it primarily focuses on team dynamics, it addresses broader implications for organisational agility.",
+    "level": "Secondary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-15T11:00:23",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the dysfunction caused by having both Project Managers and Product Owners in an organisation, highlighting the challenges to achieving agility and the need for organisational restructuring to support agile practices.",
+    "level": "Secondary"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-15T11:00:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on organisational structure rather than metrics or learning.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-15T11:00:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners, focusing on organisational dysfunction rather than Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-15T11:00:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunction of team structures involving Project Managers and Product Owners, focusing on organisational dynamics rather than engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-15T11:00:29",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunction of teams with both Project Managers and Product Owners, highlighting the complexities and challenges in organisational structures that affect agility. While it touches on themes of complexity, it primarily focuses on the roles and responsibilities within Agile frameworks rather than a deep exploration of complexity science principles.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-15T11:00:30",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses team dynamics and the dysfunction caused by overlapping roles of Project Managers and Product Owners, which relates to organisational behaviour. However, the primary focus is on project management and Agile practices rather than core psychological principles.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-15T11:00:33",
+    "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners, focusing on their impact on product delivery and team dynamics.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers and Product Owners in the context of agile methodologies, highlighting the dysfunctions that arise from their coexistence and the impact on product delivery. It addresses the importance of having a single point of accountability for value delivery, which is central to effective product delivery practices.",
     "level": "Secondary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-15T11:00:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunction caused by traditional hierarchical roles of Project Managers and Product Owners, highlighting the need for organisational reorganisation to achieve agility, which aligns with the principles of Beta Codex. However, the primary focus is on the dysfunction of these roles rather than a comprehensive discussion of Beta Codex principles.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-15T11:00:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on project management issues rather than the flow of value or Value Stream Management principles.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-15T11:00:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, rather than focusing on specific products or literature related to Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-15T11:00:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the roles of Project Managers and Product Owners in relation to team dynamics and value delivery, highlighting the dysfunction that arises from having multiple authorities. However, the primary focus is on organisational structure rather than direct strategies for value delivery.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-15T11:00:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, mentioning TFS (Team Foundation Server), which is part of Azure DevOps. However, the primary focus is on team dynamics and Agile principles rather than Azure DevOps functionalities.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-15T11:00:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, reflecting on challenges faced in achieving agility. However, it primarily focuses on organisational structure rather than personal experiences or insights.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-15T11:00:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, highlighting the interdependencies and complexities within organisational structures. While it touches on the need for organisational reform to achieve agility, it primarily focuses on the roles and responsibilities rather than a holistic Systems Thinking approach.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-15T11:00:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, focusing on agile practices rather than the principles or implementation of the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-15T11:00:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the challenges in aligning roles with Agile principles and the need for a product-centric approach.",
+    "level": "Secondary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-15T11:00:49",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the dysfunction caused by having both Project Managers and Product Owners, highlighting the impact on team dynamics and the need for organisational restructuring to enhance agility.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-15T11:00:51",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the dysfunction of teams with Project Managers and Product Owners, touching on Agile principles and organisational structure, but it primarily focuses on a specific situation rather than providing broader industry news or reviews.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-15T11:00:53",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the roles of Project Managers and Product Owners in relation to application teams, touching on aspects of governance and team dynamics within the application lifecycle. However, it primarily focuses on organisational structure and agility rather than the full scope of Application Lifecycle Management.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-15T11:00:55",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners within the context of Scrum, highlighting the dysfunctions that arise from having both roles and the implications for team dynamics and agility.",
+    "level": "Secondary"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the dysfunction of teams with both Project Managers and Product Owners, focusing on organizational structure rather than the Daily Scrum event itself.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions within teams involving Project Managers and Product Owners, without addressing the Definition of Done directly or being primarily related to it.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organizational structure and roles related to Project Managers and Product Owners, rather than focusing on technical practices or software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the roles of Project Managers and Product Owners in an organization and highlights the dysfunction caused by overlapping responsibilities, with a focus on team dynamics rather than product discovery methodologies or user needs.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the roles and dysfunctions of Project Managers and Product Owners, focusing on organizational structure and agility rather than principles of Continuous Delivery.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses dysfunction in team roles related to Project Managers and Product Owners, focusing on operational challenges rather than articulating long-term strategic objectives or goals.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunctions in team structures involving Project Managers and Product Owners, focusing on roles, responsibilities, and organizational challenges rather than Lead Time as a measurement of time from work initiation to customer delivery.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the dysfunctionality caused by having both Project Managers and Product Owners within teams, focusing on how this structure impacts team dynamics, accountability, and value delivery which are intricately linked to the organisational culture and its influence on agility.",
+    "level": "Secondary"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on the roles and dysfunctions of Project Managers and Product Owners in agile teams, rather than discussing criteria or practices related to the Definition of Ready.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 35,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the roles and dysfunctions associated with Project Managers and Product Owners, rather than focusing on portfolio management practices, strategic alignment, or methodologies relevant to managing a portfolio of projects.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the roles of Product Owners in relation to Project Managers and highlights the challenges of managing work across multiple backlogs, which is relevant to the Product Backlog. However, the primary focus is on organizational structure and dysfunction rather than a direct examination of the Product Backlog itself.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the dysfunction in teams with both Project Managers and Product Owners, highlighting issues related to team structure and ownership of responsibilities in an Agile context. While it primarily focuses on the conflicts arising from traditional project management roles, it does touch on Agile principles, particularly the importance of having a single owner for a team, which aligns with Agile Planning discussions. However, the primary focus is more about organization and hierarchy than Agile Planning itself.",
+    "level": "Secondary"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses dysfunction in roles of Project Managers and Product Owners in Agile frameworks, with no mention of Value Stream Mapping or its principles.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the relationship and dysfunction between Project Managers and Product Owners, focusing on team dynamics rather than customer feedback integration.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content addresses the dysfunction and lack of clarity between Project Managers and Product Owners, its primary focus is on organizational structure and roles rather than techniques or strategies specifically aimed at enhancing operational efficiency within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the roles and responsibilities of Product Owners and Project Managers within a Scrum context, highlighting the dysfunction that arises when both roles exist in an organization. It addresses the challenges faced by Scrum Teams due to competing demands from multiple Product Owners and Project Managers, which is central to understanding Scrum Team dynamics.",
+    "level": "Secondary"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the dysfunction that arises in the context of Agile teams when both Project Managers and Product Owners are present, addressing key principles of Agile such as value delivery, team structure, and the necessity for a clear authority within Agile teams.",
+    "level": "Secondary"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the organizational structure and dynamics between Project Managers and Product Owners, touching on agility and team effectiveness, which aligns with strategic considerations in Agile environments.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, without a clear focus on testing product ideas or user engagement.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners in agile teams, emphasizing the importance of clear roles and accountability in achieving agility.",
+    "level": "Secondary"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunctions and hierarchies present in teams involving Project Managers and Product Owners, without a clear focus on mentoring or coaching methodologies.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in Agile organizations, focusing on organizational dysfunctions, rather than on automated testing principles or practices.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the dysfunction in teams caused by the presence of both Project Managers and Product Owners, impacting team dynamics and performance. While it primarily focuses on organizational structure rather than direct practices or methodologies, it emphasizes the challenges that arise in team collaboration and roles, indicating it relates to team performance.",
+    "level": "Secondary"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunctions caused by having both Project Managers and Product Owners, rather than focusing on the delivery of software increments in an Agile context.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on the dysfunction of teams with Project Managers and Product Owners, discussing organizational structures and roles in Agile rather than Acceptance Test Driven Development principles.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "Content discusses the roles of Project Managers and Product Owners in relation to Agile practices, emphasizing the importance of having a single Product Owner for effective Agile software development and the impacts of organizational structure on agility.",
+    "level": "Secondary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the roles and relationships between Project Managers and Product Owners, emphasizing the challenges and dysfunctions that arise in the context of Agile Project Management. It advocates for a structure that aligns with agile principles, such as having a single Product Owner per team, which aligns with core agile philosophies.",
+    "level": "Secondary"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 60,
+    "non_ai_confidence": 20,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the dysfunctions related to having both Project Managers and Product Owners in Agile contexts, emphasizing the importance of team accountability, singular ownership of value delivery, and the overarching need for agile structures. It touches on Agile principles, although it primarily focuses on the challenges faced within operational structures rather than a deep examination of Agile values or principles themselves.",
+    "level": "Secondary"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the roles of Project Managers and Product Owners within the context of Scrum and Agile, focusing on their impact on team dynamics and accountability. While Scrum is a significant theme, the primary focus revolves around the dysfunction caused by overlapping roles rather than an in-depth exploration of Scrum principles or practices.",
+    "level": "Secondary"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the roles of Project Managers and Product Owners, focusing on organizational structure and agility rather than source control practices.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunction of having both Project Managers and Product Owners in organizational structures, rather than focusing on empirical process control principles such as transparency, inspection, and adaptation in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the dysfunction in team structures involving Project Managers and Product Owners, rather than focusing on Scrum Values like Commitment, Courage, Focus, Openness, or Respect.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses team structures and roles in Agile, mentioning TFS (Team Foundation Server) modeling, which relates to Azure Boards, but the primary focus is on organizational dysfunction rather than specific functionalities or best practices of Azure Boards.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on the roles and dysfunctions of Project Managers and Product Owners, rather than on collaboration tools or their implementation within Agile teams.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the dysfunction of teams caused by the overlapping roles of Project Managers and Product Owners, emphasizing the need for organizational restructuring to enhance agility. It highlights the importance of having a clear structure and accountability in agile practices, which aligns with the principles of organisational change.",
+    "level": "Secondary"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with no reference to Lean Startup principles, MVPs, or the Build-Measure-Learn feedback loop.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and challenges of Project Managers and Product Owners in organizations, focusing on team dynamics and agility rather than software release practices.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunctions and organizational challenges between Project Managers and Product Owners, without a clear focus on customer satisfaction principles, strategies, or metrics.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunction of teams within a large organization that involve both Project Managers and Product Owners, highlighting challenges related to accountability and value delivery in a scaling context. However, it does not focus explicitly on frameworks or methodologies for scaling Scrum.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in organizations, rather than focusing on evidence-based leadership practices or decision-making.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners, and how organizational structure affects agile practices. It does not focus on psychological safety as a central theme.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the challenges of project management roles versus product ownership in the context of organizational agility, highlighting the need for reorganization to promote agility. However, it primarily focuses on team-level dynamics rather than broader scaling strategies.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses project management roles and their dysfunctions in organizational contexts, not specifically focusing on software craftsmanship or engineering excellence practices.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams involving Project Managers and Product Owners, with no clear focus on revenue per employee or its related factors.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to team dynamics with project managers and product owners, focusing on dysfunction in reporting and accountability, rather than asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the dysfunctionality caused by the interplay of roles (Project Managers and Product Owners) in the context of organisational structure and processes, highlighting the need for a reorganisation to achieve greater agility, which aligns well with systems thinking principles.",
+    "level": "Secondary"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content discusses the dysfunction of teams with Project Managers and Product Owners, focusing primarily on organizational structure and roles in project management rather than strategies or methodologies related to customer retention.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunction arising from the roles of Project Managers and Product Owners in Agile environments and offers practical insights and recommendations to improve organizational structure toward greater agility. However, the primary focus was more on the dysfunction rather than direct pragmatic strategies.",
+    "level": "Ignored"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in Agile environments, rather than focusing on backlog refinement itself.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on the dysfunctions within team structures involving Project Managers and Product Owners, without a central emphasis on measuring or improving innovation capabilities.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "Content discusses the roles of Project Managers and Product Owners within Scrum, highlighting dysfunctions and the challenge of multiple reporting structures, which is relevant to the Scrum framework but is primarily focused on organizational structure rather than Scrum practices themselves.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the dysfunction created by the roles of Project Managers and Product Owners in an organizational context, which relates to how Agile practices are implemented and scaled within multiple teams. However, the primary focus is on individual roles rather than explicit scaling frameworks or coordination among multiple Agile teams.",
+    "level": "Secondary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunctions within project management and product ownership structures, focusing on organizational hierarchy and roles rather than employee engagement strategies or practices.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners, focusing on agility issues rather than Lean principles.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in agile teams, with no mention of test automation or related practices.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions in project management and product ownership rather than focusing on entrepreneurship principles, innovation, risk-taking, or entrepreneurial strategies.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the roles of Project Managers and Product Owners in software development, touching on the dysfunction of teams in delivering working software. However, it primarily focuses on organizational structure rather than directly on the delivery of functional software.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with both Project Managers and Product Owners, rather than focusing on Agile Planning Tools and their functionalities.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the roles and responsibilities of Project Managers and Product Owners in an agile context, not focusing on Continuous Integration principles or practices.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses project management roles and organizational dynamics, not market share or related strategies.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the dynamics between Project Managers and Product Owners, highlighting issues related to team dysfunction and the need for clear ownership and accountability in Agile environments, which are relevant to Agile Leadership. However, it primarily focuses on organizational roles rather than directly on leadership practices.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the dysfunction between Project Managers and Product Owners, focusing on roles and organization rather than on sensemaking or decision-making processes in complex environments.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the roles and dysfunctions of Project Managers and Product Owners in agile software development without any reference to Site Reliability Engineering principles or practices.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses project management roles in Agile contexts but does not focus on hypothesis formulation, experimentation, or validated learning.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses organizational roles and responsibilities, specifically the tension between Project Managers and Product Owners. It addresses the implications of these roles on decision-making and organizational agility. While it primarily focuses on the dysfunction arising from these roles, it also implies a need for structured decision-making about team organization to improve agility.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions between Project Managers and Product Owners within an agile context, without a clear or direct focus on Lean Principles such as waste reduction or value maximization.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content discusses the roles of Project Managers and Product Owners in Agile environments, focusing on organizational dysfunction rather than release management strategies and practices.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in relation to Project Managers, highlighting the complexities and dysfunctions that arise when both roles exist in an organization. It focuses on Product Owners' responsibilities and challenges in delivering value, making it a central topic.",
+    "level": "Secondary"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the dysfunction caused by having both Project Managers and Product Owners in a team structure, focusing on accountability and management rather than the measurement or implications of Cycle Time.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, with no direct reference to Azure Pipelines or its principles.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners, without focusing on deployment frequency or its optimization.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the dysfunction arising from the coexistence of Project Managers and Product Owners, which implies a need for organisational change to achieve agility. While the primary focus is on roles in Agile environments, it also touches on the necessity of reorganising teams to facilitate a more effective and agile structure, indicating a change management aspect.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the dysfunction in teams caused by the presence of both Project Managers and Product Owners, emphasizing the need for effective team structure and collaboration to achieve agility.",
+    "level": "Secondary"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles of Project Managers and Product Owners in agile environments, which is not directly related to Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses issues related to organizational structure impacting agility and roles within teams, which can relate to broader themes of digital transformation but focuses more on Agile methodologies and project management rather than direct digital transformation strategies.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses the roles and responsibilities of Project Managers and Product Owners in an organization, without addressing the concept of Minimum Viable Products or related themes.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the dysfunction of Agile team roles, specifically Project Managers and Product Owners, without any reference to AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and conflicts between Project Managers and Product Owners within an organization, relating to agile methodologies and team dynamics, and does not focus on system configuration processes or practices.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 20,
+    "non_ai_confidence": 10,
+    "final_score": 19.0,
+    "reasoning": "Content primarily discusses the dysfunction of team roles and the complexities between Project Managers and Product Owners, deviating from core principles of product strategy.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the dysfunctions caused by having both Project Managers and Product Owners in agile teams, touching on team dynamics and accountability which are relevant to technical leadership; however, the main focus is on organizational structure rather than direct leadership practices.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the roles of Project Managers and Product Owners, focusing on team dynamics and dysfunction in Agile contexts, but does not specifically address estimation techniques, practices, or empirical data.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the roles of Project Managers and Product Owners in relation to team dynamics and agility, which relates to cross-functional teams, but it primarily focuses on the dysfunction and organizational structure rather than a comprehensive exploration of cross-functional teams themselves.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams with Project Managers and Product Owners, without any focus on Test First Development or its principles.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organizational roles and agile project management, with no clear focus on Windows operating system topics.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses team dynamics and roles of Project Managers and Product Owners, which is irrelevant to deployment strategies.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the dysfunction created by having both Project Managers and Product Owners in an organization, implying the need for organizational changes to improve agility across multiple teams, which relates to themes of large-scale Agile transformations and cross-team collaboration.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the dynamics between Project Managers and Product Owners and hints at dysfunctions that can affect team motivation and agility. While it relates to broader team dynamics, it primarily focuses on organizational structure rather than explicit team motivation strategies.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses issues related to Project Managers and Product Owners in Agile teams, but does not specifically address remote working practices, challenges, or solutions.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses project management roles and their impact on team dysfunction, rather than focusing on continuous learning principles or practices.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on the dysfunction of teams with Project Managers and Product Owners, discussing organizational structure and roles without addressing specific technical issues or methodologies for troubleshooting.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the roles and dysfunctions of Project Managers and Product Owners without focusing on experimentation or hypothesis-driven approaches.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the roles of Project Managers and Product Owners, and the dysfunction caused by having both, without focusing on the specific responsibilities or practices associated with the Scrum Master role.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on the dysfunction caused by the overlap of Project Managers and Product Owners, discussing team dynamics rather than the theme of transparency within Agile processes.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses the dysfunction of having both Project Managers and Product Owners, focusing on organizational structure rather than working agreements or team norms.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the dysfunctionality of roles within Agile teams, particularly the interaction between Project Managers and Product Owners, which is a significant theme in Agile software development. However, it does not focus primarily on software developers or their best practices in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunctions caused by the roles of Project Managers and Product Owners in Agile environments, without focusing on coaching practices, techniques, or the supportive nature of coaching.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in agile teams, rather than engineering practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses roles and dysfunction in project and product management, rather than technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the dysfunction of teams due to the presence of both Project Managers and Product Owners, rather than focusing on the Sprint Review process, goals, or best practices.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the roles and dynamics between Project Managers and Product Owners, emphasizing the impact on product development, accountability, and organizational structure, all of which are central to product management discussions.",
+    "level": "Secondary"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the dysfunction of teams with both Project Managers and Product Owners and emphasizes the need for a single master for the team, which relates to self-organisation. However, the primary focus is on traditional management structures and their impact on agility rather than on self-organisation practices themselves.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the roles of Project Managers and Product Owners in the context of Agile practices, focusing on the dysfunctions that arise when both are present in teams. It emphasizes the importance of having a single master in Agile teams, which relates to Agile principles, making it a significant theme.",
+    "level": "Secondary"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the dysfunctions arising from the overlapping roles of Project Managers and Product Owners within Agile teams, emphasizing the challenges to achieving Agile principles and the need for organizational restructuring to foster greater agility.",
+    "level": "Secondary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the roles of Project Managers and Product Owners in agile teams, with no mention of Azure Repos or its functionalities.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the dysfunction between Project Managers and Product Owners, lacking any focus on forecasting methodologies, techniques, or practices within Agile or Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions of Project Managers and Product Owners in an Agile context, rather than focusing on Lean Product Development principles.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the dysfunction of teams with Project Managers and Product Owners rather than analyzing trends within Agile methodologies or DevOps practices. It focuses on organizational structure and roles rather than identifying or exploring patterns related to trend analysis.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the roles of Project Managers and Product Owners in relation to accountability within team dynamics, highlighting issues with responsibility for value delivery and the challenges of conflicting roles, making accountability a significant theme.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content discusses organizational dysfunctions with Project Managers and Product Owners in an agile context, but it does not primarily focus on Kanban principles, scaling techniques, or the application of Kanban across multiple teams. It addresses agile principles broadly without concrete references to Kanban practices.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the roles and dysfunctions between Project Managers and Product Owners, focusing more on organizational structure than on the measurement and optimisation of throughput.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-15T11:12:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the roles and responsibilities of Project Managers and Product Owners in an agile context, with no mention of Test Driven Development or its principles.",
+    "level": "Ignored"
   }
 }

@@ -2,7 +2,7 @@
 . ./.powershell/_includes/OpenAI.ps1
 
 $batchesInProgress = $null;
-$batchesInProgressMax = 10;
+$batchesInProgressMax = 15;
 function Get-CatalogHashtable {
     param (
         [string]$FolderPath = "site\content",

@@ -1,1058 +1,362 @@
 {
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses Evidence-based Management (EBM) and its application in Agile environments, particularly referencing the Agility Index from Scrum.org, which is central to Agile frameworks.",
-    "level": "Secondary"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and evidence-based management in the context of Agile and Scrum, but it primarily focuses on metrics rather than the core Scrum values themselves.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses metrics and KPIs in the context of software delivery, specifically mentioning Team Foundation Server (TFS) and its reporting capabilities, which are closely related to Azure Boards. However, the primary focus is on evidence-based management and metrics rather than Azure Boards itself.",
-    "level": "Secondary"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses the importance of metrics and KPIs in evaluating and improving organisational performance over time, emphasising the need to track trends in data to make informed decisions.",
-    "level": "Secondary"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses Evidence-based Management (EBM) and its application in evaluating and improving metrics for decision-making, which aligns closely with the theme of experimentation in organisational processes.",
-    "level": "Secondary"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and metrics that drive decision-making in product development, aligning closely with Lean principles.",
-    "level": "Secondary"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the importance of metrics and evidence-based management in software delivery, emphasising the need for accurate data to drive engineering decisions and improve quality.",
-    "level": "Secondary"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software delivery, with no clear focus on value stream mapping.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Evidence-based Management and metrics for decision-making, which are relevant to self-organisation, but the primary focus is on metrics and reporting rather than self-organisation itself.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs related to Agile practices, particularly in the context of Evidence-based Management, which is central to Agile planning and decision-making.",
-    "level": "Secondary"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on the importance of metrics and KPIs in making informed decisions within organisations, particularly in the context of Evidence-based Management.",
-    "level": "Secondary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content discusses metrics and evidence-based management in the context of software delivery, including how these concepts can be applied across multiple teams, which aligns with scaling Kanban practices.",
-    "level": "Secondary"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 65,
-    "non_ai_confidence": 20,
-    "final_score": 52.0,
-    "reasoning": "The content discusses metrics related to quality and testing, including automated build metrics and test coverage, indicating a significant focus on test automation as part of a broader discussion on evidence-based management.",
-    "level": "Secondary"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and its application in measuring and improving Agile processes, which is central to Agile Transformation.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses Evidence-based Management (EBM) and its application in Agile environments, including references to metrics and KPIs relevant to Scaled Agile frameworks.",
-    "level": "Secondary"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Cycle Time as one of the key metrics at the team level, indicating its importance in the context of evidence-based management and decision-making.",
-    "level": "Secondary"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management rather than working agreements.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Evidence-based Management and its application in software delivery, which aligns with the principles of BetaCodex, but it primarily focuses on metrics and KPIs rather than the BetaCodex framework itself.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs relevant to team performance, discussing specific team-level metrics and their implications for decision-making.",
-    "level": "Secondary"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-15T11:07:15",
     "ai_confidence": 80,
     "non_ai_confidence": 30,
-    "final_score": 65.0,
-    "reasoning": "Content primarily discusses Evidence-based Management and its application in Agile environments, focusing on metrics that align with Agile principles.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Evidence-based Management (EBM) and its application in measuring and improving product delivery metrics, which aligns closely with Agile Product Management principles.",
     "level": "Secondary"
   },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-15T11:07:18",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses metrics and KPIs for quality in Agile and DevOps contexts, focusing on Evidence-based Management and its application in software delivery, which aligns with practical techniques and tooling.",
+    "level": "Secondary"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-15T11:07:19",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and KPIs related to quality and evidence-based management in software delivery, with no clear focus on revenue per employee.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the importance of metrics and KPIs in decision-making processes within organisations, emphasising the need for evidence-based management to align metrics with strategic goals.",
-    "level": "Secondary"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and its application to organisational metrics, focusing on how metrics influence decision-making at both team and organisational levels.",
-    "level": "Secondary"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on the importance of metrics and evidence-based management in decision-making at both team and organisational levels, highlighting the role of leadership in interpreting and acting on these metrics.",
-    "level": "Secondary"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and its application in measuring and improving organisational metrics, which aligns closely with Lean principles of continuous improvement and value delivery.",
-    "level": "Secondary"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses metrics and reporting related to Team Foundation Server (TFS), which is closely associated with Azure DevOps and its pipeline functionalities, but the primary focus is on evidence-based management and metrics rather than Azure Pipelines specifically.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses metrics and KPIs relevant to team performance, including references to Scrum practices and the Agility Index, indicating a significant focus on team dynamics and effectiveness.",
-    "level": "Secondary"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on metrics, KPIs, and evidence-based management in software delivery, with no clear emphasis on employee engagement.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses Evidence-based Management and its application in measuring and improving processes, which aligns closely with the principles of Empirical Process Control.",
-    "level": "Secondary"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on metrics, KPIs, and evidence-based management rather than discussing frequent releases as a central theme.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on metrics and evidence-based management rather than troubleshooting specific issues or problems.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and KPIs relevant to software delivery, including backlog metrics, but primarily focuses on evidence-based management and decision-making rather than backlog refinement specifically.",
+    "reasoning": "Content primarily discusses metrics and evidence-based management in software development, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "ai_confidence": 95,
+    "calculated_at": "2025-02-15T11:07:21",
+    "ai_confidence": 90,
     "non_ai_confidence": 30,
-    "final_score": 76.0,
-    "reasoning": "The content is primarily focused on Evidence Based Management, discussing its principles, metrics, and applications in detail throughout the text.",
-    "level": "Secondary"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software delivery, with no clear focus on remote working.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs related to Agile practices, particularly in the context of Evidence-based Management, which is essential for effective Agile planning.",
-    "level": "Secondary"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses metrics related to software quality, including automated build metrics and test coverage, which are significant aspects of automated testing. However, the primary focus is on evidence-based management and decision-making rather than solely on automated testing.",
-    "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content discusses metrics and KPIs relevant to scaling Scrum practices across teams and organisations, particularly through the lens of Evidence-based Management.",
-    "level": "Secondary"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the application of Evidence-based Management to improve decision-making through the use of relevant metrics and KPIs, demonstrating a clear emphasis on practical, data-driven approaches to enhance organisational performance.",
-    "level": "Secondary"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics, evidence-based management, and reporting in software development, with no clear focus on Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and its implications for organisational metrics and decision-making, highlighting the importance of accurate data for executive leadership and organisational improvement.",
-    "level": "Secondary"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses metrics and KPIs relevant to decision-making in software delivery, which is a significant aspect of a Product Owner's role, but it primarily focuses on evidence-based management rather than the Product Owner role itself.",
-    "level": "Ignored"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily focuses on the importance of metrics and KPIs in decision-making processes within organisations, which is central to product strategy. It discusses how evidence-based management can guide the selection of relevant metrics to improve product delivery and organisational outcomes.",
-    "level": "Secondary"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the importance of accurate metrics and evidence-based management in decision-making, highlighting the need for transparency in reporting and the dangers of misleading data.",
-    "level": "Secondary"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and its application in organisational metrics, which is central to effective change management practices.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs relevant to software development and project management, discussing tools like Team Foundation Server and Evidence-based Management in the context of software delivery.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses metrics and KPIs related to software quality and delivery, focusing on Evidence-based Management in the context of software development.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software development rather than focusing on system configuration.",
-    "level": "Ignored"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to Lean Startup principles, but the primary focus is on reporting and KPI's rather than Lean Startup methodologies.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and evidence-based management in relation to organisational decision-making, indicating a significant focus on organisational practices and culture, but it is primarily centred on metrics rather than culture itself.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and its application in improving organisational metrics and decision-making, which are central themes in digital transformation.",
-    "level": "Secondary"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management rather than focusing on Sprint Reviews or their specific processes.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on metrics and evidence-based management in software delivery, with only peripheral references to organisational decision-making and leadership, which are relevant to entrepreneurship but not central.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 65,
-    "non_ai_confidence": 20,
-    "final_score": 52.0,
-    "reasoning": "The content discusses metrics and indicators related to software quality and build processes, which indirectly relate to technical debt, but the primary focus is on evidence-based management and reporting rather than technical debt itself.",
-    "level": "Secondary"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management rather than focusing on Daily Scrum practices or discussions.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses metrics related to software delivery and build quality indicators, which are relevant to Continuous Integration practices, but the primary focus is on Evidence-based Management and metrics for decision-making.",
-    "level": "Secondary"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software delivery, with no clear focus on customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs for organisational decision-making, emphasising Evidence-based Management and its application in large-scale agile environments.",
-    "level": "Secondary"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Evidence-based Management and metrics for decision-making, which are relevant to coaching in a professional context, but the primary focus is on metrics and reporting rather than coaching itself.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and reporting related to software development processes, including references to Team Foundation Server (TFS) and its role in tracking project metrics, which is relevant to modern source control practices.",
-    "level": "Ignored"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and the importance of using accurate metrics for decision-making, which aligns with the principles of continuous learning and improvement in organisational practices.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses metrics and evidence-based management in the context of software development, with a significant focus on Scrum practices and the Agility Index.",
-    "level": "Secondary"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and its application in measuring and improving Agile processes, which is central to Agile strategy.",
-    "level": "Secondary"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and KPIs related to quality and testing, which are relevant to Test Driven Development, but the primary focus is on evidence-based management and organisational metrics.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and its implications for leadership decisions in agile environments, discussing metrics and KPIs that are crucial for effective leadership.",
-    "level": "Secondary"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics, KPIs, and evidence-based management in software delivery, with no clear focus on market share.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to MVP development, but the primary focus is on metrics rather than MVP itself.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses metrics and KPIs related to software delivery, including Cycle Time and Innovation Rate, which are directly related to throughput in the context of Agile and Evidence-based Management.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs that support evidence-based management, which is essential for scaling agility in organisations.",
-    "level": "Secondary"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 95,
-    "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on metrics, KPIs, and evidence-based management in the context of software development, specifically discussing how to measure and improve software delivery processes.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management rather than deployment strategies.",
-    "level": "Ignored"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the importance of accurate metrics and KPIs in decision-making processes, highlighting the need for accountability in reporting and the consequences of misrepresentation of data.",
-    "level": "Secondary"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and KPIs that can impact team performance and decision-making, indicating a focus on team-level outcomes, but it primarily centres on evidence-based management rather than direct collaboration.",
-    "level": "Ignored"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and KPIs relevant to decision-making in organisations, which aligns with portfolio management principles, but it primarily focuses on evidence-based management and software delivery metrics.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software delivery, with no clear focus on the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses metrics and KPIs relevant to software delivery, including references to backlog and stories overview reports, indicating a secondary theme related to product backlog management.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the use of Evidence-based Management (EBM) to improve decision-making and metrics in software delivery, which directly relates to the ability to innovate through informed improvements and adaptations.",
-    "level": "Secondary"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses metrics and evidence-based management in the context of Agile practices, including references to Scrum and the Agility Index, making it a significant theme.",
-    "level": "Secondary"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to team performance and decision-making, but it does not primarily focus on cross-functional teams as a central theme.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software delivery, with no clear focus on team motivation.",
-    "level": "Ignored"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software delivery, with no clear focus on psychological safety.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and its application in improving metrics and decision-making processes, which aligns closely with Lean Thinking principles focused on value delivery and continuous improvement.",
-    "level": "Secondary"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics, KPIs, and evidence-based management in software delivery, with no clear focus on customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the importance of metrics and evidence-based management in making informed decisions, which aligns closely with the concept of sensemaking.",
-    "level": "Secondary"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses metrics related to lead time as part of the Agility Index and its importance in measuring value delivery, making it a primary topic.",
-    "level": "Secondary"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses metrics and KPIs related to quality and testing, which are relevant to Test First Development, but the primary focus is on evidence-based management and organisational metrics.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on metrics and evidence-based management in software delivery, with only brief mentions of collaboration tools like Team Foundation Server (TFS) and reporting, which are not central to the main topic.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses Evidence-based Management and its application to metrics and KPIs in software development, which are central to engineering practices.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses metrics and KPIs relevant to software delivery and quality, which are important aspects of Continuous Delivery, but it primarily focuses on Evidence-based Management and reporting rather than Continuous Delivery itself.",
-    "level": "Secondary"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses metrics and reporting in the context of software development, specifically mentioning Team Foundation Server (TFS), which is closely related to Azure Repos. However, the primary focus is on evidence-based management and metrics rather than Azure Repos itself.",
-    "level": "Secondary"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the importance of metrics and KPIs in decision-making processes, focusing on Evidence-based Management as a framework for improving operational practices within organisations.",
-    "level": "Secondary"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a Microsoft product related to Windows, but the primary focus is on metrics and evidence-based management rather than Windows itself.",
-    "level": "Ignored"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content heavily discusses Evidence Based Management (EBM) and its application in organisational decision-making, focusing on the importance of accurate metrics for leadership decisions.",
-    "level": "Secondary"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software delivery, with no clear focus on customer retention.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on metrics and evidence-based management in software delivery, with only peripheral references to site reliability engineering concepts.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Evidence-based Management and its application in software delivery, referencing the Agility Index from Scrum.org, which is central to Scrum practices.",
-    "level": "Secondary"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on metrics, KPIs, and evidence-based management in software delivery, with no clear emphasis on mentoring.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management rather than focusing on deployment frequency.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and metrics for software quality, demonstrating a deep understanding of technical concepts and their application in decision-making.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management rather than the specific criteria or standards that define when a task or project is considered complete.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software delivery, with no clear focus on Behaviour Driven Development.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily focuses on metrics and evidence-based management rather than product discovery, making the category not central to the overall discussion.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Evidence-based Management (EBM) and its application in measuring and improving software delivery processes, which aligns closely with the principles of Hypothesis Driven Development.",
-    "level": "Secondary"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software development, with no clear focus on asynchronous development.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and its application in measuring and improving organisational agility through metrics and KPIs.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and its implications for organisational decision-making, metrics, and process improvement, highlighting the importance of accurate data in guiding leadership decisions.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses metrics and KPIs related to Evidence-based Management, which is central to improving value delivery in organisations. It explores how to evaluate and implement metrics that align with organisational goals, making it a significant theme throughout.",
-    "level": "Secondary"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Evidence-based Management (EBM) and its application in measuring and improving organisational metrics, which aligns closely with Lean principles of continuous improvement and value delivery.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses a presentation given at ALM Days, focusing on metrics and KPIs, which aligns closely with the category of events and presentations.",
-    "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics, evidence-based management, and software delivery processes, with no clear focus on products or books.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and its application in decision-making processes, which aligns closely with the principles of Complexity Thinking, particularly in understanding and managing complex systems and metrics.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily focuses on Evidence-based Management and the importance of metrics in decision-making, which aligns closely with themes of discovery and learning in organisational contexts.",
-    "level": "Secondary"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the importance of metrics and KPIs in making informed decisions within organisations, particularly through the lens of Evidence-based Management, which is a key aspect of decision theory.",
-    "level": "Secondary"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs related to software delivery and management, which are central to Application Lifecycle Management.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management, focusing on metrics, KPIs, and their application in organisational decision-making and performance evaluation.",
+    "level": "Primary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "ai_confidence": 75,
+    "calculated_at": "2025-02-15T11:07:22",
+    "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses metrics and KPIs related to software development and quality, which are relevant to code and complexity, but the primary focus is on evidence-based management rather than code complexity itself.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software development, with no clear focus on news or reviews.",
+    "final_score": 47.0,
+    "reasoning": "The content discusses metrics and KPIs related to software quality and decision-making, which are relevant to code quality and complexity. However, the primary focus is on evidence-based management rather than a direct exploration of code complexity or software development practices.",
     "level": "Ignored"
   },
-  "Install and Configuration": {
-    "category": "Install and Configuration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses metrics, KPIs, and evidence-based management in software delivery, with no clear focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses Evidence-based Management and its implications for organisational decision-making, which aligns closely with sociotechnical systems by examining the interplay between social and technical aspects in software delivery.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-15T11:07:24",
     "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses metrics and KPIs related to software delivery efficiency, focusing on how to evaluate and improve flow through evidence-based management.",
-    "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on metrics and evidence-based management in software development, rather than discussing miscellaneous topics.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on the use of Evidence-based Management and specific metrics for quality in software delivery, discussing practical techniques and tools like Team Foundation Server for reporting and analysis.",
-    "level": "Secondary"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 92,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the importance of metrics and KPIs in delivering value through evidence-based management, discussing how to evaluate and improve organisational outcomes based on solid evidence.",
-    "level": "Secondary"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on Evidence-based Management and its application to organisational metrics, emphasising the importance of accurate metrics for decision-making and organisational improvement.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Evidence-based Management (EBM) and its application in evaluating metrics for decision-making, which aligns with the processes of learning and discovery in product development.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-15T11:07:26",
+    "ai_confidence": 0,
     "non_ai_confidence": 40,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Evidence-based Management and metrics in the context of Agile practices, which relates to automation and data-driven decision-making, but it is primarily focused on metrics and reporting rather than AI and automation specifically.",
+    "final_score": 4.0,
+    "reasoning": "Content primarily discusses metrics and evidence-based management in Agile practices without a clear focus on AI or automation technologies.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-15T11:07:28",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to Lean principles, particularly in the context of continuous improvement and value delivery. However, the primary focus is on metrics rather than Lean methodologies themselves.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-15T11:07:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses metrics and evidence-based management rather than installation or configuration of tools or software.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-15T11:07:31",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of accurate metrics and evidence-based management, which relates to accountability in decision-making. However, the primary focus is on metrics and reporting rather than a direct exploration of transparency and accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
+    "calculated_at": "2025-02-15T11:07:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to adapting to market needs, but the primary focus is on reporting and KPIs rather than direct market adaptability strategies.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses Evidence-based Management and metrics that can inform decision-making, which relates to market adaptability, but the primary focus is on metrics and reporting rather than directly on strategies for enhancing market responsiveness.",
     "level": "Ignored"
   },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-15T11:07:34",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in software development, with no clear focus on personal topics.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses metrics and evidence-based management in the context of organisational decision-making and software delivery, indicating a relationship between social and technical systems. However, the primary focus is on metrics rather than a deep exploration of sociotechnical interactions.",
     "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-15T11:07:36",
+    "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and its implications for organisational metrics, which are crucial for making informed decisions and implementing changes effectively.",
+    "final_score": 47.0,
+    "reasoning": "The content discusses Evidence-based Management and its implications for organisational metrics and decision-making, which are relevant to fostering adaptability and continuous improvement. However, the primary focus is on metrics and reporting rather than resilience strategies or change management practices.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-15T11:07:37",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses metrics and KPIs relevant to software delivery and process improvement, which are important in a DevOps context, but it primarily focuses on Evidence-based Management rather than DevOps principles or practices.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-15T11:07:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Evidence-Based Management and its application in Agile contexts, which directly references established Agile principles and practices.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-15T11:07:40",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses metrics and KPIs in the context of decision-making processes, particularly how evidence-based management can inform better decisions in uncertain environments. However, the primary focus is on metrics rather than a comprehensive exploration of decision theory principles.",
     "level": "Secondary"
   },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
-    "ai_confidence": 75,
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T11:07:44",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Evidence-based Management and its implications for organisational decision-making, which aligns with themes in organisational psychology, though it primarily focuses on metrics and reporting.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses a presentation given at ALM Days, focusing on metrics and KPIs in the context of Agile and software management, which aligns well with the category.",
+    "level": "Secondary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-15T11:07:46",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses metrics such as Cycle Time and the importance of accurate data for decision-making, which are relevant to flow efficiency, but the primary focus is on Evidence-based Management and reporting rather than directly on optimising work throughput.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-15T11:07:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Evidence-based Management (EBM) and its implications for team and organisational metrics, focusing on how these metrics influence decision-making and process improvement, which aligns with the interplay between human behaviour and structured methodologies.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-15T11:07:50",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses metrics and KPIs for measuring enterprise agility, particularly through the lens of Evidence-based Management, which aligns with the broader implications of agility on organisational performance and culture.",
+    "level": "Secondary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-15T11:07:52",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses Evidence-based Management (EBM) and its application in measuring and improving organisational metrics, which aligns with the principles of business agility. It explores how accurate metrics can support decision-making and enhance responsiveness to change, a key aspect of business agility.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "ai_confidence": 95,
+    "calculated_at": "2025-02-15T11:07:53",
+    "ai_confidence": 90,
     "non_ai_confidence": 30,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on metrics, KPIs, and evidence-based management, discussing their importance in decision-making and process improvement within organisations.",
+    "final_score": 84.0,
+    "reasoning": "The content primarily discusses the importance of metrics and evidence-based management in decision-making processes, focusing on the role of metrics in Agile and DevOps practices, techniques for collecting and analysing performance data, and the significance of feedback loops for continuous improvement.",
+    "level": "Primary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-15T11:07:55",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to Kanban principles, but the primary focus is on metrics and KPIs rather than Kanban methodology itself.",
     "level": "Secondary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "ai_confidence": 85,
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-15T11:07:56",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the importance of accurate metrics and evidence-based management in decision-making processes, highlighting the need for transparency in reporting and accountability in the use of data for organisational decisions.",
-    "level": "Secondary"
+    "final_score": 46.0,
+    "reasoning": "The content discusses metrics and evidence-based management in the context of software delivery, which relates to technical practices and methodologies. However, the primary focus is on metrics rather than engineering practices themselves, making it a secondary theme.",
+    "level": "Ignored"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs in the context of Agile practices, particularly Evidence-based Management, which is central to Agile Product Management.",
-    "level": "Secondary"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 85,
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-15T11:07:58",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Evidence-based Management and its application in organisational metrics, emphasising the interconnectedness of metrics, decision-making, and outcomes, which aligns closely with systems thinking principles.",
-    "level": "Secondary"
+    "final_score": 45.0,
+    "reasoning": "The content discusses Evidence-based Management and its implications for decision-making in organisations, which aligns with complexity thinking principles. However, the primary focus is on metrics and KPIs rather than a deep exploration of complexity science itself.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-15T11:07:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses metrics, KPIs, and evidence-based management in software delivery, lacking a focus on psychological principles or theories related to motivation, engagement, or team dynamics.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-15T11:08:00",
+    "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on metrics and KPIs related to software delivery and organisational performance, emphasising the importance of evidence-based management in improving product delivery outcomes.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses metrics and KPIs related to quality and decision-making in software delivery, aligning closely with the principles of product delivery, particularly in the context of Agile methodologies and evidence-based management.",
     "level": "Secondary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-15T11:08:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses metrics and evidence-based management in software delivery, without a clear focus on BetaCodex principles or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-15T11:08:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses metrics and KPIs related to organisational performance and decision-making, which aligns with Value Stream Management principles, but it primarily focuses on Evidence-based Management and its application in software delivery.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-15T11:08:05",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its application in software delivery, which relates to methodologies and frameworks relevant to Agile and DevOps. However, it primarily focuses on metrics and reporting rather than specific products or literature.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-15T11:08:07",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its application in measuring and maximising customer value, aligning product development with customer needs, and improving decision-making through effective metrics, which are central to value delivery practices.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-15T11:08:09",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses metrics and KPIs in the context of software delivery, specifically mentioning Team Foundation Server (TFS), which is part of Azure DevOps. However, the primary focus is on evidence-based management and general metrics rather than Azure DevOps functionalities.",
+    "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-15T11:08:11",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content includes personal anecdotes and reflections on experiences with Evidence-Based Management and metrics in Agile contexts, but it primarily focuses on technical discussions and analyses of metrics rather than personal insights.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-15T11:08:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Evidence-based Management and its implications for decision-making within organisations, touching on the interconnectedness of metrics and outcomes. However, it primarily focuses on metrics and KPIs rather than a comprehensive exploration of Systems Thinking principles.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-15T11:08:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Evidence-based Management and metrics in software development, without a clear focus on the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-15T11:08:17",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses metrics and KPIs relevant to Agile practices and value delivery, but it primarily focuses on Evidence-based Management rather than the Agile Product Operating Model itself.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-15T11:08:24",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the use of metrics and KPIs in the context of Evidence-based Management, which aligns with the principles of organisational agility by focusing on continuous improvement, adaptability, and the integration of metrics to enhance decision-making and responsiveness within an organisation.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-15T11:08:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Evidence-based Management and its implications for metrics in Agile and DevOps, which aligns with industry updates and insights, but it primarily focuses on personal experiences and methodologies rather than broader news or reviews.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-15T11:08:28",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses metrics and KPIs relevant to application lifecycle management, particularly in the context of quality and decision-making in software delivery. It aligns well with the key topics of measuring application performance and lifecycle effectiveness.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-15T11:08:29",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses Evidence-based Management and its application in software delivery, mentioning the Agility Index from Scrum.org, which relates to Scrum principles. However, the primary focus is on metrics and KPIs rather than Scrum itself.",
+    "level": "Ignored"
   }
 }

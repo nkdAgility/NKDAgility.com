@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-]-value-cannot-be-null--parameter-name--key
 - /resources/blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.

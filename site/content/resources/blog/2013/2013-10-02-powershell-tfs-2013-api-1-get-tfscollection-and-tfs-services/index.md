@@ -28,7 +28,9 @@ aliasesFor404:
 - /powershell-tfs-2013-api--1
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-powershell-logo-1-1.png
 
 ---

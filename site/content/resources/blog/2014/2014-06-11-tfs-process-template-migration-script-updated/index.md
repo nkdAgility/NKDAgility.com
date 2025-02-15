@@ -21,7 +21,15 @@ aliasesFor404:
 - /tfs-process-template-migration-script-updated
 - /blog/tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
-tags: []
+tags:
+- System Configuration
+- Operational Practices
+- Software Development
+- Technical Mastery
+- Pragmatic Thinking
+- Troubleshooting
+- Software Developers
+- Agile Frameworks
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -30,7 +30,10 @@ aliasesFor404:
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 tags: []
-categories: []
+categories:
+- Application Lifecycle Management
+- People and Process
+- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

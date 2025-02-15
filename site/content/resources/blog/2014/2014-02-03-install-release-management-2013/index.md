@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

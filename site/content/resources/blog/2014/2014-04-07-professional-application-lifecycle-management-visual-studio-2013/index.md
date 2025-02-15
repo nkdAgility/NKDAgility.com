@@ -25,8 +25,12 @@ aliasesFor404:
 - /professional-application-lifecycle-management-with-visual-studio-2013
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Products and Books
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

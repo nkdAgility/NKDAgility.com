@@ -25,8 +25,16 @@ aliasesFor404:
 - /installing-release-management-server-for-tfs-2013
 - /blog/installing-release-management-server-for-tfs-2013
 - /resources/blog/installing-release-management-server-tfs-2013
-tags: []
-categories: []
+tags:
+- Release Management
+- System Configuration
+- Technical Mastery
+- Software Development
+- Windows
+categories:
+- Install and Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 Unless you have been living under a rock you might have noticed that Microsoft has added a Release Management tool to its Visual Studio product line. I have been playing with it for a while now and I think I have it figured out. However as this is a new addition to the product it is extremely poorly documented.

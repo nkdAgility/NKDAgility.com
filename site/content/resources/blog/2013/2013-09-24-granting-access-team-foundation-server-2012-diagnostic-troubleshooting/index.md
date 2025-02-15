@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

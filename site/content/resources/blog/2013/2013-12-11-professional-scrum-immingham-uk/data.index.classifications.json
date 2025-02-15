@@ -1,1058 +1,362 @@
 {
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Professional Scrum course, Scrum practices, and the dynamics of Scrum teams.",
-    "level": "Secondary"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-15T11:23:20",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices and the importance of collaboration and self-organisation within teams, which are key Scrum values.",
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses Scrum training and the role of teams and stakeholders in the Agile framework, highlighting the importance of collaboration and understanding between Development Teams and Product Owners.",
     "level": "Secondary"
   },
-  "Azure Boards": {
-    "category": "Azure Boards",
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-15T11:23:23",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the implementation of Scrum training and the benefits of co-located teams, which are relevant to Agile practices. However, it primarily focuses on the experience of teaching rather than a detailed exploration of specific tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-15T11:23:24",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses a Professional Scrum training engagement and team dynamics, with no clear focus on Azure Boards.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a Scrum training engagement and team dynamics rather than analysing trends.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team dynamics and training in a Scrum context, highlighting the self-organisation of teams and their interactions, which are elements of experimentation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses Scrum training and team dynamics, which are relevant to Lean Product Development, but the primary focus is on the training event rather than Lean principles.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on the implementation of Scrum practices and the benefits of team collaboration, which are key aspects of engineering excellence.",
-    "level": "Secondary"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than Value Stream Mapping.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the concept of self-organisation within teams during a Scrum training session, highlighting how participants were instructed to form teams independently.",
-    "level": "Secondary"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices and the benefits of team collaboration in an Agile environment.",
-    "level": "Secondary"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team organisation and collaboration in a Scrum training context, which involves decision-making processes, but it is primarily focused on the training experience rather than decision making itself.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a Professional Scrum course and the dynamics of team interactions, with no clear focus on Scaling Kanban.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than test automation.",
-    "level": "Ignored"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the implementation of Scrum practices and training, highlighting the importance of team collaboration and self-organisation, which are central to Agile transformation.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses Scrum training and team dynamics within a scaled agile context, highlighting the importance of collaboration and self-organisation among teams.",
-    "level": "Secondary"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Scrum practices and team interactions, which indirectly relate to cycle time through the improvement of team performance and delivery of value, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses team dynamics and self-organisation in Scrum, which relates to working agreements, but it is primarily focused on the training experience and team interactions.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the implementation and training of Scrum practices within teams, which aligns closely with the principles of BetaCodex.",
-    "level": "Secondary"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses team dynamics, collaboration, and the benefits of co-located teams during Scrum training.",
-    "level": "Secondary"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum principles, team collaboration, and the value of co-located teams, which are central to Agile values.",
-    "level": "Secondary"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, with no clear focus on revenue or employee productivity metrics.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the implementation of Scrum training and team dynamics, which are related to strategic goals in terms of improving team performance and collaboration, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses team dynamics, self-organisation, and the benefits of co-located teams in a Scrum training context, which aligns closely with the principles of Organisational Physics.",
-    "level": "Secondary"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices and the dynamics of team interactions, highlighting the importance of leadership in guiding teams through training and collaboration.",
-    "level": "Secondary"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum practices and team dynamics, which are related to Lean principles, but the primary focus is on the training experience rather than Lean principles themselves.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, with no mention of Azure Pipelines.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses Scrum roles, team dynamics, and the benefits of co-located and distributed teams in a Scrum training context.",
-    "level": "Secondary"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses team dynamics, collaboration, and the benefits of co-located training, which are central to employee engagement.",
-    "level": "Secondary"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses Scrum training and the dynamics of teams working together, which aligns closely with the principles of empirical process control in Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a Scrum training engagement and team dynamics rather than frequent releases.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Professional Scrum course and team dynamics rather than troubleshooting specific issues.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team interactions and understanding of the backlog, but it primarily focuses on Scrum training and team dynamics.",
+    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Scrum training and team dynamics, which are relevant to Evidence Based Management, but the primary focus is on the training experience rather than management practices.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses distributed teams and the dynamics of co-located versus remote interactions, making remote working a significant theme, but not the primary focus.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses Scrum training and team dynamics, which are central to Agile planning methodologies.",
-    "level": "Secondary"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum training across multiple teams, highlighting the benefits of co-located and distributed teams in a Scrum context.",
-    "level": "Secondary"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles and practices in a professional training context, highlighting the importance of team collaboration and self-organisation.",
-    "level": "Secondary"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-15T11:23:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than Acceptance Test Driven Development.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics rather than evidence-based management principles.",
     "level": "Ignored"
   },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices within DFDS Seaways, highlighting team dynamics, self-organisation, and the impact of training on organisational structure and collaboration.",
-    "level": "Secondary"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the role of Product Owners in the context of Scrum training and their interactions with Development Teams, making it a significant theme.",
-    "level": "Secondary"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses team dynamics and training in Scrum, which relates to product strategy, but it is primarily focused on the training experience rather than a clear product strategy discussion.",
-    "level": "Ignored"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than focusing on transparency as a central theme.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum training and team dynamics, which are related to change management in the context of organisational development, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses Scrum training and team dynamics within software development, highlighting the roles of development teams and stakeholders.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices within software teams, highlighting their interactions and training experiences.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than system configuration.",
-    "level": "Ignored"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than Lean Startup principles.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses team dynamics, collaboration, and cultural differences in organisational settings, particularly in relation to Scrum training.",
-    "level": "Secondary"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum training and team collaboration, which are relevant to digital transformation, but the primary focus is on the training experience rather than a broader digital transformation strategy.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a Scrum training course and team dynamics rather than focusing on a Sprint Review.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team dynamics and training in a corporate setting, which relates to organisational development and management, a secondary theme of entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, with no clear focus on technical debt.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content mentions daily Scrums as part of the Scrum practices being discussed, but it is not the primary focus of the overall narrative.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than Continuous Integration practices.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content mentions the enjoyment of the course and the value gained from interactions, indicating customer satisfaction as a secondary theme.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the dynamics of multiple teams participating in Scrum training, highlighting the benefits of co-location and collaboration among distributed teams, which are key aspects of large scale agility.",
-    "level": "Secondary"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on teaching the Professional Scrum course, emphasising team dynamics, self-organisation, and the benefits of co-located training, which are central to coaching in a Scrum context.",
-    "level": "Secondary"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than source control practices.",
-    "level": "Ignored"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the Professional Scrum course and the learning experiences of teams, highlighting the importance of training and collaboration in continuous learning.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "Content heavily discusses Scrum training, team dynamics, and the benefits of co-located teams in a Scrum context.",
-    "level": "Secondary"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the implementation of Scrum practices and training, highlighting the importance of team collaboration and self-organisation within an Agile framework.",
-    "level": "Secondary"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-15T11:23:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices and the dynamics of team interactions, which are central to Agile Leadership.",
-    "level": "Secondary"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a Scrum training engagement with DFDS Seaways, focusing on team dynamics and training experiences rather than market share.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum training and team dynamics, which are relevant to MVP development, but the primary focus is on the training experience rather than MVP itself.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the benefits of co-located teams and their ability to deliver value quickly through Scrum practices, highlighting the importance of team interactions and training in improving throughput.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices and the benefits of co-located and self-organising teams, which are central to scaling agility.",
-    "level": "Secondary"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses Scrum training, team dynamics, and software development practices within a professional context.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than deployment strategies.",
-    "level": "Ignored"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team dynamics and the importance of collaboration in Scrum, which relates to accountability in terms of team members understanding their roles and responsibilities. However, it is not the primary focus of the content.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses team dynamics, self-organisation, and the benefits of co-located teams during Scrum training.",
-    "level": "Secondary"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than portfolio management.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses a Scrum training course and team dynamics, with no clear focus on the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the importance of understanding the backlog in the context of Scrum training, but it is not the primary focus of the overall narrative.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses team dynamics and the benefits of co-located training, which indirectly relates to innovation through improved collaboration and understanding among teams.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses Scrum training, team dynamics, and the role of Scrum in facilitating collaboration among teams.",
-    "level": "Secondary"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the interaction and collaboration of multiple teams during Scrum training, highlighting the benefits of cross-functional team dynamics.",
-    "level": "Secondary"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dynamics of team interactions and the benefits of co-located training, highlighting the importance of collaboration and camaraderie among team members.",
-    "level": "Secondary"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team dynamics and collaboration, which are related to psychological safety, but the primary focus is on Scrum training and team organisation.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Scrum practices and team dynamics, which are related to Lean Thinking principles, but the primary focus is on the training experience rather than Lean Thinking itself.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the dynamics of team interactions and learning during a Professional Scrum course, highlighting the importance of collaboration and understanding between technical teams and stakeholders.",
-    "level": "Secondary"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Professional Scrum course and team dynamics rather than focusing on lead time as a central theme.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than Test First Development.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dynamics of team collaboration during Scrum training, highlighting the importance of co-located teams and interactions among diverse participants.",
-    "level": "Secondary"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on Scrum training and practices, detailing team interactions and the benefits of co-located teams in an Agile environment.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Scrum training and team collaboration, which are relevant to Continuous Delivery, but the primary focus is on the training experience rather than the delivery process itself.",
-    "level": "Ignored"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, with no mention of Azure Repos or related topics.",
-    "level": "Ignored"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses Scrum training and team dynamics, highlighting operational practices in a professional setting.",
-    "level": "Secondary"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, with no clear focus on Windows or related topics.",
-    "level": "Ignored"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses team dynamics and the benefits of co-located training in Scrum, which relates to leadership practices, but it primarily focuses on the training experience rather than evidence-based leadership itself.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, with no clear focus on Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the Professional Scrum course, its implementation, and the interactions among teams during training.",
-    "level": "Secondary"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses the Professional Scrum course and the interactions between teams, highlighting the mentoring aspect of training and collaboration among participants.",
-    "level": "Secondary"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than deployment frequency.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum course and the practical application of Scrum principles, showcasing the technical aspects of team dynamics and training effectiveness.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses a Scrum training event and team dynamics, with no clear focus on the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Scrum training and team interactions, which are relevant to Behaviour Driven Development, but the primary focus is on Scrum practices rather than BDD itself.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses team interactions and the importance of understanding requirements, which are relevant to product discovery, but the primary focus is on Scrum training and team dynamics.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than focusing on hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses distributed teams and their interactions, which are relevant to asynchronous development, but the primary focus is on Scrum training and team dynamics.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on Scrum training and team dynamics, highlighting the importance of collaboration and self-organisation in agile practices.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses team dynamics, self-organisation, and the interactions between development teams and stakeholders during Scrum training.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Scrum training and team interactions, which are relevant to value delivery and management, but the primary focus is on the training experience rather than a comprehensive exploration of value stream management.",
-    "level": "Ignored"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses Scrum practices and team dynamics, which are central to Lean methodologies.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the Professional Scrum course conducted at DFDS Seaways, detailing the training event, team interactions, and the benefits of co-located training.",
-    "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses a Professional Scrum course, which is a product offered by Scrum.org, but the primary focus is on the training experience and team dynamics rather than the product itself.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team dynamics and interactions in a Scrum training context, highlighting aspects of self-organisation and collaboration, which are relevant to complexity thinking, but the primary focus is on the training experience rather than complexity thinking itself.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics, with no clear focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-15T11:23:27",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum course and the learning experiences of teams during the training, highlighting the value of collaboration and knowledge exchange.",
-    "level": "Secondary"
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Professional Scrum course and the interactions between teams, highlighting learning and collaboration aspects, but it primarily focuses on the training event rather than broader discovery and learning methodologies.",
+    "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-15T11:23:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics without any mention of AI or automation technologies.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-15T11:23:29",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics rather than decision theory.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, which are important aspects of Application Lifecycle Management, but it also includes personal experiences and cultural observations that make it a secondary theme.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Scrum training and team dynamics, which are related to code and complexity, but the primary focus is on the training experience and team interactions rather than technical coding aspects.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses a specific Scrum training event and the experiences of the author, making it a major theme, but it is primarily focused on personal experiences rather than a broader news or review context.",
+    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
+    "calculated_at": "2025-02-15T11:23:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the experience of teaching a Professional Scrum course and the dynamics of team interactions, rather than focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the dynamics of team interactions, collaboration, and the impact of organisational structures on Scrum practices, highlighting the sociotechnical aspects of team-based work.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the benefits of co-located teams and their ability to collaborate effectively, which directly relates to flow efficiency in Scrum practices.",
-    "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses various aspects of a Scrum training course, including team dynamics and cultural differences, but the primary focus is on the training itself rather than miscellaneous topics.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum training and techniques in a professional setting, focusing on team dynamics and practical applications of Scrum practices.",
-    "level": "Secondary"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the benefits of co-located teams and Scrum training, emphasising the value of collaboration and interaction in delivering value through Scrum practices.",
-    "level": "Secondary"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices and the benefits of co-located and self-organising teams, which are key aspects of organisational agility.",
-    "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, with no clear focus on AI or automation.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team dynamics and training in a Scrum context, which indirectly relates to adaptability in market conditions through collaboration and learning, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content includes personal reflections and experiences related to teaching a Scrum course, but the primary focus is on the professional aspects of Scrum training and team dynamics.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses team dynamics and the benefits of co-located training, which are related to resilience and change in team performance, but the primary focus is on Scrum training and team organisation.",
-    "level": "Ignored"
-  },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses team dynamics, self-organisation, and collaboration within a Scrum training context, highlighting aspects of organisational behaviour and psychology.",
-    "level": "Secondary"
-  },
-  "Metrics and Learning": {
-    "category": "Metrics and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the training and learning experiences of teams in a Scrum context, highlighting improvements in understanding and practices, but it is primarily focused on the training event rather than metrics or learning as a central theme.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics rather than installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "ai_confidence": 0,
+    "calculated_at": "2025-02-15T11:23:32",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses Scrum training and team dynamics, with no clear focus on transparency and accountability.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses team dynamics and interactions during Scrum training, highlighting the importance of collaboration and communication among team members and stakeholders, which aligns with the themes of transparency and accountability.",
     "level": "Ignored"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on Scrum training and team dynamics, highlighting the importance of collaboration between Development Teams and Product Owners, which is central to Agile Product Management.",
-    "level": "Secondary"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-15T11:23:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team dynamics and collaboration in a Scrum training context, highlighting the importance of self-organisation and interaction among teams, which are elements of systems thinking, but the primary focus is on Scrum training rather than systems thinking itself.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses Scrum training and team dynamics, which are related to Agile methodologies, but it primarily focuses on the training experience rather than strategies for market adaptability.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-15T11:23:35",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the interaction between team dynamics, organisational culture, and the implementation of Scrum practices, highlighting the importance of collaboration and communication in a sociotechnical context.",
+    "level": "Secondary"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-15T11:23:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics without a clear focus on organisational resilience or change management.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-15T11:23:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-15T11:23:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-15T11:23:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics, with no clear focus on decision-making processes or decision theory principles.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T11:23:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses a Professional Scrum training event conducted for teams at DFDS Seaways, detailing the interactions, learning experiences, and outcomes of the training, which aligns well with the category.",
+    "level": "Secondary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-15T11:23:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses team interactions and the benefits of co-located teams, which relates to flow efficiency, but it primarily focuses on Scrum training and team dynamics rather than optimising throughput directly.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-15T11:23:43",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses team dynamics, collaboration, and the importance of co-located training in Scrum, highlighting human interactions and processes within the context of Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-15T11:23:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses team-based Scrum training and collaboration among teams, which relates to fostering a culture of agility. However, it primarily focuses on team-level practices rather than broader organisational agility.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-15T11:23:46",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Scrum training and team dynamics, which are related to business agility principles, but the primary focus is on the training event rather than a comprehensive exploration of business agility.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-15T11:23:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics without a focus on metrics, data analysis, or evidence-based decision-making.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-15T11:23:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-15T11:23:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics rather than specific engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-15T11:23:51",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses self-organisation and team dynamics within a Scrum training context, which relates to complexity thinking, but the primary focus is on Scrum practices rather than a deep exploration of complexity science.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-15T11:23:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses team dynamics, self-organisation, and the interaction between development teams and stakeholders, which are relevant to organisational psychology. However, the primary focus is on Scrum training and practices, making it a secondary theme.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-15T11:23:53",
+    "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the implementation of Scrum practices and the delivery of value through team collaboration and training, which are central to product delivery.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the implementation of Scrum methodologies in a professional training context, highlighting the importance of team collaboration, stakeholder engagement, and iterative learning, which are central to effective product delivery.",
+    "level": "Secondary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-15T11:23:55",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses team dynamics, self-organisation, and collaboration in a Scrum training context, which aligns with some principles of BetaCodex, but it primarily focuses on Scrum practices rather than a comprehensive exploration of BetaCodex principles.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-15T11:23:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum training and team dynamics, without a clear focus on Value Stream Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-15T11:23:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses a Professional Scrum course, which is a product related to Agile methodologies, but the primary focus is on the training experience rather than a review or analysis of the course itself.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-15T11:23:58",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the Professional Scrum course and its impact on team collaboration, understanding of Scrum practices, and the delivery of value through improved interactions between development teams and stakeholders.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-15T11:24:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-15T11:24:01",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the author's personal experiences and reflections while teaching a Professional Scrum course, including insights on team dynamics and cultural differences.",
+    "level": "Secondary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-15T11:24:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics without a clear focus on Systems Thinking principles or methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-15T11:24:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum training and team dynamics rather than the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-15T11:24:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Scrum training and team dynamics, which are relevant to Agile practices, but it primarily focuses on the training experience rather than a comprehensive discussion of the Agile Product Operating Model.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-15T11:24:05",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the implementation of Scrum practices and the benefits of co-located and cross-functional teams, which are central to enhancing organisational agility.",
+    "level": "Secondary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-15T11:24:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses a Professional Scrum course conducted for DFDS Seaways, providing insights into the training experience and team dynamics, which aligns with industry practices. However, it primarily focuses on a personal experience rather than broader industry news or reviews.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-15T11:24:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum training and team dynamics rather than the management of the application lifecycle.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-15T11:24:12",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "Content primarily discusses the Professional Scrum course, Scrum practices, team dynamics, and the benefits of co-located training, making Scrum a central theme.",
     "level": "Secondary"
   }
 }

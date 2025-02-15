@@ -68,6 +68,12 @@ function Call-OpenAI {
                 Start-Sleep -Seconds $retryDelay
                 $retryDelay *= 2
             }
+            elseif ($errorMessage -match "HttpClient.Timeout") {
+                # Handle server errors
+                Write-WarningLog "Server took too long to respond. Retrying in $retryDelay seconds..."
+                Start-Sleep -Seconds $retryDelay
+                $retryDelay *= 8
+            }
             else {
                 # Non-retryable errors
                 Write-Error "API call failed: $errorMessage"

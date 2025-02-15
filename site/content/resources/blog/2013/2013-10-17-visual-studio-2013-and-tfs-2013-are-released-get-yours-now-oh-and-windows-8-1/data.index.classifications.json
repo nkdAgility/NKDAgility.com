@@ -1,1058 +1,362 @@
 {
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and mentions upgrading to Visual Studio Scrum 3.0 process template, indicating a connection to Agile practices, but the primary focus is on software releases and features rather than Agile frameworks themselves.",
-    "level": "Ignored"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Scrum values.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) 2013 extensively, which is related to Azure Boards, but the primary focus is on Visual Studio 2013 and its features.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and technical details, without focusing on trend analysis.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation experiences, without a clear emphasis on experimentation.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, installation, and upgrade processes, without a clear emphasis on Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the release of Visual Studio 2013 and Team Foundation Server 2013, highlighting their capabilities and improvements, which aligns with engineering excellence in software development tools.",
-    "level": "Secondary"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and updates related to these products. Value Stream Mapping is not a central theme.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation rather than self-organisation.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content includes references to Team Foundation Server and tools related to Agile planning, but the primary focus is on the release of Visual Studio 2013 and Windows 8.1.",
-    "level": "Ignored"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the upgrade process and recommendations for Visual Studio and TFS, indicating decision-making aspects for users considering upgrades, but it is primarily focused on product releases and features.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Scaling Kanban.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and upgrades, without any clear emphasis on test automation.",
-    "level": "Ignored"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation rather than Agile Transformation.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its integration with Agile practices, particularly mentioning the upgrade to the Visual Studio Scrum 3.0 process template, indicating a significant but secondary theme related to Scaled Agile.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and updates related to these products. Cycle time is not a central theme.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and technical details, without any mention of working agreements.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on BetaCodex principles or practices.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its features, which are relevant to team performance in software development, but the primary focus is on the release and capabilities of Visual Studio and TFS rather than team performance itself.",
-    "level": "Ignored"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-15T11:33:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Agile values or principles.",
-    "level": "Ignored"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no mention or relevance to the topic of revenue per employee.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and technical details, without a clear focus on strategic goals.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and features rather than organisational physics.",
-    "level": "Ignored"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and personal experiences with the software, rather than on technical leadership.",
-    "level": "Ignored"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Lean Principles.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Azure Pipelines.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 45,
-    "non_ai_confidence": 20,
-    "final_score": 38.0,
-    "reasoning": "The content mentions Team Foundation Server and Scrum process templates, but the primary focus is on Visual Studio and its features, making Scrum Team a secondary theme.",
-    "level": "Ignored"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and updates rather than employee engagement.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation rather than empirical process control.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, detailing their availability and encouraging upgrades, which aligns closely with the theme of frequent releases.",
-    "level": "Secondary"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content includes mentions of issues encountered during installations and upgrades, but the primary focus is on the release and features of Visual Studio 2013 and TFS 2013.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content mentions managing portfolio backlogs in relation to Visual Studio and TFS, indicating a secondary theme related to backlog refinement.",
-    "level": "Ignored"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, upgrades, and personal experiences with the software, rather than on evidence-based management principles.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and updates, with no significant mention of remote working.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its features, which include agile planning tools, but the primary focus is on the release and capabilities of Visual Studio 2013 and TFS 2013 rather than on agile planning specifically.",
-    "level": "Ignored"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and upgrades, without any significant mention of automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Scaling Scrum or related practices.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses practical aspects of using Visual Studio and TFS, including installation, upgrades, and customer experiences, but it is primarily focused on product announcements and features.",
-    "level": "Ignored"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with their features and installation experiences, without any mention of Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation processes, with no clear emphasis on organisational change.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and installation rather than the role or responsibilities of a Product Owner.",
-    "level": "Ignored"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on product strategy.",
-    "level": "Ignored"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and technical details, without a clear focus on transparency.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses upgrades and installations of Visual Studio and Team Foundation Server, which are related to change management in a software context, but the primary focus is on the product features and availability.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are essential tools for software developers.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are tools for software development, making it central to the topic of working software.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content discusses installation and configuration of Visual Studio 2013 and Team Foundation Server 2013, making system configuration a primary topic.",
-    "level": "Secondary"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and updates rather than Lean Startup principles.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and features rather than organisational culture.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on the release of Visual Studio 2013 and Team Foundation Server 2013, with detailed descriptions of features and upgrades, rather than discussing digital transformation as a central theme.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no mention of Sprint Reviews or related Scrum events.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and updates rather than entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with their features and upgrade processes, without a focus on technical debt.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no mention of Daily Scrum practices or events.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its integration with Visual Studio, which are relevant to Continuous Integration, but the primary focus is on the release and features of Visual Studio and TFS rather than CI practices.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and technical details, without a clear focus on customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its integration with Visual Studio, which are relevant to large scale agility practices, but the primary focus is on the release and features of the software rather than on large scale agility itself.",
-    "level": "Ignored"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and updates rather than coaching or mentoring themes.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are key tools in modern source control and application lifecycle management.",
-    "level": "Secondary"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with installation and upgrade information, rather than focusing on continuous learning.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its integration with Visual Studio, which are relevant to Scrum practices, but the primary focus is on software releases and features rather than Scrum methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its features, which are relevant to Agile methodologies, but the primary focus is on the release and capabilities of Visual Studio and TFS rather than a comprehensive Agile strategy.",
-    "level": "Ignored"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with their features and updates, without any mention of Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and installation rather than Agile leadership principles.",
-    "level": "Ignored"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, installation, and user experiences, with no mention of market share.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on MVP as a primary topic.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, installation, and upgrade processes, without a clear emphasis on throughput.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its features, which are relevant to scaling agility in software development, but the primary focus is on the release and capabilities of Visual Studio 2013 and TFS 2013 rather than on scaling agility itself.",
-    "level": "Ignored"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 95,
-    "non_ai_confidence": 0,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are central to software development practices.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses upgrades and installations of Visual Studio and Team Foundation Server, which are related to deployment strategies, but the primary focus is on the release and features of the software rather than deployment strategies themselves.",
-    "level": "Ignored"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and personal experiences with the software, without a clear emphasis on accountability.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its features, which are relevant to team collaboration in software development, but the primary focus is on the release and capabilities of Visual Studio 2013.",
-    "level": "Ignored"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content includes references to managing portfolio backlogs within Team Foundation Server, indicating that portfolio management is a significant theme, but it is not the primary focus of the overall content.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content mentions managing portfolio backlogs and includes links to related posts, indicating a secondary theme related to product backlog management within the context of Visual Studio and TFS 2013.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and installation rather than innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no significant focus on Scrum Master roles or responsibilities.",
-    "level": "Ignored"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation rather than cross-functional teams.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and features rather than team motivation.",
-    "level": "Ignored"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with related technical details and personal experiences, with no mention of psychological safety.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and personal experiences with the software, with no clear connection to Lean Thinking principles.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and technical details, without focusing on customer feedback or feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the release of Visual Studio 2013 and TFS 2013, along with installation and upgrade information, rather than on sensemaking or understanding complex information.",
-    "level": "Ignored"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with related updates and features, without a clear focus on lead time as a central topic.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no mention of Test First Development as a central theme.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses Visual Studio 2013 and Team Foundation Server 2013, which are tools that facilitate collaboration in software development and project management.",
-    "level": "Secondary"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses Visual Studio and Team Foundation Server, which are tools related to software engineering practices, but the primary focus is on the release announcement rather than detailed engineering methodologies.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are tools that support continuous delivery practices, but the primary focus is on the product release rather than continuous delivery itself.",
-    "level": "Ignored"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) 2013, which is closely related to Azure Repos, focusing on its features, upgrades, and integration with Visual Studio. While it mentions Visual Studio and Windows 8.1, the central theme revolves around TFS and its capabilities, making Azure Repos a significant aspect of the discussion.",
-    "level": "Secondary"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the installation and configuration of Visual Studio and Team Foundation Server, which are relevant to operational practices, but the primary focus is on the release and features of the software.",
-    "level": "Ignored"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses the release of Windows 8.1 alongside Visual Studio 2013, indicating a strong focus on Windows as a central topic.",
-    "level": "Secondary"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and personal experiences with the software, rather than any themes related to evidence-based leadership.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with installation and upgrade experiences, without a clear focus on customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content mentions upgrading to the Visual Studio Scrum 3.0 process template in TFS 2013, indicating a connection to Scrum practices, but the primary focus is on Visual Studio and TFS releases.",
-    "level": "Ignored"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and technical details, without a focus on mentoring.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with related features and upgrades, rather than focusing on deployment frequency.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the features and capabilities of Visual Studio 2013 and Team Foundation Server 2013, showcasing the author's extensive experience and knowledge in using these tools effectively.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and related resources, without any mention of the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation rather than Behaviour Driven Development.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, installation, and upgrade processes rather than product discovery.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with personal experiences and technical details related to these products, without any mention of hypothesis driven development.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and installation rather than asynchronous development.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the release of Visual Studio 2013 and Team Foundation Server 2013, with only brief mentions of Agile practices and tools, making Enterprise Agility a minor theme.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 45,
-    "non_ai_confidence": 20,
-    "final_score": 38.0,
-    "reasoning": "The content primarily focuses on the release of Visual Studio 2013 and TFS 2013, with only brief mentions of processes related to upgrades and installations, which are not central to the overall topic.",
-    "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with only brief mentions of features related to value stream management, making it not central to the overall topic.",
-    "level": "Ignored"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Lean principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content mentions a launch event for Visual Studio 2013 and TFS 2013, but the primary focus is on the software features and updates rather than the event itself.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, making it a central topic related to software products.",
-    "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with related updates and features. Complexity Thinking is not a central theme.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily focuses on the release and features of Visual Studio 2013 and TFS 2013, with only brief mentions of learning resources and experiences, making discovery and learning a minor theme.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation experiences, with no clear connection to decision theory.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are key tools in Application Lifecycle Management.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses Visual Studio 2013 and Team Foundation Server 2013, which are tools related to code development and project management, but the primary focus is on the release and features rather than an in-depth exploration of code complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and TFS 2013, detailing features and updates, which aligns closely with news about software releases.",
-    "level": "Secondary"
-  },
-  "Install and Configuration": {
-    "category": "Install and Configuration",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and TFS 2013, with a significant focus on installation and configuration aspects, including links to relevant posts on installation and configuration issues.",
-    "level": "Secondary"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical features and updates rather than sociotechnical systems.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation rather than flow efficiency.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no significant discussion on miscellaneous topics.",
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical features and installation rather than Agile product management principles or practices.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-15T11:33:55",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, including practical tools and techniques related to their use, making it a central theme.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, including practical applications, tools, and techniques related to Agile and DevOps practices.",
     "level": "Secondary"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the release of Visual Studio 2013 and Team Foundation Server 2013, highlighting their features and benefits, which relates to value delivery in software development. However, the primary focus is on the release announcement rather than a detailed exploration of value delivery principles.",
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-15T11:33:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and upgrades, rather than on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-15T11:33:58",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation rather than organisational agility.",
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no focus on Evidence-Based Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-15T11:33:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features and installation rather than the interplay between code quality and complexity.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-15T11:34:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no focus on discovery or learning processes.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-15T11:34:02",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and installation rather than AI and automation in agility.",
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no mention of AI or automation in Agile practices.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-15T11:34:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no mention of Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-15T11:34:05",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, along with specific installation and configuration topics, making it a major theme.",
+    "level": "Secondary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-15T11:34:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, upgrades, and personal experiences, without addressing transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
+    "calculated_at": "2025-02-15T11:34:08",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation experiences, without addressing market adaptability as a central theme.",
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and TFS 2013, with no clear focus on market adaptability strategies or practices.",
     "level": "Ignored"
   },
-  "Personal": {
-    "category": "Personal",
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-15T11:34:09",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and updates rather than personal experiences or themes.",
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
+    "calculated_at": "2025-02-15T11:34:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation processes, with no clear emphasis on resilience or change.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-15T11:34:12",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and updates rather than any themes related to organisational psychology.",
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features and installation rather than DevOps principles or practices.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-15T11:34:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are specific tools and technologies, rather than general discussions on Agile methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-15T11:34:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and updates rather than decision-making processes or theories.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T11:34:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with only a brief mention of a launch event. It does not focus on discussions, insights, or experiences related to Agile, DevOps, or software engineering events or presentations.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-15T11:34:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no focus on flow efficiency principles or optimisation of work throughput.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-15T11:34:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no significant focus on human behaviour or structured methodologies in technology and product development.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-15T11:34:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on enterprise agility or its broader implications.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-15T11:34:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, installation, and upgrade processes, without addressing business agility principles or practices.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
+    "calculated_at": "2025-02-15T11:34:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, along with installation and upgrade experiences, rather than focusing on metrics or learning.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and personal experiences with the software, without addressing transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with only brief mentions of Agile concepts related to TFS, making Agile Product Management a minor theme.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-15T11:34:27",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, updates, and installation processes, without a clear emphasis on systems thinking.",
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-15T11:34:29",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Visual Studio 2013 and Team Foundation Server 2013, which are tools relevant to software development practices. However, the primary focus is on the release and features of these tools rather than on engineering practices or methodologies that enhance agility in software development.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-15T11:34:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-15T11:34:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses software releases and technical features of Visual Studio and TFS, with no focus on psychological principles or organisational behaviour.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-15T11:34:33",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the release and availability of Visual Studio 2013 and Team Foundation Server 2013, focusing on product delivery aspects such as upgrades, licensing, and customer installations.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the release of Visual Studio 2013 and Team Foundation Server 2013, which are tools that can facilitate product delivery. However, the primary focus is on the features and availability of these products rather than the methodologies and practices of delivering software products.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-15T11:34:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on BetaCodex principles or related topics.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-15T11:34:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Value Stream Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-15T11:34:37",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, which are software products relevant to Agile and DevOps practices.",
     "level": "Secondary"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-15T11:34:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on technical details and personal experiences rather than value delivery strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-15T11:34:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses Visual Studio 2013 and Team Foundation Server 2013, which are part of the Azure DevOps suite, but it does not focus specifically on Azure DevOps functionalities or practices.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-15T11:34:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and TFS 2013, with no significant personal reflections or experiences related to Agile, Scrum, or DevOps.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-15T11:34:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no focus on Systems Thinking principles or applications.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-15T11:34:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features, installation, and personal experiences rather than the principles or implementation of the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-15T11:34:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the release and features of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on the Agile Product Operating Model or its principles.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-15T11:34:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on features and installation rather than organisational agility or related practices.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-15T11:34:51",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, providing updates and insights relevant to the technology industry, which aligns well with the category of News and Reviews.",
+    "level": "Secondary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-15T11:34:52",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses Visual Studio and Team Foundation Server as tools for Application Lifecycle Management, highlighting their features and improvements. However, the primary focus is on the release and capabilities of these tools rather than a comprehensive discussion on the application lifecycle stages or best practices.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-15T11:34:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 50,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Scrum principles, practices, or frameworks.",
+    "level": "Ignored"
   }
 }

@@ -30,7 +30,10 @@ aliasesFor404:
 - /blog/professional-scrum-in-immingham--uk
 - /resources/blog/professional-scrum-immingham-uk
 tags: []
-categories: []
+categories:
+- Scrum
+- Product Delivery
+- Value Delivery
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

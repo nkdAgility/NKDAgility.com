@@ -30,7 +30,10 @@ aliasesFor404:
 - /blog/visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
 - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

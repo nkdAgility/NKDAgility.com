@@ -56,7 +56,7 @@ $lastCheck = Get-Date
 $checkInterval = [TimeSpan]::FromMinutes(1)  # Adjust as needed
 $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
-while ($hugoMarkdownQueue.Count -gt 0 -and $hugoMarkdownBatchQueue.Count -gt 0) {
+while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if ((Get-Date) - $lastCheck -ge $checkInterval -and $hugoMarkdownBatchQueue.Count -gt 0) {
         Write-DebugLog "Processing markdown files. $Counter of $TotalItems processed."
         $lastCheck = Get-Date

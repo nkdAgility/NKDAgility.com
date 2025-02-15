@@ -25,7 +25,15 @@ aliasesFor404:
 - /configuring-jenkins-to-talk-to-tfs-2013
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
-tags: []
+tags:
+- System Configuration
+- Technical Mastery
+- Software Development
+- Continuous Integration
+- Operational Practices
+- Modern Source Control
+- Pragmatic Thinking
+- Software Developers
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
