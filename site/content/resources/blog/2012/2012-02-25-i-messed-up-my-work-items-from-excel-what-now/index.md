@@ -25,7 +25,12 @@ aliasesFor404:
 - /i-messed-up-my-work-items-from-excel--what-now-
 - /blog/i-messed-up-my-work-items-from-excel--what-now-
 - /resources/blog/i-messed-up-my-work-items-from-excel-what-now
-tags: []
+tags:
+- Troubleshooting
+- Software Development
+- Azure Boards
+- Pragmatic Thinking
+- Modern Source Control
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps

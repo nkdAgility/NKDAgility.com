@@ -25,7 +25,17 @@ aliasesFor404:
 - /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-tags: []
+tags:
+- System Configuration
+- Troubleshooting
+- Pragmatic Thinking
+- Azure Boards
+- Agile Frameworks
+- Operational Practices
+- Software Development
+- Technical Mastery
+- Software Developers
+- Agile Planning
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

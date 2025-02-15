@@ -29,7 +29,25 @@ aliasesFor404:
 - /professional-scrum-foundations-in-salt-lake-city--utah
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
-tags: []
+tags:
+- Professional Scrum
+- Scrum Product Development
+- Agile Frameworks
+- Software Developers
+- Agile Transformation
+- Team Performance
+- Team Collaboration
+- Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Self Organisation
+- Agile Planning
+- Scrum Team
+- Team Motivation
+- Continuous Learning
+- Coaching
+- Working Software
+- Empirical Process Control
 categories:
 - Scrum
 - Events and Presentations

@@ -21,7 +21,15 @@ aliasesFor404:
 - /working-within-a-single-team-project-with-team-foundation-server-2012
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
-tags: []
+tags:
+- Software Development
+- Team Collaboration
+- Software Developers
+- Operational Practices
+- Pragmatic Thinking
+- Agile Planning
+- Working Software
+- Technical Mastery
 categories:
 - People and Process
 - Practical Techniques and Tooling

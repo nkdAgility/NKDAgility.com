@@ -25,7 +25,9 @@ aliasesFor404:
 - /issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 - /blog/issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 - /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
-tags: []
+tags:
+- System Configuration
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

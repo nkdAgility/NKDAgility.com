@@ -21,7 +21,12 @@ aliasesFor404:
 - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
-tags: []
+tags:
+- Windows
+- Modern Source Control
+- System Configuration
+- Software Development
+- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

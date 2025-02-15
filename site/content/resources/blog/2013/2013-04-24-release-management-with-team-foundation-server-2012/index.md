@@ -21,7 +21,27 @@ aliasesFor404:
 - /release-management-with-team-foundation-server-2012
 - /blog/release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
-tags: []
+tags:
+- Release Management
+- Software Development
+- Engineering Excellence
+- Pragmatic Thinking
+- Operational Practices
+- Working Software
+- Engineering Practices
+- Software Developers
+- Deployment Strategies
+- Deployment Frequency
+- Definition of Done
+- Continuous Delivery
+- Frequent Releases
+- Increment
+- Technical Mastery
+- Automated Testing
+- Throughput
+- Strategy
+- Windows
+- Continuous Integration
 categories:
 - DevOps
 - Product Delivery

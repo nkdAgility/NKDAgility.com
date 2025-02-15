@@ -25,7 +25,20 @@ aliasesFor404:
 - /one-team-project-to-rule-them-all
 - /blog/one-team-project-to-rule-them-all
 - /resources/blog/one-team-project
-tags: []
+tags:
+- Agile Planning Tools
+- Agile Planning
+- Agile Project Management
+- Software Development
+- Software Developers
+- Pragmatic Thinking
+- Azure Boards
+- Large Scale Agility
+- Agile Strategy
+- Operational Practices
+- Agile Frameworks
+- Scaled Agile
+- Team Collaboration
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps

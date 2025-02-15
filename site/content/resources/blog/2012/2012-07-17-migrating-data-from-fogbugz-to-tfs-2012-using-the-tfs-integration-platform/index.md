@@ -21,7 +21,17 @@ aliasesFor404:
 - /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
-tags: []
+tags:
+- Software Development
+- Windows
+- System Configuration
+- Technical Mastery
+- Operational Practices
+- Engineering Excellence
+- Pragmatic Thinking
+- Troubleshooting
+- Software Developers
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -21,7 +21,12 @@ aliasesFor404:
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
-tags: []
+tags:
+- System Configuration
+- Technical Mastery
+- Software Development
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

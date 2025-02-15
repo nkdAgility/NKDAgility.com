@@ -28,8 +28,8 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 tags:
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 - Troubleshooting
 - Windows
 categories:

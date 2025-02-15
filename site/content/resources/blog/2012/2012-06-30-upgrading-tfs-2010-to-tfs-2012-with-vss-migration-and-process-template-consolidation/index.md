@@ -21,7 +21,19 @@ aliasesFor404:
 - /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
-tags: []
+tags:
+- System Configuration
+- Software Development
+- Troubleshooting
+- Modern Source Control
+- Release Management
+- Technical Mastery
+- Operational Practices
+- Engineering Excellence
+- Pragmatic Thinking
+- Deployment Strategies
+- Software Developers
+- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

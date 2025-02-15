@@ -23,13 +23,13 @@ aliasesFor404:
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
 - Test Driven Development
-- Test First Development
 - Automated Testing
-- Test Automation
+- Test First Development
 - Software Development
+- Test Automation
 - Technical Mastery
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
 - Troubleshooting
 - Software Developers
 - Engineering Practices

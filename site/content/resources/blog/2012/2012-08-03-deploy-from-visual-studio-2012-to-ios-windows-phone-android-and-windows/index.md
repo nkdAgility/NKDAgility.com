@@ -29,7 +29,10 @@ aliasesFor404:
 - /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-tags: []
+tags:
+- Software Development
+- Windows
+- Working Software
 categories:
 - Practical Techniques and Tooling
 - Value Delivery

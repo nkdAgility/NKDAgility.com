@@ -25,7 +25,10 @@ aliasesFor404:
 - /woops-i-installed-windows-8-instead-of-windows-8-pro-
 - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
 - /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
-tags: []
+tags:
+- Windows
+- Troubleshooting
+- System Configuration
 preview: nakedalm-windows-logo-7-7.png
 categories:
 - Install and Configuration

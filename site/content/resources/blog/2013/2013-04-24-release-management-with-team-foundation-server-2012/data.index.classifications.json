@@ -358,5 +358,1004 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses release management strategies and tools related to Team Foundation Server 2012, with no clear focus on Scrum principles, roles, events, or practices.",
     "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content discusses release management and development processes in Team Foundation Server without reference to the Daily Scrum event or its elements.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content emphasizes the importance of creating potentially shippable quality output that has no further work required for delivery, which aligns closely with the principles of the Definition of Done in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses best practices for release management and deployment processes in software engineering, aligning well with technical excellence themes such as automation, build processes, and the importance of quality output in software delivery.",
+    "level": "Secondary"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on release management and deployment processes in software development, without discussing methodologies for identifying customer needs or defining product features.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses release management strategies in the context of software deployment using Team Foundation Server, emphasizing automation, build processes, and maintaining quality output, aligning closely with Continuous Delivery principles.",
+    "level": "Secondary"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management techniques, tools, and processes within Team Foundation Server 2012, focusing on operational aspects rather than long-term strategic goals or business agility.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "While the content primarily discusses release management and tools for deployment, it touches on concepts related to the time it takes to deploy and validate software. The question 'How long is your release process?' suggests a consideration of Lead Time, making it a major but secondary theme.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses release management tools and processes, with no focus on the influence of organisational culture.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on release management strategies and tools, not the readiness of backlog items for sprint planning.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management, deployment strategies, and tools within the context of Team Foundation Server 2012, which does not align with the central themes of portfolio management.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management strategies and deployment processes in Team Foundation Server, with no focus on Product Backlog definition, management, or related Agile practices.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management practices and tools within Team Foundation Server, without a clear focus on Agile Planning methodologies or principles.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on release management using Team Foundation Server 2012, with discussions on deployment processes and automation, rather than Value Stream Mapping.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management strategies and tools, without a focus on collecting or utilizing customer feedback.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses techniques for improving release management processes in the context of Team Foundation Server and Agile practices. It addresses automation, deployment strategies, and building efficient workflows, aligning closely with operational efficiency topics in Agile and DevOps frameworks.",
+    "level": "Secondary"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses release management in Team Foundation Server 2012, focusing on deployment strategies and automation tools. While it mentions the professional Development Team, it does not engage with Scrum roles, team dynamics, or collaboration practices indicative of a Scrum Team discussion.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is primarily focused on technical aspects of release management using Team Foundation Server 2012, with little to no reference to Agile principles or philosophy.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 70,
+    "non_ai_confidence": 30,
+    "final_score": 66.0,
+    "reasoning": "The content discusses aspects of release management and deployment strategy within the context of Team Foundation Server, suggesting a significant focus on optimizing delivery processes and the strategic alignment of development teams. However, it is primarily centered on technical implementation and tools rather than a direct discussion of overarching strategic concepts.",
+    "level": "Secondary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of release management and the processes involved in ensuring quality output for deployments, which indirectly relates to product validation through ensuring the product meets standards before going to production. However, it primarily focuses on release management tactics rather than validating product ideas through user feedback.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "While the content discusses release management strategies and tools within the context of Team Foundation Server 2012, it does not center around the principles or practices of Agile transformation. It focuses more on technical deployment processes rather than Agile methodologies or cultural changes associated with Agile practices.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on release management techniques and tools in Team Foundation Server, without discussing mentoring or coaching in Agile environments.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 75,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the automation of processes related to release management and emphasizes the importance of automated testing in ensuring software quality and reliability, particularly within Team Foundation Server 2012 and its automated build and deployment processes.",
+    "level": "Secondary"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses elements related to the release management process which indirectly implicates team collaboration and effectiveness, but the main focus is on deployment strategies and tools rather than explicit team performance or dynamics.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of delivering potentially shippable quality output and emphasizes the roles and responsibilities of development teams in the context of release management, which aligns with the concept of Increment in Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content focuses on release management and deployment strategies within Team Foundation Server, without discussing Acceptance Test Driven Development or its principles.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 90,
+    "non_ai_confidence": 20,
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses release management in the context of software development, particularly how to utilize Team Foundation Server 2012 for automating deployment processes and maintaining quality, which are key elements in software engineering practices.",
+    "level": "Primary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of release management and deployment strategies relevant to Agile methodologies, but it is not primarily focused on Agile Project Management principles or frameworks.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses primarily on release management practices and tools within Team Foundation Server 2012, rather than exploring Agile values or principles.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content touches on the responsibilities of a professional development team and discusses aspects of releasing potentially shippable quality output, which aligns with Scrum principles, but the primary focus is on release management with Team Foundation Server 2012, making Scrum a secondary theme.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content primarily discusses release management and deployment processes with Team Foundation Server 2012, which are related to version control practices but focuses more on deployment rather than core modern source control methodologies and branching strategies.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses software release management practices and emphasizes the importance of consistent processes and improving delivery quality, which are related to empirical process control in Agile contexts. However, it focuses mainly on tools and strategies for release management rather than the core principles of empirical process control.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses release management processes, tools, and practices without a clear focus on Scrum values such as commitment, courage, focus, openness, and respect.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management strategies and tools within Team Foundation Server 2012, without a focus on Azure Boards or Agile project management practices.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-15T21:30:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on release management using Team Foundation Server and discusses implementation details, automation, and deployment strategies, rather than collaboration tools within Agile teams.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses release management in a technical context, focusing on tools and processes such as Team Foundation Server and deployment strategies, without addressing the principles of organisational change, methodologies, or frameworks related to improving agility and resilience within organizations.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and software deployment practices, which do not align with the core principles of the Lean Startup methodology such as MVP, Build-Measure-Learn feedback loop, and validated learning.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content focuses extensively on release management strategies and practices, particularly in the context of Team Foundation Server 2012, which is aligned with the principles of Continuous Delivery and Continuous Deployment. It discusses automation, deployment workflows, and maintaining quality in frequent releases, making it a primary topic.",
+    "level": "Secondary"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content is primarily focused on release management processes, tools, and automation within Team Foundation Server 2012, without a clear emphasis on customer satisfaction or related metrics.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management using Team Foundation Server 2012 and focuses on deployment automation, configuration management, and engineering practices without a clear focus on scaling Scrum principles or practices.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management practices and tooling in Team Foundation Server, with no clear focus on evidence-based leadership principles or empirical evidence in leadership decision-making.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and technical processes surrounding Team Foundation Server 2012 without a focus on psychological safety.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on release management and deployment strategies using Team Foundation Server 2012, without discussing the scaling of agile principles beyond individual teams.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses practices related to release management, continuous delivery, automation, and ensuring quality in software development, which aligns with principles of engineering excellence in software craftsmanship.",
+    "level": "Secondary"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management strategies and tools related to software deployment processes, without addressing revenue per employee metrics or their implications.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content is primarily focused on release management, deployment processes, and tools related to Team Foundation Server, without a clear primary discussion on asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on release management processes using Team Foundation Server 2012, without a substantive discussion of systems thinking or organisational dynamics.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on release management practices and tools in software development, with no direct discussion on customer retention strategies or user engagement.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses practical problem-solving strategies for release management in the context of Agile and DevOps, emphasizing the importance of automation, collaboration between teams, and the application of tools like NuGet and Octopus to streamline processes and improve delivery quality.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management processes and tools within Team Foundation Server 2012, without a focus on backlog refinement or Agile practices.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of release management and automation in deployment processes, which are linked to improving efficiency and quality in software delivery. However, it primarily focuses on practical implementation and tools rather than a central theme of measuring or enhancing the innovative capacity of an organization.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses release management with Team Foundation Server 2012 and does not clearly focus on Scrum principles, roles, or product development practices. While it touches on aspects relevant to software development, it is not centered on Scrum methodologies.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management practices and tools within Team Foundation Server 2012, without mentioning or addressing scaling Agile methodologies or frameworks across multiple teams.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses release management practices, tools, and strategies, without addressing employee engagement, motivation, or team dynamics.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses improving release management processes, which aligns with Lean principles of efficiency and waste reduction. However, it focuses primarily on specific tools and practices related to release management rather than exploring Lean Thinking as a central theme.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses aspects of release management, which includes automated testing and deployment, making test automation a secondary theme.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses software release management and deployment processes, lacking a clear focus on entrepreneurship principles or innovation strategies.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses release management for software development processes, focusing on ensuring high-quality and potentially shippable output, which aligns with the principles of working software.",
+    "level": "Secondary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management with Team Foundation Server 2012, focusing on deployment strategies and tools, rather than Agile planning tools specifically.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 60,
+    "non_ai_confidence": 10,
+    "final_score": 55.0,
+    "reasoning": "The content discusses concepts related to release management in Team Foundation Server, touching on aspects of automated builds, deployments, and integration testing, which are relevant to Continuous Integration practices. However, the primary focus is on release management rather than CI itself, making CI a secondary theme.",
+    "level": "Secondary"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on release management and automation within software development, with no clear discussion on strategies, analysis, or methodologies related to increasing market share.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses release management techniques and tools within Team Foundation Server 2012 without focusing on the leadership aspects of Agile principles.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on release management processes and technical tools related to Team Foundation Server 2012, without addressing the interpretation of complexity or decision-making in organisational contexts.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content discusses release management and deployment processes, but primarily focuses on Team Foundation Server and related tools, with minimal emphasis on site reliability engineering principles or practices.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses release management strategies and tools in Team Foundation Server 2012, with no clear focus on hypothesis formulation, experimentation, or validated learning.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of release management and deployment processes which involve decision making regarding version control, environment setup, and deployment practices, but the primary focus is not solely on structured decision-making methodologies. However, it does imply decision-making strategies related to improving release processes.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses release management efficiency and the automation of processes to reduce risk and improve delivery quality, which aligns with Lean Principles, but it primarily focuses on tools and practices related to Team Foundation Server rather than Lean principles directly.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 90,
+    "non_ai_confidence": 20,
+    "final_score": 83.0,
+    "reasoning": "The content is primarily focused on the practices and strategies involved in release management using Team Foundation Server 2012. It discusses various aspects such as deployment processes, automation, and the need for a cohesive release management strategy. The central theme revolves around release management and its implementation.",
+    "level": "Primary"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on release management and deployment strategies using Team Foundation Server 2012, without a clear emphasis on the responsibilities or practices specific to the Product Owner role.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content addresses aspects of the release management process that could relate to cycle time, particularly in the context of automation and workflows; however, it mainly focuses on release management strategies rather than a detailed analysis of cycle time as a primary topic.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses elements of automated build and deployment processes in a broader context of Team Foundation Server 2012, which is related to but does not specifically focus on Azure Pipelines. Key concepts of release management, build processes, and deployment practices are mentioned, yet the primary focus is on TFS rather than Azure Pipelines specifically.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses release management processes and automation strategies that aim to improve the efficiency and consistency of software deployment, which is closely related to deployment frequency in Agile and DevOps practices.",
+    "level": "Secondary"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management processes and tools within Team Foundation Server, focusing on automation and deployment, lacking a central theme of effective change management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of collaboration between development, configuration management, and operations teams in the context of release management, indicating a major but secondary theme of team collaboration.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management processes in Team Foundation Server, focusing on deployment and build management without any emphasis on Behaviour Driven Development principles.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 60,
+    "non_ai_confidence": 0,
+    "final_score": 54.0,
+    "reasoning": "The content discusses aspects of release management and automation in Team Foundation Server, which relates to digital transformation through improving operational efficiency and deployment processes. However, it primarily focuses on specific tools and methodologies rather than the broader strategic implications of digital transformation.",
+    "level": "Secondary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management strategies within Team Foundation Server, focusing on deployment processes rather than Minimum Viable Products or MVP-related concepts.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily focuses on release management and deployment processes using Team Foundation Server 2012, without discussing AI integration or applications.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses aspects of release management and deployment processes which relate to system configuration, particularly in the context of managing software releases and promoting builds through environments. However, the primary focus is on release management practices rather than on system configuration methodologies.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on release management processes and tools in Team Foundation Server, with an emphasis on technical implementation and automation, rather than discussing product strategy methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of release management and DevOps, which are pertinent to technical leadership, but the primary focus is on processes and tools rather than direct leadership strategies or principles.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses release management in Team Foundation Server and does not focus on estimation techniques or practices.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses primarily on release management within Team Foundation Server and does not address cross-functional teams or their role in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses release management and deployment strategies, with no clear focus on Test First Development or Test-Driven Development principles.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 60,
+    "non_ai_confidence": 50,
+    "final_score": 59.0,
+    "reasoning": "The content discusses Team Foundation Server 2012 which is related to software development and deployment within a Windows environment. While the primary focus is on release management and deployment processes, it does mention Windows-specific tools and concepts, indicating a major but secondary theme regarding Windows.",
+    "level": "Secondary"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses various aspects of release management in Team Foundation Server, emphasizing automation, promoting builds through environments, and ensuring the deployment process is consistent and effective. Key topics mentioned align with deployment methodologies and practices, particularly regarding managing deployments and minimizing risk.",
+    "level": "Secondary"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management strategies and tools within Team Foundation Server without focusing on scaling Agile methodologies across an organization.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses primarily on release management and technical processes related to Team Foundation Server, without discussing team motivation or dynamics.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management using Team Foundation Server 2012 and does not specifically address practices, challenges, or solutions related to remote working within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 40,
+    "non_ai_confidence": 10,
+    "final_score": 37.0,
+    "reasoning": "Although the content discusses aspects of release management and automating deployment processes, it primarily focuses on technical strategies and tools rather than fostering a growth mindset or discussing practices for continuous learning within teams.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content primarily focuses on release management strategies and tools, it implies aspects of troubleshooting related to deployment issues and improving quality assurance processes. However, troubleshooting is a secondary theme rather than the primary focus.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses release management strategies and automation in Team Foundation Server but does not focus on hypothesis-driven experimentation or testing ideas within Agile workflows.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management practices and tools, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and automation processes in Team Foundation Server without a clear focus on transparency within Agile practices.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on release management processes and tools, with no clear discussions on working agreements, teamwork norms, or communication principles.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content focuses extensively on release management processes, automation, and responsibilities of development teams within the context of software delivery, which aligns well with the roles and practices of software developers in Agile and DevOps frameworks.",
+    "level": "Secondary"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management strategies and tools without a focus on coaching, mentoring, or facilitating growth within teams.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses aspects of release management, automation, and the importance of maintaining quality outputs in a software development context, aligning with Engineering Practices within Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses primarily on release management in Team Foundation Server 2012 and deployment strategies, with no significant discussion on technical debt or its management.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management processes and tooling, rather than focusing on Sprint Reviews or their role in the Scrum framework.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "While the content mentions best practices related to deployment and quality assurance, it primarily focuses on technical aspects of release management using Team Foundation Server 2012, which does not align closely with the strategic discussions typical of product management.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content focuses primarily on release management using Team Foundation Server 2012, discussing automated build processes, deployment strategies, and the responsibilities of development teams, rather than self-organisation principles or practices.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management strategies using Team Foundation Server 2012, focusing on deployment processes and technology rather than on Agile frameworks, principles, or comparative analyses of Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of release management and DevOps practices that are tangentially related to Agile methodologies, particularly the emphasis on delivering potentially shippable quality output and automation in deployment. However, it does not focus primarily on strategic alignment or the broader implications of Agile strategy.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management strategies and tools in Team Foundation Server 2012, with limited focus on Azure Repos specifically.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management strategies and deployment processes in Team Foundation Server, without a focus on forecasting methods or practices within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses some aspects of improving release management and minimizing waste through automation and efficient processes, which aligns with Lean principles. However, it primarily focuses on release management and deployment strategies rather than explicitly promoting Lean Product Development as the main theme.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on release management practices with Team Foundation Server 2012, rather than analyzing trends in Agile, DevOps, or business agility.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the responsibilities of professional development teams in managing quality outputs and deployment processes, which touches on themes of accountability and ownership, though it is primarily focused on release management strategies and tools.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content mainly discusses release management and deployment strategies using Team Foundation Server 2012 without specific reference to Kanban principles or scaling Kanban practices.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-15T21:30:42",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses release management processes, automation, and the need for efficient workflows in the delivery of software, which aligns with themes of throughput in terms of optimizing work flow and delivery timelines. However, it does not focus explicitly on the metrics and measurement of throughput itself, hence the confidence is not higher.",
+    "level": "Secondary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-15T21:30:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content focuses on release management using Team Foundation Server and does not primarily address Test Driven Development principles or practices.",
+    "level": "Ignored"
   }
 }
