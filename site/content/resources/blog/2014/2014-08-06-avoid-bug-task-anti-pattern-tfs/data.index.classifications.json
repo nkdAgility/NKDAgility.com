@@ -1,1058 +1,362 @@
 {
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the Bug as Task anti-pattern within the context of Agile practices, particularly in relation to team dynamics and process implementation in Agile environments.",
-    "level": "Secondary"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications on team dynamics and software quality, without a clear focus on Scrum values.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the Bug as Task anti-pattern within the context of Azure DevOps, focusing on its implications for work item tracking and agile processes.",
-    "level": "Secondary"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on trend analysis.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on experimentation as a central theme.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 50,
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-15T09:08:13",
+    "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile and DevOps, highlighting issues related to process ownership and team communication, which are relevant to Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern in software development, focusing on improving processes and communication within agile teams, which aligns with engineering excellence principles.",
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern within the context of Agile practices, particularly focusing on the role of the Product Owner and the importance of communication and transparency in Agile teams.",
     "level": "Secondary"
   },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, without a clear focus on Value Stream Mapping.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on team dynamics and communication, which are relevant to self-organisation, but the primary focus is on the anti-pattern itself rather than self-organisation as a central theme.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern on Agile practices, highlighting its impact on team communication, planning, and overall Agile adoption.",
-    "level": "Secondary"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-15T09:08:15",
     "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the implications of the Bug as Task anti-pattern and how decisions made by laterals affect the agile process, highlighting the importance of decision-making in software development practices.",
-    "level": "Secondary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the 'Bug as Task' anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on scaling Kanban practices.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses testing practices and the implications of the Bug as Task anti-pattern, but it primarily focuses on process management and team dynamics rather than test automation itself.",
-    "level": "Ignored"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern within Agile practices, highlighting its impact on team dynamics and agile adoption.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Agile practices and the Bug as Task anti-pattern, which is relevant to Agile methodologies, but it primarily focuses on tooling and process issues rather than Scaled Agile frameworks specifically.",
-    "level": "Secondary"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern and its implications in Agile processes, with no clear focus on cycle time.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on team processes, which relates to working agreements, but it is primarily focused on the technical aspects and challenges of Agile implementation.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile practices, which is relevant to BetaCodex principles, but the primary focus is on specific implementation issues in Azure DevOps rather than on BetaCodex itself.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the impact of the Bug as Task anti-pattern on team dynamics, communication, and agile practices, highlighting how it affects team performance.",
-    "level": "Secondary"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 85,
     "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern on Agile practices, emphasising the importance of transparency, communication, and collaboration within Agile teams.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps, providing practical insights and solutions for Agile teams. It explores the implications of this anti-pattern on team performance and offers methodologies for improvement, aligning well with the category's focus on practical techniques and tooling.",
     "level": "Secondary"
   },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-15T09:08:16",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no mention of revenue or employee productivity.",
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps and Agile practices, without a clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern and its implications in Agile practices, with only a minor mention of strategic goals related to improving team processes.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the impact of organisational structures and decision-making processes on Agile practices, particularly in relation to the Bug as Task anti-pattern, indicating a significant but secondary theme related to organisational physics.",
-    "level": "Ignored"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the implications of the Bug as Task anti-pattern and how it affects team dynamics and processes, indicating a significant focus on leadership in technical practices and team management.",
-    "level": "Secondary"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on Agile practices, which relates to Lean principles of eliminating waste and improving processes, but it is primarily focused on specific practices in Azure DevOps rather than Lean principles as a central theme.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Azure DevOps, which is related to Azure Pipelines, but the primary focus is on Agile processes and team dynamics rather than Azure Pipelines specifically.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Agile practices and team dynamics, particularly in relation to the Bug as Task anti-pattern, which is relevant to Scrum teams, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for software development processes, rather than focusing on employee engagement.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile practices, touching on aspects of process ownership and team dynamics, which are relevant to empirical process control, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no clear focus on frequent releases.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its negative implications, providing insights into communication issues and solutions, making troubleshooting a significant theme.",
-    "level": "Secondary"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the implications of the Bug as Task anti-pattern on backlog management and prioritisation, which are central themes in backlog refinement.",
-    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on Agile practices, which relates to evidence-based management principles, but it is primarily focused on specific practices in Azure DevOps rather than a broader discussion of evidence-based management.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no clear focus on remote working.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern within Agile frameworks, particularly in relation to tooling and process management in Azure DevOps.",
-    "level": "Secondary"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses testing practices and the importance of integrating testing with development, but it primarily focuses on the Bug as Task anti-pattern rather than automated testing specifically.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile and Scrum practices, highlighting its impact on team dynamics and process efficiency, making it a significant but secondary theme.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern in Agile practices, focusing on practical solutions and the importance of communication and process ownership in software development.",
-    "level": "Secondary"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses the importance of creating functional tests upfront and the implications of testing practices on Agile processes, indicating a secondary theme related to Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the implications of the Bug as Task anti-pattern within the context of Agile adoption in an enterprise setting, highlighting how organisational decisions impact team dynamics and processes. While it is a significant theme, the primary focus is on the anti-pattern itself rather than broader organisational change.",
-    "level": "Secondary"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content heavily discusses the role of the Product Owner in managing bugs and tasks within Agile frameworks, emphasising the importance of prioritisation and communication.",
-    "level": "Secondary"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the implications of the Bug as Task anti-pattern on agile processes and team dynamics, which are relevant to product strategy, but the primary focus is on the anti-pattern itself rather than broader product strategy concepts.",
-    "level": "Secondary"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the importance of transparency in managing bugs and tasks within Agile processes, highlighting how a lack of transparency can lead to poor communication and low-quality outcomes.",
-    "level": "Secondary"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses the implications of the Bug as Task anti-pattern in the context of Agile adoption and organisational processes, making Change Management a significant theme.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in the context of software development practices, particularly within Agile methodologies and Azure DevOps.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern in software development, particularly in the context of Agile practices and tooling in Azure DevOps.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Azure DevOps and TFS, which relates to system configuration decisions. However, the primary focus is on team dynamics and Agile practices rather than system configuration itself.",
-    "level": "Ignored"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
+    "calculated_at": "2025-02-15T09:08:18",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on Lean Startup principles.",
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on team dynamics and communication issues rather than empirical evidence or data-driven management practices.",
     "level": "Ignored"
   },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the impact of organisational decisions and structures on team dynamics and processes, highlighting the importance of communication and ownership within teams, which are key aspects of organisational culture.",
-    "level": "Secondary"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the adoption of Agile practices and the implications of tooling in a digital environment, but it primarily focuses on the specific anti-pattern of treating bugs as tasks rather than a broader digital transformation narrative.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications, rather than focusing on Sprint Review processes or outcomes.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the implications of the Bug as Task anti-pattern, highlighting how it contributes to low quality and high technical debt within agile teams.",
-    "level": "Secondary"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications, with no clear focus on Daily Scrum practices or events.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in the context of Agile methodologies and team dynamics, with no clear focus on Continuous Integration practices.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no clear focus on customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the challenges and solutions related to implementing Agile practices in a large enterprise context, specifically addressing the Bug as Task anti-pattern and its impact on team dynamics and agility.",
-    "level": "Secondary"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of communication and collaboration within teams, as well as providing guidance on how to avoid the Bug as Task anti-pattern, which aligns with coaching principles.",
-    "level": "Secondary"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Azure DevOps and TFS, which are modern source control tools, but the primary focus is on Agile practices and team dynamics rather than source control itself.",
-    "level": "Ignored"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications, which involves learning from experiences in Agile practices, but the primary focus is on the anti-pattern itself rather than continuous learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern within Agile and Scrum frameworks, focusing on team dynamics, roles, and processes.",
-    "level": "Secondary"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content heavily discusses the implications of the Bug as Task anti-pattern on Agile practices, emphasising the importance of communication, transparency, and proper backlog management in Agile teams.",
-    "level": "Secondary"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the importance of creating functional tests upfront and the implications of not doing so, which aligns with Test Driven Development principles. However, the primary focus is on the Bug as Task anti-pattern rather than TDD itself.",
-    "level": "Secondary"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern within Agile teams, focusing on leadership roles in guiding teams towards effective Agile practices and communication.",
-    "level": "Secondary"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no mention of market share.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on the concept of a Minimum Viable Product (MVP).",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern and its implications on Agile processes, rather than focusing on throughput as a central theme.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern on Agile practices, highlighting how it affects team dynamics and the adoption of Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in the context of Agile methodologies and Azure DevOps, focusing on its implications for software quality and team dynamics.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications on team dynamics and software quality, rather than focusing on deployment strategies.",
-    "level": "Ignored"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the importance of ownership and responsibility in the context of Agile processes, particularly regarding the Bug as Task anti-pattern. While accountability is a significant theme, the primary focus is on the anti-pattern itself and its implications for Agile practices.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the impact of the Bug as Task anti-pattern on team dynamics and communication, highlighting the importance of collaboration between developers and testers.",
-    "level": "Secondary"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on portfolio management.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on agile processes, but it does not primarily focus on the Definition of Ready concept.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the implications of treating bugs as tasks within the context of Agile methodologies, emphasising the importance of maintaining a transparent and unified backlog for effective prioritisation and planning.",
-    "level": "Secondary"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern and its implications in Agile processes, with only a minor focus on innovative solutions to improve team communication and processes.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile practices and the implications of the Bug as Task anti-pattern, which are relevant to Scrum methodologies, but it is primarily focused on tooling and process issues rather than the role of a Scrum Master.",
-    "level": "Ignored"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses team dynamics and communication issues within Agile teams, which are relevant to cross-functional collaboration, but the primary focus is on the Bug as Task anti-pattern rather than cross-functional teams themselves.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for software development processes, rather than focusing on team motivation.",
-    "level": "Ignored"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on team dynamics and communication, but it does not primarily focus on psychological safety as a central theme.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on team dynamics and process efficiency, which aligns with Lean Thinking principles, but it is primarily focused on Agile practices and tooling in Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no clear focus on customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on team dynamics and Agile processes, making sense of the challenges faced in software development. However, it primarily focuses on specific practices rather than broader sensemaking concepts.",
-    "level": "Ignored"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications on team dynamics and software quality, with no clear focus on lead time.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of creating functional tests before coding begins, which is a central theme in Test First Development. It highlights the need for testing to occur concurrently with development to avoid issues, making it a primary focus of the discussion.",
-    "level": "Secondary"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses team dynamics and communication issues within Agile teams, which are relevant to collaboration tools, but the primary focus is on the Bug as Task anti-pattern rather than collaboration tools themselves.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the Bug as Task anti-pattern and its implications on Agile practices, emphasising the importance of communication, testing, and process ownership in engineering.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern and its implications on Agile processes, rather than focusing on Continuous Delivery practices.",
-    "level": "Ignored"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern within the context of Azure DevOps, which is closely related to Azure Repos, as it involves work item tracking and agile processes in the Azure ecosystem.",
-    "level": "Secondary"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the implications of the Bug as Task anti-pattern in Agile practices, focusing on operational issues and solutions within team dynamics and processes.",
-    "level": "Secondary"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Azure DevOps and TFS, which are Microsoft products related to Windows, but the primary focus is on Agile methodologies and team dynamics rather than Windows itself.",
-    "level": "Ignored"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on evidence-based leadership principles.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no clear focus on customer retention.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in the context of Agile methodologies and Azure DevOps, with a focus on team dynamics and process improvement rather than site reliability engineering.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Agile practices and the Bug as Task anti-pattern, which are relevant to Scrum, but the primary focus is on tooling and process issues rather than Scrum principles or roles.",
-    "level": "Ignored"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses coaching teams to understand the Bug as Task anti-pattern and emphasizes the importance of communication and collaboration, which are key aspects of mentoring. However, mentoring is not the primary focus of the content.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications on team dynamics and software quality, with no clear focus on deployment frequency.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps, detailing its implications, causes, and solutions, showcasing a deep understanding of Agile practices and software development processes.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 45,
-    "non_ai_confidence": 20,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on agile processes, but it does not explicitly define or focus on the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-15T09:08:19",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on Agile practices, which relates to Behaviour Driven Development principles, but it is primarily focused on the challenges and solutions within a specific DevOps context.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on product discovery.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, without a clear focus on hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on asynchronous development.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern within the context of Agile practices in an enterprise setting, highlighting its impact on team dynamics and process ownership.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "Content primarily discusses the impact of team dynamics and communication on the Bug as Task anti-pattern, highlighting the roles of Product Owners and Development Teams in addressing these issues.",
-    "level": "Secondary"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile and DevOps practices, but it primarily focuses on issues related to team communication and process implementation rather than value stream management itself.",
-    "level": "Ignored"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile practices, highlighting issues related to process efficiency and team communication, which are central themes in Lean methodologies.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and does not focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no clear focus on products or books.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on team dynamics and processes, which relates to complexity thinking in terms of understanding and managing complex systems within Agile methodologies.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on software quality and team dynamics, which relates to code quality and complexity management. However, the primary focus is on process and governance rather than a deep exploration of code complexity or architectural principles.",
     "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
+    "calculated_at": "2025-02-15T09:08:22",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications, which involves learning from experiences in Agile practices. However, the primary focus is on the anti-pattern itself rather than a broader theme of discovery and learning.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on Agile practices, touching on communication and team dynamics, which are relevant to learning and discovery processes. However, the primary focus is on project management and specific practices rather than a broader exploration of discovery and learning methodologies.",
     "level": "Ignored"
   },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content discusses decision-making processes within teams and the implications of certain choices, but it primarily focuses on the Bug as Task anti-pattern and its effects on Agile practices rather than on decision theory itself.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern within the context of Agile methodologies and tooling in Azure DevOps, highlighting its impact on team dynamics and project management.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in the context of Agile methodologies and its implications on software development processes, making it a central theme.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-15T09:08:24",
     "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on its implications and solutions rather than providing news or reviews.",
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile practices, without any mention of AI or automation technologies.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-15T09:08:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and the Bug as Task anti-pattern, without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
+    "calculated_at": "2025-02-15T09:08:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications on Agile practices, rather than focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the implications of organisational structures and decision-making processes on software development practices, highlighting the sociotechnical dynamics involved in adopting Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the negative impacts of the Bug as Task anti-pattern on workflow and efficiency in Agile teams, highlighting issues such as lack of transparency, low quality, and unpredictability in planning.",
-    "level": "Secondary"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on its implications and solutions, rather than addressing miscellaneous topics.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps, providing practical insights and techniques to avoid it, which aligns closely with practical techniques and tooling in software development.",
-    "level": "Secondary"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern on agile processes and how it affects value delivery in software development.",
-    "level": "Secondary"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern on agile practices within an enterprise context, highlighting how organisational decisions impact agility.",
-    "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, without a clear focus on AI or automation.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on market adaptability.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, with no clear focus on personal experiences or themes.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, rather than focusing on resilience or change as central themes.",
-    "level": "Ignored"
-  },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content discusses team dynamics and communication issues within a software development context, but it primarily focuses on technical processes and anti-patterns rather than organisational psychology as a central theme.",
-    "level": "Ignored"
-  },
-  "Metrics and Learning": {
-    "category": "Metrics and Learning",
-    "ai_confidence": 45,
-    "non_ai_confidence": 10,
-    "final_score": 34.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern and its implications in Agile processes, with only brief mentions of metrics related to bugs and quality. The focus is more on process and communication issues rather than on metrics or learning outcomes.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications on Agile practices, rather than focusing on installation or configuration processes.",
     "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-15T09:08:28",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "The content primarily discusses the importance of transparency in managing bugs and tasks within Agile processes, highlighting how lack of visibility can lead to poor decision-making and accountability issues.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of transparency in managing bugs and tasks within Agile teams, highlighting how a lack of transparency can lead to poor communication and accountability issues. It addresses the need for clear visibility of work items and the consequences of not maintaining a unified backlog, which aligns closely with the principles of transparency and accountability.",
     "level": "Secondary"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern within Agile frameworks, focusing on its impact on team dynamics, communication, and product ownership.",
-    "level": "Secondary"
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-15T09:08:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on Agile practices and team dynamics rather than strategies for market adaptability.",
+    "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-15T09:08:31",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the implications of the Bug as Task anti-pattern within the context of Agile methodologies and team dynamics, indicating a major theme of systems thinking in terms of process ownership and communication, but it is primarily focused on specific practices rather than a comprehensive systems thinking approach.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the interplay between organisational structures and technology adoption, particularly in the context of Agile practices and team dynamics. However, the primary focus is on the technical anti-pattern rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-15T09:08:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on technical implementations and team dynamics rather than organisational resilience or change management.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-15T09:08:34",
+    "ai_confidence": 70,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Azure DevOps, highlighting issues related to team communication, process ownership, and agile practices, which are relevant to DevOps principles. However, the primary focus is on Agile methodologies rather than DevOps itself.",
+    "level": "Secondary"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-15T09:08:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Bug as Task anti-pattern in the context of Agile practices and tooling, making it primarily relevant to Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-15T09:08:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile teams, without a clear focus on decision-making processes or the principles of Decision Theory.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T09:08:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps without reference to any events, presentations, or discussions related to Agile or DevOps conferences.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-15T09:08:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern and its impact on team performance and delivery speed, which relates to flow efficiency. However, the primary focus is on governance and communication issues rather than directly optimising work throughput.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-15T09:08:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in the context of team dynamics, communication, and the impact of organisational decisions on Agile processes, making it a central theme.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-15T09:08:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of an enterprise adopting agile practices, highlighting issues related to communication, governance, and the impact on team dynamics. While it touches on broader organisational challenges, the primary focus remains on team-level practices.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-15T09:08:46",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile practices and its impact on team dynamics and operational efficiency, which are relevant to business agility. However, the primary focus is on specific Agile practices rather than broader principles of business agility.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-15T09:08:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern and its implications on team dynamics and Agile practices, without a clear focus on metrics, data analysis, or evidence-based decision-making.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-15T09:08:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in the context of Agile practices, particularly in TFS, without a clear focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-15T09:08:50",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in the context of Agile practices, highlighting its impact on software quality, team communication, and testing methodologies, which aligns with the principles of Technical Excellence.",
+    "level": "Secondary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-15T09:08:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Agile practices without a clear focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-15T09:08:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses technical methodologies and practices related to Agile and DevOps, with no clear focus on psychological principles or theories influencing motivation, engagement, leadership, or team dynamics.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-15T09:08:54",
+    "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily discusses the implications of the Bug as Task anti-pattern on agile processes and product delivery, highlighting the importance of transparency and communication in delivering quality software.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in the context of Agile methodologies and its impact on product delivery, including communication, testing practices, and team dynamics.",
     "level": "Secondary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-15T09:08:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on issues related to traditional management practices and team dynamics rather than the principles of Beta Codex.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-15T09:08:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Agile practices, focusing on communication and process issues rather than the flow of value or Value Stream Management principles.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-15T09:08:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps and its implications for Agile practices, without focusing on specific products or literature.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-15T09:09:00",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern and its implications on Agile practices, which relates to value delivery, but the primary focus is on technical implementation details and team dynamics rather than explicit value delivery strategies.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-15T09:09:02",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the Bug as Task anti-pattern within the context of Azure DevOps, providing insights into its implications and solutions related to Agile practices in Azure DevOps.",
+    "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-15T09:09:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on technical aspects and implementation challenges rather than personal experiences or reflections.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-15T09:09:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on Agile methodologies and team dynamics rather than Systems Thinking principles or holistic analysis of organisational dynamics.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-15T09:09:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Bug as Task anti-pattern in Azure DevOps, focusing on Agile practices rather than the principles or implementation of the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-15T09:09:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile principles and the implications of the Bug as Task anti-pattern, which relates to product development practices. However, it primarily focuses on specific issues within Agile implementation rather than a comprehensive discussion of the Agile Product Operating Model.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-15T09:09:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile practices and its impact on team dynamics and organisational processes, making agility a significant theme, though not the primary focus.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-15T09:09:11",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in Azure DevOps, which relates to Agile practices. However, it primarily focuses on personal experiences and solutions rather than providing a review or news update on industry trends or tools.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-15T09:09:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile practices and its implications on software quality and team dynamics, which are relevant to application lifecycle management, but the primary focus is on Agile methodologies rather than the broader scope of ALM.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-15T09:09:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile and its implications for team dynamics and project management, which are relevant to Scrum principles, but it primarily focuses on tooling and process issues rather than Scrum-specific roles or events.",
+    "level": "Ignored"
   }
 }

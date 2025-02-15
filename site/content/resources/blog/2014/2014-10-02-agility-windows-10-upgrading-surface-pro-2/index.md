@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Organisational Agility
+- Market Adaptability
 preview: nakedalm-windows-logo-12-12.png
 
 ---

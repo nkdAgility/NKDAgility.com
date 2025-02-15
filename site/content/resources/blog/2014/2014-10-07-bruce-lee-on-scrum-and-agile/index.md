@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/bruce-lee-on-scrum-and-agile
 - /resources/blog/bruce-lee-on-scrum-and-agile
 tags: []
-categories: []
+categories:
+- People and Process
+- Organisational Agility
+- Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

@@ -27,7 +27,10 @@ aliasesFor404:
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
 tags: []
-categories: []
+categories:
+- People and Process
+- Agile Product Management
+- Practical Techniques and Tooling
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

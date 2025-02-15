@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags: []
-categories: []
+categories:
+- Technical Excellence
+- Code and Complexity
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

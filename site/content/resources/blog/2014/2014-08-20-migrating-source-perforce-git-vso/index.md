@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/blog/migrating-source-perforce-git-vso
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- DevOps
+- Install and Configuration
 preview: naked-alm-git-1-1.png
 
 ---

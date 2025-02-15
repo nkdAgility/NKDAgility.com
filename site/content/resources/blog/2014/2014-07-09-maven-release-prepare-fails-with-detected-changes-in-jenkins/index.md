@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- DevOps
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

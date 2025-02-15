@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/yorkhill-ice-bucket-challenge
 - /resources/blog/yorkhill-ice-bucket-challenge
 tags: []
-categories: []
+categories:
+- Personal
 preview: yorkhill-ice-bucket-challange-5-5.png
 
 ---
