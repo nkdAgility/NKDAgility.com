@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
-- Release Management
 - Software Development
+- Release Management
 - Frequent Releases
 - Digital Transformation
 - Organisational Change

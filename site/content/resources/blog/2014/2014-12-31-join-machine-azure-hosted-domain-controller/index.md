@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/join-a-machine-to-your-azure-hosted-domain-controller
 - /resources/blog/join-machine-azure-hosted-domain-controller
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: nakedalm-windows-logo-6-6.png
 
 ---

@@ -30,9 +30,9 @@ tags:
 - Release Management
 - System Configuration
 - Technical Mastery
+- Software Development
 - Pragmatic Thinking
 - Azure Pipelines
-- Software Development
 - Troubleshooting
 categories:
 - Application Lifecycle Management

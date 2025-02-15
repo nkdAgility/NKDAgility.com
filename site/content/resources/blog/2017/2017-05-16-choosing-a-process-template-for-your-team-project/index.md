@@ -21,7 +21,25 @@ aliasesFor404:
 - /choosing-a-process-template-for-your-team-project
 - /blog/choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
-tags: []
+tags:
+- Software Development
+- Agile Frameworks
+- Pragmatic Thinking
+- Scrum Product Development
+- Scrum Team
+- Decision Making
+- Agile Project Management
+- Agile Planning
+- Software Developers
+- Scrum Master
+- Azure Boards
+- Agile Transformation
+- Operational Practices
+- Professional Scrum
+- Agile Planning Tools
+- Team Performance
+- Agile Strategy
+- Self Organisation
 categories:
 - Scrum
 - People and Process

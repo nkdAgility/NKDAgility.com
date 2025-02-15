@@ -25,8 +25,17 @@ aliasesFor404:
 - /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
-tags: []
-categories: []
+tags:
+- System Configuration
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- Troubleshooting
+- Working Software
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

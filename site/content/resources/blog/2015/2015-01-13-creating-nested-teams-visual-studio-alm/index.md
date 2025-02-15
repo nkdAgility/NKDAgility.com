@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/creating-nested-teams-visual-studio-alm
 tags:
 - System Configuration
-- Azure Boards
 - Software Development
+- Azure Boards
 - Pragmatic Thinking
 categories:
 - Install and Configuration

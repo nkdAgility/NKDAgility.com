@@ -30,9 +30,9 @@ tags:
 - Technical Mastery
 - Deployment Strategies
 - Operational Practices
+- Software Development
 - Pragmatic Thinking
 - System Configuration
-- Software Development
 - Continuous Delivery
 - AI
 - Windows

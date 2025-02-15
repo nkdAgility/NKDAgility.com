@@ -26,26 +26,26 @@ aliasesFor404:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- Scaling Agility
 - Organisational Culture
-- Change Management
-- Agile Project Management
-- Software Development
 - Large Scale Agility
-- Organisational Change
+- Change Management
+- Scaling Agility
+- Software Development
+- Agile Project Management
 - Scaling Scrum
+- Organisational Change
 - Scaled Agile
-- Evidence Based Leadership
 - Agile Frameworks
-- Agile Strategy
+- Evidence Based Leadership
 - Agile Transformation
+- Agile Strategy
 - Pragmatic Thinking
 - Professional Scrum
 - Organisational Physics
 - Ability to Innovate
 - Agile Leadership
-- Empirical Process Control
 - Operational Practices
+- Empirical Process Control
 categories:
 - Scrum
 - Evidence Based Management

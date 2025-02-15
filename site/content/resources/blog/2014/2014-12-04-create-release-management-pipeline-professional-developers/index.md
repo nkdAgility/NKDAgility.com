@@ -31,19 +31,19 @@ tags:
 - Software Development
 - Continuous Delivery
 - Technical Mastery
+- Software Developers
 - Deployment Strategies
 - System Configuration
-- Continuous Integration
-- Working Software
 - Deployment Frequency
-- Azure Repos
+- Working Software
 - Modern Source Control
-- Software Developers
-- Engineering Excellence
+- Continuous Integration
+- Azure Repos
+- Engineering Practices
 - Pragmatic Thinking
+- Engineering Excellence
 - Frequent Releases
 - Operational Practices
-- Engineering Practices
 categories:
 - Install and Configuration
 - Azure DevOps

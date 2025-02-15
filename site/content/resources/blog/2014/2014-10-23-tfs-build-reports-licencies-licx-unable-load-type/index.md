@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
 - Operational Practices
+- Software Development
 - Pragmatic Thinking
 - Continuous Integration
 - System Configuration
-- Software Development
 - Troubleshooting
 - Release Management
 categories:

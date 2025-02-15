@@ -21,9 +21,32 @@ aliasesFor404:
 - /delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
-categories: []
+categories:
+- People and Process
+- Scrum
+- Discovery and Learning
 preview: class-colage-2-8-8.jpg
-tags: []
+tags:
+- Team Collaboration
+- Agile Values and Principles
+- Scrum Team
+- Professional Scrum
+- Scrum Values
+- Collaboration Tools
+- Scrum Product Development
+- Agile Frameworks
+- Agile Transformation
+- Team Performance
+- Self Organisation
+- Agile Project Management
+- Remote Working
+- Team Motivation
+- Agile Leadership
+- Pragmatic Thinking
+- Accountability
+- Psychological Safety
+- Software Development
+- Working Agreements
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

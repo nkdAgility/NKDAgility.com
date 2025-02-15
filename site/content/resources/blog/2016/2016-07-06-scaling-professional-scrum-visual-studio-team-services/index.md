@@ -44,7 +44,10 @@ tags:
 - Collaboration Tools
 - Agile Planning
 - Agile Strategy
-categories: []
+categories:
+- Events and Presentations
+- Scrum
+- Practical Techniques and Tooling
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
 
 ---

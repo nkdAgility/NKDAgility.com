@@ -35,6 +35,8 @@ tags:
 - Pragmatic Thinking
 categories:
 - Practical Techniques and Tooling
+- Technical Excellence
+- Azure DevOps
 preview: image-2-2-2.png
 
 ---
