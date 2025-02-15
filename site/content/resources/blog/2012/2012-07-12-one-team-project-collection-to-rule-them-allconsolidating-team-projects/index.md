@@ -27,7 +27,16 @@ aliasesFor404:
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /one-team-project-collection-to-rule-them-all
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-tags: []
+tags:
+- Troubleshooting
+- Modern Source Control
+- System Configuration
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- Agile Project Management
+- Software Developers
+- Strategy
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -21,8 +21,13 @@ aliasesFor404:
 - /an-adoption-strategy-for-testing-with-visual-studio-2010
 - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
-tags: []
-categories: []
+tags:
+- Software Development
+- Strategy
+categories:
+- Practical Techniques and Tooling
+- Events and Presentations
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

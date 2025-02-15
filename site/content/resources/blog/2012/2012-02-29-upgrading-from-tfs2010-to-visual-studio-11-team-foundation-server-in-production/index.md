@@ -25,7 +25,14 @@ aliasesFor404:
 - /upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
 - /blog/upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
 - /resources/blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
-tags: []
+tags:
+- System Configuration
+- Windows
+- Technical Mastery
+- Software Development
+- Troubleshooting
+- Release Management
+- Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

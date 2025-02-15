@@ -33,7 +33,10 @@ aliasesFor404:
 - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
 tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Events and Presentations
+- Application Lifecycle Management
 
 ---
 This session shows the Day in the Life of a project using TFS from the context of a Developer, Tester, and Program Manager. The purpose of this session is to give a clear picture of how someone in the role of the Developer, the Tester and Program Manager would use TFS in his/her role.

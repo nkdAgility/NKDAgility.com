@@ -2,7 +2,7 @@
 . ./.powershell/_includes/OpenAI.ps1
 
 $batchesInProgress = $null;
-$batchesInProgressMax = 30;
+$batchesInProgressMax = 40;
 function Get-CatalogHashtable {
     param (
         [string]$FolderPath = "site\content",
@@ -148,6 +148,7 @@ function Get-CategoryConfidenceWithChecksum {
 
         switch ($batchStatus) {
             "completed" {
+                Write-InfoLog "Batch completed. Processing results..."
                 # Process batch results into cache format
                 $batchResults = Get-OpenAIBatchResults -BatchId $batchId -OutputFile $batchJsonlOutout
                 foreach ($result in $batchResults) {
@@ -189,7 +190,7 @@ function Get-CategoryConfidenceWithChecksum {
                 exit
             }
             default {
-                Write-WarningLogLog $batchStatus
+                Write-WarningLog $batchStatus
             }
         }
     }

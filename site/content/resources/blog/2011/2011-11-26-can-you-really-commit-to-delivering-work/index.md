@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
 tags: []
-categories: []
+categories:
+- Scrum
+- Agile Product Management
+- Transparency and Accountability
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

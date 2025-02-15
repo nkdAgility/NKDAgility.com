@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags: []
-categories: []
+categories:
+- Scrum
+- Agile Product Management
+- Product Delivery
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

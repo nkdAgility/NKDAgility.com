@@ -27,7 +27,10 @@ aliasesFor404:
 - /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 tags: []
 preview: metro-visual-studio-2005-128-link-5-5.png
-categories: []
+categories:
+- Scrum
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

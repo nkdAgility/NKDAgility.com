@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/are-scrum-masters-agents-for-change-
 - /resources/blog/are-scrum-masters-agents-for-change
 tags: []
-categories: []
+categories:
+- Scrum
+- People and Process
+- Events and Presentations
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

@@ -57,11 +57,12 @@ $checkInterval = [TimeSpan]::FromMinutes(1)  # Adjust as needed
 $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
+
     if ((Get-Date) - $lastCheck -ge $checkInterval -and $hugoMarkdownBatchQueue.Count -gt 0) {
         Write-DebugLog "Processing markdown files. $Counter of $TotalItems processed."
         $lastCheck = Get-Date
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
-        Write-Progress -id 1 -Activity "Processing Markdown Objects" -Status "Interlude to Check Batch | Batch Queue: $($hugoMarkdownBatchQueue.count) | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-Progress -id 1 -Activity "Processing Markdown Objects $($hugoMarkdownQueue.count)|$($hugoMarkdownBatchQueue.count)" -Status "Interlude to Check Batch | Batch Queue: $($hugoMarkdownBatchQueue.count) | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
         
     }
@@ -72,7 +73,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
         $Counter++
         $PercentComplete = ($Counter / $TotalItems) * 100
-        Write-Progress -id 1 -Activity "Processing Markdown Objects" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-Progress -id 1 -Activity "Processing Markdown Objects $($hugoMarkdownQueue.count)|$($hugoMarkdownBatchQueue.count)" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-DebugLog "--------------------------------------------------------"
         Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
     }  

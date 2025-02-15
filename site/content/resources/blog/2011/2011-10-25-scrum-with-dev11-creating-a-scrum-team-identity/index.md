@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/scrum-with-visual-studio-11--creating-a-scrum-team-identity
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 tags: []
-categories: []
+categories:
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---
