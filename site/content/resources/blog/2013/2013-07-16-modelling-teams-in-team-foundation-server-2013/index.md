@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
 tags: []
-categories: []
+categories:
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags: []
-categories: []
+categories:
+- Resilience and Change
+- People and Process
+- Enterprise Agility
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

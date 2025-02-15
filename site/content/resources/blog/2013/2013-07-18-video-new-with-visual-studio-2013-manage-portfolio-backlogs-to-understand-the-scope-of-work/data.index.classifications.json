@@ -1,1058 +1,362 @@
 {
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and the concept of Epics, which are central to Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Scrum values.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses managing portfolio backlogs and related concepts, which are relevant to Azure Boards, but the primary focus is on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the features of Visual Studio 2013 related to portfolio management and does not focus on trend analysis.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013, with no clear focus on experimentation.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and breaking down work into smaller items, which are relevant to Lean Product Development principles, but the primary focus is on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational strategies in software development, which relates to engineering practices, but it is primarily focused on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013, with a focus on managing backlogs and understanding the scope of work, rather than value stream mapping.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organising work through Epics, which relates to self-organisation in project management, but it is primarily focused on Visual Studio 2013 tools.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and understanding the scope of work, which are key aspects of Agile Planning.",
-    "level": "Secondary"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and understanding the scope of work, which are relevant to decision making in project management, but the primary focus is on the features of Visual Studio 2013 rather than decision making itself.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Scaling Kanban as a central theme.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management in Visual Studio 2013, with no clear focus on test automation.",
-    "level": "Ignored"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "Content discusses managing portfolio backlogs and the concept of Epics, which are relevant to Agile methodologies, but the primary focus is on Visual Studio 2013 features.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "Content discusses managing portfolio backlogs and the concept of Epics, which are relevant to Scaled Agile practices, but the primary focus is on Visual Studio 2013 tools rather than Scaled Agile itself.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on cycle time as a central theme.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on working agreements.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses portfolio management and the use of Epics, which are relevant to Agile methodologies, but the primary focus is on Visual Studio 2013 features rather than BetaCodex specifically.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-15T18:04:28",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational strategies, which are relevant to team performance, but the primary focus is on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "Content discusses managing portfolio backlogs and the concept of Epics, which are relevant to Agile practices, but the primary focus is on Visual Studio 2013 tools rather than Agile principles themselves.",
-    "level": "Ignored"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not mention revenue per employee.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and understanding the scope of work, which relates to strategic goals, but it is primarily focused on the features of Visual Studio 2013 and portfolio management tools.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational tools in Visual Studio 2013, which relates to organisational structures and processes, but is primarily focused on software features rather than organisational physics itself.",
-    "level": "Ignored"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational strategies, which are relevant to technical leadership, but the primary focus is on Visual Studio 2013 features rather than leadership itself.",
-    "level": "Ignored"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and breaking down work into smaller items, which aligns with Lean principles, but it primarily focuses on Visual Studio 2013 tools.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management features in Visual Studio 2013, with no clear focus on Azure Pipelines.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses managing portfolio backlogs and mentions concepts like Epics, which are relevant to Scrum, but the primary focus is on Visual Studio 2013 tools rather than Scrum teams specifically.",
-    "level": "Ignored"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on employee engagement.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and breaking down work items, which relates to empirical process control in Agile methodologies, but it is primarily focused on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content mentions the release of Visual Studio 2013 and its features, but the primary focus is on portfolio management rather than frequent releases.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the new features of Visual Studio 2013 related to portfolio management and does not focus on troubleshooting.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and the organisation of work, which are central to backlog refinement processes.",
-    "level": "Secondary"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and understanding the scope of work, which aligns closely with evidence-based management principles.",
-    "level": "Secondary"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on remote working as a central theme.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and introduces new tools for Portfolio Management in Visual Studio 2013, which are central to Agile planning.",
-    "level": "Secondary"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management features in Visual Studio 2013, with no mention of automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses managing portfolio backlogs and the concept of Epics, which are relevant to scaling Scrum practices, but the primary focus is on Visual Studio 2013 tools rather than Scrum itself.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organising work, which are related to pragmatic thinking in project management, but the primary focus is on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational tools in Visual Studio 2013, which relates to organisational change but is primarily focused on software features.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and the role of Epics, which are central to the responsibilities of a Product Owner.",
-    "level": "Secondary"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and the strategic organisation of work within Visual Studio 2013, which aligns closely with product strategy concepts.",
-    "level": "Secondary"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the features of Visual Studio 2013 related to portfolio management and does not focus on transparency as a central theme.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 56.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational strategies, which are relevant to change management, but the primary focus is on Visual Studio 2013 features.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses new features in Visual Studio 2013 that are relevant to software development, specifically around managing portfolio backlogs and Agile methodologies.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and tools in Visual Studio 2013, which are essential for understanding and organising work in software development.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management features in Visual Studio 2013, with no clear focus on system configuration.",
-    "level": "Ignored"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Lean Startup principles.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 related to portfolio management and does not focus on organisational culture.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses tools for managing portfolio backlogs in Visual Studio 2013, which relates to digital transformation in project management, but it is primarily focused on specific software features rather than a broader digital transformation theme.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Sprint Review or related Scrum events.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 28.0,
-    "reasoning": "The content primarily focuses on managing portfolio backlogs and tools in Visual Studio 2013, which is more related to project management and software development rather than entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on technical debt.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Daily Scrum practices or events.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Continuous Integration.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on customer satisfaction as a central theme.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and the concept of Epics, which are central to large scale agility practices.",
-    "level": "Secondary"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 related to portfolio management and does not focus on coaching as a central theme.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Visual Studio 2013 and Team Foundation Server, which are related to source control, but the primary focus is on portfolio management rather than source control itself.",
-    "level": "Ignored"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses new features in Visual Studio 2013 that can aid in project management, which implies a learning aspect, but the primary focus is on the tools rather than continuous learning itself.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses managing portfolio backlogs and breaking down work into Epics, which are relevant to Scrum practices, but the primary focus is on Visual Studio 2013 tools.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and the concept of Epics, which are central to Agile strategy.",
-    "level": "Secondary"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not mention Test Driven Development as a central theme.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational strategies in Agile, which are relevant to Agile Leadership, but the primary focus is on Visual Studio 2013 tools rather than leadership principles.",
-    "level": "Ignored"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on market share as a central theme.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational structures like Epics, which are relevant to MVP concepts, but the primary focus is on Visual Studio 2013 tools rather than MVP itself.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and understanding the scope of work, which relates to throughput in terms of workflow management, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and the concept of Epics, which are central to scaling agility in project management.",
-    "level": "Secondary"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2013 related to managing portfolio backlogs, which is a key aspect of software development project management.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management and backlog organisation in Visual Studio 2013, with no clear focus on deployment strategies.",
-    "level": "Ignored"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and understanding the scope of work, which relates to accountability in project management, but it is primarily focused on the features of Visual Studio 2013.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "Content discusses managing portfolio backlogs and organising work, which are relevant to team collaboration but are not the primary focus.",
-    "level": "Ignored"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and introduces new Portfolio Management tools in Visual Studio 2013, making it central to the topic.",
-    "level": "Secondary"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and the concept of Epics, which are central to understanding the scope of work in product backlog management.",
-    "level": "Secondary"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content discusses new tools in Visual Studio 2013 for managing portfolio backlogs, which implies an innovative approach to project management, but the primary focus is on the features of the software rather than on innovation itself.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and concepts like Epics, which are relevant to Scrum practices, but the primary focus is on Visual Studio 2013 tools rather than Scrum Master responsibilities.",
-    "level": "Ignored"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational work, which relates to team collaboration, but it is primarily focused on Visual Studio 2013 features rather than cross-functional teams specifically.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 related to portfolio management and does not focus on team motivation.",
-    "level": "Ignored"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not address psychological safety as a central theme.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and breaking down work into smaller items, which aligns with Lean principles, but it primarily focuses on Visual Studio 2013 tools rather than Lean Thinking itself.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and understanding the scope of work, which are key aspects of sensemaking in project management.",
-    "level": "Secondary"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and the organisation of work through Epics, Features, and Goals, without a clear focus on lead time.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Test First Development.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses the management of portfolio backlogs and tools in Visual Studio 2013, which are essential for collaboration in project management.",
-    "level": "Secondary"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "Content discusses managing portfolio backlogs and organisational practices in Agile, which are key aspects of engineering practices.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013, with a focus on managing backlogs and project organisation, rather than continuous delivery practices.",
-    "level": "Ignored"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management features in Visual Studio 2013, with no clear focus on Azure Repos.",
-    "level": "Ignored"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and organisational practices within Visual Studio 2013, which are key aspects of operational practices.",
-    "level": "Secondary"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2013, which is a Windows application, and its tools for managing portfolio backlogs.",
-    "level": "Secondary"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on evidence-based leadership as a central theme.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on customer retention.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013, with no clear focus on Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and mentions concepts like Epics, which are relevant to Scrum, but the primary focus is on Visual Studio 2013 tools rather than Scrum itself.",
-    "level": "Ignored"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 related to portfolio management and does not focus on mentoring.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on deployment frequency.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses managing portfolio backlogs and tools in Visual Studio 2013, which relates to technical project management but is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Behaviour Driven Development.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and understanding the scope of work, which relates to product discovery, but it primarily focuses on the features of Visual Studio 2013 and portfolio management tools.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on hypothesis driven development.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013, with a focus on managing work items like Epics, Features, and Goals, rather than asynchronous development.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and the introduction of tools for Portfolio Management in Visual Studio 2013, which are central to enterprise agility practices.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational strategies, which are relevant to processes in project management, but the primary focus is on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses managing portfolio backlogs and the tools for Portfolio Management in Visual Studio 2013, which aligns closely with Value Stream Management principles.",
-    "level": "Secondary"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and breaking down work into smaller items, which aligns with Lean principles, but it is primarily focused on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 related to portfolio management, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 52.0,
-    "reasoning": "The content discusses Visual Studio 2013 and its portfolio management tools, making it a significant theme, but the primary focus is on the management process rather than the product itself.",
-    "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and breaking down work into smaller items, which relates to complexity in project management, but it is primarily focused on Visual Studio 2013 tools.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses new features in Visual Studio 2013 related to managing portfolio backlogs, which can aid in understanding work scope, but the primary focus is on the software's functionalities rather than on discovery or learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on decision theory as a central theme.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and tools related to Application Lifecycle Management in Visual Studio 2013.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational structures in software development, which relates to code complexity but is primarily focused on project management tools and methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses new features in Visual Studio 2013, which aligns with a review of the software, but the primary focus is on portfolio management tools rather than a comprehensive news or review piece.",
-    "level": "Ignored"
-  },
-  "Install and Configuration": {
-    "category": "Install and Configuration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses new features in Visual Studio 2013, including tools for managing portfolio backlogs, which implies some level of installation and configuration context, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and organisational structures in project management, which relates to sociotechnical systems, but it is primarily focused on Visual Studio 2013 tools.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and understanding the scope of work, which relates to flow efficiency in project management, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses various aspects of managing portfolio backlogs in Visual Studio 2013, which is a secondary theme to the primary focus on Agile project management tools.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses managing portfolio backlogs and the concept of Epics, which are relevant to Agile practices, but the primary focus is on Visual Studio tools rather than Agile product management principles.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-15T18:04:30",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the new Portfolio Management tools in Visual Studio 2013, detailing how to manage backlogs and organise work, which aligns closely with practical techniques and tooling.",
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the use of Visual Studio 2013 for managing portfolio backlogs, which is a practical application of tooling in Agile practices.",
     "level": "Secondary"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 80,
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-15T18:04:31",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and understanding the scope of work, which are key aspects of value delivery in project management.",
-    "level": "Secondary"
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management in Visual Studio 2013, focusing on Agile concepts rather than platform engineering principles.",
+    "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and understanding the scope of work, which are key aspects of organisational agility.",
-    "level": "Secondary"
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-15T18:04:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013 without a focus on Evidence-Based Management principles or empirical data.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-15T18:04:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, which is unrelated to software code quality or complexity.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-15T18:04:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses project management tools and techniques without a focus on learning or discovery processes.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-15T18:04:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013, with no clear focus on AI or automation in agility.",
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013 without a focus on AI or automation in Agile practices.",
     "level": "Ignored"
   },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and tools for portfolio management, which relates to adapting to market needs, but it is primarily focused on Visual Studio 2013 features.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-15T18:04:37",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 related to portfolio management and does not focus on personal themes.",
+    "reasoning": "Content primarily discusses portfolio management in Visual Studio 2013, focusing on Agile concepts such as Epics and Features, without any clear reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-15T18:04:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2013 related to portfolio management and does not focus on resilience or change as a central theme.",
-    "level": "Ignored"
-  },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on organisational psychology.",
-    "level": "Ignored"
-  },
-  "Metrics and Learning": {
-    "category": "Metrics and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses managing portfolio backlogs and understanding the scope of work, which relates to metrics in project management, but it is primarily focused on Visual Studio 2013 features.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses portfolio management features in Visual Studio 2013 rather than installation or configuration processes.",
     "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-15T18:04:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on transparency or accountability.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013 without a focus on transparency or accountability principles.",
     "level": "Ignored"
   },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and discusses concepts like Epics, Features, and Goals, which are central to Agile Product Management.",
-    "level": "Secondary"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 50,
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-15T18:04:40",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses managing portfolio backlogs and breaking down work into smaller items, which relates to systems thinking in terms of understanding the scope of work and the relationships between different project elements. However, the primary focus is on Visual Studio 2013 tools rather than systems thinking itself.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013 without a clear focus on market adaptability strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-15T18:04:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses features of Visual Studio 2013 related to portfolio management without addressing the interplay between technology and organisational structures.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-15T18:04:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, with no clear focus on organisational resilience or change management.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-15T18:04:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management and Agile concepts, with no clear focus on DevOps principles or practices.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-15T18:04:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, with specific references to Agile concepts like Epics and Features, indicating a direct connection to Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-15T18:04:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, focusing on organisation and management of work rather than decision-making processes in uncertain environments.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T18:04:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses features of Visual Studio 2013 and portfolio management tools, with no clear focus on events or presentations.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-15T18:04:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, with a focus on managing backlogs and understanding the scope of work, rather than optimising flow efficiency.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-15T18:04:52",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses managing portfolio backlogs and the organisation of work in an Agile context, which relates to team dynamics and process methodologies, but it primarily focuses on tools rather than the human factors involved.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-15T18:04:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013 without addressing broader organisational agility or its implications.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-15T18:04:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, which is not central to the principles or practices of business agility.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-15T18:04:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, focusing on organising work rather than metrics or learning principles.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-15T18:04:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management and the use of Epics in Visual Studio, which are more aligned with Scrum and project management rather than Kanban principles.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-15T18:04:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, which is more related to project management than technical engineering practices.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-15T18:05:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-15T18:05:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses portfolio management tools in Visual Studio 2013, focusing on technical methodologies rather than psychological principles related to organisational behaviour.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-15T18:05:02",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on managing portfolio backlogs and understanding the scope of work, which are key aspects of product delivery.",
-    "level": "Secondary"
+    "final_score": 45.0,
+    "reasoning": "The content discusses managing portfolio backlogs and the concept of 'Epics' in the context of Visual Studio 2013, which relates to planning and prioritising product features, a key aspect of product delivery.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-15T18:05:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, with no clear focus on BetaCodex principles or practices.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-15T18:05:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses portfolio management in Visual Studio 2013, focusing on managing backlogs and project organisation rather than the flow of value or principles of Value Stream Management.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-15T18:05:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Visual Studio 2013 and its portfolio management tools, which are relevant to Agile practices, but the primary focus is on the features of the software rather than a review or analysis of products or literature.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-15T18:05:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, which is more focused on project management rather than value delivery strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-15T18:05:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses portfolio management tools in Visual Studio 2013, which are related to Azure DevOps, but the primary focus is on general project management concepts rather than Azure DevOps functionalities.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-15T18:05:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses features of Visual Studio 2013 and portfolio management tools, lacking personal reflections or experiences.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-15T18:05:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, focusing on managing work items and does not address Systems Thinking principles or applications.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-15T18:05:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, which is not directly related to the principles or implementation of the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-15T18:05:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, with a focus on managing backlogs and epics, rather than the Agile Product Operating Model.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-15T18:05:15",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses managing portfolio backlogs and the use of Epics, which are related to Agile practices, but the primary focus is on Visual Studio 2013 tools rather than broader organisational agility strategies.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-15T18:05:17",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses new features in Visual Studio 2013 related to portfolio management, which is relevant to Agile practices. However, it primarily focuses on a specific tool rather than broader industry news or reviews.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-15T18:05:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses portfolio management tools in Visual Studio 2013, which relates to managing aspects of the application lifecycle, but primarily focuses on backlog management rather than the full lifecycle.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-15T18:05:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Scrum principles, roles, events, or practices.",
+    "level": "Ignored"
   }
 }

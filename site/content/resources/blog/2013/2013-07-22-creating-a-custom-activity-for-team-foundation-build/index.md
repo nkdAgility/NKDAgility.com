@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 tags: []
-categories: []
+categories:
+- Scrum
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 You want to upgraded to the Visual Studio Scrum 3.0 Process Template in Team Foundation Server 2013 but you really want to upgrade your whole process template in place and not jut enable new features.

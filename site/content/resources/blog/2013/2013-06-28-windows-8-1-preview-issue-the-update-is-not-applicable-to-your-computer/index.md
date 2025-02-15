@@ -28,7 +28,8 @@ aliasesFor404:
 - /windows-8-1-preview-issue
 - /resources/blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 tags: []
-categories: []
+categories:
+- Install and Configuration
 preview: nakedalm-windows-logo-12-12.png
 
 ---

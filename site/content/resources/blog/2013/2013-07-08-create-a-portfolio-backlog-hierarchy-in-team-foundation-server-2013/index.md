@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

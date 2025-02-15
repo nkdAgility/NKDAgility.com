@@ -28,7 +28,10 @@ aliasesFor404:
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags: []
-categories: []
+categories:
+- Code and Complexity
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---
