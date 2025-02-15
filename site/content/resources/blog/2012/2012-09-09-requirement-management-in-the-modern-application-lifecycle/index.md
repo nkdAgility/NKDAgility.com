@@ -25,7 +25,16 @@ aliasesFor404:
 - /requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
-tags: []
+tags:
+- Agile Project Management
+- Agile Planning Tools
+- Agile Planning
+- Software Development
+- Pragmatic Thinking
+- Cycle Time
+- Product Management
+- Operational Practices
+- Product Backlog
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling

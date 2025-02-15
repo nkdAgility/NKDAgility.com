@@ -21,7 +21,10 @@ aliasesFor404:
 - /installing-visual-studio-2013-on-server-2012
 - /blog/installing-visual-studio-2013-on-server-2012
 - /resources/blog/installing-visual-studio-2013-on-server-2012
-tags: []
+tags:
+- System Configuration
+- Windows
+- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

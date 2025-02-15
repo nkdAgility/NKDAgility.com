@@ -21,7 +21,14 @@ aliasesFor404:
 - /remote-execute-powershell-against-each-windows-8-vm
 - /blog/remote-execute-powershell-against-each-windows-8-vm
 - /resources/blog/remote-execute-powershell-against-each-windows-8-vm
-tags: []
+tags:
+- Windows
+- Technical Mastery
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- System Configuration
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

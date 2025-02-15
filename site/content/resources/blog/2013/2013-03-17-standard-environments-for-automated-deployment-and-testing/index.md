@@ -21,7 +21,25 @@ aliasesFor404:
 - /standard-environments-for-automated-deployment-and-testing
 - /blog/standard-environments-for-automated-deployment-and-testing
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
-tags: []
+tags:
+- Software Development
+- Pragmatic Thinking
+- Test Automation
+- Continuous Delivery
+- Automated Testing
+- System Configuration
+- Software Developers
+- Deployment Strategies
+- Deployment Frequency
+- Release Management
+- Technical Mastery
+- Engineering Excellence
+- Frequent Releases
+- Operational Practices
+- Engineering Practices
+- Azure Pipelines
+- Continuous Integration
+- Working Software
 categories:
 - DevOps
 - Application Lifecycle Management

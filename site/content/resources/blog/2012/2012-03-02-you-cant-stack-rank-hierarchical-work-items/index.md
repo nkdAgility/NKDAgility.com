@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
 tags: []
-categories: []
+categories:
+- Agile Product Management
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

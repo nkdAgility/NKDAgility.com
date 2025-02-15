@@ -25,7 +25,10 @@ aliasesFor404:
 - /issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
-tags: []
+tags:
+- System Configuration
+- Windows
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

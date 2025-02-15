@@ -21,7 +21,13 @@ aliasesFor404:
 - /batched-domain-migration-with-tfs-while-maintaining-identity
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
-tags: []
+tags:
+- Pragmatic Thinking
+- Technical Mastery
+- Operational Practices
+- Software Development
+- System Configuration
+- Troubleshooting
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

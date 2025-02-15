@@ -27,7 +27,19 @@ aliasesFor404:
 - /blog/engaging-with-complexity---team-foundation-server-edition
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
-tags: []
+tags:
+- Windows
+- Operational Practices
+- Software Development
+- Modern Source Control
+- System Configuration
+- Technical Mastery
+- Pragmatic Thinking
+- Release Management
+- Deployment Strategies
+- Troubleshooting
+- Working Software
+- Engineering Excellence
 categories:
 - Code and Complexity
 - Install and Configuration

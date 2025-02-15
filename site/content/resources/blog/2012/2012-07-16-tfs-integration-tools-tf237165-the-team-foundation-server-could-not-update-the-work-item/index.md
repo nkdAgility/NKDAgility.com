@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-problem-icon-2-2.png
 
 ---

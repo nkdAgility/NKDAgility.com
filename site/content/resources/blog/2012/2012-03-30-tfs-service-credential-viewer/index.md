@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Products and Books
 preview: metro-cloud-azure-link-4-4.png
 
 ---

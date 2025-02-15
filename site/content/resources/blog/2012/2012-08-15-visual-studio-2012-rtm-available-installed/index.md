@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- News and Reviews
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

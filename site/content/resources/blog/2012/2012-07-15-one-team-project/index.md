@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/one-team-project-to-rule-them-all
 - /resources/blog/one-team-project
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Azure DevOps
+- People and Process
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/is-alm-a-useful-term-
 - /resources/blog/is-alm-a-useful-term
 tags: []
-categories: []
+categories:
+- People and Process
+- Application Lifecycle Management
+- Market Adaptability
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

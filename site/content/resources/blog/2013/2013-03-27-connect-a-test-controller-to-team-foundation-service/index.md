@@ -21,7 +21,12 @@ aliasesFor404:
 - /connect-a-test-controller-to-team-foundation-service
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
-tags: []
+tags:
+- Technical Mastery
+- System Configuration
+- Software Development
+- Troubleshooting
+- Test Automation
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

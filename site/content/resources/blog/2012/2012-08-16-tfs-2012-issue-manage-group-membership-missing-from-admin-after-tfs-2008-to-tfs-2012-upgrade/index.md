@@ -27,8 +27,17 @@ aliasesFor404:
 - /blog/tfs-2012---issue--manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 - /tfs-2012
 - /resources/blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Technical Mastery
+- Software Development
+- System Configuration
+- Pragmatic Thinking
+- Windows
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
 preview: metro-problem-icon-7-7.png
 
 ---

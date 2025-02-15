@@ -21,7 +21,21 @@ aliasesFor404:
 - /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
-tags: []
+tags:
+- Software Development
+- Agile Planning Tools
+- Product Backlog
+- Agile Planning
+- Portfolio Management
+- Agile Project Management
+- System Configuration
+- Operational Practices
+- Azure Boards
+- Pragmatic Thinking
+- Software Developers
+- Working Software
+- Scaled Agile
+- Technical Mastery
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

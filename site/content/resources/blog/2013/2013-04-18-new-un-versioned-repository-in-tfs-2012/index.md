@@ -21,7 +21,12 @@ aliasesFor404:
 - /new-un-versioned-repository-in-tfs-2012
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
-tags: []
+tags:
+- Modern Source Control
+- Software Development
+- System Configuration
+- Troubleshooting
+- Operational Practices
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

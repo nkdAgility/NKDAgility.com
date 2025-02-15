@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 tags: []
-categories: []
+categories:
+- Scrum
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

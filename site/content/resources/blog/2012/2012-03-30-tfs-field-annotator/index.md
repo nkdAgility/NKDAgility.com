@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/tfs-field-annotator
 - /resources/blog/tfs-field-annotator
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-cloud-azure-link-4-4.png
 
 ---

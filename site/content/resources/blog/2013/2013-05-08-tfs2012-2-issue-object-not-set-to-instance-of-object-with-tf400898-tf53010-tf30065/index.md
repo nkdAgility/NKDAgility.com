@@ -31,7 +31,13 @@ aliasesFor404:
 - /blog/tfs2012-2---issue--object-not-set-to-instance-of-object-with-tf400898--tf53010-&-tf30065
 - /tfs2012-2
 - /resources/blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
-tags: []
+tags:
+- Troubleshooting
+- Windows
+- Software Development
+- System Configuration
+- Release Management
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

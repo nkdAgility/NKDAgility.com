@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 - /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 tags: []
-categories: []
+categories:
+- People and Process
+- Products and Books
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

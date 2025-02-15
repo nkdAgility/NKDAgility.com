@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/scrum-damentals-webcast-on-17th-february-2012
 - /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 tags: []
-categories: []
+categories:
+- Scrum
+- Events and Presentations
+- People and Process
 preview: metro-event-128-link-1-1.png
 
 ---

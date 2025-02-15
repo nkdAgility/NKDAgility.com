@@ -25,8 +25,14 @@ aliasesFor404:
 - /tfs-integration-tools-–-issue--access-denied-to-program-files
 - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Software Development
+- Troubleshooting
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: metro-problem-icon-1-1.png
 
 ---

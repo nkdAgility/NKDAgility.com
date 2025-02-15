@@ -358,5 +358,1004 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to Team Foundation Server and build processes, with no clear focus on Scrum principles, roles, events, or practices.",
     "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues and troubleshooting related to Team Foundation Server and build processes, not the Daily Scrum event.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues related to Team Foundation Server builds and technical troubleshooting, without any reference to the Definition of Done or its relevance in Agile or Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses troubleshooting a technical issue related to Team Foundation Server and build management, which involves specific engineering practices and technical configurations. It addresses best practices for managing settings in IIS and resolving error messages, directly aligning with principles of technical mastery.",
+    "level": "Secondary"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily addresses technical issues with Team Foundation Server and build processes, with no emphasis on identifying customer needs or defining product features.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 30,
+    "non_ai_confidence": 0,
+    "final_score": 27.0,
+    "reasoning": "The content primarily discusses an issue with build processes within Team Foundation Server, focusing on troubleshooting and configuration fixes. While it touches on aspects related to builds and possibly some Continuous Delivery workflows, it does not explicitly discuss the principles, practices, or methodologies of Continuous Delivery.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on technical troubleshooting of a build process in Team Foundation Server, lacking any discussion of long-term objectives or business agility.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues with build servers in Team Foundation Server and troubleshooting steps, without a focus on Lead Time or its related metrics.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues and troubleshooting within TFS 2012 without referencing any aspects of organisational culture.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on troubleshooting issues related to build processes in Team Foundation Server and does not discuss Definition of Ready criteria or practices.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses issues related to Team Foundation Server builds and technical troubleshooting, which is not relevant to Portfolio Management.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses troubleshooting and technical issues with Team Foundation Server builds, with no focus on Product Backlog concepts or practices.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Team Foundation Server builds and technical troubleshooting, with no clear alignment to Agile Planning principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on troubleshooting build issues in Team Foundation Server and does not discuss Value Stream Mapping or related Lean principles.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses troubleshooting issues in Team Foundation Server and build processes, with no significant focus on customer feedback or feedback loops.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content describes troubleshooting and resolving technical issues with a build server in TFS, which includes practical application of problem-solving techniques and operational strategies. While it primarily focuses on specific issues encountered, it does relate to operational practices within the context of managing build environments.",
+    "level": "Secondary"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server and build processes, with no clear focus on Scrum Team roles, collaboration, or dynamics.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on troubleshooting a technical issue with Team Foundation Server and does not discuss Agile principles or philosophy.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Team Foundation Server builds, with no emphasis on strategic approaches or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on technical troubleshooting related to builds in Team Foundation Server, not on validating product ideas or user engagement.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server and build processes, without any direct relation to Agile transformation principles, methodologies, or discussions.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on technical issues and troubleshooting within Team Foundation Server and does not address mentoring or coaching in Agile or related fields.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily deals with issues related to Team Foundation Server's build process, which ties into automated build systems. However, it does not dive deeply into principles or practices of automated testing itself.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical issues and troubleshooting related to Team Foundation Server build processes, which does not directly focus on team dynamics, collaboration, or Agile practices.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses troubleshooting issues with build processes in Team Foundation Server, rather than delivering software increments in an Agile context.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses a specific technical issue with Team Foundation Server builds, with no mention of Acceptance Test Driven Development or related principles.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to Team Foundation Server and build processes, which are directly tied to software development practices and tools.",
+    "level": "Secondary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues with the Team Foundation Server and build configurations with no clear connection to Agile Project Management principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server builds, without any focus on Agile values or principles.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server (TFS) and does not focus on Scrum principles, roles, practices, or any other key topics relevant to Professional Scrum.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and the build process, which are relevant to source control practices, but it primarily focuses on troubleshooting and server configuration rather than best practices or methodologies of version control.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on troubleshooting a technical issue with Team Foundation Server and does not engage with empirical process control principles related to Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server and build processes, with no mention of Scrum Values or related principles.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Team Foundation Build and server configurations, without focus on Azure Boards or Agile project management.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses technical issues and solutions related to Team Foundation Server and build management, which does not focus on collaboration tools or enhancing collaboration within Agile teams.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on troubleshooting issues related to Team Foundation Server and build processes, with no discussion of organisational change strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical troubleshooting related to Team Foundation Server, with no mention of Lean principles, MVP, or iterative learning processes central to the Lean Startup methodology.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on troubleshooting stuck builds in Team Foundation Server and does not address principles, practices, or strategies related to Frequent Releases.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses troubleshooting technical issues related to Team Foundation Server and build management, with no clear focus on customer satisfaction or related practices.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and build management, with no clear or related themes about Scaling Scrum or Scrum practices.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on troubleshooting a technical issue with Team Foundation Server and does not discuss evidence-based leadership principles, decision-making, or empirical approaches.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on technical issues and troubleshooting related to Team Foundation Server, with no discussion of psychological safety or team dynamics.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on troubleshooting build processes in Team Foundation Server, which is not related to scaling agile practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses resolving an issue related to builds in Team Foundation Server, which touches upon the technical aspects of software development environments and processes, but primarily focuses on troubleshooting rather than promoting overall engineering excellence or best practices.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses issues related to build processes in Team Foundation Server, and does not address revenue per employee in any capacity.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues with Team Foundation Server builds and troubleshooting, without addressing asynchronous development practices or principles.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and build processes, without focus on organisational dynamics or systems thinking.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses a technical issue with Team Foundation Server and does not address customer retention strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses practical troubleshooting steps for resolving issues with Team Foundation Build in TFS, including real-world applications of problem-solving techniques in a complex environment.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on troubleshooting a technical issue with Team Foundation Server and build processes, not on backlog refinement or Agile practices.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses troubleshooting issues with Team Foundation Build and does not focus on the measurement or improvement of innovation capabilities.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content does not discuss Scrum practices, principles, or roles, and is primarily focused on troubleshooting issues with Team Foundation Server unrelated to product development using Scrum.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on a technical issue with Team Foundation Server (TFS) related to build processes, without any mention or discussion of Scaled Agile frameworks, methodologies, or practices.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server builds without addressing employee engagement aspects.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical troubleshooting related to Team Foundation Server build issues, with no focus on Lean principles or waste reduction.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on troubleshooting issues related to Team Foundation Server build processes and does not primarily discuss test automation principles, practices, or tools.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues with Team Foundation Server and build processes, which are unrelated to entrepreneurship principles or practices.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses issues related to a build system in Team Foundation Server, outlining problems and troubleshooting steps that relate to operational software, but it primarily focuses on specific errors and configurations rather than broader principles of working software.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues and troubleshooting related to Team Foundation Build, without a clear focus on Agile planning tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses issues related to builds in Team Foundation Server (TFS), which falls under the continuous integration process of compiling code. It also hints at troubleshooting build failures, which directly relates to CI practices.",
+    "level": "Secondary"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical issues related to Team Foundation Server and build processes, with no relevance to market share or strategies for increasing market presence.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses technical issues related to Team Foundation Server and build processes without any mention of Agile leadership principles or practices.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on troubleshooting technical issues related to TFS and does not address themes of interpretation, decision-making, or complexity in organizations.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily deals with troubleshooting issues in Team Foundation Server builds rather than the principles or practices of Site Reliability Engineering.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server builds, without reference to hypothesis formulation, experimentation, or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses troubleshooting a technical issue with TFS builds, and does not focus on decision-making methodologies or evidence-based practices.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues and troubleshooting related to Team Foundation Server builds, with no clear connection to Lean Principles or waste reduction.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "Content discusses issues related to build processes within Team Foundation Server, which relates to release management practices, albeit as a secondary theme.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily addresses technical issues related to TFS build processes and has no relevance to the responsibilities or practices of a Product Owner.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues with builds in Team Foundation Server and does not focus on Cycle Time or its measurement in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 60,
+    "non_ai_confidence": 0,
+    "final_score": 54.0,
+    "reasoning": "The content discusses issues related to builds in Team Foundation Build, which is part of the Azure DevOps ecosystem. While it primarily focuses on troubleshooting a specific problem, it directly relates to the functioning of build processes, a key aspect of Azure Pipelines.",
+    "level": "Secondary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses troubleshooting build failures in Team Foundation Server and does not focus on deployment frequency, optimization, or related Agile and DevOps practices.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily addresses a technical issue with Team Foundation Build, focusing on troubleshooting rather than change management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content briefly mentions asking for help and acknowledges contributions from colleagues, indicating a collaborative effort, but the primary focus is on troubleshooting a technical issue rather than on collaboration techniques or team dynamics.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on troubleshooting issues with Team Foundation Server and build processes, with no mention or discussion of Behaviour Driven Development principles, practices, or related topics.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content mainly discusses a technical issue with Team Foundation Server build processes without addressing any aspects of digital transformation, strategic adoption of technologies, or business enhancements.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses troubleshooting issues with Team Foundation Build and does not address Minimum Viable Products or related concepts.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses issues related to Team Foundation Server and build processes, with no mention of AI integration or applications.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the configuration of Team Foundation Server, specifically addressing issues related to build services, logs, IIS settings, and configuration workarounds. It provides details on troubleshooting and modifying configuration settings to resolve technical issues, aligning well with the principles of system configuration.",
+    "level": "Secondary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses troubleshooting technical issues related to Team Foundation Server and does not address product strategy concepts or frameworks.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is focused on troubleshooting technical issues related to TFS 2012 build systems and does not discuss any principles or strategies related to Technical Leadership.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on troubleshooting build issues in Team Foundation Server, without any discussion of estimation techniques or Agile practices.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on troubleshooting specific issues within Team Foundation Server and does not discuss cross-functional teams or related concepts.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on resolving issues with Team Foundation Build and server configurations, with no discussions on Test First Development or related principles.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses troubleshooting issues related to Team Foundation Server (TFS) within the context of Visual Studio 2012, which operates on the Windows environment. It specifically addresses configuration and error resolution in a Windows-based build server setup.",
+    "level": "Secondary"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on troubleshooting a build issue in Team Foundation Server, which does not pertain to deployment methodologies or strategies.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues and troubleshooting related to Team Foundation Server builds, with no focus on large scale Agile practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content is primarily focused on technical issues related to Team Foundation Server and build processes, with no mention of team dynamics or motivation.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server build processes, without any relevance to remote working practices, challenges, or solutions.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical troubleshooting related to TFS builds and does not focus on principles or practices promoting continuous learning, growth mindset, or team improvement.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 90,
+    "non_ai_confidence": 0,
+    "final_score": 81.0,
+    "reasoning": "The content provides detailed steps and findings related to diagnosing and resolving an issue with TFS 2012 builds, including logs, service states, error messages, and specific configurations needed to fix the problem.",
+    "level": "Primary"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses troubleshooting and modifying configurations related to a Team Foundation Server, which involves a form of experimentation and testing to resolve issues. However, the primary focus is on technical troubleshooting rather than a systematic hypothesis-driven approach.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and build processes, with no relevance to the Scrum Master role or responsibilities.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues and troubleshooting in Team Foundation Server, without addressing transparency or its importance in Agile processes.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is primarily about troubleshooting issues in Team Foundation Server, specifically regarding build processes, and does not discuss teamwork norms, principles, or agreements.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content deals with troubleshooting Team Foundation Build issues, which relates to the role of software developers in the context of CI/CD practices and using modern tools in software development.",
+    "level": "Secondary"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on troubleshooting and technical issues related to Team Foundation Server and build processes, with no discussion of coaching themes or practices.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses issues and troubleshooting steps related to build processes within Team Foundation Server, which involves aspects of continuous integration practices. However, it does not primarily focus on the principles of Agile engineering practices such as clean code or TDD.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily addresses a specific technical issue with TFS builds and does not discuss technical debt or its implications.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses issues with Team Foundation Server builds and does not relate to the Sprint Review process in Scrum.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily focuses on troubleshooting technical issues related to Team Foundation Server and build management, without discussing any strategic aspects of product management.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues and troubleshooting related to Team Foundation Server builds, with no focus on self-organisation principles or practices.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Team Foundation Server builds and technical troubleshooting, without reference to Agile frameworks or principles.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on troubleshooting build issues in Team Foundation Server, which is unrelated to Agile strategy discussions.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and build processes, which are relevant to Azure Repos, especially in the context of build and CI/CD processes. However, the primary focus appears to be on troubleshooting TFS build issues rather than on Azure Repos functionalities directly.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses troubleshooting issues with Team Foundation Server builds and does not address forecasting methods or practices within Agile or Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content is focused on resolving technical issues with Team Foundation Server build processes, with no discussion of Lean principles, waste reduction, or continuous improvement.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on troubleshooting specific issues related to Team Foundation Server builds, with no discussion on trend analysis in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues and troubleshooting with Team Foundation Server without a focus on accountability or team dynamics.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on troubleshooting issues with Team Foundation Build and does not discuss Kanban principles, scaling Kanban practices, or related topics.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses issues related to build processes in Team Foundation Server, which can impact throughput, but it primarily focuses on troubleshooting rather than measuring or optimizing throughput specifically. It touches on the subject of work completion in terms of a build process, making it a secondary theme.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-15T20:51:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on troubleshooting build issues in Team Foundation Server and does not discuss Test Driven Development principles, practices, or the TDD cycle.",
+    "level": "Ignored"
   }
 }

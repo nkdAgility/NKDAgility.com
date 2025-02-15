@@ -25,7 +25,20 @@ aliasesFor404:
 - /naked-alm--starting-with-why-and-getting-naked
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
-tags: []
+tags:
+- Working Software
+- Customer Feedback Loops
+- Agile Philosophy
+- Agile Transformation
+- Agile Strategy
+- Frequent Releases
+- Deployment Frequency
+- Product Discovery
+- Software Development
+- Product Management
+- Customer Retention
+- Agile Project Management
+- Agile Planning
 categories:
 - Application Lifecycle Management
 - Discovery and Learning

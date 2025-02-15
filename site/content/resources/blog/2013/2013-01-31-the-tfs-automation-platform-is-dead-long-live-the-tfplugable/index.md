@@ -29,7 +29,14 @@ aliasesFor404:
 - /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
-tags: []
+tags:
+- System Configuration
+- Technical Mastery
+- Software Development
+- Frequent Releases
+- Product Validation
+- Pragmatic Thinking
+- Engineering Excellence
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -25,7 +25,11 @@ aliasesFor404:
 - /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /resources/blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
-tags: []
+tags:
+- Troubleshooting
+- Modern Source Control
+- Software Development
+- Pragmatic Thinking
 categories:
 - Practical Techniques and Tooling
 

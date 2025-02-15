@@ -27,7 +27,12 @@ aliasesFor404:
 - /blog/tfs-integration-tools---issue--unable-to-resolve-conflict-as-access-to-the-path-is-denied
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
-tags: []
+tags:
+- Technical Mastery
+- Software Development
+- Modern Source Control
+- System Configuration
+- Troubleshooting
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

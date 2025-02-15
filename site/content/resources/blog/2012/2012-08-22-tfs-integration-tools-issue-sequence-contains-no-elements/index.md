@@ -28,7 +28,9 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-sequence-contains-no-elements
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: metro-problem-icon-3-3.png
 
 ---

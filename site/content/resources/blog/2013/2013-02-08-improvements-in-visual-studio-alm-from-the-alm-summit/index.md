@@ -21,7 +21,14 @@ aliasesFor404:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
-tags: []
+tags:
+- Software Development
+- Modern Source Control
+- Operational Practices
+- Working Software
+- Technical Mastery
+- Software Developers
+- Continuous Delivery
 categories:
 - Kanban
 - Practical Techniques and Tooling

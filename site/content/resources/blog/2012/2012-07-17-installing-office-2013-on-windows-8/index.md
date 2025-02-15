@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/installing-office-2013-on-windows-8
 - /resources/blog/installing-office-2013-on-windows-8
 tags: []
-categories: []
+categories:
+- Install and Configuration
 preview: metro-office-128-link-7-7.png
 
 ---

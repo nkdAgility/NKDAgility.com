@@ -358,5 +358,1004 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses release management and continuous delivery practices, with no clear focus on Scrum principles, roles, events, or artifacts.",
     "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on Release Management and continuous delivery in Visual Studio, with no clear discussion of Daily Scrum or its related practices.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management and a release pipeline in Visual Studio, without a clear focus on the Definition of Done.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses building a release pipeline and the importance of continuous delivery and feedback in software development, aligning with principles of software craftsmanship and engineering practices.",
+    "level": "Secondary"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management, continuous delivery, and operational aspects of software development rather than focusing on identifying customer needs or defining product features.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the principles and practices of building a release pipeline with a focus on Continuous Delivery, particularly with Visual Studio 2013. It touches upon various aspects such as automated testing, the importance of production readiness, and maintaining a production-ready state of the codebase. However, it also diverges slightly into related topics of DevOps and application lifecycle management, which somewhat dilutes its primary focus.",
+    "level": "Secondary"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the implementation of a release management tool and the operational aspects of software delivery rather than discussing long-term strategic objectives or business agility.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the concept of a release pipeline, which relates to the time it takes for software to move from development to production. However, it primarily focuses on release management and continuous delivery without explicitly detailing how lead time is measured or optimized.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses release management, deployment strategies, and technical aspects of software delivery without a focus on organisational culture or its impact on Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses release management, DevOps, and continuous delivery, without focusing on the Definition of Ready or its specific criteria.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on software release management and continuous delivery processes rather than on managing a portfolio of projects or aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management and development operations, with no clear focus on Product Backlog or its related topics.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts related to release pipelines and continuous delivery, which align with Agile principles, but it doesn't focus primarily on Agile Planning practices and methodologies.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content discusses release management and DevOps practices without focusing on Value Stream Mapping principles or techniques.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses feedback processes and their importance within the release pipeline, making customer feedback a significant theme but not the primary focus.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the release pipeline, continuous delivery, and operational practices within the context of DevOps and Agile methodologies, focusing on improving operational efficiency and quality in software delivery.",
+    "level": "Secondary"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content is primarily focused on release management and DevOps processes, not specifically on Scrum Team roles, dynamics, or collaboration.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile concepts such as continuous delivery, feedback, and the importance of collaboration between development and operations, indicating a major theme related to Agile philosophy.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content primarily focuses on the technical aspects of building a release pipeline and continuous delivery using Visual Studio 2013, it does integrate discussions on strategic elements such as the necessity for agile responsiveness, alignment with business agility, and feedback integration, which are relevant to strategic practices within Agile and DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of feedback and testing within a release pipeline, which ties to product validation. However, the main focus is on release management and ALM tools, making product validation a secondary theme.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts related to continuous delivery and feedback, which align with Agile principles, but primarily focuses on Release Management tools and processes rather than a comprehensive Agile transformation strategy.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical aspects of release management and DevOps rather than mentoring processes or strategies.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the concepts of a release pipeline including automated testing aspects such as unit tests, and emphasizes the importance of integrating automated testing practices into the software delivery process, particularly within a DevOps framework.",
+    "level": "Secondary"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the concept of a release pipeline and the importance of continuous feedback which indirectly relates to team dynamics and collaboration within development and operations teams. However, it primarily focuses on technical aspects of release management and application lifecycle rather than explicitly on optimizing team performance or strategies for collaboration.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "While the content primarily discusses release management and pipelines within Visual Studio, it touches on concepts of continuous delivery and the quality of software increments that are prepared for release, making it a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses release management and continuous delivery processes, with little focus on acceptance criteria or ATDD principles.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 90,
+    "non_ai_confidence": 20,
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses the implementation of a release pipeline in the context of software development practices, specifically focusing on Continuous Integration and Continuous Deployment (CI/CD), as well as providing insights into Agile methodologies and tools associated with Visual Studio ALM. It thoroughly addresses software engineering processes and practices, making it a strong fit for the Software Development category.",
+    "level": "Primary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses continuous delivery and the importance of agile practices in software release processes, although it primarily focuses on tooling rather than Agile methodologies specifically.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses continuous quality, feedback, and delivery, which aligns with Agile principles, but primarily focuses on release management and tools rather than the core values and principles of Agile.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management and DevOps practices rather than Scrum principles, roles, and events. It lacks a clear focus on Scrum methodology.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the release pipeline as part of the application lifecycle and mentions aspects relevant to code management and quality delivery, which are related to source control practices. However, it does not primarily focus on modern version control systems or the specific methodologies of source control.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of feedback in the development and operations processes, which aligns with empirical process control principles, but it mainly focuses on release management strategies rather than directly on empirical process control itself.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses release management, continuous delivery, and technical aspects of software development rather than focusing on the Scrum values such as commitment, courage, focus, openness, and respect.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management in Visual Studio and issues related to application lifecycle management, rather than focusing on Azure Boards or its functionalities in Agile project management.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on release management and the application lifecycle, rather than on collaboration tools for Agile teams.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses software development and release management practices, with a focus on tools and techniques rather than on organisational change or strategies for adapting and transforming an organisation.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and deployment processes within software development, without a focus on Lean Startup principles such as the MVP concept, Build-Measure-Learn feedback loop, or validated learning. The main topics relate to operational efficiencies and DevOps rather than startup methodologies.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses building a release pipeline, principles of continuous release, and emphasizes the need for frequent and quality software delivery. It addresses automation, feedback mechanisms, and the importance of DevOps, which aligns well with the principles of frequent releases.",
+    "level": "Secondary"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on technical aspects of release management and continuous delivery, with little emphasis on customer satisfaction, feedback from users, or enhancing the customer experience.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on release management practices and continuous delivery principles, without a specific emphasis on scaling Scrum or related frameworks, roles, or events.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical aspects of release management and software delivery processes, without a focus on evidence-based leadership principles or data-driven decision-making in leadership contexts.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the technical aspects of building a release pipeline and does not focus on psychological safety or related themes.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of creating a scalable release pipeline and highlights the need for continuous delivery and feedback, which are key aspects of implementing agility at an organizational level. However, the primary focus remains on specific tools and processes rather than a comprehensive exploration of frameworks or organizational culture regarding scaling agility.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses engineering practices related to continuous delivery, release management, and quality assurance in software development, aligning closely with the principles of software craftsmanship and engineering excellence.",
+    "level": "Secondary"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content discusses release management and development processes, but does not address revenue per employee or related financial metrics.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses release management and continuous delivery in software development, with no clear focus on asynchronous development principles or practices. It does not address asynchronous team dynamics, tools for asynchronous collaboration, or any related best practices.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content mainly discusses software development practices, release management, and DevOps tools without focusing on the systems thinking principles or the dynamics within organisations.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on release management, DevOps practices, and software delivery processes, with no clear connection to customer retention strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses practical problem-solving strategies related to release management, DevOps practices, and the application of Agile principles in software development. It emphasizes real-world applications, continuous delivery, and the importance of feedback and quality metrics in managing complex environments, which aligns well with the category.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and continuous delivery processes without clear focus on backlog refinement practices in Agile or Scrum.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of continuous release and delivery in software development and highlights the need for innovation to keep pace with industry changes. However, it primarily focuses on tools and practices related to release management rather than a deep exploration of innovation capabilities or Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses release management and DevOps practices rather than focusing on Scrum principles, roles, or specific methodologies related to Scrum Product Development.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of Agile practices, such as continuous delivery and feedback in the development process, but does not focus primarily on scaling Agile across multiple teams or enterprise-level initiatives.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses software development processes, tools, and methodologies, which do not relate to employee engagement or the psychological and social aspects of work.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts related to continuous delivery and Agile practices, which align with Lean Thinking principles, but it primarily focuses on release management tools and techniques rather than Lean Thinking as a central theme.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of testing within a release pipeline, including unit tests, test coverage, and test automation as part of the development and operational processes. However, the primary focus is on release management and continuous delivery rather than exclusively on test automation.",
+    "level": "Secondary"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses software development, release management, and DevOps practices rather than focusing on entrepreneurship principles, risk-taking, or innovation within the business landscape.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses release management and the importance of continuous delivery and feedback in software development, aligning closely with the principles of working software in Agile and Scrum frameworks.",
+    "level": "Secondary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-15T20:21:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management and the deployment process within Visual Studio, but does not focus on Agile planning tools or methodologies related to Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content extensively discusses the process of building a release pipeline and highlights the importance of Continuous Release as part of the software delivery lifecycle, which directly relates to Continuous Integration principles and practices.",
+    "level": "Secondary"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management, application lifecycle management, and software delivery processes, without any direct reference to market share strategies, competitive advantage, or market positioning.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on technical aspects of release management and continuous delivery, without addressing leadership roles or practices in Agile contexts.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on the technical implementation of a release pipeline and continuous delivery, without discussing sensemaking or decision-making processes in complex environments.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the concept of a release pipeline, which is relevant to the reliability and stability of software engineering practices, along with monitoring and operational metrics, but the focus is primarily on release management rather than Site Reliability Engineering principles specifically.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses release management, continuous delivery, and operational practices in software development without a focus on hypothesis formulation, experimentation, or validated learning.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content primarily discusses the release management process in Visual Studio 2013, it includes elements of decision-making related to release pipelines, feedback loops, and the importance of using data for assessing software quality and operational performance, indicating a significant but secondary theme of decision-making in the context of software delivery.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses principles related to continuous improvement, feedback, and efficiency in software delivery, which are aligned with Lean principles, but it primarily focuses on release management and DevOps practices.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 90,
+    "non_ai_confidence": 20,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on release management, discussing the release pipeline, continuous release practices, and the integration of development and operations in the context of Visual Studio 2013.",
+    "level": "Primary"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses some aspects relevant to the Product Owner, such as feedback mechanisms that relate to meeting business requirements and prioritization. However, it primarily focuses on technical implementation and release management, making the Product Owner role a secondary theme.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the release pipeline and continuous delivery, which relates to efficiency in workflow and has a connection to cycle time, but it does not primarily focus on cycle time as a main topic.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the concept of a release pipeline and its relationship with continuous delivery practices, specifically in the context of Visual Studio and Azure DevOps. It touches upon building and managing release pipelines, which is a core aspect of Azure Pipelines, although it also includes broader discussions about development practices.",
+    "level": "Secondary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the concept of a release pipeline and how to achieve continuous release, which is directly related to optimizing deployment intervals and improving feedback loops. While it touches on other aspects of software development, the primary focus is on strategies for enhancing deployment frequency.",
+    "level": "Secondary"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses release management and software development practices with a focus on Visual Studio 2013, rather than focusing on change management strategies or principles.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses release management and the technical aspects of creating a scalable release pipeline with Visual Studio 2013, focusing on software delivery processes rather than teamwork or collaborative dynamics within Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses release management and DevOps practices without a focus on Behaviour Driven Development principles or collaboration among stakeholders.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the use of Visual Studio 2013 for building a release pipeline, which directly relates to enhancing business agility through continuous delivery and DevOps practices. It aligns with digital transformation themes such as the integration of modern tools to improve operational efficiency and the need for organizations to innovate to keep up with industry standards.",
+    "level": "Secondary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on release management and the development lifecycle rather than discussing Minimum Viable Products and their role in validating market assumptions.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content discusses release management, continuous delivery, and DevOps practices, but does not specifically cover the integration or application of AI within these methodologies.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of release management and processes related to deploying software, which are relevant to system configuration. However, the primary focus is on the release pipeline and development practices, making system configuration a secondary theme.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on Release Management and technical details of deployment pipelines rather than product strategy discussions.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the release pipeline and DevOps practices, which are relevant to technical leadership in guiding teams towards continuous delivery and managing team dynamics and operational feedback, but the focus is more on processes and tools than on leadership principles or strategies.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and software delivery pipelines without focusing on estimation techniques or practices within Agile or Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content focuses primarily on release management and continuous delivery processes in Agile, without discussing cross-functional teams as a primary topic.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 60,
+    "non_ai_confidence": 30,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of unit tests and test automation within the context of a release pipeline, indicating that testing plays a significant role in software development workflows. However, it primarily focuses on the broader topic of release management and continuous delivery rather than solely on Test First Development principles.",
+    "level": "Secondary"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Visual Studio 2013 and its integration with Application Lifecycle Management (ALM), which includes some elements relevant to Windows, particularly in the context of development and release management. However, the main focus is on development processes rather than on managing or utilizing the Windows operating system itself.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses methodologies for building a release pipeline, which includes aspects of continuous release and deployment practices, aligning well with deployment strategies.",
+    "level": "Secondary"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "Content discusses the importance of establishing a release pipeline in larger organizations and the need for continuous delivery, which aligns with scaling Agile practices at an enterprise level. However, it primarily focuses on technical processes related to software delivery rather than broader Agile scaling frameworks or strategies.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses primarily on technical aspects of release management and software delivery pipelines without discussing team motivation or dynamics.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Release Management and development pipelines in Visual Studio, with no clear focus on remote working practices or Agile team collaboration in a distributed environment.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses elements of Continuous Learning such as feedback loops, integration of development and operations, and continuous delivery, but primarily focuses on the technical aspects of release management rather than a broader exploration of Continuous Learning principles.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content primarily discusses the release pipeline process and continuous delivery methodologies, it touches on issues related to feedback, software quality, and potential defects which are relevant to troubleshooting in a software context. However, troubleshooting is not the central focus.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and continuous delivery in the context of Visual Studio 2013 without a specific focus on experimentation or hypothesis-driven approaches.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and DevOps practices with no clear focus on the Scrum Master role or responsibilities.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release pipeline and continuous delivery without a central focus on transparency within Agile processes.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses software release management, DevOps practices, and development processes without addressing working agreements or team collaboration norms.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses release management and its integration with Agile and DevOps practices, focusing on continuous delivery and feedback, which are central themes for software developers.",
+    "level": "Secondary"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on the technical aspects of release management and software delivery, without any clear emphasis on coaching or the collaborative development of teams and individuals.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses key aspects of continuous integration, release management, and feedback in the software development process, aligning well with practices such as Continuous Delivery, Automation, and maintaining quality in Agile development.",
+    "level": "Secondary"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses building a release pipeline and the integration of development and operations, without a clear focus on technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on release management and DevOps practices, rather than discussing Sprint Review activities or goals within the Scrum framework.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content focuses primarily on technical details related to release management, deployment processes, and operational metrics, rather than on strategic aspects of product management.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses primarily on release management and the technical aspects of building a release pipeline rather than on principles or practices of self-organisation within teams.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses DevOps and release management processes, which are related to Agile principles, but the primary focus is on the technical aspects of building release pipelines rather than a comprehensive exploration of Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses continuous delivery and the integration of Agile principles into the development process, which are key aspects of Agile Strategy. It emphasizes the importance of feedback and adaptability in development and operations, aligning well with the Agile Strategy theme.",
+    "level": "Secondary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and pipelines in Visual Studio 2013 without direct references to Azure Repos or its specific functionalities.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses release management and pipeline processes rather than forecasting in Agile and Scrum.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses aspects of continuous delivery and feedback mechanisms which align with Lean principles of minimizing waste and maximizing learning, but the primary focus is on Release Management in Visual Studio 2013 and Application Lifecycle Management rather than Lean Product Development directly.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the evolution of release management within the context of Agile and DevOps practices, mentioning how larger organizations are adopting continuous delivery and the need for agility in supporting departments. It highlights trend shifts in software delivery and the necessity for feedback and data gathering to improve processes, aligning with aspects of trend analysis but is more focused on specific tools and practices.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses release management, continuous delivery, and operational feedback, with little emphasis on team accountability or dynamics within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on release management and DevOps practices with Visual Studio 2013, and does not discuss Scaling Kanban principles or their application in large organizations.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses concepts related to release pipelines and the importance of continuous delivery, which are tied to throughput in terms of optimizing the flow of work and improving delivery speed. However, it primarily focuses on the release management process rather than strictly measuring or optimizing throughput specifically.",
+    "level": "Secondary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-15T20:21:26",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses unit tests as part of a software release pipeline, which relates to TDD, but focuses more on overall release management and DevOps practices rather than TDD principles specifically.",
+    "level": "Ignored"
   }
 }

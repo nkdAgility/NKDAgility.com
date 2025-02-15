@@ -28,7 +28,10 @@ aliasesFor404:
 - /one-team-project-collection-to-rule-them-all
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

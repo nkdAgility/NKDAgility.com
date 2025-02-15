@@ -21,7 +21,12 @@ aliasesFor404:
 - /configure-test-plans-for-web-access-in-tfs-2012-2
 - /blog/configure-test-plans-for-web-access-in-tfs-2012-2
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
-tags: []
+tags:
+- System Configuration
+- Software Development
+- Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

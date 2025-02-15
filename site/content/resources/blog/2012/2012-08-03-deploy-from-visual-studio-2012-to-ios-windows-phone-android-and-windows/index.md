@@ -30,7 +30,10 @@ aliasesFor404:
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Value Delivery
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

@@ -21,7 +21,11 @@ aliasesFor404:
 - /visual-studio-2012-update-2-supports-2010-build-servers
 - /blog/visual-studio-2012-update-2-supports-2010-build-servers
 - /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
-tags: []
+tags:
+- System Configuration
+- Software Development
+- Windows
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -21,7 +21,13 @@ aliasesFor404:
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
-tags: []
+tags:
+- Modern Source Control
+- Software Development
+- Pragmatic Thinking
+- System Configuration
+- Troubleshooting
+- Technical Mastery
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

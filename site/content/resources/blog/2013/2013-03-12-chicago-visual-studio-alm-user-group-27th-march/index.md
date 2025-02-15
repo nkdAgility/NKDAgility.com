@@ -21,7 +21,9 @@ aliasesFor404:
 - /chicago-visual-studio-alm-user-group-27th-march
 - /blog/chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
-tags: []
+tags:
+- Software Development
+- Operational Practices
 categories:
 - Practical Techniques and Tooling
 - Events and Presentations

@@ -25,7 +25,10 @@ aliasesFor404:
 - /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-tags: []
+tags:
+- System Configuration
+- Software Development
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

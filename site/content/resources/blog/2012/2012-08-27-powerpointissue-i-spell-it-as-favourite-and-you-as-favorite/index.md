@@ -25,7 +25,8 @@ aliasesFor404:
 - /i-spell-it-as-favourite-and-you-as-favorite
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-tags: []
+tags:
+- Windows
 categories:
 - Practical Techniques and Tooling
 - Miscellaneous

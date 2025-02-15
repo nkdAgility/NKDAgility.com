@@ -27,7 +27,10 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview---code-management-and-build
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-code-management-build
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Technical Excellence
 tags: []
 
 ---

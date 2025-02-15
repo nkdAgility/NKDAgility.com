@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/what's-in-a-burndown-
 - /resources/blog/whats-in-a-burndown
 tags: []
-categories: []
+categories:
+- Scrum
+- Practical Techniques and Tooling
+- Product Delivery
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

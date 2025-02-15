@@ -25,7 +25,11 @@ aliasesFor404:
 - /tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /blog/tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /resources/blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
-tags: []
+tags:
+- Modern Source Control
+- Software Development
+- System Configuration
+- Troubleshooting
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -21,7 +21,19 @@ aliasesFor404:
 - /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
+- Release Management
+- System Configuration
+- Technical Mastery
+- Operational Practices
+- Engineering Excellence
+- Continuous Integration
+- Azure Pipelines
+- Troubleshooting
+- Working Software
+- Engineering Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

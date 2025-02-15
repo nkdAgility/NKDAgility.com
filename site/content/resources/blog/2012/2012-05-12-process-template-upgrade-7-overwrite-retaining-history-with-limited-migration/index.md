@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved. Although the original list had only #6 options lets look at the #7 option…

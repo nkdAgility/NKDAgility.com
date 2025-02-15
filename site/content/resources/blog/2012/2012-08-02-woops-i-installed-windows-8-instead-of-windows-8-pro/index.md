@@ -27,7 +27,8 @@ aliasesFor404:
 - /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
 tags: []
 preview: nakedalm-windows-logo-7-7.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 After installing Windows 8 I tried to do a couple of things that I normally do to set up my computer.

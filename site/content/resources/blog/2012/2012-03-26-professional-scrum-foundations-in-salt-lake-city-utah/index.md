@@ -30,7 +30,10 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags: []
-categories: []
+categories:
+- Scrum
+- Events and Presentations
+- People and Process
 preview: nakedalm-experts-professional-scrum-8-8.png
 
 ---

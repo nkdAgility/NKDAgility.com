@@ -27,8 +27,14 @@ aliasesFor404:
 - /blog/tfs-integration-tools---issue--tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
-tags: []
-categories: []
+tags:
+- Software Development
+- Troubleshooting
+- Modern Source Control
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-problem-icon-12-12.png
 
 ---

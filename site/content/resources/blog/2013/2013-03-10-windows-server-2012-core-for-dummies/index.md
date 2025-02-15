@@ -21,7 +21,12 @@ aliasesFor404:
 - /windows-server-2012-core-for-dummies
 - /blog/windows-server-2012-core-for-dummies
 - /resources/blog/windows-server-2012-core-for-dummies
-tags: []
+tags:
+- System Configuration
+- Windows
+- Technical Mastery
+- Troubleshooting
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

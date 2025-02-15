@@ -27,7 +27,8 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview---architecture
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-architecture
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 
