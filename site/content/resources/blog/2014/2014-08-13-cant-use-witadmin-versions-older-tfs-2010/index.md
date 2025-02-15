@@ -25,7 +25,11 @@ aliasesFor404:
 - /you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
-tags: []
+tags:
+- Software Development
+- System Configuration
+- Troubleshooting
+- Pragmatic Thinking
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -17,45 +17,41 @@ $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort
 
 $Counter = 1
 
+$categoriesCatalog = Get-CatalogHashtable -Classification "categories"
+$tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
-$hugoMarkdownFiles = @()
+$hugoMarkdownObjects = @()
 $TotalFiles = $resources.Count
 Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $TotalFiles
 $resources | ForEach-Object {
     if ((Test-Path $_)) {
         $hugoMarkdown = Get-HugoMarkdown -Path $_
-        $hugoMarkdownFiles += $hugoMarkdown
+        $hugoMarkdownObjects += $hugoMarkdown
     }
 }
-Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownFiles.Count
+Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownObjects.Count
 
 
-$categoriesCatalog = Get-CatalogHashtable -Classification "categories"
-$tagsCatalog = Get-CatalogHashtable -Classification "tags"
-
-# Initialize a hash table to track counts of each ResourceType
-$resourceTypeCounts = @{}
-
-
-$Counter = 0
-
-
-#$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.Contains('canonicalURL') }
-
-
-$TotalItems = $hugoMarkdownFiles.Count
-#$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
-#Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
-#$TotalItems = $hugoMarkdownFiles.Count
-$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.draft -ne $true }
-Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.draft -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
-
-
-$hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending
+### FILTER hugoMarkdownObjects
+#$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.Contains('canonicalURL') }
+$TotalItems = $hugoMarkdownObjects.Count
+#$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.isShort -ne $true }
+#Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownObjects.Count)
+#$TotalItems = $hugoMarkdownObjects.Count
+$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.draft -ne $true }
+Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.draft -ne true." -PropertyValues ($TotalItems - $hugoMarkdownObjects.Count)
+$hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending
 # Total count for progress tracking
-$TotalItems = $hugoMarkdownFiles.Count
+$TotalItems = $hugoMarkdownObjects.Count
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($TotalItems)
-foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
+### /FILTER hugoMarkdownObjects
+### Convert hugoMarkdownObjects to queue
+$hugoMarkdownQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
+$hugoMarkdownObjects | ForEach-Object {
+    $hugoMarkdownQueue.Enqueue($_)
+}
+$Counter = 0
+foreach ($hugoMarkdown in $hugoMarkdownQueue ) {
     $Counter++
     $PercentComplete = ($Counter / $TotalItems) * 100
     Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete

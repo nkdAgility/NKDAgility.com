@@ -25,7 +25,14 @@ aliasesFor404:
 - /creating-training-virtual-machines-in-azure
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/blog/creating-training-virtual-machines-azure
-tags: []
+tags:
+- Windows
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- System Configuration
+- Troubleshooting
+- Digital Transformation
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

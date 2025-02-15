@@ -34,7 +34,10 @@ tags:
 - Engineering Excellence
 - Customer Feedback Loops
 - Windows
-categories: []
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

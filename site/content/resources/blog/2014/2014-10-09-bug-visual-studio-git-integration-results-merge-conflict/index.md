@@ -25,7 +25,15 @@ aliasesFor404:
 - /bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
-tags: []
+tags:
+- Troubleshooting
+- Modern Source Control
+- Software Development
+- Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
+- Azure Repos
+- Software Developers
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

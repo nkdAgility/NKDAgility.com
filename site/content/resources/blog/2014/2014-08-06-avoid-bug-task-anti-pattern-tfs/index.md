@@ -26,7 +26,26 @@ aliasesFor404:
 - /avoid-bug-task-anti-pattern-tfs
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
-tags: []
+tags:
+- Software Development
+- Product Owner
+- Test First Development
+- Technical Mastery
+- Software Developers
+- Agile Planning
+- Agile Transformation
+- Team Performance
+- Agile Project Management
+- Azure Boards
+- Operational Practices
+- Engineering Practices
+- Pragmatic Thinking
+- Transparency
+- Test Driven Development
+- Working Software
+- Product Backlog
+- Team Collaboration
+- Engineering Excellence
 categories:
 - People and Process
 - Agile Product Management

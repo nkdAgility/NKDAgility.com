@@ -25,7 +25,14 @@ aliasesFor404:
 - /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
-tags: []
+tags:
+- Software Development
+- System Configuration
+- Technical Mastery
+- Pragmatic Thinking
+- Troubleshooting
+- Release Management
+- Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
