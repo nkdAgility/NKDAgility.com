@@ -21,8 +21,16 @@ aliasesFor404:
 - /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
-tags: []
-categories: []
+tags:
+- Windows
+- Azure Pipelines
+- System Configuration
+- Software Development
+- Troubleshooting
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 If you are using Windows Server 2012 R2 to test out the new vNext build agent then you may run into an error where it could not load file or assembly while configuring Build vNext Agent.

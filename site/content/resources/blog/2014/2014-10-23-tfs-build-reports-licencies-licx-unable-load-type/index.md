@@ -25,8 +25,18 @@ aliasesFor404:
 - /tfs-build-reports-licencies-licx--unable-to-load-type
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
-tags: []
-categories: []
+tags:
+- Operational Practices
+- Pragmatic Thinking
+- Continuous Integration
+- System Configuration
+- Software Development
+- Troubleshooting
+- Release Management
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

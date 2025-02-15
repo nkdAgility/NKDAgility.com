@@ -25,8 +25,31 @@ aliasesFor404:
 - /my-journey-into-professional-scrum
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
-tags: []
-categories: []
+tags:
+- Strategy
+- Scrum Product Development
+- Software Development
+- Scaling Agility
+- Scaling Scrum
+- Professional Scrum
+- Agile Project Management
+- Organisational Change
+- Organisational Culture
+- Agile Transformation
+- Agile Planning
+- Pragmatic Thinking
+- Team Collaboration
+- Agile Strategy
+- Self Organisation
+- Agile Frameworks
+- Team Performance
+- Software Developers
+- Continuous Learning
+- Accountability
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

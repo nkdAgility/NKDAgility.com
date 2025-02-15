@@ -25,8 +25,17 @@ aliasesFor404:
 - /the-benefits-of-visual-studio-online-for-the-enterprise
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
-tags: []
-categories: []
+tags:
+- Release Management
+- Software Development
+- Frequent Releases
+- Digital Transformation
+- Organisational Change
+- Azure Pipelines
+categories:
+- DevOps
+- Application Lifecycle Management
+- Business Agility
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

@@ -25,8 +25,12 @@ aliasesFor404:
 - /move-your-azure-vm-to-a-virtual-network
 - /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/blog/move-azure-vm-virtual-network
-tags: []
-categories: []
+tags:
+- System Configuration
+- Troubleshooting
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
 preview: nakedalm-windows-logo-8-8.png
 
 ---

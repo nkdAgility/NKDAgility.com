@@ -25,8 +25,24 @@ aliasesFor404:
 - /configure-a-build-vnext-agent
 - /blog/configure-a-build-vnext-agent
 - /resources/blog/configure-a-build-vnext-agent-on-vso
-tags: []
-categories: []
+tags:
+- System Configuration
+- Azure Pipelines
+- Software Development
+- Windows
+- Technical Mastery
+- Modern Source Control
+- Operational Practices
+- Pragmatic Thinking
+- Engineering Excellence
+- Azure Repos
+- Continuous Integration
+- Software Developers
+- Release Management
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

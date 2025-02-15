@@ -25,8 +25,31 @@ aliasesFor404:
 - /upcomming-scrum-at-scale-workshop-from-scrum-org
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
-tags: []
-categories: []
+tags:
+- Scaling Agility
+- Organisational Culture
+- Change Management
+- Agile Project Management
+- Software Development
+- Large Scale Agility
+- Organisational Change
+- Scaling Scrum
+- Scaled Agile
+- Evidence Based Leadership
+- Agile Frameworks
+- Agile Strategy
+- Agile Transformation
+- Pragmatic Thinking
+- Professional Scrum
+- Organisational Physics
+- Ability to Innovate
+- Agile Leadership
+- Empirical Process Control
+- Operational Practices
+categories:
+- Scrum
+- Evidence Based Management
+- Resilience and Change
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---
