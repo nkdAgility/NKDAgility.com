@@ -21,7 +21,13 @@ aliasesFor404:
 - /restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /resources/blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
-tags: []
+tags:
+- Troubleshooting
+- System Configuration
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
