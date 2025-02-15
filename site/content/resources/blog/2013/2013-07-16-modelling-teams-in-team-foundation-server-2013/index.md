@@ -21,7 +21,15 @@ aliasesFor404:
 - /modelling-teams-in-team-foundation-server-2013
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
-tags: []
+tags:
+- Software Development
+- Modern Source Control
+- Operational Practices
+- System Configuration
+- Software Developers
+- Technical Mastery
+- Pragmatic Thinking
+- Windows
 categories:
 - Application Lifecycle Management
 - Install and Configuration

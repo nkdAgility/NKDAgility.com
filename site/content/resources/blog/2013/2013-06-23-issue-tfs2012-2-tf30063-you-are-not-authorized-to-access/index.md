@@ -25,7 +25,9 @@ aliasesFor404:
 - /issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /resources/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
-tags: []
+tags:
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 preview: puzzle-issue-problem-128-link-3-3.png

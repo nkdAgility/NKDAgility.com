@@ -21,7 +21,13 @@ aliasesFor404:
 - /tf200035-sync-error-for-identity-with-tfs-2010
 - /blog/tf200035-sync-error-for-identity-with-tfs-2010
 - /resources/blog/tf200035-sync-error-for-identity-with-tfs-2010
-tags: []
+tags:
+- Windows
+- System Configuration
+- Troubleshooting
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

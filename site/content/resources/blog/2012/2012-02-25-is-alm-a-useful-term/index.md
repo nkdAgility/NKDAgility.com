@@ -25,7 +25,13 @@ aliasesFor404:
 - /is-alm-a-useful-term-
 - /blog/is-alm-a-useful-term-
 - /resources/blog/is-alm-a-useful-term
-tags: []
+tags:
+- Software Developers
+- Software Development
+- Agile Strategy
+- Engineering Excellence
+- Pragmatic Thinking
+- Agile Project Management
 categories:
 - People and Process
 - Application Lifecycle Management

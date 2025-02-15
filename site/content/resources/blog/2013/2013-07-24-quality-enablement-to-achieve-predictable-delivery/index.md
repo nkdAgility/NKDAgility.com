@@ -21,7 +21,27 @@ aliasesFor404:
 - /quality-enablement-to-achieve-predictable-delivery
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
-tags: []
+tags:
+- Operational Practices
+- Definition of Done
+- Acceptance Test Driven Development
+- Software Developers
+- Working Software
+- Software Development
+- Continuous Delivery
+- Pragmatic Thinking
+- Engineering Excellence
+- Engineering Practices
+- Agile Project Management
+- Forecasting
+- Scrum Product Development
+- Product Backlog
+- Team Performance
+- Automated Testing
+- Test Automation
+- Deployment Frequency
+- Empirical Process Control
+- Evidence Based Leadership
 categories:
 - Product Delivery
 - Value Delivery

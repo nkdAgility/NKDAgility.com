@@ -31,7 +31,9 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
-tags: []
+tags:
+- Agile Planning
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

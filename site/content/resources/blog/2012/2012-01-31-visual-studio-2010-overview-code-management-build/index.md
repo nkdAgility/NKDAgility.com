@@ -31,7 +31,15 @@ categories:
 - Practical Techniques and Tooling
 - Application Lifecycle Management
 - Technical Excellence
-tags: []
+tags:
+- Software Development
+- Engineering Excellence
+- Modern Source Control
+- Operational Practices
+- Continuous Integration
+- Technical Mastery
+- Working Software
+- Software Developers
 
 ---
 code-management-and-build

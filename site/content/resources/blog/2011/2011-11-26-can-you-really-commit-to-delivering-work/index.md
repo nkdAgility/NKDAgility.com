@@ -25,7 +25,27 @@ aliasesFor404:
 - /can-you-really-commit-to-delivering-work-
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
-tags: []
+tags:
+- Transparency
+- Forecasting
+- Scrum Product Development
+- Agile Planning
+- Scrum Team
+- Software Development
+- Agile Values and Principles
+- Agile Frameworks
+- Software Developers
+- Scrum Values
+- Pragmatic Thinking
+- Professional Scrum
+- Agile Project Management
+- Team Performance
+- Agile Transformation
+- Agile Philosophy
+- Empirical Process Control
+- Accountability
+- Change Management
+- Scrum Master
 categories:
 - Scrum
 - Agile Product Management

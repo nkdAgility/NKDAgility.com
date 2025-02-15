@@ -21,7 +21,9 @@ aliasesFor404:
 - /tfs-service-credential-viewer
 - /blog/tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
-tags: []
+tags:
+- Windows
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

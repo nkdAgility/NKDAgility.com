@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/coffee-talk--scrum-versus-kanban
 - /resources/blog/coffee-talk-scrum-versus-kanban
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- Lean
+- Scrum
 preview: metro-event-128-link-1-1.png
 
 ---

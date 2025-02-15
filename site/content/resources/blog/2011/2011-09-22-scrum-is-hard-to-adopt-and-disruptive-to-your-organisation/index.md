@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 tags: []
-categories: []
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
 preview: nakedalm-experts-professional-scrum-4-4.png
 
 ---

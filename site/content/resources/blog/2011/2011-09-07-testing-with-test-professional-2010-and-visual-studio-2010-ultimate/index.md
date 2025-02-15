@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags: []
-categories: []
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Events and Presentations
 
 ---
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-1-1.png "NWC tagline logo_transparent")On Monday 24th October one of our consultants, Dan Wood, is presenting our course on Testing with Visual Studio ALM. The course is running on **Monday 24th October** and I managed to get NWC to provide 10 additional seats for you guys at the discounted rate.
