@@ -25,8 +25,15 @@ aliasesFor404:
 - /getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 - /blog/getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 - /resources/blog/getting-service-account-vso-tfs-service-credential-viewer
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Software Development
+- Windows
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

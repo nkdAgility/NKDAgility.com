@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- DevOps
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

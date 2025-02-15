@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

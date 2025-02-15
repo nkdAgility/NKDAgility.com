@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
 preview: metro-office-128-link-3-3.png
 
 ---

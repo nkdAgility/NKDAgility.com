@@ -25,7 +25,12 @@ aliasesFor404:
 - /run-a-router-on-hyper-v
 - /blog/run-a-router-on-hyper-v
 - /resources/blog/run-router-hyper-v
-tags: []
+tags:
+- Windows
+- Technical Mastery
+- Pragmatic Thinking
+- System Configuration
+- Troubleshooting
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

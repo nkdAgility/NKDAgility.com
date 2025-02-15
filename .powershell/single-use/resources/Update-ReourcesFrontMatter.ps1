@@ -50,17 +50,32 @@ $hugoMarkdownQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
 $hugoMarkdownObjects | ForEach-Object {
     $hugoMarkdownQueue.Enqueue($_)
 }
+$hugoMarkdownBatchQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
+# Time settings
+$lastCheck = Get-Date
+$checkInterval = [TimeSpan]::FromMinutes(1)  # Adjust as needed
 $Counter = 0
-foreach ($hugoMarkdown in $hugoMarkdownQueue ) {
-    $Counter++
-    $PercentComplete = ($Counter / $TotalItems) * 100
-    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
- 
-
-    Write-DebugLog "--------------------------------------------------------"
-    Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
-
-    
+$TotalItems = $hugoMarkdownQueue.Count
+while ($hugoMarkdownQueue.Count -gt 0 -and $hugoMarkdownBatchQueue.Count -gt 0) {
+    if ((Get-Date) - $lastCheck -ge $checkInterval -and $hugoMarkdownBatchQueue.Count -gt 0) {
+        Write-DebugLog "Processing markdown files. $Counter of $TotalItems processed."
+        $lastCheck = Get-Date
+        $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
+        Write-Progress -id 1 -Activity "Processing Markdown Objects" -Status "Interlude to Check Batch | Batch Queue: $($hugoMarkdownBatchQueue.count) | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
+        
+    }
+    else {
+        if ($hugoMarkdownQueue.Count -eq 0) {
+            continue
+        }
+        $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
+        $Counter++
+        $PercentComplete = ($Counter / $TotalItems) * 100
+        Write-Progress -id 1 -Activity "Processing Markdown Objects" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-DebugLog "--------------------------------------------------------"
+        Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
+    }  
 
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
@@ -222,15 +237,15 @@ foreach ($hugoMarkdown in $hugoMarkdownQueue ) {
     }
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
-
-    # Track count of ResourceType
-    if ($resourceTypeCounts.ContainsKey($ResourceType)) {
-        $resourceTypeCounts[$ResourceType]++
-    }
-    else {
-        $resourceTypeCounts[$ResourceType] = 1
+    
+    # If there are any batches for this item add it to the batch queue for reprocessing
+    $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
+    if ($resources.Count -gt 0) {
+        $hugoMarkdownBatchQueue.Enqueue($hugoMarkdown)
     }
 }
+
+
 Write-Progress -id 1 -Completed
 Write-DebugLog "All markdown files processed."
 Write-DebugLog "--------------------------------------------------------"

@@ -25,7 +25,26 @@ aliasesFor404:
 - /avoid-the-pick-n-mix-branching-anti-pattern
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
-tags: []
+tags:
+- Technical Mastery
+- Engineering Excellence
+- Modern Source Control
+- Working Software
+- Pragmatic Thinking
+- Software Development
+- Continuous Delivery
+- Release Management
+- Software Developers
+- Technical Debt
+- Frequent Releases
+- Engineering Practices
+- Operational Practices
+- Deployment Strategies
+- Troubleshooting
+- Strategy
+- Continuous Integration
+- Decision Making
+- Change Management
 categories:
 - Technical Excellence
 - Code and Complexity

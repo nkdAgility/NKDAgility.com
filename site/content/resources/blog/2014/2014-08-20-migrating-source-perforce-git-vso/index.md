@@ -25,7 +25,18 @@ aliasesFor404:
 - /migrating-source-from-perforce-to-git-on-vso
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/blog/migrating-source-perforce-git-vso
-tags: []
+tags:
+- Software Development
+- Modern Source Control
+- Continuous Integration
+- Software Developers
+- Azure Repos
+- Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
+- Engineering Practices
+- Digital Transformation
+- Troubleshooting
 categories:
 - Practical Techniques and Tooling
 - DevOps
