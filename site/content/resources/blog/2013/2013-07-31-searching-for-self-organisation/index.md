@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/searching-for-self-organisation
 - /resources/blog/searching-for-self-organisation
 tags: []
-categories: []
+categories:
+- People and Process
+- Complexity Thinking
+- Organisational Agility
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

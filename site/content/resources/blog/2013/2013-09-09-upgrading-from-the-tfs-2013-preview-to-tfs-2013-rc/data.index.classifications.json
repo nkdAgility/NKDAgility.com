@@ -1,1058 +1,1361 @@
 {
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on upgrading Team Foundation Server (TFS) and does not discuss Agile frameworks as a central topic.",
-    "level": "Ignored"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server and does not focus on Scrum values.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, focusing on installation and configuration details rather than Azure Boards specifically.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-15T11:44:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2013 Preview to TFS 2013 RC, detailing technical steps and prerequisites rather than analysing trends.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses trial upgrades and testing processes related to upgrading TFS, indicating a focus on experimentation in the context of software upgrades.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion or emphasis on lean product development principles.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the upgrade process of Team Foundation Server, detailing best practices, prerequisites, and lessons learned, which aligns with engineering excellence in software development.",
-    "level": "Secondary"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013, including technical details and prerequisites, without any focus on value stream mapping.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the process of upgrading Team Foundation Server, with no clear focus on self-organisation.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no clear discussion on Agile Planning principles or practices.",
-    "level": "Ignored"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the process of upgrading software and includes recommendations for trial upgrades and backup plans, indicating decision-making considerations, but the primary focus is on the technical aspects of the upgrade process.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, focusing on technical details and prerequisites, with no mention of Kanban or scaling methodologies.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) from a preview version to a release candidate, focusing on installation and configuration rather than test automation.",
-    "level": "Ignored"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no clear discussion or emphasis on Agile transformation principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2013 and does not focus on Scaled Agile principles or practices.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no clear focus on cycle time as a central theme.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the process of upgrading from TFS 2013 Preview to TFS 2013 RC, focusing on technical details and prerequisites rather than working agreements.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, focusing on technical details and procedures rather than the BetaCodex framework.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no significant discussion on team performance.",
-    "level": "Ignored"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server and does not focus on Agile values or principles.",
-    "level": "Ignored"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and does not focus on revenue metrics or employee productivity.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion of strategic goals.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion or emphasis on organisational physics.",
-    "level": "Ignored"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with limited discussion on leadership or management aspects.",
-    "level": "Ignored"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013 and does not focus on Lean Principles.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses upgrading from TFS 2013 Preview to TFS 2013 RC, focusing on the upgrade process, prerequisites, and installation details, with no mention of Azure Pipelines.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and does not focus on Scrum teams or their roles.",
-    "level": "Ignored"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on employee engagement.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on upgrading Team Foundation Server and does not discuss empirical process control as a central theme.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses the process of upgrading from TFS 2013 Preview to TFS 2013 RC, highlighting the frequency of upgrades and the importance of staying current with software releases.",
-    "level": "Secondary"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, including potential issues and recommendations for trial upgrades, which indicates a focus on troubleshooting aspects of the upgrade process.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, with no clear focus on backlog refinement.",
-    "level": "Ignored"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on evidence-based management principles.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and does not focus on remote working as a central theme.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is an Agile planning tool, but the primary focus is on the upgrade process rather than Agile planning features.",
-    "level": "Ignored"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, focusing on installation, prerequisites, and configuration rather than automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and does not focus on Scrum practices or scaling methodologies.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the practical aspects of upgrading Team Foundation Server, including trial upgrades, prerequisites, and installation processes, demonstrating a pragmatic approach to problem-solving in a technical context.",
-    "level": "Secondary"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, with no significant focus on Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no significant discussion on organisational change.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on Product Owner responsibilities or themes.",
-    "level": "Ignored"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion of product strategy.",
-    "level": "Ignored"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no significant discussion on transparency.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the process of upgrading from TFS 2013 Preview to TFS 2013 RC, detailing the steps, prerequisites, and considerations involved in managing this change effectively.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 95,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server, which is highly relevant to software developers working with TFS and software development environments.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server, detailing the steps and considerations involved in ensuring a successful transition to a working software version.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content primarily discusses the process of upgrading Team Foundation Server, including prerequisites, installation steps, and configuration considerations, which are central to system configuration.",
-    "level": "Secondary"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on Lean Startup principles or methodologies.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no significant discussion on organisational culture.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses upgrading software and improving processes, which are aspects of digital transformation, but the primary focus is on the technical details of the TFS upgrade process.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, with no mention of Sprint Review activities or outcomes.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading software (TFS 2013) and does not discuss entrepreneurship as a clear or primary topic.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no significant focus on technical debt.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and does not focus on Daily Scrum activities or themes.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, focusing on installation and configuration details rather than continuous integration practices.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the upgrade process for a customer and mentions their satisfaction with the upgrades, but the primary focus is on technical details of the upgrade rather than customer satisfaction itself.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server in a large environment with many users, which touches on aspects of agility in large-scale software development, but the primary focus is on the upgrade process itself.",
-    "level": "Ignored"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear emphasis on coaching or mentoring.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on upgrading Team Foundation Server (TFS), which is a modern source control system, detailing the upgrade process, prerequisites, and best practices.",
-    "level": "Secondary"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with only brief mentions of learning from experiences and improvements in the upgrade process.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on upgrading Team Foundation Server and does not discuss Scrum or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no clear discussion of Agile strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, focusing on technical details and prerequisites rather than Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no clear discussion or emphasis on Agile leadership principles.",
-    "level": "Ignored"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013, with no focus on market share or related metrics.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, with no clear focus on MVP concepts.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which indirectly relates to throughput by mentioning the efficiency and speed of upgrades, but the primary focus is on the upgrade steps and prerequisites rather than throughput itself.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which indirectly relates to scaling agility through improved software delivery and management practices, but it is primarily focused on technical upgrade details.",
-    "level": "Ignored"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 95,
-    "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the process of upgrading Team Foundation Server, detailing technical steps, prerequisites, and experiences related to software development and deployment.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2013 Preview to TFS 2013 RC, detailing trial upgrades, prerequisites, and the upgrade process, which are all key aspects of deployment strategies.",
-    "level": "Secondary"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion or emphasis on accountability as a central theme.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no clear emphasis on team collaboration.",
-    "level": "Ignored"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) and does not focus on portfolio management as a central theme.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, with no clear focus on the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content briefly mentions features of Team Foundation Server 2013 and encourages users to explore the backlog management features, but the primary focus is on the upgrade process rather than the product backlog itself.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no clear discussion on innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server and does not focus on Scrum roles, practices, or methodologies.",
-    "level": "Ignored"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and does not focus on cross-functional teams.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on team motivation.",
-    "level": "Ignored"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server and does not address psychological safety as a clear or primary topic.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013, focusing on technical details and procedures rather than Lean Thinking principles.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no clear focus on customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear emphasis on sensemaking.",
-    "level": "Ignored"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the process of upgrading from TFS 2013 Preview to TFS 2013 RC, focusing on technical details and prerequisites rather than lead time.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, with no focus on Test First Development.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server, which is a collaboration tool, but the primary focus is on the upgrade process rather than collaboration features.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the upgrade process of Team Foundation Server, detailing best practices, prerequisites, and installation steps, which are central to engineering practices in software development.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, which is a key aspect of continuous delivery, but it also includes significant details about the environment and prerequisites, making it a major but secondary theme.",
-    "level": "Secondary"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, which is closely related to Azure Repos as part of the Team Foundation Server ecosystem.",
-    "level": "Secondary"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on the process of upgrading Team Foundation Server, detailing operational steps, prerequisites, and best practices for a successful upgrade, which aligns closely with operational practices.",
-    "level": "Secondary"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 75,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server (TFS) which is closely tied to Windows Server versions, specifically mentioning Windows Server 2008 R2 and Windows Server 2012. However, the primary focus is on TFS rather than Windows itself.",
-    "level": "Secondary"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on evidence-based leadership principles.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no clear focus on customer retention strategies or themes.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) and does not focus on site reliability engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) and does not focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear emphasis on mentoring or guidance.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the upgrade process from TFS 2013 Preview to TFS 2013 RC, detailing technical steps and considerations rather than discussing deployment frequency.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the technical process of upgrading Team Foundation Server, detailing prerequisites, installation steps, and best practices, demonstrating a high level of technical expertise.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 41.0,
-    "reasoning": "The content mentions the quality bar for 'Done' in the context of upgrades, indicating a secondary theme related to the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013 and does not focus on Behaviour Driven Development.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no clear emphasis on product discovery.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and does not focus on hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content mentions asynchronous upgrades of collections during the TFS upgrade process, but the primary focus is on the upgrade procedure itself rather than asynchronous development as a central theme.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which is related to agile practices in software development, but the primary focus is on technical details rather than enterprise agility as a central theme.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 44.0,
-    "reasoning": "The content discusses the upgrade process of TFS and mentions the customer and their team dynamics, but the primary focus is on technical details rather than the people and processes involved.",
-    "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) from a preview version to a release candidate, focusing on technical details and procedures rather than value stream management.",
-    "level": "Ignored"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 9.0,
-    "reasoning": "The content primarily focuses on upgrading Team Foundation Server and does not discuss Lean principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the upgrade process of Team Foundation Server 2013, detailing its features and installation, which aligns closely with the category of products.",
-    "level": "Secondary"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no substantial discussion on complexity thinking.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2013, which includes learning about new features and best practices, but the primary focus is on the technical upgrade rather than discovery and learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the process of upgrading Team Foundation Server and does not focus on decision theory as a central theme.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on upgrading Team Foundation Server, which is a key aspect of Application Lifecycle Management, detailing processes, prerequisites, and best practices for managing software versions.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, detailing technical steps, prerequisites, and considerations, which aligns closely with the themes of code and complexity.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading from TFS 2013 Preview to TFS 2013 RC, rather than providing news or reviews.",
-    "level": "Ignored"
-  },
-  "Install and Configuration": {
-    "category": "Install and Configuration",
-    "ai_confidence": 95,
-    "non_ai_confidence": 30,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2013 Preview to TFS 2013 RC, detailing installation steps, prerequisites, and configuration considerations, making it central to the topic of installation and configuration.",
-    "level": "Secondary"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion of sociotechnical systems.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses the upgrade process of TFS, which indirectly relates to flow efficiency through streamlined processes and reduced issues during upgrades, but the primary focus is on the upgrade procedure itself.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2013 Preview to TFS 2013 RC, detailing technical steps and prerequisites, rather than discussing miscellaneous topics.",
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the technical aspects of upgrading Team Foundation Server and does not focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "ai_confidence": 92,
+    "calculated_at": "2025-02-15T11:44:26",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on the practical steps and techniques for upgrading Team Foundation Server from the Preview to the Release Candidate, detailing the process, prerequisites, and best practices involved.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the practical steps and considerations involved in upgrading Team Foundation Server, including prerequisites, installation processes, and best practices for trial upgrades, which aligns well with the category's focus on practical techniques and tooling.",
     "level": "Secondary"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on the upgrade process of TFS 2013, detailing the steps taken to ensure a smooth transition and the benefits of the new version, which aligns closely with delivering value through improved software functionality and reliability.",
-    "level": "Secondary"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-15T11:44:28",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion on organisational agility.",
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server (TFS) rather than focusing on platform engineering principles or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-15T11:44:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-15T11:44:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not focus on code quality or complexity theory.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-15T11:44:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on the technical details of upgrading Team Foundation Server, with no significant emphasis on discovery or learning processes.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-15T11:44:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and does not focus on AI or automation in agility.",
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not address AI or automation in Agile practices.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-15T11:44:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not focus on Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-15T11:44:36",
+    "ai_confidence": 90,
+    "non_ai_confidence": 30,
+    "final_score": 84.0,
+    "reasoning": "The content primarily focuses on the installation and upgrade process of Team Foundation Server 2013 RC, providing detailed step-by-step instructions, prerequisites, and best practices for configuration, which aligns well with the 'Install and Configuration' category.",
+    "level": "Primary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-15T11:44:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses upgrading software and adapting to new versions, which indicates some level of market adaptability, but the primary focus is on the technical upgrade process rather than broader market strategies.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
+    "calculated_at": "2025-02-15T11:44:39",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of upgrading Team Foundation Server, with no clear focus on personal experiences or themes.",
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on strategies or practices related to market adaptability.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-15T11:44:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no significant discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "ai_confidence": 50,
+    "calculated_at": "2025-02-15T11:44:42",
+    "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the upgrade process of TFS and mentions the importance of trial upgrades and backups, which are related to resilience in managing software changes. However, the primary focus is on technical details of the upgrade rather than resilience and change as a central theme.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on organisational resilience or change management.",
     "level": "Ignored"
   },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-15T11:44:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses upgrading Team Foundation Server, which relates to continuous integration and delivery practices, but primarily focuses on the upgrade process rather than broader DevOps principles.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-15T11:44:46",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on organisational psychology.",
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server, which is a specific technology and does not align with the Miscellaneous category.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-15T11:44:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no focus on decision-making processes or theories.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T11:44:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no reference to events, presentations, or discussions related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-15T11:44:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server, with no clear focus on flow efficiency principles or optimisation of work throughput.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-15T11:44:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses the technical aspects of upgrading Team Foundation Server, with minimal focus on human behaviour or process methodologies.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-15T11:44:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server without addressing broader organisational agility or cultural implications.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-15T11:44:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
+    "calculated_at": "2025-02-15T11:44:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2013 Preview to TFS 2013 RC, detailing technical steps and prerequisites rather than discussing metrics or learning outcomes.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the process of upgrading from TFS 2013 Preview to TFS 2013 RC, focusing on technical details and procedures rather than transparency and accountability.",
-    "level": "Ignored"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server rather than discussing Agile product management principles or practices.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-15T11:44:58",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, with no clear discussion or emphasis on systems thinking principles.",
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not address Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-15T11:45:00",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which involves technical practices and methodologies relevant to software development and delivery. However, the primary focus is on the upgrade procedure rather than broader engineering practices or principles.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-15T11:45:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server, with no clear focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-15T11:45:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical aspects of upgrading software and does not address psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-15T11:45:04",
+    "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the process of upgrading Team Foundation Server, detailing steps, prerequisites, and experiences related to the upgrade, which is a key aspect of product delivery.",
+    "final_score": 46.0,
+    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which relates to deployment and management of software products, but it primarily focuses on technical details rather than broader product delivery methodologies.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-15T11:45:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not address BetaCodex principles or related topics.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-15T11:45:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server, focusing on technical details and procedures rather than Value Stream Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-15T11:45:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the upgrade process of Team Foundation Server 2013, which is a software product relevant to Agile and DevOps practices, but the primary focus is on the technical upgrade process rather than a review or analysis of the product itself.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-15T11:45:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical aspects of upgrading Team Foundation Server, with little to no discussion on value delivery strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-15T11:45:11",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a component of Azure DevOps, detailing specific steps, prerequisites, and best practices related to TFS upgrades.",
     "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-15T11:45:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical aspects of upgrading Team Foundation Server, lacking personal reflections or experiences.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-15T11:45:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server, focusing on technical details and procedures rather than Systems Thinking principles or applications.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-15T11:45:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server (TFS) and does not focus on the principles or implementation of the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-15T11:45:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server, focusing on technical details rather than Agile principles or product-centric development.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-15T11:45:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical aspects of upgrading Team Foundation Server, with no clear discussion on organisational agility principles or practices.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-15T11:45:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the upgrade process of Team Foundation Server 2013 RC, which includes insights into the software's features and improvements. However, it primarily focuses on a technical tutorial rather than providing a broader industry news or review context.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-15T11:45:22",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which is related to application lifecycle management, but primarily focuses on the technical aspects of the upgrade rather than the broader methodologies and practices of ALM.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-15T11:45:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) and does not focus on Scrum principles, roles, events, or practices.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses upgrading Team Foundation Server and related processes, with no relevance to Daily Scrum or its key themes.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily focuses on the technical process of upgrading TFS and does not discuss the Definition of Done.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the process of upgrading Team Foundation Server (TFS) including best practices, prerequisites, and technical details related to software upgrade processes, aligning well with topics of software craftsmanship and engineering practices.",
+    "level": "Secondary"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical details and processes related to upgrading Team Foundation Server, with no focus on identifying customer needs or defining product features.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server rather than principles or practices of Continuous Delivery.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical details of upgrading software and does not discuss long-term objectives or business agility.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013 and is focused on technical aspects of upgrades rather than lead time as a metric from initiation to delivery.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the technical aspects of upgrading Team Foundation Server and related processes, with no clear connection to organisational culture or its influence on team dynamics or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content focuses on upgrading Team Foundation Server and does not address the Definition of Ready or related themes.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server without a focus on portfolio management or strategy execution.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on upgrading Team Foundation Server and technical processes rather than discussing the Product Backlog.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical aspects of upgrading Team Foundation Server, with no focus on Agile Planning principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on upgrading processes and software management with no clear discussion on Value Stream Mapping principles or practices.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server without focusing on customer feedback mechanisms.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the practical steps and considerations involved in upgrading to TFS 2013 RC, which relates to operational practices in managing software processes. However, the primary focus is on the upgrade process itself rather than on broad operational efficiency topics.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses upgrading Team Foundation Server and is not focused on Scrum roles, dynamics, or practices.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical process of upgrading Team Foundation Server rather than the underlying principles and values of Agile philosophy.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily describes a technical process of upgrading and installing software (TFS 2013), without focusing on strategic alignment, planning, or execution within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content discusses upgrading software environments and technical processes, primarily focusing on installation and configuration details rather than product validation methodologies or user feedback.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) without any substantial discussion on Agile transformation practices, methodologies, or principles.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical details and procedures related to upgrading software, with no focus on mentoring or coaching in Agile environments.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not focus on automated testing principles, practices, or methodologies.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses upgrading software and technical procedures related to Team Foundation Server, without a clear focus on team performance, dynamics, or collaboration.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of upgrading Team Foundation Server and does not focus on the concept of Increment in Agile or Scrum.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server, discussing technical details and procedures, without reference to Acceptance Test Driven Development or related concepts.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses upgrading Team Foundation Server (TFS), which is integral to software development processes and practices, specifically related to continuous integration and deployment in a team environment.",
+    "level": "Secondary"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server software, with no clear focus on Agile Project Management principles, frameworks, or methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on technical details and procedures related to upgrading Team Foundation Server, without direct reference to Agile values or principles.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on upgrading Team Foundation Server and lacks discussion on Scrum principles, roles, events, artifacts, or practices.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses upgrading Team Foundation Server, which is a version control system, but it does not delve deeply into modern source control methodologies or best practices. It's more focused on the upgrade process of TFS rather than strategic discussions on collaboration or code management.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical details and steps involved in upgrading Team Foundation Server, with no clear emphasis on the principles of empirical process control or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not address Scrum Values or related themes.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2013 and related configurations, which does not focus on Azure Boards or Agile project management functionalities.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server rather than focusing on collaboration tools or their role in Agile teamwork.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical upgrade process of TFS 2013 and does not address aspects of organisational change, such as transformation methodologies or practices.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on upgrading a software product (TFS 2013), detailing technical processes and requirements, which do not relate to Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the upgrade process between different versions of Team Foundation Server, highlighting aspects of software updates which are relevant to the concept of frequent releases. However, the primary focus is on the technical upgrade details rather than a broad discussion of frequent release practices.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses technical details about upgrading Team Foundation Server and does not focus on customer satisfaction or related themes.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses upgrading Team Foundation Server and does not mention Scrum principles, practices, or scaling methodologies.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on the technical process of upgrading software rather than discussing evidence-based approaches to leadership or decision-making.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical aspects of upgrading software and does not touch on psychological safety or its related themes.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on procedures and technical details for upgrading Team Foundation Server, without discussing strategies for scaling agility across teams or organizations.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses technical practices related to upgrading software and managing environments, but primarily focuses on the specific process of upgrading Team Foundation Server rather than broad engineering excellence principles.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is primarily focused on the upgrade process of Team Foundation Server and does not discuss revenue per employee or related financial metrics.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, detailing installation steps, configurations, and prerequisites without focusing on asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on the technical aspects of upgrading Team Foundation Server and does not engage with organisational dynamics or systems thinking.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content is primarily focused on the technical process of upgrading TFS, with no discussions on customer retention strategies or user engagement.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content includes practical problem-solving strategies for upgrading Team Foundation Server, discussing real-world applications of upgrades and improvements, as well as navigating complexities linked to data management in an Agile environment.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on upgrading Team Foundation Server and does not discuss backlog refinement practices or related Agile topics.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical aspects and challenges of upgrading Team Foundation Server, without a clear focus on innovation capabilities or Evidence-Based Management principles.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) rather than Scrum principles, roles, or practices related to product development.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on upgrading Team Foundation Server and does not address scaling Agile practices or coordination among multiple teams.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the technical processes and upgrades related to Team Foundation Server, with no focus on employee engagement or relevant human aspects.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical upgrade process of Team Foundation Server 2013, without any clear alignment to Lean Thinking principles or themes.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not focus on test automation or related principles, practices, and tools.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the technical upgrade process of Team Foundation Server (TFS), lacking a focus on entrepreneurship principles, innovation, or risk-taking.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server (TFS), which is a tool related to software development. While it touches on aspects of working software such as successful upgrades and ensuring functionality, the focus is mainly on the installation and upgrade process rather than directly on the characteristics or delivery of working software itself.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server (TFS) and does not focus on Agile planning tools or their methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server and does not focus on the principles or practices of Continuous Integration.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is focused on the technical process of upgrading software and does not mention market share, strategies to increase market presence, or any competitive analysis.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical procedures for upgrading TFS software, with no clear focus on Agile leadership concepts or practices.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server, focusing on technical details and procedural steps, rather than interpreting complex situations or decision-making through sensemaking principles.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server and related installation processes, without a clear focus on principles or practices of Site Reliability Engineering.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on upgrading software versions and technical processes involved, with no mention of formulating or testing hypotheses related to product features or user behaviors.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-15T17:51:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical process of upgrading Team Foundation Server, rather than discussing structured decision-making methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of upgrading software and managing Team Foundation Server without mentioning Lean principles or practices related to waste reduction and value maximization.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the process of upgrading Team Foundation Server (TFS) versions, which is directly related to release management practices. It emphasizes trial upgrades, prerequisites, and the steps involved in a production move, aligning with release management strategies.",
+    "level": "Secondary"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on technical aspects of upgrading Team Foundation Server and does not discuss the Product Owner's role, responsibilities, or related practices.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on upgrading Team Foundation Server and does not discuss Cycle Time or its implications.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on upgrading Team Foundation Server (TFS) rather than discussing Azure Pipelines or associated CI/CD processes.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses TFS upgrades and installation procedures, not associated with optimisation of software deployment intervals.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical aspects of upgrading from TFS 2013 Preview to TFS 2013 RC, rather than on change management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical aspects of upgrading Team Foundation Server, with no focus on team dynamics, communication, or collaboration, which are central to the specified category.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on upgrading Team Foundation Server (TFS) and does not discuss Behaviour Driven Development or its related concepts.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the process of upgrading Team Foundation Server (TFS) without a clear focus on digital transformation strategies, methodologies, or the broader implications of leveraging digital tools for business innovation or operational efficiency.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content discusses upgrading Team Foundation Server and does not mention MVP or related concepts central to the development and utilization of a Minimum Viable Product.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content is focused on upgrading Team Foundation Server (TFS) and does not discuss AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses processes and methodologies involved in upgrading Team Foundation Server, which includes software installation, configuration requirements, and best practices for ensuring a successful upgrade. It focuses on practical aspects relevant to system configuration.",
+    "level": "Secondary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content is focused on technical details of upgrading software and does not discuss product vision, roadmaps, or market analysis.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical steps involved in upgrading Team Foundation Server, with no clear focus on leadership, team dynamics, or agile methodologies.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on upgrading Team Foundation Server (TFS) rather than estimation practices in Agile or Scrum.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the process of upgrading Team Foundation Server and does not focus on cross-functional teams, their structure, benefits, or role in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on upgrading Team Foundation Server rather than discussions about Test First Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2013, which includes specific references to supported Windows Server versions, installation procedures, and system requirements. The central theme relates to managing and upgrading a software application that operates within a Windows environment.",
+    "level": "Secondary"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses an upgrade process, which includes elements like trial upgrades and server configurations that are relevant to deployment, but it primarily focuses on the specifics of upgrading Team Foundation Server rather than broader deployment strategies.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses solely on upgrading Team Foundation Server and does not discuss scaling Agile methodologies or organizational practices.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses technical upgrade processes and configurations related to Team Foundation Server without addressing team motivation, engagement, or dynamics.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not relate to remote work practices, challenges, or solutions.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical aspects of upgrading Team Foundation Server with no focus on growth mindset or continuous learning principles.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily focuses on the process of upgrading TFS and the considerations involved, which includes some troubleshooting aspects related to ensuring a smooth upgrade and checking system compatibility, but it is not solely focused on diagnosing and resolving technical issues.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not focus on experimentation, hypothesis testing, or Agile workflows.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server (TFS) 2013, without any reference to the role of a Scrum Master or related responsibilities, practices, or topics.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the technical aspects of upgrading Team Foundation Server without focusing on transparency in Agile processes or team dynamics.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server 2013 and does not address working agreements, team norms, or related collaboration principles.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses upgrading Team Foundation Server, which is related to the tools used by software developers in an Agile environment, but it primarily focuses on the technical process rather than exploring Agile methodologies or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on technical aspects of upgrading TFS software rather than coaching or development practices.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server and related technical requirements rather than key principles of Agile engineering practices such as clean code or test-driven development.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and related technical procedures, with no clear focus on managing or discussing technical debt.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses upgrading TFS versions and related technical processes, with no mention of Sprint Review or its related topics.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on the technical implementation details of upgrading Team Foundation Server, with minimal relevance to strategic product management discussions.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on technical aspects of upgrading Team Foundation Server and does not discuss self-organisation principles or practices.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server (TFS) rather than Agile frameworks. It does not focus on Agile principles, practices, or comparative analysis of Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the technical upgrade process of Team Foundation Server and does not discuss Agile strategy or methodologies.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses upgrading from TFS 2013 Preview to TFS 2013 RC, which is centered on Team Foundation Server, not specifically on Azure Repos or its functionalities.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of upgrading Team Foundation Server and does not address forecasting methods, practices, or principles in Agile and Scrum.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses upgrading Team Foundation Server without focusing on Lean Product Development principles, waste reduction, or customer feedback.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content mainly focuses on upgrading Team Foundation Server software, with no discussions about trends in Agile, DevOps, or business agility.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses technical aspects and processes related to upgrading Team Foundation Server, with no clear focus on accountability, team dynamics, or ownership within Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on upgrading Team Foundation Server and does not address Kanban principles, scaling, or related strategies.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server, not focusing on throughput, work completion rates, or related measurement and optimization techniques.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-15T17:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is primarily focused on upgrading Team Foundation Server from one version to another, discussing installation procedures, prerequisites, and system configurations, which are unrelated to Test Driven Development principles or practices.",
+    "level": "Ignored"
   }
 }

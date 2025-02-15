@@ -27,7 +27,10 @@ aliasesFor404:
 - /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
 - /powershell-tfs-2013-api--2
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
-tags: []
+tags:
+- Technical Mastery
+- Software Development
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

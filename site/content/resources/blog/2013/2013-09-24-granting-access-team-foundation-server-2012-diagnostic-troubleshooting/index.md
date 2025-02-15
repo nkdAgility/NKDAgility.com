@@ -25,7 +25,11 @@ aliasesFor404:
 - /granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
-tags: []
+tags:
+- Troubleshooting
+- System Configuration
+- Technical Mastery
+- Operational Practices
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

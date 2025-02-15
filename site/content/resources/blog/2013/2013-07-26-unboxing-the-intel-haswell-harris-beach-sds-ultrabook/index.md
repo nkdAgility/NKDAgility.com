@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 tags: []
-categories: []
+categories:
+- Products and Books
+- News and Reviews
 preview: Web-Intel-Metro-icon-4-4.png
 
 ---

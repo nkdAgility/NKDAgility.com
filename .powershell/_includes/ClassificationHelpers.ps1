@@ -2,7 +2,7 @@
 . ./.powershell/_includes/OpenAI.ps1
 
 $batchesInProgress = $null;
-$batchesInProgressMax = 15;
+$batchesInProgressMax = 30;
 function Get-CatalogHashtable {
     param (
         [string]$FolderPath = "site\content",
@@ -251,12 +251,12 @@ function Get-CategoryConfidenceWithChecksum {
         }
 
         # Check number of batches in progress
-        if ($batch -and $prompts.Count -gt 20 -and (-not $batchesInProgress)) {
+        if ($batch -and $prompts.Count -gt 40 -and (-not $batchesInProgress)) {
             # Get current batches in progress
             $batchesInProgress = Get-OpenAIBatchesInProgress -ApiKey $OPEN_AI_KEY
         }
 
-        if ($batch -and $prompts.Count -gt 20 -and $batchesInProgress -lt $batchesInProgressMax) {
+        if ($batch -and $prompts.Count -gt 40 -and $batchesInProgress -lt $batchesInProgressMax) {
             # Batch processing
             $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
             if ($batchId) {

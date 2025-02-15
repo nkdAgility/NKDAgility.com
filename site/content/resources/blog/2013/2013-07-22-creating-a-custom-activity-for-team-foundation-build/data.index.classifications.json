@@ -1,1058 +1,245 @@
 {
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-15T18:03:21",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is not directly related to Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating a custom activity for Team Foundation Build, with no mention of Scrum values.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "Content discusses creating custom activities for Team Foundation Build, which is related to Azure DevOps but primarily focuses on build activities rather than Azure Boards specifically.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing the steps and considerations involved in the process, without any mention of trend analysis.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which involves a degree of experimentation in developing and testing workflows, but the primary focus is on implementation rather than experimentation itself.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is not directly related to Lean Product Development.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, detailing the steps and considerations involved in the engineering process.",
-    "level": "Secondary"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on Value Stream Mapping.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses organising the development environment for creating custom activities, which relates to self-organisation, but the primary focus is on technical implementation rather than self-organisation itself.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no significant discussion on Agile Planning principles or practices.",
-    "level": "Ignored"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without a central theme of decision making.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, which is not related to Scaling Kanban.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a key aspect of automating build processes, thus aligning closely with test automation.",
-    "level": "Secondary"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on Agile transformation principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on Scaled Agile principles or practices.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on cycle time.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion of working agreements.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is not related to the BetaCodex framework.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion on team performance.",
-    "level": "Ignored"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion of Agile values or principles.",
-    "level": "Ignored"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating a custom activity for Team Foundation Build, with no mention of revenue or employee metrics.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without discussing strategic goals.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a technical topic related to software development and build processes, rather than organisational physics.",
-    "level": "Ignored"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without discussing leadership or management aspects.",
-    "level": "Ignored"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on Lean Principles.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a key component of Azure Pipelines, detailing the steps and considerations involved in the process.",
-    "level": "Secondary"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on Scrum teams or related concepts.",
-    "level": "Ignored"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on employee engagement.",
-    "level": "Ignored"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion of empirical process control principles.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion on frequent releases.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing the steps and considerations involved in the process, rather than addressing any troubleshooting issues.",
-    "level": "Ignored"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no mention of backlog refinement or related processes.",
-    "level": "Ignored"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on Evidence Based Management.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build and does not discuss remote working as a central theme.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which is related to agile planning and build processes, but it is primarily focused on technical implementation rather than agile planning tools specifically.",
-    "level": "Ignored"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which relates to build automation and testing workflows, but it is primarily focused on the implementation details rather than automated testing itself.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, which is not related to Scaling Scrum.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on practical steps and considerations for creating custom activities in Team Foundation Build, demonstrating a pragmatic approach to problem-solving in software development.",
-    "level": "Secondary"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without discussing organisational change.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion of Product Owner responsibilities or themes.",
-    "level": "Ignored"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more about technical implementation than product strategy.",
-    "level": "Ignored"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without discussing transparency as a central theme.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without discussing change management as a central theme.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, detailing steps and considerations relevant to software development.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, detailing the steps and considerations involved in developing working software components.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a key aspect of system configuration in build services.",
-    "level": "Secondary"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, which is not related to Lean Startup principles.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, with no significant discussion on organisational culture.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more about software development practices than digital transformation.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build and does not discuss Sprint Review or related topics.",
-    "level": "Ignored"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a technical topic related to software development rather than entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, with no significant discussion of technical debt.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating a custom activity for Team Foundation Build and does not mention Daily Scrum as a topic.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a key aspect of Continuous Integration processes.",
-    "level": "Secondary"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more about technical implementation rather than large scale agility principles.",
-    "level": "Ignored"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without any mention of coaching or related themes.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a key aspect of modern source control practices.",
-    "level": "Secondary"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without a clear emphasis on continuous learning.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is not directly related to Scrum Product Development.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more about technical implementation than Agile strategy.",
-    "level": "Ignored"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on Agile Leadership principles or practices.",
-    "level": "Ignored"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating a custom activity for Team Foundation Build, with no mention of market share or related concepts.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which does not directly relate to the concept of a Minimum Viable Product (MVP).",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which relates to improving build processes and efficiency, but the primary focus is on implementation details rather than throughput itself.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is not directly related to the concept of scaling agility.",
-    "level": "Ignored"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 92,
-    "non_ai_confidence": 10,
-    "final_score": 67.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, detailing the steps and considerations involved in software development practices.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a key aspect of deployment strategies in build automation.",
-    "level": "Secondary"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion on accountability.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no significant emphasis on team collaboration.",
-    "level": "Ignored"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, which is focused on software development and build processes rather than portfolio management.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or mention of a product backlog.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which involves innovative approaches to workflow design and build processes, but the primary focus is on technical implementation rather than innovation itself.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on Scrum roles or practices.",
-    "level": "Ignored"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no significant discussion on cross-functional teams.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, with no clear discussion or emphasis on team motivation.",
-    "level": "Ignored"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating a custom activity for Team Foundation Build, with no mention of psychological safety.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on Lean Thinking principles.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build and does not mention customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes rather than engaging in sensemaking.",
-    "level": "Ignored"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on lead time.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 9.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build and does not discuss Test First Development as a central theme.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which is related to collaboration in software development, but the primary focus is on technical implementation rather than collaboration tools themselves.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content heavily discusses the creation and configuration of custom activities for Team Foundation Build, which is a core engineering practice in software development.",
-    "level": "Secondary"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a key aspect of continuous delivery practices.",
-    "level": "Secondary"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is closely related to Azure Repos and its build services.",
-    "level": "Secondary"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating and managing custom activities for Team Foundation Build, which is a key operational practice in build management.",
-    "level": "Secondary"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a part of the Windows ecosystem, specifically related to build services in a Windows environment.",
-    "level": "Secondary"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build and does not discuss evidence-based leadership as a central theme.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on customer retention.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more related to build automation and development processes rather than site reliability engineering.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, which is not related to Professional Scrum.",
-    "level": "Ignored"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without any mention of mentoring or guidance.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion on deployment frequency.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 92,
-    "non_ai_confidence": 0,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the technical process of creating a custom activity for Team Foundation Build, detailing steps, code implementation, and best practices.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build and does not discuss the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on Behaviour Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more about technical implementation rather than product discovery.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion or emphasis on hypothesis driven development.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is not directly related to asynchronous development.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more about technical implementation than enterprise agility.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on technical steps for creating a custom activity in Team Foundation Build, with no significant discussion on people or processes.",
-    "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is not directly related to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear emphasis on Lean principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, with no mention of events or presentations.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, which is a technical guide rather than focusing on products or books.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, with only a brief mention of complexity in the conclusion.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes rather than exploring discovery or learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, focusing on technical implementation rather than decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a key aspect of managing application lifecycle processes.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 92,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on creating a custom activity for Team Foundation Build, detailing the coding process and complexities involved in setting up and configuring build activities.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, which is a technical tutorial rather than news or reviews.",
-    "level": "Ignored"
-  },
-  "Install and Configuration": {
-    "category": "Install and Configuration",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 66.0,
-    "reasoning": "Content primarily focuses on creating and configuring custom activities for Team Foundation Build, detailing the steps and considerations involved in the installation and setup process.",
-    "level": "Secondary"
-  },
-  "Sociotechnical Systems": {
-    "category": "Sociotechnical Systems",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without a clear emphasis on sociotechnical systems.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which can improve build workflows and efficiency, but the primary focus is on the technical steps rather than flow efficiency itself.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating a custom activity for Team Foundation Build, which is a specific technical topic rather than miscellaneous.",
+    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, which is not related to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "ai_confidence": 95,
+    "calculated_at": "2025-02-15T18:03:23",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 70.0,
-    "reasoning": "Content primarily focuses on the practical steps and techniques for creating a custom activity in Team Foundation Build, detailing the process and tooling involved.",
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the practical steps and techniques for creating custom activities in Team Foundation Build, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
     "level": "Secondary"
   },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 85,
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-15T18:03:24",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which directly relates to enhancing the value delivered through build processes.",
-    "level": "Secondary"
+    "final_score": 45.0,
+    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which relates to enhancing developer productivity and optimising application workflows, but it primarily focuses on specific implementation details rather than broader platform engineering principles.",
+    "level": "Ignored"
   },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-15T18:03:25",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, detailing technical steps and processes without discussing organisational agility.",
+    "reasoning": "Content primarily discusses the technical aspects of creating custom activities for Team Foundation Build, with no focus on Evidence-Based Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-15T18:03:27",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses creating custom activities for Team Foundation Build, touching on aspects of code quality and maintainability, but primarily focuses on implementation details rather than the broader themes of code complexity and best practices.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-15T18:03:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the technical implementation of creating a custom activity for Team Foundation Build without focusing on discovery or learning processes.",
     "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-15T18:03:29",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more about software development and build processes rather than AI and automation in agility.",
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, which is not directly related to AI or automation in Agile practices.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-15T18:03:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, with no clear focus on Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-15T18:03:32",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the step-by-step process of creating and configuring a custom activity for Team Foundation Build, which aligns with installation and configuration practices.",
+    "level": "Secondary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-15T18:03:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses creating custom activities for Team Foundation Build, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
+    "calculated_at": "2025-02-15T18:03:35",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear discussion on market adaptability.",
+    "reasoning": "Content primarily discusses the technical steps for creating a custom activity in Team Foundation Build, with no clear focus on market adaptability strategies or methodologies.",
     "level": "Ignored"
   },
-  "Personal": {
-    "category": "Personal",
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-15T18:03:37",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, with no clear personal theme.",
+    "reasoning": "Content heavily discusses the technical process of creating custom activities for Team Foundation Build without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
+    "calculated_at": "2025-02-15T18:03:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no significant discussion on resilience or change.",
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses creating custom activities for Team Foundation Build, focusing on technical implementations without addressing organisational resilience or change management.",
     "level": "Ignored"
   },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-15T18:03:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses creating custom activities for Team Foundation Build, which relates to automation and CI/CD practices in DevOps, but it primarily focuses on implementation details rather than broader DevOps principles.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-15T18:03:41",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical steps for creating a custom activity in Team Foundation Build, with no focus on organisational psychology.",
+    "reasoning": "Content primarily discusses the technical process of creating a custom activity for Team Foundation Build, which is directly related to specific tools and practices rather than miscellaneous topics.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-15T18:03:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical implementation of creating custom activities for Team Foundation Build, with no focus on decision-making processes or related theories.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-15T18:03:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the technical process of creating a custom activity for Team Foundation Build, with no reference to events, presentations, or discussions related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-15T18:03:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, which does not directly relate to optimising work throughput or flow efficiency.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-15T18:03:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on technical steps for creating a custom activity in Team Foundation Build, with no significant discussion on human behaviour or process methodologies.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-15T18:03:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, which is focused on technical implementation rather than organisational agility or broader enterprise agility concepts.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-15T18:03:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is not directly related to the principles or practices of business agility.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
+    "calculated_at": "2025-02-15T18:03:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no significant discussion on metrics or learning.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, with no discussion on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no significant discussion on transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-15T18:03:51",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is not related to Agile Product Management.",
+    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, with no mention of Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-15T18:03:52",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the creation of custom activities for Team Foundation Build, which involves engineering practices related to build automation and workflow design, aligning well with the principles of Technical Excellence.",
+    "level": "Secondary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-15T18:03:53",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, with no clear emphasis on systems thinking principles.",
+    "reasoning": "Content primarily discusses the technical steps for creating a custom activity in Team Foundation Build, without reference to complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-15T18:03:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical aspects of creating custom activities for Team Foundation Build, with no relevance to organisational psychology.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-15T18:03:55",
+    "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on creating custom activities for Team Foundation Build, which is a key aspect of product delivery in software development.",
-    "level": "Secondary"
+    "final_score": 27.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is more about specific implementation details rather than the broader methodologies and practices of product delivery.",
+    "level": "Ignored"
   }
 }

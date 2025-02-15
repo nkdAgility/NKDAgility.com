@@ -21,7 +21,18 @@ aliasesFor404:
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
-tags: []
+tags:
+- Windows
+- Modern Source Control
+- Continuous Integration
+- Release Management
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- System Configuration
+- Troubleshooting
+- Operational Practices
+- Engineering Excellence
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

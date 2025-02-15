@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags: []
-categories: []
+categories:
+- Products and Books
+- News and Reviews
+- Application Lifecycle Management
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

@@ -29,7 +29,17 @@ aliasesFor404:
 - /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
-tags: []
+tags:
+- Coaching
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+- Agile Project Management
+- Deployment Strategies
+- Engineering Excellence
+- Software Developers
+- Frequent Releases
+- Continuous Delivery
 categories:
 - Application Lifecycle Management
 - People and Process

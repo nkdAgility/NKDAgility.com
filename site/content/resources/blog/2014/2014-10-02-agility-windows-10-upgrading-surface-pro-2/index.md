@@ -25,7 +25,14 @@ aliasesFor404:
 - /agility-and-windows-10--upgrading-my-surface-pro-2
 - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
-tags: []
+tags:
+- Windows
+- Continuous Delivery
+- Deployment Frequency
+- Frequent Releases
+- System Configuration
+- Troubleshooting
+- Transparency
 categories:
 - Install and Configuration
 - Organisational Agility

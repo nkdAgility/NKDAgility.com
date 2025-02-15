@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags: []
-categories: []
+categories:
+- Product Delivery
+- Value Delivery
+- Practical Techniques and Tooling
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

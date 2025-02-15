@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags: []
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

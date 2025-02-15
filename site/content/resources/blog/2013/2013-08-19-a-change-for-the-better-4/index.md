@@ -28,7 +28,10 @@ aliasesFor404:
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
 tags: []
-categories: []
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- People and Process
 preview: nakedalm-logo-128-link-4-4.png
 
 ---
