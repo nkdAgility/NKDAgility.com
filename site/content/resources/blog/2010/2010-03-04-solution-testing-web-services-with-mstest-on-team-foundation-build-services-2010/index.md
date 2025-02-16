@@ -27,7 +27,10 @@ aliasesFor404:
 - /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 tags: []
 preview: metro-visual-studio-2010-128-link-6-6.png
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 
 ---
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!

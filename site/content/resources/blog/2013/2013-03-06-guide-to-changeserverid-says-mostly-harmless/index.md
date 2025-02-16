@@ -21,7 +21,12 @@ aliasesFor404:
 - /guide-to-changeserverid-says-mostly-harmless
 - /blog/guide-to-changeserverid-says-mostly-harmless
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
-tags: []
+tags:
+- Troubleshooting
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

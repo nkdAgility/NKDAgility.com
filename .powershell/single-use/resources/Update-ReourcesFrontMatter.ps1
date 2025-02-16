@@ -63,7 +63,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         $runBatchCheck = $false
     }
     $ActivityText = "Processing [Q1:$($hugoMarkdownQueue.count)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
-    if ($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) {
+    if (($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) -or $hugoMarkdownQueue.Count -eq 0) {
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
         Write-Progress -id 1 -Activity $ActivityText -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)

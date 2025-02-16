@@ -21,7 +21,12 @@ aliasesFor404:
 - /flashing-your-windows-phone-6-for-dummies
 - /blog/flashing-your-windows-phone-6-for-dummies
 - /resources/blog/flashing-your-windows-phone-6-for-dummies
-tags: []
+tags:
+- Windows
+- System Configuration
+- Technical Mastery
+- Troubleshooting
+- Frequent Releases
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
