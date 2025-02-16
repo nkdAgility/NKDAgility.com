@@ -55,7 +55,7 @@ $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 Write-InfoLog "Initialise Batch Count..."
 $batchesInProgress = Get-OpenAIBatchesInProgress
-$batchOverage = 1
+$batchOverage = 10
 Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
 $runBatchCheck = $false
 $batchCheckCount = 0

@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/event--msdn--sharepoint-for-developers-(edinburgh)
 - /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- News and Reviews
 preview: metro-visual-studio-2005-128-link-2-2.png
 
 ---

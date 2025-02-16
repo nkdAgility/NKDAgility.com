@@ -25,7 +25,10 @@ aliasesFor404:
 - /bug-in-observablecollection-
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
-tags: []
+tags:
+- Software Development
+- Technical Mastery
+- Troubleshooting
 categories: []
 preview: metro-binary-vb-128-link-2-2.png
 

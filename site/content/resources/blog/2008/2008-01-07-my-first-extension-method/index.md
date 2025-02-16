@@ -25,7 +25,9 @@ aliasesFor404:
 - /my-first-extension-method---
 - /blog/my-first-extension-method---
 - /resources/blog/my-first-extension-method
-tags: []
+tags:
+- Software Development
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

@@ -21,8 +21,11 @@ aliasesFor404:
 - /tfs-sticky-buddy-v1-0
 - /blog/tfs-sticky-buddy-v1-0
 - /resources/blog/tfs-sticky-buddy-v1-0
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Practical Techniques and Tooling
+- Products and Books
 preview: metro-visual-studio-2005-128-link-2-1.png
 
 ---

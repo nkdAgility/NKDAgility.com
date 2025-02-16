@@ -21,8 +21,12 @@ aliasesFor404:
 - /connecting-to-sql-server-using-dns-update
 - /blog/connecting-to-sql-server-using-dns-update
 - /resources/blog/connecting-to-sql-server-using-dns-update
-tags: []
-categories: []
+tags:
+- System Configuration
+- Troubleshooting
+- Windows
+categories:
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

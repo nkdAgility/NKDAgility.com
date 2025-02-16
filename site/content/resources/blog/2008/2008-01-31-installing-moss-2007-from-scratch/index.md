@@ -21,8 +21,14 @@ aliasesFor404:
 - /installing-moss-2007-from-scratch
 - /blog/installing-moss-2007-from-scratch
 - /resources/blog/installing-moss-2007-from-scratch
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Software Development
+- Technical Mastery
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-7-7.png
 
 ---

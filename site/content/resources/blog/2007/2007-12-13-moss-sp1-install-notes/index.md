@@ -21,8 +21,11 @@ aliasesFor404:
 - /moss-sp1-install-notes
 - /blog/moss-sp1-install-notes
 - /resources/blog/moss-sp1-install-notes
-tags: []
-categories: []
+tags:
+- System Configuration
+- Windows
+categories:
+- Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

@@ -21,7 +21,8 @@ aliasesFor404:
 - /creating-a-sharepoint-solution
 - /blog/creating-a-sharepoint-solution
 - /resources/blog/creating-a-sharepoint-solution
-tags: []
+tags:
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/information-sync
 - /resources/blog/information-sync
 tags: []
-categories: []
+categories:
+- Products and Books
+- Miscellaneous
+- Personal
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

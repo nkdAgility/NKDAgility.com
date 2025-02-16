@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/vs2008-update
 - /resources/blog/vs2008-update
 tags: []
-categories: []
+categories:
+- Events and Presentations
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

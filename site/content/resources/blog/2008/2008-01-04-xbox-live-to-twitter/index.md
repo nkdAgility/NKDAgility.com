@@ -21,7 +21,8 @@ aliasesFor404:
 - /xbox-live-to-twitter
 - /blog/xbox-live-to-twitter
 - /resources/blog/xbox-live-to-twitter
-tags: []
+tags:
+- Troubleshooting
 categories: []
 preview: metro-xbox-360-link-1-1.png
 

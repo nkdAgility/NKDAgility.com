@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/festive-holiday-studying
 - /resources/blog/festive-holiday-studying
 tags: []
-categories: []
+categories:
+- Miscellaneous
 preview: metro-xbox-360-link-3-3.png
 
 ---

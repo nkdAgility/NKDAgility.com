@@ -21,7 +21,13 @@ aliasesFor404:
 - /major-deadline
 - /blog/major-deadline
 - /resources/blog/major-deadline
-tags: []
+tags:
+- Software Development
+- Troubleshooting
+- Pragmatic Thinking
+- Digital Transformation
+- Technical Mastery
+- Windows
 categories: []
 preview: metro-sharepoint-128-link-5-5.png
 

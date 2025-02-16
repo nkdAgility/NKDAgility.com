@@ -21,7 +21,9 @@ aliasesFor404:
 - /mozy-backup
 - /blog/mozy-backup
 - /resources/blog/mozy-backup
-categories: []
+categories:
+- Products and Books
+- Personal
 preview: nakedalm-logo-128-link-3-3.png
 tags: []
 

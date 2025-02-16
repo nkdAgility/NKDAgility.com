@@ -25,7 +25,8 @@ aliasesFor404:
 - /i-always-wanted-to-be-an-admiral-
 - /blog/i-always-wanted-to-be-an-admiral-
 - /resources/blog/i-always-wanted-to-be-an-admiral
-categories: []
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-2-2.png
 tags: []
 

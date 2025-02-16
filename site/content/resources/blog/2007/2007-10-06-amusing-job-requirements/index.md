@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/amusing-job-requirements
 - /resources/blog/amusing-job-requirements
 tags: []
-categories: []
+categories:
+- Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

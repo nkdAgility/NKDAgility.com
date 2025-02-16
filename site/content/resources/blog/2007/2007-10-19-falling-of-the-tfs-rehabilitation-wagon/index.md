@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/falling-of-the-tfs-rehabilitation-wagon---
 - /resources/blog/falling-of-the-tfs-rehabilitation-wagon
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

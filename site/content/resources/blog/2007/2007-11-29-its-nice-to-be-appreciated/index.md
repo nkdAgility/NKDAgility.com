@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/it's-nice-to-be-appreciated-
 - /resources/blog/its-nice-to-be-appreciated
 tags: []
-categories: []
+categories:
+- Miscellaneous
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

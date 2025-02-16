@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/installing-tfs-2008-from-scratch
 - /resources/blog/installing-tfs-2008-from-scratch
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---

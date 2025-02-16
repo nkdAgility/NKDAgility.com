@@ -21,7 +21,8 @@ aliasesFor404:
 - /developing-for-sharepoint-on-your-local-computer
 - /blog/developing-for-sharepoint-on-your-local-computer
 - /resources/blog/developing-for-sharepoint-on-your-local-computer
-tags: []
+tags:
+- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

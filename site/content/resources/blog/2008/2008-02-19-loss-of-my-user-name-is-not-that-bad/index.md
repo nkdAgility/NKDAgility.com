@@ -25,7 +25,10 @@ aliasesFor404:
 - /loss-of-my-user-name-is-not-that-bad---
 - /blog/loss-of-my-user-name-is-not-that-bad---
 - /resources/blog/loss-of-my-user-name-is-not-that-bad
-tags: []
+tags:
+- Windows
+- Software Development
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-2-2.png
 

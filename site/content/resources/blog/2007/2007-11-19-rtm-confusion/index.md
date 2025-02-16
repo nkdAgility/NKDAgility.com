@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/rtm-confusion
 - /resources/blog/rtm-confusion
 tags: []
-categories: []
+categories:
+- Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

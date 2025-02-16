@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/waffling-on-sharepoint---
 - /resources/blog/waffling-on-sharepoint
 tags: []
-categories: []
+categories:
+- Miscellaneous
 preview: metro-sharepoint-128-link-1-1.png
 
 ---
