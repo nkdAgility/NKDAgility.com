@@ -25,7 +25,10 @@ aliasesFor404:
 - /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
-tags: []
+tags:
+- Troubleshooting
+- System Configuration
+- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

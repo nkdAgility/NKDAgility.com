@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Products and Books
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

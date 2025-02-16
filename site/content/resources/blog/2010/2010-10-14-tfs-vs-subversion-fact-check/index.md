@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/tfs-vs--subversion-fact-check
 - /resources/blog/tfs-vs-subversion-fact-check
 tags: []
-categories: []
+categories:
+- Install and Configuration
 
 ---
 ![subversion](images/32ab51073e36_8B5F-subversion_-6-6.png)I spotted a good comparison of [TFS vs. Subversion](http://dotnet.dzone.com/news/tfs-vs-subversion) by [Jarosław Dobrzański](http://dobrzanski.net) on DZone (you can also read the [original post](http://dobrzanski.net/2010/04/17/tfs-subversion/)) but I feel that a couple of the points were either out of date, or borne out of a lack of knowledge of the product, or even more likely I just missed the point. This article was taken from the perspective of an SVN user who has moved to TFS, and I am not in that category.

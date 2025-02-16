@@ -23,7 +23,10 @@ aliasesFor404:
 - /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 tags: []
 preview: metro-SSWLogo-128-link-11-11.png
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Technical Excellence
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

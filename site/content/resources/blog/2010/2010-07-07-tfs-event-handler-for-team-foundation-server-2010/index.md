@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/tfs-event-handler-for-team-foundation-server-2010
 - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-binary-vb-128-link-3-3.png
 
 ---

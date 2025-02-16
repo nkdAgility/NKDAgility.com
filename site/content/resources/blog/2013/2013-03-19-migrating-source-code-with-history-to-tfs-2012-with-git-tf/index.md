@@ -21,7 +21,11 @@ aliasesFor404:
 - /migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
-tags: []
+tags:
+- Modern Source Control
+- Software Development
+- Technical Mastery
+- Azure Repos
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

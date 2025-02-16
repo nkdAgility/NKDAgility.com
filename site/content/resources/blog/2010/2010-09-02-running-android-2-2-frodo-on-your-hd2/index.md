@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/running-android-2-2-(frodo)-on-your-hd2
 - /resources/blog/running-android-2-2-frodo-on-your-hd2
 tags: []
-categories: []
+categories:
+- Install and Configuration
 preview: metro-android-1-1.png
 
 ---

@@ -21,7 +21,13 @@ aliasesFor404:
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
-tags: []
+tags:
+- Software Development
+- System Configuration
+- Technical Mastery
+- Operational Practices
+- Windows
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

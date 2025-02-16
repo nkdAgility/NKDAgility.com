@@ -21,7 +21,12 @@ aliasesFor404:
 - /do-you-know-how-to-move-the-team-foundation-server-cache
 - /blog/do-you-know-how-to-move-the-team-foundation-server-cache
 - /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
-tags: []
+tags:
+- Windows
+- Technical Mastery
+- Software Development
+- System Configuration
+- Troubleshooting
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -246,7 +246,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
     if ($resources.Count -gt 0) {
         $hugoMarkdownBatchQueue.Enqueue($hugoMarkdown)
-        if (($hugoMarkdownBatchQueue.Count - $batchOverage) -gt $batchesInProgress -and $mode -eq "Queue") {
+        if ((($hugoMarkdownBatchQueue.Count - $batchOverage) -gt $batchesInProgress) -and $mode -eq "Queue") {
             Write-DebugLog "Checking Batch status..."
             $batchesInProgress = Get-OpenAIBatchesInProgress
             Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress

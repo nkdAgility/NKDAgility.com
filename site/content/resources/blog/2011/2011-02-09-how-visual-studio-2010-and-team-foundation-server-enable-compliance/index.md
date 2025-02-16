@@ -21,7 +21,18 @@ aliasesFor404:
 - /how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
-tags: []
+tags:
+- Software Development
+- Working Software
+- Release Management
+- Software Developers
+- Operational Practices
+- Modern Source Control
+- Continuous Integration
+- Azure Boards
+- Pragmatic Thinking
+- Engineering Excellence
+- Agile Project Management
 categories:
 - Application Lifecycle Management
 - People and Process

@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- Products and Books
+- Application Lifecycle Management
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Product Delivery
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/free-training-at-northwest-cadence
 - /resources/blog/free-training-at-northwest-cadence
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- Miscellaneous
+- News and Reviews
 preview: metro-event-128-link-3-3.png
 
 ---

@@ -25,7 +25,13 @@ aliasesFor404:
 - /tfs-integration-tools–issue--analysisprovider-not-found
 - /blog/tfs-integration-tools–issue--analysisprovider-not-found
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
-tags: []
+tags:
+- Troubleshooting
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- System Configuration
+- Windows
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

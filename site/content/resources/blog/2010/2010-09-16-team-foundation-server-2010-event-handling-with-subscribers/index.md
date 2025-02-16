@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Technical Excellence
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

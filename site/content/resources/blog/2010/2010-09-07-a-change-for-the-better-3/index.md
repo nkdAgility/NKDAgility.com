@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
 tags: []
-categories: []
+categories:
+- People and Process
+- Application Lifecycle Management
+- Personal
 preview: metro-nwc-128-link-2-2.png
 
 ---

@@ -21,7 +21,17 @@ aliasesFor404:
 - /in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 - /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
-tags: []
+tags:
+- System Configuration
+- Software Development
+- Troubleshooting
+- Windows
+- Modern Source Control
+- Operational Practices
+- Technical Mastery
+- Pragmatic Thinking
+- Release Management
+- Deployment Strategies
 preview: metro-visual-studio-2010-128-link-24-24.png
 categories:
 - Install and Configuration
