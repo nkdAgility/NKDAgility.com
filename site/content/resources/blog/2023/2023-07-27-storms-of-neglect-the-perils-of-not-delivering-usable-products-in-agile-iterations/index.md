@@ -26,19 +26,19 @@ tags:
 - Transparency
 - Increment
 - Agile Values and Principles
-- Agile Planning
 - Product Management
 - Working Software
 - Scrum Product Development
 - Agile Frameworks
+- Agile Philosophy
+- Agile Planning
+- Agile Transformation
 - Agile Strategy
 - Agile Project Management
-- Agile Transformation
-- Agile Philosophy
-- Software Development
 - Software Developers
 - Empirical Process Control
 - Pragmatic Thinking
+- Software Development
 - Technical Debt
 categories:
 - Agile Product Management

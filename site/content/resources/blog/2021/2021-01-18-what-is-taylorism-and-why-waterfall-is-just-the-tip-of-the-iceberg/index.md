@@ -35,15 +35,15 @@ tags:
 - Organisational Change
 - Organisational Physics
 - Lean Product Development
-- Ability to Innovate
 - Employee Engagement
+- Ability to Innovate
 - Lean Thinking
-- Agile Philosophy
+- Agile Strategy
 - Agile Transformation
-- Pragmatic Thinking
 - Lean Principles
 - Agile Frameworks
-- Agile Strategy
+- Agile Philosophy
+- Pragmatic Thinking
 - Team Motivation
 - Agile Leadership
 categories:

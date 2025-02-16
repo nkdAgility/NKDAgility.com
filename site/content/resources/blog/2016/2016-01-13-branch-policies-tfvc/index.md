@@ -29,9 +29,9 @@ tags:
 - Technical Mastery
 - Azure Repos
 - Modern Source Control
-- Operational Practices
-- Software Development
 - Engineering Excellence
+- Software Development
+- Operational Practices
 - Pragmatic Thinking
 categories:
 - Practical Techniques and Tooling

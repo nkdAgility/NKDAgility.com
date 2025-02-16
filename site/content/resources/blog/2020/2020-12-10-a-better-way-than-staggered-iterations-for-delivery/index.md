@@ -25,28 +25,28 @@ aliasesFor404:
 tags:
 - Test First Development
 - Increment
-- Software Development
 - Scrum Product Development
+- Scrum Team
 - Empirical Process Control
 - Working Software
 - Cycle Time
 - Software Developers
-- Scrum Team
-- Professional Scrum
-- Cross Functional Teams
+- Software Development
 - Technical Leadership
 - Team Collaboration
 - Team Performance
+- Professional Scrum
+- Cross Functional Teams
 - Technical Mastery
-- Engineering Practices
+- Engineering Excellence
 - Self Organisation
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Strategy
+- Engineering Practices
+- Operational Practices
+- Throughput
 categories:
 - Scrum
-- People and Process
 - Business Agility
+- Value Delivery
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

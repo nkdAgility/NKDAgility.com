@@ -24,13 +24,13 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-- Operational Practices
-- Azure Boards
 - Engineering Excellence
-- Pragmatic Thinking
-- Working Software
-- Troubleshooting
 - Software Developers
+- Azure Boards
+- Working Software
+- Operational Practices
+- Pragmatic Thinking
+- Troubleshooting
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

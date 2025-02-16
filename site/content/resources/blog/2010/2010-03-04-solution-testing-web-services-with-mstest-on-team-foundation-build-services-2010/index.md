@@ -31,14 +31,14 @@ tags:
 - Troubleshooting
 - Test First Development
 - Automated Testing
-- Working Software
 - Software Developers
+- Working Software
 - Technical Mastery
-- Operational Practices
 - Engineering Excellence
+- Engineering Practices
+- Operational Practices
 - Pragmatic Thinking
 - Continuous Integration
-- Engineering Practices
 - Test Driven Development
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:

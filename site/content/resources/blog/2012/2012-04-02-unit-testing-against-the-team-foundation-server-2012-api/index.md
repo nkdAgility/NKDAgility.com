@@ -29,10 +29,10 @@ tags:
 - Test Automation
 - Technical Mastery
 - Engineering Excellence
-- Pragmatic Thinking
-- Troubleshooting
 - Software Developers
 - Engineering Practices
+- Pragmatic Thinking
+- Troubleshooting
 - Windows
 categories:
 - Practical Techniques and Tooling

@@ -27,19 +27,19 @@ aliasesFor404:
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 tags:
 - Coaching
-- Scrum Team
-- Scrum Master
 - Professional Scrum
+- Scrum Master
 - Scrum Product Development
-- Agile Project Management
-- Team Performance
-- Agile Frameworks
-- Team Collaboration
+- Scrum Team
 - Team Motivation
+- Team Performance
+- Team Collaboration
+- Agile Frameworks
 - Agile Transformation
+- Agile Project Management
 - Software Development
-- Pragmatic Thinking
 - Technical Leadership
+- Pragmatic Thinking
 - Software Developers
 - Accountability
 - Agile Leadership

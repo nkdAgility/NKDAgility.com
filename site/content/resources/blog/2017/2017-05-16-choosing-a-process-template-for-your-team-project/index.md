@@ -26,19 +26,19 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Scrum Product Development
-- Scrum Team
 - Decision Making
 - Agile Project Management
-- Agile Planning
+- Scrum Team
 - Software Developers
-- Scrum Master
-- Azure Boards
+- Agile Planning
 - Agile Transformation
+- Azure Boards
 - Operational Practices
+- Scrum Master
 - Professional Scrum
 - Agile Planning Tools
-- Team Performance
 - Agile Strategy
+- Team Performance
 - Self Organisation
 categories:
 - Scrum

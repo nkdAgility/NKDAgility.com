@@ -26,18 +26,18 @@ tags:
 - Software Development
 - Working Software
 - Engineering Excellence
-- Team Collaboration
 - Engineering Practices
+- Team Collaboration
 - Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
-- Test Automation
 - Software Developers
+- Test Automation
 - Troubleshooting
 categories:
 - Application Lifecycle Management
-- Product Delivery
 - Value Delivery
+- Product Delivery
 preview: metro-test-icon-7-7.png
 
 ---

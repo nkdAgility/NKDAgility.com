@@ -31,18 +31,18 @@ tags:
 - Software Development
 - Continuous Learning
 - Mentoring
-- Operational Practices
 - Agile Transformation
 - Engineering Practices
+- Operational Practices
+- Coaching
 - Engineering Excellence
 - Pragmatic Thinking
-- Coaching
 - Scrum Master
 - Technical Mastery
 - Strategy
 categories:
-- People and Process
 - Application Lifecycle Management
+- People and Process
 - Personal
 preview: metro-nwc-128-link-2-2.png
 

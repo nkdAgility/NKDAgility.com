@@ -25,7 +25,7 @@ tags: []
 categories:
 - Events and Presentations
 - News and Reviews
-- DevOps
+- Scrum
 preview: metro-event-icon-1-1.png
 
 ---

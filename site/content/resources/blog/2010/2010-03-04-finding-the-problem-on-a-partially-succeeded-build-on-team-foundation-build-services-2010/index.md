@@ -23,13 +23,13 @@ aliasesFor404:
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
 - Troubleshooting
+- Software Developers
 - Software Development
 - Scrum Product Development
-- Software Developers
 - Working Software
 - Technical Mastery
-- Product Backlog
 - Engineering Excellence
+- Product Backlog
 - Pragmatic Thinking
 - Agile Project Management
 - Agile Planning Tools

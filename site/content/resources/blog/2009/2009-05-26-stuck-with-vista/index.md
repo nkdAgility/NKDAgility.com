@@ -25,7 +25,8 @@ aliasesFor404:
 - /stuck-with-vista-
 - /blog/stuck-with-vista-
 - /resources/blog/stuck-with-vista
-tags: []
+tags:
+- Windows
 preview: nakedalm-logo-128-link-7-1.png
 categories:
 - Miscellaneous

@@ -28,21 +28,21 @@ aliasesFor404:
 tags:
 - Software Development
 - Operational Practices
-- Software Developers
 - Large Scale Agility
 - Team Collaboration
+- Software Developers
 - Collaboration Tools
-- System Configuration
-- Scaled Agile
-- Pragmatic Thinking
-- Scaling Agility
-- Azure Boards
 - Troubleshooting
+- System Configuration
+- Pragmatic Thinking
+- Azure Boards
+- Scaled Agile
+- Scaling Agility
 - Working Software
 - Team Performance
 - Agile Planning
-- Scaling Scrum
 - Strategy
+- Scaling Scrum
 categories:
 - People and Process
 - Application Lifecycle Management

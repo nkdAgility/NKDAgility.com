@@ -28,13 +28,13 @@ aliasesFor404:
 tags:
 - Scrum Team
 - Team Performance
-- Professional Scrum
 - Scrum Product Development
 - Team Collaboration
-- Software Development
+- Professional Scrum
 - Agile Project Management
-- Pragmatic Thinking
+- Software Development
 - Agile Frameworks
+- Pragmatic Thinking
 categories:
 - Scrum
 - People and Process

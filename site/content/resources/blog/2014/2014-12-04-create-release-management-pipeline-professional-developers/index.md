@@ -26,28 +26,28 @@ aliasesFor404:
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
-- Azure Pipelines
 - Release Management
+- Azure Pipelines
 - Software Development
 - Continuous Delivery
-- Technical Mastery
 - Software Developers
-- Deployment Strategies
 - System Configuration
-- Deployment Frequency
 - Working Software
 - Modern Source Control
-- Continuous Integration
 - Azure Repos
-- Engineering Practices
-- Pragmatic Thinking
+- Deployment Strategies
+- Deployment Frequency
+- Technical Mastery
+- Continuous Integration
 - Engineering Excellence
 - Frequent Releases
+- Engineering Practices
 - Operational Practices
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Azure DevOps
-- Practical Techniques and Tooling
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-46-46.png
 
 ---

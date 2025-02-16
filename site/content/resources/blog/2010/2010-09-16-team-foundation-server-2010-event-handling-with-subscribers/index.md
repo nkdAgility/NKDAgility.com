@@ -23,10 +23,10 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
 - Technical Mastery
+- Software Developers
 - Software Development
 - Pragmatic Thinking
 - System Configuration
-- Software Developers
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -25,7 +25,9 @@ aliasesFor404:
 - /wpf-drag-&-drop-behaviour
 - /blog/wpf-drag-&-drop-behaviour
 - /resources/blog/wpf-drag-drop-behaviour
-tags: []
+tags:
+- Technical Mastery
+- Software Development
 categories:
 - Practical Techniques and Tooling
 - Technical Excellence

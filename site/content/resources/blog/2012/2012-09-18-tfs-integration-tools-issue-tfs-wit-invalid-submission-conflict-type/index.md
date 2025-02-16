@@ -29,8 +29,8 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
 - System Configuration
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

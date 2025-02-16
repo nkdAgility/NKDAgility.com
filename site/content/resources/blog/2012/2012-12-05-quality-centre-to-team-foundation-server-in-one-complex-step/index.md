@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
 - Software Development
-- Pragmatic Thinking
 - Decision Making
+- Pragmatic Thinking
 categories:
 - Products and Books
 - Application Lifecycle Management

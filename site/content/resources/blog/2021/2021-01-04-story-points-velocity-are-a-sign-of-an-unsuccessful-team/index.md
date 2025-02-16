@@ -31,18 +31,18 @@ tags:
 - Estimation
 - Transparency
 - Agile Project Management
-- Agile Planning
 - Scrum Team
-- Scrum Product Development
+- Agile Planning
 - Cycle Time
+- Scrum Product Development
 - Agile Transformation
+- Agile Frameworks
+- Empirical Process Control
 - Team Performance
 - Professional Scrum
-- Empirical Process Control
-- Agile Frameworks
+- Software Developers
 - Software Development
 - Pragmatic Thinking
-- Software Developers
 categories:
 - Scrum
 - Agile Product Management

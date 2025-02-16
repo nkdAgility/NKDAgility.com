@@ -29,15 +29,15 @@ tags:
 - Scrum Team
 - Scrum Product Development
 - Agile Planning
-- Software Development
-- Professional Scrum
-- Team Collaboration
-- Scrum Master
 - Software Developers
-- Agile Transformation
+- Software Development
+- Scrum Master
+- Team Collaboration
+- Professional Scrum
 - Agile Project Management
-- Pragmatic Thinking
+- Agile Transformation
 - Agile Frameworks
+- Pragmatic Thinking
 - Product Owner
 - Team Performance
 categories:

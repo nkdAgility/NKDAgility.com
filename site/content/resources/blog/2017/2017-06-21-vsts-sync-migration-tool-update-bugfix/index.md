@@ -29,8 +29,8 @@ tags:
 - Software Development
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 
 ---

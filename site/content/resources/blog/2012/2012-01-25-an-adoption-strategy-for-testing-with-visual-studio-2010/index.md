@@ -23,13 +23,13 @@ aliasesFor404:
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
 - Software Development
-- Team Collaboration
 - Software Developers
+- Team Collaboration
 - Strategy
 categories:
-- Practical Techniques and Tooling
-- Events and Presentations
 - Products and Books
+- Events and Presentations
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

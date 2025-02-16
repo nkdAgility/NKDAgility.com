@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - Software Development
 - Modern Source Control
-- Continuous Integration
 - Software Developers
 - Azure Repos
+- Continuous Integration
 - Technical Mastery
 - Operational Practices
 - Pragmatic Thinking

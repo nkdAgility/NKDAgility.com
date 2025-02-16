@@ -21,7 +21,9 @@ aliasesFor404:
 - /uninstalling-visual-studio-2010-beta-1
 - /blog/uninstalling-visual-studio-2010-beta-1
 - /resources/blog/uninstalling-visual-studio-2010-beta-1
-tags: []
+tags:
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 - Miscellaneous

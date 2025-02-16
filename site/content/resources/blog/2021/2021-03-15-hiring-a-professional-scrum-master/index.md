@@ -26,11 +26,11 @@ tags:
 - Scrum Team
 - Scrum Product Development
 - Software Development
-- Professional Scrum
 - Technical Leadership
-- Team Performance
+- Professional Scrum
 - Agile Project Management
 - Agile Frameworks
+- Team Performance
 - Accountability
 - Agile Leadership
 - Coaching

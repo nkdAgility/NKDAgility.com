@@ -31,8 +31,8 @@ tags:
 - Software Development
 - Technical Mastery
 - Operational Practices
-- Pragmatic Thinking
 - Azure Repos
+- Pragmatic Thinking
 - Software Developers
 categories:
 - Install and Configuration

@@ -25,8 +25,8 @@ tags:
 - Modern Source Control
 - Technical Mastery
 - Software Development
-- Pragmatic Thinking
 - Working Software
+- Pragmatic Thinking
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -31,8 +31,8 @@ tags:
 - Agile Frameworks
 categories:
 - Events and Presentations
+- Scrum
 - Lean
-- Kanban
 preview: metro-event-128-link-1-1.png
 
 ---

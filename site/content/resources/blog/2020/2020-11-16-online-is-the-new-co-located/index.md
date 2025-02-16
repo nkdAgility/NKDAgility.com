@@ -30,8 +30,8 @@ tags:
 - Collaboration Tools
 categories:
 - People and Process
-- Transparency and Accountability
 - Events and Presentations
+- Transparency and Accountability
 preview: image-21-3-3.png
 
 ---

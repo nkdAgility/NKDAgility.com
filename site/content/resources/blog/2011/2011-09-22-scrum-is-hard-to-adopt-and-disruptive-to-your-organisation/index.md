@@ -27,12 +27,12 @@ tags:
 - Scrum Product Development
 - Change Management
 - Agile Transformation
-- Team Performance
 - Software Development
-- Professional Scrum
+- Agile Frameworks
 - Organisational Change
 - Pragmatic Thinking
-- Agile Frameworks
+- Team Performance
+- Professional Scrum
 - Software Developers
 - Team Collaboration
 - Technical Leadership

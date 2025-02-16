@@ -26,8 +26,8 @@ tags:
 - Windows
 - Modern Source Control
 - System Configuration
-- Working Software
 - Release Management
+- Working Software
 - Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
@@ -37,7 +37,7 @@ preview: metro-visual-studio-2010-128-link-36-36.png
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Product Delivery
+- Application Lifecycle Management
 
 ---
 ![vs2010alm](images/09437a6f5f9c_A38D-vs2010alm_-34-34.png)Today is the big day, with the Launch of Visual Studio 2010 already done in Asia, and rolling around the world towards us, we are getting ready for the RTM.

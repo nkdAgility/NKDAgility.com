@@ -37,8 +37,8 @@ tags:
 - Product Backlog
 categories:
 - Application Lifecycle Management
+- Products and Books
 - Practical Techniques and Tooling
-- Product Delivery
 preview: metro-requirements-icon-14-14.png
 
 ---

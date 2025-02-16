@@ -29,21 +29,21 @@ tags:
 - Automated Testing
 - Modern Source Control
 - Technical Mastery
-- Operational Practices
-- Software Development
-- Engineering Excellence
-- Continuous Integration
 - Azure Pipelines
+- Engineering Excellence
+- Software Development
 - Engineering Practices
+- Operational Practices
+- Continuous Integration
 - Continuous Delivery
 - Software Developers
-- Pragmatic Thinking
 - Working Software
+- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Practical Techniques and Tooling
-- DevOps
 - Technical Excellence
+- DevOps
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

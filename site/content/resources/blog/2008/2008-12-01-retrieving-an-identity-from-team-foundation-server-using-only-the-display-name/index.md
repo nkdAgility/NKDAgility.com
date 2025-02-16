@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

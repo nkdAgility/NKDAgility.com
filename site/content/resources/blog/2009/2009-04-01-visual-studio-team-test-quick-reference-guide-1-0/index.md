@@ -21,7 +21,11 @@ aliasesFor404:
 - /visual-studio-team-test-quick-reference-guide-1-0
 - /blog/visual-studio-team-test-quick-reference-guide-1-0
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
-tags: []
+tags:
+- Pragmatic Thinking
+- Software Development
+- Troubleshooting
+- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

@@ -21,7 +21,8 @@ aliasesFor404:
 - /microsoft-answer-for-the-end-user
 - /blog/microsoft-answer-for-the-end-user
 - /resources/blog/microsoft-answer-for-the-end-user
-categories: []
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

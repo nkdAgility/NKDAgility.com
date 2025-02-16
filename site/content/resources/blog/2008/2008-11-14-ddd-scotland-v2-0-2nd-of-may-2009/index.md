@@ -25,7 +25,10 @@ aliasesFor404:
 - /ddd-scotland-v2-0--2nd-of-may-2009
 - /blog/ddd-scotland-v2-0--2nd-of-may-2009
 - /resources/blog/ddd-scotland-v2-0-2nd-of-may-2009
-categories: []
+categories:
+- Personal
+- Events and Presentations
+- Miscellaneous
 preview: nakedalm-logo-128-link-2-2.png
 tags: []
 

@@ -30,18 +30,18 @@ tags:
 - Windows
 - System Configuration
 - Technical Mastery
-- Operational Practices
-- Software Development
-- Pragmatic Thinking
-- Continuous Integration
 - Azure Pipelines
 - Software Developers
+- Software Development
+- Operational Practices
 - Azure Repos
+- Pragmatic Thinking
+- Continuous Integration
 - Modern Source Control
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- DevOps
+- Technical Excellence
 preview: clip_image004-4-4.png
 
 ---

@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/visual-studio-team-system-2008-team-foundation-server-power-tools
 tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- News and Reviews
 
 ---
 There is a new release of the Power Tools for team system. As an MVP I was involved in the trial that started early this month, and I can tell you that a LOT of work has gone into these :)

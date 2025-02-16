@@ -32,21 +32,21 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Scrum Team
+- Cross Functional Teams
 - Software Development
 - Professional Scrum
-- Cross Functional Teams
 - Team Performance
 - Team Collaboration
-- Agile Transformation
 - Agile Project Management
-- Pragmatic Thinking
+- Agile Transformation
 - Agile Frameworks
+- Pragmatic Thinking
 - Team Motivation
 - Self Organisation
 categories:
 - Scrum
-- Product Delivery
 - Value Delivery
+- Product Delivery
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

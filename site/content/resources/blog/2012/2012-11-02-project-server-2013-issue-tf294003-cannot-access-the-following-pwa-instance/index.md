@@ -29,10 +29,10 @@ aliasesFor404:
 - /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 tags:
 - Pragmatic Thinking
-- Software Development
-- System Configuration
 - Windows
+- Software Development
 - Troubleshooting
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

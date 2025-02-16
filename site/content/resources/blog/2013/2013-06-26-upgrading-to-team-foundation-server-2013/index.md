@@ -31,8 +31,8 @@ tags:
 - Pragmatic Thinking
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

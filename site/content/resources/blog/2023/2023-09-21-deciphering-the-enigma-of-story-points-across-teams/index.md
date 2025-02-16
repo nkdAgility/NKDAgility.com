@@ -25,11 +25,11 @@ aliasesFor404:
 tags:
 - Throughput
 - Agile Project Management
-- Team Performance
 - Decision Making
-- Operational Practices
+- Team Performance
 - Software Development
 - Evidence Based Leadership
+- Operational Practices
 - Pragmatic Thinking
 - Agile Planning
 - Product Management
@@ -37,8 +37,8 @@ tags:
 - Forecasting
 categories:
 - Agile Product Management
-- Metrics and Learning
 - Value Delivery
+- Metrics and Learning
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

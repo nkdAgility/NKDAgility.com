@@ -24,29 +24,29 @@ aliasesFor404:
 categories:
 - People and Process
 - Scrum
-- Discovery and Learning
+- Events and Presentations
 preview: class-colage-2-8-8.jpg
 tags:
 - Team Collaboration
 - Agile Values and Principles
-- Scrum Team
 - Professional Scrum
-- Scrum Values
 - Collaboration Tools
+- Scrum Team
 - Scrum Product Development
-- Agile Frameworks
-- Agile Transformation
-- Team Performance
-- Self Organisation
-- Agile Project Management
-- Remote Working
-- Team Motivation
+- Scrum Values
 - Agile Leadership
-- Pragmatic Thinking
-- Accountability
-- Psychological Safety
+- Self Organisation
+- Agile Frameworks
+- Team Motivation
+- Agile Transformation
+- Remote Working
+- Agile Project Management
+- Team Performance
 - Software Development
-- Working Agreements
+- Psychological Safety
+- Accountability
+- Pragmatic Thinking
+- Agile Philosophy
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

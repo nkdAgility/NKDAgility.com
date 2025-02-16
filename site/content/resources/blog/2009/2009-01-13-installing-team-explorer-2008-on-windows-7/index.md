@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/installing-team-explorer-2008-on-windows-7
 - /resources/blog/installing-team-explorer-2008-on-windows-7
 tags: []
-categories: []
+categories:
+- Install and Configuration
 
 ---
 I was a little lazy last time and did not install either Team Explorer, or SP1 on my visual studio instance. So, lets get to it…

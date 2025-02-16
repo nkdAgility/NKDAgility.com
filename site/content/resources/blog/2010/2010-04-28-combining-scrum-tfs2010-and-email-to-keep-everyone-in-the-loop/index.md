@@ -33,12 +33,12 @@ tags:
 - Agile Project Management
 - Team Collaboration
 - Software Development
-- Pragmatic Thinking
 - Agile Frameworks
+- Pragmatic Thinking
 - Team Performance
 - Scrum Product Development
-- Operational Practices
 - Software Developers
+- Operational Practices
 categories:
 - People and Process
 - Practical Techniques and Tooling

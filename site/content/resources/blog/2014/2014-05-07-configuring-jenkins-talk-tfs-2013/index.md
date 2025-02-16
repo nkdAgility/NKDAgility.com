@@ -37,7 +37,7 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- DevOps
+- Technical Excellence
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

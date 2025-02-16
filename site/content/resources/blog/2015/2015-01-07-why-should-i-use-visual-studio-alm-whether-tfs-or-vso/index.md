@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 tags:
 - Software Development
-- Decision Making
 - Release Management
+- Decision Making
 - Technical Mastery
 - Pragmatic Thinking
 - Engineering Excellence

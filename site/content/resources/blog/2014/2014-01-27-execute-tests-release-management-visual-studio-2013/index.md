@@ -26,19 +26,19 @@ aliasesFor404:
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
 - /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
-- Automated Testing
 - Release Management
+- Automated Testing
 - Test Automation
 - Software Development
+- Pragmatic Thinking
+- Operational Practices
+- Continuous Delivery
 - Troubleshooting
 - System Configuration
 - Software Developers
-- Technical Mastery
 - Engineering Excellence
+- Technical Mastery
 - Frequent Releases
-- Operational Practices
-- Continuous Delivery
-- Pragmatic Thinking
 - Working Software
 - Deployment Strategies
 - Azure Pipelines

@@ -29,22 +29,22 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Software Development
-- Agile Planning
-- Software Developers
-- Team Performance
 - Agile Project Management
+- Team Performance
+- Software Developers
 - Professional Scrum
+- Agile Planning
 - Agile Frameworks
+- Pragmatic Thinking
 - Forecasting
 - Agile Transformation
-- Pragmatic Thinking
 - Empirical Process Control
-- Scrum Master
 - Agile Planning Tools
+- Scrum Master
 - Product Management
 - Estimation
 - Product Owner
-- Decision Making
+- Transparency
 - Troubleshooting
 categories:
 - Scrum

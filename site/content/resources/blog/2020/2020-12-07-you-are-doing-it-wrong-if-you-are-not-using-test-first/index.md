@@ -28,10 +28,10 @@ tags:
 - Engineering Excellence
 - Engineering Practices
 - Test Driven Development
-- Automated Testing
-- Test Automation
-- Working Software
 - Software Developers
+- Working Software
+- Test Automation
+- Automated Testing
 - Product Validation
 - Technical Mastery
 - Operational Practices

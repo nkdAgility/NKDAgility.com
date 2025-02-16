@@ -28,23 +28,23 @@ aliasesFor404:
 tags:
 - Software Development
 - Agile Project Management
-- Scrum Team
-- Software Developers
 - Professional Scrum
+- Scrum Team
 - Scrum Product Development
-- Agile Planning
+- Software Developers
 - Team Performance
-- Scrum Master
 - Team Collaboration
-- Pragmatic Thinking
+- Scrum Master
+- Agile Planning
 - Empirical Process Control
-- Increment
+- Pragmatic Thinking
 - Agile Transformation
+- Increment
 - Agile Frameworks
 - Working Software
 - Transparency
-- Self Organisation
 - Accountability
+- Self Organisation
 - Product Owner
 categories:
 - Scrum

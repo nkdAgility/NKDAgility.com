@@ -31,12 +31,12 @@ tags:
 - Troubleshooting
 - Continuous Integration
 - Technical Mastery
-- Operational Practices
-- Software Development
 - Engineering Excellence
+- Windows
+- Software Development
+- Operational Practices
 - Pragmatic Thinking
 - System Configuration
-- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

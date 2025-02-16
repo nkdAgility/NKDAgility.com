@@ -31,8 +31,8 @@ tags:
 - Technical Mastery
 - Software Development
 - Pragmatic Thinking
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

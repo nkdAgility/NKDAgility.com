@@ -30,18 +30,18 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Technical Mastery
+- Software Developers
+- Windows
 - Software Development
 - Pragmatic Thinking
-- Continuous Integration
 - System Configuration
-- Windows
-- Software Developers
+- Continuous Integration
 - Operational Practices
 - Azure Pipelines
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration
-- DevOps
+- Technical Excellence
 preview: metro-problem-icon-7-7.png
 
 ---

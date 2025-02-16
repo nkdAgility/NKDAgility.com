@@ -31,9 +31,9 @@ aliasesFor404:
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
 - System Configuration
+- Frequent Releases
 - Technical Mastery
 - Software Development
-- Frequent Releases
 - Product Validation
 - Pragmatic Thinking
 - Engineering Excellence

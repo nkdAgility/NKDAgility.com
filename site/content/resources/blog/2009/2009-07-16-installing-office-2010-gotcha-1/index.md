@@ -21,7 +21,9 @@ aliasesFor404:
 - /installing-office-2010-gotcha-1
 - /blog/installing-office-2010-gotcha-1
 - /resources/blog/installing-office-2010-gotcha-1
-tags: []
+tags:
+- Troubleshooting
+- Windows
 preview: nakedalm-logo-128-link-2-2.png
 categories:
 - Install and Configuration

@@ -27,17 +27,17 @@ aliasesFor404:
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
-- Organisational Culture
 - Agile Strategy
-- Strategy
+- Organisational Culture
 - Pragmatic Thinking
+- Strategy
 - Scaling Agility
 - Team Motivation
 - Organisational Change
 categories:
 - Business Agility
-- People and Process
 - Enterprise Agility
+- Organisational Agility
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 
 ---

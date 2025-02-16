@@ -33,18 +33,18 @@ tags:
 - Software Development
 - Professional Scrum
 - Transparency
-- Working Software
-- Empirical Process Control
-- Team Performance
 - Scrum Team
+- Team Performance
+- Empirical Process Control
+- Working Software
 - Engineering Practices
-- Engineering Excellence
 - Software Developers
-- Pragmatic Thinking
+- Engineering Excellence
+- Agile Frameworks
 - Operational Practices
+- Pragmatic Thinking
 - Agile Planning
 - Agile Project Management
-- Agile Frameworks
 - Decision Making
 - Team Collaboration
 categories:

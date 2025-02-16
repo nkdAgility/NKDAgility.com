@@ -24,18 +24,18 @@ aliasesFor404:
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
 tags:
 - Product Backlog
-- Professional Scrum
 - Backlog Refinement
 - Scrum Product Development
-- Agile Planning
+- Professional Scrum
 - Agile Project Management
+- Agile Planning
 - Agile Planning Tools
+- Agile Frameworks
 - Product Owner
 - Product Management
-- Agile Frameworks
 - Software Development
-- Pragmatic Thinking
 - Transparency
+- Pragmatic Thinking
 categories:
 - Scrum
 - Agile Product Management

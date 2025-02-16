@@ -30,8 +30,8 @@ tags:
 - Technical Debt
 - Transparency
 - Technical Mastery
-- Software Development
 - Software Developers
+- Software Development
 - Engineering Excellence
 - Pragmatic Thinking
 - Product Management

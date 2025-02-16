@@ -26,18 +26,18 @@ aliasesFor404:
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/blog/what-is-your-perspective-on-collocation
 tags:
-- Organisational Culture
 - Scrum Team
-- Team Performance
-- Software Development
+- Organisational Culture
 - Agile Project Management
-- Team Collaboration
-- Team Motivation
+- Software Development
 - Agile Frameworks
-- Pragmatic Thinking
+- Team Performance
+- Team Motivation
+- Team Collaboration
 - Software Developers
-- Professional Scrum
+- Pragmatic Thinking
 - Scrum Master
+- Professional Scrum
 - Operational Practices
 categories:
 - Scrum

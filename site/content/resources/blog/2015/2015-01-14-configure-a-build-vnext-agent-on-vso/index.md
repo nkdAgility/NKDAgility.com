@@ -27,17 +27,17 @@ aliasesFor404:
 - /resources/blog/configure-a-build-vnext-agent-on-vso
 tags:
 - System Configuration
-- Software Development
 - Azure Pipelines
+- Software Development
 - Windows
 - Technical Mastery
 - Modern Source Control
-- Operational Practices
 - Engineering Excellence
+- Software Developers
+- Operational Practices
+- Azure Repos
 - Pragmatic Thinking
 - Continuous Integration
-- Software Developers
-- Azure Repos
 - Release Management
 categories:
 - Install and Configuration

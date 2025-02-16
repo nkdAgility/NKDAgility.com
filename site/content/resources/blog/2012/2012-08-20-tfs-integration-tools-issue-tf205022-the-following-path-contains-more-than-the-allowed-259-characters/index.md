@@ -29,10 +29,10 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
 - Modern Source Control
-- Software Development
-- System Configuration
 - Windows
+- Software Development
 - Troubleshooting
+- System Configuration
 - Pragmatic Thinking
 - Technical Mastery
 categories:

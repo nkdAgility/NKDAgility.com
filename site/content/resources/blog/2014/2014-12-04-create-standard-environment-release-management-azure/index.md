@@ -29,8 +29,8 @@ tags:
 - Release Management
 - Technical Mastery
 - Deployment Strategies
-- Operational Practices
 - Software Development
+- Operational Practices
 - Pragmatic Thinking
 - System Configuration
 - Continuous Delivery
@@ -38,8 +38,8 @@ tags:
 - Windows
 categories:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
-- Install and Configuration
+- Technical Excellence
+- Events and Presentations
 preview: nakedalm-windows-logo-16-16.png
 
 ---

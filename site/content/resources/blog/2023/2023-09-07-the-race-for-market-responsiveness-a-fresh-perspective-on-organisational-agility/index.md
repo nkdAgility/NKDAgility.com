@@ -29,16 +29,16 @@ aliasesFor404:
 tags:
 - Organisational Change
 - Strategic Goals
-- Agile Philosophy
-- Strategy
-- Pragmatic Thinking
 - Agile Strategy
-- Digital Transformation
+- Agile Philosophy
+- Pragmatic Thinking
+- Strategy
 - Trend Analysis
+- Digital Transformation
 categories:
 - Organisational Agility
-- Market Adaptability
 - Resilience and Change
+- Enterprise Agility
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

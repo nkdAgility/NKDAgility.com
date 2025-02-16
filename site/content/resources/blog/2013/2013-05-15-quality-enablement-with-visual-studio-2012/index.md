@@ -29,19 +29,19 @@ tags:
 - Operational Practices
 - Software Developers
 - Acceptance Test Driven Development
-- Test Automation
-- Cycle Time
-- Behaviour Driven Development
-- Agile Project Management
-- Continuous Integration
-- Automated Testing
-- Continuous Delivery
-- Frequent Releases
 - Release Management
+- Automated Testing
+- Test Automation
+- Continuous Delivery
+- Cycle Time
+- Agile Project Management
+- Frequent Releases
+- Behaviour Driven Development
+- Continuous Integration
 - Deployment Frequency
 - Agile Strategy
 - Engineering Excellence
-- Digital Transformation
+- Technical Mastery
 categories:
 - Application Lifecycle Management
 - Product Delivery

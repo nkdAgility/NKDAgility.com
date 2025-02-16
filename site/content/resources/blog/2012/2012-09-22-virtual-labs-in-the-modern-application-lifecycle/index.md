@@ -22,15 +22,15 @@ aliasesFor404:
 - /blog/virtual-labs-in-the-modern-application-lifecycle
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 tags:
-- Automated Testing
 - Software Development
+- Automated Testing
 - Technical Mastery
-- Operational Practices
 - Engineering Excellence
 - Software Developers
+- Operational Practices
 - Frequent Releases
-- Pragmatic Thinking
 - Digital Transformation
+- Pragmatic Thinking
 - Windows
 - Continuous Delivery
 - Test Automation

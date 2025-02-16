@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Working Software
-- Customer Feedback Loops
-- Agile Philosophy
-- Agile Transformation
 - Agile Strategy
+- Agile Transformation
+- Agile Philosophy
+- Customer Feedback Loops
 - Frequent Releases
 - Deployment Frequency
-- Product Discovery
 - Software Development
+- Product Discovery
 - Product Management
 - Customer Retention
 - Agile Project Management

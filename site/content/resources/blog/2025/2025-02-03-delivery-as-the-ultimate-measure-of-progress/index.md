@@ -26,29 +26,29 @@ aliasesFor404:
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
 - Increment
-- Software Development
 - Agile Project Management
-- Engineering Practices
+- Software Development
+- Continuous Delivery
 - Scrum Product Development
 - Scrum Team
 - Working Software
-- Continuous Delivery
+- Engineering Practices
+- Deployment Frequency
+- Team Performance
+- Empirical Process Control
+- Operational Practices
+- Professional Scrum
 - Release Management
 - Software Developers
-- Professional Scrum
-- Empirical Process Control
-- Deployment Frequency
-- Operational Practices
-- Team Performance
 - Agile Frameworks
 - Strategy
-- Agile Transformation
-- Agile Planning
 - Frequent Releases
+- Agile Planning
+- Agile Transformation
 categories:
 - Product Delivery
-- People and Process
 - Value Delivery
+- People and Process
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

@@ -21,7 +21,12 @@ aliasesFor404:
 - /developer-day-scotland
 - /blog/developer-day-scotland
 - /resources/blog/developer-day-scotland
-tags: []
+tags:
+- Software Development
+- Technical Mastery
+- Engineering Excellence
+- Engineering Practices
+- Technical Debt
 categories:
 - Events and Presentations
 - News and Reviews

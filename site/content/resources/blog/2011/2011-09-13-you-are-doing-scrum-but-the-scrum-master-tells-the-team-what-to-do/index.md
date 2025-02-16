@@ -28,22 +28,22 @@ aliasesFor404:
 tags:
 - Scrum Team
 - Agile Project Management
-- Scrum Product Development
 - Accountability
-- Software Development
+- Scrum Product Development
 - Scrum Master
+- Software Development
+- Professional Scrum
+- Team Collaboration
+- Software Developers
 - Team Performance
 - Self Organisation
-- Software Developers
-- Team Collaboration
-- Professional Scrum
-- Agile Frameworks
-- Agile Leadership
-- Agile Transformation
-- Technical Leadership
+- Pragmatic Thinking
 - Continuous Learning
 - Coaching
-- Pragmatic Thinking
+- Technical Leadership
+- Agile Frameworks
+- Agile Transformation
+- Agile Leadership
 - Agile Philosophy
 - Team Motivation
 categories:

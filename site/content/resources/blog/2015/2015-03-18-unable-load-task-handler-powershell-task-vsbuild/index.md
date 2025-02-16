@@ -28,11 +28,11 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
+- Azure Pipelines
 - Software Development
 - Pragmatic Thinking
-- Continuous Integration
-- Azure Pipelines
 - Troubleshooting
+- Continuous Integration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

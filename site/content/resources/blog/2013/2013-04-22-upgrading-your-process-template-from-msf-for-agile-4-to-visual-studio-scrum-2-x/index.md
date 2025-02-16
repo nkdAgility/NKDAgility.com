@@ -25,10 +25,10 @@ tags:
 - Agile Project Management
 - System Configuration
 - Azure Boards
-- Operational Practices
-- Software Development
-- Pragmatic Thinking
 - Software Developers
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
 - Agile Transformation
 categories:
 - Practical Techniques and Tooling

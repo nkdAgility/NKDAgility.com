@@ -26,23 +26,23 @@ tags:
 - Scrum Product Development
 - Product Management
 - Product Owner
-- Pragmatic Thinking
-- Agile Project Management
 - Professional Scrum
+- Agile Project Management
+- Pragmatic Thinking
 - Hypothesis Driven Development
-- Agile Planning
-- Agile Frameworks
 - Strategy
+- Agile Frameworks
+- Agile Planning
 - Software Development
 - Agile Strategy
 - Product Strategy
 - Product Discovery
-- Empirical Process Control
 - Product Validation
+- Empirical Process Control
 - Scrum Team
-- Experimentation
 - Decision Making
 - Accountability
+- Experimentation
 categories:
 - Scrum
 - Agile Product Management

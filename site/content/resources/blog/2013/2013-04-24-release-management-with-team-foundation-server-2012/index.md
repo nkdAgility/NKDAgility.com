@@ -29,12 +29,12 @@ tags:
 - Operational Practices
 - Working Software
 - Engineering Practices
-- Software Developers
-- Deployment Strategies
 - Deployment Frequency
-- Definition of Done
+- Deployment Strategies
 - Continuous Delivery
+- Software Developers
 - Frequent Releases
+- Definition of Done
 - Increment
 - Technical Mastery
 - Automated Testing

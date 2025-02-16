@@ -36,7 +36,7 @@ tags:
 categories:
 - Discovery and Learning
 - People and Process
-- Events and Presentations
+- Products and Books
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

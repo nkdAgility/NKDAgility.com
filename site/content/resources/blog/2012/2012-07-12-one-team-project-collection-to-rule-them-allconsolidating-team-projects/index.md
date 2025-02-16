@@ -31,8 +31,8 @@ tags:
 - Troubleshooting
 - Modern Source Control
 - System Configuration
-- Operational Practices
 - Software Development
+- Operational Practices
 - Pragmatic Thinking
 - Agile Project Management
 - Software Developers

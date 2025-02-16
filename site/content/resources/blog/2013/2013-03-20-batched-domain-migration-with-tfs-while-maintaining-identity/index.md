@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - Pragmatic Thinking
 - Technical Mastery
-- Operational Practices
 - Software Development
-- System Configuration
+- Operational Practices
 - Troubleshooting
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

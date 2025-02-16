@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
+- Azure Pipelines
 - Operational Practices
 - Continuous Integration
-- Azure Pipelines
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

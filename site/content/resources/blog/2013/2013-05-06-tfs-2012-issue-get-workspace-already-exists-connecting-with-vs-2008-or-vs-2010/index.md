@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - Software Development
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

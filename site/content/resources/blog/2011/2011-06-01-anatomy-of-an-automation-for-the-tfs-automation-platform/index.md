@@ -25,8 +25,8 @@ tags:
 - Software Development
 - System Configuration
 - Technical Mastery
-- Operational Practices
 - Windows
+- Operational Practices
 - Pragmatic Thinking
 categories:
 - Install and Configuration

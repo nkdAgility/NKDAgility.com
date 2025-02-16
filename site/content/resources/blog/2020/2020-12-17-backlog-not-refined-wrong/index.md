@@ -28,10 +28,10 @@ aliasesFor404:
 - /resources/blog/backlog-not-refined-wrong
 tags:
 - Scrum Product Development
-- Product Backlog
 - Backlog Refinement
-- Software Development
+- Product Backlog
 - Professional Scrum
+- Software Development
 - Agile Project Management
 - Scrum Team
 - Definition of Ready
@@ -42,11 +42,11 @@ tags:
 - Agile Planning Tools
 - Software Developers
 - Agile Frameworks
-- Pragmatic Thinking
 - Agile Transformation
 - Operational Practices
+- Pragmatic Thinking
 - Empirical Process Control
-- Product Management
+- Working Software
 categories:
 - Scrum
 - People and Process

@@ -25,8 +25,8 @@ tags:
 - Modern Source Control
 - Software Development
 - Pragmatic Thinking
-- System Configuration
 - Troubleshooting
+- System Configuration
 - Technical Mastery
 categories:
 - Practical Techniques and Tooling

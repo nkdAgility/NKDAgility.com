@@ -25,8 +25,8 @@ tags:
 - Modern Source Control
 - System Configuration
 - Technical Mastery
-- Operational Practices
 - Software Development
+- Operational Practices
 - Pragmatic Thinking
 - Troubleshooting
 - Engineering Excellence

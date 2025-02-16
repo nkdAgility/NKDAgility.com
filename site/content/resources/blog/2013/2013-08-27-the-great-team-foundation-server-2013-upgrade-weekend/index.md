@@ -24,8 +24,8 @@ aliasesFor404:
 tags: []
 categories:
 - Install and Configuration
-- Events and Presentations
 - Products and Books
+- Events and Presentations
 
 ---
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.

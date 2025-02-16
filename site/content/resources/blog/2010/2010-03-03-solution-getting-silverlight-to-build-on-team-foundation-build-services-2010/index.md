@@ -25,7 +25,15 @@ aliasesFor404:
 - /solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
-tags: []
+tags:
+- Troubleshooting
+- Software Development
+- System Configuration
+- Technical Mastery
+- Engineering Excellence
+- Operational Practices
+- Pragmatic Thinking
+- Continuous Integration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

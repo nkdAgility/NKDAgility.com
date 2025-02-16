@@ -31,8 +31,8 @@ tags:
 - Agile Frameworks
 categories:
 - Events and Presentations
-- Kanban
 - Scrum
+- Kanban
 preview: metro-nwc-128-link-2-2.png
 
 ---

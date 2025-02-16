@@ -32,10 +32,10 @@ tags:
 - Modern Source Control
 - System Configuration
 - Technical Mastery
-- Software Development
-- Pragmatic Thinking
 - Windows
+- Software Development
 - Azure Repos
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -27,11 +27,11 @@ tags:
 - Release Management
 - System Configuration
 - Technical Mastery
-- Operational Practices
-- Engineering Excellence
-- Continuous Integration
 - Azure Pipelines
+- Engineering Excellence
+- Operational Practices
 - Troubleshooting
+- Continuous Integration
 - Working Software
 - Engineering Practices
 categories:

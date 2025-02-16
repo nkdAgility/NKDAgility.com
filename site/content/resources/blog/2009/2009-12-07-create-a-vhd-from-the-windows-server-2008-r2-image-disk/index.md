@@ -21,7 +21,10 @@ aliasesFor404:
 - /create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /resources/blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
-tags: []
+tags:
+- Windows
+- Technical Mastery
+- System Configuration
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - Install and Configuration

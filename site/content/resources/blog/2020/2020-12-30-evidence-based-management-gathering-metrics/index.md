@@ -28,25 +28,25 @@ aliasesFor404:
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
 - Revenue per Employee
-- Ability to Innovate
 - Scrum Product Development
-- Customer Satisfaction
+- Ability to Innovate
 - Working Software
-- Agile Project Management
+- Customer Satisfaction
 - Empirical Process Control
 - Software Development
 - Product Management
+- Agile Project Management
 - Agile Frameworks
-- Decision Making
-- Agile Strategy
 - Agile Transformation
+- Agile Strategy
 - Cycle Time
 - Evidence Based Leadership
 - Operational Practices
-- Pragmatic Thinking
-- Throughput
+- Decision Making
 - Deployment Frequency
 - Frequent Releases
+- Pragmatic Thinking
+- Trend Analysis
 categories:
 - Evidence Based Management
 - Scrum

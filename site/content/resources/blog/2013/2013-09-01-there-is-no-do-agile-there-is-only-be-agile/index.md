@@ -28,28 +28,28 @@ aliasesFor404:
 tags:
 - Transparency
 - Empirical Process Control
+- Agile Values and Principles
 - Team Collaboration
 - Change Management
+- Organisational Change
 - Scaling Agility
 - Agile Project Management
-- Agile Values and Principles
-- Organisational Change
+- Agile Frameworks
+- Team Motivation
+- Team Performance
+- Organisational Culture
+- Software Development
 - Agile Leadership
 - Agile Strategy
-- Software Developers
-- Organisational Culture
-- Team Performance
-- Agile Transformation
-- Agile Frameworks
-- Agile Philosophy
 - Operational Practices
-- Software Development
-- Team Motivation
+- Agile Transformation
+- Software Developers
+- Agile Philosophy
 - Pragmatic Thinking
 categories:
 - Agile Product Management
 - People and Process
-- Transparency and Accountability
+- Organisational Agility
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

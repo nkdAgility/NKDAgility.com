@@ -31,19 +31,19 @@ tags:
 - Product Owner
 - Test First Development
 - Technical Mastery
-- Software Developers
-- Agile Planning
-- Agile Transformation
-- Team Performance
 - Agile Project Management
+- Agile Transformation
+- Agile Planning
+- Team Performance
+- Software Developers
 - Azure Boards
-- Operational Practices
 - Engineering Practices
 - Pragmatic Thinking
 - Transparency
-- Test Driven Development
-- Working Software
+- Operational Practices
 - Product Backlog
+- Working Software
+- Test Driven Development
 - Team Collaboration
 - Engineering Excellence
 categories:

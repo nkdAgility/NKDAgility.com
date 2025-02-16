@@ -21,7 +21,17 @@ aliasesFor404:
 - /even-scrum-should-have-detailed-task-descriptions
 - /blog/even-scrum-should-have-detailed-task-descriptions
 - /resources/blog/even-scrum-should-have-detailed-task-descriptions
-tags: []
+tags:
+- Scrum Product Development
+- Professional Scrum
+- Agile Project Management
+- Software Development
+- Agile Frameworks
+- Definition of Ready
+- Team Collaboration
+- Software Developers
+- Transparency
+- Pragmatic Thinking
 categories:
 - Scrum
 - People and Process

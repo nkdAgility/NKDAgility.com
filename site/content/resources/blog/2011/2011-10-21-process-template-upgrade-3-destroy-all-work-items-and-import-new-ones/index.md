@@ -29,8 +29,8 @@ tags:
 - Software Development
 - System Configuration
 - Technical Mastery
-- Operational Practices
 - Azure Boards
+- Operational Practices
 - Pragmatic Thinking
 - Troubleshooting
 - Professional Scrum

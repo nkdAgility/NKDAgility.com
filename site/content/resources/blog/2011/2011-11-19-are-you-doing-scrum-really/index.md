@@ -33,12 +33,12 @@ tags:
 - Software Development
 - Scrum Master
 - Agile Planning
+- Software Developers
 - Team Performance
 - Professional Scrum
-- Software Developers
 - Agile Transformation
-- Pragmatic Thinking
 - Agile Frameworks
+- Pragmatic Thinking
 - Strategy
 categories:
 - Scrum

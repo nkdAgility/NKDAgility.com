@@ -33,18 +33,18 @@ tags:
 - Ability to Innovate
 - Agile Leadership
 - Strategic Goals
-- Agile Frameworks
 - Agile Strategy
-- Strategy
+- Agile Frameworks
+- Decision Making
 - Empirical Process Control
 - Pragmatic Thinking
-- Decision Making
+- Strategy
 - Product Management
 - Agile Transformation
 categories:
 - Evidence Based Management
 - Events and Presentations
-- People and Process
+- Metrics and Learning
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

@@ -29,14 +29,14 @@ tags:
 - Product Owner
 - Accountability
 - Scrum Product Development
-- Product Backlog
-- Scrum Team
 - Agile Project Management
+- Scrum Team
+- Product Backlog
 - Product Management
 - Software Development
 - Professional Scrum
-- Agile Planning
 - Agile Transformation
+- Agile Planning
 - Agile Frameworks
 - Pragmatic Thinking
 categories:

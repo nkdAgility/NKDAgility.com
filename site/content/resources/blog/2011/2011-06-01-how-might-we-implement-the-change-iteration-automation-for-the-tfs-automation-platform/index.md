@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
 - Software Development
+- Software Developers
 - Operational Practices
 - Pragmatic Thinking
-- Software Developers
 - Digital Transformation
 - System Configuration
 - Engineering Excellence

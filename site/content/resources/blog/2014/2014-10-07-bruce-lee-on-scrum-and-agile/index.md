@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Agile Philosophy
 - Agile Values and Principles
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - Agile Frameworks
 - Pragmatic Thinking
 categories:

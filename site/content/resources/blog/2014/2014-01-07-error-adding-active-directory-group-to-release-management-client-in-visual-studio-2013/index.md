@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 - /resources/blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 tags:
-- Software Development
 - Windows
+- Software Development
 - Troubleshooting
 categories:
 - Install and Configuration

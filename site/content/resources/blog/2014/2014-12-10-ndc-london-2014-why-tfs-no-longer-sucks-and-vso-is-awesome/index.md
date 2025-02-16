@@ -31,9 +31,9 @@ tags:
 - Product Owner
 - Software Development
 - Troubleshooting
+- Software Developers
 - Continuous Delivery
 - Pragmatic Thinking
-- Software Developers
 categories:
 - Events and Presentations
 - Install and Configuration

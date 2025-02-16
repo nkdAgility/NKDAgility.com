@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Windows
 - Software Development
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -24,24 +24,24 @@ aliasesFor404:
 tags:
 - Increment
 - Transparency
-- Deployment Frequency
 - Software Development
-- Scrum Product Development
-- Customer Feedback Loops
-- Product Validation
-- Working Software
+- Deployment Frequency
 - Frequent Releases
-- Agile Strategy
-- Agile Frameworks
-- Product Management
-- Software Developers
-- Release Management
-- Continuous Delivery
-- Agile Transformation
-- Lead Time
-- Agile Planning
-- Agile Project Management
+- Customer Feedback Loops
+- Working Software
+- Product Validation
+- Scrum Product Development
 - Agile Philosophy
+- Continuous Delivery
+- Product Management
+- Lead Time
+- Agile Frameworks
+- Release Management
+- Software Developers
+- Agile Project Management
+- Agile Planning
+- Agile Strategy
+- Agile Transformation
 categories:
 - Agile Product Management
 - Value Delivery

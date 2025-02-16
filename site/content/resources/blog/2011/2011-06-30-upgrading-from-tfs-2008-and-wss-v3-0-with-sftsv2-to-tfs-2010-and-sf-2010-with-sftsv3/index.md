@@ -26,15 +26,15 @@ tags:
 - Software Development
 - Troubleshooting
 - Windows
+- Software Developers
 - Operational Practices
 - Pragmatic Thinking
-- Software Developers
 - Agile Project Management
-- Scrum Product Development
-- Scaled Agile
-- Working Software
 - Release Management
 - Agile Frameworks
+- Scaled Agile
+- Working Software
+- Scrum Product Development
 - Technical Mastery
 - Engineering Excellence
 - Modern Source Control

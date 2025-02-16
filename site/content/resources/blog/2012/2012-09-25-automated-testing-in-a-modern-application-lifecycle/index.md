@@ -24,9 +24,9 @@ aliasesFor404:
 - /automated-testing-in-a-modern-application-lifecycle/
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
 tags:
-- Automated Testing
 - Software Development
 - Test Automation
+- Automated Testing
 - Engineering Practices
 - Working Software
 - Technical Debt

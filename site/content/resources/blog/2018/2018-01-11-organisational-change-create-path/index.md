@@ -30,26 +30,26 @@ tags:
 - Pragmatic Thinking
 - Change Management
 - Large Scale Agility
+- Continuous Learning
 - Organisational Culture
 - Agile Leadership
-- Scaled Agile
-- Agile Frameworks
-- Continuous Learning
 - Software Development
+- Agile Frameworks
+- Scaled Agile
 - Professional Scrum
 - Organisational Physics
-- Technical Leadership
-- Agile Strategy
-- Scaling Agility
+- Scaling Scrum
+- Team Collaboration
 - Empirical Process Control
-- Agile Project Management
-- Agile Transformation
-- Agile Philosophy
 - Operational Practices
+- Scaling Agility
+- Technical Leadership
+- Agile Planning
+- Agile Transformation
 categories:
 - People and Process
-- Enterprise Agility
 - Organisational Agility
+- Enterprise Agility
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

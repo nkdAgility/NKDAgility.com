@@ -29,10 +29,10 @@ tags:
 - System Configuration
 - Troubleshooting
 - Pragmatic Thinking
-- Azure Boards
 - Agile Frameworks
-- Operational Practices
+- Azure Boards
 - Software Development
+- Operational Practices
 - Technical Mastery
 - Software Developers
 - Agile Planning

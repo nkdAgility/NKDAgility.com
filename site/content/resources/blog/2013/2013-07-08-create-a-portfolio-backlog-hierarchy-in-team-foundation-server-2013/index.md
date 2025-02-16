@@ -24,15 +24,15 @@ aliasesFor404:
 tags:
 - Software Development
 - Agile Planning Tools
-- Product Backlog
 - Agile Planning
-- Portfolio Management
+- Product Backlog
 - Agile Project Management
+- Portfolio Management
 - System Configuration
-- Operational Practices
-- Azure Boards
-- Pragmatic Thinking
 - Software Developers
+- Azure Boards
+- Operational Practices
+- Pragmatic Thinking
 - Working Software
 - Scaled Agile
 - Technical Mastery

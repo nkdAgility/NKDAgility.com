@@ -23,14 +23,14 @@ aliasesFor404:
 - /resources/blog/fail-a-build-if-tests-fail
 tags:
 - Technical Mastery
-- Operational Practices
-- Automated Testing
-- Software Development
-- Engineering Excellence
-- Continuous Integration
 - Azure Pipelines
-- Troubleshooting
+- Engineering Excellence
+- Software Development
 - Engineering Practices
+- Automated Testing
+- Operational Practices
+- Troubleshooting
+- Continuous Integration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

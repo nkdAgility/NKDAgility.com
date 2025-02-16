@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - Operational Practices
 - System Configuration
-- Technical Mastery
-- Software Development
 - Release Management
+- Technical Mastery
 - Windows
+- Software Development
 - Troubleshooting
 - Modern Source Control
 - Pragmatic Thinking

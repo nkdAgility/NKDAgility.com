@@ -26,14 +26,14 @@ aliasesFor404:
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
 tags:
-- Continuous Integration
 - System Configuration
-- Operational Practices
-- Software Development
-- Modern Source Control
+- Continuous Integration
 - Software Developers
-- Pragmatic Thinking
+- Software Development
+- Operational Practices
+- Modern Source Control
 - Azure Pipelines
+- Pragmatic Thinking
 - Continuous Delivery
 categories:
 - DevOps

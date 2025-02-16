@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 tags:
-- Software Development
-- Working Software
 - Release Management
 - Software Developers
+- Software Development
+- Working Software
 - Operational Practices
 - Modern Source Control
 - Continuous Integration

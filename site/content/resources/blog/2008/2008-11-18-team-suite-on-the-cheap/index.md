@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/team-suite-on-the-cheap
 - /resources/blog/team-suite-on-the-cheap
 tags: []
-categories: []
+categories:
+- Products and Books
 
 ---
 ![](images/vs_mainlogo-3-3.png)

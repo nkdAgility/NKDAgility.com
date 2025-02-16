@@ -31,12 +31,12 @@ tags:
 - Deployment Frequency
 - Frequent Releases
 - System Configuration
-- Troubleshooting
 - Transparency
+- Troubleshooting
 categories:
 - Install and Configuration
 - Organisational Agility
-- Market Adaptability
+- Personal
 preview: nakedalm-windows-logo-12-12.png
 
 ---

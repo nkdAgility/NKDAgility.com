@@ -25,9 +25,9 @@ tags:
 - Troubleshooting
 - System Configuration
 - Technical Mastery
+- Windows
 - Software Development
 - Pragmatic Thinking
-- Windows
 - Operational Practices
 preview: metro-SSWLogo-128-link-7-7.png
 categories:

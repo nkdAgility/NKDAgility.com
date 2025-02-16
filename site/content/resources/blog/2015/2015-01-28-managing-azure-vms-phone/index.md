@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/managing-azure-vms-phone
 tags: []
 categories:
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-7-7.png
 
 ---

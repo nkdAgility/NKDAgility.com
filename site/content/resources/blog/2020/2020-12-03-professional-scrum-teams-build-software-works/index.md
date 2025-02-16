@@ -26,26 +26,26 @@ aliasesFor404:
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
 tags:
-- Working Software
 - Software Development
+- Working Software
 - Scrum Product Development
-- Engineering Excellence
-- Scrum Team
 - Professional Scrum
+- Scrum Team
+- Engineering Excellence
 - Accountability
 - Increment
-- Empirical Process Control
-- Software Developers
 - Technical Debt
-- Agile Project Management
+- Software Developers
+- Empirical Process Control
 - Team Performance
-- Engineering Practices
 - Technical Mastery
+- Agile Project Management
+- Engineering Practices
+- Operational Practices
 - Agile Frameworks
 - Pragmatic Thinking
-- Operational Practices
-- Decision Making
 - Technical Leadership
+- Decision Making
 categories:
 - Scrum
 - People and Process

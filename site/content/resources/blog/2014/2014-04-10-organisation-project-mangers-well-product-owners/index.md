@@ -27,20 +27,20 @@ aliasesFor404:
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
 - Agile Project Management
-- Product Management
 - Product Owner
-- Agile Strategy
+- Product Management
 - Scrum Team
-- Agile Philosophy
+- Agile Strategy
 - Agile Transformation
 - Team Collaboration
+- Agile Philosophy
 - Organisational Culture
-- Organisational Change
 - Organisational Physics
 - Agile Frameworks
+- Organisational Change
+- Team Performance
 - Scaled Agile
 - Software Development
-- Team Performance
 - Agile Planning
 - Professional Scrum
 - Agile Values and Principles

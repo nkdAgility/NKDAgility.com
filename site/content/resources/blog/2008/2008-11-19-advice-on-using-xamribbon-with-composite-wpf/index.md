@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/advice-on-using-xamribbon-with-composite-wpf
 - /resources/blog/advice-on-using-xamribbon-with-composite-wpf
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

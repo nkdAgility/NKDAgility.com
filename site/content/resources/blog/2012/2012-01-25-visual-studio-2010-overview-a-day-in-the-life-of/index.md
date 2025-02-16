@@ -36,8 +36,8 @@ tags:
 - Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
 - Application Lifecycle Management
 
 ---

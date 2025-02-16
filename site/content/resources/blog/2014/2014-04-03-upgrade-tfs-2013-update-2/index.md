@@ -29,16 +29,16 @@ tags:
 - Release Management
 - System Configuration
 - Agile Planning Tools
+- Frequent Releases
 - Software Development
 - Modern Source Control
-- Frequent Releases
 - Working Software
 - Pragmatic Thinking
 - Windows
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

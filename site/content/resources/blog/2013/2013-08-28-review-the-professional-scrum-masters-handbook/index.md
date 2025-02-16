@@ -29,8 +29,8 @@ tags:
 - Agile Project Management
 - Scrum Master
 - Software Development
-- Pragmatic Thinking
 - Agile Frameworks
+- Pragmatic Thinking
 - Strategy
 categories:
 - Products and Books

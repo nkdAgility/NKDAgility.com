@@ -32,20 +32,20 @@ aliasesFor404:
 tags:
 - Professional Scrum
 - Scrum Product Development
-- Agile Frameworks
-- Software Developers
-- Agile Transformation
-- Team Performance
-- Team Collaboration
 - Agile Project Management
-- Pragmatic Thinking
+- Agile Transformation
+- Software Developers
+- Agile Frameworks
+- Team Collaboration
+- Team Performance
 - Software Development
 - Self Organisation
+- Pragmatic Thinking
 - Agile Planning
 - Scrum Team
 - Team Motivation
-- Continuous Learning
 - Coaching
+- Continuous Learning
 - Working Software
 - Empirical Process Control
 categories:

@@ -27,28 +27,28 @@ aliasesFor404:
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
 - Technical Mastery
+- Working Software
 - Engineering Excellence
 - Modern Source Control
-- Working Software
 - Pragmatic Thinking
-- Software Development
+- Technical Debt
 - Continuous Delivery
 - Release Management
+- Software Development
 - Software Developers
-- Technical Debt
 - Frequent Releases
 - Engineering Practices
+- Strategy
 - Operational Practices
 - Deployment Strategies
 - Troubleshooting
-- Strategy
 - Continuous Integration
 - Decision Making
 - Change Management
 categories:
 - Technical Excellence
 - Code and Complexity
-- Product Delivery
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

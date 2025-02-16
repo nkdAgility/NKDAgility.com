@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - System Configuration
 - Technical Mastery
-- Operational Practices
 - Software Development
-- Continuous Integration
+- Operational Practices
 - Troubleshooting
+- Continuous Integration
 - Azure Pipelines
 preview: metro-SSWLogo-128-link-6-6.png
 categories:

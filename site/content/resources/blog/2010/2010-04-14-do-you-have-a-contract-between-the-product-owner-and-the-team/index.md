@@ -28,15 +28,15 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Scrum Team
-- Scrum Product Development
 - Product Owner
+- Scrum Product Development
 - Agile Planning
-- Professional Scrum
-- Team Collaboration
 - Agile Frameworks
+- Team Collaboration
+- Professional Scrum
+- Software Developers
 - Software Development
 - Working Agreements
-- Software Developers
 - Pragmatic Thinking
 - Team Performance
 - Accountability

@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - System Configuration
-- Operational Practices
 - Software Development
+- Operational Practices
 - Pragmatic Thinking
 - Troubleshooting
 - Windows

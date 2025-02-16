@@ -27,15 +27,15 @@ tags:
 - Scrum Team
 - Scrum Product Development
 - Agile Planning
-- Team Performance
-- Scrum Values
 - Software Developers
-- Software Development
+- Scrum Values
+- Team Performance
 - Agile Project Management
+- Software Development
 - Agile Frameworks
 - Product Owner
-- Team Collaboration
 - Product Management
+- Team Collaboration
 - Pragmatic Thinking
 categories:
 - Scrum

@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-- Pragmatic Thinking
 - Software Developers
+- Pragmatic Thinking
 - System Configuration
 categories:
 - Practical Techniques and Tooling

@@ -35,21 +35,21 @@ tags:
 - Scrum Team
 - Working Software
 - Empirical Process Control
+- Professional Scrum
+- Scrum Master
 - Agile Planning
 - Software Developers
-- Scrum Master
-- Scrum Product Development
-- Professional Scrum
 - Software Development
+- Scrum Product Development
 - Team Performance
-- Frequent Releases
-- Pragmatic Thinking
-- Agile Transformation
 - Deployment Frequency
-- Strategy
-- Operational Practices
 - Agile Frameworks
+- Operational Practices
+- Strategy
+- Agile Transformation
 - Agile Strategy
+- Pragmatic Thinking
+- Frequent Releases
 categories:
 - Scrum
 - People and Process

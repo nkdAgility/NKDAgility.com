@@ -22,22 +22,22 @@ tags:
 - Software Development
 - Release Management
 - Continuous Delivery
-- Continuous Integration
 - Software Developers
 - Engineering Practices
-- Deployment Strategies
-- Operational Practices
-- Modern Source Control
+- Continuous Integration
 - Deployment Frequency
+- Deployment Strategies
+- Modern Source Control
+- Operational Practices
 - Engineering Excellence
-- Frequent Releases
 - Pragmatic Thinking
+- Frequent Releases
 - Strategy
-- Agile Strategy
-- Lead Time
 - Working Software
-- Technical Mastery
+- Lead Time
+- Agile Strategy
 - Throughput
+- Technical Mastery
 - Technical Leadership
 categories:
 - DevOps

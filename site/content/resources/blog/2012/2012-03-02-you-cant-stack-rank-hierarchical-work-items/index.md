@@ -27,17 +27,17 @@ aliasesFor404:
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
 tags:
 - Scrum Product Development
-- Product Backlog
 - Software Development
-- Professional Scrum
+- Product Backlog
 - Software Developers
-- Agile Planning
+- Professional Scrum
 - Agile Project Management
+- Agile Planning
+- Agile Frameworks
 - Azure Boards
 - Pragmatic Thinking
-- Agile Frameworks
-- Operational Practices
 - Agile Planning Tools
+- Operational Practices
 - Product Owner
 categories:
 - Agile Product Management

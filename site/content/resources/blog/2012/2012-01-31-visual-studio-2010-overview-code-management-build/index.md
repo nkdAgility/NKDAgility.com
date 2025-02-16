@@ -38,8 +38,8 @@ tags:
 - Operational Practices
 - Continuous Integration
 - Technical Mastery
-- Working Software
 - Software Developers
+- Working Software
 
 ---
 code-management-and-build

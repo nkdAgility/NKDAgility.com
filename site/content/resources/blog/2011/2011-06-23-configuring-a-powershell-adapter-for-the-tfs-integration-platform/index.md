@@ -25,8 +25,8 @@ tags:
 - System Configuration
 - Technical Mastery
 - Modern Source Control
-- Operational Practices
 - Software Development
+- Operational Practices
 - Pragmatic Thinking
 - Troubleshooting
 categories:

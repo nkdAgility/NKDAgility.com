@@ -29,10 +29,10 @@ tags:
 - Transparency
 - Azure Boards
 - Software Development
-- Operational Practices
 - Agile Project Management
-- Pragmatic Thinking
 - Agile Frameworks
+- Operational Practices
+- Pragmatic Thinking
 - Lean Thinking
 categories:
 - Flow Efficiency

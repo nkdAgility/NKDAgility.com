@@ -26,12 +26,12 @@ tags:
 - Agile Values and Principles
 - Agile Transformation
 - Software Development
-- Agile Philosophy
 - Agile Project Management
+- Agile Philosophy
 - Pragmatic Thinking
+- Agile Strategy
 - Software Developers
 - Agile Frameworks
-- Agile Strategy
 categories:
 - People and Process
 - Organisational Agility

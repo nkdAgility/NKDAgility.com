@@ -31,7 +31,18 @@ categories:
 - Scrum
 - Practical Techniques and Tooling
 - Product Delivery
-tags: []
+tags:
+- Scrum Product Development
+- Software Developers
+- Software Development
+- Operational Practices
+- Modern Source Control
+- Professional Scrum
+- Agile Project Management
+- Agile Frameworks
+- Pragmatic Thinking
+- Working Software
+- Strategy
 
 ---
 branching-for-each-sprint

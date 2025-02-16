@@ -24,11 +24,11 @@ aliasesFor404:
 tags:
 - Working Software
 - Technical Mastery
-- Operational Practices
-- Software Development
-- System Configuration
-- Troubleshooting
 - Software Developers
+- Software Development
+- Operational Practices
+- Troubleshooting
+- System Configuration
 - Pragmatic Thinking
 - Increment
 - Engineering Excellence

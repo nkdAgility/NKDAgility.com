@@ -24,15 +24,15 @@ aliasesFor404:
 tags:
 - Software Development
 - Modern Source Control
-- Operational Practices
 - Working Software
+- Operational Practices
 - Technical Mastery
 - Software Developers
 - Continuous Delivery
 categories:
 - Kanban
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

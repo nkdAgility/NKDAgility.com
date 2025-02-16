@@ -30,22 +30,22 @@ tags:
 - Transparency
 - Accountability
 - Increment
-- Definition of Done
 - Empirical Process Control
+- Definition of Done
+- Product Owner
 - Sprint Review
 - Product Backlog
 - Working Software
-- Product Owner
-- Product Management
-- Software Developers
-- Scrum Master
 - Team Collaboration
 - Agile Planning
+- Software Developers
+- Product Management
 - Team Performance
+- Scrum Master
 categories:
 - Scrum
 - Transparency and Accountability
-- People and Process
+- Value Delivery
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

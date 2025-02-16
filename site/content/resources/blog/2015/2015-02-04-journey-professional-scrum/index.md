@@ -26,24 +26,24 @@ aliasesFor404:
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
 tags:
-- Scrum Product Development
 - Strategy
+- Scrum Product Development
 - Organisational Culture
-- Scaling Agility
-- Organisational Change
-- Professional Scrum
 - Scaling Scrum
-- Software Development
+- Professional Scrum
+- Organisational Change
+- Scaling Agility
 - Agile Project Management
-- Team Performance
-- Agile Strategy
-- Agile Transformation
-- Pragmatic Thinking
-- Agile Planning
-- Team Collaboration
-- Software Developers
-- Self Organisation
+- Software Development
 - Agile Frameworks
+- Software Developers
+- Agile Planning
+- Pragmatic Thinking
+- Team Performance
+- Agile Transformation
+- Team Collaboration
+- Agile Strategy
+- Self Organisation
 - Continuous Learning
 - Accountability
 categories:

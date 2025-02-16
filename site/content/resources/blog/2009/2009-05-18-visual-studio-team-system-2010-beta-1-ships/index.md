@@ -21,10 +21,12 @@ aliasesFor404:
 - /visual-studio-team-system-2010-beta-1-ships
 - /blog/visual-studio-team-system-2010-beta-1-ships
 - /resources/blog/visual-studio-team-system-2010-beta-1-ships
-tags: []
+tags:
+- Software Development
+- Technical Mastery
 categories:
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 - News and Reviews
 
 ---

@@ -24,18 +24,18 @@ aliasesFor404:
 tags:
 - Agile Transformation
 - Scaled Agile
+- Large Scale Agility
+- Agile Strategy
+- Agile Frameworks
 - Agile Philosophy
 - Organisational Change
 - Change Management
-- Large Scale Agility
-- Agile Frameworks
-- Agile Strategy
 - Organisational Culture
 - Organisational Physics
 categories:
 - Business Agility
-- People and Process
 - Enterprise Agility
+- Organisational Agility
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 
 ---

@@ -31,8 +31,8 @@ tags:
 - Technical Mastery
 - Software Development
 - Modern Source Control
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -30,15 +30,15 @@ aliasesFor404:
 tags:
 - Mentoring
 - Coaching
-- Agile Planning
 - Agile Project Management
-- Agile Transformation
-- Agile Leadership
-- Agile Frameworks
+- Agile Planning
 - Agile Strategy
+- Agile Transformation
+- Agile Frameworks
+- Agile Leadership
 - Operational Practices
-- Pragmatic Thinking
 - Software Developers
+- Pragmatic Thinking
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling

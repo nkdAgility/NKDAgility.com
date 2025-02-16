@@ -28,17 +28,17 @@ aliasesFor404:
 tags:
 - Scrum Team
 - Scrum Product Development
-- Team Performance
 - Software Development
+- Team Performance
 - Team Collaboration
 - Agile Project Management
-- Pragmatic Thinking
 - Accountability
+- Pragmatic Thinking
 - Agile Frameworks
 categories:
 - Scrum
-- People and Process
 - Agile Product Management
+- People and Process
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

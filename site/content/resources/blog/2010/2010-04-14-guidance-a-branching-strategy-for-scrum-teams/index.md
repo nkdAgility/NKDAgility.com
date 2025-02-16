@@ -28,17 +28,17 @@ aliasesFor404:
 tags:
 - Software Development
 - Release Management
-- Increment
 - Scrum Product Development
-- Modern Source Control
+- Increment
 - Scrum Team
+- Modern Source Control
 - Software Developers
 - Engineering Practices
-- Agile Planning
 - Operational Practices
-- Agile Project Management
 - Professional Scrum
 - Engineering Excellence
+- Agile Planning
+- Agile Project Management
 - Agile Frameworks
 - Pragmatic Thinking
 - Strategy
@@ -49,7 +49,7 @@ tags:
 categories:
 - Scrum
 - Agile Product Management
-- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

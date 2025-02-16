@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-v1-3-released
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Practical Techniques and Tooling
 
 ---
 Updated and improved for Team System 2008.

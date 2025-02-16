@@ -26,11 +26,11 @@ tags:
 - Windows
 - System Configuration
 - Technical Mastery
-- Operational Practices
 - Engineering Excellence
+- Software Developers
+- Operational Practices
 - Pragmatic Thinking
 - Troubleshooting
-- Software Developers
 - Working Software
 categories:
 - Install and Configuration

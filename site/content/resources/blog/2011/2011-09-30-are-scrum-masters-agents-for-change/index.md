@@ -26,14 +26,14 @@ aliasesFor404:
 - /blog/are-scrum-masters-agents-for-change-
 - /resources/blog/are-scrum-masters-agents-for-change
 tags:
-- Professional Scrum
 - Scrum Master
+- Professional Scrum
 - Agile Project Management
 - Organisational Change
 - Agile Transformation
 - Software Development
-- Pragmatic Thinking
 - Agile Frameworks
+- Pragmatic Thinking
 - Technical Leadership
 categories:
 - Scrum

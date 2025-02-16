@@ -31,9 +31,9 @@ tags:
 - Windows
 - System Configuration
 - Operational Practices
+- Release Management
 - Technical Mastery
 - Software Development
-- Release Management
 - Troubleshooting
 - Pragmatic Thinking
 categories:

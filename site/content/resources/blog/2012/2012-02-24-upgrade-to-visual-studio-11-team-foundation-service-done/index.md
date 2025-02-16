@@ -27,7 +27,13 @@ aliasesFor404:
 - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 - /upgrade-to-visual-studio-11-team-foundation-service
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
-tags: []
+tags:
+- Modern Source Control
+- Software Development
+- Operational Practices
+- Digital Transformation
+- Pragmatic Thinking
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

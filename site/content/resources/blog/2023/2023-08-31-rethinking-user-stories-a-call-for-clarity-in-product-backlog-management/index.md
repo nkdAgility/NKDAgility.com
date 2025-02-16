@@ -31,10 +31,10 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Product Management
-- Software Development
 - Agile Project Management
-- Pragmatic Thinking
+- Software Development
 - Product Owner
+- Pragmatic Thinking
 categories:
 - Agile Product Management
 - Transparency and Accountability

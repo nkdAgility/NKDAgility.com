@@ -29,8 +29,8 @@ aliasesFor404:
 - /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 tags:
 - Troubleshooting
-- System Configuration
 - Pragmatic Thinking
+- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

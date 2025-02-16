@@ -31,8 +31,8 @@ tags:
 - Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-4-4.png
 categories:
-- Code and Complexity
 - Install and Configuration
+- Code and Complexity
 - Practical Techniques and Tooling
 
 ---

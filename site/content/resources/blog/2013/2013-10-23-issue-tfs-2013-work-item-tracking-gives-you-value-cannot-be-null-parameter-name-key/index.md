@@ -32,8 +32,8 @@ tags:
 - Technical Mastery
 - Azure Boards
 - Pragmatic Thinking
-- Working Software
 - Windows
+- Working Software
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps
