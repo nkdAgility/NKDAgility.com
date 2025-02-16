@@ -25,7 +25,9 @@ aliasesFor404:
 - /my-first-alm-and-second-vsts-presentaton-
 - /blog/my-first-alm-and-second-vsts-presentaton-
 - /resources/blog/my-first-alm-and-second-vsts-presentaton
-categories: []
+categories:
+- Events and Presentations
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/development-and-database-combined
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- News and Reviews
 
 ---
 [Microsoft has just announced](http://blogs.msdn.com/gertd/archive/2008/09/29/team-developer-team-data-team-developer.aspx) that the two products, Visual Studio Team Edition for Database Developers and Visual Studio Team Edition for Developers as been combined.

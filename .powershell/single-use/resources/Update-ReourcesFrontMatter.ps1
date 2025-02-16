@@ -67,6 +67,9 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
         Write-Progress -id 1 -Activity $ActivityText -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
+        Write-DebugLog "Checking Batch status..."
+        $batchesInProgress = Get-OpenAIBatchesInProgress
+        Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
     }
     elseif ($hugoMarkdownQueue.Count -gt 0) {
         $hugoMarkdown = $hugoMarkdownQueue.Dequeue()

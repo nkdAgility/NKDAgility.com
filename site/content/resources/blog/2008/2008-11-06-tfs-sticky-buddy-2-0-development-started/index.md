@@ -25,7 +25,9 @@ aliasesFor404:
 - /tfs-sticky-buddy-2-0-development-started…
 - /blog/tfs-sticky-buddy-2-0-development-started…
 - /resources/blog/tfs-sticky-buddy-2-0-development-started
-tags: []
+tags:
+- Software Development
+- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

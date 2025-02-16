@@ -25,7 +25,13 @@ aliasesFor404:
 - /branch-madness-
 - /blog/branch-madness-
 - /resources/blog/branch-madness
-tags: []
+tags:
+- Modern Source Control
+- Software Development
+- Operational Practices
+- Azure Repos
+- Pragmatic Thinking
+- Troubleshooting
 preview: nakedalm-logo-128-link-2-1.png
 categories:
 - Practical Techniques and Tooling

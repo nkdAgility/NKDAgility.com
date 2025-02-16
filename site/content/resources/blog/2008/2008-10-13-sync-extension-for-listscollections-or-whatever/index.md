@@ -25,7 +25,9 @@ aliasesFor404:
 - /sync-extension-for-lists-collections-or-whatever
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/blog/sync-extension-for-listscollections-or-whatever
-tags: []
+tags:
+- Technical Mastery
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

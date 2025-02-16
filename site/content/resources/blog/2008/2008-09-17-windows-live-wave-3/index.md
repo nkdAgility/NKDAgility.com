@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/windows-live-wave-3
 - /resources/blog/windows-live-wave-3
 tags: []
-categories: []
+categories:
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

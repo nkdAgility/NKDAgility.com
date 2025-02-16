@@ -25,7 +25,11 @@ aliasesFor404:
 - /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
-tags: []
+tags:
+- Software Development
+- Technical Mastery
+- Release Management
+- Deployment Strategies
 categories:
 - Products and Books
 - Practical Techniques and Tooling
