@@ -25,7 +25,8 @@ aliasesFor404:
 - /how-to--display-your-outlook-calendar-on-you’re-my-site
 - /blog/how-to--display-your-outlook-calendar-on-you’re-my-site
 - /resources/blog/how-to-display-your-outlook-calendar-on-youre-my-site
-tags: []
+tags:
+- System Configuration
 preview: metro-sharepoint-128-link-6-6.png
 categories:
 - Install and Configuration

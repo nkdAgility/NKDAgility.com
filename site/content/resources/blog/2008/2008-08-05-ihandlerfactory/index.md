@@ -21,7 +21,9 @@ aliasesFor404:
 - /ihandlerfactory
 - /blog/ihandlerfactory
 - /resources/blog/ihandlerfactory
-tags: []
+tags:
+- Technical Mastery
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

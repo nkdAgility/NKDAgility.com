@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/linq-to-xsd
 - /resources/blog/linq-to-xsd
 tags: []
-categories: []
+categories:
+- Install and Configuration
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

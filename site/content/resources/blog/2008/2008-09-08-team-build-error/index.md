@@ -21,7 +21,10 @@ aliasesFor404:
 - /team-build-error
 - /blog/team-build-error
 - /resources/blog/team-build-error
-tags: []
+tags:
+- Windows
+- Software Development
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-3-1.png
 categories: []
 

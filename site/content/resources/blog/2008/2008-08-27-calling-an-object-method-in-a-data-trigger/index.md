@@ -21,7 +21,10 @@ aliasesFor404:
 - /calling-an-object-method-in-a-data-trigger
 - /blog/calling-an-object-method-in-a-data-trigger
 - /resources/blog/calling-an-object-method-in-a-data-trigger
-tags: []
+tags:
+- Technical Mastery
+- Software Development
+- Troubleshooting
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

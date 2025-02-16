@@ -21,7 +21,15 @@ aliasesFor404:
 - /creating-a-wpf-work-item-control
 - /blog/creating-a-wpf-work-item-control
 - /resources/blog/creating-a-wpf-work-item-control
-tags: []
+tags:
+- Software Development
+- Windows
+- Technical Mastery
+- Engineering Excellence
+- Software Developers
+- Azure Boards
+- Working Software
+- Pragmatic Thinking
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

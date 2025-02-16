@@ -55,21 +55,29 @@ $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 Write-InfoLog "Initialise Batch Count..."
 $batchesInProgress = Get-OpenAIBatchesInProgress
-$batchOverage = 5
+$batchOverage = 10
 Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
 $runBatchCheck = $false
+$batchCheckCount = 0
+$batchCheckCountMax = 0
 while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if (($hugoMarkdownBatchQueue.Count -le $batchesInProgress)) {
         $runBatchCheck = $false
     }
     $ActivityText = "Processing [Q1:$($hugoMarkdownQueue.count)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
-    if (($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) -or $hugoMarkdownQueue.Count -eq 0) {
+    if ((($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) -and $batchCheckCount -le $hugoMarkdownBatchQueue.Count) -or $hugoMarkdownQueue.Count -eq 0) {
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
+        $batchCheckCount++
         Write-Progress -id 1 -Activity $ActivityText -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
-        Write-DebugLog "Checking Batch status..."
-        $batchesInProgress = Get-OpenAIBatchesInProgress
-        Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
+        if ($batchCheckCount -ge $batchCheckCountMax) {
+            Write-DebugLog "Checking Batch status..."
+            $batchesInProgress = Get-OpenAIBatchesInProgress
+            Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
+            $runBatchCheck = $false
+            $batchCheckCount = 0
+            $batchCheckCountMax = 0
+        }        
     }
     elseif ($hugoMarkdownQueue.Count -gt 0) {
         $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
@@ -258,6 +266,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         }
         if (($hugoMarkdownBatchQueue.Count - $batchesInProgress) -gt $batchOverage) {
             $runBatchCheck = $true
+            $batchCheckCountMax = $hugoMarkdownBatchQueue.Count
         }
     }
 }

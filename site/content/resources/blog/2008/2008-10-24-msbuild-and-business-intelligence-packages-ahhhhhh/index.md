@@ -29,7 +29,17 @@ aliasesFor404:
 - /msbuild-and-business-intelligence-packages--ahhhhhh-
 - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
-tags: []
+tags:
+- Test Automation
+- Automated Testing
+- Technical Mastery
+- Software Development
+- Troubleshooting
+- System Configuration
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

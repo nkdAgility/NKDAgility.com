@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/if-you-had-a-choice-
 - /resources/blog/if-you-had-a-choice
 tags: []
-categories: []
+categories:
+- Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

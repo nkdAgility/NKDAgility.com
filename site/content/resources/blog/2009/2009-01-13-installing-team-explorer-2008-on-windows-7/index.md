@@ -21,7 +21,10 @@ aliasesFor404:
 - /installing-team-explorer-2008-on-windows-7
 - /blog/installing-team-explorer-2008-on-windows-7
 - /resources/blog/installing-team-explorer-2008-on-windows-7
-tags: []
+tags:
+- Windows
+- Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 
