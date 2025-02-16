@@ -25,7 +25,10 @@ aliasesFor404:
 - /what-about-hosting-the-tfs-automation-platform
 - /blog/what-about-hosting-the-tfs-automation-platform
 - /resources/blog/what-about-hosting-the-tfs-automation-platform-2
-tags: []
+tags:
+- System Configuration
+- Software Development
+- Windows
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

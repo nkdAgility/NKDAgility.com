@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/should-geekswithblogs-move-to-the-wordpress-platform-
 - /resources/blog/should-geekswithblogs-move-to-the-wordpress-platform
 tags: []
-categories: []
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

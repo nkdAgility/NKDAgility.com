@@ -21,7 +21,13 @@ aliasesFor404:
 - /what-is-the-tfs-automation-platform
 - /blog/what-is-the-tfs-automation-platform
 - /resources/blog/what-is-the-tfs-automation-platform
-tags: []
+tags:
+- System Configuration
+- Technical Mastery
+- Software Development
+- Operational Practices
+- Engineering Excellence
+- Software Developers
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories:
 - Install and Configuration

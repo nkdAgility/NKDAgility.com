@@ -55,10 +55,11 @@ $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 Write-InfoLog "Initialise Batch Count..."
 $batchesInProgress = Get-OpenAIBatchesInProgress
+$batchOverage = 5
 Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
 while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     $mode = "Queue"
-    if ($hugoMarkdownBatchQueue.Count -gt $batchesInProgress) {
+    if (($hugoMarkdownBatchQueue.Count - $batchOverage) -gt $batchesInProgress) {
         $mode = "Batch"
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
         Write-Progress -id 1 -Activity "Processing [Q1:$($hugoMarkdownQueue.count)][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress]" -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
@@ -245,7 +246,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
     if ($resources.Count -gt 0) {
         $hugoMarkdownBatchQueue.Enqueue($hugoMarkdown)
-        if ($hugoMarkdownBatchQueue.Count -gt $batchesInProgress -and $mode -eq "Queue") {
+        if (($hugoMarkdownBatchQueue.Count - $batchOverage) -gt $batchesInProgress -and $mode -eq "Queue") {
             Write-DebugLog "Checking Batch status..."
             $batchesInProgress = Get-OpenAIBatchesInProgress
             Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress

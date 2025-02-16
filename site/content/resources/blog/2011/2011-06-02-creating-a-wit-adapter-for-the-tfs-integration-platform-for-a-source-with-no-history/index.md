@@ -21,7 +21,14 @@ aliasesFor404:
 - /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-tags: []
+tags:
+- Software Development
+- Troubleshooting
+- System Configuration
+- Working Software
+- Technical Mastery
+- Engineering Excellence
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-4-4.png
 categories:
 - Code and Complexity
