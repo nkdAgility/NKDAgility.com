@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/even-scrum-should-have-detailed-task-descriptions
 - /resources/blog/even-scrum-should-have-detailed-task-descriptions
 tags: []
-categories: []
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

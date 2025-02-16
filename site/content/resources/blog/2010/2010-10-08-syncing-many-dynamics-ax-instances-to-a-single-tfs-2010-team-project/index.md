@@ -21,7 +21,16 @@ aliasesFor404:
 - /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
-tags: []
+tags:
+- Modern Source Control
+- System Configuration
+- Technical Mastery
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- Troubleshooting
+- Engineering Excellence
+- Strategy
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

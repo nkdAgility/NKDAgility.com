@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/guidance--a-branching-strategy-for-scrum-teams
 - /resources/blog/guidance-a-branching-strategy-for-scrum-teams
 tags: []
-categories: []
+categories:
+- Scrum
+- Agile Product Management
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

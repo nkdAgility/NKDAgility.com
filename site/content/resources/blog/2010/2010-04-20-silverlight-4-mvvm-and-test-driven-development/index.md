@@ -30,7 +30,8 @@ aliasesFor404:
 - /blog/silverlight-4--mvvm-and-test-driven-development
 - /resources/blog/silverlight-4-mvvm-and-test-driven-development
 tags: []
-categories: []
+categories:
+- Events and Presentations
 preview: metro-visual-studio-2010-128-link-2-2.png
 
 ---

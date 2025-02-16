@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum-
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags: []
-categories: []
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
 preview: metro-sharepoint-128-link-3-3.png
 
 ---

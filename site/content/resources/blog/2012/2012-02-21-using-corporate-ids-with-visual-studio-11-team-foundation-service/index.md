@@ -25,7 +25,9 @@ aliasesFor404:
 - /using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
-tags: []
+tags:
+- System Configuration
+- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -58,8 +58,9 @@ $batchesInProgress = Get-OpenAIBatchesInProgress
 $batchOverage = 5
 Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
 while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
+
     $mode = "Queue"
-    if (($hugoMarkdownBatchQueue.Count - $batchOverage) -gt $batchesInProgress) {
+    if (($hugoMarkdownBatchQueue.Count - 1) -gt $batchesInProgress) {
         $mode = "Batch"
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
         Write-Progress -id 1 -Activity "Processing [Q1:$($hugoMarkdownQueue.count)][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress]" -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete

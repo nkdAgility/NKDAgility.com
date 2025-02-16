@@ -21,7 +21,14 @@ aliasesFor404:
 - /what-to-do-after-a-servicing-fails-on-tfs-2010
 - /blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 - /resources/blog/what-to-do-after-a-servicing-fails-on-tfs-2010
-tags: []
+tags:
+- Troubleshooting
+- Software Development
+- System Configuration
+- Technical Mastery
+- Pragmatic Thinking
+- Windows
+- Engineering Excellence
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

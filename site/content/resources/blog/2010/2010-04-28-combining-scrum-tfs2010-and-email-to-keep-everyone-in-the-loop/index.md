@@ -30,7 +30,10 @@ aliasesFor404:
 - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags: []
-categories: []
+categories:
+- People and Process
+- Practical Techniques and Tooling
+- Scrum
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

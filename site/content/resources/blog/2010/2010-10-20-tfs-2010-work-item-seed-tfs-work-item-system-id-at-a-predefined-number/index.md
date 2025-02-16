@@ -25,7 +25,13 @@ aliasesFor404:
 - /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-tags: []
+tags:
+- System Configuration
+- Technical Mastery
+- Software Development
+- Troubleshooting
+- Pragmatic Thinking
+- Windows
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -21,7 +21,17 @@ aliasesFor404:
 - /why-you-need-to-tag-your-build-servers-in-tfs
 - /blog/why-you-need-to-tag-your-build-servers-in-tfs
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
-tags: []
+tags:
+- Software Developers
+- Software Development
+- Technical Mastery
+- Operational Practices
+- Engineering Excellence
+- Pragmatic Thinking
+- Continuous Integration
+- Azure Pipelines
+- System Configuration
+- Troubleshooting
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - Install and Configuration

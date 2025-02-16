@@ -25,7 +25,20 @@ aliasesFor404:
 - /you-can't-stack-rank-hierarchical-work-items-
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
-tags: []
+tags:
+- Scrum Product Development
+- Product Backlog
+- Software Development
+- Professional Scrum
+- Software Developers
+- Agile Planning
+- Agile Project Management
+- Azure Boards
+- Pragmatic Thinking
+- Agile Frameworks
+- Operational Practices
+- Agile Planning Tools
+- Product Owner
 categories:
 - Agile Product Management
 - Practical Techniques and Tooling

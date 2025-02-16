@@ -25,7 +25,11 @@ aliasesFor404:
 - /tfs-vs--subversion-fact-check
 - /blog/tfs-vs--subversion-fact-check
 - /resources/blog/tfs-vs-subversion-fact-check
-tags: []
+tags:
+- Modern Source Control
+- Software Development
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 

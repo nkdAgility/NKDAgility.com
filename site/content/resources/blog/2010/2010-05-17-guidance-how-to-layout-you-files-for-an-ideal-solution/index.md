@@ -25,7 +25,18 @@ aliasesFor404:
 - /guidance--how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
-tags: []
+tags:
+- Software Development
+- Modern Source Control
+- Software Developers
+- Release Management
+- Technical Mastery
+- Agile Project Management
+- Engineering Excellence
+- Pragmatic Thinking
+- Operational Practices
+- Engineering Practices
+- Strategy
 categories:
 - Practical Techniques and Tooling
 - Product Delivery

@@ -25,7 +25,21 @@ aliasesFor404:
 - /a-change-for-the-better--3---ssw-to-northwest-cadence
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
-tags: []
+tags:
+- Agile Project Management
+- Software Developers
+- Software Development
+- Continuous Learning
+- Mentoring
+- Operational Practices
+- Agile Transformation
+- Engineering Practices
+- Engineering Excellence
+- Pragmatic Thinking
+- Coaching
+- Scrum Master
+- Technical Mastery
+- Strategy
 categories:
 - People and Process
 - Application Lifecycle Management

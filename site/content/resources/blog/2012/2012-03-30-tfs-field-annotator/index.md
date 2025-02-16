@@ -21,7 +21,9 @@ aliasesFor404:
 - /tfs-field-annotator
 - /blog/tfs-field-annotator
 - /resources/blog/tfs-field-annotator
-tags: []
+tags:
+- Troubleshooting
+- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
