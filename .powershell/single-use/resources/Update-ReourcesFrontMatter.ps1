@@ -57,21 +57,22 @@ Write-InfoLog "Initialise Batch Count..."
 $batchesInProgress = Get-OpenAIBatchesInProgress
 $batchOverage = 5
 Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
+$runBatchCheck = $false
 while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
-
-    $mode = "Queue"
-    if (($hugoMarkdownBatchQueue.Count - 1) -gt $batchesInProgress) {
-        $mode = "Batch"
+    if (($hugoMarkdownBatchQueue.Count -le $batchesInProgress)) {
+        $runBatchCheck = $false
+    }
+    $ActivityText = "Processing [Q1:$($hugoMarkdownQueue.count)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
+    if ($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) {
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
-        Write-Progress -id 1 -Activity "Processing [Q1:$($hugoMarkdownQueue.count)][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress]" -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-Progress -id 1 -Activity $ActivityText -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
     }
     elseif ($hugoMarkdownQueue.Count -gt 0) {
-        $mode = "Queue"
         $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
         $Counter++
         $PercentComplete = ($Counter / $TotalItems) * 100
-        Write-Progress -id 1 -Activity "Processing [Q1:$($hugoMarkdownQueue.count)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress]" -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-Progress -id 1 -Activity $ActivityText -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
         Write-DebugLog "--------------------------------------------------------"
         Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
     }
@@ -247,11 +248,14 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
     if ($resources.Count -gt 0) {
         $hugoMarkdownBatchQueue.Enqueue($hugoMarkdown)
-        if ((($hugoMarkdownBatchQueue.Count - $batchOverage) -gt $batchesInProgress) -and $mode -eq "Queue") {
+        if ((($hugoMarkdownBatchQueue.Count) -gt $batchesInProgress) -and $runBatchCheck -eq $false) {
             Write-DebugLog "Checking Batch status..."
             $batchesInProgress = Get-OpenAIBatchesInProgress
             Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
-        }         
+        }
+        if (($hugoMarkdownBatchQueue.Count - $batchesInProgress) -gt $batchOverage) {
+            $runBatchCheck = $true
+        }
     }
 }
 

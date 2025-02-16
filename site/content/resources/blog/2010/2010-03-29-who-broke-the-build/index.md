@@ -27,7 +27,10 @@ aliasesFor404:
 - /resources/blog/who-broke-the-build
 tags: []
 preview: metro-visual-studio-2010-128-link-10-10.png
-categories: []
+categories:
+- Code and Complexity
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

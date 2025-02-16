@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags: []
-categories: []
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
 preview: metro-SSWLogo-128-link-1-1.png
 
 ---

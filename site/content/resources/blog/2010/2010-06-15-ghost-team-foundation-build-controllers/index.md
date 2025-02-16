@@ -25,7 +25,11 @@ aliasesFor404:
 - /ghost-build-controllers-in-team-foundation-server
 - /blog/ghost-build-controllers-in-team-foundation-server
 - /resources/blog/ghost-team-foundation-build-controllers
-tags: []
+tags:
+- Troubleshooting
+- Software Development
+- System Configuration
+- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
 - Practical Techniques and Tooling

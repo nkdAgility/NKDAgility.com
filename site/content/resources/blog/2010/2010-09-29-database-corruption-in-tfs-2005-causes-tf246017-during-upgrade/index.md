@@ -21,7 +21,12 @@ aliasesFor404:
 - /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 - /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 - /resources/blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
-tags: []
+tags:
+- Troubleshooting
+- System Configuration
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

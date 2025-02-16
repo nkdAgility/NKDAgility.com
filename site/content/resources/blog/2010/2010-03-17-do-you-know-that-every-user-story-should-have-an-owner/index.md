@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags: []
-categories: []
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

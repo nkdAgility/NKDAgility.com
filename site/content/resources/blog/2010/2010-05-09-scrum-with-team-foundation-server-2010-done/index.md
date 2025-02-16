@@ -21,7 +21,12 @@ aliasesFor404:
 - /scrum-with-team-foundation-server-2010-done
 - /blog/scrum-with-team-foundation-server-2010-done
 - /resources/blog/scrum-with-team-foundation-server-2010-done
-tags: []
+tags:
+- Agile Project Management
+- Software Development
+- Agile Frameworks
+- Software Developers
+- Mentoring
 categories:
 - Scrum
 - Events and Presentations

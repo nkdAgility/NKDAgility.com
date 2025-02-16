@@ -27,7 +27,10 @@ aliasesFor404:
 - /blog/guidance---branching-for-each-sprint
 - /guidance
 - /resources/blog/guidance-branching-for-each-sprint
-categories: []
+categories:
+- Scrum
+- Practical Techniques and Tooling
+- Product Delivery
 tags: []
 
 ---

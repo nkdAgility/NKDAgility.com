@@ -21,7 +21,12 @@ aliasesFor404:
 - /rangers-shipped-visual-studio-2010-database-guide
 - /blog/rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
-tags: []
+tags:
+- Modern Source Control
+- Technical Mastery
+- Software Development
+- Pragmatic Thinking
+- Working Software
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -21,7 +21,8 @@ aliasesFor404:
 - /the-search-for-a-single-point-of-truth
 - /blog/the-search-for-a-single-point-of-truth
 - /resources/blog/the-search-for-a-single-point-of-truth
-tags: []
+tags:
+- Windows
 categories: []
 preview: nakedalm-logo-128-link-19-19.png
 

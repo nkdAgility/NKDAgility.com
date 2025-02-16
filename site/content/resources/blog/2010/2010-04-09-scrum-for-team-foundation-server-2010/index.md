@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/scrum-for-team-foundation-server-2010
 - /resources/blog/scrum-for-team-foundation-server-2010
 tags: []
-categories: []
+categories:
+- Scrum
+- Agile Product Management
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

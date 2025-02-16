@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
 tags: []
-categories: []
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
 preview: metro-SSWLogo-128-link-1-1.png
 
 ---

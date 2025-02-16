@@ -21,7 +21,16 @@ aliasesFor404:
 - /upgrading-team-foundation-server-2008-to-2010
 - /blog/upgrading-team-foundation-server-2008-to-2010
 - /resources/blog/upgrading-team-foundation-server-2008-to-2010
-tags: []
+tags:
+- Operational Practices
+- System Configuration
+- Technical Mastery
+- Software Development
+- Release Management
+- Windows
+- Troubleshooting
+- Modern Source Control
+- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Install and Configuration

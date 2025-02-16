@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 - /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- News and Reviews
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---
