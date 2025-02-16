@@ -23,13 +23,13 @@ aliasesFor404:
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - Modern Source Control
-- Software Development
 - System Configuration
+- Software Development
 - Troubleshooting
 - Operational Practices
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

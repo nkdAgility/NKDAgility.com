@@ -32,12 +32,12 @@ aliasesFor404:
 tags:
 - Coaching
 - Software Development
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Agile Project Management
 - Deployment Strategies
-- Engineering Excellence
 - Software Developers
+- Engineering Excellence
 - Frequent Releases
 - Continuous Delivery
 categories:

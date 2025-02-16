@@ -26,17 +26,17 @@ aliasesFor404:
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
 tags:
-- Agile Project Management
 - Software Developers
+- Agile Project Management
 - Software Development
 - Continuous Learning
 - Mentoring
-- Agile Transformation
 - Engineering Practices
+- Agile Transformation
 - Operational Practices
 - Coaching
-- Engineering Excellence
 - Pragmatic Thinking
+- Engineering Excellence
 - Scrum Master
 - Technical Mastery
 - Strategy

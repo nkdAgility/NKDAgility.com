@@ -30,11 +30,11 @@ aliasesFor404:
 tags:
 - Mentoring
 - Coaching
-- Agile Project Management
 - Agile Planning
+- Agile Project Management
 - Agile Strategy
-- Agile Transformation
 - Agile Frameworks
+- Agile Transformation
 - Agile Leadership
 - Operational Practices
 - Software Developers

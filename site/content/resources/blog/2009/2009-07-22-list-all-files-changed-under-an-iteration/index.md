@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
-- Software Development
 - Azure Repos
+- Software Development
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps

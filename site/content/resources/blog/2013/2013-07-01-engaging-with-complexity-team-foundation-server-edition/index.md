@@ -30,20 +30,20 @@ aliasesFor404:
 tags:
 - Windows
 - Operational Practices
+- System Configuration
 - Software Development
 - Modern Source Control
-- System Configuration
-- Release Management
 - Technical Mastery
-- Pragmatic Thinking
-- Deployment Strategies
 - Troubleshooting
+- Deployment Strategies
+- Pragmatic Thinking
+- Release Management
 - Working Software
 - Engineering Excellence
 categories:
 - Install and Configuration
 - Code and Complexity
-- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

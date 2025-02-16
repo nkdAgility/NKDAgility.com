@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - System Configuration
 - Technical Mastery
-- Windows
 - Software Development
-- Pragmatic Thinking
+- Windows
 - Troubleshooting
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

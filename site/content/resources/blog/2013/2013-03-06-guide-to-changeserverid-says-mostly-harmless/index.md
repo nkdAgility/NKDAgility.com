@@ -23,13 +23,13 @@ aliasesFor404:
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
 tags:
 - Troubleshooting
-- Technical Mastery
-- Software Development
-- Pragmatic Thinking
 - System Configuration
+- Software Development
+- Technical Mastery
+- Pragmatic Thinking
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 
 ---

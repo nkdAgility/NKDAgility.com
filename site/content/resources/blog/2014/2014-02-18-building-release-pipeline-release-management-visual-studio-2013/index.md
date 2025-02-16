@@ -26,24 +26,24 @@ aliasesFor404:
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
 tags:
-- Release Management
 - Software Development
+- Release Management
 - Continuous Delivery
 - Pragmatic Thinking
 - Software Developers
-- Continuous Integration
-- Deployment Strategies
 - Operational Practices
-- Automated Testing
+- Continuous Integration
 - Deployment Frequency
+- Automated Testing
 - Working Software
+- Deployment Strategies
+- Engineering Practices
+- Engineering Excellence
+- Frequent Releases
+- Technical Mastery
+- Agile Strategy
 - Digital Transformation
 - Azure Pipelines
-- Engineering Practices
-- Frequent Releases
-- Engineering Excellence
-- Agile Strategy
-- Technical Mastery
 - Test Automation
 - Throughput
 categories:

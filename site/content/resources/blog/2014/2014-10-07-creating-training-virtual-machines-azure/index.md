@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - Windows
 - Technical Mastery
+- System Configuration
 - Software Development
 - Pragmatic Thinking
-- System Configuration
 - Troubleshooting
 - Digital Transformation
 categories:

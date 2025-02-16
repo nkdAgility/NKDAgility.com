@@ -27,12 +27,12 @@ aliasesFor404:
 - /resources/blog/does-test-driven-development-speed-up-development
 tags:
 - Software Development
+- Test Driven Development
 - Software Developers
 - Test First Development
-- Test Driven Development
+- Engineering Practices
 - Technical Mastery
 - Engineering Excellence
-- Engineering Practices
 categories:
 - Technical Excellence
 preview: metro-binary-vb-128-link-2-2.png

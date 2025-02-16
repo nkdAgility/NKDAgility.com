@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/online-is-the-new-co-located
 tags:
 - Transparency
-- Pragmatic Thinking
 - Team Collaboration
+- Pragmatic Thinking
 - Remote Working
 - Team Performance
 - Collaboration Tools

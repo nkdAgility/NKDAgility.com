@@ -29,8 +29,8 @@ aliasesFor404:
 tags:
 - Agile Strategy
 - Organisational Culture
-- Pragmatic Thinking
 - Strategy
+- Pragmatic Thinking
 - Scaling Agility
 - Team Motivation
 - Organisational Change

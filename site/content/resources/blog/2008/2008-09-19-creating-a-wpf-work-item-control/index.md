@@ -24,16 +24,16 @@ aliasesFor404:
 tags:
 - Software Development
 - Windows
-- Technical Mastery
-- Engineering Excellence
 - Software Developers
 - Azure Boards
+- Technical Mastery
 - Working Software
 - Pragmatic Thinking
+- Engineering Excellence
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Excellence
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

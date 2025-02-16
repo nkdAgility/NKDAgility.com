@@ -25,10 +25,10 @@ tags:
 - System Configuration
 - Software Development
 - Technical Mastery
-- Pragmatic Thinking
 - Troubleshooting
-- Release Management
+- Pragmatic Thinking
 - Deployment Strategies
+- Release Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
 - Install and Configuration

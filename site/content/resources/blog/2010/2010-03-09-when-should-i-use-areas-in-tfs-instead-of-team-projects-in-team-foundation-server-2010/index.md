@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 tags:
-- Modern Source Control
 - System Configuration
+- Modern Source Control
 - Software Development
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Agile Frameworks
 - Agile Project Management
 - Strategy

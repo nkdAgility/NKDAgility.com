@@ -25,17 +25,17 @@ aliasesFor404:
 tags:
 - Test First Development
 - Software Development
-- Engineering Excellence
 - Engineering Practices
+- Engineering Excellence
 - Test Driven Development
 - Software Developers
-- Working Software
 - Test Automation
+- Working Software
 - Automated Testing
 - Product Validation
 - Technical Mastery
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Continuous Delivery
 categories:
 - Technical Excellence

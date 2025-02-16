@@ -30,11 +30,11 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - System Configuration
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-8-8.png
 
 ---

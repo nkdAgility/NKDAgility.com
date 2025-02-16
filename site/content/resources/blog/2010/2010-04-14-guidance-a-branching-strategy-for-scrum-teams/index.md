@@ -30,15 +30,15 @@ tags:
 - Release Management
 - Scrum Product Development
 - Increment
-- Scrum Team
 - Modern Source Control
-- Software Developers
+- Scrum Team
 - Engineering Practices
-- Operational Practices
-- Professional Scrum
-- Engineering Excellence
+- Software Developers
 - Agile Planning
+- Professional Scrum
 - Agile Project Management
+- Engineering Excellence
+- Operational Practices
 - Agile Frameworks
 - Pragmatic Thinking
 - Strategy
@@ -48,8 +48,8 @@ tags:
 - Scaled Agile
 categories:
 - Scrum
-- Agile Product Management
-- Technical Excellence
+- Practical Techniques and Tooling
+- Product Delivery
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

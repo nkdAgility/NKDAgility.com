@@ -33,24 +33,24 @@ tags:
 - Software Development
 - Professional Scrum
 - Transparency
-- Scrum Team
-- Team Performance
 - Empirical Process Control
+- Scrum Team
 - Working Software
+- Team Performance
+- Engineering Excellence
 - Engineering Practices
 - Software Developers
-- Engineering Excellence
-- Agile Frameworks
 - Operational Practices
-- Pragmatic Thinking
-- Agile Planning
 - Agile Project Management
+- Agile Frameworks
+- Agile Planning
+- Pragmatic Thinking
 - Decision Making
 - Team Collaboration
 categories:
 - Scrum
 - People and Process
-- Agile Product Management
+- Practical Techniques and Tooling
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

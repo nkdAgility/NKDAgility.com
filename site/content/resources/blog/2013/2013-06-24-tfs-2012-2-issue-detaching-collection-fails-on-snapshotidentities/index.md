@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - System Configuration
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

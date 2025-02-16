@@ -26,12 +26,12 @@ tags:
 - Windows
 - Pragmatic Thinking
 - Automated Testing
-- Test Automation
 - Deployment Strategies
-- Technical Mastery
+- Test Automation
 - Software Development
-- Operational Practices
+- Technical Mastery
 - Troubleshooting
+- Operational Practices
 categories:
 - Install and Configuration
 - DevOps

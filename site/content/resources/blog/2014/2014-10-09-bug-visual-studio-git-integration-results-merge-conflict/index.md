@@ -29,10 +29,10 @@ tags:
 - Troubleshooting
 - Modern Source Control
 - Software Development
-- Technical Mastery
-- Operational Practices
 - Azure Repos
+- Technical Mastery
 - Pragmatic Thinking
+- Operational Practices
 - Software Developers
 categories:
 - Install and Configuration

@@ -30,17 +30,17 @@ tags:
 - Scaling Scrum
 - Professional Scrum
 - Scaling Agility
+- Scrum Product Development
+- Scaled Agile
 - Software Developers
 - Software Development
 - Agile Frameworks
-- Scaled Agile
 - Team Performance
-- Scrum Product Development
-- Agile Project Management
 - Agile Strategy
 - Agile Transformation
-- Pragmatic Thinking
+- Agile Project Management
 - Strategy
+- Pragmatic Thinking
 categories:
 - Scrum
 - Events and Presentations

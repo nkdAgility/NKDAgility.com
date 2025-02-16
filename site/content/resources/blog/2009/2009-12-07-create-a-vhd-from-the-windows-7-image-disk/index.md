@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/create-a-vhd-from-the-windows-7-image-disk
 tags:
 - Windows
+- System Configuration
 - Technical Mastery
 - Troubleshooting
-- System Configuration
 - Software Development
 preview: metro-SSWLogo-128-link-16-16.png
 categories:

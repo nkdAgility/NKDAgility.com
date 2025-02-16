@@ -24,18 +24,18 @@ aliasesFor404:
 tags:
 - Windows
 - Modern Source Control
-- Release Management
 - Continuous Integration
-- Technical Mastery
-- Software Development
-- Pragmatic Thinking
-- Troubleshooting
+- Release Management
 - System Configuration
+- Software Development
+- Technical Mastery
+- Troubleshooting
+- Pragmatic Thinking
 - Engineering Excellence
 - Operational Practices
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - DevOps
 preview: naked-alm-jenkins-logo-9-9.png
 

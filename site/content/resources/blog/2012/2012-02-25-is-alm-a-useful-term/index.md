@@ -35,7 +35,7 @@ tags:
 categories:
 - Application Lifecycle Management
 - People and Process
-- Organisational Agility
+- Market Adaptability
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

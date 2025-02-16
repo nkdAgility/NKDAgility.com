@@ -21,7 +21,8 @@ aliasesFor404:
 - /installing-internet-explorer-8-beta-2
 - /blog/installing-internet-explorer-8-beta-2
 - /resources/blog/installing-internet-explorer-8-beta-2
-tags: []
+tags:
+- Windows
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Install and Configuration

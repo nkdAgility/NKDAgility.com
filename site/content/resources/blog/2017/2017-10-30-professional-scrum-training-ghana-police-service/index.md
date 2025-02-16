@@ -28,27 +28,27 @@ aliasesFor404:
 tags:
 - Agile Frameworks
 - Scrum Product Development
-- Professional Scrum
-- Scrum Team
 - Agile Transformation
-- Agile Planning
 - Software Development
+- Scrum Team
+- Agile Planning
 - Working Software
 - Organisational Change
+- Professional Scrum
+- Operational Practices
+- Agile Project Management
 - Team Collaboration
 - Scrum Master
-- Team Performance
-- Continuous Learning
-- Operational Practices
-- Empirical Process Control
 - Self Organisation
-- Agile Project Management
 - Change Management
+- Continuous Learning
+- Empirical Process Control
+- Team Performance
 - Pragmatic Thinking
 - Agile Leadership
 categories:
 - Scrum
-- Agile Product Management
+- Practical Techniques and Tooling
 - Events and Presentations
 preview: clip_image006_thumb-3-3.jpg
 

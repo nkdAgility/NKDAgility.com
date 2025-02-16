@@ -32,15 +32,15 @@ tags:
 - Modern Source Control
 - System Configuration
 - Software Development
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Agile Project Management
 - Software Developers
 - Strategy
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

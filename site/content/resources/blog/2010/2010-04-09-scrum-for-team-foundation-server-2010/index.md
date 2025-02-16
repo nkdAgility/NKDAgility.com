@@ -25,14 +25,14 @@ tags:
 - Scrum Product Development
 - Software Developers
 - Software Development
-- Agile Project Management
 - Agile Planning Tools
+- Agile Project Management
 - Agile Planning
 - Agile Frameworks
 categories:
 - Scrum
-- Agile Product Management
-- Events and Presentations
+- Practical Techniques and Tooling
+- Product Delivery
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

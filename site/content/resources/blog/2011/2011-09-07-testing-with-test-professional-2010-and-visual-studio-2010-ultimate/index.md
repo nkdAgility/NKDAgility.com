@@ -24,7 +24,7 @@ aliasesFor404:
 tags: []
 categories:
 - Application Lifecycle Management
-- Products and Books
+- Practical Techniques and Tooling
 - Events and Presentations
 
 ---

@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - System Configuration
+- Software Development
 - Technical Mastery
 - Windows
-- Software Development
 - Pragmatic Thinking
 - Operational Practices
 preview: metro-SSWLogo-128-link-7-7.png

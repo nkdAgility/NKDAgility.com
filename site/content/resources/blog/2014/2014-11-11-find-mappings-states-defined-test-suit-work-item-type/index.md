@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
 - System Configuration
-- Technical Mastery
 - Software Development
-- Pragmatic Thinking
+- Technical Mastery
 - Troubleshooting
+- Pragmatic Thinking
 - Working Software
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -30,15 +30,15 @@ tags:
 - Continuous Integration
 - Software Developers
 - Software Development
-- Operational Practices
 - Modern Source Control
+- Operational Practices
 - Azure Pipelines
 - Pragmatic Thinking
 - Continuous Delivery
 categories:
 - DevOps
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

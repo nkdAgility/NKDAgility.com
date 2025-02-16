@@ -23,12 +23,12 @@ aliasesFor404:
 - /resources/blog/mask-password-in-jenkins-when-calling-tee
 tags:
 - System Configuration
-- Technical Mastery
 - Software Development
-- Operational Practices
-- Pragmatic Thinking
-- Troubleshooting
 - Continuous Integration
+- Technical Mastery
+- Troubleshooting
+- Pragmatic Thinking
+- Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

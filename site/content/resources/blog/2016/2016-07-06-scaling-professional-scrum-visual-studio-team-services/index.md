@@ -26,18 +26,18 @@ aliasesFor404:
 - /blog/scaling-professional-scrum-with-visual-studio-team-services
 - /resources/blog/scaling-professional-scrum-visual-studio-team-services
 tags:
-- Scaling Scrum
 - Scrum Product Development
 - Professional Scrum
-- Large Scale Agility
-- Software Development
-- Software Developers
+- Scaling Scrum
 - Scaling Agility
-- Agile Transformation
-- Scaled Agile
-- Pragmatic Thinking
-- Agile Project Management
+- Large Scale Agility
+- Software Developers
+- Software Development
 - Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
+- Scaled Agile
+- Agile Transformation
 - Strategy
 - Agile Planning Tools
 - Operational Practices
@@ -45,9 +45,9 @@ tags:
 - Agile Planning
 - Agile Strategy
 categories:
-- Events and Presentations
 - Scrum
-- Products and Books
+- Events and Presentations
+- Practical Techniques and Tooling
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
 
 ---

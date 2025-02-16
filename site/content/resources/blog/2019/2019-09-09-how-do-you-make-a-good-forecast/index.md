@@ -28,28 +28,28 @@ aliasesFor404:
 tags:
 - Throughput
 - Professional Scrum
-- Agile Project Management
 - Scrum Product Development
-- Agile Strategy
-- Agile Transformation
-- Agile Planning
-- Change Management
-- Product Management
-- Agile Frameworks
+- Agile Project Management
 - Cycle Time
+- Agile Transformation
+- Agile Frameworks
+- Change Management
+- Agile Strategy
+- Product Management
+- Agile Planning
 - Organisational Change
-- Pragmatic Thinking
-- Decision Making
-- Strategy
+- Operational Practices
+- Estimation
 - Software Development
 - Software Developers
-- Estimation
-- Operational Practices
 - Forecasting
+- Decision Making
+- Strategy
+- Pragmatic Thinking
 categories:
 - Scrum
 - People and Process
-- Agile Product Management
+- Metrics and Learning
 preview: 993957510-1-1.jpg
 
 ---

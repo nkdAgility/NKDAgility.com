@@ -28,16 +28,16 @@ aliasesFor404:
 tags:
 - Software Development
 - Azure Pipelines
-- Release Management
-- Modern Source Control
 - System Configuration
-- Technical Mastery
+- Modern Source Control
+- Release Management
 - Software Developers
+- Technical Mastery
 - Working Software
-- Engineering Excellence
-- Continuous Delivery
 - Azure Repos
+- Continuous Delivery
 - Continuous Integration
+- Engineering Excellence
 - Windows
 categories:
 - Practical Techniques and Tooling

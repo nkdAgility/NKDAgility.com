@@ -32,8 +32,8 @@ tags:
 - Organisational Change
 categories:
 - Beta Codex
-- Lean
 - Enterprise Agility
+- Complexity Thinking
 preview: image-1.jpg
 
 ---

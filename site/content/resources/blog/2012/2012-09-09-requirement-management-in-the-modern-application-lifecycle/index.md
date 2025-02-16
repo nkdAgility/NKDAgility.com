@@ -26,19 +26,19 @@ aliasesFor404:
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
-- Agile Project Management
 - Agile Planning Tools
-- Agile Planning
+- Agile Project Management
 - Software Development
+- Agile Planning
 - Pragmatic Thinking
-- Cycle Time
 - Product Management
+- Cycle Time
 - Operational Practices
 - Product Backlog
 categories:
 - Application Lifecycle Management
-- Products and Books
 - Practical Techniques and Tooling
+- Product Delivery
 preview: metro-requirements-icon-14-14.png
 
 ---

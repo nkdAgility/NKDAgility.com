@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 tags:
 - System Configuration
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Troubleshooting
 - Windows
 - Pragmatic Thinking
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Excellence
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

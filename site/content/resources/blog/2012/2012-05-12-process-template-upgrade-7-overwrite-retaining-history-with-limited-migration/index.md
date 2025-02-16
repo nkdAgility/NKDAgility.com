@@ -33,8 +33,8 @@ tags:
 - Azure Boards
 - Software Development
 - Operational Practices
-- Technical Mastery
 - Software Developers
+- Technical Mastery
 - Agile Planning
 categories:
 - Install and Configuration

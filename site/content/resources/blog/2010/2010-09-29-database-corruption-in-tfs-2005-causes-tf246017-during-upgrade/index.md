@@ -24,13 +24,13 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - System Configuration
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 
 ---

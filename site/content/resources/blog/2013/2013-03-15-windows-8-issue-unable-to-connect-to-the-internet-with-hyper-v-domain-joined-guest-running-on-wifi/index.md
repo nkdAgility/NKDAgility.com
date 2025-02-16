@@ -28,11 +28,11 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-- Pragmatic Thinking
 - System Configuration
+- Pragmatic Thinking
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: puzzle-issue-problem-128-link-5-5.png
 
 ---

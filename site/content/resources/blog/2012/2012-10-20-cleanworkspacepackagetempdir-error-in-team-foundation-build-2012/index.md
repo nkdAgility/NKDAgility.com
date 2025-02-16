@@ -30,13 +30,13 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Continuous Integration
-- Technical Mastery
-- Engineering Excellence
-- Windows
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
 - System Configuration
+- Software Development
+- Technical Mastery
+- Windows
+- Pragmatic Thinking
+- Engineering Excellence
+- Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

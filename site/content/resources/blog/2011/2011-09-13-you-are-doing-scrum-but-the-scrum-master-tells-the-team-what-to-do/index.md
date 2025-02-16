@@ -28,28 +28,28 @@ aliasesFor404:
 tags:
 - Scrum Team
 - Agile Project Management
-- Accountability
 - Scrum Product Development
-- Scrum Master
+- Accountability
 - Software Development
+- Scrum Master
 - Professional Scrum
-- Team Collaboration
-- Software Developers
 - Team Performance
+- Team Collaboration
 - Self Organisation
-- Pragmatic Thinking
-- Continuous Learning
+- Software Developers
 - Coaching
 - Technical Leadership
+- Continuous Learning
 - Agile Frameworks
 - Agile Transformation
 - Agile Leadership
+- Pragmatic Thinking
 - Agile Philosophy
 - Team Motivation
 categories:
 - Scrum
 - Agile Product Management
-- People and Process
+- Product Delivery
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

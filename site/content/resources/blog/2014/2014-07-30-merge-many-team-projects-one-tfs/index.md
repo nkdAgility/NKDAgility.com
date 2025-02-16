@@ -26,12 +26,12 @@ aliasesFor404:
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
 tags:
-- Modern Source Control
 - System Configuration
+- Modern Source Control
 - Software Development
-- Operational Practices
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
+- Operational Practices
 - Windows
 categories:
 - Install and Configuration

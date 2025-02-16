@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
 tags:
-- Release Management
 - System Configuration
+- Release Management
 - Troubleshooting
 - Pragmatic Thinking
 - Windows

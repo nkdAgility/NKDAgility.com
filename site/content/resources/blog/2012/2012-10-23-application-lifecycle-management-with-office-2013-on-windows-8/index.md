@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Products and Books
 preview: metro-office-128-link-5-5.png
 

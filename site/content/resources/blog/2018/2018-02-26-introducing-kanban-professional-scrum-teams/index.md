@@ -37,8 +37,8 @@ tags:
 - Agile Transformation
 categories:
 - Metrics and Learning
-- Products and Books
-- Events and Presentations
+- Flow Efficiency
+- Practical Techniques and Tooling
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

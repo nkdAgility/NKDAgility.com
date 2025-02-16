@@ -23,14 +23,14 @@ aliasesFor404:
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 tags:
 - Modern Source Control
-- Software Development
-- Pragmatic Thinking
-- Troubleshooting
 - System Configuration
+- Software Development
+- Troubleshooting
+- Pragmatic Thinking
 - Technical Mastery
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 Are you worried that you will not be able to migrate from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) when they start charging for it and you don’t want to pay? Fear not as we have the technology to migration from TF Service to TF Server with the TFS Integration Platform.

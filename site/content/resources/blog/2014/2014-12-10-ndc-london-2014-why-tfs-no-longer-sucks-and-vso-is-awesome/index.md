@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
 - Windows
-- Release Management
 - Product Owner
+- Release Management
 - Software Development
 - Troubleshooting
 - Software Developers

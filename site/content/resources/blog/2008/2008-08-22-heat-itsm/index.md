@@ -21,10 +21,12 @@ aliasesFor404:
 - /heat-itsm
 - /blog/heat-itsm
 - /resources/blog/heat-itsm
-tags: []
+tags:
+- Software Development
+- Technical Mastery
 categories:
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---

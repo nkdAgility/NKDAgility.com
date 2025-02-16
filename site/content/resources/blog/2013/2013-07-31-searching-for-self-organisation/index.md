@@ -25,27 +25,27 @@ tags:
 - Self Organisation
 - Accountability
 - Organisational Culture
-- Team Collaboration
-- Team Motivation
-- Team Performance
-- Change Management
-- Organisational Change
 - Agile Values and Principles
+- Team Motivation
 - Organisational Physics
 - Agile Project Management
-- Software Developers
-- Agile Philosophy
-- Agile Transformation
+- Organisational Change
+- Team Collaboration
+- Change Management
+- Team Performance
 - Agile Leadership
+- Agile Transformation
+- Agile Philosophy
 - Agile Strategy
-- Agile Frameworks
-- Employee Engagement
-- Scrum Team
+- Software Developers
 - Coaching
+- Scrum Team
+- Employee Engagement
+- Agile Frameworks
 categories:
 - People and Process
-- Organisational Agility
 - Complexity Thinking
+- Organisational Agility
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

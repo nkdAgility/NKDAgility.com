@@ -29,8 +29,8 @@ tags:
 - Troubleshooting
 - System Configuration
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-problem-icon-7-7.png
 
 ---

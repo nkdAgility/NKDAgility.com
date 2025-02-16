@@ -22,13 +22,13 @@ aliasesFor404:
 - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 tags:
-- Release Management
 - Software Developers
 - Software Development
 - Working Software
-- Operational Practices
-- Modern Source Control
+- Release Management
 - Continuous Integration
+- Modern Source Control
+- Operational Practices
 - Azure Boards
 - Pragmatic Thinking
 - Engineering Excellence

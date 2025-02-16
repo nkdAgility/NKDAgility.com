@@ -28,21 +28,21 @@ aliasesFor404:
 tags:
 - Working Software
 - Agile Strategy
-- Agile Transformation
 - Agile Philosophy
+- Agile Transformation
 - Customer Feedback Loops
-- Frequent Releases
 - Deployment Frequency
+- Frequent Releases
+- Product Management
 - Software Development
 - Product Discovery
-- Product Management
 - Customer Retention
 - Agile Project Management
 - Agile Planning
 categories:
 - Application Lifecycle Management
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

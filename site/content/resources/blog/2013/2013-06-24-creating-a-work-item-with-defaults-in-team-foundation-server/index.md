@@ -25,8 +25,8 @@ tags:
 - Software Development
 - Azure Boards
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 
 ---

@@ -30,17 +30,17 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags:
-- Professional Scrum
 - Scrum Product Development
-- Agile Project Management
-- Agile Transformation
+- Professional Scrum
 - Software Developers
-- Agile Frameworks
-- Team Collaboration
+- Agile Transformation
 - Team Performance
+- Team Collaboration
+- Agile Project Management
+- Agile Frameworks
 - Software Development
-- Self Organisation
 - Pragmatic Thinking
+- Self Organisation
 - Agile Planning
 - Scrum Team
 - Team Motivation

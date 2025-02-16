@@ -36,7 +36,7 @@ tags:
 categories:
 - Install and Configuration
 - Organisational Agility
-- Personal
+- Market Adaptability
 preview: nakedalm-windows-logo-12-12.png
 
 ---

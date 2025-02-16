@@ -27,9 +27,9 @@ aliasesFor404:
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags:
 - System Configuration
-- Technical Mastery
 - Software Development
 - Continuous Integration
+- Technical Mastery
 - Operational Practices
 - Modern Source Control
 - Pragmatic Thinking
@@ -37,7 +37,7 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
+- DevOps
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

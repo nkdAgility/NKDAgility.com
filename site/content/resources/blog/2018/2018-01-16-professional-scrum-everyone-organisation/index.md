@@ -28,25 +28,25 @@ aliasesFor404:
 - /resources/blog/professional-scrum-everyone-organisation
 tags:
 - Transparency
-- Agile Project Management
-- Scrum Master
 - Scrum Product Development
-- Software Developers
+- Professional Scrum
+- Agile Project Management
 - Change Management
 - Organisational Change
-- Professional Scrum
-- Organisational Physics
+- Scrum Master
+- Software Developers
 - Self Organisation
-- Team Collaboration
-- Team Motivation
-- Team Performance
 - Organisational Culture
+- Team Motivation
 - Agile Leadership
+- Organisational Physics
 - Empirical Process Control
+- Team Collaboration
+- Team Performance
+- Agile Planning
 - Scaling Agility
-- Agile Philosophy
 - Agile Frameworks
-- Software Development
+- Agile Philosophy
 categories:
 - People and Process
 - Scrum

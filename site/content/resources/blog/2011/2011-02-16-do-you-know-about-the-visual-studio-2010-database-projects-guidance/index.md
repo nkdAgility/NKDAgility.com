@@ -26,12 +26,12 @@ aliasesFor404:
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
 - Application Lifecycle Management
 
 ---

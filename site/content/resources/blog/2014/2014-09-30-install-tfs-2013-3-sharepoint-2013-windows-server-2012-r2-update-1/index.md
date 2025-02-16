@@ -27,12 +27,12 @@ aliasesFor404:
 - /resources/blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 tags:
 - Windows
-- Operational Practices
 - System Configuration
-- Technical Mastery
+- Operational Practices
 - Software Development
-- Pragmatic Thinking
+- Technical Mastery
 - Troubleshooting
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

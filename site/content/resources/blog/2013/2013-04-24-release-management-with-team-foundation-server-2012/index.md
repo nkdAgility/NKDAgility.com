@@ -22,29 +22,29 @@ aliasesFor404:
 - /blog/release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
 tags:
-- Release Management
 - Software Development
+- Release Management
 - Engineering Excellence
 - Pragmatic Thinking
+- Engineering Practices
 - Operational Practices
 - Working Software
-- Engineering Practices
-- Deployment Frequency
-- Deployment Strategies
-- Continuous Delivery
-- Software Developers
-- Frequent Releases
 - Definition of Done
-- Increment
+- Software Developers
+- Continuous Delivery
+- Deployment Frequency
+- Frequent Releases
+- Deployment Strategies
 - Technical Mastery
+- Increment
 - Automated Testing
 - Throughput
 - Strategy
 - Windows
 - Continuous Integration
 categories:
-- DevOps
 - Product Delivery
+- DevOps
 - Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 

@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/configuring-dc-azure-aad-integrated-release-management
 tags:
 - Windows
-- Technical Mastery
 - System Configuration
+- Technical Mastery
 - Software Development
 categories:
 - Install and Configuration

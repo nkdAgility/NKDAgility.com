@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - Release Management
 - System Configuration
+- Software Development
 - Technical Mastery
 - Windows
-- Software Development
 categories:
 - Install and Configuration
 - Application Lifecycle Management

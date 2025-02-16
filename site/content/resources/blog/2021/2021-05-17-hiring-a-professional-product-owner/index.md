@@ -41,22 +41,22 @@ tags:
 - Product Owner
 - Strategy
 - Accountability
+- Product Management
 - Scrum Team
-- Agile Strategy
-- Agile Planning
 - Agile Project Management
 - Product Backlog
-- Product Management
-- Scrum Product Development
-- Strategic Goals
+- Agile Strategy
 - Professional Scrum
-- Hypothesis Driven Development
+- Strategic Goals
+- Agile Planning
+- Scrum Product Development
+- Pragmatic Thinking
 - Agile Frameworks
 - Decision Making
+- Hypothesis Driven Development
 - Evidence Based Leadership
-- Pragmatic Thinking
-- Software Development
 - Transparency
+- Software Development
 categories:
 - Scrum
 - Agile Product Management

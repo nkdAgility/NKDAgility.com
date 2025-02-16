@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
 tags:
 - System Configuration
-- Windows
 - Software Development
+- Windows
 - Troubleshooting
 categories:
 - Install and Configuration

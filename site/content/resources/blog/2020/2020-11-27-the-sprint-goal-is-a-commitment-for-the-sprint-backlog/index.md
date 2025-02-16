@@ -24,23 +24,23 @@ aliasesFor404:
 tags:
 - Professional Scrum
 - Transparency
-- Scrum Team
 - Scrum Product Development
-- Agile Planning
+- Scrum Team
 - Software Developers
-- Scrum Values
+- Agile Planning
 - Team Performance
-- Agile Project Management
+- Scrum Values
 - Software Development
 - Agile Frameworks
+- Agile Project Management
 - Product Owner
 - Product Management
 - Team Collaboration
 - Pragmatic Thinking
 categories:
 - Scrum
+- Product Delivery
 - Agile Product Management
-- People and Process
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

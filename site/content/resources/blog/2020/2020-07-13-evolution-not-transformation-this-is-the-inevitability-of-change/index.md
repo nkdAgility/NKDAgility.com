@@ -29,22 +29,22 @@ tags:
 - Experimentation
 - Agile Project Management
 - Agile Values and Principles
-- Digital Transformation
-- Continuous Learning
-- Agile Transformation
-- Change Management
 - Agile Leadership
-- Organisational Culture
-- Empirical Process Control
-- Organisational Change
-- Agile Philosophy
-- Technical Leadership
+- Agile Transformation
+- Continuous Learning
+- Digital Transformation
+- Change Management
 - Agile Strategy
-- Pragmatic Thinking
+- Agile Philosophy
+- Organisational Culture
+- Organisational Change
+- Technical Leadership
+- Empirical Process Control
 - Strategy
 - Organisational Physics
-- Ability to Innovate
+- Pragmatic Thinking
 - Strategic Goals
+- Ability to Innovate
 - Sensemaking
 categories:
 - Organisational Agility

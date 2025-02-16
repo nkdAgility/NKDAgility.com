@@ -29,10 +29,10 @@ tags:
 - Team Performance
 - Software Development
 - Evidence Based Leadership
-- Operational Practices
 - Pragmatic Thinking
-- Agile Planning
+- Operational Practices
 - Product Management
+- Agile Planning
 - Estimation
 - Forecasting
 categories:

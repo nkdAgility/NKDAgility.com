@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/one-team-project
 tags:
 - Agile Planning Tools
-- Agile Project Management
 - Agile Planning
+- Agile Project Management
 - Software Developers
 - Software Development
 - Pragmatic Thinking

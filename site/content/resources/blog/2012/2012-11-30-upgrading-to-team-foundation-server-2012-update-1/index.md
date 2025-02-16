@@ -23,13 +23,13 @@ aliasesFor404:
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1
 tags:
 - System Configuration
-- Release Management
 - Software Development
+- Release Management
 - Windows
 categories:
 - Install and Configuration
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
 
 ---
 As usual I am going to update my local Team Foundation Server environment to Team Foundation Server 2012 Update 1 first and with Windows 8 and Hyper-V that is easy. If you are creating a new Team Foundation Server 2012 instance you can just install directly from the Update 1 media. Its all there…

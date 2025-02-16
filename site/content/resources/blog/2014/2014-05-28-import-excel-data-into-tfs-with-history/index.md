@@ -26,8 +26,8 @@ tags:
 - Pragmatic Thinking
 - Software Development
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 preview: metro-office-128-link-3-3.png
 

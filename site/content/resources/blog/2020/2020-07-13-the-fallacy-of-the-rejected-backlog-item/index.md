@@ -24,23 +24,23 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Software Development
-- Professional Scrum
 - Agile Project Management
+- Professional Scrum
 - Scrum Team
-- Transparency
 - Accountability
+- Transparency
 - Increment
-- Empirical Process Control
 - Definition of Done
+- Empirical Process Control
+- Working Software
+- Product Backlog
 - Product Owner
 - Sprint Review
-- Product Backlog
-- Working Software
+- Product Management
 - Team Collaboration
+- Team Performance
 - Agile Planning
 - Software Developers
-- Product Management
-- Team Performance
 - Scrum Master
 categories:
 - Scrum

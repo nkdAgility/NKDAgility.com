@@ -24,21 +24,21 @@ aliasesFor404:
 tags:
 - Software Development
 - Pragmatic Thinking
+- System Configuration
+- Test Automation
 - Continuous Delivery
 - Automated Testing
 - Software Developers
-- Test Automation
-- System Configuration
 - Deployment Frequency
 - Deployment Strategies
 - Release Management
-- Engineering Practices
-- Engineering Excellence
 - Operational Practices
 - Technical Mastery
+- Engineering Practices
+- Engineering Excellence
 - Frequent Releases
-- Azure Pipelines
 - Continuous Integration
+- Azure Pipelines
 - Working Software
 categories:
 - DevOps

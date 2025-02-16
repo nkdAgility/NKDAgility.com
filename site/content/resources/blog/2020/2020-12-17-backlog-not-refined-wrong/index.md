@@ -30,27 +30,27 @@ tags:
 - Scrum Product Development
 - Backlog Refinement
 - Product Backlog
-- Professional Scrum
 - Software Development
+- Professional Scrum
 - Agile Project Management
 - Scrum Team
 - Definition of Ready
 - Product Owner
-- Agile Planning
-- Scrum Master
 - Team Performance
+- Scrum Master
+- Agile Planning
 - Agile Planning Tools
-- Software Developers
-- Agile Frameworks
 - Agile Transformation
-- Operational Practices
+- Agile Frameworks
+- Software Developers
 - Pragmatic Thinking
+- Operational Practices
 - Empirical Process Control
 - Working Software
 categories:
 - Scrum
 - People and Process
-- Agile Product Management
+- Practical Techniques and Tooling
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

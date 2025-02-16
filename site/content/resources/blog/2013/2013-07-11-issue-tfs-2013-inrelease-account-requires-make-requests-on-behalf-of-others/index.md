@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
 - Technical Mastery
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
-- Troubleshooting
 - System Configuration
+- Software Development
+- Troubleshooting
+- Pragmatic Thinking
+- Operational Practices
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 preview: puzzle-issue-problem-128-link-5-5.png
 

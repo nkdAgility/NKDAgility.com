@@ -31,16 +31,16 @@ aliasesFor404:
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
 - System Configuration
+- Software Development
 - Frequent Releases
 - Technical Mastery
-- Software Development
 - Product Validation
 - Pragmatic Thinking
 - Engineering Excellence
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

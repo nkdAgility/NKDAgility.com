@@ -27,17 +27,17 @@ aliasesFor404:
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
 - Troubleshooting
-- Software Development
 - System Configuration
+- Software Development
+- Continuous Integration
 - Technical Mastery
+- Pragmatic Thinking
 - Engineering Excellence
 - Operational Practices
-- Pragmatic Thinking
-- Continuous Integration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

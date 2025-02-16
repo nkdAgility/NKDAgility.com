@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
 tags:
 - Software Development
+- System Configuration
 - Windows
 - Troubleshooting
-- System Configuration
 preview: metro-visual-studio-2005-128-link-10-10.png
 categories:
 - Install and Configuration

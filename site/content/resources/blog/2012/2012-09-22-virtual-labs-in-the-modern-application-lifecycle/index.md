@@ -24,12 +24,12 @@ aliasesFor404:
 tags:
 - Software Development
 - Automated Testing
+- Software Developers
 - Technical Mastery
 - Engineering Excellence
-- Software Developers
 - Operational Practices
-- Frequent Releases
 - Digital Transformation
+- Frequent Releases
 - Pragmatic Thinking
 - Windows
 - Continuous Delivery
@@ -37,7 +37,7 @@ tags:
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- Platform Engineering
+- Product Delivery
 preview: metro-lab-5-5.png
 
 ---

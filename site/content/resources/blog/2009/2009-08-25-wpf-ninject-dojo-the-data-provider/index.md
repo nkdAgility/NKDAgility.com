@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/blog/wpf-ninject-dojo-the-data-provider
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Windows
 categories:
 - Practical Techniques and Tooling

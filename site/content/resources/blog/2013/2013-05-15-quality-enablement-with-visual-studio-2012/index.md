@@ -22,26 +22,26 @@ aliasesFor404:
 - /blog/quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
-- Working Software
 - Software Development
+- Working Software
 - Engineering Practices
+- Software Developers
 - Pragmatic Thinking
 - Operational Practices
-- Software Developers
 - Acceptance Test Driven Development
 - Release Management
-- Automated Testing
+- Behaviour Driven Development
 - Test Automation
-- Continuous Delivery
 - Cycle Time
 - Agile Project Management
-- Frequent Releases
-- Behaviour Driven Development
+- Automated Testing
 - Continuous Integration
+- Continuous Delivery
+- Frequent Releases
 - Deployment Frequency
 - Agile Strategy
-- Engineering Excellence
 - Technical Mastery
+- Digital Transformation
 categories:
 - Application Lifecycle Management
 - Product Delivery

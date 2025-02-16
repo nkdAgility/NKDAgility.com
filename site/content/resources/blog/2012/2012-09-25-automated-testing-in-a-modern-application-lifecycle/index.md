@@ -28,11 +28,11 @@ tags:
 - Test Automation
 - Automated Testing
 - Engineering Practices
-- Working Software
 - Technical Debt
+- Working Software
+- Software Developers
 - Technical Mastery
 - Engineering Excellence
-- Software Developers
 - Operational Practices
 - Pragmatic Thinking
 - Windows

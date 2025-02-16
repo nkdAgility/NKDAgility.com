@@ -27,29 +27,29 @@ aliasesFor404:
 - /resources/blog/organisational-change-create-path
 tags:
 - Organisational Change
-- Pragmatic Thinking
 - Change Management
+- Pragmatic Thinking
 - Large Scale Agility
 - Continuous Learning
-- Organisational Culture
-- Agile Leadership
 - Software Development
-- Agile Frameworks
+- Agile Leadership
 - Scaled Agile
+- Organisational Culture
 - Professional Scrum
-- Organisational Physics
-- Scaling Scrum
-- Team Collaboration
-- Empirical Process Control
+- Agile Frameworks
 - Operational Practices
-- Scaling Agility
-- Technical Leadership
-- Agile Planning
+- Organisational Physics
+- Agile Project Management
+- Team Collaboration
 - Agile Transformation
+- Scaling Scrum
+- Agile Philosophy
+- Scaling Agility
+- Agile Strategy
 categories:
 - People and Process
-- Organisational Agility
 - Enterprise Agility
+- Organisational Agility
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

@@ -27,26 +27,26 @@ aliasesFor404:
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
 - Agile Project Management
-- Product Owner
 - Product Management
+- Product Owner
 - Scrum Team
-- Agile Strategy
-- Agile Transformation
 - Team Collaboration
+- Agile Strategy
 - Agile Philosophy
+- Agile Transformation
 - Organisational Culture
 - Organisational Physics
 - Agile Frameworks
 - Organisational Change
-- Team Performance
-- Scaled Agile
-- Software Development
 - Agile Planning
+- Software Development
+- Scaled Agile
+- Team Performance
 - Professional Scrum
 - Agile Values and Principles
 categories:
-- Agile Product Management
 - Agile Product Operating Model
+- Agile Product Management
 - Product Delivery
 preview: nakedalm-experts-professional-scrum-5-5.png
 

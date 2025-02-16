@@ -30,8 +30,8 @@ aliasesFor404:
 - /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 categories:
-- Events and Presentations
 - News and Reviews
+- Events and Presentations
 - People and Process
 preview: -1-1.jpg
 tags:

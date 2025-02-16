@@ -23,29 +23,29 @@ aliasesFor404:
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
 - Software Developers
-- Working Software
 - Continuous Delivery
+- Working Software
+- Operational Practices
 - Software Development
 - Deployment Strategies
-- Operational Practices
 - Deployment Frequency
-- Frequent Releases
-- Agile Project Management
 - Pragmatic Thinking
-- Increment
+- Agile Project Management
 - Engineering Excellence
+- Frequent Releases
+- Increment
 - Strategy
 - Agile Strategy
 - Engineering Practices
 - Technical Mastery
-- Trend Analysis
 - Agile Transformation
 - Throughput
+- Trend Analysis
 - Release Management
 categories:
 - Value Delivery
-- Technical Excellence
 - News and Reviews
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

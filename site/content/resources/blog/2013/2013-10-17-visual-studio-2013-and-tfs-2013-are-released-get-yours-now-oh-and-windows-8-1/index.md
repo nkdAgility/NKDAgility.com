@@ -36,7 +36,7 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Products and Books
+- News and Reviews
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

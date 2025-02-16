@@ -21,27 +21,27 @@ tags:
 - Software Development
 - Operational Practices
 - Team Collaboration
-- Agile Project Management
 - Cross Functional Teams
+- Agile Project Management
 - Software Developers
 - Team Performance
 - Lean Principles
 - Pragmatic Thinking
 - Strategy
 - Lean Product Development
+- Agile Frameworks
 - Organisational Physics
+- Cycle Time
+- Engineering Practices
 - Lean Thinking
 - Working Software
-- Agile Philosophy
-- Engineering Practices
-- Organisational Change
+- Agile Transformation
 - Agile Strategy
-- Cycle Time
-- Agile Frameworks
+- Agile Philosophy
 categories:
-- Product Delivery
-- Value Delivery
+- Organisational Agility
 - Business Agility
+- Product Delivery
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

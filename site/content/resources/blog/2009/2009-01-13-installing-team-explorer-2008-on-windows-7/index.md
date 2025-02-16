@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/installing-team-explorer-2008-on-windows-7
 tags:
 - Windows
-- Troubleshooting
 - System Configuration
+- Troubleshooting
 categories:
 - Install and Configuration
 

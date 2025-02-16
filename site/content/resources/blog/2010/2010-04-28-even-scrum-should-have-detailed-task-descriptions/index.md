@@ -24,11 +24,11 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Professional Scrum
-- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Definition of Ready
+- Agile Project Management
 - Team Collaboration
+- Definition of Ready
 - Software Developers
 - Transparency
 - Pragmatic Thinking

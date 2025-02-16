@@ -28,15 +28,15 @@ tags:
 - Change Management
 - Agile Strategy
 - Pragmatic Thinking
-- Organisational Physics
-- Agile Transformation
 - Technical Leadership
 - Agile Philosophy
+- Agile Transformation
+- Organisational Physics
 - Digital Transformation
 categories:
 - People and Process
 - Resilience and Change
-- Organisational Agility
+- Business Agility
 preview: image-3-3-3.png
 
 ---

@@ -22,24 +22,24 @@ aliasesFor404:
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
-- Agile Frameworks
 - Scrum Product Development
-- Technical Debt
+- Scrum Team
 - Working Software
-- Engineering Practices
+- Technical Debt
+- Agile Project Management
+- Professional Scrum
+- Agile Frameworks
 - Scrum Master
 - Software Development
-- Professional Scrum
+- Engineering Practices
 - Agile Planning
-- Scrum Team
-- Agile Project Management
-- Engineering Excellence
 - Technical Leadership
-- Agile Transformation
 - Team Performance
 - Software Developers
-- Pragmatic Thinking
+- Engineering Excellence
+- Agile Transformation
 - Accountability
+- Pragmatic Thinking
 - Empirical Process Control
 - Technical Mastery
 categories:

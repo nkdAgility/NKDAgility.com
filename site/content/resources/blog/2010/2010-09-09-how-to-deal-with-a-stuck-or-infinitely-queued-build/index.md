@@ -25,20 +25,20 @@ tags:
 - Troubleshooting
 - Software Development
 - Software Developers
-- Technical Mastery
+- System Configuration
 - Azure Pipelines
+- Continuous Integration
+- Technical Mastery
+- Pragmatic Thinking
 - Engineering Excellence
 - Operational Practices
-- Pragmatic Thinking
-- System Configuration
-- Continuous Integration
-- Windows
 - Engineering Practices
+- Windows
 preview: metro-SSWLogo-128-link-11-11.png
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Excellence
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/scrum-damentals-webcast-on-17th-february-2012
 - /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 tags:
-- Agile Project Management
-- Agile Transformation
 - Agile Frameworks
+- Agile Transformation
+- Agile Project Management
 - Professional Scrum
 - Software Development
 - Pragmatic Thinking

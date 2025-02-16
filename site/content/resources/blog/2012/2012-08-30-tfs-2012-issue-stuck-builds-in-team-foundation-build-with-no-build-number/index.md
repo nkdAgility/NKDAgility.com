@@ -29,19 +29,19 @@ aliasesFor404:
 - /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 tags:
 - Troubleshooting
-- Technical Mastery
-- Software Developers
-- Windows
-- Software Development
-- Pragmatic Thinking
 - System Configuration
+- Software Developers
+- Software Development
 - Continuous Integration
+- Technical Mastery
+- Windows
+- Pragmatic Thinking
 - Operational Practices
 - Azure Pipelines
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Excellence
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-problem-icon-7-7.png
 
 ---

@@ -25,15 +25,15 @@ tags:
 - Software Developers
 - Software Development
 - Team Collaboration
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Agile Planning
 - Working Software
 - Technical Mastery
 categories:
 - People and Process
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

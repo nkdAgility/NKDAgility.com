@@ -28,18 +28,18 @@ aliasesFor404:
 tags:
 - Software Development
 - Working Software
-- Pragmatic Thinking
 - Strategy
-- Agile Strategy
+- Pragmatic Thinking
 - Software Developers
+- Agile Strategy
+- Digital Transformation
 - Engineering Excellence
 - Operational Practices
-- Digital Transformation
 - Windows
 categories:
-- Products and Books
 - People and Process
-- Events and Presentations
+- Products and Books
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Windows
-- Technical Mastery
-- Software Development
-- Pragmatic Thinking
 - System Configuration
+- Software Development
+- Technical Mastery
+- Pragmatic Thinking
 preview: metro-SSWLogo-128-link-5-5.png
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 We had a small problem today with a new site we were going live with. It was refusing to send emails in 90% of cases. Problems like these are always difficult to identify, but your first step is always to enable logging.

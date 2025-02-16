@@ -35,11 +35,11 @@ tags:
 - Scrum Product Development
 - Software Developers
 - Software Development
-- Operational Practices
 - Modern Source Control
+- Operational Practices
 - Professional Scrum
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 - Pragmatic Thinking
 - Working Software
 - Strategy

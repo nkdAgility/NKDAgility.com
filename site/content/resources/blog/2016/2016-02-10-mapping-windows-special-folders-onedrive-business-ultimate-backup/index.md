@@ -31,8 +31,8 @@ tags:
 - Windows
 - System Configuration
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: clip_image001-1-1.png
 
 ---

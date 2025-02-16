@@ -28,25 +28,25 @@ aliasesFor404:
 tags:
 - Software Development
 - Operational Practices
-- Large Scale Agility
 - Team Collaboration
-- Software Developers
+- Large Scale Agility
 - Collaboration Tools
-- Troubleshooting
-- System Configuration
-- Pragmatic Thinking
+- Software Developers
 - Azure Boards
-- Scaled Agile
 - Scaling Agility
+- Troubleshooting
+- Pragmatic Thinking
+- Scaled Agile
+- System Configuration
 - Working Software
-- Team Performance
 - Agile Planning
+- Team Performance
 - Strategy
 - Scaling Scrum
 categories:
 - People and Process
 - Application Lifecycle Management
-- Practical Techniques and Tooling
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

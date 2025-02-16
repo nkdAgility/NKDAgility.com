@@ -25,23 +25,23 @@ tags:
 - Operational Practices
 - Definition of Done
 - Acceptance Test Driven Development
-- Working Software
 - Software Developers
 - Software Development
+- Working Software
 - Continuous Delivery
 - Engineering Practices
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
 - Agile Project Management
 - Forecasting
 - Scrum Product Development
 - Product Backlog
-- Deployment Frequency
-- Team Performance
 - Test Automation
-- Evidence Based Leadership
 - Automated Testing
+- Evidence Based Leadership
+- Deployment Frequency
 - Empirical Process Control
+- Team Performance
 categories:
 - Value Delivery
 - Product Delivery

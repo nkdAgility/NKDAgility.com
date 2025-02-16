@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
 - Windows
-- Azure Pipelines
 - System Configuration
+- Azure Pipelines
 - Software Development
 - Continuous Integration
 categories:

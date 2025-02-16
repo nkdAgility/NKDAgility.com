@@ -33,12 +33,12 @@ tags:
 - Automated Testing
 - Software Developers
 - Working Software
-- Technical Mastery
-- Engineering Excellence
 - Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
 - Continuous Integration
+- Technical Mastery
+- Pragmatic Thinking
+- Engineering Excellence
+- Operational Practices
 - Test Driven Development
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:

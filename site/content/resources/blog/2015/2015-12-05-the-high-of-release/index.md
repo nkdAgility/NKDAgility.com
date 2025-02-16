@@ -22,17 +22,17 @@ aliasesFor404:
 - /blog/the-high-of-release
 - /resources/blog/the-high-of-release
 tags:
-- Release Management
 - Azure Pipelines
-- Engineering Excellence
+- Release Management
 - Software Developers
 - Software Development
+- Engineering Excellence
 - Frequent Releases
 - Technical Mastery
 - Operational Practices
 - Continuous Delivery
-- Pragmatic Thinking
 - Deployment Strategies
+- Pragmatic Thinking
 categories:
 - Events and Presentations
 - DevOps

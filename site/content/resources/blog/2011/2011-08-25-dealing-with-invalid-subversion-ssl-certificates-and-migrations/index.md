@@ -29,8 +29,8 @@ tags:
 - Software Development
 - Troubleshooting
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 ![subversion](images/subversion-7-7.png "subversion")

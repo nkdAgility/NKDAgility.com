@@ -31,14 +31,14 @@ tags:
 - Strategic Goals
 - Agile Strategy
 - Agile Philosophy
-- Pragmatic Thinking
 - Strategy
+- Pragmatic Thinking
 - Trend Analysis
 - Digital Transformation
 categories:
 - Organisational Agility
-- Resilience and Change
 - Enterprise Agility
+- Market Adaptability
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

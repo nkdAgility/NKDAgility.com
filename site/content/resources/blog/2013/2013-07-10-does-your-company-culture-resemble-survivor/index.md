@@ -27,25 +27,25 @@ aliasesFor404:
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Transformation
-- Team Collaboration
-- Software Developers
-- Software Development
 - Agile Values and Principles
 - Agile Leadership
-- Technical Leadership
-- Team Motivation
-- Agile Strategy
-- Team Performance
+- Software Developers
+- Software Development
+- Team Collaboration
 - Cross Functional Teams
-- Organisational Culture
+- Team Motivation
+- Team Performance
 - Agile Philosophy
+- Organisational Culture
+- Technical Leadership
+- Agile Strategy
 - Pragmatic Thinking
 - Agile Project Management
 - Change Management
-- Self Organisation
 - Organisational Change
+- Operational Practices
 - Scrum Values
-- Agile Frameworks
+- Self Organisation
 categories:
 - Resilience and Change
 - People and Process

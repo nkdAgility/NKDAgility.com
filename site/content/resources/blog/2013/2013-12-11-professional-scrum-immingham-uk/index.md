@@ -31,18 +31,18 @@ aliasesFor404:
 - /resources/blog/professional-scrum-immingham-uk
 tags:
 - Scrum Product Development
-- Scrum Team
 - Cross Functional Teams
 - Software Development
+- Scrum Team
 - Professional Scrum
 - Team Performance
 - Team Collaboration
-- Agile Project Management
-- Agile Transformation
 - Agile Frameworks
+- Agile Transformation
+- Agile Project Management
 - Pragmatic Thinking
-- Team Motivation
 - Self Organisation
+- Team Motivation
 categories:
 - Scrum
 - Value Delivery

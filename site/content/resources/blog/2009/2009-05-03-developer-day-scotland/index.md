@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-- Engineering Excellence
 - Engineering Practices
+- Engineering Excellence
 - Technical Debt
 categories:
 - Events and Presentations

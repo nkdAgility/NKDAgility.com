@@ -27,9 +27,9 @@ tags:
 - Team Collaboration
 - Strategy
 categories:
-- Products and Books
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

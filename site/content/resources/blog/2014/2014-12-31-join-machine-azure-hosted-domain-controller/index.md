@@ -30,8 +30,8 @@ tags:
 - Windows
 - Troubleshooting
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-6-6.png
 
 ---

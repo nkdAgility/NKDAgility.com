@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 preview: clip_image0041-4-4.png
 

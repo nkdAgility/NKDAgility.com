@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 tags:
 - Troubleshooting
-- Software Development
 - System Configuration
+- Software Development
 - Technical Mastery
 - Pragmatic Thinking
 - Windows

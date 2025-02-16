@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
 - System Configuration
 categories:
 - Code and Complexity

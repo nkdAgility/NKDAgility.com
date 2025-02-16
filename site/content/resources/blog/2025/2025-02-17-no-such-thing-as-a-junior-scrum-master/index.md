@@ -35,12 +35,12 @@ tags:
 - Agile Frameworks
 - Strategy
 - Organisational Culture
-- Team Collaboration
-- Software Developers
-- Technical Mastery
 - Team Motivation
+- Software Developers
+- Team Collaboration
+- Technical Mastery
 - Agile Strategy
-- Self Organisation
+- Operational Practices
 categories:
 - Scrum
 - People and Process

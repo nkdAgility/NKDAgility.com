@@ -31,8 +31,8 @@ tags:
 - Technical Mastery
 - Operational Practices
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

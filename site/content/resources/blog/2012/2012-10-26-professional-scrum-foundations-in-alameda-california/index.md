@@ -33,25 +33,25 @@ tags:
 - Agile Project Management
 - Increment
 - Scrum Product Development
-- Team Collaboration
-- Empirical Process Control
-- Working Software
-- Sprint Review
-- Scrum Team
 - Software Development
+- Sprint Review
+- Team Collaboration
+- Working Software
+- Scrum Team
+- Empirical Process Control
 - Professional Scrum
 - Software Developers
 - Agile Planning
 - Team Performance
 - Agile Frameworks
-- Self Organisation
-- Pragmatic Thinking
 - Agile Transformation
+- Pragmatic Thinking
+- Self Organisation
 - Strategy
 categories:
 - Scrum
 - People and Process
-- Events and Presentations
+- Practical Techniques and Tooling
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

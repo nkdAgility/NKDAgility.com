@@ -27,18 +27,18 @@ aliasesFor404:
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 tags:
 - Professional Scrum
-- Scrum Team
 - Scrum Product Development
+- Scrum Team
 - Agile Planning
-- Agile Project Management
+- Self Organisation
 - Software Development
 - Agile Frameworks
-- Self Organisation
+- Agile Project Management
 - Increment
 categories:
 - Scrum
 - People and Process
-- Agile Product Management
+- News and Reviews
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---

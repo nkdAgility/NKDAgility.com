@@ -27,9 +27,9 @@ aliasesFor404:
 - /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 tags:
 - Agile Project Management
-- Scrum Team
-- Product Owner
 - Scrum Product Development
+- Product Owner
+- Scrum Team
 - Agile Planning
 - Agile Frameworks
 - Team Collaboration
@@ -43,7 +43,7 @@ tags:
 categories:
 - Scrum
 - Agile Product Management
-- People and Process
+- Product Delivery
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

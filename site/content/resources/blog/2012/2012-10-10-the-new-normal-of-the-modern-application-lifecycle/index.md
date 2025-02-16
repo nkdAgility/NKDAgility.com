@@ -25,8 +25,8 @@ tags:
 - Software Developers
 - Software Development
 - Digital Transformation
-- Frequent Releases
 - Agile Transformation
+- Frequent Releases
 - Pragmatic Thinking
 categories:
 - Application Lifecycle Management

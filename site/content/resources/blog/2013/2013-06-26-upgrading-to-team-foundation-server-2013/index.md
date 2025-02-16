@@ -25,14 +25,14 @@ tags:
 - Windows
 - System Configuration
 - Release Management
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Troubleshooting
 - Pragmatic Thinking
 categories:
 - Install and Configuration
-- Products and Books
 - Practical Techniques and Tooling
+- News and Reviews
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

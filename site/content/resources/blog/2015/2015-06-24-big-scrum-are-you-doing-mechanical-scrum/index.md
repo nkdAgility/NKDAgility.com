@@ -30,11 +30,11 @@ tags:
 - Scrum Values
 - Scaling Scrum
 - Professional Scrum
-- Agile Project Management
-- Agile Transformation
 - Software Developers
 - Software Development
 - Agile Frameworks
+- Agile Transformation
+- Agile Project Management
 - Team Performance
 - Pragmatic Thinking
 categories:

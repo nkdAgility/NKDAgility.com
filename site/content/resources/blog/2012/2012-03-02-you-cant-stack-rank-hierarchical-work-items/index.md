@@ -31,17 +31,17 @@ tags:
 - Product Backlog
 - Software Developers
 - Professional Scrum
-- Agile Project Management
 - Agile Planning
 - Agile Frameworks
 - Azure Boards
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Planning Tools
 - Operational Practices
 - Product Owner
 categories:
-- Agile Product Management
 - Practical Techniques and Tooling
+- Agile Product Management
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 

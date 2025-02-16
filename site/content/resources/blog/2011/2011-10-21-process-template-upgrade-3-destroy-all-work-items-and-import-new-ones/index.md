@@ -28,11 +28,11 @@ aliasesFor404:
 tags:
 - Software Development
 - System Configuration
-- Technical Mastery
 - Azure Boards
-- Operational Practices
-- Pragmatic Thinking
+- Technical Mastery
 - Troubleshooting
+- Pragmatic Thinking
+- Operational Practices
 - Professional Scrum
 - Working Software
 preview: metro-visual-studio-2005-128-link-5-5.png

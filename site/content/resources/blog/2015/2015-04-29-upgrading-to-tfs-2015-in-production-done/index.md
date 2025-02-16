@@ -31,8 +31,8 @@ tags:
 - System Configuration
 - Release Management
 - Software Development
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

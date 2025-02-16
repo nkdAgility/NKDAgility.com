@@ -29,8 +29,8 @@ tags:
 - Windows
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- Products and Books
 - News and Reviews
+- Products and Books
 
 ---
 Visual Studio 2010 Beta 2 is now available on MSDN for download!

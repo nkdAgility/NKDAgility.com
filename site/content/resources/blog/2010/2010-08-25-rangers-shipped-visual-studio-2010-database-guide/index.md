@@ -28,9 +28,9 @@ tags:
 - Working Software
 - Pragmatic Thinking
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Products and Books
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

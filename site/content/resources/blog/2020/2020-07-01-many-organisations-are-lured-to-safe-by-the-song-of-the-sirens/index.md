@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 tags:
-- Agile Transformation
 - Scaled Agile
-- Large Scale Agility
-- Agile Strategy
-- Agile Frameworks
-- Agile Philosophy
+- Agile Transformation
 - Organisational Change
+- Agile Strategy
 - Change Management
+- Agile Philosophy
+- Agile Frameworks
+- Large Scale Agility
 - Organisational Culture
 - Organisational Physics
 categories:

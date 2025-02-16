@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/integrate-sharepoint-2010-with-team-foundation-server-2010
 tags:
 - System Configuration
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Windows
 - Collaboration Tools
 categories:

@@ -25,13 +25,13 @@ aliasesFor404:
 tags:
 - Increment
 - Agile Values and Principles
-- Agile Project Management
-- Agile Transformation
 - Software Developers
 - Software Development
-- Agile Frameworks
 - Agile Philosophy
+- Agile Frameworks
+- Agile Transformation
 - Team Performance
+- Agile Project Management
 - Pragmatic Thinking
 - Organisational Culture
 categories:

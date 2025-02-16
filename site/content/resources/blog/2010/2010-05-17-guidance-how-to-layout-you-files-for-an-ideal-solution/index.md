@@ -32,14 +32,14 @@ tags:
 - Release Management
 - Technical Mastery
 - Agile Project Management
-- Engineering Excellence
 - Pragmatic Thinking
+- Engineering Excellence
 - Engineering Practices
 - Operational Practices
 - Strategy
 categories:
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Product Delivery
 preview: metro-visual-studio-2010-128-link-11-11.png
 

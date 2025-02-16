@@ -28,18 +28,18 @@ aliasesFor404:
 tags:
 - Software Developers
 - Software Development
+- Collaboration Tools
 - Working Software
 - Automated Testing
-- Collaboration Tools
 - Technical Mastery
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Engineering Excellence
 - Modern Source Control
 categories:
 - Events and Presentations
-- Products and Books
 - Application Lifecycle Management
+- Products and Books
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

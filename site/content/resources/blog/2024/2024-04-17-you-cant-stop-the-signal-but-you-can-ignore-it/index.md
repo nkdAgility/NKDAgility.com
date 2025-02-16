@@ -28,30 +28,30 @@ aliasesFor404:
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
 - People and Process
+- Sociotechnical Systems
 - Resilience and Change
-- Transparency and Accountability
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
 - Agile Philosophy
 - Agile Frameworks
-- Organisational Culture
 - Agile Transformation
+- Organisational Culture
 - Agile Values and Principles
 - Transparency
-- Software Development
 - Agile Leadership
-- Continuous Learning
-- Empirical Process Control
-- Operational Practices
-- Software Developers
 - Team Performance
-- Agile Strategy
-- Agile Project Management
+- Empirical Process Control
 - Team Collaboration
-- Change Management
-- Strategy
-- Sensemaking
+- Software Developers
+- Software Development
+- Operational Practices
+- Agile Project Management
+- Continuous Learning
+- Agile Strategy
 - Pragmatic Thinking
+- Sensemaking
+- Organisational Change
+- Psychological Safety
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

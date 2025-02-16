@@ -28,7 +28,7 @@ tags:
 categories:
 - Products and Books
 - Application Lifecycle Management
-- Practical Techniques and Tooling
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

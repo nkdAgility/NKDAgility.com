@@ -31,21 +31,21 @@ tags:
 - Operational Practices
 - Agile Planning
 - Agile Project Management
-- Engineering Excellence
-- Software Developers
 - Agile Frameworks
 - Pragmatic Thinking
-- Scrum Master
+- Engineering Excellence
+- Software Developers
+- Scrum Team
 - Technical Mastery
 - Team Performance
+- Scrum Master
 - Product Management
-- Empirical Process Control
-- Scrum Team
 - Engineering Practices
+- Technical Leadership
 categories:
 - Scrum
 - Product Delivery
-- Agile Product Management
+- Value Delivery
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

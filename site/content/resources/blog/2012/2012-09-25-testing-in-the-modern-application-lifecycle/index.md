@@ -25,12 +25,12 @@ tags:
 - Windows
 - Software Development
 - Working Software
-- Engineering Excellence
 - Engineering Practices
 - Team Collaboration
+- Engineering Excellence
 - Technical Mastery
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Software Developers
 - Test Automation
 - Troubleshooting

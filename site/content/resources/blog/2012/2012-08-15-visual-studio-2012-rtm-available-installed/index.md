@@ -30,13 +30,13 @@ tags:
 - System Configuration
 - Release Management
 - Technical Mastery
-- Engineering Excellence
 - Troubleshooting
+- Engineering Excellence
 - Windows
 categories:
 - Install and Configuration
 - News and Reviews
-- Products and Books
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

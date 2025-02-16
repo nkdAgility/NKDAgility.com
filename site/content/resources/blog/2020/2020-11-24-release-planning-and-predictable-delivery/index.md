@@ -24,24 +24,24 @@ aliasesFor404:
 tags:
 - Software Development
 - Increment
-- Transparency
 - Estimation
+- Transparency
 - Pragmatic Thinking
 - Scrum Product Development
 - Empirical Process Control
 - Technical Leadership
-- Software Developers
-- Release Management
-- Definition of Done
-- Agile Planning
-- Backlog Refinement
 - Technical Debt
-- Agile Project Management
 - Working Software
-- Operational Practices
+- Release Management
+- Agile Project Management
+- Agile Planning
+- Software Developers
+- Definition of Done
+- Backlog Refinement
+- Professional Scrum
 - Agile Frameworks
+- Operational Practices
 - Agile Transformation
-- Agile Strategy
 categories:
 - Product Delivery
 - Scrum

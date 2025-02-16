@@ -28,23 +28,23 @@ aliasesFor404:
 tags:
 - Estimation
 - Throughput
-- Scrum Team
-- Agile Planning
-- Software Development
-- Cycle Time
 - Scrum Product Development
-- Agile Project Management
-- Agile Transformation
-- Software Developers
-- Agile Frameworks
-- Team Performance
+- Scrum Team
+- Software Development
+- Agile Planning
+- Cycle Time
 - Pragmatic Thinking
+- Agile Project Management
+- Team Performance
+- Agile Transformation
+- Agile Frameworks
+- Software Developers
 - Operational Practices
-- Working Software
 - Continuous Learning
+- Working Software
 - Professional Scrum
-- Empirical Process Control
 - Team Collaboration
+- Empirical Process Control
 - Scrum Master
 categories:
 - Scrum

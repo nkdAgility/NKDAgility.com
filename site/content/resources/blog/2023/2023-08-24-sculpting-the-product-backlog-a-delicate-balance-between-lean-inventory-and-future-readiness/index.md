@@ -36,19 +36,19 @@ tags:
 - Lean Thinking
 - Lean Principles
 - Product Owner
-- Pragmatic Thinking
-- Agile Project Management
 - Agile Planning Tools
+- Agile Project Management
 - Agile Planning
+- Pragmatic Thinking
 - Professional Scrum
-- Software Development
 - Product Strategy
+- Software Development
 - Strategy
 - Operational Practices
 categories:
 - Lean
-- Agile Product Management
-- Products and Books
+- Value Delivery
+- Agile Product Operating Model
 preview: image-1.jpg
 
 ---

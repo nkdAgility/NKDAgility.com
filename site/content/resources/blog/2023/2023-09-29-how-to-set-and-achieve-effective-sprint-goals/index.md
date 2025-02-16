@@ -30,13 +30,13 @@ tags:
 - Professional Scrum
 - Agile Project Management
 - Accountability
-- Scrum Team
 - Team Performance
+- Scrum Team
 - Agile Planning
 - Agile Frameworks
+- Team Collaboration
 - Pragmatic Thinking
 - Scrum Master
-- Team Collaboration
 - Software Developers
 - Software Development
 - Coaching
@@ -44,8 +44,8 @@ tags:
 - Strategy
 categories:
 - Scrum
-- Agile Product Management
 - Value Delivery
+- Product Delivery
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

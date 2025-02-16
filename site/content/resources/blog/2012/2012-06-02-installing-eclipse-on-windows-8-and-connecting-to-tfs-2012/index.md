@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 tags:
 - Windows
-- Modern Source Control
 - System Configuration
+- Modern Source Control
 - Software Development
 - Technical Mastery
 categories:

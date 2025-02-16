@@ -26,14 +26,14 @@ tags:
 - Operational Practices
 - Software Development
 - Technical Mastery
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
 - Software Developers
 - Agile Frameworks
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

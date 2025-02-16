@@ -32,8 +32,8 @@ tags:
 - Technical Mastery
 - Pragmatic Thinking
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

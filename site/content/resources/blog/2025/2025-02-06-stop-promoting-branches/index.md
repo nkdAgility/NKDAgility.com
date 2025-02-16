@@ -20,15 +20,15 @@ aliasesFor404:
 - /blog/stop-promoting-branches
 tags:
 - Software Development
-- Release Management
-- Continuous Delivery
-- Software Developers
 - Engineering Practices
+- Release Management
+- Software Developers
+- Continuous Delivery
 - Continuous Integration
-- Deployment Frequency
-- Deployment Strategies
-- Modern Source Control
 - Operational Practices
+- Modern Source Control
+- Deployment Strategies
+- Deployment Frequency
 - Engineering Excellence
 - Pragmatic Thinking
 - Frequent Releases
@@ -36,9 +36,9 @@ tags:
 - Working Software
 - Lead Time
 - Agile Strategy
-- Throughput
 - Technical Mastery
-- Technical Leadership
+- Throughput
+- Lean Product Development
 categories:
 - DevOps
 - Technical Excellence

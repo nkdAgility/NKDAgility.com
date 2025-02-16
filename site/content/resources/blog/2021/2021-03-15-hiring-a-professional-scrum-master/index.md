@@ -28,16 +28,16 @@ tags:
 - Software Development
 - Technical Leadership
 - Professional Scrum
-- Agile Project Management
 - Agile Frameworks
 - Team Performance
+- Agile Project Management
 - Accountability
 - Agile Leadership
 - Coaching
 categories:
 - Scrum
-- People and Process
 - Product Delivery
+- People and Process
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

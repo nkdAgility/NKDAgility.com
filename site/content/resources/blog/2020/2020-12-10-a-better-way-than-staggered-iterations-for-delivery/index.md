@@ -23,30 +23,30 @@ aliasesFor404:
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
-- Test First Development
 - Increment
-- Scrum Product Development
+- Test First Development
 - Scrum Team
 - Empirical Process Control
-- Working Software
-- Cycle Time
 - Software Developers
 - Software Development
-- Technical Leadership
-- Team Collaboration
+- Scrum Product Development
+- Cycle Time
+- Working Software
 - Team Performance
 - Professional Scrum
 - Cross Functional Teams
+- Technical Leadership
+- Team Collaboration
 - Technical Mastery
-- Engineering Excellence
-- Self Organisation
-- Engineering Practices
-- Operational Practices
+- Pragmatic Thinking
 - Throughput
+- Engineering Excellence
+- Operational Practices
+- Engineering Practices
 categories:
 - Scrum
-- Business Agility
 - Value Delivery
+- Business Agility
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

@@ -32,17 +32,17 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - Working Software
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Increment
 - Software Developers
-- Engineering Excellence
 - Empirical Process Control
 - Pragmatic Thinking
+- Engineering Excellence
 categories:
 - Scrum
-- Transparency and Accountability
 - Product Delivery
+- Transparency and Accountability
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

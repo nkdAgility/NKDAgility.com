@@ -32,22 +32,22 @@ tags:
 - Agile Project Management
 - Increment
 - Working Software
-- Agile Philosophy
-- Agile Values and Principles
 - Agile Strategy
+- Agile Philosophy
 - Software Development
-- Agile Frameworks
+- Agile Values and Principles
 - Software Developers
+- Agile Frameworks
 - Agile Transformation
+- Product Validation
 - Agile Planning
 - Product Management
-- Product Validation
 - Empirical Process Control
 - Transparency
 categories:
 - Agile Product Management
 - Product Delivery
-- Organisational Agility
+- Market Adaptability
 preview: image-1.jpg
 
 ---

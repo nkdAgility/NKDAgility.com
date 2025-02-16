@@ -27,20 +27,20 @@ aliasesFor404:
 - /resources/blog/whats-in-a-burndown
 tags:
 - Scrum Product Development
-- Scrum Team
 - Software Development
+- Scrum Team
+- Software Developers
+- Agile Planning
+- Professional Scrum
 - Agile Project Management
 - Team Performance
-- Software Developers
-- Professional Scrum
-- Agile Planning
-- Agile Frameworks
+- Agile Transformation
 - Pragmatic Thinking
 - Forecasting
-- Agile Transformation
+- Agile Frameworks
 - Empirical Process Control
-- Agile Planning Tools
 - Scrum Master
+- Agile Planning Tools
 - Product Management
 - Estimation
 - Product Owner

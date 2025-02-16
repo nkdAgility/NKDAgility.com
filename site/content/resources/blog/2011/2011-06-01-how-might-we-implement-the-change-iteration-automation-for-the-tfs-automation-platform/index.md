@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Software Developers
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Digital Transformation
 - System Configuration
 - Engineering Excellence

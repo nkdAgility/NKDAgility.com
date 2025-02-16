@@ -29,12 +29,12 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 tags:
 - Troubleshooting
-- Modern Source Control
 - System Configuration
+- Modern Source Control
+- Azure Repos
+- Software Development
 - Technical Mastery
 - Windows
-- Software Development
-- Azure Repos
 - Pragmatic Thinking
 categories:
 - Install and Configuration

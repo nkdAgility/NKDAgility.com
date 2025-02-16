@@ -24,7 +24,7 @@ aliasesFor404:
 tags: []
 categories:
 - Install and Configuration
-- Products and Books
+- News and Reviews
 - Events and Presentations
 
 ---

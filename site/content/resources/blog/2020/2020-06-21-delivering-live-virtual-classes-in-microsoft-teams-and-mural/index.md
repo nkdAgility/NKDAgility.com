@@ -29,23 +29,23 @@ preview: class-colage-2-8-8.jpg
 tags:
 - Team Collaboration
 - Agile Values and Principles
-- Professional Scrum
-- Collaboration Tools
 - Scrum Team
 - Scrum Product Development
+- Collaboration Tools
+- Professional Scrum
 - Scrum Values
-- Agile Leadership
-- Self Organisation
+- Agile Project Management
+- Remote Working
+- Team Performance
+- Agile Transformation
 - Agile Frameworks
 - Team Motivation
-- Agile Transformation
-- Remote Working
-- Agile Project Management
-- Team Performance
+- Self Organisation
+- Agile Leadership
 - Software Development
 - Psychological Safety
-- Accountability
 - Pragmatic Thinking
+- Accountability
 - Agile Philosophy
 
 ---

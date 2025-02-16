@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/updating-to-visual-studio-2008-sp1
 - /resources/blog/updating-to-visual-studio-2008-sp1
 tags:
-- Troubleshooting
 - System Configuration
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration

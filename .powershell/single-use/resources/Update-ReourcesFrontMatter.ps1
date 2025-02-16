@@ -55,7 +55,7 @@ $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 Write-InfoLog "Initialise Batch Count..."
 $batchesInProgress = Get-OpenAIBatchesInProgress
-$batchOverage = 10
+$batchOverage = 1
 Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
 $runBatchCheck = $false
 $batchCheckCount = 0
@@ -64,7 +64,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if (($hugoMarkdownBatchQueue.Count -le $batchesInProgress)) {
         $runBatchCheck = $false
     }
-    $ActivityText = "Processing [Q1:$($hugoMarkdownQueue.count)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
+    $ActivityText = "Processing [Q1:$($Counter)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
     if ((($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) -and $batchCheckCount -le $hugoMarkdownBatchQueue.Count) -or $hugoMarkdownQueue.Count -eq 0) {
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
         $batchCheckCount++

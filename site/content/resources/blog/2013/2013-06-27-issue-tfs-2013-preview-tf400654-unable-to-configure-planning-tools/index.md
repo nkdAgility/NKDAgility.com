@@ -30,8 +30,8 @@ tags:
 - Software Development
 - System Configuration
 categories:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 preview: puzzle-issue-problem-128-link-2-2.png
 

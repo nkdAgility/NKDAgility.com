@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
 - Software Development
-- Technical Mastery
 - Decision Making
+- Technical Mastery
 - Pragmatic Thinking
 - Strategy
 categories:

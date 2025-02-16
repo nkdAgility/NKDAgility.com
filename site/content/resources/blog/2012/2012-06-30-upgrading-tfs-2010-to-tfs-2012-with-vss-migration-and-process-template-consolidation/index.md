@@ -28,16 +28,16 @@ tags:
 - Modern Source Control
 - Release Management
 - Technical Mastery
+- Deployment Strategies
+- Pragmatic Thinking
 - Engineering Excellence
 - Operational Practices
-- Pragmatic Thinking
-- Deployment Strategies
 - Software Developers
 - Windows
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 Back in Seattle and another awesome engagement, this time with a local company to upgrade their version of TFS from 2010 to 2012 and migrate all of their legacy VSS databases. Additional they want to take advantage of the new team features of TFS 2012 and need to consolidate all of their team projects

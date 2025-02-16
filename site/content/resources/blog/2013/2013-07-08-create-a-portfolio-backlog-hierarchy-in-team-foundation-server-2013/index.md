@@ -26,13 +26,13 @@ tags:
 - Agile Planning Tools
 - Agile Planning
 - Product Backlog
-- Agile Project Management
-- Portfolio Management
 - System Configuration
+- Portfolio Management
+- Agile Project Management
 - Software Developers
 - Azure Boards
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Working Software
 - Scaled Agile
 - Technical Mastery

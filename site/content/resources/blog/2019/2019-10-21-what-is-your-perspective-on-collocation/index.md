@@ -28,16 +28,16 @@ aliasesFor404:
 tags:
 - Scrum Team
 - Organisational Culture
-- Agile Project Management
 - Software Development
 - Agile Frameworks
 - Team Performance
-- Team Motivation
 - Team Collaboration
+- Agile Project Management
+- Team Motivation
 - Software Developers
 - Pragmatic Thinking
-- Scrum Master
 - Professional Scrum
+- Scrum Master
 - Operational Practices
 categories:
 - Scrum

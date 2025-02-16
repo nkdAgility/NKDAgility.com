@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/infragistics-wpf
 - /resources/blog/infragistics-wpf
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Troubleshooting
 categories: []
 
