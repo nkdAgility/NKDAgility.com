@@ -21,7 +21,8 @@ aliasesFor404:
 - /the-long-wait-is-over
 - /blog/the-long-wait-is-over
 - /resources/blog/the-long-wait-is-over
-tags: []
+tags:
+- Windows
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

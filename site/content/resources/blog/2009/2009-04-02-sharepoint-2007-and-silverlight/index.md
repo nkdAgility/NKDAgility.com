@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/sharepoint-2007-and-silverlight
 tags: []
 preview: metro-sharepoint-128-link-1-1.png
-categories: []
+categories:
+- Products and Books
 
 ---
 I have looked at this topic before but I just got my hands on a new Wrox book called “[Professional Microsoft Sharepoint 2007 Development using Microsoft Silverlight 2](http://www.amazon.co.uk/gp/product/0470434007?ie=UTF8&tag=marthinssblog-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0470434007)”, phew, could that title be any longer!

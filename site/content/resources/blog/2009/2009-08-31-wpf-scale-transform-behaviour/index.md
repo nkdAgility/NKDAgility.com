@@ -21,8 +21,13 @@ aliasesFor404:
 - /wpf-scale-transform-behaviour
 - /blog/wpf-scale-transform-behaviour
 - /resources/blog/wpf-scale-transform-behaviour
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Software Development
+- Windows
+categories:
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

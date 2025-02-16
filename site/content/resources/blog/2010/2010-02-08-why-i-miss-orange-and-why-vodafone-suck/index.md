@@ -25,8 +25,11 @@ aliasesFor404:
 - /why-i-miss-orange-and-why-vodafone-suck-
 - /blog/why-i-miss-orange-and-why-vodafone-suck-
 - /resources/blog/why-i-miss-orange-and-why-vodafone-suck
-tags: []
-categories: []
+tags:
+- Customer Satisfaction
+categories:
+- Miscellaneous
+- Personal
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

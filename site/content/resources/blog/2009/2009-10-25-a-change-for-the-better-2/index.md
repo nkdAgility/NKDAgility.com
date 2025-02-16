@@ -26,7 +26,10 @@ aliasesFor404:
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 - /resources/blog/a-change-for-the-better-2
 tags: []
-categories: []
+categories:
+- Miscellaneous
+- Personal
+- People and Process
 preview: metro-SSWLogo-128-link-3-1.png
 
 ---

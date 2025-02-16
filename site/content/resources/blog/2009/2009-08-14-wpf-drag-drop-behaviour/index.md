@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/wpf-drag-&-drop-behaviour
 - /resources/blog/wpf-drag-drop-behaviour
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-5-1.png
 
 ---

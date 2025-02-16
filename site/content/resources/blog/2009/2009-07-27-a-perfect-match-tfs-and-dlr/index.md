@@ -21,8 +21,11 @@ aliasesFor404:
 - /a-perfect-match-tfs-and-dlr
 - /blog/a-perfect-match-tfs-and-dlr
 - /resources/blog/a-perfect-match-tfs-and-dlr
-tags: []
-categories: []
+tags:
+- Software Development
+- Technical Mastery
+categories:
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

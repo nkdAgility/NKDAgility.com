@@ -21,7 +21,9 @@ aliasesFor404:
 - /mvvm-for-dummies
 - /blog/mvvm-for-dummies
 - /resources/blog/mvvm-for-dummies
-tags: []
+tags:
+- Technical Mastery
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

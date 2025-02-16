@@ -25,7 +25,21 @@ aliasesFor404:
 - /adventures-in-scrum--lesson-2---for-the-record
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
-tags: []
+tags:
+- Scrum Team
+- Scrum Product Development
+- Agile Planning
+- Software Development
+- Professional Scrum
+- Team Collaboration
+- Scrum Master
+- Software Developers
+- Agile Transformation
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Frameworks
+- Product Owner
+- Team Performance
 categories:
 - Scrum
 - People and Process

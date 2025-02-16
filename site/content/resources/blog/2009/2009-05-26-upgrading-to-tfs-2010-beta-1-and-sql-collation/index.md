@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 I have just finished installing [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 beta 1 and doing an upgrade of out TFS 2008 data. This did not go well…

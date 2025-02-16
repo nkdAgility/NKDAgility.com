@@ -25,9 +25,12 @@ aliasesFor404:
 - /office-2010-gotcha-2--visual-studio-2008-locks
 - /blog/office-2010-gotcha-2--visual-studio-2008-locks
 - /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
-tags: []
+tags:
+- Troubleshooting
+- Windows
 preview: metro-visual-studio-2005-128-link-2-1.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 I am having a little problem with Visual Studio 2008 that only started after I had installed Office 2010. I found this interesting post on [Visual Studio 2008 Locks or Freezes in ASPX](http://abdullin.com/journal/2009/5/12/visual-studio-2008-locks-or-freezes-in-aspx.html) from [Rinat Abdullin](http://abdullin.com/) that was a complete match to the problem I am having.

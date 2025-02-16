@@ -21,7 +21,18 @@ aliasesFor404:
 - /upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 - /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 - /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
-tags: []
+tags:
+- Software Development
+- Windows
+- Modern Source Control
+- System Configuration
+- Working Software
+- Release Management
+- Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
+- Troubleshooting
+- Deployment Strategies
 preview: metro-visual-studio-2010-128-link-36-36.png
 categories:
 - Install and Configuration

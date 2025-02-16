@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/installing--net-4-0-beta-1-on-windows-vista-64x
 - /resources/blog/installing-net-4-0-beta-1-on-windows-vista-64x
 tags: []
-categories: []
+categories:
+- Install and Configuration
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

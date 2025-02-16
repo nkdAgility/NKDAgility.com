@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/microsoft-document-explorer-2008-on-window-7
 tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 [![image](images/MicrosoftDocumentExplorer2008onWindow7_3CC7-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MicrosoftDocumentExplorer2008onWindow7_3CC7-image_2.png)

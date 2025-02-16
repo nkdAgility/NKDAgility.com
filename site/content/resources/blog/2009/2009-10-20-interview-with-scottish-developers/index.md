@@ -21,7 +21,9 @@ aliasesFor404:
 - /interview-with-scottish-developers
 - /blog/interview-with-scottish-developers
 - /resources/blog/interview-with-scottish-developers
-categories: []
+categories:
+- Personal
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

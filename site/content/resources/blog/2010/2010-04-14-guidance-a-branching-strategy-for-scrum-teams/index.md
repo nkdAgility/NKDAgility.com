@@ -25,7 +25,27 @@ aliasesFor404:
 - /guidance--a-branching-strategy-for-scrum-teams
 - /blog/guidance--a-branching-strategy-for-scrum-teams
 - /resources/blog/guidance-a-branching-strategy-for-scrum-teams
-tags: []
+tags:
+- Software Development
+- Release Management
+- Increment
+- Scrum Product Development
+- Modern Source Control
+- Scrum Team
+- Software Developers
+- Engineering Practices
+- Agile Planning
+- Operational Practices
+- Agile Project Management
+- Professional Scrum
+- Engineering Excellence
+- Agile Frameworks
+- Pragmatic Thinking
+- Strategy
+- Working Software
+- Scrum Master
+- Continuous Delivery
+- Scaled Agile
 categories:
 - Scrum
 - Agile Product Management

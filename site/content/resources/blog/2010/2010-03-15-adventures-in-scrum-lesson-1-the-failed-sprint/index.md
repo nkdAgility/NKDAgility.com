@@ -25,7 +25,27 @@ aliasesFor404:
 - /adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
-tags: []
+tags:
+- Software Development
+- Agile Project Management
+- Scrum Team
+- Software Developers
+- Professional Scrum
+- Scrum Product Development
+- Agile Planning
+- Team Performance
+- Scrum Master
+- Team Collaboration
+- Pragmatic Thinking
+- Empirical Process Control
+- Increment
+- Agile Transformation
+- Agile Frameworks
+- Working Software
+- Transparency
+- Self Organisation
+- Accountability
+- Product Owner
 categories:
 - Scrum
 - People and Process

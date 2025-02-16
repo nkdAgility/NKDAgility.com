@@ -21,7 +21,14 @@ aliasesFor404:
 - /scrum-for-team-foundation-server-2010
 - /blog/scrum-for-team-foundation-server-2010
 - /resources/blog/scrum-for-team-foundation-server-2010
-tags: []
+tags:
+- Scrum Product Development
+- Software Development
+- Software Developers
+- Agile Project Management
+- Agile Planning Tools
+- Agile Planning
+- Agile Frameworks
 categories:
 - Scrum
 - Agile Product Management

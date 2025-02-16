@@ -21,7 +21,10 @@ aliasesFor404:
 - /scott-guthrie-in-glasgow
 - /blog/scott-guthrie-in-glasgow
 - /resources/blog/scott-guthrie-in-glasgow
-tags: []
+tags:
+- Software Development
+- Technical Mastery
+- Windows
 categories:
 - News and Reviews
 - Events and Presentations

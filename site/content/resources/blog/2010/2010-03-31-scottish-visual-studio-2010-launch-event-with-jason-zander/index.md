@@ -21,7 +21,8 @@ aliasesFor404:
 - /scottish-visual-studio-2010-launch-event-with-jason-zander
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 - /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
-tags: []
+tags:
+- Windows
 categories:
 - Events and Presentations
 - News and Reviews

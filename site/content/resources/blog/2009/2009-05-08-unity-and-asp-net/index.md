@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/unity-and-asp-net
 - /resources/blog/unity-and-asp-net
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

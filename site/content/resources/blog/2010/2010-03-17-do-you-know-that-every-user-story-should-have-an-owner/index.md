@@ -25,7 +25,16 @@ aliasesFor404:
 - /do-you-know-that-every-user-story-should-have-an-owner-
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
-tags: []
+tags:
+- Scrum Team
+- Scrum Product Development
+- Team Performance
+- Software Development
+- Team Collaboration
+- Agile Project Management
+- Pragmatic Thinking
+- Accountability
+- Agile Frameworks
 categories:
 - Scrum
 - People and Process

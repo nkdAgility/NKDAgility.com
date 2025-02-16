@@ -25,7 +25,21 @@ aliasesFor404:
 - /solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-tags: []
+tags:
+- Software Development
+- Test Automation
+- Troubleshooting
+- Test First Development
+- Automated Testing
+- Working Software
+- Software Developers
+- Technical Mastery
+- Operational Practices
+- Engineering Excellence
+- Pragmatic Thinking
+- Continuous Integration
+- Engineering Practices
+- Test Driven Development
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Install and Configuration

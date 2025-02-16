@@ -21,7 +21,15 @@ aliasesFor404:
 - /when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
-tags: []
+tags:
+- Modern Source Control
+- System Configuration
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+- Agile Frameworks
+- Agile Project Management
+- Strategy
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Application Lifecycle Management

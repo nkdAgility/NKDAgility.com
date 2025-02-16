@@ -25,7 +25,12 @@ aliasesFor404:
 - /subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 - /blog/subversion-to-tfs-2010--the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 - /resources/blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
-tags: []
+tags:
+- Troubleshooting
+- Software Development
+- Modern Source Control
+- Pragmatic Thinking
+- System Configuration
 preview: image-1.png
 categories:
 - Install and Configuration

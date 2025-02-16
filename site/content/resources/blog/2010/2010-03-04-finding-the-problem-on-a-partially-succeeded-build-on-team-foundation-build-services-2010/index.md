@@ -21,7 +21,18 @@ aliasesFor404:
 - /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
-tags: []
+tags:
+- Troubleshooting
+- Software Development
+- Scrum Product Development
+- Software Developers
+- Working Software
+- Technical Mastery
+- Product Backlog
+- Engineering Excellence
+- Pragmatic Thinking
+- Agile Project Management
+- Agile Planning Tools
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum

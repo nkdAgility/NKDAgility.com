@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/head-first-design-patterns
 - /resources/blog/head-first-design-patterns
 tags: []
-categories: []
+categories:
+- Products and Books
+- Miscellaneous
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -21,8 +21,14 @@ aliasesFor404:
 - /creating-a-data-access-layer-using-unity
 - /blog/creating-a-data-access-layer-using-unity
 - /resources/blog/creating-a-data-access-layer-using-unity
-tags: []
-categories: []
+tags:
+- Software Development
+- Technical Mastery
+- System Configuration
+- Engineering Excellence
+categories:
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

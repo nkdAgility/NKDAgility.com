@@ -29,7 +29,10 @@ aliasesFor404:
 - /microsoft--please-help-me-diagnose-tfs-administration-permission-issues-
 - /blog/microsoft--please-help-me-diagnose-tfs-administration-permission-issues-
 - /resources/blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
-tags: []
+tags:
+- System Configuration
+- Troubleshooting
+- Windows
 preview: metro-SSWLogo-128-link-1-1.png
 categories:
 - Install and Configuration

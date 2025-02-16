@@ -25,7 +25,20 @@ aliasesFor404:
 - /do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
-tags: []
+tags:
+- Automated Testing
+- Modern Source Control
+- Technical Mastery
+- Operational Practices
+- Software Development
+- Engineering Excellence
+- Continuous Integration
+- Azure Pipelines
+- Engineering Practices
+- Continuous Delivery
+- Software Developers
+- Pragmatic Thinking
+- Working Software
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Practical Techniques and Tooling
