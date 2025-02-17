@@ -22,6 +22,7 @@ preview: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
+- Practical Techniques and Tooling
 - Troubleshooting
 sitemap:
   filename: sitemap.xml
@@ -29,8 +30,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Practical Techniques and Tooling
+categories: []
 
 ---
 When it comes to migrating to the cloud, one of the most significant challenges we face is ensuring that our existing systems and customisations will function seamlessly in the new environment. I’ve been through this process multiple times, and I can tell you that preparation is key. 

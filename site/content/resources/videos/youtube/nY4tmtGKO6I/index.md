@@ -28,7 +28,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- People and Process
+- Social Technologies
 
 ---
 As I reflect on my journey as a Scrum Master, I often find myself returning to the foundational elements that are crucial for any new Scrum team. When a team is just starting out, it’s essential to recognise that their understanding of Scrum, empiricism, and the Scrum values will significantly influence their effectiveness. 

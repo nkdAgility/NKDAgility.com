@@ -27,16 +27,16 @@ tags:
 - Scrum Master
 - Software Development
 - Professional Scrum
+- Agile Product Management
 - Scrum Product Development
 - Technical Leadership
 - Team Performance
+- Pragmatic Thinking
 - Agile Leadership
 - Agile Frameworks
-- Pragmatic Thinking
 categories:
-- People and Process
 - Scrum
-- Agile Product Management
+- People and Process
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 marketing: []
 

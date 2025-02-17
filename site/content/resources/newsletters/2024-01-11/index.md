@@ -20,9 +20,10 @@ aliasesFor404:
 categories:
 - Scrum
 - Events and Presentations
-- Products and Books
 - Social Technologies
-tags: []
+tags:
+- Agile Project Management
+- Products and Books
 
 ---
 **Kickstart 2024 with Our Unmissable Scrum Training Offer: Buy 1, Get 1 FREE!**

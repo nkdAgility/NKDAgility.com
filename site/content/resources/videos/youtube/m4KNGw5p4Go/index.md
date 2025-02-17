@@ -30,33 +30,33 @@ sitemap:
 tags:
 - Experimentation
 - Product Discovery
-- Product Management
-- Hypothesis Driven Development
 - Product Validation
+- Value Delivery
+- Hypothesis Driven Development
 - Pragmatic Thinking
 - Continuous Learning
-- Lean Product Development
 - Team Collaboration
+- Lean Product Development
+- Metrics and Learning
+- Organisational Agility
+- Evidence Based Management
+- Agile Product Management
 - Evidence Based Leadership
+- Business Agility
 - Ability to Innovate
-- Agile Philosophy
-- Operational Practices
-- Decision Making
+- Agile Product Operating Model
+- Practical Techniques and Tooling
 - Lean Principles
 - Lean Startup
+- Operational Practices
+- Decision Making
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
 - Discovery and Learning
 - People and Process
-- Value Delivery
-- Metrics and Learning
-- Evidence Based Management
-- Agile Product Management
-- Organisational Agility
-- Business Agility
-- Practical Techniques and Tooling
-- Agile Product Operating Model
+- Product Management
 
 ---
 In today’s fast-paced, ever-evolving market, understanding user needs and maximizing value are crucial for successful product development. The right approach can not only boost user satisfaction but also significantly improve your return on investment (ROI). This course is designed to equip you with the tools, techniques, and mindset needed to revolutionize your product development process.

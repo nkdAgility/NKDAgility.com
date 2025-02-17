@@ -21,7 +21,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
-tags: []
+tags:
+- Agile Transformation
+- Agile Values and Principles
+- Agile Philosophy
+- Business Agility
+- Agile Strategy
+- Change Management
+- Organisational Agility
+- Agile Leadership
+- Sociotechnical Systems
+- Organisational Culture
+- Team Motivation
+- Organisational Change
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,10 +43,6 @@ resourceTypes:
 - video
 categories:
 - People and Process
-- Organisational Agility
-- Business Agility
-- Sociotechnical Systems
-- Enterprise Agility
 - Social Technologies
 
 ---

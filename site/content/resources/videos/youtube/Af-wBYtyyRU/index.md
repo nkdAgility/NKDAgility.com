@@ -28,33 +28,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Management
+- Value Delivery
 - Throughput
+- Product Delivery
+- Metrics and Learning
+- Agile Product Management
 - Ability to Innovate
+- Agile Product Operating Model
 - Product Owner
 - Agile Project Management
 - Decision Making
+- Evidence Based Management
+- Pragmatic Thinking
 - Evidence Based Leadership
 - Empirical Process Control
 - Strategy
-- Pragmatic Thinking
 - Agile Strategy
+- Business Agility
+- Products and Books
 - Product Strategy
 - Scrum Product Development
 - Operational Practices
 resourceTypes:
 - video
 categories:
-- Value Delivery
-- Metrics and Learning
-- Agile Product Management
-- Product Delivery
-- Evidence Based Management
+- Product Management
 - People and Process
-- Agile Product Operating Model
 - Social Technologies
-- Business Agility
-- Products and Books
 
 ---
 As a product owner, you’re essentially the mini-CEO of your product. You make critical decisions about which features to build and when, driving the success of your product. But how do you know which bets will pay off? How do you make informed decisions that steer your product toward success? This is where Evidence-Based Management (EBM) comes into play. It's a framework that helps product owners use real data to guide their decision-making and ensure they’re delivering maximum value.

@@ -23,53 +23,19 @@ preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
 tags:
-- Continuous Delivery
-- Pragmatic Thinking
-- Operational Practices
-- Customer Feedback Loops
-- Lean Product Development
-- Ability to Innovate
-- Deployment Frequency
-- Product Validation
-- Continuous Learning
-- Lead Time
-- Decision Making
-- Product Strategy
-- Engineering Practices
-- Software Development
-- Continuous Integration
-- Product Management
-- Engineering Excellence
-- Agile Strategy
-- Agile Transformation
-- Organisational Physics
-- Agile Planning
-- Lean Startup
-- Agile Project Management
-- Agile Philosophy
-- Software Developers
-- Frequent Releases
-- Experimentation
-- Digital Transformation
-- Evidence Based Leadership
-- Release Management
-- Working Software
-- Throughput
-- Empirical Process Control
-- Strategy
-- Hypothesis Driven Development
-- Scrum Product Development
-- Deployment Strategies
-- Customer Retention
-- Lean Principles
-- Increment
+- Product Delivery
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- Product Delivery
+- DevOps
+- Discovery and Learning
+- Engineering Excellence
+- Product Management
+- People and Process
+- Technical Excellence
 
 ---
 In my journey through the world of software development, I've come to realise that deployment frequency is a crucial leading indicator of a company's ability to reduce time to market. It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.

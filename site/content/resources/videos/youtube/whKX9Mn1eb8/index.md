@@ -24,9 +24,9 @@ duration: 48
 isShort: true
 tags:
 - Software Development
-- Engineering Excellence
 - Engineering Practices
 - Technical Mastery
+- Value Delivery
 - Working Software
 sitemap:
   filename: sitemap.xml
@@ -34,7 +34,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Value Delivery
+- Engineering Excellence
 - Technical Excellence
 
 ---

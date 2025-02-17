@@ -30,6 +30,9 @@ sitemap:
 tags:
 - Strategy
 - Cycle Time
+- Metrics and Learning
+- Practical Techniques and Tooling
+- Flow Efficiency
 - Agile Frameworks
 - Operational Practices
 - Throughput
@@ -38,17 +41,14 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Evidence Based Leadership
+- Lean
 - Decision Making
 resourceTypes:
 - video
 categories:
 - Kanban
 - People and Process
-- Metrics and Learning
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Social Technologies
-- Lean
 
 ---
 ### Transitioning from Traditional Project Management to Kanban

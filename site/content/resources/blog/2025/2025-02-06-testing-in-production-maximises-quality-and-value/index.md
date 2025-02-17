@@ -25,23 +25,23 @@ aliasesFor404:
 tags:
 - Deployment Strategies
 - Software Development
+- Azure DevOps
+- Product Delivery
+- Value Delivery
 - Continuous Delivery
 - Technical Mastery
 - Frequent Releases
-- Engineering Excellence
 - Operational Practices
 - Software Developers
+- Practical Techniques and Tooling
 - Deployment Frequency
+- Market Adaptability
 - Pragmatic Thinking
 - Strategy
 categories:
 - DevOps
-- Azure DevOps
-- Value Delivery
-- Product Delivery
-- Practical Techniques and Tooling
 - Technical Excellence
-- Market Adaptability
+- Engineering Excellence
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 

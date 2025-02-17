@@ -21,6 +21,7 @@ preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
+- Products and Books
 - Continuous Learning
 sitemap:
   filename: sitemap.xml
@@ -30,7 +31,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Products and Books
 - Discovery and Learning
 - Personal
 - Miscellaneous

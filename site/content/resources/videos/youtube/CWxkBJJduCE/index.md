@@ -23,7 +23,6 @@ duration: 53
 isShort: true
 tags:
 - Software Development
-- Engineering Excellence
 - Engineering Practices
 - Technical Mastery
 - Software Developers
@@ -35,6 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Engineering Excellence
 - Technical Excellence
 - Code and Complexity
 

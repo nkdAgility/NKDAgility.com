@@ -27,13 +27,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Leadership
+- Evidence Based Management
 - Decision Making
+- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video
 categories:
-- Evidence Based Management
+- Product Management
+- People and Process
 
 ---
 ## **What is Evidence-Based Management?**

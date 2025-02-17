@@ -27,19 +27,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Change Management
-- Organisational Change
 - Continuous Learning
-- Product Management
-- Technical Leadership
 - Organisational Culture
-- Team Performance
+- Organisational Change
+- Change Management
+- Technical Leadership
 - Pragmatic Thinking
+- Organisational Agility
+- Team Performance
+- Sociotechnical Systems
 - Strategy
 - Agile Leadership
+- Value Delivery
 - Scrum Master
+- Resilience and Change
 - Agile Strategy
 - Organisational Physics
+- Business Agility
+- Enterprise Agility
 - Coaching
 resourceTypes:
 - video
@@ -47,14 +52,9 @@ layout: video
 categories:
 - People and Process
 - Leadership
-- Organisational Agility
-- Sociotechnical Systems
+- Product Management
 - Social Technologies
-- Value Delivery
-- Resilience and Change
 - Discovery and Learning
-- Business Agility
-- Enterprise Agility
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆

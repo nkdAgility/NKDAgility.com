@@ -24,7 +24,6 @@ duration: 362
 isShort: false
 tags:
 - Deployment Frequency
-- Engineering Excellence
 - Software Development
 resourceTypes:
 - video
@@ -32,19 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- Value Delivery
-- Product Delivery
-- DevOps
-- Code and Complexity
-- Practical Techniques and Tooling
-- Metrics and Learning
-- Technical Excellence
-- Flow Efficiency
-- Discovery and Learning
-- Application Lifecycle Management
-- Market Adaptability
-- Organisational Agility
-- Business Agility
+- Engineering Excellence
 
 ---
 When it comes to deploying code, I've often found that the frequency of our deployments can significantly impact the quality of our work and the overall health of our codebase. In my experience, when we don't deploy very frequently, we inadvertently invite a host of dysfunctional behaviours that can be easily avoided. 

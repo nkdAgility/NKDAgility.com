@@ -18,21 +18,21 @@ aliasesFor404:
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
 - Discovery and Learning
-- Agile Product Management
-- Products and Books
-- People and Process
 - Events and Presentations
+- Product Management
+- People and Process
 - Social Technologies
-- Practical Techniques and Tooling
-- Product Delivery
-- Value Delivery
 tags:
+- Products and Books
+- Agile Product Management
 - Product Discovery
 - Product Validation
-- Product Management
+- Practical Techniques and Tooling
+- Product Delivery
 - Customer Satisfaction
 - Product Owner
 - Experimentation
+- Value Delivery
 
 ---
 **Dear Innovators and Product Enthusiasts,**

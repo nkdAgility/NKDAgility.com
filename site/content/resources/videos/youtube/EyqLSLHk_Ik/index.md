@@ -23,33 +23,39 @@ duration: 423
 isShort: false
 tags:
 - Software Development
-- Engineering Excellence
 - Decision Making
-- Team Collaboration
-- Team Motivation
-- Continuous Learning
-- Pragmatic Thinking
-- Organisational Culture
-- Team Performance
+- Decision Theory
 - Software Developers
-- Technical Leadership
+- Organisational Culture
+- Product Delivery
+- Continuous Learning
+- Business Agility
+- Agile Product Management
+- Value Delivery
+- Sociotechnical Systems
+- Pragmatic Thinking
+- Team Motivation
+- Team Collaboration
+- Team Performance
 - Organisational Physics
-- Coaching
-- Agile Leadership
-- Agile Philosophy
+- Organisational Agility
 - Agile Strategy
+- Agile Philosophy
+- Agile Leadership
+- Technical Leadership
+- Coaching
 - Mentoring
 - Scrum Product Development
 - Agile Values and Principles
-- Scrum Team
-- Product Management
 - Cross Functional Teams
-- Agile Project Management
-- Agile Transformation
-- Agile Frameworks
-- Operational Practices
-- Employee Engagement
+- Scrum Team
+- Agile Product Operating Model
 - Self Organisation
+- Agile Transformation
+- Employee Engagement
+- Agile Project Management
+- Operational Practices
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

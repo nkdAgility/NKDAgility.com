@@ -22,10 +22,12 @@ preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Metrics and Learning
 - Operational Practices
 - Pragmatic Thinking
 - Transparency
 - Continuous Learning
+- Practical Techniques and Tooling
 - Lean Principles
 sitemap:
   filename: sitemap.xml
@@ -34,9 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
 - Kanban
-- Practical Techniques and Tooling
 - Discovery and Learning
 
 ---

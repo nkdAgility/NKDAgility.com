@@ -28,17 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Flow Efficiency
 - Lean Thinking
 - Operational Practices
-- Agile Frameworks
 - Throughput
-- Agile Project Management
 - Software Development
+- Agile Project Management
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Kanban
-- Flow Efficiency
 - Social Technologies
 
 ---

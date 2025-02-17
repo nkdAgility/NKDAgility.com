@@ -24,19 +24,24 @@ duration: 169
 isShort: false
 tags:
 - Technical Leadership
-- Agile Philosophy
-- Engineering Excellence
 - Software Developers
-- Engineering Practices
+- Product Delivery
+- Agile Philosophy
 - Agile Project Management
 - Software Development
+- Engineering Practices
+- Organisational Agility
+- Market Adaptability
 - Pragmatic Thinking
+- Value Delivery
+- Complexity Thinking
 - Agile Values and Principles
-- Working Software
-- Continuous Learning
-- Agile Transformation
 - Agile Strategy
 - Agile Planning
+- Continuous Learning
+- Agile Transformation
+- Working Software
+- Business Agility
 - Operational Practices
 sitemap:
   filename: sitemap.xml
@@ -44,14 +49,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Engineering Excellence
 - People and Process
-- Product Delivery
-- Complexity Thinking
-- Market Adaptability
-- Value Delivery
-- Organisational Agility
 - Social Technologies
-- Business Agility
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in software development.

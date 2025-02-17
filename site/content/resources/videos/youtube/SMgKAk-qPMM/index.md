@@ -30,9 +30,10 @@ sitemap:
 tags:
 - Agile Values and Principles
 - Agile Philosophy
+- Agile Product Management
+- Agile Project Management
 - Agile Transformation
 - Agile Frameworks
-- Agile Project Management
 - Software Development
 - Pragmatic Thinking
 - Agile Planning
@@ -40,7 +41,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - Social Technologies
 
 ---

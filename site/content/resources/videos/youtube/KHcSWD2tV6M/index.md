@@ -28,7 +28,9 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Social Technologies
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I believe is one of the seven signs of the Agile apocalypse: silence. This silence isn't just a lack of noise; it’s a deafening absence of communication that can have dire consequences for teams and organisations striving for agility.

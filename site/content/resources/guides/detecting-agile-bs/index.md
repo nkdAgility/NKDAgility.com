@@ -38,13 +38,9 @@ aliasesFor404:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
 categories:
-- Agile Product Management
-- Metrics and Learning
 - People and Process
-- Value Delivery
-- Practical Techniques and Tooling
-- Product Delivery
 - Social Technologies
+- Engineering Excellence
 - DevOps
 tags:
 - Software Development

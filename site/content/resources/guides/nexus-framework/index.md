@@ -38,18 +38,18 @@ card:
 categories:
 - Scrum
 - Social Technologies
-- Product Delivery
 tags:
 - Scaling Scrum
 - Scaled Agile
 - Scrum Product Development
+- Product Delivery
 - Large Scale Agility
 - Scrum Team
 - Professional Scrum
 - Software Development
 - Scaling Agility
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

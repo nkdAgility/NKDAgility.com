@@ -30,20 +30,20 @@ sitemap:
 tags:
 - Strategy
 - Operational Practices
+- Practical Techniques and Tooling
+- Flow Efficiency
 - Lean Thinking
-- Agile Frameworks
 - Throughput
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Pragmatic Thinking
+- Agile Frameworks
+- Lean
 resourceTypes:
 - video
 categories:
 - Kanban
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Social Technologies
-- Lean
 
 ---
 One of the most critical components of a successful **Kanban strategy** is setting **Work-In-Progress (WIP) limits**. Without WIP limits, you simply do not have a proper Kanban strategy. In this post, we'll explore the importance of WIP limits, how to determine the right limits for your team, and share some personal experiences and advice to help you optimize your workflow.

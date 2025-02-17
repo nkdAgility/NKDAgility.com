@@ -28,30 +28,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Operating Model
+- Product Validation
+- Product Delivery
 - Customer Feedback Loops
 - Product Owner
-- Product Management
-- Product Validation
-- Agile Philosophy
-- Customer Satisfaction
-- Agile Project Management
-- Agile Planning
+- Agile Product Management
+- Value Delivery
 - Pragmatic Thinking
+- Agile Project Management
+- Organisational Agility
+- Agile Planning
+- Customer Satisfaction
+- Agile Philosophy
+- Market Adaptability
+- Business Agility
+- Agile Values and Principles
 - Product Strategy
 - Scrum Product Development
-- Agile Values and Principles
 - Customer Retention
 resourceTypes:
 - video
 categories:
-- Value Delivery
-- Agile Product Management
-- Product Delivery
-- Agile Product Operating Model
 - Discovery and Learning
-- Market Adaptability
-- Organisational Agility
-- Business Agility
+- Product Management
 - People and Process
 
 ---

@@ -21,7 +21,12 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true
-tags: []
+tags:
+- Organisational Change
+- Organisational Psychology
+- Change Management
+- Employee Engagement
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,7 +35,6 @@ resourceTypes:
 - video
 categories:
 - People and Process
-- Organisational Psychology
 - Leadership
 
 ---

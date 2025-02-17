@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Metrics and Learning
+- Practical Techniques and Tooling
 - Operational Practices
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
 - Social Technologies
-- Practical Techniques and Tooling
 
 ---
 ### Understanding and Applying Kanban: The Professional Kanban Course

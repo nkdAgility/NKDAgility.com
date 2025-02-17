@@ -27,33 +27,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Management
 - Agile Values and Principles
+- Agile Product Management
+- Agile Product Operating Model
+- Product Delivery
+- Value Delivery
 - Agile Project Management
 - Cycle Time
-- Agile Philosophy
-- Lead Time
-- Agile Transformation
-- Agile Strategy
-- Agile Frameworks
 - Agile Planning
 - Pragmatic Thinking
-- Frequent Releases
+- Market Adaptability
+- Agile Transformation
+- Agile Philosophy
+- Lead Time
+- Agile Frameworks
+- Agile Strategy
 - Deployment Frequency
+- Frequent Releases
+- Organisational Agility
+- Business Agility
+- Flow Efficiency
 resourceTypes:
 - video
 layout: video
 categories:
-- Agile Product Management
+- Product Management
 - People and Process
-- Value Delivery
-- Product Delivery
-- Agile Product Operating Model
-- Market Adaptability
-- Organisational Agility
 - Social Technologies
-- Business Agility
-- Flow Efficiency
 
 ---
 Product management has always revolved around one fundamental goal: **maximizing business value**. However, with the advent of Agile methodologies, there’s been a significant shift in how this goal is achieved. While the core tools and techniques remain largely unchanged, the approach to their application has evolved, leading to a more dynamic and responsive process.

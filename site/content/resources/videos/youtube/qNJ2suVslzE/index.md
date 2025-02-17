@@ -23,38 +23,38 @@ preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 259
 isShort: false
 tags:
+- Agile Product Operating Model
 - Agile Values and Principles
-- Agile Project Management
-- Agile Planning
-- Software Development
-- Agile Transformation
-- Agile Philosophy
+- Agile Product Management
 - Software Developers
+- Market Adaptability
+- Agile Project Management
+- Software Development
+- Product Delivery
+- Agile Transformation
+- Value Delivery
+- Agile Philosophy
 - Agile Strategy
-- Product Management
 - Agile Frameworks
-- Strategy
+- Agile Planning
 - Pragmatic Thinking
+- Business Agility
+- Organisational Agility
+- Strategy
 - Lean Product Development
 - Working Software
+- Operational Practices
 - Product Owner
 - Empirical Process Control
-- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Agile Product Operating Model
-- Agile Product Management
-- Market Adaptability
+- Product Management
 - People and Process
-- Value Delivery
-- Product Delivery
-- Organisational Agility
 - Social Technologies
-- Business Agility
 
 ---
 If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance—the gap between your expectations and reality—exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.

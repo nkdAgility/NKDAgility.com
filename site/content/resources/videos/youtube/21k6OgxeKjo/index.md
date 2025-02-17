@@ -21,21 +21,24 @@ preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true
 tags:
+- Agile Product Management
 - Agile Project Management
-- Product Owner
-- Product Management
+- Agile Product Operating Model
 - Agile Values and Principles
+- Product Owner
+- Agile Transformation
 - Agile Philosophy
 - Agile Leadership
-- Agile Transformation
+- Product Delivery
 - Agile Frameworks
-- Team Motivation
-- Scrum Team
-- Team Performance
-- Employee Engagement
-- Software Development
 - Pragmatic Thinking
+- Employee Engagement
 - Team Collaboration
+- Organisational Agility
+- Team Performance
+- Scrum Team
+- Team Motivation
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
