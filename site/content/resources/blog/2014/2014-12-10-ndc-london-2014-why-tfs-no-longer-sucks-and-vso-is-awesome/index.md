@@ -29,11 +29,16 @@ tags:
 - Windows
 - Release Management
 - Product Owner
+- Install and Configuration
+- Azure DevOps
+- Product Delivery
+- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- Application Lifecycle Management
 - Software Developers
-- Pragmatic Thinking
 - Continuous Delivery
+- Pragmatic Thinking
 categories:
 - Events and Presentations
 preview: nakedalm-experts-visual-studio-alm-3-3.png

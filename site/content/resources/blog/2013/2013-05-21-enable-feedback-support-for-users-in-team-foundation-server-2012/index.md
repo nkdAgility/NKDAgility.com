@@ -22,13 +22,13 @@ aliasesFor404:
 - /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 - /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 tags:
-- Software Development
-- System Configuration
-categories:
-- Install and Configuration
 - Application Lifecycle Management
 - Practical Techniques and Tooling
+- Install and Configuration
+- System Configuration
 - Azure DevOps
+- Software Development
+categories: []
 
 ---
 The focus of this article is to show you how to easily enable feedback support for users in Team Foundation Server 2012 with a few simple permissions. This works great with Team Foundation Server and even better with Team Foundation Service.

@@ -24,24 +24,25 @@ aliasesFor404:
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
 - Throughput
-- Agile Project Management
-- Team Performance
-- Decision Making
-- Pragmatic Thinking
-- Evidence Based Leadership
-- Software Development
-- Operational Practices
-- Product Management
-- Agile Planning
-- Estimation
-categories:
 - Agile Product Management
 - Metrics and Learning
 - Value Delivery
+- Agile Project Management
+- Team Performance
 - Flow Efficiency
-- People and Process
+- Decision Making
+- Evidence Based Leadership
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- Agile Planning
 - Practical Techniques and Tooling
 - Evidence Based Management
+- Estimation
+categories:
+- Social Technologies
+- Product Management
+- People and Process
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

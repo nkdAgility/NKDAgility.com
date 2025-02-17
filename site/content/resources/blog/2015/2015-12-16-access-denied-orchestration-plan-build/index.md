@@ -28,11 +28,8 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- DevOps
-- Azure DevOps
 - Technical Excellence
+- DevOps
 preview: clip_image004-4-4.png
 
 ---

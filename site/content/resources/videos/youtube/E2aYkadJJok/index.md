@@ -22,11 +22,13 @@ preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
+- Practical Techniques and Tooling
 - Lean Thinking
 - Operational Practices
 - Throughput
 - Agile Project Management
 - Pragmatic Thinking
+- Flow Efficiency
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -36,9 +38,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Practical Techniques and Tooling
 - Social Technologies
-- Flow Efficiency
 
 ---
 When it comes to visualising work in a Kanban system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.

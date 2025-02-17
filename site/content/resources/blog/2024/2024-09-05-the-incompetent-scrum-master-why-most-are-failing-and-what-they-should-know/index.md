@@ -31,8 +31,8 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Scrum Team
-- Agile Frameworks
 - Scrum Master
+- Agile Frameworks
 - Professional Scrum
 - Team Performance
 - Software Development

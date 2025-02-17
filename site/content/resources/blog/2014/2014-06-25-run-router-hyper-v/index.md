@@ -27,13 +27,14 @@ aliasesFor404:
 - /resources/blog/run-router-hyper-v
 tags:
 - Windows
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Install and Configuration
+- System Configuration
 - Technical Mastery
 - Troubleshooting
-- System Configuration
+- Pragmatic Thinking
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Technical Excellence
 preview: naked-alm-hyper-v-17-17.png
 
 ---

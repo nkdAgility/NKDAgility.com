@@ -25,8 +25,6 @@ tags:
 - Windows
 - Technical Mastery
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Technical Excellence
 preview: image11-1-1.png
 

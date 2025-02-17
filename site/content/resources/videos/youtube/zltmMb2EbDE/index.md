@@ -30,19 +30,19 @@ sitemap:
 tags:
 - Throughput
 - Strategy
+- Metrics and Learning
+- Practical Techniques and Tooling
+- Flow Efficiency
 - Software Development
 - Cycle Time
 - Operational Practices
-- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Kanban
-- Metrics and Learning
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Social Technologies
 
 ---

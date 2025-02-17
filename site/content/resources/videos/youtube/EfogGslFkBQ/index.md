@@ -28,9 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Estimation
 - Throughput
+- Estimation
+- Metrics and Learning
+- Agile Product Management
 - Software Developers
+- Flow Efficiency
 - Agile Project Management
 - Cycle Time
 - Software Development
@@ -38,10 +41,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
 - People and Process
-- Agile Product Management
-- Flow Efficiency
 - Social Technologies
 
 ---

@@ -28,19 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Engineering Excellence
 - Software Development
 resourceTypes:
 - video
 categories:
-- Azure DevOps
-- Value Delivery
-- Agile Product Management
-- Product Delivery
-- Technical Excellence
-- Code and Complexity
-- Social Technologies
-- Scrum
+- Engineering Excellence
 
 ---
 In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As Scrum and Agile practitioners, we often discuss the importance of technical excellence, but it's more than just a concept—it's the cornerstone of risk mitigation and successful product delivery. Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.

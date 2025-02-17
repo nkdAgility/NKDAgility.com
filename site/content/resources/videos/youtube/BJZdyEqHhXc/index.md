@@ -22,13 +22,18 @@ preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: false
 tags:
+- Resilience and Change
 - Change Management
+- Organisational Agility
 - Organisational Change
+- Sociotechnical Systems
 - Decision Making
 - Sensemaking
 - Pragmatic Thinking
-- Organisational Physics
+- Business Agility
+- Enterprise Agility
 - Coaching
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,12 +42,7 @@ resourceTypes:
 - video
 categories:
 - People and Process
-- Resilience and Change
-- Organisational Agility
 - Leadership
-- Sociotechnical Systems
-- Business Agility
-- Enterprise Agility
 - Discovery and Learning
 - Miscellaneous
 

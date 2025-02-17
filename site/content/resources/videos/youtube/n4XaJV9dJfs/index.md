@@ -28,7 +28,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- People and Process
+- Social Technologies
 
 ---
 In my journey through the world of Agile and Scrum, one of the most enlightening experiences has been teaching the Agile Product Strategy (APS) class to beginner Scrum teams. The most valuable takeaway for these teams is undoubtedly the grounding in understanding complexity and empiricism. Today, I want to share my insights on why these concepts are crucial and how they can transform your approach to Scrum.

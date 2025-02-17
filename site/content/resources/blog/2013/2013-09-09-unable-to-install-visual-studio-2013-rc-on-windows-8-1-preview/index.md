@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 tags:
 - Windows
-- Troubleshooting
-categories:
 - Install and Configuration
+- Troubleshooting
+categories: []
 
 ---
 When you try to install Visual Studio 2013 RC (or Visual Studio 2013 RC Team Foundation Server) you get the message “Error: This version of Team Foundation Server is not compatible with Windows 8.1 Preview”

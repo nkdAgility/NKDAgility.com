@@ -25,14 +25,9 @@ tags:
 - Self Organisation
 categories:
 - People and Process
-- Organisational Agility
-- Complexity Thinking
-- Organisational Psychology
-- Business Agility
-- Beta Codex
-- Sociotechnical Systems
+- Leadership
+- Social Technologies
 - Scrum
-- Agile Product Management
 - Discovery and Learning
 - Personal
 preview: nakedalm-experts-professional-scrum-1-1.png

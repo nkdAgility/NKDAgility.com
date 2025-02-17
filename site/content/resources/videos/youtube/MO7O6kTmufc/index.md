@@ -22,10 +22,11 @@ preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
+- Metrics and Learning
+- Evidence Based Management
 - Evidence Based Leadership
 - Decision Making
 - Pragmatic Thinking
-- Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,8 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
-- Evidence Based Management
+- Product Management
 
 ---
 When embarking on any journey, whether it’s a personal project or a large-scale organisational change, clarity of outcomes is paramount. I’ve often found that once you’ve defined what success looks like, the next crucial step is determining the metrics that will guide you towards those outcomes. This is where the concept of evidence-based management comes into play, and it’s something I’ve seen make a significant difference in various contexts.

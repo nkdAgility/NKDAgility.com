@@ -23,9 +23,11 @@ preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
 tags:
+- Product Delivery
 - Decision Making
-- Engineering Excellence
+- Complexity Thinking
 - Pragmatic Thinking
+- Sociotechnical Systems
 resourceTypes:
 - video
 sitemap:
@@ -33,9 +35,7 @@ sitemap:
   priority: 0.6
 categories:
 - People and Process
-- Product Delivery
-- Complexity Thinking
-- Sociotechnical Systems
+- Engineering Excellence
 
 ---
 One of the questions I often encounter as a delivery manager is how to balance speed and stability, especially when we're under pressure from tight deadlines. However, I would argue that there's a fundamental issue with the premise of this question: why are we under such tight deadlines in the first place? More often than not, these deadlines exist because stakeholders lack confidence in our ability to meet them. This is the absurdity of deadlines.

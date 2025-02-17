@@ -29,39 +29,39 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Leadership
-- Product Management
+- Evidence Based Management
+- Agile Product Operating Model
 - Decision Making
-- Product Strategy
-- Change Management
+- Agile Product Management
+- Value Delivery
+- Decision Theory
 - Agile Leadership
-- Product Owner
 - Strategic Goals
-- Pragmatic Thinking
-- Sensemaking
+- Change Management
+- Product Owner
+- Product Strategy
+- Business Agility
 - Organisational Culture
+- Agile Philosophy
+- Strategy
 - Organisational Physics
 - Team Motivation
-- Strategy
+- Sensemaking
 - Organisational Change
-- Agile Philosophy
+- Organisational Agility
+- Complexity Thinking
+- Enterprise Agility
+- Sociotechnical Systems
 - Agile Strategy
+- Pragmatic Thinking
 - Ability to Innovate
+- Organisational Psychology
 resourceTypes:
 - video
 categories:
 - People and Process
 - Leadership
-- Evidence Based Management
-- Value Delivery
-- Agile Product Management
-- Agile Product Operating Model
-- Decision Theory
-- Business Agility
-- Complexity Thinking
-- Sociotechnical Systems
-- Organisational Agility
-- Enterprise Agility
-- Organisational Psychology
+- Product Management
 - Personal
 
 ---

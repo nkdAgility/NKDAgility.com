@@ -34,11 +34,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Agile Product Management
-- Metrics and Learning
+- Product Management
 - People and Process
-- Product Delivery
-- Organisational Agility
 - Social Technologies
 
 ---

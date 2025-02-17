@@ -41,21 +41,11 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Metrics and Learning
-- Evidence Based Management
-- Market Adaptability
-- News and Reviews
-- Value Delivery
-- Agile Product Management
-- Organisational Agility
-- Business Agility
-- Practical Techniques and Tooling
-- Product Delivery
-- Enterprise Agility
-- Agile Product Operating Model
 - Discovery and Learning
+- News and Reviews
+- Engineering Excellence
 - Technical Excellence
-- Flow Efficiency
+- Product Management
 
 ---
  The Need for Speed: Why High Deployment Frequencies Matter in a Changing Market

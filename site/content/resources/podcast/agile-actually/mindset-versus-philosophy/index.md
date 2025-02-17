@@ -6,7 +6,10 @@ ResourceImport: false
 ResourceType: podcast
 date: 2024-02-22
 categories:
-- Transparency and Accountability
+- Scrum
+- News and Reviews
+- People and Process
+- Social Technologies
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -15,6 +18,7 @@ aliases:
 - /resources/G2XUaCtiq8w
 tags:
 - Transparency
+- Transparency and Accountability
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

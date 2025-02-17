@@ -26,9 +26,6 @@ card:
   title: Manifesto for Agile Software Development
 categories:
 - People and Process
-- Value Delivery
-- Product Delivery
-- Organisational Agility
 - Social Technologies
 tags:
 - Agile Values and Principles

@@ -22,15 +22,16 @@ aliasesFor404:
 - /blog/bruce-lee-on-scrum-and-agile
 - /resources/blog/bruce-lee-on-scrum-and-agile
 tags:
-- Agile Values and Principles
 - Agile Philosophy
-- Agile Frameworks
-- Agile Transformation
+- Agile Values and Principles
 - Agile Project Management
+- Agile Transformation
+- Agile Frameworks
+- Organisational Agility
 - Pragmatic Thinking
 categories:
 - People and Process
-- Organisational Agility
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

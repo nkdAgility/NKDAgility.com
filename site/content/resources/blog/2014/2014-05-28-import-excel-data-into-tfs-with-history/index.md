@@ -22,13 +22,15 @@ aliasesFor404:
 - /blog/import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Install and Configuration
 - Technical Mastery
+- Azure DevOps
+- Pragmatic Thinking
 - Software Development
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- Code and Complexity
+- Technical Excellence
 preview: metro-office-128-link-3-3.png
 
 ---

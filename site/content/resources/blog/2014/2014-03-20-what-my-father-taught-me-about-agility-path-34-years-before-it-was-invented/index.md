@@ -26,26 +26,13 @@ aliasesFor404:
 - /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 - /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 tags:
-- Decision Making
-- Evidence Based Leadership
-- Lead Time
-- Product Management
-- Change Management
-- Software Development
-- Customer Satisfaction
-- Ability to Innovate
-- Operational Practices
-- Empirical Process Control
-- Agile Project Management
-- Sensemaking
-- Strategy
-- Agile Strategy
-- Pragmatic Thinking
-- Agile Transformation
-- Organisational Change
-- Product Validation
-categories:
 - Evidence Based Management
+categories:
+- People and Process
+- Product Management
+- Discovery and Learning
+- Social Technologies
+- Personal
 preview: nakedalm-agility-index-7-7.png
 
 ---

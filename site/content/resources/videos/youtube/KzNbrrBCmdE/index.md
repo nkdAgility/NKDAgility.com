@@ -31,13 +31,7 @@ resourceTypes:
 - video
 categories:
 - People and Process
-- Resilience and Change
-- Market Adaptability
 - Miscellaneous
-- Organisational Agility
-- Decision Theory
-- Business Agility
-- Enterprise Agility
 
 ---
 In my journey through the world of agile methodologies, I've often found myself reflecting on the delicate balance between flexibility and inflexibility. It’s a topic that resonates deeply with me, especially when I consider the myriad of projects and teams I've worked with over the years. 

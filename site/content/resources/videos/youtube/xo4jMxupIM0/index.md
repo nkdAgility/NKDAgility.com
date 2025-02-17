@@ -28,7 +28,12 @@ resourceTypes:
 slug: what-makes-the-psm-immersive-learning-experience-so-unique
 layout: video
 tags: []
-categories: []
+categories:
+- Scrum
+- People and Process
+- Discovery and Learning
+- Events and Presentations
+- Social Technologies
 
 ---
 In my journey as a Scrum Master, I've often found that the most profound learning experiences come not just from theory, but from the practical application of that theory in real-world scenarios. This is precisely what the Professional Scrum Master (PSM) immersive learning experience offers—a unique opportunity for double-loop learning. 

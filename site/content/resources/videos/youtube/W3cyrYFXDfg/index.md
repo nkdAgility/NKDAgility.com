@@ -29,27 +29,27 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
+- Metrics and Learning
 - Evidence Based Leadership
+- Organisational Agility
 - Decision Making
 - Agile Strategy
 - Agile Project Management
-- Agile Transformation
+- Evidence Based Management
 - Technical Leadership
-- Organisational Change
-- Operational Practices
-- Strategy
+- Business Agility
+- Agile Transformation
+- Enterprise Agility
 - Pragmatic Thinking
+- Operational Practices
+- Sociotechnical Systems
+- Strategy
+- Organisational Change
 resourceTypes:
 - video
 categories:
 - Leadership
-- Metrics and Learning
 - People and Process
-- Organisational Agility
-- Evidence Based Management
-- Business Agility
-- Enterprise Agility
-- Sociotechnical Systems
 
 ---
 In today's fast-paced business world, managers are expected to not only manage but also lead. This shift can be daunting, especially when there’s little to no training or guidance provided. Most managers are left to figure out how to become leaders on their own. While some exceptional individuals thrive in this environment, many would benefit from a bit of help. That’s where agile leadership training comes into play.

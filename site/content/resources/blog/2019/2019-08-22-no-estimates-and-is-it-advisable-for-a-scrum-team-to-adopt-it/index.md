@@ -28,32 +28,33 @@ aliasesFor404:
 tags:
 - Estimation
 - Throughput
+- Metrics and Learning
+- Cycle Time
+- Scrum Team
 - Scrum Product Development
 - Software Development
-- Scrum Team
 - Agile Planning
-- Cycle Time
 - Team Performance
-- Agile Frameworks
+- Pragmatic Thinking
 - Agile Transformation
 - Agile Project Management
+- Flow Efficiency
+- Agile Frameworks
 - Software Developers
-- Pragmatic Thinking
+- Agile Product Management
 - Operational Practices
 - Continuous Learning
 - Working Software
 - Professional Scrum
 - Empirical Process Control
-- Team Collaboration
 - Scrum Master
+- Team Collaboration
+- Product Delivery
 categories:
 - Scrum
-- Metrics and Learning
 - People and Process
-- Agile Product Management
-- Flow Efficiency
 - Events and Presentations
-- Product Delivery
+- Social Technologies
 preview: iStock-847664136-1-1.jpg
 
 ---

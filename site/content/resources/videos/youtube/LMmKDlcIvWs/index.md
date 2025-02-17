@@ -29,10 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
+- Metrics and Learning
+- Practical Techniques and Tooling
+- Flow Efficiency
 - Lean Thinking
 - Operational Practices
-- Agile Frameworks
+- Lean
 - Pragmatic Thinking
+- Agile Frameworks
 - Lean Principles
 - Continuous Learning
 - Software Development
@@ -40,11 +44,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Metrics and Learning
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Social Technologies
-- Lean
 
 ---
 ### Demystifying Kanban: A Strategy for Continuous Improvement

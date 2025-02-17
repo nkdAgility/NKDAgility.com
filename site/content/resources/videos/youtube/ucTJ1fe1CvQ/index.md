@@ -32,9 +32,13 @@ tags:
 - Product Discovery
 - Product Validation
 - Continuous Learning
-- Product Management
 - Hypothesis Driven Development
 - Pragmatic Thinking
+- Products and Books
+- Product Delivery
+- Agile Product Management
+- Complexity Thinking
+- Value Delivery
 - Decision Making
 - Sensemaking
 - Lean Startup
@@ -43,11 +47,7 @@ resourceTypes:
 categories:
 - Discovery and Learning
 - People and Process
-- Products and Books
-- Agile Product Management
-- Product Delivery
-- Complexity Thinking
-- Value Delivery
+- Product Management
 
 ---
 ## **Why the PPDV Course Was Created**

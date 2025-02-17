@@ -23,13 +23,41 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
-- Engineering Excellence
+- Continuous Delivery
+- Practical Techniques and Tooling
+- Pragmatic Thinking
+- Operational Practices
+- AI and Automation in Agility
+- Technical Debt
+- Test Automation
+- Automated Testing
+- Cycle Time
+- Azure DevOps
+- Software Developers
+- Metrics and Learning
+- Technical Mastery
+- Continuous Learning
+- Product Delivery
+- Working Software
+- Deployment Frequency
+- Platform Engineering
+- Continuous Integration
+- Engineering Practices
+- Digital Transformation
+- Throughput
+- Flow Efficiency
+- Frequent Releases
+- Value Delivery
+- Software Development
+- Azure Pipelines
+- Market Adaptability
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
+- Engineering Excellence
 - DevOps
 
 ---

@@ -25,11 +25,15 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Working Software
+- Product Delivery
 - Software Developers
 - Engineering Practices
 - Continuous Delivery
-- Engineering Excellence
+- Resilience and Change
+- Complexity Thinking
+- Value Delivery
 - Operational Practices
+- Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
 - Frequent Releases

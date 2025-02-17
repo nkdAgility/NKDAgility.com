@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Engineering Excellence
+- Technical Excellence
 preview: lazy1-5-5.jpg
 
 ---

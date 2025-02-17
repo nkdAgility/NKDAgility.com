@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Engineering Excellence
 - Continuous Delivery
 - Continuous Integration
 - Software Development
@@ -33,13 +32,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- DevOps
-- Product Delivery
-- Value Delivery
-- Practical Techniques and Tooling
-- Technical Excellence
-- Application Lifecycle Management
-- Azure DevOps
+- Engineering Excellence
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

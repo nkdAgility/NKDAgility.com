@@ -28,22 +28,22 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Engineering Excellence
+- People and Process
+- Systems Thinking
+tags:
 - Metrics and Learning
 - Value Delivery
-- People and Process
-- Business Agility
-- Value Stream Management
-- Evidence Based Management
-- Systems Thinking
-- Sociotechnical Systems
-tags:
-- Engineering Excellence
 - Operational Practices
 - Transparency
 - Technical Leadership
 - Evidence Based Leadership
+- Business Agility
 - Decision Making
+- Value Stream Management
 - Agile Strategy
+- Sociotechnical Systems
+- Evidence Based Management
 - Organisational Physics
 - Pragmatic Thinking
 

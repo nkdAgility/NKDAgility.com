@@ -29,47 +29,47 @@ sitemap:
   priority: 0.6
 tags:
 - Increment
-- Agile Values and Principles
-- Working Software
+- Agile Product Operating Model
 - Agile Leadership
-- Agile Planning
-- Software Development
+- Working Software
+- Product Delivery
+- Agile Values and Principles
+- Business Agility
+- Agile Product Management
 - Decision Making
-- Organisational Culture
-- Agile Project Management
-- Team Performance
-- Agile Frameworks
+- Software Development
+- Organisational Agility
 - Software Developers
-- Operational Practices
+- Agile Project Management
 - Agile Transformation
-- Product Management
-- Empirical Process Control
-- Continuous Learning
-- Organisational Change
-- Change Management
-- Agile Strategy
+- Enterprise Agility
+- Organisational Culture
+- Team Performance
 - Agile Philosophy
-- Pragmatic Thinking
-- Frequent Releases
+- Change Management
+- Organisational Change
+- Agile Strategy
+- Operational Practices
+- Agile Frameworks
+- Continuous Learning
+- Value Delivery
+- Empirical Process Control
+- Agile Planning
 - Deployment Frequency
 - Strategy
+- Pragmatic Thinking
+- Frequent Releases
 - Continuous Delivery
+- Metrics and Learning
+- Market Adaptability
 resourceTypes:
 - video
 categories:
 - People and Process
-- Agile Product Management
-- Business Agility
-- Product Delivery
-- Agile Product Operating Model
-- Value Delivery
-- Organisational Agility
-- News and Reviews
-- Enterprise Agility
 - Discovery and Learning
+- Product Management
+- News and Reviews
 - Social Technologies
-- Metrics and Learning
-- Market Adaptability
 
 ---
 The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.

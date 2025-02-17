@@ -28,14 +28,15 @@ aliasesFor404:
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-sharepoint-edition
 tags:
-- Pragmatic Thinking
+- Install and Configuration
+- Practical Techniques and Tooling
+- System Configuration
 - Technical Mastery
 - Troubleshooting
 - Software Development
-- System Configuration
+- Pragmatic Thinking
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-sharepoint-128-link-2-2.png
 
 ---

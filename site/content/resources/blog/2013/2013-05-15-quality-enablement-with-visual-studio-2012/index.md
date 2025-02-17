@@ -24,9 +24,13 @@ aliasesFor404:
 tags:
 - Working Software
 - Software Development
+- Application Lifecycle Management
 - Engineering Practices
 categories:
-- Application Lifecycle Management
+- Engineering Excellence
+- Technical Excellence
+- DevOps
+- Product Management
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 
 ---

@@ -33,8 +33,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- People and Process
 - Discovery and Learning
+- People and Process
 - Personal
 - Social Technologies
 

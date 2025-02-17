@@ -26,9 +26,9 @@ aliasesFor404:
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
 tags:
-- Software Development
-categories:
 - Products and Books
+categories:
+- News and Reviews
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

@@ -23,10 +23,12 @@ preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 201
 isShort: false
 tags:
-- Estimation
 - Forecasting
+- Estimation
 - Software Development
+- Product Delivery
 - Decision Making
+- Decision Theory
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
@@ -34,8 +36,12 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Decision Theory
-- Product Delivery
+- People and Process
+- Discovery and Learning
+- Scrum
+- Engineering Excellence
+- Product Management
+- Social Technologies
 
 ---
 One of the most significant challenges I encounter in the realm of software projects is the perennial struggle with estimation. It’s a topic that seems to generate endless debate and confusion. Many organisations feel compelled to engage in some form of estimation, whether that’s through absolute estimation—which often leads to errors—or by employing relative estimation tools. The reality, however, is that we often feel we need these estimates to chart our course forward. But do we really?

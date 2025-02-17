@@ -22,16 +22,16 @@ aliasesFor404:
 - /blog/mask-password-in-jenkins-when-calling-tee
 - /resources/blog/mask-password-in-jenkins-when-calling-tee
 tags:
+- Install and Configuration
 - System Configuration
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Technical Mastery
 - Troubleshooting
+- Operational Practices
 - Software Development
 - Continuous Integration
-- Operational Practices
+- Pragmatic Thinking
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
 - DevOps
 preview: naked-alm-jenkins-logo-7-7.png
 

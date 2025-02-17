@@ -22,20 +22,26 @@ aliasesFor404:
 - /blog/alm-events-and-public-courses-in-2015-q2
 - /resources/blog/alm-events-and-public-courses-in-2015-q2
 tags:
+- Application Lifecycle Management
 - Professional Scrum
+- Install and Configuration
 - Continuous Delivery
+- Product Delivery
+- System Configuration
+- Azure DevOps
+- Products and Books
 - Continuous Learning
 - Scrum Master
+- Practical Techniques and Tooling
 - Release Management
-- System Configuration
-- Agile Frameworks
-- Agile Project Management
-- Software Developers
 - Frequent Releases
+- Software Developers
 - Pragmatic Thinking
+- Agile Project Management
 - Software Development
-- Operational Practices
 - Remote Working
+- Operational Practices
+- Agile Frameworks
 categories:
 - Events and Presentations
 - News and Reviews

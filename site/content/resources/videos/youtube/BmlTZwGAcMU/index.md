@@ -29,15 +29,16 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
+- Value Delivery
 - Agile Values and Principles
-- Agile Philosophy
-- Agile Transformation
-- Agile Frameworks
-- Agile Project Management
-- Software Development
 - Mentoring
-- Pragmatic Thinking
+- Agile Philosophy
+- Software Development
+- Agile Project Management
 - Coaching
+- Agile Transformation
+- Pragmatic Thinking
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

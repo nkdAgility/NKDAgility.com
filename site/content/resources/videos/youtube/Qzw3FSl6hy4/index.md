@@ -33,10 +33,8 @@ resourceTypes:
 - video
 categories:
 - Discovery and Learning
+- Product Management
 - People and Process
-- Agile Product Operating Model
-- Agile Product Management
-- Value Delivery
 - Social Technologies
 
 ---

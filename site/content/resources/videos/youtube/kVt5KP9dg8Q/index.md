@@ -28,29 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Delivery
 - Agile Philosophy
-- Operational Practices
+- Business Agility
+- Value Delivery
 - Agile Strategy
+- Operational Practices
 - Software Developers
 - Software Development
 - Pragmatic Thinking
-- Engineering Excellence
+- Organisational Agility
 - Working Software
 - Agile Project Management
 - Agile Transformation
+- Sociotechnical Systems
 - Agile Frameworks
 - Continuous Delivery
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
 - People and Process
-- Value Delivery
-- Business Agility
-- Product Delivery
-- Organisational Agility
 - Social Technologies
-- Sociotechnical Systems
-- Enterprise Agility
+- Engineering Excellence
 
 ---
 In the realm of Agile, there's a common trap that many organizations fall into: the belief that implementing Agile development practices is enough to achieve true agility. However, as the Department of Defense's "Detecting Agile BS" guide reveals, Agile development alone isn't sufficient if the rest of the system operates in a traditional, bureaucratic manner. This blog post delves into the insights provided by the guide, exploring why a fully Agile ecosystem is essential and offering practical advice for organizations striving to eliminate Agile BS.

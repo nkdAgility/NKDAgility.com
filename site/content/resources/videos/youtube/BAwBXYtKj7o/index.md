@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Engineering Excellence
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -31,13 +30,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Technical Excellence
-- DevOps
-- Code and Complexity
-- Azure DevOps
-- Practical Techniques and Tooling
-- Value Delivery
-- Product Delivery
+- Engineering Excellence
 
 ---
 # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  

@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Install and Configuration
+- Personal
 preview: metro-problem-icon-4-4.png
 
 ---

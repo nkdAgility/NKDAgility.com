@@ -30,17 +30,20 @@ sitemap:
 tags:
 - Agile Leadership
 - Agile Project Management
-- Agile Philosophy
 - Professional Scrum
+- Agile Philosophy
 - Continuous Learning
 - Scrum Master
-- Organisational Change
+- Sociotechnical Systems
 - Agile Transformation
-- Agile Strategy
+- Organisational Change
+- Organisational Agility
+- Enterprise Agility
 - Software Developers
-- Technical Leadership
-- Agile Frameworks
+- Agile Strategy
 - Software Development
+- Agile Frameworks
+- Technical Leadership
 - Organisational Culture
 - Organisational Physics
 - Pragmatic Thinking

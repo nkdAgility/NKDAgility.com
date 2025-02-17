@@ -26,23 +26,23 @@ aliasesFor404:
 - /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
-- Release Management
+- Install and Configuration
 - System Configuration
+- Release Management
+- Products and Books
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 - Agile Planning Tools
+- Azure DevOps
 - Frequent Releases
-- Modern Source Control
+- Product Delivery
 - Software Development
+- Modern Source Control
 - Working Software
 - Pragmatic Thinking
 categories:
-- Install and Configuration
 - News and Reviews
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- Products and Books
-- Azure DevOps
 - Technical Excellence
-- Product Delivery
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

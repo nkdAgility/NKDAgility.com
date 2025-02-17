@@ -28,21 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Metrics and Learning
 - Agile Project Management
 - Agile Philosophy
+- Organisational Agility
 - Psychological Safety
 - Software Development
 - Pragmatic Thinking
+- Agile Product Management
+- Transparency and Accountability
 - Software Developers
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
 - People and Process
-- Organisational Agility
 - Social Technologies
-- Transparency and Accountability
-- Agile Product Management
 
 ---
 In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced psychological safety, and, ultimately, a focus on outputs rather than outcomes.

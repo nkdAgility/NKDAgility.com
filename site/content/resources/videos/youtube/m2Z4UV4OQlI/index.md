@@ -30,39 +30,39 @@ sitemap:
 tags:
 - Transparency
 - Evidence Based Leadership
-- Pragmatic Thinking
+- Metrics and Learning
 - Empirical Process Control
-- Product Management
+- Pragmatic Thinking
+- Transparency and Accountability
 - Ability to Innovate
-- Organisational Physics
-- Decision Making
+- Evidence Based Management
 - Agile Strategy
 - Strategy
+- Organisational Physics
+- Organisational Agility
+- Decision Making
 - Agile Leadership
-- Technical Leadership
+- Products and Books
 - Trend Analysis
+- Technical Leadership
+- Business Agility
 - Organisational Change
-- Operational Practices
-- Sensemaking
-- Agile Project Management
+- Sociotechnical Systems
 - Organisational Culture
+- Agile Project Management
+- Sensemaking
 - Strategic Goals
+- Operational Practices
+- Value Delivery
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
 - Leadership
-- Metrics and Learning
 - People and Process
-- Evidence Based Management
-- Transparency and Accountability
 - Discovery and Learning
-- Organisational Agility
+- Product Management
 - Social Technologies
-- Business Agility
-- Products and Books
-- Value Delivery
-- Sociotechnical Systems
-- Enterprise Agility
 
 ---
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.

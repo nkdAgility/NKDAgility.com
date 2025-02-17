@@ -28,12 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
 - Mentoring
+- Coaching
 resourceTypes:
 - video
 categories:
-- Lean
 - People and Process
 
 ---

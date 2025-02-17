@@ -22,15 +22,15 @@ aliasesFor404:
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
-- Software Development
-- Technical Mastery
-- Continuous Integration
-- Azure Pipelines
-- Operational Practices
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
+- Azure Pipelines
+- Technical Mastery
 - Azure DevOps
+- Operational Practices
+- Continuous Integration
+categories:
 - Technical Excellence
 
 ---

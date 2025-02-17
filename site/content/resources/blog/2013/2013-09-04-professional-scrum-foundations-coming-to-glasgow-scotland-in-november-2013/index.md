@@ -30,12 +30,13 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 tags:
-- Scrum Product Development
 - Professional Scrum
 - Software Development
-- Agile Frameworks
-- Agile Transformation
+- Scrum Product Development
+- Products and Books
 - Agile Project Management
+- Agile Transformation
+- Agile Frameworks
 - Software Developers
 - Organisational Change
 - Working Software
@@ -43,7 +44,7 @@ categories:
 - Scrum
 - People and Process
 - Events and Presentations
-- Products and Books
+- Social Technologies
 preview: PSF_Badges-2-2.png
 
 ---

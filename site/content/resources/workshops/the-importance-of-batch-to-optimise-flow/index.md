@@ -24,25 +24,25 @@ card:
   title: The Importance of Batch to Optimise Flow
 categories:
 - People and Process
-- Value Delivery
-- Practical Techniques and Tooling
 - Events and Presentations
-- Flow Efficiency
 - Social Technologies
-- Lean
-- Product Delivery
 tags:
+- Value Delivery
 - Team Performance
+- Practical Techniques and Tooling
+- Flow Efficiency
 - Scrum Product Development
 - Lean Thinking
-- Lean Product Development
+- Product Delivery
 - Operational Practices
-- Agile Frameworks
+- Lean
 - Throughput
-- Agile Project Management
+- Lean Product Development
 - Software Development
 - Lean Principles
+- Agile Project Management
 - Pragmatic Thinking
+- Agile Frameworks
 
 ---
 ## Duration

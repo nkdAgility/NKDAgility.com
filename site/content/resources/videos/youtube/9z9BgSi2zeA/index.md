@@ -30,7 +30,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
 
 ---
 Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand Scrum or Agile frameworks—it's about their ability to deeply engage with both the technical teams and leadership. They must gain credibility in both arenas to effectively drive the transformation.

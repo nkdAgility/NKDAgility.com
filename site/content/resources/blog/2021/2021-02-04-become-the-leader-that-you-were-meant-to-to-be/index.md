@@ -27,13 +27,15 @@ tags:
 - Agile Leadership
 - Scrum Team
 - Agile Project Management
-- Team Motivation
-- Technical Leadership
-- Professional Scrum
-categories:
-- People and Process
-- Scrum
 - Products and Books
+- Professional Scrum
+- Technical Leadership
+- Team Motivation
+categories:
+- Leadership
+- People and Process
+- Social Technologies
+- Scrum
 preview: image-2-2.png
 
 ---

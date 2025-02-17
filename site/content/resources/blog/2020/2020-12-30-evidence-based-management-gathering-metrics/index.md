@@ -27,40 +27,13 @@ aliasesFor404:
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
-- Scrum Product Development
-- Revenue per Employee
-- Ability to Innovate
-- Working Software
-- Software Development
-- Empirical Process Control
-- Product Management
-- Agile Project Management
-- Customer Satisfaction
-- Operational Practices
-- Cycle Time
-- Agile Frameworks
-- Agile Strategy
-- Decision Making
-- Agile Transformation
-- Evidence Based Leadership
-- Throughput
-- Frequent Releases
-- Trend Analysis
-- Pragmatic Thinking
-- Strategy
-- Deployment Frequency
-- Scaling Scrum
-- Organisational Change
-- Scaling Agility
-- Release Management
-- Agile Planning
-- Software Developers
-- Professional Scrum
-- Team Performance
-- Engineering Excellence
-- Digital Transformation
-categories:
 - Evidence Based Management
+categories:
+- Scrum
+- People and Process
+- Product Management
+- Social Technologies
+- Engineering Excellence
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

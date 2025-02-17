@@ -42,11 +42,13 @@ tags:
 - Scrum Team
 - Scrum Product Development
 - Professional Scrum
+- Product Delivery
+- Agile Product Management
 - Agile Planning
 - Team Collaboration
-- Agile Frameworks
-- Agile Project Management
 - Software Development
+- Agile Project Management
+- Agile Frameworks
 - Team Performance
 - Agile Planning Tools
 
