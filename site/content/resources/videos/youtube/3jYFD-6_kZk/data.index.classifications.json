@@ -127,12 +127,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T11:32:08",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses the migration process to Azure DevOps, touching on issues related to software functionality and operational challenges. However, it primarily focuses on technical migration details rather than the broader principles of delivering working software.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -190,12 +190,12 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T11:32:18",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses aspects of Azure DevOps, including migration from TFS and identity management, which are relevant to Azure Repos. However, the primary focus is on data migration and operational challenges rather than specific functionalities or best practices of Azure Repos itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -343,12 +343,12 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T11:32:45",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses various technical challenges and best practices related to data migration in Azure DevOps, touching on aspects of software craftsmanship and the importance of following proper procedures to ensure successful outcomes. However, the primary focus is on migration issues rather than a broader discussion of engineering excellence principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -460,12 +460,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T11:33:10",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses the technical challenges and considerations involved in migrating data to Azure DevOps, which is relevant to software developers. However, it primarily focuses on specific migration issues rather than broader Agile or DevOps methodologies, making it a secondary theme.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -514,12 +514,12 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-12T11:33:20",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 50,
     "final_score": 50.0,
     "reasoning": "The content discusses aspects of Azure DevOps and TFS, which are related to Windows environments, particularly in terms of identity management and operational issues. However, the primary focus is on Azure DevOps data migration rather than Windows OS itself.",
-    "level": "Secondary"
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -600,15 +600,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses data migration issues in Azure DevOps, focusing on identity management and operational challenges, rather than Continuous Delivery principles or practices.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "calculated_at": "2025-02-12T11:33:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of Azure DevOps data migration, focusing on operational challenges and identity management, without addressing BetaCodex principles or themes.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -757,12 +748,12 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T11:34:00",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses various challenges and best practices related to data migration in Azure DevOps, touching on operational efficiency and identity management, which are relevant to operational practices. However, the primary focus is on specific migration issues rather than broader operational strategies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -919,12 +910,12 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-12T11:34:33",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses aspects of data migration and identity management in Azure DevOps, which are relevant to release processes, but the primary focus is on migration challenges rather than structured release management practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -955,12 +946,12 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-12T11:34:41",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
     "final_score": 47.0,
     "reasoning": "The content discusses aspects of migrating data in Azure DevOps, including version control systems like TFS and Git, and touches on identity management and backup procedures relevant to source control. However, the primary focus is on migration challenges rather than best practices or methodologies in modern source control.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1090,12 +1081,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T11:31:00",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses aspects of data migration in Azure DevOps, which relates to deployment and operational challenges in product delivery. However, the primary focus is on technical issues and processes rather than the broader methodologies and practices of product delivery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1234,12 +1225,12 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T11:31:27",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses various technical challenges and best practices related to data migration in Azure DevOps, touching on aspects of identity management, backup procedures, and the importance of following documented processes. However, the primary focus is on specific migration issues rather than broader engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1261,12 +1252,12 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T11:31:33",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
     "final_score": 48.0,
     "reasoning": "The content discusses the challenges and considerations related to identity management during data migration in Azure DevOps, highlighting human factors such as user behaviour and the impact of team dynamics on the migration process. However, the primary focus is on technical aspects of migration rather than a deep exploration of people and process methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1297,12 +1288,12 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T11:31:40",
+    "calculated_at": "2025-02-17T12:30:15",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses aspects of data migration within Azure DevOps, which relates to the deployment and maintenance stages of the application lifecycle. However, it primarily focuses on migration challenges and identity management rather than a comprehensive view of Application Lifecycle Management methodologies or practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1320,6 +1311,51 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content heavily discusses technical aspects of Azure DevOps data migration, focusing on processes, identity management, and operational challenges, with no clear connection to psychological principles or theories relevant to organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T12:30:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses Azure DevOps data migration and related technical challenges, with no clear focus on Scrum principles, roles, events, or practices.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T12:30:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of Azure DevOps and TFS migration, which relates to internal developer platforms and the application lifecycle, but it primarily focuses on migration challenges rather than platform engineering principles.",
+    "level": "Tertiary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T12:30:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical aspects of Azure DevOps data migration, focusing on operational challenges and identity management, without addressing BetaCodex principles or themes.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T12:30:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses Azure DevOps data migration issues and challenges, with no clear focus on the principles or implementation of the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T12:30:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Azure DevOps data migration issues and technical challenges, with no clear focus on Agile principles or the Agile Product Operating Model.",
     "level": "Ignored"
   }
 }

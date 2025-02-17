@@ -22,18 +22,17 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Agile Frameworks
-- Agile Project Management
-- Coaching
-- Operational Practices
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
 - Scrum Team
-- Software Development
+- Professional Scrum
+- Scrum Master
 - Team Performance
+- Software Development
+- Agile Frameworks
 - Technical Leadership
+- Agile Project Management
+- Pragmatic Thinking
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,9 +40,12 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Agile Product Management
 - People and Process
 - Product Delivery
+- Value Delivery
+- Sociotechnical Systems
 
 ---
 When I reflect on my experiences as a Scrum Master, one thing becomes abundantly clear: the effectiveness of a Scrum Master hinges on their understanding of the philosophies, theories, and practices relevant to the team they support. Without this foundational knowledge, the impact on both the team and the organisation can be profound. 

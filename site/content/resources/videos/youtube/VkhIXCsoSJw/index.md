@@ -23,26 +23,7 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
-- Automated Testing
-- Azure Pipelines
-- Continuous Delivery
-- Continuous Integration
-- Continuous Learning
-- Cycle Time
-- Deployment Frequency
-- Digital Transformation
 - Engineering Excellence
-- Engineering Practices
-- Frequent Releases
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- Technical Debt
-- Technical Mastery
-- Test Automation
-- Throughput
-- Working Software
 resourceTypes:
 - video
 sitemap:
@@ -50,8 +31,6 @@ sitemap:
   priority: 0.6
 categories:
 - DevOps
-- Practical Techniques and Tooling
-- Technical Excellence
 
 ---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.

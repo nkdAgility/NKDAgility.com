@@ -28,29 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Accountability
-- Agile Frameworks
 - Agile Leadership
-- Agile Philosophy
 - Agile Project Management
-- Agile Strategy
-- Agile Transformation
 - Continuous Learning
-- Experimentation
-- Organisational Change
-- Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
-- Software Developers
-- Software Development
+- Agile Philosophy
+- Agile Frameworks
+- Agile Transformation
 - Technical Leadership
+- Software Developers
+- Agile Strategy
+- Organisational Change
+- Software Development
+- Pragmatic Thinking
+- Organisational Culture
+- Organisational Physics
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- Organisational Agility
 - People and Process
 
 ---

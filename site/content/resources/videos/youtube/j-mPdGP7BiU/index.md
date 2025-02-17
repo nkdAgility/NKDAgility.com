@@ -28,23 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Experimentation
+- Product Validation
 - Continuous Learning
 - Decision Making
-- Evidence Based Management
-- Experimentation
 - Hypothesis Driven Development
-- Lean Startup
-- MVP
-- Pragmatic Thinking
-- Product Discovery
 - Product Management
-- Product Validation
+- Product Discovery
+- Lean Startup
+- Pragmatic Thinking
+- MVP
 resourceTypes:
 - video
 categories:
-- Decision Theory
-- Discovery and Learning
 - Metrics and Learning
+- Discovery and Learning
+- Evidence Based Management
+- Decision Theory
 
 ---
 In the fast-paced world of product development, assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.

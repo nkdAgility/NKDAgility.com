@@ -31,7 +31,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Practical Techniques and Tooling
 
 ---

@@ -26,20 +26,13 @@ card:
   title: Manifesto for Agile Software Development
 categories:
 - People and Process
-- Product Delivery
 - Value Delivery
+- Product Delivery
+- Organisational Agility
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
 - Agile Values and Principles
-- Frequent Releases
-- Self Organisation
-- Software Developers
+- Agile Philosophy
 - Software Development
-- Working Software
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

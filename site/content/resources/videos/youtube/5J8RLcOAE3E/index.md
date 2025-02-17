@@ -23,28 +23,24 @@ preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
-- Continuous Delivery
-- Deployment Strategies
-- Engineering Excellence
-- Engineering Practices
-- Frequent Releases
-- Operational Practices
 - Pragmatic Thinking
-- Software Developers
-- Software Development
-- Strategy
-- Technical Mastery
-- Windows
+- Engineering Practices
 - Working Software
+- Software Developers
+- Continuous Delivery
+- Engineering Excellence
+- Software Development
+- Operational Practices
+- Frequent Releases
+- Technical Mastery
+- Deployment Strategies
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- Code and Complexity
 - DevOps
-- Resilience and Change
 
 ---
 I often find myself in discussions about the best practices for enabling continuous delivery within teams. It’s a question that comes up frequently, and I want to address it head-on: there are no best practices in complex environments. Best practices are a concept that applies to simple tasks in straightforward situations where a procedure can be followed consistently to achieve the same results. However, the world we operate in is anything but simple.

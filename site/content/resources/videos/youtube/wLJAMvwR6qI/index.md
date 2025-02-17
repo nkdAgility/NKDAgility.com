@@ -22,23 +22,7 @@ preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
 isShort: false
 tags:
-- Ability to Innovate
-- Continuous Learning
-- Decision Making
-- Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
-- Experimentation
 - Hypothesis Driven Development
-- Lean Product Development
-- Lean Startup
-- MVP
-- Pragmatic Thinking
-- Product Discovery
-- Product Management
-- Product Strategy
-- Product Validation
-- Sensemaking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,9 +30,12 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Metrics and Learning
+- Discovery and Learning
+- Evidence Based Management
 - Product Delivery
+- Decision Theory
+- Agile Product Management
 
 ---
 In our ever-evolving landscape of product development, one of the most crucial skills we can cultivate is the ability to work with assumptions. It’s a topic that I’m particularly passionate about, and I’m excited to share insights from our new class focused on this very subject. 

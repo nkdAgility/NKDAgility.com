@@ -37,12 +37,12 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-13T09:21:26",
+    "calculated_at": "2025-02-17T12:12:11",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions 'Product Increment', which is a key Scrum artifact, but does not provide enough detail to classify it as primarily about Professional Scrum.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -604,12 +604,12 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T09:23:24",
+    "calculated_at": "2025-02-17T12:12:11",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content introduces the concept of a Product Increment, which is relevant to Agile methodologies and the Software Development Life Cycle, but does not provide enough detail to classify it as primarily about software development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -699,15 +699,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "calculated_at": "2025-02-13T09:23:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Product Increment, which is not directly related to BetaCodex principles or practices.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
@@ -1320,6 +1311,51 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T12:12:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the concept of a Product Increment, which is a key artifact in the Scrum framework, but does not provide extensive information on Scrum principles or practices.",
+    "level": "Tertiary"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T12:12:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T12:12:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concept of Product Increment, which is not directly related to the principles or practices of BetaCodex.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T12:12:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concept of a Product Increment, which is not directly related to the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T12:12:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content only briefly mentions the concept of a product increment without discussing the Agile Product Operating Model or its principles in depth.",
     "level": "Ignored"
   }
 }

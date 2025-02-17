@@ -109,12 +109,12 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T17:21:49",
+    "calculated_at": "2025-02-17T12:00:54",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the implications of shipping bad code and the distinction between technical debt and incompetence, which relates to practical problem-solving in software development. However, it does not delve deeply into Agile, Scrum, or DevOps frameworks, making it a secondary theme rather than a primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -370,12 +370,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T17:22:31",
+    "calculated_at": "2025-02-17T12:00:54",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the concepts of technical debt and the implications of shipping bad code, which are relevant to software development practices. However, it does not explicitly connect these ideas to Agile or DevOps methodologies, making it a secondary theme rather than a primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -388,12 +388,12 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T17:22:33",
+    "calculated_at": "2025-02-17T12:00:54",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses concepts related to technical debt and the implications of shipping bad code, which are relevant to software development practices. However, it primarily focuses on personal experiences and opinions rather than structured methodologies or frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -469,12 +469,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T17:22:46",
+    "calculated_at": "2025-02-17T12:00:54",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the implications of shipping bad code and the concept of technical debt, which relates to software quality and functionality. However, it primarily focuses on the notion of incompetence rather than the broader themes of working software delivery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -537,15 +537,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical debt and coding practices without any focus on experimentation or hypothesis-driven approaches.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "calculated_at": "2025-02-12T17:22:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concepts of technical debt and code quality, which are not central to the principles of BetaCodex.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
@@ -982,12 +973,12 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T17:24:17",
+    "calculated_at": "2025-02-17T12:00:54",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the concept of technical debt and the implications of shipping bad code, which relates to clean code principles and the importance of maintaining code quality. However, it primarily focuses on the consequences of poor coding practices rather than established engineering methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1162,12 +1153,12 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T17:21:04",
+    "calculated_at": "2025-02-17T12:00:54",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses the concept of technical debt and the implications of shipping bad code, which relates to engineering practices. However, it primarily focuses on the consequences of poor coding practices rather than specific methodologies or principles that enhance technical excellence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1180,12 +1171,12 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T17:21:07",
+    "calculated_at": "2025-02-17T12:00:54",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
     "final_score": 47.0,
     "reasoning": "The content discusses the concepts of technical debt and the implications of shipping bad code, which relates to code quality and complexity. However, it primarily focuses on the distinction between incompetence and technical debt rather than a broader exploration of complexity theory or best practices in software development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
@@ -1320,6 +1311,51 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, lacking personal anecdotes or reflections related to Agile, Scrum, or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T12:00:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical debt and code quality, with no clear focus on Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T12:00:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical debt and code quality, with no clear focus on platform engineering or related concepts.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T12:00:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to technical debt and code quality, with no clear focus on BetaCodex principles or practices.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T12:01:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical debt and personal experiences with coding, without a focus on the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T12:01:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical debt and coding practices, with no clear focus on Agile principles or the Agile Product Operating Model.",
     "level": "Ignored"
   }
 }

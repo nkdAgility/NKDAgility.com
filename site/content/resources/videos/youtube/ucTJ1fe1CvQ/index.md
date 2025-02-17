@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Learning
-- Decision Making
 - Experimentation
-- Hypothesis Driven Development
-- Lean Startup
-- Pragmatic Thinking
-- Product Discovery
-- Product Management
 - Product Validation
+- Product Discovery
+- Continuous Learning
+- Hypothesis Driven Development
+- Product Management
+- Pragmatic Thinking
+- Decision Making
+- Lean Startup
 - Sensemaking
 resourceTypes:
 - video
@@ -44,6 +44,10 @@ categories:
 - Discovery and Learning
 - People and Process
 - Products and Books
+- Agile Product Management
+- Product Delivery
+- Value Delivery
+- Complexity Thinking
 
 ---
 ## **Why the PPDV Course Was Created**

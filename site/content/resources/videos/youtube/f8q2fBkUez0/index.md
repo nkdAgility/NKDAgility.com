@@ -23,7 +23,6 @@ duration: 4859
 isShort: false
 tags:
 - Decision Making
-- Entrepreneurship
 - Organisational Change
 - Organisational Physics
 sitemap:

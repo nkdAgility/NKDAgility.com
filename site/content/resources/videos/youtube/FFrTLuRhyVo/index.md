@@ -23,9 +23,9 @@ preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Engineering Excellence
 - Technical Debt
 - Working Software
+- Engineering Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

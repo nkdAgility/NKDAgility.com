@@ -22,6 +22,10 @@ aliases:
 aliasesFor404:
 - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!
+- /resources/_gyzx59-AJk
+- /resources/videos/_gyzx59-AJk
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
 duration: 289
 isShort: false
@@ -33,7 +37,23 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Discovery and Learning
+- Metrics and Learning
+- Agile Product Management
+- Market Adaptability
+- News and Reviews
+- Agile Product Operating Model
+- Value Delivery
+- Business Agility
+- Practical Techniques and Tooling
+- Product Delivery
+- Organisational Agility
+- Evidence Based Management
+- Enterprise Agility
+- Technical Excellence
+- Flow Efficiency
 
 ---
  The Need for Speed: Why High Deployment Frequencies Matter in a Changing Market

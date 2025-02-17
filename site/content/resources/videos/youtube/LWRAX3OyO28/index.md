@@ -23,23 +23,7 @@ preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 332
 isShort: false
 tags:
-- Automated Testing
 - Continuous Delivery
-- Deployment Frequency
-- Deployment Strategies
-- Engineering Excellence
-- Engineering Practices
-- Frequent Releases
-- Operational Practices
-- Pragmatic Thinking
-- Release Management
-- Software Developers
-- Software Development
-- Technical Mastery
-- Test Automation
-- Throughput
-- Windows
-- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,8 +31,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Product Delivery
-- Technical Excellence
 
 ---
 If you're venturing into the realm of continuous delivery, you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the DevOps framework. 

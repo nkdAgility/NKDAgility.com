@@ -39,26 +39,13 @@ card:
   content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
   title: Daily Scrum Recipe
 categories:
-- Flow Efficiency
-- People and Process
-- Practical Techniques and Tooling
+- Scrum
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Daily Scrum
-- Empirical Process Control
-- Operational Practices
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
-- Scrum Team
-- Software Developers
+- Daily Scrum
+- Professional Scrum
 - Software Development
-- Team Collaboration
-- Team Performance
-- Transparency
+- Agile Project Management
 
 ---
 The Daily Scrum is an essential event in the Scrum framework. It offers the

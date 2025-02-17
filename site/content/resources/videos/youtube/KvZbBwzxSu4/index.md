@@ -28,31 +28,40 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Ability to Innovate
-- Agile Leadership
-- Agile Philosophy
-- Agile Strategy
-- Change Management
-- Decision Making
 - Evidence Based Leadership
-- Evidence Based Management
-- Organisational Change
-- Organisational Culture
+- Decision Making
+- Product Management
+- Strategic Goals
+- Agile Leadership
+- Product Strategy
+- Change Management
+- Product Owner
+- Team Motivation
 - Organisational Physics
 - Pragmatic Thinking
-- Product Management
-- Product Owner
-- Product Strategy
-- Sensemaking
-- Strategic Goals
+- Agile Strategy
+- Organisational Culture
 - Strategy
-- Team Motivation
+- Agile Philosophy
+- Organisational Change
+- Sensemaking
+- Ability to Innovate
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - People and Process
+- Evidence Based Management
+- Agile Product Management
+- Agile Product Operating Model
 - Value Delivery
+- Decision Theory
+- Business Agility
+- Organisational Agility
+- Sociotechnical Systems
+- Complexity Thinking
+- Enterprise Agility
+- Organisational Psychology
+- Personal
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

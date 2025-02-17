@@ -23,35 +23,53 @@ preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
 tags:
-- Ability to Innovate
 - Continuous Delivery
-- Continuous Integration
-- Continuous Learning
-- Customer Feedback Loops
-- Decision Making
-- Deployment Frequency
-- Engineering Excellence
-- Engineering Practices
-- Lead Time
-- Lean Product Development
-- Lean Startup
 - Operational Practices
 - Pragmatic Thinking
+- Customer Feedback Loops
+- Deployment Frequency
+- Ability to Innovate
+- Lean Product Development
+- Decision Making
 - Product Management
-- Product Strategy
-- Product Validation
-- Release Management
-- Software Developers
+- Engineering Excellence
 - Software Development
+- Continuous Integration
+- Product Validation
+- Lead Time
+- Engineering Practices
+- Product Strategy
+- Continuous Learning
+- Throughput
+- Experimentation
+- Organisational Physics
+- Release Management
+- Agile Planning
+- Agile Philosophy
+- Evidence Based Leadership
+- Agile Transformation
+- Working Software
+- Agile Strategy
+- Agile Project Management
+- Strategy
+- Empirical Process Control
+- Lean Startup
+- Frequent Releases
+- Software Developers
+- Digital Transformation
+- Hypothesis Driven Development
+- Scrum Product Development
+- Deployment Strategies
+- Customer Retention
+- Lean Principles
+- Increment
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- Market Adaptability
 - Product Delivery
-- Value Delivery
 
 ---
 In my journey through the world of software development, I've come to realise that deployment frequency is a crucial leading indicator of a company's ability to reduce time to market. It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.

@@ -58,30 +58,14 @@ card:
   content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
   title: The Scrum Guide
 categories:
-- People and Process
-- Product Delivery
-- Transparency and Accountability
+- Scrum
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Cross Functional Teams
-- Daily Scrum
-- Definition of Done
-- Empirical Process Control
-- Increment
-- Product Backlog
-- Product Owner
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
+- Agile Project Management
 - Scrum Team
-- Scrum Values
-- Software Developers
+- Professional Scrum
 - Software Development
-- Sprint Review
-- Team Performance
-- Transparency
+- Agile Frameworks
 
 ---
 The Scrum Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.

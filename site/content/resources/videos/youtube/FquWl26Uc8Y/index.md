@@ -23,15 +23,17 @@ preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- Engineering Excellence
 - Technical Debt
 - Technical Mastery
+- Engineering Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Code and Complexity
+- Technical Excellence
 
 ---
 I've been in the trenches of software development long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just technical debt; that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.

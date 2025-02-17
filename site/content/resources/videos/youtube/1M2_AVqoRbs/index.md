@@ -21,8 +21,8 @@ preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Engineering Excellence
 - Technical Debt
+- Engineering Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

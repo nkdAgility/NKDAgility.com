@@ -23,35 +23,29 @@ preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 501
 isShort: false
 tags:
-- Ability to Innovate
-- Agile Project Management
-- Continuous Learning
-- Decision Making
-- Engineering Excellence
-- Evidence Based Leadership
-- Evidence Based Management
-- Experimentation
 - Hypothesis Driven Development
-- Large Scale Agility
-- Lean Product Development
-- Portfolio Management
-- Pragmatic Thinking
-- Product Discovery
-- Product Management
-- Product Owner
-- Product Strategy
-- Product Validation
-- Software Development
-- Technical Debt
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Metrics and Learning
 - People and Process
+- Discovery and Learning
+- Agile Product Management
+- Agile Product Operating Model
+- Product Delivery
+- Evidence Based Management
+- Market Adaptability
+- Decision Theory
+- Value Delivery
+- Business Agility
+- Organisational Agility
+- Enterprise Agility
+- Practical Techniques and Tooling
+- Value Stream Management
+- Sociotechnical Systems
 
 ---
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.

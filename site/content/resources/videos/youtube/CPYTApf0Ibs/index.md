@@ -28,32 +28,38 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Organisational Change
-- Organisational Culture
 - Product Management
-- Product Owner
-- Product Strategy
-- Software Development
-- Strategic Goals
 - Strategy
-- Team Collaboration
-- Team Motivation
+- Agile Values and Principles
+- Strategic Goals
+- Agile Planning
+- Agile Leadership
+- Product Strategy
 - Team Performance
+- Team Collaboration
+- Software Development
+- Organisational Culture
+- Agile Project Management
+- Agile Philosophy
 - Technical Leadership
+- Team Motivation
+- Agile Transformation
+- Agile Frameworks
+- Product Owner
+- Agile Strategy
+- Employee Engagement
+- Change Management
+- Pragmatic Thinking
+- Organisational Change
+- Sensemaking
+- Decision Making
+- Transparency
+- Operational Practices
+- Software Developers
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - People and Process
-- Transparency and Accountability
 
 ---
 When it comes to Agile transformation, one of the most crucial aspects often overlooked is the shared understanding of the product vision and strategic goals within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.

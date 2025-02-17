@@ -23,24 +23,24 @@ preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
 tags:
-- Automated Testing
-- Continuous Delivery
-- Customer Feedback Loops
-- Customer Satisfaction
-- Deployment Frequency
-- Deployment Strategies
 - Engineering Excellence
-- Engineering Practices
-- Experimentation
-- Frequent Releases
-- Operational Practices
 - Pragmatic Thinking
-- Product Validation
-- Release Management
-- Software Developers
-- Software Development
-- Technical Mastery
 - Working Software
+- Continuous Delivery
+- Software Development
+- Deployment Strategies
+- Deployment Frequency
+- Software Developers
+- Engineering Practices
+- Frequent Releases
+- Technical Mastery
+- Release Management
+- Customer Feedback Loops
+- Operational Practices
+- Experimentation
+- Automated Testing
+- Customer Satisfaction
+- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,7 +49,11 @@ resourceTypes:
 categories:
 - DevOps
 - People and Process
+- Azure DevOps
 - Product Delivery
+- Practical Techniques and Tooling
+- Value Delivery
+- Technical Excellence
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

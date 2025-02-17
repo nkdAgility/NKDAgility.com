@@ -22,8 +22,8 @@ duration: 262
 isShort: false
 tags:
 - Pragmatic Thinking
-- Software Development
 - Troubleshooting
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
