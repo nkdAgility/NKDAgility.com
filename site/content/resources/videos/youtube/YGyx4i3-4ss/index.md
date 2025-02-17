@@ -29,17 +29,17 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Metrics and Learning
-- People and Process
-- Transparency and Accountability
 - Evidence Based Management
-- Agile Product Management
+- Transparency and Accountability
+- People and Process
+- Discovery and Learning
 - Market Adaptability
-- Value Delivery
 - Miscellaneous
-- Organisational Agility
+- Value Delivery
 - Sociotechnical Systems
+- Agile Product Management
+- Organisational Agility
 
 ---
 In my journey through the world of software development, I've often found myself reflecting on the fundamental question: do we truly understand our users? It’s a question that seems simple on the surface, yet it unravels a complex web of assumptions, data, and collaboration that can make or break our projects.

@@ -37,9 +37,9 @@ categories:
 - Metrics and Learning
 tags:
 - Ability to Innovate
-- Decision Making
 - Evidence Based Leadership
 - Experimentation
+- Decision Making
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

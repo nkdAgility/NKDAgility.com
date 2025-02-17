@@ -34,10 +34,10 @@ resourceTypes:
 categories:
 - Agile Product Management
 - Metrics and Learning
-- Agile Product Operating Model
 - People and Process
 - Value Delivery
 - Product Delivery
+- Agile Product Operating Model
 - Evidence Based Management
 
 ---

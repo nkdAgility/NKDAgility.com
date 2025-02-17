@@ -27,10 +27,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Discovery and Learning
 
 ---
 In the world of Scrum and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.

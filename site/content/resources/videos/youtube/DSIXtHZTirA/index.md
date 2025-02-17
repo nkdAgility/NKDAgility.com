@@ -27,17 +27,17 @@ tags:
 - Pragmatic Thinking
 - Working Software
 - Continuous Delivery
-- Software Development
-- Deployment Strategies
 - Deployment Frequency
+- Deployment Strategies
+- Software Development
 - Software Developers
 - Engineering Practices
+- Operational Practices
+- Customer Feedback Loops
+- Experimentation
+- Release Management
 - Frequent Releases
 - Technical Mastery
-- Release Management
-- Customer Feedback Loops
-- Operational Practices
-- Experimentation
 - Automated Testing
 - Customer Satisfaction
 - Product Validation
@@ -48,11 +48,11 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- People and Process
 - Azure DevOps
+- People and Process
 - Product Delivery
-- Practical Techniques and Tooling
 - Value Delivery
+- Practical Techniques and Tooling
 - Technical Excellence
 
 ---

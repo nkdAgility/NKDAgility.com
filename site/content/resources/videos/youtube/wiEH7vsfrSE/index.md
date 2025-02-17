@@ -28,28 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Culture
 - Strategic Goals
-- Agile Strategy
+- Organisational Culture
 - Organisational Change
-- Organisational Physics
 - Operational Practices
+- Agile Strategy
+- Organisational Physics
 - Continuous Learning
-- Strategy
 - Sensemaking
+- Strategy
 - Pragmatic Thinking
 - Ability to Innovate
 resourceTypes:
 - video
 categories:
 - People and Process
-- Business Agility
 - Organisational Agility
-- Market Adaptability
-- Resilience and Change
-- Value Delivery
+- Business Agility
 - Systems Thinking
+- Market Adaptability
+- Value Delivery
 - Sociotechnical Systems
+- Resilience and Change
 - Enterprise Agility
 - Complexity Thinking
 

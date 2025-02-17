@@ -29,9 +29,9 @@ layout: video
 resourceTypes:
 - video
 categories:
+- People and Process
 - Agile Product Management
 - Agile Product Operating Model
-- People and Process
 - Organisational Agility
 - Value Delivery
 

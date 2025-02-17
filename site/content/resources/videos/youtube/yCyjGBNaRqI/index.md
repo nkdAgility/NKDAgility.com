@@ -22,18 +22,17 @@ preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
 tags:
-- Agile Leadership
-- Agile Philosophy
+- Team Motivation
 - Agile Values and Principles
-- BetaCodex
-- Coaching
+- Agile Philosophy
+- Agile Leadership
+- Self Organisation
+- Team Performance
 - Employee Engagement
 - Organisational Culture
-- Pragmatic Thinking
-- Self Organisation
+- Coaching
 - Team Collaboration
-- Team Motivation
-- Team Performance
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,9 +40,13 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Organisational Agility
 - People and Process
+- Organisational Agility
+- Personal
 - Sociotechnical Systems
+- Organisational Psychology
+- Business Agility
+- Beta Codex
 
 ---
 Creating great teams is at the heart of what I call "naked agility." It’s a straightforward concept, yet it’s often overlooked in the hustle and bustle of organisational life. If we have unhappy, disengaged people, we can’t expect to produce exceptional work or build outstanding products. As customers and users, we deserve better than mediocre offerings; we deserve products that enhance our experiences and help us achieve our goals.

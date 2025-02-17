@@ -31,14 +31,14 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- Agile Product Management
-- Agile Product Operating Model
 - Value Delivery
+- Agile Product Management
 - Product Delivery
+- Agile Product Operating Model
+- Discovery and Learning
 - Market Adaptability
-- Business Agility
 - Organisational Agility
+- Business Agility
 - People and Process
 
 ---

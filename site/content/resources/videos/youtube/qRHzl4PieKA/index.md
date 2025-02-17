@@ -31,15 +31,15 @@ tags: []
 resourceTypes:
 - video
 categories:
+- People and Process
 - Agile Product Management
 - Agile Product Operating Model
-- People and Process
 - Market Adaptability
 - Value Delivery
-- Business Agility
 - Organisational Agility
-- Discovery and Learning
+- Business Agility
 - Product Delivery
+- Discovery and Learning
 
 ---
 In today’s fast-paced world, where user needs and market dynamics are constantly evolving, being agile is no longer a luxury—it’s a necessity. But what does it mean to truly be agile? At its core, agility is about responding to change over following a plan. This means that your teams need the freedom to adapt, especially when it comes to changing requirements based on user feedback.

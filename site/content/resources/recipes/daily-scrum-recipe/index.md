@@ -41,8 +41,8 @@ card:
 categories:
 - Scrum
 tags:
-- Scrum Product Development
 - Daily Scrum
+- Scrum Product Development
 - Professional Scrum
 - Software Development
 - Agile Project Management

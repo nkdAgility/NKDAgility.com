@@ -29,9 +29,9 @@ sitemap:
 tags:
 - Troubleshooting
 - System Configuration
-- Pragmatic Thinking
 - Technical Mastery
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

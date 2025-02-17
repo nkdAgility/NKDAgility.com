@@ -28,31 +28,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Customer Feedback Loops
+- Agile Values and Principles
 - Decision Making
 - Agile Project Management
-- Agile Values and Principles
-- Team Performance
-- Team Collaboration
+- Customer Feedback Loops
+- Agile Philosophy
+- Product Validation
 - Agile Planning
 - Organisational Culture
-- Agile Philosophy
-- Product Management
-- Organisational Change
-- Agile Strategy
-- Agile Leadership
-- Change Management
-- Empirical Process Control
-- Team Motivation
-- Product Validation
-- Working Software
-- Agile Transformation
-- Agile Frameworks
-- Operational Practices
 - Product Discovery
+- Team Performance
+- Agile Frameworks
+- Agile Strategy
+- Agile Transformation
+- Product Management
+- Agile Leadership
+- Empirical Process Control
+- Organisational Change
+- Working Software
+- Team Motivation
+- Change Management
+- Operational Practices
+- Team Collaboration
+- Pragmatic Thinking
 - Software Developers
 - Customer Satisfaction
-- Pragmatic Thinking
 - Software Development
 resourceTypes:
 - video

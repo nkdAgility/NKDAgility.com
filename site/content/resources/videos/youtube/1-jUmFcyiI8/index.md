@@ -24,39 +24,39 @@ duration: 551
 isShort: false
 tags:
 - Continuous Delivery
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Customer Feedback Loops
-- Deployment Frequency
-- Ability to Innovate
 - Lean Product Development
+- Ability to Innovate
+- Deployment Frequency
+- Product Validation
+- Continuous Learning
+- Lead Time
 - Decision Making
-- Product Management
-- Engineering Excellence
+- Product Strategy
+- Engineering Practices
 - Software Development
 - Continuous Integration
-- Product Validation
-- Lead Time
-- Engineering Practices
-- Product Strategy
-- Continuous Learning
-- Throughput
-- Experimentation
-- Organisational Physics
-- Release Management
-- Agile Planning
-- Agile Philosophy
-- Evidence Based Leadership
-- Agile Transformation
-- Working Software
+- Product Management
+- Engineering Excellence
 - Agile Strategy
-- Agile Project Management
-- Strategy
-- Empirical Process Control
+- Agile Transformation
+- Organisational Physics
+- Agile Planning
 - Lean Startup
-- Frequent Releases
+- Agile Project Management
+- Agile Philosophy
 - Software Developers
+- Frequent Releases
+- Experimentation
 - Digital Transformation
+- Evidence Based Leadership
+- Release Management
+- Working Software
+- Throughput
+- Empirical Process Control
+- Strategy
 - Hypothesis Driven Development
 - Scrum Product Development
 - Deployment Strategies

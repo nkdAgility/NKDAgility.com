@@ -28,26 +28,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Transformation
-- Coaching
-- Continuous Learning
-- Customer Feedback Loops
 - Mentoring
+- Agile Philosophy
+- Continuous Learning
+- Agile Transformation
+- Agile Frameworks
+- Agile Project Management
 - Pragmatic Thinking
-- Professional Scrum
-- Scrum Product Development
-- Software Development
+- Coaching
 - Team Collaboration
+- Scrum Product Development
+- Professional Scrum
+- Customer Feedback Loops
 - Team Performance
+- Software Development
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
+- Scrum
 - People and Process
+- Discovery and Learning
 - Value Delivery
+- Agile Product Management
+- Practical Techniques and Tooling
+- Sociotechnical Systems
+- Organisational Agility
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

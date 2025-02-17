@@ -27,10 +27,21 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
+- Agile Values and Principles
+- Pragmatic Thinking
+- Agile Transformation
+- Agile Philosophy
+- Agile Frameworks
+- Coaching
+- Mentoring
+- Agile Project Management
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Discovery and Learning
 
 ---
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **Scrum** and **Agile**.

@@ -39,19 +39,19 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Discovery and Learning
 - Metrics and Learning
-- Agile Product Management
+- Evidence Based Management
 - Market Adaptability
-- News and Reviews
-- Agile Product Operating Model
 - Value Delivery
+- Agile Product Management
+- Organisational Agility
+- News and Reviews
 - Business Agility
 - Practical Techniques and Tooling
 - Product Delivery
-- Organisational Agility
-- Evidence Based Management
 - Enterprise Agility
+- Agile Product Operating Model
+- Discovery and Learning
 - Technical Excellence
 - Flow Efficiency
 

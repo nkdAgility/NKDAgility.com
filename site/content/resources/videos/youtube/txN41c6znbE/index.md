@@ -30,20 +30,20 @@ sitemap:
 tags:
 - Agile Leadership
 - Agile Project Management
-- Continuous Learning
-- Professional Scrum
-- Scrum Master
 - Agile Philosophy
-- Agile Frameworks
-- Agile Transformation
-- Technical Leadership
-- Software Developers
-- Agile Strategy
+- Professional Scrum
+- Continuous Learning
+- Scrum Master
 - Organisational Change
+- Agile Transformation
+- Agile Strategy
+- Software Developers
+- Technical Leadership
+- Agile Frameworks
 - Software Development
-- Pragmatic Thinking
 - Organisational Culture
 - Organisational Physics
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

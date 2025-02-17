@@ -32,12 +32,12 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Practical Techniques and Tooling
 - Code and Complexity
 - People and Process
 - Value Delivery
-- Technical Excellence
+- Practical Techniques and Tooling
 - Product Delivery
+- Technical Excellence
 - Organisational Agility
 
 ---

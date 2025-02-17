@@ -31,8 +31,8 @@ resourceTypes:
 - video
 categories:
 - Metrics and Learning
-- Discovery and Learning
 - Evidence Based Management
+- Discovery and Learning
 - Product Delivery
 - Decision Theory
 - Agile Product Management

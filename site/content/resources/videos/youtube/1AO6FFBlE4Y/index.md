@@ -31,8 +31,8 @@ resourceTypes:
 - video
 categories:
 - Code and Complexity
-- Technical Excellence
 - Product Delivery
+- Technical Excellence
 - Value Delivery
 - Flow Efficiency
 - DevOps

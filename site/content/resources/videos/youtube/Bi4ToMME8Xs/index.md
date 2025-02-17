@@ -32,13 +32,13 @@ resourceTypes:
 categories:
 - Scrum
 - Discovery and Learning
-- Agile Product Management
-- News and Reviews
 - People and Process
 - Value Delivery
+- Agile Product Management
+- Organisational Agility
+- News and Reviews
 - Events and Presentations
 - Product Delivery
-- Organisational Agility
 - Products and Books
 
 ---

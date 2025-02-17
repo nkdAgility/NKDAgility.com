@@ -28,10 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - Operational Practices
+- Agile Frameworks
 - Pragmatic Thinking
-- Strategy
 resourceTypes:
 - video
 categories:

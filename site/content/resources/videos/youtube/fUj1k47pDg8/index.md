@@ -23,25 +23,25 @@ duration: 355
 isShort: false
 tags:
 - Experimentation
+- Empirical Process Control
 - Product Discovery
 - Product Validation
-- Empirical Process Control
 - Continuous Learning
-- Hypothesis Driven Development
 - Product Management
+- Hypothesis Driven Development
+- Sensemaking
 - Pragmatic Thinking
 - Decision Making
-- Sensemaking
 - Lean Product Development
 - Evidence Based Leadership
 - Scrum Product Development
+- Ability to Innovate
 - Product Owner
 - Product Strategy
-- Ability to Innovate
-- Agile Project Management
-- Agile Philosophy
 - Agile Strategy
+- Agile Project Management
 - Lean Startup
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,8 +53,8 @@ categories:
 - People and Process
 - Agile Product Management
 - Product Delivery
-- Value Delivery
 - Complexity Thinking
+- Value Delivery
 - Metrics and Learning
 - Evidence Based Management
 - Agile Product Operating Model

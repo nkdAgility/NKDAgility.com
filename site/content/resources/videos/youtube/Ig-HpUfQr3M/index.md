@@ -33,19 +33,19 @@ categories:
 - Metrics and Learning
 - People and Process
 - Discovery and Learning
-- Agile Product Management
-- Agile Product Operating Model
-- Product Delivery
 - Evidence Based Management
+- Agile Product Management
+- Product Delivery
+- Agile Product Operating Model
 - Market Adaptability
-- Decision Theory
 - Value Delivery
-- Business Agility
 - Organisational Agility
+- Decision Theory
+- Business Agility
 - Enterprise Agility
 - Practical Techniques and Tooling
-- Value Stream Management
 - Sociotechnical Systems
+- Value Stream Management
 
 ---
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.

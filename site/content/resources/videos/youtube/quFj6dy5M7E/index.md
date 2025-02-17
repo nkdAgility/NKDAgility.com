@@ -23,16 +23,16 @@ preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 266
 isShort: false
 tags:
-- Pragmatic Thinking
 - Software Development
-- Team Performance
+- Pragmatic Thinking
 - Software Developers
-- Technical Leadership
+- Team Performance
 - Product Management
 - Operational Practices
-- Strategy
+- Technical Leadership
 - Agile Strategy
 - Organisational Physics
+- Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,8 +44,8 @@ categories:
 - Product Delivery
 - Sociotechnical Systems
 - Market Adaptability
-- Agile Product Operating Model
 - Business Agility
+- Agile Product Operating Model
 - Organisational Agility
 
 ---

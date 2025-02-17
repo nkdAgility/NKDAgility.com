@@ -18,15 +18,16 @@ aliasesFor404:
 - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 categories:
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - Products and Books
+- Agile Product Management
+- Practical Techniques and Tooling
 tags:
 - Agile Project Management
-- Agile Transformation
-- Experimentation
-- Pragmatic Thinking
 - Software Development
+- Agile Transformation
+- Pragmatic Thinking
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from Scrum.org as well as the new Agile Kata class and we have them all.

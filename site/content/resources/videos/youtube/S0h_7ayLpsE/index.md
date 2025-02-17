@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
 - Evidence Based Leadership
+- Decision Making
 - Product Management
 resourceTypes:
 - video

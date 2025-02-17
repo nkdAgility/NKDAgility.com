@@ -38,8 +38,8 @@ card:
 categories:
 - Scrum
 tags:
-- Scrum Product Development
 - Scrum Team
+- Scrum Product Development
 - Professional Scrum
 - Agile Planning
 - Team Collaboration

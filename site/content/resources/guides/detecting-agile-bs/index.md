@@ -41,8 +41,8 @@ categories:
 - Agile Product Management
 - Metrics and Learning
 - People and Process
-- Practical Techniques and Tooling
 - Value Delivery
+- Practical Techniques and Tooling
 - Product Delivery
 - DevOps
 tags:

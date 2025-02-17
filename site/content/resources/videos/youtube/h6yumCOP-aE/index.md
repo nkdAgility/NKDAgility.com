@@ -28,21 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Accountability
-- Agile Project Management
-- Operational Practices
-- Pragmatic Thinking
-- Self Organisation
-- Software Development
-- Strategy
-- Team Collaboration
-- Team Motivation
-- Team Performance
 - Working Agreements
+- Team Performance
+- Team Collaboration
+- Agile Project Management
+- Pragmatic Thinking
+- Strategy
+- Team Motivation
+- Self Organisation
+- Operational Practices
+- Accountability
+- Software Development
 resourceTypes:
 - video
 categories:
-- Kanban
 - People and Process
 - Sociotechnical Systems
 

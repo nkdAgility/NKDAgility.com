@@ -33,11 +33,11 @@ tags:
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Value Delivery
 - Azure DevOps
-- Technical Excellence
+- Value Delivery
+- Agile Product Management
 - Product Delivery
+- Technical Excellence
 - Code and Complexity
 - Scrum
 

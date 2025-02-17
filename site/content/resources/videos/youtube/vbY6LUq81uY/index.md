@@ -25,17 +25,17 @@ isShort: false
 tags:
 - Entrepreneurship
 - MVP
-- Ability to Innovate
 - Lean Product Development
-- Product Validation
-- Lean Startup
-- Product Strategy
-- Pragmatic Thinking
+- Ability to Innovate
 - Product Management
+- Product Strategy
 - Product Discovery
-- Decision Making
-- Hypothesis Driven Development
+- Lean Startup
+- Product Validation
+- Pragmatic Thinking
 - Experimentation
+- Hypothesis Driven Development
+- Decision Making
 - Lean Principles
 sitemap:
   filename: sitemap.xml

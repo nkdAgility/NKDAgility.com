@@ -32,10 +32,10 @@ categories:
 - People and Process
 - Resilience and Change
 - Market Adaptability
-- Decision Theory
-- Business Agility
 - Miscellaneous
 - Organisational Agility
+- Decision Theory
+- Business Agility
 - Enterprise Agility
 
 ---

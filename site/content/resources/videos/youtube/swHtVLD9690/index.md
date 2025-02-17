@@ -28,9 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Operational Practices
 - Software Developers
 - Software Development
-- Operational Practices
 - Pragmatic Thinking
 resourceTypes:
 - video
@@ -40,8 +40,8 @@ categories:
 - Market Adaptability
 - Resilience and Change
 - Product Delivery
-- Value Delivery
 - Complexity Thinking
+- Value Delivery
 
 ---
 When organizations embark on the journey of adopting DevOps practices, they often encounter significant challenges. One of the most common is what I like to call "regression" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.

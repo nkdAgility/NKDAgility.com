@@ -28,24 +28,24 @@ tags:
 - Increment
 - Software Development
 - Agile Project Management
-- Engineering Practices
-- Scrum Product Development
 - Working Software
+- Scrum Product Development
 - Scrum Team
 - Continuous Delivery
+- Engineering Practices
 - Software Developers
+- Deployment Frequency
+- Team Performance
 - Operational Practices
+- Empirical Process Control
 - Release Management
 - Professional Scrum
-- Empirical Process Control
-- Team Performance
-- Deployment Frequency
-- Agile Planning
-- Agile Frameworks
-- Frequent Releases
-- Pragmatic Thinking
 - Strategy
+- Pragmatic Thinking
 - Agile Transformation
+- Agile Planning
+- Frequent Releases
+- Agile Frameworks
 categories:
 - Product Delivery
 - People and Process

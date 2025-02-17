@@ -19,28 +19,28 @@ aliasesFor404:
 categories:
 - Discovery and Learning
 - Agile Product Management
-- Agile Product Operating Model
 - Products and Books
+- Agile Product Operating Model
 - People and Process
 - Events and Presentations
 - Product Delivery
 - Value Delivery
 - Practical Techniques and Tooling
 tags:
+- Product Discovery
 - Product Validation
 - Team Collaboration
-- Product Discovery
-- Agile Project Management
 - Customer Satisfaction
 - Product Management
+- Agile Project Management
 - Customer Feedback Loops
 - Scrum Product Development
 - Hypothesis Driven Development
 - Product Strategy
+- Experimentation
 - Lean Startup
 - Pragmatic Thinking
 - MVP
-- Experimentation
 
 ---
 **Dear Innovators and Product Enthusiasts,**

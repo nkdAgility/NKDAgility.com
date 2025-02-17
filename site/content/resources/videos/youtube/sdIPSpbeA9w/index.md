@@ -23,16 +23,16 @@ preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 613
 isShort: false
 tags:
+- Test Automation
 - Software Development
 - Automated Testing
-- Test Automation
 - Pragmatic Thinking
-- Engineering Practices
 - Technical Mastery
 - Engineering Excellence
 - Operational Practices
-- Continuous Integration
+- Engineering Practices
 - Continuous Delivery
+- Continuous Integration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -24,8 +24,8 @@ duration: 127
 isShort: false
 tags:
 - Engineering Excellence
-- Engineering Practices
 - Technical Mastery
+- Engineering Practices
 - Software Development
 - Technical Leadership
 - Technical Debt

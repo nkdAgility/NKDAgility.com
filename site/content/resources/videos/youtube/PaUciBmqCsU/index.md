@@ -33,10 +33,10 @@ resourceTypes:
 categories:
 - Kanban
 - Transparency and Accountability
-- Value Stream Management
 - Value Delivery
-- Flow Efficiency
 - Practical Techniques and Tooling
+- Value Stream Management
+- Flow Efficiency
 - Lean
 
 ---

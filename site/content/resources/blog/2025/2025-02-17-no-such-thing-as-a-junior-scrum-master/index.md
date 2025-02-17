@@ -23,15 +23,15 @@ aliasesFor404:
 tags:
 - Scrum Team
 - Accountability
-- Scrum Master
 - Agile Project Management
+- Scrum Master
 - Software Development
-- Scrum Product Development
 - Professional Scrum
-- Team Performance
+- Scrum Product Development
 - Technical Leadership
-- Agile Frameworks
+- Team Performance
 - Agile Leadership
+- Agile Frameworks
 - Pragmatic Thinking
 categories:
 - People and Process

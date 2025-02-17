@@ -23,8 +23,8 @@ preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
 tags:
-- Technical Leadership
 - Engineering Excellence
+- Technical Leadership
 - Technical Mastery
 - Organisational Culture
 - Pragmatic Thinking

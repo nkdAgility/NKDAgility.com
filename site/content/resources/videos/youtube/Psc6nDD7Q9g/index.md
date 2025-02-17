@@ -33,12 +33,12 @@ resourceTypes:
 categories:
 - Kanban
 - Metrics and Learning
-- People and Process
 - Transparency and Accountability
+- People and Process
 - Practical Techniques and Tooling
 - Value Delivery
-- Flow Efficiency
 - Lean
+- Flow Efficiency
 
 ---
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for continuous improvement is **Kanban**.

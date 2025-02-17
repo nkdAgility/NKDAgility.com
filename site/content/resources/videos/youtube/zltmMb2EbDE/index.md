@@ -28,20 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Project Management
+- Throughput
+- Strategy
+- Software Development
 - Cycle Time
 - Operational Practices
+- Agile Frameworks
+- Agile Project Management
 - Pragmatic Thinking
-- Software Development
-- Strategy
-- Throughput
 resourceTypes:
 - video
 categories:
 - Kanban
 - Metrics and Learning
 - Practical Techniques and Tooling
+- Flow Efficiency
 
 ---
 ### Integrating Kanban with Scrum: Enhancing Your Workflow

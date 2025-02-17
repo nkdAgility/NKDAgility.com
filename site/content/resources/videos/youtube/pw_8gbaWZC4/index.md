@@ -22,16 +22,15 @@ preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false
 tags:
+- Transparency
+- Operational Practices
 - Agile Frameworks
 - Agile Project Management
-- Coaching
-- Decision Making
-- Operational Practices
 - Pragmatic Thinking
-- Software Development
 - Strategy
+- Decision Making
+- Software Development
 - Throughput
-- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,9 +38,11 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Flow Efficiency
 - Metrics and Learning
 - Practical Techniques and Tooling
+- Flow Efficiency
+- Kanban
+- Value Delivery
 
 ---
 One of the most pivotal aspects of a Caman strategy is the continuous improvement of our systems and workflows. After defining our workflow and documenting how we intend to operate, the next step is to actively monitor our ongoing work. This is where the magic happens; as we observe, we begin to identify patterns that can inform our decision-making.

@@ -31,21 +31,21 @@ tags:
 - Agile Strategy
 - Strategy
 - Agile Values and Principles
-- Agile Frameworks
 - Strategic Goals
-- Agile Project Management
+- Change Management
+- Agile Frameworks
 - Agile Planning
 - Operational Practices
-- Change Management
+- Agile Project Management
 - Product Management
-- Organisational Change
-- Agile Philosophy
 - Decision Making
+- Agile Philosophy
 - Agile Transformation
+- Organisational Change
 - Pragmatic Thinking
-- Organisational Physics
 - Organisational Culture
 - Digital Transformation
+- Organisational Physics
 - Agile Leadership
 - Forecasting
 resourceTypes:
@@ -57,8 +57,8 @@ categories:
 - Market Adaptability
 - People and Process
 - Resilience and Change
-- Organisational Agility
 - Sociotechnical Systems
+- Organisational Agility
 - Value Delivery
 - Metrics and Learning
 - Product Delivery

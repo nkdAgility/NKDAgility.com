@@ -28,23 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Strategy
+- Cycle Time
 - Agile Frameworks
+- Operational Practices
+- Throughput
+- Software Development
+- Pragmatic Thinking
 - Agile Project Management
 - Agile Transformation
-- Cycle Time
-- Decision Making
 - Evidence Based Leadership
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
-- Strategy
-- Throughput
+- Decision Making
 resourceTypes:
 - video
 categories:
 - Kanban
 - People and Process
+- Metrics and Learning
 - Practical Techniques and Tooling
+- Flow Efficiency
+- Lean
 
 ---
 ### Transitioning from Traditional Project Management to Kanban

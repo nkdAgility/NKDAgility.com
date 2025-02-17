@@ -28,17 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Developers
-- Agile Strategy
 - Agile Philosophy
-- Software Development
 - Operational Practices
+- Agile Strategy
+- Software Developers
+- Software Development
 - Pragmatic Thinking
 - Engineering Excellence
 - Working Software
 - Agile Project Management
-- Agile Frameworks
 - Agile Transformation
+- Agile Frameworks
 - Continuous Delivery
 resourceTypes:
 - video

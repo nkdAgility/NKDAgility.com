@@ -26,8 +26,8 @@ categories:
 - Product Delivery
 - Value Delivery
 tags:
-- Product Validation
 - Product Discovery
+- Product Validation
 - Product Management
 - Customer Satisfaction
 - Product Owner

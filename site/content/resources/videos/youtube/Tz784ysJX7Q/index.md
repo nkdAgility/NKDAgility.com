@@ -24,8 +24,8 @@ duration: 469
 isShort: false
 tags:
 - Decision Making
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
 resourceTypes:
 - video
 sitemap:

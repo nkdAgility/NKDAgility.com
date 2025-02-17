@@ -28,8 +28,8 @@ tags:
 - Continuous Delivery
 - Customer Feedback Loops
 - Product Validation
-- Working Software
 - Frequent Releases
+- Working Software
 - Software Development
 
 ---

@@ -28,21 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Project Management
-- Agile Strategy
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
-- Strategy
-- Throughput
 - Transparency
+- Strategy
+- Agile Strategy
+- Agile Project Management
+- Software Development
+- Operational Practices
+- Agile Frameworks
+- Pragmatic Thinking
+- Throughput
 resourceTypes:
 - video
 categories:
 - Kanban
 - Metrics and Learning
 - Transparency and Accountability
+- Practical Techniques and Tooling
+- Flow Efficiency
+- People and Process
+- Value Delivery
 
 ---
 ### Embracing Kanban for Enhanced Workflow and Predictability

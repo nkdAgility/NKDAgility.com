@@ -24,32 +24,32 @@ duration: 379
 isShort: false
 tags:
 - Decision Making
-- Team Performance
-- Continuous Learning
-- Team Motivation
 - Team Collaboration
-- Organisational Culture
-- Product Management
-- Pragmatic Thinking
 - Change Management
-- Agile Philosophy
-- Agile Strategy
-- Organisational Physics
-- Transparency
-- Agile Leadership
-- Sensemaking
+- Team Motivation
+- Continuous Learning
+- Product Management
+- Organisational Culture
+- Team Performance
+- Pragmatic Thinking
 - Strategy
+- Organisational Physics
+- Sensemaking
+- Transparency
 - Technical Leadership
+- Agile Strategy
 - Operational Practices
+- Agile Leadership
+- Agile Philosophy
 - Ability to Innovate
-- Agile Values and Principles
-- Organisational Change
-- Evidence Based Leadership
 - Lean Product Development
-- Self Organisation
+- Agile Values and Principles
+- Evidence Based Leadership
+- Organisational Change
 - Accountability
-- Entrepreneurship
+- Self Organisation
 - Lean Principles
+- Entrepreneurship
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -58,15 +58,15 @@ resourceTypes:
 categories:
 - People and Process
 - Metrics and Learning
-- Decision Theory
-- Value Delivery
-- Business Agility
 - Transparency and Accountability
+- Value Delivery
+- Decision Theory
+- Business Agility
 - Discovery and Learning
-- Organisational Agility
 - Sociotechnical Systems
-- Agile Product Operating Model
+- Organisational Agility
 - Evidence Based Management
+- Agile Product Operating Model
 - Lean
 - Enterprise Agility
 

@@ -32,20 +32,20 @@ resourceTypes:
 - video
 categories:
 - People and Process
-- Discovery and Learning
 - Metrics and Learning
 - Resilience and Change
 - Practical Techniques and Tooling
-- Agile Product Management
-- Kanban
+- Discovery and Learning
+- Evidence Based Management
+- Systems Thinking
 - Market Adaptability
 - Value Delivery
-- Flow Efficiency
-- Systems Thinking
+- Agile Product Management
+- Organisational Agility
 - Lean
 - Product Delivery
-- Organisational Agility
-- Evidence Based Management
+- Flow Efficiency
+- Kanban
 
 ---
 In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

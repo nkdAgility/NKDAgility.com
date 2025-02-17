@@ -28,20 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Validation
 - Product Management
+- Product Validation
 - Hypothesis Driven Development
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
 - Evidence Based Management
+- People and Process
+- Agile Product Management
 - Metrics and Learning
-- Agile Product Operating Model
-- Decision Theory
 - Value Delivery
+- Decision Theory
 - Product Delivery
+- Agile Product Operating Model
 - Discovery and Learning
 
 ---

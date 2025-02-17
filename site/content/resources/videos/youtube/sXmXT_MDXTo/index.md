@@ -31,15 +31,15 @@ tags:
 - Pragmatic Thinking
 - Software Developers
 - Software Development
+- Engineering Excellence
 - Deployment Strategies
 - Deployment Frequency
-- Engineering Excellence
 - Technical Mastery
 - Operational Practices
 - Continuous Delivery
 - Frequent Releases
-- Decision Making
 - Release Management
+- Decision Making
 resourceTypes:
 - video
 categories:

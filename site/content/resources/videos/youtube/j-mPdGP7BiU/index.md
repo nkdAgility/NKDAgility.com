@@ -29,12 +29,12 @@ sitemap:
   priority: 0.6
 tags:
 - Experimentation
-- Product Validation
 - Continuous Learning
-- Decision Making
-- Hypothesis Driven Development
 - Product Management
+- Hypothesis Driven Development
 - Product Discovery
+- Decision Making
+- Product Validation
 - Lean Startup
 - Pragmatic Thinking
 - MVP

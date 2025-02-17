@@ -28,19 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Project Management
 - Cycle Time
 - Operational Practices
+- Agile Frameworks
+- Agile Project Management
 - Pragmatic Thinking
-- Software Development
 - Throughput
+- Software Development
 resourceTypes:
 - video
 categories:
 - Kanban
 - Metrics and Learning
 - People and Process
+- Practical Techniques and Tooling
+- Flow Efficiency
 
 ---
 ### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot

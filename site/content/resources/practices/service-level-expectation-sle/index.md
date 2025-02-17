@@ -23,22 +23,22 @@ card:
   title: Service Level Expectation (SLE)
 categories:
 - Scrum
-- Flow Efficiency
 - Metrics and Learning
+- Flow Efficiency
 tags:
 - Scrum Team
 - Cycle Time
 - Scrum Product Development
-- Agile Frameworks
 - Empirical Process Control
-- Agile Project Management
-- Transparency
-- Pragmatic Thinking
 - Estimation
+- Operational Practices
+- Transparency
+- Agile Frameworks
+- Throughput
+- Agile Project Management
 - Software Development
 - Forecasting
-- Throughput
-- Operational Practices
+- Pragmatic Thinking
 - Agile Planning
 
 ---
