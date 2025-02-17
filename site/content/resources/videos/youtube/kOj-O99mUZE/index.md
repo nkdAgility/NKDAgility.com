@@ -28,27 +28,37 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
+- Scaled Agile
 - Agile Project Management
+- Scaling Kanban
 - Agile Strategy
-- Agile Transformation
+- Agile Frameworks
+- Portfolio Management
+- Scaling Agility
 - Large Scale Agility
 - Operational Practices
-- Organisational Change
-- Organisational Physics
-- Portfolio Management
-- Pragmatic Thinking
-- Scaled Agile
-- Scaling Agility
-- Scaling Kanban
-- Strategy
 - Throughput
+- Organisational Physics
+- Strategy
+- Pragmatic Thinking
+- Agile Transformation
 resourceTypes:
 - video
 categories:
 - Kanban
-- Product Delivery
 - Value Delivery
+- Product Delivery
+- Agile Product Operating Model
+- People and Process
+- Flow Efficiency
+- Systems Thinking
+- Social Technologies
+- Enterprise Agility
+- Business Agility
+- Practical Techniques and Tooling
+- Value Stream Management
+- Sociotechnical Systems
+- Organisational Agility
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

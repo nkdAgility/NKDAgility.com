@@ -28,10 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Philosophy
 - Agile Values and Principles
-- Team Collaboration
+- Agile Philosophy
 - Team Motivation
+- Team Collaboration
 resourceTypes:
 - video
 categories:

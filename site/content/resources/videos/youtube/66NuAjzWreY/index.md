@@ -27,8 +27,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
 - Evidence Based Leadership
+- Decision Making
 resourceTypes:
 - video
 layout: video

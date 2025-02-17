@@ -27,7 +27,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Philosophy
+- Operational Practices
+- Software Development
+- Deployment Frequency
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

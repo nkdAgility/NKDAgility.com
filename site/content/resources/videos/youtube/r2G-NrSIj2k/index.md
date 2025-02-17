@@ -24,10 +24,10 @@ duration: 116
 isShort: false
 tags:
 - Engineering Practices
-- Modern Source Control
 - Technical Mastery
 - Engineering Excellence
 - Software Development
+- Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
 sitemap:
@@ -36,8 +36,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Practical Techniques and Tooling
 - Code and Complexity
+- Practical Techniques and Tooling
 - Technical Excellence
 - DevOps
 

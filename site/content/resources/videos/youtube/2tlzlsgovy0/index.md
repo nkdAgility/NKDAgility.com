@@ -20,7 +20,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
 duration: 56
 isShort: true
-tags: []
+tags:
+- Strategic Goals
+- Agile Values and Principles
+- Product Management
+- Agile Strategy
+- Strategy
+- Team Motivation
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,9 +36,9 @@ layout: video
 resourceTypes:
 - video
 categories:
+- People and Process
 - Agile Product Management
 - Agile Product Operating Model
-- People and Process
 - Organisational Agility
 - Value Delivery
 

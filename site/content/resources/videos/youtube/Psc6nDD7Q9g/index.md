@@ -27,18 +27,27 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Transparency
+- Software Development
+- Operational Practices
+- Agile Frameworks
+- Agile Project Management
+- Lean Thinking
+- Empirical Process Control
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
 - Metrics and Learning
-- People and Process
 - Transparency and Accountability
+- People and Process
 - Practical Techniques and Tooling
+- Social Technologies
 - Value Delivery
-- Flow Efficiency
 - Lean
+- Flow Efficiency
 
 ---
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for continuous improvement is **Kanban**.

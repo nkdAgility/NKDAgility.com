@@ -37,13 +37,13 @@ tags:
 - Transparency
 - Throughput
 - Increment
-- Scrum Product Development
 - Empirical Process Control
+- Scrum Product Development
 - Scrum Team
 - Cycle Time
+- Software Developers
 - Team Performance
 - Agile Project Management
-- Software Developers
 - Software Development
 - Agile Frameworks
 - Pragmatic Thinking

@@ -22,12 +22,13 @@ categories:
 - Products and Books
 - People and Process
 - Events and Presentations
+- Social Technologies
 - Practical Techniques and Tooling
 - Product Delivery
 - Value Delivery
 tags:
-- Product Validation
 - Product Discovery
+- Product Validation
 - Product Management
 - Customer Satisfaction
 - Product Owner

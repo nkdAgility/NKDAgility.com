@@ -22,7 +22,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
-tags: []
+tags:
+- Professional Scrum
+- Scrum Master
+- Continuous Learning
+- Agile Transformation
+- Agile Frameworks
+- Team Performance
+- Agile Project Management
+- Software Development
+- Pragmatic Thinking
+- Coaching
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -30,16 +41,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- Discovery and Learning
-- Agile Product Management
-- News and Reviews
-- People and Process
-- Value Delivery
-- Events and Presentations
-- Product Delivery
-- Organisational Agility
-- Products and Books
+- Social Technologies
 
 ---
  If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience. Visit https://www.nkdagility.com to explore how we can help you. #agile #scrum 

@@ -30,8 +30,8 @@ categories:
 - People and Process
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
-- Agile Frameworks
 - Agile Philosophy
+- Agile Frameworks
 - Agile Transformation
 - Organisational Culture
 

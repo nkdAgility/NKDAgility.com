@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true
-tags: []
+tags:
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,20 +30,21 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
 - Transparency and Accountability
-- Value Stream Management
-- Discovery and Learning
+- People and Process
 - Metrics and Learning
 - Value Delivery
-- Flow Efficiency
 - Practical Techniques and Tooling
 - Products and Books
+- Value Stream Management
+- Discovery and Learning
+- Flow Efficiency
 - Systems Thinking
+- Organisational Agility
+- Social Technologies
 - Lean
 - Business Agility
 - Product Delivery
-- Organisational Agility
 
 ---
 When I find myself in discussions about Caman versus Scrum, I often notice a common thread: a misunderstanding of what Caman truly represents. It’s crucial to clarify that Caman is not merely another framework to pit against Scrum; rather, it’s a versatile strategy that can be applied across various systems and processes. 

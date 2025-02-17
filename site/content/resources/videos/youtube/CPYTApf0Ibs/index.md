@@ -31,29 +31,29 @@ tags:
 - Product Management
 - Strategy
 - Agile Values and Principles
-- Strategic Goals
 - Agile Planning
 - Agile Leadership
-- Product Strategy
-- Team Performance
-- Team Collaboration
+- Strategic Goals
+- Agile Frameworks
+- Agile Philosophy
 - Software Development
 - Organisational Culture
 - Agile Project Management
-- Agile Philosophy
-- Technical Leadership
-- Team Motivation
-- Agile Transformation
-- Agile Frameworks
-- Product Owner
 - Agile Strategy
-- Employee Engagement
-- Change Management
+- Team Performance
+- Agile Transformation
+- Product Strategy
+- Product Owner
+- Team Motivation
+- Team Collaboration
+- Technical Leadership
 - Pragmatic Thinking
-- Organisational Change
-- Sensemaking
-- Decision Making
 - Transparency
+- Employee Engagement
+- Decision Making
+- Sensemaking
+- Organisational Change
+- Change Management
 - Operational Practices
 - Software Developers
 resourceTypes:

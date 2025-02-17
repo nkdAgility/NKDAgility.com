@@ -24,17 +24,17 @@ duration: 169
 isShort: false
 tags:
 - Technical Leadership
-- Engineering Practices
-- Agile Project Management
-- Software Developers
 - Agile Philosophy
 - Engineering Excellence
+- Software Developers
+- Engineering Practices
+- Agile Project Management
 - Software Development
 - Pragmatic Thinking
 - Agile Values and Principles
-- Agile Transformation
 - Working Software
 - Continuous Learning
+- Agile Transformation
 - Agile Strategy
 - Agile Planning
 - Operational Practices
@@ -46,10 +46,11 @@ resourceTypes:
 categories:
 - People and Process
 - Product Delivery
+- Complexity Thinking
 - Market Adaptability
 - Value Delivery
 - Organisational Agility
-- Complexity Thinking
+- Social Technologies
 - Business Agility
 
 ---

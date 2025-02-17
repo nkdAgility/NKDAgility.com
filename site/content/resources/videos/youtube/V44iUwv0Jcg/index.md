@@ -21,7 +21,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: true
-tags: []
+tags:
+- Lean Thinking
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,6 +31,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Discovery and Learning
 
 ---

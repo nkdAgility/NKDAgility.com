@@ -28,24 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Cycle Time
-- Decision Making
-- Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
-- Strategy
-- Throughput
 - Transparency
+- Cycle Time
+- Evidence Based Leadership
+- Empirical Process Control
+- Operational Practices
+- Throughput
+- Agile Project Management
+- Decision Making
+- Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
 - Metrics and Learning
 - Transparency and Accountability
+- Evidence Based Management
+- Practical Techniques and Tooling
+- Flow Efficiency
+- Social Technologies
+- Value Delivery
 
 ---
 ### Avoiding Common Mistakes in Your Kanban Strategy

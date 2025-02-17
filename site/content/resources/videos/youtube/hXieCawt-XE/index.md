@@ -28,22 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Project Management
-- Coaching
-- Lean Principles
-- Lean Thinking
 - Operational Practices
-- Pragmatic Thinking
+- Lean Thinking
 - Software Development
-- Strategy
+- Pragmatic Thinking
+- Agile Frameworks
 - Throughput
+- Agile Project Management
+- Lean Principles
 resourceTypes:
 - video
 categories:
-- Flow Efficiency
 - Kanban
+- Flow Efficiency
 - Practical Techniques and Tooling
+- Social Technologies
+- Lean
 
 ---
 When implementing a Kanban strategy, we're essentially creating a pull-based system of work. This methodology, which originated in lean manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.

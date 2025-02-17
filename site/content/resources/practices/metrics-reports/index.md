@@ -25,31 +25,31 @@ card:
   title: Metrics and Reports
 categories:
 - Metrics and Learning
-- Flow Efficiency
 - Transparency and Accountability
-- Practical Techniques and Tooling
-- Agile Product Operating Model
+- Flow Efficiency
 - Value Delivery
+- Practical Techniques and Tooling
 - Product Delivery
+- Agile Product Operating Model
 - Evidence Based Management
-- Value Stream Management
 - People and Process
+- Value Stream Management
 tags:
 - Transparency
 - Throughput
-- Team Performance
 - Product Management
-- Cycle Time
 - Operational Practices
+- Team Performance
+- Cycle Time
+- Evidence Based Leadership
 - Empirical Process Control
 - Agile Project Management
-- Pragmatic Thinking
 - Deployment Frequency
-- Evidence Based Leadership
+- Pragmatic Thinking
 - Release Management
 - Working Software
-- Decision Making
 - Engineering Excellence
+- Decision Making
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

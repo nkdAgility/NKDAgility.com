@@ -28,7 +28,10 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- People and Process
+- Organisational Psychology
+- Leadership
 
 ---
 In my journey through organisational change, I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 

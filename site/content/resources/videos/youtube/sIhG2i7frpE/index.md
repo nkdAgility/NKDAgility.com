@@ -21,7 +21,12 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 isShort: true
-tags: []
+tags:
+- Operational Practices
+- Pragmatic Thinking
+- Transparency
+- Continuous Learning
+- Lean Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +36,8 @@ resourceTypes:
 categories:
 - Metrics and Learning
 - Kanban
-- Discovery and Learning
 - Practical Techniques and Tooling
+- Discovery and Learning
 
 ---
 In my journey with Caman, I've come to realise that one of its core tenets is the relentless pursuit of improvement. It’s not just about making changes for the sake of change; it’s about implementing thoughtful adjustments to our systems and processes to genuinely enhance our outcomes. This is where metrics and visual tools come into play, serving as our guiding lights in the often murky waters of data.

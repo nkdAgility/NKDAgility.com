@@ -29,12 +29,11 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
-- Strategy
 resourceTypes:
 - video
 categories:
-- Kanban
 - Metrics and Learning
+- Social Technologies
 - Practical Techniques and Tooling
 
 ---

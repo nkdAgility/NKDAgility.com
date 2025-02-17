@@ -59,6 +59,7 @@ card:
   title: The Scrum Guide
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Scrum Product Development
 - Agile Project Management

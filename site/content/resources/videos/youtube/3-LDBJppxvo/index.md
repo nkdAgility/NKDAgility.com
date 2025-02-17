@@ -26,11 +26,34 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Customer Feedback Loops
+- Working Software
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Transformation
+- Software Developers
+- Agile Project Management
+- Software Development
+- Scrum Product Development
+- Product Validation
+- Empirical Process Control
+- Pragmatic Thinking
+- Increment
+- Experimentation
+- Lean Startup
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Product Delivery
+- Discovery and Learning
+- Market Adaptability
+- Organisational Agility
+- Social Technologies
 
 ---
 In the ever-evolving world of Agile, the ability to deliver working software to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.

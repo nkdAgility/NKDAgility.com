@@ -24,24 +24,24 @@ duration: 496
 isShort: false
 tags:
 - Agile Project Management
-- Product Management
 - Change Management
 - Agile Values and Principles
-- Organisational Change
-- Agile Frameworks
-- Agile Planning
-- Portfolio Management
-- Agile Philosophy
+- Product Management
 - Decision Making
+- Agile Philosophy
+- Portfolio Management
 - Agile Transformation
+- Agile Planning
+- Organisational Change
 - Agile Strategy
 - Pragmatic Thinking
-- Organisational Physics
+- Agile Frameworks
 - Strategy
-- Evidence Based Leadership
 - Operational Practices
-- Digital Transformation
+- Evidence Based Leadership
+- Organisational Physics
 - Software Development
+- Digital Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -52,15 +52,16 @@ categories:
 - Agile Product Operating Model
 - People and Process
 - Resilience and Change
+- Evidence Based Management
 - Market Adaptability
 - Value Delivery
 - Business Agility
 - Product Delivery
-- Evidence Based Management
 - Organisational Agility
+- Social Technologies
 - Enterprise Agility
-- Decision Theory
 - Sociotechnical Systems
+- Decision Theory
 
 ---
 In the world of traditional budgeting, we often find ourselves entrenched in a cycle that feels more like a battleground than a strategic planning session. Each year, we gather around the table, armed with our spreadsheets and projections, ready to fight for our share of the budget pie. It’s a familiar scene: departments squabbling over funds, each vying for the largest slice, knowing that if they don’t spend their allocated budget, they risk losing it the following year. 

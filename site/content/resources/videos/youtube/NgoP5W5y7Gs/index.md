@@ -25,10 +25,10 @@ isShort: false
 tags:
 - Software Developers
 - Software Development
-- Engineering Practices
-- Pragmatic Thinking
 - Technical Mastery
 - Engineering Excellence
+- Engineering Practices
+- Pragmatic Thinking
 - Operational Practices
 sitemap:
   filename: sitemap.xml

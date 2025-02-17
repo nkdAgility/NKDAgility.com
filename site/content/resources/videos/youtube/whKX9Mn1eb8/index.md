@@ -24,8 +24,8 @@ duration: 48
 isShort: true
 tags:
 - Software Development
-- Engineering Practices
 - Engineering Excellence
+- Engineering Practices
 - Technical Mastery
 - Working Software
 sitemap:

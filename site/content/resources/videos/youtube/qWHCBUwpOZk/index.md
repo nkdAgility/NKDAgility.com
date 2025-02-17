@@ -26,22 +26,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Project Management
-- Cycle Time
-- Lean Principles
-- Lean Thinking
 - Operational Practices
-- Pragmatic Thinking
-- Software Development
-- Strategy
+- Lean Thinking
+- Agile Frameworks
 - Throughput
+- Agile Project Management
+- Software Development
+- Pragmatic Thinking
+- Lean Principles
+- Cycle Time
 resourceTypes:
 - video
 categories:
 - Kanban
-- Practical Techniques and Tooling
+- Metrics and Learning
+- People and Process
 - Value Delivery
+- Practical Techniques and Tooling
+- Flow Efficiency
+- Social Technologies
+- Lean
+- Value Stream Management
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

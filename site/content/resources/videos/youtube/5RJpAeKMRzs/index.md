@@ -21,18 +21,6 @@ preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
 duration: 2299
 isShort: false
 tags:
-- Accountability
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Organisational Culture
-- Pragmatic Thinking
-- Scrum Product Development
-- Software Developers
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -42,9 +30,12 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Agile Product Management
+- Scrum
 - People and Process
+- Agile Product Management
 - Product Delivery
+- Organisational Agility
+- Social Technologies
 
 ---
 Agile is hard, and it’s designed for complex environments. Over the years, I’ve encountered numerous behaviours in organisations that can only be described as suboptimal. Today, I want to share my insights on what I call the "Seven Deadly Sins of Agile." These are pitfalls that can hinder your Agile transformation and prevent you from achieving true agility.

@@ -21,7 +21,11 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
-tags: []
+tags:
+- Evidence Based Leadership
+- Decision Making
+- Pragmatic Thinking
+- Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

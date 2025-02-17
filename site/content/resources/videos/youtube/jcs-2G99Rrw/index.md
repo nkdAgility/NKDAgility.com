@@ -23,10 +23,10 @@ duration: 2034
 isShort: false
 tags:
 - Azure Boards
-- Pragmatic Thinking
+- Troubleshooting
 - Software Developers
 - Software Development
-- Troubleshooting
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,9 +34,11 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
+- One Engineering System (1ES)
+- Azure DevOps
 - Product Delivery
+- Practical Techniques and Tooling
 
 ---
 I work with many enterprise organisations that utilise Azure DevOps, and I often encounter practices that either diminish the effectiveness of its features or, in some cases, break them entirely. Recently, I had the opportunity to speak with Dan Helm, the principal product manager for Azure DevOps, about the top issues that users face. Today, I want to share those insights with you, drawing from my extensive experience as a professional Scrum trainer and Microsoft MVP in GitHub and Azure DevOps.

@@ -34,8 +34,8 @@ resourceTypes:
 categories:
 - DevOps
 - Azure DevOps
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 In today’s fast-paced tech landscape, staying ahead often means making strategic moves that streamline processes and enhance collaboration. For organizations still utilizing Team Foundation Server (TFS), migrating to Azure DevOps is one such strategic move that promises enhanced agility and efficiency. However, this migration is not always straightforward. Let’s dive into the intricacies of this transition and explore how to do it seamlessly, leveraging the right tools and expertise.

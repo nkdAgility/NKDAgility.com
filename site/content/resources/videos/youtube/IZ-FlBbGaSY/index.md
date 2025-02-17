@@ -24,8 +24,8 @@ duration: 451
 isShort: false
 tags:
 - Engineering Excellence
-- Continuous Integration
 - Continuous Delivery
+- Continuous Integration
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -35,8 +35,8 @@ resourceTypes:
 categories:
 - DevOps
 - Product Delivery
-- Practical Techniques and Tooling
 - Value Delivery
+- Practical Techniques and Tooling
 - Technical Excellence
 - Application Lifecycle Management
 - Azure DevOps

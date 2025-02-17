@@ -26,21 +26,21 @@ tags:
 - Deployment Strategies
 - Software Development
 - Continuous Delivery
-- Software Developers
-- Frequent Releases
 - Technical Mastery
-- Deployment Frequency
+- Frequent Releases
 - Engineering Excellence
 - Operational Practices
+- Software Developers
+- Deployment Frequency
 - Pragmatic Thinking
 - Strategy
 categories:
 - DevOps
-- Value Delivery
 - Azure DevOps
+- Value Delivery
 - Product Delivery
-- Technical Excellence
 - Practical Techniques and Tooling
+- Technical Excellence
 - Market Adaptability
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []

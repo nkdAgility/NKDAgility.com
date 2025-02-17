@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Strategy
 resourceTypes:
 - video
 categories:

@@ -37,13 +37,14 @@ card:
   title: Nexus Guide
 categories:
 - Scrum
+- Social Technologies
 - Product Delivery
 tags:
 - Scaling Scrum
 - Scaled Agile
 - Scrum Product Development
-- Scrum Team
 - Large Scale Agility
+- Scrum Team
 - Professional Scrum
 - Software Development
 - Scaling Agility

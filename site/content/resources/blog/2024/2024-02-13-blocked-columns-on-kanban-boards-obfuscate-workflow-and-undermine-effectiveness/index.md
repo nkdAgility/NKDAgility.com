@@ -29,19 +29,20 @@ tags:
 - Transparency
 - Azure Boards
 - Software Development
+- Operational Practices
 - Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
-- Operational Practices
 - Lean Thinking
 categories:
 - Flow Efficiency
 - Kanban
 - Azure DevOps
 - Practical Techniques and Tooling
+- Social Technologies
 - Lean
-- People and Process
 - Transparency and Accountability
+- People and Process
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 
 ---

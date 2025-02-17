@@ -23,6 +23,7 @@ card:
   title: Accountabilities for the Scrum Team
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Scrum Team
 - Agile Frameworks

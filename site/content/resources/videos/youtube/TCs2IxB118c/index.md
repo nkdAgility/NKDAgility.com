@@ -33,6 +33,7 @@ resourceTypes:
 - video
 categories:
 - People and Process
+- Leadership
 - Organisational Psychology
 - Discovery and Learning
 - Personal

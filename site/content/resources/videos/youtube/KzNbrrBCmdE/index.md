@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true
-tags: []
+tags:
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,10 +33,10 @@ categories:
 - People and Process
 - Resilience and Change
 - Market Adaptability
-- Decision Theory
-- Business Agility
 - Miscellaneous
 - Organisational Agility
+- Decision Theory
+- Business Agility
 - Enterprise Agility
 
 ---

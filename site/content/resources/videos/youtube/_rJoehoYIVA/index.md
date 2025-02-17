@@ -27,8 +27,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

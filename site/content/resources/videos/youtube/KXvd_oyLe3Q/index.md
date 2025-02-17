@@ -30,22 +30,22 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Continuous Learning
-- Engineering Practices
-- Engineering Excellence
+- Ability to Innovate
+- Technical Leadership
 - Technical Debt
+- Engineering Excellence
+- Engineering Practices
 - Frequent Releases
 - Technical Mastery
-- Ability to Innovate
 - Change Management
-- Technical Leadership
-- Strategy
-- Deployment Frequency
-- Digital Transformation
-- Software Development
-- Throughput
-- Organisational Physics
 - Operational Practices
 - Software Developers
+- Throughput
+- Software Development
+- Organisational Physics
+- Deployment Frequency
+- Strategy
+- Digital Transformation
 - Continuous Delivery
 - Organisational Change
 resourceTypes:

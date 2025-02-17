@@ -24,15 +24,15 @@ duration: 891
 isShort: false
 tags:
 - Pragmatic Thinking
-- Engineering Practices
 - Working Software
 - Software Developers
+- Engineering Practices
 - Continuous Delivery
 - Engineering Excellence
-- Software Development
 - Operational Practices
-- Frequent Releases
+- Software Development
 - Technical Mastery
+- Frequent Releases
 - Deployment Strategies
 resourceTypes:
 - video

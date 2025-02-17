@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Management
 - Product Owner
+- Product Management
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - People and Process
+- Agile Product Management
 - Products and Books
 
 ---

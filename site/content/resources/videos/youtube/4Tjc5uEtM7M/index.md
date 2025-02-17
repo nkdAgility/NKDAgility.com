@@ -21,8 +21,8 @@ preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false
 tags:
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
 - Software Development
 sitemap:
   filename: sitemap.xml

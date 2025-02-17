@@ -27,11 +27,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Learning
-- Technical Leadership
 - Change Management
 - Organisational Change
+- Continuous Learning
 - Product Management
+- Technical Leadership
 - Organisational Culture
 - Team Performance
 - Pragmatic Thinking
@@ -46,10 +46,12 @@ resourceTypes:
 layout: video
 categories:
 - People and Process
+- Leadership
 - Organisational Agility
 - Sociotechnical Systems
-- Resilience and Change
+- Social Technologies
 - Value Delivery
+- Resilience and Change
 - Discovery and Learning
 - Business Agility
 - Enterprise Agility

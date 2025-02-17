@@ -30,26 +30,26 @@ tags:
 - Agile Values and Principles
 - Agile Leadership
 - Operational Practices
-- Team Performance
-- Team Collaboration
-- Software Development
 - Agile Philosophy
-- Agile Strategy
-- Software Developers
-- Organisational Change
+- Software Development
 - Agile Project Management
+- Team Performance
 - Technical Leadership
-- Team Motivation
-- Continuous Learning
-- Agile Transformation
+- Software Developers
 - Agile Frameworks
-- Change Management
+- Agile Strategy
 - Empirical Process Control
+- Organisational Change
+- Team Motivation
+- Change Management
+- Agile Transformation
+- Team Collaboration
+- Continuous Learning
 - Self Organisation
-- Organisational Physics
 - Pragmatic Thinking
-- Organisational Culture
 - Lean Thinking
+- Organisational Culture
+- Organisational Physics
 - Lean Product Development
 - Lean Principles
 - Agile Planning
@@ -58,19 +58,21 @@ resourceTypes:
 layout: video
 categories:
 - People and Process
-- Agile Product Management
-- Agile Product Operating Model
+- Leadership
 - Value Delivery
+- Agile Product Management
 - Business Agility
-- Organisational Agility
-- Discovery and Learning
+- Agile Product Operating Model
 - Sociotechnical Systems
+- Organisational Agility
 - Enterprise Agility
+- Discovery and Learning
 - Beta Codex
+- Social Technologies
 - Lean
 - Value Stream Management
-- Market Adaptability
 - Personal
+- Market Adaptability
 
 ---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword—it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.

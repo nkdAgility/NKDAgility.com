@@ -35,8 +35,8 @@ tags:
 - Strategy
 - Software Development
 - Engineering Excellence
-- Team Collaboration
 - Operational Practices
+- Team Collaboration
 - Pragmatic Thinking
 - Collaboration Tools
 - Software Developers

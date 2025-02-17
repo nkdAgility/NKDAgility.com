@@ -21,7 +21,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
-tags: []
+tags:
+- Operational Practices
+- Software Development
+- Lean Principles
+- Lean Thinking
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,6 +38,7 @@ resourceTypes:
 categories:
 - Kanban
 - Practical Techniques and Tooling
+- Social Technologies
 - Flow Efficiency
 
 ---

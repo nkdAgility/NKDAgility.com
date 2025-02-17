@@ -29,6 +29,7 @@ categories:
 - Value Delivery
 - Product Delivery
 - Organisational Agility
+- Social Technologies
 tags:
 - Agile Values and Principles
 - Agile Philosophy

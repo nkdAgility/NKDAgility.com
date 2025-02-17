@@ -26,17 +26,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
-- Estimation
-- Forecasting
 - Operational Practices
+- Forecasting
 - Pragmatic Thinking
-- Strategy
+- Estimation
+- Decision Making
 resourceTypes:
 - video
 categories:
 - Metrics and Learning
 - Practical Techniques and Tooling
+- Social Technologies
 - Value Delivery
 
 ---

@@ -27,19 +27,30 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Leadership
+- Product Management
+- Agile Strategy
+- Agile Planning
+- Customer Satisfaction
+- Customer Feedback Loops
 resourceTypes:
 - video
 categories:
+- People and Process
 - Agile Product Management
 - Agile Product Operating Model
-- People and Process
 - Market Adaptability
 - Value Delivery
-- Business Agility
 - Organisational Agility
-- Discovery and Learning
+- Social Technologies
+- Business Agility
 - Product Delivery
+- Discovery and Learning
 
 ---
 In today’s fast-paced world, where user needs and market dynamics are constantly evolving, being agile is no longer a luxury—it’s a necessity. But what does it mean to truly be agile? At its core, agility is about responding to change over following a plan. This means that your teams need the freedom to adapt, especially when it comes to changing requirements based on user feedback.

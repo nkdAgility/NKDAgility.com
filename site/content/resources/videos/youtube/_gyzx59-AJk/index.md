@@ -29,7 +29,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
 duration: 289
 isShort: false
-tags: []
+tags:
+- Deployment Frequency
+- Frequent Releases
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -39,19 +41,19 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Discovery and Learning
 - Metrics and Learning
-- Agile Product Management
+- Evidence Based Management
 - Market Adaptability
 - News and Reviews
-- Agile Product Operating Model
 - Value Delivery
+- Agile Product Management
+- Organisational Agility
 - Business Agility
 - Practical Techniques and Tooling
 - Product Delivery
-- Organisational Agility
-- Evidence Based Management
 - Enterprise Agility
+- Agile Product Operating Model
+- Discovery and Learning
 - Technical Excellence
 - Flow Efficiency
 

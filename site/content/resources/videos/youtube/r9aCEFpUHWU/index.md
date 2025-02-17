@@ -22,14 +22,14 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Scrum Product Development
-- Scrum Team
 - Professional Scrum
+- Scrum Team
+- Scrum Product Development
 - Scrum Master
 - Team Performance
 - Software Development
-- Agile Frameworks
 - Technical Leadership
+- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
 - Operational Practices
@@ -41,9 +41,10 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Agile Product Management
 - People and Process
+- Agile Product Management
 - Product Delivery
+- Social Technologies
 - Value Delivery
 - Sociotechnical Systems
 

@@ -17,26 +17,14 @@ aliasesFor404:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
-- Discovery and Learning
-- People and Process
 - Scrum
+- People and Process
+- Discovery and Learning
+- Events and Presentations
+- Products and Books
+- Social Technologies
 - Value Delivery
-- Organisational Agility
-tags:
-- Scrum Product Management
-- Professional Scrum
-- Continuous Learning
-- Agile Product Ownership
-- Team Collaboration
-- Agile Planning
-- Evidence Based Management
-- Agile Product Discovery
-- Scrum Team
-- Agile Software Development
-- Value Delivery
-- Customer Feedback Loops
-- Agile Transformation
-- Technical Excellence
+tags: []
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:
