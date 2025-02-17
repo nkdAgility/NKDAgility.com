@@ -21,7 +21,8 @@ aliasesFor404:
 - /envisioning-vs-provisioning
 - /blog/envisioning-vs-provisioning
 - /resources/blog/envisioning-vs-provisioning
-tags: []
+tags:
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

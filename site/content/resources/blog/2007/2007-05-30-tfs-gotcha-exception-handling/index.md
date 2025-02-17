@@ -25,7 +25,10 @@ aliasesFor404:
 - /tfs-gotcha-(exception-handling)
 - /blog/tfs-gotcha-(exception-handling)
 - /resources/blog/tfs-gotcha-exception-handling
-tags: []
+tags:
+- Software Development
+- Troubleshooting
+- Technical Mastery
 categories: []
 
 ---

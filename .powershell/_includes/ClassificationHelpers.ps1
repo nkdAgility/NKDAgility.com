@@ -296,7 +296,9 @@ function Get-CategoryConfidenceWithChecksum {
     #==========================================
     #=================return===================
     #==========================================
-    $finalSelection = $categoryScores.Values | Where-Object { $_.level -ne "Ignored" } | Sort-Object final_score -Descending | Select-Object -First $MaxCategories
+    $finalSelection = $categoryScores.Values | Where-Object { $_.level -eq "Primary" } | Sort-Object final_score -Descending
+    $finalSelection += $categoryScores.Values | Where-Object { $_.level -eq "Secondary" } | Sort-Object final_score -Descending | Select-Object -First ($MaxCategories - $finalSelection.Count)
+    $finalSelection = $finalSelection | Sort-Object final_score -Descending
     return $finalSelection | ConvertTo-Json -Depth 1
     #==========================================
     #================/return===================

@@ -21,7 +21,11 @@ aliasesFor404:
 - /creating-wcf-service-host-programmatically
 - /blog/creating-wcf-service-host-programmatically
 - /resources/blog/creating-wcf-service-host-programmatically
-tags: []
+tags:
+- Windows
+- Software Development
+- System Configuration
+- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

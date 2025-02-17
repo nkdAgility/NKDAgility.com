@@ -21,7 +21,10 @@ aliasesFor404:
 - /custom-wcf-proxy
 - /blog/custom-wcf-proxy
 - /resources/blog/custom-wcf-proxy
-tags: []
+tags:
+- Software Development
+- Technical Mastery
+- Windows
 preview: metro-merilllynch-128-link-1-1.png
 categories: []
 
