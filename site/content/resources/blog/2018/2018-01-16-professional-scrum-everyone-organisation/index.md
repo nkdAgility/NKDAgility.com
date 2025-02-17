@@ -27,55 +27,57 @@ aliasesFor404:
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
 tags:
-- Transparency
-- Scrum Product Development
-- Organisational Change
-- Professional Scrum
-- Scrum Master
-- Agile Project Management
-- Change Management
-- Software Developers
-- Team Performance
-- Scaling Agility
-- Team Collaboration
-- Software Development
-- Agile Planning
-- Organisational Culture
-- Agile Philosophy
-- Agile Strategy
-- Agile Leadership
-- Self Organisation
-- Empirical Process Control
-- Team Motivation
-- Agile Transformation
-- Agile Frameworks
-- Organisational Physics
-- Strategy
-- Pragmatic Thinking
-- Technical Leadership
-- Coaching
-- Continuous Learning
-- Digital Transformation
-- Operational Practices
-- Working Software
-categories:
 - People and Process
+- Transparency
 - Scrum
 - Agile Product Management
-- Events and Presentations
-- Agile Product Operating Model
+- Organisational Change
+- Scrum Product Development
 - Value Delivery
-- Resilience and Change
-- Business Agility
-- Organisational Agility
-- Transparency and Accountability
+- Events and Presentations
 - Product Delivery
-- Evidence Based Management
-- Enterprise Agility
+- Transparency and Accountability
+- Professional Scrum
+- Organisational Agility
+- Agile Product Operating Model
+- Business Agility
+- Scrum Master
+- Agile Project Management
+- Software Developers
+- Change Management
+- Resilience and Change
 - Market Adaptability
+- Agile Leadership
+- Scaling Agility
+- Organisational Culture
+- Agile Strategy
+- Agile Frameworks
+- Agile Transformation
+- Agile Philosophy
+- Empirical Process Control
+- Software Development
+- Team Performance
+- Organisational Physics
+- Evidence Based Management
+- Agile Planning
+- Self Organisation
+- Team Motivation
 - Discovery and Learning
+- Enterprise Agility
+- Team Collaboration
+- Digital Transformation
+- Strategy
+- Continuous Learning
+- Pragmatic Thinking
+- Technical Leadership
+- Operational Practices
+- Coaching
 - Sociotechnical Systems
+- Working Software
 - Personal
+categories:
+- Leadership
+- Social Technologies
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

@@ -1357,5 +1357,23 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile practices and DevOps, with no focus on Test Driven Development or its principles.",
     "level": "Ignored"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T13:08:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps practices and operational changes rather than leadership strategies or practices.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T13:08:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the shift towards agility and DevOps practices, which are related to Agile methodologies, but the primary focus is on Continuous Delivery and operational needs rather than the specific frameworks of Scrum, Kanban, Lean, or Agile.",
+    "level": "Tertiary"
   }
 }

@@ -30,13 +30,14 @@ aliasesFor404:
 - /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 categories:
-- News and Reviews
-- Events and Presentations
-- People and Process
-- Personal
+- Social Technologies
 preview: -1-1.jpg
 tags:
+- Events and Presentations
+- News and Reviews
 - Software Development
+- People and Process
+- Personal
 
 ---
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.

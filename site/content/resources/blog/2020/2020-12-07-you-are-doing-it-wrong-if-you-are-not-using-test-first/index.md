@@ -26,9 +26,9 @@ tags:
 - Test First Development
 - Software Development
 - Engineering Practices
-- Engineering Excellence
-categories:
 - Technical Excellence
+categories:
+- Engineering Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

@@ -27,11 +27,13 @@ aliasesFor404:
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
-- People and Process
+- Product Management
+- Social Technologies
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
-- Agile Frameworks
 - Agile Philosophy
+- Agile Frameworks
+- People and Process
 - Agile Transformation
 - Organisational Culture
 

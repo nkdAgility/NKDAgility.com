@@ -28,16 +28,8 @@ aliasesFor404:
 tags:
 - Organisational Change
 categories:
-- Scrum
-- People and Process
-- Resilience and Change
-- Organisational Agility
-- Organisational Psychology
-- Business Agility
-- Enterprise Agility
-- Value Delivery
-- Sociotechnical Systems
-- Practical Techniques and Tooling
+- Leadership
+- Social Technologies
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

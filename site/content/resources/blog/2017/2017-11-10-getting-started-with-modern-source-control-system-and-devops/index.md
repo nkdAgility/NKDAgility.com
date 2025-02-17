@@ -29,15 +29,8 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- Practical Techniques and Tooling
 - DevOps
-- Application Lifecycle Management
-- Value Delivery
-- Azure DevOps
-- Technical Excellence
-- Product Delivery
-- Market Adaptability
-- Products and Books
+- Engineering Excellence
 preview: excellence-1-1.jpg
 
 ---

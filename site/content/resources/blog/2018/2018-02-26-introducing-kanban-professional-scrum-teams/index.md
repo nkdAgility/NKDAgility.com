@@ -28,21 +28,22 @@ aliasesFor404:
 tags:
 - Throughput
 - Agile Project Management
-- Agile Frameworks
+- Metrics and Learning
+- Practical Techniques and Tooling
+- Products and Books
+- Flow Efficiency
 - Software Developers
 - Software Development
 - Operational Practices
+- Events and Presentations
+- Agile Frameworks
+- News and Reviews
 - Pragmatic Thinking
 - Professional Scrum
 - Agile Transformation
-categories:
-- Metrics and Learning
-- News and Reviews
-- Flow Efficiency
-- Events and Presentations
-- Practical Techniques and Tooling
-- Products and Books
 - Product Delivery
+categories:
+- Social Technologies
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

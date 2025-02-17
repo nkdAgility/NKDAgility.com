@@ -40,14 +40,8 @@ aliasesFor404:
 tags:
 - Product Owner
 categories:
-- Scrum
-- Agile Product Management
-- People and Process
-- Transparency and Accountability
-- Value Delivery
-- Product Delivery
-- Evidence Based Management
-- Agile Product Operating Model
+- Product Management
+- Social Technologies
 preview: image-3-3.png
 
 ---

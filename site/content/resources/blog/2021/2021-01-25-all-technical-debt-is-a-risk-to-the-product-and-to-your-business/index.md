@@ -29,11 +29,9 @@ aliasesFor404:
 tags:
 - Technical Debt
 categories:
-- People and Process
-- Product Delivery
-- Transparency and Accountability
-- Code and Complexity
-- Value Delivery
+- Engineering Excellence
+- Social Technologies
+- Product Management
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

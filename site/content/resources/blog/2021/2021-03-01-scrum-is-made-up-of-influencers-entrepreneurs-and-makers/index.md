@@ -32,17 +32,19 @@ aliasesFor404:
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
 - Agile Project Management
+- People and Process
 - Agile Frameworks
+- Value Delivery
 - Scrum Product Development
+- Agile Product Management
 - Technical Leadership
 - Agile Leadership
-- Product Management
-categories:
-- People and Process
-- Value Delivery
-- Agile Product Management
 - Product Delivery
 - Sociotechnical Systems
+categories:
+- Leadership
+- Social Technologies
+- Product Management
 preview: image-4-5-5.png
 
 ---

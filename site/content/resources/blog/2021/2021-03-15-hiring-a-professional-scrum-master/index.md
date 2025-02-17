@@ -24,10 +24,8 @@ aliasesFor404:
 tags:
 - Scrum Master
 categories:
-- Scrum
-- People and Process
-- Product Delivery
-- Agile Product Management
+- Leadership
+- Social Technologies
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

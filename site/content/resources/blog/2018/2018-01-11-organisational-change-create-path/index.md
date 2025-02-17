@@ -28,24 +28,10 @@ aliasesFor404:
 tags:
 - Organisational Change
 categories:
-- People and Process
-- Enterprise Agility
-- Organisational Agility
-- Scrum
-- Metrics and Learning
-- Evidence Based Management
-- Resilience and Change
-- Value Delivery
-- Agile Product Operating Model
-- Business Agility
-- Agile Product Management
-- Market Adaptability
-- Sociotechnical Systems
+- Leadership
+- Social Technologies
 - DevOps
-- Discovery and Learning
-- Products and Books
-- Product Delivery
-- Practical Techniques and Tooling
+- Product Management
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

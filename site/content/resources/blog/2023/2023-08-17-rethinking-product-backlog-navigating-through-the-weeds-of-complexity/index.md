@@ -29,38 +29,39 @@ aliasesFor404:
 tags:
 - Pragmatic Thinking
 - Sensemaking
+- Agile Product Management
 - Agile Project Management
-- Agile Strategy
 - Scrum Product Development
-- Product Management
+- Agile Strategy
+- People and Process
 - Product Backlog
-- Agile Philosophy
-- Software Development
-- Agile Planning
+- Discovery and Learning
+- Resilience and Change
+- Agile Product Operating Model
 - Agile Frameworks
-- Decision Making
-- Product Owner
+- Product Delivery
+- Software Development
 - Organisational Culture
+- Agile Planning
+- Decision Making
+- Agile Philosophy
+- Complexity Thinking
+- Product Owner
+- Organisational Agility
+- Systems Thinking
 - Organisational Physics
+- Sociotechnical Systems
 - Strategy
 - Agile Values and Principles
+- Code and Complexity
 - Agile Planning Tools
 - Agile Transformation
-- Self Organisation
-categories:
-- Agile Product Management
-- Agile Product Operating Model
-- People and Process
-- Resilience and Change
-- Discovery and Learning
-- Product Delivery
-- Complexity Thinking
-- Systems Thinking
-- Organisational Agility
-- Sociotechnical Systems
-- Code and Complexity
-- Market Adaptability
 - Business Agility
+- Self Organisation
+- Market Adaptability
+categories:
+- Product Management
+- Social Technologies
 preview: image-1.jpg
 
 ---

@@ -24,52 +24,54 @@ aliasesFor404:
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags:
 - Experimentation
-- Agile Project Management
-- Product Discovery
-- Lean Product Development
-- Strategic Goals
-- Product Management
-- Evidence Based Leadership
-- Ability to Innovate
-- Change Management
-- Agile Strategy
-- Organisational Change
-- Product Strategy
-- Agile Philosophy
-- Agile Frameworks
-- Agile Transformation
-- Decision Making
-- Product Validation
-- Continuous Learning
-- Organisational Physics
-- Digital Transformation
-- Sensemaking
-- Pragmatic Thinking
-- Hypothesis Driven Development
-- Strategy
-- Empirical Process Control
-- Agile Leadership
-- Operational Practices
-- Lean Startup
-- Agile Planning
-- Portfolio Management
-- Trend Analysis
-categories:
 - Agile Product Management
 - Agile Product Operating Model
+- Agile Project Management
+- Discovery and Learning
+- Lean Product Development
 - People and Process
+- Product Delivery
+- Strategic Goals
+- Evidence Based Leadership
+- Product Discovery
 - Resilience and Change
 - Value Delivery
-- Product Delivery
-- Discovery and Learning
+- Ability to Innovate
+- Change Management
 - Evidence Based Management
-- Metrics and Learning
+- Agile Frameworks
 - Market Adaptability
+- Metrics and Learning
+- Agile Strategy
+- Agile Philosophy
+- Agile Transformation
+- Product Strategy
+- Decision Making
+- Product Validation
 - Business Agility
-- Organisational Agility
+- Organisational Change
 - Enterprise Agility
-- Sociotechnical Systems
+- Hypothesis Driven Development
+- Empirical Process Control
+- Continuous Learning
+- Organisational Physics
+- Organisational Agility
+- Sensemaking
+- Digital Transformation
+- Strategy
+- Pragmatic Thinking
+- Agile Leadership
+- Lean Startup
+- Agile Planning
+- Operational Practices
+- Portfolio Management
 - Complexity Thinking
+- Trend Analysis
+- Sociotechnical Systems
+categories:
+- Product Management
+- Social Technologies
+- Leadership
 preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---

@@ -26,13 +26,14 @@ aliasesFor404:
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
 tags:
-- Software Development
-categories:
 - Install and Configuration
-- News and Reviews
-- Azure DevOps
 - Practical Techniques and Tooling
 - Products and Books
+- Azure DevOps
+- News and Reviews
+- Software Development
+categories:
+- DevOps
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 
 ---
