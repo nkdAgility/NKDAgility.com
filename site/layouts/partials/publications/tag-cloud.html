@@ -1,7 +1,12 @@
 <div class="tags p-1">
   {{ with .Params.tags }}
     {{ range . }}
-      <span class="badge text-bg-secondary">{{- . }}</span>
+      {{ $term := . }}
+      {{ with $.Site.GetPage "taxonomy" (printf "tags/%s" ($term | urlize)) }}
+        <a href="{{ .Permalink }}" class="btn btn-sm btn-nkdagility-secondary">{{ $term }}</a>
+      {{ else }}
+        <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary">{{ $term }}</a>
+      {{ end }}
     {{ end }}
   {{ end }}
 </div>

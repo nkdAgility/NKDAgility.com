@@ -5,11 +5,11 @@
   <div class="categories p-1">
     {{ with .Params.categories }}
       {{ range . }}
-        {{ $category := . }}
-        {{ with $.Site.GetPage "taxonomy" (printf "categories/%s" ($category | urlize)) }}
-          <a href="{{ .Permalink }}" class="btn btn-sm btn-nkdagility-secondary">{{ $category }}</a>
+        {{ $term := . }}
+        {{ with $.Site.GetPage "taxonomy" (printf "categories/%s" ($term | urlize)) }}
+          <a href="{{ .Permalink }}" class="btn btn-sm btn-nkdagility-secondary">{{ $term }}</a>
         {{ else }}
-          <a href="{{ printf "/resources/%s" ($category | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary">{{ $category }}</a>
+          <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-secondary">{{ $term }}</a>
         {{ end }}
       {{ end }}
     {{ end }}

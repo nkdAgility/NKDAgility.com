@@ -83,7 +83,7 @@ taxonomies:
 
 permalinks:
   taxonomy:
-    categories: "/resources/categories/:slug/"
+    categories: "/resources/:slug/"
     tags: "/resources/tags/:slug/"
     marketing: "/marketing/:slug/"
     resourceTypes: "/resources/types/:slug/"
@@ -94,8 +94,8 @@ permalinks:
     customer-industry: "/company/customers/industry"
     people-abilities: "/company/people/abilities"
   term:
-    categories: "/resources/categories/:slug/"
-    tags: "/resources/tags/:slug/"
+    categories: "/resources/:slug/"
+    tags: "/resources/:slug/"
     marketing: "/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences/:slug/"
