@@ -32,7 +32,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **What is Scrum?**

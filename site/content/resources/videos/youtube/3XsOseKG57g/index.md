@@ -31,7 +31,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## The Magic of the 4-Day Training Format!

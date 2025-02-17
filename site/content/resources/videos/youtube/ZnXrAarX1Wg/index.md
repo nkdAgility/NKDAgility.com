@@ -34,7 +34,8 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **No go zone for Agile consultants**

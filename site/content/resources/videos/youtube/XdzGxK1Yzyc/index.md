@@ -33,6 +33,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 ## Decoding the Role of the Product Owner

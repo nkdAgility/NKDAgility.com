@@ -29,7 +29,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  *Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*

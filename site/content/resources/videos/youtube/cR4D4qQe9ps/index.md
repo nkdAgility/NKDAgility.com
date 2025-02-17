@@ -32,7 +32,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **#1 tip for a new Scrum Master**

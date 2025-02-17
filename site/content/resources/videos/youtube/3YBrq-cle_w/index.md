@@ -28,7 +28,9 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
+- Leadership
 
 ---
 As I reflect on my journey through the world of Scrum, one of the most profound challenges I've encountered is the way we perceive the role of the Scrum Master. This was particularly highlighted during my experience with the Professional Scrum Master II (PSM-2) class. It’s a transformative experience that forces us to confront and reassess our assumptions about what it means to be a Scrum Master.

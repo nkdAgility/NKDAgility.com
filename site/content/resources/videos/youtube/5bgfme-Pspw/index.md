@@ -30,7 +30,9 @@ tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Management
+- Leadership
 
 ---
 **Momentum**

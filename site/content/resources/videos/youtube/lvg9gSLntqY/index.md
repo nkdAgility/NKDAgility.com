@@ -30,7 +30,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Project Management in Intricate Environments
