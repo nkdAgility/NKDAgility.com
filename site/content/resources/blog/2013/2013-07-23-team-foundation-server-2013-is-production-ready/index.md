@@ -25,20 +25,20 @@ tags:
 - Products and Books
 - Technical Debt
 - Software Development
-- Application Lifecycle Management
+- News and Reviews
 - Agile Project Management
+- Application Lifecycle Management
 - Working Software
-- Product Delivery
-- Agile Strategy
-- Software Developers
-- Organisational Agility
 - Agile Frameworks
-- Frequent Releases
+- Product Delivery
+- People and Process
+- Software Developers
+- Agile Strategy
+- Organisational Agility
 - Transparency
+- Frequent Releases
 - Pragmatic Thinking
 categories:
-- News and Reviews
-- People and Process
 - Engineering Excellence
 
 ---

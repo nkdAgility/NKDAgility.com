@@ -28,7 +28,8 @@ aliasesFor404:
 tags:
 - Install and Configuration
 categories:
-- Events and Presentations
+- Engineering Excellence
+- DevOps
 preview: nakedalm-windows-logo-22-22.png
 
 ---

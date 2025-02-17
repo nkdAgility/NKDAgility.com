@@ -26,43 +26,43 @@ aliasesFor404:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
+- Scrum
 - Throughput
+- People and Process
 - Agile Product Operating Model
 - Professional Scrum
 - Product Delivery
-- Metrics and Learning
 - Agile Project Management
 - Agile Product Management
+- Metrics and Learning
 - Scrum Product Development
-- Organisational Change
-- Cycle Time
 - Agile Transformation
-- Evidence Based Management
-- Flow Efficiency
-- Organisational Agility
-- Products and Books
 - Value Delivery
+- Products and Books
 - Agile Strategy
 - Change Management
 - Agile Frameworks
+- Organisational Agility
+- Events and Presentations
+- Flow Efficiency
 - Agile Planning
-- Forecasting
-- Software Development
-- Sociotechnical Systems
-- Operational Practices
-- Strategy
-- Estimation
-- Pragmatic Thinking
-- Decision Making
+- Cycle Time
+- Organisational Change
+- Evidence Based Management
 - Software Developers
+- Pragmatic Thinking
+- Operational Practices
+- Forecasting
+- Sociotechnical Systems
+- Estimation
+- Strategy
+- Decision Making
+- Software Development
 - Evidence Based Leadership
 - Team Performance
-- Complexity Thinking
 - Organisational Physics
+- Complexity Thinking
 categories:
-- Scrum
-- People and Process
-- Events and Presentations
 - Product Management
 - Social Technologies
 preview: 993957510-1-1.jpg

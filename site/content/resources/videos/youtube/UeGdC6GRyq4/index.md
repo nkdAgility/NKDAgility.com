@@ -29,12 +29,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
-resourceTypes:
-- video
-categories:
+tags:
 - Miscellaneous
 - Personal
+resourceTypes:
+- video
+categories: []
 
 ---
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 

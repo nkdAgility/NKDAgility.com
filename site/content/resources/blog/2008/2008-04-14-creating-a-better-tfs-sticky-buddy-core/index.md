@@ -28,8 +28,9 @@ aliasesFor404:
 tags:
 - Technical Mastery
 - Software Development
-categories:
 - Technical Excellence
+categories:
+- Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

@@ -29,13 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - Estimation
+- People and Process
 - Agile Project Management
-- Software Development
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

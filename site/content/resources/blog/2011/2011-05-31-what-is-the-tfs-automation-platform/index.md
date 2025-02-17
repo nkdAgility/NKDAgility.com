@@ -22,18 +22,18 @@ aliasesFor404:
 - /blog/what-is-the-tfs-automation-platform
 - /resources/blog/what-is-the-tfs-automation-platform
 tags:
+- Install and Configuration
 - System Configuration
 - Technical Mastery
+- Practical Techniques and Tooling
+- Platform Engineering
 - Software Development
+- Technical Excellence
 - Operational Practices
-- Engineering Excellence
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories:
-- Install and Configuration
-- Technical Excellence
-- Platform Engineering
-- Practical Techniques and Tooling
-- Azure DevOps
+- Engineering Excellence
 - DevOps
 
 ---

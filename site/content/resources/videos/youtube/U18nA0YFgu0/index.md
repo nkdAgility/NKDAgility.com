@@ -29,18 +29,20 @@ sitemap:
   priority: 0.6
 tags:
 - Accountability
-- Agile Philosophy
-- Agile Project Management
+- People and Process
+- Transparency and Accountability
 - Organisational Culture
+- Agile Project Management
+- Agile Philosophy
+- Personal
+- Sociotechnical Systems
 - Pragmatic Thinking
-- Software Developers
 - Software Development
+- Software Developers
 resourceTypes:
 - video
 categories:
-- People and Process
-- Personal
-- Transparency and Accountability
+- Product Management
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

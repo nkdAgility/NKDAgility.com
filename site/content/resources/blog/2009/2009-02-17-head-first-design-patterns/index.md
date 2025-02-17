@@ -22,12 +22,9 @@ aliasesFor404:
 - /blog/head-first-design-patterns
 - /resources/blog/head-first-design-patterns
 tags:
-- Continuous Learning
-- Technical Mastery
-- Software Development
-categories:
 - Products and Books
 - Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

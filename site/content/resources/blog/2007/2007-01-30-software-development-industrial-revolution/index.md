@@ -23,37 +23,37 @@ aliasesFor404:
 - /resources/blog/software-development-industrial-revolution
 tags:
 - Pragmatic Thinking
+- Application Lifecycle Management
 - Working Software
 - Software Development
-- Software Developers
 - Release Management
-- Team Collaboration
-- Market Share
-- Lead Time
-- Decision Making
-- Frequent Releases
-- Deployment Frequency
-- Collaboration Tools
-- Engineering Excellence
-- Digital Transformation
-- Throughput
-- Operational Practices
-categories:
-- Application Lifecycle Management
-- News and Reviews
-- People and Process
-- Practical Techniques and Tooling
-- Product Delivery
 - Products and Books
-- DevOps
-- Market Adaptability
-- Value Delivery
-- Azure DevOps
-- Technical Excellence
-- Flow Efficiency
-- Business Agility
-- Miscellaneous
+- People and Process
+- Product Delivery
+- News and Reviews
+- Software Developers
+- Team Collaboration
+- Practical Techniques and Tooling
+- Frequent Releases
+- Lead Time
+- Deployment Frequency
 - Sociotechnical Systems
+- Azure DevOps
+- Business Agility
+- Throughput
+- Digital Transformation
+- Decision Making
+- Miscellaneous
+- Market Share
+- Flow Efficiency
+- Operational Practices
+- Collaboration Tools
+- Market Adaptability
+- Technical Excellence
+- Value Delivery
+categories:
+- Engineering Excellence
+- DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

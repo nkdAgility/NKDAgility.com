@@ -29,17 +29,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
+- People and Process
+- Discovery and Learning
 - Continuous Learning
 - Customer Feedback Loops
+- Coaching
+- Value Delivery
+- Personal
 - Customer Satisfaction
 resourceTypes:
 - video
 layout: video
-categories:
-- Discovery and Learning
-- People and Process
-- Value Delivery
+categories: []
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

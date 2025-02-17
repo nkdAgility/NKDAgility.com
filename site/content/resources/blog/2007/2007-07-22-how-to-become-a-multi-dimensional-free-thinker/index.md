@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Software Development
 - Software Developers
-preview: nakedalm-logo-128-link-1-1.png
-categories:
 - Personal
+preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 All you have to do to become a multi-dimensional free thinker is to change the way you think of your dyslexia. The benefits of having dyslexia far outweigh the negatives: The concepts of multi-dimensional thinking are incredibly difficult to learn if you have not been born with the ability, and if you are dyslexic, you have.

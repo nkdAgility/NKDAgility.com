@@ -31,10 +31,11 @@ aliasesFor404:
 - /resources/blog/silverlight-4-mvvm-and-test-driven-development
 tags:
 - Software Development
+- Events and Presentations
 - Technical Mastery
 - Test Driven Development
 categories:
-- Events and Presentations
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-2-2.png
 
 ---

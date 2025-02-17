@@ -26,12 +26,12 @@ aliasesFor404:
 - /blog/studying-for-exam-70-536--mcts-application-development-foundation
 - /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
 tags:
+- Personal
 - Windows
+- Products and Books
 - Software Development
 - Technical Mastery
-categories:
-- Personal
-- Products and Books
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

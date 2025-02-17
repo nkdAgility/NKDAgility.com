@@ -22,27 +22,27 @@ aliasesFor404:
 - /blog/the-high-of-release
 - /resources/blog/the-high-of-release
 tags:
+- Events and Presentations
 - Product Delivery
 - Azure Pipelines
-- Azure DevOps
 - Release Management
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
+- Azure DevOps
+- News and Reviews
 - Software Developers
 - Software Development
 - Technical Mastery
+- Technical Excellence
 - Frequent Releases
 - Operational Practices
 - Products and Books
-- Deployment Strategies
 - Continuous Delivery
 - Pragmatic Thinking
+- Deployment Strategies
 categories:
-- Events and Presentations
 - DevOps
-- News and Reviews
 - Engineering Excellence
-- Technical Excellence
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

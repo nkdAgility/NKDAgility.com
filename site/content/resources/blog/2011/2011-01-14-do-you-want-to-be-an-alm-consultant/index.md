@@ -26,10 +26,11 @@ aliasesFor404:
 - /blog/do-you-want-to-be-an-alm-consultant-
 - /resources/blog/do-you-want-to-be-an-alm-consultant
 tags:
-- Software Development
-categories:
 - Application Lifecycle Management
+- Software Development
 - People and Process
+categories:
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

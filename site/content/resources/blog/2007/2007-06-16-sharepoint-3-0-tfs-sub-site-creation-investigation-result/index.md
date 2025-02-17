@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 tags:
-- Troubleshooting
-- Software Development
-preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
 - Practical Techniques and Tooling
+- Software Development
+- Troubleshooting
+preview: metro-visual-studio-2005-128-link-1-1.png
+categories: []
 
 ---
 Well my [sub site investigation](http://blog.hinshelwood.com/archive/2007/06/07/SharePoint-3.0-TFS-Sub-Site-creation-error.aspx) did not go too well! After consulting with blogs, forums and Microsoft the end result is that it will not work in an automated way. You can't create a sub site to and existing site with Sharepoint without customizing the Sharepoint site creation process, which I am not going to get into at the moment. Maybe later. The best I can hope for at this time is to disable the creation of the Sharepoint site during the project creation process and to create the site manually after the project has been created. Although this adds a manual step to the process this is not a problem for us as there are only 2 users allowed to create new projects in our environment.

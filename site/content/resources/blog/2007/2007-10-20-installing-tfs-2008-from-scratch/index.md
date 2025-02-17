@@ -23,12 +23,12 @@ aliasesFor404:
 - /resources/blog/installing-tfs-2008-from-scratch
 tags:
 - Windows
-- Troubleshooting
-- Software Development
-- System Configuration
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
+- System Configuration
+- Troubleshooting
+categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---

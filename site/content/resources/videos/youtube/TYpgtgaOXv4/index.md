@@ -30,13 +30,13 @@ sitemap:
 tags:
 - Transparency
 - Agile Product Management
-- Product Backlog
 - Agile Project Management
+- Product Backlog
 - Product Delivery
-- Product Owner
 - Agile Planning Tools
-- Value Delivery
+- Product Owner
 - Software Development
+- Value Delivery
 - Agile Planning
 - Scrum Product Development
 resourceTypes:

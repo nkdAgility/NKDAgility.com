@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
 tags:
 - Windows
+- Install and Configuration
 - System Configuration
 - Troubleshooting
 preview: nakedalm-logo-128-link-5-5.png
-categories:
-- Install and Configuration
+categories: []
 
 ---
 [![image](images/Can_84C0-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-image_4.png)

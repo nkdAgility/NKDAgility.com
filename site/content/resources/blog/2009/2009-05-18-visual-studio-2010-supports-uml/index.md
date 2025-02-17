@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/visual-studio-2010-supports-uml
 - /resources/blog/visual-studio-2010-supports-uml
 tags:
+- Products and Books
+- News and Reviews
 - Technical Mastery
 - Software Development
-categories:
-- News and Reviews
-- Products and Books
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

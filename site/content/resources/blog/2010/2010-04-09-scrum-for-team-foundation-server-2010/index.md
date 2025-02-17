@@ -22,20 +22,21 @@ aliasesFor404:
 - /blog/scrum-for-team-foundation-server-2010
 - /resources/blog/scrum-for-team-foundation-server-2010
 tags:
+- Scrum
 - Scrum Product Development
-- Software Developers
 - Software Development
-- Agile Planning Tools
+- Software Developers
+- Product Delivery
 - Agile Project Management
+- Agile Planning Tools
+- Practical Techniques and Tooling
+- Events and Presentations
+- Agile Product Management
 - Agile Frameworks
 - Agile Planning
-categories:
-- Scrum
-- Agile Product Management
-- Events and Presentations
-- Practical Techniques and Tooling
-- Product Delivery
 - Application Lifecycle Management
+categories:
+- Product Management
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

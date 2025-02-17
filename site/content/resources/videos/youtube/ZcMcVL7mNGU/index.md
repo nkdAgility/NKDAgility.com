@@ -22,37 +22,38 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
-- Agile Product Operating Model
+- People and Process
 - Software Development
+- Agile Product Operating Model
 - Agile Product Management
 - Hypothesis Driven Development
+- Product Delivery
+- Value Delivery
 - Product Strategy
 - Metrics and Learning
-- Value Delivery
-- Product Delivery
-- Agile Strategy
-- Evidence Based Leadership
-- Agile Philosophy
-- Strategy
 - Pragmatic Thinking
+- Agile Philosophy
+- Evidence Based Leadership
 - Organisational Agility
-- Sociotechnical Systems
-- Decision Making
+- Agile Strategy
 - Strategic Goals
+- Decision Making
+- Strategy
+- Sociotechnical Systems
 - Ability to Innovate
-- Agile Project Management
 - Products and Books
+- Agile Project Management
+- Team Motivation
+- Team Collaboration
 - Product Owner
-- Product Discovery
 - Evidence Based Management
 - Business Agility
-- Team Collaboration
-- Team Motivation
-- Organisational Physics
-- Experimentation
-- Organisational Change
-- Sensemaking
+- Product Discovery
 - Enterprise Agility
+- Experimentation
+- Sensemaking
+- Organisational Physics
+- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -61,7 +62,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- People and Process
 - Social Technologies
 
 ---

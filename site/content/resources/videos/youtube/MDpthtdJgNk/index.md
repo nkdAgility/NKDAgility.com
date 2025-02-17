@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Kanban
+- People and Process
 - Practical Techniques and Tooling
+- Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking
-- Agile Frameworks
 resourceTypes:
 - video
 categories:
-- Kanban
-- People and Process
 - Social Technologies
 
 ---

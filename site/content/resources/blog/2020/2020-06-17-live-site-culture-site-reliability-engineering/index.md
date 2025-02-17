@@ -27,33 +27,33 @@ aliasesFor404:
 - /resources/blog/live-site-culture-site-reliability-engineering
 categories:
 - DevOps
-- Events and Presentations
-- People and Process
-- Discovery and Learning
-- News and Reviews
 - Engineering Excellence
-- Technical Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
-- Frequent Releases
-- Deployment Frequency
-- Market Adaptability
 - Business Agility
-- Organisational Agility
+- Deployment Frequency
+- Frequent Releases
+- Market Adaptability
+- Events and Presentations
 - Software Development
-- Enterprise Agility
 - Pragmatic Thinking
+- Organisational Agility
+- Enterprise Agility
 - Continuous Learning
-- Operational Practices
 - Product Delivery
+- Operational Practices
+- Discovery and Learning
 - Value Delivery
+- People and Process
+- News and Reviews
+- Trend Analysis
+- Technical Excellence
 - Release Management
 - Sociotechnical Systems
-- Trend Analysis
 - Digital Transformation
-- Agile Transformation
 - Working Software
 - Software Developers
+- Agile Transformation
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

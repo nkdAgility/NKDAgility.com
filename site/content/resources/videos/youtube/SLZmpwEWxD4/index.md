@@ -28,22 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Kanban
 - Strategy
 - Operational Practices
+- People and Process
 - Practical Techniques and Tooling
 - Team Collaboration
+- Agile Frameworks
+- Agile Project Management
 - Lean Thinking
 - Transparency
-- Software Development
-- Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
+- Software Development
 - Flow Efficiency
 resourceTypes:
 - video
 categories:
-- Kanban
-- People and Process
 - Social Technologies
 
 ---

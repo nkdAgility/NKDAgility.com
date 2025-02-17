@@ -29,27 +29,27 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Operating Model
-- Agile Product Management
+- People and Process
 - Agile Values and Principles
-- Agile Philosophy
+- Agile Product Management
 - Value Delivery
 - Agile Project Management
+- Agile Philosophy
 - Market Adaptability
 - Business Agility
 - Organisational Agility
 - Pragmatic Thinking
 - Agile Leadership
+- Discovery and Learning
+- Agile Planning
 - Product Delivery
 - Agile Strategy
-- Agile Planning
-- Customer Satisfaction
 - Customer Feedback Loops
+- Customer Satisfaction
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
-- Discovery and Learning
 - Product Management
 
 ---

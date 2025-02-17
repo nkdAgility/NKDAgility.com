@@ -26,15 +26,10 @@ aliasesFor404:
 - /blog/becoming-a-better-developer---
 - /resources/blog/becoming-a-better-developer
 tags:
-- Software Developers
-- Software Development
-- Continuous Learning
-- Modern Source Control
-- Technical Mastery
-- Engineering Excellence
-categories:
 - Miscellaneous
 - Personal
+categories:
+- Engineering Excellence
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

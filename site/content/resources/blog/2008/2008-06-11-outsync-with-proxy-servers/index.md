@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/outsync-with-proxy-servers
 - /resources/blog/outsync-with-proxy-servers
 tags:
-- Troubleshooting
-- System Configuration
-categories:
 - Install and Configuration
+- System Configuration
+- Troubleshooting
+categories: []
 preview: nakedalm-logo-128-link-2-1.png
 
 ---

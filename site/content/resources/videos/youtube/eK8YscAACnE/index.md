@@ -33,10 +33,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Kanban
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 In my journey through the world of Agile, I've encountered a recurring theme that I can only describe as "agile banditry." This term might sound a bit dramatic, but it perfectly encapsulates the misuse of certain Agile practices that can undermine the very principles we strive to uphold. One of the most common culprits? The infamous story points and velocity metrics.

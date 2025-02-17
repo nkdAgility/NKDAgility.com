@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - Definition of Done
 - Professional Scrum
 - Software Development
+- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
 
 ---

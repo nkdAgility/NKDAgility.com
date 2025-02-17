@@ -27,12 +27,12 @@ aliasesFor404:
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
 tags:
+- Scrum
 - Increment
 - Definition of Done
 - Scrum Product Development
 - Software Development
 categories:
-- Scrum
 - Social Technologies
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 

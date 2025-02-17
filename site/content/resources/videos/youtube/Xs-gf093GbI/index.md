@@ -28,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Management
 - Product Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 ## The essence of a Product is 'The Vision'

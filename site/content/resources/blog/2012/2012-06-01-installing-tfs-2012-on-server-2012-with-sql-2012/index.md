@@ -23,9 +23,10 @@ aliasesFor404:
 - /resources/blog/installing-tfs-2012-on-server-2012-with-sql-2012
 tags:
 - Windows
+- Install and Configuration
 - System Configuration
 categories:
-- Install and Configuration
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-31-31.png
 
 ---

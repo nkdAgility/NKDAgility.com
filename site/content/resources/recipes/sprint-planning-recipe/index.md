@@ -36,9 +36,9 @@ card:
   content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
   title: Sprint Planning Recipe
 categories:
-- Scrum
 - Social Technologies
 tags:
+- Scrum
 - Scrum Product Development
 - Professional Scrum
 - Agile Planning

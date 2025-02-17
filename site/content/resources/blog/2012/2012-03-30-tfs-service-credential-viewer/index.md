@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Products and Books
+categories: []
 preview: metro-cloud-azure-link-4-4.png
 
 ---

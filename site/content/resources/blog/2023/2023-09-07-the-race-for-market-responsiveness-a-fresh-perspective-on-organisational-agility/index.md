@@ -30,18 +30,21 @@ tags:
 - Organisational Agility
 - Business Agility
 - Enterprise Agility
+- Resilience and Change
 - Market Adaptability
 - Organisational Change
-- Resilience and Change
+- Strategy
 - Agile Philosophy
+- Pragmatic Thinking
 - Agile Strategy
 - Strategic Goals
-- Strategy
-- Pragmatic Thinking
-- Digital Transformation
-- Trend Analysis
-categories:
 - People and Process
+- Trend Analysis
+- Digital Transformation
+categories:
+- Social Technologies
+- Product Management
+- Leadership
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

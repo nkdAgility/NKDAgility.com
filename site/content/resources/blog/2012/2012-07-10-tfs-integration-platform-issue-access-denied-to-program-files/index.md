@@ -27,12 +27,13 @@ aliasesFor404:
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 tags:
 - Windows
-- Troubleshooting
+- Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
+- Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- DevOps
 preview: metro-problem-icon-1-1.png
 
 ---

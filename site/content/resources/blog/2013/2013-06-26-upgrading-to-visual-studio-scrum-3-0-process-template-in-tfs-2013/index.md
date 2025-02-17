@@ -22,19 +22,19 @@ aliasesFor404:
 - /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 tags:
+- Scrum
 - Agile Project Management
 - Install and Configuration
-- System Configuration
-- Products and Books
-- Practical Techniques and Tooling
 - Agile Frameworks
-- Azure DevOps
+- Practical Techniques and Tooling
+- Products and Books
+- System Configuration
 - Operational Practices
-- Software Developers
-- Software Development
 - Pragmatic Thinking
+- Software Development
+- Azure DevOps
+- Software Developers
 categories:
-- Scrum
 - Social Technologies
 
 ---

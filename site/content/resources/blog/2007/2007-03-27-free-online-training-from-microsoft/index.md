@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/free-online-training-from-microsoft
 - /resources/blog/free-online-training-from-microsoft
 tags:
-- Software Development
-categories:
 - Events and Presentations
+- Software Development
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

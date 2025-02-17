@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/workflow
 - /resources/blog/workflow
 tags:
-- Technical Mastery
-- Software Development
-- Operational Practices
-preview: nakedalm-logo-128-link-1-1.png
-categories:
 - Practical Techniques and Tooling
-- Azure DevOps
+- Technical Mastery
 - Miscellaneous
+- Operational Practices
+- Software Development
+- Azure DevOps
+preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 I am thinking of adding WF support to my Team Foundation Server Event Handler, but I am interested in a discussion on the topic of the how's and wherefores. I have seen a lot of people implementing Workflow for Team Server and this would provide them a host system.

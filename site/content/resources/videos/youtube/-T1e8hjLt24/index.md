@@ -21,8 +21,11 @@ preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- Products and Books
+- Discovery and Learning
 - Continuous Learning
+- Products and Books
+- Personal
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,10 +33,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Personal
-- Miscellaneous
+categories: []
 
 ---
 If you're reading this, congratulations! You’re already part of the top 10%. It’s a bold statement, but one I firmly believe in. The reality is that only a small fraction of people actively engage in continuous learning, exploring new techniques, and diving into various topics. Whether it’s something cutting-edge or a classic like "Crossing the Chasm," the key is to keep your mind open and your curiosity alive.

@@ -23,17 +23,18 @@ preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 613
 isShort: false
 tags:
-- Azure DevOps
 - Automated Testing
 - Test Automation
 - Software Development
+- Azure DevOps
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Technical Mastery
-- Value Delivery
-- Operational Practices
-- Engineering Practices
 - Flow Efficiency
+- Engineering Practices
+- Operational Practices
+- Technical Excellence
+- Value Delivery
 - Continuous Delivery
 - Continuous Integration
 sitemap:
@@ -43,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Technical Excellence
 - Engineering Excellence
 
 ---

@@ -58,9 +58,9 @@ card:
   content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
   title: The Scrum Guide
 categories:
-- Scrum
 - Social Technologies
 tags:
+- Scrum
 - Scrum Product Development
 - Agile Project Management
 - Scrum Team

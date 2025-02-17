@@ -26,10 +26,10 @@ aliasesFor404:
 - /blog/how-to--display-your-outlook-calendar-on-you’re-my-site
 - /resources/blog/how-to-display-your-outlook-calendar-on-youre-my-site
 tags:
+- Install and Configuration
 - System Configuration
 preview: metro-sharepoint-128-link-6-6.png
-categories:
-- Install and Configuration
+categories: []
 
 ---
 I thought I should explain how to enable the "My Calendar" web part on you're my Site (homepage). Here is my "MySite", as you can see I have a horrible picture, but if you check out the red rectangle you will see the "My Calendar" control has already been added to your site.

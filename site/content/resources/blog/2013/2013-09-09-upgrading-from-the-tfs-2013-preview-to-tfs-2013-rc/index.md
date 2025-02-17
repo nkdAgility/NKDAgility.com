@@ -24,9 +24,7 @@ aliasesFor404:
 tags:
 - Install and Configuration
 categories:
-- News and Reviews
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 
 ---

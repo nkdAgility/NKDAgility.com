@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - Install and Configuration
 categories:
-- Technical Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

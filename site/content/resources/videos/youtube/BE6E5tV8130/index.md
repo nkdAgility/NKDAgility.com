@@ -28,30 +28,36 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Planning
 - Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Decision Making
-- Empirical Process Control
-- Frequent Releases
-- Hypothesis Driven Development
+- Agile Product Management
 - Increment
-- Pragmatic Thinking
-- Product Management
-- Software Developers
+- Agile Values and Principles
+- Business Agility
+- Empirical Process Control
+- Product Delivery
+- People and Process
+- Value Delivery
+- Decision Making
+- Enterprise Agility
+- Organisational Agility
+- Agile Strategy
+- Agile Frameworks
+- Agile Philosophy
 - Software Development
+- Agile Transformation
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Hypothesis Driven Development
+- Agile Leadership
+- Market Adaptability
 - Working Software
+- Agile Planning
+- Software Developers
+- Frequent Releases
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Business Agility
-- Value Delivery
+- Product Management
 
 ---
 How is agile product development different to waterfall project management?

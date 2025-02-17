@@ -21,16 +21,16 @@ aliasesFor404:
 - /programmer-personality-type
 - /blog/programmer-personality-type
 - /resources/blog/programmer-personality-type
-categories:
-- Personal
-- People and Process
-- Organisational Psychology
-- Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
+- Personal
 - Team Performance
-- Team Motivation
+- People and Process
+- Miscellaneous
 - Team Collaboration
+- Organisational Psychology
+- Team Motivation
 
 ---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

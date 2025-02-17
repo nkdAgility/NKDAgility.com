@@ -26,14 +26,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
 resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
-- People and Process
 - Social Technologies
+- Leadership
 
 ---
 Finding the right Agile coach can make or break your organization's journey toward greater agility. While the Agile landscape is filled with talented coaches, not all will suit your organization’s unique needs. Whether you're a small startup looking to scale or a large enterprise seeking to enhance its agility, finding the right coach is essential.

@@ -27,52 +27,52 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- Agile Leadership
-- Agile Values and Principles
+- People and Process
 - Business Agility
 - Agile Product Management
+- Agile Values and Principles
+- Agile Leadership
+- Agile Product Operating Model
 - Value Delivery
-- Sociotechnical Systems
-- Organisational Change
-- Team Motivation
-- Agile Transformation
-- Agile Project Management
-- Organisational Agility
-- Enterprise Agility
-- Team Collaboration
+- Empirical Process Control
 - Software Developers
 - Software Development
-- Agile Frameworks
-- Technical Leadership
-- Operational Practices
-- Agile Philosophy
-- Change Management
 - Agile Strategy
+- Sociotechnical Systems
+- Organisational Change
 - Continuous Learning
-- Empirical Process Control
+- Operational Practices
+- Team Motivation
+- Agile Philosophy
+- Organisational Agility
+- Discovery and Learning
+- Technical Leadership
+- Agile Transformation
+- Agile Frameworks
 - Team Performance
-- Beta Codex
-- Lean Thinking
-- Organisational Physics
-- Organisational Culture
-- Self Organisation
-- Lean
+- Team Collaboration
+- Change Management
+- Agile Project Management
+- Enterprise Agility
 - Pragmatic Thinking
+- Lean Thinking
+- Self Organisation
+- Organisational Physics
+- Lean
+- Beta Codex
+- Organisational Culture
 - Lean Principles
 - Lean Product Development
-- Value Stream Management
 - Agile Planning
+- Value Stream Management
+- Personal
 - Market Adaptability
 resourceTypes:
 - video
 layout: video
 categories:
-- People and Process
 - Leadership
-- Discovery and Learning
 - Social Technologies
-- Personal
 
 ---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword—it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.

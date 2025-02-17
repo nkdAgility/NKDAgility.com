@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 tags:
 - Software Development
-- Agile Project Management
 - Agile Frameworks
-categories:
+- Agile Project Management
 - Events and Presentations
+categories: []
 preview: metro-nwc-128-link-2-2.png
 
 ---

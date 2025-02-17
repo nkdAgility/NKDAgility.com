@@ -21,11 +21,11 @@ aliasesFor404:
 - /the-delivery
 - /blog/the-delivery
 - /resources/blog/the-delivery
-categories:
+categories: []
+preview: nakedalm-logo-128-link-1-1.png
+tags:
 - Personal
 - Miscellaneous
-preview: nakedalm-logo-128-link-1-1.png
-tags: []
 
 ---
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...

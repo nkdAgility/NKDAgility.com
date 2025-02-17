@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/waffling-on-sharepoint---
 - /resources/blog/waffling-on-sharepoint
 tags:
-- Pragmatic Thinking
-- Digital Transformation
-categories:
 - Miscellaneous
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

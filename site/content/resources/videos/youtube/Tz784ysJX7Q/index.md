@@ -24,6 +24,7 @@ duration: 469
 isShort: false
 tags:
 - Product Delivery
+- People and Process
 - Decision Making
 - Complexity Thinking
 - Pragmatic Thinking
@@ -34,7 +35,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- People and Process
 - Engineering Excellence
 
 ---

@@ -29,19 +29,19 @@ tags:
 - Release Management
 - Application Lifecycle Management
 - Technical Mastery
-- Azure DevOps
-- Deployment Strategies
 - Practical Techniques and Tooling
+- Events and Presentations
+- Azure DevOps
 - Install and Configuration
-- System Configuration
+- Technical Excellence
+- Deployment Strategies
 - Product Delivery
 - Operational Practices
-- Software Development
 - Pragmatic Thinking
+- Software Development
+- System Configuration
 - Continuous Delivery
 categories:
-- Events and Presentations
-- Technical Excellence
 - DevOps
 preview: nakedalm-windows-logo-16-16.png
 

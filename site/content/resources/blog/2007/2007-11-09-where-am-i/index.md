@@ -30,9 +30,7 @@ tags:
 - Technical Mastery
 - Software Development
 categories:
-- Code and Complexity
-- Practical Techniques and Tooling
-- Technical Excellence
+- Engineering Excellence
 preview: metro-merilllynch-128-link-5-1.png
 
 ---

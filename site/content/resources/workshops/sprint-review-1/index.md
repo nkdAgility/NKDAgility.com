@@ -40,9 +40,9 @@ card:
   content: Discover more about "Sprint Review
   title: 'Sprint Review #1'
 categories:
-- Scrum
 - Social Technologies
 tags:
+- Scrum
 - Scrum Product Development
 - Sprint Review
 

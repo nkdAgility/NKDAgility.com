@@ -26,34 +26,34 @@ aliasesFor404:
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 tags:
-- Estimation
 - Throughput
+- Scrum
+- Estimation
 - Metrics and Learning
-- Cycle Time
 - Scrum Team
-- Scrum Product Development
 - Software Development
+- Cycle Time
+- Scrum Product Development
+- People and Process
 - Agile Planning
-- Team Performance
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Project Management
+- Events and Presentations
 - Flow Efficiency
 - Agile Frameworks
+- Agile Project Management
 - Software Developers
+- Team Performance
 - Agile Product Management
+- Pragmatic Thinking
+- Agile Transformation
 - Operational Practices
-- Continuous Learning
 - Working Software
+- Continuous Learning
 - Professional Scrum
-- Empirical Process Control
 - Scrum Master
+- Empirical Process Control
 - Team Collaboration
 - Product Delivery
 categories:
-- Scrum
-- People and Process
-- Events and Presentations
 - Social Technologies
 preview: iStock-847664136-1-1.jpg
 

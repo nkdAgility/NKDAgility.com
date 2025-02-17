@@ -28,25 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
 - Experimentation
-- Product Discovery
+- People and Process
 - Product Validation
-- Continuous Learning
+- Product Discovery
 - Hypothesis Driven Development
+- Continuous Learning
 - Pragmatic Thinking
 - Products and Books
 - Product Delivery
 - Agile Product Management
 - Complexity Thinking
-- Value Delivery
 - Decision Making
 - Sensemaking
+- Value Delivery
 - Lean Startup
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
 - Product Management
 
 ---

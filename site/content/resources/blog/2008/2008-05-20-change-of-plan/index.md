@@ -22,13 +22,13 @@ aliasesFor404:
 - /blog/change-of-plan
 - /resources/blog/change-of-plan
 tags:
-- Working Software
-- Pragmatic Thinking
-- Technical Mastery
-- Troubleshooting
-- Software Development
-categories:
 - Code and Complexity
+- Technical Mastery
+- Pragmatic Thinking
+- Working Software
+- Software Development
+- Troubleshooting
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

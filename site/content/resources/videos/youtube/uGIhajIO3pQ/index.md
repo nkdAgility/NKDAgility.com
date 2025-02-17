@@ -27,12 +27,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
-resourceTypes:
-- video
-categories:
+tags:
 - Events and Presentations
 - News and Reviews
+resourceTypes:
+- video
+categories: []
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

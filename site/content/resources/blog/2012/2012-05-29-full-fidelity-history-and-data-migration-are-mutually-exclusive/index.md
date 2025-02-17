@@ -22,14 +22,16 @@ aliasesFor404:
 - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
-- Software Development
-- Decision Making
-- Pragmatic Thinking
-- Technical Mastery
-categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
+- Software Development
+- Technical Mastery
+- Decision Making
+- Pragmatic Thinking
 - Azure DevOps
+categories:
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

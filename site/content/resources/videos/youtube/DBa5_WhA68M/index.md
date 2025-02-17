@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Product Owner
 - Agile Product Management
 - Products and Books
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
 
 ---

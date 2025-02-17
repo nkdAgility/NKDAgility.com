@@ -28,7 +28,6 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Technical Excellence
 - DevOps
 preview: clip_image004-4-4.png
 

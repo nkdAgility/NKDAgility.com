@@ -30,31 +30,33 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags:
-- Scrum Product Development
+- Scrum
 - Professional Scrum
-- Team Performance
-- Agile Frameworks
-- Agile Transformation
+- Events and Presentations
+- People and Process
+- Scrum Product Development
 - Agile Project Management
 - Software Developers
-- Team Collaboration
-- Self Organisation
-- Pragmatic Thinking
-- Software Development
-- Agile Planning
-- Scrum Team
-- Team Motivation
-- Continuous Learning
-- Coaching
-categories:
-- Scrum
-- People and Process
-- Events and Presentations
 - Discovery and Learning
+- Agile Transformation
+- Agile Frameworks
+- Team Collaboration
+- Team Performance
+- Software Development
+- Pragmatic Thinking
+- Self Organisation
 - Personal
+- Agile Planning
 - Practical Techniques and Tooling
-- Product Delivery
+- Scrum Team
 - Products and Books
+- Team Motivation
+- Product Delivery
+- Coaching
+- Continuous Learning
+categories:
+- Engineering Excellence
+- Product Management
 preview: nakedalm-experts-professional-scrum-8-8.png
 
 ---

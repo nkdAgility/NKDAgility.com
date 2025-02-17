@@ -28,12 +28,7 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- Scrum
-- Agile Product Management
-- Technical Excellence
-- Practical Techniques and Tooling
-- Product Delivery
-- Application Lifecycle Management
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

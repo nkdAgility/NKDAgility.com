@@ -17,27 +17,8 @@ aliases:
 aliasesFor404:
 - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
 - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-categories:
-- Events and Presentations
-- Organisational Agility
-- Agile Product Management
-- Discovery and Learning
-- People and Process
-tags:
-- Agile Community
-- Agile Coaching
-- Agile Product Management
-- Scrum Master
-- Scrum Team
-- Agile Product Discovery
-- Team Collaboration
-- Continuous Improvement
-- Agile Planning
-- Agile Transformation
-- Agile Values and Principles
-- Team Motivation
-- Agile Software Development
-- Customer Feedback Loops
+categories: []
+tags: []
 
 ---
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!

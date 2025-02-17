@@ -21,11 +21,11 @@ aliasesFor404:
 - /the-delivery-mk-ii
 - /blog/the-delivery-mk-ii
 - /resources/blog/the-delivery-mk-ii
-categories:
+categories: []
+preview: nakedalm-logo-128-link-4-1.png
+tags:
 - Personal
 - Miscellaneous
-preview: nakedalm-logo-128-link-4-1.png
-tags: []
 
 ---
 We have just had another addition to the family… Kaiden Ryan William Hinshelwood was born at 12:01 on 5th February 2009.

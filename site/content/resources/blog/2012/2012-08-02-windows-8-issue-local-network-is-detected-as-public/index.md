@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/windows-8-issue-local-network-is-detected-as-public
 tags:
 - Windows
-- System Configuration
-- Troubleshooting
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Troubleshooting
+categories: []
 preview: metro-problem-icon-5-5.png
 
 ---

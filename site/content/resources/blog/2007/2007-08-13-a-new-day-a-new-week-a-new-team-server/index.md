@@ -30,10 +30,10 @@ aliasesFor404:
 - /blog/a-new-day--a-new-week--a-new-team-server
 - /resources/blog/a-new-day-a-new-week-a-new-team-server
 tags:
+- Install and Configuration
 - System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- Install and Configuration
+categories: []
 
 ---
 I have just finished upgrading out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Development environment to TFS2008 and I have to say it was a totally painless procedure...

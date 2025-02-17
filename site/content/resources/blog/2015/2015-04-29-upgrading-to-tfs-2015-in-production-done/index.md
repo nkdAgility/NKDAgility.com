@@ -30,9 +30,7 @@ aliasesFor404:
 tags:
 - Install and Configuration
 categories:
-- News and Reviews
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 

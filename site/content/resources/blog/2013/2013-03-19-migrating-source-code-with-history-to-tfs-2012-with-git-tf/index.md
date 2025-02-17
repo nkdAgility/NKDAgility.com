@@ -23,11 +23,13 @@ aliasesFor404:
 - /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 tags:
 - Modern Source Control
+- Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Engineering Excellence
+- DevOps
 
 ---
 Its hard to migrate source code even from one Visual Studio 2012 Team Foundation Server to another, especially when you also want to have your history. We have been forced in the past to use some hokie migration tools that only really partially work.

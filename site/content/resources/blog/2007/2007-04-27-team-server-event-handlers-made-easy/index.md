@@ -26,8 +26,9 @@ aliasesFor404:
 - /blog/team-server-event-handlers-made-easy---
 - /resources/blog/team-server-event-handlers-made-easy
 categories:
-- Practical Techniques and Tooling
+- Engineering Excellence
 tags:
+- Practical Techniques and Tooling
 - Technical Mastery
 - Software Development
 

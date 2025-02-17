@@ -21,7 +21,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
-tags: []
+tags:
+- People and Process
+- Discovery and Learning
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,11 +32,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Discovery and Learning
-- Leadership
-- Miscellaneous
 - Social Technologies
+- Leadership
 
 ---
 In my journey through the world of Agile, I've often encountered what I like to call the "plagues" of agility. One of the most insidious of these is the tendency for teams to become overly attached to their tools and processes. This fixation can be detrimental, stifling the very essence of what it means to be agile. 

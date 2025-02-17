@@ -25,23 +25,24 @@ isShort: false
 tags:
 - Entrepreneurship
 - MVP
-- Lean Product Development
 - Ability to Innovate
+- Lean Product Development
 - Pragmatic Thinking
-- Metrics and Learning
-- Value Delivery
-- Product Delivery
-- Product Strategy
-- Lean Startup
-- Product Validation
 - Business Agility
+- Value Delivery
+- Product Strategy
+- Product Validation
 - Product Discovery
+- Discovery and Learning
+- Product Delivery
+- Metrics and Learning
+- Lean Startup
+- Decision Making
 - Experimentation
 - Hypothesis Driven Development
-- Decision Making
 - Products and Books
-- Agile Product Management
 - Lean Principles
+- Agile Product Management
 - Decision Theory
 sitemap:
   filename: sitemap.xml
@@ -49,7 +50,6 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Product Management
 
 ---

@@ -26,31 +26,32 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Operational Practices
-- Agile Product Operating Model
 - Business Agility
 - Agile Product Management
-- Agile Strategy
-- Agile Project Management
-- Agile Transformation
-- Ability to Innovate
+- People and Process
+- Agile Product Operating Model
 - Organisational Agility
 - Value Delivery
-- Evidence Based Leadership
 - Agile Philosophy
+- Agile Strategy
+- Evidence Based Leadership
+- Agile Project Management
+- Agile Transformation
 - Enterprise Agility
 - Product Delivery
+- Ability to Innovate
+- Trend Analysis
 - Evidence Based Management
-- Strategy
+- Software Developers
+- Software Development
 - Market Adaptability
 - Flow Efficiency
 - Decision Making
-- Software Developers
-- Software Development
-- Trend Analysis
+- Strategy
+- Lean Product Development
 - Digital Transformation
 - Value Stream Management
 - Lean Principles
-- Lean Product Development
 - Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
@@ -58,7 +59,6 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- People and Process
 - Engineering Excellence
 - Product Management
 - Social Technologies

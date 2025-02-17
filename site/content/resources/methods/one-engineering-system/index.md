@@ -28,18 +28,18 @@ card:
 categories:
 - Engineering Excellence
 - DevOps
-- Technical Excellence
 tags:
 - Strategy
 - One Engineering System (1ES)
-- Azure DevOps
 - Software Development
-- Operational Practices
+- Azure DevOps
 - Practical Techniques and Tooling
 - Team Collaboration
+- Operational Practices
 - Pragmatic Thinking
 - Collaboration Tools
 - Software Developers
+- Technical Excellence
 
 ---
 The One Engineering System (1ES) is a strategy aimed at unifying engineering tools and practices to enhance collaboration and efficiency within software development teams. By standardizing on a common set of tools, organizations can reduce friction and streamline workflows.

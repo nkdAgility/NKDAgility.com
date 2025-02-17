@@ -27,8 +27,7 @@ aliasesFor404:
 - /resources/blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 tags:
 - Troubleshooting
-categories:
-- Install and Configuration
+categories: []
 preview: metro-problem-icon-4-4.png
 
 ---

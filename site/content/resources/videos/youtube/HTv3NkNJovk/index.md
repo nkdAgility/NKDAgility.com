@@ -28,32 +28,53 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Leadership
+- Agile Values and Principles
+- People and Process
+- Business Agility
+- Metrics and Learning
+- Evidence Based Leadership
+- Empirical Process Control
+- Agile Product Management
+- Agile Strategy
+- Value Delivery
+- Software Development
+- Pragmatic Thinking
+- Change Management
+- Market Adaptability
+- Organisational Agility
+- Discovery and Learning
+- Agile Philosophy
+- Agile Transformation
+- Organisational Change
+- Technical Leadership
+- Hypothesis Driven Development
+- Enterprise Agility
+- Scaling Agility
+- Agile Project Management
+- Organisational Culture
+- Product Delivery
 - Ability to Innovate
 - Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Change Management
-- Empirical Process Control
-- Evidence Based Leadership
-- Hypothesis Driven Development
-- Organisational Change
-- Organisational Culture
-- Pragmatic Thinking
-- Scaling Agility
 - Self Organisation
-- Software Development
+- Digital Transformation
+- Experimentation
+- Team Performance
 - Team Motivation
-- Technical Leadership
+- Decision Making
+- Strategy
+- Team Collaboration
+- Sociotechnical Systems
+- Resilience and Change
+- Large Scale Agility
+- Evidence Based Management
+- Organisational Physics
+- Complexity Thinking
+- Continuous Learning
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Metrics and Learning
-- People and Process
+- Product Management
 
 ---
 This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.

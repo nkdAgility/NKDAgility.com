@@ -22,6 +22,7 @@ preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Personal
 - Mentoring
 sitemap:
   filename: sitemap.xml
@@ -30,7 +31,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Personal
+- Social Technologies
+- Leadership
 
 ---
 In my journey through the realms of both technical and agile practices, I've often found myself reflecting on the true essence of what it means to help others succeed. It’s not just about the methodologies or the frameworks; it’s about the people and the organisations behind them. 

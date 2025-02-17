@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/wpf-scale-transform-behaviour
 - /resources/blog/wpf-scale-transform-behaviour
 tags:
+- Practical Techniques and Tooling
 - Technical Mastery
 - Software Development
-- Windows
-categories:
-- Practical Techniques and Tooling
 - Technical Excellence
+- Windows
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

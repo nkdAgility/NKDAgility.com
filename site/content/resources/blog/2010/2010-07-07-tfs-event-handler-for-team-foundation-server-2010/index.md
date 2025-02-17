@@ -22,10 +22,12 @@ aliasesFor404:
 - /blog/tfs-event-handler-for-team-foundation-server-2010
 - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 tags:
-- Software Development
-categories:
 - Practical Techniques and Tooling
+- Software Development
 - Azure DevOps
+categories:
+- Engineering Excellence
+- DevOps
 preview: metro-binary-vb-128-link-3-3.png
 
 ---

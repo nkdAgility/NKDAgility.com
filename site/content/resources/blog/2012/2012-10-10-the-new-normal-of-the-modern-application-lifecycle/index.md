@@ -22,25 +22,25 @@ aliasesFor404:
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
+- Application Lifecycle Management
+- People and Process
+- Business Agility
 - Software Developers
 - Software Development
-- Digital Transformation
-- Agile Transformation
-- Frequent Releases
-- Pragmatic Thinking
-categories:
-- People and Process
-- Application Lifecycle Management
-- Business Agility
-- Market Adaptability
 - News and Reviews
-- Events and Presentations
+- Market Adaptability
 - Organisational Agility
-- DevOps
+- Events and Presentations
+- Digital Transformation
 - Sociotechnical Systems
 - Resilience and Change
-- Value Delivery
 - Product Delivery
+- Frequent Releases
+- Value Delivery
+- Agile Transformation
+- Pragmatic Thinking
+categories:
+- DevOps
 preview: metro-new-normal-icon-28-28.png
 
 ---

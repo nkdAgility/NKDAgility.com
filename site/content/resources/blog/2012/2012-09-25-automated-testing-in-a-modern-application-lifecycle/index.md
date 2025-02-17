@@ -24,11 +24,13 @@ aliasesFor404:
 - /automated-testing-in-a-modern-application-lifecycle/
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
 tags:
-- Software Development
 - Automated Testing
 - Test Automation
-categories:
+- Software Development
 - Technical Excellence
+categories:
+- Engineering Excellence
+- DevOps
 preview: metro-automated-test-icon-4-4.png
 
 ---

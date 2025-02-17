@@ -29,7 +29,6 @@ tags:
 - Software Development
 categories:
 - DevOps
-- Technical Excellence
 preview: naked-alm-git-1-1.png
 
 ---

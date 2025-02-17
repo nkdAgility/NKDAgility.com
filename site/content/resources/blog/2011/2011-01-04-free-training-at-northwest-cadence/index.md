@@ -22,11 +22,12 @@ aliasesFor404:
 - /blog/free-training-at-northwest-cadence
 - /resources/blog/free-training-at-northwest-cadence
 tags:
-- Continuous Learning
-categories:
 - Events and Presentations
 - Miscellaneous
 - News and Reviews
+- Continuous Learning
+categories:
+- Engineering Excellence
 preview: metro-event-128-link-3-3.png
 
 ---

@@ -28,41 +28,41 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Leadership
+- People and Process
 - Evidence Based Management
-- Agile Product Operating Model
+- Evidence Based Leadership
+- Value Delivery
 - Decision Making
 - Agile Product Management
-- Value Delivery
-- Decision Theory
-- Agile Leadership
-- Strategic Goals
+- Agile Product Operating Model
 - Change Management
+- Business Agility
+- Strategic Goals
+- Agile Leadership
 - Product Owner
 - Product Strategy
-- Business Agility
-- Organisational Culture
-- Agile Philosophy
-- Strategy
-- Organisational Physics
-- Team Motivation
+- Decision Theory
+- Sociotechnical Systems
 - Sensemaking
 - Organisational Change
-- Organisational Agility
-- Complexity Thinking
-- Enterprise Agility
-- Sociotechnical Systems
 - Agile Strategy
+- Agile Philosophy
+- Strategy
+- Organisational Culture
+- Organisational Physics
+- Enterprise Agility
+- Complexity Thinking
 - Pragmatic Thinking
+- Organisational Agility
+- Team Motivation
 - Ability to Innovate
 - Organisational Psychology
+- Personal
 resourceTypes:
 - video
 categories:
-- People and Process
 - Leadership
 - Product Management
-- Personal
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

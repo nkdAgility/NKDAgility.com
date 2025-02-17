@@ -30,14 +30,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Project Management
-- Agile Transformation
 - Pragmatic Thinking
 - Software Development
+- Agile Transformation
 resourceTypes:
 - video
 categories:
-- People and Process
+- Product Management
 
 ---
 **When should an organisation consider a professional agile consultant?**

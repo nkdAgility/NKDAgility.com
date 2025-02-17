@@ -30,11 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Leadership
 resourceTypes:
 - video
-categories:
-- People and Process
+categories: []
 
 ---
 ## Power of Passion

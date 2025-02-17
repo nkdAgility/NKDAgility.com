@@ -31,21 +31,21 @@ tags:
 - Mentoring
 - Coaching
 - Application Lifecycle Management
-- Agile Planning
 - Agile Project Management
+- Agile Planning
+- Agile Transformation
+- Agile Frameworks
+- People and Process
+- Agile Leadership
 - Agile Strategy
 - Practical Techniques and Tooling
-- Agile Transformation
-- Agile Leadership
-- Agile Frameworks
 - Business Agility
 - Operational Practices
+- Personal
 - Organisational Agility
 - Software Developers
 - Pragmatic Thinking
 categories:
-- People and Process
-- Personal
 - Social Technologies
 preview: nakedalm-logo-128-link-4-4.png
 

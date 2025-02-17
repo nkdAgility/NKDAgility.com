@@ -21,10 +21,10 @@ aliasesFor404:
 - /msdn-roadshow-uk-2007
 - /blog/msdn-roadshow-uk-2007
 - /resources/blog/msdn-roadshow-uk-2007
-tags: []
-categories:
+tags:
 - Events and Presentations
 - Miscellaneous
+categories: []
 preview: metro-event-128-link-1-1.png
 
 ---

@@ -31,9 +31,7 @@ tags:
 - Agile Planning Tools
 - Software Development
 categories:
-- People and Process
 - Product Management
-- News and Reviews
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

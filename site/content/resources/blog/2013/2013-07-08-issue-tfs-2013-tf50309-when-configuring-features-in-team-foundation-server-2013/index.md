@@ -30,13 +30,13 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
-- Software Development
+- System Configuration
 - Pragmatic Thinking
+- Software Development
+- Azure DevOps
 categories:
-- People and Process
+- DevOps
 preview: puzzle-issue-problem-128-link-5-5.png
 
 ---

@@ -24,23 +24,25 @@ duration: 704
 isShort: false
 tags:
 - Pragmatic Thinking
+- Product Delivery
+- People and Process
+- Continuous Delivery
 - Azure DevOps
 - Working Software
-- Product Delivery
-- Continuous Delivery
-- Engineering Practices
 - Practical Techniques and Tooling
+- Deployment Strategies
+- Engineering Practices
+- Technical Excellence
+- Deployment Frequency
 - Value Delivery
 - Software Development
-- Deployment Strategies
-- Deployment Frequency
 - Software Developers
-- Operational Practices
-- Customer Feedback Loops
 - Experimentation
-- Release Management
 - Frequent Releases
+- Customer Feedback Loops
+- Release Management
 - Technical Mastery
+- Operational Practices
 - Automated Testing
 - Customer Satisfaction
 - Product Validation
@@ -52,8 +54,6 @@ resourceTypes:
 categories:
 - Engineering Excellence
 - DevOps
-- People and Process
-- Technical Excellence
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

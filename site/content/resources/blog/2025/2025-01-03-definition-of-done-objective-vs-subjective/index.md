@@ -22,23 +22,23 @@ aliasesFor404:
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
 tags:
-- Increment
 - Definition of Done
+- Increment
 - Software Development
+- Scrum
 - Scrum Product Development
 - Professional Scrum
 - Product Delivery
-- Working Software
-- Agile Product Management
-- Value Delivery
 - Operational Practices
-- Software Developers
-- Agile Planning
-- Agile Project Management
-- Pragmatic Thinking
+- Agile Product Management
+- Working Software
+- Value Delivery
 - Agile Frameworks
+- Agile Project Management
+- Agile Planning
+- Pragmatic Thinking
+- Software Developers
 categories:
-- Scrum
 - Engineering Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 

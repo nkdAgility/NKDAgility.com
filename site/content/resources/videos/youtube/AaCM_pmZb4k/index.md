@@ -30,16 +30,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
-- Organisational Change
+- People and Process
 - Organisational Culture
 - Organisational Physics
+- Sociotechnical Systems
+- Decision Making
+- Organisational Change
+- Market Adaptability
+- Business Agility
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
-- Market Adaptability
-- People and Process
-- Sociotechnical Systems
+- DevOps
+- Product Management
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

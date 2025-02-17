@@ -29,11 +29,7 @@ tags:
 - Technical Mastery
 preview: metro-binary-vb-128-link-1-1.png
 categories:
-- Code and Complexity
-- News and Reviews
-- Practical Techniques and Tooling
-- Products and Books
-- Technical Excellence
+- Engineering Excellence
 
 ---
 At last .NET Framework 3.0 is live! I have been desperate to use it in work ever since I got a book on Indigo as I can see so many applications for it that would increase developer productivity and consistency.

@@ -22,13 +22,9 @@ aliasesFor404:
 - /blog/an-application-deployment
 - /resources/blog/an-application-deployment
 tags:
-- Pragmatic Thinking
-- Troubleshooting
-- Software Development
-- System Configuration
-preview: nakedalm-logo-128-link-1-1.png
-categories:
 - Miscellaneous
+preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 Why is it that vendors insist on developers staying up all night to write installation documentation for a 40 component on 19 server installation? Do they not realize that this is not the best way to have your documentation produced? What about the image that it presents to the customer, or the impact of someone actually following said documentation!

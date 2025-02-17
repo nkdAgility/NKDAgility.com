@@ -25,12 +25,12 @@ tags:
 - Collaboration Tools
 - Team Collaboration
 - System Configuration
+- Practical Techniques and Tooling
 - Technical Mastery
 - Software Development
-preview: metro-cloud-azure-link-2-2.png
-categories:
-- Practical Techniques and Tooling
 - Azure DevOps
+preview: metro-cloud-azure-link-2-2.png
+categories: []
 
 ---
 I have been getting very interested in the new [Azure Services Platform](http://www.microsoft.com/azure/register.mspx) and how I can use it to facilitate WPF development.

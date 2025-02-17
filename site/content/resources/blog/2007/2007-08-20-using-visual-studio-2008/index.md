@@ -24,10 +24,7 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- Install and Configuration
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- Products and Books
+- Engineering Excellence
 preview: metro-visual-studio-2005-128-link-8-1.png
 
 ---

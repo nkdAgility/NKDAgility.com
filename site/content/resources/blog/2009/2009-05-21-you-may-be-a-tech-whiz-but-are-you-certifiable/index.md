@@ -29,10 +29,10 @@ aliasesFor404:
 - /you-may-be-a-tech-whiz--but-are-you-certifiable-
 - /blog/you-may-be-a-tech-whiz--but-are-you-certifiable-
 - /resources/blog/you-may-be-a-tech-whiz-but-are-you-certifiable
-categories:
-- Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags: []
+tags:
+- Miscellaneous
 
 ---
 A little fun game from Microsoft to test your knowledge. Going to see if I get on the leader board, but I do not hold out much any hope…

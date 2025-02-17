@@ -31,9 +31,11 @@ aliasesFor404:
 - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
 tags:
 - Practical Techniques and Tooling
+- People and Process
 - Software Development
 categories:
-- People and Process
+- Product Management
+- Social Technologies
 preview: nakedalm-logo-260-5-5.png
 
 ---

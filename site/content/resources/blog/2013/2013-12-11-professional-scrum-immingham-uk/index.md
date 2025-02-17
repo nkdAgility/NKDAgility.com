@@ -30,29 +30,29 @@ aliasesFor404:
 - /blog/professional-scrum-in-immingham--uk
 - /resources/blog/professional-scrum-immingham-uk
 tags:
+- Scrum
 - Scrum Product Development
 - Professional Scrum
-- Product Delivery
 - Value Delivery
-- Scrum Team
+- Product Delivery
 - Cross Functional Teams
 - Software Development
+- Scrum Team
 - Agile Product Management
-- Team Performance
 - Team Collaboration
-- Pragmatic Thinking
-- Agile Transformation
-- Sociotechnical Systems
-- Organisational Agility
-- Agile Project Management
-- Agile Frameworks
-- Team Motivation
-- Self Organisation
-categories:
-- Scrum
 - People and Process
+- Team Performance
 - Events and Presentations
 - Personal
+- Agile Transformation
+- Sociotechnical Systems
+- Pragmatic Thinking
+- Agile Project Management
+- Agile Frameworks
+- Organisational Agility
+- Self Organisation
+- Team Motivation
+categories:
 - Social Technologies
 preview: nakedalm-experts-professional-scrum-6-6.png
 

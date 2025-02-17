@@ -22,13 +22,9 @@ aliasesFor404:
 - /blog/its-that-time-again
 - /resources/blog/its-that-time-again
 tags:
-- Software Developers
-- Software Development
-- Decision Making
-- Entrepreneurship
-categories:
 - Personal
 - Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

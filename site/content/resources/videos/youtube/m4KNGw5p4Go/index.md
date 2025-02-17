@@ -28,34 +28,34 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
 - Experimentation
 - Product Discovery
-- Product Validation
-- Value Delivery
+- People and Process
 - Hypothesis Driven Development
+- Value Delivery
+- Product Validation
 - Pragmatic Thinking
 - Continuous Learning
-- Team Collaboration
 - Lean Product Development
+- Team Collaboration
 - Metrics and Learning
-- Organisational Agility
-- Evidence Based Management
-- Agile Product Management
 - Evidence Based Leadership
 - Business Agility
+- Organisational Agility
 - Ability to Innovate
 - Agile Product Operating Model
 - Practical Techniques and Tooling
+- Evidence Based Management
+- Agile Product Management
 - Lean Principles
-- Lean Startup
 - Operational Practices
-- Decision Making
 - Agile Philosophy
+- Decision Making
+- Lean Startup
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
 - Product Management
 
 ---

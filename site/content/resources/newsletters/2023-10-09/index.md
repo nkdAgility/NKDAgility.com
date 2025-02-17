@@ -17,15 +17,8 @@ aliases:
 aliasesFor404:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-categories:
-- Scrum
-- Agile Product Management
-- Value Delivery
-- People and Process
-- Transparency and Accountability
-tags:
-- Scrum Master
-- Agile Strategy
+categories: []
+tags: []
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

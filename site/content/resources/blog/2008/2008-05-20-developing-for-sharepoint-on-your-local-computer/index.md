@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/developing-for-sharepoint-on-your-local-computer
 - /resources/blog/developing-for-sharepoint-on-your-local-computer
 tags:
-- Software Development
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

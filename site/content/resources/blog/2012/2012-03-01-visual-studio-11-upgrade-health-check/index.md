@@ -22,23 +22,23 @@ aliasesFor404:
 - /blog/visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
 tags:
-- Team Performance
-- Team Collaboration
-- Agile Frameworks
-- Pragmatic Thinking
-- Troubleshooting
-- Software Development
-- System Configuration
-categories:
 - Scrum
+- Team Performance
+- People and Process
+- Practical Techniques and Tooling
+- Events and Presentations
+- Team Collaboration
+- Products and Books
 - Install and Configuration
 - News and Reviews
-- People and Process
-- Events and Presentations
-- Practical Techniques and Tooling
-- Products and Books
-- Azure DevOps
+- Agile Frameworks
 - Product Delivery
+- Pragmatic Thinking
+- Software Development
+- Azure DevOps
+- System Configuration
+- Troubleshooting
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

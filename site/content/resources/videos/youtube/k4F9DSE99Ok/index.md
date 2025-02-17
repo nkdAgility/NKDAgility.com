@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true
-tags: []
+tags:
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,7 +30,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

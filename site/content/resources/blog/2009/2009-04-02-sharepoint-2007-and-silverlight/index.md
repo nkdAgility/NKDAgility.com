@@ -22,13 +22,9 @@ aliasesFor404:
 - /blog/sharepoint-2007-and-silverlight
 - /resources/blog/sharepoint-2007-and-silverlight
 tags:
-- Software Development
-- Deployment Strategies
-- Technical Mastery
-- Troubleshooting
-preview: metro-sharepoint-128-link-1-1.png
-categories:
 - Products and Books
+preview: metro-sharepoint-128-link-1-1.png
+categories: []
 
 ---
 I have looked at this topic before but I just got my hands on a new Wrox book called “[Professional Microsoft Sharepoint 2007 Development using Microsoft Silverlight 2](http://www.amazon.co.uk/gp/product/0470434007?ie=UTF8&tag=marthinssblog-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0470434007)”, phew, could that title be any longer!

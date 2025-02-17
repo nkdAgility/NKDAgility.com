@@ -27,12 +27,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Philosophy
 resourceTypes:
 - video
 layout: video
-categories:
-- People and Process
+categories: []
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

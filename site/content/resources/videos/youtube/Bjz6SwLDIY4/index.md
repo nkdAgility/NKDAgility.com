@@ -29,22 +29,25 @@ sitemap:
   priority: 0.6
 tags:
 - Business Agility
-- Organisational Agility
-- Organisational Change
+- People and Process
 - Resilience and Change
-- Change Management
+- Organisational Change
+- Organisational Agility
 - Enterprise Agility
+- Change Management
 - Market Adaptability
 - Agile Philosophy
 - Beta Codex
 - Organisational Physics
-- Agile Strategy
 - Sensemaking
 - Pragmatic Thinking
+- Agile Strategy
 resourceTypes:
 - video
 categories:
-- People and Process
+- Social Technologies
+- Product Management
+- Leadership
 
 ---
 In today's fast-paced world, both individuals and businesses must constantly adapt to their surroundings. Whether it's a shift in the market, unforeseen circumstances, or technological advancements, those who thrive are the ones who can effectively readjust to the changes around them.

@@ -30,30 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
 - Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Coaching
-- Continuous Learning
-- Operational Practices
-- Organisational Change
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Product Development
-- Scrum Team
-- Software Developers
-- Software Development
-- Team Collaboration
-- Team Motivation
-- Team Performance
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
-- Practical Techniques and Tooling
+- Engineering Excellence
+- Product Management
 
 ---
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**

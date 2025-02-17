@@ -26,11 +26,12 @@ aliasesFor404:
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
 tags:
+- Install and Configuration
+- Miscellaneous
 - Technical Mastery
 - Software Development
 categories:
-- Install and Configuration
-- Miscellaneous
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

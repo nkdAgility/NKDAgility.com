@@ -30,30 +30,30 @@ sitemap:
 tags:
 - Value Delivery
 - Throughput
-- Product Delivery
 - Metrics and Learning
-- Agile Product Management
+- Product Delivery
 - Ability to Innovate
+- Agile Product Management
+- Agile Project Management
+- People and Process
+- Evidence Based Management
 - Agile Product Operating Model
 - Product Owner
-- Agile Project Management
 - Decision Making
-- Evidence Based Management
 - Pragmatic Thinking
 - Evidence Based Leadership
-- Empirical Process Control
 - Strategy
+- Empirical Process Control
 - Agile Strategy
+- Scrum Product Development
+- Product Strategy
 - Business Agility
 - Products and Books
-- Product Strategy
-- Scrum Product Development
 - Operational Practices
 resourceTypes:
 - video
 categories:
 - Product Management
-- People and Process
 - Social Technologies
 
 ---

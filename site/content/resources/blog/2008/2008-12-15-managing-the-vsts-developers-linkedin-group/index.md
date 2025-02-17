@@ -26,11 +26,11 @@ aliasesFor404:
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/blog/managing-the-vsts-developers-linkedin-group
 tags:
-- Team Collaboration
-categories:
-- News and Reviews
 - People and Process
+- Team Collaboration
+- News and Reviews
 - Miscellaneous
+categories: []
 
 ---
 [![n2381079695_7151](images/eb4ca28d54bb_77F8-n2381079695_7151_3-1-1.jpg)](//www.linkedin.com/e/gis/104499)

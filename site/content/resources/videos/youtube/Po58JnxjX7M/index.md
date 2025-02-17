@@ -28,11 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- People and Process
+- Social Technologies
+- Leadership
 
 ---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.

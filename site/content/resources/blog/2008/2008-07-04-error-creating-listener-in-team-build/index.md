@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/error-creating-listener-in-team-build
 - /resources/blog/error-creating-listener-in-team-build
 tags:
+- Install and Configuration
 - Windows
 - Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Install and Configuration
+categories: []
 
 ---
 If, like me you are trying to run tests against your web services and you the error below, you will need to give permission to the service account that runs your Build Agent to create listeners in IIS.

@@ -30,6 +30,7 @@ tags:
 - Technical Mastery
 - Engineering Practices
 - Pragmatic Thinking
+- Technical Excellence
 - Operational Practices
 sitemap:
   filename: sitemap.xml
@@ -38,7 +39,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Technical Excellence
 - Engineering Excellence
 
 ---

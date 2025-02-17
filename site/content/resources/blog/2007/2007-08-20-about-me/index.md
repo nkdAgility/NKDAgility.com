@@ -21,10 +21,10 @@ aliasesFor404:
 - /about-me
 - /blog/about-me
 - /resources/blog/about-me
-categories:
-- Personal
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags: []
+tags:
+- Personal
 
 ---
 I thought I should take a leaf out of [Scott Dorman's](http://geekswithblogs.net/sdorman/archive/2007/08/15/About.aspx "About Scott Dorman") book and post some information about me:

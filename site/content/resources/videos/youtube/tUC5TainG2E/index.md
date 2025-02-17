@@ -27,13 +27,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Personal
 resourceTypes:
 - video
 categories:
 - DevOps
-- People and Process
-- Personal
 
 ---
 Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"

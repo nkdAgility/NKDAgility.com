@@ -22,23 +22,25 @@ aliasesFor404:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 tags:
-- Scaled Agile
 - Business Agility
+- Scaled Agile
 - Agile Transformation
-- Agile Philosophy
-- Large Scale Agility
-- Agile Strategy
-- Change Management
-- Enterprise Agility
-- Organisational Agility
-- Organisational Change
 - Agile Frameworks
+- People and Process
+- Enterprise Agility
+- Large Scale Agility
+- Change Management
+- Agile Philosophy
+- Organisational Change
+- Agile Strategy
+- Organisational Agility
 - Organisational Culture
 - Resilience and Change
-- Sociotechnical Systems
 - Organisational Physics
+- Sociotechnical Systems
 categories:
-- People and Process
+- Social Technologies
+- Leadership
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 
 ---

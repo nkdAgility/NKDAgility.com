@@ -22,24 +22,24 @@ card:
   content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
   title: Service Level Expectation (SLE)
 categories:
-- Scrum
 - Social Technologies
 tags:
-- Scrum Team
+- Scrum
 - Cycle Time
-- Metrics and Learning
-- Flow Efficiency
+- Scrum Team
 - Scrum Product Development
-- Empirical Process Control
-- Forecasting
-- Operational Practices
-- Transparency
+- Flow Efficiency
+- Metrics and Learning
 - Throughput
 - Software Development
-- Agile Project Management
-- Estimation
-- Pragmatic Thinking
 - Agile Frameworks
+- Empirical Process Control
+- Forecasting
+- Estimation
+- Transparency
+- Agile Project Management
+- Operational Practices
+- Pragmatic Thinking
 - Agile Planning
 
 ---

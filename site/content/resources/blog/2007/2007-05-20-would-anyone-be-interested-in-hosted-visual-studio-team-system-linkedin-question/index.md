@@ -27,21 +27,21 @@ aliasesFor404:
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
 - Modern Source Control
-- Software Development
-- System Configuration
-- Working Software
-- Software Developers
-- Technical Mastery
-- Collaboration Tools
-preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
-- DevOps
-- Azure DevOps
-- Application Lifecycle Management
+- Software Development
+- News and Reviews
+- System Configuration
+- Technical Mastery
+- Collaboration Tools
 - Product Delivery
+- Working Software
+- Azure DevOps
+- Software Developers
+- Application Lifecycle Management
+preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- DevOps
 
 ---
 View Full Question and Answers: [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)

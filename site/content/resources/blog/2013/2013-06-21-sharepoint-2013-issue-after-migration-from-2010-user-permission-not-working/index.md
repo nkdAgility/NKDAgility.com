@@ -30,7 +30,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Technical Excellence
+- Engineering Excellence
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

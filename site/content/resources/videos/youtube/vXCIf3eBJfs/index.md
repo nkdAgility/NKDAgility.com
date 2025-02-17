@@ -27,11 +27,11 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

@@ -20,15 +20,15 @@ card:
   content: Discover more about Common Goals and how it can help you in your Agile journey!
   title: Common Goals
 categories:
-- Scrum
-- People and Process
 - Social Technologies
 tags:
-- Scrum Product Development
+- Scrum
 - Strategy
+- Scrum Product Development
 - Scrum Team
 - Strategic Goals
 - Professional Scrum
+- People and Process
 - Agile Project Management
 - Product Owner
 - Agile Product Management

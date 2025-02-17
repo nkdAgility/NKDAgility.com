@@ -21,10 +21,10 @@ aliasesFor404:
 - /tfs-data-manager
 - /blog/tfs-data-manager
 - /resources/blog/tfs-data-manager
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
-categories:
+tags:
 - Products and Books
+preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 This looks like a [fantastic product](http://onepulse.com/) that will let you do pretty much everything that has been missing from TFS. You can cop / clone projects across servers. you get disaster recovery capabilities that surpass anything that has before been available!

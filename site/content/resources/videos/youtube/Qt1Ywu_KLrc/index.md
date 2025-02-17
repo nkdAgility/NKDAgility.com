@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false
-tags: []
+tags:
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

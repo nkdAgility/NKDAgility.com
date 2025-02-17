@@ -22,40 +22,7 @@ preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false
 tags:
-- Software Development
-- Decision Making
-- Decision Theory
-- Software Developers
-- Organisational Culture
-- Product Delivery
-- Continuous Learning
-- Business Agility
-- Agile Product Management
-- Value Delivery
-- Sociotechnical Systems
-- Pragmatic Thinking
-- Team Motivation
-- Team Collaboration
-- Team Performance
-- Organisational Physics
-- Organisational Agility
-- Agile Strategy
-- Agile Philosophy
-- Agile Leadership
-- Technical Leadership
-- Coaching
-- Mentoring
-- Scrum Product Development
-- Agile Values and Principles
-- Cross Functional Teams
-- Scrum Team
-- Agile Product Operating Model
-- Self Organisation
-- Agile Transformation
-- Employee Engagement
-- Agile Project Management
-- Operational Practices
-- Agile Frameworks
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -63,7 +30,10 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
+- Leadership
+- Engineering Excellence
+- Social Technologies
+- Product Management
 
 ---
 In my journey as a product development mentor, I've come to realise that the heart of successful software organisations lies in the people who build the products. In Scrum, we refer to these individuals as developers, but this term encompasses a diverse group: testers, coders, analysts, product owners, and even those in cyber security operations. Each plays a crucial role in the creation of a product, and it’s essential that we foster an environment where they can thrive.

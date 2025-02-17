@@ -28,32 +28,47 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Ability to Innovate
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Change Management
-- Continuous Learning
-- Decision Making
+- Organisational Agility
 - Empirical Process Control
+- Agile Product Management
+- People and Process
+- Agile Project Management
+- Business Agility
+- Continuous Learning
+- Discovery and Learning
+- Change Management
+- Resilience and Change
+- Hypothesis Driven Development
+- Agile Values and Principles
+- Software Development
+- Agile Frameworks
+- Agile Strategy
+- Organisational Change
+- Decision Making
+- Value Delivery
+- Agile Transformation
+- Enterprise Agility
+- Market Adaptability
+- Product Delivery
+- Agile Philosophy
+- Pragmatic Thinking
+- Strategy
+- Experimentation
+- Complexity Thinking
+- Agile Leadership
+- Metrics and Learning
 - Evidence Based Leadership
 - Evidence Based Management
-- Experimentation
-- Hypothesis Driven Development
-- Organisational Change
-- Pragmatic Thinking
-- Software Development
-- Strategy
+- Ability to Innovate
+- Organisational Culture
+- Sociotechnical Systems
+- Digital Transformation
+- Organisational Physics
+- Sensemaking
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Organisational Agility
-- People and Process
+- Product Management
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

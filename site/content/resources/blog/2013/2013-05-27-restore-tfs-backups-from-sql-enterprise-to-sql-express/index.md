@@ -25,7 +25,6 @@ tags:
 - Troubleshooting
 categories:
 - Engineering Excellence
-- Technical Excellence
 preview: lazy1-5-5.jpg
 
 ---

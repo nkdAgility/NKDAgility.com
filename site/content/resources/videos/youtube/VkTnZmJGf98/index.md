@@ -33,7 +33,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
 - Social Technologies
 

@@ -27,25 +27,25 @@ aliasesFor404:
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Application Lifecycle Management
+- People and Process
+- Discovery and Learning
 - Working Software
-- Products and Books
-- Product Delivery
-- Agile Philosophy
-- Customer Feedback Loops
-- Business Agility
-- Agile Strategy
 - Agile Transformation
-- Frequent Releases
+- Product Delivery
+- Agile Strategy
+- Business Agility
+- Agile Philosophy
+- Products and Books
+- Customer Feedback Loops
 - Value Delivery
-- Organisational Agility
 - Deployment Frequency
+- Frequent Releases
+- Organisational Agility
+- Personal
 - Product Discovery
 - Software Development
 - Customer Retention
 categories:
-- People and Process
-- Discovery and Learning
-- Personal
 - Product Management
 preview: nakedalm-logo-128-link-1-1.png
 

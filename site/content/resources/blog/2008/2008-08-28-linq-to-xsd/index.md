@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/linq-to-xsd
 - /resources/blog/linq-to-xsd
 tags:
-- Software Development
-categories:
 - Install and Configuration
+- Software Development
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

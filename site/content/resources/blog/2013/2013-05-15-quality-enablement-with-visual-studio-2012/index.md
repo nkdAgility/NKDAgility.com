@@ -28,7 +28,6 @@ tags:
 - Engineering Practices
 categories:
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 - Product Management
 preview: nakedalm-experts-visual-studio-alm-18-18.png

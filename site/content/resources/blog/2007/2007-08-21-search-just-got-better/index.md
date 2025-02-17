@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/search-just-got-better
 - /resources/blog/search-just-got-better
 tags:
-- Windows
-- Product Validation
-categories:
 - Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-6-1.png
 
 ---

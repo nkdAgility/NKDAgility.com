@@ -26,9 +26,11 @@ aliasesFor404:
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 tags:
+- Scrum
 - Scrum Team
 categories:
-- Scrum
+- Product Management
+- Engineering Excellence
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

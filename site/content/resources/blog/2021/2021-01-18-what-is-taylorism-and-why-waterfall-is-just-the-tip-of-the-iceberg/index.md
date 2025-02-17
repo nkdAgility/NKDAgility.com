@@ -31,9 +31,11 @@ aliasesFor404:
 - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 tags:
+- People and Process
 - Organisational Culture
 categories:
-- People and Process
+- Leadership
+- Social Technologies
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

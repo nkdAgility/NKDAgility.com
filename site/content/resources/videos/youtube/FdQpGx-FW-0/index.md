@@ -28,30 +28,35 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- BetaCodex
-- Decision Making
-- Organisational Change
-- Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Self Organisation
-- Sensemaking
-- Software Development
-- Team Motivation
+- People and Process
 - Transparency
+- Agile Values and Principles
+- Business Agility
+- Agile Leadership
+- Organisational Agility
+- Agile Project Management
+- Agile Frameworks
+- Decision Making
+- Organisational Culture
+- Agile Transformation
+- Self Organisation
+- Organisational Physics
+- Agile Strategy
+- Organisational Change
+- Agile Philosophy
+- Enterprise Agility
+- Team Motivation
+- Sociotechnical Systems
+- Software Development
+- Pragmatic Thinking
+- Transparency and Accountability
+- Value Delivery
+- Sensemaking
+- Decision Theory
 resourceTypes:
 - video
 categories:
-- Business Agility
-- Organisational Agility
-- People and Process
+- Product Management
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

@@ -29,8 +29,6 @@ tags:
 - Technical Mastery
 categories:
 - Engineering Excellence
-- Technical Excellence
-- Code and Complexity
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 

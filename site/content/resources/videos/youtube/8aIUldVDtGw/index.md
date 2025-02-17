@@ -29,42 +29,42 @@ sitemap:
   priority: 0.6
 tags:
 - Lean
-- Throughput
 - Strategy
-- Scrum Product Development
+- People and Process
+- Throughput
+- Agile Product Management
 - Lean Product Development
 - Lean Thinking
+- Scrum Product Development
 - Cycle Time
-- Agile Product Management
-- Value Delivery
+- Team Collaboration
 - Pragmatic Thinking
+- Value Delivery
+- Agile Project Management
 - Product Delivery
+- Team Performance
 - Flow Efficiency
 - Lean Principles
-- Team Performance
-- Team Collaboration
-- Agile Project Management
+- Agile Planning
 - Software Development
 - Agile Strategy
-- Agile Frameworks
 - Operational Practices
-- Agile Planning
-- Scrum Team
+- Agile Frameworks
+- Scrum
 - Product Owner
-- Software Developers
-- Scrum Master
+- Scrum Team
 - Professional Scrum
 - Agile Product Operating Model
-- Organisational Agility
-- Agile Transformation
+- Scrum Master
+- Software Developers
 - Organisational Physics
+- Agile Transformation
+- Organisational Agility
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
 - Social Technologies
-- Scrum
 
 ---
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from Lean methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.

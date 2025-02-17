@@ -28,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Personal
 - Pragmatic Thinking
 - Software Development
 resourceTypes:
 - video
 categories:
 - DevOps
-- People and Process
-- Personal
 
 ---
 ## Synergy Between Consulting and Training

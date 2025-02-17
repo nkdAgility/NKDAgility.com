@@ -22,16 +22,18 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
+- Scrum
 - Professional Scrum
+- Scrum Master
 - Scrum Team
 - Scrum Product Development
-- Scrum Master
-- Product Delivery
-- Agile Product Management
 - Team Performance
 - Software Development
-- Technical Leadership
+- People and Process
+- Product Delivery
+- Agile Product Management
 - Agile Project Management
+- Technical Leadership
 - Pragmatic Thinking
 - Agile Frameworks
 - Value Delivery
@@ -44,8 +46,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- People and Process
 - Social Technologies
 
 ---

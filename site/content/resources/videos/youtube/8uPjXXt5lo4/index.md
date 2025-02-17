@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Personal
+- Discovery and Learning
 - Team Collaboration
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- People and Process
-- Personal
+categories: []
 
 ---
 What is the most valuable thing you have learned through training people?

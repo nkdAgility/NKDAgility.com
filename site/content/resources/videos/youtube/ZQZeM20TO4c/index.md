@@ -29,15 +29,18 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
-- Agile Philosophy
-- Agile Transformation
-- Organisational Change
-resourceTypes:
-- video
-categories:
 - Organisational Agility
 - People and Process
 - Resilience and Change
+- Organisational Change
+- Business Agility
+- Agile Transformation
+- Market Adaptability
+- Agile Philosophy
+resourceTypes:
+- video
+categories:
+- Product Management
 
 ---
 Product of Conventional Practices

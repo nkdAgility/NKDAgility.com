@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/messenger-united
 - /resources/blog/messenger-united
 tags:
+- Products and Books
+- News and Reviews
 - Windows
 preview: nakedalm-logo-128-link-3-3.png
-categories:
-- News and Reviews
-- Products and Books
+categories: []
 
 ---
 Although the site is a little skewed today…

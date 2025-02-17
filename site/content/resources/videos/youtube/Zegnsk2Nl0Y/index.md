@@ -22,6 +22,7 @@ preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
+- Practical Techniques and Tooling
 - Scrum Master
 sitemap:
   filename: sitemap.xml
@@ -31,7 +32,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Practical Techniques and Tooling
 
 ---
 As a Scrum Master, I’ve often found myself reflecting on the tools that truly enhance our agile practices. One tool that consistently stands out in my experience is Azure DevOps. It’s not just a tool; it’s a game changer for Scrum Masters and teams alike. Let me share why I believe Azure DevOps is a favourite among Scrum Masters and how it can elevate your agile journey.

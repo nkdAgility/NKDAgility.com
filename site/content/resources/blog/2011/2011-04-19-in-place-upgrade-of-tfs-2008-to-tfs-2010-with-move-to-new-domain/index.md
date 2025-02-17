@@ -22,13 +22,14 @@ aliasesFor404:
 - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 - /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 tags:
+- Install and Configuration
 - System Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
 preview: metro-visual-studio-2010-128-link-24-24.png
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- DevOps
 
 ---
 [![vs2010logo](images/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_thumb-22-22.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_2.png)I had a particularly complicated upgrade this time that required me to do two things:

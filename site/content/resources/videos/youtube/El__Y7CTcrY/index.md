@@ -28,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Discovery and Learning
 - Continuous Learning
+- Personal
 - Coaching
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
-- Personal
 - Social Technologies
 
 ---

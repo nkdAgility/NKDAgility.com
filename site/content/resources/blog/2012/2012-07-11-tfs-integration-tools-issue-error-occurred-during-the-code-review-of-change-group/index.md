@@ -26,10 +26,12 @@ aliasesFor404:
 - /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
 - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 tags:
-- Troubleshooting
-- Software Development
-categories:
 - Practical Techniques and Tooling
+- Software Development
+- Troubleshooting
+categories:
+- Engineering Excellence
+- DevOps
 preview: metro-problem-icon-2-2.png
 
 ---

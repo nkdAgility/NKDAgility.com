@@ -23,12 +23,14 @@ aliasesFor404:
 - /resources/blog/my-first-scrum-team-in-the-wild
 tags:
 - Agile Project Management
+- Scrum
+- Agile Product Management
 - Agile Planning
 - Agile Frameworks
 - Software Development
 categories:
-- Scrum
-- Agile Product Management
+- Product Management
+- Engineering Excellence
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

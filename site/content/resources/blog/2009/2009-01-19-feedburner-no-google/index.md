@@ -29,10 +29,10 @@ aliasesFor404:
 - /feedburner--no-google…
 - /blog/feedburner--no-google…
 - /resources/blog/feedburner-no-google
-categories:
-- Install and Configuration
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
 tags:
+- Install and Configuration
 - Troubleshooting
 
 ---

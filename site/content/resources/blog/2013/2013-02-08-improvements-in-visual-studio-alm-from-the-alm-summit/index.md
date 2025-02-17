@@ -22,19 +22,21 @@ aliasesFor404:
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
+- Kanban
+- Practical Techniques and Tooling
+- Events and Presentations
 - Modern Source Control
 - Software Development
-- Working Software
-- Operational Practices
-- Technical Mastery
-categories:
-- Kanban
 - News and Reviews
 - Application Lifecycle Management
-- Events and Presentations
-- Practical Techniques and Tooling
+- Operational Practices
+- Working Software
 - Azure DevOps
 - Technical Excellence
+- Technical Mastery
+categories:
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

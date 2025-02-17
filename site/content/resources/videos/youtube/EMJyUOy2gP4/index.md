@@ -28,32 +28,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
+- Scrum
+- Scrum Team
 - Metrics and Learning
 - Scrum Master
-- Scrum Team
-- Ability to Innovate
-- Decision Making
+- People and Process
+- Scrum Product Development
 - Practical Techniques and Tooling
 - Professional Scrum
+- Ability to Innovate
 - Team Performance
-- Agile Product Management
+- Decision Making
 - Operational Practices
+- Agile Product Management
 - Product Delivery
-- Strategy
-- Pragmatic Thinking
 - Accountability
-- Value Delivery
+- Pragmatic Thinking
+- Evidence Based Management
 - Evidence Based Leadership
 - Software Development
-- Evidence Based Management
-- Agile Project Management
+- Strategy
 - Agile Frameworks
+- Value Delivery
+- Agile Project Management
 resourceTypes:
 - video
 categories:
-- Scrum
-- People and Process
 - Product Management
 - Social Technologies
 - Engineering Excellence

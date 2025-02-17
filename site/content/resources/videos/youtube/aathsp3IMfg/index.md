@@ -29,7 +29,9 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- People and Process
 resourceTypes:
 - video
 categories: []

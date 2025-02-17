@@ -28,14 +28,14 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 tags:
-- Modern Source Control
 - Technical Mastery
-- Troubleshooting
-- Software Development
-- System Configuration
-categories:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Modern Source Control
+- Software Development
+- Install and Configuration
+- System Configuration
+- Troubleshooting
+categories: []
 preview: metro-problem-icon-4-4.png
 
 ---

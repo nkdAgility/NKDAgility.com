@@ -21,10 +21,12 @@ preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
+- People and Process
 - Agile Values and Principles
-- Team Motivation
 - Team Collaboration
+- Team Motivation
 - Team Performance
+- Personal
 - Coaching
 sitemap:
   filename: sitemap.xml
@@ -34,8 +36,8 @@ layout: video
 resourceTypes:
 - video
 categories:
-- People and Process
-- Personal
+- Leadership
+- Social Technologies
 
 ---
 In my journey through the world of agility, I've come to realise that the foundation of successful agile practices lies not just in frameworks or methodologies, but in the relationships we cultivate. Bringing modesty and respect for others into our conversations is paramount. It’s about building trust—trust that extends beyond our immediate teams to encompass the entire organisation and even our customers.

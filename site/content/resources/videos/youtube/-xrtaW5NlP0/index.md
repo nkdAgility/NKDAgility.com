@@ -27,19 +27,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Cycle Time
-- Operational Practices
-- Organisational Physics
-- Pragmatic Thinking
+- Kanban
 - Throughput
+- People and Process
+- Flow Efficiency
+- Cycle Time
+- Agile Frameworks
+- Operational Practices
+- Pragmatic Thinking
+- Metrics and Learning
+- Organisational Physics
+- Lean
 resourceTypes:
 - video
 layout: video
-categories:
-- Flow Efficiency
-- Kanban
-- People and Process
+categories: []
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  

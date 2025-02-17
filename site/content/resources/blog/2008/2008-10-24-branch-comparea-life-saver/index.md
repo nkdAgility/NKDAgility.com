@@ -26,10 +26,10 @@ aliasesFor404:
 - /blog/branch-compare…a-life-saver
 - /resources/blog/branch-comparea-life-saver
 tags:
+- Practical Techniques and Tooling
 - Modern Source Control
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Practical Techniques and Tooling
+categories: []
 
 ---
 In my recent troubles with [branching and merging](http://blog.hinshelwood.com/archive/2008/10/22/branch-madness.aspx) I found (it was not lost, I just did not know about it) a fantastic tool, that has actually been part of the [power tools for about two years](http://www.bdharry.members.winisp.net/BlogImages/NewTFSPowerToysAvailable_8214/treediff3.jpg), for comparing two branches. Cool…

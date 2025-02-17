@@ -28,13 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Personal
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - DevOps
-- People and Process
-- Personal
+- Product Management
 
 ---
 As a product owner, you might sometimes face the challenge of working with a team that isn't meeting expectations. Incompetence in a team can be frustrating, but it’s essential to approach the situation thoughtfully and strategically before taking any drastic steps. So, what should you do if you find yourself in this predicament? Let’s dive into it.

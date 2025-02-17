@@ -28,17 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Azure DevOps
 - Digital Transformation
+- Practical Techniques and Tooling
+- Software Development
+- Software Developers
+- Personal
 - Operational Practices
 - Pragmatic Thinking
-- Software Developers
-- Software Development
+- Market Adaptability
+- Organisational Agility
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
-- People and Process
 
 ---
 ## A Journey to DevOps Success

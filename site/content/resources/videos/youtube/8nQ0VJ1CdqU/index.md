@@ -28,31 +28,37 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Leadership
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- BetaCodex
-- Change Management
 - Decision Making
+- Agile Project Management
+- Agile Transformation
+- Sociotechnical Systems
+- Agile Philosophy
+- Agile Strategy
+- Business Agility
 - Organisational Change
-- Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Scaling Agility
-- Self Organisation
-- Software Development
-- Team Collaboration
 - Team Motivation
+- Software Development
+- Pragmatic Thinking
+- Organisational Physics
+- Team Collaboration
+- Change Management
+- Organisational Culture
+- Enterprise Agility
+- Organisational Agility
+- Agile Values and Principles
+- Resilience and Change
+- Decision Theory
+- Transparency and Accountability
+- Self Organisation
 - Transparency
+- Scaling Agility
+- Organisational Psychology
 resourceTypes:
 - video
 categories:
-- Enterprise Agility
-- People and Process
-- Sociotechnical Systems
+- Product Management
 
 ---
 Why did so many of the early agile transformations fail?

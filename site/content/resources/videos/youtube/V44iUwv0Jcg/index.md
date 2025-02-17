@@ -24,6 +24,7 @@ isShort: true
 tags:
 - Lean Thinking
 - Operational Practices
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,7 +33,6 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Discovery and Learning
 
 ---
 In the world of Agile methodologies, particularly within the Kanban community, there's a term that often gets thrown around: Kaizen. Now, I must admit, we have a tendency to take Japanese words and adapt them to fit our context, sometimes straying from their original meanings. However, the essence of Kaizen—continuous improvement—is something that resonates deeply with me and is crucial for anyone looking to enhance their processes.

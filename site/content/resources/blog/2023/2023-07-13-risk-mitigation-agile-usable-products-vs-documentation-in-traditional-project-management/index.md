@@ -29,30 +29,30 @@ aliasesFor404:
 tags:
 - Pragmatic Thinking
 - Strategy
+- Agile Project Management
 - Increment
 - Agile Product Management
-- Agile Project Management
-- Working Software
-- Product Delivery
 - Agile Philosophy
-- Agile Values and Principles
 - Agile Strategy
+- Product Delivery
+- Agile Values and Principles
 - Software Development
-- Market Adaptability
-- Agile Transformation
+- Working Software
+- Organisational Agility
 - Software Developers
 - Value Delivery
-- Organisational Agility
 - Agile Frameworks
-- Business Agility
+- Agile Transformation
+- Market Adaptability
 - Agile Product Operating Model
 - Agile Planning
 - Product Validation
+- Business Agility
+- People and Process
 - Empirical Process Control
 categories:
 - Social Technologies
 - Product Management
-- People and Process
 preview: image-1.jpg
 
 ---

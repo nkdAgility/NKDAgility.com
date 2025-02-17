@@ -30,10 +30,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
 - Product Management
-- Miscellaneous
 
 ---
 In my journey through the world of software development, I've often found myself reflecting on the fundamental question: do we truly understand our users? It’s a question that seems simple on the surface, yet it unravels a complex web of assumptions, data, and collaboration that can make or break our projects.

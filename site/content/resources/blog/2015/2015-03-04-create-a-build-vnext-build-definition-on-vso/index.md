@@ -31,7 +31,6 @@ tags:
 - Azure Pipelines
 - Azure DevOps
 categories:
-- Technical Excellence
 - Engineering Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-26-26.png

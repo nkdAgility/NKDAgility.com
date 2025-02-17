@@ -26,17 +26,17 @@ aliasesFor404:
 - /blog/tfs-event-handler--prototype-released
 - /resources/blog/tfs-event-handler-prototype-released
 tags:
+- Practical Techniques and Tooling
 - Working Software
-- Frequent Releases
+- Install and Configuration
+- News and Reviews
 - Technical Mastery
 - Release Management
+- Frequent Releases
 - Software Development
 - System Configuration
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Install and Configuration
-- News and Reviews
-- Practical Techniques and Tooling
+categories: []
 
 ---
 As promised I have [released](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=5057 "TFS Event Handler (Prototype)") the application and code for my prototype [TFS Event Handler](http://www.codeplex.com/TFSEventHandler). I am currently working on the documentation, but I though I would give the bravest of you advanced notice of the release. You should be able to figure out how to configure it and extend it without much help (who reads documentation anyway), but for those of you who need that extra hand I will hopefully, time permitting, be releasing some sort of rudimentary documentation today!

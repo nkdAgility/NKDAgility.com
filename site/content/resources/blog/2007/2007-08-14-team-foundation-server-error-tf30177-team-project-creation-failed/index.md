@@ -29,9 +29,7 @@ tags:
 - Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- DevOps
 
 ---
 When you create your first project, you may get an error during the creation process. When you look at the log file and see a "proxy error" message detail it may be to do with the way that TFS installs.

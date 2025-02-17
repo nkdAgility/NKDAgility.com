@@ -2,21 +2,17 @@
 title: 'Decoding Ethics in Agile: A Deep Dive with Martin & Simon'
 description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
 ResourceId: SfjZtlimOCu
-ResourceImport: true
+ResourceImport: false
 ResourceType: podcast
 date: 2023-10-26
-categories:
-- Transparency and Accountability
-- People and Process
-- Organisational Agility
+categories: []
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 slug: decoding-ethics-in-agile-a-deep-dive-with-martin-simon
 aliases:
 - /resources/SfjZtlimOCu
-tags:
-- Agile Digital Tools
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

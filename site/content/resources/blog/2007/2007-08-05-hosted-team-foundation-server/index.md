@@ -22,16 +22,16 @@ aliasesFor404:
 - /blog/hosted-team-foundation-server
 - /resources/blog/hosted-team-foundation-server
 tags:
-- Software Development
-- Software Developers
-- Modern Source Control
-- Troubleshooting
-categories:
-- News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
+- Software Development
+- News and Reviews
+- Modern Source Control
 - Azure DevOps
+- Software Developers
 - Application Lifecycle Management
+- Troubleshooting
+categories: []
 
 ---
 I have [posted](http://blog.hinshelwood.com/archive/2007/05/31/Hosted-Team-Foundation-Server.aspx "Hosted Team Foundation Server") about Hosted Team Foundation server before and I have had a few discussions with [Jon Pratt](http://blogs.msdn.com/ukvsts/pages/jon-pratt.aspx) from the [Microsoft UK Development Tools Team](http://blogs.msdn.com/ukvsts/default.aspx) on the subject. The issue with Hosted [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") is that there is no real partitioning of projects within the system and thus if you had two clients on the same server they would be able to view each others data.

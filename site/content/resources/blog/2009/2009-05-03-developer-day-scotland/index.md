@@ -22,13 +22,9 @@ aliasesFor404:
 - /blog/developer-day-scotland
 - /resources/blog/developer-day-scotland
 tags:
-- Software Development
-- Technical Mastery
-- Engineering Practices
-- Engineering Excellence
-- Technical Debt
-categories:
 - Events and Presentations
+categories:
+- Engineering Excellence
 preview: metro-event-128-link-1-1.png
 
 ---

@@ -30,30 +30,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Accountability
-- Agile Frameworks
-- Agile Leadership
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
-- Coaching
-- Employee Engagement
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
+- Team Motivation
 - Scrum Product Development
 - Scrum Team
-- Software Developers
-- Software Development
+- People and Process
+- Scrum Master
 - Team Collaboration
-- Team Motivation
 - Team Performance
+- Agile Frameworks
+- Agile Project Management
+- Employee Engagement
+- Coaching
+- Pragmatic Thinking
+- Software Development
+- Agile Leadership
+- Agile Product Management
+- Agile Planning
+- Agile Transformation
+- Value Delivery
+- Professional Scrum
+- Personal
+- Organisational Psychology
+- Software Developers
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
+- Product Management
 
 ---
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 

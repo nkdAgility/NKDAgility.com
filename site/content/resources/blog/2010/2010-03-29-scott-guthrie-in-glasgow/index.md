@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/scott-guthrie-in-glasgow
 - /resources/blog/scott-guthrie-in-glasgow
 tags:
-- Software Development
-- Technical Mastery
-categories:
 - News and Reviews
 - Events and Presentations
+- Software Development
+- Technical Mastery
+categories: []
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

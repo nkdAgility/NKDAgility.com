@@ -27,12 +27,12 @@ aliasesFor404:
 - /resources/blog/i-messed-up-my-work-items-from-excel-what-now
 tags:
 - Troubleshooting
-- Pragmatic Thinking
-- Azure Boards
-- Software Development
-categories:
 - Practical Techniques and Tooling
+- Azure Boards
+- Pragmatic Thinking
+- Software Development
 - Azure DevOps
+categories: []
 preview: metro-visual-studio-2010-128-link-4-4.png
 
 ---

@@ -30,8 +30,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- DevOps
 preview: metro-problem-icon-3-3.png
 
 ---

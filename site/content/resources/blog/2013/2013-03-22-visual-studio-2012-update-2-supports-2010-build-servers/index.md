@@ -22,14 +22,16 @@ aliasesFor404:
 - /blog/visual-studio-2012-update-2-supports-2010-build-servers
 - /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
 tags:
+- Install and Configuration
 - System Configuration
+- Practical Techniques and Tooling
 - Windows
 - Software Development
+- Azure DevOps
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

@@ -28,26 +28,26 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Kanban
 - Transparency
 - Strategy
-- Metrics and Learning
 - Transparency and Accountability
-- Agile Strategy
-- Practical Techniques and Tooling
-- Flow Efficiency
-- Software Development
+- Metrics and Learning
 - Agile Project Management
+- Flow Efficiency
+- Practical Techniques and Tooling
+- Software Development
+- Agile Strategy
+- Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking
-- Agile Frameworks
+- People and Process
 - Value Delivery
 - Throughput
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
-- People and Process
 
 ---
 ### Embracing Kanban for Enhanced Workflow and Predictability

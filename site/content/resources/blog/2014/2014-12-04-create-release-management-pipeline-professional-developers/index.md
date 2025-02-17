@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Azure Pipelines
-- Azure DevOps
 - Release Management
+- Azure DevOps
 - Product Delivery
 - Practical Techniques and Tooling
 - Software Development

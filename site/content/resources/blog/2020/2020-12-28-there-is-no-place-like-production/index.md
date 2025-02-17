@@ -24,48 +24,48 @@ aliasesFor404:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Increment
-- Agile Product Management
 - Business Agility
-- Product Validation
 - Release Management
-- Product Discovery
-- Product Delivery
-- Value Delivery
-- Lean Product Development
-- Agile Product Operating Model
-- Working Software
-- Ability to Innovate
+- Product Validation
+- Agile Product Management
 - Metrics and Learning
-- Pragmatic Thinking
+- Product Delivery
+- Product Discovery
+- Value Delivery
+- Ability to Innovate
+- Lean Product Development
+- Working Software
+- Discovery and Learning
+- Agile Product Operating Model
+- Empirical Process Control
 - Deployment Frequency
-- Lean Startup
-- Decision Making
-- Hypothesis Driven Development
-- Operational Practices
-- MVP
-- Frequent Releases
 - Evidence Based Leadership
 - Experimentation
 - Agile Strategy
-- Empirical Process Control
+- Pragmatic Thinking
+- Frequent Releases
+- Operational Practices
+- Lean Startup
+- Decision Making
+- Hypothesis Driven Development
+- MVP
 - Agile Philosophy
 - Value Stream Management
-- Software Development
-- Organisational Agility
 - Product Owner
-- Agile Values and Principles
-- Product Strategy
 - Evidence Based Management
-- Customer Satisfaction
-- Lean Principles
+- People and Process
+- Organisational Agility
+- Software Development
+- Product Strategy
+- Agile Values and Principles
 - Customer Feedback Loops
-- Market Adaptability
+- Customer Satisfaction
 - Customer Retention
+- Lean Principles
+- Market Adaptability
 - Continuous Delivery
 categories:
 - Product Management
-- Discovery and Learning
-- People and Process
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

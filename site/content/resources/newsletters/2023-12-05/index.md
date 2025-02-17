@@ -17,16 +17,16 @@ aliasesFor404:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
-- Scrum
-- Discovery and Learning
-- People and Process
-- Events and Presentations
 - Social Technologies
 tags:
+- Scrum
 - Professional Scrum
+- People and Process
+- Discovery and Learning
 - Continuous Learning
-- Products and Books
 - Agile Transformation
+- Events and Presentations
+- Products and Books
 - Pragmatic Thinking
 - Agile Project Management
 - Value Delivery

@@ -6,7 +6,8 @@ ResourceImport: false
 ResourceType: podcast
 date: 2024-06-04
 categories:
-- People and Process
+- Social Technologies
+- Leadership
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -15,6 +16,7 @@ aliases:
 - /resources/2RYiDJ9l8wh
 tags:
 - Transparency
+- People and Process
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/06/37154808-1717508586054-52b451df81ef9.jpg)

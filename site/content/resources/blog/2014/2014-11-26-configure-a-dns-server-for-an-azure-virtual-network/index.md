@@ -25,8 +25,7 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-categories:
-- Technical Excellence
+categories: []
 preview: nakedalm-windows-logo-4-4.png
 
 ---

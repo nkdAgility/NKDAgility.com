@@ -20,24 +20,24 @@ card:
   title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
 categories:
 - Social Technologies
-- People and Process
 tags:
 - Business Agility
 - Portfolio Management
-- Agile Philosophy
 - Agile Strategy
+- Organisational Change
+- Agile Transformation
+- Agile Philosophy
 - Enterprise Agility
 - Evidence Based Management
 - Organisational Agility
-- Agile Transformation
-- Organisational Change
 - Market Adaptability
 - Agile Values and Principles
 - Scaling Agility
-- Strategic Goals
-- Decision Making
+- People and Process
 - Strategy
 - Pragmatic Thinking
+- Strategic Goals
+- Decision Making
 
 ---
 Organizations who seek to improve their competitiveness by being more responsive to change often turn to agile approaches to improve their responsiveness. While many organizations have reaped the rewards of agility at the team level, their traditional management practices impede deeper change that would enable true business agility. Agile principles and practices must spread beyond the Scrum Team in order for organizations to achieve the dramatic improvement that they seek in their business results.

@@ -23,14 +23,14 @@ aliasesFor404:
 - /resources/blog/create-a-vhd-from-the-windows-7-image-disk
 tags:
 - Windows
-- Technical Mastery
-- Troubleshooting
-- System Configuration
-- Software Development
-preview: metro-SSWLogo-128-link-16-16.png
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Mastery
+- System Configuration
+- Troubleshooting
+- Software Development
+preview: metro-SSWLogo-128-link-16-16.png
+categories: []
 
 ---
 This being my first week at [SSW](http://ssw.com.au "SSW - Sydney's Leading Custom Software Consultants - .NET, SQL Server, Web, Windows and SharePoint and Database Development"), and still waiting for my nice shiny new laptop to arrive, I am sitting here at my Wife’s laptop (which is PINK, a requirement to keep the [WAF](http://en.wikipedia.org/wiki/Woman_acceptance_factor) high), until it arrives.

@@ -28,12 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - Ability to Innovate
+- Metrics and Learning
 - Decision Making
+- Evidence Based Management
 - Evidence Based Leadership
 - Value Delivery
-- Evidence Based Management
 resourceTypes:
 - video
 categories:

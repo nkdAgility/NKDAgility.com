@@ -29,8 +29,7 @@ tags:
 - Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Code and Complexity
-- Technical Excellence
+- Engineering Excellence
 
 ---
 I am half way through the MSMQ Refactor of my [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) project and thing are starting to come together. I have changed it so that instead of one big solution I will have three smaller ones. This will allow me to cross reference the different services.

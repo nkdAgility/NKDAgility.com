@@ -21,10 +21,10 @@ aliasesFor404:
 - /htc-touch
 - /blog/htc-touch
 - /resources/blog/htc-touch
-tags: []
-categories:
+tags:
 - Products and Books
 - News and Reviews
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

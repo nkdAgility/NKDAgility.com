@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/another-day-another-codeplex-project
 - /resources/blog/another-day-another-codeplex-project
 tags:
-- Working Software
-- Technical Mastery
-- Troubleshooting
-- Software Development
-categories:
 - Practical Techniques and Tooling
+- Technical Mastery
+- Working Software
+- Software Development
+- Troubleshooting
+categories: []
 preview: metro-sharepoint-128-link-2-2.png
 
 ---

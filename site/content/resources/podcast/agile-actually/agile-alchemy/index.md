@@ -6,11 +6,7 @@ ResourceImport: false
 ResourceType: podcast
 date: 2023-12-19
 categories:
-- Scrum
 - DevOps
-- Events and Presentations
-- News and Reviews
-- People and Process
 - Social Technologies
 author: MrHinsh
 resourceTypes: podcast

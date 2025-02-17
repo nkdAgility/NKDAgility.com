@@ -21,7 +21,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
-tags: []
+tags:
+- Scrum
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,8 +31,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- People and Process
 - Social Technologies
 
 ---

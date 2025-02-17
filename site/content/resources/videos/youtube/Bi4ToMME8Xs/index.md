@@ -23,22 +23,27 @@ preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
 tags:
+- Scrum
 - Professional Scrum
 - Scrum Master
 - Continuous Learning
-- Products and Books
-- Product Delivery
-- Agile Product Management
-- Value Delivery
-- Team Performance
-- Software Development
-- Organisational Agility
+- Discovery and Learning
 - Agile Project Management
-- Coaching
+- Product Delivery
 - Agile Transformation
-- Pragmatic Thinking
+- Events and Presentations
 - Team Collaboration
+- People and Process
+- Value Delivery
+- Agile Product Management
+- Coaching
+- Products and Books
+- Pragmatic Thinking
+- Software Development
+- News and Reviews
 - Agile Frameworks
+- Team Performance
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4

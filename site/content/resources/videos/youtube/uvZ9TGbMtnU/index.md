@@ -23,12 +23,13 @@ duration: 41
 isShort: true
 tags:
 - Agile Product Management
-- Working Software
 - Product Delivery
 - Agile Project Management
 - Agile Transformation
-- Software Development
+- Working Software
 - Pragmatic Thinking
+- Software Development
+- Scrum
 - Agile Planning
 sitemap:
   filename: sitemap.xml
@@ -37,7 +38,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
 
 ---

@@ -16,28 +16,8 @@ aliases:
 aliasesFor404:
 - /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
 - /resources/newsletters/exclusive-webcast-2-agile
-categories:
-- Events and Presentations
-- Organisational Agility
-- Agile Product Management
-- Resilience and Change
-- People and Process
-tags:
-- Agile Leadership
-- Agile Transformation
-- Leadership Training
-- Agile Coaching
-- Organisational Change
-- Change Management
-- Agile Values and Principles
-- Agile Strategy
-- Continuous Improvement
-- Agile Community
-- Team Collaboration
-- Employee Engagement
-- Agile Methodology
-- Agile Digital Tools
-- Agile Product Management
+categories: []
+tags: []
 
 ---
 **🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

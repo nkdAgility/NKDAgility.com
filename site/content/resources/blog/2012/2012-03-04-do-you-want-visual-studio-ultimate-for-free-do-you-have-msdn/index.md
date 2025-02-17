@@ -27,13 +27,13 @@ aliasesFor404:
 - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 tags:
 - Windows
-- Software Developers
 - Software Development
-categories:
-- News and Reviews
-- Events and Presentations
+- Software Developers
 - Practical Techniques and Tooling
+- Events and Presentations
 - Products and Books
+- News and Reviews
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

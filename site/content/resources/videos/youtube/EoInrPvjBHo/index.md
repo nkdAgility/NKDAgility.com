@@ -28,19 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Agile Project Management
 - Agile Product Operating Model
 - Agile Product Management
 - Product Owner
-- Agile Project Management
 - Team Motivation
+- Personal
 - Employee Engagement
 - Agile Philosophy
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
-- Personal
 - Social Technologies
 
 ---

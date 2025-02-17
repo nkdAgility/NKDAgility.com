@@ -21,6 +21,7 @@ preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 isShort: false
 tags:
+- Scrum
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -30,7 +31,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
 
 ---

@@ -32,17 +32,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Accountability
-- Agile Frameworks
-- Agile Project Management
 - Professional Scrum
 - Scrum Master
 - Scrum Team
+- Agile Frameworks
+- People and Process
+- Agile Project Management
 - Software Development
+- Accountability
 resourceTypes:
 - video
-categories:
-- People and Process
+categories: []
 
 ---
 ## Unpacking the Differences

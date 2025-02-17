@@ -29,21 +29,21 @@ sitemap:
   priority: 0.6
 tags:
 - Experimentation
+- Discovery and Learning
 - Metrics and Learning
-- Continuous Learning
 - Hypothesis Driven Development
-- Product Discovery
 - Decision Making
+- Continuous Learning
 - Product Validation
+- Product Discovery
 - Lean Startup
 - Evidence Based Management
-- Decision Theory
-- Pragmatic Thinking
 - MVP
+- Pragmatic Thinking
+- Decision Theory
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Product Management
 
 ---

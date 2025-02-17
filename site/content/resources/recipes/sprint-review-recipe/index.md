@@ -38,8 +38,10 @@ card:
   content: Discover more about Sprint Review Recipe and how it can help you in your Agile journey!
   title: Sprint Review Recipe
 categories:
-- Scrum
+- Product Management
+- Social Technologies
 tags:
+- Scrum
 - Sprint Review
 - Scrum Product Development
 - Agile Project Management

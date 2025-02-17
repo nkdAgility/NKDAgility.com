@@ -28,13 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
+- People and Process
 - Continuous Learning
 - Organisational Agility
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
+- Social Technologies
+- Leadership
 
 ---
 In today’s fast-paced, ever-evolving workplace, Agile practices are becoming a cornerstone for teams looking to deliver value, adapt, and innovate quickly. But how do we ensure that teams and individuals truly _internalize_ Agile principles? How do we create an environment where Agile becomes second nature, rather than just a series of rituals to follow? This is where **immersive learning** shines.

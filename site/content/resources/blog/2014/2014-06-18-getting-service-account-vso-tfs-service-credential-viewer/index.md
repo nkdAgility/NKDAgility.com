@@ -28,14 +28,13 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Azure DevOps
 - Practical Techniques and Tooling
+- Azure DevOps
 - Software Development
 - Windows
 - System Configuration
 categories:
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

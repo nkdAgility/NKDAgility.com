@@ -18,20 +18,20 @@ aliasesFor404:
 - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 categories:
-- Scrum
-- People and Process
 - Social Technologies
-- Events and Presentations
 tags:
+- Scrum
 - Professional Scrum
-- Continuous Learning
 - Agile Frameworks
-- Products and Books
+- Continuous Learning
+- People and Process
 - Agile Project Management
+- Products and Books
 - Software Development
-- Practical Techniques and Tooling
 - Scrum Master
+- Practical Techniques and Tooling
 - Agile Transformation
+- Events and Presentations
 
 ---
 As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning scrum training courses. It's not just about learning; it's about transforming and leading in an agile world.

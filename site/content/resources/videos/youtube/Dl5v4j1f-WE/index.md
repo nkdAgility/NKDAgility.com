@@ -30,15 +30,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Transparency
+- People and Process
+- Transparency and Accountability
+- Personal
 - Agile Values and Principles
 - Scrum Values
-- Transparency
 resourceTypes:
 - video
-categories:
-- People and Process
-- Personal
-- Transparency and Accountability
+categories: []
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

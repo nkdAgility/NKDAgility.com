@@ -26,17 +26,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
-- Continuous Learning
+- People and Process
+- Discovery and Learning
 - Customer Feedback Loops
+- Metrics and Learning
+- Continuous Learning
 - Empirical Process Control
+- Personal
 - Team Collaboration
+- Coaching
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Metrics and Learning
-- People and Process
+categories: []
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

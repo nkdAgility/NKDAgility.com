@@ -22,18 +22,20 @@ preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
-- Agile Product Management
-- Agile Planning
 - Agile Project Management
+- Agile Planning
+- Agile Product Management
+- Agile Frameworks
 - Product Delivery
+- People and Process
+- Agile Transformation
 - Agile Philosophy
 - Software Developers
 - Scrum Product Development
-- Agile Transformation
-- Agile Frameworks
 - Empirical Process Control
-- Software Development
 - Pragmatic Thinking
+- Software Development
+- Scrum
 - Agile Values and Principles
 sitemap:
   filename: sitemap.xml
@@ -42,8 +44,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Scrum
 - Social Technologies
 
 ---

@@ -28,18 +28,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
+- People and Process
+- Discovery and Learning
 - Continuous Learning
-- Empirical Process Control
-- Mentoring
-- Pragmatic Thinking
 - Team Collaboration
+- Coaching
+- Metrics and Learning
+- Mentoring
+- Empirical Process Control
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
-- Metrics and Learning
-- People and Process
+categories: []
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

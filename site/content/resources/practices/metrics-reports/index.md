@@ -25,7 +25,6 @@ card:
   title: Metrics and Reports
 categories:
 - Product Management
-- People and Process
 - Engineering Excellence
 tags:
 - Metrics and Learning
@@ -33,20 +32,21 @@ tags:
 - Throughput
 - Transparency and Accountability
 - Flow Efficiency
+- Operational Practices
+- Agile Product Operating Model
 - Cycle Time
 - Practical Techniques and Tooling
 - Product Delivery
-- Agile Product Operating Model
-- Value Delivery
-- Operational Practices
 - Team Performance
-- Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
+- Value Delivery
 - Agile Project Management
-- Deployment Frequency
+- Empirical Process Control
 - Pragmatic Thinking
+- Evidence Based Leadership
+- Deployment Frequency
+- Evidence Based Management
 - Release Management
+- People and Process
 - Value Stream Management
 - Decision Making
 - Working Software

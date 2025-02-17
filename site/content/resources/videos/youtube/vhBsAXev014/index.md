@@ -28,32 +28,54 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
-- Agile Philosophy
-- Agile Project Management
 - Agile Strategy
-- Agile Transformation
-- Change Management
-- Digital Transformation
+- People and Process
+- Agile Project Management
+- Agile Product Management
 - Organisational Change
+- Change Management
+- Strategic Goals
+- Product Owner
+- Digital Transformation
+- Agile Transformation
 - Organisational Culture
 - Organisational Physics
+- Agile Philosophy
 - Pragmatic Thinking
-- Product Management
-- Product Owner
+- Systems Thinking
 - Product Strategy
-- Sensemaking
-- Software Development
-- Strategic Goals
-- Team Collaboration
+- Agile Leadership
+- Organisational Agility
 - Team Motivation
+- Sensemaking
+- Sociotechnical Systems
+- Software Development
+- Value Delivery
+- Team Collaboration
+- Business Agility
+- Enterprise Agility
 - Team Performance
+- Decision Making
+- Strategy
+- Resilience and Change
+- Agile Planning
+- Metrics and Learning
+- Agile Values and Principles
+- Agile Frameworks
+- Evidence Based Management
+- Complexity Thinking
+- Software Developers
+- Transparency and Accountability
+- Product Delivery
+- Scaling Agility
+- Operational Practices
+- Evidence Based Leadership
+- Technical Leadership
+- Market Adaptability
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Systems Thinking
+- Product Management
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

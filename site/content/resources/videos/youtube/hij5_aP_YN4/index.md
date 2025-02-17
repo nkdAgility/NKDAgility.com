@@ -27,12 +27,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Personal
 resourceTypes:
 - video
 categories:
-- People and Process
-- Personal
+- Social Technologies
+- Leadership
 
 ---
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your coaching game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.

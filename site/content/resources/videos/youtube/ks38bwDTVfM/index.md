@@ -22,15 +22,15 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
-tags: []
+tags:
+- Scrum
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Scrum
-- People and Process
 - Social Technologies
 
 ---

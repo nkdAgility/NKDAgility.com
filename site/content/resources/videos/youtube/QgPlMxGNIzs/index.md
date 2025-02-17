@@ -28,29 +28,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
 - Agile Values and Principles
-- BetaCodex
-- Change Management
-- Decision Making
-- Organisational Change
+- Business Agility
+- Agile Frameworks
+- People and Process
+- Agile Project Management
+- Agile Leadership
+- Market Adaptability
+- Agile Philosophy
+- Agile Transformation
+- Software Development
+- Organisational Agility
+- Enterprise Agility
+- Agile Strategy
 - Organisational Culture
-- Pragmatic Thinking
+- Organisational Change
+- Sociotechnical Systems
 - Scaling Agility
 - Software Developers
-- Software Development
+- Pragmatic Thinking
 - Technical Leadership
+- Resilience and Change
+- Decision Making
+- Change Management
 resourceTypes:
 - video
 categories:
-- Business Agility
-- Enterprise Agility
-- People and Process
+- Product Management
 
 ---
 How do you think Agile is evolving since its inception in 2001?

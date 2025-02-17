@@ -28,15 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Transformation
-- Pragmatic Thinking
+- People and Process
 - Software Development
+- Pragmatic Thinking
+- Agile Transformation
+- Personal
 resourceTypes:
 - video
-categories:
-- Lean
-- People and Process
-- Personal
+categories: []
 
 ---
 **How does someone become an Agile consultant?**

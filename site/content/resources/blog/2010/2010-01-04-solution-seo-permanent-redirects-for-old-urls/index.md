@@ -28,10 +28,7 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- Code and Complexity
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+- Engineering Excellence
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

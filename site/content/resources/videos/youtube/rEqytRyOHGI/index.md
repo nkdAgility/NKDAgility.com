@@ -28,20 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - Agile Product Management
+- People and Process
 - Agile Project Management
 - Agile Philosophy
-- Agile Frameworks
-- Product Delivery
-- Agile Strategy
 - Working Software
+- Agile Strategy
+- Product Delivery
 - Value Delivery
-- Agile Planning
-- Scrum Product Development
+- Agile Frameworks
 - Agile Transformation
-- Software Developers
+- Scrum Product Development
+- Agile Planning
 - Pragmatic Thinking
 - Software Development
+- Software Developers
 - Agile Values and Principles
 - Technical Debt
 - Complexity Thinking
@@ -49,8 +51,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
-- People and Process
 - Social Technologies
 
 ---

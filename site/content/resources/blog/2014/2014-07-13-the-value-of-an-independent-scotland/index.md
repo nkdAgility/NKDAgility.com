@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/the-value-of-an-independent-scotland-for-me
 - /resources/blog/the-value-of-an-independent-scotland
 tags:
-- Decision Making
-- Decision Theory
-categories:
 - Personal
+categories: []
 preview: metro-yes-scotland-128-link-1-1.png
 
 ---

@@ -31,7 +31,6 @@ tags:
 - System Configuration
 - Troubleshooting
 categories:
-- Technical Excellence
 - DevOps
 preview: nakedalm-windows-logo-8-8.png
 

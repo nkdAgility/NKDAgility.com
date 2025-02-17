@@ -25,24 +25,26 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Ability to Innovate
-- Scrum Product Development
-- Metrics and Learning
-- Agile Product Management
+- People and Process
 - Decision Making
-- Software Development
-- Agile Product Operating Model
+- Metrics and Learning
+- Scrum Product Development
+- Agile Product Management
 - Agile Project Management
 - Evidence Based Management
 - Value Delivery
-- Evidence Based Leadership
 - Product Delivery
 - Practical Techniques and Tooling
-- Operational Practices
+- Agile Product Operating Model
+- Software Development
+- Evidence Based Leadership
 - Agile Strategy
 - Strategy
+- Operational Practices
 - Throughput
-- Lean Product Development
+- Scrum
 - Agile Planning
+- Lean Product Development
 - Agile Frameworks
 sitemap:
   filename: sitemap.xml
@@ -51,9 +53,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- People and Process
 - Social Technologies
-- Scrum
 
 ---
 When it comes to building products, understanding the cost associated with those products is absolutely crucial. Over the years, I've learned that the financial landscape of product development is complex, but it boils down to a few key components. The two primary costs in software development are typically hardware and, more significantly, the people involved. If you have a team of 50 people working on a product, their salaries will likely represent your largest expense. Following that, if you're deploying to the cloud, your infrastructure costs will come into play as your second biggest expense.

@@ -23,9 +23,7 @@ aliasesFor404:
 - /resources/blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 tags:
 - Windows
-categories:
-- Install and Configuration
-- Personal
+categories: []
 preview: nakedalm-logo-128-link-15-15.png
 
 ---

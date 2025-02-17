@@ -22,15 +22,16 @@ preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
+- Kanban
 - Practical Techniques and Tooling
 - Operational Practices
 - Software Development
 - Lean Principles
+- Agile Frameworks
+- Agile Project Management
 - Lean Thinking
 - Flow Efficiency
-- Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +39,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

@@ -30,11 +30,10 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Troubleshooting
-- Software Development
 - Pragmatic Thinking
-categories:
-- Technical Excellence
+- Software Development
+- Troubleshooting
+categories: []
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

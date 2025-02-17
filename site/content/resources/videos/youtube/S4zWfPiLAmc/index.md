@@ -29,25 +29,25 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Metrics and Learning
+- Kanban
 - Transparency and Accountability
 - Cycle Time
+- Metrics and Learning
 - Evidence Based Leadership
-- Empirical Process Control
 - Practical Techniques and Tooling
-- Flow Efficiency
 - Evidence Based Management
-- Operational Practices
-- Throughput
-- Decision Making
-- Software Development
+- Empirical Process Control
+- Flow Efficiency
 - Agile Project Management
+- Operational Practices
+- Software Development
 - Pragmatic Thinking
+- Decision Making
+- Throughput
 - Value Delivery
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

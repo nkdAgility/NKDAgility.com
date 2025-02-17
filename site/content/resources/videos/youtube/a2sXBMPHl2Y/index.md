@@ -30,16 +30,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
+- People and Process
 - Continuous Learning
-- Organisational Culture
 - Pragmatic Thinking
+- Organisational Culture
+- Personal
+- Coaching
 resourceTypes:
 - video
 categories:
 - DevOps
-- People and Process
-- Personal
+- Engineering Excellence
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

@@ -27,24 +27,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Leadership
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
+- Business Agility
 - Agile Transformation
 - Change Management
 - Organisational Change
-- Organisational Culture
+- Agile Strategy
 - Pragmatic Thinking
-- Product Management
+- Organisational Agility
+- Sociotechnical Systems
+- Agile Project Management
 - Team Collaboration
+- Agile Philosophy
+- Enterprise Agility
+- Organisational Culture
+- Personal
 resourceTypes:
 - video
 layout: video
 categories:
-- Business Agility
-- Organisational Agility
-- People and Process
+- Product Management
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

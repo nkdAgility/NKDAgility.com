@@ -27,14 +27,15 @@ aliasesFor404:
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 tags:
 - Windows
-- System Configuration
-- Technical Mastery
-- Troubleshooting
-- Software Development
-- Pragmatic Thinking
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Technical Mastery
+- Software Development
+- Troubleshooting
+- Pragmatic Thinking
+categories:
+- Engineering Excellence
 preview: metro-sharepoint-128-link-4-4.png
 
 ---

@@ -27,33 +27,33 @@ aliasesFor404:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
 tags:
+- Scrum
 - Accountability
-- Increment
-- Scrum Master
-- Product Delivery
-- Scrum Product Development
-- Software Development
 - Scrum Team
-- Agile Project Management
-- Agile Frameworks
+- Software Development
+- Scrum Product Development
+- Scrum Master
+- Increment
+- Product Delivery
 - Professional Scrum
-- Team Collaboration
-- Technical Leadership
-- Working Software
+- Agile Frameworks
+- Agile Project Management
 - Transparency and Accountability
 - Value Delivery
-- Team Performance
-- Agile Product Management
-- Empirical Process Control
-- Agile Leadership
+- Technical Leadership
+- Team Collaboration
+- Working Software
 - Operational Practices
+- Empirical Process Control
+- Team Performance
+- Agile Leadership
+- People and Process
+- Agile Product Management
 - Agile Transformation
 - Pragmatic Thinking
 - Agile Planning
 categories:
-- Scrum
 - Social Technologies
-- People and Process
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 
 ---

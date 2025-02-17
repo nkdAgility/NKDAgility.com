@@ -28,23 +28,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
 - Estimation
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
-- Scrum Product Development
 - Scrum Team
-- Software Developers
+- Scrum Product Development
+- Professional Scrum
+- People and Process
+- Scrum Master
+- Agile Product Management
+- Agile Frameworks
+- Agile Project Management
+- Agile Planning
+- Pragmatic Thinking
 - Software Development
+- Product Delivery
+- Software Developers
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Product Delivery
+- Product Management
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams

@@ -29,14 +29,12 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Install and Configuration
-- System Configuration
-- Azure DevOps
 - Software Development
+- Azure DevOps
+- System Configuration
 categories:
-- Scrum
-- Technical Excellence
-- DevOps
 - Social Technologies
+- DevOps
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

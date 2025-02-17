@@ -23,27 +23,27 @@ aliasesFor404:
 - /resources/blog/testing-in-the-modern-application-lifecycle
 tags:
 - Windows
+- Application Lifecycle Management
+- Product Delivery
+- Value Delivery
 - Working Software
 - Software Development
 - Engineering Practices
-- Engineering Excellence
+- Practical Techniques and Tooling
 - Team Collaboration
-- Pragmatic Thinking
-- Technical Mastery
+- Products and Books
 - Operational Practices
-- Software Developers
+- Technical Mastery
+- Technical Excellence
+- Pragmatic Thinking
+- Azure DevOps
 - Test Automation
+- People and Process
+- Software Developers
+- Metrics and Learning
 - Troubleshooting
 categories:
-- Application Lifecycle Management
-- Value Delivery
-- Product Delivery
-- Practical Techniques and Tooling
-- Products and Books
-- Azure DevOps
-- Technical Excellence
-- People and Process
-- Metrics and Learning
+- Engineering Excellence
 preview: metro-test-icon-7-7.png
 
 ---

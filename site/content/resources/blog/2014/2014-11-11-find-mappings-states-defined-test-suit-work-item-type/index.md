@@ -26,17 +26,18 @@ aliasesFor404:
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
-- System Configuration
 - Install and Configuration
+- System Configuration
 - Practical Techniques and Tooling
 - Technical Mastery
-- Azure DevOps
-- Troubleshooting
-- Software Development
 - Pragmatic Thinking
+- Software Development
+- Azure DevOps
+- Technical Excellence
+- Troubleshooting
 - Working Software
 categories:
-- Technical Excellence
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

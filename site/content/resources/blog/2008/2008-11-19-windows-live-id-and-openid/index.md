@@ -22,10 +22,8 @@ aliasesFor404:
 - /blog/windows-live-id-and-openid
 - /resources/blog/windows-live-id-and-openid
 tags:
-- Windows
-- Software Development
-categories:
 - Install and Configuration
+categories: []
 preview: nakedalm-logo-128-link-7-1.png
 
 ---

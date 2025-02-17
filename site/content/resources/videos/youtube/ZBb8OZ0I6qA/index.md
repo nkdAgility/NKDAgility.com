@@ -22,20 +22,22 @@ preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
 tags:
-- Agile Product Management
+- Scrum
 - Agile Project Management
-- Agile Product Operating Model
-- Azure DevOps
+- Agile Product Management
+- People and Process
 - Practical Techniques and Tooling
 - Product Backlog
+- Agile Product Operating Model
+- Azure DevOps
 - Scrum Product Development
 - Agile Planning
 - Azure Boards
 - Pragmatic Thinking
 - Software Development
-- Agile Philosophy
-- Agile Planning Tools
 - Agile Frameworks
+- Agile Planning Tools
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,8 +45,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- People and Process
 - Social Technologies
 
 ---

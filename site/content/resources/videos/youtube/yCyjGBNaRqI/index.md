@@ -23,21 +23,23 @@ duration: 174
 isShort: false
 tags:
 - Team Motivation
+- People and Process
 - Organisational Agility
 - Agile Values and Principles
-- Agile Philosophy
-- Organisational Psychology
-- Self Organisation
-- Team Performance
 - Employee Engagement
-- Sociotechnical Systems
-- Organisational Culture
-- Coaching
 - Agile Leadership
+- Organisational Psychology
+- Sociotechnical Systems
+- Coaching
 - Team Collaboration
+- Personal
+- Organisational Culture
+- Team Performance
+- Self Organisation
+- Agile Philosophy
 - Business Agility
-- Beta Codex
 - Pragmatic Thinking
+- Beta Codex
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +47,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Personal
 - Leadership
 
 ---

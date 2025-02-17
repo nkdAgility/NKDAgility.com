@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/team-system-widgets
 - /resources/blog/team-system-widgets
 tags:
-- Software Development
-categories:
 - Products and Books
 - Practical Techniques and Tooling
-- Application Lifecycle Management
 - Miscellaneous
+- Software Development
+- Application Lifecycle Management
+categories: []
 
 ---
 I have found a site with a list of many of the [applications](http://accentient.com/widgets.aspx "Team System Widgets") available for Team System. It seams to be updated regularly and should help with some of the v1 shortcomings of team Foundation Server.

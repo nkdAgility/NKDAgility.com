@@ -29,18 +29,20 @@ tags:
 - Agile Planning Tools
 - Agile Project Management
 - Agile Planning
-- Software Developers
+- Practical Techniques and Tooling
 - Software Development
+- Software Developers
 - Pragmatic Thinking
+- Azure DevOps
 - Azure Boards
+- People and Process
 - Large Scale Agility
+- Product Delivery
 - Agile Strategy
 - Operational Practices
 categories:
-- Practical Techniques and Tooling
-- Azure DevOps
-- People and Process
-- Product Delivery
+- Product Management
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

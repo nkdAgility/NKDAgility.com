@@ -31,7 +31,6 @@ tags:
 - Technical Mastery
 categories:
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 preview: metro-powershell-logo-1-1.png
 

@@ -23,6 +23,8 @@ preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 isShort: false
 tags:
+- Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
 sitemap:
   filename: sitemap.xml
@@ -30,9 +32,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 
 ---
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc

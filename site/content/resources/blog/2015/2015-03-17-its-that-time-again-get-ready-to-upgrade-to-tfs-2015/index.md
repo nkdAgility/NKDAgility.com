@@ -28,10 +28,10 @@ aliasesFor404:
 tags:
 - Release Management
 - Install and Configuration
+- News and Reviews
 - System Configuration
 - Software Development
-categories:
-- News and Reviews
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

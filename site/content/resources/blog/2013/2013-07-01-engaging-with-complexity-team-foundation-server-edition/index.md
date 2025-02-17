@@ -30,8 +30,6 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Code and Complexity
-- Technical Excellence
 - DevOps
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png

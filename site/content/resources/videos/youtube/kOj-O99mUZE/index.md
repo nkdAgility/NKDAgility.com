@@ -28,36 +28,36 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Kanban
 - Scaled Agile
-- Agile Product Operating Model
 - Product Delivery
-- Value Delivery
 - Agile Project Management
-- Scaling Kanban
+- Value Delivery
+- Agile Product Operating Model
 - Scaling Agility
+- Scaling Kanban
+- Agile Frameworks
+- People and Process
 - Portfolio Management
 - Flow Efficiency
 - Agile Strategy
-- Agile Frameworks
-- Large Scale Agility
-- Enterprise Agility
 - Throughput
-- Operational Practices
 - Strategy
+- Large Scale Agility
 - Organisational Physics
+- Systems Thinking
+- Enterprise Agility
+- Operational Practices
 - Pragmatic Thinking
-- Practical Techniques and Tooling
-- Value Stream Management
-- Agile Transformation
 - Business Agility
+- Value Stream Management
+- Practical Techniques and Tooling
+- Agile Transformation
 - Sociotechnical Systems
 - Organisational Agility
 resourceTypes:
 - video
 categories:
-- Kanban
-- People and Process
-- Systems Thinking
 - Social Technologies
 
 ---

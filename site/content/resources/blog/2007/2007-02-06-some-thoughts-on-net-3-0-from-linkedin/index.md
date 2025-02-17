@@ -29,11 +29,7 @@ tags:
 - Technical Mastery
 - Software Development
 categories:
-- Events and Presentations
-- Code and Complexity
-- News and Reviews
-- Practical Techniques and Tooling
-- Technical Excellence
+- Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -26,24 +26,10 @@ aliasesFor404:
 - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 tags:
-- Professional Scrum
-- Scrum Team
-- Scrum Product Development
-- Scrum Master
-- Product Delivery
-- Agile Product Management
-- Software Developers
-- Team Performance
-- Practical Techniques and Tooling
-- Software Development
-- Agile Project Management
-- Coaching
-- Agile Transformation
-- Pragmatic Thinking
-- Team Collaboration
-- Agile Frameworks
-categories:
 - Events and Presentations
+categories:
+- Social Technologies
+- Product Management
 preview: 2020-03-27_21-33-56-1-1.jpg
 
 ---

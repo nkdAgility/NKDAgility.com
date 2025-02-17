@@ -22,9 +22,10 @@ aliasesFor404:
 - /blog/installing-tfs-2012-with-lab-management-2012
 - /resources/blog/installing-tfs-2012-with-lab-management-2012
 tags:
+- Install and Configuration
 - System Configuration
 categories:
-- Install and Configuration
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-42-42.png
 
 ---

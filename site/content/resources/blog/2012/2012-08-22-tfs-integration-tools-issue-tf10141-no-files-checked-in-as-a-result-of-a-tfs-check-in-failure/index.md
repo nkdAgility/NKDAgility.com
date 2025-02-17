@@ -30,9 +30,7 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- Engineering Excellence
 preview: metro-problem-icon-12-12.png
 
 ---

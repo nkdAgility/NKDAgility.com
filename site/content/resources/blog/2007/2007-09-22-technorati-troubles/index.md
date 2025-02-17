@@ -21,10 +21,10 @@ aliasesFor404:
 - /technorati-troubles
 - /blog/technorati-troubles
 - /resources/blog/technorati-troubles
-categories:
-- Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
+- Miscellaneous
 - Troubleshooting
 
 ---

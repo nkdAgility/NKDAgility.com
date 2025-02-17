@@ -27,17 +27,17 @@ aliasesFor404:
 - /resources/blog/team-server-hmm
 tags:
 - Modern Source Control
-- Software Development
-- Windows
-- Troubleshooting
-- System Configuration
-preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- Install and Configuration
-- Application Lifecycle Management
 - Practical Techniques and Tooling
 - Products and Books
+- Software Development
+- Install and Configuration
+- Application Lifecycle Management
 - Miscellaneous
+- Windows
+- System Configuration
+- Troubleshooting
+preview: metro-visual-studio-2005-128-link-1-1.png
+categories: []
 
 ---
 I got an interesting question from our SQL Server DBA team in London today. They asked if you can integrate team server with Microsoft SQL Server Management Studio. I had a look at the software and could not see TFS source control in the list, so I did a little google and found:

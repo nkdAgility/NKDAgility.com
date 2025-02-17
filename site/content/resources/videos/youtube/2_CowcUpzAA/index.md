@@ -33,8 +33,6 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
-- Scrum
-- People and Process
 - Social Technologies
 
 ---

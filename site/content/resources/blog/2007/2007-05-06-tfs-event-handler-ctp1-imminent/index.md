@@ -28,8 +28,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Install and Configuration
+categories: []
 
 ---
 I have decided to go the same root as MS and use the Community Technology Preview (CTP) structure for my releases as there are quite a few people interested in using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler).

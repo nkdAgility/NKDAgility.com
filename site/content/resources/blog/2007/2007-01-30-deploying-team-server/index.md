@@ -22,13 +22,15 @@ aliasesFor404:
 - /blog/deploying-team-server
 - /resources/blog/deploying-team-server
 tags:
+- Practical Techniques and Tooling
+- Events and Presentations
 - Software Development
+- Application Lifecycle Management
 - Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Events and Presentations
-- Practical Techniques and Tooling
-- Application Lifecycle Management
+- Engineering Excellence
+- DevOps
 
 ---
 Sorry that I have not posted on this subject in a while, but I am lazy. After that last elongated post I am in the mood to write again...

@@ -16,27 +16,8 @@ aliases:
 aliasesFor404:
 - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-categories:
-- Organisational Agility
-- People and Process
-- Discovery and Learning
-- Agile Product Management
-- Scrum
-tags:
-- Agile Coaching
-- Agile Mentoring Program
-- Scrum Master
-- Scrum Team
-- Agile Product Management
-- Agile Leadership
-- Continuous Learning
-- Team Collaboration
-- Agile Transformation
-- Agile Community
-- Agile Values and Principles
-- Employee Engagement
-- Technical Excellence
-- Agile Software Development
+categories: []
+tags: []
 
 ---
 Dear NKD Agilists!

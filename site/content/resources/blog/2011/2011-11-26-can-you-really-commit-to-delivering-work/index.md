@@ -27,36 +27,36 @@ aliasesFor404:
 - /resources/blog/can-you-really-commit-to-delivering-work
 tags:
 - Transparency
+- Scrum
 - Forecasting
 - Scrum Product Development
 - Software Development
-- Agile Planning
+- Product Delivery
 - Scrum Team
+- Agile Product Management
+- Agile Planning
 - Agile Values and Principles
-- Team Performance
+- Transparency and Accountability
+- Empirical Process Control
+- Professional Scrum
 - Agile Philosophy
 - Pragmatic Thinking
 - Software Developers
+- Value Delivery
+- People and Process
 - Agile Project Management
-- Professional Scrum
-- Empirical Process Control
-- Agile Transformation
+- Team Performance
 - Agile Frameworks
+- Agile Transformation
 - Scrum Values
 - Accountability
+- Organisational Agility
 - Scrum Master
-- Agile Strategy
-- Product Management
 - Change Management
+- Agile Strategy
 - Estimation
 categories:
-- Scrum
-- Agile Product Management
-- Product Delivery
-- Transparency and Accountability
-- People and Process
-- Value Delivery
-- Organisational Agility
+- Product Management
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

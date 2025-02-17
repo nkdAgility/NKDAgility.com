@@ -29,36 +29,36 @@ sitemap:
   priority: 0.6
 tags:
 - Business Agility
+- People and Process
 - Resilience and Change
-- Agile Transformation
 - Organisational Change
 - Agile Leadership
-- Scaling Agility
-- Metrics and Learning
 - Agile Philosophy
-- Organisational Agility
-- Change Management
-- Agile Strategy
+- Metrics and Learning
 - Agile Frameworks
+- Agile Strategy
+- Scaling Agility
+- Organisational Agility
+- Agile Transformation
 - Enterprise Agility
-- Sociotechnical Systems
+- Change Management
+- Systems Thinking
 - Organisational Culture
-- Organisational Physics
 - Strategy
 - Pragmatic Thinking
+- Organisational Physics
+- Sociotechnical Systems
 - Market Adaptability
-- Digital Transformation
 - Evidence Based Leadership
-- Sensemaking
 - Complexity Thinking
+- Sensemaking
 - Operational Practices
+- Digital Transformation
+- Personal
 resourceTypes:
 - video
 categories:
-- People and Process
-- Systems Thinking
 - Leadership
-- Personal
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.

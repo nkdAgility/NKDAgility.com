@@ -30,20 +30,22 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Product Delivery
-- Value Delivery
+- People and Process
 - Software Developers
 - Software Development
+- Value Delivery
+- Deployment Frequency
 - Deployment Strategies
 - Practical Techniques and Tooling
-- Deployment Frequency
-- Technical Mastery
+- Technical Excellence
 - Operational Practices
+- Technical Mastery
 - Continuous Delivery
 - Sociotechnical Systems
 - Frequent Releases
-- Release Management
 - Decision Making
 - Market Adaptability
+- Release Management
 resourceTypes:
 - video
 categories:

@@ -41,10 +41,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Discovery and Learning
-- News and Reviews
 - Engineering Excellence
-- Technical Excellence
 - Product Management
 
 ---

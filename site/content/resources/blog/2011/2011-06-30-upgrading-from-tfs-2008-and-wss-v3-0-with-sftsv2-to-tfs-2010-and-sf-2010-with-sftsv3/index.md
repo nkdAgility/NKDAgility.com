@@ -23,11 +23,13 @@ aliasesFor404:
 - /resources/blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 tags:
 - System Configuration
+- Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Engineering Excellence
+- DevOps
 preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---

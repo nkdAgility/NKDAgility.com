@@ -26,12 +26,9 @@ aliasesFor404:
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
 tags:
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
 categories:
-- Events and Presentations
-- News and Reviews
-- Miscellaneous
 - DevOps
 preview: nakedalm-windows-logo-7-7.png
 

@@ -27,14 +27,13 @@ aliasesFor404:
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 tags:
 - Practical Techniques and Tooling
-- Install and Configuration
 - Software Development
+- Install and Configuration
 - System Configuration
 - Troubleshooting
 - Pragmatic Thinking
 categories:
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 
 ---

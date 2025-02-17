@@ -29,9 +29,7 @@ tags:
 - Windows
 - Software Development
 - Technical Mastery
-categories:
-- Practical Techniques and Tooling
-- Technical Excellence
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

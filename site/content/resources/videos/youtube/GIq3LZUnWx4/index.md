@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Philosophy
-- Product Management
 - Product Owner
+- Agile Product Management
+- Value Delivery
 - Professional Scrum
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Value Delivery
+- Product Management
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

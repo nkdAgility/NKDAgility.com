@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: true
-tags: []
+tags:
+- Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,7 +31,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 
 ---
 As a Product Owner, I often find myself reflecting on the immense responsibility that comes with the role. It’s not just about managing a backlog or prioritising tasks; it’s about being accountable for spending the money wisely. This accountability is a cornerstone of effective product ownership, and it’s something I take very seriously.

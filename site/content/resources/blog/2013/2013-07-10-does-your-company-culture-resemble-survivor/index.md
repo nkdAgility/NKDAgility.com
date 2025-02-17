@@ -27,45 +27,45 @@ aliasesFor404:
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Transformation
-- Software Development
-- Team Collaboration
-- Resilience and Change
 - Agile Leadership
-- Agile Values and Principles
+- People and Process
 - Software Developers
-- Team Motivation
-- Team Performance
-- Technical Leadership
-- Cross Functional Teams
-- Organisational Culture
-- Organisational Agility
+- Software Development
+- Agile Values and Principles
+- Resilience and Change
+- Team Collaboration
 - Agile Strategy
 - Value Delivery
-- Business Agility
+- Team Motivation
+- Cross Functional Teams
 - Agile Philosophy
-- Product Delivery
+- Business Agility
+- Organisational Agility
+- Organisational Culture
+- Technical Leadership
 - Enterprise Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
+- Product Delivery
+- Team Performance
 - Organisational Psychology
+- Sociotechnical Systems
+- Pragmatic Thinking
 - Agile Project Management
-- Change Management
-- Operational Practices
 - Scrum Values
-- Agile Frameworks
-- Organisational Change
 - Self Organisation
+- Organisational Change
+- Operational Practices
+- Change Management
+- Agile Frameworks
 - Agile Product Management
 - Scrum Team
+- Employee Engagement
+- Beta Codex
+- Scrum
 - Organisational Physics
 - Market Adaptability
-- Beta Codex
-- Employee Engagement
 categories:
 - Leadership
-- People and Process
 - Social Technologies
-- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

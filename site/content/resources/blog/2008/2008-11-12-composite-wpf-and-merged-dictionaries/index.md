@@ -25,10 +25,7 @@ tags:
 - Technical Mastery
 - Software Development
 - Troubleshooting
-categories:
-- Code and Complexity
-- Practical Techniques and Tooling
-- Technical Excellence
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

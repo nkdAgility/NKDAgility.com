@@ -28,17 +28,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Agile Strategy
-- Decision Making
 - Pragmatic Thinking
-- Software Development
+- Value Delivery
+- Decision Making
+- Agile Strategy
 resourceTypes:
 - video
 categories:
-- People and Process
-- Value Delivery
+- Product Management
 
 ---
 How does scrum help leadership teams pick the most valuable work to focus on?

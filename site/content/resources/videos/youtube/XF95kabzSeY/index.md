@@ -23,17 +23,19 @@ preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
+- Scrum
 - Professional Scrum
-- Mentoring
+- Agile Frameworks
 - Product Delivery
-- Agile Product Management
-- Scrum Team
-- Product Owner
-- Software Development
-- Scrum Product Development
+- People and Process
 - Agile Project Management
 - Agile Transformation
-- Agile Frameworks
+- Scrum Team
+- Mentoring
+- Agile Product Management
+- Software Development
+- Product Owner
+- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -41,10 +43,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Management
-- People and Process
 - Social Technologies
+- Product Management
 
 ---
  #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 things he would teach an apprenticeship #productowner. This is part 2. To watch the full video, visit https://youtu.be/Tye_-FY7boo

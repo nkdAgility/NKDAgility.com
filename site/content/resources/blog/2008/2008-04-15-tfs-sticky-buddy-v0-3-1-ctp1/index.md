@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/tfs-sticky-buddy-v0-3-1-ctp1
 tags:
 - Windows
-- Software Development
-categories:
-- Application Lifecycle Management
 - Practical Techniques and Tooling
 - Products and Books
+- Application Lifecycle Management
+- Software Development
+categories: []
 preview: metro-binary-vb-128-link-3-1.png
 
 ---

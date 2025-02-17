@@ -32,8 +32,8 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Value Delivery
-- Decision Making
 - Estimation
+- Decision Making
 resourceTypes:
 - video
 categories:

@@ -31,10 +31,11 @@ tags:
 - Technical Mastery
 - Practical Techniques and Tooling
 - Install and Configuration
-- System Configuration
 - Software Development
-categories:
 - Technical Excellence
+- System Configuration
+categories:
+- Engineering Excellence
 preview: metro-powershell-logo-1-1.png
 
 ---

@@ -28,6 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
 - Continuous Learning
 - Product Owner
 - Agile Product Management
@@ -35,7 +36,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Product Management
 
 ---

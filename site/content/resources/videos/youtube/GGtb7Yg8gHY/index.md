@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true
-tags: []
+tags:
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,7 +30,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
+- Social Technologies
+- Leadership
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate a team is veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 

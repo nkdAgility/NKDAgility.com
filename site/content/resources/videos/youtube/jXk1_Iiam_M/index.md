@@ -28,28 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
+- Discovery and Learning
+- People and Process
 - Scrum Master
-- Continuous Learning
 - Team Collaboration
-- Agile Project Management
-- Software Development
-- Pragmatic Thinking
+- Continuous Learning
 - Agile Frameworks
+- Software Development
+- Agile Project Management
+- Pragmatic Thinking
 - Scrum Team
 - Professional Scrum
 - Customer Feedback Loops
 - Team Performance
 - Scrum Product Development
-- Agile Product Management
-- Agile Transformation
 - Sociotechnical Systems
+- Agile Transformation
+- Agile Product Management
 - Coaching
 resourceTypes:
 - video
 categories:
-- Scrum
-- Discovery and Learning
-- People and Process
 - Social Technologies
 
 ---

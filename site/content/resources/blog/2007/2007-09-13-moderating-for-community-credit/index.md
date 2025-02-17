@@ -21,11 +21,11 @@ aliasesFor404:
 - /moderating-for-community-credit
 - /blog/moderating-for-community-credit
 - /resources/blog/moderating-for-community-credit
-categories:
+categories: []
+preview: nakedalm-logo-128-link-1-1.png
+tags:
 - Miscellaneous
 - Personal
-preview: nakedalm-logo-128-link-1-1.png
-tags: []
 
 ---
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.

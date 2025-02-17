@@ -33,12 +33,13 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Products and Books
+- News and Reviews
+- System Configuration
 - Software Development
 - Application Lifecycle Management
 categories:
-- News and Reviews
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

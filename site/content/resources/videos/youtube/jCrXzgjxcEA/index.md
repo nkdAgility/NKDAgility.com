@@ -24,13 +24,14 @@ isShort: false
 tags:
 - Practical Techniques and Tooling
 - Software Development
+- Kanban
 - Agile Planning Tools
+- Agile Project Management
+- Cycle Time
+- Azure Boards
 - Lead Time
 - Azure DevOps
 - Software Developers
-- Azure Boards
-- Agile Project Management
-- Cycle Time
 - Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking
@@ -43,7 +44,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

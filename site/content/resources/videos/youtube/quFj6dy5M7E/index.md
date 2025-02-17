@@ -23,29 +23,29 @@ preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 266
 isShort: false
 tags:
+- People and Process
 - Product Delivery
 - Value Delivery
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Sociotechnical Systems
-- Software Developers
 - Team Performance
+- Software Developers
 - Agile Product Operating Model
-- Business Agility
-- Operational Practices
 - Technical Leadership
+- Operational Practices
 - Market Adaptability
-- Agile Strategy
-- Organisational Agility
+- Business Agility
 - Organisational Physics
+- Agile Strategy
 - Strategy
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
 - Social Technologies
 

@@ -21,16 +21,17 @@ preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
+- People and Process
+- Agile Values and Principles
 - Agile Product Operating Model
 - Agile Product Management
 - Strategic Goals
-- Agile Values and Principles
 - Agile Strategy
-- Organisational Agility
 - Strategy
-- Value Delivery
-- Team Motivation
+- Organisational Agility
 - Agile Leadership
+- Team Motivation
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +40,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
 
 ---

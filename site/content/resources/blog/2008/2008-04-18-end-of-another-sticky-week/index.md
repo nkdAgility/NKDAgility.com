@@ -27,13 +27,7 @@ aliasesFor404:
 - /resources/blog/end-of-another-sticky-week
 tags:
 - Software Development
-categories:
-- Install and Configuration
-- News and Reviews
-- Practical Techniques and Tooling
-- Products and Books
-- Application Lifecycle Management
-- Product Delivery
+categories: []
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

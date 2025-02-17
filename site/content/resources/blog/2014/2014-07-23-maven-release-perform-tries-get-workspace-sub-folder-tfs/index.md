@@ -27,12 +27,12 @@ aliasesFor404:
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
 - Software Development
+- System Configuration
 - Technical Mastery
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
 - Release Management
 - Operational Practices
 categories:

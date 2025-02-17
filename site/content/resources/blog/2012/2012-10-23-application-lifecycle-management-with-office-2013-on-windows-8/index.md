@@ -23,11 +23,12 @@ aliasesFor404:
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 tags:
 - Windows
-categories:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Products and Books
 - Application Lifecycle Management
+categories:
+- DevOps
 preview: metro-office-128-link-5-5.png
 
 ---

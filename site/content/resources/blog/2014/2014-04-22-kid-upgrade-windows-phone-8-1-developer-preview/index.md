@@ -29,10 +29,7 @@ tags:
 - Windows
 - Install and Configuration
 - Troubleshooting
-categories:
-- Discovery and Learning
-- News and Reviews
-- Personal
+categories: []
 preview: nakedalm-windows-logo-6-6.png
 
 ---

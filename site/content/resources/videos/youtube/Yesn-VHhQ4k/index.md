@@ -28,26 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
 - Agile Values and Principles
-- Continuous Learning
+- People and Process
 - Empirical Process Control
-- Experimentation
-- Pragmatic Thinking
 - Scrum Values
-- Sensemaking
-- Software Developers
+- Discovery and Learning
+- Organisational Agility
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Agile Strategy
+- Agile Philosophy
 - Software Development
+- Complexity Thinking
+- Pragmatic Thinking
+- Continuous Learning
+- Software Developers
+- Sensemaking
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- Organisational Agility
-- People and Process
+- Engineering Excellence
+- Product Management
 
 ---
 Agile exists to address the idea that no predetermined set of steps will lead to a predefined outcome. The problem has never been solved, nor has the solution ever been created, so you don’t know what you don’t know. No formula is going to guarantee a desired outcome.

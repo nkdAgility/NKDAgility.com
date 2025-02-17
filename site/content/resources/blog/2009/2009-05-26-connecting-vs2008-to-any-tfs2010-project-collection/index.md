@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/connecting-vs2008-to-any-tfs2010-project-collection
 - /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
 tags:
+- Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 preview: metro-visual-studio-2005-128-link-3-3.png
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 
 ---
 Easy peasy, all you need is the full URL from the project collection and you will be able to connect directly to it as if it was a different Team Server. This functionality was added with Visual Studio 2008 Service Pack 1, so if you don’t have SP1 installed yet you had better get it:

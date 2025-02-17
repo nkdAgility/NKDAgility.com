@@ -27,33 +27,33 @@ aliasesFor404:
 tags:
 - Increment
 - Product Delivery
-- Agile Project Management
 - Software Development
-- Scrum Product Development
-- Continuous Delivery
-- Scrum Team
+- Agile Project Management
 - Value Delivery
-- Engineering Practices
 - Working Software
-- Practical Techniques and Tooling
+- Scrum Product Development
+- Scrum Team
+- Engineering Practices
+- Continuous Delivery
+- People and Process
 - Empirical Process Control
+- Practical Techniques and Tooling
 - Operational Practices
+- Agile Product Management
+- Deployment Frequency
 - Team Performance
+- Software Developers
 - Professional Scrum
 - Release Management
-- Deployment Frequency
-- Agile Product Management
-- Software Developers
-- Agile Transformation
-- Strategy
 - Pragmatic Thinking
-- Agile Planning
-- Frequent Releases
 - Agile Frameworks
+- Agile Planning
+- Strategy
+- Frequent Releases
+- Agile Transformation
 categories:
-- People and Process
-- DevOps
 - Social Technologies
+- DevOps
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

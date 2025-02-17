@@ -17,15 +17,8 @@ aliases:
 aliasesFor404:
 - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-categories:
-- Scrum
-- Discovery and Learning
-- People and Process
-- Value Delivery
-- Organisational Agility
-tags:
-- Scrum Team
-- Value Delivery
+categories: []
+tags: []
 
 ---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

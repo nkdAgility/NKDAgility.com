@@ -38,7 +38,6 @@ aliasesFor404:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
 categories:
-- People and Process
 - Social Technologies
 - Engineering Excellence
 - DevOps

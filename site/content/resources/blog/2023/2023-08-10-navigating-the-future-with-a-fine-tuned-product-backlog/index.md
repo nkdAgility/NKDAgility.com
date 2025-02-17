@@ -25,7 +25,6 @@ aliasesFor404:
 tags:
 - Product Backlog
 categories:
-- Scrum
 - Product Management
 - Social Technologies
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg

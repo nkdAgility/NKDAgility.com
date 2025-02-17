@@ -23,20 +23,20 @@ aliasesFor404:
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
 - Test Driven Development
-- Test First Development
 - Automated Testing
-- Software Development
+- Test First Development
 - Test Automation
-- Engineering Practices
-- Software Developers
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Software Development
 - Technical Mastery
-- Engineering Excellence
+- Engineering Practices
+- Pragmatic Thinking
+- Azure DevOps
+- Software Developers
+- Technical Excellence
 - Troubleshooting
 categories:
-- Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

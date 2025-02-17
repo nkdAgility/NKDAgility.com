@@ -22,14 +22,14 @@ preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 isShort: true
 tags:
-- Agile Product Management
 - Product Backlog
+- Agile Product Management
 - Product Delivery
-- Value Delivery
+- Agile Project Management
+- Agile Planning Tools
 - Agile Planning
 - Product Owner
-- Agile Planning Tools
-- Agile Project Management
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

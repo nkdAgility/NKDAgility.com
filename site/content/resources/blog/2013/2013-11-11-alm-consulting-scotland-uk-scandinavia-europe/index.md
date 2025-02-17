@@ -32,18 +32,18 @@ aliasesFor404:
 tags:
 - Coaching
 - Application Lifecycle Management
+- People and Process
 - Software Development
 - Product Delivery
 - Practical Techniques and Tooling
 - Operational Practices
 - Pragmatic Thinking
+- Technical Excellence
 - Agile Project Management
 - Deployment Strategies
 - Software Developers
 - Frequent Releases
 categories:
-- People and Process
-- Technical Excellence
 - Social Technologies
 - Engineering Excellence
 - DevOps

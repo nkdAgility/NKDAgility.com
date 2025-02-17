@@ -22,27 +22,27 @@ aliasesFor404:
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /resources/blog/luddites-have-no-place-in-the-modern-organisation
 tags:
+- People and Process
 - Agile Leadership
 - Organisational Culture
-- Organisational Agility
+- Business Agility
 - Organisational Change
 - Resilience and Change
-- Business Agility
-- Change Management
+- Organisational Agility
 - Enterprise Agility
+- Change Management
 - Market Adaptability
-- Sociotechnical Systems
 - Agile Strategy
+- Sociotechnical Systems
 - Pragmatic Thinking
+- Agile Transformation
+- Discovery and Learning
+- Technical Leadership
 - Organisational Physics
 - Agile Philosophy
-- Technical Leadership
-- Agile Transformation
 - Digital Transformation
 categories:
 - Leadership
-- People and Process
-- Discovery and Learning
 - Social Technologies
 preview: image-3-3-3.png
 

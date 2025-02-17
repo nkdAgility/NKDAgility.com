@@ -28,7 +28,9 @@ aliasesFor404:
 tags:
 - Products and Books
 categories:
-- News and Reviews
+- Social Technologies
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

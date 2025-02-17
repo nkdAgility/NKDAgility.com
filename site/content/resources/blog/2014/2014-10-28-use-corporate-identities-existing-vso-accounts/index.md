@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
-- Azure DevOps
 - Practical Techniques and Tooling
+- Azure DevOps
+- System Configuration
 - Troubleshooting
 categories:
 - DevOps

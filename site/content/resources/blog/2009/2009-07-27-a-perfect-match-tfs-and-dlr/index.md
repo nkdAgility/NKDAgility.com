@@ -22,9 +22,10 @@ aliasesFor404:
 - /blog/a-perfect-match-tfs-and-dlr
 - /resources/blog/a-perfect-match-tfs-and-dlr
 tags:
+- Practical Techniques and Tooling
 - Software Development
 categories:
-- Practical Techniques and Tooling
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

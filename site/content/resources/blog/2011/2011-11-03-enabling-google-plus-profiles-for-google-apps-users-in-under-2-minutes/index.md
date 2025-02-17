@@ -22,9 +22,8 @@ aliasesFor404:
 - /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 - /resources/blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 tags:
-- System Configuration
-categories:
 - Install and Configuration
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

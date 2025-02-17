@@ -32,28 +32,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
 - Agile Project Management
-- Agile Transformation
-- Empirical Process Control
-- Increment
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
-- Scrum Product Development
-- Scrum Team
-- Software Developers
-- Software Development
-- Team Collaboration
-- Team Performance
-- Working Software
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Product Delivery
+- Product Management
 
 ---
 ## The APS Advantage: Exploring Professional Scrum Mastery

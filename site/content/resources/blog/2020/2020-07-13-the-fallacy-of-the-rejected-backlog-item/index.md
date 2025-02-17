@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
+- Scrum
 - Scrum Product Development
 - Software Development
 - Professional Scrum
 - Agile Project Management
 categories:
-- Scrum
 - Social Technologies
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 

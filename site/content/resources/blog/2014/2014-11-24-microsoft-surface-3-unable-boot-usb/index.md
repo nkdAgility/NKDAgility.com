@@ -28,10 +28,7 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-categories:
-- Events and Presentations
-- Personal
-- Technical Excellence
+categories: []
 preview: nakedalm-windows-logo-5-5.png
 
 ---

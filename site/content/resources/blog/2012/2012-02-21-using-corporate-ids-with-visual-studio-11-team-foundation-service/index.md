@@ -26,10 +26,10 @@ aliasesFor404:
 - /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
 tags:
-- System Configuration
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- System Configuration
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

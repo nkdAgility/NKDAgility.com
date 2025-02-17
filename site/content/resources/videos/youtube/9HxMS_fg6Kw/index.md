@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Philosophy
-- Agile Strategy
 - Pragmatic Thinking
+- Personal
+- Agile Strategy
 resourceTypes:
 - video
 categories:
-- Lean
-- People and Process
-- Personal
+- Product Management
 
 ---
 What are some big red flags when hiring an agile consultant?

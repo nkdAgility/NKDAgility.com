@@ -28,28 +28,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Agile Values and Principles
-- Pragmatic Thinking
-- Product Management
-- Product Owner
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
-- Scrum Team
-- Software Development
 - Sprint Review
+- People and Process
+- Scrum Team
+- Scrum Master
+- Product Owner
 - Team Collaboration
+- Agile Product Management
+- Agile Planning
+- Transparency and Accountability
+- Professional Scrum
 - Team Performance
+- Value Delivery
+- Agile Project Management
 - Transparency
+- Pragmatic Thinking
+- Software Development
+- Agile Frameworks
+- Agile Values and Principles
+- Product Delivery
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Transparency and Accountability
+- Product Management
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

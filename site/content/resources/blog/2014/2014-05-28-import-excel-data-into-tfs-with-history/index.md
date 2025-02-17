@@ -25,12 +25,10 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Technical Mastery
-- Azure DevOps
 - Pragmatic Thinking
+- Azure DevOps
 - Software Development
-categories:
-- Code and Complexity
-- Technical Excellence
+categories: []
 preview: metro-office-128-link-3-3.png
 
 ---

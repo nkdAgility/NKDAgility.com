@@ -29,14 +29,12 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Product Owner
 - Product Backlog
+- Product Owner
 resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
-- People and Process
 - Social Technologies
 
 ---

@@ -25,9 +25,9 @@ aliasesFor404:
 - /unlikely-bloggers…
 - /blog/unlikely-bloggers…
 - /resources/blog/unlikely-bloggers
-tags: []
-categories:
+tags:
 - Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -30,18 +30,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
+- People and Process
 - Coaching
-- Mentoring
 - Pragmatic Thinking
+- Agile Project Management
 - Software Development
+- Agile Frameworks
+- Agile Transformation
+- Mentoring
+- Discovery and Learning
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
+- Engineering Excellence
 
 ---
 How does Naked Agility select associate Scrum Trainers?

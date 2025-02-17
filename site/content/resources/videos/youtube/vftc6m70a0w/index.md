@@ -22,16 +22,17 @@ preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
 tags:
-- Agile Transformation
+- People and Process
 - Agile Values and Principles
-- Agile Philosophy
+- Agile Transformation
 - Business Agility
-- Agile Strategy
 - Change Management
-- Organisational Agility
+- Agile Philosophy
 - Agile Leadership
-- Sociotechnical Systems
+- Agile Strategy
+- Organisational Agility
 - Organisational Culture
+- Sociotechnical Systems
 - Team Motivation
 - Organisational Change
 - Enterprise Agility
@@ -42,7 +43,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

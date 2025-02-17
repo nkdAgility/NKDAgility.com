@@ -28,9 +28,9 @@ aliasesFor404:
 - /tfs-weekend-part-1
 - /resources/blog/tfs-weekend-part-1-install
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Install and Configuration
+categories: []
 tags:
+- Install and Configuration
 - Troubleshooting
 - System Configuration
 

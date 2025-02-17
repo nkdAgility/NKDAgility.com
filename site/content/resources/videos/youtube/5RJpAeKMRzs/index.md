@@ -30,8 +30,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Scrum
-- People and Process
 - Social Technologies
 
 ---

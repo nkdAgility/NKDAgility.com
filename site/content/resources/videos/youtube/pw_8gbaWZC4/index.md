@@ -24,17 +24,18 @@ isShort: false
 tags:
 - Transparency
 - Metrics and Learning
-- Practical Techniques and Tooling
 - Flow Efficiency
-- Operational Practices
-- Agile Project Management
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Agile Frameworks
+- Agile Project Management
+- Kanban
+- Operational Practices
+- Pragmatic Thinking
 - Strategy
 - Decision Making
 - Software Development
-- Value Delivery
 - Throughput
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +43,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

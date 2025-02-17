@@ -22,12 +22,9 @@ aliasesFor404:
 - /blog/visual-studio-2005-team-foundation-installation-guide
 - /resources/blog/visual-studio-2005-team-foundation-installation-guide
 tags:
-- Windows
-- Software Development
-- System Configuration
-preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
 - Install and Configuration
+preview: metro-visual-studio-2005-128-link-1-1.png
+categories: []
 
 ---
 The TFS guys have just updated the [Visual Studio 2005 Team Foundation Installation Guide](http://www.microsoft.com/downloads/details.aspx?familyid=E54BF6FF-026B-43A4-ADE4-A690388F310E&displaylang=en "Visual Studio 2005 Team Foundation Installation Guide") to a new version released on 4/1/2007 and it incorporates all of the SP1 updates.

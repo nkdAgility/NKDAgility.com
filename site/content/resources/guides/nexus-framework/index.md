@@ -36,20 +36,20 @@ card:
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
 categories:
-- Scrum
 - Social Technologies
 tags:
 - Scaling Scrum
+- Scrum
 - Scaled Agile
 - Scrum Product Development
 - Product Delivery
 - Large Scale Agility
 - Scrum Team
 - Professional Scrum
-- Software Development
 - Scaling Agility
-- Agile Project Management
+- Software Development
 - Agile Frameworks
+- Agile Project Management
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

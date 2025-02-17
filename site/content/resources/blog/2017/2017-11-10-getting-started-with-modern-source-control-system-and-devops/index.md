@@ -31,7 +31,6 @@ tags:
 categories:
 - DevOps
 - Engineering Excellence
-- Technical Excellence
 preview: excellence-1-1.jpg
 
 ---

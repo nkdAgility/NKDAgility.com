@@ -23,15 +23,11 @@ aliasesFor404:
 - /resources/blog/team-build-error
 tags:
 - Windows
-- Troubleshooting
 - Software Development
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-3-1.png
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
 - DevOps
-- Azure DevOps
-- Application Lifecycle Management
 
 ---
 I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:

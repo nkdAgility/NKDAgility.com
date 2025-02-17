@@ -24,19 +24,23 @@ duration: 891
 isShort: false
 tags:
 - Pragmatic Thinking
-- Working Software
-- Product Delivery
+- Code and Complexity
 - Software Developers
-- Engineering Practices
-- Continuous Delivery
+- Product Delivery
+- Systems Thinking
+- People and Process
 - Resilience and Change
+- Continuous Delivery
+- Working Software
+- Engineering Practices
 - Complexity Thinking
-- Value Delivery
-- Operational Practices
-- Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
+- Operational Practices
+- Value Delivery
+- Practical Techniques and Tooling
+- Technical Excellence
 - Frequent Releases
+- Technical Mastery
 - Deployment Strategies
 resourceTypes:
 - video

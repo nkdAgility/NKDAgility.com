@@ -22,15 +22,15 @@ aliasesFor404:
 - /blog/introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
+- Practical Techniques and Tooling
+- Events and Presentations
 - Team Collaboration
-- Software Development
-categories:
+- Products and Books
 - Install and Configuration
 - News and Reviews
-- Events and Presentations
-- Practical Techniques and Tooling
-- Products and Books
+- Software Development
 - Azure DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

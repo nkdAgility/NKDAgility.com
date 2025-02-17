@@ -17,29 +17,8 @@ aliases:
 aliasesFor404:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/
-categories:
-- Organisational Agility
-- People and Process
-- Agile Product Management
-- Discovery and Learning
-- Value Delivery
-- Resilience and Change
-tags:
-- Agile Certification
-- Agile Product Management
-- Scrum Master
-- Scrum Team
-- Agile Product Ownership
-- Continuous Learning
-- Ability to Innovate
-- Team Motivation
-- Business Agility
-- Agile Planning
-- Agile Strategy
-- Leadership Training
-- Employee Engagement
-- Change Management
-- Organisational Agility
+categories: []
+tags: []
 
 ---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

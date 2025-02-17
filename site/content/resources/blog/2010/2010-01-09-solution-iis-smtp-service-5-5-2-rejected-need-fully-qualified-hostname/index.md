@@ -28,9 +28,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 preview: metro-SSWLogo-128-link-5-5.png
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 
 ---
 We had a small problem today with a new site we were going live with. It was refusing to send emails in 90% of cases. Problems like these are always difficult to identify, but your first step is always to enable logging.

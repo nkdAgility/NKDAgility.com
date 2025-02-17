@@ -30,9 +30,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Discovery and Learning
-- Systems Thinking
 - Social Technologies
 
 ---

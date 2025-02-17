@@ -23,15 +23,14 @@ aliasesFor404:
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2013
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Software Development
 - Azure DevOps
 - Troubleshooting
-- Software Development
 - Windows
 - Application Lifecycle Management
-categories:
-- Scrum
+categories: []
 
 ---
 You can integrate SharePoint 2013 with Team Foundation Server 2013 at any time and even link to your corporate SharePoint\*.

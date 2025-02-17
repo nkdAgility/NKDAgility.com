@@ -27,12 +27,10 @@ aliasesFor404:
 - /resources/blog/tfs-gotcha-exception-handling
 tags:
 - Technical Mastery
-- Troubleshooting
 - Software Development
+- Troubleshooting
 categories:
-- Code and Complexity
-- Practical Techniques and Tooling
-- Technical Excellence
+- Engineering Excellence
 
 ---
 When coding against team foundation server you must be aware that some of the exceptions thrown by [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") are not Serilisable! I think that this was an oversite by Microsoft, but it is there none the less.

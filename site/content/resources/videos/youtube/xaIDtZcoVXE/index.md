@@ -30,16 +30,16 @@ sitemap:
 tags:
 - Decision Making
 - Value Stream Management
+- Evidence Based Management
+- Ability to Innovate
 - Metrics and Learning
 - Value Delivery
-- Ability to Innovate
-- Evidence Based Management
 - Product Delivery
-- Evidence Based Leadership
-- Operational Practices
-- Throughput
 - Flow Efficiency
+- Operational Practices
 - Pragmatic Thinking
+- Evidence Based Leadership
+- Throughput
 - Lead Time
 - Strategy
 resourceTypes:

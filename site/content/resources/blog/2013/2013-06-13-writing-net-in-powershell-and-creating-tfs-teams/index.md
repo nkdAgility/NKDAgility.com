@@ -28,11 +28,9 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery
-- Azure DevOps
 - Software Development
-categories:
-- Code and Complexity
-- Technical Excellence
+- Azure DevOps
+categories: []
 preview: image11-1-1.png
 
 ---

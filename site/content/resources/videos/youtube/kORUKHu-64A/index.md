@@ -29,13 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
+- People and Process
 - Agile Project Management
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- People and Process
+- Product Management
 
 ---
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀

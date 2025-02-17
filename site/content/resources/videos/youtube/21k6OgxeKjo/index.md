@@ -21,24 +21,7 @@ preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true
 tags:
-- Agile Product Management
-- Agile Project Management
-- Agile Product Operating Model
-- Agile Values and Principles
-- Product Owner
-- Agile Transformation
-- Agile Philosophy
-- Agile Leadership
-- Product Delivery
-- Agile Frameworks
-- Pragmatic Thinking
-- Employee Engagement
-- Team Collaboration
-- Organisational Agility
-- Team Performance
-- Scrum Team
-- Team Motivation
-- Software Development
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,7 +30,8 @@ layout: video
 resourceTypes:
 - video
 categories:
-- People and Process
+- Product Management
+- Social Technologies
 
 ---
 I’ve often found myself reflecting on the dynamics within Agile teams, particularly when it comes to the role of the Product Owner. Have you ever worked with a Product Owner who seemed more like a project manager? You know the type—fixated on work breakdown structures, timelines, and Gantt charts. If you have, then you’ve likely encountered what I like to call an “agile bandit” Product Owner. 

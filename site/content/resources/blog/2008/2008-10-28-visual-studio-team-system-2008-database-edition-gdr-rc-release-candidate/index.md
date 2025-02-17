@@ -26,10 +26,10 @@ aliasesFor404:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 tags:
-- Release Management
-categories:
 - Install and Configuration
 - News and Reviews
+- Release Management
+categories: []
 
 ---
 [Gert Drapers](http://blogs.msdn.com/gertd/) has just [announced](http://blogs.msdn.com/gertd/archive/2008/10/27/the-gdr-rc-is-here.aspx "The GDR RC Is Here!") the long awaited RC for the Data Dude GDR. This is the first version that you can seriously consider using as, unlike the previous CTP’s, there will be an upgrade path to the RTM.

@@ -27,13 +27,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Sociotechnical Systems
+- Complexity Thinking
 resourceTypes:
 - video
 categories:
-- Complexity Thinking
-- People and Process
-- Sociotechnical Systems
+- Product Management
 
 ---
 What is Taylorism and how did it influence project management?

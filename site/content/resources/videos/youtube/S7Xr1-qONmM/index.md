@@ -28,25 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Project Management
-- Cross Functional Teams
-- Decision Making
-- Empirical Process Control
-- Pragmatic Thinking
-- Product Management
-- Product Owner
-- Professional Scrum
 - Scrum Product Development
-- Software Developers
-- Software Development
+- People and Process
+- Product Owner
+- Value Delivery
+- Agile Product Management
+- Product Delivery
+- Agile Project Management
+- Professional Scrum
+- Pragmatic Thinking
 - Team Collaboration
+- Agile Frameworks
+- Software Development
+- Decision Making
+- Discovery and Learning
+- Empirical Process Control
+- Cross Functional Teams
+- Software Developers
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
+- Product Management
 
 ---
 Why do you think the PSU course has become so popular for product development?

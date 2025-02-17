@@ -28,11 +28,9 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
 - Modern Source Control
+- Software Development
 categories:
-- Personal
-- Technical Excellence
 - DevOps
 preview: clip_image001-1-1.png
 

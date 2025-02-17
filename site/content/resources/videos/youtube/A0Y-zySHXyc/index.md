@@ -29,25 +29,27 @@ sitemap:
   priority: 0.6
 tags:
 - Accountability
-- Agile Leadership
-- Agile Project Management
-- Decision Making
-- Organisational Culture
-- Pragmatic Thinking
-- Product Management
-- Product Owner
-- Professional Scrum
-- Scrum Product Development
 - Scrum Team
-- Software Developers
+- Product Owner
+- Agile Product Management
+- Transparency and Accountability
+- Scrum Product Development
+- People and Process
 - Team Collaboration
+- Agile Project Management
+- Professional Scrum
+- Personal
+- Decision Making
+- Agile Leadership
+- Software Developers
 - Team Performance
+- Organisational Culture
+- Sociotechnical Systems
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Transparency and Accountability
+- Product Management
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

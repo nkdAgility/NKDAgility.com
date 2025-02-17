@@ -23,6 +23,7 @@ preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
 tags:
+- People and Process
 - Technical Leadership
 - Technical Mastery
 - Organisational Culture
@@ -36,7 +37,6 @@ resourceTypes:
 categories:
 - Leadership
 - Engineering Excellence
-- People and Process
 
 ---
 Building a culture of quality within your organisation is not a solo endeavour; it requires a collective commitment from every individual involved. Each person must demonstrate their own technical excellence, leadership, and engineering capability. When individuals embody these qualities, they set a standard that others are likely to emulate. The more people in your organisation adopt this mindset, the quicker it becomes the norm.

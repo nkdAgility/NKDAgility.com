@@ -18,11 +18,11 @@ aliasesFor404:
 - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 categories:
-- Scrum
-- Events and Presentations
 - Social Technologies
 tags:
+- Scrum
 - Agile Project Management
+- Events and Presentations
 - Products and Books
 
 ---

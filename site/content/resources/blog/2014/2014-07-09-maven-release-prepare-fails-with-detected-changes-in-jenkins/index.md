@@ -26,15 +26,15 @@ tags:
 - Modern Source Control
 - Release Management
 - Practical Techniques and Tooling
-- Install and Configuration
 - Continuous Integration
-- System Configuration
+- Install and Configuration
 - Technical Mastery
-- Troubleshooting
-- Software Development
 - Pragmatic Thinking
-- Application Lifecycle Management
+- Software Development
+- System Configuration
+- Troubleshooting
 - Operational Practices
+- Application Lifecycle Management
 categories:
 - DevOps
 - Engineering Excellence

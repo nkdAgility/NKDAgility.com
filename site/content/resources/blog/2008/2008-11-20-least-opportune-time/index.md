@@ -26,15 +26,15 @@ aliasesFor404:
 - /blog/least-opportune-time-
 - /resources/blog/least-opportune-time
 tags:
-- Software Developers
-- Modern Source Control
-- Troubleshooting
-- Release Management
-- Software Development
-categories:
 - Products and Books
-- Miscellaneous
+- Release Management
 - Personal
+- Miscellaneous
+- Modern Source Control
+- Software Development
+- Software Developers
+- Troubleshooting
+categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---
