@@ -29,33 +29,34 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Decision Making
 - Transparency and Accountability
-- Agile Philosophy
 - Change Management
-- Organisational Change
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Organisational Physics
+- Decision Making
+- Agile Philosophy
 - Organisational Agility
+- Organisational Change
 - Organisational Culture
+- Beta Codex
+- Pragmatic Thinking
+- Organisational Physics
+- Sociotechnical Systems
 - Agile Leadership
-- Accountability
 - Agile Strategy
-- Self Organisation
+- Accountability
 - Business Agility
-- Decision Theory
-- Team Motivation
-- Team Collaboration
-- Sensemaking
-- Personal
+- Self Organisation
+- Value Delivery
 - Enterprise Agility
 - Organisational Psychology
-- Value Delivery
+- Decision Theory
+- Team Collaboration
+- Personal
+- Team Motivation
+- Sensemaking
 resourceTypes:
 - video
 categories:
-- Product Management
+- Leadership
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

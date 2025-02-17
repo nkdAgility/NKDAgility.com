@@ -5,7 +5,8 @@ ResourceId: hWrztsvRPAi
 ResourceImport: false
 ResourceType: podcast
 date: 2023-10-26
-categories: []
+categories:
+- Social Technologies
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

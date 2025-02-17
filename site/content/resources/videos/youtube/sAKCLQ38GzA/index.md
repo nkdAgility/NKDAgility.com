@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Product Operating Model
 - Team Motivation
 - Organisational Culture
 - Strategic Goals
@@ -43,6 +44,8 @@ tags:
 resourceTypes:
 - video
 categories:
+- Social Technologies
+- Leadership
 - Product Management
 
 ---

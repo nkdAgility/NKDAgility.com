@@ -32,22 +32,24 @@ tags:
 - Agile Transformation
 - Agile Philosophy
 - Business Agility
-- Enterprise Agility
-- Organisational Culture
-- Scaling Agility
-- Organisational Physics
-- Sociotechnical Systems
 - Organisational Change
+- Beta Codex
+- Sociotechnical Systems
+- Organisational Physics
+- Scaling Agility
+- Organisational Culture
+- Enterprise Agility
 - Organisational Agility
 - Agile Values and Principles
-- Change Management
 - Agile Leadership
+- Change Management
 - Software Development
 resourceTypes:
 - video
 layout: video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

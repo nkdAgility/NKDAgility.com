@@ -32,7 +32,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
+- Leadership
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

@@ -28,17 +28,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - Scrum Team
-- Agile Product Management
-- Software Developers
-- Technical Leadership
 - Professional Scrum
+- Software Developers
 - People and Process
 - Agile Project Management
-- Self Organisation
+- Technical Leadership
+- Agile Product Management
 - Agile Frameworks
-- Pragmatic Thinking
 - Software Development
+- Self Organisation
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Technical Debt
 - Scrum Product Development
@@ -49,8 +50,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
-- Engineering Excellence
+- Social Technologies
 
 ---
 # Scrum and Micromanagement: Dispelling the Myth 🚀

@@ -38,7 +38,8 @@ tags:
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

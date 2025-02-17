@@ -27,31 +27,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- Transparency
-- Empirical Process Control
-- People and Process
-- Daily Scrum
-- Transparency and Accountability
-- Scrum Team
-- Scrum Master
-- Agile Product Management
-- Team Collaboration
-- Product Delivery
-- Team Performance
-- Software Developers
-- Professional Scrum
-- Pragmatic Thinking
-- Software Development
-- Agile Planning
-- Agile Project Management
-- Agile Frameworks
-- Agile Transformation
+- Scrum
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 # Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀

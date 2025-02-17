@@ -28,31 +28,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Agile Product Management
+- Scrum
 - Sprint Review
 - Decision Making
 - People and Process
-- Value Delivery
-- Agile Philosophy
+- Product Owner
+- Agile Product Management
 - Team Motivation
 - Scrum Team
-- Organisational Culture
-- Agile Transformation
+- Agile Philosophy
 - Team Collaboration
-- Transparency and Accountability
-- Agile Project Management
-- Scrum Product Development
-- Agile Frameworks
+- Agile Transformation
 - Agile Planning
 - Employee Engagement
+- Value Delivery
+- Transparency and Accountability
+- Agile Project Management
 - Team Performance
+- Agile Frameworks
+- Organisational Culture
+- Scrum Product Development
+- Pragmatic Thinking
+- Software Development
 - Transparency
-- Scrum Master
 - Psychological Safety
 - Sociotechnical Systems
-- Software Development
-- Pragmatic Thinking
+- Scrum Master
 - Agile Leadership
 - Organisational Agility
 - Agile Strategy
@@ -64,6 +65,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

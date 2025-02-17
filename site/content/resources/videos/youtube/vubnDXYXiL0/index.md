@@ -28,6 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Practical Techniques and Tooling
 - Scaling Scrum
@@ -44,7 +45,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 # Tailoring Scrum to Scale: Building Your Own Framework for Success

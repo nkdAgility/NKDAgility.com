@@ -28,6 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Scrum Master
 - Scrum Team
@@ -38,7 +39,8 @@ tags:
 - Professional Scrum
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 # Navigating the Plague of Incompetence in Agile Coaching 🚧

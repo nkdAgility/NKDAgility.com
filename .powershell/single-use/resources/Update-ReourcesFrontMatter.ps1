@@ -213,25 +213,24 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
         #-----------------Categories-------------------
-        $categoryClassification = Get-CategoryConfidenceWithChecksum `
+        $categoryClassification = Get-CategoryConfidenceWithChecksum  -updateMissing `
             -ClassificationType "categories" `
             -Catalog $categoriesCatalog `
             -CacheFolder $hugoMarkdown.FolderPath `
             -ResourceContent  $BodyContent `
             -ResourceTitle $hugoMarkdown.FrontMatter.title `
             -MaxCategories 3 
-        #-updateMissing
         $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
         #-----------------Tags-------------------
-        $tagClassification = Get-CategoryConfidenceWithChecksum -batch `
+        $tagClassification = Get-CategoryConfidenceWithChecksum -batch -updateMissing `
             -ClassificationType "tags" `
             -Catalog $tagsCatalog `
             -CacheFolder $hugoMarkdown.FolderPath `
             -ResourceContent  $BodyContent `
             -ResourceTitle $hugoMarkdown.FrontMatter.title `
-            -MaxCategories 20
-        #-updateMissing
+            -MaxCategories 20 
+
         $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
 

@@ -46,6 +46,7 @@ tags:
 - Agile Philosophy
 - Enterprise Agility
 - Team Motivation
+- Beta Codex
 - Sociotechnical Systems
 - Software Development
 - Pragmatic Thinking
@@ -56,7 +57,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
+- Leadership
+- Social Technologies
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

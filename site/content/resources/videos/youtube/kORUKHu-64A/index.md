@@ -32,11 +32,12 @@ tags:
 - People and Process
 - Agile Project Management
 - Software Development
+- Scrum
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 # Scrum and Governance: Navigating the Balance for Agile Success 🚀
