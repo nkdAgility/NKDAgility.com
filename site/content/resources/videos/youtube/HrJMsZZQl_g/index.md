@@ -38,9 +38,10 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Empirical Process Control
+- Scrum
 - Metrics and Learning
-- Customer Feedback Loops
 - Scrum Team
+- Customer Feedback Loops
 - Scrum Master
 - Operational Practices
 - Coaching
@@ -52,7 +53,8 @@ tags:
 - Organisational Agility
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

@@ -30,7 +30,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

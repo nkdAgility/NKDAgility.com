@@ -1312,5 +1312,68 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and methodologies, specifically focusing on backlog management and team dynamics in a technical context, rather than psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T17:14:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Agile practices and backlog management, rather than leadership strategies or practices.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T17:14:47",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses Agile practices, specifically the concept of gluttony in relation to backlog management and Sprint planning, which are central themes in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T17:14:49",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly focusing on backlog management and value delivery, which are relevant to the Agile Product Operating Model. However, it primarily centres on the concept of 'gluttony' in Agile practices rather than a comprehensive exploration of the Agile Product Operating Model itself.",
+    "level": "Tertiary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T17:14:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Agile practices, specifically the concept of 'gluttony' in backlog management, rather than focusing on the principles of BetaCodex or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T17:14:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on backlog management and team dynamics, without any direct connection to platform engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T17:14:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile practices and issues related to backlog management, which are not central to the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T17:14:54",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "Content primarily discusses issues related to product backlogs and Sprint planning, which are central to the Scrum framework.",
+    "level": "Secondary"
   }
 }

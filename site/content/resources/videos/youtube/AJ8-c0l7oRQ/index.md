@@ -28,7 +28,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 

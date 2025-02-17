@@ -17,7 +17,9 @@ aliases:
 aliasesFor404:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-categories: []
+categories:
+- Product Management
+- Social Technologies
 tags: []
 
 ---

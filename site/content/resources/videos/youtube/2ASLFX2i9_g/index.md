@@ -27,6 +27,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Agile Product Management
 - Team Performance
@@ -45,6 +46,7 @@ resourceTypes:
 - video
 layout: video
 categories:
+- Social Technologies
 - Product Management
 
 ---
