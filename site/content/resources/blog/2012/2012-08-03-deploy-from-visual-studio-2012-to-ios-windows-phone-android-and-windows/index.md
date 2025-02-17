@@ -34,9 +34,9 @@ tags:
 - Windows
 - Working Software
 categories:
-- Application Lifecycle Management
-- Practical Techniques and Tooling
 - Value Delivery
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

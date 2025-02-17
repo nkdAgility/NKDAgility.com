@@ -39,8 +39,8 @@ tags:
 - Strategy
 categories:
 - Install and Configuration
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

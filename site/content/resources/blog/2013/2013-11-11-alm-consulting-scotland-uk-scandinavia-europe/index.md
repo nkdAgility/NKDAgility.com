@@ -43,7 +43,7 @@ tags:
 categories:
 - Application Lifecycle Management
 - People and Process
-- Practical Techniques and Tooling
+- Product Delivery
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

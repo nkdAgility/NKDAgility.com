@@ -30,8 +30,8 @@ aliasesFor404:
 - /blog/ooooh--rtm-delight
 - /resources/blog/ooooh-rtm-delight
 tags:
-- Software Development
 - Release Management
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - News and Reviews

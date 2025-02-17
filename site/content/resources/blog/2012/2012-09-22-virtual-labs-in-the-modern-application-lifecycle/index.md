@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Automated Testing
-- Software Developers
 - Technical Mastery
+- Software Developers
 - Engineering Excellence
 - Operational Practices
 - Digital Transformation
@@ -36,7 +36,7 @@ tags:
 - Test Automation
 categories:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
+- Platform Engineering
 - Product Delivery
 preview: metro-lab-5-5.png
 

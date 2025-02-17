@@ -30,17 +30,17 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Continuous Integration
+- Windows
 - System Configuration
 - Software Development
 - Technical Mastery
-- Windows
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
 - Operational Practices
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
+- Practical Techniques and Tooling
 preview: metro-problem-icon-6-6.png
 
 ---

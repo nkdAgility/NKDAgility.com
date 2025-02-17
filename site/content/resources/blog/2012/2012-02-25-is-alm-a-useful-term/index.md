@@ -33,9 +33,9 @@ tags:
 - Pragmatic Thinking
 - Agile Project Management
 categories:
-- Application Lifecycle Management
 - People and Process
-- Market Adaptability
+- Application Lifecycle Management
+- Organisational Agility
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

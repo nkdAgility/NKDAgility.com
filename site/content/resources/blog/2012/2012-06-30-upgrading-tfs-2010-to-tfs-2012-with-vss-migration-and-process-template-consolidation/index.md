@@ -29,14 +29,14 @@ tags:
 - Release Management
 - Technical Mastery
 - Deployment Strategies
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
 - Operational Practices
 - Software Developers
 - Windows
 categories:
 - Install and Configuration
-- Application Lifecycle Management
+- Product Delivery
 - Practical Techniques and Tooling
 
 ---

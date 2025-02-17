@@ -29,19 +29,19 @@ tags:
 - Scrum Team
 - Professional Scrum
 - Scrum Master
-- Scrum Product Development
 - Team Performance
-- Team Collaboration
 - Pragmatic Thinking
+- Scrum Product Development
+- Team Collaboration
 - Software Development
 - Agile Frameworks
 - Agile Project Management
-- Self Organisation
 - Coaching
+- Self Organisation
 categories:
 - Scrum
-- Events and Presentations
 - People and Process
+- Events and Presentations
 preview: PSX_20190823_113052-1-1.jpg
 
 ---

@@ -26,13 +26,13 @@ tags:
 - Software Development
 - Agile Project Management
 - Working Software
-- Software Developers
 - Agile Strategy
+- Software Developers
 - Agile Frameworks
 - Frequent Releases
 - Transparency
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
 - Technical Mastery
 categories:
 - Products and Books

@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Team Collaboration
-- Collaboration Tools
 - Transparency
+- Collaboration Tools
 - Operational Practices
 - Pragmatic Thinking
 categories:

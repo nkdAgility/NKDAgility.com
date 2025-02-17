@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - System Configuration
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Windows
 - Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

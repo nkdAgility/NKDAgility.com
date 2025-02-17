@@ -21,7 +21,8 @@ aliasesFor404:
 - /netidme
 - /blog/netidme
 - /resources/blog/netidme
-tags: []
+tags:
+- Windows
 preview: metro-sharepoint-128-link-1-1.png
 categories: []
 

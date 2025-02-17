@@ -29,8 +29,8 @@ tags:
 - Software Development
 - System Configuration
 - Release Management
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Engineering Excellence
 - Windows
 categories:

@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/connecting-to-sql-server-using-dns
 tags:
 - System Configuration
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Windows
 categories:
 - Install and Configuration

@@ -26,19 +26,19 @@ tags:
 - Software Development
 - Software Developers
 - System Configuration
-- Azure Pipelines
-- Continuous Integration
 - Technical Mastery
-- Pragmatic Thinking
+- Azure Pipelines
 - Engineering Excellence
+- Continuous Integration
+- Pragmatic Thinking
 - Operational Practices
-- Engineering Practices
 - Windows
+- Engineering Practices
 preview: metro-SSWLogo-128-link-11-11.png
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

@@ -33,8 +33,8 @@ tags:
 - Continuous Integration
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

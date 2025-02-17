@@ -25,8 +25,8 @@ tags:
 - System Configuration
 - Agile Project Management
 - Azure Boards
-- Software Developers
 - Software Development
+- Software Developers
 - Pragmatic Thinking
 - Operational Practices
 - Agile Transformation

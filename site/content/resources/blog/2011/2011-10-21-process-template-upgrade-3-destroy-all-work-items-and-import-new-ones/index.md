@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - Software Development
 - System Configuration
-- Azure Boards
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
+- Azure Boards
 - Pragmatic Thinking
 - Operational Practices
 - Professional Scrum

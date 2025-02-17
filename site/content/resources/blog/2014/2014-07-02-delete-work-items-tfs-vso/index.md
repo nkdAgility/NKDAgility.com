@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/delete-work-items-tfs-vso
 tags:
 - Software Development
-- Azure Boards
 - Troubleshooting
+- Azure Boards
 - Technical Mastery
 - Pragmatic Thinking
 categories:

@@ -31,10 +31,10 @@ tags:
 - Troubleshooting
 - System Configuration
 - Modern Source Control
+- Windows
 - Azure Repos
 - Software Development
 - Technical Mastery
-- Windows
 - Pragmatic Thinking
 categories:
 - Install and Configuration

@@ -24,12 +24,12 @@ aliasesFor404:
 tags:
 - Windows
 - Modern Source Control
-- Continuous Integration
 - Release Management
+- Continuous Integration
 - System Configuration
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 - Engineering Excellence
 - Operational Practices

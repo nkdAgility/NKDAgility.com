@@ -29,23 +29,23 @@ tags:
 - Working Software
 - Software Development
 - Scrum Product Development
-- Engineering Excellence
-- Scrum Team
 - Professional Scrum
-- Accountability
+- Scrum Team
+- Engineering Excellence
 - Increment
+- Accountability
 - Empirical Process Control
-- Technical Debt
 - Software Developers
-- Team Performance
-- Technical Mastery
-- Agile Project Management
+- Technical Debt
 - Engineering Practices
+- Agile Project Management
+- Technical Mastery
+- Team Performance
 - Agile Frameworks
-- Operational Practices
 - Pragmatic Thinking
-- Technical Leadership
+- Operational Practices
 - Decision Making
+- Technical Leadership
 categories:
 - Scrum
 - People and Process

@@ -35,8 +35,8 @@ tags:
 - Digital Transformation
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-16-16.png
 
 ---

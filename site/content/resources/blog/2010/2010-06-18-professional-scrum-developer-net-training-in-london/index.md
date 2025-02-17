@@ -27,25 +27,25 @@ aliasesFor404:
 - /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
 - Scrum Product Development
-- Software Development
 - Professional Scrum
+- Software Development
 - Agile Frameworks
 - Team Collaboration
 - Engineering Practices
 - Increment
 - Test Driven Development
 - Working Software
-- Definition of Done
-- Software Developers
-- Agile Project Management
 - Agile Planning
 - Continuous Integration
+- Software Developers
+- Agile Project Management
+- Definition of Done
 - Scrum Team
-- Technical Mastery
-- Team Performance
-- Operational Practices
-- Engineering Excellence
+- Agile Transformation
 - Cross Functional Teams
+- Engineering Excellence
+- Technical Mastery
+- Operational Practices
 categories:
 - Scrum
 - Events and Presentations

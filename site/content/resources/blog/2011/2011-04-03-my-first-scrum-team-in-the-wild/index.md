@@ -24,24 +24,24 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Agile Planning
-- Software Development
 - Agile Frameworks
+- Software Development
 - Scrum Product Development
 - Scrum Team
 - Estimation
+- Product Backlog
 - Product Owner
 - Agile Planning Tools
-- Product Backlog
-- Team Performance
 - Team Collaboration
-- Scrum Master
-- Agile Transformation
+- Team Performance
 - Professional Scrum
+- Agile Transformation
+- Scrum Master
 - Software Developers
 - Pragmatic Thinking
 - Operational Practices
-- Empirical Process Control
 - Working Software
+- Backlog Refinement
 categories:
 - Scrum
 - Agile Product Management

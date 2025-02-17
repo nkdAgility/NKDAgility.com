@@ -21,7 +21,11 @@ aliasesFor404:
 - /tfs-event-handler-prototype-configuration-demystified
 - /blog/tfs-event-handler-prototype-configuration-demystified
 - /resources/blog/tfs-event-handler-prototype-configuration-demystified
-tags: []
+tags:
+- Windows
+- System Configuration
+- Software Development
+- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

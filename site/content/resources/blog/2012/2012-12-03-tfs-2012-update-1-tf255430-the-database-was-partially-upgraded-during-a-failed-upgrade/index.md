@@ -31,15 +31,15 @@ tags:
 - Windows
 - System Configuration
 - Operational Practices
-- Software Development
-- Technical Mastery
-- Troubleshooting
 - Release Management
+- Software Development
+- Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
 preview: metro-problem-icon-2-2.png
 
 ---

@@ -29,15 +29,15 @@ tags:
 - Software Development
 - Operational Practices
 - Team Collaboration
+- Software Developers
 - Large Scale Agility
 - Collaboration Tools
-- Software Developers
-- Azure Boards
-- Scaling Agility
-- Troubleshooting
-- Pragmatic Thinking
-- Scaled Agile
 - System Configuration
+- Scaled Agile
+- Troubleshooting
+- Scaling Agility
+- Azure Boards
+- Pragmatic Thinking
 - Working Software
 - Agile Planning
 - Team Performance

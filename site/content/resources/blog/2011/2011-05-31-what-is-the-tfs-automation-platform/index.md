@@ -31,7 +31,7 @@ tags:
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
+- Technical Excellence
 - Platform Engineering
 
 ---

@@ -32,23 +32,23 @@ tags:
 - Transparency
 - Lean Product Development
 - Scrum Product Development
-- Backlog Refinement
 - Lean Thinking
-- Lean Principles
 - Product Owner
-- Agile Planning Tools
+- Backlog Refinement
+- Lean Principles
 - Agile Project Management
-- Agile Planning
+- Agile Planning Tools
 - Pragmatic Thinking
 - Professional Scrum
-- Product Strategy
+- Agile Planning
 - Software Development
+- Product Strategy
 - Strategy
 - Operational Practices
 categories:
 - Lean
 - Value Delivery
-- Agile Product Operating Model
+- Product Delivery
 preview: image-1.jpg
 
 ---

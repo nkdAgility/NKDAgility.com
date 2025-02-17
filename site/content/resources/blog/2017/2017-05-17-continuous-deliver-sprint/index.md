@@ -32,28 +32,28 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Increment
-- Empirical Process Control
 - Scrum Team
+- Empirical Process Control
 - Working Software
+- Software Development
 - Team Performance
+- Agile Planning
+- Software Developers
 - Professional Scrum
 - Scrum Product Development
-- Agile Planning
-- Software Development
-- Software Developers
 - Scrum Master
-- Agile Transformation
-- Deployment Frequency
 - Frequent Releases
-- Agile Strategy
-- Strategy
-- Pragmatic Thinking
+- Deployment Frequency
 - Operational Practices
+- Agile Strategy
 - Agile Frameworks
+- Pragmatic Thinking
+- Agile Transformation
+- Strategy
 categories:
 - Scrum
 - People and Process
-- Practical Techniques and Tooling
+- Value Delivery
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

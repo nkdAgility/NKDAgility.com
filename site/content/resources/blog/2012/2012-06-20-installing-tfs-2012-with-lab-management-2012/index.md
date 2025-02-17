@@ -29,8 +29,8 @@ tags:
 - Deployment Strategies
 - Test Automation
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Operational Practices
 categories:
 - Install and Configuration

@@ -26,28 +26,28 @@ aliasesFor404:
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
 - /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
-- Automated Testing
 - Release Management
+- Automated Testing
 - Software Development
 - Test Automation
-- Engineering Excellence
-- Pragmatic Thinking
 - Troubleshooting
-- Operational Practices
-- System Configuration
-- Frequent Releases
-- Continuous Delivery
+- Pragmatic Thinking
+- Engineering Excellence
 - Software Developers
 - Technical Mastery
+- Operational Practices
+- System Configuration
+- Continuous Delivery
+- Frequent Releases
 - Deployment Strategies
 - Working Software
-- Azure Pipelines
 - Engineering Practices
+- Azure Pipelines
 - Windows
 categories:
-- Application Lifecycle Management
 - Install and Configuration
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

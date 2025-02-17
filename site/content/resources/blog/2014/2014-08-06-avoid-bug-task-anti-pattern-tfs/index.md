@@ -30,25 +30,25 @@ tags:
 - Product Owner
 - Software Development
 - Test First Development
-- Agile Planning
-- Agile Transformation
-- Team Performance
-- Azure Boards
-- Technical Mastery
 - Agile Project Management
+- Agile Transformation
+- Azure Boards
 - Software Developers
-- Operational Practices
+- Team Performance
+- Agile Planning
+- Technical Mastery
+- Engineering Practices
 - Transparency
 - Pragmatic Thinking
-- Engineering Practices
-- Test Driven Development
+- Operational Practices
 - Product Backlog
 - Working Software
+- Test Driven Development
 - Team Collaboration
 - Engineering Excellence
 categories:
 - People and Process
-- Practical Techniques and Tooling
+- Azure DevOps
 - Product Delivery
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 

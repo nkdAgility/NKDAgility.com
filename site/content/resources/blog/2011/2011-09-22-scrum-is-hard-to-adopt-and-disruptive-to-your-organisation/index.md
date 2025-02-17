@@ -28,18 +28,18 @@ tags:
 - Change Management
 - Software Development
 - Organisational Change
-- Agile Frameworks
-- Agile Transformation
 - Team Performance
+- Agile Frameworks
 - Pragmatic Thinking
 - Professional Scrum
+- Agile Transformation
 - Software Developers
 - Team Collaboration
 - Technical Leadership
 categories:
 - Scrum
-- Agile Product Management
 - People and Process
+- Agile Product Management
 preview: nakedalm-experts-professional-scrum-4-4.png
 
 ---

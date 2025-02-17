@@ -31,13 +31,13 @@ tags:
 - Troubleshooting
 - Test First Development
 - Automated Testing
-- Software Developers
 - Working Software
-- Engineering Practices
-- Continuous Integration
+- Software Developers
 - Technical Mastery
-- Pragmatic Thinking
+- Engineering Practices
 - Engineering Excellence
+- Continuous Integration
+- Pragmatic Thinking
 - Operational Practices
 - Test Driven Development
 preview: metro-visual-studio-2010-128-link-6-6.png

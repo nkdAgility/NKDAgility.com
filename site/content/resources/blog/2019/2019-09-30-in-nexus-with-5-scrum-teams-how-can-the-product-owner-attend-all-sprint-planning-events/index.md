@@ -32,28 +32,28 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Scrum Product Development
-- Professional Scrum
-- Scaling Scrum
-- Scrum Team
 - Product Owner
+- Scaling Scrum
+- Professional Scrum
+- Scrum Team
 - Product Backlog
-- Product Management
-- Team Collaboration
 - Scaling Agility
+- Large Scale Agility
+- Team Collaboration
+- Product Management
 - Team Performance
+- Software Development
 - Agile Planning
 - Technical Leadership
-- Software Development
-- Large Scale Agility
-- Agile Frameworks
 - Software Developers
 - Pragmatic Thinking
-- Scaled Agile
 - Agile Transformation
+- Scaled Agile
+- Agile Frameworks
 categories:
 - Scrum
+- People and Process
 - Product Delivery
-- Events and Presentations
 preview: 146713119-1-1.jpg
 
 ---

@@ -23,24 +23,24 @@ aliasesFor404:
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
 - Definition of Done
-- Software Development
 - Continuous Delivery
+- Software Development
 - Technical Debt
-- Technical Mastery
+- Technical Leadership
+- Agile Transformation
 - Pragmatic Thinking
-- Working Software
+- Agile Frameworks
+- Software Developers
 - Deployment Strategies
 - Agile Project Management
+- Deployment Frequency
 - Frequent Releases
 - Automated Testing
-- Agile Frameworks
-- Deployment Frequency
-- Technical Leadership
-- Software Developers
-- Agile Transformation
+- Working Software
+- Technical Mastery
 - Operational Practices
-- Engineering Practices
 - Engineering Excellence
+- Engineering Practices
 - Test Automation
 categories:
 - Scrum

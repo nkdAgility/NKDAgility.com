@@ -32,18 +32,18 @@ tags:
 - Software Development
 - Scrum Team
 - Scrum Master
-- Software Developers
 - Agile Planning
 - Team Performance
+- Software Developers
 - Professional Scrum
 - Agile Frameworks
-- Agile Transformation
 - Pragmatic Thinking
+- Agile Transformation
 - Strategy
 categories:
 - Scrum
 - People and Process
-- News and Reviews
+- Product Delivery
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

@@ -25,7 +25,9 @@ aliasesFor404:
 - /tfs-event-handler--ctp-1-delayed
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
-tags: []
+tags:
+- Technical Mastery
+- Software Development
 categories:
 - Install and Configuration
 - Miscellaneous

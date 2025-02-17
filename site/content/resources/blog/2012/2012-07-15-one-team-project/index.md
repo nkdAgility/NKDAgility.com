@@ -29,8 +29,8 @@ tags:
 - Agile Planning Tools
 - Agile Planning
 - Agile Project Management
-- Software Developers
 - Software Development
+- Software Developers
 - Pragmatic Thinking
 - Azure Boards
 - Large Scale Agility

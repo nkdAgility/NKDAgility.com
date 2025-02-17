@@ -31,25 +31,25 @@ tags:
 - Scrum Team
 - Software Developers
 - Agile Planning
+- Team Performance
 - Professional Scrum
 - Agile Project Management
-- Team Performance
 - Agile Transformation
-- Pragmatic Thinking
 - Forecasting
+- Pragmatic Thinking
 - Agile Frameworks
 - Empirical Process Control
-- Scrum Master
 - Agile Planning Tools
+- Scrum Master
 - Product Management
 - Estimation
 - Product Owner
-- Transparency
 - Troubleshooting
+- Decision Making
 categories:
 - Scrum
-- Practical Techniques and Tooling
 - Product Delivery
+- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -30,9 +30,9 @@ tags:
 - Azure Boards
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Pragmatic Thinking
 - Operational Practices
+- Agile Project Management
 - Lean Thinking
 categories:
 - Flow Efficiency

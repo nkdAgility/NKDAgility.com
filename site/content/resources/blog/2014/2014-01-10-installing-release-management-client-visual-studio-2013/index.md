@@ -29,8 +29,8 @@ tags:
 - Release Management
 - System Configuration
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 categories:
 - Install and Configuration
 - Application Lifecycle Management

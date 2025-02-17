@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/kerberos-and-sharepoint-2007
 tags:
 - System Configuration
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png

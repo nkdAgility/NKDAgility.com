@@ -30,14 +30,14 @@ tags:
 - Release Management
 - System Configuration
 - Software Development
-- Azure Pipelines
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
+- Azure Pipelines
 - Pragmatic Thinking
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

@@ -29,9 +29,9 @@ tags:
 - Windows
 - System Configuration
 - Software Development
+- Troubleshooting
 - Azure Pipelines
 - Continuous Integration
-- Troubleshooting
 - Pragmatic Thinking
 categories:
 - Install and Configuration

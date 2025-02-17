@@ -28,17 +28,17 @@ aliasesFor404:
 tags:
 - Agile Planning Tools
 - Agile Project Management
-- Software Development
 - Agile Planning
+- Software Development
 - Pragmatic Thinking
-- Product Management
 - Cycle Time
+- Product Management
 - Operational Practices
 - Product Backlog
 categories:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Product Delivery
+- Practical Techniques and Tooling
 preview: metro-requirements-icon-14-14.png
 
 ---

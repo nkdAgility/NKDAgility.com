@@ -31,8 +31,8 @@ tags:
 - Evidence Based Leadership
 - Pragmatic Thinking
 - Operational Practices
-- Product Management
 - Agile Planning
+- Product Management
 - Estimation
 - Forecasting
 categories:

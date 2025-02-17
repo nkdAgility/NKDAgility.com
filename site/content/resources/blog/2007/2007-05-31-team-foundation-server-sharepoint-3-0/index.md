@@ -25,7 +25,9 @@ aliasesFor404:
 - /team-foundation-server-&-sharepoint-3-0
 - /blog/team-foundation-server-&-sharepoint-3-0
 - /resources/blog/team-foundation-server-sharepoint-3-0
-tags: []
+tags:
+- System Configuration
+- Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration

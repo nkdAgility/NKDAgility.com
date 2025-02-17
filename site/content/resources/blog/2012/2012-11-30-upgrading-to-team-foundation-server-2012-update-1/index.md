@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1
 tags:
 - System Configuration
-- Software Development
 - Release Management
+- Software Development
 - Windows
 categories:
 - Install and Configuration

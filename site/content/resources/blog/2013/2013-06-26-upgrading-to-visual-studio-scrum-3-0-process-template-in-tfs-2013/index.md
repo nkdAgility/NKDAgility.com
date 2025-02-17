@@ -25,8 +25,8 @@ tags:
 - Agile Project Management
 - System Configuration
 - Agile Frameworks
-- Software Developers
 - Software Development
+- Software Developers
 - Pragmatic Thinking
 - Operational Practices
 categories:

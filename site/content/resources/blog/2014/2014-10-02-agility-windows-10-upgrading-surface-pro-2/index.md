@@ -31,8 +31,8 @@ tags:
 - Deployment Frequency
 - Frequent Releases
 - System Configuration
-- Transparency
 - Troubleshooting
+- Transparency
 categories:
 - Install and Configuration
 - Organisational Agility

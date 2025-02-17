@@ -24,25 +24,25 @@ aliasesFor404:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Increment
-- Product Management
-- Product Validation
 - Release Management
-- Ability to Innovate
-- Product Discovery
+- Product Validation
+- Product Management
 - Working Software
+- Ability to Innovate
 - Lean Product Development
-- Pragmatic Thinking
-- Frequent Releases
-- Evidence Based Leadership
+- Product Discovery
+- Operational Practices
 - Agile Philosophy
 - Agile Strategy
-- Deployment Frequency
-- Lean Startup
 - MVP
-- Empirical Process Control
+- Evidence Based Leadership
 - Experimentation
-- Decision Making
+- Pragmatic Thinking
 - Hypothesis Driven Development
+- Frequent Releases
+- Lean Startup
+- Decision Making
+- Empirical Process Control
 categories:
 - Business Agility
 - Agile Product Management

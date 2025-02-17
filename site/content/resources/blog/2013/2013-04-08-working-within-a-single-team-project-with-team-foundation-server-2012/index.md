@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
-- Software Developers
 - Software Development
+- Software Developers
 - Team Collaboration
 - Pragmatic Thinking
 - Operational Practices
@@ -32,8 +32,8 @@ tags:
 - Technical Mastery
 categories:
 - People and Process
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

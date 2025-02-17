@@ -30,9 +30,9 @@ aliasesFor404:
 tags:
 - System Configuration
 - Software Development
-- Modern Source Control
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
+- Modern Source Control
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

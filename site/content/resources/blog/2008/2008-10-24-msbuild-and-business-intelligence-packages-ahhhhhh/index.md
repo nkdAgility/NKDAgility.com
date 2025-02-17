@@ -30,12 +30,12 @@ aliasesFor404:
 - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 tags:
-- Test Automation
 - Automated Testing
+- Test Automation
 - System Configuration
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Engineering Excellence
 - Engineering Practices
 - Operational Practices

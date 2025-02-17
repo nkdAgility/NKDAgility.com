@@ -29,7 +29,7 @@ tags:
 - Software Development
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
+- Azure DevOps
 - News and Reviews
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 

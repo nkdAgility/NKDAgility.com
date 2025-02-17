@@ -31,8 +31,8 @@ aliasesFor404:
 - /resources/blog/not-just-happy-but-ecstatic
 tags:
 - Pragmatic Thinking
-- Technical Mastery
 - Release Management
+- Technical Mastery
 - Operational Practices
 - Working Software
 - System Configuration

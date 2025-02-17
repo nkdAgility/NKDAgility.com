@@ -29,8 +29,8 @@ tags:
 - System Configuration
 - Portfolio Management
 - Agile Project Management
-- Software Developers
 - Azure Boards
+- Software Developers
 - Pragmatic Thinking
 - Operational Practices
 - Working Software

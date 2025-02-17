@@ -27,17 +27,17 @@ aliasesFor404:
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
 - Windows
-- Product Owner
 - Release Management
+- Product Owner
 - Software Development
 - Troubleshooting
-- Software Developers
 - Continuous Delivery
+- Software Developers
 - Pragmatic Thinking
 categories:
 - Events and Presentations
 - Install and Configuration
-- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

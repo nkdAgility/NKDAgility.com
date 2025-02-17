@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - System Configuration
 - Continuous Integration
-- Software Developers
 - Software Development
 - Modern Source Control
+- Software Developers
 - Operational Practices
 - Azure Pipelines
 - Pragmatic Thinking

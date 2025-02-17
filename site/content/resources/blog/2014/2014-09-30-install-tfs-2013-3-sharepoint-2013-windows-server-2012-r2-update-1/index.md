@@ -30,8 +30,8 @@ tags:
 - System Configuration
 - Operational Practices
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 categories:
 - Install and Configuration

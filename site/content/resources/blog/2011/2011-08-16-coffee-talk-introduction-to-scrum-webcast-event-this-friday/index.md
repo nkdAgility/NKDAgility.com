@@ -28,11 +28,11 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Software Development
+- Scrum Team
 - Agile Frameworks
+- Professional Scrum
 - Agile Transformation
 - Agile Project Management
-- Scrum Team
-- Professional Scrum
 - Software Developers
 categories:
 - Scrum

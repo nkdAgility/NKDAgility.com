@@ -32,23 +32,23 @@ tags:
 - Large Scale Agility
 - Agile Transformation
 - Digital Transformation
-- Agile Strategy
-- Change Management
-- Agile Philosophy
 - Scaling Agility
+- Change Management
 - Organisational Physics
+- Agile Strategy
 - Agile Leadership
-- Trend Analysis
-- Strategic Goals
+- Agile Philosophy
 - Sensemaking
+- Trend Analysis
 - Strategy
+- Strategic Goals
 - Scaled Agile
 - Agile Frameworks
 - Pragmatic Thinking
 categories:
-- Enterprise Agility
-- Business Agility
 - Organisational Agility
+- Business Agility
+- Enterprise Agility
 preview: 1686217267121-1-1-1.jpg
 
 ---

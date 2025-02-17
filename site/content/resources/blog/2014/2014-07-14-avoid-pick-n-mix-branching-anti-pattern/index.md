@@ -28,26 +28,26 @@ aliasesFor404:
 tags:
 - Technical Mastery
 - Working Software
-- Modern Source Control
 - Engineering Excellence
+- Modern Source Control
 - Pragmatic Thinking
-- Release Management
-- Software Developers
-- Software Development
 - Continuous Delivery
+- Release Management
+- Software Development
+- Software Developers
 - Technical Debt
 - Engineering Practices
 - Frequent Releases
-- Troubleshooting
-- Deployment Strategies
 - Strategy
+- Deployment Strategies
+- Troubleshooting
 - Operational Practices
 - Continuous Integration
 - Decision Making
 - Change Management
 categories:
 - Technical Excellence
-- Application Lifecycle Management
+- Code and Complexity
 - Product Delivery
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 

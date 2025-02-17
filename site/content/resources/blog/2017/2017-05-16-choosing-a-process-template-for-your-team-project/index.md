@@ -27,14 +27,14 @@ tags:
 - Pragmatic Thinking
 - Scrum Product Development
 - Decision Making
-- Scrum Team
 - Agile Project Management
-- Operational Practices
+- Scrum Team
 - Azure Boards
-- Agile Transformation
-- Professional Scrum
-- Agile Planning
+- Operational Practices
 - Software Developers
+- Professional Scrum
+- Agile Transformation
+- Agile Planning
 - Scrum Master
 - Agile Planning Tools
 - Team Performance

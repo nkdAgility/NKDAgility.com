@@ -29,10 +29,10 @@ tags:
 - Product Owner
 - Accountability
 - Scrum Product Development
+- Scrum Team
 - Product Management
 - Product Backlog
 - Agile Project Management
-- Scrum Team
 - Software Development
 - Professional Scrum
 - Agile Planning
@@ -41,8 +41,8 @@ tags:
 - Pragmatic Thinking
 categories:
 - Scrum
-- Agile Product Management
 - People and Process
+- Agile Product Management
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

@@ -26,18 +26,18 @@ tags:
 - Software Development
 - Release Management
 - System Configuration
-- Azure Pipelines
-- Continuous Integration
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
+- Azure Pipelines
 - Engineering Excellence
+- Continuous Integration
 - Operational Practices
 - Working Software
 - Engineering Practices
 categories:
 - Install and Configuration
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

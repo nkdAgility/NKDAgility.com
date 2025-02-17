@@ -28,21 +28,21 @@ aliasesFor404:
 tags:
 - Software Developers
 - Agile Project Management
-- Software Development
 - Continuous Learning
+- Software Development
 - Mentoring
 - Engineering Practices
 - Agile Transformation
 - Operational Practices
 - Coaching
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
 - Scrum Master
 - Technical Mastery
 - Strategy
 categories:
-- Application Lifecycle Management
 - People and Process
+- Application Lifecycle Management
 - Personal
 preview: metro-nwc-128-link-2-2.png
 

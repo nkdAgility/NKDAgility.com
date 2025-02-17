@@ -24,14 +24,14 @@ aliasesFor404:
 tags:
 - Software Development
 - System Configuration
-- Technical Mastery
 - Windows
+- Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Platform Engineering
+- Practical Techniques and Tooling
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?

@@ -32,15 +32,15 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Professional Scrum
-- Software Developers
+- Team Collaboration
 - Agile Transformation
 - Team Performance
-- Team Collaboration
 - Agile Project Management
+- Software Developers
 - Agile Frameworks
 - Software Development
-- Pragmatic Thinking
 - Self Organisation
+- Pragmatic Thinking
 - Agile Planning
 - Scrum Team
 - Team Motivation
@@ -50,8 +50,8 @@ tags:
 - Empirical Process Control
 categories:
 - Scrum
-- Events and Presentations
 - People and Process
+- Events and Presentations
 preview: nakedalm-experts-professional-scrum-8-8.png
 
 ---

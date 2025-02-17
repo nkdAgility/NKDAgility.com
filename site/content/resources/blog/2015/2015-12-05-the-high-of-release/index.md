@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/the-high-of-release
 - /resources/blog/the-high-of-release
 tags:
-- Azure Pipelines
 - Release Management
-- Software Developers
+- Azure Pipelines
 - Software Development
+- Software Developers
 - Engineering Excellence
 - Frequent Releases
 - Technical Mastery

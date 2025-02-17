@@ -26,16 +26,16 @@ aliasesFor404:
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
-- Software Development
 - Release Management
+- Software Development
 - Digital Transformation
 - Frequent Releases
-- Azure Pipelines
 - Organisational Change
+- Azure Pipelines
 categories:
 - DevOps
 - Application Lifecycle Management
-- Business Agility
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

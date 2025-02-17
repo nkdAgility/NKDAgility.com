@@ -29,8 +29,8 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Pragmatic Thinking
-- Software Developers
 - Agile Strategy
+- Software Developers
 - Agile Frameworks
 categories:
 - People and Process

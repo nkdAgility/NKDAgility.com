@@ -32,8 +32,8 @@ tags:
 - Pragmatic Thinking
 categories:
 - Install and Configuration
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

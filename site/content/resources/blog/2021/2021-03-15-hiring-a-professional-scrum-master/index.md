@@ -25,19 +25,19 @@ tags:
 - Scrum Master
 - Scrum Team
 - Scrum Product Development
-- Software Development
 - Technical Leadership
+- Software Development
 - Professional Scrum
-- Agile Frameworks
 - Team Performance
+- Agile Frameworks
 - Agile Project Management
 - Accountability
 - Agile Leadership
 - Coaching
 categories:
 - Scrum
-- Product Delivery
 - People and Process
+- Product Delivery
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

@@ -32,13 +32,13 @@ tags:
 - Product Management
 - Product Backlog
 - Software Development
-- Product Owner
-- Agile Project Management
 - Pragmatic Thinking
+- Agile Project Management
+- Product Owner
 categories:
-- Transparency and Accountability
-- Agile Product Management
 - People and Process
+- Agile Product Management
+- Transparency and Accountability
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

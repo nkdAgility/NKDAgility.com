@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags:
 - Scrum Team
-- Scrum Product Development
 - Team Performance
-- Team Collaboration
 - Professional Scrum
+- Scrum Product Development
+- Team Collaboration
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Pragmatic Thinking
+- Agile Project Management
 categories:
 - Scrum
 - People and Process

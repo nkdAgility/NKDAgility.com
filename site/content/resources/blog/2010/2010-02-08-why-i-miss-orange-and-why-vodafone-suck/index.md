@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Customer Satisfaction
 categories:
-- Miscellaneous
 - Personal
+- Miscellaneous
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

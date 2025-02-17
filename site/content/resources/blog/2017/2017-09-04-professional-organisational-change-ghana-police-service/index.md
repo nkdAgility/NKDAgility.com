@@ -31,21 +31,21 @@ tags:
 - Strategy
 - Empirical Process Control
 - Agile Leadership
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - Agile Strategy
 - Agile Philosophy
 - Agile Frameworks
+- Technical Leadership
+- Organisational Physics
+- Strategic Goals
 - Digital Transformation
 - Scaling Agility
-- Strategic Goals
-- Organisational Physics
-- Technical Leadership
 - Organisational Culture
 - Large Scale Agility
+- Operational Practices
 - Sensemaking
 - Pragmatic Thinking
-- Operational Practices
 categories:
 - Scrum
 - People and Process

@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 tags:
 - Professional Scrum
-- Scrum Product Development
 - Scrum Team
+- Scrum Product Development
 - Agile Planning
-- Self Organisation
 - Software Development
+- Self Organisation
 - Agile Frameworks
 - Agile Project Management
 - Increment

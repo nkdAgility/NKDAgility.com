@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - Working Software
 - System Configuration
-- Software Developers
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
+- Software Developers
 - Operational Practices
 - Pragmatic Thinking
 - Increment
@@ -37,7 +37,7 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Application Lifecycle Management
+- Technical Excellence
 
 ---
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)

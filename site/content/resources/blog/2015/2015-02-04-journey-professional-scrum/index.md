@@ -28,22 +28,22 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Strategy
-- Organisational Culture
 - Scaling Scrum
-- Agile Project Management
-- Professional Scrum
-- Organisational Change
 - Scaling Agility
 - Software Development
-- Agile Strategy
-- Agile Planning
+- Organisational Change
+- Professional Scrum
+- Organisational Culture
+- Agile Project Management
 - Agile Transformation
-- Team Performance
-- Team Collaboration
-- Software Developers
 - Pragmatic Thinking
-- Self Organisation
 - Agile Frameworks
+- Self Organisation
+- Agile Strategy
+- Team Performance
+- Agile Planning
+- Software Developers
+- Team Collaboration
 - Continuous Learning
 - Accountability
 categories:

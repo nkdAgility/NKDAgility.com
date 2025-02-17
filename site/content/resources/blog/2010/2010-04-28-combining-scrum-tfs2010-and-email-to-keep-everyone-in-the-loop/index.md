@@ -30,8 +30,8 @@ aliasesFor404:
 - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
-- Team Collaboration
 - Agile Project Management
+- Team Collaboration
 - Software Development
 - Agile Frameworks
 - Pragmatic Thinking

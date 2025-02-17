@@ -29,17 +29,17 @@ aliasesFor404:
 tags:
 - Technical Debt
 - Transparency
-- Software Developers
 - Software Development
 - Technical Mastery
-- Pragmatic Thinking
+- Software Developers
 - Engineering Excellence
+- Pragmatic Thinking
 - Product Management
 - Scrum Product Development
 categories:
+- People and Process
 - Product Delivery
 - Transparency and Accountability
-- People and Process
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

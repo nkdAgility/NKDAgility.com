@@ -29,29 +29,29 @@ aliasesFor404:
 categories:
 - People and Process
 - Sociotechnical Systems
-- Resilience and Change
+- Transparency and Accountability
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
-- Agile Philosophy
 - Agile Frameworks
-- Agile Transformation
+- Agile Philosophy
 - Organisational Culture
-- Agile Values and Principles
+- Agile Transformation
 - Transparency
+- Agile Values and Principles
+- Software Developers
 - Agile Leadership
 - Team Performance
-- Empirical Process Control
-- Team Collaboration
-- Software Developers
+- Agile Strategy
 - Software Development
+- Continuous Learning
 - Operational Practices
 - Agile Project Management
-- Continuous Learning
-- Agile Strategy
+- Empirical Process Control
+- Team Collaboration
+- Change Management
+- Psychological Safety
 - Pragmatic Thinking
 - Sensemaking
-- Organisational Change
-- Psychological Safety
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

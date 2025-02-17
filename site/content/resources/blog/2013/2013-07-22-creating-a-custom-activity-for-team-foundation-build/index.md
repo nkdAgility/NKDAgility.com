@@ -23,14 +23,14 @@ aliasesFor404:
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
 - Software Development
+- Technical Mastery
 - Azure Pipelines
 - Continuous Integration
-- Technical Mastery
 - Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

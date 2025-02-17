@@ -24,24 +24,24 @@ aliasesFor404:
 tags:
 - Definition of Done
 - Increment
-- Scrum Product Development
 - Software Development
+- Scrum Product Development
 - Professional Scrum
-- Working Software
 - Operational Practices
-- Agile Planning
+- Working Software
+- Pragmatic Thinking
 - Agile Project Management
 - Agile Frameworks
-- Pragmatic Thinking
-- Engineering Excellence
+- Agile Planning
 - Software Developers
-- Scrum Team
-- Technical Mastery
-- Team Performance
-- Scrum Master
+- Engineering Excellence
 - Product Management
 - Engineering Practices
-- Technical Leadership
+- Scrum Team
+- Team Performance
+- Scrum Master
+- Empirical Process Control
+- Technical Mastery
 categories:
 - Scrum
 - Product Delivery

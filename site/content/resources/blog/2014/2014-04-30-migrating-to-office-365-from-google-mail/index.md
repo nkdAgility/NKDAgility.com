@@ -25,8 +25,8 @@ tags:
 - Troubleshooting
 - System Configuration
 - Technical Mastery
-- Digital Transformation
 - Windows
+- Digital Transformation
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

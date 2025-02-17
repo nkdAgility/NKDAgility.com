@@ -26,17 +26,17 @@ tags:
 - Windows
 - System Configuration
 - Modern Source Control
-- Working Software
 - Release Management
-- Technical Mastery
+- Working Software
 - Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 - Operational Practices
 - Deployment Strategies
 preview: metro-visual-studio-2010-128-link-36-36.png
 categories:
 - Install and Configuration
-- Application Lifecycle Management
+- Product Delivery
 - Practical Techniques and Tooling
 
 ---

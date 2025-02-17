@@ -25,13 +25,13 @@ aliasesFor404:
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
 tags:
 - Software Development
-- Test Automation
 - Automated Testing
+- Test Automation
 - Engineering Practices
-- Technical Debt
 - Working Software
-- Software Developers
+- Technical Debt
 - Technical Mastery
+- Software Developers
 - Engineering Excellence
 - Operational Practices
 - Pragmatic Thinking

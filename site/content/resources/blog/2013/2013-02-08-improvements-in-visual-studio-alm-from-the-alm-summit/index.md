@@ -31,7 +31,7 @@ tags:
 - Continuous Delivery
 categories:
 - Kanban
-- Application Lifecycle Management
+- News and Reviews
 - Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

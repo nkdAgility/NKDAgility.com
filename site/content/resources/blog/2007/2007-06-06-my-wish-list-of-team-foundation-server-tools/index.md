@@ -21,7 +21,8 @@ aliasesFor404:
 - /my-wish-list-of-team-foundation-server-tools
 - /blog/my-wish-list-of-team-foundation-server-tools
 - /resources/blog/my-wish-list-of-team-foundation-server-tools
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

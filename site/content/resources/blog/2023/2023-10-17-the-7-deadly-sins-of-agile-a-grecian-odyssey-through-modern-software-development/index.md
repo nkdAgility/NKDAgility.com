@@ -38,8 +38,8 @@ tags:
 - Accountability
 categories:
 - People and Process
-- Personal
 - Scrum
+- Personal
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

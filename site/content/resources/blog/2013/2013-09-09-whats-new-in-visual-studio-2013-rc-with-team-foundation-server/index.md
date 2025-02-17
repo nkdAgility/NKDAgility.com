@@ -33,9 +33,9 @@ tags:
 - Agile Project Management
 - Windows
 categories:
-- Application Lifecycle Management
-- Practical Techniques and Tooling
 - News and Reviews
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

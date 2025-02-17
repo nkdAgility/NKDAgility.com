@@ -30,8 +30,8 @@ tags:
 - Working Software
 - Strategy
 - Pragmatic Thinking
-- Software Developers
 - Agile Strategy
+- Software Developers
 - Digital Transformation
 - Engineering Excellence
 - Operational Practices
@@ -39,7 +39,7 @@ tags:
 categories:
 - People and Process
 - Products and Books
-- Application Lifecycle Management
+- Value Delivery
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

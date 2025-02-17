@@ -34,12 +34,12 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Continuous Delivery
-- AI
 - Windows
+- AI
 categories:
 - Application Lifecycle Management
 - Install and Configuration
-- Practical Techniques and Tooling
+- Technical Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

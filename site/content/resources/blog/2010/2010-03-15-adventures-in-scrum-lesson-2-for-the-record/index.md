@@ -26,18 +26,18 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
-- Scrum Product Development
 - Scrum Team
-- Software Developers
-- Software Development
+- Scrum Product Development
 - Agile Planning
-- Team Collaboration
+- Software Development
+- Software Developers
 - Professional Scrum
 - Scrum Master
+- Team Collaboration
 - Agile Frameworks
+- Pragmatic Thinking
 - Agile Transformation
 - Agile Project Management
-- Pragmatic Thinking
 - Product Owner
 - Team Performance
 categories:

@@ -24,11 +24,11 @@ aliasesFor404:
 tags:
 - Frequent Releases
 - Windows
-- Software Development
 - Working Software
+- Software Development
 categories:
-- Practical Techniques and Tooling
 - News and Reviews
+- Practical Techniques and Tooling
 - Products and Books
 preview: metro-binary-vb-128-link-1-1.png
 

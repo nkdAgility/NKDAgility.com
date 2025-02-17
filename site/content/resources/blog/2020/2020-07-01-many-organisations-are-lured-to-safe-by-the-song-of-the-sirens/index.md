@@ -26,15 +26,15 @@ tags:
 - Agile Transformation
 - Organisational Change
 - Agile Strategy
-- Change Management
-- Agile Philosophy
 - Agile Frameworks
+- Agile Philosophy
 - Large Scale Agility
+- Change Management
 - Organisational Culture
 - Organisational Physics
 categories:
 - Business Agility
-- Enterprise Agility
+- People and Process
 - Organisational Agility
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 

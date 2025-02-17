@@ -32,8 +32,8 @@ tags:
 - Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Transformation
 - Pragmatic Thinking
+- Agile Transformation
 - Technical Leadership
 categories:
 - Scrum

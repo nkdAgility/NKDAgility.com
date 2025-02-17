@@ -21,12 +21,16 @@ aliasesFor404:
 - /the-future-of-software-development
 - /blog/the-future-of-software-development
 - /resources/blog/the-future-of-software-development
-tags: []
+tags:
+- Software Development
+- Pragmatic Thinking
+- Strategy
+- Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Practical Techniques and Tooling
-- Product Delivery
 - People and Process
+- Product Delivery
+- Practical Techniques and Tooling
 
 ---
 I have been thinking a lot recently about the future of software development and where I see it going. I have worked for seven companies since leaving university (two design studios, two software studios, one community startup, one Internet bank and one investment bank), and my conclusion is that all of the SSADM (Structured Systems Analysis and Design Methodologies), or Development Lifecycle, that I learned in university does not work in the real world. Yes, if you can charge your customers two million for an intranet that you will deliver over two years you can do what you like, but these days your customers business moves too quickly for this to work. A solution that was started last year, or the year before in my current company, is obsolete and has to be binned and started again. Or if the business has had its fingers in your specification from the get-go and if they have no idea what "signed-off" means you will get only one result; you will never finish and what you do finish will not meet the business need (80% syndrome).

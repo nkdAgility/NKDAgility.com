@@ -39,8 +39,8 @@ tags:
 - Engineering Excellence
 categories:
 - Install and Configuration
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

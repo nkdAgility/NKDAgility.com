@@ -21,7 +21,9 @@ aliasesFor404:
 - /tfs-event-handler-prototype-feedback
 - /blog/tfs-event-handler-prototype-feedback
 - /resources/blog/tfs-event-handler-prototype-feedback
-tags: []
+tags:
+- Customer Feedback Loops
+- Product Validation
 categories: []
 preview: metro-merilllynch-128-link-1-1.png
 

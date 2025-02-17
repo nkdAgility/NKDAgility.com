@@ -33,17 +33,17 @@ tags:
 - System Configuration
 - Software Development
 - Modern Source Control
-- Technical Mastery
+- Release Management
 - Troubleshooting
+- Technical Mastery
 - Deployment Strategies
 - Pragmatic Thinking
-- Release Management
 - Working Software
 - Engineering Excellence
 categories:
 - Install and Configuration
 - Code and Complexity
-- Application Lifecycle Management
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

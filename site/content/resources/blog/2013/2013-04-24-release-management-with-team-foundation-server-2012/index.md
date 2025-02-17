@@ -22,19 +22,19 @@ aliasesFor404:
 - /blog/release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
 tags:
-- Software Development
 - Release Management
+- Software Development
 - Engineering Excellence
 - Pragmatic Thinking
-- Engineering Practices
 - Operational Practices
+- Engineering Practices
 - Working Software
-- Definition of Done
 - Software Developers
-- Continuous Delivery
+- Deployment Strategies
 - Deployment Frequency
 - Frequent Releases
-- Deployment Strategies
+- Continuous Delivery
+- Definition of Done
 - Technical Mastery
 - Increment
 - Automated Testing

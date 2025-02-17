@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - System Configuration
 - Software Development
-- Continuous Integration
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
+- Continuous Integration
 - Pragmatic Thinking
 - Operational Practices
 categories:

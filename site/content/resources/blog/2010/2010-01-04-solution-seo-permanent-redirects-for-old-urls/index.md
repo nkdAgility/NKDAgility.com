@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/solution-seo-permanent-redirects-for-old-urls
 tags:
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 - System Configuration
 categories:

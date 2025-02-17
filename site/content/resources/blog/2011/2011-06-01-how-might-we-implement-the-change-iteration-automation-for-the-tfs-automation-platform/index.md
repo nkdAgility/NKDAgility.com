@@ -31,8 +31,8 @@ tags:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
-- Practical Techniques and Tooling
 - Platform Engineering
+- Practical Techniques and Tooling
 - Azure DevOps
 
 ---

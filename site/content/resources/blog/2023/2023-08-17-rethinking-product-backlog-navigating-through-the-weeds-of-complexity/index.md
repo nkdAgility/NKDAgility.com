@@ -30,17 +30,17 @@ tags:
 - Pragmatic Thinking
 - Sensemaking
 - Agile Project Management
-- Product Management
 - Scrum Product Development
 - Product Backlog
+- Product Management
 - Agile Strategy
-- Product Owner
-- Agile Frameworks
-- Organisational Culture
-- Agile Planning
-- Software Development
 - Decision Making
 - Agile Philosophy
+- Agile Frameworks
+- Organisational Culture
+- Software Development
+- Agile Planning
+- Product Owner
 - Organisational Physics
 - Strategy
 - Agile Values and Principles
@@ -49,8 +49,8 @@ tags:
 - Self Organisation
 categories:
 - Agile Product Management
+- People and Process
 - Resilience and Change
-- Agile Product Operating Model
 preview: image-1.jpg
 
 ---

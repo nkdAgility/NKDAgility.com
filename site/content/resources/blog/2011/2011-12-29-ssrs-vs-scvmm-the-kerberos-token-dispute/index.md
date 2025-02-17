@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 tags:
 - System Configuration
-- Software Development
-- Technical Mastery
 - Windows
+- Software Development
 - Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 categories:
 - Install and Configuration

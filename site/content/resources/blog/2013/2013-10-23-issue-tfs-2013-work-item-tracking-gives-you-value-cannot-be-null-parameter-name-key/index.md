@@ -29,8 +29,8 @@ tags:
 - Troubleshooting
 - System Configuration
 - Software Development
-- Azure Boards
 - Technical Mastery
+- Azure Boards
 - Pragmatic Thinking
 - Windows
 - Working Software

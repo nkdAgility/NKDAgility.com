@@ -27,8 +27,8 @@ tags:
 - System Configuration
 - Working Software
 - Technical Mastery
-- Pragmatic Thinking
 - Engineering Excellence
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-4-4.png
 categories:
 - Install and Configuration

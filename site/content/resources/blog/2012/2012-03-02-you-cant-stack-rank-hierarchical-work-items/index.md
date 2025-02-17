@@ -32,10 +32,10 @@ tags:
 - Software Developers
 - Professional Scrum
 - Agile Planning
-- Agile Frameworks
 - Azure Boards
-- Agile Project Management
+- Agile Frameworks
 - Pragmatic Thinking
+- Agile Project Management
 - Agile Planning Tools
 - Operational Practices
 - Product Owner

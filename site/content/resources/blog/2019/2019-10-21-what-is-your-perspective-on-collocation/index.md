@@ -29,11 +29,11 @@ tags:
 - Scrum Team
 - Organisational Culture
 - Software Development
-- Agile Frameworks
-- Team Performance
-- Team Collaboration
-- Agile Project Management
 - Team Motivation
+- Team Performance
+- Agile Frameworks
+- Agile Project Management
+- Team Collaboration
 - Software Developers
 - Pragmatic Thinking
 - Professional Scrum
@@ -41,8 +41,8 @@ tags:
 - Operational Practices
 categories:
 - Scrum
-- Events and Presentations
 - People and Process
+- Events and Presentations
 preview: 1026661500-1-1.jpg
 
 ---

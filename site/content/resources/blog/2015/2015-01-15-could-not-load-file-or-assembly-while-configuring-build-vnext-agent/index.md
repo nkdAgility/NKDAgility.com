@@ -25,8 +25,8 @@ tags:
 - Windows
 - System Configuration
 - Software Development
-- Azure Pipelines
 - Troubleshooting
+- Azure Pipelines
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

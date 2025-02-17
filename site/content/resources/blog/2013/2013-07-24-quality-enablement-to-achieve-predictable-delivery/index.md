@@ -26,26 +26,26 @@ tags:
 - Definition of Done
 - Acceptance Test Driven Development
 - Software Developers
-- Software Development
 - Working Software
+- Software Development
 - Continuous Delivery
-- Engineering Practices
-- Engineering Excellence
 - Pragmatic Thinking
+- Engineering Excellence
+- Engineering Practices
 - Agile Project Management
 - Forecasting
-- Scrum Product Development
 - Product Backlog
-- Test Automation
+- Scrum Product Development
+- Deployment Frequency
 - Automated Testing
 - Evidence Based Leadership
-- Deployment Frequency
 - Empirical Process Control
+- Test Automation
 - Team Performance
 categories:
 - Value Delivery
 - Product Delivery
-- Practical Techniques and Tooling
+- People and Process
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

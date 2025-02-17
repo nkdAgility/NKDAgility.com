@@ -33,8 +33,8 @@ tags:
 - Software Development
 - Release Management
 categories:
-- Practical Techniques and Tooling
 - News and Reviews
+- Practical Techniques and Tooling
 - Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

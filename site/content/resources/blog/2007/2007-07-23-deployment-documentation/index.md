@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/deployment-documentation
 - /resources/blog/deployment-documentation
 categories:
-- Application Lifecycle Management
 - Install and Configuration
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 tags:
+- Release Management
 - System Configuration
 - Deployment Strategies
-- Release Management
 - Software Development
 - Pragmatic Thinking
 - Operational Practices

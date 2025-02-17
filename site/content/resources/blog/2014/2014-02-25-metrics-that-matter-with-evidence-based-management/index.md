@@ -26,26 +26,26 @@ tags:
 - Ability to Innovate
 - Decision Making
 - Agile Project Management
-- Product Management
 - Trend Analysis
-- Organisational Physics
-- Team Performance
-- Agile Transformation
+- Product Management
 - Operational Practices
+- Agile Transformation
 - Agile Philosophy
 - Agile Strategy
-- Software Development
 - Empirical Process Control
+- Organisational Physics
+- Team Performance
 - Scaled Agile
+- Software Development
 - Engineering Excellence
+- Pragmatic Thinking
 - Throughput
 - Strategy
-- Pragmatic Thinking
 - Working Software
 categories:
 - Metrics and Learning
 - Evidence Based Management
-- Agile Product Management
+- People and Process
 preview: nakedalm-agility-index-24-24.png
 
 ---

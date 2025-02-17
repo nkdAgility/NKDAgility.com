@@ -27,25 +27,25 @@ aliasesFor404:
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
 - Throughput
-- Professional Scrum
 - Scrum Product Development
+- Professional Scrum
 - Agile Project Management
-- Cycle Time
-- Agile Transformation
-- Agile Frameworks
-- Change Management
-- Agile Strategy
-- Product Management
-- Agile Planning
 - Organisational Change
-- Operational Practices
-- Estimation
-- Software Development
-- Software Developers
-- Forecasting
+- Change Management
+- Agile Transformation
+- Agile Planning
+- Cycle Time
+- Product Management
+- Agile Strategy
+- Agile Frameworks
 - Decision Making
-- Strategy
 - Pragmatic Thinking
+- Software Developers
+- Operational Practices
+- Strategy
+- Forecasting
+- Software Development
+- Estimation
 categories:
 - Scrum
 - People and Process

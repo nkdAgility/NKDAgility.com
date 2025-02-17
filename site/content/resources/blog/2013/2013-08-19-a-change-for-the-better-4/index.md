@@ -34,15 +34,15 @@ tags:
 - Agile Project Management
 - Agile Strategy
 - Agile Frameworks
-- Agile Transformation
 - Agile Leadership
+- Agile Transformation
 - Operational Practices
 - Software Developers
 - Pragmatic Thinking
 categories:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - People and Process
+- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

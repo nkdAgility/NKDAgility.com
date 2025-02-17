@@ -25,7 +25,11 @@ aliasesFor404:
 - /sharepoint-3-0-tfs-sub-site-creation-error-
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error-
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
-tags: []
+tags:
+- System Configuration
+- Troubleshooting
+- Software Development
+- Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration

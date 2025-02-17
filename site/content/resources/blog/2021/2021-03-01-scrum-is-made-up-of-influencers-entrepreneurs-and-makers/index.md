@@ -33,9 +33,9 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Agile Frameworks
-- Scrum Product Development
 - Technical Leadership
 - Agile Leadership
+- Scrum Product Development
 - Product Management
 - Accountability
 - Experimentation

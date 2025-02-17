@@ -28,10 +28,10 @@ aliasesFor404:
 tags:
 - Software Development
 - Test Driven Development
-- Software Developers
 - Test First Development
-- Engineering Practices
+- Software Developers
 - Technical Mastery
+- Engineering Practices
 - Engineering Excellence
 categories:
 - Technical Excellence

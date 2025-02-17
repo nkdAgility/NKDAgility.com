@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
-- Scrum Product Development
 - Scrum Team
+- Scrum Product Development
 - Software Development
 - Team Performance
 - Team Collaboration
@@ -37,8 +37,8 @@ tags:
 - Agile Frameworks
 categories:
 - Scrum
-- Agile Product Management
 - People and Process
+- Agile Product Management
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

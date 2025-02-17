@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/testing-in-the-modern-application-lifecycle
 tags:
 - Windows
-- Software Development
 - Working Software
+- Software Development
 - Engineering Practices
-- Team Collaboration
 - Engineering Excellence
+- Team Collaboration
 - Technical Mastery
 - Pragmatic Thinking
 - Operational Practices

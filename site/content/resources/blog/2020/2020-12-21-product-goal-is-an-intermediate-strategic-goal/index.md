@@ -25,28 +25,28 @@ aliasesFor404:
 tags:
 - Experimentation
 - Agile Project Management
-- Product Management
-- Evidence Based Leadership
 - Strategic Goals
+- Ability to Innovate
+- Evidence Based Leadership
 - Change Management
+- Product Management
 - Lean Product Development
 - Product Discovery
-- Ability to Innovate
-- Decision Making
-- Agile Transformation
+- Agile Strategy
+- Agile Philosophy
 - Agile Frameworks
 - Organisational Change
-- Product Validation
-- Agile Philosophy
-- Agile Strategy
 - Product Strategy
-- Organisational Physics
-- Sensemaking
+- Decision Making
+- Agile Transformation
+- Product Validation
+- Pragmatic Thinking
+- Empirical Process Control
 - Strategy
 categories:
 - Agile Product Management
 - Agile Product Operating Model
-- Evidence Based Management
+- People and Process
 preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---

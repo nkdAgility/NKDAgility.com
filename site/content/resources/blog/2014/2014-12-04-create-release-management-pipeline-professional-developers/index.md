@@ -30,24 +30,24 @@ tags:
 - Azure Pipelines
 - Software Development
 - Continuous Delivery
-- System Configuration
-- Working Software
-- Deployment Strategies
-- Technical Mastery
-- Modern Source Control
-- Deployment Frequency
+- Azure Repos
 - Continuous Integration
 - Software Developers
-- Azure Repos
-- Frequent Releases
+- Modern Source Control
+- Deployment Strategies
+- Technical Mastery
+- Deployment Frequency
+- Working Software
+- System Configuration
 - Engineering Practices
-- Pragmatic Thinking
+- Frequent Releases
 - Engineering Excellence
+- Pragmatic Thinking
 - Operational Practices
 categories:
 - Install and Configuration
 - Azure DevOps
-- Practical Techniques and Tooling
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-46-46.png
 
 ---

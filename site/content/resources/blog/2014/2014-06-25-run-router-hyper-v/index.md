@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 categories:
 - Install and Configuration

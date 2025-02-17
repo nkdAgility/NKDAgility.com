@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
 tags:
 - Modern Source Control
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Practical Techniques and Tooling
 preview: naked-alm-git-2-2.png

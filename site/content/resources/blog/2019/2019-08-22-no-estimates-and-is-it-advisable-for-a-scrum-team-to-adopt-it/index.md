@@ -31,21 +31,21 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Software Development
-- Agile Planning
 - Cycle Time
-- Pragmatic Thinking
-- Agile Project Management
+- Agile Planning
 - Team Performance
-- Agile Transformation
-- Agile Frameworks
+- Agile Project Management
 - Software Developers
+- Agile Frameworks
+- Pragmatic Thinking
+- Agile Transformation
 - Operational Practices
-- Continuous Learning
 - Working Software
 - Professional Scrum
-- Team Collaboration
+- Continuous Learning
 - Empirical Process Control
 - Scrum Master
+- Team Collaboration
 categories:
 - Scrum
 - Metrics and Learning

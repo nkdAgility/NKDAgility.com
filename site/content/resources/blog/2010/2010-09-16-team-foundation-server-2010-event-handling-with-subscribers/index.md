@@ -23,14 +23,14 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
 - System Configuration
-- Software Developers
 - Software Development
 - Technical Mastery
+- Software Developers
 - Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

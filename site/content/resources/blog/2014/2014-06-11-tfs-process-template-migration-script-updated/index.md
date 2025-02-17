@@ -25,15 +25,15 @@ tags:
 - System Configuration
 - Operational Practices
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 - Software Developers
 - Agile Frameworks
 categories:
 - Install and Configuration
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

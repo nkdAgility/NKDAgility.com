@@ -41,26 +41,26 @@ tags:
 - Product Owner
 - Strategy
 - Accountability
-- Product Management
-- Scrum Team
-- Agile Project Management
-- Product Backlog
-- Agile Strategy
-- Professional Scrum
 - Strategic Goals
-- Agile Planning
+- Scrum Team
+- Agile Strategy
+- Agile Project Management
+- Product Management
+- Product Backlog
+- Professional Scrum
 - Scrum Product Development
-- Pragmatic Thinking
-- Agile Frameworks
+- Agile Planning
+- Evidence Based Leadership
 - Decision Making
 - Hypothesis Driven Development
-- Evidence Based Leadership
-- Transparency
+- Pragmatic Thinking
+- Agile Frameworks
 - Software Development
+- Transparency
 categories:
 - Scrum
 - Agile Product Management
-- Transparency and Accountability
+- People and Process
 preview: image-3-3.png
 
 ---

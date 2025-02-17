@@ -25,8 +25,8 @@ tags:
 - Software Development
 - Technical Mastery
 categories:
-- Practical Techniques and Tooling
 - News and Reviews
+- Practical Techniques and Tooling
 - Products and Books
 
 ---

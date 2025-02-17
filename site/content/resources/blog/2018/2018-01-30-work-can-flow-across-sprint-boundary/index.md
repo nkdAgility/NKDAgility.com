@@ -31,26 +31,26 @@ tags:
 - Increment
 - Throughput
 - Transparency
+- Definition of Done
 - Scrum Product Development
 - Empirical Process Control
-- Definition of Done
+- Professional Scrum
+- Scrum Team
+- Engineering Practices
 - Software Development
+- Working Software
 - Continuous Delivery
 - Sprint Review
-- Engineering Practices
-- Working Software
-- Scrum Team
-- Professional Scrum
+- Software Developers
 - Agile Planning
 - Operational Practices
 - Team Performance
-- Software Developers
 - Agile Frameworks
-- Agile Transformation
+- Pragmatic Thinking
 categories:
 - Scrum
+- People and Process
 - Value Delivery
-- Product Delivery
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

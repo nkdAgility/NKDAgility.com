@@ -30,13 +30,13 @@ tags:
 - Software Development
 - Azure Pipelines
 - Windows
-- Modern Source Control
 - Technical Mastery
+- Modern Source Control
 - Azure Repos
 - Software Developers
+- Engineering Excellence
 - Continuous Integration
 - Pragmatic Thinking
-- Engineering Excellence
 - Operational Practices
 - Release Management
 categories:

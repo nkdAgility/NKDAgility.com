@@ -30,11 +30,11 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Agile Project Management
-- Scrum Product Development
+- Release Management
+- Working Software
 - Scaled Agile
 - Agile Frameworks
-- Working Software
-- Release Management
+- Scrum Product Development
 - Technical Mastery
 - Engineering Excellence
 - Modern Source Control

@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/review--the-professional-scrum-masters-handbook
 - /resources/blog/review-the-professional-scrum-masters-handbook
 tags:
-- Agile Project Management
 - Scrum Master
+- Agile Project Management
 - Software Development
 - Agile Frameworks
 - Pragmatic Thinking

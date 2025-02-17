@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Software Development
 preview: metro-SSWLogo-128-link-16-16.png
 categories:
