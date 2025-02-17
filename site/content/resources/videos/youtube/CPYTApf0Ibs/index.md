@@ -28,32 +28,41 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Management
 - Strategy
 - Agile Values and Principles
-- Agile Planning
+- Agile Product Operating Model
 - Agile Leadership
+- Agile Product Management
 - Strategic Goals
-- Agile Frameworks
-- Agile Philosophy
-- Software Development
-- Organisational Culture
-- Agile Project Management
-- Agile Strategy
-- Team Performance
-- Agile Transformation
-- Product Strategy
-- Product Owner
-- Team Motivation
+- Agile Planning
 - Team Collaboration
+- Transparency and Accountability
+- Team Motivation
+- Agile Transformation
+- Agile Project Management
+- Organisational Culture
+- Organisational Agility
+- Enterprise Agility
+- Team Performance
+- Software Development
+- Agile Strategy
+- Product Delivery
 - Technical Leadership
+- Agile Philosophy
+- Business Agility
+- Product Owner
+- Product Strategy
+- Value Delivery
+- Agile Frameworks
+- Change Management
 - Pragmatic Thinking
-- Transparency
+- Decision Theory
 - Employee Engagement
+- Sociotechnical Systems
 - Decision Making
+- Transparency
 - Sensemaking
 - Organisational Change
-- Change Management
 - Operational Practices
 - Software Developers
 resourceTypes:

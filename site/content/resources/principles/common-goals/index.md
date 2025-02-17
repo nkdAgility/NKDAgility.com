@@ -23,7 +23,6 @@ categories:
 - Scrum
 - People and Process
 - Social Technologies
-- Agile Product Management
 tags:
 - Scrum Product Development
 - Strategy
@@ -32,6 +31,7 @@ tags:
 - Professional Scrum
 - Agile Project Management
 - Product Owner
+- Agile Product Management
 - Team Motivation
 - Agile Planning
 

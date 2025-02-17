@@ -21,8 +21,10 @@ preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false
 tags:
+- Azure DevOps
 - Troubleshooting
 - Pragmatic Thinking
+- Practical Techniques and Tooling
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -32,9 +34,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
-- Practical Techniques and Tooling
 
 ---
 Migrating to Azure DevOps can feel like a daunting task, especially when you consider that for many organisations, it’s a one-time event. This singularity often means that the necessary skills for a successful migration may not exist in-house. From my experience, it rarely makes sense to build and maintain these skills internally, particularly when the migration is something you’re likely to do just once.

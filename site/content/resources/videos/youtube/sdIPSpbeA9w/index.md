@@ -23,14 +23,17 @@ preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 613
 isShort: false
 tags:
+- Azure DevOps
+- Automated Testing
 - Test Automation
 - Software Development
-- Automated Testing
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Technical Mastery
-- Engineering Excellence
+- Value Delivery
 - Operational Practices
 - Engineering Practices
+- Flow Efficiency
 - Continuous Delivery
 - Continuous Integration
 sitemap:
@@ -40,11 +43,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Azure DevOps
-- Practical Techniques and Tooling
-- Value Delivery
 - Technical Excellence
-- Flow Efficiency
+- Engineering Excellence
 
 ---
 Automation is a game changer in the world of software development. It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field. 

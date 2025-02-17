@@ -20,7 +20,32 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
-tags: []
+tags:
+- Agile Project Management
+- Agile Product Management
+- Agile Frameworks
+- Agile Leadership
+- Agile Transformation
+- Agile Strategy
+- Evidence Based Management
+- Ability to Innovate
+- Pragmatic Thinking
+- Strategy
+- Organisational Culture
+- Organisational Agility
+- Decision Making
+- Enterprise Agility
+- Organisational Change
+- Metrics and Learning
+- Operational Practices
+- Value Delivery
+- Technical Leadership
+- Business Agility
+- Empirical Process Control
+- Evidence Based Leadership
+- Continuous Learning
+- Software Development
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

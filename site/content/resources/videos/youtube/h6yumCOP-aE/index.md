@@ -38,13 +38,13 @@ tags:
 - Self Organisation
 - Operational Practices
 - Accountability
+- Sociotechnical Systems
 - Software Development
 resourceTypes:
 - video
 categories:
 - People and Process
 - Social Technologies
-- Sociotechnical Systems
 
 ---
 ### Achieving Team Alignment with Kanban: The Importance of a Working Agreement

@@ -30,29 +30,29 @@ tags:
 - Customer Feedback Loops
 - Working Software
 - Agile Values and Principles
-- Agile Philosophy
-- Agile Transformation
+- Agile Product Management
+- Product Validation
 - Software Developers
-- Agile Project Management
+- Product Delivery
+- Agile Transformation
+- Agile Philosophy
 - Software Development
 - Scrum Product Development
-- Product Validation
-- Empirical Process Control
-- Pragmatic Thinking
+- Agile Project Management
+- Value Delivery
 - Increment
+- Market Adaptability
+- Empirical Process Control
+- Organisational Agility
+- Pragmatic Thinking
 - Experimentation
 - Lean Startup
 resourceTypes:
 - video
 layout: video
 categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
-- Product Delivery
 - Discovery and Learning
-- Market Adaptability
-- Organisational Agility
+- People and Process
 - Social Technologies
 
 ---

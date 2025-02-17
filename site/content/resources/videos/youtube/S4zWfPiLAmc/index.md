@@ -29,26 +29,26 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
+- Metrics and Learning
+- Transparency and Accountability
 - Cycle Time
 - Evidence Based Leadership
 - Empirical Process Control
+- Practical Techniques and Tooling
+- Flow Efficiency
+- Evidence Based Management
 - Operational Practices
 - Throughput
-- Agile Project Management
 - Decision Making
 - Software Development
+- Agile Project Management
 - Pragmatic Thinking
+- Value Delivery
 resourceTypes:
 - video
 categories:
 - Kanban
-- Metrics and Learning
-- Transparency and Accountability
-- Evidence Based Management
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Social Technologies
-- Value Delivery
 
 ---
 ### Avoiding Common Mistakes in Your Kanban Strategy

@@ -20,7 +20,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true
-tags: []
+tags:
+- Agile Values and Principles
+- Technical Leadership
+- Agile Project Management
+- Agile Transformation
+- Working Software
+- Product Delivery
+- Team Performance
+- Sociotechnical Systems
+- Software Development
+- Organisational Agility
+- Organisational Culture
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,10 +43,7 @@ resourceTypes:
 categories:
 - Leadership
 - People and Process
-- Sociotechnical Systems
-- Organisational Agility
 - Social Technologies
-- Product Delivery
 
 ---
 In my experience working with various organisations, I've often noticed a significant gap between expectation and reality when it comes to the concept of "done." It’s a term that gets thrown around in Agile circles, yet its true meaning can often be lost in translation. 

@@ -31,6 +31,7 @@ resourceTypes:
 - video
 categories:
 - Code and Complexity
+- Engineering Excellence
 - Technical Excellence
 
 ---

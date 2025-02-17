@@ -22,8 +22,10 @@ preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true
 tags:
+- Metrics and Learning
 - Pragmatic Thinking
 - Throughput
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +33,10 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
-- Flow Efficiency
+- People and Process
+- Kanban
+- Product Management
+- Social Technologies
 
 ---
 In my journey through the world of Agile, I've encountered a recurring theme that I can only describe as "agile banditry." This term might sound a bit dramatic, but it perfectly encapsulates the misuse of certain Agile practices that can undermine the very principles we strive to uphold. One of the most common culprits? The infamous story points and velocity metrics.

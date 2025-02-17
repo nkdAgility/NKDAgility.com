@@ -40,8 +40,8 @@ card:
 categories:
 - Scrum
 tags:
-- Scrum Product Development
 - Sprint Review
+- Scrum Product Development
 - Agile Project Management
 
 ---

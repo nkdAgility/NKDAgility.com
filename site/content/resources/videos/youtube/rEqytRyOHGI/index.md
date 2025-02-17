@@ -28,30 +28,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
 - Agile Project Management
 - Agile Philosophy
-- Working Software
-- Agile Transformation
-- Agile Strategy
 - Agile Frameworks
-- Scrum Product Development
+- Product Delivery
+- Agile Strategy
+- Working Software
+- Value Delivery
 - Agile Planning
+- Scrum Product Development
+- Agile Transformation
 - Software Developers
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Agile Values and Principles
 - Technical Debt
+- Complexity Thinking
 - Increment
 resourceTypes:
 - video
 categories:
 - Scrum
 - People and Process
-- Agile Product Management
-- Value Delivery
-- Product Delivery
 - Social Technologies
-- Complexity Thinking
 
 ---
 You can't spend much time in the Agile space without encountering teams doing some kind of special sprints. Whether it's Sprint Zero, refactoring sprints, bug-fix sprints, or hardening sprints, these so-called "special sprints" are quite common. However, let’s cut to the chase: **special sprints are agile banditry**, and those practicing them are bandits in disguise. Here's why they dilute your team's ability to deliver usable, working products, and how you can avoid falling into the same trap.

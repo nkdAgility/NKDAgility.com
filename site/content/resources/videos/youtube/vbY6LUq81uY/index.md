@@ -27,30 +27,30 @@ tags:
 - MVP
 - Lean Product Development
 - Ability to Innovate
-- Product Management
+- Pragmatic Thinking
+- Metrics and Learning
+- Value Delivery
+- Product Delivery
 - Product Strategy
-- Product Discovery
 - Lean Startup
 - Product Validation
-- Pragmatic Thinking
+- Business Agility
+- Product Discovery
 - Experimentation
 - Hypothesis Driven Development
 - Decision Making
+- Products and Books
+- Agile Product Management
 - Lean Principles
+- Decision Theory
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
-- Value Delivery
-- Business Agility
-- Product Delivery
 - Discovery and Learning
-- Products and Books
-- Agile Product Management
-- Decision Theory
+- Product Management
 
 ---
 Building products is an exhilarating journey into the unknown. Every time I sit down with a team to write code, I’m reminded that we’re embarking on a venture that has never been done before. If we weren’t, we wouldn’t be coding; we’d simply be purchasing a ready-made solution. This inherent uncertainty is what gives software engineering its unique character, and it’s also why we experience such a high degree of variance in our projects.

@@ -84,7 +84,7 @@ taxonomies:
 permalinks:
   taxonomy:
     categories: "/resources/:slug/"
-    tags: "/resources/tags/:slug/"
+    tags: "/resources/:slug/"
     marketing: "/marketing/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences"

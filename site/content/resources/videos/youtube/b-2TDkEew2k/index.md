@@ -21,7 +21,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
-tags: []
+tags:
+- Agile Product Management
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,8 +31,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Organisational Agility
 - Social Technologies
 
 ---

@@ -20,16 +20,16 @@ aliasesFor404:
 categories:
 - Scrum
 - People and Process
-- Products and Books
 - Social Technologies
-- Practical Techniques and Tooling
 - Events and Presentations
 tags:
 - Professional Scrum
 - Continuous Learning
 - Agile Frameworks
+- Products and Books
 - Agile Project Management
 - Software Development
+- Practical Techniques and Tooling
 - Scrum Master
 - Agile Transformation
 

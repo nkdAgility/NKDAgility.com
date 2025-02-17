@@ -30,27 +30,27 @@ sitemap:
 tags:
 - Transparency
 - Strategy
+- Transparency and Accountability
+- Flow Efficiency
 - Empirical Process Control
-- Lean Thinking
-- Agile Transformation
-- Operational Practices
-- Agile Frameworks
-- Throughput
-- Agile Project Management
-- Software Development
+- Value Delivery
+- Practical Techniques and Tooling
+- Value Stream Management
 - Lean Principles
+- Agile Transformation
+- Agile Project Management
 - Pragmatic Thinking
+- Operational Practices
+- Throughput
+- Lean
+- Lean Thinking
+- Software Development
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Kanban
-- Transparency and Accountability
-- Value Delivery
-- Practical Techniques and Tooling
-- Value Stream Management
-- Flow Efficiency
 - Social Technologies
-- Lean
 
 ---
 If you're talking about Kanban versus Scrum, chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.

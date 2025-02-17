@@ -29,24 +29,24 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
+- Agile Product Operating Model
 - Agile Philosophy
-- Agile Transformation
 - Agile Strategy
-- Agile Frameworks
 - Software Development
+- Organisational Agility
+- Agile Transformation
+- Agile Frameworks
 - Pragmatic Thinking
-- Organisational Change
+- Sociotechnical Systems
+- Business Agility
 - Organisational Physics
+- Organisational Change
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
 - People and Process
-- Organisational Agility
-- Agile Product Operating Model
 - Social Technologies
-- Sociotechnical Systems
-- Business Agility
-- Enterprise Agility
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:

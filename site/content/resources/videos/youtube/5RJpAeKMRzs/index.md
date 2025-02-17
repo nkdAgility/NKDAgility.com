@@ -32,9 +32,6 @@ resourceTypes:
 categories:
 - Scrum
 - People and Process
-- Agile Product Management
-- Product Delivery
-- Organisational Agility
 - Social Technologies
 
 ---

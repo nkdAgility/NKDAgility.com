@@ -29,8 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Product Management
+- Agile Product Management
 - Scrum Product Development
+- Value Delivery
 - Product Strategy
 - Agile Strategy
 - Agile Project Management
@@ -38,8 +39,7 @@ resourceTypes:
 - video
 categories:
 - People and Process
-- Agile Product Management
-- Value Delivery
+- Product Management
 
 ---
 As a Product Owner, one of the most crucial yet often overlooked aspects of your role is marketing. Yes, you read that right. You’re not just managing a product backlog or guiding a development team—you’re marketing a vision. Whether you're a new Product Owner or seasoned in the role, this skill is vital for success. You need to effectively communicate that vision to various audiences: the team building the product, the stakeholders consuming it, and the customers paying for it. Each group may have different priorities, but they all need to be aligned and engaged with your story.

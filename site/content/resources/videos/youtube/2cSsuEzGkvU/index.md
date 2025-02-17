@@ -20,7 +20,12 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
-tags: []
+tags:
+- Agile Values and Principles
+- Team Motivation
+- Team Collaboration
+- Team Performance
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

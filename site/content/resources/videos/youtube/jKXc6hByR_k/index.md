@@ -23,6 +23,8 @@ preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 172
 isShort: false
 tags:
+- Product Delivery
+- Value Delivery
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
@@ -31,8 +33,6 @@ resourceTypes:
 - video
 categories:
 - People and Process
-- Value Delivery
-- Product Delivery
 
 ---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in engineering practices or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the coaching and advice you need to maximise your return on investment.

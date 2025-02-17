@@ -22,27 +22,37 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
-- Product Management
+- Agile Product Operating Model
 - Software Development
+- Agile Product Management
 - Hypothesis Driven Development
 - Product Strategy
+- Metrics and Learning
+- Value Delivery
+- Product Delivery
+- Agile Strategy
+- Evidence Based Leadership
 - Agile Philosophy
 - Strategy
 - Pragmatic Thinking
-- Evidence Based Leadership
-- Agile Strategy
-- Strategic Goals
+- Organisational Agility
+- Sociotechnical Systems
 - Decision Making
+- Strategic Goals
 - Ability to Innovate
 - Agile Project Management
+- Products and Books
 - Product Owner
 - Product Discovery
-- Team Motivation
+- Evidence Based Management
+- Business Agility
 - Team Collaboration
+- Team Motivation
+- Organisational Physics
+- Experimentation
 - Organisational Change
 - Sensemaking
-- Experimentation
-- Organisational Physics
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,19 +60,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Management
 - People and Process
-- Agile Product Management
-- Agile Product Operating Model
-- Metrics and Learning
-- Value Delivery
-- Product Delivery
-- Sociotechnical Systems
-- Organisational Agility
 - Social Technologies
-- Products and Books
-- Evidence Based Management
-- Business Agility
-- Enterprise Agility
 
 ---
 In my journey through the world of software development, I've often encountered a significant gap in how organisations approach product management. This gap becomes glaringly obvious when companies attempt to transition from traditional project management methods—think Gantt charts and rigid milestones—to a more agile mindset. The reality is that building software products is inherently complex and dynamic, and the old ways simply don’t cut it anymore.

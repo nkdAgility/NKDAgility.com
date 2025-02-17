@@ -20,7 +20,15 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true
-tags: []
+tags:
+- Agile Product Management
+- Transparency and Accountability
+- Resilience and Change
+- Product Delivery
+- Sociotechnical Systems
+- Organisational Agility
+- Organisational Psychology
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

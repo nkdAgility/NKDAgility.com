@@ -21,7 +21,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true
-tags: []
+tags:
+- Team Motivation
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

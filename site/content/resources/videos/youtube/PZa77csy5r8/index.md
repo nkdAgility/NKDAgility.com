@@ -31,9 +31,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Azure DevOps
+- Engineering Excellence
 - Code and Complexity
-- Value Delivery
 - Technical Excellence
 
 ---

@@ -29,22 +29,23 @@ aliasesFor404:
 tags:
 - Transparency
 - Definition of Done
-- Scrum Product Development
 - Professional Scrum
+- Product Delivery
+- Scrum Product Development
+- Transparency and Accountability
 - Working Software
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Increment
+- Value Delivery
+- Agile Product Management
 - Software Developers
 - Empirical Process Control
 - Pragmatic Thinking
-- Engineering Excellence
 categories:
 - Scrum
-- Product Delivery
-- Transparency and Accountability
-- Value Delivery
-- Agile Product Management
+- Social Technologies
+- Engineering Excellence
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

@@ -23,15 +23,18 @@ preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
 tags:
-- Engineering Excellence
 - Pragmatic Thinking
+- Azure DevOps
 - Working Software
+- Product Delivery
 - Continuous Delivery
-- Deployment Frequency
-- Deployment Strategies
-- Software Development
-- Software Developers
 - Engineering Practices
+- Practical Techniques and Tooling
+- Value Delivery
+- Software Development
+- Deployment Strategies
+- Deployment Frequency
+- Software Developers
 - Operational Practices
 - Customer Feedback Loops
 - Experimentation
@@ -47,12 +50,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Engineering Excellence
 - DevOps
-- Azure DevOps
 - People and Process
-- Product Delivery
-- Value Delivery
-- Practical Techniques and Tooling
 - Technical Excellence
 
 ---

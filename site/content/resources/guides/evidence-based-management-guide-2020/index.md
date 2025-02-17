@@ -35,16 +35,16 @@ card:
 aliases:
 - /resources/Rv0ZjvwYVy5
 categories:
-- Evidence Based Management
-- Value Delivery
-- Metrics and Learning
+- Product Management
 tags:
 - Evidence Based Leadership
+- Value Delivery
+- Evidence Based Management
 - Experimentation
+- Metrics and Learning
 - Decision Making
 - Ability to Innovate
 - Empirical Process Control
-- Product Management
 - Strategic Goals
 - Hypothesis Driven Development
 

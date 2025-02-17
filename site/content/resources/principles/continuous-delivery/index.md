@@ -20,13 +20,13 @@ card:
   content: Discover more about Continuous Delivery and how it can help you in your Agile journey!
   title: Continuous Delivery
 categories:
-- Value Delivery
-- Product Delivery
-- Agile Product Management
 - Discovery and Learning
 tags:
+- Product Delivery
+- Value Delivery
 - Continuous Delivery
 - Customer Feedback Loops
+- Agile Product Management
 - Product Validation
 - Frequent Releases
 - Working Software

@@ -21,25 +21,25 @@ aliasesFor404:
 tags:
 - Software Development
 - Release Management
+- Value Delivery
 - Software Developers
 - Engineering Practices
 - Continuous Delivery
 - Continuous Integration
-- Engineering Excellence
-- Operational Practices
 - Deployment Strategies
-- Modern Source Control
+- Practical Techniques and Tooling
+- Operational Practices
+- Flow Efficiency
 - Deployment Frequency
+- Modern Source Control
+- Product Delivery
 - Frequent Releases
 - Pragmatic Thinking
 - Strategy
 categories:
 - DevOps
 - Technical Excellence
-- Value Delivery
-- Practical Techniques and Tooling
-- Product Delivery
-- Flow Efficiency
+- Engineering Excellence
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
 

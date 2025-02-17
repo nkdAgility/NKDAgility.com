@@ -22,6 +22,7 @@ preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
+- Evidence Based Management
 - Evidence Based Leadership
 - Decision Making
 sitemap:
@@ -31,7 +32,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Evidence Based Management
+- Leadership
+- Product Management
+- People and Process
 
 ---
 When I think about evidence-based management, I can't help but reflect on how crucial it is to bring a scientific approach to leadership. In my experience, many organisations still rely heavily on gut feelings or vanity metrics—those numbers that make us look good but don’t actually drive meaningful change. This is where evidence-based management steps in, helping us focus on delivering real business value.

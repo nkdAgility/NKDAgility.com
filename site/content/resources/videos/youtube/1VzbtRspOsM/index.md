@@ -28,17 +28,20 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
-- Coaching
+- Organisational Culture
+- Organisational Change
 - Continuous Learning
 - Mentoring
-- Organisational Change
-- Organisational Culture
-- Team Collaboration
+- Sociotechnical Systems
+- Organisational Agility
+- Coaching
 - Team Motivation
+- Team Collaboration
 resourceTypes:
 - video
 layout: video
 categories:
+- Leadership
 - Discovery and Learning
 - People and Process
 - Personal

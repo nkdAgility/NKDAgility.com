@@ -30,12 +30,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
-- Evidence Based Management
 - Discovery and Learning
-- Product Delivery
-- Decision Theory
-- Agile Product Management
+- Product Management
 
 ---
 In our ever-evolving landscape of product development, one of the most crucial skills we can cultivate is the ability to work with assumptions. It’s a topic that I’m particularly passionate about, and I’m excited to share insights from our new class focused on this very subject. 

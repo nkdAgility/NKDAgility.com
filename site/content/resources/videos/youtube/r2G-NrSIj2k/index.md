@@ -23,9 +23,9 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
+- Practical Techniques and Tooling
 - Engineering Practices
 - Technical Mastery
-- Engineering Excellence
 - Software Development
 - Modern Source Control
 - Operational Practices
@@ -37,7 +37,7 @@ resourceTypes:
 - video
 categories:
 - Code and Complexity
-- Practical Techniques and Tooling
+- Engineering Excellence
 - Technical Excellence
 - DevOps
 

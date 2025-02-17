@@ -21,7 +21,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
 duration: 39
 isShort: true
-tags: []
+tags:
+- Agile Product Management
+- Sociotechnical Systems
+- Organisational Psychology
 sitemap:
   filename: sitemap.xml
   priority: 0.6

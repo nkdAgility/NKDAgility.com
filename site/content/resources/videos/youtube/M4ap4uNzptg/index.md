@@ -30,32 +30,32 @@ sitemap:
 tags:
 - Agile Leadership
 - Agile Philosophy
-- Change Management
-- Organisational Change
-- Agile Transformation
+- Business Agility
+- Market Adaptability
 - Agile Strategy
+- Change Management
+- Agile Transformation
 - Agile Project Management
-- Continuous Learning
-- Organisational Culture
+- Organisational Change
+- Enterprise Agility
 - Pragmatic Thinking
+- Continuous Learning
+- Organisational Agility
+- Organisational Culture
+- Resilience and Change
 - Agile Values and Principles
-- Empirical Process Control
-- Sensemaking
+- Value Delivery
+- Sociotechnical Systems
 - Organisational Physics
+- Sensemaking
+- Empirical Process Control
 resourceTypes:
 - video
 categories:
 - Leadership
 - People and Process
-- Market Adaptability
-- Business Agility
 - Discovery and Learning
-- Organisational Agility
 - Social Technologies
-- Enterprise Agility
-- Resilience and Change
-- Value Delivery
-- Sociotechnical Systems
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:
