@@ -44,6 +44,7 @@ categories:
 - Value Delivery
 - Practical Techniques and Tooling
 - Product Delivery
+- Social Technologies
 - DevOps
 tags:
 - Software Development

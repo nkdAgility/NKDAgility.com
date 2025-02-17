@@ -30,14 +30,14 @@ sitemap:
 tags:
 - Continuous Learning
 - Agile Values and Principles
-- Pragmatic Thinking
-- Agile Transformation
 - Agile Philosophy
+- Agile Transformation
 - Agile Frameworks
-- Coaching
-- Mentoring
 - Agile Project Management
 - Software Development
+- Mentoring
+- Pragmatic Thinking
+- Coaching
 resourceTypes:
 - video
 categories:

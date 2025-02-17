@@ -39,6 +39,7 @@ categories:
 - Product Delivery
 - Technical Excellence
 - Code and Complexity
+- Social Technologies
 - Scrum
 
 ---

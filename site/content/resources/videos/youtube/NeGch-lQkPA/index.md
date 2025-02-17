@@ -46,6 +46,7 @@ categories:
 - Value Delivery
 - Product Delivery
 - Practical Techniques and Tooling
+- Social Technologies
 - People and Process
 - Agile Product Management
 - Flow Efficiency

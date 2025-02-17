@@ -27,13 +27,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Transparency
+- Operational Practices
+- Lean Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
 - Transparency and Accountability
 - Practical Techniques and Tooling
+- Social Technologies
 - Metrics and Learning
 - Lean
 

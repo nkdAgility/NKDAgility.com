@@ -52,6 +52,7 @@ categories:
 - People and Process
 - Flow Efficiency
 - Systems Thinking
+- Social Technologies
 - Enterprise Agility
 - Business Agility
 - Practical Techniques and Tooling

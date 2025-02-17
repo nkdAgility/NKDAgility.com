@@ -21,7 +21,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
 duration: 53
 isShort: true
-tags: []
+tags:
+- Software Development
+- Engineering Excellence
+- Engineering Practices
+- Technical Mastery
+- Software Developers
+- Test Driven Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

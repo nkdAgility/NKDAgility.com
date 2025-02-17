@@ -40,6 +40,7 @@ card:
   title: Daily Scrum Recipe
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Daily Scrum
 - Scrum Product Development

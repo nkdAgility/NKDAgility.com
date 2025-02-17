@@ -48,6 +48,7 @@ categories:
 - Business Agility
 - Product Delivery
 - Organisational Agility
+- Social Technologies
 - Sociotechnical Systems
 - Enterprise Agility
 

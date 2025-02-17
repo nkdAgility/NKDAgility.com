@@ -28,19 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
 - Empirical Process Control
+- Agile Project Management
+- Agile Planning
+- Agile Philosophy
 - Pragmatic Thinking
 - Software Developers
 - Software Development
+- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - People and Process
+- Agile Product Management
+- Social Technologies
 
 ---
 Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.

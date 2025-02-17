@@ -37,6 +37,7 @@ card:
   title: Nexus Guide
 categories:
 - Scrum
+- Social Technologies
 - Product Delivery
 tags:
 - Scaling Scrum

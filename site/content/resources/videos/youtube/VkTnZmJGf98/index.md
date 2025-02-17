@@ -28,29 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Ability to Innovate
-- Agile Strategy
-- Agile Transformation
-- Change Management
-- Decision Making
-- Empirical Process Control
 - Evidence Based Leadership
-- Evidence Based Management
-- Operational Practices
-- Organisational Change
-- Organisational Physics
-- Pragmatic Thinking
-- Product Management
-- Scaling Agility
-- Sensemaking
-- Strategic Goals
-- Strategy
 resourceTypes:
 - video
 categories:
-- Business Agility
-- People and Process
-- Resilience and Change
+- Evidence Based Management
 
 ---
 In the world of agile transformation, it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**—with agile as a tool to help us get there.

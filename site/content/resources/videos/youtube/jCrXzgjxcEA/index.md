@@ -43,6 +43,7 @@ categories:
 - Practical Techniques and Tooling
 - Kanban
 - Azure DevOps
+- Social Technologies
 - Install and Configuration
 
 ---

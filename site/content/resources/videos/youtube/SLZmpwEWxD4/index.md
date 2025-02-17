@@ -43,6 +43,7 @@ categories:
 - Kanban
 - People and Process
 - Practical Techniques and Tooling
+- Social Technologies
 - Flow Efficiency
 
 ---

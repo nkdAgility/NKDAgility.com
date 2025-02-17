@@ -20,7 +20,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 isShort: true
-tags: []
+tags:
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,6 +31,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
+- Social Technologies
 
 ---
 When I first encountered Caman, I was struck by its simplicity and effectiveness. It’s a framework that resonates deeply with my experiences in agile environments, and I believe it can transform the way teams operate. Today, I want to share the three core principles of Caman that have made a significant impact on my approach to workflow management.

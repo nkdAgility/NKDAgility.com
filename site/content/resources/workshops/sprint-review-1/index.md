@@ -41,6 +41,7 @@ card:
   title: 'Sprint Review #1'
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Scrum Product Development
 - Sprint Review

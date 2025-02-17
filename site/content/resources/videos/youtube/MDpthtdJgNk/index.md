@@ -37,6 +37,7 @@ categories:
 - Kanban
 - People and Process
 - Practical Techniques and Tooling
+- Social Technologies
 
 ---
 ### Embracing Kanban: A Creative Approach to Workflow Optimization

@@ -39,6 +39,7 @@ categories:
 - Kanban
 - Azure DevOps
 - Practical Techniques and Tooling
+- Social Technologies
 - Lean
 - Transparency and Accountability
 - People and Process

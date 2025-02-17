@@ -34,6 +34,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Leadership
 - People and Process
 - Sociotechnical Systems
 

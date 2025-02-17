@@ -53,6 +53,7 @@ categories:
 - Value Delivery
 - Product Delivery
 - Organisational Agility
+- Social Technologies
 - Business Agility
 
 ---

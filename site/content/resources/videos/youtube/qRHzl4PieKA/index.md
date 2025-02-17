@@ -27,7 +27,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Leadership
+- Product Management
+- Agile Strategy
+- Agile Planning
+- Customer Satisfaction
+- Customer Feedback Loops
 resourceTypes:
 - video
 categories:
@@ -37,6 +47,7 @@ categories:
 - Market Adaptability
 - Value Delivery
 - Organisational Agility
+- Social Technologies
 - Business Agility
 - Product Delivery
 - Discovery and Learning

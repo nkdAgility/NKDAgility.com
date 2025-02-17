@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - People and Process
+- Social Technologies
 - Sociotechnical Systems
 
 ---

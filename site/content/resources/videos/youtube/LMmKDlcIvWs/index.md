@@ -43,6 +43,7 @@ categories:
 - Metrics and Learning
 - Practical Techniques and Tooling
 - Flow Efficiency
+- Social Technologies
 - Lean
 
 ---

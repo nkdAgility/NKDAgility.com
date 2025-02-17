@@ -50,6 +50,7 @@ categories:
 - Market Adaptability
 - Value Delivery
 - Organisational Agility
+- Social Technologies
 - Business Agility
 
 ---

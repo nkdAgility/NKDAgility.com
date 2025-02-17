@@ -21,7 +21,11 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: true
-tags: []
+tags:
+- Operational Practices
+- Transparency
+- Continuous Learning
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

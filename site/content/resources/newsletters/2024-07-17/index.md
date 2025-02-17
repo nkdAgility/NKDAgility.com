@@ -25,6 +25,7 @@ categories:
 - Events and Presentations
 - Product Delivery
 - Value Delivery
+- Social Technologies
 - Practical Techniques and Tooling
 tags:
 - Product Discovery

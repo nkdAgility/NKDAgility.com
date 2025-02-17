@@ -24,6 +24,7 @@ categories:
 - Organisational Agility
 - Enterprise Agility
 - Market Adaptability
+- Social Technologies
 - People and Process
 tags:
 - Portfolio Management

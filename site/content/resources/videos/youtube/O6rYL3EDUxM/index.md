@@ -67,6 +67,7 @@ categories:
 - News and Reviews
 - Enterprise Agility
 - Discovery and Learning
+- Social Technologies
 - Metrics and Learning
 - Market Adaptability
 

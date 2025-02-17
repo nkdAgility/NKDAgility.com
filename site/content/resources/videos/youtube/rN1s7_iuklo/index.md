@@ -27,10 +27,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
+- Leadership
 - Personal
 - People and Process
 - Agile Product Management
@@ -42,6 +44,7 @@ categories:
 - Product Delivery
 - Sociotechnical Systems
 - Organisational Agility
+- Social Technologies
 - Business Agility
 
 ---

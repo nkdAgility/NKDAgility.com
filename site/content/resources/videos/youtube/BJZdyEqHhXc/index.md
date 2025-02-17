@@ -39,6 +39,7 @@ categories:
 - People and Process
 - Resilience and Change
 - Organisational Agility
+- Leadership
 - Sociotechnical Systems
 - Business Agility
 - Enterprise Agility

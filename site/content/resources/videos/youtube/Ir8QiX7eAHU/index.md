@@ -42,6 +42,7 @@ categories:
 - Kanban
 - Practical Techniques and Tooling
 - Flow Efficiency
+- Social Technologies
 - Lean
 
 ---

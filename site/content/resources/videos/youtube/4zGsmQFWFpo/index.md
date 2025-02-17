@@ -46,8 +46,10 @@ resourceTypes:
 layout: video
 categories:
 - People and Process
+- Leadership
 - Organisational Agility
 - Sociotechnical Systems
+- Social Technologies
 - Value Delivery
 - Resilience and Change
 - Discovery and Learning

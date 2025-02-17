@@ -52,6 +52,7 @@ categories:
 - Practical Techniques and Tooling
 - Product Delivery
 - Agile Product Operating Model
+- Social Technologies
 - Scrum
 
 ---

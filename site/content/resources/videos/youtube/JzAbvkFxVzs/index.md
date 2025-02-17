@@ -28,19 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Values and Principles
-- Pragmatic Thinking
 - Scrum Master
-- Scrum Values
+- Agile Philosophy
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
+- Agile Values and Principles
+- Scrum Values
 resourceTypes:
 - video
 categories:
+- Scrum
 - People and Process
 - Personal
+- Social Technologies
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:

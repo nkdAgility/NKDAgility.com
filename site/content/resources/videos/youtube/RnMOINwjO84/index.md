@@ -55,6 +55,7 @@ categories:
 - Decision Theory
 - Enterprise Agility
 - Discovery and Learning
+- Social Technologies
 - Beta Codex
 - Evidence Based Management
 - Agile Product Management

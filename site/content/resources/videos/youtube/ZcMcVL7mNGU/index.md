@@ -58,6 +58,7 @@ categories:
 - Product Delivery
 - Sociotechnical Systems
 - Organisational Agility
+- Social Technologies
 - Products and Books
 - Evidence Based Management
 - Business Agility

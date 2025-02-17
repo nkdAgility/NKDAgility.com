@@ -49,6 +49,7 @@ categories:
 - People and Process
 - Discovery and Learning
 - Value Delivery
+- Social Technologies
 - Agile Product Management
 - Practical Techniques and Tooling
 - Sociotechnical Systems

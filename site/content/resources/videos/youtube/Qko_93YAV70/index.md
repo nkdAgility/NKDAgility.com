@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true
-tags: []
+tags:
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,6 +41,7 @@ categories:
 - Flow Efficiency
 - Systems Thinking
 - Organisational Agility
+- Social Technologies
 - Lean
 - Business Agility
 - Product Delivery

@@ -28,20 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Estimation
+- Throughput
+- Software Developers
 - Agile Project Management
 - Cycle Time
-- Estimation
-- Pragmatic Thinking
-- Software Developers
 - Software Development
-- Throughput
-- Transparency
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - Metrics and Learning
 - People and Process
+- Agile Product Management
+- Flow Efficiency
+- Social Technologies
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

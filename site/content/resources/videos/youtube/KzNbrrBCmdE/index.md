@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true
-tags: []
+tags:
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

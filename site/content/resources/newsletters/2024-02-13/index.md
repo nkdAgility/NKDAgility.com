@@ -21,6 +21,7 @@ categories:
 - People and Process
 - Events and Presentations
 - Products and Books
+- Social Technologies
 - Agile Product Management
 - Practical Techniques and Tooling
 tags:

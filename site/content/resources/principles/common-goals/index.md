@@ -22,6 +22,7 @@ card:
 categories:
 - Scrum
 - People and Process
+- Social Technologies
 - Agile Product Management
 tags:
 - Scrum Product Development

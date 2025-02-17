@@ -42,6 +42,7 @@ resourceTypes:
 categories:
 - People and Process
 - Complexity Thinking
+- Social Technologies
 - Sociotechnical Systems
 - Organisational Agility
 

@@ -27,7 +27,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Transparency
+- Strategy
+- Empirical Process Control
+- Lean Thinking
+- Agile Transformation
+- Operational Practices
+- Agile Frameworks
+- Throughput
+- Agile Project Management
+- Software Development
+- Lean Principles
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
@@ -37,6 +49,7 @@ categories:
 - Practical Techniques and Tooling
 - Value Stream Management
 - Flow Efficiency
+- Social Technologies
 - Lean
 
 ---

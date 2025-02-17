@@ -44,6 +44,7 @@ categories:
 - People and Process
 - Agile Product Management
 - Product Delivery
+- Social Technologies
 - Value Delivery
 - Sociotechnical Systems
 

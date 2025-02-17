@@ -45,6 +45,7 @@ categories:
 - Transparency and Accountability
 - Practical Techniques and Tooling
 - Flow Efficiency
+- Social Technologies
 - People and Process
 - Value Delivery
 

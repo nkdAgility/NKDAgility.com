@@ -58,6 +58,7 @@ categories:
 - Enterprise Agility
 - Evidence Based Management
 - Market Adaptability
+- Social Technologies
 - Flow Efficiency
 - Value Stream Management
 - DevOps

@@ -42,6 +42,7 @@ resourceTypes:
 categories:
 - People and Process
 - Organisational Agility
+- Leadership
 - Personal
 - Sociotechnical Systems
 - Organisational Psychology

@@ -27,25 +27,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Operational Practices
+- Lean Principles
 resourceTypes:
 - video
 categories:
-- People and Process
-- Metrics and Learning
-- Resilience and Change
-- Practical Techniques and Tooling
-- Discovery and Learning
-- Evidence Based Management
-- Systems Thinking
-- Market Adaptability
-- Value Delivery
-- Agile Product Management
-- Organisational Agility
-- Lean
-- Product Delivery
-- Flow Efficiency
-- Kanban
+- Social Technologies
 
 ---
 In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

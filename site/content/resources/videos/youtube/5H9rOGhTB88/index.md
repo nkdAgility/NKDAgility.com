@@ -58,6 +58,7 @@ resourceTypes:
 layout: video
 categories:
 - People and Process
+- Leadership
 - Value Delivery
 - Agile Product Management
 - Business Agility
@@ -67,6 +68,7 @@ categories:
 - Enterprise Agility
 - Discovery and Learning
 - Beta Codex
+- Social Technologies
 - Lean
 - Value Stream Management
 - Personal

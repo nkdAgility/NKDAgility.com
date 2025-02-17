@@ -27,10 +27,25 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Decision Making
+- Product Management
+- Ability to Innovate
+- Evidence Based Leadership
+- Operational Practices
+- Throughput
+- Pragmatic Thinking
+- Lead Time
+- Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Value Stream Management
+- Metrics and Learning
+- Evidence Based Management
+- Value Delivery
+- Product Delivery
+- Flow Efficiency
 
 ---
 Delivering value to customers efficiently is a key goal for any Agile team. But how do you know how long it actually takes? That’s where **Evidence-Based Management (EBM)** comes into play. One of the key value areas in EBM is **Time to Market**—a critical factor that helps organizations measure and improve how quickly they deliver valuable outcomes. This post dives into the importance of **Time to Market**, the metrics you can use to measure it, and why it’s crucial for business success. 🚀

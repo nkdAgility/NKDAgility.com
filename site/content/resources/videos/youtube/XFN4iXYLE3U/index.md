@@ -27,12 +27,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Lean Thinking
+- Operational Practices
+- Agile Frameworks
+- Throughput
+- Agile Project Management
+- Software Development
 resourceTypes:
 - video
 categories:
 - Kanban
 - Flow Efficiency
+- Social Technologies
 
 ---
 When it comes to Kanban, many teams get excited about visualizing their work. But there's a crucial element often overlooked: **limiting work in progress (WIP)**. Without this, you're not truly practicing Kanban. Limiting WIP is fundamental to controlling your workflow, understanding the system's bottlenecks, and delivering high-quality products at a sustainable pace.

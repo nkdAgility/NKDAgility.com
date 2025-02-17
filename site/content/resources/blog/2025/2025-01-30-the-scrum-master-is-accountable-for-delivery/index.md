@@ -49,6 +49,7 @@ tags:
 categories:
 - Scrum
 - Product Delivery
+- Social Technologies
 - Transparency and Accountability
 - Value Delivery
 - People and Process

@@ -37,6 +37,7 @@ card:
   title: Sprint Planning Event
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Scrum Team
 - Scrum Product Development

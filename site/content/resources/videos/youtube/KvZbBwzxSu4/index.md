@@ -50,6 +50,7 @@ resourceTypes:
 - video
 categories:
 - People and Process
+- Leadership
 - Evidence Based Management
 - Value Delivery
 - Agile Product Management

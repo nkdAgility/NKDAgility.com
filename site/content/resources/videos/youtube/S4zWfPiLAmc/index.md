@@ -47,6 +47,7 @@ categories:
 - Evidence Based Management
 - Practical Techniques and Tooling
 - Flow Efficiency
+- Social Technologies
 - Value Delivery
 
 ---

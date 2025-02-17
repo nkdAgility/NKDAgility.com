@@ -51,6 +51,7 @@ categories:
 - Agile Product Operating Model
 - Market Adaptability
 - Organisational Agility
+- Social Technologies
 - Business Agility
 - Flow Efficiency
 

@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Estimation
-- Pragmatic Thinking
+- Agile Project Management
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Kanban
 - People and Process
+- Social Technologies
 
 ---
 In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment—an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.

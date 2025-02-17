@@ -22,6 +22,7 @@ categories:
 - Products and Books
 - People and Process
 - Events and Presentations
+- Social Technologies
 - Practical Techniques and Tooling
 - Product Delivery
 - Value Delivery

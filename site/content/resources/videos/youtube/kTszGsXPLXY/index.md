@@ -42,6 +42,7 @@ categories:
 - Metrics and Learning
 - People and Process
 - Practical Techniques and Tooling
+- Social Technologies
 - Flow Efficiency
 
 ---

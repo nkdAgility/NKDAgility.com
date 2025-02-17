@@ -33,6 +33,7 @@ resourceTypes:
 - video
 categories:
 - Metrics and Learning
+- Social Technologies
 - Practical Techniques and Tooling
 
 ---

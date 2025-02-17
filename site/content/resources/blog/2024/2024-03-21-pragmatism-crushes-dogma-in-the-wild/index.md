@@ -27,6 +27,7 @@ categories:
 - People and Process
 - Agile Product Management
 - Organisational Agility
+- Social Technologies
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Agile Project Management

@@ -24,8 +24,9 @@ card:
   title: Definition of Ready (DoR)
 categories:
 - Scrum
-- Agile Product Management
 - People and Process
+- Agile Product Management
+- Social Technologies
 tags:
 - Definition of Ready
 - Product Backlog

@@ -27,7 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Customer Feedback Loops
+- Product Owner
+- Product Management
+- Product Validation
+- Agile Philosophy
+- Customer Satisfaction
+- Agile Project Management
+- Agile Planning
+- Pragmatic Thinking
+- Product Strategy
+- Scrum Product Development
+- Agile Values and Principles
+- Customer Retention
 resourceTypes:
 - video
 categories:

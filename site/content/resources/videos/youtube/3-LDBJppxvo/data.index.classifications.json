@@ -358,5 +358,1022 @@
     "final_score": 45.0,
     "reasoning": "The content discusses the importance of delivering working software quickly and gathering feedback, which relates to flow efficiency principles, but it primarily focuses on Agile practices and customer interaction.",
     "level": "Tertiary"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T13:56:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software and gathering feedback, which relates more to Agile practices than to leadership specifically.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T13:56:19",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses Agile principles, particularly the importance of delivering working software iteratively and gathering customer feedback, which aligns closely with the core values of Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on Agile principles and delivering working software, with no clear discussion on Kanban or its scaling.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses agile software development practices and feedback loops, with no focus on system configuration.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on individual Agile practices related to delivering working software and customer feedback, without reference to scaling or enterprise-level Agile implementations.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Agile principles of delivering working software iteratively, gathering customer feedback, and validating assumptions, which are central themes of Agile Philosophy.",
+    "level": "Secondary"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the importance of delivering working software and customer feedback in Agile, but does not focus on change management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on delivering working software and gathering feedback, not specifically on test automation or its principles, practices, or tools.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering working software quickly to gather feedback, which relates to the concept of Lead Time as it emphasizes the time taken to provide value to customers. However, it mainly focuses on agile practices and feedback loops, making Lead Time a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the importance of delivering software and gathering feedback, focusing on agile processes rather than team motivation strategies.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content mentions agile principles that are closely associated with Scrum practices, particularly the emphasis on delivering working software iteratively and gathering customer feedback, which are key concepts in Scrum. However, Scrum roles, events, and artifacts are not explicitly discussed, making it a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses agile principles and the importance of delivering working software, but it does not mention Azure Pipelines or related CI/CD practices.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses delivering working software and gathering feedback rather than focusing on the criteria for backlog item readiness.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses agile methodologies and the importance of delivering software iterations, without any direct reference to Azure Repos or its functionalities.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile methodologies and customer feedback loops, without focusing on technical practices or software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of delivering working software and gathering feedback from real users, which relates to customer engagement and validating user assumptions. However, the primary focus is more on Agile methodologies rather than explicitly on customer retention strategies.",
+    "level": "Tertiary"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering working software regularly and gathering feedback, indicating a major focus on iterative releases and user engagement, but it is primarily centered on Agile principles rather than explicitly detailing frequent release practices.",
+    "level": "Tertiary"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses principles related to maximizing value and minimizing work, which are relevant to Lean Thinking, but it primarily focuses on Agile principles.",
+    "level": "Tertiary"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile principles and the importance of delivering working software and collecting feedback, rather than troubleshooting technical issues.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the delivery of working software, gathering user feedback, and the agility of the development process, which aligns well with the emphasis on functional and high-quality software that meets customer needs.",
+    "level": "Secondary"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content focuses on delivering working software iteratively and gathering feedback, which relates to release processes, but it primarily discusses Agile methodology rather than specifically focusing on release management practices.",
+    "level": "Tertiary"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on software delivery practices and Agile principles rather than organisational change processes or frameworks.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses gathering feedback and validating assumptions, which relates to the principles of continuous learning and improvement within an Agile context, but it primarily focuses on the delivery of software rather than on continuous learning practices.",
+    "level": "Tertiary"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the importance of delivering working software and customer feedback rather than focusing on scaling Scrum practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, which relates to evidence-based practices, but primarily focuses on agile delivery rather than leadership decision-making.",
+    "level": "Tertiary"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "Content discusses agile methodologies which can relate to digital transformation, but the primary focus is on delivering working software and customer feedback rather than broader strategic digital adoption.",
+    "level": "Tertiary"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on Agile principles and delivering working software, but does not discuss remote working practices, communication, or challenges associated with distributed teams.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of delivering working software to gather feedback, validate assumptions, and close feedback loops, which aligns well with the principles of empirical process control in Agile.",
+    "level": "Secondary"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of gathering feedback from real users during iterations, which relates to customer satisfaction, but it does not focus primarily on customer satisfaction principles or practices.",
+    "level": "Tertiary"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of delivering working software to real users to validate assumptions and gather feedback, which aligns with the principles of experimentation in Agile. However, it mainly emphasizes the practice of delivering software rather than discussing systematic testing or hypothesis-driven approaches directly related to experimentation.",
+    "level": "Secondary"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses practices of Agile software development rather than leadership roles or the effects of leadership on team dynamics.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software and gathering feedback from real users, emphasizing the role of feedback loops in agile methodologies.",
+    "level": "Secondary"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on delivering working software and validating assumptions with users, but does not primarily address estimation practices in Agile or Scrum.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "Content emphasizes the importance of delivering working software and gathering feedback, which are significant aspects of the Product Owner's role in maximizing product value and aligning with customer needs.",
+    "level": "Tertiary"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on agile practices related to delivering working software and customer feedback, without discussing trend analysis or its implications in Agile, DevOps, or business agility.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software and gathering feedback in an Agile context, which relates to product management, but does not deeply engage with broader strategic aspects of product management.",
+    "level": "Tertiary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software and obtaining user feedback, rather than focusing on backlog refinement practices.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of gathering customer feedback and validating assumptions, which aligns with Lean principles, but it is primarily focused on Agile practices, making Lean a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses agile principles, such as delivering working software and gathering feedback, which are related to self-organisation. However, self-organisation is not the central topic, as the focus is more on agile practices and stakeholder value rather than explicitly on self-organising teams.",
+    "level": "Tertiary"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses team-level practices and the importance of delivering software iterations, focusing on feedback loops rather than large scale Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses agile practices and their importance in delivering working software, which relates to software development processes and the need for feedback loops, but does not delve deeply into engineering practices or standards.",
+    "level": "Tertiary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "While the content discusses the importance of delivering working software and gathering user feedback, which aligns with customer-centric approaches, it mainly focuses on agile practices rather than a comprehensive product strategy framework.",
+    "level": "Tertiary"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses general Agile principles and the importance of delivering software, rather than specific dynamics or roles within a Scrum Team.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software and closing feedback loops, which is not directly related to the Daily Scrum event.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses key Agile principles, specifically the importance of delivering working software and gathering feedback, which are central to Agile transformation.",
+    "level": "Secondary"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively and gathering feedback, which relates to operational practices in Agile. However, the focus is more on the concept of Agile delivery rather than specific operational techniques or strategies.",
+    "level": "Tertiary"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on agile principles and user feedback rather than specific methodologies or practices for deploying software.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses delivering working software and agile principles but does not focus on working agreements or team collaboration norms.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content emphasizes the importance of delivering value iteratively and gathering feedback, which aligns with Agile principles, but it is primarily focused on the practice of delivering software rather than a broader strategic discussion.",
+    "level": "Tertiary"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software iteratively and gathering feedback, which aligns with Agile practices relevant to software developers.",
+    "level": "Secondary"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively and gathering user feedback, which relates to Agile principles but does not focus directly on engineering practices like clean code, TDD, or CI/CD.",
+    "level": "Tertiary"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses iterative software delivery and feedback loops, which relates more to operational tactics and Agile practices rather than long-term strategic goals.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on the importance of delivering working software and customer feedback rather than discussing Scrum Values.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily emphasizes the importance of delivering working software and customer feedback in Agile, rather than focusing on cross-functional teams specifically.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the principles of Agile and delivering software rather than focusing on specific collaboration tools or their usage.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile software development practices and feedback mechanisms, rather than focusing on the principles and practices of entrepreneurship.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses agile principles and the importance of delivering software quickly to users, focusing on validation and feedback rather than asynchronous collaboration.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the principles of agile methodology, particularly the focus on delivering working software and gathering feedback, which aligns with the themes of fostering collaboration and continuous improvement. However, it does not delve deeply into technical leadership roles or specific leadership strategies, making it a secondary theme rather than the primary focus.",
+    "level": "Tertiary"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on delivering working software and validating assumptions with customers rather than discussing the transparency of processes or information sharing.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content emphasizes the importance of delivering working software to gather feedback and validate assumptions, which ties into innovation practices. However, it does not focus primarily on the broader aspects of measuring and enhancing the ability to innovate per the provided category definition.",
+    "level": "Tertiary"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software and gathering feedback, which is more about Agile practices than accountability specifically.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, key principles of Agile, but it is primarily focused on practical advice rather than an exploration of specific Agile frameworks.",
+    "level": "Tertiary"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of agile methodology and the importance of delivering working software iteratively, which can impact team performance and collaboration. However, the primary focus is on the delivery of software and customer feedback rather than explicitly on team dynamics or practices.",
+    "level": "Tertiary"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering working software quickly and gathering feedback, aligning with the throughput theme of optimizing the flow of work and delivering value efficiently, but it focuses more on general Agile principles and practices rather than specifically on throughput metrics or improvement strategies.",
+    "level": "Tertiary"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile methodology and delivering software, without any mention of Windows or its functionalities.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the importance of delivering working software and gathering user feedback, but does not focus on Acceptance Test Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses agile methodology and the importance of delivering software, with a focus on feedback and stakeholder value, rather than on employee motivation, commitment, or engagement.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses iterative development and the importance of delivering working software along with gathering feedback, which aligns with agile principles.",
+    "level": "Secondary"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of gathering feedback and validating assumptions with real users, which relates to hypothesis-driven development, but it primarily focuses on agile principles without a strong emphasis on specific hypotheses or experimentation.",
+    "level": "Tertiary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software and customer feedback in Agile, without focusing on Agile Planning Tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile practices and delivering working software iteratively rather than focusing on Continuous Delivery principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of gathering feedback from real users and validating assumptions about the product, which aligns with some aspects of product discovery. However, the primary focus is on agile practices and delivering working software, rather than a deep exploration of product discovery methodologies.",
+    "level": "Tertiary"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on the importance of delivering working software and customer feedback rather than discussing the Definition of Done or its criteria.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on delivering working software, feedback loops, and Agile principles without discussing organisational culture or its influence.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on the importance of delivering working software in Agile practices, but does not specifically discuss Azure Boards or its functionalities.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of gathering feedback from real users and validating assumptions, which relates to evidence-based decision-making and the integration of feedback loops. However, the primary focus is on the practice of agile and not solely on decision-making processes.",
+    "level": "Tertiary"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses Agile methodologies and the importance of delivering working software iteratively, which is central to software development practices.",
+    "level": "Secondary"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile practices and delivering working software, with no focus on revenue per employee or related metrics.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content discusses the importance of delivering software and gathering feedback rather than focusing on the Product Backlog or backlog management techniques.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content discusses the iterative delivery of working software and the importance of customer feedback, which aligns closely with Scrum principles and practices in product development.",
+    "level": "Secondary"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively and maximizing value, which aligns with some Lean principles, although it primarily focuses on Agile concepts.",
+    "level": "Tertiary"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile practices related to delivering software and feedback loops, without a clear focus on psychological safety.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses feedback loops and validating assumptions in an agile context, which are related to sensemaking. However, it primarily focuses on Agile practices rather than a broader discussion of sensemaking principles or frameworks.",
+    "level": "Tertiary"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "Content emphasizes the importance of delivering working software iteratively and gathering feedback, which aligns with Agile Planning principles but is more focused on delivery and user interaction.",
+    "level": "Tertiary"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses agile methodologies and the importance of delivering working software, with no focus on Site Reliability Engineering principles or practices.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile principles and the importance of delivering working software, which is related to Agile methodology rather than Continuous Integration specifically.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "Content discusses the importance of delivering working software and gathering feedback, which aligns with Lean Startup principles, though it primarily focuses on agile methodologies.",
+    "level": "Secondary"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and the importance of delivering working software iteratively, with no clear focus on source control practices.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily emphasizes the importance of delivering working software to users for feedback and validation, aligning closely with methodologies for product validation.",
+    "level": "Secondary"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software iteratively, which aligns with Agile principles of customer collaboration, feedback loops, and delivering value to stakeholders.",
+    "level": "Secondary"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile practices and the importance of delivering working software, but does not focus on portfolio management or its methodologies.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile software development processes and the importance of delivering working software and gathering user feedback, rather than focusing on systems thinking or organisational dynamics.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "Content discusses the importance of delivering working software iteratively to gather feedback, which is relevant to deployment frequency but is primarily focused on agile principles and customer interaction.",
+    "level": "Tertiary"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content discusses the importance of delivering working software and gathering feedback, which touches on Agile practices, it does not primarily focus on strategic themes or the alignment of teams and organizational goals.",
+    "level": "Tertiary"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and practices without any mention or relevance to AI.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the importance of delivering working software and gathering feedback, but does not address forecasting methods, timelines, or empirical data relevant to the category.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on delivering working software and feedback loops in Agile, with no discussion on mentoring or related themes.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses general Agile principles and the importance of customer feedback, but does not specifically address Sprint Reviews or their process.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on delivering working software and gathering user feedback, rather than on Test First Development or related practices.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile principles and the importance of delivering working software but does not focus on automated testing as a central topic.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile practices and the importance of delivering working software and gathering feedback, without a focus on technical debt management.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content emphasizes practical strategies for delivering working software iteratively, gathering feedback, and validating assumptions, aligning well with pragmatic approaches in Agile.",
+    "level": "Secondary"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile development practices and the importance of delivering working software, rather than strategies for increasing market share or competitive advantage.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and the importance of delivering software, without a focus on coaching techniques or practices.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on team-level agile practices and feedback loops, without discussing scaling agility at the organizational level.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on agile principles and delivering working software, but does not specifically discuss the role or responsibilities of a Scrum Master.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on delivering working software and gathering feedback, but does not discuss Cycle Time as a primary topic or metric.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily focuses on Agile principles and the importance of delivering working software, without discussing Value Stream Mapping, workflows, or Lean methodology.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses the importance of delivering working software iteratively and gathering feedback, which is central to the concept of Increment in Agile frameworks.",
+    "level": "Secondary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 60,
+    "non_ai_confidence": 0,
+    "final_score": 54.0,
+    "reasoning": "The content discusses delivering working software iteratively and emphasizes the importance of rapid feedback and validation of assumptions, which are key components related to MVP development. However, it does not explicitly focus on the concept of a Minimum Viable Product, making it a significant but secondary theme.",
+    "level": "Tertiary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses agile principles and the importance of delivering software to users, without focusing on Test Driven Development specifically.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content mentions the team's delivery of working software and the importance of feedback, which relates to collaboration and communication within the Agile framework. However, the primary focus is on the delivery process and customer interaction rather than teamwork dynamics.",
+    "level": "Tertiary"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-17T13:56:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses general Agile practices and the importance of delivering working software, rather than focusing on BDD principles or collaboration around user stories and acceptance criteria.",
+    "level": "Ignored"
   }
 }

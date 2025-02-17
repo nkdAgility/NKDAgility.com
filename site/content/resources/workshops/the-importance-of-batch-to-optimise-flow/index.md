@@ -28,6 +28,7 @@ categories:
 - Practical Techniques and Tooling
 - Events and Presentations
 - Flow Efficiency
+- Social Technologies
 - Lean
 - Product Delivery
 tags:

@@ -28,25 +28,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Pragmatic Thinking
-- Product Discovery
 - Product Management
 - Product Owner
-- Product Strategy
 - Product Validation
-- Professional Scrum
-- Scrum Product Development
-- Strategic Goals
+- Product Strategy
+- Product Discovery
+- Agile Strategy
 - Strategy
+- Pragmatic Thinking
+- Professional Scrum
+- Agile Project Management
+- Scrum Product Development
+- Agile Philosophy
+- Strategic Goals
 resourceTypes:
 - video
 categories:
+- People and Process
+- Value Delivery
 - Agile Product Management
 - Product Delivery
-- Value Delivery
+- Agile Product Operating Model
+- Organisational Agility
+- Business Agility
 
 ---
 In the world of Agile, transitioning from traditional project management to product management is an exciting but often challenging journey. For new Product Owners, one of the most crucial lessons to learn is the importance of **Vision, Value, and Validation**. These three pillars fill the vacuum left when we move away from project management frameworks, such as Gantt charts and milestones, that may no longer serve a product-focused organization.

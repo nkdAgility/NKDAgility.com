@@ -25,6 +25,7 @@ categories:
 - Scrum
 - Metrics and Learning
 - Flow Efficiency
+- Social Technologies
 tags:
 - Scrum Team
 - Cycle Time

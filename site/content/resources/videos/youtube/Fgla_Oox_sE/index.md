@@ -28,17 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Agile Strategy
-- Product Management
 - Product Owner
-- Product Strategy
+- Product Management
 - Scrum Product Development
+- Product Strategy
+- Agile Strategy
+- Agile Project Management
 resourceTypes:
 - video
 categories:
-- Agile Product Management
 - People and Process
+- Agile Product Management
 - Value Delivery
 
 ---

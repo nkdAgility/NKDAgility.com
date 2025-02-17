@@ -29,7 +29,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
 duration: 289
 isShort: false
-tags: []
+tags:
+- Deployment Frequency
+- Frequent Releases
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -42,10 +44,10 @@ categories:
 - Metrics and Learning
 - Evidence Based Management
 - Market Adaptability
+- News and Reviews
 - Value Delivery
 - Agile Product Management
 - Organisational Agility
-- News and Reviews
 - Business Agility
 - Practical Techniques and Tooling
 - Product Delivery

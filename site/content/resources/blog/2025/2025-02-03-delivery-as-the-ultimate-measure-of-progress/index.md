@@ -52,6 +52,7 @@ categories:
 - Value Delivery
 - Agile Product Management
 - Practical Techniques and Tooling
+- Social Technologies
 - DevOps
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 

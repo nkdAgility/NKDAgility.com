@@ -36,6 +36,7 @@ resourceTypes:
 categories:
 - Metrics and Learning
 - Practical Techniques and Tooling
+- Social Technologies
 - Value Delivery
 
 ---

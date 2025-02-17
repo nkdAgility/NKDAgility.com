@@ -44,6 +44,7 @@ categories:
 - Value Delivery
 - Practical Techniques and Tooling
 - Flow Efficiency
+- Social Technologies
 - Lean
 - Value Stream Management
 

@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 isShort: true
-tags: []
+tags:
+- Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

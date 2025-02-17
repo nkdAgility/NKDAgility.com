@@ -26,11 +26,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Evidence Based Leadership
+- Product Management
+- Decision Making
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Evidence Based Management
+- Value Delivery
+- Metrics and Learning
 
 ---
 In today's fast-paced world, organizations must understand their value to make informed decisions and drive continuous improvement. But how do you know the value that’s currently being delivered in your organization? 🤔 This is where **Evidence-Based Management (EBM)** comes into play, offering a clear path to evaluate and enhance your organizational outcomes. In this blog post, we'll explore how EBM can help you gauge your organization's value, optimize performance, and make data-driven decisions.

@@ -26,6 +26,7 @@ card:
   title: Kanban Guide
 categories:
 - Kanban
+- Social Technologies
 tags:
 - Operational Practices
 
