@@ -22,7 +22,9 @@ aliasesFor404:
 - /blog/its-that-time-again
 - /resources/blog/its-that-time-again
 tags: []
-categories: []
+categories:
+- Personal
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

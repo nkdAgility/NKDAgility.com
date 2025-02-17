@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/first-day-at-aggreko
 - /resources/blog/first-day-at-aggreko
 tags: []
-categories: []
+categories:
+- Miscellaneous
 preview: metro-aggreko-128-link-1-1.png
 
 ---

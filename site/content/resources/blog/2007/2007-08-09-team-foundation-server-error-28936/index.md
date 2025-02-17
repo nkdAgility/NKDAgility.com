@@ -21,9 +21,15 @@ aliasesFor404:
 - /team-foundation-server-error-28936
 - /blog/team-foundation-server-error-28936
 - /resources/blog/team-foundation-server-error-28936
-tags: []
+tags:
+- Troubleshooting
+- Windows
+- System Configuration
+- Software Development
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 Some of my colleagues in New York have been working on deploying Team Foundation Server as a change management system and they ran into a little error while installing to the QA (UAT) environment.

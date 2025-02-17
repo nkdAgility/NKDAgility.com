@@ -28,7 +28,8 @@ aliasesFor404:
 - /htc-touch
 - /resources/blog/htc-touch-black-shadow-weather
 categories: []
-tags: []
+tags:
+- Troubleshooting
 
 ---
 black-shadow-weather

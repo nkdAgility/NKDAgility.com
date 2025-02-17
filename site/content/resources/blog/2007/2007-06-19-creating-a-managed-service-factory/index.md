@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/creating-a-managed-service-factory
 - /resources/blog/creating-a-managed-service-factory
 tags: []
-categories: []
+categories:
+- Technical Excellence
 preview: metro-merilllynch-128-link-3-3.png
 
 ---

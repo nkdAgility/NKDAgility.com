@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/why-i-think-vb-net-is-a-better-choice-than-c-
 - /resources/blog/why-i-think-vb-net-is-a-better-choice-than-c
 tags: []
-categories: []
+categories:
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

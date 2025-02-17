@@ -21,7 +21,9 @@ aliasesFor404:
 - /information-sync
 - /blog/information-sync
 - /resources/blog/information-sync
-tags: []
+tags:
+- Windows
+- Troubleshooting
 categories:
 - Products and Books
 - Miscellaneous

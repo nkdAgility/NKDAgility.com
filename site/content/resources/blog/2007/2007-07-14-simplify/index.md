@@ -21,7 +21,8 @@ aliasesFor404:
 - /simplify
 - /blog/simplify
 - /resources/blog/simplify
-categories: []
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
 tags: []
-categories: []
+categories:
+- Install and Configuration
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

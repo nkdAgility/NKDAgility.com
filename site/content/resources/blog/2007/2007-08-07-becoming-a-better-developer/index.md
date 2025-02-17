@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/becoming-a-better-developer---
 - /resources/blog/becoming-a-better-developer
 tags: []
-categories: []
+categories:
+- Miscellaneous
+- Personal
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

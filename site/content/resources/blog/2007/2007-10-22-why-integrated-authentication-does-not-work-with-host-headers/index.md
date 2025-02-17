@@ -25,7 +25,9 @@ aliasesFor404:
 - /why-integrated-authentication-does-not-work-with-host-headers-
 - /blog/why-integrated-authentication-does-not-work-with-host-headers-
 - /resources/blog/why-integrated-authentication-does-not-work-with-host-headers
-tags: []
+tags:
+- Windows
+- Troubleshooting
 categories: []
 
 ---

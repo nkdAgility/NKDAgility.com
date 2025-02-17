@@ -25,7 +25,10 @@ aliasesFor404:
 - /where-am-i-
 - /blog/where-am-i-
 - /resources/blog/where-am-i
-tags: []
+tags:
+- Windows
+- Technical Mastery
+- Software Development
 categories: []
 preview: metro-merilllynch-128-link-5-1.png
 

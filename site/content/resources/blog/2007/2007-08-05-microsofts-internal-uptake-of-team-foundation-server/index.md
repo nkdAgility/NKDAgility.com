@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
 - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 tags: []
-categories: []
+categories:
+- News and Reviews
+- Products and Books
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

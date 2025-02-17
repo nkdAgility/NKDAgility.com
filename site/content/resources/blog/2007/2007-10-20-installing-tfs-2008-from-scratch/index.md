@@ -21,7 +21,11 @@ aliasesFor404:
 - /installing-tfs-2008-from-scratch
 - /blog/installing-tfs-2008-from-scratch
 - /resources/blog/installing-tfs-2008-from-scratch
-tags: []
+tags:
+- Windows
+- System Configuration
+- Software Development
+- Troubleshooting
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

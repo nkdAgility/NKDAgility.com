@@ -25,7 +25,8 @@ aliasesFor404:
 - /jadie-hinshelwood--a-yummy-mummy-is-born-
 - /blog/jadie-hinshelwood--a-yummy-mummy-is-born-
 - /resources/blog/jadie-hinshelwood-a-yummy-mummy-is-born
-categories: []
+categories:
+- Personal
 preview: nakedalm-logo-128-link-3-3.png
 tags: []
 

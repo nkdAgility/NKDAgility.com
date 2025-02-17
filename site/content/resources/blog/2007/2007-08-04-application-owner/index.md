@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/application-owner
 tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Application Lifecycle Management
 
 ---
 In my company it is the job of someone in business technology to manage production applications. Personally I think that this is a job for a Project Manager, not a developer, as it is about management and is not particularly technical. You do not actually have to carry out any of the work on the application, just:

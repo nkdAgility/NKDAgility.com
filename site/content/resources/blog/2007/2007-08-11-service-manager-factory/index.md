@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/service-manager-factory
 - /resources/blog/service-manager-factory
 tags: []
-categories: []
+categories:
+- Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

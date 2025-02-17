@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/creating-your-own-event-handler
 - /resources/blog/creating-your-own-event-handler
 tags: []
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

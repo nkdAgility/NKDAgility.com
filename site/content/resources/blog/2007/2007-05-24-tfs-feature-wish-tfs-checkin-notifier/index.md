@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/tfs-feature-wish-(tfs-checkin-notifier)
 - /resources/blog/tfs-feature-wish-tfs-checkin-notifier
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Miscellaneous
 tags: []
 
 ---

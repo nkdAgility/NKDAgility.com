@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
 - /resources/blog/a-change-for-the-better-1
 tags: []
-categories: []
+categories:
+- Miscellaneous
+- Personal
 preview: metro-aggreko-128-link-1-1.png
 
 ---

@@ -21,7 +21,8 @@ aliasesFor404:
 - /office-mobile-2007
 - /blog/office-mobile-2007
 - /resources/blog/office-mobile-2007
-tags: []
+tags:
+- Windows
 categories: []
 preview: metro-office-128-link-1-1.png
 
