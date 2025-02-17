@@ -20,18 +20,19 @@ card:
   content: Discover more about Common Goals and how it can help you in your Agile journey!
   title: Common Goals
 categories:
-- Agile Product Management
+- Scrum
 - People and Process
+- Agile Product Management
 tags:
-- Agile Planning
-- Agile Project Management
-- Product Owner
-- Professional Scrum
 - Scrum Product Development
+- Strategy
 - Scrum Team
 - Strategic Goals
-- Strategy
+- Professional Scrum
+- Agile Project Management
+- Product Owner
 - Team Motivation
+- Agile Planning
 
 ---
 It is important for all participants and stakeholders to understand an organization's strategic goals and how their work contributes to achieving them. This alignment leads to focused efforts, efficient resource utilization, and better decision-making. Understanding the organization's objectives also motivates participants and stakeholders, leading to a greater sense of ownership, accountability, and commitment to achieving the goals.

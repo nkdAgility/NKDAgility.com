@@ -21,7 +21,9 @@ aliasesFor404:
 - /compatibility-view-in-ie8
 - /blog/compatibility-view-in-ie8
 - /resources/blog/compatibility-view-in-ie8
-tags: []
+tags:
+- Windows
+- Troubleshooting
 preview: nakedalm-logo-128-link-2-2.png
 categories: []
 

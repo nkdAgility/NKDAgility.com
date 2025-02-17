@@ -21,8 +21,16 @@ aliasesFor404:
 - /choosing-a-process-template-for-your-team-project
 - /blog/choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
+- Practical Techniques and Tooling
+- Product Delivery
+- Products and Books
+- Azure DevOps
 preview: IC749984-1-1.png
 
 ---

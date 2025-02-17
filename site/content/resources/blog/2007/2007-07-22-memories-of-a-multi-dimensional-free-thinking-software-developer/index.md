@@ -21,9 +21,11 @@ aliasesFor404:
 - /memories-of-a-multi-dimensional-free-thinking-software-developer
 - /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
 - /resources/blog/memories-of-a-multi-dimensional-free-thinking-software-developer
-tags: []
+tags:
+- Software Developers
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Miscellaneous
 
 ---
 I thought I should blog about my gift and how it has impacted my skills as a software developer. I want to do this for a number of reasons:

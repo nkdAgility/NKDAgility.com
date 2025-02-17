@@ -21,7 +21,9 @@ aliasesFor404:
 - /the-delivery-mk-ii
 - /blog/the-delivery-mk-ii
 - /resources/blog/the-delivery-mk-ii
-categories: []
+categories:
+- Personal
+- Miscellaneous
 preview: nakedalm-logo-128-link-4-1.png
 tags: []
 

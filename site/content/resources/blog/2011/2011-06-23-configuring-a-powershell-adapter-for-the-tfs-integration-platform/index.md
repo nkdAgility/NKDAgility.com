@@ -21,8 +21,12 @@ aliasesFor404:
 - /configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
-tags: []
-categories: []
+tags:
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 
 ---
 ![](images/image_thumb-1-1.png)

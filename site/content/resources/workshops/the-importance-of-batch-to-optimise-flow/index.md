@@ -23,21 +23,25 @@ card:
   content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
   title: The Importance of Batch to Optimise Flow
 categories:
-- Events and Presentations
 - People and Process
 - Practical Techniques and Tooling
+- Value Delivery
+- Flow Efficiency
+- Events and Presentations
+- Lean
+- Product Delivery
 tags:
+- Team Performance
+- Scrum Product Development
 - Agile Frameworks
 - Agile Project Management
 - Lean Principles
-- Lean Product Development
-- Lean Thinking
-- Operational Practices
 - Pragmatic Thinking
-- Scrum Product Development
+- Lean Product Development
 - Software Development
-- Team Performance
+- Lean Thinking
 - Throughput
+- Operational Practices
 
 ---
 ## Duration

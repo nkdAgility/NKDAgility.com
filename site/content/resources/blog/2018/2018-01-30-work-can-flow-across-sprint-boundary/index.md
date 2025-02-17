@@ -26,8 +26,16 @@ aliasesFor404:
 - /work-can-flow-across-the-sprint-boundary
 - /blog/work-can-flow-across-the-sprint-boundary
 - /resources/blog/work-can-flow-across-sprint-boundary
-tags: []
-categories: []
+tags:
+- Agile Project Management
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Product Delivery
+- Agile Product Management
+- Flow Efficiency
+- Practical Techniques and Tooling
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

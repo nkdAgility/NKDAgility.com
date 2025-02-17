@@ -25,20 +25,9 @@ card:
   content: Discover more about Kanban Guide and how it can help you in your Agile journey!
   title: Kanban Guide
 categories:
-- Flow Efficiency
 - Kanban
-- Lean
 tags:
-- Agile Frameworks
-- Agile Project Management
-- Cycle Time
-- Lean Principles
-- Lean Product Development
-- Lean Thinking
 - Operational Practices
-- Software Development
-- Strategy
-- Throughput
 
 ---
 December 2020

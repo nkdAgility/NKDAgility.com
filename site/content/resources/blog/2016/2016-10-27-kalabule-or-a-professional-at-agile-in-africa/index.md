@@ -21,8 +21,16 @@ aliasesFor404:
 - /kalabule-or-a-professional-at-agile-in-africa
 - /blog/kalabule-or-a-professional-at-agile-in-africa
 - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
-tags: []
-categories: []
+tags:
+- Agile Values and Principles
+- Scrum Values
+- Software Developers
+- Agile Philosophy
+- Software Development
+- Organisational Culture
+categories:
+- People and Process
+- Events and Presentations
 preview: clip_image001-2-2.png
 
 ---

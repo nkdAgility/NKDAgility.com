@@ -23,20 +23,21 @@ card:
   content: Discover more about Definition of Ready (DoR) and how it can help you in your Agile journey!
   title: Definition of Ready (DoR)
 categories:
-- Agile Product Management
+- Scrum
 - People and Process
+- Agile Product Management
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Backlog Refinement
 - Definition of Ready
-- Pragmatic Thinking
 - Product Backlog
-- Professional Scrum
 - Scrum Product Development
 - Scrum Team
 - Software Developers
+- Backlog Refinement
+- Agile Frameworks
+- Professional Scrum
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Planning
 - Software Development
 
 ---

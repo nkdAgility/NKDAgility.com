@@ -26,8 +26,15 @@ aliasesFor404:
 - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/blog/backlog-not-refined-wrong
-tags: []
-categories: []
+tags:
+- Scrum Product Development
+- Backlog Refinement
+- Product Backlog
+- Professional Scrum
+- Software Development
+- Agile Project Management
+categories:
+- Scrum
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

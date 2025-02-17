@@ -23,7 +23,9 @@ aliasesFor404:
 - /resources/blog/microsoft-has-acquired-teamplain
 tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- News and Reviews
+- Products and Books
 
 ---
 Have you looked at the features of TeamPlain and wished that you could convince your company to buy it for all those users that look at VS2005 and balk! Now you can, for free...

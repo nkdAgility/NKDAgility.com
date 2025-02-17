@@ -25,8 +25,12 @@ aliasesFor404:
 - /windows-8-issue--unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 - /blog/windows-8-issue--unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 - /resources/blog/windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
-tags: []
-categories: []
+tags:
+- Windows
+- Troubleshooting
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: puzzle-issue-problem-128-link-5-5.png
 
 ---

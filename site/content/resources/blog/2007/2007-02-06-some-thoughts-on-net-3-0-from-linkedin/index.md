@@ -25,8 +25,15 @@ aliasesFor404:
 - /some-thoughts-on--net-3-0-from-linkedin
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Software Development
+categories:
+- Events and Presentations
+- Code and Complexity
+- News and Reviews
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

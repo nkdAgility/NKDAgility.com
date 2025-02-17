@@ -25,8 +25,11 @@ aliasesFor404:
 - /tfs-event-handler-(prototype)-refresh
 - /blog/tfs-event-handler-(prototype)-refresh
 - /resources/blog/tfs-event-handler-prototype-refresh
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Software Development
+categories:
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

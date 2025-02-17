@@ -21,8 +21,12 @@ aliasesFor404:
 - /install-release-management-2013
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
-tags: []
-categories: []
+tags:
+- Release Management
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

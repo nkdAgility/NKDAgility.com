@@ -29,8 +29,10 @@ aliasesFor404:
 - /professional-scrum-foundations-in-alameda--california
 - /blog/professional-scrum-foundations-in-alameda--california
 - /resources/blog/professional-scrum-foundations-in-alameda-california
-tags: []
-categories: []
+tags:
+- Agile Project Management
+categories:
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

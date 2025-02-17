@@ -25,8 +25,15 @@ aliasesFor404:
 - /how-to-delete-work-items-from-tfs-or-vso
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Azure Boards
+- Software Development
+- Technical Mastery
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

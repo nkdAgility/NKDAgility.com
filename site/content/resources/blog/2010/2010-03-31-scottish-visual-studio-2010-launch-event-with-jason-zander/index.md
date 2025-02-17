@@ -21,8 +21,15 @@ aliasesFor404:
 - /scottish-visual-studio-2010-launch-event-with-jason-zander
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 - /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
-tags: []
-categories: []
+tags:
+- Windows
+- Team Collaboration
+- Technical Mastery
+- Collaboration Tools
+- Software Development
+- Software Developers
+categories:
+- Events and Presentations
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

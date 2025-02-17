@@ -25,8 +25,17 @@ aliasesFor404:
 - /execute-tests-with-release-management-for-visual-studio-2013
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
 - /resources/blog/execute-tests-release-management-visual-studio-2013
-tags: []
-categories: []
+tags:
+- Release Management
+- Automated Testing
+categories:
+- Install and Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- DevOps
+- Azure DevOps
+- Technical Excellence
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

@@ -21,9 +21,16 @@ aliasesFor404:
 - /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2005-128-link-4-4.png
-categories: []
+categories:
+- Code and Complexity
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
+- Application Lifecycle Management
 
 ---
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image.png)I have recently been working on a TFS Integration Platform Adapter for integrating with Test Track Pro. The problem with TTP is that it does not contain any history.

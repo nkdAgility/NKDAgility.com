@@ -25,7 +25,8 @@ aliasesFor404:
 - /why-do-we-care-about-software-factories-
 - /blog/why-do-we-care-about-software-factories-
 - /resources/blog/why-do-we-care-about-software-factories
-tags: []
+tags:
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

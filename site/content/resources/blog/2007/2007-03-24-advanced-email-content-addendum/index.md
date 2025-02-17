@@ -21,7 +21,9 @@ aliasesFor404:
 - /advanced-email-content-addendum
 - /blog/advanced-email-content-addendum
 - /resources/blog/advanced-email-content-addendum
-tags: []
+tags:
+- Windows
+- Troubleshooting
 categories: []
 preview: metro-merilllynch-128-link-1-1.png
 

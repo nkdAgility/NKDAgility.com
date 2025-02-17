@@ -27,9 +27,15 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview---architecture
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-architecture
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories: []
+categories:
+- Code and Complexity
+- Events and Presentations
+- Practical Techniques and Tooling
+- Technical Excellence
+- Application Lifecycle Management
 
 ---
 How Visual Studio helps teams explore, understand, maintain, and uphold their project's architecture. Introduction to some basic architecture & design concepts and common trouble spots for teams.

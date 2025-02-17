@@ -21,7 +21,10 @@ aliasesFor404:
 - /serialize-assembly-for-service-calls-over-http
 - /blog/serialize-assembly-for-service-calls-over-http
 - /resources/blog/serialize-assembly-for-service-calls-over-http
-tags: []
+tags:
+- Technical Mastery
+- Troubleshooting
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

@@ -21,8 +21,12 @@ aliasesFor404:
 - /release-management-with-team-foundation-server-2012
 - /blog/release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
-tags: []
-categories: []
+tags:
+- Release Management
+- Software Development
+categories:
+- DevOps
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

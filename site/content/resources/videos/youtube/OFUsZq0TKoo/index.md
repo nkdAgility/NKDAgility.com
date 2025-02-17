@@ -22,20 +22,19 @@ preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 isShort: false
 tags:
-- Ability to Innovate
-- Agile Philosophy
-- Continuous Learning
-- Decision Making
-- Evidence Based Leadership
-- Evidence Based Management
-- Experimentation
-- Hypothesis Driven Development
 - Lean Product Development
-- Lean Startup
-- Pragmatic Thinking
 - Product Discovery
-- Product Management
 - Product Validation
+- Hypothesis Driven Development
+- Pragmatic Thinking
+- Evidence Based Leadership
+- Product Management
+- Continuous Learning
+- Experimentation
+- Ability to Innovate
+- Decision Making
+- Lean Startup
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,9 +42,14 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 - Value Delivery
+- Metrics and Learning
+- Agile Product Management
+- Practical Techniques and Tooling
+- Organisational Agility
+- Evidence Based Management
 
 ---
 As I reflect on my journey in product development, I can’t help but think about the transformative power of structured learning. Recently, I had the opportunity to delve into a course that promises to change the game for anyone involved in product development. I want to share my insights on how this course can significantly enhance your approach to creating user value, reducing waste, and fostering collaboration.

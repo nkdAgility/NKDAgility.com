@@ -25,8 +25,12 @@ aliasesFor404:
 - /create-a-build-vnext-build-definition
 - /blog/create-a-build-vnext-build-definition
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
-tags: []
-categories: []
+tags:
+- Software Development
+- Azure Pipelines
+categories:
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---

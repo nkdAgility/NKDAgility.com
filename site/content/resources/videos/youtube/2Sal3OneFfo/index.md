@@ -28,7 +28,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Azure DevOps
+- Practical Techniques and Tooling
 
 ---
 When it comes to migrating to Azure DevOps, I often find myself reflecting on the myriad of services we offer to make this transition as seamless as possible. Having been in the trenches of DevOps for quite some time, I understand the challenges that come with moving projects, especially when it involves merging work items and ensuring that nothing gets lost in the process. 

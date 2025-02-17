@@ -21,8 +21,13 @@ aliasesFor404:
 - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
-tags: []
-categories: []
+tags:
+- Windows
+- Modern Source Control
+- System Configuration
+- Software Development
+categories:
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-12-12.png
 
 ---

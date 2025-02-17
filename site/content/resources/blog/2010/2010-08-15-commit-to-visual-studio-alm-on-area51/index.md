@@ -21,8 +21,15 @@ aliasesFor404:
 - /commit-to-visual-studio-alm-on-area51
 - /blog/commit-to-visual-studio-alm-on-area51
 - /resources/blog/commit-to-visual-studio-alm-on-area51
-tags: []
-categories: []
+tags:
+- Team Collaboration
+- Software Development
+- Modern Source Control
+categories:
+- News and Reviews
+- Azure DevOps
+- Application Lifecycle Management
+- Miscellaneous
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

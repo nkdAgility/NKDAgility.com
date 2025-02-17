@@ -22,14 +22,6 @@ duration: 600
 isShort: false
 tags:
 - Engineering Excellence
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
-- Technical Debt
-- Technical Mastery
-- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,8 +31,11 @@ resourceTypes:
 - video
 categories:
 - Code and Complexity
-- Product Delivery
 - Technical Excellence
+- Product Delivery
+- Value Delivery
+- Flow Efficiency
+- DevOps
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

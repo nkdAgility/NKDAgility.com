@@ -21,8 +21,20 @@ aliasesFor404:
 - /major-deadline
 - /blog/major-deadline
 - /resources/blog/major-deadline
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Software Development
+- Pragmatic Thinking
+- Technical Mastery
+- Digital Transformation
+categories:
+- Personal
+- Code and Complexity
+- Install and Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Technical Excellence
+- Product Delivery
 preview: metro-sharepoint-128-link-5-5.png
 
 ---

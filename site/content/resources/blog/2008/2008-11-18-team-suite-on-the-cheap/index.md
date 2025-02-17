@@ -21,8 +21,14 @@ aliasesFor404:
 - /team-suite-on-the-cheap
 - /blog/team-suite-on-the-cheap
 - /resources/blog/team-suite-on-the-cheap
-tags: []
-categories: []
+tags:
+- Team Performance
+- Collaboration Tools
+- Software Development
+- Team Collaboration
+- Software Developers
+categories:
+- Products and Books
 
 ---
 ![](images/vs_mainlogo-3-3.png)

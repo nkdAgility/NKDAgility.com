@@ -21,8 +21,14 @@ aliasesFor404:
 - /tf200035-sync-error-for-identity-with-tfs-2010
 - /blog/tf200035-sync-error-for-identity-with-tfs-2010
 - /resources/blog/tf200035-sync-error-for-identity-with-tfs-2010
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Troubleshooting
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 I recently ran into an odd problem at a customer where the local computer accounts of a computer joined to a domain started showing the SID periodically. For those not in the know, this is BAD.

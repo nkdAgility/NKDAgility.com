@@ -21,8 +21,15 @@ aliasesFor404:
 - /tfs-event-handler-prototype-configuration-demystified
 - /blog/tfs-event-handler-prototype-configuration-demystified
 - /resources/blog/tfs-event-handler-prototype-configuration-demystified
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Technical Mastery
+- Software Development
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

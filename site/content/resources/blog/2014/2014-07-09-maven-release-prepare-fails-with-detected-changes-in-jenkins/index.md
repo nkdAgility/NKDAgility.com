@@ -21,8 +21,23 @@ aliasesFor404:
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
-tags: []
-categories: []
+tags:
+- Windows
+- Modern Source Control
+- Release Management
+- Continuous Integration
+- Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- Software Development
+- System Configuration
+- Engineering Excellence
+- Operational Practices
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- DevOps
+- Application Lifecycle Management
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

@@ -27,8 +27,14 @@ aliasesFor404:
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /one-team-project-collection-to-rule-them-all
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-tags: []
-categories: []
+tags:
+- Troubleshooting
+categories:
+- Install and Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

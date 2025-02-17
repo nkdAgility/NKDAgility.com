@@ -21,9 +21,18 @@ aliasesFor404:
 - /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
-tags: []
+tags:
+- Software Development
+- Software Developers
+- Pragmatic Thinking
+- Operational Practices
+- Digital Transformation
+- System Configuration
 preview: metro-visual-studio-2010-128-link-4-4.png
-categories: []
+categories:
+- Platform Engineering
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)

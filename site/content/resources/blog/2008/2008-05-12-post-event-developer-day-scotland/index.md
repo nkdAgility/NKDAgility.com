@@ -25,9 +25,15 @@ aliasesFor404:
 - /post-event--developer-day-scotland---
 - /blog/post-event--developer-day-scotland---
 - /resources/blog/post-event-developer-day-scotland
-categories: []
+categories:
+- Events and Presentations
+- News and Reviews
+- Technical Excellence
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
-tags: []
+tags:
+- Software Development
+- Engineering Practices
 
 ---
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...

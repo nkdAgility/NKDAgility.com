@@ -21,8 +21,10 @@ aliasesFor404:
 - /linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /resources/blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
-tags: []
-categories: []
+tags:
+- Troubleshooting
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

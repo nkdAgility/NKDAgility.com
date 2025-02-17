@@ -21,8 +21,11 @@ aliasesFor404:
 - /configure-a-dns-server-for-an-azure-virtual-network
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
-tags: []
-categories: []
+tags:
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-4-4.png
 
 ---

@@ -21,8 +21,19 @@ aliasesFor404:
 - /how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
-tags: []
-categories: []
+tags:
+- Working Software
+- Software Developers
+- Release Management
+- Software Development
+- Modern Source Control
+- Continuous Integration
+- Operational Practices
+- Pragmatic Thinking
+- Azure Boards
+- Engineering Excellence
+categories:
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-30-30.png
 
 ---

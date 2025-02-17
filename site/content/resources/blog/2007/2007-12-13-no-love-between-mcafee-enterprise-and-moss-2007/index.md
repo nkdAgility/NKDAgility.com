@@ -21,8 +21,10 @@ aliasesFor404:
 - /no-love-between-mcafee-enterprise-and-moss-2007
 - /blog/no-love-between-mcafee-enterprise-and-moss-2007
 - /resources/blog/no-love-between-mcafee-enterprise-and-moss-2007
-tags: []
-categories: []
+tags:
+- Troubleshooting
+categories:
+- Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

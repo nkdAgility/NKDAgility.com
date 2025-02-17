@@ -25,7 +25,11 @@ aliasesFor404:
 - /small---new-business-websites
 - /blog/small---new-business-websites
 - /resources/blog/small-new-business-websites
-tags: []
+tags:
+- Estimation
+- Troubleshooting
+- Software Development
+- Entrepreneurship
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

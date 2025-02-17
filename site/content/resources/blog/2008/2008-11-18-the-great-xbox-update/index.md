@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/the-great-xbox-update
 - /resources/blog/the-great-xbox-update
 tags: []
-categories: []
+categories:
+- News and Reviews
 preview: metro-xbox-360-link-3-2.png
 
 ---

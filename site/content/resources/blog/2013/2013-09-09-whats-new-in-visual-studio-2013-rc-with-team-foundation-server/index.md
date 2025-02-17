@@ -25,8 +25,16 @@ aliasesFor404:
 - /what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
-tags: []
-categories: []
+tags:
+- Modern Source Control
+- Software Development
+- Collaboration Tools
+- Agile Planning Tools
+categories:
+- News and Reviews
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

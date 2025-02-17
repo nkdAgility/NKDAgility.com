@@ -22,31 +22,42 @@ aliasesFor404:
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
 tags:
-- Agile Frameworks
-- Agile Philosophy
+- Increment
+- Transparency
+- Software Development
+- Deployment Frequency
+- Customer Feedback Loops
+- Scrum Product Development
+- Working Software
+- Product Validation
+- Frequent Releases
+- Software Developers
+- Release Management
 - Agile Planning
+- Agile Philosophy
 - Agile Strategy
+- Lead Time
+- Agile Project Management
 - Agile Transformation
 - Continuous Delivery
-- Customer Feedback Loops
-- Deployment Frequency
-- Evidence Based Management
-- Frequent Releases
-- Increment
-- Lead Time
+- Agile Frameworks
 - Product Management
-- Product Validation
-- Release Management
-- Scrum Product Development
-- Software Developers
-- Software Development
-- Transparency
-- Working Software
+- Empirical Process Control
+- Throughput
+- Pragmatic Thinking
+- Strategy
+- Operational Practices
 categories:
 - Agile Product Management
-- Product Delivery
 - Value Delivery
+- Product Delivery
+- People and Process
+- Metrics and Learning
+- Market Adaptability
+- Business Agility
+- Flow Efficiency
 preview: 2025-02-10-without-delivery-no-value.jpg
+marketing: []
 
 ---
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.

@@ -22,27 +22,26 @@ preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false
 tags:
-- Ability to Innovate
-- Agile Philosophy
-- Agile Project Management
-- Continuous Learning
-- Decision Making
-- Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
 - Experimentation
-- Hypothesis Driven Development
-- Lean Product Development
-- Lean Startup
-- Lean Startup
-- Pragmatic Thinking
 - Product Discovery
+- Product Validation
+- Empirical Process Control
+- Continuous Learning
+- Hypothesis Driven Development
 - Product Management
+- Pragmatic Thinking
+- Decision Making
+- Sensemaking
+- Lean Product Development
+- Evidence Based Leadership
+- Scrum Product Development
 - Product Owner
 - Product Strategy
-- Product Validation
-- Scrum Product Development
-- Sensemaking
+- Ability to Innovate
+- Agile Project Management
+- Agile Philosophy
+- Agile Strategy
+- Lean Startup
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -52,7 +51,15 @@ resourceTypes:
 categories:
 - Discovery and Learning
 - People and Process
+- Agile Product Management
 - Product Delivery
+- Value Delivery
+- Complexity Thinking
+- Metrics and Learning
+- Evidence Based Management
+- Agile Product Operating Model
+- Systems Thinking
+- Sociotechnical Systems
 
 ---
 Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in product development. As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.

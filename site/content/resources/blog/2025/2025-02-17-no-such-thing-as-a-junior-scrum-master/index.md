@@ -21,31 +21,24 @@ aliasesFor404:
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
-- Accountability
-- Agile Frameworks
-- Agile Leadership
-- Agile Project Management
-- Operational Practices
-- Organisational Culture
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
-- Scrum Product Development
 - Scrum Team
-- Self Organisation
-- Software Developers
+- Accountability
+- Scrum Master
+- Agile Project Management
 - Software Development
-- Strategy
-- Team Collaboration
-- Team Motivation
+- Scrum Product Development
+- Professional Scrum
 - Team Performance
 - Technical Leadership
-- Technical Mastery
+- Agile Frameworks
+- Agile Leadership
+- Pragmatic Thinking
 categories:
-- Agile Product Management
 - People and Process
-- Product Delivery
+- Scrum
+- Agile Product Management
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
+marketing: []
 
 ---
 Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a Scrum Master. The idea of a “junior” Scrum Master is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the Scrum Team as a practitioner who has already demonstrated technical mastery, business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**

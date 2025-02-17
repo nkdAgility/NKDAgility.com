@@ -25,8 +25,12 @@ aliasesFor404:
 - /why-integrated-authentication-does-not-work-with-host-headers-
 - /blog/why-integrated-authentication-does-not-work-with-host-headers-
 - /resources/blog/why-integrated-authentication-does-not-work-with-host-headers
-tags: []
-categories: []
+tags:
+- Windows
+- Troubleshooting
+categories:
+- Install and Configuration
+- People and Process
 
 ---
 **You receive error 401.1 when you browse a [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Web site that uses Integrated Authentication and is hosted on IIS 5.1 or IIS 6**

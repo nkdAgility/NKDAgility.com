@@ -27,25 +27,17 @@ aliasesFor404:
 - /blog/the-urgent-call-for-agile-organisational-transformation
 - /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 tags:
-- Agile Leadership
-- Agile Philosophy
-- Agile Strategy
-- Agile Transformation
-- BetaCodex
-- Change Management
-- Digital Transformation
-- Large Scale Agility
 - Organisational Change
-- Organisational Culture
-- Organisational Physics
-- Scaling Agility
-- Sensemaking
-- Strategy
-- Trend Analysis
 categories:
 - Business Agility
-- Enterprise Agility
 - Organisational Agility
+- Enterprise Agility
+- People and Process
+- Resilience and Change
+- Market Adaptability
+- Beta Codex
+- Sociotechnical Systems
+- Complexity Thinking
 preview: 1686217267121-1-1-1.jpg
 
 ---

@@ -27,8 +27,17 @@ aliasesFor404:
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
-tags: []
-categories: []
+tags:
+- Modern Source Control
+- Windows
+- Troubleshooting
+- Software Development
+- System Configuration
+- Pragmatic Thinking
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-problem-icon-4-4.png
 
 ---

@@ -25,8 +25,17 @@ aliasesFor404:
 - /avoid-the-pick-n-mix-branching-anti-pattern
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
-tags: []
-categories: []
+tags:
+- Technical Mastery
+categories:
+- Technical Excellence
+- Code and Complexity
+- Application Lifecycle Management
+- Product Delivery
+- Value Delivery
+- Practical Techniques and Tooling
+- DevOps
+- Flow Efficiency
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

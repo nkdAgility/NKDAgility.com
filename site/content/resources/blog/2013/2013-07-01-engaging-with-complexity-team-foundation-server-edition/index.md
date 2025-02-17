@@ -27,8 +27,17 @@ aliasesFor404:
 - /blog/engaging-with-complexity---team-foundation-server-edition
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
-tags: []
-categories: []
+tags:
+- Windows
+categories:
+- Code and Complexity
+- Install and Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Complexity Thinking
+- DevOps
+- Azure DevOps
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

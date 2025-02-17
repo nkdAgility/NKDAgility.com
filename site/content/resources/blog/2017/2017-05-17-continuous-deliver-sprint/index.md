@@ -29,8 +29,15 @@ aliasesFor404:
 - /i-do-continuous-deliver--why-should-i-sprint-
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
 - /resources/blog/continuous-deliver-sprint
-tags: []
-categories: []
+tags:
+- Agile Project Management
+categories:
+- Scrum
+- People and Process
+- Value Delivery
+- Practical Techniques and Tooling
+- Product Delivery
+- Agile Product Management
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

@@ -25,9 +25,16 @@ aliasesFor404:
 - /process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
 - /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2005-128-link-5-5.png
-categories: []
+categories:
+- Scrum
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
+- Application Lifecycle Management
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

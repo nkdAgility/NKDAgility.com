@@ -21,8 +21,12 @@ aliasesFor404:
 - /error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 - /blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 - /resources/blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
-tags: []
-categories: []
+tags:
+- Windows
+- Troubleshooting
+- Software Development
+categories:
+- Install and Configuration
 
 ---
 When you try to add a group from Active Directory in the Release Management Client in Visual Studio 2013 you get an unhandled exception.

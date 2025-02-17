@@ -21,8 +21,13 @@ aliasesFor404:
 - /another-day-another-codeplex-project
 - /blog/another-day-another-codeplex-project
 - /resources/blog/another-day-another-codeplex-project
-tags: []
-categories: []
+tags:
+- Working Software
+- Technical Mastery
+- Troubleshooting
+- Software Development
+categories:
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-2-2.png
 
 ---

@@ -22,14 +22,8 @@ preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
 duration: 414
 isShort: false
 tags:
-- Ability to Innovate
 - Decision Making
-- Empirical Process Control
 - Evidence Based Leadership
-- Evidence Based Management
-- Operational Practices
-- Pragmatic Thinking
-- Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,9 +31,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Metrics and Learning
-- People and Process
-- Value Delivery
+- Evidence Based Management
 
 ---
 In my journey through the world of agile and organisational management, I've come to appreciate the profound impact that evidence-based management can have on our decision-making processes. It’s not just a buzzword; it’s a strategic approach that can transform how we operate at both tactical and strategic levels. Today, I want to share my insights on this topic, drawing from my experiences and the lessons I've learned along the way.

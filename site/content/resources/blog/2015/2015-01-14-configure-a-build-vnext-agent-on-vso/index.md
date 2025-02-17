@@ -25,8 +25,13 @@ aliasesFor404:
 - /configure-a-build-vnext-agent
 - /blog/configure-a-build-vnext-agent
 - /resources/blog/configure-a-build-vnext-agent-on-vso
-tags: []
-categories: []
+tags:
+- System Configuration
+- Software Development
+- Azure Pipelines
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

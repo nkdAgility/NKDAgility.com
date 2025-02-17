@@ -30,7 +30,8 @@ aliasesFor404:
 - /blog/100-000-visits
 - /resources/blog/100000-visits
 tags: []
-categories: []
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

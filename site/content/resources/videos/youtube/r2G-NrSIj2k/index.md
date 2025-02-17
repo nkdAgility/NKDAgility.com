@@ -23,22 +23,23 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Engineering Excellence
 - Engineering Practices
 - Modern Source Control
+- Technical Mastery
+- Engineering Excellence
+- Software Development
 - Operational Practices
 - Pragmatic Thinking
-- Software Development
-- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Code and Complexity
 - Practical Techniques and Tooling
+- Code and Complexity
 - Technical Excellence
+- DevOps
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

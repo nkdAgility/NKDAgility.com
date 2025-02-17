@@ -27,8 +27,12 @@ aliasesFor404:
 - /blog/sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
 - /sharepoint-2013-issue
 - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
-tags: []
-categories: []
+tags:
+- Troubleshooting
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

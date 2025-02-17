@@ -21,8 +21,11 @@ aliasesFor404:
 - /interviewing-for-microsoft
 - /blog/interviewing-for-microsoft
 - /resources/blog/interviewing-for-microsoft
-tags: []
-categories: []
+tags:
+- Continuous Learning
+categories:
+- Personal
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

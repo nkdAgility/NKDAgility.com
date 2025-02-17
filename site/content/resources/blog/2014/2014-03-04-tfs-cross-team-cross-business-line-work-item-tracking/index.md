@@ -25,8 +25,17 @@ aliasesFor404:
 - /tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- People and Process
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
+- Product Delivery
+- Azure DevOps
+- Technical Excellence
+- Sociotechnical Systems
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

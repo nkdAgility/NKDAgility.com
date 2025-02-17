@@ -27,8 +27,15 @@ aliasesFor404:
 - /team-foundation-server-error-tf30177--team-project-creation-failed---part-2
 - /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
 - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
-tags: []
-categories: []
+tags:
+- Windows
+- Troubleshooting
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

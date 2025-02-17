@@ -25,8 +25,31 @@ aliasesFor404:
 - /what's-in-a-burndown-
 - /blog/what's-in-a-burndown-
 - /resources/blog/whats-in-a-burndown
-tags: []
-categories: []
+tags:
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Team Performance
+- Agile Planning
+- Software Developers
+- Agile Project Management
+- Professional Scrum
+- Forecasting
+- Pragmatic Thinking
+- Agile Frameworks
+- Agile Transformation
+- Empirical Process Control
+- Agile Planning Tools
+- Scrum Master
+- Product Management
+- Estimation
+categories:
+- Scrum
+- Practical Techniques and Tooling
+- Product Delivery
+- Metrics and Learning
+- Agile Product Management
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

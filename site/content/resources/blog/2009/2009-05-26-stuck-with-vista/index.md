@@ -25,9 +25,11 @@ aliasesFor404:
 - /stuck-with-vista-
 - /blog/stuck-with-vista-
 - /resources/blog/stuck-with-vista
-tags: []
+tags:
+- Windows
 preview: nakedalm-logo-128-link-7-1.png
-categories: []
+categories:
+- Miscellaneous
 
 ---
 If, like me, you are stuck with the old and decrepit version of Windows that is Vista SP1 at work then you may be interested in Service Pack 2 which became available on the MS Download site today.

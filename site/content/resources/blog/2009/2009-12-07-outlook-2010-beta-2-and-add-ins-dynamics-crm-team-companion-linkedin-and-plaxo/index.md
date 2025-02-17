@@ -29,9 +29,11 @@ aliasesFor404:
 - /outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
 - /blog/outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
 - /resources/blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
-tags: []
+tags:
+- Troubleshooting
 preview: metro-office-128-link-7-7.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 At SSW we are extensive users of Dynamics CRM. I wanted to give Office 2010 a go, but I had to make sure that the Dynamics CRM plug-in, and my other plug-ins worked.

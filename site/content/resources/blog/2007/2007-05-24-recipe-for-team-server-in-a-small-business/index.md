@@ -21,9 +21,15 @@ aliasesFor404:
 - /recipe-for-team-server-in-a-small-business
 - /blog/recipe-for-team-server-in-a-small-business
 - /resources/blog/recipe-for-team-server-in-a-small-business
-tags: []
+tags:
+- Modern Source Control
+- Pragmatic Thinking
+- Collaboration Tools
+- Software Development
+- Operational Practices
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Practical Techniques and Tooling
 
 ---
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.

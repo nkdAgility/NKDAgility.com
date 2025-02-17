@@ -23,34 +23,45 @@ preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 525
 isShort: false
 tags:
-- Ability to Innovate
+- Pragmatic Thinking
+- Operational Practices
+- Evidence Based Leadership
 - Agile Philosophy
-- Agile Project Management
+- Product Management
+- Engineering Excellence
 - Agile Strategy
 - Agile Transformation
-- Decision Making
-- Digital Transformation
-- Engineering Excellence
-- Evidence Based Leadership
-- Evidence Based Management
-- Lean Principles
-- Lean Product Development
-- Operational Practices
-- Pragmatic Thinking
-- Product Management
+- Agile Project Management
+- Ability to Innovate
 - Software Developers
-- Software Development
 - Strategy
+- Decision Making
+- Software Development
 - Trend Analysis
+- Digital Transformation
+- Lean Product Development
+- Lean Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Business Agility
 - Metrics and Learning
+- Agile Product Management
+- Agile Product Operating Model
 - People and Process
+- Business Agility
+- Value Delivery
+- Product Delivery
+- Organisational Agility
+- Enterprise Agility
+- Market Adaptability
+- Flow Efficiency
+- Evidence Based Management
+- Value Stream Management
+- DevOps
+- Practical Techniques and Tooling
 
 ---
 Most organisations are blissfully unaware of the sheer amount of waste lurking within their systems. It’s staggering to think about the money they’re haemorrhaging simply because they lack a focus on engineering excellence. In the context of agile and business agility, we need to embrace a continuous mindset—continuous integration, continuous delivery, continuous feedback, and continuous testing. This dynamic nature of operations allows us to identify problems sooner, which means they’re smaller and easier to address. By doing so, we not only eliminate waste but also gather valuable data and telemetry that help us understand our processes better. This understanding is crucial for pinpointing problem areas and taking action before costs spiral out of control.

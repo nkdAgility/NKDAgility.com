@@ -25,8 +25,16 @@ aliasesFor404:
 - /access-denied-user-needs-label-permission-in-tfs
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Software Development
+- System Configuration
+- Pragmatic Thinking
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Discovery and Learning
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

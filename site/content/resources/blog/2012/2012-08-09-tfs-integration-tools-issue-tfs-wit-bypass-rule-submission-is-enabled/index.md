@@ -27,8 +27,12 @@ aliasesFor404:
 - /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
-tags: []
-categories: []
+tags:
+- Troubleshooting
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-problem-icon-5-5.png
 
 ---

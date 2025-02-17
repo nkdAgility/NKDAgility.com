@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/web-2-0
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Miscellaneous
 
 ---
 Over the last wee while I have been seeing a lot of talk of “Web 2.0” and I wondered what the hell it was! Was it .NET related? No. (Well kind of) So I set out on the onerous task of finding out. So I Googled it, and low and behold, the first result!

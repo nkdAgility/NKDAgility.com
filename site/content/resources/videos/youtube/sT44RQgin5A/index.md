@@ -29,31 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Ability to Innovate
-- Agile Frameworks
-- Agile Project Management
-- Cycle Time
 - Decision Making
-- Deployment Frequency
-- Empirical Process Control
-- Engineering Excellence
-- Evidence Based Leadership
-- Evidence Based Management
-- Lead Time
-- Operational Practices
-- Pragmatic Thinking
 - Product Management
-- Product Strategy
-- Scrum Product Development
-- Software Development
-- Technical Debt
-- Throughput
-- Working Software
+- Evidence Based Leadership
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Metrics and Learning
 - Value Delivery
+- Evidence Based Management
 
 ---
 When we talk about _evidence-based management_ in Scrum, we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.

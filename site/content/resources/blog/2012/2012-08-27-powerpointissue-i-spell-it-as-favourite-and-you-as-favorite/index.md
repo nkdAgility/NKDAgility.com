@@ -25,8 +25,13 @@ aliasesFor404:
 - /i-spell-it-as-favourite-and-you-as-favorite
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-tags: []
-categories: []
+tags:
+- Windows
+- Technical Mastery
+- Troubleshooting
+categories:
+- Practical Techniques and Tooling
+- Miscellaneous
 preview: metro-binary-vb-128-link-6-6.png
 
 ---

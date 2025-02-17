@@ -25,8 +25,10 @@ aliasesFor404:
 - /the-value-of-an-independent-scotland-for-me
 - /blog/the-value-of-an-independent-scotland-for-me
 - /resources/blog/the-value-of-an-independent-scotland
-tags: []
-categories: []
+tags:
+- Decision Making
+categories:
+- Personal
 preview: metro-yes-scotland-128-link-1-1.png
 
 ---

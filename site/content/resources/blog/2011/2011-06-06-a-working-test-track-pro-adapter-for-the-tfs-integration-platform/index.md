@@ -21,8 +21,23 @@ aliasesFor404:
 - /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
-tags: []
-categories: []
+tags:
+- Working Software
+- Software Developers
+- Technical Mastery
+- Troubleshooting
+- Software Development
+- System Configuration
+- Operational Practices
+- Pragmatic Thinking
+- Increment
+- Engineering Excellence
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
+- Application Lifecycle Management
 
 ---
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)

@@ -21,8 +21,15 @@ aliasesFor404:
 - /creating-wcf-service-host-programmatically
 - /blog/creating-wcf-service-host-programmatically
 - /resources/blog/creating-wcf-service-host-programmatically
-tags: []
-categories: []
+tags:
+- Windows
+- Software Development
+- Technical Mastery
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -22,9 +22,9 @@ preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- Operational Practices
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,8 +32,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
+- Azure DevOps
 - Practical Techniques and Tooling
 
 ---

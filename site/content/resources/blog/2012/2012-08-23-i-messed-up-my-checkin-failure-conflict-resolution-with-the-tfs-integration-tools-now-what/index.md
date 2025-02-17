@@ -25,8 +25,13 @@ aliasesFor404:
 - /i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools…-now-what-
 - /resources/blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Modern Source Control
+- Pragmatic Thinking
+- Software Development
+categories:
+- Practical Techniques and Tooling
 
 ---
 If you say my post on “TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure” which I just updated you will know that I messed up the conflict resolution by mixing up the “Source Version” and “Target Version”.

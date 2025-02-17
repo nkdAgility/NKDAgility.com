@@ -31,25 +31,9 @@ aliasesFor404:
 - /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 tags:
-- Ability to Innovate
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Strategy
-- Agile Transformation
-- Employee Engagement
-- Lean Principles
-- Lean Product Development
-- Lean Thinking
-- Organisational Change
 - Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Team Motivation
 categories:
-- Lean
 - People and Process
-- Sociotechnical Systems
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

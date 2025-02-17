@@ -25,8 +25,16 @@ aliasesFor404:
 - /why-should-i-use-visual-studio-alm
 - /blog/why-should-i-use-visual-studio-alm
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-tags: []
-categories: []
+tags:
+- Software Development
+- Decision Making
+- Release Management
+- Pragmatic Thinking
+- Technical Mastery
+- Engineering Excellence
+- Customer Feedback Loops
+categories:
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

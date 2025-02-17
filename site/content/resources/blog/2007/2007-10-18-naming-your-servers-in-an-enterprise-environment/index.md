@@ -21,8 +21,10 @@ aliasesFor404:
 - /naming-your-servers-in-an-enterprise-environment
 - /blog/naming-your-servers-in-an-enterprise-environment
 - /resources/blog/naming-your-servers-in-an-enterprise-environment
-tags: []
-categories: []
+tags:
+- System Configuration
+categories:
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -28,31 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Ability to Innovate
-- Customer Feedback Loops
-- Customer Satisfaction
-- Decision Making
-- Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
-- Experimentation
-- Hypothesis Driven Development
-- Lean Product Development
-- Lean Startup
-- MVP
-- Pragmatic Thinking
-- Product Discovery
-- Product Management
-- Product Owner
-- Product Strategy
 - Product Validation
-- Strategy
+- Product Management
+- Hypothesis Driven Development
 resourceTypes:
 - video
 categories:
 - Agile Product Management
 - People and Process
+- Evidence Based Management
+- Metrics and Learning
+- Agile Product Operating Model
+- Decision Theory
+- Value Delivery
 - Product Delivery
+- Discovery and Learning
 
 ---
 When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.

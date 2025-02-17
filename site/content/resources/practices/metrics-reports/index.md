@@ -24,26 +24,32 @@ card:
   content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
   title: Metrics and Reports
 categories:
-- Flow Efficiency
 - Metrics and Learning
+- Flow Efficiency
 - Transparency and Accountability
-tags:
-- Agile Project Management
-- Cycle Time
-- Decision Making
-- Deployment Frequency
-- Empirical Process Control
-- Engineering Excellence
-- Evidence Based Leadership
+- Practical Techniques and Tooling
+- Agile Product Operating Model
+- Value Delivery
+- Product Delivery
 - Evidence Based Management
-- Operational Practices
-- Pragmatic Thinking
-- Product Management
-- Release Management
-- Team Performance
-- Throughput
+- Value Stream Management
+- People and Process
+tags:
 - Transparency
+- Throughput
+- Team Performance
+- Product Management
+- Cycle Time
+- Operational Practices
+- Empirical Process Control
+- Agile Project Management
+- Pragmatic Thinking
+- Deployment Frequency
+- Evidence Based Leadership
+- Release Management
 - Working Software
+- Decision Making
+- Engineering Excellence
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

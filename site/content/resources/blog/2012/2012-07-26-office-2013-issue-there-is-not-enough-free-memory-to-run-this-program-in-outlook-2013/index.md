@@ -25,8 +25,11 @@ aliasesFor404:
 - /office-2013-issue--there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 - /blog/office-2013-issue--there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 - /resources/blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-tags: []
-categories: []
+tags:
+- Troubleshooting
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-problem-icon-7-7.png
 
 ---

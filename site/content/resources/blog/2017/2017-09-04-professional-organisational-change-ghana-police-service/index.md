@@ -25,8 +25,19 @@ aliasesFor404:
 - /professional-organisational-change-at-the-ghana-police-service
 - /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/blog/professional-organisational-change-ghana-police-service
-tags: []
-categories: []
+tags:
+- Organisational Change
+categories:
+- Scrum
+- People and Process
+- Resilience and Change
+- Organisational Agility
+- Organisational Psychology
+- Business Agility
+- Enterprise Agility
+- Value Delivery
+- Sociotechnical Systems
+- Practical Techniques and Tooling
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

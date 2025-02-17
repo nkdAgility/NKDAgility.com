@@ -21,8 +21,14 @@ aliasesFor404:
 - /tfs-event-handler-ctp1-released
 - /blog/tfs-event-handler-ctp1-released
 - /resources/blog/tfs-event-handler-ctp1-released
-tags: []
-categories: []
+tags:
+- Frequent Releases
+- Software Development
+categories:
+- Install and Configuration
+- News and Reviews
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-4-1.png
 
 ---

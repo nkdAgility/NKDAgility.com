@@ -21,9 +21,11 @@ aliasesFor404:
 - /tfs-usage-statistics
 - /blog/tfs-usage-statistics
 - /resources/blog/tfs-usage-statistics
-tags: []
+tags:
+- Modern Source Control
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Metrics and Learning
 
 ---
 Stats on out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Instance. Not much but growing.

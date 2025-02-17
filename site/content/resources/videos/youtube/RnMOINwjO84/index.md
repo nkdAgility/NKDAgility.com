@@ -22,23 +22,22 @@ preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
 tags:
-- Ability to Innovate
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
 - Decision Making
-- Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
+- Agile Project Management
+- Ability to Innovate
+- Agile Values and Principles
 - Organisational Change
-- Organisational Physics
+- Agile Transformation
+- Empirical Process Control
+- Agile Strategy
 - Pragmatic Thinking
-- Product Management
-- Sensemaking
+- Evidence Based Leadership
+- Agile Philosophy
+- Organisational Physics
 - Strategy
+- Sensemaking
+- Agile Frameworks
+- Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,9 +45,19 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Complexity Thinking
 - People and Process
 - Resilience and Change
+- Business Agility
+- Organisational Agility
+- Complexity Thinking
+- Metrics and Learning
+- Market Adaptability
+- Decision Theory
+- Discovery and Learning
+- Enterprise Agility
+- Beta Codex
+- Agile Product Management
+- Evidence Based Management
 
 ---
 In the ever-evolving landscape of business, one thing has become abundantly clear: there are no universal rules for making informed decisions based on the data we collect. Whether it’s evidence-based management, telemetry data, or any other form of data, the reality is that what works in one context may not work in another. This is particularly true as we navigate a world that is increasingly complex rather than merely complicated.

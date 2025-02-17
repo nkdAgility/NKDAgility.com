@@ -21,9 +21,13 @@ aliasesFor404:
 - /windows-azure-training-kit
 - /blog/windows-azure-training-kit
 - /resources/blog/windows-azure-training-kit
-tags: []
+tags:
+- Frequent Releases
+- Technical Mastery
+- Software Development
 preview: metro-cloud-azure-link-3-1.png
-categories: []
+categories:
+- Products and Books
 
 ---
 Microsoft has just released a new [Training Kit](http://go.microsoft.com/fwlink/?LinkID=130354)  for [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) that updates the one released at the PDC. Not since [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") and WPF have I been so exited about a new technology, but [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) is it.

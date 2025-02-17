@@ -21,8 +21,15 @@ aliasesFor404:
 - /envisioning-vs-provisioning
 - /blog/envisioning-vs-provisioning
 - /resources/blog/envisioning-vs-provisioning
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Code and Complexity
+- Discovery and Learning
+- People and Process
+- Personal
+- Miscellaneous
+- Sociotechnical Systems
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

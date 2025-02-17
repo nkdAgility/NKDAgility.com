@@ -25,8 +25,12 @@ aliasesFor404:
 - /moving-onedrive-for-business-files-to-a-different-drive
 - /blog/moving-onedrive-for-business-files-to-a-different-drive
 - /resources/blog/moving-onedrive-business-files-different-drive
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Troubleshooting
+categories:
+- Install and Configuration
 preview: clip_image001-1-1-1.png
 
 ---

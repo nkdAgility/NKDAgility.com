@@ -25,9 +25,14 @@ aliasesFor404:
 - /always-prompted-for-credentials-in-tfs-2010-
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/blog/always-prompted-for-credentials-in-tfs-2010
-tags: []
+tags:
+- Windows
+- Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2005-128-link-6-6.png
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-10-10.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo.png)

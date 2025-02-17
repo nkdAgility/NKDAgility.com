@@ -25,8 +25,27 @@ aliasesFor404:
 - /are-you-doing-scrum--really-
 - /blog/are-you-doing-scrum--really-
 - /resources/blog/are-you-doing-scrum-really
-tags: []
-categories: []
+tags:
+- Increment
+- Agile Project Management
+- Scrum Product Development
+- Scrum Team
+- Scrum Master
+- Software Development
+- Team Performance
+- Professional Scrum
+- Software Developers
+- Agile Planning
+- Agile Frameworks
+- Agile Transformation
+- Pragmatic Thinking
+categories:
+- Scrum
+- People and Process
+- Agile Product Management
+- News and Reviews
+- Events and Presentations
+- Product Delivery
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

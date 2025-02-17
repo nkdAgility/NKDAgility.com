@@ -23,27 +23,21 @@ preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Automated Testing
-- Continuous Delivery
-- Continuous Integration
 - Engineering Excellence
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
 - Software Development
-- Technical Mastery
-- Test Automation
-- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Code and Complexity
-- DevOps
 - Technical Excellence
+- DevOps
+- Code and Complexity
+- Azure DevOps
+- Practical Techniques and Tooling
+- Value Delivery
+- Product Delivery
 
 ---
 # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  

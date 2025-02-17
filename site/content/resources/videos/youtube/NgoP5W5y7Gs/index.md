@@ -23,22 +23,23 @@ preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Engineering Excellence
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
 - Software Developers
 - Software Development
+- Engineering Practices
+- Pragmatic Thinking
 - Technical Mastery
+- Engineering Excellence
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
+- Azure DevOps
 - Practical Techniques and Tooling
+- Technical Excellence
 
 ---
 # Shift Left: Building Quality and Security From the Start

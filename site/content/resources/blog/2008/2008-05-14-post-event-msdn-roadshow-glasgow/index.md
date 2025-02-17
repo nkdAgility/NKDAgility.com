@@ -26,7 +26,9 @@ aliasesFor404:
 - /blog/post-event--msdn-roadshow-(glasgow)
 - /resources/blog/post-event-msdn-roadshow-glasgow
 tags: []
-categories: []
+categories:
+- Events and Presentations
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

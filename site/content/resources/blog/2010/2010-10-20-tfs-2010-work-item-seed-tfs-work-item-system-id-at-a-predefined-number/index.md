@@ -25,8 +25,18 @@ aliasesFor404:
 - /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-tags: []
-categories: []
+tags:
+- System Configuration
+- Technical Mastery
+- Troubleshooting
+- Software Development
+- Windows
+- Pragmatic Thinking
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

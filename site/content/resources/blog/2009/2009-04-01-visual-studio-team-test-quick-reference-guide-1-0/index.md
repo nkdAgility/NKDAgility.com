@@ -21,9 +21,15 @@ aliasesFor404:
 - /visual-studio-team-test-quick-reference-guide-1-0
 - /blog/visual-studio-team-test-quick-reference-guide-1-0
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
-tags: []
+tags:
+- Pragmatic Thinking
+- Troubleshooting
+- Software Development
+- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Products and Books
 
 ---
 If you are in any way involved in or thinking bout Testing code, Websites or Web Services then you should have a look at the [VSTT Quick Reference Guide 1.0](http://vstt2008qrg.codeplex.com/) which the [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") Rangers team has published on [CodePlex](http://www.codeplex.com "CodePlex").

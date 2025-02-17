@@ -25,8 +25,22 @@ aliasesFor404:
 - /guidance--how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
-tags: []
-categories: []
+tags:
+- Software Development
+- Software Developers
+- Modern Source Control
+- Release Management
+- Agile Project Management
+- Pragmatic Thinking
+- Technical Mastery
+- Engineering Excellence
+- Engineering Practices
+- Operational Practices
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Product Delivery
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

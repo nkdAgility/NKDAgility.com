@@ -29,7 +29,8 @@ aliasesFor404:
 - /you-may-be-a-tech-whiz--but-are-you-certifiable-
 - /blog/you-may-be-a-tech-whiz--but-are-you-certifiable-
 - /resources/blog/you-may-be-a-tech-whiz-but-are-you-certifiable
-categories: []
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

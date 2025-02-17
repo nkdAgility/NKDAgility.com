@@ -25,8 +25,13 @@ aliasesFor404:
 - /my-first-extension-method---
 - /blog/my-first-extension-method---
 - /resources/blog/my-first-extension-method
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Software Development
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

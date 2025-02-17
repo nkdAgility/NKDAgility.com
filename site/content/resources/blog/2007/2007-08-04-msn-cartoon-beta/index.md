@@ -25,8 +25,11 @@ aliasesFor404:
 - /msn-cartoon-(beta)
 - /blog/msn-cartoon-(beta)
 - /resources/blog/msn-cartoon-beta
-tags: []
-categories: []
+tags:
+- Windows
+categories:
+- Install and Configuration
+- Miscellaneous
 preview: nakedalm-logo-128-link-25-25.png
 
 ---

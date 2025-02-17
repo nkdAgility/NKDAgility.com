@@ -25,8 +25,10 @@ aliasesFor404:
 - /creating-training-virtual-machines-in-azure
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/blog/creating-training-virtual-machines-azure
-tags: []
-categories: []
+tags:
+- Windows
+categories:
+- Install and Configuration
 preview: nakedalm-windows-logo-16-16.png
 
 ---

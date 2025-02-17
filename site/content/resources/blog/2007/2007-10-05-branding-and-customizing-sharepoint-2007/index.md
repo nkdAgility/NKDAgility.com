@@ -21,7 +21,8 @@ aliasesFor404:
 - /branding-and-customizing-sharepoint-2007
 - /blog/branding-and-customizing-sharepoint-2007
 - /resources/blog/branding-and-customizing-sharepoint-2007
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

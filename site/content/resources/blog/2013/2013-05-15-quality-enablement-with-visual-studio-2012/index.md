@@ -21,8 +21,12 @@ aliasesFor404:
 - /quality-enablement-with-visual-studio-2012
 - /blog/quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
-tags: []
-categories: []
+tags:
+- Working Software
+- Software Development
+- Engineering Practices
+categories:
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 
 ---

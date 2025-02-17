@@ -25,9 +25,12 @@ aliasesFor404:
 - /windows-7-beta-is-live-
 - /blog/windows-7-beta-is-live-
 - /resources/blog/windows-7-beta-is-live
-tags: []
+tags:
+- Windows
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
+- News and Reviews
 
 ---
 If you have an [MSDN](https://msdn.microsoft.com) account you will be able to download [Windows 7](http://www.microsoft.com/windows/windows-7/default.aspx) Beta today, but it should be available for anyone by the end of next week.

@@ -21,8 +21,12 @@ aliasesFor404:
 - /silverlight-3
 - /blog/silverlight-3
 - /resources/blog/silverlight-3
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Software Development
+categories:
+- Products and Books
+- News and Reviews
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

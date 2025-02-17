@@ -25,8 +25,15 @@ aliasesFor404:
 - /run-a-router-on-hyper-v
 - /blog/run-a-router-on-hyper-v
 - /resources/blog/run-router-hyper-v
-tags: []
-categories: []
+tags:
+- Windows
+- Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: naked-alm-hyper-v-17-17.png
 
 ---

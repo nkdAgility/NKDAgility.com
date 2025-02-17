@@ -25,8 +25,10 @@ aliasesFor404:
 - /tfs-sticky-buddy-poc-(winforms)-release
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
-tags: []
-categories: []
+tags:
+- Release Management
+categories:
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

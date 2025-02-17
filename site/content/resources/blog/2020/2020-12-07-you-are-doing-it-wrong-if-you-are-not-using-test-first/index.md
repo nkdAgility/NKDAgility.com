@@ -22,8 +22,13 @@ aliasesFor404:
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
-tags: []
-categories: []
+tags:
+- Test First Development
+- Software Development
+- Engineering Practices
+- Engineering Excellence
+categories:
+- Technical Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

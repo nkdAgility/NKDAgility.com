@@ -25,7 +25,8 @@ aliasesFor404:
 - /skydrive--25-gb-of-free-online-storage
 - /blog/skydrive--25-gb-of-free-online-storage
 - /resources/blog/skydrive-25-gb-of-free-online-storage
-tags: []
+tags:
+- Windows
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

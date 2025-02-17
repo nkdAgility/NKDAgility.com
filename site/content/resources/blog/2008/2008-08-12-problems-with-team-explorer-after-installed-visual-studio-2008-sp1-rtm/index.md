@@ -21,9 +21,11 @@ aliasesFor404:
 - /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /resources/blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
-tags: []
+tags:
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 I received the following error box after installing VS2008 SP1 RTM:

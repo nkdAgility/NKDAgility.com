@@ -21,8 +21,19 @@ aliasesFor404:
 - /working-within-a-single-team-project-with-team-foundation-server-2012
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
-tags: []
-categories: []
+tags:
+- Software Developers
+- Software Development
+- Team Collaboration
+- Pragmatic Thinking
+- Operational Practices
+- Working Software
+- Agile Planning
+categories:
+- People and Process
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

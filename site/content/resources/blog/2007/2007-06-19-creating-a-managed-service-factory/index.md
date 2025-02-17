@@ -21,8 +21,11 @@ aliasesFor404:
 - /creating-a-managed-service-factory
 - /blog/creating-a-managed-service-factory
 - /resources/blog/creating-a-managed-service-factory
-tags: []
-categories: []
+tags:
+- Software Development
+- Technical Mastery
+categories:
+- Technical Excellence
 preview: metro-merilllynch-128-link-3-3.png
 
 ---

@@ -25,8 +25,18 @@ aliasesFor404:
 - /teams-without-areas-using-a-team-field-in-tfs
 - /blog/teams-without-areas-using-a-team-field-in-tfs
 - /resources/blog/team-foundation-server-2012-teams-without-areas
-tags: []
-categories: []
+tags:
+- Software Development
+- Azure Boards
+- System Configuration
+- Pragmatic Thinking
+- Operational Practices
+categories:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

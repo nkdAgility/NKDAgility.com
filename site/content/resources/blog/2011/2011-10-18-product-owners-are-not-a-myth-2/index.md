@@ -25,8 +25,26 @@ aliasesFor404:
 - /product-owners-are-not-a-myth
 - /blog/product-owners-are-not-a-myth
 - /resources/blog/product-owners-are-not-a-myth-2
-tags: []
-categories: []
+tags:
+- Product Owner
+- Accountability
+- Scrum Product Development
+- Scrum Team
+- Agile Project Management
+- Product Management
+- Product Backlog
+- Professional Scrum
+- Software Development
+- Agile Frameworks
+- Agile Transformation
+- Agile Planning
+- Pragmatic Thinking
+categories:
+- Scrum
+- Agile Product Management
+- People and Process
+- Value Delivery
+- Product Delivery
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

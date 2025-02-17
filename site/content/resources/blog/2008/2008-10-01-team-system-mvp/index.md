@@ -22,7 +22,10 @@ aliasesFor404:
 - /blog/team-system-mvp
 - /resources/blog/team-system-mvp
 tags: []
-categories: []
+categories:
+- Personal
+- News and Reviews
+- Miscellaneous
 preview: metro-award-link-1-1.png
 
 ---

@@ -25,8 +25,12 @@ aliasesFor404:
 - /wpf-ninject-dojo--the-data-provider
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/blog/wpf-ninject-dojo-the-data-provider
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Software Development
+categories:
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

@@ -21,8 +21,15 @@ aliasesFor404:
 - /new-un-versioned-repository-in-tfs-2012
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
-tags: []
-categories: []
+tags:
+- Modern Source Control
+- Software Development
+- System Configuration
+- Troubleshooting
+- Operational Practices
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

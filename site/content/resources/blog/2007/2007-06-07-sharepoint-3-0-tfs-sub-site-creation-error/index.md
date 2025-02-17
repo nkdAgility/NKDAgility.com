@@ -25,9 +25,13 @@ aliasesFor404:
 - /sharepoint-3-0-tfs-sub-site-creation-error-
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error-
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
-tags: []
+tags:
+- Troubleshooting
+- System Configuration
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 As you will know from my previous [post](http://blog.hinshelwood.com/archive/2007/05/31/Setting-up-TFS-to-create-project-portals-as-child-sites.aspx "Setting up TFS to create project portals as child sites of an existing SharePoint 3.0 site (or sub site)") I have been trying to get TFS to create sub sites in SharePoint 3.0.

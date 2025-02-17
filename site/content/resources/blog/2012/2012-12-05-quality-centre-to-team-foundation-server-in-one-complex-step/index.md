@@ -21,8 +21,12 @@ aliasesFor404:
 - /quality-centre-to-team-foundation-server-in-one-complex-step
 - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
 - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
-tags: []
-categories: []
+tags:
+- Software Development
+- Pragmatic Thinking
+- Decision Making
+categories:
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

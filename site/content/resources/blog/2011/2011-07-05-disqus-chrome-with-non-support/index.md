@@ -25,8 +25,10 @@ aliasesFor404:
 - /disqus-&-chrome-with-non-support
 - /blog/disqus-&-chrome-with-non-support
 - /resources/blog/disqus-chrome-with-non-support
-tags: []
-categories: []
+tags:
+- Troubleshooting
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-7-7.png
 
 ---

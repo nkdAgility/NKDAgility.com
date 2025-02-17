@@ -21,7 +21,9 @@ aliasesFor404:
 - /social-and-business-networking
 - /blog/social-and-business-networking
 - /resources/blog/social-and-business-networking
-tags: []
+tags:
+- Software Development
+- Entrepreneurship
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

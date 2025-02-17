@@ -28,24 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Delivery
-- Decision Making
-- Deployment Frequency
-- Deployment Strategies
-- Engineering Excellence
-- Frequent Releases
-- Operational Practices
 - Pragmatic Thinking
-- Release Management
 - Software Developers
 - Software Development
+- Deployment Strategies
+- Deployment Frequency
+- Engineering Excellence
 - Technical Mastery
+- Operational Practices
+- Continuous Delivery
+- Frequent Releases
+- Decision Making
+- Release Management
 resourceTypes:
 - video
 categories:
 - DevOps
-- Product Delivery
-- Value Delivery
 
 ---
 In the fast-evolving world of software development and operations, no two organizations are the same. Every company, every team, and every goal is unique, requiring a tailored approach to DevOps that aligns with specific needs and objectives. In this post, we’ll explore how understanding your current state, streamlining practices, and adopting the right tools can lead to higher quality, more frequent deliveries, and reduced friction in your software development process.

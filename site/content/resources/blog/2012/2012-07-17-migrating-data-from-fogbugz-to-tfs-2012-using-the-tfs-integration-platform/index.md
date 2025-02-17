@@ -21,8 +21,13 @@ aliasesFor404:
 - /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
 
 ---
 As part of my current engagement I will be moving data from FogBugz via a custom CSV Tip Adapter for the TFS Integration Platform. This an adapter I wrote a while ago to facilitate moving data from Excel to TFS and I just ant to reuse it. The first thing I need is a development environment as I may need to tweak this ancient code.

@@ -33,8 +33,8 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Azure DevOps
 - DevOps
+- Azure DevOps
 - Practical Techniques and Tooling
 
 ---

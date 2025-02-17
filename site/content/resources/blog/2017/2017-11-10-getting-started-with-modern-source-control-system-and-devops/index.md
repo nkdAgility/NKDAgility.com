@@ -26,8 +26,18 @@ aliasesFor404:
 - /getting-started-with-a-modern-source-control-system-and-devops
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Practical Techniques and Tooling
+- DevOps
+- Application Lifecycle Management
+- Value Delivery
+- Azure DevOps
+- Technical Excellence
+- Product Delivery
+- Market Adaptability
+- Products and Books
 preview: excellence-1-1.jpg
 
 ---

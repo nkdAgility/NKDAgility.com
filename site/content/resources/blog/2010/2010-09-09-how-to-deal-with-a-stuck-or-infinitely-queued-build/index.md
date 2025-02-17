@@ -21,9 +21,15 @@ aliasesFor404:
 - /how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
-tags: []
+tags:
+- Troubleshooting
 preview: metro-SSWLogo-128-link-11-11.png
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- DevOps
+- Azure DevOps
+- Technical Excellence
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

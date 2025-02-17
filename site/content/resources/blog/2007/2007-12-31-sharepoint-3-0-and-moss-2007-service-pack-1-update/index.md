@@ -21,8 +21,13 @@ aliasesFor404:
 - /sharepoint-3-0-and-moss-2007-service-pack-1-update
 - /blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 - /resources/blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
-tags: []
-categories: []
+tags:
+- Windows
+- Troubleshooting
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

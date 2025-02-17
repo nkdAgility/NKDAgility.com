@@ -24,25 +24,21 @@ duration: 600
 isShort: false
 tags:
 - Engineering Excellence
-- Engineering Practices
-- Experimentation
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
 - Software Development
-- Technical Mastery
-- Test Driven Development
-- Test First Development
-- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Code and Complexity
 - DevOps
+- Practical Techniques and Tooling
+- Code and Complexity
+- People and Process
+- Value Delivery
+- Technical Excellence
 - Product Delivery
+- Organisational Agility
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

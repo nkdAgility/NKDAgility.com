@@ -25,9 +25,14 @@ aliasesFor404:
 - /visual-studio-2010-beta-2-is-available-now-
 - /blog/visual-studio-2010-beta-2-is-available-now-
 - /resources/blog/visual-studio-2010-beta-2-is-available-now
-tags: []
+tags:
+- Windows
+- Test Automation
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories: []
+categories:
+- News and Reviews
+- Products and Books
 
 ---
 Visual Studio 2010 Beta 2 is now available on MSDN for download!

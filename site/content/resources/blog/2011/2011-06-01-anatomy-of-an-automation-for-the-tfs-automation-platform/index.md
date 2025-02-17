@@ -21,8 +21,20 @@ aliasesFor404:
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
-tags: []
-categories: []
+tags:
+- Software Development
+- System Configuration
+- Windows
+- Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
+categories:
+- Install and Configuration
+- Platform Engineering
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
+- DevOps
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?

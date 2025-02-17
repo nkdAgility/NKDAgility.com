@@ -21,9 +21,15 @@ aliasesFor404:
 - /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-tags: []
+tags:
+- Pragmatic Thinking
+- Troubleshooting
+- Software Development
+- Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 This subject goes back over a number of posts:

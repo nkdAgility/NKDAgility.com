@@ -23,31 +23,27 @@ aliasesFor404:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Ability to Innovate
-- Continuous Delivery
-- Customer Feedback Loops
-- Deployment Frequency
 - Deployment Strategies
-- Digital Transformation
-- Empirical Process Control
-- Engineering Excellence
-- Experimentation
+- Software Development
+- Continuous Delivery
+- Software Developers
 - Frequent Releases
-- Increment
+- Technical Mastery
+- Deployment Frequency
+- Engineering Excellence
 - Operational Practices
 - Pragmatic Thinking
-- Product Validation
-- Release Management
-- Software Developers
-- Software Development
 - Strategy
-- Technical Mastery
-- Working Software
 categories:
 - DevOps
-- Product Delivery
 - Value Delivery
+- Azure DevOps
+- Product Delivery
+- Technical Excellence
+- Practical Techniques and Tooling
+- Market Adaptability
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
+marketing: []
 
 ---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.

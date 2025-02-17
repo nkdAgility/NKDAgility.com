@@ -25,8 +25,18 @@ aliasesFor404:
 - /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
-tags: []
-categories: []
+tags:
+- Software Development
+- System Configuration
+- Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- Release Management
+- Operational Practices
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- DevOps
 preview: naked-alm-jenkins-logo-2-2.png
 
 ---

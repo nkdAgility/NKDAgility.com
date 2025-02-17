@@ -7,64 +7,92 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
 
-$levelSwitch.MinimumLevel = 'Information'
+$levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\videos"
+$outputDir = ".\site\content\resources\"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
 
 $Counter = 1
 
+$categoriesCatalog = Get-CatalogHashtable -Classification "categories"
+$tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
-$hugoMarkdownFiles = @()
+$hugoMarkdownObjects = @()
 $TotalFiles = $resources.Count
 Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $TotalFiles
 $resources | ForEach-Object {
     if ((Test-Path $_)) {
         $hugoMarkdown = Get-HugoMarkdown -Path $_
-        $hugoMarkdownFiles += $hugoMarkdown
+        $hugoMarkdownObjects += $hugoMarkdown
     }
 }
-Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownFiles.Count
+Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownObjects.Count
 
 
-$categoriesCatalog = Get-CatalogHashtable -Classification "categories"
-$tagsCatalog = Get-CatalogHashtable -Classification "tags"
-
-# Initialize a hash table to track counts of each ResourceType
-$resourceTypeCounts = @{}
-
-
-$Counter = 0
-
-
-#$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.Contains('canonicalURL') }
-
-
-$TotalItems = $hugoMarkdownFiles.Count
-#$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.isShort -ne $true }
-#Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
-#$TotalItems = $hugoMarkdownFiles.Count
-$hugoMarkdownFiles = $hugoMarkdownFiles  | Where-Object { $_.FrontMatter.draft -ne $true }
-Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.draft -ne true." -PropertyValues ($TotalItems - $hugoMarkdownFiles.Count)
-
-
-$hugoMarkdownFiles = $hugoMarkdownFiles | Sort-Object { $_.FrontMatter.date } -Descending
+### FILTER hugoMarkdownObjects
+#$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.Contains('canonicalURL') }
+$TotalItems = $hugoMarkdownObjects.Count
+#$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.isShort -ne $true }
+#Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownObjects.Count)
+#$TotalItems = $hugoMarkdownObjects.Count
+$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.draft -ne $true }
+Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.draft -ne true." -PropertyValues ($TotalItems - $hugoMarkdownObjects.Count)
+$hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending
 # Total count for progress tracking
-$TotalItems = $hugoMarkdownFiles.Count
+$TotalItems = $hugoMarkdownObjects.Count
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($TotalItems)
-foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
-    $Counter++
-    $PercentComplete = ($Counter / $TotalItems) * 100
-    Write-Progress -id 1 -Activity "Processing Markdown Files" -Status "Processing $Counter of $TotalItems | $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
- 
-
-    Write-DebugLog "--------------------------------------------------------"
-    Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
-
-    
+### /FILTER hugoMarkdownObjects
+### Convert hugoMarkdownObjects to queue
+$hugoMarkdownQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
+$hugoMarkdownObjects | ForEach-Object {
+    $hugoMarkdownQueue.Enqueue($_)
+}
+$hugoMarkdownBatchQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
+$Counter = 0
+$TotalItems = $hugoMarkdownQueue.Count
+Write-InfoLog "Initialise Batch Count..."
+$batchesInProgress = Get-OpenAIBatchesInProgress
+$batchOverage = 10
+Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
+$runBatchCheck = $false
+$batchCheckCount = 0
+$batchCheckCountMax = 0
+while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
+    if (($hugoMarkdownBatchQueue.Count -le $batchesInProgress)) {
+        $runBatchCheck = $false
+    }
+    $ActivityText = "Processing [Q1:$($Counter)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
+    if ((($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) -and $batchCheckCount -le $hugoMarkdownBatchQueue.Count) -or $hugoMarkdownQueue.Count -eq 0) {
+        $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
+        $batchCheckCount++
+        Write-Progress -id 1 -Activity $ActivityText -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
+        if ($batchCheckCount -ge $batchCheckCountMax) {
+            Write-DebugLog "Checking Batch status..."
+            $batchesInProgress = Get-OpenAIBatchesInProgress
+            Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
+            $runBatchCheck = $false
+            $batchCheckCount = 0
+            $batchCheckCountMax = 0
+        }        
+    }
+    elseif ($hugoMarkdownQueue.Count -gt 0) {
+        $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
+        $Counter++
+        $PercentComplete = ($Counter / $TotalItems) * 100
+        Write-Progress -id 1 -Activity $ActivityText -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+        Write-DebugLog "--------------------------------------------------------"
+        Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
+    }
+    else {
+        Write-DebugLog "Checking Batch status..."
+        $batchesInProgress = Get-OpenAIBatchesInProgress
+        Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
+        continue
+    }
 
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
@@ -180,13 +208,17 @@ foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
                 $BodyContent = Get-Content $captionsPath -Raw
             }
         }
+        #-----------------marketing-------------------
+        # $marketingClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "marketing" -Catalog $marketingCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
+        # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
+        # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
         #-----------------Categories-------------------
-        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
-        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3
+        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
         #-----------------Tags-------------------
-        $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20
-        $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } | Sort-Object
+        $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20 -batch
+        $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
 
     }
@@ -222,17 +254,24 @@ foreach ($hugoMarkdown in $hugoMarkdownFiles ) {
     }
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
-
-    # Track count of ResourceType
-    if ($resourceTypeCounts.ContainsKey($ResourceType)) {
-        $resourceTypeCounts[$ResourceType]++
-    }
-    else {
-        $resourceTypeCounts[$ResourceType] = 1
+    
+    # If there are any batches for this item add it to the batch queue for reprocessing
+    $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
+    if ($resources.Count -gt 0) {
+        $hugoMarkdownBatchQueue.Enqueue($hugoMarkdown)
+        if ((($hugoMarkdownBatchQueue.Count) -gt $batchesInProgress) -and $runBatchCheck -eq $false) {
+            Write-DebugLog "Checking Batch status..."
+            $batchesInProgress = Get-OpenAIBatchesInProgress
+            Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
+        }
+        if (($hugoMarkdownBatchQueue.Count - $batchesInProgress) -gt $batchOverage) {
+            $runBatchCheck = $true
+            $batchCheckCountMax = $hugoMarkdownBatchQueue.Count
+        }
     }
 }
+
+
 Write-Progress -id 1 -Completed
 Write-DebugLog "All markdown files processed."
 Write-DebugLog "--------------------------------------------------------"
-Write-DebugLog "Summary of updated Resource Types:"
-$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-DebugLog "$($_.Key): $($_.Value)" }

@@ -25,8 +25,10 @@ aliasesFor404:
 - /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
-tags: []
-categories: []
+tags:
+- Scrum Team
+categories:
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

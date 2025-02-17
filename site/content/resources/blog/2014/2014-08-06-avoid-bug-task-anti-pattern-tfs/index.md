@@ -26,8 +26,35 @@ aliasesFor404:
 - /avoid-bug-task-anti-pattern-tfs
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
-tags: []
-categories: []
+tags:
+- Product Owner
+- Software Development
+- Test First Development
+- Azure Boards
+- Agile Planning
+- Team Performance
+- Technical Mastery
+- Agile Transformation
+- Software Developers
+- Agile Project Management
+- Transparency
+- Pragmatic Thinking
+- Engineering Practices
+- Operational Practices
+- Product Backlog
+- Working Software
+- Test Driven Development
+- Team Collaboration
+- Engineering Excellence
+categories:
+- People and Process
+- Agile Product Management
+- Azure DevOps
+- Practical Techniques and Tooling
+- Product Delivery
+- Technical Excellence
+- Transparency and Accountability
+- DevOps
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

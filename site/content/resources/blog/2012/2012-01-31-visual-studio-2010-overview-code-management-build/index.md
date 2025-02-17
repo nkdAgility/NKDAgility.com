@@ -27,8 +27,18 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview---code-management-and-build
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-code-management-build
-categories: []
-tags: []
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Technical Excellence
+- Events and Presentations
+tags:
+- Software Development
+- Engineering Excellence
+- Modern Source Control
+- Continuous Integration
+- Operational Practices
+- Technical Mastery
 
 ---
 code-management-and-build

@@ -21,7 +21,9 @@ aliasesFor404:
 - /moderating-for-community-credit
 - /blog/moderating-for-community-credit
 - /resources/blog/moderating-for-community-credit
-categories: []
+categories:
+- Miscellaneous
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

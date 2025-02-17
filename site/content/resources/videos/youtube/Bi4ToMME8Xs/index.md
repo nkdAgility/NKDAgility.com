@@ -29,7 +29,17 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Discovery and Learning
+- Agile Product Management
+- News and Reviews
+- People and Process
+- Value Delivery
+- Events and Presentations
+- Product Delivery
+- Organisational Agility
+- Products and Books
 
 ---
  If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience. Visit https://www.nkdagility.com to explore how we can help you. #agile #scrum 

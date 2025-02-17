@@ -23,15 +23,7 @@ preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 668
 isShort: false
 tags:
-- Decision Making
-- Engineering Excellence
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
 - Technical Debt
-- Technical Mastery
-- Windows
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +31,6 @@ resourceTypes:
 - video
 categories:
 - Code and Complexity
-- DevOps
 - Technical Excellence
 
 ---

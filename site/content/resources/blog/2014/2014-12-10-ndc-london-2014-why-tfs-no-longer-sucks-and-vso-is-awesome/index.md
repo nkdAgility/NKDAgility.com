@@ -25,8 +25,17 @@ aliasesFor404:
 - /ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
-tags: []
-categories: []
+tags:
+- Windows
+- Release Management
+- Product Owner
+- Software Development
+- Troubleshooting
+- Software Developers
+- Pragmatic Thinking
+- Continuous Delivery
+categories:
+- Events and Presentations
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

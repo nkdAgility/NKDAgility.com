@@ -21,8 +21,24 @@ aliasesFor404:
 - /alm-events-and-public-courses-in-2015-q2
 - /blog/alm-events-and-public-courses-in-2015-q2
 - /resources/blog/alm-events-and-public-courses-in-2015-q2
-tags: []
-categories: []
+tags:
+- Professional Scrum
+- Continuous Delivery
+- Continuous Learning
+- Scrum Master
+- Release Management
+- System Configuration
+- Agile Frameworks
+- Agile Project Management
+- Software Developers
+- Frequent Releases
+- Pragmatic Thinking
+- Software Development
+- Operational Practices
+- Remote Working
+categories:
+- Events and Presentations
+- News and Reviews
 preview: metro-event-icon-1-1.png
 
 ---

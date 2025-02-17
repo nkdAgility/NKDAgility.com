@@ -25,8 +25,15 @@ aliasesFor404:
 - /merge-team-projects-into-one-in-tfs
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
-tags: []
-categories: []
+tags:
+- Modern Source Control
+- System Configuration
+- Pragmatic Thinking
+- Troubleshooting
+- Software Development
+- Operational Practices
+categories:
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

@@ -21,8 +21,17 @@ aliasesFor404:
 - /modelling-teams-in-team-foundation-server-2013
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
-tags: []
-categories: []
+tags:
+- Software Development
+- Modern Source Control
+- Operational Practices
+- System Configuration
+- Software Developers
+categories:
+- Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

@@ -25,8 +25,11 @@ aliasesFor404:
 - /review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 - /blog/review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
-tags: []
-categories: []
+tags:
+- Windows
+categories:
+- Products and Books
+- News and Reviews
 preview: Web-Intel-Metro-icon-21-21.png
 
 ---

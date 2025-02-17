@@ -25,8 +25,14 @@ aliasesFor404:
 - /where-am-i-
 - /blog/where-am-i-
 - /resources/blog/where-am-i
-tags: []
-categories: []
+tags:
+- Windows
+- Technical Mastery
+- Software Development
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-merilllynch-128-link-5-1.png
 
 ---

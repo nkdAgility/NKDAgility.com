@@ -25,9 +25,12 @@ aliasesFor404:
 - /visual-studio-2010-overview-webcasts
 - /blog/visual-studio-2010-overview-webcasts
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories: []
+categories:
+- Application Lifecycle Management
+- Events and Presentations
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-2-2.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2012/01/VisualStudioALMLogo.png)

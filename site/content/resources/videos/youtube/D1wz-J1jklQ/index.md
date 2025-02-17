@@ -23,35 +23,28 @@ preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
 duration: 362
 isShort: false
 tags:
-- Continuous Delivery
-- Continuous Integration
 - Deployment Frequency
-- Deployment Strategies
-- Empirical Process Control
 - Engineering Excellence
-- Engineering Practices
-- Frequent Releases
-- Increment
-- Lean Principles
-- Lean Product Development
-- Operational Practices
-- Pragmatic Thinking
-- Release Management
-- Software Developers
 - Software Development
-- Technical Debt
-- Technical Mastery
-- Throughput
-- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- DevOps
-- Product Delivery
 - Value Delivery
+- Product Delivery
+- DevOps
+- Practical Techniques and Tooling
+- Code and Complexity
+- Metrics and Learning
+- Technical Excellence
+- Flow Efficiency
+- Discovery and Learning
+- Market Adaptability
+- Application Lifecycle Management
+- Business Agility
+- Organisational Agility
 
 ---
 When it comes to deploying code, I've often found that the frequency of our deployments can significantly impact the quality of our work and the overall health of our codebase. In my experience, when we don't deploy very frequently, we inadvertently invite a host of dysfunctional behaviours that can be easily avoided. 

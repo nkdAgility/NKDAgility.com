@@ -21,7 +21,8 @@ aliasesFor404:
 - /rddotnet-project-created
 - /blog/rddotnet-project-created
 - /resources/blog/rddotnet-project-created
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

@@ -25,8 +25,12 @@ aliasesFor404:
 - /subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Software Development
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 ![subversion](images/subversion-7-7.png "subversion")

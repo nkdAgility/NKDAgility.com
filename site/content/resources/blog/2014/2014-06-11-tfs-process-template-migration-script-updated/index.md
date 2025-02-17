@@ -21,8 +21,22 @@ aliasesFor404:
 - /tfs-process-template-migration-script-updated
 - /blog/tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
-tags: []
-categories: []
+tags:
+- System Configuration
+- Operational Practices
+- Software Development
+- Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- Agile Frameworks
+- Software Developers
+categories:
+- Install and Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

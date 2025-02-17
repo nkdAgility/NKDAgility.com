@@ -25,8 +25,16 @@ aliasesFor404:
 - /investigation---seo-permanent-redirects-for-old-url’s-
 - /blog/investigation---seo-permanent-redirects-for-old-url’s-
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Technical Mastery
+- Troubleshooting
+- Software Development
+- Pragmatic Thinking
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-4-4.png
 
 ---

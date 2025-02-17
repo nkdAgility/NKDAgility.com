@@ -21,8 +21,13 @@ aliasesFor404:
 - /migrating-to-office-365-from-google-mail
 - /blog/migrating-to-office-365-from-google-mail
 - /resources/blog/migrating-to-office-365-from-google-mail
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Technical Mastery
+- System Configuration
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-office-128-link-3-3.png
 
 ---

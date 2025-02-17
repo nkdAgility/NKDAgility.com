@@ -25,8 +25,25 @@ aliasesFor404:
 - /you-can't-stack-rank-hierarchical-work-items-
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
-tags: []
-categories: []
+tags:
+- Scrum Product Development
+- Software Development
+- Product Backlog
+- Professional Scrum
+- Software Developers
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Planning
+- Azure Boards
+- Agile Planning Tools
+- Operational Practices
+categories:
+- Agile Product Management
+- Practical Techniques and Tooling
+- Azure DevOps
+- Scrum
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

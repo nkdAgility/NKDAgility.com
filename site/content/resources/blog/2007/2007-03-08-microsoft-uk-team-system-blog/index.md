@@ -22,7 +22,8 @@ aliasesFor404:
 - /blog/microsoft-uk-team-system-blog
 - /resources/blog/microsoft-uk-team-system-blog
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- News and Reviews
 tags: []
 
 ---

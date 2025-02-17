@@ -25,8 +25,22 @@ aliasesFor404:
 - /one-team-project-to-rule-them-all
 - /blog/one-team-project-to-rule-them-all
 - /resources/blog/one-team-project
-tags: []
-categories: []
+tags:
+- Agile Planning Tools
+- Agile Project Management
+- Agile Planning
+- Software Developers
+- Software Development
+- Pragmatic Thinking
+- Azure Boards
+- Large Scale Agility
+- Agile Strategy
+- Operational Practices
+categories:
+- Practical Techniques and Tooling
+- Azure DevOps
+- People and Process
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

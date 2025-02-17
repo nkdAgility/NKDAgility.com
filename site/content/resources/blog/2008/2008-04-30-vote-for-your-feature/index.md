@@ -21,8 +21,20 @@ aliasesFor404:
 - /vote-for-your-feature
 - /blog/vote-for-your-feature
 - /resources/blog/vote-for-your-feature
-tags: []
-categories: []
+tags:
+- Customer Feedback Loops
+- Product Discovery
+categories:
+- Transparency and Accountability
+- Discovery and Learning
+- Products and Books
+- Agile Product Management
+- Decision Theory
+- Value Delivery
+- Azure DevOps
+- Application Lifecycle Management
+- Product Delivery
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

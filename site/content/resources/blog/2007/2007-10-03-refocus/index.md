@@ -25,9 +25,14 @@ aliasesFor404:
 - /refocus---
 - /blog/refocus---
 - /resources/blog/refocus
-tags: []
+tags:
+- Deployment Strategies
+- Software Development
+- System Configuration
+- Digital Transformation
 preview: metro-sharepoint-128-link-1-1.png
-categories: []
+categories:
+- Miscellaneous
 
 ---
 You may have noticed that over the last month or so I have been neglecting my blog (too many personal posts) and my focus on development in general. This has been a temporary setback due mostly to starting a new job and not getting to play with Team Server at the moment (plus I had a knee operation the other week). So for now, I will be trying to focus more on Sharepoint 2007 / MOSS and the feature deficient Sharepoint 2003.

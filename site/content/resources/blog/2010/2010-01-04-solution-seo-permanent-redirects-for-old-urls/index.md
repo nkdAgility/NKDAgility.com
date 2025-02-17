@@ -25,8 +25,13 @@ aliasesFor404:
 - /solution---seo-permanent-redirects-for-old-url’s-
 - /blog/solution---seo-permanent-redirects-for-old-url’s-
 - /resources/blog/solution-seo-permanent-redirects-for-old-urls
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Code and Complexity
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

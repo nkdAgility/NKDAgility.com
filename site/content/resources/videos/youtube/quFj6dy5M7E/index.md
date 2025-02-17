@@ -23,16 +23,16 @@ preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 266
 isShort: false
 tags:
-- Agile Strategy
-- Operational Practices
-- Organisational Physics
 - Pragmatic Thinking
-- Product Management
-- Software Developers
 - Software Development
-- Strategy
 - Team Performance
+- Software Developers
 - Technical Leadership
+- Product Management
+- Operational Practices
+- Strategy
+- Agile Strategy
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,8 +40,13 @@ resourceTypes:
 - video
 categories:
 - People and Process
-- Product Delivery
 - Value Delivery
+- Product Delivery
+- Sociotechnical Systems
+- Market Adaptability
+- Agile Product Operating Model
+- Business Agility
+- Organisational Agility
 
 ---
 Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of competence that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.

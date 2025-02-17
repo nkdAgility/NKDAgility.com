@@ -25,8 +25,12 @@ aliasesFor404:
 - /uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
-tags: []
-categories: []
+tags:
+- Modern Source Control
+- Troubleshooting
+- Software Development
+categories:
+- Practical Techniques and Tooling
 preview: naked-alm-git-2-2.png
 
 ---

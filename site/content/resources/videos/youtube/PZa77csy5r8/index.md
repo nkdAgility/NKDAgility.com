@@ -23,25 +23,18 @@ preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
 duration: 459
 isShort: false
 tags:
-- Continuous Delivery
-- Engineering Excellence
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Software Development
 - Technical Debt
-- Technical Leadership
-- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Code and Complexity
 - DevOps
+- Code and Complexity
 - Value Delivery
+- Azure DevOps
+- Technical Excellence
 
 ---
 Technical debt is a term that often gets thrown around in the tech community, but what does it really mean? As someone who has navigated the complexities of software development for years, I can tell you that technical debt is a significant challenge for organisations. In simple terms, technical debt refers to the future costs incurred when you or your team opt for quick, short-term solutions instead of more robust, long-term approaches. 

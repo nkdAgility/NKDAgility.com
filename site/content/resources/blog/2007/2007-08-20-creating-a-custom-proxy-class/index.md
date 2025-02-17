@@ -21,8 +21,13 @@ aliasesFor404:
 - /creating-a-custom-proxy-class
 - /blog/creating-a-custom-proxy-class
 - /resources/blog/creating-a-custom-proxy-class
-tags: []
-categories: []
+tags:
+- Software Development
+- Technical Mastery
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -25,8 +25,17 @@ aliasesFor404:
 - /upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
-tags: []
-categories: []
+tags:
+- System Configuration
+- Software Development
+- Pragmatic Thinking
+- Release Management
+- Windows
+- Technical Mastery
+- Troubleshooting
+- Operational Practices
+categories:
+- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 
 ---

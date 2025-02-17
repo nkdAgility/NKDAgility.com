@@ -29,8 +29,11 @@ aliasesFor404:
 - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Practical Techniques and Tooling
+- People and Process
 preview: nakedalm-logo-260-5-5.png
 
 ---

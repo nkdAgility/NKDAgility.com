@@ -25,9 +25,12 @@ aliasesFor404:
 - /how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
-tags: []
+tags:
+- System Configuration
 preview: metro-sharepoint-128-link-15-15.png
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 
 ---
 If you want to be able to use workflow on you're my site that will allow you to assign tasks to your colleagues, then you need to take a couple of thing into consideration. The most important is to give any users assigned tasks access to the tasks list that you are using for your workflow.

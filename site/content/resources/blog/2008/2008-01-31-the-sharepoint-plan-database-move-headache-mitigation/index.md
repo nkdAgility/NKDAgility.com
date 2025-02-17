@@ -25,8 +25,11 @@ aliasesFor404:
 - /the-sharepoint-plan--database-move-headache-mitigation
 - /blog/the-sharepoint-plan--database-move-headache-mitigation
 - /resources/blog/the-sharepoint-plan-database-move-headache-mitigation
-tags: []
-categories: []
+tags:
+- System Configuration
+- Troubleshooting
+categories:
+- Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

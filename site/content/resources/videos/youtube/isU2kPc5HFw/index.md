@@ -28,15 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Pragmatic Thinking
 - Software Developers
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
 - Personal
+- Azure DevOps
+- Practical Techniques and Tooling
 
 ---
 When I first encountered Azure DevOps back in 2006, it wasn't even called Azure DevOps. Back then, it was known as Visual Studio Team Services (VSTS), and before that, Team Foundation Server (TFS). Over the years, the name has changed several times, but the core intent has remained consistent: empowering teams to enhance their capabilities through powerful tools. In this blog post, I want to take you through my journey with Azure DevOps, from my early days as a software engineer to becoming a Microsoft MVP and a DevOps consultant. I'll share personal experiences, lessons learned, and practical advice on leveraging Azure DevOps to its full potential.

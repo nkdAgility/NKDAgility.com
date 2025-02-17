@@ -21,9 +21,13 @@ aliasesFor404:
 - /configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 - /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 - /resources/blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
-tags: []
+tags:
+- System Configuration
 preview: metro-aggreko-128-link-17-17.png
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 As Microsoft have separated Install with configuration, so I have separated my posts! You will need TFS2010 [installed](http://blog.hinshelwood.com/archive/2009/10/20/configuring-visual-studio-2010-team-foundation-server-on-vista-in.aspx) prior to the steps below.

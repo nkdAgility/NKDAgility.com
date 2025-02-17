@@ -25,8 +25,27 @@ aliasesFor404:
 - /create-your-own-path-to-organisational-agility
 - /blog/create-your-own-path-to-organisational-agility
 - /resources/blog/organisational-change-create-path
-tags: []
-categories: []
+tags:
+- Organisational Change
+categories:
+- People and Process
+- Enterprise Agility
+- Organisational Agility
+- Scrum
+- Metrics and Learning
+- Evidence Based Management
+- Resilience and Change
+- Value Delivery
+- Agile Product Operating Model
+- Business Agility
+- Agile Product Management
+- Market Adaptability
+- Sociotechnical Systems
+- DevOps
+- Discovery and Learning
+- Products and Books
+- Product Delivery
+- Practical Techniques and Tooling
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

@@ -21,8 +21,11 @@ aliasesFor404:
 - /chicago-visual-studio-alm-user-group-27th-march
 - /blog/chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Practical Techniques and Tooling
+- Events and Presentations
 preview: metro-UserGroup-128-2-2.png
 
 ---

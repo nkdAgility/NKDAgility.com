@@ -26,18 +26,20 @@ card:
   title: One Engineering System
   content: Unify your development pipeline with One Engineering System. Ensure seamless collaboration and integration across all engineering teams and workflows.
 categories:
+- One Engineering System (1ES)
 - Azure DevOps
-- DevOps
 - Practical Techniques and Tooling
+- DevOps
+- Technical Excellence
 tags:
-- Collaboration Tools
+- Strategy
+- Software Development
 - Engineering Excellence
+- Team Collaboration
 - Operational Practices
 - Pragmatic Thinking
+- Collaboration Tools
 - Software Developers
-- Software Development
-- Strategy
-- Team Collaboration
 
 ---
 The One Engineering System (1ES) is a strategy aimed at unifying engineering tools and practices to enhance collaboration and efficiency within software development teams. By standardizing on a common set of tools, organizations can reduce friction and streamline workflows.

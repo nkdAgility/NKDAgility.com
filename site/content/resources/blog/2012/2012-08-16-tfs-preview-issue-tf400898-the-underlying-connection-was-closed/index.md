@@ -27,8 +27,10 @@ aliasesFor404:
 - /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 - /tfs-preview
 - /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-tags: []
-categories: []
+tags:
+- Troubleshooting
+categories:
+- Azure DevOps
 preview: metro-problem-icon-4-4.png
 
 ---

@@ -21,8 +21,10 @@ aliasesFor404:
 - /standard-environments-for-automated-deployment-and-testing
 - /blog/standard-environments-for-automated-deployment-and-testing
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

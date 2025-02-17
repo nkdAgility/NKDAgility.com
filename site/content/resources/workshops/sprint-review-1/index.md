@@ -40,30 +40,10 @@ card:
   content: Discover more about "Sprint Review
   title: 'Sprint Review #1'
 categories:
-- People and Process
-- Product Delivery
-- Transparency and Accountability
+- Scrum
 tags:
-- Agile Transformation
-- Customer Feedback Loops
-- Decision Making
-- Increment
-- Pragmatic Thinking
-- Product Backlog
-- Product Management
-- Product Owner
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
-- Scrum Team
-- Sensemaking
-- Software Developers
-- Software Development
 - Sprint Review
-- Team Collaboration
-- Team Performance
-- Transparency
-- Working Software
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

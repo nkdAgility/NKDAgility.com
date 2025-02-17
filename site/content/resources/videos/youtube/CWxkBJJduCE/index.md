@@ -28,7 +28,9 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Technical Excellence
+- Code and Complexity
 
 ---
 When I reflect on my journey through software development, one principle stands out: test-driven development (TDD) is not merely about writing better code; it’s fundamentally about crafting superior architectures. This distinction is crucial, and I want to share my insights on how TDD and pair programming can transform our approach to software design.

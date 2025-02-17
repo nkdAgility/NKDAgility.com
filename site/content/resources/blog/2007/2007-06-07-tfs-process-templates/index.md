@@ -22,8 +22,14 @@ aliasesFor404:
 - /blog/tfs-process-templates
 - /resources/blog/tfs-process-templates
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
-tags: []
+categories:
+- People and Process
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Application Lifecycle Management
+tags:
+- Software Development
 
 ---
 I have been working with Team Foundation Server for around a year now and I am still finding features and I am still amazed at the extensibility of the system. The core of this extensibility is the aggressively configurable process templates. You can see a list of [commercial templates](http://msdn2.microsoft.com/en-us/teamsystem/aa718801.aspx "Process Templates") on the Microsoft site, not all of them cost money though.

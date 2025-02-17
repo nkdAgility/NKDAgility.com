@@ -25,8 +25,10 @@ aliasesFor404:
 - /professional-scrum-training-for-the-ghana-police-service
 - /blog/professional-scrum-training-for-the-ghana-police-service
 - /resources/blog/professional-scrum-training-ghana-police-service
-tags: []
-categories: []
+tags:
+- Agile Frameworks
+categories:
+- Scrum
 preview: clip_image006_thumb-3-3.jpg
 
 ---

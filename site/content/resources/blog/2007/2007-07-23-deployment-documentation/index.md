@@ -21,9 +21,20 @@ aliasesFor404:
 - /deployment-documentation
 - /blog/deployment-documentation
 - /resources/blog/deployment-documentation
-categories: []
+categories:
+- Install and Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Product Delivery
+- DevOps
 preview: metro-binary-vb-128-link-1-1.png
-tags: []
+tags:
+- Deployment Strategies
+- Release Management
+- System Configuration
+- Pragmatic Thinking
+- Software Development
+- Operational Practices
 
 ---
 Over the past week I have been working on creating and documenting a deployment process for our new main business application. This application is very complicated and requires twenty servers per four environments. We need to track and control deployment to UAT, pre-production, production and C&R (disaster recovery site), but my company as a larger organization only requires control of production.

@@ -21,8 +21,15 @@ aliasesFor404:
 - /calling-an-object-method-in-a-data-trigger
 - /blog/calling-an-object-method-in-a-data-trigger
 - /resources/blog/calling-an-object-method-in-a-data-trigger
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Troubleshooting
+- Software Development
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

@@ -25,8 +25,20 @@ aliasesFor404:
 - /falling-of-the-tfs-rehabilitation-wagon---
 - /blog/falling-of-the-tfs-rehabilitation-wagon---
 - /resources/blog/falling-of-the-tfs-rehabilitation-wagon
-tags: []
-categories: []
+tags:
+- Windows
+- Software Development
+- System Configuration
+- Working Software
+- Software Developers
+- Pragmatic Thinking
+- Technical Mastery
+- Collaboration Tools
+- Digital Transformation
+- Operational Practices
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

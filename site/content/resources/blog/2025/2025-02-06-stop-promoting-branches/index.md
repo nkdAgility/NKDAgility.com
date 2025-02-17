@@ -19,31 +19,29 @@ aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- Agile Strategy
-- Continuous Delivery
-- Continuous Integration
-- Decision Making
-- Deployment Frequency
-- Deployment Strategies
-- Engineering Excellence
-- Engineering Practices
-- Frequent Releases
-- Lead Time
-- Modern Source Control
-- Operational Practices
-- Pragmatic Thinking
-- Release Management
-- Software Developers
 - Software Development
+- Engineering Practices
+- Software Developers
+- Release Management
+- Continuous Integration
+- Continuous Delivery
+- Deployment Strategies
+- Modern Source Control
+- Deployment Frequency
+- Engineering Excellence
+- Operational Practices
+- Frequent Releases
+- Pragmatic Thinking
 - Strategy
-- Technical Mastery
-- Throughput
-- Working Software
 categories:
 - DevOps
 - Technical Excellence
 - Value Delivery
+- Flow Efficiency
+- Practical Techniques and Tooling
+- Product Delivery
 preview: 2025-02-06-stop-promoting-branches.jpg
+marketing: []
 
 ---
 The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why GitHub Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.

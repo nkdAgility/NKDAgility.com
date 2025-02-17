@@ -27,8 +27,25 @@ aliasesFor404:
 - /blog/a-change-for-the-better--4---homecoming
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
-tags: []
-categories: []
+tags:
+- Coaching
+- Mentoring
+- Agile Project Management
+- Agile Planning
+- Agile Frameworks
+- Agile Transformation
+- Agile Leadership
+- Agile Strategy
+- Operational Practices
+- Software Developers
+- Pragmatic Thinking
+categories:
+- Application Lifecycle Management
+- People and Process
+- Practical Techniques and Tooling
+- Business Agility
+- Personal
+- Organisational Agility
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

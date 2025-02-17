@@ -21,8 +21,14 @@ aliasesFor404:
 - /creating-a-wpf-work-item-control
 - /blog/creating-a-wpf-work-item-control
 - /resources/blog/creating-a-wpf-work-item-control
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

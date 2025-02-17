@@ -21,8 +21,17 @@ aliasesFor404:
 - /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-tags: []
-categories: []
+tags:
+- Pragmatic Thinking
+- Software Development
+categories:
+- Install and Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- DevOps
+- Azure DevOps
+- Technical Excellence
+- Platform Engineering
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

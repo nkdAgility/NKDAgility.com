@@ -25,8 +25,24 @@ aliasesFor404:
 - /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-tags: []
-categories: []
+tags:
+- Customer Feedback Loops
+- Agile Project Management
+- Agile Values and Principles
+- Agile Frameworks
+- Agile Transformation
+- Empirical Process Control
+- Agile Strategy
+- Organisational Change
+- Agile Philosophy
+- Software Development
+- Continuous Learning
+- Software Developers
+- Pragmatic Thinking
+- Organisational Culture
+- Organisational Physics
+categories:
+- People and Process
 preview: 2020-03-27_21-31-11-1-1.jpg
 
 ---

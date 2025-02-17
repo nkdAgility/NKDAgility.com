@@ -21,8 +21,28 @@ aliasesFor404:
 - /virtual-labs-in-the-modern-application-lifecycle
 - /blog/virtual-labs-in-the-modern-application-lifecycle
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
-tags: []
-categories: []
+tags:
+- Software Development
+- Automated Testing
+- Software Developers
+- Technical Mastery
+- Engineering Excellence
+- Operational Practices
+- Frequent Releases
+- Pragmatic Thinking
+- Digital Transformation
+- Windows
+- Continuous Delivery
+- Test Automation
+categories:
+- Application Lifecycle Management
+- Platform Engineering
+- Practical Techniques and Tooling
+- Product Delivery
+- Technical Excellence
+- DevOps
+- Azure DevOps
+- Products and Books
 preview: metro-lab-5-5.png
 
 ---

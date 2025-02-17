@@ -25,8 +25,18 @@ aliasesFor404:
 - /ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
-tags: []
-categories: []
+tags:
+- Software Developers
+- Software Development
+- Working Software
+- Collaboration Tools
+- Automated Testing
+- Pragmatic Thinking
+- Technical Mastery
+- Operational Practices
+- Engineering Excellence
+categories:
+- Events and Presentations
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

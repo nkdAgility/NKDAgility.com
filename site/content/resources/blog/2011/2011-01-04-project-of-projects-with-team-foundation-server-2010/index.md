@@ -21,8 +21,14 @@ aliasesFor404:
 - /project-of-projects-with-team-foundation-server-2010
 - /blog/project-of-projects-with-team-foundation-server-2010
 - /resources/blog/project-of-projects-with-team-foundation-server-2010
-tags: []
-categories: []
+tags:
+- Software Development
+- Pragmatic Thinking
+- Operational Practices
+categories:
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-8-8.png
 
 ---

@@ -21,8 +21,13 @@ aliasesFor404:
 - /integrating-project-server-2013-with-team-foundation-server-2012
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Software Development
+- Troubleshooting
+categories:
+- Install and Configuration
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

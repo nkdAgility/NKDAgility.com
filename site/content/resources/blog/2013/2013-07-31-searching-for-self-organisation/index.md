@@ -21,8 +21,20 @@ aliasesFor404:
 - /searching-for-self-organisation
 - /blog/searching-for-self-organisation
 - /resources/blog/searching-for-self-organisation
-tags: []
-categories: []
+tags:
+- Self Organisation
+categories:
+- People and Process
+- Organisational Agility
+- Complexity Thinking
+- Organisational Psychology
+- Business Agility
+- Beta Codex
+- Sociotechnical Systems
+- Scrum
+- Agile Product Management
+- Discovery and Learning
+- Personal
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

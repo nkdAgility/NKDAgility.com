@@ -25,8 +25,8 @@ aliasesFor404:
 tags:
 - Agile Frameworks
 - Agile Project Management
-- Operational Practices
 - Software Development
+- Operational Practices
 categories:
 - Kanban
 - Practical Techniques and Tooling

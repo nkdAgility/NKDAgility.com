@@ -29,8 +29,37 @@ aliasesFor404:
 - /ndc-london--second-look--team-foundation-server-&amp;-vso
 - /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
-tags: []
-categories: []
+tags:
+- Agile Project Management
+- Automated Testing
+- Test First Development
+- Release Management
+- Customer Feedback Loops
+- Continuous Delivery
+- Working Software
+- Test Driven Development
+- Agile Planning
+- Frequent Releases
+- Software Developers
+- Engineering Practices
+- Software Development
+- Technical Mastery
+- Pragmatic Thinking
+- Test Automation
+- Azure Boards
+- Deployment Strategies
+- Azure Pipelines
+- Engineering Excellence
+- Product Owner
+- Continuous Integration
+- Product Validation
+- Scrum Product Development
+- Modern Source Control
+- Operational Practices
+- Troubleshooting
+categories:
+- Application Lifecycle Management
+- Events and Presentations
 preview: metro-event-icon-7-7.png
 
 ---

@@ -21,8 +21,10 @@ aliasesFor404:
 - /twitter-with-style
 - /blog/twitter-with-style
 - /resources/blog/twitter-with-style
-tags: []
-categories: []
+tags:
+- Windows
+categories:
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

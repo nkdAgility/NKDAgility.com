@@ -27,9 +27,12 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview---introduction
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-introduction
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories: []
+categories:
+- Events and Presentations
+- Application Lifecycle Management
 
 ---
 A high-level overview of ALM and how the features in Visual Studio 2010 support ALM. This presentation touches on all the features shown in the rest of the deeper-dive sessions. If attendees don't know which other sessions they want, watching this presentation might help them decide.

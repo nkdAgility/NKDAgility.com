@@ -21,8 +21,13 @@ aliasesFor404:
 - /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
-tags: []
-categories: []
+tags:
+- System Configuration
+- Technical Mastery
+- Troubleshooting
+- Software Development
+categories:
+- Install and Configuration
 
 ---
 Did you skip reporting and now you want to integrate reporting and analyses services with Team Foundation Server 2013?

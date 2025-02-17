@@ -21,9 +21,18 @@ aliasesFor404:
 - /team-system-web-access-finally-released
 - /blog/team-system-web-access-finally-released
 - /resources/blog/team-system-web-access-finally-released
-tags: []
+tags:
+- Release Management
+- Software Development
+- System Configuration
+- Working Software
+- Modern Source Control
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-3-3.png
-categories: []
+categories:
+- News and Reviews
+- Products and Books
+- Install and Configuration
 
 ---
 [Brian Harry](http://blogs.msdn.com/bharry/) has just [announced](http://blogs.msdn.com/bharry/archive/2007/07/30/team-system-web-access-power-tool-available.aspx "Team System Web Access Power Tool Available") the release of Team System Web Access the next incarnation of DevBiz's TeamPlain product.

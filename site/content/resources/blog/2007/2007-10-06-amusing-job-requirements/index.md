@@ -21,8 +21,15 @@ aliasesFor404:
 - /amusing-job-requirements
 - /blog/amusing-job-requirements
 - /resources/blog/amusing-job-requirements
-tags: []
-categories: []
+tags:
+- Software Development
+- Continuous Learning
+- Software Developers
+- Pragmatic Thinking
+- Technical Mastery
+- Engineering Excellence
+categories:
+- Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

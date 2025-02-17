@@ -25,20 +25,21 @@ isShort: false
 tags:
 - Engineering Excellence
 - Engineering Practices
-- Pragmatic Thinking
-- Software Development
-- Technical Debt
-- Technical Leadership
 - Technical Mastery
+- Software Development
+- Technical Leadership
+- Technical Debt
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- People and Process
 - Technical Excellence
+- People and Process
 - Value Delivery
+- DevOps
 
 ---
 Naked agility can be a transformative partner in fostering engineering excellence and cultivating technical leadership within your organisation. Over the past few videos, I’ve delved into various aspects of this journey, and today, I want to share some insights that I believe are crucial for anyone looking to elevate their engineering practices.

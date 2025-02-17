@@ -25,8 +25,13 @@ aliasesFor404:
 - /sync-extension-for-lists-collections-or-whatever
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/blog/sync-extension-for-listscollections-or-whatever
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Software Development
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

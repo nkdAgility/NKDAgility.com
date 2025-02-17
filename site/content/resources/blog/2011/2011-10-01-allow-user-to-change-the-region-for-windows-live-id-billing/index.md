@@ -21,8 +21,11 @@ aliasesFor404:
 - /allow-user-to-change-the-region-for-windows-live-id-billing
 - /blog/allow-user-to-change-the-region-for-windows-live-id-billing
 - /resources/blog/allow-user-to-change-the-region-for-windows-live-id-billing
-tags: []
-categories: []
+tags:
+- Windows
+- Customer Feedback Loops
+categories:
+- Personal
 preview: metro-xbox-360-link-2-2.png
 
 ---

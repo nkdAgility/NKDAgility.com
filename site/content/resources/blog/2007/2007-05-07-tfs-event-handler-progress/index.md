@@ -21,8 +21,13 @@ aliasesFor404:
 - /tfs-event-handler-progress
 - /blog/tfs-event-handler-progress
 - /resources/blog/tfs-event-handler-progress
-tags: []
-categories: []
+tags:
+- Troubleshooting
+- Software Development
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

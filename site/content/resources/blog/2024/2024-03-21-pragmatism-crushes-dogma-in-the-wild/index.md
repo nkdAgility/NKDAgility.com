@@ -23,31 +23,21 @@ aliasesFor404:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
+- Scrum
+- People and Process
 - Agile Product Management
 - Organisational Agility
-- People and Process
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Continuous Learning
-- Empirical Process Control
-- Increment
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
-- Scrum Team
-- Self Organisation
-- Software Developers
+- Agile Project Management
+- Empirical Process Control
+- Professional Scrum
 - Software Development
-- Team Collaboration
-- Team Performance
-- Technical Leadership
+- Agile Frameworks
+- Agile Transformation
+- Pragmatic Thinking
+- Agile Planning
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

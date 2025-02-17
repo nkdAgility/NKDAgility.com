@@ -21,9 +21,12 @@ aliasesFor404:
 - /visual-studio-team-system-2008-database-edition-gdr-installation
 - /blog/visual-studio-team-system-2008-database-edition-gdr-installation
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-installation
-tags: []
+tags:
+- Windows
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 First, download the new Data Dude.

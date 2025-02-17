@@ -21,8 +21,25 @@ aliasesFor404:
 - /team-foundation-server-2013-is-production-ready
 - /blog/team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
-tags: []
-categories: []
+tags:
+- Technical Debt
+- Software Development
+- Agile Project Management
+- Working Software
+- Agile Frameworks
+- Software Developers
+- Agile Strategy
+- Transparency
+- Frequent Releases
+- Pragmatic Thinking
+- Engineering Excellence
+categories:
+- Products and Books
+- News and Reviews
+- Application Lifecycle Management
+- People and Process
+- Product Delivery
+- Organisational Agility
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

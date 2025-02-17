@@ -25,8 +25,16 @@ aliasesFor404:
 - /removing-acl's-for-dead-ad-accounts
 - /blog/removing-acl's-for-dead-ad-accounts
 - /resources/blog/removing-acls-for-dead-ad-accounts
-tags: []
-categories: []
+tags:
+- Windows
+- System Configuration
+- Technical Mastery
+- Troubleshooting
+- Software Development
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

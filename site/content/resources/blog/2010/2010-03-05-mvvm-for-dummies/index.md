@@ -21,8 +21,13 @@ aliasesFor404:
 - /mvvm-for-dummies
 - /blog/mvvm-for-dummies
 - /resources/blog/mvvm-for-dummies
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Software Development
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

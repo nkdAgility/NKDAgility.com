@@ -25,8 +25,17 @@ aliasesFor404:
 - /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-tags: []
-categories: []
+tags:
+- Technical Mastery
+- Pragmatic Thinking
+- Troubleshooting
+- Software Development
+- System Configuration
+- Operational Practices
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: puzzle-issue-problem-128-link-5-5.png
 
 ---

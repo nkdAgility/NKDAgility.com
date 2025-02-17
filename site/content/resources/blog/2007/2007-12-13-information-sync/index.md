@@ -21,8 +21,12 @@ aliasesFor404:
 - /information-sync
 - /blog/information-sync
 - /resources/blog/information-sync
-tags: []
-categories: []
+tags:
+- Windows
+- Troubleshooting
+categories:
+- Products and Books
+- Miscellaneous
 preview: nakedalm-logo-128-link-6-6.png
 
 ---
