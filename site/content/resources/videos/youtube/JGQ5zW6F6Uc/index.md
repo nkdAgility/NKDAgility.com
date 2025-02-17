@@ -24,6 +24,20 @@ isShort: false
 tags:
 - People and Process
 - Scrum
+- Scrum Master
+- Scrum Team
+- Agile Product Management
+- Scrum Product Development
+- Professional Scrum
+- Agile Frameworks
+- Team Performance
+- Agile Project Management
+- Agile Transformation
+- Team Collaboration
+- Software Development
+- Pragmatic Thinking
+- Product Owner
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

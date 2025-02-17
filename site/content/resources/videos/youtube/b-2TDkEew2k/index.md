@@ -22,8 +22,17 @@ preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
+- Agile Values and Principles
+- Agile Planning
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Agile Philosophy
 - Agile Product Management
+- Pragmatic Thinking
+- Software Development
 - Organisational Agility
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

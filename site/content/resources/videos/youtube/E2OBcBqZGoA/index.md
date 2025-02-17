@@ -26,8 +26,8 @@ tags:
 - Business Agility
 - Value Delivery
 - Beta Codex
-- Organisational Agility
 - Organisational Change
+- Organisational Agility
 - Enterprise Agility
 - Agile Philosophy
 - Sociotechnical Systems

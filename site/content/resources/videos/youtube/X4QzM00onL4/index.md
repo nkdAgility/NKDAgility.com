@@ -24,6 +24,8 @@ duration: 66
 isShort: false
 tags:
 - People and Process
+- Strategy
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

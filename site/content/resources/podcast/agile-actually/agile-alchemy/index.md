@@ -15,6 +15,7 @@ slug: agile-alchemy
 aliases:
 - /resources/i2XYfDpX46l
 tags:
+- Transparency
 - Transparency and Accountability
 
 ---

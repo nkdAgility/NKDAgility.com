@@ -29,19 +29,19 @@ tags:
 - Team Performance
 - Agile Philosophy
 - Organisational Culture
-- Change Management
 - Software Developers
+- Change Management
 - Agile Transformation
-- Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
+- Systems Thinking
 - Complexity Thinking
 - Organisational Physics
-- Systems Thinking
+- Organisational Agility
 - Personal
-- Metrics and Learning
-- Organisational Change
 - Agile Strategy
+- Organisational Change
+- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

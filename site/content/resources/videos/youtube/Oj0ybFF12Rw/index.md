@@ -27,7 +27,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- Scaling Scrum
+- Scaling Agility
+- Agile Frameworks
+- Agile Project Management
+- Software Development
+- Professional Scrum
+- Scaled Agile
 resourceTypes:
 - video
 categories:

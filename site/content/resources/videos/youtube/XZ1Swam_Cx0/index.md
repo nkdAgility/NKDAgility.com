@@ -24,6 +24,12 @@ isShort: true
 tags:
 - Scrum
 - People and Process
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Agile Philosophy
+- Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

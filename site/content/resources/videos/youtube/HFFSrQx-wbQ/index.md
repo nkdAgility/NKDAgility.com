@@ -22,9 +22,8 @@ preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
-- People and Process
-- Discovery and Learning
-- Miscellaneous
+- Agile Values and Principles
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

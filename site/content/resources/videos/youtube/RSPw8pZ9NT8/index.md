@@ -22,22 +22,22 @@ preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Kanban
 - Strategy
+- Kanban
 - Forecasting
 - Throughput
 - Value Delivery
-- Cycle Time
 - Metrics and Learning
+- Cycle Time
 - Pragmatic Thinking
 - Software Development
-- Practical Techniques and Tooling
 - Flow Efficiency
-- Operational Practices
-- Estimation
-- Decision Theory
-- Agile Project Management
+- Practical Techniques and Tooling
 - Decision Making
+- Operational Practices
+- Agile Project Management
+- Decision Theory
+- Estimation
 - Agile Frameworks
 - Product Delivery
 - Lean Thinking

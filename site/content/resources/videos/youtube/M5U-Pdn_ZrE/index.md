@@ -23,6 +23,7 @@ duration: 39
 isShort: true
 tags:
 - People and Process
+- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6

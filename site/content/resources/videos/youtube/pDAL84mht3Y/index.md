@@ -23,6 +23,10 @@ duration: 47
 isShort: true
 tags:
 - People and Process
+- Business Agility
+- Agile Philosophy
+- Organisational Agility
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

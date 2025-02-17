@@ -22,23 +22,23 @@ categories:
 - Social Technologies
 tags:
 - Scrum
-- Scrum Team
 - Agile Product Management
 - Discovery and Learning
+- Scrum Team
 - Professional Scrum
-- People and Process
-- Scrum Master
+- Continuous Learning
 - Events and Presentations
+- Agile Project Management
 - News and Reviews
+- Agile Frameworks
 - Products and Books
 - Product Owner
-- Agile Frameworks
-- Agile Project Management
-- Continuous Learning
-- Customer Satisfaction
+- Scrum Master
+- People and Process
 - Software Development
-- Customer Retention
 - Software Developers
+- Customer Retention
+- Customer Satisfaction
 
 ---
 Greetings,

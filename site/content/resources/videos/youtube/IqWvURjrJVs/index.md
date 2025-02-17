@@ -23,26 +23,26 @@ preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
 tags:
-- Coaching
 - Scrum
-- Organisational Agility
+- Coaching
 - Business Agility
 - People and Process
-- Value Delivery
-- Software Developers
-- Software Development
-- Pragmatic Thinking
-- Scrum Product Development
-- Professional Scrum
+- Organisational Agility
+- Team Performance
+- Agile Project Management
 - Agile Transformation
 - Team Collaboration
-- Market Adaptability
-- Agile Project Management
 - Product Delivery
-- Team Performance
 - Agile Frameworks
+- Software Development
+- Pragmatic Thinking
 - Agile Product Management
+- Software Developers
+- Professional Scrum
+- Value Delivery
+- Scrum Product Development
 - Agile Strategy
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.4

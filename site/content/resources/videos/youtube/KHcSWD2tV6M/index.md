@@ -23,6 +23,9 @@ duration: 67
 isShort: false
 tags:
 - People and Process
+- Transparency and Accountability
+- Team Performance
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

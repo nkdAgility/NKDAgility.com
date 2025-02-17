@@ -35,21 +35,21 @@ tags:
 - Agile Philosophy
 - Market Adaptability
 - Business Agility
+- Agile Strategy
 - Organisational Change
 - Value Delivery
-- Agile Strategy
+- Agile Project Management
+- Technical Leadership
 - Agile Transformation
 - Change Management
-- Technical Leadership
-- Agile Project Management
-- Strategy
-- Organisational Culture
+- Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
+- Strategy
+- Organisational Culture
 - Scaling Agility
-- Large Scale Agility
 - Enterprise Agility
-- Organisational Agility
+- Large Scale Agility
 - Resilience and Change
 - Organisational Physics
 - Agile Product Management
@@ -62,8 +62,8 @@ tags:
 - Systems Thinking
 - Sensemaking
 - Employee Engagement
-- Strategic Goals
 - Decision Making
+- Strategic Goals
 resourceTypes:
 - video
 categories:

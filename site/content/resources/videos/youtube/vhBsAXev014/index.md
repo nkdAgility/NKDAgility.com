@@ -32,47 +32,47 @@ tags:
 - People and Process
 - Agile Project Management
 - Agile Product Management
-- Change Management
-- Organisational Change
-- Agile Product Operating Model
-- Product Owner
-- Digital Transformation
-- Strategic Goals
 - Agile Transformation
 - Organisational Culture
-- Agile Philosophy
-- Organisational Agility
-- Organisational Physics
+- Strategic Goals
+- Agile Product Operating Model
+- Change Management
+- Product Owner
+- Organisational Change
+- Digital Transformation
 - Pragmatic Thinking
-- Product Strategy
-- Agile Leadership
 - Systems Thinking
+- Product Strategy
+- Agile Philosophy
+- Agile Leadership
+- Organisational Physics
+- Organisational Agility
 - Team Motivation
-- Sensemaking
-- Strategy
-- Sociotechnical Systems
-- Software Development
-- Team Collaboration
-- Business Agility
 - Enterprise Agility
-- Team Performance
-- Decision Making
+- Team Collaboration
 - Value Delivery
+- Software Development
+- Business Agility
+- Strategy
+- Decision Making
+- Sensemaking
+- Sociotechnical Systems
+- Team Performance
 - Resilience and Change
 - Agile Planning
 - Metrics and Learning
 - Agile Values and Principles
-- Agile Frameworks
+- Transparency and Accountability
 - Evidence Based Management
 - Complexity Thinking
+- Agile Frameworks
 - Software Developers
-- Transparency and Accountability
 - Product Delivery
-- Scaling Agility
-- Operational Practices
-- Evidence Based Leadership
 - Technical Leadership
 - Market Adaptability
+- Evidence Based Leadership
+- Scaling Agility
+- Operational Practices
 resourceTypes:
 - video
 categories:

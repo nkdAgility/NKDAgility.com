@@ -23,7 +23,13 @@ duration: 30
 isShort: true
 tags:
 - Scrum
+- Scrum Master
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
 - People and Process
+- Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -22,9 +22,8 @@ preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
-- Kanban
-- Scrum
-- People and Process
+- Agile Frameworks
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

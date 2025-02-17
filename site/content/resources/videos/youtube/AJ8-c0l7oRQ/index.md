@@ -25,7 +25,8 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Complexity Thinking
 resourceTypes:
 - video
 categories:

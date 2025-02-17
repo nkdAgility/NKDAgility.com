@@ -22,7 +22,10 @@ preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
+- Metrics and Learning
 - People and Process
+- Pragmatic Thinking
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

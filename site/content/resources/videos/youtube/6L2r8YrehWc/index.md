@@ -24,20 +24,20 @@ isShort: false
 tags:
 - Scrum
 - Accountability
+- Scrum Master
 - Scrum Team
 - People and Process
-- Scrum Master
 - Team Collaboration
-- Agile Product Management
-- Pragmatic Thinking
-- Team Performance
-- Professional Scrum
 - Technical Leadership
+- Team Performance
+- Agile Product Management
+- Professional Scrum
+- Pragmatic Thinking
+- Agile Project Management
+- Agile Frameworks
 - Agile Transformation
 - Coaching
-- Agile Project Management
 - Software Development
-- Agile Frameworks
 - Agile Leadership
 - Sociotechnical Systems
 - Team Motivation

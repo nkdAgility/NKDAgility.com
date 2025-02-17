@@ -23,11 +23,11 @@ duration: 408
 isShort: false
 tags:
 - People and Process
+- Business Agility
 - Market Adaptability
 - Decision Making
 - Agile Philosophy
 - Lead Time
-- Business Agility
 - Agile Strategy
 - Enterprise Agility
 - Flow Efficiency

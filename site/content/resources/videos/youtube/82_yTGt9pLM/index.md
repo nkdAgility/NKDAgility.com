@@ -22,22 +22,22 @@ duration: 370
 isShort: false
 tags:
 - People and Process
-- Agile Frameworks
 - Organisational Agility
+- Agile Frameworks
 - Agile Transformation
 - Agile Philosophy
 - Agile Strategy
 - Organisational Change
 - Pragmatic Thinking
-- Continuous Learning
-- Business Agility
 - Discovery and Learning
+- Business Agility
+- Continuous Learning
+- Scaling Agility
 - Enterprise Agility
 - Value Delivery
 - Agile Project Management
-- Scaling Agility
-- Change Management
 - Sociotechnical Systems
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

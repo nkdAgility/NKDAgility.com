@@ -22,7 +22,13 @@ preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
+- Accountability
+- Product Owner
+- Agile Product Management
+- Scrum Product Development
+- Agile Project Management
 - Scrum
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -23,6 +23,7 @@ duration: 42
 isShort: true
 tags:
 - People and Process
+- Software Development
 - Miscellaneous
 sitemap:
   filename: sitemap.xml

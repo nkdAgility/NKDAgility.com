@@ -30,13 +30,13 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Agile Strategy
+- Business Agility
 - Product Delivery
 - Miscellaneous
 - Pragmatic Thinking
 - Software Development
-- Business Agility
-- Organisational Agility
 - Organisational Change
+- Organisational Agility
 resourceTypes:
 - video
 categories:

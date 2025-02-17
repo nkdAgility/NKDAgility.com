@@ -28,7 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Agile Strategy
 - People and Process
+- Technical Leadership
+- Practical Techniques and Tooling
+- Decision Making
+- Coaching
+- Pragmatic Thinking
+- Software Development
+- Organisational Agility
 resourceTypes:
 - video
 categories:

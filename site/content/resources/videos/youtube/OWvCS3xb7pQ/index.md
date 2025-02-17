@@ -26,8 +26,8 @@ tags:
 - People and Process
 - Agile Transformation
 - Continuous Learning
-- Organisational Agility
 - Organisational Change
+- Organisational Agility
 - Personal
 - Mentoring
 - Pragmatic Thinking

@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

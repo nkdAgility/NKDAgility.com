@@ -28,14 +28,14 @@ tags:
 - Agile Product Management
 - Evidence Based Management
 - Value Delivery
-- Decision Making
+- Metrics and Learning
 - Evidence Based Leadership
 - Agile Product Operating Model
 - Product Delivery
+- Decision Making
 - Scrum Product Development
-- Metrics and Learning
-- Pragmatic Thinking
 - Strategy
+- Pragmatic Thinking
 - Agile Project Management
 - Product Strategy
 - Agile Planning

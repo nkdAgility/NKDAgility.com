@@ -20,7 +20,21 @@ aliasesFor404:
 categories:
 - Product Management
 - Social Technologies
-tags: []
+tags:
+- Scrum
+- Agile Project Management
+- Agile Product Management
+- Professional Scrum
+- Product Backlog
+- Scrum Product Development
+- Agile Frameworks
+- Agile Planning Tools
+- Agile Planning
+- Product Owner
+- Software Development
+- Practical Techniques and Tooling
+- Products and Books
+- Pragmatic Thinking
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

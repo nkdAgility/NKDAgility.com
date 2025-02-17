@@ -27,7 +27,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Organisational Change
+- Organisational Agility
+- Agile Frameworks
+- Enterprise Agility
+- Agile Transformation
+- Scaling Agility
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

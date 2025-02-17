@@ -30,19 +30,19 @@ sitemap:
 tags:
 - People and Process
 - Business Agility
+- Agile Strategy
 - Organisational Change
 - Agile Philosophy
-- Agile Strategy
-- Change Management
 - Market Adaptability
-- Enterprise Agility
-- Agile Transformation
+- Change Management
 - Organisational Agility
-- Sociotechnical Systems
-- Organisational Culture
+- Agile Transformation
+- Enterprise Agility
 - Pragmatic Thinking
+- Organisational Culture
 - Beta Codex
 - Organisational Physics
+- Sociotechnical Systems
 - Resilience and Change
 - Agile Values and Principles
 - Scaling Agility

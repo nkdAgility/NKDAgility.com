@@ -27,7 +27,9 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Sensemaking
+- Decision Theory
 resourceTypes:
 - video
 categories:

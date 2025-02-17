@@ -22,36 +22,36 @@ duration: 239
 isShort: false
 tags:
 - Scrum
-- Product Delivery
-- Value Delivery
-- Continuous Delivery
 - Scrum Team
+- Product Delivery
 - Scrum Product Development
-- Agile Product Management
-- Team Performance
-- People and Process
-- Organisational Agility
-- Technical Leadership
-- Scrum Master
+- Continuous Delivery
+- Value Delivery
 - Working Software
-- Team Collaboration
 - Self Organisation
+- Team Collaboration
+- Organisational Agility
+- Scrum Master
+- Technical Leadership
+- People and Process
+- Team Performance
+- Agile Product Management
 - Coaching
-- Pragmatic Thinking
 - Software Development
-- Agile Frameworks
-- Operational Practices
-- Software Developers
-- Agile Strategy
-- Agile Planning
-- Strategy
-- Agile Project Management
+- Pragmatic Thinking
 - Sociotechnical Systems
+- Strategy
+- Software Developers
+- Agile Frameworks
+- Agile Strategy
 - Agile Transformation
-- Metrics and Learning
+- Agile Planning
+- Agile Project Management
+- Operational Practices
 - Discovery and Learning
-- Continuous Learning
 - Agile Leadership
+- Metrics and Learning
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

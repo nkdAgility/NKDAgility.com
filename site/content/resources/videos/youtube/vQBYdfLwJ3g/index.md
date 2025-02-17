@@ -31,13 +31,13 @@ tags:
 - Continuous Learning
 - Events and Presentations
 - Agile Project Management
-- Organisational Agility
 - Pragmatic Thinking
 - Team Collaboration
+- Organisational Agility
 - Scrum
 - Agile Leadership
-- Agile Transformation
 - Agile Strategy
+- Agile Transformation
 - Sociotechnical Systems
 - Value Delivery
 sitemap:

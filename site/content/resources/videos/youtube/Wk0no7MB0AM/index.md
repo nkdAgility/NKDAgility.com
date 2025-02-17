@@ -22,7 +22,13 @@ preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
+- Scrum Master
+- Team Performance
 - People and Process
+- Agile Project Management
+- Team Collaboration
+- Software Development
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

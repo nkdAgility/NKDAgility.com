@@ -23,7 +23,22 @@ duration: 219
 isShort: false
 tags:
 - Scrum
+- Transparency
+- Scrum Product Development
+- Agile Product Management
 - People and Process
+- Agile Planning
+- Agile Transformation
+- Complexity Thinking
+- Agile Project Management
+- Agile Frameworks
+- Professional Scrum
+- Transparency and Accountability
+- Empirical Process Control
+- Software Development
+- Product Backlog
+- Sensemaking
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

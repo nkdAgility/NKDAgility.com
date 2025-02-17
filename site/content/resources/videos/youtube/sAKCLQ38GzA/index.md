@@ -32,9 +32,9 @@ tags:
 - Agile Product Operating Model
 - Team Motivation
 - Organisational Culture
-- Strategic Goals
 - Employee Engagement
 - Product Strategy
+- Strategic Goals
 - Organisational Physics
 - Sociotechnical Systems
 - Organisational Psychology

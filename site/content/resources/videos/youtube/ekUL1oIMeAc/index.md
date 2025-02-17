@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Product Owner
 - People and Process
-- Agile Product Management
 - Scrum Team
+- Agile Product Management
 - Agile Project Management
 - Personal
 - Scrum

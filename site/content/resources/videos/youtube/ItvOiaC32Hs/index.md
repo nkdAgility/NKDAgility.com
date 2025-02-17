@@ -23,6 +23,12 @@ duration: 50
 isShort: true
 tags:
 - People and Process
+- Agile Strategy
+- Strategic Goals
+- Strategy
+- Sociotechnical Systems
+- Team Motivation
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

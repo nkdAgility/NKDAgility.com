@@ -23,6 +23,7 @@ duration: 50
 isShort: true
 tags:
 - People and Process
+- Psychological Safety
 sitemap:
   filename: sitemap.xml
   priority: 0.6

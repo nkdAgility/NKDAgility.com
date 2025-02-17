@@ -32,8 +32,8 @@ tags:
 - Agile Planning
 - Scrum Product Development
 - Agile Transformation
-- Scrum Team
 - Team Collaboration
+- Scrum Team
 - Product Delivery
 - Team Performance
 - Agile Frameworks

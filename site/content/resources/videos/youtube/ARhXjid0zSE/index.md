@@ -23,6 +23,11 @@ duration: 32
 isShort: true
 tags:
 - People and Process
+- Agile Project Management
+- Employee Engagement
+- Team Motivation
+- Software Development
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
