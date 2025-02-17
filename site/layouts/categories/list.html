@@ -6,6 +6,10 @@
           <div class="col-xl-4 d-flex p-2">
             {{- partial "cards-course.html" (dict "context" .) }}
           </div>
+        {{- else if or (eq .Type "tags") (eq .Type "categories") }}
+          <div class="col-xl-4 d-flex p-2">
+            {{- partial "page-sections/sections-taxonomies-card.html" (dict "site" .Site "context" . "subTypes" "resources") }}
+          </div>
         {{- else }}
           <div class="col-xl-4 d-flex p-2">
             {{- if $page.Params.card }}
