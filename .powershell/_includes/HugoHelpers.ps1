@@ -222,7 +222,7 @@ function Get-HugoMarkdownList {
         [string]$FolderPath
     )
 
-    $mdFiles = Get-ChildItem -Path $FolderPath -Filter "*.md" -File
+    $mdFiles = Get-ChildItem -Path $FolderPath -Recurse -Filter "*.md" -File
     $metadataList = @()
 
     foreach ($markdownFile in $mdFiles) {
