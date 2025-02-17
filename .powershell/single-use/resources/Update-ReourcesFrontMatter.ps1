@@ -213,11 +213,25 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
         #-----------------Categories-------------------
-        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3
+        $categoryClassification = Get-CategoryConfidenceWithChecksum `
+            -ClassificationType "categories" `
+            -Catalog $categoriesCatalog `
+            -CacheFolder $hugoMarkdown.FolderPath `
+            -ResourceContent  $BodyContent `
+            -ResourceTitle $hugoMarkdown.FrontMatter.title `
+            -MaxCategories 3 
+        #-updateMissing
         $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
         #-----------------Tags-------------------
-        $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20 -batch
+        $tagClassification = Get-CategoryConfidenceWithChecksum -batch `
+            -ClassificationType "tags" `
+            -Catalog $tagsCatalog `
+            -CacheFolder $hugoMarkdown.FolderPath `
+            -ResourceContent  $BodyContent `
+            -ResourceTitle $hugoMarkdown.FrontMatter.title `
+            -MaxCategories 20
+        #-updateMissing
         $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
 

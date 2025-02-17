@@ -38,7 +38,8 @@ function Get-CategoryConfidenceWithChecksum {
         [string]$ClassificationType = "classification",
         [int]$MinConfidence = 50,
         [int]$MaxCategories = 5,
-        [switch]$batch
+        [switch]$batch,
+        [switch]$updateMissing
     )
 
     if (!(Test-Path $CacheFolder)) {
@@ -168,7 +169,15 @@ function Get-CategoryConfidenceWithChecksum {
                         continue
                     }
                     $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
-                    $cachedData | Add-Member -MemberType NoteProperty -Name $newEntry.category -Value $newEntry 
+                    if ($cachedData.PSObject.Properties[$newEntry.category]) {
+                        $oldEntry = $cachedData.($newEntry.category)
+                        if ([System.DateTimeOffset]$oldEntry.calculated_at -gt $newEntry.calculated_at) {
+                            $cachedData.$newEntry.category = $newEntry
+                        }
+                    }
+                    else {
+                        $cachedData | Add-Member -MemberType NoteProperty -Name $newEntry.category -Value $newEntry 
+                    }
                 }
 
                 # Save updated cache
@@ -215,7 +224,7 @@ function Get-CategoryConfidenceWithChecksum {
         }
     }
 
-    if ($categoryMissing.Count -gt 0 -and $batchStatus -eq $null) {
+    if ($categoryMissing.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
       
         # Build prompts for missing items
         $prompts = @()
