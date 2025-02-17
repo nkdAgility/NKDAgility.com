@@ -26,10 +26,8 @@ aliasesFor404:
 - /blog/reuse-your-msdn-benefits-with-your-org-id
 - /resources/blog/reuse-msdn-benefits-org-id
 tags:
-- Windows
-- Troubleshooting
-categories:
 - Install and Configuration
+categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

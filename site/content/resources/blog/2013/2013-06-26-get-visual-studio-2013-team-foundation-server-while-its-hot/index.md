@@ -26,33 +26,34 @@ aliasesFor404:
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
+- Agile Product Management
 - Product Backlog
-- Collaboration Tools
-- Agile Planning Tools
 - Portfolio Management
 - Agile Project Management
+- Product Delivery
+- Agile Planning Tools
 - Team Collaboration
+- Collaboration Tools
 - Agile Planning
 - Azure Boards
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 - Software Developers
+- Products and Books
 - Agile Strategy
 - Software Development
+- Azure DevOps
 - Scrum Product Development
-- Working Software
 - Team Performance
+- Working Software
+- Agile Product Operating Model
+- Value Delivery
 - Agile Transformation
 - Agile Frameworks
 - Pragmatic Thinking
 categories:
-- Agile Product Management
-- Product Delivery
 - News and Reviews
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- Products and Books
-- Azure DevOps
-- Agile Product Operating Model
-- Value Delivery
+- Social Technologies
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 

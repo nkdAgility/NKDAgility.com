@@ -31,11 +31,7 @@ tags:
 categories:
 - Scrum
 - People and Process
-- Value Delivery
-- Product Delivery
-- Agile Product Management
-- Flow Efficiency
-- Practical Techniques and Tooling
+- Social Technologies
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

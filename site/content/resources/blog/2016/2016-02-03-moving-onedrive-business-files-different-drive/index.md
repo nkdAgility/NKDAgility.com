@@ -27,10 +27,11 @@ aliasesFor404:
 - /resources/blog/moving-onedrive-business-files-different-drive
 tags:
 - Windows
+- Install and Configuration
 - System Configuration
 - Troubleshooting
 categories:
-- Install and Configuration
+- Personal
 preview: clip_image001-1-1-1.png
 
 ---

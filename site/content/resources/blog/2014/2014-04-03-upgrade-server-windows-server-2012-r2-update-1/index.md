@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Install and Configuration
+- News and Reviews
 preview: nakedalm-windows-logo-6-6.png
 
 ---

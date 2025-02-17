@@ -26,9 +26,14 @@ aliasesFor404:
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/blog/creating-training-virtual-machines-azure
 tags:
+- Install and Configuration
 - Windows
 categories:
-- Install and Configuration
+- Events and Presentations
+- Technical Excellence
+- Personal
+- Engineering Excellence
+- DevOps
 preview: nakedalm-windows-logo-16-16.png
 
 ---

@@ -22,9 +22,11 @@ aliasesFor404:
 - /blog/install-tfs-2015-today
 - /resources/blog/install-tfs-2015-today
 tags:
+- Install and Configuration
 - System Configuration
 categories:
-- Install and Configuration
+- Technical Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

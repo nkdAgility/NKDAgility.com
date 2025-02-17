@@ -28,14 +28,10 @@ aliasesFor404:
 tags:
 - Technical Mastery
 categories:
+- Engineering Excellence
 - Technical Excellence
 - Code and Complexity
-- Application Lifecycle Management
-- Product Delivery
-- Value Delivery
-- Practical Techniques and Tooling
 - DevOps
-- Flow Efficiency
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

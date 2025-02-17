@@ -26,39 +26,40 @@ aliasesFor404:
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
 tags:
-- Scrum Product Development
 - Strategy
-- Scaling Scrum
-- Software Development
+- Scrum Product Development
 - Professional Scrum
-- Organisational Culture
-- Agile Project Management
-- Scaling Agility
+- Product Delivery
 - Organisational Change
+- Scaling Scrum
+- Scaling Agility
+- Business Agility
+- Agile Product Management
+- Value Delivery
+- Agile Project Management
+- Organisational Culture
+- Organisational Agility
+- Software Development
 - Team Performance
-- Agile Planning
-- Software Developers
-- Team Collaboration
 - Pragmatic Thinking
 - Agile Transformation
 - Agile Frameworks
+- Team Collaboration
+- Software Developers
 - Agile Strategy
 - Self Organisation
+- Enterprise Agility
+- Agile Planning
 - Continuous Learning
+- Sociotechnical Systems
+- Market Adaptability
+- Application Lifecycle Management
 categories:
 - Scrum
 - People and Process
-- Agile Product Management
-- Value Delivery
-- Business Agility
-- Product Delivery
-- Organisational Agility
 - Discovery and Learning
-- Enterprise Agility
-- Market Adaptability
+- Social Technologies
 - Personal
-- Sociotechnical Systems
-- Application Lifecycle Management
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

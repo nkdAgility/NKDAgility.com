@@ -28,13 +28,12 @@ aliasesFor404:
 - /upgrading-to-tfs-2015-in-production
 - /resources/blog/upgrading-to-tfs-2015-in-production-done
 tags:
-- System Configuration
-- Release Management
-- Pragmatic Thinking
-- Troubleshooting
-- Software Development
-categories:
 - Install and Configuration
+categories:
+- News and Reviews
+- Engineering Excellence
+- Technical Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 
 ---

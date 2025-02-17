@@ -28,8 +28,11 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Code and Complexity
+- People and Process
+- Engineering Excellence
+- Technical Excellence
+- DevOps
 preview: naked-alm-git-2-2.png
 
 ---

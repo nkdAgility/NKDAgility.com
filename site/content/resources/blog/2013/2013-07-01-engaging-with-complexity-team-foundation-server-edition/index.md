@@ -31,13 +31,9 @@ tags:
 - Windows
 categories:
 - Code and Complexity
-- Install and Configuration
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- Complexity Thinking
-- DevOps
-- Azure DevOps
 - Technical Excellence
+- DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

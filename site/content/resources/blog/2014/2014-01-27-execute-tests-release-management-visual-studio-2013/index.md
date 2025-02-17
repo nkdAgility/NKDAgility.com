@@ -29,13 +29,9 @@ tags:
 - Release Management
 - Automated Testing
 categories:
-- Install and Configuration
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- DevOps
-- Azure DevOps
+- Engineering Excellence
 - Technical Excellence
-- Product Delivery
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

@@ -29,13 +29,7 @@ tags:
 - Software Development
 categories:
 - People and Process
-- Application Lifecycle Management
-- Install and Configuration
-- Practical Techniques and Tooling
-- Product Delivery
-- Azure DevOps
 - Technical Excellence
-- Sociotechnical Systems
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

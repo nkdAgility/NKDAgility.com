@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
 - Windows
+- Install and Configuration
 - System Configuration
 - Azure Pipelines
+- Azure DevOps
+- Practical Techniques and Tooling
 - Software Development
 - Continuous Integration
 categories:
-- Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

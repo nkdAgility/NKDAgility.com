@@ -26,11 +26,14 @@ aliasesFor404:
 - /blog/migrating-from-codeplex-to-github
 - /resources/blog/migrating-codeplex-github
 tags:
-- Modern Source Control
-- Software Development
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
+- Modern Source Control
+categories:
+- Personal
+- Technical Excellence
+- DevOps
 preview: clip_image001-1-1.png
 
 ---

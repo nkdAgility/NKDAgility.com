@@ -27,8 +27,10 @@ aliasesFor404:
 - /resources/blog/traveling-work-dell-venue-8
 tags:
 - Windows
-categories:
 - Products and Books
+categories:
+- News and Reviews
+- Personal
 preview: nakedalm-windows-logo-4-4.png
 
 ---

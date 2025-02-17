@@ -27,29 +27,30 @@ aliasesFor404:
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
-- Transparency
-- Estimation
 - Increment
+- Estimation
+- Transparency
+- Metrics and Learning
+- Agile Product Management
 - Agile Project Management
+- Cycle Time
+- Transparency and Accountability
 - Scrum Product Development
 - Scrum Team
-- Cycle Time
+- Value Delivery
 - Agile Planning
 - Team Performance
-- Agile Frameworks
 - Agile Transformation
 - Empirical Process Control
 - Professional Scrum
-- Software Developers
-- Pragmatic Thinking
+- Agile Frameworks
 - Software Development
+- Pragmatic Thinking
+- Software Developers
 categories:
 - Scrum
-- Metrics and Learning
-- Agile Product Management
-- Value Delivery
-- Transparency and Accountability
 - People and Process
+- Social Technologies
 preview: image-9-14-14.png
 
 ---

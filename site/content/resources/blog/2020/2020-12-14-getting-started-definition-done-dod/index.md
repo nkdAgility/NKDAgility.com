@@ -33,6 +33,7 @@ tags:
 - Software Development
 categories:
 - Scrum
+- Social Technologies
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

@@ -28,6 +28,7 @@ tags:
 - Agile Project Management
 categories:
 - Scrum
+- Social Technologies
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

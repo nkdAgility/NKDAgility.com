@@ -29,15 +29,9 @@ tags:
 - Organisational Change
 categories:
 - Scrum
+- Leadership
 - People and Process
-- Resilience and Change
-- Organisational Agility
-- Organisational Psychology
-- Business Agility
-- Enterprise Agility
-- Value Delivery
-- Sociotechnical Systems
-- Practical Techniques and Tooling
+- Social Technologies
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

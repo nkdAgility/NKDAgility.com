@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/join-machine-azure-hosted-domain-controller
 tags:
 - System Configuration
+- Practical Techniques and Tooling
+- Install and Configuration
 - Windows
 - Troubleshooting
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 preview: nakedalm-windows-logo-6-6.png
 
 ---

@@ -28,10 +28,7 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- Practical Techniques and Tooling
 - DevOps
-- Install and Configuration
-- Azure DevOps
 - Technical Excellence
 preview: naked-alm-git-1-1.png
 

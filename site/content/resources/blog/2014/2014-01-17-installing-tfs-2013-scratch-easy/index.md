@@ -26,9 +26,8 @@ aliasesFor404:
 - /blog/installing-tfs-2013-from-scratch-is-easy
 - /resources/blog/installing-tfs-2013-scratch-easy
 tags:
-- System Configuration
-categories:
 - Install and Configuration
+categories: []
 
 ---
 It had been a while since I installed TFS from scratch and I had a few questions from a customer on the subject. So instead of creating yet another installing TFS post I decided to create a couple of videos instead.

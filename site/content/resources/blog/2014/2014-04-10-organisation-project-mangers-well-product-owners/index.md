@@ -26,33 +26,34 @@ aliasesFor404:
 - /blog/does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
-- Agile Project Management
-- Product Management
-- Product Owner
-- Scrum Team
-- Agile Strategy
-- Agile Philosophy
-- Team Collaboration
-- Agile Transformation
-- Organisational Culture
-- Agile Frameworks
-- Organisational Change
-- Organisational Physics
-- Agile Planning
-- Software Development
-- Scaled Agile
-- Team Performance
-- Professional Scrum
-categories:
-- Agile Product Management
 - Agile Product Operating Model
+- Agile Product Management
+- Agile Project Management
+- Product Owner
 - Product Delivery
-- People and Process
+- Agile Philosophy
 - Business Agility
 - Organisational Agility
-- Scrum
+- Scrum Team
+- Agile Transformation
+- Team Collaboration
+- Agile Strategy
 - Sociotechnical Systems
+- Organisational Culture
+- Organisational Change
+- Organisational Physics
+- Agile Frameworks
+- Software Development
+- Scaled Agile
 - Enterprise Agility
+- Team Performance
+- Agile Planning
+- Professional Scrum
+categories:
+- Product Management
+- People and Process
+- Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

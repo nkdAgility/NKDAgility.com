@@ -29,17 +29,18 @@ aliasesFor404:
 tags:
 - Transparency
 - Scrum Product Development
-- Product Management
-- Product Backlog
-- Agile Project Management
-- Pragmatic Thinking
-- Software Development
-- Product Owner
-categories:
 - Agile Product Management
-- People and Process
+- Product Backlog
 - Transparency and Accountability
 - Product Delivery
+- Product Owner
+- Software Development
+- Agile Project Management
+- Pragmatic Thinking
+categories:
+- People and Process
+- Product Management
+- Social Technologies
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

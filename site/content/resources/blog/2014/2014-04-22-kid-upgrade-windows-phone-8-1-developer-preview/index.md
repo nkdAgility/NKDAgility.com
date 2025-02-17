@@ -27,9 +27,12 @@ aliasesFor404:
 - /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
 tags:
 - Windows
+- Install and Configuration
 - Troubleshooting
 categories:
-- Install and Configuration
+- Discovery and Learning
+- News and Reviews
+- Personal
 preview: nakedalm-windows-logo-6-6.png
 
 ---

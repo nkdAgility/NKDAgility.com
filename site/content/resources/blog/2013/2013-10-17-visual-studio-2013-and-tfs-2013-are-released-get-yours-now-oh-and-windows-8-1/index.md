@@ -31,14 +31,14 @@ aliasesFor404:
 - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 tags:
 - Windows
-- System Configuration
-- Software Development
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- News and Reviews
+- System Configuration
 - Products and Books
+- Software Development
 - Application Lifecycle Management
+categories:
+- News and Reviews
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

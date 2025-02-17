@@ -26,12 +26,9 @@ aliasesFor404:
 - /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /resources/blog/configuring-dc-azure-aad-integrated-release-management
 tags:
-- Windows
-- Technical Mastery
-- System Configuration
-- Software Development
-categories:
 - Install and Configuration
+categories:
+- Events and Presentations
 preview: nakedalm-windows-logo-22-22.png
 
 ---

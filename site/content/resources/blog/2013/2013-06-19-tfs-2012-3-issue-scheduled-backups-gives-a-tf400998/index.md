@@ -30,14 +30,16 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
 - Troubleshooting
 - Software Development
+- Pragmatic Thinking
 - Technical Mastery
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
+- DevOps
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

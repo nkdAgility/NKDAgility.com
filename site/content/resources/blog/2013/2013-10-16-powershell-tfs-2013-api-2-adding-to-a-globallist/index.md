@@ -29,11 +29,11 @@ aliasesFor404:
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 tags:
 - Technical Mastery
-- Software Development
-- System Configuration
-categories:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- System Configuration
+- Software Development
+categories:
 - Technical Excellence
 preview: metro-powershell-logo-1-1.png
 
