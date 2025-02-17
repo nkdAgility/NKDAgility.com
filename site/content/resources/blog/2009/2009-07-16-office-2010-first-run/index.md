@@ -23,6 +23,8 @@ aliasesFor404:
 - /resources/blog/office-2010-first-run
 tags:
 - Windows
+- Customer Feedback Loops
+- Customer Satisfaction
 preview: metro-office-128-link-6-1.png
 categories: []
 

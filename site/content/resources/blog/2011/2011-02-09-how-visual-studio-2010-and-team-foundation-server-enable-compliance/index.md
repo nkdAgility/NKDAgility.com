@@ -32,11 +32,8 @@ tags:
 - Azure Boards
 - Pragmatic Thinking
 - Engineering Excellence
-- Agile Project Management
 categories:
 - Application Lifecycle Management
-- People and Process
-- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-30-30.png
 
 ---

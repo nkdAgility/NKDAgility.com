@@ -21,7 +21,11 @@ aliasesFor404:
 - /sharepoint-2007-and-silverlight
 - /blog/sharepoint-2007-and-silverlight
 - /resources/blog/sharepoint-2007-and-silverlight
-tags: []
+tags:
+- Software Development
+- Troubleshooting
+- Technical Mastery
+- Deployment Strategies
 preview: metro-sharepoint-128-link-1-1.png
 categories:
 - Products and Books

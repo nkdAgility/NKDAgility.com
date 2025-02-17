@@ -24,7 +24,6 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-- Windows
 categories:
 - News and Reviews
 - Events and Presentations

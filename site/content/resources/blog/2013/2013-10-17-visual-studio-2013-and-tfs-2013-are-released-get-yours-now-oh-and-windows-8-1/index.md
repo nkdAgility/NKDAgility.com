@@ -37,6 +37,8 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - News and Reviews
+- Products and Books
+- Application Lifecycle Management
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

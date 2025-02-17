@@ -26,28 +26,18 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
+- Organisational Agility
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
-- Agile Project Management
 - Scrum Product Development
+- Agile Project Management
 - Empirical Process Control
 - Software Development
 - Professional Scrum
 - Agile Planning
 - Agile Frameworks
-- Agile Transformation
 - Pragmatic Thinking
-- Team Performance
-- Team Collaboration
-- Scrum Master
-- Scrum Team
-- Agile Philosophy
-- Increment
-- Technical Leadership
-- Software Developers
-- Agile Strategy
-- Self Organisation
-- Continuous Learning
+- Agile Transformation
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

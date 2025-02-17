@@ -27,13 +27,6 @@ aliasesFor404:
 - /resources/blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Technical Mastery
-- Azure Boards
-- Pragmatic Thinking
-- Windows
-- Working Software
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps

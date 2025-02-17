@@ -27,9 +27,6 @@ aliasesFor404:
 - /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

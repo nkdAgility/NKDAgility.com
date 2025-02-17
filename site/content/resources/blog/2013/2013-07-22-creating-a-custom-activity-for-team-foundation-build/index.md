@@ -31,6 +31,7 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- Azure DevOps
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

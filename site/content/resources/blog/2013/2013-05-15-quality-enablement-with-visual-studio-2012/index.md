@@ -25,27 +25,8 @@ tags:
 - Working Software
 - Software Development
 - Engineering Practices
-- Pragmatic Thinking
-- Operational Practices
-- Software Developers
-- Acceptance Test Driven Development
-- Continuous Integration
-- Behaviour Driven Development
-- Cycle Time
-- Agile Project Management
-- Test Automation
-- Frequent Releases
-- Automated Testing
-- Release Management
-- Continuous Delivery
-- Deployment Frequency
-- Agile Strategy
-- Digital Transformation
-- Engineering Excellence
 categories:
 - Application Lifecycle Management
-- Product Delivery
-- Value Delivery
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 
 ---

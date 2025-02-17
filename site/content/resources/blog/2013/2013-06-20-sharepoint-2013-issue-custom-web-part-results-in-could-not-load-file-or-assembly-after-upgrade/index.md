@@ -29,9 +29,6 @@ aliasesFor404:
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

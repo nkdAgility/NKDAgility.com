@@ -29,18 +29,12 @@ aliasesFor404:
 - /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 tags:
 - Troubleshooting
-- Continuous Integration
-- Windows
-- System Configuration
-- Software Development
-- Technical Mastery
-- Engineering Excellence
-- Pragmatic Thinking
-- Operational Practices
 categories:
 - Install and Configuration
 - Azure DevOps
 - Practical Techniques and Tooling
+- Technical Excellence
+- DevOps
 preview: metro-problem-icon-6-6.png
 
 ---

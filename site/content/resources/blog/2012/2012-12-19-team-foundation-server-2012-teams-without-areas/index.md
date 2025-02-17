@@ -31,12 +31,12 @@ tags:
 - Azure Boards
 - Pragmatic Thinking
 - Operational Practices
-- Working Software
-- Product Backlog
 categories:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Azure DevOps
+- Application Lifecycle Management
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

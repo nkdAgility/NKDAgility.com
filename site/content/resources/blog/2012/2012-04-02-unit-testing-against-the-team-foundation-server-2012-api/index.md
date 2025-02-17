@@ -33,7 +33,6 @@ tags:
 - Software Developers
 - Engineering Excellence
 - Pragmatic Thinking
-- Windows
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps

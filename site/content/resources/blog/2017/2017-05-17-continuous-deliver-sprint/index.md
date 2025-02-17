@@ -31,29 +31,13 @@ aliasesFor404:
 - /resources/blog/continuous-deliver-sprint
 tags:
 - Agile Project Management
-- Increment
-- Scrum Team
-- Empirical Process Control
-- Working Software
-- Software Development
-- Team Performance
-- Agile Planning
-- Software Developers
-- Professional Scrum
-- Scrum Product Development
-- Scrum Master
-- Frequent Releases
-- Deployment Frequency
-- Operational Practices
-- Agile Strategy
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Transformation
-- Strategy
 categories:
 - Scrum
 - People and Process
 - Value Delivery
+- Product Delivery
+- Practical Techniques and Tooling
+- Agile Product Management
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

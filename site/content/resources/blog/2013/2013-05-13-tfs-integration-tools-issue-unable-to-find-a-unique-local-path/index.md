@@ -31,7 +31,6 @@ tags:
 - Software Development
 - Troubleshooting
 - Pragmatic Thinking
-- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

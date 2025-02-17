@@ -26,7 +26,6 @@ tags:
 - System Configuration
 - Troubleshooting
 - Technical Mastery
-- Frequent Releases
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

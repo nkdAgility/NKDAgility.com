@@ -34,6 +34,7 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

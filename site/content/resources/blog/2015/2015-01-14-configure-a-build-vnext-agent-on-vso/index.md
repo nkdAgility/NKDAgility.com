@@ -29,20 +29,9 @@ tags:
 - System Configuration
 - Software Development
 - Azure Pipelines
-- Windows
-- Technical Mastery
-- Modern Source Control
-- Azure Repos
-- Software Developers
-- Engineering Excellence
-- Continuous Integration
-- Pragmatic Thinking
-- Operational Practices
-- Release Management
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

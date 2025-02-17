@@ -38,19 +38,29 @@ tags:
 - Product Management
 - Evidence Based Leadership
 - Agile Frameworks
+- Operational Practices
 - Agile Strategy
-- Agile Transformation
 - Cycle Time
 - Decision Making
-- Operational Practices
+- Agile Transformation
 - Pragmatic Thinking
 - Strategy
 - Trend Analysis
 - Deployment Frequency
+- Frequent Releases
+- Throughput
+- Scaling Scrum
+- Organisational Change
+- Release Management
+- Scaling Agility
+- Team Performance
+- Professional Scrum
+- Agile Planning
+- Software Developers
+- Engineering Excellence
+- Digital Transformation
 categories:
 - Evidence Based Management
-- Scrum
-- Agile Product Management
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

@@ -32,12 +32,12 @@ tags:
 - Pragmatic Thinking
 - Increment
 - Engineering Excellence
-- Release Management
-- Frequent Releases
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- Azure DevOps
+- Application Lifecycle Management
 
 ---
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)

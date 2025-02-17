@@ -43,6 +43,10 @@ categories:
 - Scrum
 - People and Process
 - Events and Presentations
+- Sociotechnical Systems
+- Personal
+- Organisational Psychology
+- Agile Product Management
 preview: 1026661500-1-1.jpg
 
 ---

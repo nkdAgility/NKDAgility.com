@@ -23,7 +23,9 @@ aliasesFor404:
 - /resources/blog/the-long-wait-is-over
 tags:
 - Windows
-categories: []
+categories:
+- News and Reviews
+- Products and Books
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -47,6 +47,9 @@ categories:
 - Scrum
 - Metrics and Learning
 - Agile Product Management
+- Value Delivery
+- Transparency and Accountability
+- People and Process
 preview: image-9-14-14.png
 
 ---

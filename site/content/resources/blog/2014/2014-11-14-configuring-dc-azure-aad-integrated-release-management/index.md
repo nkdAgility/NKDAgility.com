@@ -32,8 +32,6 @@ tags:
 - Software Development
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Events and Presentations
 preview: nakedalm-windows-logo-22-22.png
 
 ---

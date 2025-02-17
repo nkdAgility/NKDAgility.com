@@ -27,16 +27,8 @@ aliasesFor404:
 - /resources/blog/creating-training-virtual-machines-azure
 tags:
 - Windows
-- Technical Mastery
-- System Configuration
-- Software Development
-- Pragmatic Thinking
-- Troubleshooting
-- Digital Transformation
 categories:
 - Install and Configuration
-- Azure DevOps
-- Practical Techniques and Tooling
 preview: nakedalm-windows-logo-16-16.png
 
 ---

@@ -25,7 +25,17 @@ aliasesFor404:
 - /managing-your-azure-vm's-with-your-phone
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
-tags: []
+tags:
+- Windows
+- Customer Satisfaction
+- System Configuration
+- Working Software
+- Software Development
+- Digital Transformation
+- Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
+- Operational Practices
 categories:
 - Practical Techniques and Tooling
 - Products and Books

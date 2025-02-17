@@ -26,7 +26,6 @@ tags:
 - Decision Making
 - Technical Mastery
 - Pragmatic Thinking
-- Strategy
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling

@@ -29,11 +29,6 @@ aliasesFor404:
 - /resources/blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Technical Mastery
-- Windows
-- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

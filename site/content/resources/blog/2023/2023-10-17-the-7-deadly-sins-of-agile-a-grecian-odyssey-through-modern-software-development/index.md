@@ -35,11 +35,8 @@ tags:
 - Software Developers
 - Agile Frameworks
 - Agile Transformation
-- Accountability
 categories:
 - People and Process
-- Scrum
-- Personal
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

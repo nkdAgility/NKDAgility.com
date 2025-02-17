@@ -19,12 +19,12 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T00:16:17",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses issues related to build processes and management within a development platform, which aligns with platform engineering principles, but it primarily focuses on troubleshooting rather than broader platform engineering concepts.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -37,12 +37,12 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:18:58",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses issues related to build processes and troubleshooting in software development, which touches on aspects of code quality and complexity management, but it primarily focuses on specific build problems rather than a broader exploration of code quality principles or complexity theory.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -154,12 +154,12 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-16T00:19:18",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses issues related to stuck builds and queuing in Team Foundation Build, which can impact flow efficiency. However, it primarily focuses on troubleshooting rather than optimising throughput or addressing flow efficiency principles directly.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -208,12 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T00:19:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses issues related to build processes and troubleshooting in a software delivery context, which is a significant aspect of product delivery, but it does not primarily focus on broader methodologies or practices involved in delivering software products.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -343,12 +343,12 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:19:46",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which is a part of the application lifecycle management process, particularly in the deployment and maintenance stages. However, it primarily focuses on troubleshooting specific build issues rather than a comprehensive discussion on ALM methodologies or practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum": {
     "category": "Scrum",
@@ -397,12 +397,12 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses issues related to build processes, specifically how to deal with stuck builds, which is relevant to Continuous Delivery practices. However, it doesn't comprehensively address key Continuous Delivery principles or automation, making it a significant but not central theme.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -550,12 +550,12 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which indirectly relates to automated testing, but does not primarily focus on automated testing methodologies, tools, or practices.",
-    "level": "Ignored"
+    "level": "Quinary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -622,12 +622,12 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is part of source control and continuous integration, indicating it is a secondary theme.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -865,12 +865,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses issues related to software builds and resolving problems in the build process, which is important for ensuring the delivery of working software. However, it primarily addresses specific technical problems rather than broader themes of working software delivery or customer value.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -919,12 +919,12 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses issues related to build processes, specifically how to address stuck builds, which can relate to system reliability. It partially fits the SRE category, as it touches on maintaining service quality through effective build management, but it primarily focuses on the specifics of a build system rather than broader SRE principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -955,12 +955,12 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which can be considered part of release management, but it focuses more on troubleshooting and debugging rather than broader release strategies or processes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -973,12 +973,12 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content addresses issues related to build completion times and queuing, which are indirectly related to Cycle Time, but it primarily focuses on specific problems and troubleshooting rather than discussing Cycle Time as a primary metric or theme.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1288,12 +1288,12 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses Team Foundation Build and the process of dealing with stuck builds, which is related to the CI/CD aspect of Azure Repos. However, the content does not focus primarily on Azure Repos itself, but rather on build issues, making it a secondary theme.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1342,12 +1342,12 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-02-17T09:09:16",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses issues related to stuck builds and queue times in a build process, which touches upon throughput concepts indirectly, but the primary focus is on troubleshooting specific build problems rather than a comprehensive exploration of throughput as a central theme.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

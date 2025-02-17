@@ -25,7 +25,10 @@ aliasesFor404:
 - /data-dude-r2-is-out-
 - /blog/data-dude-r2-is-out-
 - /resources/blog/data-dude-r2-is-out
-tags: []
+tags:
+- Software Development
+- Working Software
+- Release Management
 categories:
 - Products and Books
 - News and Reviews

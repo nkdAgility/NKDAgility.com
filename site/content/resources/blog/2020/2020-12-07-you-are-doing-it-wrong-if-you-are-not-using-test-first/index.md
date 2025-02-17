@@ -27,20 +27,8 @@ tags:
 - Software Development
 - Engineering Practices
 - Engineering Excellence
-- Test Driven Development
-- Working Software
-- Automated Testing
-- Software Developers
-- Test Automation
-- Product Validation
-- Technical Mastery
-- Pragmatic Thinking
-- Operational Practices
-- Continuous Delivery
 categories:
 - Technical Excellence
-- Code and Complexity
-- Value Delivery
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

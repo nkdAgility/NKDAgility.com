@@ -44,6 +44,9 @@ categories:
 - Scrum
 - People and Process
 - Product Delivery
+- Agile Product Management
+- Transparency and Accountability
+- Personal
 preview: metro-SSWLogo-128-link-1-1.png
 
 ---

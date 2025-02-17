@@ -33,12 +33,13 @@ tags:
 - Pragmatic Thinking
 - Cycle Time
 - Product Management
-- Operational Practices
-- Product Backlog
 categories:
 - Application Lifecycle Management
 - Product Delivery
 - Practical Techniques and Tooling
+- Products and Books
+- Technical Excellence
+- Azure DevOps
 preview: metro-requirements-icon-14-14.png
 
 ---

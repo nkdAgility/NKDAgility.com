@@ -30,7 +30,12 @@ aliasesFor404:
 tags:
 - Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories: []
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Events and Presentations
+- Technical Excellence
+- Application Lifecycle Management
 
 ---
 How Visual Studio helps teams explore, understand, maintain, and uphold their project's architecture. Introduction to some basic architecture & design concepts and common trouble spots for teams.

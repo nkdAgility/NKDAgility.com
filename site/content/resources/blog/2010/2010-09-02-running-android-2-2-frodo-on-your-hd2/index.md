@@ -28,7 +28,6 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - System Configuration
-- Windows
 categories:
 - Install and Configuration
 preview: metro-android-1-1.png

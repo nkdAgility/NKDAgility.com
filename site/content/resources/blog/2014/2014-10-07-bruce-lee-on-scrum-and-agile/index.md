@@ -31,7 +31,6 @@ tags:
 categories:
 - People and Process
 - Organisational Agility
-- Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

@@ -34,26 +34,24 @@ tags:
 - Scrum Product Development
 - Product Owner
 - Scaling Scrum
-- Professional Scrum
 - Scrum Team
+- Professional Scrum
 - Product Backlog
+- Team Performance
 - Scaling Agility
 - Large Scale Agility
-- Team Collaboration
 - Product Management
-- Team Performance
-- Software Development
 - Agile Planning
+- Team Collaboration
 - Technical Leadership
+- Software Development
 - Software Developers
-- Pragmatic Thinking
 - Agile Transformation
-- Scaled Agile
 - Agile Frameworks
+- Pragmatic Thinking
+- Scaled Agile
 categories:
 - Scrum
-- People and Process
-- Product Delivery
 preview: 146713119-1-1.jpg
 
 ---

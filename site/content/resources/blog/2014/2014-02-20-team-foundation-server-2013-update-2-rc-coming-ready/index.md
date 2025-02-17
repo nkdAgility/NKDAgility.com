@@ -31,11 +31,11 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
 tags:
 - Software Development
-- Release Management
 categories:
 - News and Reviews
 - Practical Techniques and Tooling
 - Install and Configuration
+- Events and Presentations
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

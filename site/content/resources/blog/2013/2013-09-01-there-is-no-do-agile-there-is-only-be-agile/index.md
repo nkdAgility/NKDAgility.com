@@ -46,10 +46,27 @@ tags:
 - Agile Transformation
 - Agile Leadership
 - Technical Leadership
+- Strategy
+- Pragmatic Thinking
+- Lean Product Development
+- Organisational Physics
+- Coaching
+- Continuous Learning
+- Self Organisation
 categories:
 - People and Process
 - Agile Product Management
 - Organisational Agility
+- Transparency and Accountability
+- Value Delivery
+- Business Agility
+- Enterprise Agility
+- Discovery and Learning
+- Sociotechnical Systems
+- Market Adaptability
+- Personal
+- Resilience and Change
+- Beta Codex
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

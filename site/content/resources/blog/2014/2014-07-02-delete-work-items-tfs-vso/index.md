@@ -30,7 +30,6 @@ tags:
 - Troubleshooting
 - Azure Boards
 - Technical Mastery
-- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -28,28 +28,8 @@ aliasesFor404:
 tags:
 - Working Software
 - Software Development
-- Scrum Product Development
-- Professional Scrum
-- Scrum Team
-- Engineering Excellence
-- Increment
-- Accountability
-- Empirical Process Control
-- Software Developers
-- Technical Debt
-- Engineering Practices
-- Agile Project Management
-- Technical Mastery
-- Team Performance
-- Agile Frameworks
-- Pragmatic Thinking
-- Operational Practices
-- Decision Making
-- Technical Leadership
 categories:
 - Scrum
-- People and Process
-- Value Delivery
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

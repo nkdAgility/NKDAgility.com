@@ -39,6 +39,10 @@ categories:
 - Metrics and Learning
 - Flow Efficiency
 - News and Reviews
+- Practical Techniques and Tooling
+- Events and Presentations
+- Products and Books
+- Product Delivery
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

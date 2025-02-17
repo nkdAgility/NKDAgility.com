@@ -28,7 +28,6 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-- Windows
 categories:
 - Practical Techniques and Tooling
 - Technical Excellence

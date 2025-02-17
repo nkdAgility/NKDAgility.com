@@ -21,7 +21,8 @@ aliasesFor404:
 - /the-hinshelwood-family-portrait
 - /blog/the-hinshelwood-family-portrait
 - /resources/blog/the-hinshelwood-family-portrait
-categories: []
+categories:
+- Personal
 preview: nakedalm-logo-128-link-2-1.png
 tags: []
 

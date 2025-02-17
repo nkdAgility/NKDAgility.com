@@ -43,6 +43,8 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
+- Value Delivery
+- Product Delivery
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

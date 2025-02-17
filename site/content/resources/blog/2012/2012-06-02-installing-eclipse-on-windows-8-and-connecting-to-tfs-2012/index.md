@@ -26,10 +26,8 @@ tags:
 - System Configuration
 - Modern Source Control
 - Software Development
-- Technical Mastery
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-12-12.png
 
 ---

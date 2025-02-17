@@ -44,6 +44,7 @@ categories:
 - Scrum
 - Agile Product Management
 - People and Process
+- Product Delivery
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

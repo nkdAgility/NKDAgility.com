@@ -40,11 +40,12 @@ tags:
 - Working Software
 - Cross Functional Teams
 - Agile Planning
-- Strategy
 categories:
 - Scrum
 - People and Process
 - Events and Presentations
+- Product Delivery
+- Agile Product Management
 preview: 1130646316-1-1-1.jpg
 
 ---

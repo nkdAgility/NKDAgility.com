@@ -26,26 +26,35 @@ tags:
 - Continuous Delivery
 - Software Development
 - Technical Debt
+- Deployment Strategies
 - Technical Leadership
 - Agile Transformation
 - Pragmatic Thinking
-- Agile Frameworks
 - Software Developers
-- Deployment Strategies
+- Agile Frameworks
 - Agile Project Management
-- Deployment Frequency
 - Frequent Releases
 - Automated Testing
 - Working Software
 - Technical Mastery
+- Deployment Frequency
 - Operational Practices
 - Engineering Excellence
 - Engineering Practices
 - Test Automation
+- Scrum Product Development
+- Release Management
+- Strategy
 categories:
 - Scrum
 - Value Delivery
 - Product Delivery
+- Agile Product Management
+- People and Process
+- Technical Excellence
+- Practical Techniques and Tooling
+- DevOps
+- Market Adaptability
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -34,7 +34,6 @@ tags:
 categories:
 - Practical Techniques and Tooling
 - People and Process
-- Scrum
 preview: nakedalm-logo-260-5-5.png
 
 ---

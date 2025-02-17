@@ -40,6 +40,7 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- Azure DevOps
 preview: metro-problem-icon-2-2.png
 
 ---

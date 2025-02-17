@@ -26,10 +26,8 @@ tags:
 - Windows
 - Troubleshooting
 - Technical Mastery
-- Pragmatic Thinking
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 preview: metro-server-instances-7-7.png
 
 ---

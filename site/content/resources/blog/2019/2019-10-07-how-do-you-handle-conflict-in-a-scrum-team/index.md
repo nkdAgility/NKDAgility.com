@@ -48,6 +48,7 @@ categories:
 - Scrum
 - People and Process
 - Events and Presentations
+- Agile Product Management
 preview: 1061204442-1-1.jpg
 
 ---

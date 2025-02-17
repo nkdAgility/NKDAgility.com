@@ -39,11 +39,13 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Agile Transformation
-- Strategy
 categories:
 - Scrum
 - People and Process
 - Product Delivery
+- News and Reviews
+- Events and Presentations
+- Agile Product Management
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

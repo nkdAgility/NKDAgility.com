@@ -39,6 +39,7 @@ categories:
 - People and Process
 - Agile Product Management
 - Transparency and Accountability
+- Product Delivery
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

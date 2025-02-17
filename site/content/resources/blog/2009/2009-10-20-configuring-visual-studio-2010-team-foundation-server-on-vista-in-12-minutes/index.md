@@ -23,8 +23,6 @@ aliasesFor404:
 - /resources/blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 tags:
 - System Configuration
-- Windows
-- Software Development
 preview: metro-aggreko-128-link-17-17.png
 categories:
 - Install and Configuration

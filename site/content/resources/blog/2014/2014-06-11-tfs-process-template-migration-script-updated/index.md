@@ -34,6 +34,9 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Technical Excellence
+- Azure DevOps
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

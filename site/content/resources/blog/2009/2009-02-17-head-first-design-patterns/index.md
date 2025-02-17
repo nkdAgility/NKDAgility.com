@@ -21,7 +21,10 @@ aliasesFor404:
 - /head-first-design-patterns
 - /blog/head-first-design-patterns
 - /resources/blog/head-first-design-patterns
-tags: []
+tags:
+- Continuous Learning
+- Technical Mastery
+- Software Development
 categories:
 - Products and Books
 - Miscellaneous

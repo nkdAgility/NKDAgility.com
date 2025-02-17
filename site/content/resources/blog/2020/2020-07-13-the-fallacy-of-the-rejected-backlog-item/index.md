@@ -24,28 +24,10 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Software Development
-- Agile Project Management
 - Professional Scrum
-- Scrum Team
-- Increment
-- Accountability
-- Transparency
-- Definition of Done
-- Empirical Process Control
-- Product Backlog
-- Sprint Review
-- Product Owner
-- Working Software
-- Product Management
-- Team Performance
-- Scrum Master
-- Agile Planning
-- Team Collaboration
-- Software Developers
+- Agile Project Management
 categories:
 - Scrum
-- Transparency and Accountability
-- People and Process
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

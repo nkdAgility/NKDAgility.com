@@ -47,6 +47,12 @@ categories:
 - Scrum
 - Value Delivery
 - Product Delivery
+- People and Process
+- Events and Presentations
+- Agile Product Management
+- Organisational Agility
+- Sociotechnical Systems
+- Personal
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

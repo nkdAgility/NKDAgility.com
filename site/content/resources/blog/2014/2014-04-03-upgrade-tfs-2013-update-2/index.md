@@ -34,11 +34,16 @@ tags:
 - Modern Source Control
 - Working Software
 - Pragmatic Thinking
-- Windows
 categories:
 - Install and Configuration
 - News and Reviews
 - Practical Techniques and Tooling
+- Application Lifecycle Management
+- Products and Books
+- Technical Excellence
+- Azure DevOps
+- Product Delivery
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

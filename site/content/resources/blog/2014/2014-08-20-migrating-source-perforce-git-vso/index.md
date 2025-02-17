@@ -27,20 +27,12 @@ aliasesFor404:
 - /resources/blog/migrating-source-perforce-git-vso
 tags:
 - Software Development
-- Modern Source Control
-- Azure Repos
-- Software Developers
-- Continuous Integration
-- Technical Mastery
-- Pragmatic Thinking
-- Operational Practices
-- Engineering Practices
-- Digital Transformation
-- Troubleshooting
 categories:
 - Practical Techniques and Tooling
 - DevOps
 - Install and Configuration
+- Azure DevOps
+- Technical Excellence
 preview: naked-alm-git-1-1.png
 
 ---

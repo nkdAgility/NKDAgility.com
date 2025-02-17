@@ -29,8 +29,6 @@ aliasesFor404:
 - /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 tags:
 - Troubleshooting
-- Modern Source Control
-- Software Development
 categories:
 - Azure DevOps
 preview: metro-problem-icon-4-4.png

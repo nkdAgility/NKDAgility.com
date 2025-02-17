@@ -37,6 +37,12 @@ categories:
 - Events and Presentations
 - DevOps
 - Product Delivery
+- Azure DevOps
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- News and Reviews
+- Technical Excellence
+- Products and Books
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

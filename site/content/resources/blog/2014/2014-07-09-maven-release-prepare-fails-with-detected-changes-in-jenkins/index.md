@@ -37,6 +37,7 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - DevOps
+- Application Lifecycle Management
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

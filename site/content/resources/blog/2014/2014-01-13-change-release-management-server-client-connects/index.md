@@ -30,7 +30,6 @@ tags:
 - System Configuration
 - Troubleshooting
 - Pragmatic Thinking
-- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

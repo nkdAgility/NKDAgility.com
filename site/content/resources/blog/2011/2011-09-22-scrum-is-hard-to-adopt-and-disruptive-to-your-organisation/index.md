@@ -40,6 +40,11 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
+- Value Delivery
+- Product Delivery
+- Organisational Agility
+- Resilience and Change
+- Sociotechnical Systems
 preview: nakedalm-experts-professional-scrum-4-4.png
 
 ---

@@ -28,25 +28,16 @@ aliasesFor404:
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
 tags:
 - Software Development
-- Test First Development
-- Modern Source Control
-- Continuous Delivery
-- Release Management
-- Automated Testing
-- Engineering Practices
-- Engineering Excellence
-- Operational Practices
-- Software Developers
-- Frequent Releases
-- Deployment Frequency
-- Technical Mastery
-- Pragmatic Thinking
-- Working Software
-- Windows
 categories:
 - Practical Techniques and Tooling
 - DevOps
 - Application Lifecycle Management
+- Value Delivery
+- Technical Excellence
+- Azure DevOps
+- Product Delivery
+- Market Adaptability
+- Products and Books
 preview: excellence-1-1.jpg
 
 ---

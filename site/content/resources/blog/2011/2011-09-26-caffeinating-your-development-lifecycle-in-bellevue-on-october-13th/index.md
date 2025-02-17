@@ -21,11 +21,33 @@ aliasesFor404:
 - /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-tags: []
+tags:
+- Operational Practices
+- Software Development
+- Product Management
+- Engineering Practices
+- Agile Values and Principles
+- Agile Project Management
+- Technical Leadership
+- Agile Transformation
+- Agile Philosophy
+- Pragmatic Thinking
+- Agile Leadership
+- Software Developers
+- Agile Frameworks
+- Engineering Excellence
+- Digital Transformation
+- Technical Mastery
+- Strategy
+- Organisational Change
+- Continuous Learning
+- Working Software
+- Agile Planning
+- Windows
+- Agile Strategy
+- Team Collaboration
 categories:
 - Events and Presentations
-- Application Lifecycle Management
-- News and Reviews
 preview: metro-nwc-128-link-3-3.png
 
 ---

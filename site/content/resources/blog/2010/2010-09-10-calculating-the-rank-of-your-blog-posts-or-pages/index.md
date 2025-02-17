@@ -23,7 +23,12 @@ aliasesFor404:
 - /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
 tags:
 - Software Development
-categories: []
+categories:
+- Code and Complexity
+- Metrics and Learning
+- Practical Techniques and Tooling
+- Discovery and Learning
+- Technical Excellence
 preview: metro-binary-vb-128-link-11-11.png
 
 ---

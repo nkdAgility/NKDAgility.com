@@ -28,29 +28,14 @@ aliasesFor404:
 - /resources/blog/work-can-flow-across-sprint-boundary
 tags:
 - Agile Project Management
-- Increment
-- Throughput
-- Transparency
-- Definition of Done
-- Scrum Product Development
-- Empirical Process Control
-- Professional Scrum
-- Scrum Team
-- Engineering Practices
-- Software Development
-- Working Software
-- Continuous Delivery
-- Sprint Review
-- Software Developers
-- Agile Planning
-- Operational Practices
-- Team Performance
-- Agile Frameworks
-- Pragmatic Thinking
 categories:
 - Scrum
 - People and Process
 - Value Delivery
+- Product Delivery
+- Flow Efficiency
+- Practical Techniques and Tooling
+- Agile Product Management
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

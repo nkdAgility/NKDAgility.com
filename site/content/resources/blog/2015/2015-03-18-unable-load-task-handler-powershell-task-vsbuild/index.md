@@ -37,6 +37,7 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
+- DevOps
 preview: puzzle-issue-problem-128-link-7-7.png
 
 ---

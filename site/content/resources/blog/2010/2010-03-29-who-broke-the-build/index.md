@@ -34,22 +34,24 @@ tags:
 - Engineering Excellence
 - Azure Pipelines
 - Engineering Practices
-- Pragmatic Thinking
-- Technical Mastery
+- Operational Practices
 - Software Development
+- Troubleshooting
 - Working Software
 - Accountability
 - Continuous Delivery
-- Troubleshooting
-- Operational Practices
+- Pragmatic Thinking
+- Technical Mastery
 - Release Management
-- Automated Testing
-- Transparency
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Install and Configuration
 - Code and Complexity
 - Practical Techniques and Tooling
+- Application Lifecycle Management
+- Technical Excellence
+- Azure DevOps
+- DevOps
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

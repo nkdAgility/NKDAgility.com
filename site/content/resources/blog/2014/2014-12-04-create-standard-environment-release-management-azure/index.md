@@ -34,12 +34,15 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Continuous Delivery
-- Windows
-- AI
 categories:
 - Application Lifecycle Management
 - Install and Configuration
 - Technical Excellence
+- Azure DevOps
+- Practical Techniques and Tooling
+- Events and Presentations
+- Product Delivery
+- DevOps
 preview: nakedalm-windows-logo-16-16.png
 
 ---

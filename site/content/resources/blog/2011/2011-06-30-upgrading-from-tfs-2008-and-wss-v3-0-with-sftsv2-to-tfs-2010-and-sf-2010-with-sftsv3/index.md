@@ -25,23 +25,9 @@ tags:
 - System Configuration
 - Software Development
 - Troubleshooting
-- Windows
-- Software Developers
-- Pragmatic Thinking
-- Operational Practices
-- Agile Project Management
-- Release Management
-- Working Software
-- Scaled Agile
-- Agile Frameworks
-- Scrum Product Development
-- Technical Mastery
-- Engineering Excellence
-- Modern Source Control
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Scrum
 preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---

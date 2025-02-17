@@ -26,11 +26,8 @@ tags:
 - Software Development
 - Technical Mastery
 - Windows
-- Collaboration Tools
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
 preview: metro-visual-studio-2010-128-link-15-15.png
 
 ---

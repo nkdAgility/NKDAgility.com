@@ -28,8 +28,6 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - System Configuration
-- Technical Mastery
-- Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

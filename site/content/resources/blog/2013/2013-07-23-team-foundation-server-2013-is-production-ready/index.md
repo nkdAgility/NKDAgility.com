@@ -33,11 +33,13 @@ tags:
 - Transparency
 - Engineering Excellence
 - Pragmatic Thinking
-- Technical Mastery
 categories:
 - Products and Books
 - News and Reviews
 - Application Lifecycle Management
+- People and Process
+- Organisational Agility
+- Product Delivery
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

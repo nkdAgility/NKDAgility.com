@@ -31,26 +31,51 @@ tags:
 - Scrum Master
 - Change Management
 - Scrum Product Development
-- Professional Scrum
 - Organisational Change
+- Professional Scrum
 - Software Developers
 - Agile Project Management
-- Self Organisation
+- Agile Strategy
 - Scaling Agility
 - Agile Transformation
 - Agile Philosophy
 - Agile Leadership
 - Agile Frameworks
-- Agile Strategy
 - Team Collaboration
 - Organisational Culture
 - Organisational Physics
 - Team Performance
 - Team Motivation
+- Software Development
+- Agile Planning
+- Empirical Process Control
+- Self Organisation
+- Strategy
+- Coaching
+- Pragmatic Thinking
+- Digital Transformation
+- Continuous Learning
+- Operational Practices
+- Technical Leadership
+- Working Software
 categories:
 - People and Process
 - Scrum
 - Agile Product Management
+- Business Agility
+- Events and Presentations
+- Product Delivery
+- Agile Product Operating Model
+- Transparency and Accountability
+- Value Delivery
+- Resilience and Change
+- Organisational Agility
+- Discovery and Learning
+- Market Adaptability
+- Evidence Based Management
+- Enterprise Agility
+- Sociotechnical Systems
+- Personal
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

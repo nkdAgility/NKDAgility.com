@@ -31,7 +31,6 @@ tags:
 - Agile Project Management
 categories:
 - Events and Presentations
-- Scrum
 preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png
 
 ---

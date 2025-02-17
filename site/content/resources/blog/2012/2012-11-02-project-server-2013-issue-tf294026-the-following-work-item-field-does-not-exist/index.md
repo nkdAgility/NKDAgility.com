@@ -32,7 +32,6 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Scrum
 preview: metro-problem-icon-3-3.png
 
 ---

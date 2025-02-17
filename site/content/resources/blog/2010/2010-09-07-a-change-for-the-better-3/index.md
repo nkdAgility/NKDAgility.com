@@ -37,13 +37,13 @@ tags:
 - Coaching
 - Engineering Excellence
 - Pragmatic Thinking
-- Scrum Master
-- Technical Mastery
-- Strategy
 categories:
 - People and Process
 - Application Lifecycle Management
 - Personal
+- Scrum
+- Product Delivery
+- Practical Techniques and Tooling
 preview: metro-nwc-128-link-2-2.png
 
 ---

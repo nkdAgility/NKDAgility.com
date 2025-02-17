@@ -31,7 +31,6 @@ tags:
 categories:
 - People and Process
 - Events and Presentations
-- Scrum
 preview: clip_image001-2-2.png
 
 ---

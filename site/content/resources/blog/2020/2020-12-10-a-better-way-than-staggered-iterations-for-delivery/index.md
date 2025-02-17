@@ -38,15 +38,33 @@ tags:
 - Technical Mastery
 - Team Collaboration
 - Team Performance
+- Agile Planning
 - Agile Project Management
 - Self Organisation
 - Agile Strategy
 - Agile Frameworks
-- Agile Planning
+- Engineering Excellence
+- Pragmatic Thinking
+- Agile Transformation
+- Operational Practices
+- Deployment Frequency
+- Engineering Practices
+- Throughput
+- Continuous Delivery
+- Frequent Releases
 categories:
 - Scrum
 - People and Process
 - Value Delivery
+- Business Agility
+- Organisational Agility
+- Technical Excellence
+- Product Delivery
+- Practical Techniques and Tooling
+- Agile Product Operating Model
+- Flow Efficiency
+- Market Adaptability
+- Agile Product Management
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

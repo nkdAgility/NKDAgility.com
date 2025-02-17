@@ -36,11 +36,11 @@ tags:
 - Agile Project Management
 - Engineering Practices
 - Operational Practices
-- Strategy
 categories:
 - Product Delivery
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

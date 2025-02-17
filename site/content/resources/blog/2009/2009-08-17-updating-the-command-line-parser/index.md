@@ -23,8 +23,6 @@ aliasesFor404:
 - /resources/blog/updating-the-command-line-parser
 tags:
 - Technical Mastery
-- Software Development
-- System Configuration
 categories:
 - Practical Techniques and Tooling
 - Technical Excellence

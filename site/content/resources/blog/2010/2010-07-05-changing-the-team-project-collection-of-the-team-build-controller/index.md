@@ -34,6 +34,8 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
+- DevOps
+- Application Lifecycle Management
 
 ---
 ![BuildIcon_Large](images/ab2235c2ab06_E4A0-BuildIcon_Large_-1-1.png)

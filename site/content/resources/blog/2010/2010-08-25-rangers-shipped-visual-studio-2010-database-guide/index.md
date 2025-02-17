@@ -25,12 +25,11 @@ tags:
 - Modern Source Control
 - Technical Mastery
 - Software Development
-- Working Software
-- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Products and Books
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

@@ -39,11 +39,13 @@ tags:
 - Software Developers
 - Engineering Excellence
 - Frequent Releases
-- Continuous Delivery
 categories:
 - Application Lifecycle Management
 - People and Process
 - Product Delivery
+- Practical Techniques and Tooling
+- Technical Excellence
+- DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -23,7 +23,12 @@ aliasesFor404:
 - /resources/blog/the-search-for-a-single-point-of-truth
 tags:
 - Windows
-categories: []
+categories:
+- Install and Configuration
+- News and Reviews
+- Practical Techniques and Tooling
+- Products and Books
+- Personal
 preview: nakedalm-logo-128-link-19-19.png
 
 ---

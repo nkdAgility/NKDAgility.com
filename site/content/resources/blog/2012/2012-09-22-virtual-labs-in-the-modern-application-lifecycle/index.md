@@ -38,6 +38,11 @@ categories:
 - Application Lifecycle Management
 - Platform Engineering
 - Product Delivery
+- Practical Techniques and Tooling
+- Technical Excellence
+- Azure DevOps
+- DevOps
+- Products and Books
 preview: metro-lab-5-5.png
 
 ---

@@ -27,7 +27,6 @@ aliasesFor404:
 - /resources/blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 tags:
 - Troubleshooting
-- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -34,20 +34,24 @@ tags:
 - Product Management
 - Agile Project Management
 - Agile Transformation
-- Pragmatic Thinking
+- Agile Frameworks
 - Software Developers
 - Agile Strategy
-- Strategy
+- Decision Making
 - Software Development
 - Agile Planning
-- Decision Making
+- Strategy
 - Accountability
-- Agile Frameworks
+- Pragmatic Thinking
 - Technical Leadership
 categories:
 - Scrum
 - Agile Product Management
 - People and Process
+- Value Delivery
+- Product Delivery
+- Agile Product Operating Model
+- Events and Presentations
 preview: 495173592-1-1.jpg
 
 ---

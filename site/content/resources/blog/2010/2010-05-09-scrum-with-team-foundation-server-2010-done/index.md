@@ -26,7 +26,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Software Developers
-- Mentoring
 categories:
 - Scrum
 - Events and Presentations

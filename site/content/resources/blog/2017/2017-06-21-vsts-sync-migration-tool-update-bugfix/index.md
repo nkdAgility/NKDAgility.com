@@ -31,6 +31,8 @@ categories:
 - Install and Configuration
 - Azure DevOps
 - News and Reviews
+- Practical Techniques and Tooling
+- Products and Books
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 
 ---

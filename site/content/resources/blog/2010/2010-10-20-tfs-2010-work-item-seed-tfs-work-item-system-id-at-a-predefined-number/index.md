@@ -36,6 +36,7 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- Azure DevOps
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

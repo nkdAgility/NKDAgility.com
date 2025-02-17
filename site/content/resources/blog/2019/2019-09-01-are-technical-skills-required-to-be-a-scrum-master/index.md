@@ -45,8 +45,6 @@ tags:
 - Mentoring
 categories:
 - Scrum
-- Events and Presentations
-- People and Process
 preview: 1029723898-1-1.jpg
 
 ---

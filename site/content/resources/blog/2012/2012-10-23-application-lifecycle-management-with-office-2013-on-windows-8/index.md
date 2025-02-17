@@ -27,6 +27,7 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Products and Books
+- Application Lifecycle Management
 preview: metro-office-128-link-5-5.png
 
 ---

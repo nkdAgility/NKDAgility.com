@@ -27,12 +27,9 @@ aliasesFor404:
 - /resources/blog/do-you-want-to-be-an-alm-consultant
 tags:
 - Software Development
-- Mentoring
-- Strategy
 categories:
 - Application Lifecycle Management
 - People and Process
-- Scrum
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

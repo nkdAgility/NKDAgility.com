@@ -34,6 +34,9 @@ categories:
 - Beta Codex
 - Organisational Agility
 - Business Agility
+- Enterprise Agility
+- Lean
+- Complexity Thinking
 preview: image-1.jpg
 
 ---

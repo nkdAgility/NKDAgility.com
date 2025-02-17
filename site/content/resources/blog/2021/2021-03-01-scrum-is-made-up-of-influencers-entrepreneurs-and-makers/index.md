@@ -37,12 +37,12 @@ tags:
 - Agile Leadership
 - Scrum Product Development
 - Product Management
-- Accountability
-- Experimentation
 categories:
 - People and Process
 - Value Delivery
 - Agile Product Management
+- Product Delivery
+- Sociotechnical Systems
 preview: image-4-5-5.png
 
 ---

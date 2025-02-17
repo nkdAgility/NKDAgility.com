@@ -30,7 +30,6 @@ aliasesFor404:
 tags:
 - Software Development
 - Operational Practices
-- Transparency
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

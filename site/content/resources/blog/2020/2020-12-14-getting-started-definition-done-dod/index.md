@@ -31,26 +31,8 @@ tags:
 - Definition of Done
 - Scrum Product Development
 - Software Development
-- Professional Scrum
-- Transparency
-- Empirical Process Control
-- Working Software
-- Team Performance
-- Scrum Team
-- Engineering Excellence
-- Engineering Practices
-- Software Developers
-- Agile Project Management
-- Pragmatic Thinking
-- Agile Planning
-- Operational Practices
-- Agile Frameworks
-- Decision Making
-- Team Collaboration
 categories:
 - Scrum
-- People and Process
-- Product Delivery
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---

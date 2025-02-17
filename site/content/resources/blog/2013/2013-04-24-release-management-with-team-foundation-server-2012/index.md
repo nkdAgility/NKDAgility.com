@@ -24,28 +24,9 @@ aliasesFor404:
 tags:
 - Release Management
 - Software Development
-- Engineering Excellence
-- Pragmatic Thinking
-- Operational Practices
-- Engineering Practices
-- Working Software
-- Software Developers
-- Deployment Strategies
-- Deployment Frequency
-- Frequent Releases
-- Continuous Delivery
-- Definition of Done
-- Technical Mastery
-- Increment
-- Automated Testing
-- Throughput
-- Strategy
-- Windows
-- Continuous Integration
 categories:
 - Product Delivery
 - DevOps
-- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

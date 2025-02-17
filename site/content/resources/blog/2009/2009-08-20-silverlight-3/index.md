@@ -21,7 +21,9 @@ aliasesFor404:
 - /silverlight-3
 - /blog/silverlight-3
 - /resources/blog/silverlight-3
-tags: []
+tags:
+- Software Development
+- Technical Mastery
 categories:
 - Products and Books
 - News and Reviews

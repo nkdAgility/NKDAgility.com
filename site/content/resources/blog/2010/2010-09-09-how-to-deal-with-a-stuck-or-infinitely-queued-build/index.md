@@ -23,22 +23,13 @@ aliasesFor404:
 - /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 tags:
 - Troubleshooting
-- Software Development
-- Software Developers
-- System Configuration
-- Technical Mastery
-- Azure Pipelines
-- Engineering Excellence
-- Continuous Integration
-- Pragmatic Thinking
-- Operational Practices
-- Windows
-- Engineering Practices
 preview: metro-SSWLogo-128-link-11-11.png
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- Azure DevOps
+- DevOps
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

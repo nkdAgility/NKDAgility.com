@@ -37,12 +37,16 @@ tags:
 - Product Discovery
 - Product Management
 - Customer Retention
-- Agile Project Management
-- Agile Planning
 categories:
 - Application Lifecycle Management
 - People and Process
 - Discovery and Learning
+- Business Agility
+- Product Delivery
+- Products and Books
+- Value Delivery
+- Organisational Agility
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

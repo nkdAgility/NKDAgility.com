@@ -30,7 +30,6 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-- System Configuration
 categories:
 - Install and Configuration
 preview: nakedalm-windows-logo-12-12.png

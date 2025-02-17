@@ -33,6 +33,7 @@ categories:
 - News and Reviews
 - Events and Presentations
 - People and Process
+- Personal
 preview: -1-1.jpg
 tags:
 - Software Development

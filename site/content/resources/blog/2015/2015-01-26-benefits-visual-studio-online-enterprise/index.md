@@ -36,6 +36,12 @@ categories:
 - DevOps
 - Application Lifecycle Management
 - Azure DevOps
+- Business Agility
+- Products and Books
+- Organisational Agility
+- Practical Techniques and Tooling
+- Market Adaptability
+- Enterprise Agility
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

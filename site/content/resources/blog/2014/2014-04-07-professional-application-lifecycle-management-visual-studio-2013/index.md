@@ -29,8 +29,6 @@ tags:
 - Software Development
 categories:
 - Products and Books
-- Application Lifecycle Management
-- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

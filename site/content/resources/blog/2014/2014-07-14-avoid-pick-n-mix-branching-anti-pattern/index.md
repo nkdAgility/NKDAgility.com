@@ -27,28 +27,15 @@ aliasesFor404:
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
 - Technical Mastery
-- Working Software
-- Engineering Excellence
-- Modern Source Control
-- Pragmatic Thinking
-- Continuous Delivery
-- Release Management
-- Software Development
-- Software Developers
-- Technical Debt
-- Engineering Practices
-- Frequent Releases
-- Strategy
-- Deployment Strategies
-- Troubleshooting
-- Operational Practices
-- Continuous Integration
-- Decision Making
-- Change Management
 categories:
 - Technical Excellence
 - Code and Complexity
 - Product Delivery
+- Application Lifecycle Management
+- Value Delivery
+- Practical Techniques and Tooling
+- DevOps
+- Flow Efficiency
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

@@ -34,7 +34,6 @@ tags:
 - Software Development
 - Troubleshooting
 - Pragmatic Thinking
-- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

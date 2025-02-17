@@ -50,6 +50,10 @@ categories:
 - Scrum
 - Metrics and Learning
 - People and Process
+- Flow Efficiency
+- Events and Presentations
+- Agile Product Management
+- Product Delivery
 preview: iStock-847664136-1-1.jpg
 
 ---

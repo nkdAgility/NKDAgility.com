@@ -38,6 +38,12 @@ categories:
 - Application Lifecycle Management
 - Value Delivery
 - Product Delivery
+- Practical Techniques and Tooling
+- Products and Books
+- Technical Excellence
+- Azure DevOps
+- People and Process
+- Metrics and Learning
 preview: metro-test-icon-7-7.png
 
 ---

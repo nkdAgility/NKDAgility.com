@@ -34,11 +34,11 @@ tags:
 - Large Scale Agility
 - Organisational Culture
 - Scaling Agility
-- Agile Transformation
 - Agile Frameworks
-- Agile Strategy
 - Evidence Based Leadership
+- Agile Transformation
 - Scaled Agile
+- Agile Strategy
 - Pragmatic Thinking
 - Professional Scrum
 - Organisational Physics
@@ -46,10 +46,23 @@ tags:
 - Operational Practices
 - Ability to Innovate
 - Empirical Process Control
+- Team Performance
+- Decision Making
+- Strategy
 categories:
 - Scrum
 - People and Process
 - Resilience and Change
+- Organisational Agility
+- Metrics and Learning
+- Evidence Based Management
+- Enterprise Agility
+- News and Reviews
+- Events and Presentations
+- Products and Books
+- Sociotechnical Systems
+- Business Agility
+- Value Delivery
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

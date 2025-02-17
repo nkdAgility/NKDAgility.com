@@ -29,9 +29,6 @@ aliasesFor404:
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags:
 - Technical Mastery
-- Modern Source Control
-- System Configuration
-- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -23,29 +23,9 @@ aliasesFor404:
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
 - Evidence Based Leadership
-- Ability to Innovate
-- Decision Making
-- Agile Project Management
-- Trend Analysis
-- Product Management
-- Operational Practices
-- Agile Transformation
-- Agile Philosophy
-- Agile Strategy
-- Empirical Process Control
-- Organisational Physics
-- Team Performance
-- Scaled Agile
-- Software Development
-- Engineering Excellence
-- Pragmatic Thinking
-- Throughput
-- Strategy
-- Working Software
 categories:
 - Metrics and Learning
 - Evidence Based Management
-- People and Process
 preview: nakedalm-agility-index-24-24.png
 
 ---

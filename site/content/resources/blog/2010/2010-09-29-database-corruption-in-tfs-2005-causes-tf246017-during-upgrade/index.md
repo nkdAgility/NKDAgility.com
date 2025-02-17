@@ -23,10 +23,6 @@ aliasesFor404:
 - /resources/blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Technical Mastery
-- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration

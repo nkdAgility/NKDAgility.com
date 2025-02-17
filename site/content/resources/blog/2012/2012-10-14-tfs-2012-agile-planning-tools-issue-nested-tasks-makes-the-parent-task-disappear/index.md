@@ -46,6 +46,9 @@ categories:
 - Agile Product Management
 - Agile Product Operating Model
 - Product Delivery
+- Practical Techniques and Tooling
+- Scrum
+- Azure DevOps
 preview: metro-problem-icon-8-8.png
 
 ---

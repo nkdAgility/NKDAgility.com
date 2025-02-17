@@ -35,11 +35,8 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Engineering Excellence
-- Modern Source Control
 categories:
 - Events and Presentations
-- Application Lifecycle Management
-- Products and Books
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

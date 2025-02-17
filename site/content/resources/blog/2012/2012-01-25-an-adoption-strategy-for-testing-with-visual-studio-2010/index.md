@@ -25,11 +25,11 @@ tags:
 - Software Development
 - Software Developers
 - Team Collaboration
-- Strategy
 categories:
 - Practical Techniques and Tooling
 - Events and Presentations
 - Products and Books
+- People and Process
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -27,26 +27,15 @@ aliasesFor404:
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 tags:
 - Software Development
-- Operational Practices
-- Team Collaboration
-- Software Developers
-- Large Scale Agility
-- Collaboration Tools
-- System Configuration
-- Scaled Agile
-- Troubleshooting
-- Scaling Agility
-- Azure Boards
-- Pragmatic Thinking
-- Working Software
-- Agile Planning
-- Team Performance
-- Strategy
-- Scaling Scrum
 categories:
 - People and Process
 - Application Lifecycle Management
 - Install and Configuration
+- Product Delivery
+- Practical Techniques and Tooling
+- Technical Excellence
+- Azure DevOps
+- Sociotechnical Systems
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

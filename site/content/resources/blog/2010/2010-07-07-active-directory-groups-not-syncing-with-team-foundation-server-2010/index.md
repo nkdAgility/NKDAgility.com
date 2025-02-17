@@ -23,12 +23,6 @@ aliasesFor404:
 - /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 tags:
 - Troubleshooting
-- System Configuration
-- Windows
-- Software Development
-- Technical Mastery
-- Pragmatic Thinking
-- Operational Practices
 preview: metro-SSWLogo-128-link-7-7.png
 categories:
 - Install and Configuration

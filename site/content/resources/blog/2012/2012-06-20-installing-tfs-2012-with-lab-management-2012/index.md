@@ -23,19 +23,8 @@ aliasesFor404:
 - /resources/blog/installing-tfs-2012-with-lab-management-2012
 tags:
 - System Configuration
-- Windows
-- Pragmatic Thinking
-- Automated Testing
-- Deployment Strategies
-- Test Automation
-- Software Development
-- Troubleshooting
-- Technical Mastery
-- Operational Practices
 categories:
 - Install and Configuration
-- DevOps
-- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-42-42.png
 
 ---

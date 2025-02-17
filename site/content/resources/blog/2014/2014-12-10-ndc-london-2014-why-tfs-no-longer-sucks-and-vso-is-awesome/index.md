@@ -36,8 +36,6 @@ tags:
 - Pragmatic Thinking
 categories:
 - Events and Presentations
-- Install and Configuration
-- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

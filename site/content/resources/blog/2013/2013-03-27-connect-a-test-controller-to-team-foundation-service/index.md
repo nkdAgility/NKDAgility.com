@@ -26,7 +26,6 @@ tags:
 - Technical Mastery
 - Software Development
 - Troubleshooting
-- Test Automation
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

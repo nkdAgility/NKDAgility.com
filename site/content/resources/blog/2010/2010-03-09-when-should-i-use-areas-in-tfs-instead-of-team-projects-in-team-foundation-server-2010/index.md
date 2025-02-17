@@ -29,7 +29,6 @@ tags:
 - Operational Practices
 - Agile Frameworks
 - Agile Project Management
-- Strategy
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Application Lifecycle Management

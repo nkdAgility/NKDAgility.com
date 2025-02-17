@@ -45,6 +45,11 @@ categories:
 - Scrum
 - People and Process
 - Events and Presentations
+- Value Delivery
+- Organisational Agility
+- Product Delivery
+- Agile Product Management
+- Enterprise Agility
 preview: clip_image003-3-3.png
 
 ---

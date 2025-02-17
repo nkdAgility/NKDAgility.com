@@ -28,7 +28,6 @@ tags:
 - Operational Practices
 - Digital Transformation
 - System Configuration
-- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
 - Platform Engineering

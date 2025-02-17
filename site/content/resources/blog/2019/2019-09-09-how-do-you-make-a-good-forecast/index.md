@@ -46,10 +46,24 @@ tags:
 - Forecasting
 - Software Development
 - Estimation
+- Evidence Based Leadership
+- Team Performance
+- Organisational Physics
 categories:
 - Scrum
 - People and Process
 - Metrics and Learning
+- Product Delivery
+- Agile Product Operating Model
+- Agile Product Management
+- Value Delivery
+- Organisational Agility
+- Flow Efficiency
+- Evidence Based Management
+- Events and Presentations
+- Products and Books
+- Sociotechnical Systems
+- Complexity Thinking
 preview: 993957510-1-1.jpg
 
 ---

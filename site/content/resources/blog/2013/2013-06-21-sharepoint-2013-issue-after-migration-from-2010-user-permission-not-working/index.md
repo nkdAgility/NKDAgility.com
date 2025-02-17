@@ -29,9 +29,6 @@ aliasesFor404:
 - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

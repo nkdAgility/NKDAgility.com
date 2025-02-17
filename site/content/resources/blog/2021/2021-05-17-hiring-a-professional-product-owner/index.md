@@ -39,28 +39,15 @@ aliasesFor404:
 - /resources/blog/hiring-a-professional-product-owner
 tags:
 - Product Owner
-- Strategy
-- Accountability
-- Strategic Goals
-- Scrum Team
-- Agile Strategy
-- Agile Project Management
-- Product Management
-- Product Backlog
-- Professional Scrum
-- Scrum Product Development
-- Agile Planning
-- Evidence Based Leadership
-- Decision Making
-- Hypothesis Driven Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Software Development
-- Transparency
 categories:
 - Scrum
 - Agile Product Management
 - People and Process
+- Transparency and Accountability
+- Value Delivery
+- Evidence Based Management
+- Product Delivery
+- Agile Product Operating Model
 preview: image-3-3.png
 
 ---

@@ -28,8 +28,6 @@ tags:
 - Troubleshooting
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Scrum
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

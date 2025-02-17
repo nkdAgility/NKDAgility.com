@@ -24,13 +24,8 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Software Development
-- Troubleshooting
-- Technical Mastery
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-31-31.png
 
 ---

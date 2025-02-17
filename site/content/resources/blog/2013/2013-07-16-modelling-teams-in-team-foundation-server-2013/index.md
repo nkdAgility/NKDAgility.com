@@ -27,13 +27,11 @@ tags:
 - Operational Practices
 - System Configuration
 - Software Developers
-- Technical Mastery
-- Pragmatic Thinking
-- Windows
 categories:
 - Application Lifecycle Management
 - Install and Configuration
 - Practical Techniques and Tooling
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

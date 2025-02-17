@@ -39,6 +39,7 @@ categories:
 - Practical Techniques and Tooling
 - Events and Presentations
 - Application Lifecycle Management
+- Product Delivery
 
 ---
 This session shows the Day in the Life of a project using TFS from the context of a Developer, Tester, and Program Manager. The purpose of this session is to give a clear picture of how someone in the role of the Developer, the Tester and Program Manager would use TFS in his/her role.

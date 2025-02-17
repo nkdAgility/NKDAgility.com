@@ -36,13 +36,11 @@ tags:
 - Large Scale Agility
 - Agile Strategy
 - Operational Practices
-- Agile Frameworks
-- Scaled Agile
-- Team Collaboration
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps
 - People and Process
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

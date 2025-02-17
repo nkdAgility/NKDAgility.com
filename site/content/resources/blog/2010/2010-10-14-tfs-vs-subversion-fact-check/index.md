@@ -29,7 +29,6 @@ tags:
 - Modern Source Control
 - Software Development
 - Troubleshooting
-- Windows
 categories:
 - Install and Configuration
 

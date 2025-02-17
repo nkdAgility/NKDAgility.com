@@ -31,6 +31,7 @@ categories:
 - Scrum
 - Product Delivery
 - Practical Techniques and Tooling
+- Technical Excellence
 tags:
 - Scrum Product Development
 - Software Development
@@ -42,7 +43,6 @@ tags:
 - Pragmatic Thinking
 - Agile Project Management
 - Working Software
-- Strategy
 
 ---
 branching-for-each-sprint

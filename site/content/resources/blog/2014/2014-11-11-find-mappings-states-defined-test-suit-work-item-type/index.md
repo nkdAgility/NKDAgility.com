@@ -36,6 +36,7 @@ categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

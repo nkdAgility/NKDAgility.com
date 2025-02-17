@@ -28,8 +28,6 @@ tags:
 - Technical Mastery
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
 
 ---
 Did you skip reporting and now you want to integrate reporting and analyses services with Team Foundation Server 2013?

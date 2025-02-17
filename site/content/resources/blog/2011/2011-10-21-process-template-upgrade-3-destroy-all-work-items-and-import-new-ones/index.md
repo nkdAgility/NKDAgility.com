@@ -27,19 +27,14 @@ aliasesFor404:
 - /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 tags:
 - Software Development
-- System Configuration
-- Troubleshooting
-- Technical Mastery
-- Azure Boards
-- Pragmatic Thinking
-- Operational Practices
-- Professional Scrum
-- Working Software
 preview: metro-visual-studio-2005-128-link-5-5.png
 categories:
 - Scrum
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
+- Azure DevOps
+- Application Lifecycle Management
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

@@ -27,19 +27,8 @@ tags:
 - Software Development
 - Automated Testing
 - Test Automation
-- Engineering Practices
-- Working Software
-- Technical Debt
-- Technical Mastery
-- Software Developers
-- Engineering Excellence
-- Operational Practices
-- Pragmatic Thinking
-- Windows
 categories:
 - Technical Excellence
-- Application Lifecycle Management
-- Practical Techniques and Tooling
 preview: metro-automated-test-icon-4-4.png
 
 ---

@@ -21,7 +21,11 @@ aliasesFor404:
 - /upgrading-visual-studio-2010
 - /blog/upgrading-visual-studio-2010
 - /resources/blog/upgrading-visual-studio-2010
-tags: []
+tags:
+- Software Development
+- Windows
+- System Configuration
+- Troubleshooting
 preview: metro-visual-studio-2010-128-link-3-1.png
 categories:
 - Install and Configuration

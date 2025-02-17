@@ -32,6 +32,15 @@ categories:
 - People and Process
 - Application Lifecycle Management
 - Business Agility
+- Organisational Agility
+- News and Reviews
+- Market Adaptability
+- Events and Presentations
+- Sociotechnical Systems
+- DevOps
+- Resilience and Change
+- Value Delivery
+- Product Delivery
 preview: metro-new-normal-icon-28-28.png
 
 ---

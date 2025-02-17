@@ -29,11 +29,11 @@ tags:
 - Operational Practices
 - Agile Planning
 - Working Software
-- Technical Mastery
 categories:
 - People and Process
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

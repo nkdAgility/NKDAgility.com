@@ -25,7 +25,8 @@ aliasesFor404:
 - /blogging-from-2500-meters
 - /blog/blogging-from-2500-meters
 - /resources/blog/blogging-2500-meters
-categories: []
+categories:
+- Personal
 preview: nakedalm-logo-260-7-7.png
 tags:
 - Windows

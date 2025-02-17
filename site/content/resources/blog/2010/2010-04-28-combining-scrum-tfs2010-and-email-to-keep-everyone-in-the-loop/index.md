@@ -37,8 +37,6 @@ tags:
 - Pragmatic Thinking
 - Team Performance
 - Scrum Product Development
-- Software Developers
-- Operational Practices
 categories:
 - People and Process
 - Practical Techniques and Tooling

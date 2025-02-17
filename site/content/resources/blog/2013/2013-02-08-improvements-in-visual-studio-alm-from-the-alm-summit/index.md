@@ -27,12 +27,14 @@ tags:
 - Working Software
 - Operational Practices
 - Technical Mastery
-- Software Developers
-- Continuous Delivery
 categories:
 - Kanban
 - News and Reviews
 - Practical Techniques and Tooling
+- Application Lifecycle Management
+- Events and Presentations
+- Technical Excellence
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

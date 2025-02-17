@@ -35,11 +35,15 @@ tags:
 - Digital Transformation
 - Engineering Excellence
 - Operational Practices
-- Windows
 categories:
 - People and Process
 - Products and Books
 - Value Delivery
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Events and Presentations
+- Azure DevOps
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

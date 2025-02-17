@@ -25,7 +25,22 @@ aliasesFor404:
 - /visual-studio-2012-launch-roadshows-around-the-world
 - /blog/visual-studio-2012-launch-roadshows-around-the-world
 - /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-tags: []
+tags:
+- Software Development
+- Engineering Practices
+- Agile Values and Principles
+- Agile Planning
+- Working Software
+- Agile Strategy
+- Software Developers
+- Agile Frameworks
+- Engineering Excellence
+- Agile Philosophy
+- Agile Transformation
+- Agile Project Management
+- Technical Mastery
+- Strategy
+- Pragmatic Thinking
 categories:
 - Events and Presentations
 - News and Reviews

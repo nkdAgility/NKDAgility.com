@@ -32,6 +32,7 @@ categories:
 - People and Process
 - Resilience and Change
 - Personal
+- Sociotechnical Systems
 preview: image-1-1-1.png
 
 ---

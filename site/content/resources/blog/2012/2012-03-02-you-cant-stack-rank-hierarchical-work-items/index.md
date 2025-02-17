@@ -38,11 +38,12 @@ tags:
 - Agile Project Management
 - Agile Planning Tools
 - Operational Practices
-- Product Owner
 categories:
 - Practical Techniques and Tooling
 - Agile Product Management
 - Azure DevOps
+- Scrum
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

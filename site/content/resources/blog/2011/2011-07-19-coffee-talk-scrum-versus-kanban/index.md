@@ -31,8 +31,6 @@ tags:
 - Agile Project Management
 categories:
 - Events and Presentations
-- Scrum
-- Kanban
 preview: metro-event-128-link-1-1.png
 
 ---

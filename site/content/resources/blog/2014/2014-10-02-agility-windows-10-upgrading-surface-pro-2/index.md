@@ -27,16 +27,11 @@ aliasesFor404:
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
 tags:
 - Windows
-- Continuous Delivery
-- Deployment Frequency
-- Frequent Releases
-- System Configuration
-- Troubleshooting
-- Transparency
 categories:
 - Install and Configuration
 - Organisational Agility
 - Market Adaptability
+- Personal
 preview: nakedalm-windows-logo-12-12.png
 
 ---

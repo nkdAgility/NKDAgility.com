@@ -32,24 +32,38 @@ tags:
 - Agile Leadership
 - Software Developers
 - Agile Values and Principles
-- Agile Philosophy
+- Agile Strategy
 - Cross Functional Teams
 - Organisational Culture
-- Agile Strategy
-- Team Performance
+- Agile Philosophy
 - Team Motivation
 - Technical Leadership
+- Team Performance
 - Pragmatic Thinking
 - Agile Project Management
+- Self Organisation
 - Agile Frameworks
 - Scrum Values
 - Organisational Change
 - Change Management
 - Operational Practices
+- Scrum Team
+- Employee Engagement
+- Organisational Physics
 categories:
 - People and Process
 - Resilience and Change
 - Value Delivery
+- Organisational Agility
+- Business Agility
+- Enterprise Agility
+- Product Delivery
+- Sociotechnical Systems
+- Organisational Psychology
+- Agile Product Management
+- Scrum
+- Beta Codex
+- Market Adaptability
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

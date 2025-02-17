@@ -37,6 +37,7 @@ categories:
 - Value Delivery
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

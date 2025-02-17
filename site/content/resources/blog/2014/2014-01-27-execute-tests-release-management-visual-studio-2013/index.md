@@ -28,26 +28,14 @@ aliasesFor404:
 tags:
 - Release Management
 - Automated Testing
-- Software Development
-- Test Automation
-- Troubleshooting
-- Pragmatic Thinking
-- Engineering Excellence
-- Software Developers
-- Technical Mastery
-- Operational Practices
-- System Configuration
-- Continuous Delivery
-- Frequent Releases
-- Deployment Strategies
-- Working Software
-- Engineering Practices
-- Azure Pipelines
-- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Technical Excellence
+- Azure DevOps
+- Product Delivery
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

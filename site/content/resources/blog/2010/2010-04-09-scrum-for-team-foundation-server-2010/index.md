@@ -33,6 +33,9 @@ categories:
 - Scrum
 - Product Delivery
 - Practical Techniques and Tooling
+- Events and Presentations
+- Agile Product Management
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

@@ -33,24 +33,8 @@ tags:
 - Software Development
 - Professional Scrum
 - Agile Project Management
-- Scrum Team
-- Definition of Ready
-- Product Owner
-- Agile Planning
-- Agile Planning Tools
-- Team Performance
-- Scrum Master
-- Operational Practices
-- Agile Transformation
-- Software Developers
-- Agile Frameworks
-- Pragmatic Thinking
-- Empirical Process Control
-- Product Management
 categories:
 - Scrum
-- People and Process
-- Value Delivery
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

@@ -32,8 +32,6 @@ tags:
 - Troubleshooting
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Products and Books
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

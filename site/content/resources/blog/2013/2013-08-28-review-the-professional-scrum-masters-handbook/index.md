@@ -31,11 +31,8 @@ tags:
 - Software Development
 - Agile Frameworks
 - Pragmatic Thinking
-- Strategy
 categories:
 - Products and Books
-- Scrum
-- People and Process
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

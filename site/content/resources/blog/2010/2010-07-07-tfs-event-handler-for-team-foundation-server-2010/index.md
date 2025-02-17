@@ -23,7 +23,6 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 tags:
 - Software Development
-- Technical Mastery
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps

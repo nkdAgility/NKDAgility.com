@@ -44,12 +44,19 @@ tags:
 - Team Performance
 - Agile Project Management
 - Accountability
-- Product Management
+- Scrum Master
 - Agile Strategy
+- Change Management
+- Product Management
+- Estimation
 categories:
 - Scrum
 - Product Delivery
 - Agile Product Management
+- Transparency and Accountability
+- People and Process
+- Value Delivery
+- Organisational Agility
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

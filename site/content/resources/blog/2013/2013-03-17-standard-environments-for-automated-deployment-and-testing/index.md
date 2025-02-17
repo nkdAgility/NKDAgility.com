@@ -23,27 +23,8 @@ aliasesFor404:
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
 tags:
 - Software Development
-- Pragmatic Thinking
-- Continuous Delivery
-- System Configuration
-- Automated Testing
-- Test Automation
-- Software Developers
-- Release Management
-- Deployment Frequency
-- Deployment Strategies
-- Engineering Excellence
-- Technical Mastery
-- Engineering Practices
-- Frequent Releases
-- Operational Practices
-- Continuous Integration
-- Azure Pipelines
-- Working Software
 categories:
 - DevOps
-- Application Lifecycle Management
-- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

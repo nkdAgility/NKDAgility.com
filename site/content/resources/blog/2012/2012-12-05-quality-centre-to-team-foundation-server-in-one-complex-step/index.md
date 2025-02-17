@@ -27,8 +27,6 @@ tags:
 - Pragmatic Thinking
 categories:
 - Products and Books
-- Application Lifecycle Management
-- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

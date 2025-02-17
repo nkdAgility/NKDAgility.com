@@ -29,8 +29,6 @@ tags:
 - Technical Debt
 categories:
 - Events and Presentations
-- News and Reviews
-- Technical Excellence
 preview: metro-event-128-link-1-1.png
 
 ---

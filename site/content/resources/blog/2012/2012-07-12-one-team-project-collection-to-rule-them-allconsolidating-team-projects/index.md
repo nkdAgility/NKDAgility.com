@@ -29,18 +29,12 @@ aliasesFor404:
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 tags:
 - Troubleshooting
-- Modern Source Control
-- System Configuration
-- Software Development
-- Pragmatic Thinking
-- Operational Practices
-- Agile Project Management
-- Software Developers
-- Strategy
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Azure DevOps
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

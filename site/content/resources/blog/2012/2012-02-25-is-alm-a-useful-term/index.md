@@ -31,11 +31,13 @@ tags:
 - Agile Strategy
 - Engineering Excellence
 - Pragmatic Thinking
-- Agile Project Management
 categories:
 - People and Process
 - Application Lifecycle Management
 - Organisational Agility
+- Product Delivery
+- Market Adaptability
+- Business Agility
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

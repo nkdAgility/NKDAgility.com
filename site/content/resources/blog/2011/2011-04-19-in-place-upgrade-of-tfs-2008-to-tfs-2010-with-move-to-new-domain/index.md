@@ -25,18 +25,10 @@ tags:
 - System Configuration
 - Software Development
 - Troubleshooting
-- Windows
-- Modern Source Control
-- Operational Practices
-- Release Management
-- Technical Mastery
-- Deployment Strategies
-- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-24-24.png
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 
 ---
 [![vs2010logo](images/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_thumb-22-22.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_2.png)I had a particularly complicated upgrade this time that required me to do two things:

@@ -34,11 +34,11 @@ tags:
 - Team Collaboration
 - Professional Scrum
 - Team Performance
-- Pragmatic Thinking
-- Agile Frameworks
 - Software Development
+- Pragmatic Thinking
 - Agile Planning
 - Software Developers
+- Agile Frameworks
 - Increment
 - Product Backlog
 - Azure Boards
@@ -46,8 +46,6 @@ tags:
 - Operational Practices
 categories:
 - Scrum
-- People and Process
-- Product Delivery
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

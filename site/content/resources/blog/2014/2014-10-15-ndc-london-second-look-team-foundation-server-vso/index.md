@@ -39,21 +39,27 @@ tags:
 - Agile Planning
 - Working Software
 - Customer Feedback Loops
-- Pragmatic Thinking
-- Software Developers
-- Technical Mastery
 - Engineering Practices
+- Software Developers
+- Pragmatic Thinking
 - Frequent Releases
+- Technical Mastery
 - Software Development
 - Test Automation
 - Deployment Strategies
 - Azure Pipelines
 - Azure Boards
 - Engineering Excellence
+- Product Validation
+- Continuous Integration
+- Product Owner
+- Scrum Product Development
+- Troubleshooting
+- Modern Source Control
+- Operational Practices
 categories:
 - Application Lifecycle Management
 - Events and Presentations
-- Azure DevOps
 preview: metro-event-icon-7-7.png
 
 ---

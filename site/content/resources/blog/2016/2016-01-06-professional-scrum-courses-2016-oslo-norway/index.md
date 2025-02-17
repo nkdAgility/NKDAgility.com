@@ -35,7 +35,6 @@ tags:
 - Scrum Master
 - Agile Project Management
 - Software Developers
-- Coaching
 categories:
 - Scrum
 - Practical Techniques and Tooling

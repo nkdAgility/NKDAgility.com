@@ -31,21 +31,39 @@ tags:
 - Agile Values and Principles
 - Agile Project Management
 - Software Developers
+- Agile Frameworks
 - Change Management
 - Agile Transformation
 - Agile Philosophy
-- Pragmatic Thinking
-- Agile Frameworks
 - Agile Strategy
 - Frequent Releases
 - Organisational Change
 - Agile Planning
+- Pragmatic Thinking
 - Strategy
 - Engineering Excellence
+- Deployment Frequency
+- Digital Transformation
+- Operational Practices
+- Trend Analysis
+- Lean Product Development
+- Lean Principles
 categories:
 - Scrum
 - People and Process
 - Resilience and Change
+- Business Agility
+- Enterprise Agility
+- Agile Product Operating Model
+- Value Delivery
+- Organisational Agility
+- Sociotechnical Systems
+- Product Delivery
+- News and Reviews
+- Practical Techniques and Tooling
+- Agile Product Management
+- Market Adaptability
+- Technical Excellence
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

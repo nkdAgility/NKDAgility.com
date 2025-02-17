@@ -31,6 +31,7 @@ categories:
 - Practical Techniques and Tooling
 - Application Lifecycle Management
 - Technical Excellence
+- Events and Presentations
 tags:
 - Software Development
 - Engineering Excellence
@@ -38,8 +39,6 @@ tags:
 - Continuous Integration
 - Operational Practices
 - Technical Mastery
-- Working Software
-- Software Developers
 
 ---
 code-management-and-build

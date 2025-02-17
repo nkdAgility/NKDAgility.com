@@ -36,8 +36,6 @@ tags:
 - Operational Practices
 categories:
 - Install and Configuration
-- Application Lifecycle Management
-- Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 
 ---

@@ -29,21 +29,15 @@ aliasesFor404:
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
 - Windows
-- Operational Practices
-- System Configuration
-- Software Development
-- Modern Source Control
-- Release Management
-- Troubleshooting
-- Technical Mastery
-- Deployment Strategies
-- Pragmatic Thinking
-- Working Software
-- Engineering Excellence
 categories:
 - Install and Configuration
 - Code and Complexity
 - Practical Techniques and Tooling
+- Application Lifecycle Management
+- Complexity Thinking
+- Technical Excellence
+- Azure DevOps
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

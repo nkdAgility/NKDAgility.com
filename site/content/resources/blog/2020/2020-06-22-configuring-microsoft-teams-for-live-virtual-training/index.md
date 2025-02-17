@@ -24,7 +24,6 @@ aliasesFor404:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Scrum
 preview: image-14-4-4.png
 tags:
 - System Configuration

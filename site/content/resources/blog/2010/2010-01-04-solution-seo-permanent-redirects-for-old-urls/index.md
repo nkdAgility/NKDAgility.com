@@ -27,14 +27,11 @@ aliasesFor404:
 - /resources/blog/solution-seo-permanent-redirects-for-old-urls
 tags:
 - Software Development
-- Troubleshooting
-- Technical Mastery
-- Pragmatic Thinking
-- System Configuration
 categories:
 - Code and Complexity
 - Install and Configuration
 - Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

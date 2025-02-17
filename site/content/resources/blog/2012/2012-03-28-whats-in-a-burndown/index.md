@@ -30,26 +30,26 @@ tags:
 - Software Development
 - Scrum Team
 - Software Developers
-- Agile Planning
-- Team Performance
 - Professional Scrum
 - Agile Project Management
-- Agile Transformation
-- Forecasting
+- Team Performance
+- Agile Planning
 - Pragmatic Thinking
 - Agile Frameworks
+- Forecasting
+- Agile Transformation
 - Empirical Process Control
-- Agile Planning Tools
 - Scrum Master
+- Agile Planning Tools
 - Product Management
 - Estimation
-- Product Owner
-- Troubleshooting
-- Decision Making
 categories:
 - Scrum
 - Product Delivery
 - Practical Techniques and Tooling
+- People and Process
+- Metrics and Learning
+- Agile Product Management
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -33,11 +33,11 @@ tags:
 - Operational Practices
 - Modern Source Control
 - Pragmatic Thinking
-- Software Developers
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- DevOps
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

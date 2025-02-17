@@ -23,12 +23,8 @@ aliasesFor404:
 - /resources/blog/install-tfs-2015-today
 tags:
 - System Configuration
-- Windows
-- Software Development
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

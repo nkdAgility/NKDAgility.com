@@ -43,10 +43,29 @@ tags:
 - Lean Startup
 - Decision Making
 - Empirical Process Control
+- Deployment Frequency
+- Product Strategy
+- Agile Values and Principles
+- Product Owner
+- Software Development
+- Customer Retention
+- Customer Feedback Loops
+- Customer Satisfaction
+- Lean Principles
+- Continuous Delivery
 categories:
 - Business Agility
 - Agile Product Management
 - Value Delivery
+- Metrics and Learning
+- Product Delivery
+- Agile Product Operating Model
+- Discovery and Learning
+- Value Stream Management
+- People and Process
+- Organisational Agility
+- Evidence Based Management
+- Market Adaptability
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

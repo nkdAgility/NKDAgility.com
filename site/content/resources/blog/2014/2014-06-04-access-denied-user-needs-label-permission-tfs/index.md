@@ -30,7 +30,11 @@ tags:
 - Troubleshooting
 - System Configuration
 - Pragmatic Thinking
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Discovery and Learning
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

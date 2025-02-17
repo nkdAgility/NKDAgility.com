@@ -30,7 +30,6 @@ tags:
 - Software Development
 - Azure Boards
 - Pragmatic Thinking
-- Modern Source Control
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps

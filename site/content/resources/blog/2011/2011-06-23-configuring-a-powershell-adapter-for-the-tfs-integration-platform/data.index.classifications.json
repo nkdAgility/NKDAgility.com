@@ -19,12 +19,12 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T22:22:47",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses the TFS Integration Platform and its configuration, which relates to internal developer platforms and automation in the application lifecycle, but it primarily focuses on specific implementation details rather than broader platform engineering principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -37,12 +37,12 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T22:22:50",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
     "final_score": 47.0,
     "reasoning": "The content discusses the configuration and implementation of a PowerShell adapter for TFS, touching on aspects of code quality and adaptability, but primarily focuses on practical implementation rather than a deep exploration of code complexity or best practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -118,12 +118,12 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:23:05",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the integration of TFS with Perforce using PowerShell, which relates to automation and tools in the context of DevOps practices. However, it primarily focuses on the technical implementation rather than broader DevOps principles or cultural shifts.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -235,12 +235,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T22:23:27",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the technical implementation of a PowerShell adapter for TFS, focusing on integration and configuration rather than the broader methodologies and practices of product delivery.",
-    "level": "Ignored"
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -280,12 +280,12 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T22:23:35",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the TFS Integration Platform, which is related to Azure DevOps, but primarily focuses on PowerShell scripting and integration with Perforce rather than Azure DevOps functionalities or best practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -343,12 +343,12 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T22:23:46",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the integration of TFS with other systems, which relates to the deployment and maintenance stages of the application lifecycle, but it primarily focuses on the technical implementation rather than broader ALM methodologies or practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum": {
     "category": "Scrum",
@@ -739,12 +739,12 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the configuration and implementation of a PowerShell Adapter for the TFS Integration Platform, which involves coding practices and the integration of systems—a key aspect of software engineering. While it is more technical than focused specifically on engineering excellence principles, it touches upon software craftsmanship through the discussion of adaptability and efficiency in engineering processes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -865,12 +865,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content primarily discusses technical implementation details of an adapter for migrating code between systems, which is related to working software. However, it does not focus specifically on characteristics, practices, or discussions about delivering functional software, thus making the relevance to the category more secondary.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -883,12 +883,12 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content discusses the TFS Integration Platform and a PowerShell adapter for migrating and synchronizing changes between source control systems, which can relate to CI practices, but the primary focus is on the specifics of implementation and configuration rather than broader CI principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -955,12 +955,12 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content discusses the integration of Team Foundation Server with Perforce via PowerShell, which relates to version control and the release process, but it primarily focuses on the technical implementation rather than comprehensive release management practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1108,12 +1108,12 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T22:42:11",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content primarily discusses a PowerShell adapter for the TFS Integration Platform, which is used in conjunction with Windows-based systems and software. While it is centered on the integration processes involving TFS and PowerShell, which are relevant to Windows environments, the primary focus is not exclusively on Windows OS itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1162,12 +1162,12 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T22:42:11",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 60,
     "non_ai_confidence": 0,
     "final_score": 54.0,
     "reasoning": "The content discusses configuring an adapter for data synchronization between TFS and Perforce, focusing on troubleshooting potential issues and providing practical steps for setup and execution, which makes troubleshooting a significant theme.",
-    "level": "Secondary"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1207,12 +1207,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T22:42:11",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content primarily discusses the technical implementation of a PowerShell adapter for the TFS Integration Platform, which is relevant to software development practices. However, it does not focus significantly on Agile or DevOps methodologies, making that theme secondary.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,12 +1225,12 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T22:42:11",
+    "calculated_at": "2025-02-17T09:09:13",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content primarily discusses the configuration and operation of a PowerShell adapter for the TFS Integration Platform, which is relevant to engineering practices in terms of automation and integration in software development. However, the focus on specific integration tasks rather than broader engineering methodologies limits its relevance to the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",

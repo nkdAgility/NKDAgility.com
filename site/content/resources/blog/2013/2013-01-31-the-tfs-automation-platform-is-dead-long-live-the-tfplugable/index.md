@@ -36,11 +36,14 @@ tags:
 - Technical Mastery
 - Product Validation
 - Pragmatic Thinking
-- Engineering Excellence
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Azure DevOps
+- Platform Engineering
+- Product Delivery
+- Technical Excellence
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

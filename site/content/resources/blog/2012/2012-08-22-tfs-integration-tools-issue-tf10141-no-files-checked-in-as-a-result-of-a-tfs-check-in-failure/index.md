@@ -29,8 +29,6 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 tags:
 - Software Development
-- Troubleshooting
-- Modern Source Control
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

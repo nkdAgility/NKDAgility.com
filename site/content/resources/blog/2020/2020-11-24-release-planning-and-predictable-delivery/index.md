@@ -23,29 +23,8 @@ aliasesFor404:
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
 - Software Development
-- Increment
-- Transparency
-- Estimation
-- Pragmatic Thinking
-- Scrum Product Development
-- Empirical Process Control
-- Technical Leadership
-- Software Developers
-- Technical Debt
-- Backlog Refinement
-- Agile Project Management
-- Working Software
-- Agile Planning
-- Release Management
-- Definition of Done
-- Operational Practices
-- Agile Strategy
-- Agile Frameworks
-- Professional Scrum
 categories:
 - Product Delivery
-- Scrum
-- Agile Product Management
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

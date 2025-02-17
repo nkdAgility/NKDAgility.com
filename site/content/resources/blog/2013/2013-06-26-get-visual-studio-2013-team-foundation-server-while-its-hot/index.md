@@ -29,27 +29,31 @@ tags:
 - Team Collaboration
 - Collaboration Tools
 - Portfolio Management
-- Product Backlog
 - Agile Planning Tools
+- Product Backlog
 - Agile Project Management
-- Agile Strategy
-- Software Developers
-- Azure Boards
 - Agile Planning
+- Software Developers
+- Agile Strategy
+- Azure Boards
 - Software Development
 - Team Performance
 - Scrum Product Development
 - Working Software
-- Agile Frameworks
 - Agile Transformation
+- Agile Frameworks
 - Pragmatic Thinking
-- Automated Testing
-- Strategy
-- Engineering Excellence
 categories:
 - Agile Product Management
 - Product Delivery
 - News and Reviews
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Products and Books
+- Azure DevOps
+- Value Delivery
+- Agile Product Operating Model
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

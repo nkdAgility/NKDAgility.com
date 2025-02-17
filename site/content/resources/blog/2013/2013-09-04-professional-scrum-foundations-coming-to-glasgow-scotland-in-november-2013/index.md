@@ -39,11 +39,11 @@ tags:
 - Software Developers
 - Organisational Change
 - Working Software
-- Coaching
 categories:
 - Scrum
 - People and Process
 - Events and Presentations
+- Products and Books
 preview: PSF_Badges-2-2.png
 
 ---

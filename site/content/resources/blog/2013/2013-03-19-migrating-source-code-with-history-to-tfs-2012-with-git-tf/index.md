@@ -25,7 +25,6 @@ tags:
 - Modern Source Control
 - Software Development
 - Technical Mastery
-- Azure Repos
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -27,21 +27,12 @@ aliasesFor404:
 - /resources/blog/access-denied-orchestration-plan-build
 tags:
 - Troubleshooting
-- Windows
-- System Configuration
-- Azure Repos
-- Software Development
-- Technical Mastery
-- Azure Pipelines
-- Software Developers
-- Continuous Integration
-- Pragmatic Thinking
-- Operational Practices
-- Modern Source Control
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- Azure DevOps
+- DevOps
 preview: clip_image004-4-4.png
 
 ---

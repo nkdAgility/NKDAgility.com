@@ -29,10 +29,6 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 tags:
 - Troubleshooting
-- Windows
-- System Configuration
-- Software Development
-- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

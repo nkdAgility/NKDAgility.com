@@ -24,11 +24,8 @@ aliasesFor404:
 tags:
 - System Configuration
 - Software Development
-- Windows
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Scrum
 preview: metro-sharepoint-128-link-25-25.png
 
 ---

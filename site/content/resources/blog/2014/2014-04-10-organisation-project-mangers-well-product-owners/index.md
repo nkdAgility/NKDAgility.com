@@ -31,23 +31,28 @@ tags:
 - Product Management
 - Agile Transformation
 - Agile Philosophy
-- Scrum Team
 - Team Collaboration
 - Agile Strategy
+- Scrum Team
 - Organisational Culture
+- Agile Frameworks
 - Organisational Change
 - Organisational Physics
-- Agile Frameworks
-- Agile Planning
+- Team Performance
 - Scaled Agile
 - Software Development
-- Team Performance
+- Agile Planning
 - Professional Scrum
-- Agile Values and Principles
 categories:
 - Agile Product Operating Model
 - Agile Product Management
 - Product Delivery
+- People and Process
+- Organisational Agility
+- Business Agility
+- Scrum
+- Sociotechnical Systems
+- Enterprise Agility
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

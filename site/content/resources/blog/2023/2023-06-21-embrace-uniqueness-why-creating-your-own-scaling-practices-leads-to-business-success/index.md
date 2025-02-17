@@ -38,6 +38,11 @@ categories:
 - Business Agility
 - People and Process
 - Organisational Agility
+- Enterprise Agility
+- Market Adaptability
+- Discovery and Learning
+- Resilience and Change
+- Sociotechnical Systems
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 
 ---

@@ -35,6 +35,7 @@ categories:
 - Practical Techniques and Tooling
 - Application Lifecycle Management
 - Events and Presentations
+- Technical Excellence
 
 ---
 Microsoft Test Manager (MTM), AKA Test Professional, is a new testing system that team can use to create manual and Automation test quickly. The real advantage and strength of MTM is the integration with TFS and Visual Studio 2010 and how it can leverage the ALM tools and practices. In the demo, we show:

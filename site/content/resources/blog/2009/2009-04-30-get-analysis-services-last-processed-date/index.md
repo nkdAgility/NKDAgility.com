@@ -26,7 +26,8 @@ tags:
 - Troubleshooting
 - Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Code and Complexity
 
 ---
 I need a little bit of code to get the last processed date for the cube that my site connects to:

@@ -27,29 +27,8 @@ aliasesFor404:
 - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 tags:
 - Scrum Team
-- Agile Project Management
-- Accountability
-- Scrum Product Development
-- Scrum Master
-- Software Development
-- Self Organisation
-- Professional Scrum
-- Software Developers
-- Team Collaboration
-- Team Performance
-- Agile Frameworks
-- Agile Leadership
-- Pragmatic Thinking
-- Continuous Learning
-- Agile Transformation
-- Coaching
-- Technical Leadership
-- Agile Philosophy
-- Team Motivation
 categories:
 - Scrum
-- Agile Product Management
-- People and Process
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

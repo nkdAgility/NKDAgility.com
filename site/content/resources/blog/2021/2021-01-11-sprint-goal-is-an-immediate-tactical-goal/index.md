@@ -30,10 +30,10 @@ tags:
 - Pragmatic Thinking
 - Hypothesis Driven Development
 - Agile Project Management
-- Agile Frameworks
 - Software Development
-- Agile Planning
+- Agile Frameworks
 - Strategy
+- Agile Planning
 - Agile Strategy
 - Product Discovery
 - Scrum Team
@@ -47,6 +47,9 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
+- Value Delivery
+- Product Delivery
+- Agile Product Operating Model
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

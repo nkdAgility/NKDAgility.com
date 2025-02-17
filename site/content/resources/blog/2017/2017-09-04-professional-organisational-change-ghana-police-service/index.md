@@ -27,29 +27,17 @@ aliasesFor404:
 - /resources/blog/professional-organisational-change-ghana-police-service
 tags:
 - Organisational Change
-- Change Management
-- Strategy
-- Empirical Process Control
-- Agile Leadership
-- Agile Project Management
-- Agile Transformation
-- Agile Strategy
-- Agile Philosophy
-- Agile Frameworks
-- Technical Leadership
-- Organisational Physics
-- Strategic Goals
-- Digital Transformation
-- Scaling Agility
-- Organisational Culture
-- Large Scale Agility
-- Operational Practices
-- Sensemaking
-- Pragmatic Thinking
 categories:
 - Scrum
 - People and Process
 - Resilience and Change
+- Organisational Agility
+- Organisational Psychology
+- Business Agility
+- Enterprise Agility
+- Value Delivery
+- Sociotechnical Systems
+- Practical Techniques and Tooling
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

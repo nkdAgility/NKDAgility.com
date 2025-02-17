@@ -32,11 +32,11 @@ tags:
 - Troubleshooting
 - Technical Mastery
 - Engineering Excellence
-- Windows
 categories:
 - Install and Configuration
 - News and Reviews
 - Practical Techniques and Tooling
+- Products and Books
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -34,7 +34,6 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Transparency
-- Organisational Change
 categories:
 - Scrum
 - People and Process

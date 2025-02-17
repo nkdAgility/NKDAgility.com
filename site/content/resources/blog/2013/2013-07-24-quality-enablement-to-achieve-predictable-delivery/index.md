@@ -42,10 +42,23 @@ tags:
 - Empirical Process Control
 - Test Automation
 - Team Performance
+- Azure Pipelines
+- Strategy
+- Increment
+- Continuous Integration
+- Release Management
 categories:
 - Value Delivery
 - Product Delivery
 - People and Process
+- Metrics and Learning
+- Evidence Based Management
+- Practical Techniques and Tooling
+- Technical Excellence
+- Application Lifecycle Management
+- Agile Product Management
+- Sociotechnical Systems
+- DevOps
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

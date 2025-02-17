@@ -34,12 +34,12 @@ tags:
 - Agile Values and Principles
 - Agile Leadership
 - Agile Transformation
+- Organisational Change
 - Technical Leadership
 - Empirical Process Control
-- Organisational Change
-- Organisational Culture
 - Agile Strategy
 - Agile Philosophy
+- Organisational Culture
 - Strategy
 - Organisational Physics
 - Pragmatic Thinking
@@ -50,6 +50,14 @@ categories:
 - Organisational Agility
 - People and Process
 - Resilience and Change
+- Business Agility
+- Discovery and Learning
+- Enterprise Agility
+- Market Adaptability
+- Events and Presentations
+- Complexity Thinking
+- Sociotechnical Systems
+- Beta Codex
 preview: image-15-5-4.png
 
 ---

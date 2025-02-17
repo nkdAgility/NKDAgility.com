@@ -32,11 +32,8 @@ tags:
 - Troubleshooting
 - Pragmatic Thinking
 - Operational Practices
-- Windows
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

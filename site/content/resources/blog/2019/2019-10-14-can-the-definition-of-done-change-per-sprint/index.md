@@ -32,23 +32,25 @@ tags:
 - Increment
 - Scrum Team
 - Agile Project Management
-- Team Performance
 - Engineering Excellence
-- Professional Scrum
 - Scrum Master
+- Team Performance
 - Software Development
+- Professional Scrum
+- Agile Transformation
+- Empirical Process Control
 - Working Software
 - Software Developers
 - Operational Practices
 - Agile Planning
 - Pragmatic Thinking
-- Agile Transformation
-- Empirical Process Control
 - Agile Frameworks
 categories:
 - Scrum
 - Agile Product Management
 - People and Process
+- Value Delivery
+- Product Delivery
 preview: 20190906_152025-2-2.gif
 
 ---

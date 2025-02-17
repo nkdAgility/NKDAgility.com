@@ -29,27 +29,23 @@ tags:
 - Decision Making
 - Evidence Based Leadership
 - Software Development
-- Change Management
 - Lead Time
 - Product Management
+- Change Management
 - Empirical Process Control
 - Ability to Innovate
-- Operational Practices
 - Customer Satisfaction
+- Operational Practices
 - Agile Project Management
 - Agile Transformation
-- Pragmatic Thinking
 - Agile Strategy
 - Strategy
+- Pragmatic Thinking
 - Sensemaking
 - Organisational Change
 - Product Validation
-- Agile Planning
-- Large Scale Agility
 categories:
 - Evidence Based Management
-- People and Process
-- Resilience and Change
 preview: nakedalm-agility-index-7-7.png
 
 ---

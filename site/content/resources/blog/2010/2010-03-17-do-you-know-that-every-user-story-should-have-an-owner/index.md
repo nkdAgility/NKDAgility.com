@@ -34,7 +34,6 @@ tags:
 - Agile Project Management
 - Accountability
 - Pragmatic Thinking
-- Agile Frameworks
 categories:
 - Scrum
 - People and Process

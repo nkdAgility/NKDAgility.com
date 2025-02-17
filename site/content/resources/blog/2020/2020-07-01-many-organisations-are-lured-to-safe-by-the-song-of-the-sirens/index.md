@@ -36,6 +36,9 @@ categories:
 - Business Agility
 - People and Process
 - Organisational Agility
+- Enterprise Agility
+- Resilience and Change
+- Sociotechnical Systems
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 
 ---

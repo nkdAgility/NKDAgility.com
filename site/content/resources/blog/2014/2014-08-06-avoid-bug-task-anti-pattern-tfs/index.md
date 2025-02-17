@@ -32,11 +32,11 @@ tags:
 - Test First Development
 - Agile Project Management
 - Agile Transformation
+- Technical Mastery
 - Azure Boards
-- Software Developers
 - Team Performance
 - Agile Planning
-- Technical Mastery
+- Software Developers
 - Engineering Practices
 - Transparency
 - Pragmatic Thinking
@@ -50,6 +50,11 @@ categories:
 - People and Process
 - Azure DevOps
 - Product Delivery
+- Practical Techniques and Tooling
+- Agile Product Management
+- Technical Excellence
+- Transparency and Accountability
+- DevOps
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

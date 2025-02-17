@@ -29,8 +29,6 @@ aliasesFor404:
 - /resources/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

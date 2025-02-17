@@ -29,8 +29,6 @@ aliasesFor404:
 - /resources/blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 tags:
 - Troubleshooting
-- Software Development
-- System Configuration
 categories:
 - Install and Configuration
 - Azure DevOps

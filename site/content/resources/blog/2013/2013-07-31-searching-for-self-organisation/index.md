@@ -23,29 +23,18 @@ aliasesFor404:
 - /resources/blog/searching-for-self-organisation
 tags:
 - Self Organisation
-- Accountability
-- Organisational Culture
-- Team Collaboration
-- Change Management
-- Organisational Change
-- Team Motivation
-- Team Performance
-- Organisational Physics
-- Agile Values and Principles
-- Agile Project Management
-- Agile Transformation
-- Agile Philosophy
-- Agile Strategy
-- Software Developers
-- Agile Leadership
-- Coaching
-- Employee Engagement
-- Scrum Team
-- Agile Frameworks
 categories:
 - People and Process
 - Organisational Agility
 - Complexity Thinking
+- Organisational Psychology
+- Business Agility
+- Beta Codex
+- Sociotechnical Systems
+- Scrum
+- Agile Product Management
+- Discovery and Learning
+- Personal
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

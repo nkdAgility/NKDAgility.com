@@ -23,11 +23,6 @@ aliasesFor404:
 - /resources/blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Technical Mastery
-- Pragmatic Thinking
-- Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

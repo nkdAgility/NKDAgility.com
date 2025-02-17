@@ -44,6 +44,9 @@ categories:
 - Practical Techniques and Tooling
 - Technical Excellence
 - Azure DevOps
+- Application Lifecycle Management
+- DevOps
+- Product Delivery
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

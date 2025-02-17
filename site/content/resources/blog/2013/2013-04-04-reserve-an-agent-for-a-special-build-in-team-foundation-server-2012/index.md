@@ -24,20 +24,14 @@ aliasesFor404:
 tags:
 - Pragmatic Thinking
 - Software Development
-- Release Management
-- System Configuration
-- Troubleshooting
-- Technical Mastery
-- Azure Pipelines
-- Engineering Excellence
-- Continuous Integration
-- Operational Practices
-- Working Software
-- Engineering Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Technical Excellence
+- Azure DevOps
+- Platform Engineering
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

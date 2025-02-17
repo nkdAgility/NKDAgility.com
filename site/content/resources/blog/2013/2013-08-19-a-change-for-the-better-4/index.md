@@ -43,6 +43,9 @@ categories:
 - Application Lifecycle Management
 - People and Process
 - Practical Techniques and Tooling
+- Organisational Agility
+- Business Agility
+- Personal
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

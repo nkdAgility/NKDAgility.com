@@ -29,8 +29,6 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-sequence-contains-no-elements
 tags:
 - Troubleshooting
-- Software Development
-- Windows
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -28,21 +28,9 @@ aliasesFor404:
 tags:
 - Software Development
 - Azure Pipelines
-- Release Management
-- System Configuration
-- Modern Source Control
-- Working Software
-- Technical Mastery
-- Software Developers
-- Azure Repos
-- Continuous Delivery
-- Engineering Excellence
-- Continuous Integration
-- Windows
 categories:
 - Practical Techniques and Tooling
 - Azure DevOps
-- Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---
