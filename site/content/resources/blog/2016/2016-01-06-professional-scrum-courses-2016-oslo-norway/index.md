@@ -30,15 +30,16 @@ aliasesFor404:
 - /blog/professional-scrum-courses-for-2016-in-oslo--norway
 - /resources/blog/professional-scrum-courses-2016-oslo-norway
 tags:
-- Professional Scrum
-- Scrum Master
-- Software Development
-- Agile Project Management
-- Software Developers
-categories:
 - Scrum
 - Practical Techniques and Tooling
+- Scrum Master
+- Software Development
+- Professional Scrum
+- Agile Project Management
 - Events and Presentations
+- Software Developers
+categories:
+- Social Technologies
 preview: clip_image001-1-1.jpg
 
 ---

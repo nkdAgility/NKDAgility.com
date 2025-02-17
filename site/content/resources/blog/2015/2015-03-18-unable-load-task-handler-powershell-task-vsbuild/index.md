@@ -27,17 +27,17 @@ aliasesFor404:
 - /resources/blog/unable-load-task-handler-powershell-task-vsbuild
 tags:
 - Windows
-- System Configuration
-- Pragmatic Thinking
-- Troubleshooting
-- Software Development
-- Continuous Integration
-- Azure Pipelines
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- DevOps
+- System Configuration
 - Azure DevOps
+- Pragmatic Thinking
+- Azure Pipelines
+- Software Development
+- Continuous Integration
+- Troubleshooting
+categories:
+- DevOps
 preview: puzzle-issue-problem-128-link-7-7.png
 
 ---

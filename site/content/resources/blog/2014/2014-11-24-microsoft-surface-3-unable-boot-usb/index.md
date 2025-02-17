@@ -28,9 +28,7 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 preview: nakedalm-windows-logo-5-5.png
 
 ---

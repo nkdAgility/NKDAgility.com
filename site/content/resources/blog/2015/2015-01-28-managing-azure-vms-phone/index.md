@@ -26,19 +26,10 @@ aliasesFor404:
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
 tags:
-- Windows
-- Customer Satisfaction
-- Working Software
-- Pragmatic Thinking
-- Technical Mastery
-- Troubleshooting
-- Digital Transformation
-- Software Development
-- System Configuration
-- Operational Practices
-categories:
 - Practical Techniques and Tooling
 - Products and Books
+categories:
+- DevOps
 preview: nakedalm-windows-logo-7-7.png
 
 ---
