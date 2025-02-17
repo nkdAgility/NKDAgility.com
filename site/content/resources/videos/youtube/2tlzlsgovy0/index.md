@@ -28,7 +28,12 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Agile Product Management
+- Agile Product Operating Model
+- People and Process
+- Organisational Agility
+- Value Delivery
 
 ---
 In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and strategic goals?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 

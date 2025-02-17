@@ -28,32 +28,47 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Change Management
-- Continuous Learning
-- Decision Making
-- Empirical Process Control
 - Increment
-- Operational Practices
-- Organisational Change
-- Organisational Culture
-- Product Management
-- Software Development
-- Team Performance
 - Working Software
+- Agile Values and Principles
+- Agile Leadership
+- Operational Practices
+- Software Development
+- Agile Planning
+- Organisational Culture
+- Agile Philosophy
+- Product Management
+- Organisational Change
+- Agile Strategy
+- Change Management
+- Agile Project Management
+- Empirical Process Control
+- Decision Making
+- Continuous Learning
+- Agile Transformation
+- Agile Frameworks
+- Software Developers
+- Team Performance
+- Frequent Releases
+- Pragmatic Thinking
+- Deployment Frequency
+- Strategy
+- Continuous Delivery
 resourceTypes:
 - video
 categories:
-- Business Agility
+- Agile Product Management
+- Agile Product Operating Model
 - People and Process
+- Business Agility
 - Product Delivery
+- News and Reviews
+- Value Delivery
+- Organisational Agility
+- Discovery and Learning
+- Enterprise Agility
+- Metrics and Learning
+- Market Adaptability
 
 ---
 The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.
