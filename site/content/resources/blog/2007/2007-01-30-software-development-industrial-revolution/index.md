@@ -21,7 +21,23 @@ aliasesFor404:
 - /software-development-industrial-revolution
 - /blog/software-development-industrial-revolution
 - /resources/blog/software-development-industrial-revolution
-tags: []
+tags:
+- Pragmatic Thinking
+- Working Software
+- Software Development
+- Software Developers
+- Release Management
+- Team Collaboration
+- Market Share
+- Lead Time
+- Decision Making
+- Frequent Releases
+- Deployment Frequency
+- Collaboration Tools
+- Engineering Excellence
+- Digital Transformation
+- Throughput
+- Operational Practices
 categories:
 - Application Lifecycle Management
 - News and Reviews

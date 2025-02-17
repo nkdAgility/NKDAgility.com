@@ -21,7 +21,9 @@ aliasesFor404:
 - /vista-mobile-device-center
 - /blog/vista-mobile-device-center
 - /resources/blog/vista-mobile-device-center
-tags: []
+tags:
+- Windows
+- Troubleshooting
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

@@ -21,7 +21,10 @@ aliasesFor404:
 - /visual-studio-2005-team-foundation-installation-guide
 - /blog/visual-studio-2005-team-foundation-installation-guide
 - /resources/blog/visual-studio-2005-team-foundation-installation-guide
-tags: []
+tags:
+- Windows
+- Software Development
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration

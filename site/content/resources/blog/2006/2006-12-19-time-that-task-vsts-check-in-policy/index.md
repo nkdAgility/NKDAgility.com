@@ -28,7 +28,8 @@ categories:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Miscellaneous
-tags: []
+tags:
+- Pragmatic Thinking
 
 ---
 I have found this interesting policy for TFS.

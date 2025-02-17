@@ -21,7 +21,9 @@ aliasesFor404:
 - /installing-visual-studio-2005-on-windows-vista
 - /blog/installing-visual-studio-2005-on-windows-vista
 - /resources/blog/installing-visual-studio-2005-on-windows-vista
-tags: []
+tags:
+- Windows
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration
