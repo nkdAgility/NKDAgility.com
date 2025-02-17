@@ -25,7 +25,10 @@ tags:
 - Software Development
 - Troubleshooting
 - Technical Mastery
-categories: []
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Products and Books
 
 ---
 ![](images/logo-1-1.gif) 

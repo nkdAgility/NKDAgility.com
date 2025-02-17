@@ -27,6 +27,15 @@ aliasesFor404:
 - /resources/blog/falling-of-the-tfs-rehabilitation-wagon
 tags:
 - Windows
+- System Configuration
+- Software Development
+- Working Software
+- Digital Transformation
+- Technical Mastery
+- Software Developers
+- Pragmatic Thinking
+- Collaboration Tools
+- Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

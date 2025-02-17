@@ -21,7 +21,11 @@ aliasesFor404:
 - /rtm-confusion
 - /blog/rtm-confusion
 - /resources/blog/rtm-confusion
-tags: []
+tags:
+- Modern Source Control
+- Windows
+- Software Development
+- Troubleshooting
 categories:
 - Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png

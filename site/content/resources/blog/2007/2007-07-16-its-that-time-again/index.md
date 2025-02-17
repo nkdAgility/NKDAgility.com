@@ -21,7 +21,11 @@ aliasesFor404:
 - /its-that-time-again
 - /blog/its-that-time-again
 - /resources/blog/its-that-time-again
-tags: []
+tags:
+- Software Developers
+- Software Development
+- Decision Making
+- Entrepreneurship
 categories:
 - Personal
 - Miscellaneous

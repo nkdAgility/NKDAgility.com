@@ -23,6 +23,8 @@ aliasesFor404:
 - /resources/blog/studying-for-the-new-job
 tags:
 - Windows
+- Continuous Learning
+- Software Development
 preview: metro-sharepoint-128-link-1-1.png
 categories:
 - Products and Books

@@ -27,10 +27,6 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Windows
-- Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration

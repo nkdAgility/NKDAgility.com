@@ -24,7 +24,9 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-categories: []
+categories:
+- Install and Configuration
+- People and Process
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -25,7 +25,8 @@ aliasesFor404:
 - /msn-cartoon-(beta)
 - /blog/msn-cartoon-(beta)
 - /resources/blog/msn-cartoon-beta
-tags: []
+tags:
+- Windows
 categories:
 - Install and Configuration
 - Miscellaneous

@@ -24,7 +24,9 @@ aliasesFor404:
 tags:
 - Customer Feedback Loops
 - Product Validation
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

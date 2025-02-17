@@ -21,7 +21,8 @@ aliasesFor404:
 - /about-me
 - /blog/about-me
 - /resources/blog/about-me
-categories: []
+categories:
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

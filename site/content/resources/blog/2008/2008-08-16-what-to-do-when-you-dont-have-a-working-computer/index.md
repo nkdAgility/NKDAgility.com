@@ -27,6 +27,8 @@ aliasesFor404:
 - /resources/blog/what-to-do-when-you-dont-have-a-working-computer
 tags:
 - Windows
+- Software Development
+- Troubleshooting
 categories:
 - Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png

@@ -21,8 +21,12 @@ aliasesFor404:
 - /setting-up-sharepoint-for-the-enterprise
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /resources/blog/setting-up-sharepoint-for-the-enterprise
-tags: []
-categories: []
+tags:
+- Deployment Strategies
+- Technical Mastery
+- System Configuration
+categories:
+- Install and Configuration
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

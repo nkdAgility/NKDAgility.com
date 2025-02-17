@@ -21,7 +21,10 @@ aliasesFor404:
 - /community-credit-feedback
 - /blog/community-credit-feedback
 - /resources/blog/community-credit-feedback
-tags: []
+tags:
+- Customer Feedback Loops
+- Product Discovery
+- Customer Retention
 categories:
 - Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png

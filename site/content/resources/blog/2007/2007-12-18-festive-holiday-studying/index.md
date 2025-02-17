@@ -21,7 +21,12 @@ aliasesFor404:
 - /festive-holiday-studying
 - /blog/festive-holiday-studying
 - /resources/blog/festive-holiday-studying
-tags: []
+tags:
+- Windows
+- Continuous Learning
+- Software Development
+- Working Software
+- Technical Mastery
 categories:
 - Miscellaneous
 preview: metro-xbox-360-link-3-3.png

@@ -23,7 +23,11 @@ aliasesFor404:
 - /resources/blog/using-visual-studio-2008
 tags:
 - Software Development
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Products and Books
 preview: metro-visual-studio-2005-128-link-8-1.png
 
 ---

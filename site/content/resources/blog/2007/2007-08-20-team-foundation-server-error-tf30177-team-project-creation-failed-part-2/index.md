@@ -33,7 +33,6 @@ tags:
 - System Configuration
 - Software Development
 - Pragmatic Thinking
-- Technical Mastery
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

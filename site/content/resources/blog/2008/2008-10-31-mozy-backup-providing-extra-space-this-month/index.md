@@ -21,7 +21,9 @@ aliasesFor404:
 - /mozy-backup-providing-extra-space-this-month
 - /blog/mozy-backup-providing-extra-space-this-month
 - /resources/blog/mozy-backup-providing-extra-space-this-month
-categories: []
+categories:
+- Personal
+- Products and Books
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

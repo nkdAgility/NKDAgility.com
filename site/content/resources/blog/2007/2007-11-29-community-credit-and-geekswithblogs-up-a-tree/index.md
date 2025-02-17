@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/community-credit-and-geekswithblogs-up-a-tree---
 - /resources/blog/community-credit-and-geekswithblogs-up-a-tree
 tags: []
-categories: []
+categories:
+- News and Reviews
 preview: metro-award-link-1-1.png
 
 ---

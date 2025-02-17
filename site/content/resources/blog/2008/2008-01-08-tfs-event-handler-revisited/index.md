@@ -21,8 +21,12 @@ aliasesFor404:
 - /tfs-event-handler-revisited
 - /blog/tfs-event-handler-revisited
 - /resources/blog/tfs-event-handler-revisited
-tags: []
-categories: []
+tags:
+- Software Development
+- Troubleshooting
+categories:
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

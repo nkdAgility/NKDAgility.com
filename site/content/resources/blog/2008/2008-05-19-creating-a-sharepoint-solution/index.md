@@ -23,7 +23,11 @@ aliasesFor404:
 - /resources/blog/creating-a-sharepoint-solution
 tags:
 - Software Development
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Technical Excellence
+- Product Delivery
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

@@ -27,7 +27,9 @@ aliasesFor404:
 - /resources/blog/windows-live-writer-beta-3-hmm
 tags:
 - Windows
-categories: []
+categories:
+- Install and Configuration
+- Products and Books
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

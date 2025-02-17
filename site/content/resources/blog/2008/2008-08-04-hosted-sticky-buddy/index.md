@@ -21,7 +21,9 @@ aliasesFor404:
 - /hosted-sticky-buddy
 - /blog/hosted-sticky-buddy
 - /resources/blog/hosted-sticky-buddy
-tags: []
+tags:
+- System Configuration
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Install and Configuration

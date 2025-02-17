@@ -29,7 +29,15 @@ aliasesFor404:
 - /hosted-tfs--and-cheap…-from-phase2
 - /blog/hosted-tfs--and-cheap…-from-phase2
 - /resources/blog/hosted-tfs-and-cheap-from-phase2
-tags: []
+tags:
+- Windows
+- Software Developers
+- System Configuration
+- Working Software
+- Software Development
+- Technical Mastery
+- Modern Source Control
+- Collaboration Tools
 preview: metro-sharepoint-128-link-2-2.png
 categories:
 - News and Reviews

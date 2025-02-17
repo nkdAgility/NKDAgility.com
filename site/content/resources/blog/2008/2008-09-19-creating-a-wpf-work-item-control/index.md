@@ -23,17 +23,12 @@ aliasesFor404:
 - /resources/blog/creating-a-wpf-work-item-control
 tags:
 - Software Development
-- Windows
-- Working Software
-- Technical Mastery
-- Azure Boards
-- Software Developers
-- Engineering Excellence
-- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Technical Excellence
+- Azure DevOps
+- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

@@ -29,6 +29,7 @@ categories:
 - Events and Presentations
 - News and Reviews
 - Technical Excellence
+- Personal
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Software Development

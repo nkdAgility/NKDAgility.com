@@ -27,7 +27,6 @@ tags:
 - Transparency
 - Collaboration Tools
 - Operational Practices
-- Pragmatic Thinking
 categories:
 - Practical Techniques and Tooling
 - Application Lifecycle Management

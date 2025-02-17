@@ -27,15 +27,13 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
 tags:
 - Software Development
-- Technical Mastery
-- Windows
-- System Configuration
-- Software Developers
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration
 - Code and Complexity
 - Practical Techniques and Tooling
+- Technical Excellence
+- Azure DevOps
 
 ---
 I have decided to have a little go at creating a Team Foundation Server Event Handler in .NET 3.5 that is resilient and scaleable. I will be using as many of the features of Team Suit as I can, but bear with me as there are a few things that are new to me.

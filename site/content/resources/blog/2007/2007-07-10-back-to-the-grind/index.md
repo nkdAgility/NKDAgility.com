@@ -21,7 +21,8 @@ aliasesFor404:
 - /back-to-the-grind
 - /blog/back-to-the-grind
 - /resources/blog/back-to-the-grind
-categories: []
+categories:
+- Personal
 preview: nakedalm-logo-128-link-2-2.png
 tags: []
 

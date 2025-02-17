@@ -25,7 +25,8 @@ aliasesFor404:
 - /presenting-aplication-lifecycle-management--precursor
 - /blog/presenting-aplication-lifecycle-management--precursor
 - /resources/blog/presenting-aplication-lifecycle-management-precursor
-tags: []
+tags:
+- Software Development
 preview: metro-aggreko-128-link-1-1.png
 categories:
 - Events and Presentations

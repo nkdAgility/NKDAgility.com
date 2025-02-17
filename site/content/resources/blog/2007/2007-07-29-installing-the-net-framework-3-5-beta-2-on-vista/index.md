@@ -27,8 +27,6 @@ aliasesFor404:
 - /resources/blog/installing-the-net-framework-3-5-beta-2-on-vista
 tags:
 - Windows
-- System Configuration
-- Troubleshooting
 categories:
 - Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png

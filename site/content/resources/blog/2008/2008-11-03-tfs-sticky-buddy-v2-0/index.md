@@ -21,9 +21,15 @@ aliasesFor404:
 - /tfs-sticky-buddy-v2-0
 - /blog/tfs-sticky-buddy-v2-0
 - /resources/blog/tfs-sticky-buddy-v2-0
-tags: []
+tags:
+- Working Software
+- Software Development
+- Technical Mastery
 preview: nakedalm-logo-128-link-2-1.png
-categories: []
+categories:
+- Code and Complexity
+- Technical Excellence
+- Application Lifecycle Management
 
 ---
 I will be working on some new features to the Sticky Buddy application. Improvements in the interface, along with a more modular structure and more diagram offering are in the mix. I have been working on some of the enhancements and their implementation in my other lesser known project [TFS Heat ITSM](http://hinshelwood.com/TFSHeatITSM.aspx)…

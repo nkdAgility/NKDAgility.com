@@ -21,7 +21,9 @@ aliasesFor404:
 - /developing-peer-to-peer-applications-with-wcf
 - /blog/developing-peer-to-peer-applications-with-wcf
 - /resources/blog/developing-peer-to-peer-applications-with-wcf
-tags: []
+tags:
+- Technical Mastery
+- Software Development
 categories:
 - Events and Presentations
 

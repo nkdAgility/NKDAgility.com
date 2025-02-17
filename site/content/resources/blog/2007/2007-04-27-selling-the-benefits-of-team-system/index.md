@@ -21,7 +21,12 @@ aliasesFor404:
 - /selling-the-benefits-of-team-system
 - /blog/selling-the-benefits-of-team-system
 - /resources/blog/selling-the-benefits-of-team-system
-tags: []
+tags:
+- System Configuration
+- Software Developers
+- Software Development
+- Team Collaboration
+- Pragmatic Thinking
 categories:
 - Products and Books
 - People and Process

@@ -21,8 +21,14 @@ aliasesFor404:
 - /access-to-team-foundation-server
 - /blog/access-to-team-foundation-server
 - /resources/blog/access-to-team-foundation-server
-tags: []
-categories: []
+tags:
+- Continuous Learning
+- Software Development
+- Troubleshooting
+- Technical Mastery
+categories:
+- Application Lifecycle Management
+- Miscellaneous
 
 ---
 With my lack of time to work with TFS at work in anything but a server maintenance and user assistance role, or even any sort of Visual Studio work, I will need to find a way to continue to access and work with Team System.

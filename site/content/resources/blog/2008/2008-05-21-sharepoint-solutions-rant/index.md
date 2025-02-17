@@ -21,7 +21,8 @@ aliasesFor404:
 - /sharepoint-solutions-rant
 - /blog/sharepoint-solutions-rant
 - /resources/blog/sharepoint-solutions-rant
-tags: []
+tags:
+- Software Development
 categories:
 - Miscellaneous
 preview: metro-sharepoint-128-link-2-1.png

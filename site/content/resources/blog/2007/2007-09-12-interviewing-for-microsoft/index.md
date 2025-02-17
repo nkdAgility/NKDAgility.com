@@ -23,7 +23,6 @@ aliasesFor404:
 - /resources/blog/interviewing-for-microsoft
 tags:
 - Continuous Learning
-- Windows
 categories:
 - Personal
 - Miscellaneous

@@ -29,9 +29,22 @@ aliasesFor404:
 - /loosing-the-battle--but-the-war-goes-on
 - /blog/loosing-the-battle--but-the-war-goes-on
 - /resources/blog/loosing-the-battle-but-the-war-goes-on
-tags: []
+tags:
+- Release Management
+- Software Development
+- Modern Source Control
+- Software Developers
+- Pragmatic Thinking
+- Collaboration Tools
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- People and Process
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Products and Books
+- Sociotechnical Systems
+- Personal
+- Miscellaneous
 
 ---
 Well in my current war to get my company to use [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server"), I am loosing the battle for Visual Studio Team System adoption. I have fought many battles, against Jira, Confluence and Subversion, but they are currently wining. I cant seam to get the Architecture & Strategy guys to get behind the project. They are sitting on the sidelines encouraging me, but with no active participation.

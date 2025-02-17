@@ -21,8 +21,12 @@ aliasesFor404:
 - /developer-joins-tfs-sticky-buddy-project
 - /blog/developer-joins-tfs-sticky-buddy-project
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
-tags: []
-categories: []
+tags:
+- Software Development
+- Team Collaboration
+categories:
+- People and Process
+- News and Reviews
 
 ---
 I was pleasantly surprised to see a lot of interest in the [Sticky Buddy project](http://blog.hinshelwood.com/archive/2008/02/05/tfs-sticky-buddy-codeplex-project.aspx). I was particularly exited when Siddharth Bhatia contacted me, but disappointed that he could not get the proof of concept versions to work.

@@ -21,9 +21,16 @@ aliasesFor404:
 - /live-framework
 - /blog/live-framework
 - /resources/blog/live-framework
-tags: []
+tags:
+- System Configuration
+- Collaboration Tools
+- Team Collaboration
+- Software Development
+- Technical Mastery
 preview: metro-cloud-azure-link-2-2.png
-categories: []
+categories:
+- Practical Techniques and Tooling
+- Azure DevOps
 
 ---
 I have been getting very interested in the new [Azure Services Platform](http://www.microsoft.com/azure/register.mspx) and how I can use it to facilitate WPF development.

@@ -21,7 +21,13 @@ aliasesFor404:
 - /team-system-web-access-finally-released
 - /blog/team-system-web-access-finally-released
 - /resources/blog/team-system-web-access-finally-released
-tags: []
+tags:
+- Release Management
+- System Configuration
+- Software Development
+- Working Software
+- Troubleshooting
+- Modern Source Control
 preview: metro-visual-studio-2005-128-link-3-3.png
 categories:
 - News and Reviews

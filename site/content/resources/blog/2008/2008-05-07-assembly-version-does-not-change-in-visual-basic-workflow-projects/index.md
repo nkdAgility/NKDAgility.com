@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
 tags:
 - Troubleshooting
-categories: []
+categories:
+- Install and Configuration
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

@@ -21,7 +21,8 @@ aliasesFor404:
 - /delving-into-sharepoint-3-0
 - /blog/delving-into-sharepoint-3-0
 - /resources/blog/delving-into-sharepoint-3-0
-tags: []
+tags:
+- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Miscellaneous

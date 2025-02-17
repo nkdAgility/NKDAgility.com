@@ -21,7 +21,8 @@ aliasesFor404:
 - /development-and-database-combined
 - /blog/development-and-database-combined
 - /resources/blog/development-and-database-combined
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - News and Reviews

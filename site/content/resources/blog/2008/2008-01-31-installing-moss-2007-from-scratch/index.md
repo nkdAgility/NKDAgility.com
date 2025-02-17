@@ -28,7 +28,6 @@ tags:
 - Technical Mastery
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-7-7.png
 
 ---

@@ -27,7 +27,6 @@ tags:
 categories:
 - Products and Books
 - Miscellaneous
-- Personal
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

@@ -24,7 +24,11 @@ aliasesFor404:
 tags:
 - Software Development
 - Frequent Releases
-categories: []
+categories:
+- Install and Configuration
+- News and Reviews
+- Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-4-1.png
 
 ---

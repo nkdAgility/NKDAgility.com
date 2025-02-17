@@ -25,7 +25,12 @@ aliasesFor404:
 - /blogging-about---
 - /blog/blogging-about---
 - /resources/blog/blogging-about
-tags: []
+tags:
+- Software Development
+- System Configuration
+- Continuous Learning
+- Technical Mastery
+- Software Developers
 categories:
 - Miscellaneous
 - Personal

@@ -21,7 +21,13 @@ aliasesFor404:
 - /microsoft-does-indeed-listen
 - /blog/microsoft-does-indeed-listen
 - /resources/blog/microsoft-does-indeed-listen
-tags: []
+tags:
+- Software Development
+- Market Share
+- Windows
+- Customer Feedback Loops
+- Software Developers
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - News and Reviews

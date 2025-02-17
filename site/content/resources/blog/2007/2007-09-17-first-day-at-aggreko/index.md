@@ -21,7 +21,12 @@ aliasesFor404:
 - /first-day-at-aggreko
 - /blog/first-day-at-aggreko
 - /resources/blog/first-day-at-aggreko
-tags: []
+tags:
+- System Configuration
+- Digital Transformation
+- Technical Mastery
+- Deployment Strategies
+- Collaboration Tools
 categories:
 - Miscellaneous
 preview: metro-aggreko-128-link-1-1.png

@@ -25,7 +25,13 @@ aliasesFor404:
 - /event--msdn--sharepoint-for-developers-(edinburgh)
 - /blog/event--msdn--sharepoint-for-developers-(edinburgh)
 - /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
-tags: []
+tags:
+- Windows
+- Software Developers
+- Continuous Learning
+- Software Development
+- Technical Mastery
+- Collaboration Tools
 categories:
 - Events and Presentations
 - News and Reviews

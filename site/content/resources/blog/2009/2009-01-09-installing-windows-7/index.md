@@ -23,7 +23,6 @@ aliasesFor404:
 - /resources/blog/installing-windows-7
 tags:
 - Windows
-- System Configuration
 preview: nakedalm-logo-128-link-18-18.png
 categories:
 - Install and Configuration

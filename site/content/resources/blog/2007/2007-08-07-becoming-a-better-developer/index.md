@@ -25,7 +25,13 @@ aliasesFor404:
 - /becoming-a-better-developer---
 - /blog/becoming-a-better-developer---
 - /resources/blog/becoming-a-better-developer
-tags: []
+tags:
+- Software Development
+- Software Developers
+- Continuous Learning
+- Technical Mastery
+- Modern Source Control
+- Engineering Excellence
 categories:
 - Miscellaneous
 - Personal

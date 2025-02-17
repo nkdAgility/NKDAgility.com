@@ -21,7 +21,10 @@ aliasesFor404:
 - /application-owner
 - /blog/application-owner
 - /resources/blog/application-owner
-tags: []
+tags:
+- Troubleshooting
+- Pragmatic Thinking
+- Operational Practices
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Application Lifecycle Management

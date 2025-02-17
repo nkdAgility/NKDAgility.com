@@ -21,7 +21,8 @@ aliasesFor404:
 - /cool-new-feature-in-ie8
 - /blog/cool-new-feature-in-ie8
 - /resources/blog/cool-new-feature-in-ie8
-tags: []
+tags:
+- Windows
 preview: nakedalm-logo-128-link-2-2.png
 categories: []
 

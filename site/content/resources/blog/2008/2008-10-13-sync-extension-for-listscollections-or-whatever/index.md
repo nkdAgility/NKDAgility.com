@@ -28,7 +28,10 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-categories: []
+categories:
+- Code and Complexity
+- Practical Techniques and Tooling
+- Technical Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

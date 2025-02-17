@@ -21,8 +21,12 @@ aliasesFor404:
 - /tfs-event-handler-gets-3-stars-from-accentient
 - /blog/tfs-event-handler-gets-3-stars-from-accentient
 - /resources/blog/tfs-event-handler-gets-3-stars-from-accentient
-tags: []
-categories: []
+tags:
+- Software Development
+categories:
+- Personal
+- News and Reviews
+- Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

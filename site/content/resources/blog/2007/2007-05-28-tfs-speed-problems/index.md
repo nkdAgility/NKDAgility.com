@@ -22,7 +22,13 @@ aliasesFor404:
 - /blog/tfs-speed-problems
 - /resources/blog/tfs-speed-problems
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+- Flow Efficiency
+- Technical Excellence
+- Azure DevOps
+- Application Lifecycle Management
 tags:
 - Troubleshooting
 

@@ -25,7 +25,9 @@ aliasesFor404:
 - /why-i-think-vb-net-is-a-better-choice-than-c-
 - /blog/why-i-think-vb-net-is-a-better-choice-than-c-
 - /resources/blog/why-i-think-vb-net-is-a-better-choice-than-c
-tags: []
+tags:
+- Software Development
+- Technical Mastery
 categories:
 - Personal
 preview: nakedalm-logo-128-link-1-1.png
