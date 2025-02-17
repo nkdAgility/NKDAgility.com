@@ -31,31 +31,33 @@ sitemap:
   priority: 0.6
 tags:
 - Team Motivation
+- Scrum
 - Scrum Product Development
-- Scrum Team
 - People and Process
 - Scrum Master
-- Team Collaboration
-- Team Performance
+- Scrum Team
 - Agile Frameworks
+- Team Performance
 - Agile Project Management
+- Team Collaboration
+- Software Development
+- Pragmatic Thinking
 - Employee Engagement
 - Coaching
-- Pragmatic Thinking
-- Software Development
 - Agile Leadership
 - Agile Product Management
-- Agile Planning
-- Agile Transformation
 - Value Delivery
+- Agile Transformation
+- Agile Planning
 - Professional Scrum
-- Personal
 - Organisational Psychology
+- Personal
 - Software Developers
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
+- Leadership
 
 ---
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 

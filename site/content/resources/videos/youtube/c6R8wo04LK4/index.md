@@ -25,10 +25,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Agile Frameworks
+- Agile Project Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Debunking the "Magic" Myth

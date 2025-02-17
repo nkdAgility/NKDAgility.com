@@ -27,10 +27,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Owner
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Leadership
 
 ---
 ## Stepping Up Your Game as a Product Owner

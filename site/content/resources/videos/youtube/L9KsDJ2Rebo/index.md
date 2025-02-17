@@ -21,14 +21,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false
-tags: []
+tags:
+- People and Process
+- Continuous Learning
+- Pragmatic Thinking
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 When it comes to learning, especially in the realm of Agile and Scrum, I've often found that the traditional approach of cramming information into a couple of days can be less effective than we might hope. Reflecting on my experiences, I’ve come to appreciate the value of spreading learning over a longer period, allowing for deeper engagement and practical application.

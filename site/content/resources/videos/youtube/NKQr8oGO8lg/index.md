@@ -21,7 +21,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: false
-tags: []
+tags:
+- Discovery and Learning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

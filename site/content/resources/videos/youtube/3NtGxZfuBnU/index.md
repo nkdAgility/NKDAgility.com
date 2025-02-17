@@ -32,7 +32,9 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Social Technologies
+- Leadership
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

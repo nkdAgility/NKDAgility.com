@@ -32,8 +32,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
-- Engineering Excellence
+- Social Technologies
 
 ---
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 

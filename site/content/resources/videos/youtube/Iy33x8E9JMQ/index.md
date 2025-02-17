@@ -27,10 +27,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Pragmatic Thinking
+- People and Process
+- Miscellaneous
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

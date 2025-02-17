@@ -34,7 +34,8 @@ tags:
 - Agile Leadership
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 ## Power of Passion

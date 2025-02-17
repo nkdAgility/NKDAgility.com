@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Professional Scrum
 - Agile Frameworks
@@ -44,7 +45,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Scrum's True Potential: A Journey Through the APS Immersive Class

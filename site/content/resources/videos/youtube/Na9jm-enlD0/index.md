@@ -47,7 +47,9 @@ tags:
 resourceTypes:
 - video
 categories:
+- Leadership
 - Product Management
+- Social Technologies
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

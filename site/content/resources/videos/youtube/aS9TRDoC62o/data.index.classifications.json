@@ -1312,5 +1312,68 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and DevOps practices without addressing psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T19:11:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of DevOps with Agile practices and technical aspects of software delivery, rather than focusing on leadership strategies or practices.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T19:11:20",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile practices and their relationship with DevOps, indicating a major but secondary theme related to the category of Social Technologies.",
+    "level": "Tertiary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T19:11:22",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the integration of DevOps within Agile practices, highlighting the importance of balancing technical capabilities and market responsiveness, which aligns with the principles of the Agile Product Operating Model. However, the primary focus is on DevOps rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "level": "Tertiary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T19:11:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of DevOps within Agile practices, focusing on engineering excellence and market responsiveness, rather than the principles of BetaCodex or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T19:11:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile and DevOps practices without a direct connection to platform engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T19:11:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the relationship between Agile and DevOps, without a clear focus on the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T19:11:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses DevOps in relation to Agile practices, with only a brief mention of Scrum at the end, making Scrum not central to the discussion.",
+    "level": "Ignored"
   }
 }

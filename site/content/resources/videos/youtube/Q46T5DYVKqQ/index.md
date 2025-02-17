@@ -21,14 +21,21 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
-tags: []
+tags:
+- Discovery and Learning
+- Metrics and Learning
+- Decision Making
+- Experimentation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
+- Product Management
 
 ---
 Empiricism is an interesting beast, isn’t it? At its core, empiricism is the idea that all knowledge stems from observable data. This principle is the foundation of science, and it has found a comfortable home within the agile way of working, as well as in various other business methodologies. 

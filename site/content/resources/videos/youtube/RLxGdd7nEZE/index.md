@@ -38,7 +38,9 @@ tags:
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Product Management
+- Leadership
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

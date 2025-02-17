@@ -33,10 +33,11 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
+- Scrum
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 ## The APS Advantage: Exploring Professional Scrum Mastery

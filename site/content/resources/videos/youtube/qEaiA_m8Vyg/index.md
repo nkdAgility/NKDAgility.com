@@ -37,7 +37,9 @@ tags:
 - Coaching
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
+- Leadership
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

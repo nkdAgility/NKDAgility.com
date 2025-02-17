@@ -25,7 +25,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Discovery and Learning
+- Continuous Learning
+- Customer Retention
+- Employee Engagement
+- Mentoring
+- Coaching
 resourceTypes:
 - video
 categories: []

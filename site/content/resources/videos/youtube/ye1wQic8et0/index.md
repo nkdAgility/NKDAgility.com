@@ -21,14 +21,32 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
-tags: []
+tags:
+- People and Process
+- Market Adaptability
+- Decision Making
+- Agile Philosophy
+- Lead Time
+- Business Agility
+- Agile Strategy
+- Enterprise Agility
+- Flow Efficiency
+- Operational Practices
+- Sociotechnical Systems
+- Pragmatic Thinking
+- Value Delivery
+- Organisational Agility
+- Entrepreneurship
+- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
 
 ---
 In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce time to market. Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.

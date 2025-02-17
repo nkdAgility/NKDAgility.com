@@ -28,6 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Scrum Team
 - Scrum Product Development
@@ -44,7 +45,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

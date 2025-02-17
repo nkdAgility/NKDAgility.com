@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Backlog
+- Agile Product Management
+- Product Owner
+- Scrum Product Development
+- Agile Project Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 ## The Order of Product Backlogs

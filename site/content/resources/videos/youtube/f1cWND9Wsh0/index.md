@@ -25,10 +25,18 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- Agile Frameworks
+- People and Process
+- Agile Project Management
+- Agile Transformation
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Debunking the Lego Approach 

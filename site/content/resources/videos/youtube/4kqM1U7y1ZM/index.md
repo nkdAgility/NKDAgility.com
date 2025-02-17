@@ -20,7 +20,38 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false
-tags: []
+tags:
+- Scrum
+- Product Delivery
+- Value Delivery
+- Continuous Delivery
+- Scrum Team
+- Scrum Product Development
+- Agile Product Management
+- Team Performance
+- People and Process
+- Organisational Agility
+- Technical Leadership
+- Scrum Master
+- Working Software
+- Team Collaboration
+- Self Organisation
+- Coaching
+- Pragmatic Thinking
+- Software Development
+- Agile Frameworks
+- Operational Practices
+- Software Developers
+- Agile Strategy
+- Agile Planning
+- Strategy
+- Agile Project Management
+- Sociotechnical Systems
+- Agile Transformation
+- Metrics and Learning
+- Discovery and Learning
+- Continuous Learning
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +59,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 When I embark on the journey of working with a new Scrum team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates. 

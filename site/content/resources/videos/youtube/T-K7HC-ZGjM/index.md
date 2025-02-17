@@ -28,21 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scrum Product Development
-- Professional Scrum
-- Product Delivery
-- Agile Product Management
-- Agile Frameworks
-- Agile Project Management
-- Agile Planning
-- Pragmatic Thinking
-- Software Development
-- Software Developers
+- Scrum
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 ## Interpreting the Sprint Backlog

@@ -41,7 +41,8 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Social Technologies
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  

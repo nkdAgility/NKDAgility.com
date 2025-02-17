@@ -20,7 +20,24 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 isShort: false
-tags: []
+tags:
+- People and Process
+- Agile Frameworks
+- Organisational Agility
+- Agile Transformation
+- Agile Philosophy
+- Agile Strategy
+- Organisational Change
+- Pragmatic Thinking
+- Continuous Learning
+- Business Agility
+- Discovery and Learning
+- Enterprise Agility
+- Value Delivery
+- Agile Project Management
+- Scaling Agility
+- Change Management
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +45,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 When I think about Agile Consulting, I often find that it’s a term that can leave people scratching their heads. What does it really mean? Over the years, I’ve developed my own approach to Agile Consulting, and I’d like to share some insights from my experiences that might help clarify this nebulous concept.

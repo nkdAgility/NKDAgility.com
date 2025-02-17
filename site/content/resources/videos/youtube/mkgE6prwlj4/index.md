@@ -29,10 +29,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Engineering Excellence
+- Social Technologies
 
 ---
 ## Spotlight on Outstanding Scrum Application

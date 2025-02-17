@@ -35,7 +35,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- DevOps
+- Social Technologies
 
 ---
 ## Synergy Between Consulting and Training

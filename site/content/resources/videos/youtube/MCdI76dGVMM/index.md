@@ -29,10 +29,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- Scrum Master
+- People and Process
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Navigating the Journey to Professionalism in the Agile World

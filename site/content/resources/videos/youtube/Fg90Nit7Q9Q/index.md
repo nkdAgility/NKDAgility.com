@@ -25,10 +25,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Working Software
+- Software Development
+- Software Developers
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
+- People and Process
+- Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Bridging DevOps & Software Engineering Through Scrum! 🔥

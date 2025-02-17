@@ -22,13 +22,16 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/omsEiYqX-Dk/maxresdefault.jpg
 duration: 242
 isShort: false
-tags: []
+tags:
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
+- Social Technologies
 
 ---
 Organisational agility is not just a buzzword; it’s a competitive advantage that can make or break a business in today’s fast-paced market. I’ve seen firsthand how many agile transformations stumble because organisations mistakenly place agile itself at the centre of their focus, rather than using it as a tool to achieve a vital outcome: the ability to respond swiftly to market changes.

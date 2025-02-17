@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Agile Frameworks
 - Scrum Master
@@ -46,7 +47,8 @@ tags:
 - Agile Product Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

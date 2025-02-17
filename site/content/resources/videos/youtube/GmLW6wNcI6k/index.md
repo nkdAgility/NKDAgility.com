@@ -45,6 +45,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Social Technologies
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

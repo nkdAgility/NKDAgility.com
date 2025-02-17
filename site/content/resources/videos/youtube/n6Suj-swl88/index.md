@@ -23,14 +23,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false
-tags: []
+tags:
+- Scrum
+- Agile Product Management
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
 
 ---
 The Sprint Review: Who Should Lead and Why It Matters

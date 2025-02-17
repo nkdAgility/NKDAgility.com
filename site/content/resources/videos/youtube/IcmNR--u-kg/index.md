@@ -22,13 +22,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false
-tags: []
+tags:
+- People and Process
+- Discovery and Learning
+- Continuous Learning
+- Coaching
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Social Technologies
 
 ---
 When it comes to enhancing entry-level capabilities in the workplace, I’ve found that immersive learning experiences truly change the game. In my experience, traditional training methods often fall short. We typically find ourselves in a two-day training class, inundated with theory that feels disconnected from the realities of our jobs. This approach can lead to what I call "single loop learning," where participants absorb content but struggle to apply it effectively in their day-to-day roles.

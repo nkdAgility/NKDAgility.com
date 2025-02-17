@@ -25,10 +25,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Agile Project Management
+- Agile Transformation
+- Agile Strategy
+- Product Delivery
+- Miscellaneous
+- Pragmatic Thinking
+- Software Development
+- Business Agility
+- Organisational Agility
+- Organisational Change
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Why Both Are Hard-Hitting but in Different Ways

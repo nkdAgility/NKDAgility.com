@@ -27,10 +27,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- Scrum Team
+- Scrum Product Development
+- Professional Scrum
+- People and Process
+- Agile Product Management
+- Agile Frameworks
+- Agile Project Management
+- Agile Planning
+- Software Development
+- Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## The Art of Sprint Goal Creation

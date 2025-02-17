@@ -27,10 +27,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 ## It's All About Direction

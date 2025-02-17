@@ -16,8 +16,20 @@ aliases:
 aliasesFor404:
 - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-categories: []
-tags: []
+categories:
+- Social Technologies
+tags:
+- Agile Transformation
+- Discovery and Learning
+- Continuous Learning
+- Agile Frameworks
+- People and Process
+- Agile Project Management
+- Events and Presentations
+- Organisational Agility
+- Agile Strategy
+- Pragmatic Thinking
+- Software Development
 
 ---
 Dear NKD Agilists!

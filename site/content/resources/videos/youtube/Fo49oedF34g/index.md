@@ -23,13 +23,25 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
-tags: []
+tags:
+- Coaching
+- Scrum
+- People and Process
+- Organisational Agility
+- Agile Frameworks
+- Product Delivery
+- Agile Project Management
+- Agile Transformation
+- Team Collaboration
+- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?

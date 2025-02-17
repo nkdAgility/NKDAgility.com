@@ -21,14 +21,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false
-tags: []
+tags:
+- Software Development
+- Software Developers
+- People and Process
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
 
 ---
 When I think about DevOps, I often find myself reflecting on the misconceptions that surround it. As someone who has been a Microsoft MVP in Azure DevOps for 14 years, I’ve seen firsthand how the term "DevOps" can be misinterpreted. Many people, when they mention DevOps in my presence, are actually referring to Azure DevOps—the tools that come with it. But let me be clear: the tool is not the value. The tool is merely a means to surface or leverage the value that comes from the underlying idea of DevOps.

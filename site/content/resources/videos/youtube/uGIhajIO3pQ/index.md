@@ -32,7 +32,8 @@ tags:
 - News and Reviews
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

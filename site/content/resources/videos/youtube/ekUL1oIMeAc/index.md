@@ -27,10 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Owner
+- People and Process
+- Agile Product Management
+- Scrum Team
+- Agile Project Management
+- Personal
+- Scrum
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
+- Leadership
 
 ---
 ## Product Owner's Misstep

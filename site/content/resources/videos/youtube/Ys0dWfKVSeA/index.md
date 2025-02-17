@@ -31,20 +31,21 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Scrum
 - Agile Product Management
 - Team Collaboration
 - Value Delivery
+- Agile Frameworks
 - Software Development
-- Agile Transformation
 - Organisational Agility
 - Agile Project Management
-- Agile Frameworks
+- Agile Transformation
 - Empirical Process Control
 - Pragmatic Thinking
 - Scrum Product Development
 - Agile Planning
-- Product Delivery
 - Software Developers
+- Product Delivery
 - Organisational Culture
 - Professional Scrum
 - Personal
@@ -52,9 +53,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- DevOps
-- Product Management
-- Engineering Excellence
+- Social Technologies
 
 ---
 ## Reflecting on Scrum's Mirror  

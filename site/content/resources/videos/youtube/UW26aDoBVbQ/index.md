@@ -21,14 +21,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 isShort: true
-tags: []
+tags:
+- Lean Product Development
+- Product Delivery
+- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 In our recent lean product development and product owner workshop, I found myself reflecting on the current landscape of product ownership and its critical role in shaping the future of organisations. It’s fascinating to see how the conversation around product ownership has evolved, and I want to share some insights from our discussions that I believe are vital for anyone involved in product delivery.

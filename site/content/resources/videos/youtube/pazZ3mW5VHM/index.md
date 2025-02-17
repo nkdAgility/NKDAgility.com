@@ -31,10 +31,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 ## Common Comments from the PSPO Course

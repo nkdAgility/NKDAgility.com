@@ -39,7 +39,9 @@ tags:
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
+- Leadership
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

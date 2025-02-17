@@ -27,10 +27,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Coaching
+- Technical Leadership
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Agile Coach vs. Professional Coach

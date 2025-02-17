@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Scrum Master
 - Agile Leadership
@@ -40,7 +41,9 @@ tags:
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Leadership
+- Social Technologies
 
 ---
 ## Ascending the Leadership Ladder

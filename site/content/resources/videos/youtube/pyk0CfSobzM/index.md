@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Estimation
+- Scrum
 - Scrum Team
 - Scrum Product Development
 - Professional Scrum
@@ -45,7 +46,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams

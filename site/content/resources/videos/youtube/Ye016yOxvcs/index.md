@@ -29,10 +29,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## The Journey to Understanding

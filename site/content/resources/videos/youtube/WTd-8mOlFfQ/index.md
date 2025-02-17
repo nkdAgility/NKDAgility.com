@@ -31,10 +31,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- Scrum Master
+- Scrum Team
+- People and Process
+- Agile Project Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2

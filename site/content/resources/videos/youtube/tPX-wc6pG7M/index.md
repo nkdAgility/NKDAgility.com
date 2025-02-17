@@ -21,14 +21,38 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: false
-tags: []
+tags:
+- People and Process
+- Agile Values and Principles
+- Organisational Change
+- Value Delivery
+- Agile Leadership
+- Agile Philosophy
+- Organisational Agility
+- Employee Engagement
+- Agile Transformation
+- Organisational Culture
+- Agile Strategy
+- Organisational Psychology
+- Self Organisation
+- Beta Codex
+- Sociotechnical Systems
+- Team Motivation
+- Business Agility
+- Agile Product Operating Model
+- Organisational Physics
+- Change Management
+- Pragmatic Thinking
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
+- Social Technologies
 
 ---
 In my journey through the world of agile and organisational effectiveness, I've often found myself pondering a critical question: If even large organisations struggle to deliver value and determine which products to build, what hope do smaller organisations have? With tighter budgets and fewer hands on deck, the challenge can seem insurmountable. However, I firmly believe that the issue isn't about scale; it's about engagement.

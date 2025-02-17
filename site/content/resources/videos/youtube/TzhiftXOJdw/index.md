@@ -32,16 +32,17 @@ tags:
 - Business Agility
 - Organisational Change
 - Agile Philosophy
-- Market Adaptability
 - Agile Strategy
 - Change Management
+- Market Adaptability
 - Enterprise Agility
 - Agile Transformation
 - Organisational Agility
-- Organisational Physics
+- Sociotechnical Systems
 - Organisational Culture
 - Pragmatic Thinking
-- Sociotechnical Systems
+- Beta Codex
+- Organisational Physics
 - Resilience and Change
 - Agile Values and Principles
 - Scaling Agility
@@ -53,8 +54,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- DevOps
-- Product Management
+- Social Technologies
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

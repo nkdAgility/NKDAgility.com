@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
+- Scrum
 - People and Process
 - Scrum Master
 - Scrum Team
@@ -46,7 +47,9 @@ tags:
 - Agile Leadership
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
+- Leadership
 
 ---
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 

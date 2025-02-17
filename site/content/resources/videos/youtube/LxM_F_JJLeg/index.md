@@ -21,14 +21,35 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false
-tags: []
+tags:
+- People and Process
+- Agile Project Management
+- Agile Values and Principles
+- Team Collaboration
+- Team Performance
+- Agile Philosophy
+- Organisational Culture
+- Change Management
+- Software Developers
+- Agile Transformation
+- Organisational Agility
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Complexity Thinking
+- Organisational Physics
+- Systems Thinking
+- Personal
+- Metrics and Learning
+- Organisational Change
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, Scrum Master, or product owner.

@@ -24,11 +24,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Value Delivery
+- Software Development
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- DevOps
 
 ---
 ## Game-Changer in Software Engineering!

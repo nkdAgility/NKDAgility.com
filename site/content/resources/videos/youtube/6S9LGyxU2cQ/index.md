@@ -20,7 +20,34 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: false
-tags: []
+tags:
+- Coaching
+- Team Performance
+- Continuous Learning
+- People and Process
+- Discovery and Learning
+- Team Collaboration
+- Customer Feedback Loops
+- Organisational Agility
+- Agile Transformation
+- Agile Frameworks
+- Pragmatic Thinking
+- Software Development
+- Agile Project Management
+- Empirical Process Control
+- Software Developers
+- Scrum
+- Scrum Team
+- Metrics and Learning
+- Scrum Product Development
+- Value Delivery
+- Agile Product Management
+- Mentoring
+- Market Adaptability
+- Agile Planning
+- Technical Leadership
+- Product Delivery
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +55,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on Scrum coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.

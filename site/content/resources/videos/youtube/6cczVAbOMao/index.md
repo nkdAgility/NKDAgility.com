@@ -33,6 +33,7 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 ## The Pivotal Role of a Product Owner in Cultivating a Stellar Product Backlog

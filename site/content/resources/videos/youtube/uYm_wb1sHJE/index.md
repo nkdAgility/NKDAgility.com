@@ -30,30 +30,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
+- Events and Presentations
 - Sprint Review
 - Agile Product Management
-- Events and Presentations
+- Agile Project Management
 - Scrum Product Development
 - Product Delivery
 - People and Process
-- Agile Project Management
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
 - Scrum Master
+- Pragmatic Thinking
+- Software Development
 - Agile Frameworks
+- Professional Scrum
 - Practical Techniques and Tooling
 - Scrum Team
 - Team Collaboration
 - Customer Feedback Loops
 - Team Performance
 - Agile Planning
-- Working Software
 - Value Delivery
+- Working Software
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 ## 🚀 Demystifying the Sprint Review Workshop 

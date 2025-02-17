@@ -44,6 +44,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - DevOps
 - Engineering Excellence
 

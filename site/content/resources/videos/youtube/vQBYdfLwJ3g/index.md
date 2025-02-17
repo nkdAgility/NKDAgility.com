@@ -21,14 +21,34 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 isShort: false
-tags: []
+tags:
+- People and Process
+- Product Owner
+- Agile Product Management
+- Agile Product Operating Model
+- Discovery and Learning
+- Agile Frameworks
+- Continuous Learning
+- Events and Presentations
+- Agile Project Management
+- Organisational Agility
+- Pragmatic Thinking
+- Team Collaboration
+- Scrum
+- Agile Leadership
+- Agile Transformation
+- Agile Strategy
+- Sociotechnical Systems
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
 
 ---
 As I reflect on the immersive learning experience of the Product Owner (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 
