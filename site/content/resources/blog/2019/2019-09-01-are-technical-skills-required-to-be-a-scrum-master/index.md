@@ -28,21 +28,25 @@ aliasesFor404:
 tags:
 - Coaching
 - Scrum Product Development
-- Team Performance
-- Technical Mastery
-- Software Development
 - Professional Scrum
+- Technical Mastery
 - Scrum Master
 - Scrum Team
+- Team Performance
+- Software Development
 - Technical Leadership
-- Agile Project Management
+- Agile Product Management
+- Value Delivery
 - Agile Leadership
 - Pragmatic Thinking
 - Agile Transformation
 - Agile Frameworks
-- Engineering Practices
+- Agile Project Management
 - Organisational Change
+- Engineering Practices
+- Product Delivery
 - Mentoring
+- Sociotechnical Systems
 categories:
 - Scrum
 preview: 1029723898-1-1.jpg

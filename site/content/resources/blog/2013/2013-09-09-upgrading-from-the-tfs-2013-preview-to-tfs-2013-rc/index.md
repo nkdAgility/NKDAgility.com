@@ -22,14 +22,12 @@ aliasesFor404:
 - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
-- Windows
-- System Configuration
-- Software Development
-- Technical Mastery
-- Release Management
-- Pragmatic Thinking
-categories:
 - Install and Configuration
+categories:
+- News and Reviews
+- Engineering Excellence
+- Technical Excellence
+- DevOps
 
 ---
 With the [TFS 2013 RC](http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/) being made available I need to upgrade one of my main customers from the TFS 2013 Preview.

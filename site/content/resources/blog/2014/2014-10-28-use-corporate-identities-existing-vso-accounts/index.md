@@ -27,12 +27,13 @@ aliasesFor404:
 - /resources/blog/use-corporate-identities-existing-vso-accounts
 tags:
 - Windows
-- System Configuration
-- Troubleshooting
-categories:
 - Install and Configuration
+- System Configuration
 - Azure DevOps
 - Practical Techniques and Tooling
+- Troubleshooting
+categories:
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

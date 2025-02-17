@@ -28,19 +28,20 @@ aliasesFor404:
 tags:
 - Agile Values and Principles
 - Professional Scrum
-- Scrum Values
 - Scaling Scrum
-- Agile Frameworks
-- Agile Transformation
-- Agile Project Management
+- Scrum Values
+- Agile Product Management
 - Software Developers
 - Software Development
+- Agile Project Management
+- Agile Transformation
+- Agile Frameworks
 - Team Performance
 - Pragmatic Thinking
 categories:
 - Scrum
 - People and Process
-- Agile Product Management
+- Social Technologies
 preview: clip_image001-1-1.png
 
 ---

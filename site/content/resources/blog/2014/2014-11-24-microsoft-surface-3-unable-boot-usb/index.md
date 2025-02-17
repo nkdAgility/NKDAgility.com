@@ -29,8 +29,9 @@ tags:
 - Windows
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Events and Presentations
+- Personal
+- Technical Excellence
 preview: nakedalm-windows-logo-5-5.png
 
 ---

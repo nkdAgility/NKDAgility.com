@@ -30,6 +30,7 @@ tags:
 - Software Development
 categories:
 - Scrum
+- Social Technologies
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

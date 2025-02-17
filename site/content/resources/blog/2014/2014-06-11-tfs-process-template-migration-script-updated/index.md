@@ -24,17 +24,17 @@ aliasesFor404:
 tags:
 - System Configuration
 - Operational Practices
-- Software Development
-- Pragmatic Thinking
-- Technical Mastery
-- Troubleshooting
-- Agile Frameworks
-- Software Developers
-categories:
 - Install and Configuration
+- Software Development
 - Application Lifecycle Management
 - Practical Techniques and Tooling
+- Technical Mastery
 - Azure DevOps
+- Troubleshooting
+- Pragmatic Thinking
+- Software Developers
+- Agile Frameworks
+categories:
 - Technical Excellence
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

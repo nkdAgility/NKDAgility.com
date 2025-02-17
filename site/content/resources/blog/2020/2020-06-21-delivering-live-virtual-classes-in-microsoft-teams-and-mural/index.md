@@ -26,36 +26,37 @@ categories:
 - Scrum
 - Events and Presentations
 - Discovery and Learning
-- Practical Techniques and Tooling
-- Products and Books
-- Organisational Agility
-- Sociotechnical Systems
+- Social Technologies
 preview: class-colage-2-8-8.jpg
 tags:
 - Team Collaboration
 - Agile Values and Principles
-- Scrum Values
-- Scrum Product Development
-- Collaboration Tools
-- Scrum Team
 - Professional Scrum
+- Scrum Team
+- Scrum Product Development
+- Scrum Values
+- Collaboration Tools
 - Agile Project Management
-- Team Performance
-- Self Organisation
-- Agile Leadership
-- Team Motivation
-- Agile Frameworks
 - Remote Working
+- Team Motivation
 - Agile Transformation
-- Pragmatic Thinking
+- Agile Leadership
+- Team Performance
+- Practical Techniques and Tooling
+- Products and Books
+- Agile Frameworks
+- Self Organisation
+- Organisational Agility
+- Sociotechnical Systems
 - Software Development
-- Psychological Safety
+- Pragmatic Thinking
 - Accountability
+- Psychological Safety
 - Working Agreements
 - Agile Philosophy
 - Scrum Master
-- Continuous Learning
 - Cross Functional Teams
+- Continuous Learning
 - Operational Practices
 - Coaching
 

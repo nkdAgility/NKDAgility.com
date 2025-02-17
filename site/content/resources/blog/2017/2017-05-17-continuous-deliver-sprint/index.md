@@ -34,10 +34,7 @@ tags:
 categories:
 - Scrum
 - People and Process
-- Value Delivery
-- Practical Techniques and Tooling
-- Product Delivery
-- Agile Product Management
+- Social Technologies
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

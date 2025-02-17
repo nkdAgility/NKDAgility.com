@@ -27,8 +27,10 @@ aliasesFor404:
 - /resources/blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 tags:
 - Windows
-categories:
 - Install and Configuration
+categories:
+- Technical Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

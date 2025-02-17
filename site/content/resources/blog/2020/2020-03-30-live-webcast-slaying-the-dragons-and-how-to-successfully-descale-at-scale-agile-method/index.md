@@ -26,29 +26,9 @@ aliasesFor404:
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 tags:
-- Agile Values and Principles
-- Scaled Agile
-- Change Management
-- Agile Frameworks
-- Large Scale Agility
-- Agile Project Management
-- Agile Transformation
-- Agile Leadership
-- Agile Strategy
-- Organisational Change
-- Agile Philosophy
-- Scaling Agility
-- Strategy
-- Strategic Goals
-- Entrepreneurship
-- Software Development
-- Pragmatic Thinking
-- Digital Transformation
-- Organisational Culture
-- Organisational Physics
+- Organisational Agility
 categories:
 - Events and Presentations
-- Organisational Agility
 preview: 2020-03-27_21-36-13-1-1.jpg
 
 ---

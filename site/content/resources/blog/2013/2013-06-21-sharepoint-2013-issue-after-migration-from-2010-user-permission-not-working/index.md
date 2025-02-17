@@ -30,8 +30,6 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Technical Excellence
 preview: metro-sharepoint-128-link-1-1.png
 

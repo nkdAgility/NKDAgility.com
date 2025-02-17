@@ -22,12 +22,14 @@ aliasesFor404:
 - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
+- Install and Configuration
 - System Configuration
+- Products and Books
+- Practical Techniques and Tooling
 - Technical Mastery
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Products and Books
+- News and Reviews
+- Technical Excellence
 preview: metro-pagelines-11-11.png
 
 ---

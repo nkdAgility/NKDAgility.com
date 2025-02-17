@@ -30,8 +30,9 @@ aliasesFor404:
 tags:
 - Technical Mastery
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Engineering Excellence
+- Technical Excellence
+- DevOps
 preview: metro-powershell-logo-1-1.png
 
 ---

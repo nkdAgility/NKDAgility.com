@@ -28,16 +28,16 @@ aliasesFor404:
 tags:
 - Windows
 - Release Management
+- Application Lifecycle Management
 - System Configuration
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Azure Pipelines
 - Technical Mastery
+- Azure DevOps
 - Troubleshooting
 - Software Development
-- Azure Pipelines
+- Pragmatic Thinking
 categories:
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- Azure DevOps
 - Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

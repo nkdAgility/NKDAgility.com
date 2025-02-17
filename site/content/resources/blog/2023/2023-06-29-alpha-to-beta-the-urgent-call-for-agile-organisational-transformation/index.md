@@ -29,15 +29,9 @@ aliasesFor404:
 tags:
 - Organisational Change
 categories:
-- Business Agility
-- Organisational Agility
-- Enterprise Agility
 - People and Process
-- Resilience and Change
-- Market Adaptability
-- Beta Codex
-- Sociotechnical Systems
-- Complexity Thinking
+- Social Technologies
+- Leadership
 preview: 1686217267121-1-1-1.jpg
 
 ---

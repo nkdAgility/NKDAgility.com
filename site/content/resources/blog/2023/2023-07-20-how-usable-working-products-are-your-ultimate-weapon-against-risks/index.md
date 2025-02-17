@@ -24,39 +24,40 @@ aliasesFor404:
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
 - Increment
-- Engineering Practices
-- Customer Feedback Loops
-- Working Software
 - Software Development
-- Engineering Excellence
-- Software Developers
+- Engineering Practices
 - Agile Strategy
-- Agile Planning
-- Agile Transformation
-- Operational Practices
-- Agile Project Management
+- Agile Product Management
+- Customer Feedback Loops
+- Software Developers
+- Working Software
+- Agile Product Operating Model
+- Product Delivery
 - Agile Philosophy
+- Agile Project Management
+- Agile Transformation
+- Value Delivery
+- Market Adaptability
+- Agile Planning
+- Operational Practices
+- Organisational Agility
 - Pragmatic Thinking
 - Frequent Releases
 - Lean Product Development
-- Agile Values and Principles
 - Scrum Product Development
+- Agile Values and Principles
 - Continuous Delivery
 - Test Automation
-- Product Management
-- Product Validation
+- Metrics and Learning
 - Automated Testing
+- Product Validation
+- Practical Techniques and Tooling
 - Empirical Process Control
 categories:
-- Agile Product Management
-- Agile Product Operating Model
-- Market Adaptability
-- Value Delivery
-- Product Delivery
-- Organisational Agility
-- Metrics and Learning
+- Engineering Excellence
+- Social Technologies
+- Product Management
 - Technical Excellence
-- Practical Techniques and Tooling
 preview: image-1.jpg
 
 ---

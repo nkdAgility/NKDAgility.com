@@ -29,13 +29,8 @@ aliasesFor404:
 tags:
 - Product Backlog
 categories:
-- Lean
-- Agile Product Management
-- Agile Product Operating Model
-- Value Delivery
-- Product Delivery
-- Products and Books
-- Transparency and Accountability
+- Product Management
+- Social Technologies
 - Scrum
 preview: image-1.jpg
 

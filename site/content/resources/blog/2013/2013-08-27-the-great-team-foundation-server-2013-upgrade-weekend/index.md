@@ -22,21 +22,11 @@ aliasesFor404:
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
-- Engineering Excellence
-- System Configuration
-- Working Software
-- Windows
-- Software Developers
-- Deployment Strategies
-- Troubleshooting
-- Release Management
-- Software Development
-- Operational Practices
-categories:
 - Install and Configuration
-- News and Reviews
-- Events and Presentations
 - Products and Books
+categories:
+- Events and Presentations
+- News and Reviews
 
 ---
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.

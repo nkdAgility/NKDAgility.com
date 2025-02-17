@@ -25,19 +25,19 @@ tags:
 - Windows
 - Modern Source Control
 - Release Management
+- Practical Techniques and Tooling
+- Install and Configuration
 - Continuous Integration
-- Pragmatic Thinking
+- System Configuration
 - Technical Mastery
 - Troubleshooting
 - Software Development
-- System Configuration
-- Engineering Excellence
+- Pragmatic Thinking
+- Application Lifecycle Management
 - Operational Practices
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
 - DevOps
-- Application Lifecycle Management
+- Engineering Excellence
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

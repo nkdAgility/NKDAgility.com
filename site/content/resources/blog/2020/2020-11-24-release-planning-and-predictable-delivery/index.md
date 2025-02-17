@@ -22,9 +22,14 @@ aliasesFor404:
 - /blog/release-planning-and-predictable-delivery
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
+- Product Delivery
 - Software Development
 categories:
-- Product Delivery
+- Scrum
+- People and Process
+- Engineering Excellence
+- Social Technologies
+- Product Management
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

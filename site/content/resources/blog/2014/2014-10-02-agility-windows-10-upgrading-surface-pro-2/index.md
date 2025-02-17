@@ -28,9 +28,6 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Install and Configuration
-- Organisational Agility
-- Market Adaptability
 - Personal
 preview: nakedalm-windows-logo-12-12.png
 

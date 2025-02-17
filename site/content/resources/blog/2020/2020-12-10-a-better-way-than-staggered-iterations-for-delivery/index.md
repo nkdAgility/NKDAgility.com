@@ -25,46 +25,47 @@ aliasesFor404:
 tags:
 - Increment
 - Test First Development
-- Software Development
 - Cycle Time
 - Scrum Product Development
 - Working Software
-- Scrum Team
+- Software Development
 - Empirical Process Control
+- Business Agility
+- Value Delivery
+- Scrum Team
 - Software Developers
-- Team Collaboration
-- Technical Mastery
-- Team Performance
-- Professional Scrum
-- Technical Leadership
 - Cross Functional Teams
+- Organisational Agility
+- Team Performance
+- Team Collaboration
+- Practical Techniques and Tooling
+- Technical Leadership
+- Agile Product Operating Model
+- Product Delivery
+- Technical Mastery
+- Professional Scrum
+- Agile Frameworks
+- Operational Practices
+- Pragmatic Thinking
+- Market Adaptability
+- Deployment Frequency
 - Agile Transformation
 - Agile Project Management
-- Operational Practices
 - Throughput
-- Agile Frameworks
-- Agile Planning
-- Engineering Practices
-- Deployment Frequency
-- Pragmatic Thinking
-- Engineering Excellence
-- Agile Strategy
+- Agile Product Management
 - Self Organisation
+- Agile Planning
+- Agile Strategy
+- Engineering Practices
+- Flow Efficiency
 - Continuous Delivery
 - Frequent Releases
 categories:
 - Scrum
 - People and Process
-- Value Delivery
-- Business Agility
-- Agile Product Operating Model
 - Technical Excellence
-- Practical Techniques and Tooling
-- Product Delivery
-- Organisational Agility
-- Agile Product Management
-- Market Adaptability
-- Flow Efficiency
+- Engineering Excellence
+- Social Technologies
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

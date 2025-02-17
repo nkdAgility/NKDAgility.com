@@ -28,9 +28,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- Technical Excellence
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

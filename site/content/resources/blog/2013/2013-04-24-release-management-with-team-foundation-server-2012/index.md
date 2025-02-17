@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Release Management
 - Software Development
+- Product Delivery
 categories:
 - DevOps
-- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

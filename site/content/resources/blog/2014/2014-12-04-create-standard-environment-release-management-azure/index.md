@@ -27,22 +27,22 @@ aliasesFor404:
 - /resources/blog/create-standard-environment-release-management-azure
 tags:
 - Release Management
-- Deployment Strategies
+- Application Lifecycle Management
 - Technical Mastery
-- Pragmatic Thinking
-- Software Development
+- Azure DevOps
+- Deployment Strategies
+- Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
+- Product Delivery
 - Operational Practices
+- Software Development
+- Pragmatic Thinking
 - Continuous Delivery
 categories:
-- Application Lifecycle Management
-- Install and Configuration
-- Azure DevOps
-- Technical Excellence
 - Events and Presentations
-- Practical Techniques and Tooling
+- Technical Excellence
 - DevOps
-- Product Delivery
 preview: nakedalm-windows-logo-16-16.png
 
 ---

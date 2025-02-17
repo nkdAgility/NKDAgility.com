@@ -24,13 +24,14 @@ aliasesFor404:
 tags:
 - Agile Values and Principles
 - Scrum Values
-- Software Developers
 - Agile Philosophy
+- Software Developers
 - Software Development
 - Organisational Culture
 categories:
 - People and Process
 - Events and Presentations
+- Social Technologies
 preview: clip_image001-2-2.png
 
 ---

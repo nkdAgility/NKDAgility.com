@@ -26,38 +26,40 @@ aliasesFor404:
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags:
+- Organisational Agility
 - Experimentation
 - Agile Project Management
+- Resilience and Change
+- Continuous Learning
 - Digital Transformation
-- Agile Values and Principles
 - Agile Leadership
+- Business Agility
+- Agile Values and Principles
 - Change Management
 - Agile Transformation
-- Continuous Learning
-- Empirical Process Control
 - Technical Leadership
-- Agile Strategy
-- Agile Philosophy
-- Organisational Culture
-- Organisational Change
-- Strategy
-- Organisational Physics
-- Pragmatic Thinking
-- Strategic Goals
-- Ability to Innovate
-- Sensemaking
-categories:
-- Organisational Agility
-- People and Process
-- Resilience and Change
-- Business Agility
-- Discovery and Learning
 - Market Adaptability
-- Events and Presentations
+- Organisational Culture
 - Enterprise Agility
+- Empirical Process Control
+- Organisational Change
+- Agile Philosophy
+- Agile Strategy
+- Organisational Physics
+- Strategy
 - Complexity Thinking
+- Pragmatic Thinking
 - Sociotechnical Systems
+- Ability to Innovate
+- Strategic Goals
+- Sensemaking
 - Beta Codex
+categories:
+- Leadership
+- People and Process
+- Discovery and Learning
+- Events and Presentations
+- Social Technologies
 preview: image-15-5-4.png
 
 ---

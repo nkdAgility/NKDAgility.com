@@ -27,12 +27,13 @@ aliasesFor404:
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
 tags:
 - Remote Working
+- Resilience and Change
+- Sociotechnical Systems
 - Pragmatic Thinking
 categories:
 - People and Process
-- Resilience and Change
+- Social Technologies
 - Personal
-- Sociotechnical Systems
 preview: image-1-1-1.png
 
 ---

@@ -29,24 +29,25 @@ tags:
 - Scrum Team
 - Organisational Culture
 - Team Performance
-- Agile Frameworks
-- Team Motivation
-- Agile Project Management
 - Software Development
+- Agile Project Management
+- Team Motivation
 - Team Collaboration
+- Agile Frameworks
 - Software Developers
+- Sociotechnical Systems
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
+- Organisational Psychology
+- Agile Product Management
 - Operational Practices
 categories:
 - Scrum
 - People and Process
 - Events and Presentations
-- Sociotechnical Systems
+- Social Technologies
 - Personal
-- Organisational Psychology
-- Agile Product Management
 preview: 1026661500-1-1.jpg
 
 ---

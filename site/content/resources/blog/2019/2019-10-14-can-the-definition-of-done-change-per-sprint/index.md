@@ -30,27 +30,28 @@ tags:
 - Increment
 - Definition of Done
 - Scrum Product Development
+- Agile Product Management
 - Scrum Team
 - Agile Project Management
-- Scrum Master
-- Software Development
+- Value Delivery
 - Professional Scrum
+- Product Delivery
 - Team Performance
-- Engineering Excellence
+- Software Development
+- Scrum Master
+- Working Software
 - Agile Planning
-- Operational Practices
-- Empirical Process Control
+- Pragmatic Thinking
 - Agile Transformation
 - Software Developers
+- Operational Practices
+- Empirical Process Control
 - Agile Frameworks
-- Pragmatic Thinking
-- Working Software
 categories:
 - Scrum
-- Agile Product Management
 - People and Process
-- Value Delivery
-- Product Delivery
+- Engineering Excellence
+- Social Technologies
 preview: 20190906_152025-2-2.gif
 
 ---

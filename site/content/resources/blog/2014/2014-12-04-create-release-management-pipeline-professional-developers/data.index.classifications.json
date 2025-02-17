@@ -1357,5 +1357,23 @@
     "final_score": 1.0,
     "reasoning": "Content primarily discusses creating a Release Management pipeline and DevOps practices, with only a brief mention of testing in the context of builds, which does not align with the core principles of Test Driven Development.",
     "level": "Ignored"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T16:10:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on technical implementation details of creating a Release Management pipeline, with no clear discussions on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T16:10:54",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of team dynamics and collaboration in the context of a Release Management pipeline, which aligns with Agile practices, but the primary focus is on technical implementation rather than the methodologies themselves.",
+    "level": "Tertiary"
   }
 }
