@@ -275,5 +275,3 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
 Write-Progress -id 1 -Completed
 Write-DebugLog "All markdown files processed."
 Write-DebugLog "--------------------------------------------------------"
-Write-DebugLog "Summary of updated Resource Types:"
-$resourceTypeCounts.GetEnumerator() | ForEach-Object { Write-DebugLog "$($_.Key): $($_.Value)" }

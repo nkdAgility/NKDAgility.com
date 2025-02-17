@@ -119,7 +119,7 @@ function Get-CategoryConfidenceWithChecksum {
         foreach ($key in $cachedData.PSObject.Properties) {
             $entry = $key.Value
             $finalScore = Get-ComputedConfidence -aiConfidence $entry.ai_confidence -nonAiConfidence $entry.non_ai_confidence
-            $level = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
+            $level = Get-ComputedLevel -confidence $finalScore
 
             if ($entry.final_score -ne $finalScore -or $entry.level -ne $level) {
                 $entry.final_score = $finalScore
@@ -296,10 +296,8 @@ function Get-CategoryConfidenceWithChecksum {
     #==========================================
     #=================return===================
     #==========================================
-    $finalSelection = $categoryScores.Values | Where-Object { $_.level -eq "Primary" } | Sort-Object final_score -Descending
-    $finalSelection += $categoryScores.Values | Where-Object { $_.level -eq "Secondary" } | Sort-Object final_score -Descending | Select-Object -First ($MaxCategories - $finalSelection.Count)
-    $finalSelection = $finalSelection | Sort-Object final_score -Descending
-    return $finalSelection | ConvertTo-Json -Depth 1
+    $finalSelection = Get-FinalSelection -categoryScores $categoryScores
+    return $finalSelection | Sort-Object final_score -Descending | ConvertTo-Json -Depth 2
     #==========================================
     #================/return===================
     #==========================================
@@ -307,6 +305,26 @@ function Get-CategoryConfidenceWithChecksum {
    
        
 }
+
+function Get-FinalSelection { 
+    param (
+        [hashtable]$categoryScores,
+        [string[]]$levels = @("Primary", "Secondary", "Tertiary", "Quaternary", "Quinary")
+    )
+    
+    $finalSelection = @()
+
+    foreach ($level in $levels) {
+        $currentSelection = $categoryScores.Values | Where-Object { $_.level -eq $level } | Sort-Object final_score -Descending
+        if ($currentSelection.Count -gt 0) {
+            $finalSelection += $currentSelection
+            break
+        }
+    }
+
+    return $finalSelection | Sort-Object final_score -Descending
+}
+
 
 
 function Get-ComputedConfidence {
@@ -316,6 +334,20 @@ function Get-ComputedConfidence {
     )
     return [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
 }
+
+function Get-ComputedLevel {
+    param ([int]$confidence)
+
+    switch ($confidence) {
+        { $_ -gt 80 } { return "Primary" }
+        { $_ -gt 60 } { return "Secondary" }
+        { $_ -gt 40 } { return "Tertiary" }
+        { $_ -gt 20 } { return "Quaternary" }
+        { $_ -gt 10 } { return "Quinary" }
+        default { return "Ignored" }
+    }
+}
+
 
 function Get-ConfidenceFromAIResponse {
     param (
@@ -375,7 +407,7 @@ function Get-ConfidenceFromAIResponse {
         "non_ai_confidence" = $nonAiConfidence
         "final_score"       = $finalScore
         "reasoning"         = $AIResponse.reasoning
-        "level"             = if ($finalScore -ge 80) { "Primary" } elseif ($finalScore -ge 50) { "Secondary" } else { "Ignored" }
+        "level"             = Get-ComputedLevel -confidence $finalScore
     }
 }
 

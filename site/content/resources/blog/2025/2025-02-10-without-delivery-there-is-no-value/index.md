@@ -24,28 +24,38 @@ aliasesFor404:
 tags:
 - Increment
 - Transparency
-- Deployment Frequency
 - Software Development
-- Customer Feedback Loops
-- Frequent Releases
+- Deployment Frequency
 - Scrum Product Development
-- Working Software
 - Product Validation
-- Product Management
+- Working Software
+- Frequent Releases
+- Customer Feedback Loops
 - Lead Time
-- Agile Strategy
-- Release Management
-- Agile Project Management
+- Continuous Delivery
+- Agile Transformation
+- Agile Philosophy
 - Agile Frameworks
 - Agile Planning
-- Agile Philosophy
-- Agile Transformation
-- Continuous Delivery
+- Agile Strategy
+- Release Management
 - Software Developers
+- Agile Project Management
+- Product Management
+- Pragmatic Thinking
+- Throughput
+- Operational Practices
+- Strategy
+- Empirical Process Control
 categories:
 - Value Delivery
-- Agile Product Management
 - Product Delivery
+- Agile Product Management
+- People and Process
+- Metrics and Learning
+- Business Agility
+- Market Adaptability
+- Flow Efficiency
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
 
