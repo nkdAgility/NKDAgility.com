@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/ihandlerfactory
 - /resources/blog/ihandlerfactory
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

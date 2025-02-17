@@ -26,12 +26,12 @@ tags:
 - Software Development
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Technical Excellence
-- Azure DevOps
-- Platform Engineering
+- Practical Techniques and Tooling
 - DevOps
+- Azure DevOps
+- Technical Excellence
+- Platform Engineering
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

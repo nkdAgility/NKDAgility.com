@@ -25,11 +25,11 @@ tags:
 - Software Development
 preview: metro-visual-studio-2005-128-link-4-4.png
 categories:
-- Install and Configuration
 - Code and Complexity
+- Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 - Application Lifecycle Management
 
 ---

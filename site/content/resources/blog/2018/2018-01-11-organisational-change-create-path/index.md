@@ -29,22 +29,22 @@ tags:
 - Organisational Change
 categories:
 - People and Process
-- Organisational Agility
 - Enterprise Agility
+- Organisational Agility
 - Scrum
 - Metrics and Learning
+- Evidence Based Management
+- Resilience and Change
+- Value Delivery
+- Agile Product Operating Model
 - Business Agility
 - Agile Product Management
-- Agile Product Operating Model
-- Resilience and Change
-- Evidence Based Management
-- Value Delivery
-- Sociotechnical Systems
 - Market Adaptability
+- Sociotechnical Systems
 - DevOps
-- Product Delivery
 - Discovery and Learning
 - Products and Books
+- Product Delivery
 - Practical Techniques and Tooling
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 

@@ -25,7 +25,8 @@ aliasesFor404:
 - /tfs-eventhandler--msmq-refactor
 - /blog/tfs-eventhandler--msmq-refactor
 - /resources/blog/tfs-eventhandler-msmq-refactor
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Code and Complexity

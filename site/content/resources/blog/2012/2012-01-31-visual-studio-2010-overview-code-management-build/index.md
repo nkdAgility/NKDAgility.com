@@ -28,8 +28,8 @@ aliasesFor404:
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-code-management-build
 categories:
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Technical Excellence
 - Events and Presentations
 tags:

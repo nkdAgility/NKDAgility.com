@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 tags:
 - Windows
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 preview: metro-office-128-link-1-1.png

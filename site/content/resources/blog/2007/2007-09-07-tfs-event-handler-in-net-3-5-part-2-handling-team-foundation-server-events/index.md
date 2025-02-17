@@ -29,11 +29,11 @@ tags:
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
-- Install and Configuration
 - Code and Complexity
+- Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 
 ---
 I have decided to have a little go at creating a Team Foundation Server Event Handler in .NET 3.5 that is resilient and scaleable. I will be using as many of the features of Team Suit as I can, but bear with me as there are a few things that are new to me.

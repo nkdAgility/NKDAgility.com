@@ -30,9 +30,9 @@ tags:
 - Agile Project Management
 - Scrum Team
 - Professional Scrum
-- Software Development
 - Agile Frameworks
 - Agile Transformation
+- Software Development
 - Transparency
 categories:
 - Scrum

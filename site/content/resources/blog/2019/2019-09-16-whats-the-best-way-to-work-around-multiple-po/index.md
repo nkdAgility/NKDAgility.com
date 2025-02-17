@@ -28,30 +28,30 @@ aliasesFor404:
 tags:
 - Product Owner
 - Scrum Product Development
-- Professional Scrum
 - Scrum Team
-- Product Backlog
 - Product Management
+- Professional Scrum
+- Product Backlog
 - Agile Project Management
-- Agile Transformation
-- Agile Frameworks
-- Software Developers
-- Agile Strategy
-- Decision Making
 - Software Development
-- Agile Planning
-- Strategy
-- Accountability
+- Agile Frameworks
 - Pragmatic Thinking
+- Agile Strategy
+- Agile Transformation
+- Accountability
+- Decision Making
+- Strategy
+- Software Developers
+- Agile Planning
 - Technical Leadership
 categories:
 - Scrum
 - Agile Product Management
+- Agile Product Operating Model
 - People and Process
 - Value Delivery
-- Product Delivery
-- Agile Product Operating Model
 - Events and Presentations
+- Product Delivery
 preview: 495173592-1-1.jpg
 
 ---

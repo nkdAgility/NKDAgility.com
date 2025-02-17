@@ -27,9 +27,9 @@ aliasesFor404:
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 tags:
 - Windows
-- System Configuration
-- Software Development
 - Troubleshooting
+- Software Development
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

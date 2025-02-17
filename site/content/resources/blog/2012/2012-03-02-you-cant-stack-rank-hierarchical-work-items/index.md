@@ -29,18 +29,18 @@ tags:
 - Scrum Product Development
 - Software Development
 - Product Backlog
-- Software Developers
 - Professional Scrum
+- Software Developers
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
 - Agile Planning
 - Azure Boards
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Project Management
 - Agile Planning Tools
 - Operational Practices
 categories:
-- Practical Techniques and Tooling
 - Agile Product Management
+- Practical Techniques and Tooling
 - Azure DevOps
 - Scrum
 - Product Delivery

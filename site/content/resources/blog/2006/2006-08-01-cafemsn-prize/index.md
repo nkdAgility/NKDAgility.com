@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/cafemsn-prize
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Miscellaneous
 
 ---
 I managed to win an amazon voucher from Microsoft for my answers on cafemsn, not once but twice!

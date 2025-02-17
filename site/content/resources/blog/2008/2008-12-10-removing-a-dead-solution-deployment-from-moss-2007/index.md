@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/removing-a-dead-solution-deployment-from-moss-2007
 - /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
 tags:
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-sharepoint-128-link-1-1.png
 categories:
 - Install and Configuration

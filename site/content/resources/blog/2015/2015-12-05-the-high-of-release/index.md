@@ -24,22 +24,22 @@ aliasesFor404:
 tags:
 - Release Management
 - Azure Pipelines
-- Software Development
 - Software Developers
 - Engineering Excellence
+- Software Development
 - Frequent Releases
 - Technical Mastery
 - Operational Practices
-- Continuous Delivery
 - Deployment Strategies
 - Pragmatic Thinking
+- Continuous Delivery
 categories:
 - Events and Presentations
 - DevOps
 - Product Delivery
 - Azure DevOps
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - News and Reviews
 - Technical Excellence
 - Products and Books

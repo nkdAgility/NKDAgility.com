@@ -25,8 +25,14 @@ aliasesFor404:
 - /introduction-to--net-framework-3-0-for-developers-event
 - /blog/introduction-to--net-framework-3-0-for-developers-event
 - /resources/blog/introduction-to-net-framework-3-0-for-developers-event
-tags: []
-categories: []
+tags:
+- Windows
+- Software Developers
+- Continuous Learning
+- Technical Mastery
+- Software Development
+categories:
+- Events and Presentations
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

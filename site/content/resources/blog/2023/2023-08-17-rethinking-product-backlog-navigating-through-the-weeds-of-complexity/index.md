@@ -32,15 +32,15 @@ tags:
 - Agile Project Management
 - Agile Strategy
 - Scrum Product Development
-- Product Backlog
 - Product Management
-- Organisational Culture
+- Product Backlog
 - Agile Philosophy
-- Agile Frameworks
 - Software Development
 - Agile Planning
-- Product Owner
+- Agile Frameworks
 - Decision Making
+- Product Owner
+- Organisational Culture
 - Organisational Physics
 - Strategy
 - Agile Values and Principles
@@ -49,18 +49,18 @@ tags:
 - Self Organisation
 categories:
 - Agile Product Management
+- Agile Product Operating Model
 - People and Process
 - Resilience and Change
-- Agile Product Operating Model
 - Discovery and Learning
 - Product Delivery
 - Complexity Thinking
+- Systems Thinking
 - Organisational Agility
 - Sociotechnical Systems
-- Systems Thinking
 - Code and Complexity
-- Business Agility
 - Market Adaptability
+- Business Agility
 preview: image-1.jpg
 
 ---

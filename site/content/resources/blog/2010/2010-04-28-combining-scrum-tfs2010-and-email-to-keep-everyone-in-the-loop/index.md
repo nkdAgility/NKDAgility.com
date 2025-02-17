@@ -32,9 +32,9 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Team Collaboration
-- Software Development
 - Agile Frameworks
 - Pragmatic Thinking
+- Software Development
 - Team Performance
 - Scrum Product Development
 categories:

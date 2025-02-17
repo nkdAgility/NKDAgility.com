@@ -27,8 +27,8 @@ tags:
 categories:
 - Install and Configuration
 - News and Reviews
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
 - Products and Books
 - Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png

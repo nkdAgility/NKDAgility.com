@@ -31,13 +31,13 @@ tags:
 - Scrum Product Development
 - Product Management
 - Product Backlog
-- Software Development
-- Pragmatic Thinking
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
 - Product Owner
 categories:
-- People and Process
 - Agile Product Management
+- People and Process
 - Transparency and Accountability
 - Product Delivery
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg

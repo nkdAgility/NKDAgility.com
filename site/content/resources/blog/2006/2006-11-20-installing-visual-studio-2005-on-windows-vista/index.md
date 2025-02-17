@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/installing-visual-studio-2005-on-windows-vista
 tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories: []
+categories:
+- Install and Configuration
 
 ---
 I have just installed VS2005 on vista. Although I was setup for a whole host of problems, I had relatively few. There were some errors during the instalation. But all seams well...

@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/branch-madness
 tags:
 - Modern Source Control
-- Azure Repos
-- Software Development
-- Troubleshooting
 - Pragmatic Thinking
+- Azure Repos
+- Troubleshooting
+- Software Development
 - Operational Practices
 preview: nakedalm-logo-128-link-2-1.png
 categories:

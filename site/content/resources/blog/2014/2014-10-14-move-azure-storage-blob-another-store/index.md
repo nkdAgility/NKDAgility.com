@@ -26,9 +26,9 @@ aliasesFor404:
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/blog/move-azure-storage-blob-another-store
 tags:
-- System Configuration
-- Software Development
 - Technical Mastery
+- Software Development
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

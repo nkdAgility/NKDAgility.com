@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/one-team-project
 tags:
 - Agile Planning Tools
-- Agile Planning
 - Agile Project Management
-- Software Development
+- Agile Planning
 - Software Developers
+- Software Development
 - Pragmatic Thinking
 - Azure Boards
 - Large Scale Agility

@@ -34,9 +34,9 @@ tags:
 categories:
 - People and Process
 - Application Lifecycle Management
-- Organisational Agility
-- Product Delivery
 - Market Adaptability
+- Product Delivery
+- Organisational Agility
 - Business Agility
 preview: nakedalm-logo-128-link-1-1.png
 

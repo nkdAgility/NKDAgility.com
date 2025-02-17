@@ -45,8 +45,8 @@ categories:
 - People and Process
 - Transparency and Accountability
 - Value Delivery
-- Evidence Based Management
 - Product Delivery
+- Evidence Based Management
 - Agile Product Operating Model
 preview: image-3-3.png
 

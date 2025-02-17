@@ -26,9 +26,9 @@ aliasesFor404:
 - /blog/tfs-gotcha-(exception-handling)
 - /resources/blog/tfs-gotcha-exception-handling
 tags:
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

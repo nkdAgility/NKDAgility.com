@@ -24,21 +24,21 @@ aliasesFor404:
 tags:
 - Software Developers
 - Software Development
-- System Configuration
+- Pragmatic Thinking
 - Technical Mastery
-- Azure Pipelines
 - Engineering Excellence
 - Continuous Integration
-- Pragmatic Thinking
+- System Configuration
+- Azure Pipelines
 - Operational Practices
 - Troubleshooting
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
 - DevOps
+- Azure DevOps
+- Technical Excellence
 
 ---
 ![vs2010alm](images/e6d297adc9ef_12485-vs2010alm_-4-8.png)At SSW we use gated check-in for all of our projects. The benefits are based on the number of developers you have working on your project.

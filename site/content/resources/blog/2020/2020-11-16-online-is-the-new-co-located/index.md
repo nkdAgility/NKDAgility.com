@@ -32,8 +32,8 @@ categories:
 - People and Process
 - Events and Presentations
 - Transparency and Accountability
-- Sociotechnical Systems
 - Personal
+- Sociotechnical Systems
 preview: image-21-3-3.png
 
 ---

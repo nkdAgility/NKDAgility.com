@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/blog/sync-extension-for-listscollections-or-whatever
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

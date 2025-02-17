@@ -24,18 +24,18 @@ aliasesFor404:
 tags:
 - Team Performance
 - Team Collaboration
-- System Configuration
-- Software Development
-- Troubleshooting
 - Agile Frameworks
 - Pragmatic Thinking
+- Troubleshooting
+- Software Development
+- System Configuration
 categories:
 - Scrum
 - Install and Configuration
-- People and Process
 - News and Reviews
-- Practical Techniques and Tooling
+- People and Process
 - Events and Presentations
+- Practical Techniques and Tooling
 - Products and Books
 - Azure DevOps
 - Product Delivery

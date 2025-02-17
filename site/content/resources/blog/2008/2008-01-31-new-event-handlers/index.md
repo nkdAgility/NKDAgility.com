@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/new-event-handlers
 - /resources/blog/new-event-handlers
 tags:
-- System Configuration
-- Software Development
 - Technical Mastery
+- Software Development
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

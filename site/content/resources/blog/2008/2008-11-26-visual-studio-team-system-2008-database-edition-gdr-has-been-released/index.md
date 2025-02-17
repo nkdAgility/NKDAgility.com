@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-- Release Management
 - Deployment Strategies
+- Release Management
 categories:
 - Products and Books
 - Install and Configuration

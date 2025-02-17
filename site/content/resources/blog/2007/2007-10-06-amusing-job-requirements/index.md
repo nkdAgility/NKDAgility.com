@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - Software Development
 - Continuous Learning
-- Technical Mastery
 - Software Developers
-- Engineering Excellence
 - Pragmatic Thinking
+- Technical Mastery
+- Engineering Excellence
 categories:
 - Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png

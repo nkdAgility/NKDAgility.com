@@ -29,16 +29,16 @@ aliasesFor404:
 tags:
 - Transparency
 - Definition of Done
-- Professional Scrum
 - Scrum Product Development
+- Professional Scrum
 - Working Software
-- Software Development
 - Agile Project Management
+- Software Development
 - Increment
 - Software Developers
 - Empirical Process Control
-- Engineering Excellence
 - Pragmatic Thinking
+- Engineering Excellence
 categories:
 - Scrum
 - Product Delivery

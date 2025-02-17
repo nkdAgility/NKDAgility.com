@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/vs2008-update
 tags:
 - Windows
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Events and Presentations
 preview: metro-visual-studio-2005-128-link-1-1.png

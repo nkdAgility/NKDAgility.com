@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - Windows
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png

@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Team Collaboration
 categories:
-- People and Process
 - News and Reviews
+- People and Process
 - Miscellaneous
 
 ---

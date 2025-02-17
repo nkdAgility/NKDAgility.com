@@ -25,8 +25,8 @@ tags:
 - Software Development
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Products and Books
 preview: metro-visual-studio-2005-128-link-8-1.png
 

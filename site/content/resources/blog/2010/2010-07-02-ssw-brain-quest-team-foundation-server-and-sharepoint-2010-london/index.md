@@ -26,13 +26,13 @@ aliasesFor404:
 - /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 tags:
-- Software Development
 - Software Developers
+- Software Development
 - Working Software
-- Automated Testing
 - Collaboration Tools
-- Technical Mastery
+- Automated Testing
 - Pragmatic Thinking
+- Technical Mastery
 - Operational Practices
 - Engineering Excellence
 categories:

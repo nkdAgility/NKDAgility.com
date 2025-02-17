@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
 - Software Development
-- Decision Making
 - Pragmatic Thinking
+- Decision Making
 categories:
 - Products and Books
 preview: nakedalm-experts-visual-studio-alm-7-7.png

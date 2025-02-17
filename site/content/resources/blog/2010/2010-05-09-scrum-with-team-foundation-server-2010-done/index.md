@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/scrum-with-team-foundation-server-2010-done
 tags:
 - Agile Project Management
-- Software Development
 - Agile Frameworks
+- Software Development
 - Software Developers
 categories:
 - Scrum

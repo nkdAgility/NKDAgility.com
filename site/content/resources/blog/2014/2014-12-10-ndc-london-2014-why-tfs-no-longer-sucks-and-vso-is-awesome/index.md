@@ -31,9 +31,9 @@ tags:
 - Product Owner
 - Software Development
 - Troubleshooting
-- Continuous Delivery
 - Software Developers
 - Pragmatic Thinking
+- Continuous Delivery
 categories:
 - Events and Presentations
 preview: nakedalm-experts-visual-studio-alm-3-3.png

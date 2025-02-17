@@ -25,19 +25,19 @@ aliasesFor404:
 tags:
 - Increment
 - Agile Values and Principles
-- Software Development
 - Team Performance
-- Software Developers
 - Agile Frameworks
-- Agile Philosophy
 - Agile Transformation
 - Agile Project Management
+- Software Developers
+- Agile Philosophy
+- Software Development
 - Pragmatic Thinking
 - Organisational Culture
 categories:
 - Scrum
-- People and Process
 - Agile Product Management
+- People and Process
 - Organisational Agility
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 

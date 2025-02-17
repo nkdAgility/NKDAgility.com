@@ -23,10 +23,10 @@ aliasesFor404:
 - /resources/blog/change-of-plan
 tags:
 - Working Software
-- Software Development
-- Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- Software Development
 categories:
 - Code and Complexity
 preview: metro-sharepoint-128-link-1-1.png

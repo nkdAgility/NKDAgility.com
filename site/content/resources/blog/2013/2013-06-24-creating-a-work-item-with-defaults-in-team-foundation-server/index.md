@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
-- Software Development
 - Azure Boards
+- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

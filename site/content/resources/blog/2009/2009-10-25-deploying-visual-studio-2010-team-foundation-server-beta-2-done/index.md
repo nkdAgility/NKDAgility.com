@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 tags:
-- System Configuration
 - Software Development
+- System Configuration
 - Deployment Strategies
 - Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-1-1.png

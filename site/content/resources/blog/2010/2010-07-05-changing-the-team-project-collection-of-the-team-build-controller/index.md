@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 tags:
 - System Configuration
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
 - Continuous Integration
 - Operational Practices
 - Azure Pipelines
@@ -33,8 +33,8 @@ preview: metro-SSWLogo-128-link-6-6.png
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 - DevOps
+- Azure DevOps
 - Application Lifecycle Management
 
 ---

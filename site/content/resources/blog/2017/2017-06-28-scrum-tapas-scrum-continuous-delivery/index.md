@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
 tags:
-- Software Development
 - Agile Frameworks
+- Software Development
 - Agile Project Management
 categories:
 - Events and Presentations

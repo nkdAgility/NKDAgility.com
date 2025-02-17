@@ -26,16 +26,16 @@ aliasesFor404:
 - /blog/agile-in-africa-2016
 - /resources/blog/agile-africa-2016
 tags:
-- Software Development
 - Agile Frameworks
-- Agile Philosophy
 - Agile Transformation
 - Agile Project Management
+- Agile Philosophy
+- Software Development
 - Team Motivation
 - Software Developers
 - Pragmatic Thinking
-- Entrepreneurship
 - Team Collaboration
+- Entrepreneurship
 categories:
 - Events and Presentations
 preview: clip_image001-1-2-2.jpg

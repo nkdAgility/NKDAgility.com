@@ -25,9 +25,9 @@ tags:
 - Windows
 - System Configuration
 - Release Management
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
 categories:
 - Install and Configuration
 

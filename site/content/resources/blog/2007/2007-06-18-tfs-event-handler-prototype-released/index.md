@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-prototype-released
 tags:
 - Working Software
-- Release Management
-- System Configuration
-- Software Development
 - Frequent Releases
 - Technical Mastery
+- Release Management
+- Software Development
+- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Install and Configuration

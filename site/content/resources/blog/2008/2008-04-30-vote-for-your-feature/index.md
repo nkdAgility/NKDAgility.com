@@ -25,15 +25,15 @@ tags:
 - Customer Feedback Loops
 - Product Discovery
 categories:
-- Discovery and Learning
 - Transparency and Accountability
+- Discovery and Learning
 - Products and Books
+- Agile Product Management
 - Decision Theory
 - Value Delivery
 - Azure DevOps
-- Product Delivery
 - Application Lifecycle Management
-- Agile Product Management
+- Product Delivery
 - Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
 

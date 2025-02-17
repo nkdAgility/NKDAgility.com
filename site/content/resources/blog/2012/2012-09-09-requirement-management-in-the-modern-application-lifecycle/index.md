@@ -31,15 +31,15 @@ tags:
 - Agile Planning
 - Software Development
 - Pragmatic Thinking
-- Cycle Time
 - Product Management
+- Cycle Time
 categories:
 - Application Lifecycle Management
-- Product Delivery
 - Practical Techniques and Tooling
+- Product Delivery
 - Products and Books
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 preview: metro-requirements-icon-14-14.png
 
 ---

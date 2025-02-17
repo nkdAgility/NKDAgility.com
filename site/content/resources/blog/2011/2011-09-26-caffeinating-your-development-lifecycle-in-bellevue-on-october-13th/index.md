@@ -24,28 +24,28 @@ aliasesFor404:
 tags:
 - Operational Practices
 - Software Development
-- Product Management
 - Engineering Practices
-- Agile Values and Principles
+- Product Management
 - Agile Project Management
-- Technical Leadership
-- Agile Transformation
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Leadership
-- Software Developers
-- Agile Frameworks
-- Engineering Excellence
+- Agile Values and Principles
 - Digital Transformation
+- Agile Planning
+- Engineering Excellence
+- Agile Philosophy
+- Organisational Change
+- Team Collaboration
+- Pragmatic Thinking
 - Technical Mastery
 - Strategy
-- Organisational Change
+- Agile Leadership
+- Agile Strategy
+- Technical Leadership
+- Windows
 - Continuous Learning
 - Working Software
-- Agile Planning
-- Windows
-- Agile Strategy
-- Team Collaboration
+- Agile Transformation
+- Software Developers
+- Agile Frameworks
 categories:
 - Events and Presentations
 preview: metro-nwc-128-link-3-3.png

@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Windows
 - Software Development
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-8-8.png

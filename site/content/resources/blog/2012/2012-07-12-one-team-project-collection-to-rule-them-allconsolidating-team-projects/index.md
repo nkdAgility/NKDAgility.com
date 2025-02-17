@@ -31,8 +31,8 @@ tags:
 - Troubleshooting
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Azure DevOps
 - Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-10-10.png

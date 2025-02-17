@@ -27,9 +27,9 @@ aliasesFor404:
 - /resources/blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 tags:
 - Modern Source Control
-- System Configuration
-- Software Development
 - Troubleshooting
+- Software Development
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -26,20 +26,20 @@ tags:
 - Software Development
 - Agile Project Management
 - Working Software
-- Agile Strategy
-- Software Developers
 - Agile Frameworks
-- Frequent Releases
+- Software Developers
+- Agile Strategy
 - Transparency
-- Engineering Excellence
+- Frequent Releases
 - Pragmatic Thinking
+- Engineering Excellence
 categories:
 - Products and Books
 - News and Reviews
 - Application Lifecycle Management
 - People and Process
-- Organisational Agility
 - Product Delivery
+- Organisational Agility
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

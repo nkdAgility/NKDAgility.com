@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/hosted-team-foundation-server
 tags:
 - Software Development
-- Troubleshooting
-- Modern Source Control
 - Software Developers
+- Modern Source Control
+- Troubleshooting
 categories:
 - News and Reviews
 - Practical Techniques and Tooling

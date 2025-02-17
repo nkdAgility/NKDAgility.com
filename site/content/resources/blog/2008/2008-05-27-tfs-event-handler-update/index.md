@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/tfs-event-handler-update
 - /resources/blog/tfs-event-handler-update
 tags:
-- Release Management
 - Working Software
-- Software Development
+- Release Management
 - Frequent Releases
 - Troubleshooting
+- Software Development
 categories:
 - News and Reviews
 - Practical Techniques and Tooling

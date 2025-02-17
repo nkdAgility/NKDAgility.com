@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-revisited
 - /resources/blog/tfs-event-handler-revisited
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Practical Techniques and Tooling
 - Application Lifecycle Management

@@ -28,13 +28,13 @@ aliasesFor404:
 tags:
 - Windows
 - Customer Satisfaction
-- System Configuration
 - Working Software
-- Software Development
-- Digital Transformation
-- Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- Digital Transformation
+- Software Development
+- System Configuration
 - Operational Practices
 categories:
 - Practical Techniques and Tooling

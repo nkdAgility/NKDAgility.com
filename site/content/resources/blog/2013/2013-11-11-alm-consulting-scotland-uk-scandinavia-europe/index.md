@@ -42,8 +42,8 @@ tags:
 categories:
 - Application Lifecycle Management
 - People and Process
-- Product Delivery
 - Practical Techniques and Tooling
+- Product Delivery
 - Technical Excellence
 - DevOps
 preview: nakedalm-logo-128-link-1-1.png

@@ -28,52 +28,52 @@ aliasesFor404:
 - /resources/blog/professional-scrum-everyone-organisation
 tags:
 - Transparency
-- Scrum Master
-- Change Management
 - Scrum Product Development
 - Organisational Change
 - Professional Scrum
-- Software Developers
+- Scrum Master
 - Agile Project Management
-- Agile Strategy
-- Scaling Agility
-- Agile Transformation
-- Agile Philosophy
-- Agile Leadership
-- Agile Frameworks
-- Team Collaboration
-- Organisational Culture
-- Organisational Physics
+- Change Management
+- Software Developers
 - Team Performance
-- Team Motivation
+- Scaling Agility
+- Team Collaboration
 - Software Development
 - Agile Planning
-- Empirical Process Control
+- Organisational Culture
+- Agile Philosophy
+- Agile Strategy
+- Agile Leadership
 - Self Organisation
+- Empirical Process Control
+- Team Motivation
+- Agile Transformation
+- Agile Frameworks
+- Organisational Physics
 - Strategy
-- Coaching
 - Pragmatic Thinking
-- Digital Transformation
-- Continuous Learning
-- Operational Practices
 - Technical Leadership
+- Coaching
+- Continuous Learning
+- Digital Transformation
+- Operational Practices
 - Working Software
 categories:
 - People and Process
 - Scrum
 - Agile Product Management
-- Business Agility
 - Events and Presentations
-- Product Delivery
 - Agile Product Operating Model
-- Transparency and Accountability
 - Value Delivery
 - Resilience and Change
+- Business Agility
 - Organisational Agility
-- Discovery and Learning
-- Market Adaptability
+- Transparency and Accountability
+- Product Delivery
 - Evidence Based Management
 - Enterprise Agility
+- Market Adaptability
+- Discovery and Learning
 - Sociotechnical Systems
 - Personal
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg

@@ -26,11 +26,11 @@ tags:
 - Modern Source Control
 - Release Management
 - Continuous Integration
-- System Configuration
-- Software Development
-- Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- Software Development
+- System Configuration
 - Engineering Excellence
 - Operational Practices
 categories:

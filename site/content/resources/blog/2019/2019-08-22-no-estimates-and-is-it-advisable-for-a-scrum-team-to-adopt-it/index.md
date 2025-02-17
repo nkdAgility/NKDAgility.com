@@ -29,30 +29,30 @@ tags:
 - Estimation
 - Throughput
 - Scrum Product Development
-- Scrum Team
 - Software Development
-- Cycle Time
+- Scrum Team
 - Agile Planning
+- Cycle Time
 - Team Performance
+- Agile Frameworks
+- Agile Transformation
 - Agile Project Management
 - Software Developers
-- Agile Frameworks
 - Pragmatic Thinking
-- Agile Transformation
 - Operational Practices
+- Continuous Learning
 - Working Software
 - Professional Scrum
-- Continuous Learning
 - Empirical Process Control
-- Scrum Master
 - Team Collaboration
+- Scrum Master
 categories:
 - Scrum
 - Metrics and Learning
 - People and Process
+- Agile Product Management
 - Flow Efficiency
 - Events and Presentations
-- Agile Product Management
 - Product Delivery
 preview: iStock-847664136-1-1.jpg
 

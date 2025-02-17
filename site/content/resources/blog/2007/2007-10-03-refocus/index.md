@@ -26,9 +26,9 @@ aliasesFor404:
 - /blog/refocus---
 - /resources/blog/refocus
 tags:
-- System Configuration
-- Software Development
 - Deployment Strategies
+- Software Development
+- System Configuration
 - Digital Transformation
 preview: metro-sharepoint-128-link-1-1.png
 categories:

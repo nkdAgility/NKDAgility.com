@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/workflow
 - /resources/blog/workflow
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories:

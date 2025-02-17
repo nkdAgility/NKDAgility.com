@@ -30,16 +30,16 @@ tags:
 - Product Owner
 - Software Development
 - Test First Development
-- Agile Project Management
-- Agile Transformation
-- Technical Mastery
 - Azure Boards
-- Team Performance
 - Agile Planning
+- Team Performance
+- Technical Mastery
+- Agile Transformation
 - Software Developers
-- Engineering Practices
+- Agile Project Management
 - Transparency
 - Pragmatic Thinking
+- Engineering Practices
 - Operational Practices
 - Product Backlog
 - Working Software
@@ -48,10 +48,10 @@ tags:
 - Engineering Excellence
 categories:
 - People and Process
-- Azure DevOps
-- Product Delivery
-- Practical Techniques and Tooling
 - Agile Product Management
+- Azure DevOps
+- Practical Techniques and Tooling
+- Product Delivery
 - Technical Excellence
 - Transparency and Accountability
 - DevOps

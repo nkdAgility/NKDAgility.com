@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - System Configuration
 - Windows
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
 categories:
 - Install and Configuration
 preview: metro-server-instances-7-7.png

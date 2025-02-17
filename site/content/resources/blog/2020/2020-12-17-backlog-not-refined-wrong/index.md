@@ -30,8 +30,8 @@ tags:
 - Scrum Product Development
 - Backlog Refinement
 - Product Backlog
-- Software Development
 - Professional Scrum
+- Software Development
 - Agile Project Management
 categories:
 - Scrum

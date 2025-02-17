@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/community-credit-feedback
 tags:
 - Customer Feedback Loops
-- Product Discovery
 - Customer Retention
+- Product Discovery
 categories:
 - Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png

@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/wpf-scale-transform-behaviour
 - /resources/blog/wpf-scale-transform-behaviour
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Windows
 categories:
 - Practical Techniques and Tooling

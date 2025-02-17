@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/an-application-deployment
 tags:
 - Pragmatic Thinking
-- System Configuration
-- Software Development
 - Troubleshooting
+- Software Development
+- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Miscellaneous

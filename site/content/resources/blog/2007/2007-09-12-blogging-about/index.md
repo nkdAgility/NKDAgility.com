@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/blogging-about
 tags:
 - Software Development
-- System Configuration
 - Continuous Learning
-- Technical Mastery
 - Software Developers
+- Technical Mastery
+- System Configuration
 categories:
 - Miscellaneous
 - Personal

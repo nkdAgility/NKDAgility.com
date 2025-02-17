@@ -24,24 +24,24 @@ aliasesFor404:
 tags:
 - Software Development
 - Automated Testing
-- Technical Mastery
 - Software Developers
+- Technical Mastery
 - Engineering Excellence
 - Operational Practices
-- Digital Transformation
 - Frequent Releases
 - Pragmatic Thinking
+- Digital Transformation
 - Windows
 - Continuous Delivery
 - Test Automation
 categories:
 - Application Lifecycle Management
 - Platform Engineering
-- Product Delivery
 - Practical Techniques and Tooling
+- Product Delivery
 - Technical Excellence
-- Azure DevOps
 - DevOps
+- Azure DevOps
 - Products and Books
 preview: metro-lab-5-5.png
 

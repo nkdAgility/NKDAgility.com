@@ -1,1090 +1,362 @@
 {
-  "Decision Theory": {
-    "category": "Decision Theory",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on decision theory.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on technical aspects of deploying Team Foundation Server rather than discussing people or processes.",
-    "level": "Ignored"
-  },
-  "Agile Frameworks": {
-    "category": "Agile Frameworks",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) in a corporate environment, with no clear focus on Agile frameworks or methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum Values": {
-    "category": "Scrum Values",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical issues, with no clear focus on Scrum values.",
-    "level": "Ignored"
-  },
-  "Azure Boards": {
-    "category": "Azure Boards",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, which is related but not focused on Azure Boards specifically.",
-    "level": "Ignored"
-  },
-  "Trend Analysis": {
-    "category": "Trend Analysis",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on trend analysis.",
-    "level": "Ignored"
-  },
-  "Experimentation": {
-    "category": "Experimentation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on experimentation as a central theme.",
-    "level": "Ignored"
-  },
-  "Lean Product Development": {
-    "category": "Lean Product Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) in a corporate environment, which is not directly related to Lean Product Development.",
-    "level": "Ignored"
-  },
-  "Engineering Excellence": {
-    "category": "Engineering Excellence",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deploying Team Foundation Server, which relates to engineering practices, but the primary focus is on personal experiences and challenges rather than a systematic exploration of engineering excellence.",
-    "level": "Ignored"
-  },
-  "Value Stream Mapping": {
-    "category": "Value Stream Mapping",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no clear focus on Value Stream Mapping.",
-    "level": "Ignored"
-  },
-  "Market Adaptability": {
-    "category": "Market Adaptability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server within a corporate environment, focusing on technical challenges and solutions rather than market adaptability.",
-    "level": "Ignored"
-  },
-  "Self Organisation": {
-    "category": "Self Organisation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on self-organisation.",
-    "level": "Ignored"
-  },
-  "Agile Planning": {
-    "category": "Agile Planning",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) and related technical issues, with no clear focus on Agile planning principles or practices.",
-    "level": "Ignored"
-  },
-  "Decision Making": {
-    "category": "Decision Making",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server and does not focus on decision-making processes.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, with no clear focus on Scaling Kanban.",
-    "level": "Ignored"
-  },
-  "Test Automation": {
-    "category": "Test Automation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, with no clear focus on test automation.",
-    "level": "Ignored"
-  },
-  "Agile Transformation": {
-    "category": "Agile Transformation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) in a corporate environment, with no clear focus on Agile transformation principles or practices.",
-    "level": "Ignored"
-  },
-  "Miscellaneous": {
-    "category": "Miscellaneous",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses various aspects of deploying Team Foundation Server, which is a specific topic but also touches on broader themes related to project management and IT deployment strategies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, with no clear focus on Scaled Agile principles or practices.",
-    "level": "Ignored"
-  },
-  "Cycle Time": {
-    "category": "Cycle Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical issues, with no focus on cycle time.",
-    "level": "Ignored"
-  },
-  "Working Agreements": {
-    "category": "Working Agreements",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on working agreements.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, which is not directly related to BetaCodex.",
-    "level": "Ignored"
-  },
-  "Team Performance": {
-    "category": "Team Performance",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server rather than focusing on team performance or dynamics.",
-    "level": "Ignored"
-  },
-  "Agile Values and Principles": {
-    "category": "Agile Values and Principles",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on Agile values or principles.",
-    "level": "Ignored"
-  },
-  "Revenue per Employee": {
-    "category": "Revenue per Employee",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no mention of revenue or employee metrics.",
-    "level": "Ignored"
-  },
-  "Strategic Goals": {
-    "category": "Strategic Goals",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server in a corporate environment, with no clear focus on strategic goals.",
-    "level": "Ignored"
-  },
-  "Organisational Physics": {
-    "category": "Organisational Physics",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on organisational physics.",
-    "level": "Ignored"
-  },
-  "Technical Leadership": {
-    "category": "Technical Leadership",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server rather than focusing on leadership or management themes.",
-    "level": "Ignored"
-  },
-  "Lean Principles": {
-    "category": "Lean Principles",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on Lean Principles.",
-    "level": "Ignored"
-  },
-  "Azure Pipelines": {
-    "category": "Azure Pipelines",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) rather than Azure Pipelines, making Azure Pipelines not relevant enough.",
-    "level": "Ignored"
-  },
-  "Scrum Team": {
-    "category": "Scrum Team",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) and related technical issues, with no clear focus on Scrum roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "Employee Engagement": {
-    "category": "Employee Engagement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server in a corporate environment, with no focus on employee engagement.",
-    "level": "Ignored"
-  },
-  "Application Lifecycle Management": {
-    "category": "Application Lifecycle Management",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses deploying Team Foundation Server (TFS), which is a key component of Application Lifecycle Management (ALM).",
-    "level": "Secondary"
-  },
-  "Empirical Process Control": {
-    "category": "Empirical Process Control",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) in a corporate environment, with no clear focus on empirical process control principles.",
-    "level": "Ignored"
-  },
-  "Frequent Releases": {
-    "category": "Frequent Releases",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on frequent releases.",
-    "level": "Ignored"
-  },
-  "Troubleshooting": {
-    "category": "Troubleshooting",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 52.0,
-    "reasoning": "The content discusses issues related to deploying Team System and provides a workaround for accessing servers, indicating a significant focus on troubleshooting deployment challenges.",
-    "level": "Secondary"
-  },
-  "Backlog Refinement": {
-    "category": "Backlog Refinement",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no clear focus on backlog refinement.",
-    "level": "Ignored"
-  },
-  "Evidence Based Management": {
-    "category": "Evidence Based Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on evidence-based management principles.",
-    "level": "Ignored"
-  },
-  "Remote Working": {
-    "category": "Remote Working",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no clear focus on remote working.",
-    "level": "Ignored"
-  },
-  "Agile Planning Tools": {
-    "category": "Agile Planning Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is related to agile planning and project management, but the primary focus is on deployment issues rather than agile planning tools themselves.",
-    "level": "Ignored"
-  },
-  "Personal": {
-    "category": "Personal",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of deploying Team Foundation Server in a corporate environment, with no significant focus on personal experiences or themes.",
-    "level": "Ignored"
-  },
-  "Automated Testing": {
-    "category": "Automated Testing",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, with no clear focus on automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no clear focus on Scrum or its scaling.",
-    "level": "Ignored"
-  },
-  "Pragmatic Thinking": {
-    "category": "Pragmatic Thinking",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses practical solutions for deploying Team Foundation Server in a corporate environment, highlighting problem-solving and resourcefulness, but it is primarily focused on the deployment process rather than broader pragmatic thinking concepts.",
-    "level": "Ignored"
-  },
-  "Acceptance Test Driven Development": {
-    "category": "Acceptance Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, with no mention of Acceptance Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Organisational Change": {
-    "category": "Organisational Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server within a corporate environment, with no clear focus on organisational change.",
-    "level": "Ignored"
-  },
-  "Product Owner": {
-    "category": "Product Owner",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on the role or responsibilities of a Product Owner.",
-    "level": "Ignored"
-  },
-  "Product Strategy": {
-    "category": "Product Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server (TFS) within a corporate environment, rather than focusing on product strategy.",
-    "level": "Ignored"
-  },
-  "Flow Efficiency": {
-    "category": "Flow Efficiency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on flow efficiency.",
-    "level": "Ignored"
-  },
-  "Transparency": {
-    "category": "Transparency",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on transparency.",
-    "level": "Ignored"
-  },
-  "Change Management": {
-    "category": "Change Management",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deploying Team System and overcoming access issues, which relates to change management in a corporate environment, but it is not the primary focus.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on deploying Team Foundation Server (TFS) within a corporate environment, discussing specific technical challenges and solutions relevant to software development practices.",
-    "level": "Secondary"
-  },
-  "Working Software": {
-    "category": "Working Software",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on deploying Team Foundation Server (TFS) within a corporate environment, discussing practical steps and resources related to software deployment.",
-    "level": "Secondary"
-  },
-  "System Configuration": {
-    "category": "System Configuration",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) within a corporate environment, detailing specific steps and considerations related to system configuration and database management.",
-    "level": "Secondary"
-  },
-  "Lean Startup": {
-    "category": "Lean Startup",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on Lean Startup principles or methodologies.",
-    "level": "Ignored"
-  },
-  "Organisational Culture": {
-    "category": "Organisational Culture",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of deploying Team Foundation Server within a corporate environment, with no significant focus on organisational culture.",
-    "level": "Ignored"
-  },
-  "Digital Transformation": {
-    "category": "Digital Transformation",
-    "ai_confidence": 45,
-    "non_ai_confidence": 0,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, which is related to project management and IT infrastructure rather than a clear focus on digital transformation.",
-    "level": "Ignored"
-  },
-  "Sprint Review": {
-    "category": "Sprint Review",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no mention of Sprint Review or related Scrum events.",
-    "level": "Ignored"
-  },
-  "Azure DevOps": {
-    "category": "Azure DevOps",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses deploying Team Foundation Server (TFS), which is a key component of Azure DevOps, and provides specific guidance on installation and database management.",
-    "level": "Secondary"
-  },
-  "Entrepreneurship": {
-    "category": "Entrepreneurship",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of deploying Team Foundation Server in a corporate environment, with no clear focus on entrepreneurship.",
-    "level": "Ignored"
-  },
-  "Technical Debt": {
-    "category": "Technical Debt",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, without a focus on technical debt.",
-    "level": "Ignored"
-  },
-  "Daily Scrum": {
-    "category": "Daily Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no mention of Daily Scrum practices or events.",
-    "level": "Ignored"
-  },
-  "Continuous Integration": {
-    "category": "Continuous Integration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deploying Team Foundation Server (TFS), which is related to continuous integration practices, but the primary focus is on deployment challenges rather than CI itself.",
-    "level": "Ignored"
-  },
-  "Customer Satisfaction": {
-    "category": "Customer Satisfaction",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Large Scale Agility": {
-    "category": "Large Scale Agility",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with limited focus on large scale agility principles.",
-    "level": "Ignored"
-  },
-  "Coaching": {
-    "category": "Coaching",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server in a corporate environment, with no clear focus on coaching or related themes.",
-    "level": "Ignored"
-  },
-  "Modern Source Control": {
-    "category": "Modern Source Control",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily discusses deploying Team Foundation Server (TFS), which is a modern source control system, and provides specific guidance on its installation and database management.",
-    "level": "Secondary"
-  },
-  "Continuous Learning": {
-    "category": "Continuous Learning",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on deploying Team Foundation Server in a corporate environment, with no significant emphasis on continuous learning.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) and related technical issues, with no clear focus on Scrum practices or principles.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and technical challenges related to it, with no clear focus on resilience or change.",
-    "level": "Ignored"
-  },
-  "Agile Strategy": {
-    "category": "Agile Strategy",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) in a corporate environment, with no clear focus on Agile strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Test Driven Development": {
-    "category": "Test Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, with no mention of Test Driven Development as a central theme.",
-    "level": "Ignored"
-  },
-  "Agile Leadership": {
-    "category": "Agile Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server (TFS) in a corporate environment, with no clear focus on Agile leadership principles or practices.",
-    "level": "Ignored"
-  },
-  "Market Share": {
-    "category": "Market Share",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no focus on market share.",
-    "level": "Ignored"
-  },
-  "MVP": {
-    "category": "MVP",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, with no clear focus on MVP concepts.",
-    "level": "Ignored"
-  },
-  "Organisational Agility": {
-    "category": "Organisational Agility",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily focuses on deploying Team Foundation Server within a corporate environment, with limited discussion on organisational agility.",
-    "level": "Ignored"
-  },
-  "Throughput": {
-    "category": "Throughput",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related challenges, with no clear focus on throughput as a central theme.",
-    "level": "Ignored"
-  },
-  "Value Delivery": {
-    "category": "Value Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deploying Team Foundation Server, which relates to delivering value through effective project management and collaboration tools, but the primary focus is on the technical challenges of deployment rather than value delivery itself.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with limited focus on scaling agility principles.",
-    "level": "Ignored"
-  },
-  "Software Development": {
-    "category": "Software Development",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 59.0,
-    "reasoning": "Content primarily focuses on deploying Team Foundation Server (TFS) within a corporate environment, discussing specific challenges and solutions related to software deployment.",
-    "level": "Secondary"
-  },
-  "Deployment Strategies": {
-    "category": "Deployment Strategies",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on deploying Team System within a corporate environment, discussing specific strategies and workarounds for server access and database management.",
-    "level": "Secondary"
-  },
-  "Sprint Planning Workshop": {
-    "category": "Sprint Planning Workshop",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server and related technical challenges, with no mention of sprint planning or workshop activities.",
-    "level": "Ignored"
-  },
-  "Accountability": {
-    "category": "Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on accountability.",
-    "level": "Ignored"
-  },
-  "Team Collaboration": {
-    "category": "Team Collaboration",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses deploying Team System, which involves collaboration among team members, but the primary focus is on technical deployment rather than collaboration itself.",
-    "level": "Ignored"
-  },
-  "Portfolio Management": {
-    "category": "Portfolio Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server within an investment bank, which is not directly related to portfolio management.",
-    "level": "Ignored"
-  },
-  "Definition of Ready": {
-    "category": "Definition of Ready",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses deploying Team System in a corporate environment and does not focus on the Definition of Ready.",
-    "level": "Ignored"
-  },
-  "Product Backlog": {
-    "category": "Product Backlog",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on product backlog management or related topics.",
-    "level": "Ignored"
-  },
-  "Ability to Innovate": {
-    "category": "Ability to Innovate",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Master": {
-    "category": "Scrum Master",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) and related technical issues, with no clear focus on Scrum roles or practices.",
-    "level": "Ignored"
-  },
-  "Cross Functional Teams": {
-    "category": "Cross Functional Teams",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical issues, with no clear focus on cross functional teams.",
-    "level": "Ignored"
-  },
-  "Team Motivation": {
-    "category": "Team Motivation",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses technical aspects of deploying Team Foundation Server and does not focus on team motivation.",
-    "level": "Ignored"
-  },
-  "Psychological Safety": {
-    "category": "Psychological Safety",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical issues, with no mention of psychological safety.",
-    "level": "Ignored"
-  },
-  "Lean Thinking": {
-    "category": "Lean Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on Lean Thinking principles.",
-    "level": "Ignored"
-  },
-  "Systems Thinking": {
-    "category": "Systems Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, focusing on technical challenges and solutions rather than systems thinking concepts.",
-    "level": "Ignored"
-  },
-  "Customer Feedback Loops": {
-    "category": "Customer Feedback Loops",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on customer feedback loops.",
-    "level": "Ignored"
-  },
-  "Technical Excellence": {
-    "category": "Technical Excellence",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses deploying Team Foundation Server (TFS) and provides specific technical guidance, making it a major theme, though it also includes personal anecdotes and broader context.",
-    "level": "Ignored"
-  },
-  "Scrum Product Management": {
-    "category": "Scrum Product Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) and related technical issues, with no clear focus on Scrum or product management principles.",
-    "level": "Ignored"
-  },
-  "Sensemaking": {
-    "category": "Sensemaking",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with a focus on technical challenges and solutions, rather than on sensemaking.",
-    "level": "Ignored"
-  },
-  "Lead Time": {
-    "category": "Lead Time",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on lead time.",
-    "level": "Ignored"
-  },
-  "Test First Development": {
-    "category": "Test First Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no mention of Test First Development.",
-    "level": "Ignored"
-  },
-  "Collaboration Tools": {
-    "category": "Collaboration Tools",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deploying Team Foundation Server (TFS), which is a collaboration tool, but the primary focus is on the deployment process rather than collaboration features or practices.",
-    "level": "Ignored"
-  },
-  "Engineering Practices": {
-    "category": "Engineering Practices",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deploying Team Foundation Server (TFS), which relates to engineering practices, but the focus is more on personal experiences and challenges rather than a structured discussion of engineering methodologies.",
-    "level": "Ignored"
-  },
-  "Continuous Delivery": {
-    "category": "Continuous Delivery",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deploying Team Foundation Server, which is related to continuous delivery, but the primary focus is on the challenges faced during the deployment process rather than continuous delivery practices themselves.",
-    "level": "Ignored"
-  },
-  "Azure Repos": {
-    "category": "Azure Repos",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) deployment, which is related to Azure Repos, but the primary focus is on deployment challenges rather than Azure Repos specifically.",
-    "level": "Ignored"
-  },
-  "Operational Practices": {
-    "category": "Operational Practices",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 49.0,
-    "reasoning": "The content discusses deploying Team Foundation Server (TFS) and includes practical steps and resources related to the deployment process, indicating a focus on operational practices, though it also includes personal anecdotes and broader context.",
-    "level": "Ignored"
-  },
-  "Windows": {
-    "category": "Windows",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily discusses deploying Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows ecosystem, indicating a strong focus on Windows-related topics.",
-    "level": "Secondary"
-  },
-  "Evidence Based Leadership": {
-    "category": "Evidence Based Leadership",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on evidence-based leadership principles.",
-    "level": "Ignored"
-  },
-  "Customer Retention": {
-    "category": "Customer Retention",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no focus on customer retention.",
-    "level": "Ignored"
-  },
-  "Site Reliability Engineering": {
-    "category": "Site Reliability Engineering",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server within a corporate environment, which is more focused on software deployment rather than site reliability engineering principles.",
-    "level": "Ignored"
-  },
-  "Professional Scrum": {
-    "category": "Professional Scrum",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) in a corporate environment, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
-  "Complexity Thinking": {
-    "category": "Complexity Thinking",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, focusing on practical steps and challenges rather than complexity thinking.",
-    "level": "Ignored"
-  },
-  "Mentoring": {
-    "category": "Mentoring",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and technical challenges faced, with no clear focus on mentoring.",
-    "level": "Ignored"
-  },
-  "Enterprise Agility": {
-    "category": "Enterprise Agility",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 21.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no significant focus on enterprise agility principles or practices.",
-    "level": "Ignored"
-  },
-  "Deployment Frequency": {
-    "category": "Deployment Frequency",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 35.0,
-    "reasoning": "The content discusses deploying Team System, which relates to deployment frequency, but the primary focus is on the challenges and methods of deployment rather than the frequency itself.",
-    "level": "Ignored"
-  },
-  "Technical Mastery": {
-    "category": "Technical Mastery",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on deploying Team Foundation Server (TFS) in a corporate environment, discussing technical solutions and resources related to TFS installation and database management.",
-    "level": "Secondary"
-  },
-  "Definition of Done": {
-    "category": "Definition of Done",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server and related technical challenges, with no clear focus on the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Behaviour Driven Development": {
-    "category": "Behaviour Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) in a corporate environment, with no clear focus on Behaviour Driven Development.",
-    "level": "Ignored"
-  },
-  "Product Discovery": {
-    "category": "Product Discovery",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on product discovery.",
-    "level": "Ignored"
-  },
-  "Hypothesis Driven Development": {
-    "category": "Hypothesis Driven Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on hypothesis driven development.",
-    "level": "Ignored"
-  },
-  "Asynchronous Development": {
-    "category": "Asynchronous Development",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) within a corporate environment, with no clear focus on asynchronous development practices.",
-    "level": "Ignored"
-  },
-  "Value Stream Management": {
-    "category": "Value Stream Management",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) within a corporate environment, focusing on technical challenges and solutions rather than value stream management.",
-    "level": "Ignored"
-  },
-  "Lean": {
-    "category": "Lean",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deploying Team Foundation Server in a corporate environment, with no clear focus on Lean principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and provides links to guides and resources, indicating a focus on a specific product, but it is primarily about deployment challenges rather than a detailed exploration of the product itself.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with a focus on technical challenges and solutions, rather than on discovery or learning as a central theme.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 38.0,
-    "reasoning": "The content discusses deploying Team Foundation Server, which involves technical aspects of code management and complexity in a corporate environment, but it is primarily focused on deployment challenges rather than code complexity itself.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no focus on news or reviews.",
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-17T10:08:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related technical issues, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "ai_confidence": 85,
+    "calculated_at": "2025-02-17T10:08:22",
+    "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on deploying Team System, discussing installation challenges and solutions, which aligns closely with the Install and Configuration category.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the installation and deployment of Team Foundation Server (TFS) within a corporate environment, including specific steps and references to guides that facilitate the installation process.",
     "level": "Secondary"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-17T10:08:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical implementation and deployment of Team Foundation Server, with no focus on decision-making processes or related themes.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-17T10:08:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical aspects of deploying Team Foundation Server and does not focus on human behaviour or process methodologies.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-17T10:08:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses technical aspects of deploying Team Foundation Server without addressing organisational resilience or change management.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-17T10:08:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical implementation details related to deploying Team Foundation Server, without a focus on value delivery strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-17T10:08:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) within a corporate environment, focusing on technical aspects rather than organisational agility or related strategies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T10:08:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Team Foundation Server (TFS) deployment and related technical issues, with no clear focus on Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-17T10:08:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related technical issues, with no focus on flow efficiency or optimisation of work throughput.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T10:08:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on BetaCodex principles or related topics.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-17T10:08:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses deployment challenges and solutions related to Team Foundation Server, lacking a focus on broader engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-17T10:08:37",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses deploying Team Foundation Server (TFS), which is part of Azure DevOps, but the focus is more on personal experiences and challenges rather than on Azure DevOps functionalities or best practices.",
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-17T10:08:39",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, focusing on technical aspects rather than sociotechnical systems.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "Content primarily focuses on the practical aspects of deploying Team Foundation Server, including specific techniques and references to guides and articles for assistance.",
-    "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 6.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no clear focus on AI or automation in agility.",
-    "level": "Ignored"
-  },
-  "Organisational Psychology": {
-    "category": "Organisational Psychology",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of deploying Team Foundation Server in a corporate environment, with no clear focus on organisational psychology.",
+    "reasoning": "Content primarily discusses technical aspects of deploying Team Foundation Server without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
+    "calculated_at": "2025-02-17T10:08:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no significant focus on metrics or learning.",
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related technical issues, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server and related technical challenges, with no clear focus on transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Agile Product Management": {
-    "category": "Agile Product Management",
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T10:08:41",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment of Team Foundation Server (TFS) in a corporate environment, with no clear focus on Agile Product Management principles or practices.",
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) and related challenges, without a clear focus on platform engineering principles or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-17T10:08:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related logistical challenges, without addressing code quality or complexity.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-17T10:08:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related technical issues, with no focus on Evidence-Based Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-17T10:08:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical aspects of deploying Team Foundation Server and does not address psychological principles or theories related to organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-17T10:08:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) and related technical issues, with no clear focus on business agility principles or practices.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-17T10:08:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) within a specific organisational context, without addressing broader themes of enterprise agility or organisational adaptability.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-17T10:08:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Team Foundation Server (TFS) deployment and related technical issues, with no mention of Kanban principles or practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "ai_confidence": 80,
+    "calculated_at": "2025-02-17T10:08:51",
+    "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "Content primarily focuses on deploying Team Foundation Server (TFS) within a corporate environment, discussing specific steps and challenges related to the deployment process.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses the deployment of Team Foundation Server (TFS), which is related to the deployment phase of product delivery, but it does not cover broader methodologies or practices involved in the end-to-end process.",
+    "level": "Tertiary"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-17T10:08:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Team Foundation Server deployment and related technical issues, with no clear focus on Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-17T10:08:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on a personal experience with deploying Team Foundation Server, lacking industry news or reviews.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-17T10:08:56",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the practical deployment of Team Foundation Server (TFS) within a corporate environment, including specific techniques and resources for overcoming access issues and managing database transfers.",
     "level": "Secondary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-17T10:08:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses deploying Team Foundation Server (TFS), which is related to application lifecycle management, but the primary focus is on the deployment process rather than the broader aspects of ALM.",
+    "level": "Tertiary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-17T10:08:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related technical issues, with no clear focus on complexity science or its principles.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-17T10:09:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related technical issues, with no clear focus on market adaptability strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T10:09:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) and related technical issues, with no focus on Agile principles or product-centric development.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-17T10:09:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server in a corporate environment, with no focus on events, presentations, or discussions related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-17T10:09:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) and technical challenges, with no clear focus on Agile product management principles or practices.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-17T10:09:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) and related technical issues, with no clear focus on Value Stream Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-17T10:09:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related technical issues, with no focus on Systems Thinking principles or applications.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-17T10:09:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical aspects of deploying Team Foundation Server and does not focus on personal experiences or reflections.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-17T10:09:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on technical implementation details related to deploying Team Foundation Server, with no significant emphasis on discovery or learning processes.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-17T10:09:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical aspects of deploying Team Foundation Server and does not address transparency or accountability within Agile teams.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-17T10:09:13",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its deployment, which relates to tools and software pertinent to Agile and DevOps practices, but it is primarily focused on a personal experience rather than a review or analysis of products or literature.",
+    "level": "Tertiary"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-17T10:09:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) and related technical issues, which are directly linked to specific tools and practices rather than falling under the Miscellaneous category.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-17T10:09:17",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses deploying Team Foundation Server (TFS), which relates to DevOps practices, but it primarily focuses on specific deployment challenges rather than broader DevOps principles or practices.",
+    "level": "Tertiary"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T10:09:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses deploying Team Foundation Server (TFS) and related technical issues, without a focus on the principles or integration aspects of the One Engineering System framework.",
+    "level": "Ignored"
   }
 }

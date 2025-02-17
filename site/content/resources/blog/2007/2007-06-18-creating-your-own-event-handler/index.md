@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/creating-your-own-event-handler
 - /resources/blog/creating-your-own-event-handler
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Practical Techniques and Tooling
-- Azure DevOps
 - Technical Excellence
+- Azure DevOps
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

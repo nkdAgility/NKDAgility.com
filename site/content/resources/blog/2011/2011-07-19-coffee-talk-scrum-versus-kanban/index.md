@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/coffee-talk-scrum-versus-kanban
 tags:
 - Software Development
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 categories:
 - Events and Presentations
 preview: metro-event-128-link-1-1.png

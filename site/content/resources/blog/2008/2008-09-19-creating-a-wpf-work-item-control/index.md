@@ -26,8 +26,8 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 - Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-6-6.png
 

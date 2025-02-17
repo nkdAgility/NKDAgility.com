@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/where-am-i
 tags:
 - Windows
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

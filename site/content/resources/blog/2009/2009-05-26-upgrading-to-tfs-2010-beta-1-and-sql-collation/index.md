@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 - /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 tags:
-- System Configuration
-- Software Development
 - Troubleshooting
+- Software Development
+- System Configuration
 - Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:

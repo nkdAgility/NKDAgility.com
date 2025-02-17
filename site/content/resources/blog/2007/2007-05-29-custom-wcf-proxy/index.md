@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/custom-wcf-proxy
 - /resources/blog/custom-wcf-proxy
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 preview: metro-merilllynch-128-link-1-1.png
 categories:
 - Code and Complexity

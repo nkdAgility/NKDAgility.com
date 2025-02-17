@@ -23,42 +23,42 @@ aliasesFor404:
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags:
 - Operational Practices
-- Definition of Done
 - Acceptance Test Driven Development
-- Software Developers
+- Definition of Done
 - Working Software
+- Software Developers
 - Software Development
 - Continuous Delivery
-- Pragmatic Thinking
-- Engineering Excellence
 - Engineering Practices
 - Agile Project Management
+- Pragmatic Thinking
+- Engineering Excellence
 - Forecasting
-- Product Backlog
 - Scrum Product Development
-- Deployment Frequency
+- Product Backlog
 - Automated Testing
-- Evidence Based Leadership
-- Empirical Process Control
-- Test Automation
 - Team Performance
+- Test Automation
+- Evidence Based Leadership
+- Deployment Frequency
+- Empirical Process Control
+- Release Management
 - Azure Pipelines
 - Strategy
-- Increment
 - Continuous Integration
-- Release Management
+- Increment
 categories:
 - Value Delivery
 - Product Delivery
-- People and Process
 - Metrics and Learning
-- Evidence Based Management
+- People and Process
 - Practical Techniques and Tooling
+- Evidence Based Management
 - Technical Excellence
 - Application Lifecycle Management
 - Agile Product Management
-- Sociotechnical Systems
 - DevOps
+- Sociotechnical Systems
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

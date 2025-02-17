@@ -30,12 +30,12 @@ tags:
 - Automated Testing
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Technical Excellence
-- Azure DevOps
-- Product Delivery
+- Practical Techniques and Tooling
 - DevOps
+- Azure DevOps
+- Technical Excellence
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

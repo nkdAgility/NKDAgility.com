@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Practical Techniques and Tooling

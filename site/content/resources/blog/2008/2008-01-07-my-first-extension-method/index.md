@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/my-first-extension-method---
 - /resources/blog/my-first-extension-method
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

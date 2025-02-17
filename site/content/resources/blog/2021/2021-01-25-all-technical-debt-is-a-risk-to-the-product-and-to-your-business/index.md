@@ -32,8 +32,8 @@ categories:
 - People and Process
 - Product Delivery
 - Transparency and Accountability
-- Value Delivery
 - Code and Complexity
+- Value Delivery
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

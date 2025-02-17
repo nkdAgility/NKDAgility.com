@@ -26,10 +26,10 @@ aliasesFor404:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
-- Scrum Team
 - Scrum Product Development
-- Software Development
+- Scrum Team
 - Team Performance
+- Software Development
 - Team Collaboration
 - Agile Project Management
 - Accountability

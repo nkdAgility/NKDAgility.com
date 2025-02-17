@@ -25,8 +25,8 @@ tags:
 - Windows
 - Software Development
 categories:
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Products and Books
 preview: metro-binary-vb-128-link-3-1.png
 

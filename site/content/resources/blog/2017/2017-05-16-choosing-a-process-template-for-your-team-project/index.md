@@ -27,8 +27,8 @@ categories:
 - Scrum
 - People and Process
 - Agile Product Management
-- Product Delivery
 - Practical Techniques and Tooling
+- Product Delivery
 - Products and Books
 - Azure DevOps
 preview: IC749984-1-1.png

@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 - System Configuration
 - Pragmatic Thinking
 categories:

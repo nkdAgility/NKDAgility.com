@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
 - Technical Mastery
-- System Configuration
-- Software Development
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
+- Software Development
+- System Configuration
 - Operational Practices
 categories:
 - Install and Configuration

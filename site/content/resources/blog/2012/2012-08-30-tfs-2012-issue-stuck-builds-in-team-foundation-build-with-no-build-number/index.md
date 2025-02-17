@@ -32,9 +32,9 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
 - DevOps
+- Azure DevOps
+- Technical Excellence
 preview: metro-problem-icon-7-7.png
 
 ---

@@ -33,9 +33,9 @@ categories:
 - People and Process
 - Value Delivery
 - Product Delivery
+- Agile Product Management
 - Flow Efficiency
 - Practical Techniques and Tooling
-- Agile Product Management
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

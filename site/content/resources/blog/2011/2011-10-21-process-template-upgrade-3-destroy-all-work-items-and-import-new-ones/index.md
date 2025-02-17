@@ -32,8 +32,8 @@ categories:
 - Scrum
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 - Application Lifecycle Management
 
 ---

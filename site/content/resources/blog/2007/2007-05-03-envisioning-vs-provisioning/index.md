@@ -27,9 +27,9 @@ categories:
 - Code and Complexity
 - Discovery and Learning
 - People and Process
-- Sociotechnical Systems
 - Personal
 - Miscellaneous
+- Sociotechnical Systems
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

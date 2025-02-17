@@ -23,13 +23,13 @@ aliasesFor404:
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
 - Troubleshooting
-- System Configuration
 - Working Software
 - Modern Source Control
+- System Configuration
+- Pragmatic Thinking
+- Azure Boards
 - Release Management
 - Software Development
-- Azure Boards
-- Pragmatic Thinking
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

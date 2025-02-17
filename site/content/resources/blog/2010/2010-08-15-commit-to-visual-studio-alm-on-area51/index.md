@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/commit-to-visual-studio-alm-on-area51
 tags:
 - Team Collaboration
-- Modern Source Control
 - Software Development
+- Modern Source Control
 categories:
 - News and Reviews
 - Azure DevOps

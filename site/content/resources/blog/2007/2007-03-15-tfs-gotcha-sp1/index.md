@@ -26,8 +26,12 @@ aliasesFor404:
 - /blog/tfs-gotcha-(sp1)
 - /resources/blog/tfs-gotcha-sp1
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
-tags: []
+categories:
+- Install and Configuration
+- Practical Techniques and Tooling
+tags:
+- System Configuration
+- Troubleshooting
 
 ---
 If you are out there and you have installed SP1 for Team Foundation Server you probably went through as much pain as I did...

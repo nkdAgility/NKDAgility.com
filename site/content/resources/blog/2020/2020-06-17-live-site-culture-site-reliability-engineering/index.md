@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/live-site-culture-site-reliability-engineering
 categories:
 - DevOps
-- Business Agility
 - Market Adaptability
 - Events and Presentations
+- Business Agility
 - Organisational Agility
 - Enterprise Agility
 - Product Delivery
+- News and Reviews
 - People and Process
 - Value Delivery
-- News and Reviews
 - Discovery and Learning
 - Technical Excellence
 - Sociotechnical Systems
@@ -43,16 +43,16 @@ preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
 - Frequent Releases
 - Deployment Frequency
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Continuous Learning
 - Operational Practices
 - Engineering Excellence
-- Release Management
-- Working Software
-- Digital Transformation
-- Software Developers
 - Agile Transformation
+- Working Software
+- Software Developers
+- Digital Transformation
+- Release Management
 - Trend Analysis
 
 ---

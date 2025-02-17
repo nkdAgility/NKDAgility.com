@@ -27,23 +27,23 @@ aliasesFor404:
 - /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 tags:
 - Strategy
-- Product Strategy
-- Product Management
 - Team Collaboration
-- Technical Leadership
-- Ability to Innovate
-- Agile Project Management
-- Working Software
+- Product Management
+- Product Strategy
 - Product Owner
 - Technical Mastery
-- Pragmatic Thinking
-- Software Development
-- Organisational Physics
-- Strategic Goals
-- Software Developers
-- Digital Transformation
-- Engineering Excellence
+- Working Software
+- Ability to Innovate
+- Technical Leadership
+- Agile Project Management
 - Continuous Learning
+- Software Developers
+- Organisational Physics
+- Engineering Excellence
+- Digital Transformation
+- Strategic Goals
+- Software Development
+- Pragmatic Thinking
 categories:
 - Personal
 

@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
-- System Configuration
 - Technical Mastery
-- Software Development
+- System Configuration
 - Troubleshooting
+- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

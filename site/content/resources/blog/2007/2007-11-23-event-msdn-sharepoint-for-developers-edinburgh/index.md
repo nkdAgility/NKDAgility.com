@@ -29,9 +29,9 @@ tags:
 - Windows
 - Software Developers
 - Continuous Learning
-- Software Development
 - Technical Mastery
 - Collaboration Tools
+- Software Development
 categories:
 - Events and Presentations
 - News and Reviews

@@ -23,10 +23,10 @@ aliasesFor404:
 - /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
 tags:
 - Windows
-- System Configuration
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

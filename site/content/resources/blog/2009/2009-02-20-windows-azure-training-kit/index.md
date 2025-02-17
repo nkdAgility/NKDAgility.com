@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/windows-azure-training-kit
 - /resources/blog/windows-azure-training-kit
 tags:
-- Software Development
 - Frequent Releases
 - Technical Mastery
+- Software Development
 preview: metro-cloud-azure-link-3-1.png
 categories:
 - Products and Books

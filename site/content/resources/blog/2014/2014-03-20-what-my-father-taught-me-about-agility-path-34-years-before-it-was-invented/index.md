@@ -28,20 +28,20 @@ aliasesFor404:
 tags:
 - Decision Making
 - Evidence Based Leadership
-- Software Development
 - Lead Time
 - Product Management
 - Change Management
-- Empirical Process Control
-- Ability to Innovate
+- Software Development
 - Customer Satisfaction
+- Ability to Innovate
 - Operational Practices
+- Empirical Process Control
 - Agile Project Management
-- Agile Transformation
-- Agile Strategy
-- Strategy
-- Pragmatic Thinking
 - Sensemaking
+- Strategy
+- Agile Strategy
+- Pragmatic Thinking
+- Agile Transformation
 - Organisational Change
 - Product Validation
 categories:

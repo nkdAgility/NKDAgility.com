@@ -24,14 +24,14 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-- Azure Pipelines
 - Continuous Integration
+- Azure Pipelines
 - Operational Practices
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

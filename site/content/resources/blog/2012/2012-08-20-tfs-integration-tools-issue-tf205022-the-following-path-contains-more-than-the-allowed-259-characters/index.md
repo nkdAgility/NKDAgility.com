@@ -30,9 +30,9 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - Windows
-- System Configuration
-- Software Development
 - Troubleshooting
+- Software Development
+- System Configuration
 - Pragmatic Thinking
 categories:
 - Install and Configuration

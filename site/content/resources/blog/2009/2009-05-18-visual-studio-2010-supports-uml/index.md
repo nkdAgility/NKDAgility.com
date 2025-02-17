@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/visual-studio-2010-supports-uml
 - /resources/blog/visual-studio-2010-supports-uml
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - News and Reviews
 - Products and Books

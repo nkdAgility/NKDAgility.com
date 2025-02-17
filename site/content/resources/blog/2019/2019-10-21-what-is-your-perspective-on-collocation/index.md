@@ -28,11 +28,11 @@ aliasesFor404:
 tags:
 - Scrum Team
 - Organisational Culture
-- Software Development
-- Team Motivation
 - Team Performance
 - Agile Frameworks
+- Team Motivation
 - Agile Project Management
+- Software Development
 - Team Collaboration
 - Software Developers
 - Pragmatic Thinking

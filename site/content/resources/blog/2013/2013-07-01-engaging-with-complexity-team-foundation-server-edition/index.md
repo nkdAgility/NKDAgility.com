@@ -30,14 +30,14 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Install and Configuration
 - Code and Complexity
-- Practical Techniques and Tooling
+- Install and Configuration
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Complexity Thinking
-- Technical Excellence
-- Azure DevOps
 - DevOps
+- Azure DevOps
+- Technical Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

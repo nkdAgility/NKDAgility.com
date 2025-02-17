@@ -22,21 +22,21 @@ aliasesFor404:
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags:
+- Software Developers
 - Software Development
 - Automated Testing
-- Software Developers
 - Working Software
 - Test Automation
-- Windows
-- Continuous Learning
-- Technical Mastery
 - Engineering Practices
+- Continuous Learning
+- Windows
+- Technical Mastery
 - Engineering Excellence
 - Operational Practices
 categories:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
 - Products and Books
 
 ---

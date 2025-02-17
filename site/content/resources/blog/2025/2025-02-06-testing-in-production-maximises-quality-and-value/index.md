@@ -23,13 +23,13 @@ aliasesFor404:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Software Development
 - Deployment Strategies
+- Software Development
 - Continuous Delivery
-- Frequent Releases
-- Deployment Frequency
-- Technical Mastery
 - Software Developers
+- Frequent Releases
+- Technical Mastery
+- Deployment Frequency
 - Engineering Excellence
 - Operational Practices
 - Pragmatic Thinking

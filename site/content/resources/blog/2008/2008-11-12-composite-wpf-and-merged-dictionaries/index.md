@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/composite-wpf-and-merged-dictionaries
 - /resources/blog/composite-wpf-and-merged-dictionaries
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Troubleshooting
 categories:
 - Code and Complexity

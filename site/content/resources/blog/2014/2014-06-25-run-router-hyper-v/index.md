@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/run-router-hyper-v
 tags:
 - Windows
-- System Configuration
-- Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

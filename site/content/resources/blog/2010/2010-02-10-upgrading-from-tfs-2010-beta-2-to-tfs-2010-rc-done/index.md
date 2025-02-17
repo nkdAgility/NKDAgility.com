@@ -24,11 +24,11 @@ aliasesFor404:
 tags:
 - System Configuration
 - Software Development
-- Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
-- Release Management
+- Technical Mastery
+- Troubleshooting
 - Deployment Strategies
+- Release Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
 - Install and Configuration

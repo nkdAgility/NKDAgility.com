@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
 - Software Development
 categories:
 - Install and Configuration

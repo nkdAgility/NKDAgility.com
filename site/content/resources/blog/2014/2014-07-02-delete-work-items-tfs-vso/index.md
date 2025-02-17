@@ -26,9 +26,9 @@ aliasesFor404:
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
 tags:
-- Software Development
 - Troubleshooting
 - Azure Boards
+- Software Development
 - Technical Mastery
 categories:
 - Install and Configuration

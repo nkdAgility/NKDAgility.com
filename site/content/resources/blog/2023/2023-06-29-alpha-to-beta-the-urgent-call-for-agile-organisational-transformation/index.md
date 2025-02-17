@@ -29,8 +29,8 @@ aliasesFor404:
 tags:
 - Organisational Change
 categories:
-- Organisational Agility
 - Business Agility
+- Organisational Agility
 - Enterprise Agility
 - People and Process
 - Resilience and Change

@@ -30,9 +30,9 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Software Development
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
+- Software Development
 - Technical Mastery
 categories:
 - Install and Configuration

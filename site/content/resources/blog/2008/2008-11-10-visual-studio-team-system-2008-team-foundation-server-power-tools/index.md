@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/visual-studio-team-system-2008-team-foundation-server-power-tools
 tags:
 - Release Management
-- Software Development
 - Frequent Releases
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - News and Reviews

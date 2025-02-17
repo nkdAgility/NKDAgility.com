@@ -29,19 +29,19 @@ aliasesFor404:
 - /resources/blog/guidance-branching-for-each-sprint
 categories:
 - Scrum
-- Product Delivery
 - Practical Techniques and Tooling
+- Product Delivery
 - Technical Excellence
 tags:
 - Scrum Product Development
-- Software Development
 - Software Developers
-- Modern Source Control
+- Software Development
 - Professional Scrum
+- Modern Source Control
 - Operational Practices
 - Agile Frameworks
-- Pragmatic Thinking
 - Agile Project Management
+- Pragmatic Thinking
 - Working Software
 
 ---

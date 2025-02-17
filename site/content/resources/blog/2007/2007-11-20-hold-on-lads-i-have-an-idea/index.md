@@ -30,13 +30,13 @@ aliasesFor404:
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
 tags:
-- Organisational Physics
 - Ability to Innovate
+- Organisational Physics
 - Digital Transformation
 categories:
 - People and Process
-- Sociotechnical Systems
 - Business Agility
+- Sociotechnical Systems
 - Miscellaneous
 preview: nakedalm-logo-128-link-3-3.png
 

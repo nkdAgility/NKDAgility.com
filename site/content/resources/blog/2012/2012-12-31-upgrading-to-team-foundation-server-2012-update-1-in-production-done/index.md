@@ -28,11 +28,11 @@ aliasesFor404:
 tags:
 - System Configuration
 - Software Development
-- Release Management
 - Pragmatic Thinking
+- Release Management
 - Windows
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
 - Operational Practices
 categories:
 - Install and Configuration

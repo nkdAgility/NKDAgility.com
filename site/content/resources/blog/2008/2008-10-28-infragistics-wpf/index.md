@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/infragistics-wpf
 - /resources/blog/infragistics-wpf
 tags:
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

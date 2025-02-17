@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/get-analysis-services-last-processed-date
 - /resources/blog/get-analysis-services-last-processed-date
 tags:
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Code and Complexity

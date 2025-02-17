@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - Modern Source Control
-- System Configuration
 - Software Development
+- System Configuration
 - Troubleshooting
 - Operational Practices
 categories:

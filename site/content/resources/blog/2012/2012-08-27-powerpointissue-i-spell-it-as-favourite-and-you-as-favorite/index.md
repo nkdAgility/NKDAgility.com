@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 tags:
 - Windows
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
 categories:
 - Practical Techniques and Tooling
 - Miscellaneous

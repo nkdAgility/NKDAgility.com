@@ -25,47 +25,47 @@ aliasesFor404:
 tags:
 - Experimentation
 - Agile Project Management
+- Product Discovery
+- Lean Product Development
+- Strategic Goals
 - Product Management
 - Evidence Based Leadership
-- Product Discovery
-- Strategic Goals
-- Lean Product Development
 - Ability to Innovate
 - Change Management
-- Decision Making
-- Product Validation
+- Agile Strategy
 - Organisational Change
 - Product Strategy
-- Agile Transformation
-- Agile Strategy
 - Agile Philosophy
 - Agile Frameworks
-- Strategy
-- Pragmatic Thinking
-- Empirical Process Control
-- Hypothesis Driven Development
-- Digital Transformation
+- Agile Transformation
+- Decision Making
+- Product Validation
 - Continuous Learning
-- Sensemaking
 - Organisational Physics
+- Digital Transformation
+- Sensemaking
+- Pragmatic Thinking
+- Hypothesis Driven Development
+- Strategy
+- Empirical Process Control
 - Agile Leadership
+- Operational Practices
 - Lean Startup
 - Agile Planning
 - Portfolio Management
-- Operational Practices
 - Trend Analysis
 categories:
-- Agile Product Operating Model
 - Agile Product Management
+- Agile Product Operating Model
 - People and Process
 - Resilience and Change
 - Value Delivery
-- Evidence Based Management
 - Product Delivery
 - Discovery and Learning
+- Evidence Based Management
 - Metrics and Learning
-- Business Agility
 - Market Adaptability
+- Business Agility
 - Organisational Agility
 - Enterprise Agility
 - Sociotechnical Systems

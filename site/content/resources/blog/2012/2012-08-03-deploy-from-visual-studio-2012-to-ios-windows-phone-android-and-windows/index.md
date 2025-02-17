@@ -35,8 +35,8 @@ tags:
 - Working Software
 categories:
 - Value Delivery
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Product Delivery
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

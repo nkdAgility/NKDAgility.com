@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 tags:
 - Windows
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 preview: metro-sharepoint-128-link-6-6.png

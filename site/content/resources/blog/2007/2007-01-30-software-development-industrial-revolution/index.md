@@ -22,7 +22,22 @@ aliasesFor404:
 - /blog/software-development-industrial-revolution
 - /resources/blog/software-development-industrial-revolution
 tags: []
-categories: []
+categories:
+- Application Lifecycle Management
+- News and Reviews
+- People and Process
+- Practical Techniques and Tooling
+- Product Delivery
+- Products and Books
+- DevOps
+- Market Adaptability
+- Value Delivery
+- Azure DevOps
+- Technical Excellence
+- Flow Efficiency
+- Business Agility
+- Miscellaneous
+- Sociotechnical Systems
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -27,9 +27,9 @@ aliasesFor404:
 - /resources/blog/scrum-with-dev11-creating-a-new-team-project
 tags:
 - Agile Project Management
-- Software Development
-- Asynchronous Development
 - Agile Frameworks
+- Asynchronous Development
+- Software Development
 categories:
 - Scrum
 - Practical Techniques and Tooling

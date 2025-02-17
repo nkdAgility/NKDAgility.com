@@ -29,23 +29,23 @@ tags:
 - Increment
 - Agile Project Management
 - Scrum Product Development
-- Software Development
 - Scrum Team
 - Scrum Master
-- Agile Planning
+- Software Development
 - Team Performance
-- Software Developers
 - Professional Scrum
+- Software Developers
+- Agile Planning
 - Agile Frameworks
-- Pragmatic Thinking
 - Agile Transformation
+- Pragmatic Thinking
 categories:
 - Scrum
 - People and Process
-- Product Delivery
+- Agile Product Management
 - News and Reviews
 - Events and Presentations
-- Agile Product Management
+- Product Delivery
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

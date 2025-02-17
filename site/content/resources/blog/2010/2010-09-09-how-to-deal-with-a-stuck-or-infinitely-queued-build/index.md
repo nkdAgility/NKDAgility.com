@@ -27,9 +27,9 @@ preview: metro-SSWLogo-128-link-11-11.png
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
 - DevOps
+- Azure DevOps
+- Technical Excellence
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

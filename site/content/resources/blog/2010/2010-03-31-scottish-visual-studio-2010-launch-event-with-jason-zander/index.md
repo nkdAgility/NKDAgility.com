@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Windows
 - Team Collaboration
-- Software Development
 - Technical Mastery
 - Collaboration Tools
+- Software Development
 - Software Developers
 categories:
 - Events and Presentations

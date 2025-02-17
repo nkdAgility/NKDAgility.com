@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 tags:
 - Agile Values and Principles
-- Scaling Scrum
-- Scrum Values
 - Professional Scrum
-- Software Development
-- Software Developers
+- Scrum Values
+- Scaling Scrum
 - Agile Frameworks
 - Agile Transformation
 - Agile Project Management
+- Software Developers
+- Software Development
 - Team Performance
 - Pragmatic Thinking
 categories:

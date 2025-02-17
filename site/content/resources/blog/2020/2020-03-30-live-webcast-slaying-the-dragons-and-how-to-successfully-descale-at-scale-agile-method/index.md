@@ -28,24 +28,24 @@ aliasesFor404:
 tags:
 - Agile Values and Principles
 - Scaled Agile
-- Agile Philosophy
-- Agile Strategy
-- Large Scale Agility
-- Agile Transformation
 - Change Management
-- Agile Leadership
 - Agile Frameworks
-- Organisational Change
-- Scaling Agility
+- Large Scale Agility
 - Agile Project Management
-- Strategic Goals
-- Digital Transformation
+- Agile Transformation
+- Agile Leadership
+- Agile Strategy
+- Organisational Change
+- Agile Philosophy
+- Scaling Agility
 - Strategy
-- Organisational Culture
-- Pragmatic Thinking
-- Organisational Physics
+- Strategic Goals
 - Entrepreneurship
 - Software Development
+- Pragmatic Thinking
+- Digital Transformation
+- Organisational Culture
+- Organisational Physics
 categories:
 - Events and Presentations
 - Organisational Agility

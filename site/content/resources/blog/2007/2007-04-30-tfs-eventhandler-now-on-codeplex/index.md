@@ -25,11 +25,12 @@ aliasesFor404:
 - /tfs-eventhandler--now-on-codeplex
 - /blog/tfs-eventhandler--now-on-codeplex
 - /resources/blog/tfs-eventhandler-now-on-codeplex
-tags: []
+tags:
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Install and Configuration
 - Code and Complexity
+- Install and Configuration
 - Practical Techniques and Tooling
 
 ---

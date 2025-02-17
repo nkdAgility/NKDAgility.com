@@ -24,22 +24,22 @@ aliasesFor404:
 tags:
 - Definition of Done
 - Increment
-- Software Development
 - Scrum Product Development
+- Software Development
 - Professional Scrum
 - Working Software
 - Operational Practices
-- Agile Planning
-- Software Developers
 - Agile Frameworks
-- Engineering Excellence
-- Pragmatic Thinking
 - Agile Project Management
+- Software Developers
+- Pragmatic Thinking
+- Engineering Excellence
+- Agile Planning
 categories:
 - Scrum
 - Product Delivery
-- Value Delivery
 - Agile Product Management
+- Value Delivery
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

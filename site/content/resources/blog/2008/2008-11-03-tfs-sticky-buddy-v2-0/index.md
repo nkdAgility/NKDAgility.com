@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/tfs-sticky-buddy-v2-0
 tags:
 - Working Software
-- Software Development
 - Technical Mastery
+- Software Development
 preview: nakedalm-logo-128-link-2-1.png
 categories:
 - Code and Complexity

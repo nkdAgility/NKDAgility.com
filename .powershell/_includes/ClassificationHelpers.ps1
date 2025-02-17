@@ -28,6 +28,7 @@ $catalogues["catalog"] = @{}
 $catalogues["catalog"]["categories"] = Get-CatalogHashtable -Classification "categories"
 $catalogues["catalog"]["tags"] = Get-CatalogHashtable -Classification "tags"
 $catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"]
+$catalogues["marketing"] = Get-CatalogHashtable -Classification "marketing"
 
 function Get-CategoryConfidenceWithChecksum {
     param (
@@ -65,7 +66,7 @@ function Get-CategoryConfidenceWithChecksum {
         "marketing" {
             $catalog = $catalogues["marketing"]
             $catalog_full = $catalog
-            $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+            $cacheFile = Join-Path $CacheFolder "data.index.classifications.marketing.json"
         }
         default {
             Write-ErrorLog "Invalid classification type. Please use 'categories', 'tags', or 'marketing'."

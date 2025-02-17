@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/ad-update-o-matic
 - /resources/blog/ad-update-o-matic
 tags:
-- Windows
-- System Configuration
 - Working Software
-- Software Development
+- Windows
 - Technical Mastery
+- Software Development
+- System Configuration
 - Operational Practices
 categories: []
 preview: metro-sharepoint-128-link-1-1.png

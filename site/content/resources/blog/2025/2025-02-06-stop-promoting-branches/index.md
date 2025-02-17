@@ -20,14 +20,14 @@ aliasesFor404:
 - /blog/stop-promoting-branches
 tags:
 - Software Development
-- Continuous Delivery
-- Release Management
 - Engineering Practices
 - Software Developers
+- Release Management
 - Continuous Integration
-- Deployment Frequency
+- Continuous Delivery
 - Deployment Strategies
 - Modern Source Control
+- Deployment Frequency
 - Engineering Excellence
 - Operational Practices
 - Frequent Releases
@@ -38,8 +38,8 @@ categories:
 - Technical Excellence
 - Value Delivery
 - Flow Efficiency
-- Product Delivery
 - Practical Techniques and Tooling
+- Product Delivery
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
 

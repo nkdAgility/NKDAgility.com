@@ -28,12 +28,12 @@ aliasesFor404:
 tags:
 - Professional Scrum
 - Scrum Master
-- Organisational Change
 - Agile Project Management
-- Software Development
+- Organisational Change
 - Agile Frameworks
-- Pragmatic Thinking
 - Agile Transformation
+- Pragmatic Thinking
+- Software Development
 - Technical Leadership
 categories:
 - Scrum

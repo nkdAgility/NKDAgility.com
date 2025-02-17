@@ -28,12 +28,12 @@ aliasesFor404:
 tags:
 - Automated Testing
 - Modern Source Control
-- Software Development
-- Technical Mastery
 - Engineering Practices
-- Azure Pipelines
+- Technical Mastery
 - Engineering Excellence
+- Software Development
 - Continuous Integration
+- Azure Pipelines
 - Operational Practices
 - Continuous Delivery
 - Software Developers
@@ -42,10 +42,10 @@ tags:
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
-- Application Lifecycle Management
 - DevOps
+- Azure DevOps
+- Technical Excellence
+- Application Lifecycle Management
 - Product Delivery
 
 ---

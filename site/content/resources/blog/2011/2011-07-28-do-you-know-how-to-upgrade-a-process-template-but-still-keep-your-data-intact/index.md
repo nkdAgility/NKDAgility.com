@@ -26,10 +26,10 @@ aliasesFor404:
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 tags:
-- System Configuration
-- Software Development
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
+- Software Development
+- System Configuration
 - Operational Practices
 - Technical Mastery
 categories:

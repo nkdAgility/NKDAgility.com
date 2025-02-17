@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/teamplain---revisit
 - /resources/blog/teamplain-revisit
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Miscellaneous
 tags: []
 
 ---

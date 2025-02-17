@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 tags:
 - Windows
-- System Configuration
-- Software Development
 - Troubleshooting
+- Software Development
+- System Configuration
 - Azure Pipelines
 categories:
 - Install and Configuration

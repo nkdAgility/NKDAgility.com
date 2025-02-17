@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/installing-release-management-client-visual-studio-2013
 tags:
 - Release Management
-- System Configuration
 - Software Development
-- Troubleshooting
+- System Configuration
 - Technical Mastery
+- Troubleshooting
 categories:
 - Install and Configuration
 

@@ -29,9 +29,9 @@ tags:
 - Software Development
 - System Configuration
 - Release Management
-- Troubleshooting
 - Technical Mastery
 - Engineering Excellence
+- Troubleshooting
 categories:
 - Install and Configuration
 - News and Reviews

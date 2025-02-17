@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/blog/move-azure-vm-virtual-network
 tags:
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

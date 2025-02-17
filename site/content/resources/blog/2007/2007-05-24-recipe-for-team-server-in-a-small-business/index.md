@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/recipe-for-team-server-in-a-small-business
 tags:
 - Modern Source Control
-- Software Development
 - Pragmatic Thinking
 - Collaboration Tools
+- Software Development
 - Operational Practices
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:

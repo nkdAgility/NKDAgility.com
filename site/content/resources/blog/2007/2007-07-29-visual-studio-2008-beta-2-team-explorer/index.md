@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/visual-studio-2008-beta-2-team-explorer
 tags:
 - Windows
-- System Configuration
 - Software Development
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Install and Configuration

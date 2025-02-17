@@ -31,10 +31,10 @@ categories:
 - People and Process
 - Application Lifecycle Management
 - Install and Configuration
-- Product Delivery
 - Practical Techniques and Tooling
-- Technical Excellence
+- Product Delivery
 - Azure DevOps
+- Technical Excellence
 - Sociotechnical Systems
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 

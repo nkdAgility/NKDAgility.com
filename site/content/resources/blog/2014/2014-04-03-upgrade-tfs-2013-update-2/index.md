@@ -29,19 +29,19 @@ tags:
 - Release Management
 - System Configuration
 - Agile Planning Tools
-- Software Development
 - Frequent Releases
 - Modern Source Control
+- Software Development
 - Working Software
 - Pragmatic Thinking
 categories:
 - Install and Configuration
 - News and Reviews
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Products and Books
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 - Product Delivery
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

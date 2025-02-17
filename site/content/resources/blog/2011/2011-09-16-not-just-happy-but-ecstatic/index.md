@@ -31,14 +31,14 @@ aliasesFor404:
 - /resources/blog/not-just-happy-but-ecstatic
 tags:
 - Pragmatic Thinking
-- Release Management
 - Technical Mastery
+- Release Management
 - Operational Practices
 categories:
 - Practical Techniques and Tooling
 - Product Delivery
-- Personal
 - DevOps
+- Personal
 
 ---
 ![VS2008Upgraded_4](images/VS2008Upgraded_4-1-1.png "VS2008Upgraded_4")As a consultant I have customers. Unfortunately being a **consultant** rather than a **contractor** has the down side that I hardly ever here from my customers after my engagement ends.

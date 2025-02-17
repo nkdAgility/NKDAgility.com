@@ -28,18 +28,18 @@ aliasesFor404:
 tags:
 - Experimentation
 - Agile Project Management
-- Continuous Learning
 - Digital Transformation
-- Change Management
 - Agile Values and Principles
 - Agile Leadership
+- Change Management
 - Agile Transformation
-- Organisational Change
-- Technical Leadership
+- Continuous Learning
 - Empirical Process Control
+- Technical Leadership
 - Agile Strategy
 - Agile Philosophy
 - Organisational Culture
+- Organisational Change
 - Strategy
 - Organisational Physics
 - Pragmatic Thinking
@@ -52,9 +52,9 @@ categories:
 - Resilience and Change
 - Business Agility
 - Discovery and Learning
-- Enterprise Agility
 - Market Adaptability
 - Events and Presentations
+- Enterprise Agility
 - Complexity Thinking
 - Sociotechnical Systems
 - Beta Codex

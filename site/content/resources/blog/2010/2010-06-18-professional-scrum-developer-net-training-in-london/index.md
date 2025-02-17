@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
 - Scrum Product Development
-- Software Development
 - Professional Scrum
+- Software Development
 - Agile Frameworks
 categories:
 - Scrum

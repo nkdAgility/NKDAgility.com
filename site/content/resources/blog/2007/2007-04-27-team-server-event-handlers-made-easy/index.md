@@ -27,7 +27,9 @@ aliasesFor404:
 - /resources/blog/team-server-event-handlers-made-easy
 categories:
 - Practical Techniques and Tooling
-tags: []
+tags:
+- Technical Mastery
+- Software Development
 
 ---
 - /blog/team-server-event-handlers-made-easy---

@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/move-your-active-directory-domain-to-another-server
 tags:
 - Windows
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 preview: metro-server-instances_thumb-2-2.png

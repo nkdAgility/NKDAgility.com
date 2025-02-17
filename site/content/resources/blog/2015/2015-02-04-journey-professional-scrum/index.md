@@ -29,35 +29,35 @@ tags:
 - Scrum Product Development
 - Strategy
 - Scaling Scrum
-- Scaling Agility
 - Software Development
-- Organisational Change
-- Organisational Culture
 - Professional Scrum
+- Organisational Culture
 - Agile Project Management
-- Team Collaboration
-- Pragmatic Thinking
-- Agile Strategy
-- Agile Transformation
-- Agile Frameworks
+- Scaling Agility
+- Organisational Change
 - Team Performance
 - Agile Planning
 - Software Developers
+- Team Collaboration
+- Pragmatic Thinking
+- Agile Transformation
+- Agile Frameworks
+- Agile Strategy
 - Self Organisation
 - Continuous Learning
 categories:
 - Scrum
 - People and Process
+- Agile Product Management
 - Value Delivery
-- Organisational Agility
 - Business Agility
 - Product Delivery
-- Agile Product Management
-- Enterprise Agility
+- Organisational Agility
 - Discovery and Learning
-- Sociotechnical Systems
+- Enterprise Agility
 - Market Adaptability
 - Personal
+- Sociotechnical Systems
 - Application Lifecycle Management
 preview: nakedalm-experts-professional-scrum-5-5.png
 

@@ -24,22 +24,22 @@ aliasesFor404:
 tags:
 - Definition of Done
 - Continuous Delivery
-- Software Development
 - Technical Debt
-- Deployment Strategies
-- Technical Leadership
-- Agile Transformation
+- Software Development
 - Pragmatic Thinking
-- Software Developers
 - Agile Frameworks
-- Agile Project Management
-- Frequent Releases
 - Automated Testing
-- Working Software
-- Technical Mastery
 - Deployment Frequency
-- Operational Practices
+- Frequent Releases
+- Technical Mastery
+- Software Developers
+- Technical Leadership
+- Working Software
+- Agile Transformation
+- Deployment Strategies
+- Agile Project Management
 - Engineering Excellence
+- Operational Practices
 - Engineering Practices
 - Test Automation
 - Scrum Product Development
@@ -47,9 +47,9 @@ tags:
 - Strategy
 categories:
 - Scrum
+- Agile Product Management
 - Value Delivery
 - Product Delivery
-- Agile Product Management
 - People and Process
 - Technical Excellence
 - Practical Techniques and Tooling

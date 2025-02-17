@@ -27,19 +27,19 @@ aliasesFor404:
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags:
 - Software Development
-- Modern Source Control
 - Software Developers
+- Modern Source Control
 - Release Management
+- Agile Project Management
+- Pragmatic Thinking
 - Technical Mastery
 - Engineering Excellence
-- Pragmatic Thinking
-- Agile Project Management
 - Engineering Practices
 - Operational Practices
 categories:
-- Product Delivery
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
+- Product Delivery
 - Technical Excellence
 preview: metro-visual-studio-2010-128-link-11-11.png
 

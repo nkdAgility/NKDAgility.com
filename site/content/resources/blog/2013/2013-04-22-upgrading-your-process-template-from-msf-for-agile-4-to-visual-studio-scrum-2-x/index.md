@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 tags:
-- System Configuration
 - Agile Project Management
+- System Configuration
 - Azure Boards
-- Software Development
 - Software Developers
 - Pragmatic Thinking
+- Software Development
 - Operational Practices
 - Agile Transformation
 categories:

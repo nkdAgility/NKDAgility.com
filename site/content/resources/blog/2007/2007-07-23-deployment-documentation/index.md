@@ -23,17 +23,17 @@ aliasesFor404:
 - /resources/blog/deployment-documentation
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Product Delivery
 - DevOps
 preview: metro-binary-vb-128-link-1-1.png
 tags:
+- Deployment Strategies
 - Release Management
 - System Configuration
-- Deployment Strategies
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Operational Practices
 
 ---

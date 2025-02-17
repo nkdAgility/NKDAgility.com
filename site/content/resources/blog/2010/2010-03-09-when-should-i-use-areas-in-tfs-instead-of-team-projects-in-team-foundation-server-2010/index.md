@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 tags:
-- System Configuration
 - Modern Source Control
+- System Configuration
 - Software Development
 - Pragmatic Thinking
 - Operational Practices

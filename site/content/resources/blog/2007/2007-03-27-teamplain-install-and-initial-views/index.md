@@ -26,7 +26,8 @@ aliasesFor404:
 - /blog/teamplain---install-and-initial-views
 - /resources/blog/teamplain-install-and-initial-views
 tags: []
-categories: []
+categories:
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

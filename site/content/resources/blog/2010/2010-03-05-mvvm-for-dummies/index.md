@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/mvvm-for-dummies
 - /resources/blog/mvvm-for-dummies
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

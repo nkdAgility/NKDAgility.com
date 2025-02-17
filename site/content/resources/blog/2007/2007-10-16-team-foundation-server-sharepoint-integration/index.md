@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/team-foundation-server-sharepoint-integration
 - /resources/blog/team-foundation-server-sharepoint-integration
 tags:
-- Software Development
 - Pragmatic Thinking
+- Software Development
 categories:
 - Practical Techniques and Tooling
-- Azure DevOps
 - Application Lifecycle Management
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

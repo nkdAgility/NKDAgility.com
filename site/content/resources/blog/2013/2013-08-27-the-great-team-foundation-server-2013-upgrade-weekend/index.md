@@ -22,15 +22,15 @@ aliasesFor404:
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
-- System Configuration
 - Engineering Excellence
-- Windows
-- Release Management
+- System Configuration
 - Working Software
-- Software Development
-- Troubleshooting
-- Deployment Strategies
+- Windows
 - Software Developers
+- Deployment Strategies
+- Troubleshooting
+- Release Management
+- Software Development
 - Operational Practices
 categories:
 - Install and Configuration

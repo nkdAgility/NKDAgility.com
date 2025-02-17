@@ -30,9 +30,9 @@ aliasesFor404:
 tags:
 - System Configuration
 - Release Management
-- Software Development
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
+- Software Development
 categories:
 - Install and Configuration
 preview: nakedalm-experts-visual-studio-alm-22-22.png

@@ -27,16 +27,16 @@ tags:
 - Automated Testing
 - Software Development
 - Test Automation
-- Troubleshooting
-- Technical Mastery
 - Engineering Practices
 - Software Developers
-- Engineering Excellence
 - Pragmatic Thinking
+- Technical Mastery
+- Engineering Excellence
+- Troubleshooting
 categories:
 - Practical Techniques and Tooling
-- Azure DevOps
 - Technical Excellence
+- Azure DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

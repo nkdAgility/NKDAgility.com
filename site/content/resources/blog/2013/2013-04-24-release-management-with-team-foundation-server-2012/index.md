@@ -25,8 +25,8 @@ tags:
 - Release Management
 - Software Development
 categories:
-- Product Delivery
 - DevOps
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

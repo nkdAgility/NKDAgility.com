@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Windows
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2010-128-link-3-1.png
 categories:
 - Install and Configuration

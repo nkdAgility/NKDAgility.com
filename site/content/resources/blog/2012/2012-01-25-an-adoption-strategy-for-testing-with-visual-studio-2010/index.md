@@ -26,8 +26,8 @@ tags:
 - Software Developers
 - Team Collaboration
 categories:
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
 - Products and Books
 - People and Process
 preview: nakedalm-experts-visual-studio-alm-3-3.png

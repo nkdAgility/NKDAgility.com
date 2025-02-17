@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/microsoft-does-indeed-listen
 - /resources/blog/microsoft-does-indeed-listen
 tags:
-- Software Development
 - Market Share
-- Windows
+- Software Development
 - Customer Feedback Loops
+- Windows
 - Software Developers
 - Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png

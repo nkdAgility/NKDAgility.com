@@ -32,9 +32,9 @@ tags:
 categories:
 - Install and Configuration
 - Azure DevOps
-- Product Delivery
-- Practical Techniques and Tooling
 - DevOps
+- Practical Techniques and Tooling
+- Product Delivery
 preview: nakedalm-experts-visual-studio-alm-46-46.png
 
 ---

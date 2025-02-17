@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/what-is-the-tfs-automation-platform
 tags:
 - System Configuration
-- Software Development
 - Technical Mastery
+- Software Development
 - Operational Practices
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-2-2.png

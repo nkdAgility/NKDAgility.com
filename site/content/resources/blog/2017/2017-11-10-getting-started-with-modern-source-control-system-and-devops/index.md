@@ -33,8 +33,8 @@ categories:
 - DevOps
 - Application Lifecycle Management
 - Value Delivery
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 - Product Delivery
 - Market Adaptability
 - Products and Books

@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/connecting-vs2010-to-tfs-2008
 - /resources/blog/connecting-vs2010-to-tfs-2008
 tags:
-- System Configuration
-- Software Development
-- Technical Mastery
 - Modern Source Control
+- Technical Mastery
+- Software Development
+- System Configuration
 preview: metro-visual-studio-2010-128-link-5-5.png
 categories:
 - Install and Configuration

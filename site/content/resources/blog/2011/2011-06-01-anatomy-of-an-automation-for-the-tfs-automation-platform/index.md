@@ -32,8 +32,8 @@ categories:
 - Install and Configuration
 - Platform Engineering
 - Practical Techniques and Tooling
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 - DevOps
 
 ---

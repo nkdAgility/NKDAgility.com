@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/access-to-team-foundation-server
 tags:
 - Continuous Learning
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
 categories:
 - Application Lifecycle Management
 - Miscellaneous

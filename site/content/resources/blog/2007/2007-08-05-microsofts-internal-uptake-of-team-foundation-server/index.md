@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 tags:
 - Software Development
-- Release Management
 - Working Software
-- Frequent Releases
-- Technical Mastery
-- Modern Source Control
 - Software Developers
-- Engineering Excellence
-- Continuous Integration
+- Frequent Releases
+- Modern Source Control
+- Technical Mastery
 - Collaboration Tools
+- Engineering Excellence
+- Release Management
+- Continuous Integration
 - Operational Practices
 categories:
 - News and Reviews

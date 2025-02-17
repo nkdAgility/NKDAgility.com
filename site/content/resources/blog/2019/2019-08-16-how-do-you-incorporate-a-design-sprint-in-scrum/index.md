@@ -27,16 +27,16 @@ aliasesFor404:
 - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 tags:
 - Agile Project Management
+- Scrum Product Development
 - Scrum Team
 - Professional Scrum
-- Scrum Product Development
-- Software Development
 - Team Performance
+- Software Development
 - Team Collaboration
-- Software Developers
 - Agile Frameworks
-- Pragmatic Thinking
 - Agile Transformation
+- Software Developers
+- Pragmatic Thinking
 - Working Software
 - Cross Functional Teams
 - Agile Planning
@@ -44,8 +44,8 @@ categories:
 - Scrum
 - People and Process
 - Events and Presentations
-- Product Delivery
 - Agile Product Management
+- Product Delivery
 preview: 1130646316-1-1-1.jpg
 
 ---

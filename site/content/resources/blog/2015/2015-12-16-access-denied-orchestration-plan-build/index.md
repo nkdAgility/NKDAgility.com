@@ -30,9 +30,9 @@ tags:
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
 - DevOps
+- Azure DevOps
+- Technical Excellence
 preview: clip_image004-4-4.png
 
 ---

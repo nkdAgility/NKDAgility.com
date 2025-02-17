@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/found-gdr-bug--at-least-i-think-it-is-
 - /resources/blog/found-gdr-bug-at-least-i-think-it-is
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 preview: metro-aggreko-128-link-1-1.png
 categories: []
 

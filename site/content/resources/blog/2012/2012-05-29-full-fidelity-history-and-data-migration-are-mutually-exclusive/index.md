@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Decision Making
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
 categories:
 - Application Lifecycle Management
 - Practical Techniques and Tooling

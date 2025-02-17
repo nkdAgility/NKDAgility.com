@@ -24,42 +24,42 @@ aliasesFor404:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Increment
-- Release Management
 - Product Validation
+- Release Management
 - Product Management
-- Working Software
-- Ability to Innovate
-- Lean Product Development
 - Product Discovery
+- Working Software
+- Lean Product Development
+- Ability to Innovate
+- Experimentation
 - Operational Practices
 - Agile Philosophy
-- Agile Strategy
-- MVP
 - Evidence Based Leadership
-- Experimentation
+- Deployment Frequency
+- MVP
 - Pragmatic Thinking
-- Hypothesis Driven Development
 - Frequent Releases
+- Agile Strategy
+- Hypothesis Driven Development
+- Empirical Process Control
 - Lean Startup
 - Decision Making
-- Empirical Process Control
-- Deployment Frequency
 - Product Strategy
-- Agile Values and Principles
-- Product Owner
 - Software Development
-- Customer Retention
-- Customer Feedback Loops
-- Customer Satisfaction
+- Product Owner
+- Agile Values and Principles
 - Lean Principles
+- Customer Satisfaction
+- Customer Retention
 - Continuous Delivery
+- Customer Feedback Loops
 categories:
-- Business Agility
 - Agile Product Management
-- Value Delivery
+- Business Agility
 - Metrics and Learning
-- Product Delivery
 - Agile Product Operating Model
+- Value Delivery
+- Product Delivery
 - Discovery and Learning
 - Value Stream Management
 - People and Process

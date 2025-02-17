@@ -28,11 +28,11 @@ aliasesFor404:
 - /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-sharepoint-edition
 tags:
-- System Configuration
-- Software Development
-- Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
+- Software Development
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

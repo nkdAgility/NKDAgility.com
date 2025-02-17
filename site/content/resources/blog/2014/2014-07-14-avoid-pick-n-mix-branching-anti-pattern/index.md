@@ -30,8 +30,8 @@ tags:
 categories:
 - Technical Excellence
 - Code and Complexity
-- Product Delivery
 - Application Lifecycle Management
+- Product Delivery
 - Value Delivery
 - Practical Techniques and Tooling
 - DevOps

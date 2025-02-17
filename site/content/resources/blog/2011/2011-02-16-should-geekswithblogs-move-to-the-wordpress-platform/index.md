@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Frequent Releases
 - Decision Making
-- Software Development
 - Digital Transformation
+- Software Development
 categories:
 - Miscellaneous
 preview: nakedalm-logo-128-link-4-4.png

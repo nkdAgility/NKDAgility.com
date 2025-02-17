@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Release Management
 - Software Development
-- Digital Transformation
 - Frequent Releases
+- Digital Transformation
 - Organisational Change
 - Azure Pipelines
 categories:
@@ -38,8 +38,8 @@ categories:
 - Azure DevOps
 - Business Agility
 - Products and Books
-- Organisational Agility
 - Practical Techniques and Tooling
+- Organisational Agility
 - Market Adaptability
 - Enterprise Agility
 preview: nakedalm-experts-visual-studio-alm-6-6.png

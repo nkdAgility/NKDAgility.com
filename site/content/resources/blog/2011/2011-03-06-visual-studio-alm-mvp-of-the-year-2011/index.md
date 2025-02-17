@@ -25,13 +25,13 @@ tags:
 - Continuous Learning
 - Strategic Goals
 - Team Collaboration
-- Software Development
-- Troubleshooting
-- Technical Mastery
 - Software Developers
 - Transparency
-- Engineering Excellence
 - Pragmatic Thinking
+- Technical Mastery
+- Engineering Excellence
+- Troubleshooting
+- Software Development
 categories:
 - Personal
 preview: metro-award-link-2-2.png

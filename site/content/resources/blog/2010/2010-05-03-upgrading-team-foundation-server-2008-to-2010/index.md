@@ -25,10 +25,10 @@ tags:
 - System Configuration
 - Operational Practices
 - Windows
+- Technical Mastery
+- Troubleshooting
 - Release Management
 - Software Development
-- Troubleshooting
-- Technical Mastery
 - Modern Source Control
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:

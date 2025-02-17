@@ -29,8 +29,8 @@ tags:
 - Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Install and Configuration
 - Code and Complexity
+- Install and Configuration
 - Application Lifecycle Management
 - Technical Excellence
 

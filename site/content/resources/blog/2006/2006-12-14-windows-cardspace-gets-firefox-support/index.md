@@ -21,9 +21,11 @@ aliasesFor404:
 - /windows-cardspace-gets-firefox-support
 - /blog/windows-cardspace-gets-firefox-support
 - /resources/blog/windows-cardspace-gets-firefox-support
-tags: []
+tags:
+- Windows
 preview: metro-binary-vb-128-link-1-1.png
-categories: []
+categories:
+- News and Reviews
 
 ---
 [Windows CardSpace gets Firefox support](http://blogs.zdnet.com/microsoft/?p=151 "Permalink") by [ZDNet](http://zdnet.com)'s Mary Jo Foley -- A new plug-in providing Firefox support for Microsoft's CardSpace digital-identity framework.is now available for public download.

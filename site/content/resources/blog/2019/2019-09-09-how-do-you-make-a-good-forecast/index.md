@@ -30,22 +30,22 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - Agile Project Management
-- Organisational Change
-- Change Management
+- Agile Frameworks
 - Agile Transformation
+- Change Management
+- Agile Strategy
 - Agile Planning
 - Cycle Time
+- Organisational Change
 - Product Management
-- Agile Strategy
-- Agile Frameworks
-- Decision Making
 - Pragmatic Thinking
-- Software Developers
-- Operational Practices
-- Strategy
 - Forecasting
 - Software Development
+- Operational Practices
 - Estimation
+- Software Developers
+- Strategy
+- Decision Making
 - Evidence Based Leadership
 - Team Performance
 - Organisational Physics
@@ -53,14 +53,14 @@ categories:
 - Scrum
 - People and Process
 - Metrics and Learning
-- Product Delivery
-- Agile Product Operating Model
 - Agile Product Management
+- Agile Product Operating Model
+- Product Delivery
 - Value Delivery
-- Organisational Agility
 - Flow Efficiency
-- Evidence Based Management
 - Events and Presentations
+- Organisational Agility
+- Evidence Based Management
 - Products and Books
 - Sociotechnical Systems
 - Complexity Thinking

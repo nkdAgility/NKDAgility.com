@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/migrating-to-office-365-from-google-mail
 tags:
 - Troubleshooting
-- System Configuration
 - Technical Mastery
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

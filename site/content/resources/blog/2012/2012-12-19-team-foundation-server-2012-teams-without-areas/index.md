@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-2012-teams-without-areas
 tags:
 - Software Development
-- System Configuration
 - Azure Boards
+- System Configuration
 - Pragmatic Thinking
 - Operational Practices
 categories:

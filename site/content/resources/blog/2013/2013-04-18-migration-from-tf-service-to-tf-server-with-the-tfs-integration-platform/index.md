@@ -23,10 +23,10 @@ aliasesFor404:
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 tags:
 - Modern Source Control
-- System Configuration
-- Software Development
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
+- Software Development
+- System Configuration
 - Technical Mastery
 categories:
 - Install and Configuration

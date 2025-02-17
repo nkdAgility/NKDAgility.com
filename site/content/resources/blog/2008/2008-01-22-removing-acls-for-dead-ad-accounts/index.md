@@ -28,9 +28,9 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

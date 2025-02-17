@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Agile Planning
-- Software Development
 - Agile Frameworks
+- Software Development
 categories:
 - Scrum
 - Agile Product Management

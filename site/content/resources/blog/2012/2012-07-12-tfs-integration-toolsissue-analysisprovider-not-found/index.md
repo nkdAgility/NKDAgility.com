@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
+- Software Development
+- System Configuration
 - Windows
 categories:
 - Install and Configuration

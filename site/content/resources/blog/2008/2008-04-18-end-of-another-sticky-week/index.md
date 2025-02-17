@@ -32,8 +32,8 @@ categories:
 - News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
-- Product Delivery
 - Application Lifecycle Management
+- Product Delivery
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

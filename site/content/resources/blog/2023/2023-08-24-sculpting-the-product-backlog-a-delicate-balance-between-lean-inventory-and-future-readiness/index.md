@@ -30,10 +30,10 @@ tags:
 - Product Backlog
 categories:
 - Lean
+- Agile Product Management
+- Agile Product Operating Model
 - Value Delivery
 - Product Delivery
-- Agile Product Operating Model
-- Agile Product Management
 - Products and Books
 - Transparency and Accountability
 - Scrum

@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/service-manager-factory
 - /resources/blog/service-manager-factory
 tags:
-- Release Management
-- System Configuration
 - Working Software
-- Software Development
 - Frequent Releases
 - Technical Mastery
+- Release Management
+- Software Development
+- System Configuration
 categories:
 - Install and Configuration
 preview: nakedalm-logo-128-link-1-1.png

@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Modern Source Control
-- Software Development
 - Pragmatic Thinking
+- Software Development
 categories:
 - Practical Techniques and Tooling
 

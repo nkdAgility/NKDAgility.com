@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/application-owner
 - /resources/blog/application-owner
 tags:
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
 - Operational Practices
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:

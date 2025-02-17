@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/team-system-web-access-finally-released
 tags:
 - Release Management
-- System Configuration
 - Software Development
+- System Configuration
 - Working Software
-- Troubleshooting
 - Modern Source Control
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-3-3.png
 categories:
 - News and Reviews

@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/reformat-your-css-on-the-fly
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
-- Software Development
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- Software Development
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

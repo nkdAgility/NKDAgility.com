@@ -30,12 +30,12 @@ aliasesFor404:
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Agile Project Management
-- Scrum Team
 - Agile Frameworks
+- Scrum Team
 - Scrum Master
-- Software Development
 - Team Performance
 - Professional Scrum
+- Software Development
 categories:
 - People and Process
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg

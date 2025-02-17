@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/live-framework
 - /resources/blog/live-framework
 tags:
-- System Configuration
 - Collaboration Tools
 - Team Collaboration
-- Software Development
+- System Configuration
 - Technical Mastery
+- Software Development
 preview: metro-cloud-azure-link-2-2.png
 categories:
 - Practical Techniques and Tooling

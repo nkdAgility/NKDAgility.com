@@ -28,15 +28,15 @@ aliasesFor404:
 tags:
 - Scrum Team
 - Team Collaboration
-- Software Development
-- Software Developers
 - Agile Frameworks
 - Agile Transformation
 - Agile Project Management
+- Software Developers
+- Software Development
 categories:
 - Scrum
-- People and Process
 - News and Reviews
+- People and Process
 - Practical Techniques and Tooling
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

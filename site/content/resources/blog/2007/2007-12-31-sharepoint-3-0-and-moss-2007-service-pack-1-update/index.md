@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 tags:
 - Windows
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - Install and Configuration
 - Practical Techniques and Tooling

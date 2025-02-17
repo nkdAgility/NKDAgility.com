@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-progress
 - /resources/blog/tfs-event-handler-progress
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Code and Complexity
 - Practical Techniques and Tooling

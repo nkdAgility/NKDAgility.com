@@ -27,23 +27,23 @@ aliasesFor404:
 - /resources/blog/a-change-for-the-better-2
 tags:
 - Working Software
-- Team Collaboration
-- Decision Making
-- Change Management
-- Software Development
-- Team Motivation
 - Team Performance
-- Employee Engagement
+- Team Collaboration
+- Software Development
 - Software Developers
+- Change Management
+- Employee Engagement
+- Team Motivation
+- Decision Making
 - Continuous Learning
-- Organisational Culture
-- Pragmatic Thinking
-- Engineering Excellence
-- Psychological Safety
-- Technical Mastery
-- Operational Practices
-- Digital Transformation
 - Windows
+- Psychological Safety
+- Pragmatic Thinking
+- Technical Mastery
+- Engineering Excellence
+- Organisational Culture
+- Digital Transformation
+- Operational Practices
 categories:
 - Miscellaneous
 - Personal

@@ -32,12 +32,12 @@ aliasesFor404:
 tags:
 - Windows
 - Software Developers
-- System Configuration
 - Working Software
-- Software Development
-- Technical Mastery
 - Modern Source Control
+- Technical Mastery
 - Collaboration Tools
+- Software Development
+- System Configuration
 preview: metro-sharepoint-128-link-2-2.png
 categories:
 - News and Reviews

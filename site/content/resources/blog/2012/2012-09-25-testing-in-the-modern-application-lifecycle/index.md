@@ -28,8 +28,8 @@ tags:
 - Engineering Practices
 - Engineering Excellence
 - Team Collaboration
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
 - Operational Practices
 - Software Developers
 - Test Automation
@@ -40,8 +40,8 @@ categories:
 - Product Delivery
 - Practical Techniques and Tooling
 - Products and Books
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
 - People and Process
 - Metrics and Learning
 preview: metro-test-icon-7-7.png

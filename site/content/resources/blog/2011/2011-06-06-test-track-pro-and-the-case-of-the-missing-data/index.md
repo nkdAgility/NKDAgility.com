@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/test-track-pro-and-the-case-of-the-missing-data
 tags:
 - Troubleshooting
-- Software Development
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
+- Software Development
 - Operational Practices
 categories:
 - Code and Complexity

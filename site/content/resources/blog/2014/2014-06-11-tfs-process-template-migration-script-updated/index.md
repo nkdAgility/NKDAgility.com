@@ -25,17 +25,17 @@ tags:
 - System Configuration
 - Operational Practices
 - Software Development
-- Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
-- Software Developers
+- Technical Mastery
+- Troubleshooting
 - Agile Frameworks
+- Software Developers
 categories:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Technical Excellence
+- Practical Techniques and Tooling
 - Azure DevOps
+- Technical Excellence
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

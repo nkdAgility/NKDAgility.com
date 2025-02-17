@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
 - Windows
-- System Configuration
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Install and Configuration
