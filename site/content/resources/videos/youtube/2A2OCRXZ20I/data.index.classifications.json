@@ -1,0 +1,56 @@
+{
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T15:11:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the mechanics of running a Daily Scrum rather than discussing leadership practices or strategies.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-18T15:11:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to engineering practices or software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-18T15:11:36",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "Content discusses the Daily Scrum, which is a key event in the Scrum framework, relevant to product management but not primarily focused on strategic aspects of product management.",
+    "level": "Tertiary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-18T15:11:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T15:11:39",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily focuses on the Daily Scrum, which is a key event in the Scrum framework, highlighting its importance in facilitating collaboration and continuous improvement within teams.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T15:11:40",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "Content is primarily focused on the Daily Scrum, which is a key event in the Scrum framework.",
+    "level": "Secondary"
+  }
+}

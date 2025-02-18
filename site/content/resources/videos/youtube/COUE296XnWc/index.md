@@ -1,6 +1,6 @@
 ---
-title: NKDA Webcast Agile Leadership Agile Transformation 20231005 130313 Meeting Recording 1
-description: Join Dr. Joanna Płaskonka & Martin Hinshelwood in this 18-min webcast to explore Agile Leadership & Transformation. Gain insights, strategies, and engage in Q&A!
+title: 'Empowering Agile Leadership: Navigating Metrics, Trust, and the Human Element'
+description: Unlock the secrets to successful Agile transformations! Discover how to engage leadership, select effective metrics, and nurture the human element in your teams.
 date: 2023-10-05T15:32:01Z
 ResourceId: COUE296XnWc
 ResourceType: videos
@@ -12,7 +12,6 @@ url: /resources/videos/:slug
 slug: nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
 layout: video
 draft: true
-canonicalUrl: https://www.youtube.com/watch?v=COUE296XnWc
 aliases:
 - /resources/videos/COUE296XnWc
 - /resources/videos/nkda-webcast-agile-leadership-agile-transformation-20231005-130313-meeting-recording-1
@@ -26,30 +25,50 @@ duration: 3719
 isShort: false
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
+- Social Technologies
 tags: []
 
 ---
- 🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟  
+As I sit down to reflect on my recent experiences in the world of Agile leadership and transformation, I can't help but think about the importance of adaptability and the human element in our work. It’s a topic that resonates deeply with me, especially as I engage with various teams and organisations striving to embrace Agile methodologies.
 
-Dive into the world of Agile with two of the industry's foremost experts, Dr. Joanna Płaskonka and Martin Hinshelwood, in an enlightening 18-minute webcast that promises to reshape your understanding of Agile Leadership and Transformation.
+Recently, I had the pleasure of connecting with some colleagues, including Luca and Mona, who are also navigating the complexities of Agile transformations. Our discussions highlighted a common theme: the struggle to implement effective metrics and the challenges of engaging leadership in the process. 
 
-🔍 What Awaits You?
+### The Challenge of Metrics
 
-Expert Insights: With Dr. Płaskonka's academic prowess in Agile methodologies and Hinshelwood's vast industry experience, expect a harmonious blend of theory and practice.
-Transformational Strategies: Learn the key elements that drive successful Agile transformations and how leadership plays a pivotal role.
-Interactive Q&A: Engage directly with the experts, seeking answers to your most pressing questions.
-Actionable Takeaways: Walk away with practical strategies to lead and champion Agile transformations in your organisation.
+One of the most significant hurdles we face is selecting the right metrics. While Evidence-Based Management (EBM) offers a plethora of examples, not all metrics are suitable for every organisation. It’s crucial to tailor these metrics to fit the unique context of your team. I’ve found that using tools like the Liberators' Scrum Team Survey can be beneficial, but getting team members to participate can feel like pulling teeth. 
 
-🚀 Why This Webcast?
+Here are a few strategies I’ve employed to encourage participation:
 
+- **Communicate the Purpose**: When distributing surveys, I emphasise how the feedback will directly impact the team’s work and environment. Framing it as a collaborative effort can increase buy-in.
+- **Engage in Discovery Interviews**: Instead of relying solely on surveys, I often opt for one-on-one interviews. This approach not only garners more insightful feedback but also fosters a sense of connection and trust.
 
-Whether you're an executive, a manager, or an Agile enthusiast, this webcast is tailored to provide insights into the evolving landscape of Agile leadership and the nuances of organisational transformation. Gain a competitive edge by understanding the principles that underpin successful Agile transformations.
+### The Importance of Leadership Engagement
 
-📅 Reserve Your Spot!
+During our conversations, it became evident that engaging leadership is paramount for successful Agile transformations. Many leaders are hesitant to relinquish control, often fearing that agility equates to chaos. However, I believe that true Agile leadership is about empowering teams rather than micromanaging them.
 
-Spaces are limited, and this unique opportunity to learn from the best won't last long. Sign up now and embark on a journey that promises to elevate your Agile leadership and transformation strategies! 
- [Watch on Youtube](https://www.youtube.com/watch?v=COUE296XnWc)
+Here’s what I’ve learned about fostering this shift:
+
+- **Build Trust**: Establishing trust is essential. I often ask leaders about their concerns and what keeps them up at night. Understanding their perspective allows me to address their fears and demonstrate how Agile practices can alleviate those concerns.
+- **Focus on Value Delivery**: It’s vital to shift the conversation from processes to outcomes. Leaders care about results, so framing Agile practices in terms of value delivery can help them see the benefits of adopting an Agile mindset.
+
+### The Human Element in Agile
+
+As we discussed the role of leadership, I was reminded of a recent experience at a conference where I facilitated a workshop. It struck me how often we overlook the human aspect of our work. We are not robots; we are creative beings capable of innovation and problem-solving. 
+
+In my view, the key to successful Agile transformations lies in recognising and nurturing this human element. Here are some insights I’ve gathered:
+
+- **Encourage Autonomy**: Teams thrive when they have the freedom to make decisions. Leaders should create an environment where team members feel empowered to take ownership of their work.
+- **Foster a Learning Culture**: Emphasising continuous learning and experimentation is crucial. Mistakes should be viewed as opportunities for growth rather than failures.
+
+### Conclusion
+
+As I continue my journey in Agile leadership, I am reminded of the importance of adaptability, trust, and the human element in our work. The conversations I’ve had with colleagues like Luca and Mona reinforce my belief that we must focus on building relationships and fostering a culture of collaboration.
+
+In the end, Agile transformation is not just about implementing new processes; it’s about creating an environment where people can thrive, innovate, and deliver value. As we move forward, let’s remember that our greatest asset is our people, and it’s our responsibility as leaders to support and empower them on this journey. 
+
+I look forward to sharing more insights and experiences as we navigate the ever-evolving landscape of Agile together. If you have any thoughts or questions, feel free to reach out. Let’s continue this conversation!
