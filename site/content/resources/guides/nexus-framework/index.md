@@ -42,12 +42,12 @@ tags:
 - Scrum
 - Scaled Agile
 - Scrum Product Development
-- Product Delivery
 - Large Scale Agility
 - Scrum Team
+- Product Delivery
 - Professional Scrum
-- Scaling Agility
 - Software Development
+- Scaling Agility
 - Agile Frameworks
 - Agile Project Management
 

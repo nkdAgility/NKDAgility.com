@@ -27,17 +27,17 @@ aliasesFor404:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
-- People and Process
 - Change Management
-- Discovery and Learning
 - Continuous Learning
+- People and Process
+- Discovery and Learning
 - Agile Frameworks
 - Events and Presentations
 - Products and Books
 - Pragmatic Thinking
 - Coaching
-- Agile Transformation
 - Value Delivery
+- Agile Transformation
 categories:
 - Social Technologies
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg

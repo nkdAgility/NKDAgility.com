@@ -30,15 +30,15 @@ sitemap:
 tags:
 - Scrum
 - People and Process
-- Practical Techniques and Tooling
 - Scaling Scrum
-- Scaled Agile
+- Practical Techniques and Tooling
 - Large Scale Agility
+- Scaled Agile
 - Scaling Agility
 - Agile Frameworks
+- Software Development
 - Agile Project Management
 - Pragmatic Thinking
-- Software Development
 - Professional Scrum
 - Team Performance
 - Agile Transformation

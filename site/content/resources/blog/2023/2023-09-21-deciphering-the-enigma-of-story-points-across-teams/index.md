@@ -25,19 +25,19 @@ aliasesFor404:
 tags:
 - Throughput
 - Agile Product Management
+- Agile Project Management
 - Value Delivery
 - Metrics and Learning
-- Agile Project Management
 - Decision Making
-- Team Performance
 - Flow Efficiency
+- Team Performance
 - Pragmatic Thinking
+- Software Development
 - Operational Practices
 - Evidence Based Leadership
-- Software Development
-- Practical Techniques and Tooling
 - Agile Planning
 - People and Process
+- Practical Techniques and Tooling
 - Evidence Based Management
 - Estimation
 categories:

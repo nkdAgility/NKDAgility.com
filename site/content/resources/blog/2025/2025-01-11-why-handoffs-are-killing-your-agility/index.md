@@ -20,19 +20,19 @@ aliasesFor404:
 tags:
 - Software Development
 - Operational Practices
-- Business Agility
-- Product Delivery
-- Agile Project Management
-- Team Collaboration
-- Cross Functional Teams
 - Software Developers
 - Value Delivery
+- Business Agility
+- Team Collaboration
+- Agile Project Management
+- Cross Functional Teams
+- Product Delivery
 - Organisational Agility
+- Lean Principles
 - Team Performance
 - People and Process
-- Lean Principles
-- Flow Efficiency
 - Pragmatic Thinking
+- Flow Efficiency
 - Lean
 categories:
 - DevOps

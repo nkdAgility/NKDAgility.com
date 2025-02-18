@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Evidence Based Management
 - Metrics and Learning
 - Value Delivery
-- Decision Making
-- Operational Practices
+- Evidence Based Management
+- Evidence Based Leadership
 - Empirical Process Control
 - Pragmatic Thinking
-- Evidence Based Leadership
+- Decision Making
+- Operational Practices
 - Ability to Innovate
 resourceTypes:
 - video

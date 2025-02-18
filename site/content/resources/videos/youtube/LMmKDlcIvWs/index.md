@@ -31,13 +31,13 @@ tags:
 - Strategy
 - Kanban
 - Metrics and Learning
-- Flow Efficiency
 - Practical Techniques and Tooling
+- Flow Efficiency
 - Agile Frameworks
-- Lean Thinking
-- Operational Practices
-- Pragmatic Thinking
 - Lean
+- Lean Thinking
+- Pragmatic Thinking
+- Operational Practices
 - Lean Principles
 - Continuous Learning
 - Software Development

@@ -22,7 +22,16 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
-tags: []
+tags:
+- Scrum
+- Scrum Master
+- Agile Project Management
+- Agile Product Management
+- Scrum Team
+- Agile Frameworks
+- Software Development
+- Team Performance
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4

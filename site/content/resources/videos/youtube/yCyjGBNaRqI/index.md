@@ -26,17 +26,17 @@ tags:
 - People and Process
 - Organisational Agility
 - Agile Values and Principles
-- Employee Engagement
-- Agile Leadership
 - Organisational Psychology
-- Sociotechnical Systems
-- Coaching
-- Team Collaboration
+- Self Organisation
+- Employee Engagement
+- Agile Philosophy
 - Personal
 - Organisational Culture
 - Team Performance
-- Self Organisation
-- Agile Philosophy
+- Coaching
+- Agile Leadership
+- Sociotechnical Systems
+- Team Collaboration
 - Business Agility
 - Pragmatic Thinking
 - Beta Codex

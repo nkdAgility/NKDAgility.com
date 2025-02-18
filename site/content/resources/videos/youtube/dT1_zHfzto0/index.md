@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Organisational Change
+- People and Process
 - Organisational Agility
 - Agile Frameworks
 - Enterprise Agility
-- Agile Transformation
 - Scaling Agility
+- Agile Transformation
 - Sociotechnical Systems
 resourceTypes:
 - video

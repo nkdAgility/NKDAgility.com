@@ -30,24 +30,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Market Adaptability
+- Software Development
 - Technical Mastery
 - Software Developers
-- Software Development
-- Market Adaptability
-- Product Delivery
 - Pragmatic Thinking
+- Product Delivery
 - Value Delivery
-- Technical Excellence
 - Engineering Practices
+- Technical Excellence
 - Working Software
-- Operational Practices
 - Technical Leadership
 - People and Process
-- Deployment Frequency
-- Sociotechnical Systems
+- Operational Practices
 - Strategy
-- Enterprise Agility
 - Organisational Agility
+- Deployment Frequency
+- Enterprise Agility
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

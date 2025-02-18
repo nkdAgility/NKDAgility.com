@@ -25,17 +25,17 @@ isShort: false
 tags:
 - Lean
 - Lean Product Development
-- Lean Thinking
-- Lean Principles
 - Events and Presentations
+- Lean Principles
 - Value Delivery
-- Discovery and Learning
-- Decision Making
+- Lean Thinking
 - Product Owner
 - Product Discovery
-- Operational Practices
-- Pragmatic Thinking
+- Discovery and Learning
+- Decision Making
 - Entrepreneurship
+- Pragmatic Thinking
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

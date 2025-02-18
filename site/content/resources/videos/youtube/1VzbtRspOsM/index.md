@@ -33,13 +33,13 @@ tags:
 - Organisational Culture
 - Continuous Learning
 - Organisational Change
-- Personal
-- Team Collaboration
-- Mentoring
 - Coaching
-- Sociotechnical Systems
+- Team Collaboration
 - Team Motivation
+- Personal
+- Mentoring
 - Organisational Agility
+- Sociotechnical Systems
 resourceTypes:
 - video
 layout: video

@@ -19,17 +19,17 @@ aliasesFor404:
 categories:
 - Social Technologies
 tags:
+- Continuous Learning
 - Agile Transformation
 - Discovery and Learning
-- Continuous Learning
 - Agile Frameworks
+- Events and Presentations
 - People and Process
 - Agile Project Management
-- Events and Presentations
 - Organisational Agility
 - Agile Strategy
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 
 ---
 Dear NKD Agilists!

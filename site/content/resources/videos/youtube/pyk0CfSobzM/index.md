@@ -28,21 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Estimation
 - Scrum
-- Scrum Team
+- Estimation
 - Scrum Product Development
+- Scrum Team
 - Professional Scrum
-- People and Process
 - Scrum Master
+- People and Process
 - Agile Product Management
 - Agile Frameworks
-- Agile Project Management
-- Agile Planning
-- Pragmatic Thinking
 - Software Development
-- Product Delivery
+- Agile Planning
+- Agile Project Management
+- Pragmatic Thinking
 - Software Developers
+- Product Delivery
 resourceTypes:
 - video
 categories:

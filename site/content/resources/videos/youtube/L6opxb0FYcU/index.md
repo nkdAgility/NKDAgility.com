@@ -29,7 +29,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- Scrum Master
+- Agile Values and Principles
+- Agile Frameworks
+- Team Performance
+- People and Process
+- Agile Project Management
+- Agile Philosophy
+- Agile Transformation
+- Software Development
+- Agile Product Management
+- Pragmatic Thinking
+- Personal
+- Scrum Values
+- Organisational Agility
 resourceTypes:
 - video
 categories:

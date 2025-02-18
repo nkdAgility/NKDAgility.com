@@ -22,20 +22,20 @@ preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
-- Agile Project Management
 - Agile Planning
+- Agile Project Management
 - Agile Product Management
 - Agile Frameworks
-- Product Delivery
-- People and Process
-- Agile Transformation
-- Agile Philosophy
-- Software Developers
 - Scrum Product Development
-- Empirical Process Control
-- Pragmatic Thinking
+- Software Developers
+- People and Process
+- Agile Philosophy
+- Product Delivery
+- Agile Transformation
 - Software Development
 - Scrum
+- Empirical Process Control
+- Pragmatic Thinking
 - Agile Values and Principles
 sitemap:
   filename: sitemap.xml

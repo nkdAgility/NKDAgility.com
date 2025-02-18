@@ -21,21 +21,21 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Excellence
-- Release Management
-- Engineering Practices
 - Continuous Delivery
+- Engineering Practices
+- Release Management
 - Software Developers
 - Value Delivery
 - Continuous Integration
+- Deployment Strategies
+- Practical Techniques and Tooling
+- Product Delivery
 - Operational Practices
 - Deployment Frequency
-- Deployment Strategies
 - Modern Source Control
-- Practical Techniques and Tooling
 - Flow Efficiency
-- Product Delivery
-- Pragmatic Thinking
 - Frequent Releases
+- Pragmatic Thinking
 - Strategy
 categories:
 - DevOps

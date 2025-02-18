@@ -24,18 +24,18 @@ duration: 55
 isShort: true
 tags:
 - Scrum
+- Product Owner
 - Professional Scrum
 - Agile Frameworks
-- Product Delivery
+- Scrum Product Development
+- Software Development
 - People and Process
 - Agile Project Management
-- Agile Transformation
+- Agile Product Management
 - Scrum Team
 - Mentoring
-- Agile Product Management
-- Software Development
-- Product Owner
-- Scrum Product Development
+- Product Delivery
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4

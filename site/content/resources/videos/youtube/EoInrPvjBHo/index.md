@@ -28,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Owner
 - People and Process
 - Agile Project Management
-- Agile Product Operating Model
 - Agile Product Management
-- Product Owner
+- Agile Product Operating Model
 - Team Motivation
 - Personal
 - Employee Engagement

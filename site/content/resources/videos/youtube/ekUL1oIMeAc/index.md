@@ -30,17 +30,17 @@ sitemap:
 tags:
 - Product Owner
 - People and Process
-- Scrum Team
 - Agile Product Management
+- Scrum Team
+- Scrum
 - Agile Project Management
 - Personal
-- Scrum
 resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## Product Owner's Misstep

@@ -24,31 +24,31 @@ isShort: false
 tags:
 - Decision Making
 - People and Process
-- Business Agility
-- Organisational Change
-- Resilience and Change
-- Ability to Innovate
-- Agile Values and Principles
-- Organisational Agility
 - Agile Project Management
+- Agile Values and Principles
+- Resilience and Change
+- Organisational Agility
 - Complexity Thinking
-- Enterprise Agility
+- Business Agility
+- Ability to Innovate
+- Organisational Change
+- Organisational Physics
 - Decision Theory
 - Evidence Based Leadership
 - Pragmatic Thinking
-- Agile Philosophy
-- Empirical Process Control
 - Agile Strategy
-- Metrics and Learning
-- Market Adaptability
 - Discovery and Learning
+- Market Adaptability
+- Enterprise Agility
+- Empirical Process Control
+- Agile Philosophy
+- Metrics and Learning
 - Agile Transformation
-- Organisational Physics
-- Sensemaking
 - Strategy
+- Sensemaking
 - Beta Codex
-- Evidence Based Management
 - Agile Product Management
+- Evidence Based Management
 - Agile Frameworks
 sitemap:
   filename: sitemap.xml

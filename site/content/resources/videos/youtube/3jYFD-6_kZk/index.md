@@ -32,9 +32,9 @@ tags:
 - Azure DevOps
 - System Configuration
 - Practical Techniques and Tooling
+- Software Development
 - Technical Mastery
 - Pragmatic Thinking
-- Software Development
 resourceTypes:
 - video
 layout: video

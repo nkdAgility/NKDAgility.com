@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - Strategy
+- Kanban
 - Operational Practices
-- Flow Efficiency
 - Practical Techniques and Tooling
+- Flow Efficiency
 - Agile Frameworks
-- Agile Project Management
-- Lean Thinking
-- Pragmatic Thinking
 - Software Development
+- Lean Thinking
+- Agile Project Management
+- Pragmatic Thinking
 - Throughput
 - Lean
 resourceTypes:

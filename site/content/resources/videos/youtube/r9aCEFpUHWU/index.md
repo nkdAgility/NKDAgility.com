@@ -23,19 +23,19 @@ duration: 466
 isShort: false
 tags:
 - Scrum
-- Professional Scrum
-- Scrum Master
 - Scrum Team
+- Scrum Master
+- Professional Scrum
 - Scrum Product Development
-- Team Performance
-- Software Development
 - People and Process
 - Product Delivery
+- Team Performance
+- Software Development
 - Agile Product Management
-- Agile Project Management
 - Technical Leadership
-- Pragmatic Thinking
+- Agile Project Management
 - Agile Frameworks
+- Pragmatic Thinking
 - Value Delivery
 - Operational Practices
 - Sociotechnical Systems

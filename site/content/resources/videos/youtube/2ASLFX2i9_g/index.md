@@ -30,16 +30,16 @@ tags:
 - Scrum
 - People and Process
 - Agile Product Management
-- Team Performance
-- Agile Project Management
-- Agile Planning
 - Metrics and Learning
-- Value Delivery
 - Scrum Product Development
-- Operational Practices
-- Pragmatic Thinking
+- Agile Planning
+- Team Performance
+- Value Delivery
+- Agile Project Management
 - Software Development
 - Software Developers
+- Pragmatic Thinking
+- Operational Practices
 - Lean Product Development
 - Flow Efficiency
 resourceTypes:

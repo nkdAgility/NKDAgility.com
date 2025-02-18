@@ -32,34 +32,34 @@ tags:
 - Strategy
 - People and Process
 - Throughput
-- Agile Product Management
-- Lean Product Development
 - Lean Thinking
-- Scrum Product Development
+- Lean Product Development
+- Agile Product Management
 - Cycle Time
-- Team Collaboration
-- Pragmatic Thinking
-- Value Delivery
-- Agile Project Management
-- Product Delivery
+- Scrum Product Development
 - Team Performance
-- Flow Efficiency
+- Pragmatic Thinking
 - Lean Principles
+- Product Delivery
+- Value Delivery
+- Flow Efficiency
+- Team Collaboration
+- Agile Project Management
 - Agile Planning
 - Software Development
+- Agile Frameworks
 - Agile Strategy
 - Operational Practices
-- Agile Frameworks
 - Scrum
-- Product Owner
 - Scrum Team
-- Professional Scrum
-- Agile Product Operating Model
+- Product Owner
 - Scrum Master
+- Agile Product Operating Model
 - Software Developers
-- Organisational Physics
-- Agile Transformation
+- Professional Scrum
 - Organisational Agility
+- Agile Transformation
+- Organisational Physics
 resourceTypes:
 - video
 categories:

@@ -31,11 +31,11 @@ tags:
 - Kanban
 - Flow Efficiency
 - Agile Frameworks
-- Agile Project Management
-- Lean Thinking
-- Operational Practices
 - Software Development
+- Lean Thinking
+- Agile Project Management
 - Throughput
+- Operational Practices
 resourceTypes:
 - video
 categories:

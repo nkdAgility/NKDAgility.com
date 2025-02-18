@@ -28,10 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Continuous Learning
-- People and Process
+- Discovery and Learning
 - Change Management
+- People and Process
 - Organisational Agility
 - Resilience and Change
 - Organisational Change

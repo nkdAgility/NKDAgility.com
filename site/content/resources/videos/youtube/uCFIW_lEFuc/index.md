@@ -26,46 +26,46 @@ tags:
 - Increment
 - Agile Values and Principles
 - Working Software
-- Empirical Process Control
 - Agile Project Management
 - Agile Product Management
-- Agile Transformation
-- Team Performance
-- Value Delivery
-- Agile Frameworks
-- Product Validation
-- Agile Philosophy
-- Software Development
-- Team Collaboration
+- Empirical Process Control
 - Software Developers
 - Customer Feedback Loops
-- Product Delivery
+- Software Development
 - Agile Planning
+- Team Collaboration
+- Product Delivery
+- Agile Transformation
+- Product Validation
+- Value Delivery
+- Agile Frameworks
+- Agile Philosophy
+- Team Performance
 - Agile Strategy
-- Organisational Culture
-- Operational Practices
 - Market Adaptability
-- Organisational Agility
 - Pragmatic Thinking
-- Business Agility
-- Deployment Frequency
-- Organisational Change
-- Transparency and Accountability
-- Scrum Product Development
-- Self Organisation
-- Accountability
+- Operational Practices
+- Organisational Culture
+- Organisational Agility
 - Continuous Learning
+- Business Agility
 - Organisational Physics
+- Scrum Product Development
+- Organisational Change
+- Accountability
+- Deployment Frequency
+- Transparency and Accountability
+- Self Organisation
 - Agile Product Operating Model
 - Agile Leadership
-- Team Motivation
 - Technical Leadership
 - Metrics and Learning
 - Discovery and Learning
-- Professional Scrum
-- Strategy
-- Flow Efficiency
+- Team Motivation
 - Transparency
+- Professional Scrum
+- Flow Efficiency
+- Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

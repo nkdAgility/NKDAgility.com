@@ -34,15 +34,15 @@ tags:
 - People and Process
 - Agile Frameworks
 - Scrum Master
-- Agile Values and Principles
 - Empirical Process Control
-- Agile Project Management
-- Agile Transformation
-- Personal
-- Agile Philosophy
-- Pragmatic Thinking
+- Agile Values and Principles
 - Software Development
 - Software Developers
+- Agile Project Management
+- Personal
+- Agile Philosophy
+- Agile Transformation
+- Pragmatic Thinking
 - Agile Planning
 - Agile Product Management
 resourceTypes:

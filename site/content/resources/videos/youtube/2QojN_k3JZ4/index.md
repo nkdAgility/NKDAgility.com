@@ -22,18 +22,18 @@ duration: 25
 isShort: true
 tags:
 - Agile Values and Principles
+- Technical Leadership
 - People and Process
 - Agile Project Management
-- Technical Leadership
 - Agile Transformation
-- Team Performance
-- Product Delivery
-- Organisational Culture
-- Sociotechnical Systems
-- Pragmatic Thinking
-- Working Software
 - Software Development
+- Team Performance
+- Organisational Culture
+- Working Software
+- Product Delivery
 - Organisational Agility
+- Pragmatic Thinking
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

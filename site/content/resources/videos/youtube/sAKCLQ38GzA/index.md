@@ -29,18 +29,18 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Operating Model
 - Team Motivation
+- Agile Product Operating Model
+- Strategic Goals
 - Organisational Culture
 - Employee Engagement
 - Product Strategy
-- Strategic Goals
-- Organisational Physics
-- Sociotechnical Systems
-- Organisational Psychology
 - Agile Strategy
-- Agile Philosophy
+- Organisational Physics
+- Organisational Psychology
+- Sociotechnical Systems
 - Organisational Change
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

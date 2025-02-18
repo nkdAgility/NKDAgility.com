@@ -23,16 +23,16 @@ categories:
 - Social Technologies
 tags:
 - Scrum
-- Strategy
 - Scrum Product Development
-- Scrum Team
+- Strategy
 - Strategic Goals
+- Scrum Team
 - Professional Scrum
 - People and Process
 - Agile Project Management
 - Product Owner
-- Agile Product Management
 - Team Motivation
+- Agile Product Management
 - Agile Planning
 
 ---

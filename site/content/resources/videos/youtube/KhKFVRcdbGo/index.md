@@ -35,17 +35,17 @@ tags:
 - Operational Practices
 - Transparency
 - Technical Leadership
-- Business Agility
-- People and Process
-- Decision Making
-- Value Stream Management
 - Evidence Based Leadership
-- Evidence Based Management
-- Organisational Physics
-- Systems Thinking
-- Sociotechnical Systems
-- Pragmatic Thinking
+- Value Stream Management
+- People and Process
+- Business Agility
+- Decision Making
 - Agile Strategy
+- Organisational Physics
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Systems Thinking
+- Evidence Based Management
 
 ---
 Creating a culture of engineering excellence within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

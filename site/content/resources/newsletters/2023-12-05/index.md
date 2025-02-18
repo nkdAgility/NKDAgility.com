@@ -21,12 +21,12 @@ categories:
 tags:
 - Scrum
 - Professional Scrum
+- Continuous Learning
 - People and Process
 - Discovery and Learning
-- Continuous Learning
-- Agile Transformation
 - Events and Presentations
 - Products and Books
+- Agile Transformation
 - Pragmatic Thinking
 - Agile Project Management
 - Value Delivery

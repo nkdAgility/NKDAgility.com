@@ -31,18 +31,18 @@ tags:
 - Scrum
 - Product Backlog
 - Agile Product Management
-- Agile Project Management
-- Products and Books
 - Product Owner
 - Scrum Product Development
+- Agile Project Management
+- Products and Books
 - Professional Scrum
 - Agile Frameworks
-- Agile Planning Tools
-- Agile Planning
 - Software Development
-- Product Delivery
+- Agile Planning
+- Agile Planning Tools
 - Backlog Refinement
 - Value Delivery
+- Product Delivery
 resourceTypes:
 - video
 categories:

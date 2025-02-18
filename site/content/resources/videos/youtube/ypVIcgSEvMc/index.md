@@ -29,9 +29,9 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - Customer Retention
-- Employee Engagement
-- Mentoring
 - Coaching
+- Mentoring
+- Employee Engagement
 resourceTypes:
 - video
 categories: []

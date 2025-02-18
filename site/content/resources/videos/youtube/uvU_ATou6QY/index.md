@@ -22,11 +22,11 @@ preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
 tags:
-- People and Process
 - Product Owner
+- People and Process
 - Agile Product Management
-- Agile Project Management
 - Accountability
+- Agile Project Management
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

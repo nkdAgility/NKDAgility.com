@@ -24,25 +24,25 @@ isShort: false
 tags:
 - Transparency
 - Scrum
-- Product Owner
+- Agile Planning Tools
+- Transparency and Accountability
 - Agile Product Management
 - People and Process
-- Transparency and Accountability
-- Agile Planning Tools
 - Agile Planning
+- Product Owner
 - Scrum Product Development
-- Agile Transformation
-- Team Collaboration
-- Scrum Team
-- Product Delivery
 - Team Performance
-- Agile Frameworks
+- Team Collaboration
 - Agile Project Management
-- Scrum Master
-- Professional Scrum
+- Product Delivery
+- Agile Transformation
+- Agile Frameworks
+- Scrum Team
 - Pragmatic Thinking
-- Software Development
+- Professional Scrum
 - Software Developers
+- Scrum Master
+- Software Development
 - Strategy
 sitemap:
   filename: sitemap.xml

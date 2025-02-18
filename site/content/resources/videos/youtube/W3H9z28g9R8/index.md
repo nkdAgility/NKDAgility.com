@@ -29,30 +29,30 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Transparency and Accountability
-- Change Management
 - Decision Making
+- Change Management
+- Transparency and Accountability
 - Agile Philosophy
-- Organisational Agility
-- Organisational Change
-- Organisational Culture
-- Beta Codex
+- Sociotechnical Systems
 - Pragmatic Thinking
 - Organisational Physics
-- Sociotechnical Systems
-- Agile Leadership
+- Organisational Culture
+- Organisational Agility
+- Organisational Change
+- Beta Codex
 - Agile Strategy
 - Accountability
+- Agile Leadership
 - Business Agility
 - Self Organisation
 - Value Delivery
-- Enterprise Agility
-- Organisational Psychology
-- Decision Theory
-- Team Collaboration
-- Personal
-- Team Motivation
 - Sensemaking
+- Team Collaboration
+- Enterprise Agility
+- Team Motivation
+- Personal
+- Decision Theory
+- Organisational Psychology
 resourceTypes:
 - video
 categories:

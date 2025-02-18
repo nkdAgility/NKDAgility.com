@@ -36,8 +36,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 
 ---
 ## Spotlight on Outstanding Scrum Application

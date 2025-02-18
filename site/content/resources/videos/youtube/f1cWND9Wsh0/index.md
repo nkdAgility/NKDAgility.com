@@ -28,11 +28,11 @@ sitemap:
 tags:
 - Scrum
 - Agile Frameworks
+- Software Development
 - People and Process
 - Agile Project Management
 - Agile Transformation
 - Pragmatic Thinking
-- Software Development
 resourceTypes:
 - video
 categories:

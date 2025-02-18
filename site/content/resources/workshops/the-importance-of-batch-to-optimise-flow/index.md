@@ -26,23 +26,23 @@ categories:
 - Social Technologies
 tags:
 - People and Process
-- Practical Techniques and Tooling
-- Events and Presentations
 - Value Delivery
-- Flow Efficiency
 - Scrum Product Development
+- Events and Presentations
+- Flow Efficiency
 - Team Performance
-- Agile Project Management
-- Lean Thinking
-- Product Delivery
-- Lean Product Development
-- Software Development
+- Practical Techniques and Tooling
 - Pragmatic Thinking
+- Lean Thinking
+- Agile Project Management
+- Agile Frameworks
+- Software Development
+- Lean Product Development
 - Lean
-- Operational Practices
 - Throughput
 - Lean Principles
-- Agile Frameworks
+- Product Delivery
+- Operational Practices
 
 ---
 ## Duration

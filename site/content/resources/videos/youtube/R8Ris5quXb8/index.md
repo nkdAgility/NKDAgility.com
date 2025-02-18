@@ -24,12 +24,12 @@ isShort: true
 tags:
 - Product Backlog
 - Agile Product Management
-- Product Delivery
-- Agile Project Management
-- Agile Planning Tools
-- Agile Planning
 - Product Owner
+- Agile Planning
 - Value Delivery
+- Agile Project Management
+- Product Delivery
+- Agile Planning Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -23,36 +23,36 @@ preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 496
 isShort: false
 tags:
-- Agile Product Management
 - Agile Project Management
 - Agile Product Operating Model
-- People and Process
+- Agile Product Management
 - Agile Values and Principles
 - Change Management
 - Resilience and Change
-- Agile Planning
-- Agile Philosophy
-- Pragmatic Thinking
+- People and Process
+- Evidence Based Management
 - Decision Making
-- Agile Strategy
+- Pragmatic Thinking
+- Portfolio Management
 - Agile Transformation
-- Market Adaptability
-- Value Delivery
+- Agile Philosophy
 - Product Delivery
 - Agile Frameworks
-- Evidence Based Management
-- Portfolio Management
 - Business Agility
 - Organisational Change
+- Value Delivery
+- Agile Strategy
+- Agile Planning
+- Market Adaptability
+- Organisational Physics
+- Strategy
+- Organisational Agility
+- Enterprise Agility
 - Operational Practices
 - Evidence Based Leadership
-- Organisational Physics
-- Enterprise Agility
-- Organisational Agility
-- Strategy
-- Decision Theory
 - Digital Transformation
 - Software Development
+- Decision Theory
 - Sociotechnical Systems
 sitemap:
   filename: sitemap.xml

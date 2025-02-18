@@ -33,20 +33,19 @@ tags:
 - People and Process
 - Agile Project Management
 - Agile Transformation
-- Lean Thinking
-- Flow Efficiency
-- Operational Practices
-- Pragmatic Thinking
 - Software Development
+- Lean Thinking
+- Pragmatic Thinking
+- Flow Efficiency
 - Throughput
+- Operational Practices
 - Lean Principles
 - Lean
 - Software Developers
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
-- Product Management
+- Social Technologies
 
 ---
 ## Why Less is Always More When It Comes to WIP

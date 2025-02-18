@@ -29,10 +29,10 @@ sitemap:
 tags:
 - People and Process
 - Organisational Change
-- Technical Leadership
-- Organisational Culture
 - Change Management
 - Continuous Learning
+- Organisational Culture
+- Technical Leadership
 - Organisational Agility
 - Team Performance
 - Pragmatic Thinking
@@ -43,9 +43,9 @@ tags:
 - Resilience and Change
 - Discovery and Learning
 - Value Delivery
+- Business Agility
 - Organisational Physics
 - Agile Strategy
-- Business Agility
 - Enterprise Agility
 - Coaching
 resourceTypes:

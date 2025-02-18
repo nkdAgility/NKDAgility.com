@@ -24,18 +24,18 @@ isShort: false
 tags:
 - Transparency
 - Metrics and Learning
-- Flow Efficiency
 - Practical Techniques and Tooling
+- Flow Efficiency
 - Agile Frameworks
 - Agile Project Management
+- Pragmatic Thinking
 - Kanban
 - Operational Practices
-- Pragmatic Thinking
 - Strategy
-- Decision Making
 - Software Development
-- Throughput
+- Decision Making
 - Value Delivery
+- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.6

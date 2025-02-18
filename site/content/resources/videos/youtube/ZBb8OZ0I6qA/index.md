@@ -25,19 +25,19 @@ tags:
 - Scrum
 - Agile Project Management
 - Agile Product Management
-- People and Process
-- Practical Techniques and Tooling
-- Product Backlog
-- Agile Product Operating Model
-- Azure DevOps
 - Scrum Product Development
+- Azure DevOps
+- People and Process
+- Product Backlog
+- Practical Techniques and Tooling
+- Agile Product Operating Model
 - Agile Planning
 - Azure Boards
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks
-- Agile Planning Tools
 - Agile Philosophy
+- Agile Planning Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.6

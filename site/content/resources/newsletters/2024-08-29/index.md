@@ -21,16 +21,16 @@ categories:
 - Social Technologies
 tags:
 - Discovery and Learning
-- Agile Product Management
-- Products and Books
 - Product Validation
+- Products and Books
+- Agile Product Management
 - Product Discovery
-- People and Process
 - Events and Presentations
+- People and Process
 - Practical Techniques and Tooling
-- Product Delivery
-- Customer Satisfaction
 - Product Owner
+- Customer Satisfaction
+- Product Delivery
 - Experimentation
 - Value Delivery
 

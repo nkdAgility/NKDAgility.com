@@ -25,17 +25,17 @@ aliasesFor404:
 tags:
 - Software Development
 - Deployment Strategies
-- Product Delivery
 - Continuous Delivery
 - Azure DevOps
 - Value Delivery
+- Product Delivery
 - Technical Mastery
-- Practical Techniques and Tooling
-- Operational Practices
-- Frequent Releases
 - Software Developers
-- Deployment Frequency
 - Technical Excellence
+- Frequent Releases
+- Practical Techniques and Tooling
+- Deployment Frequency
+- Operational Practices
 - Market Adaptability
 - Pragmatic Thinking
 - Strategy

@@ -25,11 +25,11 @@ tags:
 - Scrum
 - People and Process
 - Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Agile Philosophy
 - Software Development
 - Software Developers
+- Agile Project Management
+- Agile Philosophy
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

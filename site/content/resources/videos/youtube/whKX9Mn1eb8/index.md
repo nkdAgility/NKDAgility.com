@@ -26,8 +26,8 @@ tags:
 - Software Development
 - Engineering Practices
 - Technical Mastery
-- Technical Excellence
 - Value Delivery
+- Technical Excellence
 - Working Software
 sitemap:
   filename: sitemap.xml

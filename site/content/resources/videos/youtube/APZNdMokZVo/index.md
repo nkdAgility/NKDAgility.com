@@ -22,8 +22,8 @@ preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false
 tags:
-- Agile Project Management
 - Scrum
+- Agile Project Management
 - Definition of Done
 sitemap:
   filename: sitemap.xml

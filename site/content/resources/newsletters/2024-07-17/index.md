@@ -21,27 +21,27 @@ categories:
 - Social Technologies
 tags:
 - Discovery and Learning
-- Agile Product Operating Model
 - Team Collaboration
-- Product Discovery
-- Agile Product Management
-- Products and Books
 - Product Validation
-- People and Process
-- Events and Presentations
-- Product Delivery
+- Agile Product Operating Model
+- Product Discovery
+- Products and Books
+- Agile Product Management
 - Customer Satisfaction
+- Product Delivery
+- Events and Presentations
 - Agile Project Management
+- People and Process
 - Value Delivery
 - Practical Techniques and Tooling
 - Scrum Product Development
 - Customer Feedback Loops
 - Hypothesis Driven Development
 - Product Strategy
-- MVP
 - Experimentation
-- Pragmatic Thinking
 - Lean Startup
+- MVP
+- Pragmatic Thinking
 
 ---
 **Dear Innovators and Product Enthusiasts,**

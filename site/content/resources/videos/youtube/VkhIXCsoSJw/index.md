@@ -23,36 +23,36 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
-- Technical Excellence
 - Continuous Delivery
 - Practical Techniques and Tooling
-- Pragmatic Thinking
+- Technical Excellence
 - Operational Practices
+- Pragmatic Thinking
 - AI and Automation in Agility
 - People and Process
+- Cycle Time
 - Automated Testing
 - Technical Debt
+- Code and Complexity
 - Azure DevOps
 - Test Automation
-- Code and Complexity
-- Cycle Time
-- Continuous Integration
-- Continuous Learning
-- Working Software
-- Software Developers
-- Platform Engineering
-- Product Delivery
-- Metrics and Learning
-- Engineering Practices
-- Technical Mastery
 - Discovery and Learning
+- Product Delivery
+- Platform Engineering
+- Engineering Practices
+- Software Developers
+- Technical Mastery
+- Metrics and Learning
 - Deployment Frequency
-- Throughput
-- Flow Efficiency
-- Software Development
-- Digital Transformation
+- Continuous Integration
+- Working Software
+- Continuous Learning
 - Frequent Releases
 - Value Delivery
+- Digital Transformation
+- Software Development
+- Flow Efficiency
+- Throughput
 - Azure Pipelines
 - Market Adaptability
 resourceTypes:

@@ -24,17 +24,17 @@ isShort: false
 tags:
 - People and Process
 - Scrum
-- Scrum Master
-- Scrum Team
-- Agile Product Management
 - Scrum Product Development
+- Scrum Master
+- Agile Product Management
+- Scrum Team
 - Professional Scrum
 - Agile Frameworks
+- Software Development
 - Team Performance
+- Team Collaboration
 - Agile Project Management
 - Agile Transformation
-- Team Collaboration
-- Software Development
 - Pragmatic Thinking
 - Product Owner
 - Agile Leadership

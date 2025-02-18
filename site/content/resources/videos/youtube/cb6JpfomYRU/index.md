@@ -24,23 +24,23 @@ isShort: false
 tags:
 - Coaching
 - Scrum
+- Scrum Master
 - People and Process
 - Discovery and Learning
-- Scrum Master
 - Professional Scrum
+- Practical Techniques and Tooling
 - Continuous Learning
 - Scrum Team
-- Practical Techniques and Tooling
-- Software Development
-- Agile Transformation
-- Team Collaboration
 - Personal
-- Pragmatic Thinking
-- Team Performance
-- Agile Frameworks
-- Agile Project Management
-- Mentoring
 - Organisational Agility
+- Mentoring
+- Agile Transformation
+- Agile Frameworks
+- Team Performance
+- Software Development
+- Team Collaboration
+- Agile Project Management
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

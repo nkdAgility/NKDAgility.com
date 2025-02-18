@@ -32,8 +32,8 @@ tags:
 - People and Process
 - Practical Techniques and Tooling
 - Agile Frameworks
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 resourceTypes:
 - video
 categories:

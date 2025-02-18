@@ -26,10 +26,10 @@ tags:
 - Forecasting
 - Estimation
 - Software Development
-- Product Delivery
-- Decision Making
-- Pragmatic Thinking
 - Decision Theory
+- Product Delivery
+- Pragmatic Thinking
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

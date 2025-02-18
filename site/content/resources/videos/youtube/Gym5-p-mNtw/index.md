@@ -28,29 +28,29 @@ tags:
 - Operational Practices
 - Business Agility
 - Agile Product Management
-- People and Process
 - Agile Product Operating Model
+- People and Process
+- Agile Transformation
 - Organisational Agility
-- Value Delivery
-- Agile Philosophy
-- Agile Strategy
+- Ability to Innovate
+- Enterprise Agility
 - Evidence Based Leadership
 - Agile Project Management
-- Agile Transformation
-- Enterprise Agility
+- Value Delivery
+- Agile Philosophy
 - Product Delivery
-- Ability to Innovate
-- Trend Analysis
+- Agile Strategy
 - Evidence Based Management
-- Software Developers
-- Software Development
-- Market Adaptability
-- Flow Efficiency
 - Decision Making
+- Flow Efficiency
+- Trend Analysis
+- Market Adaptability
 - Strategy
-- Lean Product Development
+- Software Development
+- Software Developers
 - Digital Transformation
 - Value Stream Management
+- Lean Product Development
 - Lean Principles
 - Practical Techniques and Tooling
 sitemap:

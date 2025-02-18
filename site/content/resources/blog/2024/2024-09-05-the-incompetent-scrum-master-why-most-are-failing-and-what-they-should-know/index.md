@@ -34,9 +34,9 @@ tags:
 - Scrum Master
 - Scrum Team
 - Professional Scrum
+- Software Development
 - Team Performance
 - People and Process
-- Software Development
 categories:
 - Engineering Excellence
 - Social Technologies

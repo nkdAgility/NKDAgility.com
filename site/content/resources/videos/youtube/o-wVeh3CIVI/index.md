@@ -29,7 +29,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- People and Process
+- Agile Project Management
+- Agile Frameworks
+- Software Development
+- Complexity Thinking
 resourceTypes:
 - video
 categories:

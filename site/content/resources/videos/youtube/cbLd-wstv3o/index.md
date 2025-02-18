@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Evidence Based Management
 - Metrics and Learning
 - Value Delivery
-- Decision Making
-- Pragmatic Thinking
+- Evidence Based Management
 - Evidence Based Leadership
-- Ability to Innovate
+- Pragmatic Thinking
+- Decision Making
 - Product Owner
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

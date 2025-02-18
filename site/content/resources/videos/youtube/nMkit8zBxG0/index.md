@@ -32,8 +32,8 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - Agile Planning
-- Agile Project Management
 - Software Development
+- Agile Project Management
 resourceTypes:
 - video
 categories:

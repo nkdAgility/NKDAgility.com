@@ -22,9 +22,9 @@ preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- People and Process
 - Agile Strategy
 - Strategic Goals
+- People and Process
 - Strategy
 - Sociotechnical Systems
 - Team Motivation
@@ -37,8 +37,8 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Product Management
 - Leadership
+- Product Management
 
 ---
 In my journey through the world of Agile, I've often encountered a phenomenon that I like to call the "chaos factor." It's one of the seven signs of the Agile apocalypse, and let me tell you, chaos is everywhere in teams today. It’s a pervasive issue that can derail even the most well-intentioned Agile initiatives. 

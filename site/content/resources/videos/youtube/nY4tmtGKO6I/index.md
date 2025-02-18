@@ -27,9 +27,9 @@ tags:
 - Scrum Team
 - Professional Scrum
 - Agile Frameworks
+- Software Development
 - People and Process
 - Agile Project Management
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

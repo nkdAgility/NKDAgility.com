@@ -32,27 +32,27 @@ sitemap:
 tags:
 - Team Motivation
 - Scrum
-- Scrum Product Development
 - People and Process
-- Scrum Master
+- Scrum Product Development
 - Scrum Team
+- Scrum Master
 - Agile Frameworks
-- Team Performance
 - Agile Project Management
+- Team Performance
 - Team Collaboration
-- Software Development
-- Pragmatic Thinking
 - Employee Engagement
+- Pragmatic Thinking
 - Coaching
+- Software Development
 - Agile Leadership
 - Agile Product Management
-- Value Delivery
-- Agile Transformation
 - Agile Planning
+- Agile Transformation
+- Value Delivery
 - Professional Scrum
 - Organisational Psychology
-- Personal
 - Software Developers
+- Personal
 resourceTypes:
 - video
 categories:

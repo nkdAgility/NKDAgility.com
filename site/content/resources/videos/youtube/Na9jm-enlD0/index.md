@@ -31,16 +31,16 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Decision Making
-- Products and Books
 - Product Owner
-- Agile Project Management
-- Team Collaboration
-- Agile Product Management
+- Products and Books
+- Decision Making
 - Decision Theory
+- Team Collaboration
+- Agile Project Management
+- Agile Product Management
+- Entrepreneurship
 - Sensemaking
 - Pragmatic Thinking
-- Entrepreneurship
 - Agile Leadership
 - Scrum Product Development
 - Complexity Thinking

@@ -27,27 +27,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Agile Values and Principles
-- Agile Product Operating Model
-- Value Delivery
+- Agile Product Management
 - Cycle Time
+- Value Delivery
 - People and Process
-- Product Delivery
+- Agile Product Operating Model
 - Agile Project Management
-- Agile Strategy
-- Agile Planning
-- Pragmatic Thinking
-- Agile Transformation
+- Product Delivery
 - Agile Philosophy
 - Agile Frameworks
+- Pragmatic Thinking
+- Agile Transformation
 - Lead Time
+- Agile Strategy
+- Agile Planning
 - Market Adaptability
+- Business Agility
 - Flow Efficiency
+- Organisational Agility
 - Frequent Releases
 - Deployment Frequency
-- Business Agility
-- Organisational Agility
 resourceTypes:
 - video
 layout: video

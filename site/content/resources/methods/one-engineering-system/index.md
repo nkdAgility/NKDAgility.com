@@ -33,8 +33,8 @@ tags:
 - One Engineering System (1ES)
 - Software Development
 - Azure DevOps
-- Practical Techniques and Tooling
 - Team Collaboration
+- Practical Techniques and Tooling
 - Operational Practices
 - Pragmatic Thinking
 - Collaboration Tools

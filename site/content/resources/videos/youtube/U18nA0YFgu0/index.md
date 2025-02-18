@@ -30,15 +30,15 @@ sitemap:
 tags:
 - Accountability
 - People and Process
-- Transparency and Accountability
 - Organisational Culture
+- Transparency and Accountability
 - Agile Project Management
 - Agile Philosophy
 - Personal
-- Sociotechnical Systems
-- Pragmatic Thinking
 - Software Development
 - Software Developers
+- Pragmatic Thinking
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

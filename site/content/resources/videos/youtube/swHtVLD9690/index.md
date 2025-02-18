@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Market Adaptability
-- Operational Practices
 - Software Development
 - Software Developers
+- Market Adaptability
+- Operational Practices
 - Pragmatic Thinking
 - Resilience and Change
 - Product Delivery
-- Complexity Thinking
 - Value Delivery
+- Complexity Thinking
 resourceTypes:
 - video
 categories:

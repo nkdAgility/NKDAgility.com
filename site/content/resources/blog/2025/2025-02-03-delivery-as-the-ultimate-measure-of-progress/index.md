@@ -29,31 +29,31 @@ tags:
 - Product Delivery
 - Software Development
 - Agile Project Management
-- Value Delivery
-- Working Software
 - Scrum Product Development
-- Scrum Team
-- Engineering Practices
 - Continuous Delivery
+- Engineering Practices
+- Scrum Team
+- Value Delivery
 - People and Process
-- Empirical Process Control
-- Practical Techniques and Tooling
-- Operational Practices
-- Agile Product Management
-- Deployment Frequency
-- Team Performance
+- Working Software
 - Software Developers
 - Professional Scrum
+- Agile Product Management
+- Empirical Process Control
+- Deployment Frequency
 - Release Management
-- Pragmatic Thinking
-- Agile Frameworks
+- Team Performance
+- Operational Practices
+- Practical Techniques and Tooling
 - Agile Planning
+- Pragmatic Thinking
 - Strategy
-- Frequent Releases
 - Agile Transformation
+- Frequent Releases
+- Agile Frameworks
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

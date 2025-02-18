@@ -32,23 +32,23 @@ tags:
 - Throughput
 - Metrics and Learning
 - Product Delivery
-- Ability to Innovate
 - Agile Product Management
+- Ability to Innovate
 - Agile Project Management
-- People and Process
-- Evidence Based Management
 - Agile Product Operating Model
 - Product Owner
 - Decision Making
-- Pragmatic Thinking
-- Evidence Based Leadership
+- Evidence Based Management
+- People and Process
 - Strategy
+- Evidence Based Leadership
+- Pragmatic Thinking
 - Empirical Process Control
 - Agile Strategy
 - Scrum Product Development
 - Product Strategy
-- Business Agility
 - Products and Books
+- Business Agility
 - Operational Practices
 resourceTypes:
 - video

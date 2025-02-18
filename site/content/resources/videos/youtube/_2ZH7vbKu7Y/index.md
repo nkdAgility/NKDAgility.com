@@ -32,30 +32,30 @@ sitemap:
 tags:
 - People and Process
 - Personal
-- Continuous Learning
 - Resilience and Change
 - Discovery and Learning
-- Team Collaboration
-- Team Performance
-- Technical Leadership
-- Agile Leadership
-- Change Management
-- Pragmatic Thinking
-- Organisational Change
+- Continuous Learning
 - Team Motivation
-- Organisational Agility
+- Agile Leadership
+- Pragmatic Thinking
+- Team Collaboration
+- Technical Leadership
+- Change Management
+- Team Performance
+- Organisational Change
 - Sociotechnical Systems
+- Organisational Agility
+- Organisational Physics
 - Organisational Culture
 - Agile Philosophy
-- Psychological Safety
 - Organisational Psychology
-- Organisational Physics
+- Psychological Safety
 - Enterprise Agility
 - Ability to Innovate
-- Mentoring
-- Coaching
-- Employee Engagement
 - Business Agility
+- Mentoring
+- Employee Engagement
+- Coaching
 categories:
 - Leadership
 

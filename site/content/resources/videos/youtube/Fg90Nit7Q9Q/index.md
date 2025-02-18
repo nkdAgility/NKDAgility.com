@@ -26,9 +26,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Working Software
 - Software Development
 - Software Developers
+- Working Software
 - Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking

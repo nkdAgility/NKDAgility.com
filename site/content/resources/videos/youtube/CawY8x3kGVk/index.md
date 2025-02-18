@@ -30,21 +30,21 @@ sitemap:
 tags:
 - Scrum
 - Scrum Team
-- Professional Scrum
-- Software Developers
-- People and Process
-- Agile Project Management
-- Technical Leadership
 - Agile Product Management
-- Agile Frameworks
+- Agile Project Management
+- People and Process
+- Technical Leadership
+- Software Developers
+- Professional Scrum
+- Pragmatic Thinking
 - Software Development
 - Self Organisation
-- Pragmatic Thinking
+- Agile Frameworks
 - Sociotechnical Systems
 - Technical Debt
 - Scrum Product Development
-- Team Performance
 - Team Collaboration
+- Team Performance
 - Agile Planning
 - Agile Transformation
 resourceTypes:

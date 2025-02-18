@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Kanban
 - Agile Frameworks
-- Agile Project Management
 - Lean Thinking
+- Agile Project Management
 - Operational Practices
 - Lean Principles
 - Software Development

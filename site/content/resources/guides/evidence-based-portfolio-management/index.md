@@ -21,22 +21,22 @@ card:
 categories:
 - Social Technologies
 tags:
-- Business Agility
 - Portfolio Management
+- Business Agility
 - Agile Strategy
-- Organisational Change
 - Agile Transformation
-- Agile Philosophy
-- Enterprise Agility
 - Evidence Based Management
 - Organisational Agility
+- Agile Philosophy
+- Organisational Change
+- Enterprise Agility
 - Market Adaptability
 - Agile Values and Principles
 - Scaling Agility
 - People and Process
-- Strategy
-- Pragmatic Thinking
 - Strategic Goals
+- Pragmatic Thinking
+- Strategy
 - Decision Making
 
 ---

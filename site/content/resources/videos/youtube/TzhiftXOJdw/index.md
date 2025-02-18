@@ -29,28 +29,28 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Business Agility
-- Agile Strategy
-- Organisational Change
-- Agile Philosophy
 - Market Adaptability
+- Agile Strategy
 - Change Management
-- Organisational Agility
 - Agile Transformation
+- Organisational Agility
+- Organisational Change
+- Business Agility
+- Agile Philosophy
 - Enterprise Agility
-- Pragmatic Thinking
-- Organisational Culture
-- Beta Codex
-- Organisational Physics
 - Sociotechnical Systems
+- Beta Codex
+- Organisational Culture
+- Organisational Physics
+- Pragmatic Thinking
 - Resilience and Change
 - Agile Values and Principles
-- Scaling Agility
 - Agile Leadership
+- Scaling Agility
+- Digital Transformation
+- Strategic Goals
 - Strategy
 - Software Development
-- Strategic Goals
-- Digital Transformation
 resourceTypes:
 - video
 categories:

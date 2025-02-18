@@ -27,11 +27,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Discovery and Learning
-- Customer Feedback Loops
 - Metrics and Learning
+- Customer Feedback Loops
 - Continuous Learning
 - Empirical Process Control
+- Discovery and Learning
 - Personal
 - Team Collaboration
 - Coaching

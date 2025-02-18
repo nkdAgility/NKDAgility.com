@@ -31,21 +31,21 @@ tags:
 - Metrics and Learning
 - Product Delivery
 - Value Delivery
-- Team Performance
 - Practical Techniques and Tooling
+- Team Performance
+- Agile Project Management
+- Software Development
 - Pragmatic Thinking
 - Agile Frameworks
-- Software Development
-- Agile Project Management
 - Operational Practices
 - Strategy
-- People and Process
 - Scrum Product Development
+- People and Process
 - Flow Efficiency
 - Agile Product Management
 - Agile Planning
-- Working Software
 - Increment
+- Working Software
 resourceTypes:
 - video
 categories:

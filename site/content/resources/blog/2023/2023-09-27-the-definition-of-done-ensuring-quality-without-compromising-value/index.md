@@ -27,20 +27,20 @@ aliasesFor404:
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
-- Transparency
 - Scrum
+- Transparency
 - Definition of Done
 - Professional Scrum
+- Scrum Product Development
 - Product Delivery
 - Transparency and Accountability
-- Scrum Product Development
 - Working Software
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Increment
 - Value Delivery
-- Agile Product Management
 - Software Developers
+- Agile Product Management
 - Empirical Process Control
 - Pragmatic Thinking
 categories:

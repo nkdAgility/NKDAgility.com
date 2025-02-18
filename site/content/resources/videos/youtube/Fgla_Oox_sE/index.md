@@ -28,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Product Owner
+- People and Process
 - Agile Product Management
 - Scrum Product Development
-- Product Strategy
 - Value Delivery
-- Agile Project Management
+- Product Strategy
 - Agile Strategy
+- Agile Project Management
 resourceTypes:
 - video
 categories:

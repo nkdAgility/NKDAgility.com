@@ -31,13 +31,13 @@ tags:
 - Metrics and Learning
 - Personal
 - Pragmatic Thinking
-- Agile Product Management
 - Product Owner
+- Agile Product Management
 - Value Delivery
-- Hypothesis Driven Development
-- Decision Making
 - Evidence Based Leadership
 - Experimentation
+- Hypothesis Driven Development
+- Decision Making
 resourceTypes:
 - video
 categories:

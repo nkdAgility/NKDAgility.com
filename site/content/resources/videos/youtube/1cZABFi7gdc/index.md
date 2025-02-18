@@ -28,21 +28,21 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
+- Agile Strategy
+- Agile Leadership
 - Agile Project Management
 - Agile Transformation
-- Agile Leadership
-- Agile Strategy
-- Business Agility
-- People and Process
-- Enterprise Agility
-- Technical Leadership
-- Market Adaptability
-- Mentoring
-- Coaching
-- Pragmatic Thinking
 - Software Development
+- Coaching
+- Technical Leadership
 - Organisational Change
+- People and Process
+- Business Agility
+- Market Adaptability
+- Enterprise Agility
+- Mentoring
 - Organisational Agility
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

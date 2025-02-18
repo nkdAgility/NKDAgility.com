@@ -24,22 +24,22 @@ duration: 266
 isShort: false
 tags:
 - People and Process
-- Product Delivery
 - Value Delivery
-- Pragmatic Thinking
+- Product Delivery
 - Software Development
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Team Performance
 - Software Developers
-- Agile Product Operating Model
 - Technical Leadership
+- Business Agility
 - Operational Practices
 - Market Adaptability
-- Business Agility
-- Organisational Physics
-- Agile Strategy
-- Strategy
+- Agile Product Operating Model
 - Organisational Agility
+- Organisational Physics
+- Strategy
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

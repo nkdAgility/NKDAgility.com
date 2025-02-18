@@ -29,26 +29,26 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- People and Process
 - Change Management
+- People and Process
 - Discovery and Learning
+- Continuous Learning
+- Value Delivery
 - Evidence Based Management
 - Ability to Innovate
-- Continuous Learning
 - Pragmatic Thinking
-- Value Delivery
-- Mentoring
-- Coaching
-- Sensemaking
 - Organisational Physics
 - Evidence Based Leadership
+- Coaching
 - Decision Making
+- Sensemaking
+- Mentoring
 - Sociotechnical Systems
 - Agile Product Management
 - Organisational Change
 - Business Agility
-- Operational Practices
 - Organisational Agility
+- Operational Practices
 resourceTypes:
 - video
 categories:

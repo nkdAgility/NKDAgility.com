@@ -30,23 +30,23 @@ sitemap:
 tags:
 - Accountability
 - Scrum
-- Scrum Product Development
 - Product Owner
-- People and Process
-- Agile Product Management
+- Scrum Product Development
 - Transparency and Accountability
 - Scrum Team
+- Agile Product Management
+- People and Process
+- Professional Scrum
 - Team Collaboration
 - Agile Project Management
-- Professional Scrum
 - Personal
 - Decision Making
+- Agile Leadership
 - Software Developers
 - Team Performance
-- Agile Leadership
+- Pragmatic Thinking
 - Organisational Culture
 - Sociotechnical Systems
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

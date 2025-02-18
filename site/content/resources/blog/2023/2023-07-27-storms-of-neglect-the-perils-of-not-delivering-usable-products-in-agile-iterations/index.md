@@ -25,26 +25,26 @@ aliasesFor404:
 tags:
 - Transparency
 - Increment
+- Agile Product Operating Model
 - Agile Product Management
 - Agile Values and Principles
-- Agile Product Operating Model
-- Product Delivery
-- Agile Planning
-- People and Process
 - Working Software
 - Agile Transformation
-- Agile Philosophy
-- Agile Strategy
-- Scrum Product Development
+- Product Delivery
 - Agile Project Management
+- Agile Philosophy
+- People and Process
+- Agile Planning
+- Scrum Product Development
 - Agile Frameworks
-- Software Development
-- Organisational Agility
-- Value Delivery
-- Software Developers
-- Business Agility
+- Agile Strategy
 - Pragmatic Thinking
 - Empirical Process Control
+- Business Agility
+- Value Delivery
+- Software Developers
+- Organisational Agility
+- Software Development
 - Technical Debt
 categories:
 - Product Management

@@ -44,8 +44,8 @@ tags:
 - Scrum
 - Increment
 - Scrum Product Development
-- Working Software
 - Software Development
+- Working Software
 - Professional Scrum
 
 ---

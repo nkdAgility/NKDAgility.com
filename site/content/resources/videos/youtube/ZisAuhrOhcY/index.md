@@ -28,19 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Transparency
 - Strategy
-- Transparency and Accountability
+- Transparency
+- Kanban
 - Metrics and Learning
-- Agile Project Management
-- Flow Efficiency
-- Practical Techniques and Tooling
+- Transparency and Accountability
 - Software Development
 - Agile Strategy
+- Agile Project Management
+- Practical Techniques and Tooling
+- Flow Efficiency
 - Agile Frameworks
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - People and Process
 - Value Delivery
 - Throughput

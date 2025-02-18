@@ -29,35 +29,35 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum
-- Sprint Review
-- Decision Making
-- People and Process
 - Product Owner
+- Decision Making
+- Sprint Review
+- People and Process
 - Agile Product Management
-- Team Motivation
-- Scrum Team
-- Agile Philosophy
-- Team Collaboration
-- Agile Transformation
-- Agile Planning
-- Employee Engagement
-- Value Delivery
 - Transparency and Accountability
 - Agile Project Management
-- Team Performance
-- Agile Frameworks
+- Team Collaboration
+- Agile Philosophy
+- Value Delivery
 - Organisational Culture
+- Scrum Team
+- Team Performance
+- Employee Engagement
+- Agile Planning
+- Agile Frameworks
+- Agile Transformation
+- Team Motivation
 - Scrum Product Development
-- Pragmatic Thinking
-- Software Development
 - Transparency
-- Psychological Safety
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Scrum Master
+- Psychological Safety
+- Software Development
 - Agile Leadership
+- Product Delivery
 - Organisational Agility
 - Agile Strategy
-- Product Delivery
 - Technical Leadership
 - Software Developers
 - Professional Scrum

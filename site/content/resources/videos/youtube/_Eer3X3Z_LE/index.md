@@ -26,7 +26,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Backlog
+- Scrum Product Development
+- Scrum
 resourceTypes:
 - video
 layout: video

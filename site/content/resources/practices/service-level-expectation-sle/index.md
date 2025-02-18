@@ -27,19 +27,19 @@ tags:
 - Scrum
 - Cycle Time
 - Scrum Team
+- Metrics and Learning
 - Scrum Product Development
 - Flow Efficiency
-- Metrics and Learning
-- Throughput
-- Software Development
-- Agile Frameworks
-- Empirical Process Control
-- Forecasting
-- Estimation
 - Transparency
-- Agile Project Management
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
+- Agile Project Management
+- Software Development
+- Forecasting
+- Empirical Process Control
+- Agile Frameworks
+- Throughput
+- Estimation
 - Agile Planning
 
 ---

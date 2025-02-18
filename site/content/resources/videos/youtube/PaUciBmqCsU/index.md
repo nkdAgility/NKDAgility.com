@@ -28,25 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
-- Kanban
 - Strategy
+- Kanban
+- Transparency
 - Transparency and Accountability
-- Empirical Process Control
-- Value Stream Management
-- Practical Techniques and Tooling
-- Value Delivery
 - Flow Efficiency
-- Lean Principles
-- Throughput
-- Operational Practices
+- Value Stream Management
+- Value Delivery
+- Empirical Process Control
+- Practical Techniques and Tooling
 - Agile Transformation
-- Software Development
-- Pragmatic Thinking
-- Lean
-- Lean Thinking
-- Agile Project Management
 - Agile Frameworks
+- Throughput
+- Pragmatic Thinking
+- Lean Principles
+- Lean
+- Software Development
+- Agile Project Management
+- Lean Thinking
+- Operational Practices
 resourceTypes:
 - video
 categories:

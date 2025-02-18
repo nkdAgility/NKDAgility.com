@@ -25,8 +25,8 @@ tags:
 - Scrum Master
 - Team Performance
 - People and Process
-- Agile Project Management
 - Team Collaboration
+- Agile Project Management
 - Software Development
 - Scrum Team
 sitemap:

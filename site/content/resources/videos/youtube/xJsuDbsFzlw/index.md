@@ -26,21 +26,21 @@ tags:
 - Agile Planning Tools
 - Scrum
 - Agile Planning
-- Agile Transformation
 - Agile Frameworks
-- People and Process
-- Agile Project Management
-- Agile Product Management
 - Events and Presentations
+- Agile Transformation
+- Agile Product Management
+- Agile Project Management
+- People and Process
 - Scrum Master
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Product Development
 - Product Delivery
-- Team Performance
 - Team Collaboration
+- Pragmatic Thinking
+- Scrum Product Development
 - Software Developers
+- Team Performance
+- Software Development
+- Professional Scrum
 - Practical Techniques and Tooling
 - Technical Leadership
 sitemap:

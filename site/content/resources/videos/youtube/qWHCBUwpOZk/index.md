@@ -28,18 +28,18 @@ sitemap:
 tags:
 - Kanban
 - Operational Practices
-- Practical Techniques and Tooling
-- Metrics and Learning
 - Flow Efficiency
+- Practical Techniques and Tooling
 - Value Delivery
 - People and Process
+- Metrics and Learning
+- Agile Project Management
 - Lean
 - Throughput
 - Pragmatic Thinking
-- Lean Thinking
 - Software Development
 - Agile Frameworks
-- Agile Project Management
+- Lean Thinking
 - Lean Principles
 - Cycle Time
 - Value Stream Management

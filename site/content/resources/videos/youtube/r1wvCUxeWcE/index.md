@@ -24,14 +24,14 @@ isShort: true
 tags:
 - Kanban
 - Practical Techniques and Tooling
-- Operational Practices
 - Software Development
+- Operational Practices
 - Lean Principles
 - Agile Frameworks
-- Agile Project Management
 - Lean Thinking
-- Flow Efficiency
+- Agile Project Management
 - Pragmatic Thinking
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

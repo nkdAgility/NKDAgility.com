@@ -28,28 +28,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Mentoring
 - Scrum
+- Mentoring
 - People and Process
 - Discovery and Learning
+- Continuous Learning
 - Value Delivery
 - Agile Philosophy
-- Continuous Learning
 - Agile Transformation
 - Agile Frameworks
-- Agile Project Management
-- Pragmatic Thinking
 - Coaching
 - Team Collaboration
+- Agile Project Management
+- Pragmatic Thinking
 - Scrum Product Development
+- Practical Techniques and Tooling
 - Professional Scrum
 - Customer Feedback Loops
-- Practical Techniques and Tooling
 - Agile Product Management
-- Software Development
 - Team Performance
-- Sociotechnical Systems
+- Software Development
 - Organisational Agility
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

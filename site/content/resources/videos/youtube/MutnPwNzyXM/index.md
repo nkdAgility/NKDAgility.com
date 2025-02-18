@@ -24,8 +24,8 @@ isShort: false
 tags:
 - People and Process
 - Agile Values and Principles
-- Agile Philosophy
 - Value Delivery
+- Agile Philosophy
 - Personal
 - Miscellaneous
 - Pragmatic Thinking
@@ -38,8 +38,8 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Product Management
 - Leadership
+- Product Management
 
 ---
 As an agile consultant, I've learned a multitude of lessons over the years, but one stands out above the rest: the statement of work (SoW) often bears little resemblance to the actual problems my clients face. This insight transcends the realm of agile consulting; it applies to any consulting role. 

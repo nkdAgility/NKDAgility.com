@@ -42,8 +42,8 @@ categories:
 - Social Technologies
 tags:
 - Scrum
-- Sprint Review
 - Scrum Product Development
+- Sprint Review
 - Agile Project Management
 
 ---

@@ -34,23 +34,23 @@ tags:
 - Events and Presentations
 - Sprint Review
 - Agile Product Management
-- Agile Project Management
-- Scrum Product Development
 - Product Delivery
+- Scrum Product Development
+- Agile Project Management
 - People and Process
-- Scrum Master
+- Professional Scrum
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks
-- Professional Scrum
+- Scrum Master
 - Practical Techniques and Tooling
-- Scrum Team
+- Team Performance
 - Team Collaboration
 - Customer Feedback Loops
-- Team Performance
+- Scrum Team
 - Agile Planning
-- Value Delivery
 - Working Software
+- Value Delivery
 resourceTypes:
 - video
 categories:

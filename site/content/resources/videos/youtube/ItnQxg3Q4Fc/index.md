@@ -30,40 +30,40 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
 - People and Process
-- Agile Philosophy
+- Agile Leadership
 - Market Adaptability
-- Business Agility
+- Agile Philosophy
 - Agile Strategy
-- Organisational Change
-- Value Delivery
-- Agile Project Management
-- Technical Leadership
-- Agile Transformation
 - Change Management
-- Organisational Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Strategy
-- Organisational Culture
+- Agile Project Management
+- Value Delivery
+- Technical Leadership
+- Organisational Change
+- Agile Transformation
+- Business Agility
 - Scaling Agility
+- Strategy
 - Enterprise Agility
+- Sociotechnical Systems
+- Organisational Culture
+- Pragmatic Thinking
+- Organisational Agility
 - Large Scale Agility
 - Resilience and Change
 - Organisational Physics
 - Agile Product Management
 - Agile Values and Principles
 - Agile Frameworks
+- Team Collaboration
 - Scaled Agile
 - Product Delivery
-- Team Collaboration
-- Digital Transformation
-- Systems Thinking
 - Sensemaking
+- Strategic Goals
 - Employee Engagement
 - Decision Making
-- Strategic Goals
+- Digital Transformation
+- Systems Thinking
 resourceTypes:
 - video
 categories:

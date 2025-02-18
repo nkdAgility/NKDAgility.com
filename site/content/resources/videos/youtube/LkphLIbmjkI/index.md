@@ -31,16 +31,16 @@ tags:
 - People and Process
 - Agile Project Management
 - Agile Frameworks
-- Technical Leadership
 - Software Development
+- Technical Leadership
 - Pragmatic Thinking
-- Mentoring
 - Software Developers
-- Practical Techniques and Tooling
+- Mentoring
 - Continuous Learning
+- Practical Techniques and Tooling
 - Technical Mastery
-- Agile Transformation
 - Team Collaboration
+- Agile Transformation
 resourceTypes:
 - video
 categories:

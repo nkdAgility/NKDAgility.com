@@ -32,8 +32,8 @@ sitemap:
 tags:
 - Coaching
 - Scrum
-- People and Process
 - Scrum Master
+- People and Process
 - Scrum Team
 - Team Performance
 - Agile Frameworks
@@ -42,8 +42,8 @@ tags:
 - Professional Scrum
 - Team Collaboration
 - Pragmatic Thinking
-- Technical Leadership
 - Software Development
+- Technical Leadership
 - Agile Leadership
 resourceTypes:
 - video

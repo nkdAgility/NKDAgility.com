@@ -30,24 +30,24 @@ layout: video
 tags:
 - Scrum
 - Agile Project Management
-- Continuous Learning
-- Discovery and Learning
-- Scrum Master
 - Professional Scrum
 - People and Process
-- Team Collaboration
+- Discovery and Learning
+- Scrum Master
+- Continuous Learning
 - Events and Presentations
+- Team Collaboration
 - Pragmatic Thinking
-- Team Performance
 - Coaching
 - Agile Frameworks
+- Team Performance
 - Metrics and Learning
-- Scrum Team
 - Software Development
-- Agile Philosophy
+- Scrum Team
 - Agile Product Management
-- Agile Transformation
+- Agile Philosophy
 - Empirical Process Control
+- Agile Transformation
 categories:
 - Social Technologies
 

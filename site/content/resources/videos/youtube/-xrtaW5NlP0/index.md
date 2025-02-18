@@ -30,14 +30,14 @@ tags:
 - Kanban
 - Throughput
 - People and Process
-- Flow Efficiency
 - Cycle Time
+- Flow Efficiency
 - Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking
 - Metrics and Learning
-- Organisational Physics
 - Lean
+- Organisational Physics
 resourceTypes:
 - video
 layout: video

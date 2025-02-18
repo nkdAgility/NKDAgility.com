@@ -28,25 +28,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Business Agility
 - Strategic Goals
 - Organisational Culture
 - Organisational Agility
 - People and Process
-- Organisational Change
-- Agile Strategy
-- Resilience and Change
-- Market Adaptability
-- Organisational Physics
-- Operational Practices
+- Business Agility
 - Enterprise Agility
+- Agile Strategy
 - Systems Thinking
 - Sociotechnical Systems
+- Resilience and Change
+- Organisational Change
 - Value Delivery
+- Organisational Physics
+- Operational Practices
+- Market Adaptability
 - Pragmatic Thinking
-- Strategy
 - Continuous Learning
 - Complexity Thinking
+- Strategy
 - Sensemaking
 - Ability to Innovate
 resourceTypes:

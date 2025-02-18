@@ -33,21 +33,21 @@ tags:
 - People and Process
 - Scrum
 - Agile Product Management
-- Team Collaboration
-- Value Delivery
 - Agile Frameworks
 - Software Development
-- Organisational Agility
 - Agile Project Management
 - Agile Transformation
-- Empirical Process Control
+- Value Delivery
+- Team Collaboration
+- Organisational Agility
 - Pragmatic Thinking
+- Empirical Process Control
 - Scrum Product Development
-- Agile Planning
-- Software Developers
 - Product Delivery
-- Organisational Culture
 - Professional Scrum
+- Organisational Culture
+- Software Developers
+- Agile Planning
 - Personal
 - Sociotechnical Systems
 resourceTypes:

@@ -23,11 +23,11 @@ duration: 46
 isShort: true
 tags:
 - Scrum
-- People and Process
 - Scrum Master
+- People and Process
 - Scrum Team
-- Agile Project Management
 - Technical Leadership
+- Agile Project Management
 - Agile Leadership
 sitemap:
   filename: sitemap.xml

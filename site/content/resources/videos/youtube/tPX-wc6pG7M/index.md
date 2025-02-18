@@ -25,23 +25,23 @@ tags:
 - People and Process
 - Agile Values and Principles
 - Value Delivery
-- Organisational Change
-- Organisational Culture
-- Agile Transformation
-- Organisational Agility
-- Agile Leadership
-- Employee Engagement
 - Agile Strategy
+- Employee Engagement
+- Organisational Culture
+- Agile Leadership
+- Organisational Change
+- Agile Transformation
 - Organisational Psychology
 - Agile Philosophy
-- Team Motivation
+- Organisational Agility
 - Beta Codex
-- Business Agility
-- Sociotechnical Systems
 - Self Organisation
+- Business Agility
+- Team Motivation
+- Sociotechnical Systems
 - Agile Product Operating Model
-- Change Management
 - Organisational Physics
+- Change Management
 - Enterprise Agility
 - Pragmatic Thinking
 sitemap:

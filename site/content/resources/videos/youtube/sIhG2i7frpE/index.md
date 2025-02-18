@@ -27,9 +27,9 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Transparency
+- Continuous Learning
 - Practical Techniques and Tooling
 - Discovery and Learning
-- Continuous Learning
 - Lean Principles
 sitemap:
   filename: sitemap.xml
@@ -38,9 +38,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- DevOps
 - Social Technologies
 - Engineering Excellence
-- DevOps
 - Product Management
 
 ---

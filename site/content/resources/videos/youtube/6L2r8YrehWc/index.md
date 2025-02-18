@@ -22,23 +22,23 @@ preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- Scrum
 - Accountability
-- Scrum Master
-- Scrum Team
+- Scrum
 - People and Process
+- Scrum Team
+- Scrum Master
+- Pragmatic Thinking
 - Team Collaboration
-- Technical Leadership
-- Team Performance
 - Agile Product Management
 - Professional Scrum
-- Pragmatic Thinking
+- Technical Leadership
+- Team Performance
+- Agile Leadership
+- Coaching
 - Agile Project Management
+- Software Development
 - Agile Frameworks
 - Agile Transformation
-- Coaching
-- Software Development
-- Agile Leadership
 - Sociotechnical Systems
 - Team Motivation
 sitemap:

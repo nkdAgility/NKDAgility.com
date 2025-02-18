@@ -27,16 +27,16 @@ tags:
 - Change Management
 - Organisational Change
 - Organisational Agility
-- Decision Making
 - Sensemaking
-- Sociotechnical Systems
 - Pragmatic Thinking
+- Decision Making
+- Sociotechnical Systems
 - Business Agility
 - Enterprise Agility
 - Discovery and Learning
-- Miscellaneous
-- Organisational Physics
 - Coaching
+- Organisational Physics
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

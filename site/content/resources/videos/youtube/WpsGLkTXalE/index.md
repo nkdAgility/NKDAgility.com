@@ -32,8 +32,8 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Product Management
 - Leadership
+- Product Management
 
 ---
 In my journey through the world of Agile, I've come to recognise a troubling phenomenon that I refer to as one of the seven signs of the Agile apocalypse: silence. This silence is not merely the absence of sound; it’s a deafening void that can have dire consequences for teams and organisations striving for agility. 

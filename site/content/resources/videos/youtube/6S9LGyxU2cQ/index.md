@@ -26,28 +26,28 @@ tags:
 - People and Process
 - Continuous Learning
 - Discovery and Learning
-- Organisational Agility
 - Team Collaboration
+- Organisational Agility
 - Customer Feedback Loops
-- Pragmatic Thinking
-- Software Development
-- Agile Transformation
-- Software Developers
 - Agile Frameworks
-- Agile Project Management
+- Agile Transformation
 - Empirical Process Control
+- Software Development
+- Pragmatic Thinking
+- Agile Project Management
+- Software Developers
 - Scrum
 - Scrum Team
 - Metrics and Learning
 - Scrum Product Development
+- Agile Planning
+- Market Adaptability
+- Agile Product Management
+- Technical Leadership
+- Mentoring
 - Product Delivery
 - Value Delivery
-- Mentoring
 - Operational Practices
-- Agile Product Management
-- Agile Planning
-- Technical Leadership
-- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

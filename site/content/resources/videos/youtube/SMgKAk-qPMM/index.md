@@ -31,11 +31,11 @@ tags:
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
-- Agile Philosophy
 - Agile Product Management
-- Pragmatic Thinking
+- Agile Philosophy
+- Agile Transformation
 - Software Development
+- Pragmatic Thinking
 - Agile Planning
 - Software Developers
 resourceTypes:

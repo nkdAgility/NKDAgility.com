@@ -22,10 +22,10 @@ preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
 tags:
-- Discovery and Learning
 - Metrics and Learning
-- Decision Making
+- Discovery and Learning
 - Experimentation
+- Decision Making
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

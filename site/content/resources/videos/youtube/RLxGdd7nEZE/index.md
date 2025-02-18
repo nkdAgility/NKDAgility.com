@@ -33,14 +33,14 @@ tags:
 - Systems Thinking
 - Change Management
 - Organisational Change
-- Sociotechnical Systems
 - Pragmatic Thinking
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
 - Social Technologies
-- Product Management
 - Leadership
+- Product Management
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

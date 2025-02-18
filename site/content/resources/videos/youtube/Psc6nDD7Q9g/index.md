@@ -28,22 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - Transparency
+- Kanban
+- Metrics and Learning
 - People and Process
 - Transparency and Accountability
-- Metrics and Learning
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management
 - Operational Practices
-- Lean Thinking
-- Flow Efficiency
-- Empirical Process Control
-- Pragmatic Thinking
 - Lean
 - Value Delivery
+- Lean Thinking
+- Empirical Process Control
+- Pragmatic Thinking
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

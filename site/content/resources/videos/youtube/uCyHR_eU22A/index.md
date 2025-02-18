@@ -29,20 +29,20 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum
+- Product Backlog
 - Scrum Product Development
 - Product Owner
-- Product Backlog
 - Software Developers
+- Scrum Master
+- People and Process
+- Professional Scrum
 - Agile Product Management
 - Scrum Team
-- People and Process
-- Scrum Master
-- Professional Scrum
+- Software Development
 - Agile Planning
+- Pragmatic Thinking
 - Team Collaboration
 - Agile Project Management
-- Pragmatic Thinking
-- Software Development
 - Agile Frameworks
 - Value Delivery
 - Product Delivery

@@ -21,20 +21,20 @@ card:
   title: Continuous Delivery
 categories:
 - Product Management
+- DevOps
 - Social Technologies
 - Engineering Excellence
-- DevOps
 tags:
-- Product Delivery
 - Continuous Delivery
 - Value Delivery
-- Discovery and Learning
+- Product Delivery
+- Product Validation
 - Customer Feedback Loops
 - Agile Product Management
-- Product Validation
-- Frequent Releases
-- Working Software
+- Discovery and Learning
 - Software Development
+- Working Software
+- Frequent Releases
 
 ---
 Closing the feedback loop is imposable without getting your product in front of the users that will be using it. Only they can determine if the perceived value that you think that you have is actually value.

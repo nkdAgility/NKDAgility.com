@@ -21,7 +21,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 isShort: false
-tags: []
+tags:
+- Agile Product Management
+- Entrepreneurship
+- People and Process
+- Product Owner
+- Value Delivery
+- Product Discovery
+- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

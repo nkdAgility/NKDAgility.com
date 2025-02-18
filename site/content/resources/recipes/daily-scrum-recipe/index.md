@@ -42,8 +42,8 @@ categories:
 - Social Technologies
 tags:
 - Scrum
-- Daily Scrum
 - Scrum Product Development
+- Daily Scrum
 - Professional Scrum
 - Software Development
 - Agile Project Management

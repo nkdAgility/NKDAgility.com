@@ -26,9 +26,9 @@ tags:
 - Engineering Practices
 - Technical Mastery
 - Technical Excellence
-- Code and Complexity
 - Test Driven Development
 - Software Developers
+- Code and Complexity
 sitemap:
   filename: sitemap.xml
   priority: 0.6

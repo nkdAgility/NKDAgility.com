@@ -28,26 +28,26 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Product Delivery
-- People and Process
-- Agile Project Management
-- Agile Leadership
 - Product Owner
 - Azure DevOps
+- Product Delivery
+- People and Process
+- Agile Leadership
+- Agile Project Management
+- Agile Strategy
 - Value Delivery
 - Technical Leadership
-- Agile Strategy
 - Pragmatic Thinking
+- Organisational Agility
+- Personal
+- Market Adaptability
 - Business Agility
 - Deployment Frequency
-- Market Adaptability
-- Personal
-- Organisational Agility
 - Agile Transformation
-- Organisational Culture
-- Enterprise Agility
 - Scaling Agility
 - Software Development
+- Organisational Culture
+- Enterprise Agility
 resourceTypes:
 - video
 layout: video

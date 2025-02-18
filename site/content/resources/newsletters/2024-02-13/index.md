@@ -21,8 +21,8 @@ categories:
 - Social Technologies
 tags:
 - Agile Project Management
-- People and Process
 - Events and Presentations
+- People and Process
 - Products and Books
 - Software Development
 - Agile Product Management

@@ -31,19 +31,19 @@ tags:
 - Value Delivery
 - Organisational Agility
 - Agile Philosophy
-- Business Agility
-- Product Delivery
-- Market Adaptability
-- Operational Practices
-- Pragmatic Thinking
 - Software Development
+- Business Agility
+- Market Adaptability
+- Product Delivery
+- Pragmatic Thinking
 - Deployment Frequency
+- Operational Practices
 resourceTypes:
 - video
 categories:
+- DevOps
 - Social Technologies
 - Engineering Excellence
-- DevOps
 - Product Management
 
 ---

@@ -23,18 +23,18 @@ preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 613
 isShort: false
 tags:
-- Automated Testing
-- Test Automation
 - Software Development
 - Azure DevOps
+- Test Automation
+- Automated Testing
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Technical Mastery
-- Flow Efficiency
 - Engineering Practices
-- Operational Practices
-- Technical Excellence
+- Technical Mastery
 - Value Delivery
+- Technical Excellence
+- Flow Efficiency
+- Operational Practices
 - Continuous Delivery
 - Continuous Integration
 sitemap:

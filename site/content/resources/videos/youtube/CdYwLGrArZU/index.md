@@ -31,8 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Management
 - Product Owner
+- Agile Product Management
 - Agile Project Management
 - Personal
 - Pragmatic Thinking

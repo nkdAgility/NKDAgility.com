@@ -22,17 +22,17 @@ preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
+- Product Validation
 - People and Process
+- Product Discovery
 - Discovery and Learning
 - Product Strategy
-- Product Validation
-- Product Discovery
-- Personal
-- Miscellaneous
-- Customer Retention
 - Customer Satisfaction
 - Customer Feedback Loops
+- Customer Retention
 - Value Delivery
+- Personal
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

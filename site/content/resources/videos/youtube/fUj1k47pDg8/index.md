@@ -25,33 +25,33 @@ tags:
 - Discovery and Learning
 - Experimentation
 - Product Discovery
-- People and Process
 - Product Validation
 - Empirical Process Control
-- Continuous Learning
-- Hypothesis Driven Development
+- People and Process
 - Product Delivery
 - Agile Product Management
-- Value Delivery
+- Continuous Learning
+- Hypothesis Driven Development
 - Sensemaking
+- Complexity Thinking
 - Pragmatic Thinking
 - Decision Making
-- Complexity Thinking
-- Evidence Based Leadership
-- Scrum Product Development
+- Value Delivery
 - Lean Product Development
 - Evidence Based Management
+- Evidence Based Leadership
+- Scrum Product Development
 - Metrics and Learning
 - Product Strategy
 - Product Owner
-- Agile Product Operating Model
 - Ability to Innovate
-- Agile Strategy
+- Agile Product Operating Model
 - Sociotechnical Systems
-- Agile Project Management
-- Agile Philosophy
 - Systems Thinking
+- Agile Philosophy
+- Agile Strategy
 - Lean Startup
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

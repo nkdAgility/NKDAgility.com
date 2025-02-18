@@ -23,12 +23,12 @@ preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
 tags:
-- People and Process
 - Technical Leadership
+- People and Process
 - Technical Mastery
 - Organisational Culture
-- Sociotechnical Systems
 - Pragmatic Thinking
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

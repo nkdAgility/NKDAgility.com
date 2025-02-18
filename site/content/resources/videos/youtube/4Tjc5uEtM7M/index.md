@@ -22,8 +22,8 @@ duration: 262
 isShort: false
 tags:
 - Azure DevOps
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
 - Practical Techniques and Tooling
 - Software Development
 sitemap:

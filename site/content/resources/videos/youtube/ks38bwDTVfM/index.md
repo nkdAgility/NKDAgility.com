@@ -26,24 +26,24 @@ tags:
 - Scrum Product Development
 - Pragmatic Thinking
 - Scrum
-- Software Developers
 - Software Development
+- Software Developers
 - Scrum Team
-- Product Backlog
 - Backlog Refinement
+- Product Backlog
+- Professional Scrum
+- Product Delivery
 - Agile Product Management
 - Team Collaboration
-- Professional Scrum
-- Agile Planning
 - Scrum Master
-- People and Process
-- Product Delivery
 - Team Performance
-- Agile Planning Tools
+- Agile Planning
+- People and Process
 - Agile Project Management
-- Operational Practices
 - Agile Frameworks
 - Agile Transformation
+- Agile Planning Tools
+- Operational Practices
 - Practical Techniques and Tooling
 - Working Software
 sitemap:

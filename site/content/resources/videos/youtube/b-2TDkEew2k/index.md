@@ -26,12 +26,12 @@ tags:
 - Agile Planning
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
-- Agile Philosophy
 - Agile Product Management
-- Pragmatic Thinking
+- Agile Philosophy
+- Agile Transformation
 - Software Development
 - Organisational Agility
+- Pragmatic Thinking
 - Operational Practices
 sitemap:
   filename: sitemap.xml

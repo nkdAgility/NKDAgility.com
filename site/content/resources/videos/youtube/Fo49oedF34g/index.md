@@ -29,12 +29,12 @@ tags:
 - People and Process
 - Organisational Agility
 - Agile Frameworks
-- Product Delivery
-- Agile Project Management
-- Agile Transformation
-- Team Collaboration
-- Pragmatic Thinking
 - Software Development
+- Team Collaboration
+- Agile Project Management
+- Product Delivery
+- Agile Transformation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

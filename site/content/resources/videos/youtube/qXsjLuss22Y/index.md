@@ -32,9 +32,9 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
+- Scrum
 - Agile Project Management
 - Strategy
-- Scrum
 resourceTypes:
 - video
 categories:

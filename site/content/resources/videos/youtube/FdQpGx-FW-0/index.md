@@ -31,29 +31,29 @@ tags:
 - People and Process
 - Transparency
 - Agile Values and Principles
-- Business Agility
-- Agile Leadership
 - Organisational Agility
 - Agile Project Management
+- Agile Leadership
+- Business Agility
 - Agile Frameworks
-- Decision Making
-- Organisational Culture
-- Agile Transformation
-- Self Organisation
-- Organisational Physics
-- Agile Strategy
 - Organisational Change
+- Self Organisation
+- Decision Making
+- Agile Transformation
 - Agile Philosophy
 - Enterprise Agility
+- Organisational Physics
+- Organisational Culture
+- Agile Strategy
 - Team Motivation
-- Beta Codex
 - Sociotechnical Systems
-- Software Development
 - Pragmatic Thinking
+- Beta Codex
+- Software Development
 - Transparency and Accountability
 - Value Delivery
-- Sensemaking
 - Decision Theory
+- Sensemaking
 resourceTypes:
 - video
 categories:

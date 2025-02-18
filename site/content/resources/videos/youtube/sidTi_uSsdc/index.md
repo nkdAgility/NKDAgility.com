@@ -25,7 +25,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Project Management
+- Agile Transformation
+- People and Process
+- Scrum
+- Team Motivation
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

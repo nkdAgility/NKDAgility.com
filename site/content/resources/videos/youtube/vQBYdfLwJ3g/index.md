@@ -22,14 +22,14 @@ preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- People and Process
 - Product Owner
-- Agile Product Management
-- Agile Product Operating Model
 - Discovery and Learning
+- Agile Product Operating Model
+- People and Process
+- Agile Product Management
 - Agile Frameworks
-- Continuous Learning
 - Events and Presentations
+- Continuous Learning
 - Agile Project Management
 - Pragmatic Thinking
 - Team Collaboration
@@ -38,8 +38,8 @@ tags:
 - Agile Leadership
 - Agile Strategy
 - Agile Transformation
-- Sociotechnical Systems
 - Value Delivery
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

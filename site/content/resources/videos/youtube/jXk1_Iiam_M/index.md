@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Scrum
 - Discovery and Learning
-- People and Process
 - Scrum Master
+- People and Process
 - Team Collaboration
 - Continuous Learning
 - Agile Frameworks
@@ -41,12 +41,12 @@ tags:
 - Scrum Team
 - Professional Scrum
 - Customer Feedback Loops
-- Team Performance
 - Scrum Product Development
-- Sociotechnical Systems
-- Agile Transformation
+- Team Performance
 - Agile Product Management
+- Agile Transformation
 - Coaching
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

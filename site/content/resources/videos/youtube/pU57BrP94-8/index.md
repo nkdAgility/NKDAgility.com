@@ -31,11 +31,11 @@ tags:
 - People and Process
 - Discovery and Learning
 - Continuous Learning
-- Team Collaboration
 - Coaching
+- Team Collaboration
 - Metrics and Learning
-- Mentoring
 - Empirical Process Control
+- Mentoring
 - Pragmatic Thinking
 resourceTypes:
 - video

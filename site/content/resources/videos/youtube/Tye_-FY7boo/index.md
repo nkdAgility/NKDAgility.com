@@ -28,23 +28,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Delivery
-- People and Process
-- Agile Product Management
 - Product Owner
 - Product Validation
+- Product Delivery
+- Agile Product Management
 - Value Delivery
+- People and Process
 - Agile Product Operating Model
-- Product Strategy
 - Product Discovery
+- Product Strategy
 - Strategy
 - Agile Strategy
 - Pragmatic Thinking
+- Scrum Product Development
 - Professional Scrum
 - Agile Project Management
-- Scrum Product Development
-- Business Agility
 - Organisational Agility
+- Business Agility
 - Strategic Goals
 - Agile Philosophy
 resourceTypes:

@@ -32,9 +32,9 @@ tags:
 - People and Process
 - Agile Product Management
 - Professional Scrum
+- Coaching
 - Personal
 - Miscellaneous
-- Coaching
 - Pragmatic Thinking
 resourceTypes:
 - video

@@ -29,17 +29,17 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum
+- Scrum Product Development
 - People and Process
 - Scrum Team
-- Scrum Product Development
 - Professional Scrum
-- Scrum Master
 - Agile Planning
+- Scrum Master
 - Team Collaboration
 - Agile Product Management
 - Agile Frameworks
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Team Performance
 - Software Developers
 resourceTypes:

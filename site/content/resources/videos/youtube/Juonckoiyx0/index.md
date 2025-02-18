@@ -29,24 +29,24 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum
+- Scrum Team
 - Scrum Product Development
 - Sprint Review
 - People and Process
-- Scrum Team
-- Agile Planning
 - Product Owner
+- Transparency and Accountability
 - Team Collaboration
 - Agile Product Management
-- Professional Scrum
 - Team Performance
+- Professional Scrum
 - Scrum Master
-- Transparency and Accountability
+- Agile Planning
 - Value Delivery
 - Agile Project Management
-- Transparency
-- Pragmatic Thinking
 - Software Development
 - Agile Frameworks
+- Pragmatic Thinking
+- Transparency
 - Agile Values and Principles
 - Product Delivery
 resourceTypes:

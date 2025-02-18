@@ -22,16 +22,16 @@ preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 isShort: false
 tags:
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - Kanban
 - Agile Planning Tools
-- Agile Project Management
-- Cycle Time
-- Azure Boards
-- Lead Time
 - Azure DevOps
 - Software Developers
+- Azure Boards
+- Lead Time
+- Agile Project Management
+- Cycle Time
 - Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking

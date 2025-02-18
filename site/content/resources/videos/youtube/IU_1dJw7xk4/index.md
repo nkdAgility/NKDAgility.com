@@ -32,19 +32,19 @@ tags:
 - Strategy
 - People and Process
 - Cycle Time
+- Metrics and Learning
 - Agile Frameworks
 - Flow Efficiency
 - Practical Techniques and Tooling
-- Metrics and Learning
-- Pragmatic Thinking
-- Software Development
-- Throughput
 - Operational Practices
+- Pragmatic Thinking
+- Throughput
+- Software Development
 - Agile Project Management
 - Agile Transformation
 - Lean
-- Evidence Based Leadership
 - Decision Making
+- Evidence Based Leadership
 resourceTypes:
 - video
 categories:

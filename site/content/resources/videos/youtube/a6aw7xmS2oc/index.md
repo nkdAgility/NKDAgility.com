@@ -22,18 +22,18 @@ preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- People and Process
 - Product Owner
+- People and Process
 - Ability to Innovate
-- Agile Product Management
 - Evidence Based Management
-- Value Delivery
-- Metrics and Learning
 - Evidence Based Leadership
-- Agile Product Operating Model
+- Value Delivery
 - Product Delivery
+- Metrics and Learning
+- Agile Product Operating Model
 - Decision Making
 - Scrum Product Development
+- Agile Product Management
 - Strategy
 - Pragmatic Thinking
 - Agile Project Management

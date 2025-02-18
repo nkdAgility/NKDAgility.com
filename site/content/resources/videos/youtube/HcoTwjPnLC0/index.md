@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Product Owner
+- Agile Product Management
 - Value Delivery
 resourceTypes:
 - video

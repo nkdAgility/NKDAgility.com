@@ -22,14 +22,14 @@ preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: false
 tags:
-- People and Process
 - Organisational Culture
+- People and Process
 - Agile Leadership
 - Organisational Agility
 - Agile Product Management
 - Agile Project Management
-- Technical Leadership
 - Organisational Physics
+- Technical Leadership
 - Sociotechnical Systems
 - Personal
 sitemap:

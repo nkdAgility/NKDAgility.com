@@ -28,22 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- People and Process
 - Agile Values and Principles
+- Agile Product Operating Model
 - Agile Product Management
-- Value Delivery
-- Agile Project Management
+- People and Process
 - Agile Philosophy
+- Agile Project Management
 - Market Adaptability
-- Business Agility
+- Value Delivery
 - Organisational Agility
+- Business Agility
 - Pragmatic Thinking
 - Agile Leadership
-- Discovery and Learning
+- Agile Strategy
 - Agile Planning
 - Product Delivery
-- Agile Strategy
+- Discovery and Learning
 - Customer Feedback Loops
 - Customer Satisfaction
 resourceTypes:

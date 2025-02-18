@@ -32,25 +32,25 @@ sitemap:
 tags:
 - People and Process
 - Discovery and Learning
+- Team Collaboration
 - Team Performance
 - Continuous Learning
-- Team Collaboration
 - Agile Frameworks
 - Pragmatic Thinking
 - Empirical Process Control
 - Scrum
-- Metrics and Learning
 - Scrum Team
+- Metrics and Learning
 - Customer Feedback Loops
 - Scrum Master
-- Operational Practices
-- Coaching
-- Agile Planning
-- Sociotechnical Systems
-- Agile Project Management
-- Software Development
 - Experimentation
+- Agile Planning
+- Agile Project Management
+- Coaching
 - Organisational Agility
+- Software Development
+- Sociotechnical Systems
+- Operational Practices
 resourceTypes:
 - video
 categories:

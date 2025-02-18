@@ -29,8 +29,8 @@ sitemap:
 tags:
 - Azure DevOps
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

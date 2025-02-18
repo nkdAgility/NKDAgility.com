@@ -26,22 +26,22 @@ tags:
 - People and Process
 - Discovery and Learning
 - Product Discovery
+- Product Validation
 - Evidence Based Leadership
 - Pragmatic Thinking
-- Product Validation
 - Value Delivery
 - Hypothesis Driven Development
-- Continuous Learning
 - Experimentation
-- Practical Techniques and Tooling
-- Organisational Agility
-- Agile Product Management
-- Ability to Innovate
+- Continuous Learning
 - Metrics and Learning
+- Agile Product Management
+- Organisational Agility
 - Evidence Based Management
+- Practical Techniques and Tooling
+- Ability to Innovate
 - Agile Philosophy
-- Decision Making
 - Lean Startup
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

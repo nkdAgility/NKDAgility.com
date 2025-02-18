@@ -29,22 +29,22 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum
-- People and Process
+- Scrum Team
 - Agile Project Management
 - Daily Scrum
-- Scrum Team
-- Team Collaboration
-- Pragmatic Thinking
-- Agile Product Management
+- People and Process
 - Agile Philosophy
-- Scrum Product Development
+- Agile Product Management
+- Team Collaboration
 - Agile Transformation
+- Pragmatic Thinking
 - Scrum Master
 - Team Performance
+- Scrum Product Development
 - Agile Frameworks
 - Value Delivery
-- Software Development
 - Software Developers
+- Software Development
 - Agile Planning
 - Professional Scrum
 resourceTypes:

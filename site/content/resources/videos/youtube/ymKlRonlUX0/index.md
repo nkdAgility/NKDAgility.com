@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Empirical Process Control
+- Agile Planning
 - People and Process
 - Agile Project Management
-- Agile Planning
 - Agile Product Management
 - Agile Philosophy
 - Pragmatic Thinking

@@ -31,14 +31,14 @@ tags:
 - Kanban
 - Operational Practices
 - Flow Efficiency
+- Software Development
 - Lean Thinking
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Software Development
 - Agile Frameworks
-- Agile Project Management
 - Lean Principles
 - Lean
+- Agile Project Management
 - Throughput
 resourceTypes:
 - video

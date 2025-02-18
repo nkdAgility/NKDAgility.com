@@ -28,45 +28,45 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Business Agility
-- Agile Product Management
 - Agile Values and Principles
-- Agile Leadership
+- Business Agility
 - Agile Product Operating Model
+- Agile Leadership
+- Agile Product Management
 - Value Delivery
-- Empirical Process Control
-- Software Developers
-- Software Development
-- Agile Strategy
 - Sociotechnical Systems
-- Organisational Change
-- Continuous Learning
-- Operational Practices
+- Empirical Process Control
+- Team Collaboration
+- Enterprise Agility
 - Team Motivation
 - Agile Philosophy
 - Organisational Agility
 - Discovery and Learning
-- Technical Leadership
+- Agile Project Management
 - Agile Transformation
 - Agile Frameworks
-- Team Performance
-- Team Collaboration
+- Operational Practices
+- Software Developers
+- Software Development
+- Continuous Learning
 - Change Management
-- Agile Project Management
-- Enterprise Agility
-- Pragmatic Thinking
+- Agile Strategy
+- Organisational Change
+- Team Performance
+- Technical Leadership
 - Lean Thinking
+- Beta Codex
 - Self Organisation
+- Organisational Culture
 - Organisational Physics
 - Lean
-- Beta Codex
-- Organisational Culture
-- Lean Principles
+- Pragmatic Thinking
 - Lean Product Development
-- Agile Planning
+- Lean Principles
 - Value Stream Management
-- Personal
+- Agile Planning
 - Market Adaptability
+- Personal
 resourceTypes:
 - video
 layout: video

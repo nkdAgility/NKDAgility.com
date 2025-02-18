@@ -28,38 +28,38 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
+- Flow Efficiency
+- Product Delivery
+- Agile Values and Principles
+- People and Process
 - Value Delivery
 - Agile Product Operating Model
-- Flow Efficiency
-- Agile Values and Principles
-- Agile Product Management
-- Product Delivery
-- People and Process
-- Software Developers
+- Pragmatic Thinking
 - Agile Project Management
+- Agile Transformation
+- Lean Product Development
+- Software Developers
 - Lean Thinking
 - Value Stream Management
-- Agile Transformation
 - Team Performance
 - Software Development
-- Agile Frameworks
-- Pragmatic Thinking
 - Agile Philosophy
-- Lean Product Development
+- Agile Frameworks
 - Agile Strategy
-- Operational Practices
 - Throughput
 - Organisational Agility
-- Organisational Culture
+- Operational Practices
 - Continuous Learning
 - Personal
+- Organisational Culture
 - Agile Leadership
-- Discovery and Learning
 - Team Motivation
+- Discovery and Learning
 - Lean
-- Lean Principles
 - Sociotechnical Systems
 - Business Agility
+- Lean Principles
 resourceTypes:
 - video
 categories:
