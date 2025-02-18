@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\videos"
+$outputDir = ".\site\content\resources"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
@@ -120,6 +120,9 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
     #=================ResourceType=================
     $ResourceType = Get-ResourceType  -FilePath  $hugoMarkdown.FolderPath
+    if ($null -eq $ResourceType) {
+        $ResourceType = $hugoMarkdown.FrontMatter.type
+    }
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -addAfter 'ResourceId' -Overwrite
 
     #=================ResourceImport+=================

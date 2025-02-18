@@ -22,7 +22,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 isShort: false
-tags: []
+tags:
+- Coaching
+- People and Process
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.4

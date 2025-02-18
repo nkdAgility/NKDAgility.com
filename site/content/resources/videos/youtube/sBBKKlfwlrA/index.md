@@ -22,7 +22,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false
-tags: []
+tags:
+- Scrum
+- Professional Scrum
+- Scaling Scrum
+- Scaled Agile
+- People and Process
+- Scaling Agility
+- Agile Frameworks
+- Software Development
+- Large Scale Agility
+- Agile Project Management
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

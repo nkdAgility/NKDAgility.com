@@ -22,7 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false
-tags: []
+tags:
+- Agile Leadership
+- People and Process
+- Organisational Agility
+- Business Agility
+- Agile Transformation
+- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.4

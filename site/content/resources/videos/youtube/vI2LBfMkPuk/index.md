@@ -22,7 +22,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
-tags: []
+tags:
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

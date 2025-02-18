@@ -29,7 +29,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  Jim is a Professional Scrum Trainer and an active Agile consultant at Loop Agility. We will be chatting about professionalism and conflicting priorities at 20:00 on the 7th April 2020

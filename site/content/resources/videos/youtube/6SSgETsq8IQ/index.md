@@ -20,7 +20,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
 duration: 137
 isShort: false
-tags: []
+tags:
+- Scrum
+- Agile Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Agile Project Management
+- Agile Frameworks
+- Value Delivery
+- People and Process
+- Products and Books
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

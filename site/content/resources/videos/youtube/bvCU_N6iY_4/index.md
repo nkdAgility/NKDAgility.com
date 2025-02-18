@@ -22,7 +22,12 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: true
-tags: []
+tags:
+- Scrum
+- Events and Presentations
+- Agile Frameworks
+- Agile Project Management
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4

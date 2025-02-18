@@ -22,7 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false
-tags: []
+tags:
+- People and Process
+- Software Development
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

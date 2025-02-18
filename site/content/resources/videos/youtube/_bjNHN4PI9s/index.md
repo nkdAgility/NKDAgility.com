@@ -28,7 +28,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 Welcome to my blog! Today, I want to share my experiences and insights from running live virtual classrooms, particularly focusing on the technologies that enhance our learning environment. As a professional Scrum trainer with Naked Agility, I’ve had the opportunity to facilitate numerous classes, and I’ve learned a thing or two about making the most of our digital tools. 

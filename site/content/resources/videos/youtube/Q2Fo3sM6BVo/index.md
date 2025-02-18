@@ -22,7 +22,12 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false
-tags: []
+tags:
+- Scrum
+- Professional Scrum
+- Agile Frameworks
+- Software Development
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

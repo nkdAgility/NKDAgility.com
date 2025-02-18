@@ -29,7 +29,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
  Leading Agile Change is hard and many companies have already been through their agile evolution. What learnings have they found to increase the value delivered. Martin will go through a number of excellent complimentary practices that might provide you with value.

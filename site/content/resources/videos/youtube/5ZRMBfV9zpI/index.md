@@ -20,7 +20,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 isShort: false
-tags: []
+tags:
+- Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -21,7 +21,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
-tags: []
+tags:
+- Pragmatic Thinking
+- Organisational Change
+- People and Process
+- Change Management
+- Organisational Physics
+- Organisational Agility
+- Sociotechnical Systems
+- Resilience and Change
+- Transparency and Accountability
+- Organisational Culture
+- Digital Transformation
+- Business Agility
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
