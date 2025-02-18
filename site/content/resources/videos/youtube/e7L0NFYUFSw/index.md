@@ -22,14 +22,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Agile Project Management
+- People and Process
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  Jeff Sutherland, the co-creator of #scrum, titled his book 'How to do twice the work in half the time' and it's been a value proposition for the #scrumframework ever since.

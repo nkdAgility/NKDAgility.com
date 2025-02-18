@@ -32,6 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - Professional Scrum
 - Scrum Master
 - Scrum Team
@@ -42,7 +43,8 @@ tags:
 - Accountability
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Unpacking the Differences

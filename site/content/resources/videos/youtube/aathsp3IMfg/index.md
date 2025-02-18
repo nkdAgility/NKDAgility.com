@@ -34,7 +34,8 @@ tags:
 - People and Process
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

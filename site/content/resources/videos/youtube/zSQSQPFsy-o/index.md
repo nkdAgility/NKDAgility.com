@@ -28,32 +28,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- Empirical Process Control
+- Scrum
 - People and Process
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
+- Empirical Process Control
 - Transparency
+- Scrum Product Development
 - Sprint Review
-- Agile Transformation
-- Software Development
 - Agile Philosophy
-- Agile Frameworks
-- Professional Scrum
 - Transparency and Accountability
-- Pragmatic Thinking
+- Agile Transformation
+- Professional Scrum
+- Software Development
+- Agile Frameworks
 - Organisational Culture
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Agile Values and Principles
 - Agile Leadership
-- Agile Planning
-- Team Performance
 - Value Delivery
+- Team Performance
+- Agile Planning
 - Software Developers
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 Why is Scrum so easy to understand but incredibly hard to master?

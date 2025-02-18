@@ -41,8 +41,8 @@ resourceTypes:
 categories:
 - DevOps
 - Leadership
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

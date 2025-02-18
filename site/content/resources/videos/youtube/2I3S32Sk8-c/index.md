@@ -28,29 +28,30 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Scrum Product Development
-- People and Process
+- Scrum
 - Transparency and Accountability
 - Scrum Team
+- People and Process
+- Scrum Product Development
+- Scrum Master
 - Agile Product Management
 - Team Performance
-- Team Collaboration
-- Scrum Master
 - Professional Scrum
-- Agile Transformation
+- Team Collaboration
 - Software Developers
-- Agile Project Management
-- Agile Frameworks
-- Empirical Process Control
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
+- Empirical Process Control
+- Agile Project Management
+- Agile Transformation
+- Agile Frameworks
 - Scrum Values
 - Agile Planning
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 What would you advise a scrum team to do in their first 4 weeks?

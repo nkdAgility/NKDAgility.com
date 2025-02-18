@@ -365,6 +365,7 @@ function Get-ConfidenceFromAIResponse {
         [string]$ResourceTitle,
         [string]$ResourceContent
     )
+    $responceOK = $true
     try {
         if ($AIResponseJson -match '(?s)```json\s*(.*?)\s*```') {
             $AIResponseJson = $matches[1] # Extracted JSON content 
@@ -373,19 +374,16 @@ function Get-ConfidenceFromAIResponse {
         $AIResponse = $AIResponseJson | ConvertFrom-Json -ErrorAction Stop
     }
     catch {
+
         Write-ErrorLog "Error parsing AI response.. Skipping. Error: $_"
         Write-ErrorLog "AI Response Json: {AIResponseJson}" -PropertyValues $AIResponseJson
-        exit
+        $AIResponse = $null
+        $responceOK = $false
     }
    
-    try {
+    if ($responceOK) {
         $aiConfidence = if ($AIResponse.PSObject.Properties["confidence"]) { $AIResponse.confidence } else { 0 }
         $category = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
-    }
-    catch {
-        Write-ErrorLog "Error parsing AI response for $category. Skipping. Error: $_"
-        Write-ErrorLog "AI Response Json: {AIResponseJson}" -PropertyValues $AIResponseJson
-        exit
     }
     
     # Non-AI Confidence Calculation
@@ -412,7 +410,7 @@ function Get-ConfidenceFromAIResponse {
 
     return [PSCustomObject]@{
         "category"          = $category
-        "calculated_at"     = (Get-Date).ToUniversalTime().ToString("s")
+        "calculated_at"     = if ($responceOK) { (Get-Date).ToUniversalTime().ToString("s") } else { (Get-Date).AddDays(-365).ToUniversalTime().ToString("s") }
         "ai_confidence"     = $aiConfidence
         "non_ai_confidence" = $nonAiConfidence
         "final_score"       = $finalScore

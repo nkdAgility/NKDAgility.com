@@ -30,13 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - Professional Scrum
 - Scrum Master
 - Discovery and Learning
 - Agile Frameworks
+- Continuous Learning
 - People and Process
 - Agile Project Management
-- Continuous Learning
 - Coaching
 - Pragmatic Thinking
 - Accountability
@@ -45,7 +46,8 @@ tags:
 - Mentoring
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course

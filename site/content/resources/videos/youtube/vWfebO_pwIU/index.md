@@ -22,14 +22,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
-tags: []
+tags:
+- Scrum
+- Scrum Master
+- Professional Scrum
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  *Why do so few scrum masters progress to the PSM II and PSM III certifications?*

@@ -32,48 +32,50 @@ tags:
 - Agile Values and Principles
 - People and Process
 - Business Agility
-- Metrics and Learning
-- Evidence Based Leadership
 - Empirical Process Control
 - Agile Product Management
-- Agile Strategy
-- Value Delivery
-- Software Development
+- Metrics and Learning
+- Evidence Based Leadership
 - Pragmatic Thinking
-- Change Management
-- Market Adaptability
-- Organisational Agility
+- Agile Project Management
 - Discovery and Learning
 - Agile Philosophy
+- Scaling Agility
+- Hypothesis Driven Development
+- Organisational Agility
 - Agile Transformation
+- Product Delivery
+- Self Organisation
+- Enterprise Agility
 - Organisational Change
 - Technical Leadership
-- Hypothesis Driven Development
-- Enterprise Agility
-- Scaling Agility
-- Agile Project Management
 - Organisational Culture
-- Product Delivery
-- Ability to Innovate
+- Market Adaptability
+- Value Delivery
+- Change Management
+- Agile Strategy
+- Software Development
 - Agile Frameworks
-- Self Organisation
-- Digital Transformation
-- Experimentation
+- Ability to Innovate
 - Team Performance
-- Team Motivation
-- Decision Making
 - Strategy
-- Team Collaboration
+- Experimentation
+- Digital Transformation
 - Sociotechnical Systems
+- Decision Making
+- Team Motivation
+- Team Collaboration
 - Resilience and Change
 - Large Scale Agility
 - Evidence Based Management
 - Organisational Physics
-- Complexity Thinking
 - Continuous Learning
+- Complexity Thinking
 resourceTypes:
 - video
 categories:
+- Leadership
+- Social Technologies
 - Product Management
 
 ---

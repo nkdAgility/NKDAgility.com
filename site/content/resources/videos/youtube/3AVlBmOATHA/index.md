@@ -29,24 +29,26 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
-- Business Agility
-- Agile Transformation
+- Agile Strategy
 - Change Management
 - Organisational Change
-- Agile Strategy
-- Pragmatic Thinking
+- Business Agility
+- Agile Transformation
 - Organisational Agility
+- Pragmatic Thinking
 - Sociotechnical Systems
-- Agile Project Management
 - Team Collaboration
+- Agile Project Management
 - Agile Philosophy
-- Enterprise Agility
 - Organisational Culture
+- Enterprise Agility
 - Personal
 resourceTypes:
 - video
 layout: video
 categories:
+- Leadership
+- Social Technologies
 - Product Management
 
 ---

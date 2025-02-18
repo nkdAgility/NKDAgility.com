@@ -31,16 +31,16 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - People and Process
-- Resilience and Change
 - Organisational Change
+- Resilience and Change
 - Business Agility
-- Agile Transformation
 - Market Adaptability
 - Agile Philosophy
+- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Product Management
+- Leadership
 
 ---
 Product of Conventional Practices

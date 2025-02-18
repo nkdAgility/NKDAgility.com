@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Discovery and Learning
 - Continuous Learning
+- Discovery and Learning
 - Pragmatic Thinking
 - Metrics and Learning
 - Agile Philosophy
@@ -39,6 +39,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Leadership
+- Social Technologies
 
 ---
 **Why do you think that 4 half days is a better format than 2 full days?**

@@ -20,7 +20,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: false
-tags: []
+tags:
+- Pragmatic Thinking
+- People and Process
+- Value Delivery
+- Product Delivery
+- Software Development
+- Market Adaptability
+- Operational Practices
+- Value Stream Management
+- Discovery and Learning
+- Flow Efficiency
+- Software Developers
+- Strategy
+- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +41,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
 
 ---
 In my journey as a DevOps consultant, I often find myself reflecting on the core of my role. The question, "What is my primary role in a DevOps consulting gig?" is not as straightforward as it may seem. The answer is deeply intertwined with the context of each unique engagement. It hinges on where the customer currently stands, what they aim to achieve, and the specific challenges they face.

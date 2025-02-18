@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 What is Taylorism and how did it influence project management?

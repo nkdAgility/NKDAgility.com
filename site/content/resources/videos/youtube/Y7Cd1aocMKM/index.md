@@ -28,18 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Agile Frameworks
-- Agile Project Management
 - Team Collaboration
-- Practical Techniques and Tooling
+- Agile Project Management
 - Remote Working
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.

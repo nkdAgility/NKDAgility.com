@@ -29,25 +29,25 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
+- Scrum
 - People and Process
 - Team Performance
 - Agile Frameworks
+- Software Development
+- Empirical Process Control
 - Agile Project Management
 - Agile Transformation
-- Empirical Process Control
-- Software Development
 - Pragmatic Thinking
 - Scrum Product Development
 - Professional Scrum
-- Discovery and Learning
 - Agile Philosophy
-- Decision Making
+- Discovery and Learning
 - Continuous Learning
+- Decision Making
 resourceTypes:
 - video
 categories:
-- Product Management
-- Engineering Excellence
+- Social Technologies
 
 ---
 What is a common mistake made by rookie agile consultants?

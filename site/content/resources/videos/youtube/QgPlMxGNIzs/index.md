@@ -29,32 +29,34 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Business Agility
 - Agile Frameworks
-- People and Process
 - Agile Project Management
 - Agile Leadership
-- Market Adaptability
+- People and Process
+- Business Agility
 - Agile Philosophy
-- Agile Transformation
-- Software Development
 - Organisational Agility
-- Enterprise Agility
 - Agile Strategy
+- Agile Transformation
+- Market Adaptability
+- Software Development
+- Enterprise Agility
 - Organisational Culture
 - Organisational Change
-- Sociotechnical Systems
 - Scaling Agility
+- Sociotechnical Systems
 - Software Developers
 - Pragmatic Thinking
-- Technical Leadership
-- Resilience and Change
 - Decision Making
+- Technical Leadership
 - Change Management
+- Resilience and Change
+- Beta Codex
 resourceTypes:
 - video
 categories:
-- Product Management
+- Leadership
+- Social Technologies
 
 ---
 How do you think Agile is evolving since its inception in 2001?

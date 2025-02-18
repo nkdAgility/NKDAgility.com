@@ -20,7 +20,21 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false
-tags: []
+tags:
+- Agile Project Management
+- Coaching
+- Scrum
+- Scrum Master
+- People and Process
+- Scrum Team
+- Agile Frameworks
+- Team Collaboration
+- Agile Product Management
+- Agile Transformation
+- Software Development
+- Pragmatic Thinking
+- Events and Presentations
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +42,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 When it comes to the role of a Scrum Master, I often find myself reflecting on the dynamics within a team. Recently, I was asked whether I would recommend an Agile Process Simulation (APS) workshop or an agile consultant if a Scrum Master was struggling with their team. My immediate thought was, “Perhaps we need to consider a new Scrum Master.” After all, if a Scrum Master is battling with their team, it raises some serious questions about their effectiveness and understanding of their role.

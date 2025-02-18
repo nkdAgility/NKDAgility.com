@@ -20,7 +20,15 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: true
-tags: []
+tags:
+- Scrum
+- Agile Values and Principles
+- Agile Frameworks
+- Agile Project Management
+- Agile Philosophy
+- Agile Transformation
+- Software Development
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +36,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 In my journey through the world of Scrum, I've often found myself frustrated by a recurring theme: the overwhelming focus on the mechanics of Scrum rather than its underlying principles. It seems that many people and organisations are quick to declare, “You’re not doing Scrum if you’re not standing up!” This fixation on rituals and practices is not only misguided but also distracts us from what truly matters in agile methodologies.

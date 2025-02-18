@@ -17,8 +17,18 @@ aliases:
 aliasesFor404:
 - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-categories: []
-tags: []
+categories:
+- Social Technologies
+tags:
+- Professional Scrum
+- Discovery and Learning
+- Events and Presentations
+- Continuous Learning
+- People and Process
+- Agile Frameworks
+- Pragmatic Thinking
+- Scrum
+- Agile Project Management
 
 ---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

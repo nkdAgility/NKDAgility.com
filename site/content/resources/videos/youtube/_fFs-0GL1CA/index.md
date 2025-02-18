@@ -20,7 +20,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false
-tags: []
+tags:
+- Software Development
+- Scrum
+- People and Process
+- Products and Books
+- Discovery and Learning
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +34,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 When I reflect on my journey in the Agile and Scrum landscape, one question often arises: why should I encourage individuals to pursue a certification path in their careers? The answer is quite simple and resonates with the same rationale that drives people to attend university. Certifications, much like degrees, serve as a foot in the door. They provide a way to validate your knowledge, but let’s be clear—certifications themselves hold no intrinsic value. 

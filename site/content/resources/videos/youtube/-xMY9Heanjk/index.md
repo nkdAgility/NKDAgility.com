@@ -27,45 +27,45 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - People and Process
 - Empirical Process Control
 - Agile Planning
-- Professional Scrum
-- Scrum Product Development
-- Evidence Based Leadership
-- Agile Product Management
-- Agile Philosophy
-- Customer Feedback Loops
-- Discovery and Learning
-- Metrics and Learning
-- Agile Transformation
 - Evidence Based Management
-- Agile Frameworks
-- Team Performance
+- Discovery and Learning
+- Agile Philosophy
+- Agile Product Management
 - Agile Project Management
 - Team Collaboration
+- Metrics and Learning
+- Agile Transformation
+- Customer Feedback Loops
+- Professional Scrum
+- Agile Frameworks
+- Scrum Product Development
+- Evidence Based Leadership
+- Team Performance
 - Software Development
-- Value Delivery
-- Experimentation
-- Software Developers
-- Pragmatic Thinking
 - Strategy
-- Organisational Agility
+- Pragmatic Thinking
 - Decision Making
+- Experimentation
+- Organisational Agility
+- Software Developers
 - Continuous Learning
-- Lean Product Development
+- Value Delivery
 - Lean Startup
+- Lean Product Development
 - Organisational Physics
+- Product Delivery
+- Technical Leadership
 - Market Adaptability
 - Operational Practices
-- Technical Leadership
-- Product Delivery
 resourceTypes:
 - video
 layout: video
 categories:
-- Engineering Excellence
-- Product Management
+- Social Technologies
 
 ---
 What is the hardest part of working with a brand-new scrum team?

@@ -25,10 +25,30 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
+- Agile Values and Principles
+- Resilience and Change
+- Agile Leadership
+- Agile Transformation
+- Agile Philosophy
+- Change Management
+- Agile Project Management
+- Agile Strategy
+- People and Process
+- Agile Frameworks
+- Organisational Change
+- Mentoring
+- Organisational Agility
+- Business Agility
+- Pragmatic Thinking
+- Personal
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
+- Leadership
 
 ---
 **Must have trait in an Agile Consultant**

@@ -26,11 +26,21 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum
+- Scrum Master
+- People and Process
+- Scrum Team
+- Team Performance
+- Agile Frameworks
+- Self Organisation
+- Coaching
+- Agile Project Management
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **Worst trait in unskilled scrum masters?**

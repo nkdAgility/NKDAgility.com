@@ -31,14 +31,14 @@ tags:
 - Flow Efficiency
 - Value Stream Management
 - Value Delivery
-- Complexity Thinking
-- Lean Thinking
 - Lean Principles
-- Organisational Physics
-- Operational Practices
-- Systems Thinking
-- Pragmatic Thinking
 - Lean
+- Organisational Physics
+- Lean Thinking
+- Complexity Thinking
+- Pragmatic Thinking
+- Systems Thinking
+- Operational Practices
 - Lean Product Development
 - Sociotechnical Systems
 resourceTypes:
@@ -46,6 +46,7 @@ resourceTypes:
 layout: video
 categories:
 - Engineering Excellence
+- Social Technologies
 - Product Management
 
 ---

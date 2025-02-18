@@ -22,7 +22,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: false
-tags: []
+tags:
+- Agile Product Management
+- Product Owner
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -28,40 +28,39 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Transformation
+- Scrum
 - Software Development
-- Change Management
-- Agile Project Management
-- People and Process
 - Agile Product Management
-- Team Motivation
-- Enterprise Agility
-- Organisational Change
-- Team Collaboration
-- Agile Strategy
+- Change Management
+- Agile Transformation
+- People and Process
+- Agile Project Management
 - Agile Frameworks
+- Enterprise Agility
+- Team Collaboration
+- Organisational Change
 - Agile Philosophy
 - Organisational Agility
-- Organisational Culture
+- Agile Strategy
+- Team Motivation
 - Pragmatic Thinking
 - Personal
+- Organisational Culture
 - Coaching
-- Discovery and Learning
-- Continuous Learning
 - Agile Leadership
-- Digital Transformation
-- Product Delivery
-- Value Delivery
-- Team Performance
+- Continuous Learning
+- Discovery and Learning
 - Business Agility
+- Value Delivery
+- Product Delivery
+- Digital Transformation
+- Team Performance
 - Market Adaptability
 - Sociotechnical Systems
 resourceTypes:
 - video
 categories:
-- DevOps
-- Product Management
-- Engineering Excellence
+- Social Technologies
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

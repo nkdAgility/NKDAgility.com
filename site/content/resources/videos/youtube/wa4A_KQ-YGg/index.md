@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 **What are immersive training courses?**

@@ -22,7 +22,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 isShort: true
-tags: []
+tags:
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4

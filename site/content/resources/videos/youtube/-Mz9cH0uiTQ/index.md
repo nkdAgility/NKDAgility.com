@@ -20,7 +20,16 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false
-tags: []
+tags:
+- People and Process
+- Value Delivery
+- Agile Philosophy
+- Pragmatic Thinking
+- Product Discovery
+- Agile Strategy
+- Business Agility
+- Personal
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +37,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 When I’m engaged as an agile consultant, I often find myself pondering a fundamental question: does the client dictate what they need, or is it my role to guide them towards the right solutions? My experience has led me to believe that it’s the latter, but the reality is often more nuanced.

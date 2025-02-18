@@ -23,13 +23,21 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 isShort: false
-tags: []
+tags:
+- Scrum
+- Professional Scrum
+- Software Development
+- People and Process
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  *Unveiling the Secrets of Professional Scrum: A Journey Beyond the Basics*

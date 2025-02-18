@@ -1312,5 +1312,68 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses DevOps processes, tools, and methodologies without a focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T08:16:28",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile and DevOps methodologies, highlighting their role in transforming team dynamics and processes, making it a major but secondary theme.",
+    "level": "Tertiary"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T08:16:30",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the author's experience in guiding a complex DevOps transformation, highlighting the role of leadership in navigating challenges and fostering collaboration among teams. However, the primary focus is on the technical aspects of the transformation rather than leadership practices.",
+    "level": "Tertiary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-18T08:16:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a DevOps consulting experience, focusing on process improvement and tool adoption rather than the principles of BetaCodex or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-18T08:16:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 30,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the journey towards adopting the One Engineering System (1ES) within a complex software project, detailing the challenges faced and the steps taken to unify processes and tools across teams.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T08:16:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 50,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses DevOps and its transformation, with only a brief mention of Agile and Scrum at the end, making Scrum not central to the overall narrative.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-18T08:16:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the introduction of Agile and DevOps in a complex project environment, highlighting themes of simplification, unification, and transformation, which are relevant to the Agile Product Operating Model. However, the primary focus is on DevOps practices rather than a comprehensive exploration of the Agile Product Operating Model itself.",
+    "level": "Tertiary"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-18T08:16:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the transformation of a software project through the use of Azure DevOps and the concept of 'One Engineering System', which relates to platform engineering principles. However, the primary focus is on DevOps practices and Agile methodologies rather than platform engineering itself.",
+    "level": "Tertiary"
   }
 }

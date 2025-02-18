@@ -29,7 +29,12 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
+- People and Process
+- Team Collaboration
+- Agile Project Management
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

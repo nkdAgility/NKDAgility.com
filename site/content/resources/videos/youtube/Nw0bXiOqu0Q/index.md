@@ -29,45 +29,48 @@ sitemap:
   priority: 0.6
 tags:
 - Organisational Agility
-- Empirical Process Control
-- Agile Product Management
 - People and Process
+- Agile Product Management
 - Agile Project Management
-- Business Agility
-- Continuous Learning
-- Discovery and Learning
-- Change Management
-- Resilience and Change
-- Hypothesis Driven Development
+- Empirical Process Control
 - Agile Values and Principles
-- Software Development
-- Agile Frameworks
-- Agile Strategy
+- Change Management
+- Continuous Learning
+- Resilience and Change
+- Discovery and Learning
+- Hypothesis Driven Development
+- Business Agility
 - Organisational Change
-- Decision Making
-- Value Delivery
-- Agile Transformation
-- Enterprise Agility
-- Market Adaptability
 - Product Delivery
 - Agile Philosophy
-- Pragmatic Thinking
+- Enterprise Agility
+- Decision Making
+- Market Adaptability
+- Agile Strategy
+- Software Development
+- Agile Frameworks
+- Agile Transformation
+- Value Delivery
 - Strategy
-- Experimentation
 - Complexity Thinking
-- Agile Leadership
+- Pragmatic Thinking
+- Experimentation
 - Metrics and Learning
+- Agile Leadership
+- Agile Product Operating Model
 - Evidence Based Leadership
 - Evidence Based Management
 - Ability to Innovate
 - Organisational Culture
 - Sociotechnical Systems
-- Digital Transformation
-- Organisational Physics
 - Sensemaking
+- Organisational Physics
+- Digital Transformation
 resourceTypes:
 - video
 categories:
+- Social Technologies
+- Leadership
 - Product Management
 
 ---

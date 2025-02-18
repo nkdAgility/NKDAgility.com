@@ -23,13 +23,16 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
-tags: []
+tags:
+- People and Process
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  In 2020 when #covid19 hit with full force, many teams were thrown into disarray as working remotely became the norm rather than the exception.

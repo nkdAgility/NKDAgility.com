@@ -16,8 +16,27 @@ aliases:
 aliasesFor404:
 - /newsletters/april-2023-nkdagility-applying-professional-scrum/
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
-categories: []
-tags: []
+categories:
+- Social Technologies
+tags:
+- Scrum
+- Professional Scrum
+- Scrum Product Development
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Transparency and Accountability
+- Events and Presentations
+- People and Process
+- Agile Frameworks
+- Empirical Process Control
+- Pragmatic Thinking
+- Software Development
+- Organisational Agility
+- Products and Books
+- News and Reviews
+- Practical Techniques and Tooling
+- Operational Practices
 
 ---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

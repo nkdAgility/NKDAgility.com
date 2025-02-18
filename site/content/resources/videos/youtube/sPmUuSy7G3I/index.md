@@ -22,14 +22,28 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: false
-tags: []
+tags:
+- Scrum
+- People and Process
+- Scrum Team
+- Scrum Product Development
+- Team Performance
+- Team Collaboration
+- Agile Project Management
+- Agile Frameworks
+- Software Development
+- Agile Planning
+- Agile Product Management
+- Product Delivery
+- Agile Planning Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  In a #projectmanagement environment, the people doing the work are often separated from the customers and project stakeholders they are doing the work for. The #projectmanager runs interference and acts as the bridge between what needs doing and what is being done.

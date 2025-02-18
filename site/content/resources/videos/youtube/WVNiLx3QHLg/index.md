@@ -29,10 +29,30 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Decision Making
+- Agile Leadership
+- Decision Theory
+- People and Process
+- Pragmatic Thinking
+- Employee Engagement
+- Sensemaking
+- Agile Philosophy
+- Team Motivation
+- Sociotechnical Systems
+- Organisational Psychology
+- Agile Strategy
+- Business Agility
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
+- Team Performance
+- Team Collaboration
+- Systems Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 **Why I love heirarchies of competence**

@@ -34,7 +34,8 @@ tags:
 - Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 What is the most valuable thing you have learned through training people?

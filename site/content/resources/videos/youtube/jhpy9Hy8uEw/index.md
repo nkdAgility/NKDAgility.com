@@ -28,15 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - Personal
 - People and Process
 - Agile Frameworks
-- Agile Project Management
 - Continuous Learning
+- Agile Project Management
 - Agile Values and Principles
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 Why did you choose the Scrum.Org track rather than the Scrum Alliance track?

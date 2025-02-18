@@ -35,6 +35,7 @@ resourceTypes:
 layout: video
 categories:
 - DevOps
+- Social Technologies
 
 ---
 What is DevOps and how is it different to Agile?

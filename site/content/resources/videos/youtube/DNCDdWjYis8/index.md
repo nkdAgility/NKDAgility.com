@@ -28,8 +28,16 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Social Technologies
+tags:
+- Scrum
+- Scrum Master
+- Agile Project Management
+- Scrum Team
+- People and Process
+- Professional Scrum
+- Software Development
 
 ---
  *Unmasking the Role of Scrum Masters: Myths vs Reality*

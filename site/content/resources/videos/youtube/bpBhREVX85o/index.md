@@ -39,7 +39,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 How does scrum help leadership teams pick the most valuable work to focus on?

@@ -29,21 +29,21 @@ sitemap:
   priority: 0.6
 tags:
 - Mentoring
+- Continuous Learning
 - People and Process
 - Discovery and Learning
-- Continuous Learning
-- Personal
-- Team Collaboration
 - Coaching
-- Agile Transformation
-- Agile Philosophy
+- Team Collaboration
+- Personal
 - Agile Leadership
+- Agile Philosophy
+- Agile Transformation
 - Technical Leadership
 - Team Motivation
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 **What is your feeling on creating Agile apprenticeships?**

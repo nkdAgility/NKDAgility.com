@@ -22,14 +22,16 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 isShort: false
-tags: []
+tags:
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  When #agile meets traditional #management and #projectmanagement environments, there is often a clash of culture. In one environment, we are interrogating the data and practices to discover probem areas and actively designing ways to improve and evolve. In the other, we're hiding problems to avoid blame and shifting the focus from collaboration to control.

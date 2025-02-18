@@ -22,14 +22,29 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false
-tags: []
+tags:
+- Scrum
+- Transparency
+- Professional Scrum
+- Agile Project Management
+- Scrum Values
+- Transparency and Accountability
+- Team Performance
+- People and Process
+- Team Collaboration
+- Agile Frameworks
+- Software Development
+- Team Motivation
+- Agile Product Management
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  *Unlocking Team Potential: The Power of Openness in Scrum*

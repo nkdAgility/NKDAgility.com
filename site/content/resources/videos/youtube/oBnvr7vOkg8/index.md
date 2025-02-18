@@ -35,7 +35,8 @@ tags:
 - Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **How does someone become an Agile consultant?**
