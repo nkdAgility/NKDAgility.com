@@ -29,7 +29,9 @@ layout: video
 resourceTypes:
 - video
 categories: []
-tags: []
+tags:
+- Install and Configuration
+- System Configuration
 
 ---
 As I sit down to share my thoughts on managing meeting policies in Microsoft Teams, I can’t help but reflect on the importance of creating a seamless experience for all participants. Recently, I had a conversation with Joshua about optimising our meeting settings, and I thought it would be beneficial to document the process for anyone looking to enhance their Teams experience.

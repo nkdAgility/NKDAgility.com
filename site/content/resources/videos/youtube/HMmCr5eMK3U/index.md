@@ -32,7 +32,10 @@ resourceTypes:
 categories:
 - Social Technologies
 - Scrum
-tags: []
+tags:
+- Definition of Done
+- Events and Presentations
+- Software Development
 
 ---
  We will dive into what a Definition of Done is, what it should look like, and how you can run a workshop with your teams to create one.

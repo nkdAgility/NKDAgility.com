@@ -31,7 +31,9 @@ resourceTypes:
 categories:
 - DevOps
 - Social Technologies
-tags: []
+tags:
+- People and Process
+- Events and Presentations
 
 ---
 As I reflect on my recent experiences with live virtual training, I can't help but appreciate the unique advantages this medium offers. While there are certainly challenges—like the occasional technical hiccup that can disrupt the flow—I've found that the benefits often outweigh the drawbacks. 

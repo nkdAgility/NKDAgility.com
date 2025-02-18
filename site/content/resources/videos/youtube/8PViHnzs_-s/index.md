@@ -31,7 +31,15 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
-tags: []
+tags:
+- Agile Frameworks
+- Events and Presentations
+- People and Process
+- Agile Project Management
+- Agile Transformation
+- Professional Scrum
+- Software Development
+- Scrum Values
 
 ---
 As I reflect on my journey through the world of Agile and Scrum, I often find myself revisiting the fundamental principles that underpin these methodologies. It’s easy to get lost in the jargon and the latest trends, but at the heart of it all lies a simple truth: Agile is about people and their interactions. 
