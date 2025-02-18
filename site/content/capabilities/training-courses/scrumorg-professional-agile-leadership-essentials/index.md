@@ -2,12 +2,21 @@
 title: Professional Agile Leadership Essentials (PAL-e) with Certification
 description: Empower leaders with the skills to drive agile transformation in your organisation through our adaptable, immersive PAL-e Essentials workshop.
 ResourceId: CujSf0EnB7d
+ResourceImport: true
+ResourceType: course
 date: 2017-05-07
 creator: Martin Hinshelwood
 type: course
 slug: professional-agile-leadership-essentials-pal-e-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/professional-agile-leadership
+- /training-courses/professional-agile-leadership-essentials-training
+- /training-courses/professional-agile-leadership-essentials-training-with-certification
+- /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
+- /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
+- /resources/CujSf0EnB7d
+aliasesFor404:
 - /training-courses/professional-agile-leadership
 - /training-courses/professional-agile-leadership-essentials-training
 - /training-courses/professional-agile-leadership-essentials-training-with-certification
@@ -26,20 +35,16 @@ delivery-audiences:
 - Managers
 - Entrepreneurs
 tags:
+- Agile Leadership
 - Agile Project Management
 - Agile Transformation
-- Agile Leadership
-- Business Agility
 - Agile Frameworks
-- People and Process
-- Technical Leadership
 - Events and Presentations
-- Value Delivery
-- Organisational Change
 - Agile Strategy
-- Organisational Agility
-- Change Management
-- Software Development
+- Value Delivery
+- Technical Leadership
+- Organisational Change
+- People and Process
 categories:
 - Leadership
 - Social Technologies

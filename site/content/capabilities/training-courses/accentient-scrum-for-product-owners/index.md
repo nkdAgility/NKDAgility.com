@@ -2,12 +2,19 @@
 title: Scrum for Product Owners Training
 description: Enhance your effectiveness as a Product Owner in this interactive class, featuring presentations, discussions, and hands-on activities to drive value in Scrum.
 ResourceId: qVBmvY9STVE
+ResourceImport: true
+ResourceType: course
 date: 2020-08-31
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-product-owners-training
 url: 
 aliases:
+- /training-courses/scrum-for-product-owners
+- /training-courses/scrum-for-product-owners-training/
+- /capabilities/training-courses/accentient/scrum-for-product-owners-training
+- /resources/qVBmvY9STVE
+aliasesFor404:
 - /training-courses/scrum-for-product-owners
 - /training-courses/scrum-for-product-owners-training/
 - /capabilities/training-courses/accentient/scrum-for-product-owners-training
@@ -22,23 +29,17 @@ delivery-audiences:
 - Product Managers
 tags:
 - Agile Project Management
-- Scrum
 - Scrum Product Development
-- Agile Product Management
-- Software Development
-- Backlog Refinement
 - Product Owner
 - Professional Scrum
+- Software Development
+- Backlog Refinement
 - Product Backlog
+- Agile Product Management
 - Scrum Team
-- People and Process
-- Team Performance
 - Agile Frameworks
-- Events and Presentations
-- Products and Books
-- Team Collaboration
-- Product Delivery
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 preview: 

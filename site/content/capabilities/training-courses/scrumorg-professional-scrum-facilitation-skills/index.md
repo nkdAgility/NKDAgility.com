@@ -2,6 +2,8 @@
 title: Professional Scrum Facilitation Skills (PSFS) with Certification
 description: Enhance your facilitation skills with our interactive course, empowering Scrum Teams to solve problems, build consensus, and foster transparency effectively.
 ResourceId: COuQsbI48JU
+ResourceImport: true
+ResourceType: course
 shortTitle: Scrum Facilitation Skills
 date: 2022-08-22
 creator: Martin Hinshelwood
@@ -9,6 +11,10 @@ type: course
 slug: professional-scrum-facilitation-skills-psfs-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
+- /resources/COuQsbI48JU
+aliasesFor404:
 - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
 course-topics:
@@ -23,19 +29,18 @@ delivery-audiences:
 - Teams
 - Lean Agile Practitioners
 tags:
-- Scrum
 - Transparency
 - Professional Scrum
-- Scrum Team
 - Team Collaboration
+- Scrum Team
 - Agile Frameworks
 - Team Performance
 - People and Process
 - Agile Project Management
 - Scrum Master
-- Coaching
 - Software Development
 categories:
+- Scrum
 - Social Technologies
 preview: naked-agility-Professional-Scrum-PSFS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSFS-400x.png

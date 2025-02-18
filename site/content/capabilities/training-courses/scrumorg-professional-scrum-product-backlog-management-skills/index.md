@@ -2,6 +2,8 @@
 title: Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
 description: Elevate your Product Backlog management skills with our 'Professional Scrum Product Backlog Mastery' course. Learn to refine, sequence, and engage stakeholders effectively, ensuring your Product Backlog aligns seamlessly with your product's vision. Dive in, and let's turn your Scrum visions into actionable strategies.
 ResourceId: N4fzkLtirTS
+ResourceImport: true
+ResourceType: course
 shortTitle: Product Backlog Management Skills
 date: 2023-09-27
 creator: Martin Hinshelwood
@@ -9,6 +11,10 @@ type: course
 slug: professional-scrum-product-backlog-management-skills-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
+- /resources/N4fzkLtirTS
+aliasesFor404:
 - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
 course-topics:
@@ -25,6 +31,7 @@ delivery-audiences:
 tags:
 - Agile Project Management
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg

@@ -2,12 +2,17 @@
 title: Engineering Practices Workshop
 description: Join our workshop for an engaging demo and discussion on agile software engineering and ALM practices. Enhance your skills with expert guidance!
 ResourceId: 0HKCf4ALF5Y
+ResourceImport: true
+ResourceType: course
 date: 2013-09-06
 creator: Martin Hinshelwood
 type: course
 slug: engineering-practices-workshop
 url: 
 aliases:
+- /training-courses/engineering-practices-workshop/
+- /resources/0HKCf4ALF5Y
+aliasesFor404:
 - /training-courses/engineering-practices-workshop/
 course-topics:
 - Engineering Training Courses

@@ -2,12 +2,18 @@
 title: Agile Kata Professional
 description: Unlock the potential of Agile with the Agile Kata! This one-day course empowers teams to enhance processes and drive cultural change for lasting impact.
 ResourceId: p62cJsAjQNw
+ResourceImport: true
+ResourceType: course
 date: 2023-11-24
 creator: Martin Hinshelwood
 type: course
 slug: agile-kata-professional
 url: 
 aliases:
+- /training-courses/agile-workshops/agile-kata-professional/
+- /akp/
+- /resources/p62cJsAjQNw
+aliasesFor404:
 - /training-courses/agile-workshops/agile-kata-professional/
 - /akp/
 course-topics:
@@ -25,12 +31,10 @@ tags:
 - Agile Frameworks
 - Organisational Change
 - Organisational Agility
-- Operational Practices
 - Software Development
+- Operational Practices
 - Business Agility
 - Agile Project Management
-- Change Management
-- Pragmatic Thinking
 categories:
 - Social Technologies
 preview: NKDAgility-Courses-AKP-16x9-1.jpg

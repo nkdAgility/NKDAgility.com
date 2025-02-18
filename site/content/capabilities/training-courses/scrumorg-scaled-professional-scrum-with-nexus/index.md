@@ -2,12 +2,23 @@
 title: Scaled Professional Scrum with Nexus (SPS) with Certification
 description: Master scaling Scrum with the Scaled Professional Scrum™ course. Gain hands-on skills, tackle cross-team challenges, and earn your SPS certification!
 ResourceId: -U-z8x8yTw9
+ResourceImport: true
+ResourceType: course
 date: 2017-01-01
 creator: Martin Hinshelwood
 type: course
 slug: scaled-professional-scrum-with-nexus-sps-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/scrum-at-scale-workshop
+- /training-courses/scaling-professional-scrum
+- /training-courses/scaled-professional-scrum-sps
+- /training-courses/scaled-professional-scrum-sps-with-nexus
+- /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
+- /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+- /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
+- /resources/-U-z8x8yTw9
+aliasesFor404:
 - /training-courses/scrum-at-scale-workshop
 - /training-courses/scaling-professional-scrum
 - /training-courses/scaled-professional-scrum-sps
@@ -28,19 +39,18 @@ delivery-audiences:
 - Lean Agile Practitioners
 - Teams
 tags:
-- Scrum
 - Scrum Product Development
 - Professional Scrum
+- Software Development
+- Large Scale Agility
 - Scaled Agile
 - People and Process
-- Large Scale Agility
 - Scaling Scrum
-- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Practical Techniques and Tooling
 - Scaling Agility
 categories:
+- Scrum
 - Social Technologies
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-SPS-400x.png

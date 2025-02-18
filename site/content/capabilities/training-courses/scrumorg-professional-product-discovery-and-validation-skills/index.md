@@ -2,6 +2,8 @@
 title: Professional Product Discovery and Validation Skills (PPDV)
 description: It seems there are no specific details provided for the resource. Please share the relevant information, and I'll be happy to help you create a concise description!
 ResourceId: -IePwtEoXdo
+ResourceImport: true
+ResourceType: course
 shortTitle: Product Discovery and Validation
 date: 2024-07-11
 creator: Martin Hinshelwood
@@ -9,6 +11,11 @@ type: course
 slug: professional-product-discovery-and-validation-skills-ppdv
 url: /capabilities/training-courses/product-training-courses/:slug/
 aliases:
+- /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+- /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
+- /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+- /resources/-IePwtEoXdo
+aliasesFor404:
 - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
 - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
 - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
@@ -24,23 +31,16 @@ delivery-audiences:
 - Product Managers
 - Teams
 tags:
-- Practical Techniques and Tooling
 - Experimentation
-- Evidence Based Management
+- Practical Techniques and Tooling
 - Product Validation
 - Decision Making
+- Discovery and Learning
+- Evidence Based Management
 - Product Discovery
 - Hypothesis Driven Development
-- Discovery and Learning
-- Value Delivery
-- Products and Books
 - Metrics and Learning
-- Pragmatic Thinking
-- Entrepreneurship
-- Evidence Based Leadership
-- Operational Practices
-- MVP
-- Continuous Learning
+- Value Delivery
 categories:
 - Product Management
 preview: NKDAgility-Courses-PSVS-16x9-1.png

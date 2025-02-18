@@ -2,12 +2,19 @@
 title: Scrum for Executives Training
 description: Join this interactive class to discover what Scrum is, why it matters, and your role in its adoption through engaging discussions and team activities.
 ResourceId: AHschsDjL2E
+ResourceImport: true
+ResourceType: course
 date: 2020-08-31
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-executives-training
 url: 
 aliases:
+- /training-courses/scrum-for-executives
+- /training-courses/scrum-for-executives-training/
+- /capabilities/training-courses/accentient/scrum-for-executives
+- /resources/AHschsDjL2E
+aliasesFor404:
 - /training-courses/scrum-for-executives
 - /training-courses/scrum-for-executives-training/
 - /capabilities/training-courses/accentient/scrum-for-executives
@@ -23,6 +30,7 @@ delivery-audiences:
 tags:
 - Agile Frameworks
 categories:
+- Scrum
 - Social Technologies
 preview: 
 previewIcon: A-S4E.png

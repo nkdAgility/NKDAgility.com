@@ -2,12 +2,20 @@
 title: Managing Projects Using Azure Boards Training
 description: Master Azure Boards in this one-day course, empowering your agile team to plan, track, and deliver software effectively through hands-on collaboration.
 ResourceId: 81zAbGYQP0o
+ResourceImport: true
+ResourceType: course
 date: 2020-08-31
 creator: Martin Hinshelwood
 type: course
 slug: managing-projects-using-azure-boards-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
+- /training-courses/managing-projects-using-azure-boards
+- /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
+- /A-MPAB/
+- /capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/
+- /resources/81zAbGYQP0o
+aliasesFor404:
 - /training-courses/managing-projects-using-azure-boards
 - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
 - /A-MPAB/
@@ -22,23 +30,15 @@ delivery-audiences:
 - Product managers
 tags:
 - Scrum Product Development
-- Agile Project Management
 - Agile Planning Tools
-- Azure DevOps
+- Agile Project Management
 - Software Development
+- Agile Planning
+- Azure DevOps
 - Azure Boards
 - Product Backlog
-- Agile Planning
-- Product Delivery
 - People and Process
 - Software Developers
-- Collaboration Tools
-- Practical Techniques and Tooling
-- Operational Practices
-- Pragmatic Thinking
-- Agile Product Management
-- Team Performance
-- Agile Frameworks
 categories:
 - Social Technologies
 preview: naked-agility-Accentient-MPAB-1600x900-1.jpg

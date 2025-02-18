@@ -2,12 +2,19 @@
 title: Mastering Azure Repos Training
 description: Azure DevOps Services offer cloud tools for teams to plan, develop, and deliver software efficiently, with Azure Repos enhancing collaboration and code quality.
 ResourceId: d4jyFSYdS2v
+ResourceImport: true
+ResourceType: course
 date: 2020-08-31
 creator: Martin Hinshelwood
 type: course
 slug: mastering-azure-repos-training
 url: 
 aliases:
+- /training-courses/mastering-azure-repos
+- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+- /capabilities/training-courses/accentient/mastering-azure-repos-training
+- /resources/d4jyFSYdS2v
+aliasesFor404:
 - /training-courses/mastering-azure-repos
 - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
 - /capabilities/training-courses/accentient/mastering-azure-repos-training
@@ -20,8 +27,8 @@ course-learning-experiences:
 delivery-audiences:
 - Developers
 tags:
-- Azure DevOps
 - Azure Repos
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

@@ -2,12 +2,20 @@
 title: Assuring Quality Using Azure Test Plans Training
 description: Master Azure Test Plans in this one-day course, empowering your agile team to ensure quality in web and desktop applications through hands-on collaboration.
 ResourceId: m932F_fIGB5
+ResourceImport: true
+ResourceType: course
 date: 2020-09-01
 creator: Martin Hinshelwood
 type: course
 slug: assuring-quality-using-azure-test-plans-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
+- /training-courses/assuring-quality-using-azure-test-plans
+- /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
+- /AD-QA/
+- /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
+- /resources/m932F_fIGB5
+aliasesFor404:
 - /training-courses/assuring-quality-using-azure-test-plans
 - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
 - /AD-QA/

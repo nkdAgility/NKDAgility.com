@@ -11,9 +11,10 @@ $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
 $outputDir = ".\site\content\resources"
-
+$resources = $null
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
+#$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
+$resources += Get-ChildItem -Path "site\content\capabilities\training-courses"  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending
 
 $Counter = 1
 
