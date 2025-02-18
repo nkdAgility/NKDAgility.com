@@ -24,7 +24,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/atV8TIupSsg/maxresdefault.jpg
 duration: 81
 isShort: false
-tags: []
+tags:
+- Events and Presentations
 sitemap:
   filename: sitemap.xml
   priority: 0.4

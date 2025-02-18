@@ -30,8 +30,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Scrum
 - DevOps
+- Scrum
 - Social Technologies
 tags: []
 

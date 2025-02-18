@@ -32,7 +32,9 @@ resourceTypes:
 categories:
 - Leadership
 - Social Technologies
-tags: []
+tags:
+- Events and Presentations
+- People and Process
 
 ---
  00:00:00 Preamble

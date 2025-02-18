@@ -24,7 +24,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/JzUUQ4R9SCk/maxresdefault.jpg
 duration: 6841
 isShort: false
-tags: []
+tags:
+- Events and Presentations
+- Scrum Values
+- Professional Scrum
+- People and Process
+- Agile Frameworks
+- Software Development
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

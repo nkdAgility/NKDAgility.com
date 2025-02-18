@@ -31,7 +31,17 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
-tags: []
+tags:
+- Agile Frameworks
+- Events and Presentations
+- Agile Planning
+- People and Process
+- Agile Project Management
+- Agile Product Management
+- Professional Scrum
+- Scrum Product Development
+- Remote Working
+- Software Development
 
 ---
 As I reflect on my journey through the world of Agile and Scrum, I often find myself revisiting the fundamental principles that underpin these methodologies. It’s easy to get lost in the jargon and the frameworks, but at the heart of it all lies a simple truth: Agile is about people. It’s about collaboration, communication, and a shared understanding of our goals. 
