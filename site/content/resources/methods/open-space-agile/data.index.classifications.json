@@ -334,12 +334,12 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T17:33:06",
+    "calculated_at": "2025-02-18T17:29:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions aspects related to Agile practices, which is a significant theme, but it does not provide a comprehensive discussion on software development methodologies or practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -602,15 +602,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "calculated_at": "2025-02-12T17:33:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses failures in Agile practices without a clear focus on BetaCodex principles or human-centric organisational design.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-12T17:33:54",
@@ -721,12 +712,12 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T17:34:08",
+    "calculated_at": "2025-02-18T17:29:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions 'Lack of Commitment Buy In', which relates to the Scrum Value of Commitment, but the overall focus appears to be on failures in Agile practices rather than a thorough discussion of Scrum Values.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1261,12 +1252,12 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T17:31:36",
+    "calculated_at": "2025-02-18T17:29:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions issues related to commitment and sprint goals, which are relevant to team dynamics and collaboration in Agile environments, but it lacks depth and focus on the interplay between human behaviour and structured methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1320,6 +1311,69 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and roles, which are not directly related to the psychological aspects of organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T17:29:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses failures in Agile practices without a clear focus on leadership roles or strategies.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T17:29:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content does not provide sufficient detail on Scrum, Kanban, Lean, or Agile practices, and primarily lists failures without elaboration on methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T17:29:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content does not primarily discuss Scrum principles, roles, or practices; it mentions some issues that could relate to Scrum but lacks depth and clarity on the topic.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-18T17:29:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses failures in Agile practices without a clear focus on BetaCodex principles or themes.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-18T17:29:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile concepts and failures, which are not directly related to the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-18T17:29:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses failures in Agile practices without a clear focus on the Agile Product Operating Model or its principles.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-18T17:29:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile concepts without a direct connection to platform engineering.",
     "level": "Ignored"
   }
 }

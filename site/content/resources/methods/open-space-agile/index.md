@@ -23,7 +23,10 @@ card:
   title: Open Space Agile
   content: Harness the power of Open Space Agile to enable dynamic self-organization. Facilitate meaningful discussions and collaborative decision-making across your team.
 categories: []
-tags: []
+tags:
+- Software Development
+- People and Process
+- Scrum Values
 
 ---
 # Common failures

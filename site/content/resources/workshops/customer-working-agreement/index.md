@@ -24,21 +24,20 @@ card:
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
 categories:
+- Social Technologies
+- Scrum
+- Product Management
+tags:
+- Transparency and Accountability
+- Scrum Product Development
+- People and Process
 - Agile Product Management
 - Product Delivery
-- Transparency and Accountability
-tags:
-- Accountability
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Increment
-- Product Management
-- Professional Scrum
-- Scrum Product Development
-- Software Development
-- Transparency
 - Working Agreements
+- Professional Scrum
+- Agile Frameworks
+- Software Development
+- Agile Planning
 
 ---
 ## Customer Working Agreement

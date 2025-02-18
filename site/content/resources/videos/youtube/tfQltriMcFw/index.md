@@ -24,13 +24,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/tfQltriMcFw/maxresdefault.jpg
 duration: 31
 isShort: true
-tags: []
+tags:
+- Agile Frameworks
+- Software Development
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
  A collection is videos of Scrum training in Action 

@@ -21,15 +21,19 @@ card:
   content: Discover more about Value-based Prioritization and how it can help you in your Agile journey!
   title: Value-based Prioritization
 categories:
-- Agile Product Management
-- Product Delivery
+- Scrum
+- Product Management
+- Social Technologies
 tags:
+- Scrum Product Development
+- Product Backlog
+- Product Owner
+- Value Delivery
+- Agile Product Management
+- Agile Product Operating Model
 - Agile Planning
 - Agile Project Management
-- Product Backlog
-- Product Management
-- Product Owner
-- Scrum Product Development
+- Product Delivery
 
 ---
 Value-based Prioritization: Focus on delivering value to the stakeholders. The product backlog is prioritized based on the value it delivers, and the Scrum team works on the highest-priority items first.

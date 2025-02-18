@@ -20,7 +20,9 @@ card:
     content: More info
   title: Scrum Framework
   content: Scrum Framework
-categories: []
+categories:
+- Scrum
+- Social Technologies
 tags:
 - Agile Frameworks
 - Software Development

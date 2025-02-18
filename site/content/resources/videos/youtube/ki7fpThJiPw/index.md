@@ -29,8 +29,21 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Scrum
+- Social Technologies
+- Product Management
+tags:
+- Agile Frameworks
+- Software Development
+- Agile Planning
+- Software Developers
+- People and Process
+- Agile Project Management
+- Agile Product Management
+- Entrepreneurship
+- Product Delivery
+- Organisational Agility
 
 ---
  Innovation does not need to cost a lot of money!
