@@ -21,7 +21,7 @@ card:
   content: Discover more about Self-Organization and how it can help you in your Agile journey!
   title: Self-Organization
 categories:
-- People and Process
+- Scrum
 tags:
 - Agile Frameworks
 - Agile Project Management

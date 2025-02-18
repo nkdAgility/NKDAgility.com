@@ -29,9 +29,9 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
-- Kanban
 - Operational Practices
 - Strategy
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,6 +39,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

@@ -33,6 +33,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Kanban
 - Product Management
 - Social Technologies
 

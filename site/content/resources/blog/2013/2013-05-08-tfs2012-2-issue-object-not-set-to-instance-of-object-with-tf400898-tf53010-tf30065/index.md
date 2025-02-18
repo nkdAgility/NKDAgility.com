@@ -34,7 +34,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Engineering Excellence
+- Kanban
 preview: puzzle-issue-problem-128-link-4-4.png
 
 ---

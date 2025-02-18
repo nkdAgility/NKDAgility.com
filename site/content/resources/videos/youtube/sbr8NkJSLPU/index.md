@@ -22,7 +22,16 @@ preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- Kanban
+- People and Process
+- Team Collaboration
+- Practical Techniques and Tooling
+- Operational Practices
+- Agile Frameworks
+- Software Development
+- Agile Project Management
+- Transparency
+- Pragmatic Thinking
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,7 +39,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Kanban
 
 ---
 One of the core practices of Kanban that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 

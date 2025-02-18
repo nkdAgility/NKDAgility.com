@@ -22,7 +22,6 @@ preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Kanban
 - Practical Techniques and Tooling
 - Software Development
 - Operational Practices
@@ -39,6 +38,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

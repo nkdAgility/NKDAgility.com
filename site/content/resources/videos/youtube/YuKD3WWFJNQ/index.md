@@ -31,13 +31,13 @@ tags:
 - Product Owner
 - Decision Making
 - Sprint Review
-- People and Process
 - Agile Product Management
-- Scrum Product Development
-- Team Motivation
-- Organisational Culture
+- People and Process
 - Agile Planning
-- Employee Engagement
+- Scrum Product Development
+- Agile Frameworks
+- Team Performance
+- Organisational Culture
 resourceTypes:
 - video
 categories:

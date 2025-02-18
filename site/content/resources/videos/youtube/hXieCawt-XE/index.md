@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - Operational Practices
 - Flow Efficiency
 - Software Development
@@ -38,9 +37,11 @@ tags:
 - Agile Frameworks
 - Lean Principles
 - Lean
+- Agile Project Management
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

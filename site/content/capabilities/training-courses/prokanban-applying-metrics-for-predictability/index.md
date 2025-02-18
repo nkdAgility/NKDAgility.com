@@ -2,12 +2,19 @@
 title: Applying Metrics for Predictability
 description: Master agile metrics and forecasting in our 8-week course, "Applying Metrics for Predictability," to enhance project success and decision-making.
 ResourceId: dnZMM8p0lC4
+ResourceImport: true
+ResourceType: course
 date: 2024-01-12
 creator: Martin Hinshelwood
 type: course
 slug: applying-metrics-for-predictability
 url: /training-courses/kanban-training-courses/:slug/
 aliases:
+- /training-courses/applying-metrics-for-predictability/
+- /training-courses/kanban-training-courses/applying-metrics-for-predictability/
+- /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
+- /resources/dnZMM8p0lC4
+aliasesFor404:
 - /training-courses/applying-metrics-for-predictability/
 - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
 - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
@@ -29,12 +36,9 @@ tags:
 - Practical Techniques and Tooling
 - Agile Planning
 - Flow Efficiency
+- Pragmatic Thinking
 - Decision Making
 - Operational Practices
-- Pragmatic Thinking
-- Evidence Based Management
-- Estimation
-- Software Development
 categories:
 - Social Technologies
 preview: NKDAgility-Courses-AMP-16x9-1.jpg

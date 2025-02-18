@@ -2,12 +2,18 @@
 title: Applying Scaled Portfolio Kanban
 description: Transform your organisation's efficiency with our 'Applying Scaled Portfolio Kanban' course. Learn to align work with goals and drive continuous improvement.
 ResourceId: gUxi6u7gQcc
+ResourceImport: true
+ResourceType: course
 date: 2024-01-12
 creator: Martin Hinshelwood
 type: course
 slug: applying-scaled-portfolio-kanban
 url: 
 aliases:
+- /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
+- /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
+- /resources/gUxi6u7gQcc
+aliasesFor404:
 - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
 - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
 course-topics:
@@ -21,19 +27,18 @@ delivery-audiences:
 - Product Owners
 - Lean Agile Practitioners
 tags:
-- Kanban
 - Agile Project Management
 - Strategy
 - Portfolio Management
-- Scaling Kanban
 - Agile Frameworks
 - Practical Techniques and Tooling
+- Scaling Kanban
 - Scaling Agility
+- Pragmatic Thinking
 - Transparency
 - Operational Practices
-- Pragmatic Thinking
-- Scaled Agile
 categories:
+- Kanban
 - Social Technologies
 preview: NKDAgility-Courses-SPK-16x9-1.jpg
 previewIcon: SPK@600.png

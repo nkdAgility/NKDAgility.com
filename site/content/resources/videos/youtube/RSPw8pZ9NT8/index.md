@@ -22,16 +22,16 @@ preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Strategy
-- Kanban
-- Throughput
 - Forecasting
-- Cycle Time
+- Throughput
+- Strategy
 - Metrics and Learning
 - Value Delivery
+- Cycle Time
+- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Software Development
 - Flow Efficiency
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,6 +39,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

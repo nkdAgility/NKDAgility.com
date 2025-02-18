@@ -30,7 +30,6 @@ sitemap:
 tags:
 - Strategy
 - Transparency
-- Kanban
 - Metrics and Learning
 - Transparency and Accountability
 - Software Development
@@ -38,9 +37,11 @@ tags:
 - Agile Project Management
 - Practical Techniques and Tooling
 - Flow Efficiency
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

@@ -35,6 +35,7 @@ tags:
 - Azure DevOps
 - Pragmatic Thinking
 categories:
+- Kanban
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 

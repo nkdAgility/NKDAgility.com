@@ -2,12 +2,20 @@
 title: Practicing Kanban Using Azure Boards
 description: Boost your team's flow and throughput with our one-day course on Kanban and Azure Boards, designed by expert Richard Hundhausen. Join us for hands-on learning!
 ResourceId: wHhDvrn-8PH
+ResourceImport: true
+ResourceType: course
 date: 2020-08-31
 creator: Martin Hinshelwood
 type: course
 slug: practicing-kanban-using-azure-boards
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
+- /PKAB/
+- /training-courses/practicing-kanban-using-azure-boards
+- /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
+- /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
+- /resources/wHhDvrn-8PH
+aliasesFor404:
 - /PKAB/
 - /training-courses/practicing-kanban-using-azure-boards
 - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
@@ -26,6 +34,7 @@ delivery-audiences:
 tags:
 - Practical Techniques and Tooling
 categories:
+- Kanban
 - Social Technologies
 card:
   button:

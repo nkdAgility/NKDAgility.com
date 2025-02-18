@@ -24,14 +24,14 @@ isShort: false
 tags:
 - Team Motivation
 - People and Process
-- Organisational Agility
 - Agile Values and Principles
+- Organisational Agility
 - Team Collaboration
-- Sociotechnical Systems
+- Employee Engagement
 - Agile Leadership
 - Coaching
 - Team Performance
-- Personal
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,8 +29,12 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Leadership
+- Social Technologies
+tags:
+- Events and Presentations
+- People and Process
 
 ---
  00:00:00 Preamble

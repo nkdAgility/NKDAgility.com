@@ -2,12 +2,19 @@
 title: Managing Projects Using Visual Studio and Scrum Training
 description: It seems there are no specific details provided for the resource. Please share the relevant information, and I'll be happy to help you create a concise description!
 ResourceId: QjDoUAyMmas
+ResourceImport: true
+ResourceType: course
 date: 2018-11-28
 creator: Martin Hinshelwood
 type: course
 slug: managing-projects-using-visual-studio-and-scrum-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
+- /training-courses/managing-projects-using-visual-studio-and-scrum
+- /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
+- /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
+- /resources/QjDoUAyMmas
+aliasesFor404:
 - /training-courses/managing-projects-using-visual-studio-and-scrum
 - /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
 - /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
@@ -21,22 +28,18 @@ delivery-audiences:
 - Product Managers
 - Teams
 tags:
-- Scrum
+- Scrum Product Development
 - Agile Project Management
 - Agile Product Management
-- Scrum Product Development
-- Agile Planning
 - Software Development
+- Agile Planning
 - Professional Scrum
 - Agile Frameworks
-- Product Delivery
-- Practical Techniques and Tooling
 - Events and Presentations
-- Team Collaboration
-- Products and Books
-- Working Software
 - Software Developers
+- Team Collaboration
 categories:
+- Scrum
 - Social Technologies
 preview: 
 previewIcon: A-MPVS.png

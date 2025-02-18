@@ -2,12 +2,23 @@
 title: Professional Scrum Master Advanced (PSM-A) with Certification
 description: Elevate your Scrum Master skills with the 2-day PSM-A course, designed for experienced professionals seeking advanced knowledge and a free PSM II certification attempt.
 ResourceId: 7p77l4PFd03
+ResourceImport: true
+ResourceType: course
 date: 2019-05-25
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-master-advanced-psm-a-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/advanced-scrum-master-psm-ii-training
+- /training-courses/professional-scrum-master-ii-psmii-training
+- /training-courses/advanced-professional-scrum-master-psm-a-training
+- /training-courses/professional-scrum-master-ii-training-with-certification
+- /training-courses/professional-scrum-master-advanced-training-with-certification
+- /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-master-advanced-psm-a-with-certification/
+- /resources/7p77l4PFd03
+aliasesFor404:
 - /training-courses/advanced-scrum-master-psm-ii-training
 - /training-courses/professional-scrum-master-ii-psmii-training
 - /training-courses/advanced-professional-scrum-master-psm-a-training
@@ -26,9 +37,18 @@ delivery-audiences:
 - Scrum Masters
 - Lean Agile Practitioners
 tags:
-- Scrum
+- Scrum Master
+- Coaching
+- Professional Scrum
+- Scrum Team
+- Agile Project Management
+- People and Process
+- Team Performance
+- Agile Frameworks
+- Products and Books
+- Events and Presentations
 categories:
-- Social Technologies
+- Scrum
 preview: naked-agility-Professional-Scrum-PSMA-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSMII-400x.png
 brandColour: 

@@ -31,21 +31,6 @@ tags:
 - Practical Techniques and Tooling
 - Technical Mastery
 - Software Development
-
----
-- /blog/team-server-event-handlers-made-easy---
-- /resources/NjGpMY3aKfH
-
----
-- /blog/team-server-event-handlers-made-easy---
-tags:
-- code
-- tfs
-- tfs2005
-- tfs-event-handler
-- wit
-categories:
-- code-and-complexity
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

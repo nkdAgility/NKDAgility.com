@@ -2,6 +2,8 @@
 title: Applying Professional Kanban (APK) Course with Certification
 description: Join our updated 'Applying Professional Kanban' course for an immersive learning experience, blending live sessions and real-world application over several weeks.
 ResourceId: ZeqWpEsyhbv
+ResourceImport: true
+ResourceType: course
 date: 2020-12-17
 creator: Martin Hinshelwood
 type: course
@@ -9,6 +11,14 @@ weight: 100
 slug: applying-professional-kanban-apk-training-experience-with-certification
 url: /capabilities/training-courses/kanban-training-courses/:slug/
 aliases:
+- /apk/
+- /training-courses/apk/
+- /training-courses/applying-professional-kanban/
+- /training-courses/applying-professional-kanban-training-with-certification/
+- /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+- /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
+- /resources/ZeqWpEsyhbv
+aliasesFor404:
 - /apk/
 - /training-courses/apk/
 - /training-courses/applying-professional-kanban/
@@ -26,7 +36,6 @@ delivery-audiences:
 - Product Owners
 - Lean Agile Practitioners
 tags:
-- Kanban
 - Practical Techniques and Tooling
 - Flow Efficiency
 - Operational Practices
@@ -38,6 +47,7 @@ tags:
 - Value Delivery
 - Software Development
 categories:
+- Kanban
 - Social Technologies
 preview: NKDAgility-Courses-APK-16x9-1.jpg
 previewIcon: APK@2x.png

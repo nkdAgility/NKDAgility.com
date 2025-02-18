@@ -24,7 +24,6 @@ isShort: false
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Kanban
 - Agile Planning Tools
 - Azure DevOps
 - Software Developers
@@ -32,6 +31,7 @@ tags:
 - Lead Time
 - Agile Project Management
 - Cycle Time
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,6 +39,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

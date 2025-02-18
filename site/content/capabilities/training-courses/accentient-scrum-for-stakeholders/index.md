@@ -2,12 +2,19 @@
 title: Scrum for Stakeholders Training
 description: Join this interactive class to discover what Scrum is, its benefits, and how it transforms your work. Engage in discussions and team activities for real insights!
 ResourceId: 33qyqKjBf3T
+ResourceImport: true
+ResourceType: course
 date: 2020-08-31
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-stakeholders-training
 url: 
 aliases:
+- /training-courses/scrum-for-stakeholders
+- /training-courses/scrum-for-stakeholders-training/
+- /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+- /resources/33qyqKjBf3T
+aliasesFor404:
 - /training-courses/scrum-for-stakeholders
 - /training-courses/scrum-for-stakeholders-training/
 - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
@@ -20,16 +27,16 @@ course-learning-experiences:
 delivery-audiences:
 - Product Managers
 tags:
-- Scrum
+- Scrum Product Development
 - Agile Project Management
 - Agile Product Management
-- Scrum Product Development
 - Professional Scrum
 - Software Development
 - Agile Frameworks
 - Agile Transformation
 - People and Process
 categories:
+- Scrum
 - Social Technologies
 preview: 
 previewIcon: A-S4S.png

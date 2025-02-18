@@ -2,12 +2,19 @@
 title: Continuous Delivery Using Azure DevOps Services Training
 description: It seems there are no specific details provided for the resource. Please share the relevant information, and I'll be happy to help you create a concise description!
 ResourceId: Et_C1UNbGdO
+ResourceImport: true
+ResourceType: course
 date: 2018-11-28
 creator: Martin Hinshelwood
 type: course
 slug: continuous-delivery-using-azure-devops-services-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
+- /training-courses/continuous-delivery-using-azure-devops-services
+- /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
+- /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
+- /resources/Et_C1UNbGdO
+aliasesFor404:
 - /training-courses/continuous-delivery-using-azure-devops-services
 - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
 - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
@@ -20,24 +27,16 @@ course-learning-experiences:
 delivery-audiences:
 - Developers
 tags:
-- Value Delivery
-- Product Delivery
-- Azure DevOps
 - Continuous Delivery
 - Software Development
-- Working Software
 - Continuous Learning
+- Azure DevOps
+- Product Delivery
+- Working Software
+- Value Delivery
 - Team Collaboration
-- Software Developers
 - Operational Practices
-- Engineering Practices
-- Practical Techniques and Tooling
-- Technical Excellence
 - Technical Mastery
-- Market Adaptability
-- Frequent Releases
-- Pragmatic Thinking
-- Deployment Frequency
 categories:
 - DevOps
 - Engineering Excellence

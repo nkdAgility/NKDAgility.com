@@ -30,7 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 categories: []
-tags: []
+tags:
+- Events and Presentations
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=y3qDih6EM0U)

@@ -2,12 +2,21 @@
 title: Professional Scrum with Kanban (PSK) with Certification
 description: Enhance your Scrum skills with the Professional Scrum with Kanban™ training, blending self-paced learning and hands-on exercises for effective team strategies.
 ResourceId: 9TCIWaWs_mz
+ResourceImport: true
+ResourceType: course
 date: 2018-02-26
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-with-kanban-psk-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/professional-scrum-with-kanban-psk
+- /training-courses/professional-scrum-with-kanban-psk-training
+- /training-courses/professional-scrum-with-kanban-training-with-certification
+- /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
+- /resources/9TCIWaWs_mz
+aliasesFor404:
 - /training-courses/professional-scrum-with-kanban-psk
 - /training-courses/professional-scrum-with-kanban-psk-training
 - /training-courses/professional-scrum-with-kanban-training-with-certification
@@ -31,12 +40,11 @@ tags:
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management
-- Flow Efficiency
-- Agile Transformation
-- Operational Practices
 - Products and Books
+- Agile Transformation
+- Flow Efficiency
+- Operational Practices
 - Software Development
-- Agile Product Management
 categories:
 - Social Technologies
 preview: naked-agility-Professional-Scrum-PSK-1600x900-1.jpg

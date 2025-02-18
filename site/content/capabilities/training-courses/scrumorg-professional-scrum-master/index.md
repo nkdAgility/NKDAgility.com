@@ -2,6 +2,8 @@
 title: Professional Scrum Master (PSM) Course with Certification
 description: Transform your leadership with the Professional Scrum Master course. Master Scrum principles, enhance team collaboration, and drive organisational success.
 ResourceId: NphdCz-Fh4k
+ResourceImport: true
+ResourceType: course
 shortTitle: Professional Scrum Master
 weight: 100
 date: 2017-01-01
@@ -10,6 +12,14 @@ type: course
 slug: professional-scrum-master-psm-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/professional-scrum-master
+- /training-courses/professional-scrum-master-psm-training
+- /training-courses/professional-scrum-master-training-with-certification
+- /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
+- /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
+- /resources/NphdCz-Fh4k
+aliasesFor404:
 - /training-courses/professional-scrum-master
 - /training-courses/professional-scrum-master-psm-training
 - /training-courses/professional-scrum-master-training-with-certification
@@ -30,9 +40,9 @@ delivery-audiences:
 - Lean Agile Practitioners
 delivery-audiences_weight: 100
 tags:
-- Scrum
 - Agile Project Management
 categories:
+- Scrum
 - Social Technologies
 preview: NKDAgility-Courses-PSM-16x9.svg
 card:

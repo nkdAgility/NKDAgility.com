@@ -2,12 +2,27 @@
 title: Applying Professional Scrum for Software Development (APS-SD) with Certification
 description: Join our immersive APS-SD course to master Scrum for software development. Gain hands-on experience and earn your PSD I certification!
 ResourceId: IoUQqtS1U1Y
+ResourceImport: true
+ResourceType: course
 date: 2017-01-01
 creator: Martin Hinshelwood
 type: course
 slug: applying-professional-scrum-for-software-development-aps-sd-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/professional-scrum-developer
+- /training-courses/applying-professional-scrum-with-certification
+- /training-courses/professional-scrum-development-team-training
+- /training-courses/professional-scrum-developer-training
+- /training-courses/professional-software-delivery-with-scrum-training
+- /training-courses/applying-professional-scrum-for-software-development-training
+- /training-courses/applying-professional-scrum-for-software-delivery-training-with-certification
+- /training-courses/applying-professional-scrum-for-software-development-training-with-certification
+- /training-courses/applying-professional-scrum-for-software-development-aps-sd-training-experience-with-certification-practices-for-scrum-teams-to-deliver-quality-software-frequently
+- /training-courses/scrum-training-courses/applying-professional-scrum-for-software-development-aps-sd-with-certification/
+- /capabilities/training-courses/Scrum.org/applying-professional-scrum-for-software-development-aps-sd-with-certification/
+- /resources/IoUQqtS1U1Y
+aliasesFor404:
 - /training-courses/professional-scrum-developer
 - /training-courses/applying-professional-scrum-with-certification
 - /training-courses/professional-scrum-development-team-training
@@ -31,6 +46,7 @@ delivery-audiences:
 tags:
 - Software Development
 categories:
+- Scrum
 - Engineering Excellence
 - Social Technologies
 preview: naked-agility-Professional-Scrum-APSSD-1600x900-1.jpg

@@ -29,8 +29,20 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Social Technologies
+- Scrum
+tags:
+- Events and Presentations
+- Sprint Review
+- Professional Scrum
+- Agile Frameworks
+- Scrum Product Development
+- Software Development
+- Agile Project Management
+- Agile Product Management
+- People and Process
+- Agile Planning
 
 ---
  This is a Free Live Virtual 90m "How to run a Sprint Review" from Martin Hinshelwood.

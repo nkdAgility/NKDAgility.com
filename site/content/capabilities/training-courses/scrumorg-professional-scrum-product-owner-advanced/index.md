@@ -2,6 +2,8 @@
 title: Advanced Professional Scrum Product Owner (PSPO-A) Course with Certification
 description: Enhance your Product Owner skills with PSPO-A training, blending self-paced learning and live exercises to deliver greater stakeholder value.
 ResourceId: -JfGj8NOcre
+ResourceImport: true
+ResourceType: course
 shortTitle: Professional Scrum Product Owner (Advanced)
 date: 2021-01-05
 weight: 100
@@ -10,6 +12,12 @@ type: course
 slug: professional-scrum-product-owner-advanced-pspo-a-online-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/professional-scrum-product-owner-advanced
+- /training-courses/professional-scrum-product-owner-advanced-training-with-certification
+- /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+- /resources/-JfGj8NOcre
+aliasesFor404:
 - /training-courses/professional-scrum-product-owner-advanced
 - /training-courses/professional-scrum-product-owner-advanced-training-with-certification
 - /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/

@@ -24,13 +24,15 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/atV8TIupSsg/maxresdefault.jpg
 duration: 81
 isShort: false
-tags: []
+tags:
+- Events and Presentations
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
  This Professional Agile Leadership workshop is open to the public and delivered over 4 1/2 days from  27 – 30 July 2020 at:

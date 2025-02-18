@@ -10,10 +10,11 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources"
-
+$outputDir = ".\site\content\resources\"
+$resources = $null
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
+$resources += Get-ChildItem -Path "site\content\capabilities\training-courses"  -Recurse -Include "index.md", "_index.md"  | Sort-Object { $_ } -Descending
 
 $Counter = 1
 
@@ -29,20 +30,10 @@ $resources | ForEach-Object {
         $hugoMarkdownObjects += $hugoMarkdown
     }
 }
-Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownObjects.Count
-
-
+$TotalItems = $hugoMarkdownObjects.Count
+Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $TotalItems
 ### FILTER hugoMarkdownObjects
-#$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.Contains('canonicalURL') }
-$TotalItems = $hugoMarkdownObjects.Count
-#$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.isShort -ne $true }
-#Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.isShort -ne true." -PropertyValues ($TotalItems - $hugoMarkdownObjects.Count)
-#$TotalItems = $hugoMarkdownObjects.Count
-$hugoMarkdownObjects = $hugoMarkdownObjects  | Where-Object { $_.FrontMatter.draft -ne $true }
-Write-InformationLog "Removed ({count}) HugoMarkdown Objects where FrontMatter.draft -ne true." -PropertyValues ($TotalItems - $hugoMarkdownObjects.Count)
 $hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending
-# Total count for progress tracking
-$TotalItems = $hugoMarkdownObjects.Count
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($TotalItems)
 ### /FILTER hugoMarkdownObjects
 ### Convert hugoMarkdownObjects to queue

@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - Strategy
 - Throughput
 - Metrics and Learning
@@ -38,9 +37,11 @@ tags:
 - Flow Efficiency
 - Agile Frameworks
 - Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

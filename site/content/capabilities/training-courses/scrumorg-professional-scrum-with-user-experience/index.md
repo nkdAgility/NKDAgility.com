@@ -2,12 +2,21 @@
 title: Professional Scrum with User Experience (PSU) with Certification
 description: Explore the vital role of UX in Scrum with hands-on learning, community support, and a chance to earn the PSU I certification. Join us!
 ResourceId: napm9Qz4WTz
+ResourceImport: true
+ResourceType: course
 date: 2019-05-25
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-with-user-experience-psu-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/professional-scrum-with-user-experience-psu-training
+- /training-courses/professional-scrum-with-user-experience-training-with-certification
+- /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
+- /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
+- /resources/napm9Qz4WTz
+aliasesFor404:
 - /training-courses/professional-scrum-with-user-experience-psu-training
 - /training-courses/professional-scrum-with-user-experience-training-with-certification
 - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
@@ -27,28 +36,18 @@ delivery-audiences:
 - Lean Agile Practitioners
 - Teams
 tags:
-- Scrum
 - Scrum Product Development
 - Experimentation
-- Value Delivery
-- Agile Product Management
-- Product Discovery
-- Discovery and Learning
 - Professional Scrum
+- Product Discovery
 - Practical Techniques and Tooling
+- Agile Product Management
+- Value Delivery
 - People and Process
-- Pragmatic Thinking
-- Agile Transformation
-- Products and Books
-- Team Collaboration
-- Continuous Learning
-- Agile Project Management
-- Agile Frameworks
+- Discovery and Learning
 - Software Development
-- Cross Functional Teams
-- Scrum Team
-- Scrum Master
 categories:
+- Scrum
 - Social Technologies
 preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PSU-400x.png

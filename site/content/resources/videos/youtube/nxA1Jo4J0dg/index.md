@@ -29,8 +29,11 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Scrum
+- Social Technologies
+tags:
+- Scaling Scrum
 
 ---
  The Scaled Professional Scrum is a hands-on, activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling Scrum. 

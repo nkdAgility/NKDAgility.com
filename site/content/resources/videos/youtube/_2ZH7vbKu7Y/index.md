@@ -39,7 +39,7 @@ tags:
 - Change Management
 - Technical Leadership
 - Organisational Change
-- Pragmatic Thinking
+- Agile Leadership
 categories:
 - Leadership
 

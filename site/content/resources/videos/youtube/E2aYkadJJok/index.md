@@ -22,7 +22,6 @@ preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Kanban
 - Practical Techniques and Tooling
 - Lean Thinking
 - Agile Project Management
@@ -38,6 +37,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

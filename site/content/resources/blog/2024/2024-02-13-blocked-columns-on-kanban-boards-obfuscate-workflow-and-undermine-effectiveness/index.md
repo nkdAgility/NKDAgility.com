@@ -28,7 +28,6 @@ aliasesFor404:
 tags:
 - Flow Efficiency
 - Transparency
-- Kanban
 - Azure DevOps
 - Azure Boards
 - Software Development
@@ -36,7 +35,9 @@ tags:
 - Agile Frameworks
 - Lean
 - Agile Project Management
+- Pragmatic Thinking
 categories:
+- Kanban
 - Social Technologies
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 

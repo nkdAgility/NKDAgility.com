@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Decision Making
-- Agile Leadership
 - Decision Theory
 - People and Process
+- Agile Leadership
+- Agile Strategy
 - Team Performance
 - Organisational Physics
 - Organisational Culture
 - Organisational Change
-- Business Agility
-- Agile Strategy
+- Organisational Psychology
 resourceTypes:
 - video
 categories:

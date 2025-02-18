@@ -41,29 +41,6 @@ tags:
 - Operational Practices
 - Agile Frameworks
 - Technical Excellence
-
----
-branching-for-each-sprint
-- /blog/guidance---branching-for-each-sprint
-- /resources/hPGpt57lpYZ
-
----
-branching-for-each-sprint
-- /blog/guidance---branching-for-each-sprint
-tags:
-- configuration
-- develop
-- infrastructure
-- practices
-- process
-- scrum
-- ssw
-- tfs
-- tfs2008
-- tfs2010
-- version-control
-categories:
-- tools-and-techniques
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

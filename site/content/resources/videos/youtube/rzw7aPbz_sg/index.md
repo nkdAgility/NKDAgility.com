@@ -29,8 +29,10 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Leadership
+tags:
+- Events and Presentations
 
 ---
  This Professional Agile Leadership workshop is open to the public and delivered over 2 full days from  23 – 24 July 2020 at:

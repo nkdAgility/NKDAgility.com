@@ -29,8 +29,10 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Product Management
+tags:
+- Events and Presentations
 
 ---
  In this 90 minutes free Workshop, we will cover an  "Introduction to User Stories" with some interactive sessions around building good user stories and when to break them down.

@@ -2,6 +2,8 @@
 title: Professional Scrum Product Owner (PSPO) Course with Certification
 description: Our Professional Scrum Product Owner course helps students master the Product Owner role with real-world scenarios and practical exercises, enabling participants to drive product success using Agile principles and Scrum.
 ResourceId: jUM-1XnARoT
+ResourceImport: true
+ResourceType: course
 shortTitle: Professional Scrum Product Owner
 weight: 50
 date: 2019-11-07
@@ -10,6 +12,13 @@ type: course
 slug: professional-scrum-product-owner-pspo-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+- /training-courses/professional-scrum-product-owner-pspo
+- /training-courses/professional-scrum-product-owner-pspo-training
+- /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
+- /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
+- /resources/jUM-1XnARoT
+aliasesFor404:
 - /training-courses/professional-scrum-product-owner-pspo
 - /training-courses/professional-scrum-product-owner-pspo-training
 - /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
@@ -31,10 +40,8 @@ delivery-audiences:
 - Entrepreneurs
 tags:
 - Product Owner
-- Scrum
 categories:
-- Product Management
-- Social Technologies
+- Scrum
 preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
 card:
   title: Professional Scrum Product Owner

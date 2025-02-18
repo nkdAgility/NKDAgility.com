@@ -29,12 +29,12 @@ sitemap:
   priority: 0.6
 tags:
 - Strategic Goals
-- Organisational Culture
 - Organisational Agility
+- Organisational Culture
 - People and Process
 - Business Agility
-- Market Adaptability
 - Operational Practices
+- Agile Strategy
 - Organisational Physics
 - Value Delivery
 - Organisational Change

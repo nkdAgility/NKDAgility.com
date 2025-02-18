@@ -2,12 +2,18 @@
 title: Agile Requirements Workshop
 description: Join our workshop to master agile requirements management! Learn to break down backlogs and enhance planning for successful projects and products.
 ResourceId: _Wnpjm9sqp4
+ResourceImport: true
+ResourceType: course
 date: 2013-09-06
 creator: Martin Hinshelwood
 type: course
 slug: agile-requirements-workshop
 url: 
 aliases:
+- agile-requirements-workshop-1-day
+- /training-courses/agile-requirements-workshop/
+- /resources/_Wnpjm9sqp4
+aliasesFor404:
 - agile-requirements-workshop-1-day
 - /training-courses/agile-requirements-workshop/
 course-topics:
@@ -20,10 +26,11 @@ delivery-audiences:
 - Teams
 - Product Owners
 tags:
-- Agile Project Management
 - Events and Presentations
+- Agile Project Management
 - Software Development
 categories:
+- Scrum
 - Social Technologies
 - Product Management
 preview: nakedalm-experts-visual-studio-alm.png
