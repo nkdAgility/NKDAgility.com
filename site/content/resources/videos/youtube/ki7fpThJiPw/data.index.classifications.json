@@ -1,0 +1,65 @@
+{
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T17:30:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum and fast prototyping, which are not central to leadership practices.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-18T17:30:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum, which is unrelated to Kanban principles and practices.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-18T17:30:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum and fast prototyping, which are not directly related to engineering excellence or software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-18T17:30:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content mentions Scrum, which is related to product management methodologies, but the primary focus is on innovation and cost, making product management a secondary theme.",
+    "level": "Tertiary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-18T17:30:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T17:31:00",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content mentions Scrum, which is a key topic within the Social Technologies category, but the primary focus is on the concept of innovation and cost, making Scrum a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T17:31:01",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content mentions Scrum in the context of fast prototyping, indicating a secondary theme related to Scrum principles, but does not primarily focus on Scrum practices or frameworks.",
+    "level": "Tertiary"
+  }
+}

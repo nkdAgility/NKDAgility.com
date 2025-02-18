@@ -20,8 +20,19 @@ card:
     content: Learn More
   content: Discover more about Market Focus and how it can help you in your Agile journey!
   title: Market Focus
-categories: []
-tags: []
+categories:
+- Product Management
+tags:
+- Customer Feedback Loops
+- Market Adaptability
+- Customer Satisfaction
+- Lean Startup
+- Lean Product Development
+- Value Delivery
+- Business Agility
+- Lead Time
+- Empirical Process Control
+- Working Software
 
 ---
 Update the work based on user feedback on timelines shorter than one month

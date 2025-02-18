@@ -20,8 +20,19 @@ card:
     content: Learn More
   content: Discover more about Emergant Work and how it can help you in your Agile journey!
   title: Emergant Work
-categories: []
-tags: []
+categories:
+- Product Management
+tags:
+- Customer Feedback Loops
+- Product Validation
+- Customer Satisfaction
+- Customer Retention
+- Lean Startup
+- Market Adaptability
+- Lean Product Development
+- Deployment Frequency
+- Value Delivery
+- Working Software
 
 ---
 Update the work based on user feedback on timelines shorter than one month
