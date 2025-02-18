@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/hosted-team-foundation-server
 - /resources/blog/hosted-team-foundation-server
 tags:
-- Practical Techniques and Tooling
-- Products and Books
 - Software Development
+- Products and Books
 - News and Reviews
-- Modern Source Control
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Azure DevOps
 - Software Developers
-- Application Lifecycle Management
+- Modern Source Control
 - Troubleshooting
 categories: []
 

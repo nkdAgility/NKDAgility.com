@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/visual-studio-2008-beta-2-team-explorer
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 - Windows
-- Software Development
 - Application Lifecycle Management
+- Software Development
 - System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

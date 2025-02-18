@@ -32,9 +32,9 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Install and Configuration
-- Pragmatic Thinking
 - Software Development
 - System Configuration
+- Pragmatic Thinking
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
