@@ -29,7 +29,9 @@ layout: video
 resourceTypes:
 - video
 categories: []
-tags: []
+tags:
+- People and Process
+- Software Development
 
 ---
 I often find myself reflecting on the importance of collaboration and communication within teams, especially in the context of agile methodologies. Recently, I had an interesting experience that highlighted this very aspect, and I’d like to share it with you.
