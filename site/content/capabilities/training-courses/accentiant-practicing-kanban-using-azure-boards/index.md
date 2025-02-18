@@ -34,6 +34,7 @@ delivery-audiences:
 tags:
 - Practical Techniques and Tooling
 categories:
+- Kanban
 - Social Technologies
 card:
   button:

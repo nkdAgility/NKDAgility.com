@@ -22,7 +22,6 @@ aliasesFor404:
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
-- Kanban
 - Events and Presentations
 - Application Lifecycle Management
 - Software Development
@@ -32,10 +31,9 @@ tags:
 - Azure DevOps
 - Technical Excellence
 - Working Software
+- Operational Practices
 categories:
-- Engineering Excellence
-- DevOps
-- Social Technologies
+- Kanban
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

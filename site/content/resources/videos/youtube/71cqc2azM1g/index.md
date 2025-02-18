@@ -30,7 +30,10 @@ resourceTypes:
 - video
 categories:
 - Product Management
-tags: []
+tags:
+- Agile Product Management
+- Events and Presentations
+- Product Owner
 
 ---
 In my recent webinar, I had the opportunity to delve into the intricacies of product ownership and lean product management. It’s a topic that resonates deeply with me, especially given the staggering statistics surrounding product failures. Did you know that nine out of ten product releases fail? This is a reality that many of us have witnessed firsthand, and it raises critical questions about the role of product management in our organisations.

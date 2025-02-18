@@ -29,7 +29,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 tags: []
 
 ---

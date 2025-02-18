@@ -29,7 +29,10 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- DevOps
+- Social Technologies
 tags: []
 
 ---

@@ -42,7 +42,8 @@ course-learning-experiences:
 - Self-paced
 delivery-audiences:
 - Teams
-tags: []
+tags:
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

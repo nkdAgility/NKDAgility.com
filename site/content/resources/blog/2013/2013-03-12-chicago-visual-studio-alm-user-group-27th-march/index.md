@@ -26,6 +26,7 @@ tags:
 - Events and Presentations
 - Software Development
 categories:
+- Kanban
 - Social Technologies
 preview: metro-UserGroup-128-2-2.png
 

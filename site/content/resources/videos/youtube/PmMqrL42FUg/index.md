@@ -23,7 +23,12 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/PmMqrL42FUg/maxresdefault.jpg
 duration: 106
 isShort: false
-tags: []
+tags:
+- People and Process
+- Agile Project Management
+- Transparency
+- Software Development
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -36,7 +36,6 @@ delivery-audiences:
 - Product Owners
 - Lean Agile Practitioners
 tags:
-- Kanban
 - Practical Techniques and Tooling
 - Flow Efficiency
 - Operational Practices
@@ -46,7 +45,9 @@ tags:
 - Continuous Learning
 - Agile Project Management
 - Value Delivery
+- Software Development
 categories:
+- Kanban
 - Social Technologies
 preview: NKDAgility-Courses-APK-16x9-1.jpg
 previewIcon: APK@2x.png

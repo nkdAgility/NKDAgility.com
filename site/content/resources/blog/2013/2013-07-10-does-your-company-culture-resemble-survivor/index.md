@@ -28,12 +28,12 @@ aliasesFor404:
 tags:
 - Agile Transformation
 - People and Process
-- Agile Values and Principles
 - Software Development
-- Resilience and Change
+- Agile Values and Principles
 - Software Developers
 - Team Collaboration
 - Agile Leadership
+- Resilience and Change
 - Team Performance
 - Product Delivery
 categories:

@@ -31,7 +31,10 @@ resourceTypes:
 - video
 categories:
 - Leadership
-tags: []
+tags:
+- Events and Presentations
+- Agile Leadership
+- People and Process
 
 ---
  This is a Free Live Virtual 90m "Introduction to Agile Leadership! " from Martin Hinshelwood.

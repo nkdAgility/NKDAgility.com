@@ -13,37 +13,37 @@ layout: blog
 resourceTypes: blog
 slug: guidance-branching-for-each-sprint
 aliases:
-  - /blog/guidance-branching-for-each-sprint
-  - /guidance-branching-for-each-sprint
-  - /guidance
-  - /guidance---branching-for-each-sprint
-  - /blog/guidance---branching-for-each-sprint
-  - /resources/hPGpt57lpYZ
-  - /resources/blog/guidance-branching-for-each-sprint
+- /blog/guidance-branching-for-each-sprint
+- /guidance-branching-for-each-sprint
+- /guidance
+- /guidance---branching-for-each-sprint
+- /blog/guidance---branching-for-each-sprint
+- /resources/hPGpt57lpYZ
+- /resources/blog/guidance-branching-for-each-sprint
 aliasesFor404:
-  - /guidance-branching-for-each-sprint
-  - /blog/guidance-branching-for-each-sprint
-  - /guidance---branching-for-each-sprint
-  - /blog/guidance---branching-for-each-sprint
-  - /guidance
-  - /resources/blog/guidance-branching-for-each-sprint
+- /guidance-branching-for-each-sprint
+- /blog/guidance-branching-for-each-sprint
+- /guidance---branching-for-each-sprint
+- /blog/guidance---branching-for-each-sprint
+- /guidance
+- /resources/blog/guidance-branching-for-each-sprint
 categories:
-  - Scrum
-  - Social Technologies
+- Scrum
+- Social Technologies
 tags:
-  - Scrum Product Development
-  - Software Development
-  - Software Developers
-  - Professional Scrum
-  - Modern Source Control
-  - Product Delivery
-  - Practical Techniques and Tooling
-  - Operational Practices
-  - Agile Frameworks
-  - Technical Excellence
+- Scrum Product Development
+- Software Development
+- Software Developers
+- Professional Scrum
+- Modern Source Control
+- Product Delivery
+- Practical Techniques and Tooling
+- Operational Practices
+- Agile Frameworks
+- Technical Excellence
 preview: metro-visual-studio-2005-128-link-1-1.png
----
 
+---
 There are a lot of developers using version control these days, but a feature of version control called branching is very poorly understood and remains unused by most developers in favour of Labels. Most developers think that branching is hard and complicated. Its not!
 
 What is hard and complicated is a bad branching strategy. Just like a bad software architecture a bad branch architecture, or one that is not adhered to can prove fatal to a project. We I was at Aggreko we had a fairly successful Feature branching strategy (although the developers hated it) that meant that we could have multiple feature teams working at the same time without impacting each other. Now, this had to be carefully orchestrated as it was a Business Intelligence team and many of the BI artefacts do not lend themselves to merging.
