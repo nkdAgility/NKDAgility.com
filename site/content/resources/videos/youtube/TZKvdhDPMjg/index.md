@@ -32,7 +32,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

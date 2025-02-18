@@ -32,7 +32,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **One limitation of reading a book vs attending a course**
