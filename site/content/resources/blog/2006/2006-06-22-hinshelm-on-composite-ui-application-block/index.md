@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
 - Practical Techniques and Tooling
-- Technical Mastery
-- Pragmatic Thinking
 - Software Development
+- Technical Mastery
 - Technical Excellence
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

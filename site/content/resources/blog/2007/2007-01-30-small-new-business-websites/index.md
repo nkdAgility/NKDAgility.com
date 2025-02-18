@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Estimation
 - Software Development
-- Entrepreneurship
 - Troubleshooting
+- Entrepreneurship
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

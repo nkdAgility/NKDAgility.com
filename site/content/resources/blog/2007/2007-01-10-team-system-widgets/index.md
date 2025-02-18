@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Products and Books
 - Practical Techniques and Tooling
-- Miscellaneous
-- Software Development
 - Application Lifecycle Management
+- Software Development
+- Miscellaneous
 categories: []
 
 ---

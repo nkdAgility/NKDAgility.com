@@ -23,34 +23,15 @@ aliasesFor404:
 - /resources/blog/software-development-industrial-revolution
 tags:
 - Pragmatic Thinking
-- Application Lifecycle Management
 - Working Software
 - Software Development
-- Release Management
-- Products and Books
-- People and Process
+- Application Lifecycle Management
 - Product Delivery
 - News and Reviews
-- Software Developers
+- People and Process
 - Team Collaboration
-- Practical Techniques and Tooling
-- Frequent Releases
-- Lead Time
-- Deployment Frequency
-- Sociotechnical Systems
-- Azure DevOps
-- Business Agility
-- Throughput
-- Digital Transformation
-- Decision Making
-- Miscellaneous
-- Market Share
-- Flow Efficiency
-- Operational Practices
-- Collaboration Tools
-- Market Adaptability
-- Technical Excellence
-- Value Delivery
+- Products and Books
+- Release Management
 categories:
 - Engineering Excellence
 - DevOps

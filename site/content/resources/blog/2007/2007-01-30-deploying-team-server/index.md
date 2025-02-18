@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/deploying-team-server
 - /resources/blog/deploying-team-server
 tags:
-- Practical Techniques and Tooling
 - Events and Presentations
 - Software Development
+- Practical Techniques and Tooling
 - Application Lifecycle Management
 - Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png

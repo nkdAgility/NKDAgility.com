@@ -19,7 +19,12 @@ aliasesFor404:
 - /resources/newsletters/january-2023/
 categories:
 - Social Technologies
-tags: []
+tags:
+- Agile Project Management
+- Events and Presentations
+- Agile Frameworks
+- Software Development
+- Agile Transformation
 
 ---
 Welcome to this month's edition of NKDAgility.

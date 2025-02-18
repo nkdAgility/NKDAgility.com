@@ -34,8 +34,8 @@ categories:
 - DevOps
 tags:
 - Practical Techniques and Tooling
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Software Development
 - Troubleshooting
 
