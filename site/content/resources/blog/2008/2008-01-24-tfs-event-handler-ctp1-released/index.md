@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-ctp1-released
 - /resources/blog/tfs-event-handler-ctp1-released
 tags:
-- Frequent Releases
 - Software Development
+- Frequent Releases
 categories: []
 preview: metro-visual-studio-2005-128-link-4-1.png
 

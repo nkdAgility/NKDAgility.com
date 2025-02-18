@@ -22,15 +22,16 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-codeplex-project
 - /resources/blog/tfs-sticky-buddy-codeplex-project
 tags:
-- Practical Techniques and Tooling
-- Team Collaboration
 - Software Development
+- Team Collaboration
+- Practical Techniques and Tooling
 - Collaboration Tools
 - Transparency
 - Operational Practices
 - Application Lifecycle Management
 categories:
 - DevOps
+- Social Technologies
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

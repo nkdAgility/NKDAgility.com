@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /resources/blog/setting-up-sharepoint-for-the-enterprise
 tags:
-- Install and Configuration
 - Deployment Strategies
+- Install and Configuration
 - Technical Mastery
 - System Configuration
 categories: []

@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
 - Software Development
 - Azure DevOps
+- Technical Mastery
 - System Configuration
 categories:
 - Engineering Excellence

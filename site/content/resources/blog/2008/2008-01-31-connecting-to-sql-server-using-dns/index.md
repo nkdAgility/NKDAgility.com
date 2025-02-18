@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Technical Mastery
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: nakedalm-logo-128-link-6-6.png
 
