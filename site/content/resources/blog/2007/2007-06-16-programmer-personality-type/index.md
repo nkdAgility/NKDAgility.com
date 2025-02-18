@@ -27,10 +27,10 @@ tags:
 - Personal
 - Team Performance
 - People and Process
-- Miscellaneous
-- Team Collaboration
 - Organisational Psychology
+- Team Collaboration
 - Team Motivation
+- Miscellaneous
 
 ---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

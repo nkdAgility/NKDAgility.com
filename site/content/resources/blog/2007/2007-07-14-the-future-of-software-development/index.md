@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/the-future-of-software-development
 tags:
 - Software Development
-- Product Delivery
 - People and Process
+- Product Delivery
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Strategy
@@ -32,7 +32,7 @@ tags:
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Product Management
-- DevOps
+- Social Technologies
 - Engineering Excellence
 
 ---

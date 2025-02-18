@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Software Development
 - Troubleshooting
+- Pragmatic Thinking
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories:

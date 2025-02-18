@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/workflow
 tags:
 - Practical Techniques and Tooling
+- Software Development
+- Azure DevOps
 - Technical Mastery
 - Miscellaneous
 - Operational Practices
-- Software Development
-- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

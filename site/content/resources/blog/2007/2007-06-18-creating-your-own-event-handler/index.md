@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/creating-your-own-event-handler
 tags:
 - Practical Techniques and Tooling
-- Technical Mastery
 - Software Development
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
 categories:
 - Engineering Excellence

@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/studying-for-exam-70-536--mcts-application-development-foundation
 - /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
 tags:
-- Personal
 - Windows
+- Personal
 - Products and Books
 - Software Development
 - Technical Mastery

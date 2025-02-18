@@ -27,18 +27,15 @@ aliasesFor404:
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
 - Modern Source Control
-- Practical Techniques and Tooling
-- Products and Books
 - Software Development
+- Products and Books
 - News and Reviews
+- Practical Techniques and Tooling
 - System Configuration
-- Technical Mastery
-- Collaboration Tools
-- Product Delivery
-- Working Software
-- Azure DevOps
-- Software Developers
 - Application Lifecycle Management
+- Collaboration Tools
+- Azure DevOps
+- Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - DevOps

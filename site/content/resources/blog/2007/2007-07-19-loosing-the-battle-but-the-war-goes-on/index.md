@@ -30,19 +30,16 @@ aliasesFor404:
 - /blog/loosing-the-battle--but-the-war-goes-on
 - /resources/blog/loosing-the-battle-but-the-war-goes-on
 tags:
-- People and Process
 - Release Management
-- Practical Techniques and Tooling
-- Modern Source Control
-- Products and Books
+- People and Process
+- Application Lifecycle Management
 - Software Development
 - Software Developers
-- Application Lifecycle Management
+- Modern Source Control
+- Products and Books
+- Practical Techniques and Tooling
 - Collaboration Tools
 - Personal
-- Miscellaneous
-- Sociotechnical Systems
-- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 
