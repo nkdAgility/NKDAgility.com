@@ -24,7 +24,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/nDX_N-dllEQ/maxresdefault.jpg
 duration: 7527
 isShort: false
-tags: []
+tags:
+- Events and Presentations
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.4
