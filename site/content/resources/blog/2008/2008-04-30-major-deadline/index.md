@@ -25,8 +25,8 @@ tags:
 - Software Development
 - Troubleshooting
 - Pragmatic Thinking
-- Technical Mastery
 - Digital Transformation
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-sharepoint-128-link-5-5.png

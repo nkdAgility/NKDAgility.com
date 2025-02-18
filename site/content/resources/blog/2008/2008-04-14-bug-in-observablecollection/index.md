@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Troubleshooting
 categories:
 - Engineering Excellence

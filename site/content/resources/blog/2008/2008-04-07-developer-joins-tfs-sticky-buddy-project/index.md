@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/developer-joins-tfs-sticky-buddy-project
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
 tags:
-- People and Process
 - Software Development
+- People and Process
 - News and Reviews
 - Team Collaboration
 categories: []

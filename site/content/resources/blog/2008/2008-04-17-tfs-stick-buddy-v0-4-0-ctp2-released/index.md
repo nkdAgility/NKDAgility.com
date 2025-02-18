@@ -22,13 +22,13 @@ aliasesFor404:
 - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
 - /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
 tags:
-- Practical Techniques and Tooling
 - Products and Books
 - News and Reviews
+- Practical Techniques and Tooling
 - Frequent Releases
 - Windows
-- Working Software
 - Software Development
+- Working Software
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
