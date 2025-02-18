@@ -82,12 +82,12 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-12T18:08:45",
+    "calculated_at": "2025-02-18T17:41:48",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content mentions an Agile Product Operating Model, which relates to product management methodologies, but lacks depth in discussing strategic alignment or specific product management practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -325,12 +325,12 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T18:09:57",
+    "calculated_at": "2025-02-18T17:41:48",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions Agile, which is a significant aspect of software development methodologies, but does not provide enough detail to classify it as primarily about software development.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -593,15 +593,6 @@
     "reasoning": "Content primarily discusses the Agile Product Operating Model, which is not directly related to Continuous Delivery principles or practices.",
     "level": "Ignored"
   },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "calculated_at": "2025-02-12T18:11:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile Product Operating Model, which does not directly align with the principles and practices of BetaCodex.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-12T18:11:08",
@@ -694,12 +685,12 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T18:11:21",
+    "calculated_at": "2025-02-18T17:41:48",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content mentions 'Agile' and discusses an 'Agile Product Operating Model', which suggests a connection to Agile principles, but does not provide enough detail to classify it as primarily about Agile transformation.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1090,12 +1081,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T18:07:52",
+    "calculated_at": "2025-02-18T17:41:48",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content mentions an Agile Product Operating Model, which relates to product delivery methodologies, but lacks depth in discussing the end-to-end process or specific practices involved in delivering software products.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1320,6 +1311,69 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and does not address psychological principles or theories related to organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T17:41:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content does not discuss leadership practices; it focuses on an Agile product model without addressing leadership roles or strategies.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T17:41:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content title mentions 'Agile', but the description does not provide any details or discussions related to Scrum, Kanban, Lean, or Agile practices. It lacks specific references to the frameworks or methodologies that define the category.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T17:41:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses an Agile Product Operating Model, which does not specifically focus on Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-18T17:41:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile Product Operating Model, which does not directly align with the principles and practices of BetaCodex.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-18T17:41:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Agile Product Operating Model, which is not directly related to the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-18T17:41:57",
+    "ai_confidence": 80,
+    "non_ai_confidence": 40,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the Agile Product Operating Model, providing a description that aligns with the key topics of the category.",
+    "level": "Secondary"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-18T17:41:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile concepts without a direct connection to platform engineering.",
     "level": "Ignored"
   }
 }

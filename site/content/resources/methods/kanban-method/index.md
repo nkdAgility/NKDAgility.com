@@ -21,7 +21,8 @@ card:
   title: Kanban Method
   content: Kanban Method
 categories: []
-tags: []
+tags:
+- Professional Scrum
 
 ---
 Description of Scrum Framework.

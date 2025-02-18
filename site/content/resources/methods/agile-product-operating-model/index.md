@@ -23,8 +23,10 @@ card:
     content: More info
   title: Agile Product Operating Model
   content: Agile Product Operating Model
-categories: []
-tags: []
+categories:
+- Product Management
+tags:
+- Agile Product Operating Model
 
 ---
 Description of Agile Product Operating Model.

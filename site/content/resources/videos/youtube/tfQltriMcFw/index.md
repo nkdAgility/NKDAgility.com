@@ -30,7 +30,9 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
  A collection is videos of Scrum training in Action 

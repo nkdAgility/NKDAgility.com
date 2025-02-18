@@ -30,7 +30,8 @@ sitemap:
 resourceTypes:
 - video
 categories: []
-tags: []
+tags:
+- Events and Presentations
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=gy3SEB3Ygrs)
