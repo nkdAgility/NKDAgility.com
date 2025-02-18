@@ -29,7 +29,9 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Engineering Excellence
+- Social Technologies
 
 ---
  This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 

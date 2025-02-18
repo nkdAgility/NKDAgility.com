@@ -28,7 +28,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and coaching. 

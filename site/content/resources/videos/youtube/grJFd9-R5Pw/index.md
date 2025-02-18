@@ -28,11 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum
 - Agile Project Management
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 How does the APS course help people apply scrum effectively?

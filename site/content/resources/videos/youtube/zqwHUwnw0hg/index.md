@@ -28,12 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
+- Scrum
 - Scrum Master
+- Professional Scrum
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 What will you learn on the professional scrum master course?

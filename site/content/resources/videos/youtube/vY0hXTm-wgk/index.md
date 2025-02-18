@@ -29,7 +29,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  naked Agility Limited is a professional company that offers training, coaching, mentoring, and facilitation to help people and teams evolve, integrate, and continuously improve.

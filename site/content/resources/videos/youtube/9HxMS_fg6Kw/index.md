@@ -36,7 +36,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
+- Social Technologies
 
 ---
 What are some big red flags when hiring an agile consultant?

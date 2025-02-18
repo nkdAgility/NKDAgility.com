@@ -1312,5 +1312,68 @@
     "final_score": 2.0,
     "reasoning": "Content primarily discusses Agile principles and the distinction between complicated and complex work, without a clear focus on software code quality or complexity theory as it relates to coding practices.",
     "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T10:39:38",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses Agile values and principles, with a strong focus on Scrum values and their role in navigating complexity and continuous improvement.",
+    "level": "Secondary"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T10:39:39",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of values and principles in Agile, which relates to leadership in fostering a culture of adaptability and collaboration. However, it primarily focuses on the nature of complex work rather than leadership practices directly.",
+    "level": "Tertiary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-18T10:39:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and values, which align with human-centric and adaptive organisational practices, but it primarily focuses on Agile methodologies rather than the specific principles of BetaCodex.",
+    "level": "Tertiary"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-18T10:39:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile principles and practices, with a focus on Scrum, rather than the One Engineering System framework or its integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T10:39:43",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "The content discusses Scrum values and their role in guiding work within complex environments, making Scrum a primary theme.",
+    "level": "Secondary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-18T10:39:45",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and values, which are relevant to the Agile Product Operating Model, but it primarily focuses on the nature of complex work and the importance of values in Agile rather than explicitly addressing the product-centric approach or value delivery strategies.",
+    "level": "Tertiary"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-18T10:39:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile principles and practices without a direct connection to platform engineering or Internal Developer Platforms.",
+    "level": "Ignored"
   }
 }

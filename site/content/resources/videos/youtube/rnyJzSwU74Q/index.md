@@ -22,14 +22,22 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
 isShort: false
-tags: []
+tags:
+- Agile Project Management
+- Empirical Process Control
+- Agile Philosophy
+- Software Development
+- Value Delivery
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
 
 ---
  Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.

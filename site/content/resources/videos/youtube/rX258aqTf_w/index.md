@@ -30,26 +30,27 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
-- Organisational Agility
-- Technical Leadership
-- Agile Transformation
 - Agile Strategy
+- Agile Transformation
+- Technical Leadership
+- Organisational Agility
 - Software Development
 - Pragmatic Thinking
 - Agile Leadership
 - Organisational Change
 - Value Delivery
 - Business Agility
-- Enterprise Agility
 - Agile Frameworks
+- Enterprise Agility
 - Decision Making
 - Organisational Culture
-- Sociotechnical Systems
 - Organisational Physics
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
-- Product Management
+- Leadership
+- Social Technologies
 
 ---
 In what circumstances is agile consulting appropriate?

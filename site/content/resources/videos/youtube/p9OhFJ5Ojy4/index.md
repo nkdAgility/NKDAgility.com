@@ -29,7 +29,9 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
+- Social Technologies
 
 ---
  There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can’t install it. There is no end state, no optimal outcome, No best practices. We are no longer factory workers.

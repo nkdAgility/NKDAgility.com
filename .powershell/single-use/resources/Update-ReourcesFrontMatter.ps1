@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources"
+$outputDir = ".\site\content\resources\videos"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
@@ -65,6 +65,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         $runBatchCheck = $false
     }
     $ActivityText = "Processing [Q1:$($Counter)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
+    Write-InformationLog $ActivityText 
     if ((($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) -and $batchCheckCount -le $hugoMarkdownBatchQueue.Count) -or $hugoMarkdownQueue.Count -eq 0) {
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
         $batchCheckCount++

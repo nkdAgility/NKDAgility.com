@@ -29,7 +29,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.

@@ -35,30 +35,32 @@ tags:
 - Agile Leadership
 - Market Adaptability
 - Business Agility
-- Agile Frameworks
-- Agile Transformation
-- Resilience and Change
-- Change Management
-- Complexity Thinking
-- Agile Strategy
-- Agile Philosophy
-- Software Development
-- Pragmatic Thinking
 - Enterprise Agility
+- Pragmatic Thinking
+- Resilience and Change
+- Agile Philosophy
+- Agile Transformation
+- Agile Frameworks
+- Agile Strategy
+- Software Development
+- Complexity Thinking
+- Change Management
 - Organisational Culture
 - Sociotechnical Systems
 - Organisational Physics
 - Sensemaking
 - Agile Values and Principles
 - Scaling Agility
-- Value Delivery
 - Continuous Learning
 - Self Organisation
+- Value Delivery
 - Strategy
+- Beta Codex
 resourceTypes:
 - video
 categories:
-- Product Management
+- Leadership
+- Social Technologies
 
 ---
 What would be an example of a great agile consulting outcome for a client?
