@@ -29,6 +29,7 @@ tags:
 - Organisational Change
 categories:
 - Leadership
+- Scrum
 - Social Technologies
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 

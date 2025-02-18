@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
-- Scrum
 - Product Owner
 - Professional Scrum
 - Agile Frameworks
@@ -43,6 +42,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 - Product Management
 

@@ -30,11 +30,11 @@ categories:
 - Engineering Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
-- Business Agility
-- Deployment Frequency
-- Frequent Releases
-- Market Adaptability
 - Events and Presentations
+- Frequent Releases
+- Deployment Frequency
+- Business Agility
+- Market Adaptability
 - Software Development
 - Pragmatic Thinking
 - Organisational Agility
@@ -42,18 +42,18 @@ tags:
 - Continuous Learning
 - Product Delivery
 - Operational Practices
-- Discovery and Learning
-- Value Delivery
-- People and Process
 - News and Reviews
-- Trend Analysis
-- Technical Excellence
-- Release Management
-- Sociotechnical Systems
+- Value Delivery
+- Discovery and Learning
+- People and Process
 - Digital Transformation
-- Working Software
+- Sociotechnical Systems
+- Technical Excellence
+- Trend Analysis
 - Software Developers
 - Agile Transformation
+- Release Management
+- Working Software
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

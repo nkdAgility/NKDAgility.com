@@ -30,7 +30,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Personal
 - Scrum Master
 - Agile Frameworks
@@ -43,6 +42,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

@@ -52,8 +52,8 @@ resourceTypes:
 - video
 layout: video
 categories:
-- DevOps
 - Leadership
+- DevOps
 - Product Management
 - Social Technologies
 

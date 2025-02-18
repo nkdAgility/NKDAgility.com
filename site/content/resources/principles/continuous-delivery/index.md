@@ -21,9 +21,9 @@ card:
   title: Continuous Delivery
 categories:
 - Product Management
+- Engineering Excellence
 - DevOps
 - Social Technologies
-- Engineering Excellence
 tags:
 - Continuous Delivery
 - Value Delivery

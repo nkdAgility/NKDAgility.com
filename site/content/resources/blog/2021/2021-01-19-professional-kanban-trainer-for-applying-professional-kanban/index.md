@@ -24,11 +24,11 @@ aliasesFor404:
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
 - Kanban
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 - Agile Frameworks
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Operational Practices
 categories:
 - Social Technologies

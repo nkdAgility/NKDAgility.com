@@ -22,9 +22,9 @@ aliasesFor404:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
-- Evidence Based Management
 - Metrics and Learning
 - Evidence Based Leadership
+- Evidence Based Management
 categories:
 - Product Management
 - Engineering Excellence

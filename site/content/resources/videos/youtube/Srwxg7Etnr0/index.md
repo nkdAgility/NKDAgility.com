@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Scrum Product Development
 - People and Process
 - Scrum Team
@@ -45,6 +44,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

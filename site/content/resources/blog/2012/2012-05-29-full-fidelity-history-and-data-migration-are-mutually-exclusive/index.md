@@ -23,12 +23,12 @@ aliasesFor404:
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
-- Decision Making
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Azure DevOps
+- Technical Mastery
+- Pragmatic Thinking
+- Decision Making
 categories:
 - Engineering Excellence
 - DevOps

@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Software Development
-- Azure DevOps
 - Azure Repos
+- Azure DevOps
 categories:
 - Engineering Excellence
 - DevOps

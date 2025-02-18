@@ -29,17 +29,17 @@ tags:
 - Software Development
 - People and Process
 - Products and Books
-- Practical Techniques and Tooling
 - Events and Presentations
-- Working Software
 - Application Lifecycle Management
 - Value Delivery
-- Product Delivery
+- Working Software
+- Practical Techniques and Tooling
 - Azure DevOps
+- Product Delivery
 - Strategy
 - Pragmatic Thinking
-- Software Developers
 - Agile Strategy
+- Software Developers
 - Digital Transformation
 - Operational Practices
 categories:

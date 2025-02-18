@@ -22,36 +22,36 @@ aliasesFor404:
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 categories:
+- Scrum
 - Social Technologies
 preview: class-colage-2-8-8.jpg
 tags:
 - Team Collaboration
 - People and Process
-- Scrum
 - Agile Values and Principles
-- Discovery and Learning
-- Scrum Product Development
-- Scrum Team
-- Events and Presentations
-- Scrum Values
 - Professional Scrum
+- Scrum Product Development
+- Events and Presentations
+- Discovery and Learning
 - Collaboration Tools
-- Remote Working
-- Self Organisation
-- Practical Techniques and Tooling
-- Agile Frameworks
+- Scrum Team
+- Scrum Values
 - Agile Project Management
+- Practical Techniques and Tooling
+- Agile Transformation
 - Products and Books
 - Team Motivation
-- Agile Transformation
+- Agile Frameworks
 - Agile Leadership
+- Self Organisation
+- Remote Working
 - Team Performance
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Psychological Safety
 - Organisational Agility
 - Accountability
-- Sociotechnical Systems
 - Software Development
-- Psychological Safety
-- Pragmatic Thinking
 - Agile Philosophy
 - Working Agreements
 - Scrum Master

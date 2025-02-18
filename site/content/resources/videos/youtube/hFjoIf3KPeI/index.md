@@ -31,7 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Team Motivation
-- Scrum
 - People and Process
 - Scrum Product Development
 - Scrum Team
@@ -56,6 +55,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 - Leadership
 

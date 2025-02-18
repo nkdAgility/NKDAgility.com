@@ -18,6 +18,7 @@ aliasesFor404:
 - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
 - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 tags:

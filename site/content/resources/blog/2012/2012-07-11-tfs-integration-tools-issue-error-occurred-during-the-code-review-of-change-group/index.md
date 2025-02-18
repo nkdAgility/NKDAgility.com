@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Engineering Excellence
 - DevOps

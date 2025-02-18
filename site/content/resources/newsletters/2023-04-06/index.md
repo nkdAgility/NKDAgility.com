@@ -17,21 +17,21 @@ aliasesFor404:
 - /newsletters/april-2023-nkdagility-applying-professional-scrum/
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 categories:
+- Scrum
 - Social Technologies
 tags:
-- Scrum
 - Professional Scrum
 - Scrum Product Development
 - Agile Product Management
-- Agile Project Management
-- Agile Transformation
-- Transparency and Accountability
+- Agile Frameworks
 - Events and Presentations
 - People and Process
-- Agile Frameworks
+- Agile Project Management
+- Transparency and Accountability
+- Agile Transformation
+- Software Development
 - Empirical Process Control
 - Pragmatic Thinking
-- Software Development
 - Organisational Agility
 - Products and Books
 - News and Reviews

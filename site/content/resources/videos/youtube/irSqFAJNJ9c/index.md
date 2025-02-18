@@ -28,22 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Transparency
-- Scrum Product Development
 - Agile Product Management
+- Scrum Product Development
 - Agile Project Management
-- People and Process
 - Scrum Team
+- People and Process
 - Product Owner
+- Software Development
 - Team Collaboration
 - Team Performance
-- Software Development
 - Agile Frameworks
 - Organisational Culture
 - Professional Scrum
-- Scrum Master
 - Software Developers
+- Scrum Master
 - Team Motivation
 - Agile Transformation
 - Sociotechnical Systems
@@ -51,6 +50,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

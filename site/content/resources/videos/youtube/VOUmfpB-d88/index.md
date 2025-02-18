@@ -28,17 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Mentoring
 - People and Process
 - Discovery and Learning
 - Continuous Learning
 - Value Delivery
 - Agile Philosophy
-- Agile Transformation
-- Agile Frameworks
 - Coaching
+- Agile Frameworks
 - Team Collaboration
+- Agile Transformation
 - Agile Project Management
 - Pragmatic Thinking
 - Scrum Product Development
@@ -53,6 +52,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

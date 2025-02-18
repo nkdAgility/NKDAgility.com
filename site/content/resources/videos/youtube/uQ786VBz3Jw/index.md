@@ -23,26 +23,25 @@ duration: 246
 isShort: false
 tags:
 - Transparency
-- Scrum
 - Agile Planning Tools
 - Transparency and Accountability
 - Agile Product Management
 - People and Process
-- Agile Planning
 - Product Owner
-- Scrum Product Development
+- Agile Planning
 - Team Performance
-- Team Collaboration
 - Agile Project Management
+- Scrum Product Development
+- Scrum Team
 - Product Delivery
 - Agile Transformation
 - Agile Frameworks
-- Scrum Team
-- Pragmatic Thinking
-- Professional Scrum
+- Team Collaboration
 - Software Developers
 - Scrum Master
 - Software Development
+- Pragmatic Thinking
+- Professional Scrum
 - Strategy
 sitemap:
   filename: sitemap.xml
@@ -51,6 +50,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 

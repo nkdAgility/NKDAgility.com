@@ -29,6 +29,7 @@ tags:
 - Organisational Change
 categories:
 - Leadership
+- Scrum
 - Social Technologies
 - DevOps
 - Product Management

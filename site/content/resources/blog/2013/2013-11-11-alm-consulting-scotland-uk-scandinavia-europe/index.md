@@ -32,13 +32,13 @@ aliasesFor404:
 tags:
 - Coaching
 - Application Lifecycle Management
-- People and Process
 - Software Development
+- People and Process
 - Product Delivery
 - Practical Techniques and Tooling
-- Operational Practices
-- Pragmatic Thinking
 - Technical Excellence
+- Pragmatic Thinking
+- Operational Practices
 - Agile Project Management
 - Deployment Strategies
 - Software Developers

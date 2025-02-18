@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false
 tags:
-- Scrum
 - Transparency
 - Professional Scrum
 - Agile Project Management
@@ -44,6 +43,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

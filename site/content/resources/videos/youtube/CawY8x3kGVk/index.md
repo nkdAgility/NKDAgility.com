@@ -28,14 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Scrum Team
+- Professional Scrum
 - Agile Product Management
 - Agile Project Management
 - People and Process
-- Technical Leadership
 - Software Developers
-- Professional Scrum
+- Technical Leadership
 - Pragmatic Thinking
 - Software Development
 - Self Organisation
@@ -50,6 +49,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

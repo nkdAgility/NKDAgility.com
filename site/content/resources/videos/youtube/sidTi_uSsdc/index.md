@@ -29,13 +29,13 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - People and Process
-- Scrum
 - Team Motivation
 - Agile Philosophy
 resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 **Discipline versus motivation?**

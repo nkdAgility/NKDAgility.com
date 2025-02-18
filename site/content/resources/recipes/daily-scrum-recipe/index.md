@@ -39,9 +39,9 @@ card:
   content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
   title: Daily Scrum Recipe
 categories:
+- Scrum
 - Social Technologies
 tags:
-- Scrum
 - Scrum Product Development
 - Daily Scrum
 - Professional Scrum

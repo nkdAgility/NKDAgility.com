@@ -25,37 +25,37 @@ tags:
 - Operational Practices
 - Acceptance Test Driven Development
 - Definition of Done
-- Software Development
-- Software Developers
-- Value Delivery
 - Product Delivery
+- Value Delivery
+- Software Developers
+- Software Development
 - Working Software
 - Metrics and Learning
 - Continuous Delivery
-- Practical Techniques and Tooling
 - People and Process
 - Evidence Based Management
-- Agile Project Management
+- Practical Techniques and Tooling
+- Pragmatic Thinking
 - Engineering Practices
 - Technical Excellence
-- Pragmatic Thinking
 - Application Lifecycle Management
+- Agile Project Management
 - Forecasting
-- Product Backlog
 - Scrum Product Development
+- Product Backlog
+- Test Automation
+- Agile Product Management
+- Deployment Frequency
 - Automated Testing
 - Empirical Process Control
-- Deployment Frequency
 - Evidence Based Leadership
-- Agile Product Management
 - Team Performance
-- Test Automation
-- Sociotechnical Systems
-- Continuous Integration
 - Strategy
-- Azure Pipelines
 - Release Management
+- Continuous Integration
+- Sociotechnical Systems
 - Increment
+- Azure Pipelines
 categories:
 - Engineering Excellence
 - DevOps

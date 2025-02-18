@@ -7,8 +7,9 @@ ResourceType: podcast
 date: 2023-04-01
 categories:
 - DevOps
-- Social Technologies
+- Scrum
 - Leadership
+- Social Technologies
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

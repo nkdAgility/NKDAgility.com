@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: true
 tags:
-- Scrum
 - Events and Presentations
 - Agile Frameworks
 - Agile Project Management
@@ -35,6 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

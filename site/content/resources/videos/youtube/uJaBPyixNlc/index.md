@@ -32,7 +32,6 @@ sitemap:
 tags:
 - People and Process
 - Coaching
-- Scrum
 - Pragmatic Thinking
 - Agile Project Management
 - Software Development
@@ -43,6 +42,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

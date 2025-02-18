@@ -21,7 +21,6 @@ preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: false
 tags:
-- Scrum
 - Agile Project Management
 - Scrum Product Development
 - Software Development
@@ -33,6 +32,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

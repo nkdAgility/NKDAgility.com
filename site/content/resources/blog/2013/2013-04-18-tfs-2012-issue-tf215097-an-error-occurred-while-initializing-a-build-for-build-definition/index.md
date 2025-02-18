@@ -29,12 +29,12 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Windows
-- Continuous Integration
 - Software Development
 - Azure DevOps
 - Technical Excellence
-- System Configuration
+- Continuous Integration
 - Troubleshooting
+- System Configuration
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-3-3.png

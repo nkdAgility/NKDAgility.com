@@ -29,11 +29,11 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
-- Pragmatic Thinking
 - Software Development
 - Azure DevOps
+- Technical Mastery
 - System Configuration
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

@@ -28,29 +28,29 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Scrum
 - Transparency and Accountability
+- Scrum Product Development
 - Scrum Team
 - People and Process
-- Scrum Product Development
-- Scrum Master
 - Agile Product Management
+- Scrum Master
+- Team Collaboration
 - Team Performance
 - Professional Scrum
-- Team Collaboration
 - Software Developers
-- Software Development
 - Pragmatic Thinking
-- Empirical Process Control
 - Agile Project Management
+- Software Development
 - Agile Transformation
 - Agile Frameworks
+- Empirical Process Control
 - Scrum Values
 - Agile Planning
 resourceTypes:
 - video
 layout: video
 categories:
+- Scrum
 - Social Technologies
 
 ---

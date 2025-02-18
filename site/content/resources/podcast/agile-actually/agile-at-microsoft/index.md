@@ -6,6 +6,7 @@ ResourceImport: false
 ResourceType: podcast
 date: 2024-04-25
 categories:
+- Scrum
 - Social Technologies
 - Leadership
 author: MrHinsh

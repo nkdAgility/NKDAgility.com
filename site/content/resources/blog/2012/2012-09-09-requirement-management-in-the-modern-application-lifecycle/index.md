@@ -26,17 +26,17 @@ aliasesFor404:
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
+- Application Lifecycle Management
 - Agile Project Management
 - Agile Planning Tools
-- Application Lifecycle Management
-- Product Delivery
-- Agile Planning
-- Practical Techniques and Tooling
-- Products and Books
 - Software Development
-- Pragmatic Thinking
+- Agile Planning
+- Products and Books
+- Product Delivery
+- Practical Techniques and Tooling
 - Azure DevOps
 - Technical Excellence
+- Pragmatic Thinking
 - Cycle Time
 categories:
 - Product Management

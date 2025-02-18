@@ -30,7 +30,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Events and Presentations
 - Sprint Review
 - Agile Product Management
@@ -39,21 +38,22 @@ tags:
 - Agile Project Management
 - People and Process
 - Professional Scrum
-- Pragmatic Thinking
+- Scrum Master
 - Software Development
 - Agile Frameworks
-- Scrum Master
+- Pragmatic Thinking
 - Practical Techniques and Tooling
-- Team Performance
 - Team Collaboration
 - Customer Feedback Loops
 - Scrum Team
+- Team Performance
+- Value Delivery
 - Agile Planning
 - Working Software
-- Value Delivery
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

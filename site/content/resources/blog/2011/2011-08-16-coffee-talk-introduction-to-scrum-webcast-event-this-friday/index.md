@@ -26,20 +26,21 @@ aliasesFor404:
 - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 tags:
-- Scrum
 - People and Process
 - Scrum Product Development
 - Professional Scrum
 - Agile Frameworks
-- Agile Project Management
-- Agile Transformation
 - Events and Presentations
-- Scrum Team
-- Agile Product Management
 - Software Development
-- Product Delivery
+- Agile Project Management
+- Agile Product Management
+- Scrum Team
+- Agile Transformation
 - Software Developers
-categories: []
+- Product Delivery
+categories:
+- Scrum
+- Social Technologies
 preview: metro-event-128-link-2-2.png
 
 ---

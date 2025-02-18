@@ -25,9 +25,9 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- Application Lifecycle Management
 - Software Development
 - Azure DevOps
-- Application Lifecycle Management
 - Troubleshooting
 - Technical Mastery
 - Pragmatic Thinking

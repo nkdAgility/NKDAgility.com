@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
+- Practical Techniques and Tooling
 - System Configuration
 - Troubleshooting
 categories:

@@ -25,13 +25,13 @@ tags:
 - Pragmatic Thinking
 - Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
-- Operational Practices
 - Software Development
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
-- System Configuration
 - Troubleshooting
+- System Configuration
+- Operational Practices
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png

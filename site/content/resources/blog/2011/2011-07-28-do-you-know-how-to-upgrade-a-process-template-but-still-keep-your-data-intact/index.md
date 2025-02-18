@@ -28,12 +28,12 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Operational Practices
-- Pragmatic Thinking
 - Software Development
 - Azure DevOps
-- System Configuration
 - Troubleshooting
+- System Configuration
+- Pragmatic Thinking
+- Operational Practices
 - Technical Mastery
 categories:
 - Engineering Excellence

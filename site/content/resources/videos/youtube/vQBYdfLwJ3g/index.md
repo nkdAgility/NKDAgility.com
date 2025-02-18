@@ -31,13 +31,12 @@ tags:
 - Events and Presentations
 - Continuous Learning
 - Agile Project Management
-- Pragmatic Thinking
-- Team Collaboration
 - Organisational Agility
-- Scrum
+- Team Collaboration
+- Pragmatic Thinking
 - Agile Leadership
-- Agile Strategy
 - Agile Transformation
+- Agile Strategy
 - Value Delivery
 - Sociotechnical Systems
 sitemap:
@@ -49,6 +48,7 @@ resourceTypes:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 
 ---
 As I reflect on the immersive learning experience of the Product Owner (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 

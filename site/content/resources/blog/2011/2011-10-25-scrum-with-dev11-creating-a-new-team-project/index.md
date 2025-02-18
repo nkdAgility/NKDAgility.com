@@ -26,13 +26,14 @@ aliasesFor404:
 - /blog/scrum-with-visual-studio-11---creating-a-new-team-project
 - /resources/blog/scrum-with-dev11-creating-a-new-team-project
 tags:
-- Scrum
 - Agile Project Management
 - Practical Techniques and Tooling
+- Asynchronous Development
 - Agile Frameworks
 - Software Development
-- Asynchronous Development
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 Creating a Team Project in the cloud could be daunting, but it is very simple. Just fire up your web browser and you can be up an running asynchronously in no time.

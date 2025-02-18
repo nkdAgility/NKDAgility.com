@@ -29,8 +29,8 @@ tags:
 - Events and Presentations
 - Organisational Agility
 categories:
-- Social Technologies
 - Leadership
+- Social Technologies
 preview: 2020-03-27_21-36-13-1-1.jpg
 
 ---

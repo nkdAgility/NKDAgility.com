@@ -23,9 +23,9 @@ card:
   content: Discover more about Definition of Ready (DoR) and how it can help you in your Agile journey!
   title: Definition of Ready (DoR)
 categories:
+- Scrum
 - Social Technologies
 tags:
-- Scrum
 - Definition of Ready
 - Product Backlog
 - Scrum Product Development

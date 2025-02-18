@@ -25,7 +25,6 @@ duration: 376
 isShort: false
 tags:
 - Coaching
-- Scrum
 - Agile Frameworks
 - Agile Strategy
 - People and Process
@@ -44,6 +43,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

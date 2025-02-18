@@ -17,9 +17,9 @@ aliasesFor404:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
+- Scrum
 - Social Technologies
 tags:
-- Scrum
 - Professional Scrum
 - Continuous Learning
 - People and Process

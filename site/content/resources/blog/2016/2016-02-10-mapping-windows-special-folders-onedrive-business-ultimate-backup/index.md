@@ -30,8 +30,8 @@ aliasesFor404:
 tags:
 - Windows
 - Practical Techniques and Tooling
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 categories: []
 preview: clip_image001-1-1.png
 

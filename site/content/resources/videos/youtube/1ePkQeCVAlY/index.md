@@ -46,8 +46,8 @@ resourceTypes:
 layout: video
 categories:
 - Engineering Excellence
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

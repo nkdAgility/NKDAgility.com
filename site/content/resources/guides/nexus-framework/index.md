@@ -36,10 +36,10 @@ card:
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
 categories:
+- Scrum
 - Social Technologies
 tags:
 - Scaling Scrum
-- Scrum
 - Scaled Agile
 - Scrum Product Development
 - Large Scale Agility

@@ -41,9 +41,10 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
-- Engineering Excellence
+- Scrum
 - Leadership
+- Engineering Excellence
+- Social Technologies
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

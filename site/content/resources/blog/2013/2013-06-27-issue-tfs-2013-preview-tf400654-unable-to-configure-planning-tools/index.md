@@ -33,6 +33,7 @@ tags:
 - Azure DevOps
 - System Configuration
 categories:
+- Scrum
 - Social Technologies
 - DevOps
 preview: puzzle-issue-problem-128-link-2-2.png

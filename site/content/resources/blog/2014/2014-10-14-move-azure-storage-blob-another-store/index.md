@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - System Configuration
 categories: []
 preview: nakedalm-windows-logo-4-4.png

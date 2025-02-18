@@ -29,12 +29,12 @@ tags:
 - Technical Mastery
 - Practical Techniques and Tooling
 - Install and Configuration
-- Operational Practices
-- Pragmatic Thinking
 - Software Development
 - Azure DevOps
-- System Configuration
 - Troubleshooting
+- System Configuration
+- Pragmatic Thinking
+- Operational Practices
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-5-5.png

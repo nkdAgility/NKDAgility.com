@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
 tags:
-- Scrum
 - Events and Presentations
 - People and Process
 - Software Development
@@ -36,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Scrum
 - Social Technologies
 
 ---

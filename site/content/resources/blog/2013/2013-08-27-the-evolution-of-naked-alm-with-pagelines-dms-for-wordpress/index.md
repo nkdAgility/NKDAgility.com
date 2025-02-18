@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 - System Configuration
 - Technical Mastery
 categories: []

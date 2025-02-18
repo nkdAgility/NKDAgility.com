@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/heat-itsm
 - /resources/blog/heat-itsm
 tags:
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
 categories:

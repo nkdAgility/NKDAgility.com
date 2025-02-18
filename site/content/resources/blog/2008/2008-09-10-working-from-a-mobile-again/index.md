@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/working-from-a-mobile-again
 tags:
 - Working Software
-- Miscellaneous
 - Software Development
+- Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

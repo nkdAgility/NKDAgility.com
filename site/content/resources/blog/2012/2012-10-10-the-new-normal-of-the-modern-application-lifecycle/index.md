@@ -24,20 +24,20 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - People and Process
-- Business Agility
-- Software Developers
 - Software Development
+- Software Developers
+- Business Agility
+- Events and Presentations
+- Organisational Agility
 - News and Reviews
 - Market Adaptability
-- Organisational Agility
-- Events and Presentations
 - Digital Transformation
 - Sociotechnical Systems
 - Resilience and Change
-- Product Delivery
+- Agile Transformation
 - Frequent Releases
 - Value Delivery
-- Agile Transformation
+- Product Delivery
 - Pragmatic Thinking
 categories:
 - DevOps

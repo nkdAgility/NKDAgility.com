@@ -28,7 +28,9 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
+- Scrum
 - Engineering Excellence
+- Social Technologies
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

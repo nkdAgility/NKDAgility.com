@@ -30,43 +30,43 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Team
-- Customer Feedback Loops
-- Sprint Review
 - Product Owner
 - Scrum Product Development
+- Scrum Team
+- Sprint Review
+- Customer Feedback Loops
+- Pragmatic Thinking
 - Product Delivery
-- People and Process
 - Agile Product Management
 - Scrum Master
+- People and Process
 - Professional Scrum
-- Pragmatic Thinking
+- Empirical Process Control
 - Software Developers
-- Agile Planning
 - Software Development
-- Agile Transformation
+- Value Delivery
 - Decision Making
 - Agile Frameworks
-- Empirical Process Control
-- Strategy
 - Agile Project Management
-- Value Delivery
+- Agile Planning
+- Strategy
+- Agile Transformation
 - Agile Strategy
-- Discovery and Learning
-- Team Collaboration
-- Product Validation
-- Team Performance
 - Customer Satisfaction
+- Team Collaboration
+- Discovery and Learning
+- Team Performance
+- Product Validation
 - Agile Philosophy
-- Organisational Agility
 - Decision Theory
-- Sensemaking
 - Working Software
+- Sensemaking
+- Organisational Agility
 - Increment
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 - Product Management
 

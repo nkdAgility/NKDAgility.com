@@ -26,11 +26,11 @@ aliasesFor404:
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
-- Install and Configuration
 - News and Reviews
-- Practical Techniques and Tooling
-- Products and Books
+- Install and Configuration
 - Software Development
+- Products and Books
+- Practical Techniques and Tooling
 - System Configuration
 - Release Management
 - Technical Mastery

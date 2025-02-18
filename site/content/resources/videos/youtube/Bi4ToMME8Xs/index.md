@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
 tags:
-- Scrum
 - Professional Scrum
 - Scrum Master
 - Continuous Learning

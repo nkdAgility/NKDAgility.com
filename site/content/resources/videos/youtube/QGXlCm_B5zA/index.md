@@ -26,7 +26,6 @@ tags:
 - People and Process
 - Software Development
 - Agile Project Management
-- Scrum
 - Scrum Master
 sitemap:
   filename: sitemap.xml
@@ -36,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
  The #PSM II or #professionalscrummaster course from Scrum.Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.

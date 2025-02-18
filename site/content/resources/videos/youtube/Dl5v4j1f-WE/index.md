@@ -34,13 +34,13 @@ tags:
 - People and Process
 - Transparency and Accountability
 - Personal
-- Scrum
 - Agile Values and Principles
 - Scrum Values
 resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

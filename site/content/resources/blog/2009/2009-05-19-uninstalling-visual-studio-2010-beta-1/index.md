@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/uninstalling-visual-studio-2010-beta-1
 tags:
 - Install and Configuration
-- Miscellaneous
 - Troubleshooting
+- Miscellaneous
 - Windows
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png

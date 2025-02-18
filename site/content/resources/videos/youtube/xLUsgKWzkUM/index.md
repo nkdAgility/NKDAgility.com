@@ -26,7 +26,6 @@ tags:
 - Product Owner
 - Scrum Product Development
 - Agile Product Management
-- Scrum
 - Agile Project Management
 - Value Delivery
 sitemap:
@@ -37,6 +36,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Scrum
 
 ---
 As a Product Owner, I often find myself reflecting on the immense responsibility that comes with the role. It’s not just about managing a backlog or prioritising tasks; it’s about being accountable for spending the money wisely. This accountability is a cornerstone of effective product ownership, and it’s something I take very seriously.

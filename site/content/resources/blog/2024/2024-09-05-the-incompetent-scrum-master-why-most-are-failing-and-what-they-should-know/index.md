@@ -38,9 +38,10 @@ tags:
 - Team Performance
 - People and Process
 categories:
+- Scrum
 - Engineering Excellence
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

@@ -26,30 +26,30 @@ aliasesFor404:
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
-- Scrum
 - Transparency
 - Increment
 - Scrum Product Development
 - Definition of Done
-- Agile Project Management
-- Agile Product Management
 - Scrum Team
-- Value Delivery
-- Software Development
+- Agile Product Management
+- Agile Project Management
 - Professional Scrum
-- Scrum Master
-- People and Process
 - Product Delivery
+- People and Process
+- Scrum Master
 - Team Performance
-- Agile Planning
+- Software Development
+- Value Delivery
 - Empirical Process Control
-- Pragmatic Thinking
 - Working Software
 - Software Developers
-- Agile Frameworks
+- Agile Planning
 - Agile Transformation
+- Pragmatic Thinking
+- Agile Frameworks
 - Operational Practices
 categories:
+- Scrum
 - Engineering Excellence
 - Social Technologies
 preview: 20190906_152025-2-2.gif

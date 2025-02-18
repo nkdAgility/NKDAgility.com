@@ -25,14 +25,14 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Technical Mastery
-- Operational Practices
-- Continuous Integration
 - Software Development
 - Azure DevOps
+- Technical Mastery
+- Continuous Integration
 - Troubleshooting
-- Azure Pipelines
+- Operational Practices
 - Application Lifecycle Management
+- Azure Pipelines
 preview: metro-SSWLogo-128-link-6-6.png
 categories:
 - DevOps

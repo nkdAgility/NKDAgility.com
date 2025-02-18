@@ -22,7 +22,6 @@ preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Scrum
 - People and Process
 - Agile Frameworks
 - Software Development
@@ -37,6 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

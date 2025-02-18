@@ -28,21 +28,21 @@ aliasesFor404:
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
 tags:
-- Mentoring
 - Coaching
+- Mentoring
 - Application Lifecycle Management
-- Agile Project Management
 - Agile Planning
+- Agile Project Management
 - Agile Transformation
 - Agile Frameworks
-- People and Process
-- Agile Leadership
-- Agile Strategy
 - Practical Techniques and Tooling
+- People and Process
+- Agile Strategy
+- Agile Leadership
 - Business Agility
-- Operational Practices
 - Personal
 - Organisational Agility
+- Operational Practices
 - Software Developers
 - Pragmatic Thinking
 categories:

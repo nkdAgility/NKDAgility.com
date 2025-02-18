@@ -44,8 +44,8 @@ resourceTypes:
 categories:
 - DevOps
 - Product Management
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

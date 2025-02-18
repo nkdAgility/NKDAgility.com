@@ -23,7 +23,6 @@ duration: 237
 isShort: false
 tags:
 - Accountability
-- Scrum
 - People and Process
 - Scrum Team
 - Scrum Master
@@ -48,6 +47,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 - Leadership
 

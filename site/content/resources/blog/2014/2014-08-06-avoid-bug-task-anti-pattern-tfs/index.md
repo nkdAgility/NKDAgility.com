@@ -28,25 +28,25 @@ aliasesFor404:
 - /resources/blog/
 tags:
 - People and Process
-- Product Delivery
-- Azure DevOps
-- Software Development
-- Agile Product Management
-- Test First Development
 - Product Owner
+- Product Delivery
+- Agile Product Management
+- Azure DevOps
+- Test First Development
+- Software Development
 - Practical Techniques and Tooling
-- Technical Mastery
-- Software Developers
-- Azure Boards
-- Technical Excellence
-- Agile Transformation
 - Agile Planning
+- Technical Mastery
+- Technical Excellence
+- Azure Boards
 - Transparency and Accountability
+- Agile Transformation
 - Agile Project Management
 - Team Performance
-- Transparency
-- Operational Practices
+- Software Developers
 - Pragmatic Thinking
+- Operational Practices
+- Transparency
 - Engineering Practices
 - Working Software
 - Test Driven Development

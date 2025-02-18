@@ -24,6 +24,8 @@ aliasesFor404:
 tags:
 - Install and Configuration
 categories:
+- Scrum
+- Social Technologies
 - DevOps
 preview: metro-sharepoint-128-link-25-25.png
 

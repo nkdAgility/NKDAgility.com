@@ -25,10 +25,10 @@ tags:
 - Troubleshooting
 - Code and Complexity
 - Practical Techniques and Tooling
-- Technical Mastery
-- Pragmatic Thinking
 - Software Development
+- Technical Mastery
 - Technical Excellence
+- Pragmatic Thinking
 - Operational Practices
 categories:
 - Engineering Excellence

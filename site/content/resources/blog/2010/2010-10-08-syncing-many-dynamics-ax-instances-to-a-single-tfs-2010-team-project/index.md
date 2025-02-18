@@ -26,14 +26,14 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Technical Mastery
-- Operational Practices
-- Pragmatic Thinking
+- Application Lifecycle Management
 - Software Development
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
-- Application Lifecycle Management
 - Troubleshooting
+- Pragmatic Thinking
+- Operational Practices
 categories:
 - Engineering Excellence
 

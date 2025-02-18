@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
-- Scrum
 - Professional Scrum
 - Agile Frameworks
 - Software Development
@@ -35,6 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

@@ -26,14 +26,14 @@ aliasesFor404:
 - /blog/professional-scrum-developer-(-net)-training-in-london
 - /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
-- Scrum
 - Scrum Product Development
 - Professional Scrum
 - Software Development
 - Agile Frameworks
 - Events and Presentations
 categories:
-- Engineering Excellence
+- Scrum
+- Social Technologies
 preview: metro-event-128-link-1-1.png
 
 ---

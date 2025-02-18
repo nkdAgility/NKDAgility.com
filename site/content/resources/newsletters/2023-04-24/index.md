@@ -17,12 +17,12 @@ aliasesFor404:
 - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 categories:
+- Scrum
 - Social Technologies
 tags:
 - People and Process
 - Events and Presentations
 - Continuous Learning
-- Scrum
 - Agile Frameworks
 - Software Development
 - Agile Project Management

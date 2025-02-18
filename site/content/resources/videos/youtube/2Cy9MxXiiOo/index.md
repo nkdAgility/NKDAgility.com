@@ -28,13 +28,13 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Product Development
-- Scrum
 - Agile Project Management
 resourceTypes:
 - video
 layout: video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

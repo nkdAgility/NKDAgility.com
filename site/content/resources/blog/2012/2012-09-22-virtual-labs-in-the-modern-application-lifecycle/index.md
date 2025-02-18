@@ -23,23 +23,23 @@ aliasesFor404:
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 tags:
 - Application Lifecycle Management
-- Software Development
-- Platform Engineering
-- Practical Techniques and Tooling
 - Automated Testing
+- Software Development
+- Practical Techniques and Tooling
 - Product Delivery
-- Technical Mastery
-- Technical Excellence
+- Platform Engineering
 - Operational Practices
+- Technical Excellence
 - Software Developers
-- Frequent Releases
+- Technical Mastery
 - Pragmatic Thinking
 - Azure DevOps
+- Frequent Releases
 - Digital Transformation
 - Windows
-- Continuous Delivery
 - Products and Books
 - Test Automation
+- Continuous Delivery
 categories:
 - Engineering Excellence
 - DevOps

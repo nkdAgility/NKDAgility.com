@@ -28,9 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Discovery and Learning
 - Scrum Master
+- Discovery and Learning
 - People and Process
 - Team Collaboration
 - Continuous Learning
@@ -50,6 +49,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

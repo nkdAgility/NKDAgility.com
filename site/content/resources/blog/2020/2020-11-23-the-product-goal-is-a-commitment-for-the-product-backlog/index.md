@@ -22,22 +22,22 @@ aliasesFor404:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
 - /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
 tags:
-- Scrum
+- Scrum Product Development
 - Product Backlog
 - Scrum Team
-- Scrum Product Development
-- Professional Scrum
-- Product Delivery
-- Agile Product Management
 - Product Owner
+- Professional Scrum
+- Agile Product Management
+- Product Delivery
 - Agile Frameworks
-- Agile Project Management
-- Agile Planning
-- Strategy
 - Software Development
-- Value Delivery
+- Agile Planning
 - Strategic Goals
+- Value Delivery
+- Agile Project Management
+- Strategy
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg

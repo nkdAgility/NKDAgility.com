@@ -33,6 +33,7 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
+- Scrum
 - Social Technologies
 
 ---

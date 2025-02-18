@@ -18,10 +18,10 @@ aliasesFor404:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 tags:
-- Scrum
 - Agile Project Management
 - Agile Product Management
 - Professional Scrum

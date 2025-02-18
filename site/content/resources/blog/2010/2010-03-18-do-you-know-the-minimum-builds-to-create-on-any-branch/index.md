@@ -30,14 +30,14 @@ tags:
 - Practical Techniques and Tooling
 - Modern Source Control
 - Technical Excellence
-- Engineering Practices
-- Technical Mastery
-- Software Development
-- Operational Practices
-- Azure DevOps
-- Azure Pipelines
 - Application Lifecycle Management
+- Azure Pipelines
+- Azure DevOps
 - Continuous Integration
+- Software Development
+- Engineering Practices
+- Operational Practices
+- Technical Mastery
 - Continuous Delivery
 - Product Delivery
 - Software Developers

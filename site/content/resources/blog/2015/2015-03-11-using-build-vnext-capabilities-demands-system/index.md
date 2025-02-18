@@ -28,12 +28,12 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- Azure Pipelines
-- Practical Techniques and Tooling
 - Azure DevOps
+- Practical Techniques and Tooling
 - System Configuration
-- Continuous Integration
+- Azure Pipelines
 - Software Development
+- Continuous Integration
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

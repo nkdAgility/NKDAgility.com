@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false
 tags:
-- Scrum
 - Professional Scrum
 - Scaling Scrum
 - Scaled Agile
@@ -41,6 +40,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

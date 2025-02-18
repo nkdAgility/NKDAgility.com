@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Accountability
-- Scrum
 - Product Owner
 - Scrum Product Development
 - Transparency and Accountability
@@ -51,6 +50,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Scrum
 - Product Management
 - Social Technologies
 

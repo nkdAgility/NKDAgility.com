@@ -25,10 +25,10 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - Install and Configuration
-- Pragmatic Thinking
 - Software Development
-- System Configuration
 - Troubleshooting
+- System Configuration
+- Pragmatic Thinking
 - Technical Mastery
 categories:
 - Engineering Excellence

@@ -29,6 +29,7 @@ aliasesFor404:
 tags:
 - Agile Project Management
 categories:
+- Scrum
 - Social Technologies
 preview: nkdagility-cross-sprint-boundary-2-1.png
 

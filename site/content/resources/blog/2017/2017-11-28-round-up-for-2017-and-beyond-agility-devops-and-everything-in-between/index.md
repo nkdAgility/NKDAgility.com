@@ -35,8 +35,8 @@ preview: -1-1.jpg
 tags:
 - Events and Presentations
 - News and Reviews
-- People and Process
 - Software Development
+- People and Process
 - Personal
 
 ---

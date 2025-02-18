@@ -22,47 +22,47 @@ aliasesFor404:
 - /blog/dod-has-made-it-illegal-to-do-waterfall
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
-- Scrum
-- Increment
 - People and Process
-- Resilience and Change
-- Business Agility
-- Empirical Process Control
-- Working Software
-- Software Development
-- Agile Product Operating Model
-- Software Developers
-- Large Scale Agility
-- Enterprise Agility
+- Increment
 - Agile Project Management
+- Enterprise Agility
+- Working Software
+- Business Agility
+- Resilience and Change
+- Empirical Process Control
+- Large Scale Agility
+- Agile Product Operating Model
+- Software Development
 - Scrum Product Development
+- Software Developers
 - Agile Values and Principles
-- Agile Product Management
-- Organisational Agility
-- News and Reviews
-- Value Delivery
-- Pragmatic Thinking
-- Organisational Change
-- Sociotechnical Systems
-- Agile Strategy
-- Frequent Releases
 - Product Delivery
-- Agile Planning
-- Agile Transformation
-- Change Management
-- Practical Techniques and Tooling
-- Agile Frameworks
 - Agile Philosophy
+- Practical Techniques and Tooling
+- Frequent Releases
+- Pragmatic Thinking
+- Agile Transformation
+- Sociotechnical Systems
+- Organisational Agility
+- Value Delivery
+- Organisational Change
+- Change Management
+- Agile Strategy
+- Agile Planning
+- Agile Product Management
+- News and Reviews
+- Agile Frameworks
+- Trend Analysis
+- Strategy
 - Deployment Frequency
 - Market Adaptability
 - Digital Transformation
-- Trend Analysis
 - Operational Practices
-- Strategy
 - Lean Product Development
-- Lean Principles
 - Technical Excellence
+- Lean Principles
 categories:
+- Scrum
 - Social Technologies
 - Engineering Excellence
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg

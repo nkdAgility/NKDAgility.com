@@ -27,7 +27,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - People and Process
 - Agile Product Management
 - Metrics and Learning
@@ -46,6 +45,7 @@ resourceTypes:
 - video
 layout: video
 categories:
+- Scrum
 - Social Technologies
 - Product Management
 

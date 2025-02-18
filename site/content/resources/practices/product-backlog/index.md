@@ -23,6 +23,7 @@ card:
   title: Product Backlog
 categories:
 - Product Management
+- Scrum
 tags:
 - Product Backlog
 

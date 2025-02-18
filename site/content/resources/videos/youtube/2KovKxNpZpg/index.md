@@ -21,7 +21,6 @@ preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- Scrum
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Project Management
@@ -37,6 +36,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

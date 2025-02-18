@@ -29,10 +29,10 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
-- Pragmatic Thinking
 - Software Development
+- Technical Mastery
 - System Configuration
+- Pragmatic Thinking
 - Windows
 categories: []
 preview: metro-problem-icon-3-3.png

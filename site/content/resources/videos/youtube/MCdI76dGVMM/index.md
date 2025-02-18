@@ -30,13 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Scrum Master
 - People and Process
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Scrum
 
 ---
 ## Navigating the Journey to Professionalism in the Agile World

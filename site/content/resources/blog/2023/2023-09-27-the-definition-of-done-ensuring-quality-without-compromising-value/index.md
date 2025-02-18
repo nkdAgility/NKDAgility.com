@@ -27,7 +27,6 @@ aliasesFor404:
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
-- Scrum
 - Transparency
 - Definition of Done
 - Professional Scrum
@@ -44,6 +43,7 @@ tags:
 - Empirical Process Control
 - Pragmatic Thinking
 categories:
+- Scrum
 - Social Technologies
 - Engineering Excellence
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg

@@ -32,7 +32,6 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Scrum
 - Agile Project Management
 - Strategy
 resourceTypes:
@@ -40,6 +39,7 @@ resourceTypes:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

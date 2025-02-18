@@ -30,7 +30,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Agile Values and Principles
 - Scrum Team
 - Scrum Master
@@ -60,6 +59,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 - Leadership
 

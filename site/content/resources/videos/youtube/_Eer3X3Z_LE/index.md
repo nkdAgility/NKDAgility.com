@@ -29,13 +29,11 @@ sitemap:
 tags:
 - Product Backlog
 - Scrum Product Development
-- Scrum
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
-- Social Technologies
+- Scrum
 
 ---
 **What is a product backlog?**

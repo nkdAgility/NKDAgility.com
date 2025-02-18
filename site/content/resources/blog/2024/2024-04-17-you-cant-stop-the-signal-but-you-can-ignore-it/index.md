@@ -29,6 +29,7 @@ aliasesFor404:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 tags:
 - Agile Frameworks

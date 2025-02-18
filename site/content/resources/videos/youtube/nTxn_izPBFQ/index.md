@@ -30,7 +30,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Product Owner
 - Agile Product Management
 - People and Process
@@ -44,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Scrum
 - Product Management
 - Social Technologies
 

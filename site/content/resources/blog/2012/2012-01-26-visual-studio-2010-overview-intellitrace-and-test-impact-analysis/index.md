@@ -29,11 +29,11 @@ aliasesFor404:
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
 - Automated Testing
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Software Development
 - Technical Excellence
-- Application Lifecycle Management
 - Troubleshooting
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png

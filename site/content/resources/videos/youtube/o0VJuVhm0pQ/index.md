@@ -28,37 +28,37 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Empirical Process Control
 - Scrum Product Development
+- Empirical Process Control
 - People and Process
+- Value Delivery
+- Agile Product Management
 - Software Development
 - Product Delivery
-- Agile Product Management
-- Value Delivery
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - Pragmatic Thinking
 - Evidence Based Leadership
-- Ability to Innovate
-- Agile Values and Principles
 - Agile Leadership
 - Customer Satisfaction
 - Working Software
-- Agile Strategy
+- Agile Values and Principles
+- Ability to Innovate
+- Hypothesis Driven Development
 - Organisational Agility
 - Agile Transformation
-- Hypothesis Driven Development
-- Customer Retention
 - Market Adaptability
+- Agile Strategy
+- Customer Retention
 - Metrics and Learning
-- Experimentation
-- Strategy
 - Sociotechnical Systems
+- Experimentation
 - Increment
+- Strategy
 resourceTypes:
 - video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 

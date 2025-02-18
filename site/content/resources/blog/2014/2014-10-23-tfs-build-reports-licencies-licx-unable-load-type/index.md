@@ -28,13 +28,13 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Operational Practices
-- Continuous Integration
-- Pragmatic Thinking
 - Software Development
 - Technical Excellence
-- System Configuration
+- Continuous Integration
 - Troubleshooting
+- System Configuration
+- Pragmatic Thinking
+- Operational Practices
 - Release Management
 categories:
 - DevOps

@@ -24,13 +24,13 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
-- Pragmatic Thinking
 - Software Development
 - Azure DevOps
+- Technical Mastery
 - Software Developers
 - Technical Excellence
 - System Configuration
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

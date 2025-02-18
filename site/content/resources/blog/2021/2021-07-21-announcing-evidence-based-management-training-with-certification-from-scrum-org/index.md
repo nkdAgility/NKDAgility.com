@@ -30,28 +30,28 @@ aliasesFor404:
 tags:
 - Evidence Based Management
 - Evidence Based Leadership
-- People and Process
-- Agile Project Management
-- Ability to Innovate
-- Agile Leadership
-- Events and Presentations
 - Metrics and Learning
-- Value Delivery
-- News and Reviews
-- Products and Books
-- Strategic Goals
+- Agile Project Management
+- Agile Leadership
+- People and Process
+- Ability to Innovate
+- Events and Presentations
 - Agile Frameworks
+- Strategic Goals
 - Agile Strategy
-- Empirical Process Control
-- Pragmatic Thinking
+- News and Reviews
+- Value Delivery
+- Products and Books
 - Strategy
+- Pragmatic Thinking
 - Decision Making
-- Scrum
+- Empirical Process Control
 - Agile Product Management
 - Agile Transformation
 categories:
 - Leadership
 - Social Technologies
+- Scrum
 - Product Management
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 

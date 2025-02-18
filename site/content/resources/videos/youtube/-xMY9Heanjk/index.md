@@ -27,33 +27,32 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - People and Process
 - Empirical Process Control
 - Agile Planning
-- Evidence Based Management
+- Metrics and Learning
 - Discovery and Learning
 - Agile Philosophy
 - Agile Product Management
 - Agile Project Management
 - Team Collaboration
-- Metrics and Learning
+- Evidence Based Management
 - Agile Transformation
 - Customer Feedback Loops
 - Professional Scrum
 - Agile Frameworks
 - Scrum Product Development
-- Evidence Based Leadership
 - Team Performance
+- Evidence Based Leadership
 - Software Development
 - Strategy
 - Pragmatic Thinking
-- Decision Making
-- Experimentation
-- Organisational Agility
-- Software Developers
 - Continuous Learning
 - Value Delivery
+- Decision Making
+- Experimentation
+- Software Developers
+- Organisational Agility
 - Lean Startup
 - Lean Product Development
 - Organisational Physics
@@ -65,6 +64,7 @@ resourceTypes:
 - video
 layout: video
 categories:
+- Scrum
 - Social Technologies
 
 ---

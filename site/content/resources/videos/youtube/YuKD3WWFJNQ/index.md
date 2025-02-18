@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Product Owner
 - Decision Making
 - Sprint Review
@@ -39,13 +38,13 @@ tags:
 - Team Collaboration
 - Agile Philosophy
 - Value Delivery
-- Organisational Culture
+- Agile Transformation
 - Scrum Team
 - Team Performance
 - Employee Engagement
 - Agile Planning
 - Agile Frameworks
-- Agile Transformation
+- Organisational Culture
 - Team Motivation
 - Scrum Product Development
 - Transparency
@@ -64,6 +63,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 

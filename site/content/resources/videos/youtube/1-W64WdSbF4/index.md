@@ -29,27 +29,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Professional Scrum
 - Scrum Product Development
 - Sprint Review
 - Increment
 - People and Process
 - Product Owner
-- Scrum Team
-- Agile Product Management
-- Product Delivery
 - Events and Presentations
 - Scrum Master
 - Agile Project Management
+- Agile Product Management
+- Scrum Team
+- Product Delivery
 - Software Development
-- Team Performance
 - Agile Planning
+- Team Performance
 - Agile Frameworks
 resourceTypes:
 - video
 layout: video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 

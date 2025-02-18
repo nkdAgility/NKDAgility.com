@@ -33,8 +33,8 @@ tags:
 - Install and Configuration
 - Windows
 - Software Development
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - DevOps
 preview: metro-problem-icon-6-6.png

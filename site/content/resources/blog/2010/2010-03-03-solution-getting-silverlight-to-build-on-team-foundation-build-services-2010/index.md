@@ -28,15 +28,15 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - System Configuration
+- Azure DevOps
 - Technical Mastery
-- Operational Practices
+- Technical Excellence
 - Continuous Integration
 - Pragmatic Thinking
-- Azure DevOps
-- Technical Excellence
+- Operational Practices
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png

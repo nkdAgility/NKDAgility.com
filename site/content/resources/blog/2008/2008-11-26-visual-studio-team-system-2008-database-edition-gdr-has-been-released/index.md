@@ -27,10 +27,10 @@ aliasesFor404:
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
 - Products and Books
-- Practical Techniques and Tooling
 - Software Development
-- Install and Configuration
 - News and Reviews
+- Practical Techniques and Tooling
+- Install and Configuration
 - Technical Mastery
 - Technical Excellence
 - Release Management

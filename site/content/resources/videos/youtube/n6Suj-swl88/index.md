@@ -24,7 +24,6 @@ preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false
 tags:
-- Scrum
 - Agile Product Management
 - Agile Project Management
 sitemap:
@@ -34,8 +33,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
-- Social Technologies
+- Scrum
 
 ---
 The Sprint Review: Who Should Lead and Why It Matters

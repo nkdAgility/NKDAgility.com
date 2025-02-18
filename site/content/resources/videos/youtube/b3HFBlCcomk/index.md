@@ -28,27 +28,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Agile Project Management
-- Agile Product Operating Model
 - Agile Product Management
+- Agile Product Operating Model
+- Agile Project Management
 - People and Process
 - Agile Values and Principles
-- Product Delivery
 - Business Agility
 - Agile Strategy
 - Agile Philosophy
+- Product Delivery
+- Organisational Agility
 - Agile Transformation
 - Value Delivery
 - Agile Frameworks
-- Organisational Agility
+- Empirical Process Control
 - Decision Making
 - Software Development
-- Empirical Process Control
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 

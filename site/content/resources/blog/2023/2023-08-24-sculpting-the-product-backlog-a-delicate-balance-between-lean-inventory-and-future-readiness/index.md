@@ -31,6 +31,7 @@ tags:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 preview: image-1.jpg
 
 ---

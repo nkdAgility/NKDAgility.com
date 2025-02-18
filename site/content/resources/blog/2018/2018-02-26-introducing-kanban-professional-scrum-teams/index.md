@@ -27,17 +27,17 @@ aliasesFor404:
 - /resources/blog/introducing-kanban-professional-scrum-teams
 tags:
 - Throughput
-- Agile Project Management
 - Metrics and Learning
+- Agile Project Management
 - Agile Frameworks
-- Flow Efficiency
-- Practical Techniques and Tooling
 - Events and Presentations
-- Operational Practices
-- Products and Books
 - Software Development
 - Software Developers
+- Products and Books
 - News and Reviews
+- Practical Techniques and Tooling
+- Flow Efficiency
+- Operational Practices
 - Pragmatic Thinking
 - Professional Scrum
 - Product Delivery

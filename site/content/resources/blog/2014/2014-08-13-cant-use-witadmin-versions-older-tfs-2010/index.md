@@ -26,11 +26,11 @@ aliasesFor404:
 - /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 tags:
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

@@ -34,6 +34,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Scrum
 - DevOps
 - Social Technologies
 

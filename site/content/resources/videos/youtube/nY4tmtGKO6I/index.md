@@ -22,7 +22,6 @@ preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 isShort: true
 tags:
-- Scrum
 - Scrum Master
 - Scrum Team
 - Professional Scrum
@@ -37,6 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

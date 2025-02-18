@@ -22,29 +22,28 @@ aliasesFor404:
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
-- Scrum
 - Definition of Done
-- Value Delivery
-- Product Delivery
-- Software Development
 - Technical Debt
 - Continuous Delivery
+- Software Development
+- Value Delivery
+- Product Delivery
 - Agile Product Management
-- Automated Testing
-- Deployment Strategies
-- Technical Excellence
-- Deployment Frequency
-- Software Developers
-- Working Software
 - Pragmatic Thinking
+- Automated Testing
 - Practical Techniques and Tooling
-- Agile Transformation
-- Technical Leadership
-- Agile Project Management
-- People and Process
-- Technical Mastery
-- Agile Frameworks
 - Frequent Releases
+- Agile Transformation
+- Agile Project Management
+- Working Software
+- Agile Frameworks
+- Deployment Strategies
+- People and Process
+- Technical Excellence
+- Technical Leadership
+- Software Developers
+- Technical Mastery
+- Deployment Frequency
 - Engineering Practices
 - Operational Practices
 - Test Automation
@@ -53,8 +52,10 @@ tags:
 - Market Adaptability
 - Strategy
 categories:
+- Scrum
 - Engineering Excellence
 - DevOps
+- Social Technologies
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

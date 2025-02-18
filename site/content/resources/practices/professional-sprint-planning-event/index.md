@@ -36,9 +36,22 @@ card:
   content: Discover more about Sprint Planning Event and how it can help you in your Agile journey!
   title: Sprint Planning Event
 categories:
+- Scrum
 - Social Technologies
 tags:
-- Scrum
+- Scrum Product Development
+- People and Process
+- Scrum Team
+- Professional Scrum
+- Agile Planning
+- Team Collaboration
+- Agile Product Management
+- Product Delivery
+- Agile Frameworks
+- Software Development
+- Agile Project Management
+- Team Performance
+- Agile Planning Tools
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.

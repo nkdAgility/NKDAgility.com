@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Scrum Master
 - Agile Frameworks
 - People and Process
@@ -39,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Scrum
 - Social Technologies
 
 ---

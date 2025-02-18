@@ -23,7 +23,6 @@ isShort: false
 tags:
 - Agile Project Management
 - Coaching
-- Scrum
 - Scrum Master
 - People and Process
 - Scrum Team
@@ -43,6 +42,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

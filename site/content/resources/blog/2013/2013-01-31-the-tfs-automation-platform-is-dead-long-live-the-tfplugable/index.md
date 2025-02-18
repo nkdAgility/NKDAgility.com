@@ -31,18 +31,18 @@ aliasesFor404:
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - System Configuration
-- Technical Mastery
-- Frequent Releases
 - Software Development
 - Azure DevOps
-- Product Delivery
+- Technical Mastery
+- Frequent Releases
 - Platform Engineering
-- Pragmatic Thinking
-- Technical Excellence
+- Product Delivery
 - Product Validation
+- Technical Excellence
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

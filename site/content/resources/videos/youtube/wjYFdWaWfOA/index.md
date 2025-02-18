@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
-- Scrum
 - Scrum Master
 - Agile Project Management
 - Agile Product Management
@@ -39,6 +38,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

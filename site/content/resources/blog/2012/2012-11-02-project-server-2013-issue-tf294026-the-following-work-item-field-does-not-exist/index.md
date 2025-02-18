@@ -28,10 +28,11 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Pragmatic Thinking
 - Software Development
 - Troubleshooting
-categories: []
+- Pragmatic Thinking
+categories:
+- Social Technologies
 preview: metro-problem-icon-3-3.png
 
 ---

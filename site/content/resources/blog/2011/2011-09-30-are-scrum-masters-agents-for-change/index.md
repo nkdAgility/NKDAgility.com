@@ -26,19 +26,20 @@ aliasesFor404:
 - /blog/are-scrum-masters-agents-for-change-
 - /resources/blog/are-scrum-masters-agents-for-change
 tags:
-- Scrum
 - Professional Scrum
-- People and Process
 - Scrum Master
-- Agile Project Management
+- People and Process
 - Events and Presentations
 - Organisational Change
+- Agile Project Management
 - Agile Frameworks
+- Software Development
 - Agile Transformation
 - Pragmatic Thinking
-- Software Development
 - Technical Leadership
-categories: []
+categories:
+- Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

@@ -21,7 +21,6 @@ preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
 duration: 137
 isShort: false
 tags:
-- Scrum
 - Agile Product Management
 - Product Owner
 - Professional Scrum
@@ -40,6 +39,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 

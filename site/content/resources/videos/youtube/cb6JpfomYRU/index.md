@@ -23,7 +23,6 @@ duration: 353
 isShort: false
 tags:
 - Coaching
-- Scrum
 - Scrum Master
 - People and Process
 - Discovery and Learning
@@ -48,6 +47,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

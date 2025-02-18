@@ -24,16 +24,16 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Automated Testing
-- Technical Mastery
-- Azure Pipelines
 - Engineering Practices
-- Operational Practices
-- Continuous Integration
 - Software Development
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
+- Continuous Integration
 - Troubleshooting
+- Azure Pipelines
+- Automated Testing
+- Operational Practices
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence

@@ -29,9 +29,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
 - Product Management
+- Social Technologies
 tags:
 - People and Process
 - Team Performance

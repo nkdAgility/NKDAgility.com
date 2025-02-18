@@ -30,7 +30,8 @@ tags:
 - Troubleshooting
 - Windows
 - Application Lifecycle Management
-categories: []
+categories:
+- Scrum
 
 ---
 You can integrate SharePoint 2013 with Team Foundation Server 2013 at any time and even link to your corporate SharePoint\*.

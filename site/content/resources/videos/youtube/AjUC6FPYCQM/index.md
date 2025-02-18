@@ -24,7 +24,6 @@ preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Scrum
 - Professional Scrum
 - Software Development
 - People and Process
@@ -37,6 +36,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

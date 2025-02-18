@@ -33,6 +33,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Scrum
 - Social Technologies
 
 ---

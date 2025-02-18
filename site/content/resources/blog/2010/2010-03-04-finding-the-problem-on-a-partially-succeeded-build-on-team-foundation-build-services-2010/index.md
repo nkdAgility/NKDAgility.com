@@ -22,23 +22,24 @@ aliasesFor404:
 - /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
-- Scrum
 - Troubleshooting
-- Code and Complexity
+- Scrum Product Development
 - Software Development
 - Software Developers
-- Scrum Product Development
-- Practical Techniques and Tooling
-- Working Software
+- Code and Complexity
 - Application Lifecycle Management
+- Working Software
+- Practical Techniques and Tooling
+- Azure DevOps
 - Technical Mastery
+- Technical Excellence
 - Product Backlog
 - Pragmatic Thinking
-- Azure DevOps
-- Technical Excellence
 - Agile Project Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
+- Scrum
+- Social Technologies
 - Engineering Excellence
 
 ---

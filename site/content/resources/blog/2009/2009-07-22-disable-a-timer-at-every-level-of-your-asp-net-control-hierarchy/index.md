@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Troubleshooting
 categories:
 - Engineering Excellence

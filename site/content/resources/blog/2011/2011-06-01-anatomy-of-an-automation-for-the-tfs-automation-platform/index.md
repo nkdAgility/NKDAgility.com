@@ -25,13 +25,13 @@ tags:
 - Software Development
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Platform Engineering
-- Technical Mastery
+- Practical Techniques and Tooling
 - Windows
-- Operational Practices
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
+- Operational Practices
 - Pragmatic Thinking
 categories:
 - DevOps

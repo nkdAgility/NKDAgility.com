@@ -37,11 +37,9 @@ card:
   content: Discover more about Definition of Done (DoD) and how it can help you in your Agile journey!
   title: Definition of Done (DoD)
 categories:
-- Engineering Excellence
-- Social Technologies
+- Scrum
 tags:
 - Definition of Done
-- Scrum
 - Increment
 - Scrum Product Development
 - Software Development

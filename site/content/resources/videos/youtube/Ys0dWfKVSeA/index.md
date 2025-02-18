@@ -31,17 +31,16 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Scrum
 - Agile Product Management
 - Agile Frameworks
 - Software Development
-- Agile Project Management
 - Agile Transformation
+- Organisational Agility
 - Value Delivery
 - Team Collaboration
-- Organisational Agility
-- Pragmatic Thinking
+- Agile Project Management
 - Empirical Process Control
+- Pragmatic Thinking
 - Scrum Product Development
 - Product Delivery
 - Professional Scrum
@@ -53,6 +52,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

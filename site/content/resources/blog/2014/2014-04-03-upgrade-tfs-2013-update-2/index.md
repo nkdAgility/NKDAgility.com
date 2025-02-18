@@ -29,17 +29,17 @@ tags:
 - Install and Configuration
 - Release Management
 - System Configuration
-- Agile Planning Tools
-- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Products and Books
 - News and Reviews
-- Application Lifecycle Management
-- Product Delivery
-- Frequent Releases
-- Modern Source Control
+- Agile Planning Tools
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
+- Modern Source Control
 - Technical Excellence
+- Product Delivery
+- Frequent Releases
 - Working Software
 - Pragmatic Thinking
 categories:

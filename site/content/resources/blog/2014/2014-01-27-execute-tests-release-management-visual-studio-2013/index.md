@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
 - /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
-- Automated Testing
 - Release Management
+- Automated Testing
 categories:
 - Engineering Excellence
 - DevOps

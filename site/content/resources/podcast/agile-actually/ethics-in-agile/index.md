@@ -6,6 +6,7 @@ ResourceImport: false
 ResourceType: podcast
 date: 2023-10-26
 categories:
+- Scrum
 - Social Technologies
 author: MrHinsh
 resourceTypes: podcast

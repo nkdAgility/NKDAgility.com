@@ -30,8 +30,10 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
+- Scrum
 - Engineering Excellence
 - DevOps
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

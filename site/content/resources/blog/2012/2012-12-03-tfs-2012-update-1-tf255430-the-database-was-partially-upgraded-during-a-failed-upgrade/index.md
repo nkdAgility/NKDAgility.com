@@ -29,14 +29,14 @@ aliasesFor404:
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
 - Windows
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Practical Techniques and Tooling
 - Operational Practices
-- Technical Mastery
-- Release Management
 - Software Development
+- Release Management
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
 - Troubleshooting
 - Pragmatic Thinking

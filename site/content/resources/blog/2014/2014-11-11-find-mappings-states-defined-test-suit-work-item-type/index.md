@@ -26,15 +26,15 @@ aliasesFor404:
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Practical Techniques and Tooling
-- Technical Mastery
-- Pragmatic Thinking
 - Software Development
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
 - Troubleshooting
+- Pragmatic Thinking
 - Working Software
 categories:
 - Engineering Excellence

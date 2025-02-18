@@ -30,11 +30,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
+- Scrum Master
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
+- Software Development
+- People and Process
+- Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Scrum
 
 ---
 **#1 tip for a new Scrum Master**

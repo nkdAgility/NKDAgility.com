@@ -29,8 +29,8 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
-- Azure Pipelines
 - Software Development
+- Azure Pipelines
 categories:
 - Engineering Excellence
 - DevOps

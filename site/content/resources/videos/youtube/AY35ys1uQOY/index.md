@@ -31,13 +31,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Agile Planning
-- Scrum
 - Agile Project Management
 - Agile Product Management
 resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Is Your Sprint Goal Hitting the Mark?

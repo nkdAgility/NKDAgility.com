@@ -27,9 +27,8 @@ aliasesFor404:
 - /resources/blog/scaling-professional-scrum-visual-studio-team-services
 tags:
 - Events and Presentations
-- Scrum
 categories:
-- Social Technologies
+- Scrum
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
 
 ---

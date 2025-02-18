@@ -34,6 +34,7 @@ resourceTypes:
 categories:
 - Product Management
 - Leadership
+- Scrum
 
 ---
 ## Stepping Up Your Game as a Product Owner

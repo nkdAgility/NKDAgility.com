@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Transparency
 - People and Process
-- Transparency and Accountability
 - Events and Presentations
+- Transparency and Accountability
 - Team Collaboration
 - Pragmatic Thinking
 - Remote Working

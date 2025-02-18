@@ -29,9 +29,9 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 tags:
-- Scrum
 - Scrum Master
 - Agile Project Management
 - Scrum Team

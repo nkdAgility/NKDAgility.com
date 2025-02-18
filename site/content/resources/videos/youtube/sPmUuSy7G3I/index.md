@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: false
 tags:
-- Scrum
 - People and Process
 - Scrum Team
 - Scrum Product Development
@@ -43,6 +42,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

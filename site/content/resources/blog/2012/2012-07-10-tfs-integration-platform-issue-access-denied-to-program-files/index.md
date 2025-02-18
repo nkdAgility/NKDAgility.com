@@ -30,8 +30,8 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Software Development
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - DevOps
 preview: metro-problem-icon-1-1.png

@@ -21,7 +21,6 @@ preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
 isShort: false
 tags:
-- Scrum
 - Professional Scrum
 - Scrum Master
 - People and Process
@@ -39,6 +38,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

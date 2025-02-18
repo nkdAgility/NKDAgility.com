@@ -26,12 +26,11 @@ aliasesFor404:
 - /blog/how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags:
-- Scrum
 - Professional Scrum
 - Scrum Product Development
 - Agile Project Management
 categories:
-- Social Technologies
+- Scrum
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

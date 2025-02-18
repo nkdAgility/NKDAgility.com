@@ -20,7 +20,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 isShort: false
-tags: []
+tags:
+- Events and Presentations
+- Install and Configuration
+- Remote Working
+- Collaboration Tools
+- Practical Techniques and Tooling
+- Team Collaboration
+- Products and Books
 sitemap:
   filename: sitemap.xml
   priority: 0.6

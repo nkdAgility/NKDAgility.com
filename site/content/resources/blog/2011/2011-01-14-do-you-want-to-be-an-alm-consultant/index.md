@@ -30,7 +30,10 @@ tags:
 - Software Development
 - People and Process
 categories:
+- Leadership
+- Scrum
 - Engineering Excellence
+- Social Technologies
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

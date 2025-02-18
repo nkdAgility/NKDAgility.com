@@ -29,8 +29,7 @@ tags:
 - Software Development
 preview: metro-visual-studio-2005-128-link-5-5.png
 categories:
-- Engineering Excellence
-- DevOps
+- Scrum
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

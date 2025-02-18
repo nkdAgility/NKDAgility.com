@@ -30,8 +30,8 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Software Development
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-1-1.png
 

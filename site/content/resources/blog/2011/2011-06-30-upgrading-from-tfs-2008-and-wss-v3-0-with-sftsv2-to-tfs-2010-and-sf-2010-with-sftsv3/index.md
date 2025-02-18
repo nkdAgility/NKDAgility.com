@@ -28,8 +28,10 @@ tags:
 - Software Development
 - Troubleshooting
 categories:
+- Scrum
 - Engineering Excellence
 - DevOps
+- Social Technologies
 preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---

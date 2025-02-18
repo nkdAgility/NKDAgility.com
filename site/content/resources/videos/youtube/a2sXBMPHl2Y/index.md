@@ -39,10 +39,11 @@ tags:
 resourceTypes:
 - video
 categories:
-- DevOps
 - Leadership
-- Social Technologies
+- DevOps
+- Scrum
 - Engineering Excellence
+- Social Technologies
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

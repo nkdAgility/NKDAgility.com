@@ -27,22 +27,21 @@ aliasesFor404:
 - /resources/blog/one-team-project
 tags:
 - Agile Planning Tools
-- Agile Project Management
 - Agile Planning
+- Agile Project Management
 - Practical Techniques and Tooling
 - Software Development
 - Software Developers
-- Pragmatic Thinking
 - Azure DevOps
+- Pragmatic Thinking
 - Azure Boards
-- People and Process
 - Large Scale Agility
-- Product Delivery
+- People and Process
 - Agile Strategy
+- Product Delivery
 - Operational Practices
 categories:
-- Product Management
-- Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

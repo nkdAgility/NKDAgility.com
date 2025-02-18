@@ -34,8 +34,9 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
+- Scrum
 - Leadership
+- Social Technologies
 
 ---
 ## From Practitioner to Consultant

@@ -24,16 +24,16 @@ aliasesFor404:
 tags:
 - Software Developers
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
-- Azure Pipelines
-- Operational Practices
-- Continuous Integration
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
+- Continuous Integration
 - System Configuration
+- Azure Pipelines
+- Pragmatic Thinking
+- Operational Practices
 - Troubleshooting
 preview: metro-SSWLogo-128-link-10-10.png
 categories:

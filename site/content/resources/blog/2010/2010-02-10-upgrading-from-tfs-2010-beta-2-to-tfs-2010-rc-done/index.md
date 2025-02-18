@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 - /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 tags:
-- Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
-- Technical Mastery
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Technical Mastery
 - Troubleshooting
+- Pragmatic Thinking
 - Release Management
 - Deployment Strategies
 preview: metro-visual-studio-2010-128-link-3-3.png

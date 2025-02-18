@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
 - Windows
-- System Configuration
+- Technical Mastery
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

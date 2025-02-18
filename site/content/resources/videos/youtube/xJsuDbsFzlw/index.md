@@ -24,7 +24,6 @@ isShort: false
 tags:
 - Coaching
 - Agile Planning Tools
-- Scrum
 - Agile Planning
 - Agile Frameworks
 - Events and Presentations
@@ -32,14 +31,14 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - People and Process
-- Scrum Master
+- Software Developers
 - Product Delivery
 - Team Collaboration
+- Scrum Master
 - Pragmatic Thinking
-- Scrum Product Development
-- Software Developers
 - Team Performance
 - Software Development
+- Scrum Product Development
 - Professional Scrum
 - Practical Techniques and Tooling
 - Technical Leadership
@@ -50,6 +49,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

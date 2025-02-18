@@ -30,10 +30,31 @@ aliasesFor404:
 - /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 tags:
-- Scrum
+- Agile Project Management
+- Scrum Product Development
+- Product Owner
+- Professional Scrum
+- Product Backlog
+- Scrum Team
+- Scaling Scrum
+- Agile Planning
+- Team Collaboration
+- People and Process
+- Technical Leadership
+- Product Delivery
+- Software Development
+- Events and Presentations
+- Scaling Agility
+- Large Scale Agility
+- Agile Product Management
+- Team Performance
+- Agile Frameworks
+- Agile Transformation
+- Scaled Agile
+- Software Developers
+- Pragmatic Thinking
 categories:
-- Product Management
-- Social Technologies
+- Scrum
 preview: 146713119-1-1.jpg
 
 ---

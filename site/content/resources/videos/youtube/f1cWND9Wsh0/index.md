@@ -26,7 +26,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Agile Frameworks
 - Software Development
 - People and Process
@@ -36,6 +35,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

@@ -22,14 +22,15 @@ aliasesFor404:
 - /blog/scrum-with-team-foundation-server-2010-done
 - /resources/blog/scrum-with-team-foundation-server-2010-done
 tags:
-- Scrum
 - Agile Project Management
 - Events and Presentations
 - Agile Frameworks
 - Software Development
 - Practical Techniques and Tooling
 - Software Developers
-categories: []
+categories:
+- Scrum
+- Social Technologies
 preview: metro-event-128-link-3-3.png
 
 ---

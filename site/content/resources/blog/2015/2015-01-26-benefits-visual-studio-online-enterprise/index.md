@@ -27,19 +27,19 @@ aliasesFor404:
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
 - Application Lifecycle Management
-- Business Agility
-- Release Management
-- Products and Books
 - Software Development
+- Release Management
 - Azure DevOps
-- Practical Techniques and Tooling
+- Business Agility
+- Products and Books
 - Organisational Agility
+- Practical Techniques and Tooling
 - Digital Transformation
 - Market Adaptability
 - Frequent Releases
 - Enterprise Agility
-- Azure Pipelines
 - Organisational Change
+- Azure Pipelines
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

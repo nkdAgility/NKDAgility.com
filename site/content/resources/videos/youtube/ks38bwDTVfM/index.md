@@ -25,7 +25,6 @@ isShort: false
 tags:
 - Scrum Product Development
 - Pragmatic Thinking
-- Scrum
 - Software Development
 - Software Developers
 - Scrum Team
@@ -52,6 +51,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

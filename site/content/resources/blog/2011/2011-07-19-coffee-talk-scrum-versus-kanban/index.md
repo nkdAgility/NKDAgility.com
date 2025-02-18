@@ -28,9 +28,10 @@ aliasesFor404:
 tags:
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Events and Presentations
-categories: []
+- Agile Project Management
+categories:
+- Social Technologies
 preview: metro-event-128-link-1-1.png
 
 ---

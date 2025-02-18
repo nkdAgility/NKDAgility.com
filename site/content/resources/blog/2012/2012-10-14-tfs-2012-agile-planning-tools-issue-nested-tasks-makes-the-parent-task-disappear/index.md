@@ -30,27 +30,26 @@ aliasesFor404:
 tags:
 - Agile Planning Tools
 - Agile Product Management
-- Agile Project Management
-- Agile Planning
-- Product Backlog
-- Agile Product Operating Model
 - Scrum Product Development
-- Azure Boards
-- Agile Frameworks
-- Product Owner
-- Backlog Refinement
-- Product Delivery
+- Agile Planning
+- Agile Product Operating Model
+- Product Backlog
+- Agile Project Management
 - Practical Techniques and Tooling
+- Product Owner
+- Agile Frameworks
+- Backlog Refinement
+- Azure Boards
+- Product Delivery
 - Software Development
-- Scrum
+- Azure DevOps
 - Troubleshooting
 - Pragmatic Thinking
-- Azure DevOps
 - Software Developers
 - Working Software
 categories:
-- Product Management
-- Engineering Excellence
+- Social Technologies
+- Scrum
 preview: metro-problem-icon-8-8.png
 
 ---

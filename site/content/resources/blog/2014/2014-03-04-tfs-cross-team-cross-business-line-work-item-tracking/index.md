@@ -29,9 +29,9 @@ tags:
 - Software Development
 categories:
 - Product Management
-- Social Technologies
 - Engineering Excellence
 - DevOps
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

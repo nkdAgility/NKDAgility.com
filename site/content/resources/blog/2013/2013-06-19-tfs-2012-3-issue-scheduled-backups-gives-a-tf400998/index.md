@@ -30,12 +30,12 @@ aliasesFor404:
 tags:
 - Windows
 - Practical Techniques and Tooling
-- Install and Configuration
 - System Configuration
-- Pragmatic Thinking
+- Install and Configuration
 - Software Development
 - Azure DevOps
 - Troubleshooting
+- Pragmatic Thinking
 - Technical Mastery
 categories:
 - DevOps

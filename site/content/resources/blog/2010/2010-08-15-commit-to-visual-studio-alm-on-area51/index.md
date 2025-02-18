@@ -24,11 +24,11 @@ aliasesFor404:
 tags:
 - Team Collaboration
 - News and Reviews
-- Miscellaneous
-- Modern Source Control
+- Application Lifecycle Management
 - Software Development
 - Azure DevOps
-- Application Lifecycle Management
+- Modern Source Control
+- Miscellaneous
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

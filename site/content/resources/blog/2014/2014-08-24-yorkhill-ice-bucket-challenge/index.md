@@ -23,7 +23,8 @@ aliasesFor404:
 - /resources/blog/yorkhill-ice-bucket-challenge
 tags:
 - Personal
-categories: []
+categories:
+- Scrum
 preview: yorkhill-ice-bucket-challange-5-5.png
 
 ---

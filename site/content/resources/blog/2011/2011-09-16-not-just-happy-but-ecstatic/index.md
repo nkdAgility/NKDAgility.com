@@ -33,8 +33,8 @@ tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Product Delivery
-- Technical Mastery
 - Release Management
+- Technical Mastery
 - Personal
 - Operational Practices
 categories:

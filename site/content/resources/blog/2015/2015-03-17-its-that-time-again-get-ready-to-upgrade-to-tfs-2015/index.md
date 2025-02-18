@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
 - Release Management
-- Install and Configuration
 - News and Reviews
+- Install and Configuration
 - System Configuration
 - Software Development
 categories: []

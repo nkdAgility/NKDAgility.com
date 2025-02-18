@@ -32,22 +32,21 @@ sitemap:
 tags:
 - People and Process
 - Discovery and Learning
-- Team Collaboration
 - Team Performance
+- Team Collaboration
 - Continuous Learning
 - Agile Frameworks
 - Pragmatic Thinking
 - Empirical Process Control
-- Scrum
-- Scrum Team
 - Metrics and Learning
 - Customer Feedback Loops
+- Scrum Team
 - Scrum Master
 - Experimentation
-- Agile Planning
 - Agile Project Management
-- Coaching
+- Agile Planning
 - Organisational Agility
+- Coaching
 - Software Development
 - Sociotechnical Systems
 - Operational Practices
@@ -55,6 +54,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

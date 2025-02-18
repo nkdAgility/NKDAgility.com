@@ -28,10 +28,10 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Practical Techniques and Tooling
-- Azure Boards
-- Pragmatic Thinking
 - Software Development
 - Azure DevOps
+- Azure Boards
+- Pragmatic Thinking
 categories: []
 preview: metro-visual-studio-2010-128-link-4-4.png
 

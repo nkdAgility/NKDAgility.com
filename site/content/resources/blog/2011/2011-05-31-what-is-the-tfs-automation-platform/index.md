@@ -24,13 +24,13 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
-- Technical Mastery
-- Practical Techniques and Tooling
-- Platform Engineering
 - Software Development
+- Technical Mastery
 - Technical Excellence
-- Operational Practices
+- Platform Engineering
+- Practical Techniques and Tooling
 - Azure DevOps
+- Operational Practices
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories:
 - Engineering Excellence

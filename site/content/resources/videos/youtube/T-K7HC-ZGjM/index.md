@@ -28,10 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
+- Scrum Product Development
+- People and Process
+- Professional Scrum
+- Agile Product Management
+- Product Delivery
+- Agile Frameworks
+- Software Development
+- Agile Planning
+- Software Developers
+- Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

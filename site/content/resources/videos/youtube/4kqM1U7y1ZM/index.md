@@ -21,27 +21,26 @@ preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false
 tags:
-- Scrum
 - Scrum Product Development
-- Continuous Delivery
 - Value Delivery
+- Continuous Delivery
 - Product Delivery
 - Scrum Team
-- People and Process
 - Technical Leadership
+- People and Process
 - Scrum Master
 - Agile Product Management
-- Team Performance
+- Team Collaboration
+- Working Software
 - Organisational Agility
 - Self Organisation
-- Working Software
-- Team Collaboration
+- Team Performance
 - Sociotechnical Systems
-- Agile Transformation
 - Agile Project Management
 - Pragmatic Thinking
-- Operational Practices
 - Strategy
+- Operational Practices
+- Agile Transformation
 - Agile Frameworks
 - Agile Strategy
 - Agile Planning
@@ -60,6 +59,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

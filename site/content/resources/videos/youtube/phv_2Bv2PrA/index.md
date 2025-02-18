@@ -30,6 +30,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Engineering Excellence
 - Social Technologies
 

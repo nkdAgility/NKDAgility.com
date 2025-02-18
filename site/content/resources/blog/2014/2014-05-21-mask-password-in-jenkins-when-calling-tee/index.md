@@ -25,12 +25,12 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Technical Mastery
-- Operational Practices
-- Continuous Integration
-- Pragmatic Thinking
 - Software Development
+- Technical Mastery
+- Continuous Integration
 - Troubleshooting
+- Pragmatic Thinking
+- Operational Practices
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-7-7.png

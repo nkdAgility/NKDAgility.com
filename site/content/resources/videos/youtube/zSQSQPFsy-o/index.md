@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - People and Process
 - Agile Product Management
 - Agile Project Management
@@ -39,21 +38,22 @@ tags:
 - Agile Philosophy
 - Transparency and Accountability
 - Agile Transformation
-- Professional Scrum
 - Software Development
+- Professional Scrum
 - Agile Frameworks
 - Organisational Culture
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Agile Values and Principles
 - Agile Leadership
-- Value Delivery
 - Team Performance
 - Agile Planning
+- Value Delivery
 - Software Developers
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

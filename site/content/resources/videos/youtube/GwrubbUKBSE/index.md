@@ -22,7 +22,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
 duration: 2127
 isShort: false
-tags: []
+tags:
+- Events and Presentations
+- People and Process
+- Agile Frameworks
+- Software Development
+- Software Developers
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -31,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Scrum
 - Social Technologies
 
 ---

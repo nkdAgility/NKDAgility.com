@@ -25,7 +25,8 @@ tags:
 - Practical Techniques and Tooling
 - Events and Presentations
 - Software Development
-categories: []
+categories:
+- Social Technologies
 preview: metro-UserGroup-128-2-2.png
 
 ---

@@ -42,9 +42,9 @@ tags:
 - Digital Transformation
 - Trend Analysis
 categories:
-- Social Technologies
 - Leadership
 - Product Management
+- Social Technologies
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

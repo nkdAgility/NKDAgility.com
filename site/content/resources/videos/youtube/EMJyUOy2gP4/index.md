@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Metrics and Learning
 - Scrum Team
 - Scrum Master
@@ -42,18 +41,19 @@ tags:
 - Team Performance
 - Ability to Innovate
 - Operational Practices
-- Software Development
+- Evidence Based Leadership
 - Evidence Based Management
 - Agile Project Management
-- Accountability
+- Value Delivery
 - Agile Frameworks
 - Strategy
-- Value Delivery
+- Software Development
 - Pragmatic Thinking
-- Evidence Based Leadership
+- Accountability
 resourceTypes:
 - video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 - Engineering Excellence

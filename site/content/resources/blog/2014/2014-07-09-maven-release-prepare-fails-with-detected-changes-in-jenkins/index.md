@@ -25,16 +25,16 @@ tags:
 - Windows
 - Modern Source Control
 - Release Management
-- Practical Techniques and Tooling
 - Continuous Integration
+- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
-- Pragmatic Thinking
 - Software Development
-- System Configuration
+- Technical Mastery
 - Troubleshooting
-- Operational Practices
+- System Configuration
+- Pragmatic Thinking
 - Application Lifecycle Management
+- Operational Practices
 categories:
 - DevOps
 - Engineering Excellence

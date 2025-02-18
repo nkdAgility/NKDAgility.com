@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
-- Practical Techniques and Tooling
 - Modern Source Control
+- Practical Techniques and Tooling
 - Install and Configuration
+- Application Lifecycle Management
 - Technical Mastery
 - Products and Books
-- Application Lifecycle Management
 - Software Development
 categories:
 - Engineering Excellence

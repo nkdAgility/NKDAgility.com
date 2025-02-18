@@ -26,7 +26,6 @@ tags:
 - Agile Project Management
 - Scrum Team
 - Software Development
-- Scrum
 - People and Process
 - Professional Scrum
 - Scrum Product Development
@@ -37,11 +36,7 @@ tags:
 - Agile Leadership
 - Pragmatic Thinking
 categories:
-- Leadership
-- Social Technologies
-- Product Management
-- Engineering Excellence
-- DevOps
+- Scrum
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 marketing: []
 

@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
-- Scrum
 - People and Process
 - Team Performance
 - Agile Frameworks
@@ -47,6 +46,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

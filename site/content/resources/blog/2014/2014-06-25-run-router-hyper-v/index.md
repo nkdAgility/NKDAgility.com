@@ -30,9 +30,9 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Technical Mastery
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
+- System Configuration
+- Pragmatic Thinking
 categories: []
 preview: naked-alm-hyper-v-17-17.png
 

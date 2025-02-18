@@ -24,22 +24,22 @@ aliasesFor404:
 tags:
 - Windows
 - Application Lifecycle Management
+- Software Development
 - Product Delivery
 - Value Delivery
 - Working Software
-- Software Development
 - Engineering Practices
 - Practical Techniques and Tooling
-- Team Collaboration
 - Products and Books
-- Operational Practices
-- Technical Mastery
+- Team Collaboration
 - Technical Excellence
+- Operational Practices
 - Pragmatic Thinking
+- Technical Mastery
 - Azure DevOps
+- Software Developers
 - Test Automation
 - People and Process
-- Software Developers
 - Metrics and Learning
 - Troubleshooting
 categories:

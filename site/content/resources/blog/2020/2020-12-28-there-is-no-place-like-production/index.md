@@ -25,45 +25,45 @@ aliasesFor404:
 tags:
 - Increment
 - Business Agility
-- Release Management
 - Product Validation
 - Agile Product Management
-- Metrics and Learning
-- Product Delivery
+- Release Management
 - Product Discovery
 - Value Delivery
-- Ability to Innovate
 - Lean Product Development
+- Product Delivery
 - Working Software
-- Discovery and Learning
+- Ability to Innovate
 - Agile Product Operating Model
-- Empirical Process Control
+- Discovery and Learning
+- Metrics and Learning
+- Frequent Releases
+- Agile Philosophy
+- Pragmatic Thinking
+- Decision Making
 - Deployment Frequency
-- Evidence Based Leadership
+- Hypothesis Driven Development
+- Empirical Process Control
+- Operational Practices
+- MVP
 - Experimentation
 - Agile Strategy
-- Pragmatic Thinking
-- Frequent Releases
-- Operational Practices
 - Lean Startup
-- Decision Making
-- Hypothesis Driven Development
-- MVP
-- Agile Philosophy
+- Evidence Based Leadership
 - Value Stream Management
 - Product Owner
 - Evidence Based Management
-- People and Process
-- Organisational Agility
-- Software Development
-- Product Strategy
 - Agile Values and Principles
-- Customer Feedback Loops
+- Software Development
+- Organisational Agility
+- People and Process
+- Product Strategy
 - Customer Satisfaction
-- Customer Retention
-- Lean Principles
 - Market Adaptability
 - Continuous Delivery
+- Customer Retention
+- Lean Principles
+- Customer Feedback Loops
 categories:
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg

@@ -27,48 +27,48 @@ aliasesFor404:
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - Transparency
-- People and Process
-- Agile Product Management
 - Empirical Process Control
-- Agile Values and Principles
+- Agile Product Management
+- People and Process
 - Team Collaboration
-- Scaling Agility
-- Change Management
-- Organisational Agility
-- Agile Project Management
 - Organisational Change
+- Scaling Agility
+- Agile Project Management
+- Organisational Agility
+- Agile Values and Principles
+- Change Management
 - Transparency and Accountability
-- Agile Leadership
-- Operational Practices
-- Software Development
-- Team Motivation
-- Value Delivery
-- Agile Philosophy
-- Software Developers
-- Business Agility
 - Agile Frameworks
-- Team Performance
-- Enterprise Agility
-- Agile Strategy
 - Agile Transformation
-- Organisational Culture
+- Team Motivation
+- Enterprise Agility
 - Discovery and Learning
-- Market Adaptability
+- Agile Philosophy
+- Business Agility
+- Software Development
+- Agile Strategy
+- Agile Leadership
+- Software Developers
+- Operational Practices
+- Organisational Culture
+- Value Delivery
+- Team Performance
 - Strategy
-- Personal
-- Sociotechnical Systems
-- Pragmatic Thinking
+- Market Adaptability
 - Technical Leadership
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Personal
 - Lean Product Development
 - Organisational Physics
 - Resilience and Change
-- Continuous Learning
 - Coaching
-- Self Organisation
 - Beta Codex
+- Self Organisation
+- Continuous Learning
 categories:
-- Social Technologies
 - Leadership
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

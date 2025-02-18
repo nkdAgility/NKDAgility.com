@@ -29,6 +29,7 @@ aliasesFor404:
 tags:
 - Evidence Based Management
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 - Engineering Excellence

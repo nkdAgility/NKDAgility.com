@@ -24,24 +24,23 @@ duration: 280
 isShort: false
 tags:
 - Coaching
-- Scrum
-- Business Agility
-- Team Collaboration
+- Agile Leadership
 - Agile Frameworks
 - Organisational Agility
 - People and Process
-- Agile Philosophy
+- Business Agility
+- Team Motivation
 - Team Performance
 - Agile Transformation
 - Agile Project Management
-- Team Motivation
-- Scrum Team
+- Agile Philosophy
 - Agile Product Management
-- Agile Leadership
+- Scrum Team
+- Team Collaboration
 - Scrum Product Development
 - Personal
-- Product Delivery
 - Professional Scrum
+- Product Delivery
 - Market Adaptability
 - Software Development
 - Pragmatic Thinking
@@ -52,6 +51,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

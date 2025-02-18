@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Technical Excellence
 - Troubleshooting
 categories:

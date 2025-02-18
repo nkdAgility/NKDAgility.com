@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
-- Working Software
 - Software Development
+- Working Software
 - Application Lifecycle Management
 - Engineering Practices
 categories:

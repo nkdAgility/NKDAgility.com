@@ -34,8 +34,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself contemplating the various signs that indicate we might be veering off course. One of the most concerning signs, which I like to refer to as a plague, is the rigid adherence to tools and processes within a team. This fixation can be detrimental to our ability to truly embrace agility.

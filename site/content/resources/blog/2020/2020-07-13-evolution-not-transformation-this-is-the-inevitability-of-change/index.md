@@ -30,31 +30,31 @@ tags:
 - Experimentation
 - People and Process
 - Agile Project Management
-- Agile Leadership
-- Continuous Learning
+- Agile Values and Principles
 - Discovery and Learning
 - Change Management
+- Digital Transformation
+- Continuous Learning
 - Resilience and Change
 - Agile Transformation
 - Business Agility
-- Agile Values and Principles
-- Digital Transformation
-- Agile Philosophy
-- Organisational Culture
-- Agile Strategy
-- Empirical Process Control
-- Technical Leadership
-- Enterprise Agility
-- Events and Presentations
-- Market Adaptability
+- Agile Leadership
 - Organisational Change
-- Organisational Physics
-- Pragmatic Thinking
+- Events and Presentations
+- Agile Philosophy
+- Empirical Process Control
+- Organisational Culture
+- Technical Leadership
+- Agile Strategy
+- Market Adaptability
+- Enterprise Agility
 - Complexity Thinking
 - Strategy
+- Organisational Physics
+- Pragmatic Thinking
 - Sociotechnical Systems
-- Ability to Innovate
 - Strategic Goals
+- Ability to Innovate
 - Sensemaking
 - Beta Codex
 categories:

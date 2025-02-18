@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - Windows
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2005-128-link-10-10.png
 categories:
 - DevOps

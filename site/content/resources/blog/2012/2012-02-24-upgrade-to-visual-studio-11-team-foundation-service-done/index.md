@@ -29,14 +29,14 @@ aliasesFor404:
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
 - Modern Source Control
+- Application Lifecycle Management
 - Practical Techniques and Tooling
 - Install and Configuration
-- Application Lifecycle Management
+- Software Development
 - Digital Transformation
+- Azure DevOps
 - Personal
 - Operational Practices
-- Software Development
-- Azure DevOps
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

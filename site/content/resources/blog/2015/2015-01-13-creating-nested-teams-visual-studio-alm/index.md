@@ -26,14 +26,14 @@ aliasesFor404:
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/blog/creating-nested-teams-visual-studio-alm
 tags:
-- Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
-- Azure Boards
-- Software Development
+- Install and Configuration
 - Application Lifecycle Management
-- Pragmatic Thinking
+- Software Development
+- Azure Boards
+- Practical Techniques and Tooling
 - Azure DevOps
+- Pragmatic Thinking
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-17-17.png

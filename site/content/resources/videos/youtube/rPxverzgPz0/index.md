@@ -30,33 +30,33 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Organisational Change
 - Organisational Agility
 - Scrum Team
+- Organisational Change
+- People and Process
 - Agile Frameworks
 - Scrum Product Development
 - Agile Transformation
 - Change Management
-- People and Process
 - Team Collaboration
 - Agile Project Management
 - Products and Books
 - Software Development
 - Pragmatic Thinking
 - Resilience and Change
-- Agile Planning
-- Team Motivation
 - Agile Product Management
 - Professional Scrum
 - Scrum Master
 - Organisational Culture
 - Team Performance
 - Agile Strategy
+- Agile Planning
+- Team Motivation
 - Sociotechnical Systems
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

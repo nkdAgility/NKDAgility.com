@@ -26,7 +26,6 @@ tags:
 - Increment
 - Scrum Product Development
 - Software Development
-- Scrum
 - Professional Scrum
 - Product Delivery
 - Value Delivery
@@ -39,6 +38,7 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 categories:
+- Scrum
 - Engineering Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 

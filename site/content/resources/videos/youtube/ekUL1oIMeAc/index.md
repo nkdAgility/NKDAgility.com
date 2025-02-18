@@ -32,15 +32,12 @@ tags:
 - People and Process
 - Agile Product Management
 - Scrum Team
-- Scrum
 - Agile Project Management
 - Personal
 resourceTypes:
 - video
 categories:
-- Product Management
-- Leadership
-- Social Technologies
+- Scrum
 
 ---
 ## Product Owner's Misstep

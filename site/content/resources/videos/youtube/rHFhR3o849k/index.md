@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- Scrum
 - Scrum Master
 - People and Process
 - Agile Frameworks
@@ -37,6 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

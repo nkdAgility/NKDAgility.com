@@ -34,8 +34,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- DevOps
 - Leadership
+- DevOps
+- Scrum
 - Product Management
 - Social Technologies
 

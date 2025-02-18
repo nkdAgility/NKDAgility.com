@@ -22,22 +22,22 @@ aliasesFor404:
 - /blog/team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
-- Products and Books
 - Technical Debt
+- Products and Books
 - Software Development
 - News and Reviews
-- Agile Project Management
 - Application Lifecycle Management
+- Agile Project Management
 - Working Software
 - Agile Frameworks
-- Product Delivery
-- People and Process
-- Software Developers
 - Agile Strategy
+- Software Developers
+- People and Process
+- Product Delivery
 - Organisational Agility
-- Transparency
 - Frequent Releases
 - Pragmatic Thinking
+- Transparency
 categories:
 - Engineering Excellence
 

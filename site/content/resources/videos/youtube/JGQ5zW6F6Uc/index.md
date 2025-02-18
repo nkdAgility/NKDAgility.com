@@ -23,7 +23,6 @@ duration: 407
 isShort: false
 tags:
 - People and Process
-- Scrum
 - Scrum Product Development
 - Scrum Master
 - Agile Product Management
@@ -45,6 +44,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 

@@ -26,16 +26,16 @@ aliasesFor404:
 - /blog/branch-madness-
 - /resources/blog/branch-madness
 tags:
-- Practical Techniques and Tooling
 - Modern Source Control
+- Practical Techniques and Tooling
 - Install and Configuration
-- Miscellaneous
-- Operational Practices
-- Pragmatic Thinking
+- Application Lifecycle Management
 - Software Development
 - Azure Repos
-- Application Lifecycle Management
 - Troubleshooting
+- Miscellaneous
+- Pragmatic Thinking
+- Operational Practices
 preview: nakedalm-logo-128-link-2-1.png
 categories:
 - Engineering Excellence

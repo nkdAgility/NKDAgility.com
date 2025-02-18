@@ -21,7 +21,17 @@ preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
 tags:
-- Scrum
+- Scrum Master
+- People and Process
+- Scrum Team
+- Professional Scrum
+- Technical Leadership
+- Agile Frameworks
+- Software Development
+- Agile Project Management
+- Agile Transformation
+- Self Organisation
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,8 +40,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Social Technologies
-- Leadership
+- Scrum
 
 ---
 As I reflect on my journey through the world of Scrum, one of the most profound challenges I've encountered is the way we perceive the role of the Scrum Master. This was particularly highlighted during my experience with the Professional Scrum Master II (PSM-2) class. It’s a transformative experience that forces us to confront and reassess our assumptions about what it means to be a Scrum Master.

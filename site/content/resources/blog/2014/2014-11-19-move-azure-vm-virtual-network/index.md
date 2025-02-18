@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - DevOps
 preview: nakedalm-windows-logo-8-8.png

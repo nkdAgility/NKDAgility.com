@@ -31,6 +31,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Scrum
 - Social Technologies
 
 ---

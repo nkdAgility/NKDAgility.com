@@ -29,23 +29,22 @@ tags:
 - Scrum Product Development
 - Software Development
 - Product Backlog
+- Professional Scrum
 - Software Developers
 - Agile Product Management
 - Practical Techniques and Tooling
-- Professional Scrum
-- Pragmatic Thinking
-- Azure Boards
-- Agile Project Management
 - Agile Frameworks
 - Agile Planning
 - Azure DevOps
-- Scrum
+- Azure Boards
+- Agile Project Management
+- Pragmatic Thinking
 - Product Delivery
 - Agile Planning Tools
 - Operational Practices
 categories:
-- Product Management
-- Engineering Excellence
+- Social Technologies
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

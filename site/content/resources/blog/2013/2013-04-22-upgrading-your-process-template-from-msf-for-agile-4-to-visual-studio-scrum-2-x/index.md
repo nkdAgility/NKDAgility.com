@@ -24,17 +24,17 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Practical Techniques and Tooling
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Azure Boards
-- Operational Practices
-- Pragmatic Thinking
 - Software Development
 - Azure DevOps
 - Software Developers
+- Pragmatic Thinking
+- Operational Practices
 - Agile Transformation
 categories:
-- Engineering Excellence
+- Social Technologies
 
 ---
 Upgrading your process template from MSF for Agile 4 to Visual Studio Scrum 2.x can be a daunting and scary task. While you do need to be careful it is relatively simple to achieve safely.

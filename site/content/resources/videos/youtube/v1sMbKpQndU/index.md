@@ -31,7 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
-- Scrum
 - Scrum Master
 - People and Process
 - Scrum Team
@@ -48,6 +47,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 - Leadership
 

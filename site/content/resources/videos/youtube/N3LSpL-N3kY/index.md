@@ -33,6 +33,7 @@ resourceTypes:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 
 ---
 ## The Product Owner Journey

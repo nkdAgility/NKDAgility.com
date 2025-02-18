@@ -24,12 +24,12 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Platform Engineering
 - Software Development
+- Platform Engineering
 - Technical Mastery
 - Technical Excellence
-- Pragmatic Thinking
 - Software Developers
+- Pragmatic Thinking
 - System Configuration
 categories:
 - Engineering Excellence

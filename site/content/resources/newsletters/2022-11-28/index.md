@@ -17,7 +17,10 @@ aliases:
 aliasesFor404:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/
-categories: []
+categories:
+- Scrum
+- Product Management
+- Social Technologies
 tags: []
 
 ---

@@ -30,23 +30,23 @@ tags:
 - Code and Complexity
 - Install and Configuration
 - Application Lifecycle Management
-- Software Developers
 - System Configuration
-- Modern Source Control
 - Practical Techniques and Tooling
-- Continuous Delivery
-- Engineering Practices
-- Troubleshooting
-- Continuous Integration
+- Software Developers
+- Modern Source Control
 - Pragmatic Thinking
-- Operational Practices
 - Azure Pipelines
-- Azure DevOps
-- Accountability
+- Operational Practices
+- Continuous Integration
 - Working Software
+- Troubleshooting
+- Engineering Practices
+- Azure DevOps
+- Software Development
+- Accountability
+- Continuous Delivery
 - Technical Excellence
 - Technical Mastery
-- Software Development
 - Release Management
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:

@@ -23,11 +23,11 @@ aliasesFor404:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
+- Scrum
 - Social Technologies
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Scrum Product Development
-- Scrum
 - Agile Project Management
 - People and Process
 - Professional Scrum

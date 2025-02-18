@@ -23,10 +23,9 @@ aliasesFor404:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
-- People and Process
 - Scrum Master
+- People and Process
 - Agile Leadership
-- Scrum
 - Agile Project Management
 - Scrum Team
 - Professional Scrum
@@ -36,6 +35,7 @@ tags:
 categories:
 - Leadership
 - Social Technologies
+- Scrum
 preview: image-2-2.png
 
 ---

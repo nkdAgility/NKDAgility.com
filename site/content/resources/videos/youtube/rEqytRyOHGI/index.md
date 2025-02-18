@@ -28,16 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - People and Process
 - Agile Project Management
 - Agile Product Management
 - Agile Strategy
 - Agile Frameworks
-- Scrum Product Development
-- Agile Transformation
 - Agile Planning
 - Working Software
+- Scrum Product Development
+- Agile Transformation
 - Agile Philosophy
 - Product Delivery
 - Value Delivery
@@ -51,6 +50,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

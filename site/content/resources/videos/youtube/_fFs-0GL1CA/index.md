@@ -22,7 +22,6 @@ duration: 372
 isShort: false
 tags:
 - Software Development
-- Scrum
 - People and Process
 - Products and Books
 - Discovery and Learning
@@ -35,6 +34,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---

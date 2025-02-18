@@ -28,7 +28,6 @@ tags:
 - Software Development
 - Agile Project Management
 - Agile Transformation
-- Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -37,6 +36,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
  scrum.org have pioneered a new format of #scrumtraining called #immersive learning, especially for #scrumcertification courses like the #professionalscrummaster and #professionalscrumproductowner courses.

@@ -26,10 +26,10 @@ aliasesFor404:
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
 tags:
-- Scrum
 - Software Development
 - Working Software
 categories:
+- Scrum
 - Social Technologies
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 

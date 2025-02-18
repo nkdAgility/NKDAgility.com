@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
+- Azure DevOps
 - Technical Mastery
 - Pragmatic Thinking
-- Azure DevOps
 - Software Development
 categories: []
 preview: metro-office-128-link-3-3.png

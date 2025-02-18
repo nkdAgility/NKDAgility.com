@@ -23,7 +23,6 @@ preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: false
 tags:
-- Scrum
 - Azure DevOps
 - Events and Presentations
 - People and Process
@@ -39,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Scrum
 - Social Technologies
 
 ---

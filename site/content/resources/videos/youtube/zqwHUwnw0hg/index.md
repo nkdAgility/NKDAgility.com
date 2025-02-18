@@ -28,12 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Master
 - Professional Scrum
+- Scrum Master
 resourceTypes:
 - video
 categories:
+- Scrum
 - Social Technologies
 
 ---
