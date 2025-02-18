@@ -25,10 +25,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Scrum Master
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 

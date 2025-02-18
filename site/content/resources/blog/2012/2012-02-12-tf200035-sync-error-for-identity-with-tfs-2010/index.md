@@ -26,9 +26,7 @@ tags:
 - System Configuration
 - Troubleshooting
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- DevOps
 
 ---
 I recently ran into an odd problem at a customer where the local computer accounts of a computer joined to a domain started showing the SID periodically. For those not in the know, this is BAD.

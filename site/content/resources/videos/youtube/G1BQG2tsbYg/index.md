@@ -28,40 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Strategy
 - Enterprise Agility
 - Business Agility
-- Agile Strategy
 - Strategy
-- Agile Values and Principles
 - Agile Product Management
+- Agile Values and Principles
 - Agile Planning
-- Market Adaptability
-- Agile Project Management
-- Resilience and Change
-- Agile Frameworks
-- Change Management
-- Operational Practices
 - Strategic Goals
-- Decision Making
-- Organisational Change
-- Organisational Agility
-- Agile Philosophy
-- Agile Transformation
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Value Delivery
-- Organisational Culture
-- Organisational Physics
-- Digital Transformation
-- Agile Leadership
-- Metrics and Learning
-- Product Delivery
-- Forecasting
+- Change Management
+- Resilience and Change
 resourceTypes:
 - video
 categories:
 - Product Management
-- People and Process
 - Social Technologies
 
 ---

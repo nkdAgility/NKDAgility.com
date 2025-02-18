@@ -21,14 +21,26 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
-tags: []
+tags:
+- Coaching
+- Scrum Master
+- People and Process
+- Discovery and Learning
+- Professional Scrum
+- Practical Techniques and Tooling
+- Continuous Learning
+- Scrum Team
+- Team Collaboration
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 When I think about the journey of becoming a Scrum Master, I often reflect on the transformative experiences that shape our understanding and application of Agile principles. One of the most significant aspects of this journey is the immediate ability to put theory into practice. From the very first session of my training, participants are not just passive learners; they are actively engaged in identifying and addressing real issues within their organisations. 

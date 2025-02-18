@@ -30,17 +30,14 @@ tags:
 - Professional Scrum
 - Scaling Scrum
 - Scrum Values
-- Agile Product Management
-- Software Developers
-- Software Development
-- Agile Project Management
-- Agile Transformation
 - Agile Frameworks
-- Team Performance
-- Pragmatic Thinking
+- Software Development
+- Software Developers
+- People and Process
+- Agile Project Management
+- Agile Product Management
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 preview: clip_image001-1-1.png
 

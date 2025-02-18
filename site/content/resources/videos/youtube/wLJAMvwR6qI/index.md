@@ -30,7 +30,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Product Management
 
 ---

@@ -18,26 +18,13 @@ aliasesFor404:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
 categories:
-- Organisational Agility
-- Scrum
-- Discovery and Learning
-- Value Delivery
-- Resilience and Change
+- Social Technologies
 tags:
-- Agility
-- Empirical Process Control
-- Scrum
-- Scrum Team
-- Scrum Product Management
-- Agile Planning
-- Agile Product Discovery
-- Change Management
-- Continuous Improvement
-- Evidence Based Management
+- Agile Project Management
+- Events and Presentations
 - Agile Frameworks
+- Software Development
 - Agile Transformation
-- Team Collaboration
-- Organisational Agility
 
 ---
 Welcome to this month's edition of NKDAgility.

@@ -29,20 +29,18 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
+- Kanban
 - Operational Practices
 - Practical Techniques and Tooling
 - Flow Efficiency
-- Lean Thinking
-- Throughput
+- Agile Frameworks
 - Software Development
+- Lean Thinking
 - Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
-- Lean
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

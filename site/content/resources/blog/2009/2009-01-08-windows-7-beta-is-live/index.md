@@ -28,9 +28,7 @@ aliasesFor404:
 tags:
 - Windows
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Install and Configuration
-- News and Reviews
+categories: []
 
 ---
 If you have an [MSDN](https://msdn.microsoft.com) account you will be able to download [Windows 7](http://www.microsoft.com/windows/windows-7/default.aspx) Beta today, but it should be available for anyone by the end of next week.

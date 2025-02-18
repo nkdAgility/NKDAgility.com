@@ -27,48 +27,13 @@ tags:
 - Agile Product Operating Model
 - Agile Product Management
 - Agile Project Management
-- Value Delivery
-- Resilience and Change
-- Change Management
-- Product Discovery
-- Lean Product Development
-- Evidence Based Leadership
-- Product Delivery
 - Strategic Goals
-- Ability to Innovate
-- Evidence Based Management
-- Market Adaptability
-- Organisational Change
-- Decision Making
-- Agile Transformation
-- Agile Strategy
-- Product Validation
-- Product Strategy
-- Metrics and Learning
-- Business Agility
-- Agile Philosophy
-- Agile Frameworks
-- Organisational Physics
-- Hypothesis Driven Development
-- Pragmatic Thinking
-- Strategy
-- Continuous Learning
-- Digital Transformation
-- Sensemaking
-- Organisational Agility
-- Enterprise Agility
-- Empirical Process Control
-- Agile Leadership
-- Lean Startup
-- Portfolio Management
-- Operational Practices
-- Agile Planning
-- Complexity Thinking
-- Trend Analysis
-- Sociotechnical Systems
-categories:
+- Value Delivery
 - People and Process
-- Discovery and Learning
+- Resilience and Change
+- Evidence Based Leadership
+- Evidence Based Management
+categories:
 - Product Management
 - Leadership
 - Social Technologies

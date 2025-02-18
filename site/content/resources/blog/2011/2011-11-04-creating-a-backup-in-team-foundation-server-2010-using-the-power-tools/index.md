@@ -23,14 +23,15 @@ aliasesFor404:
 - /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 tags:
 - System Configuration
-- Technical Mastery
-- Windows
-- Pragmatic Thinking
-- Troubleshooting
-- Software Development
-categories:
 - Install and Configuration
+- Technical Mastery
 - Practical Techniques and Tooling
+- Windows
+- Software Development
+- Troubleshooting
+- Pragmatic Thinking
+categories:
+- DevOps
 
 ---
 Over the last few years the product team has been putting their finishing touches on a backup module for the Team Foundation Server Administration Console. Why you might ask do you need another way to backup? Surely you can just backup the bits?

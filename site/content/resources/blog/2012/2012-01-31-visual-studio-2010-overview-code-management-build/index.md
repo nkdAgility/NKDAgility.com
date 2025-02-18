@@ -28,16 +28,16 @@ aliasesFor404:
 - /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-code-management-build
 categories:
+- Engineering Excellence
+tags:
+- Software Development
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - Technical Excellence
-- Events and Presentations
-tags:
-- Software Development
-- Engineering Excellence
 - Modern Source Control
 - Continuous Integration
 - Operational Practices
+- Events and Presentations
 - Technical Mastery
 
 ---

@@ -26,18 +26,19 @@ aliasesFor404:
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
 - /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
 tags:
+- People and Process
 - Scrum Product Development
 - Agile Project Management
-- Scrum Team
+- Agile Product Management
 - Professional Scrum
+- Scrum Team
 - Agile Frameworks
-- Agile Transformation
 - Software Development
+- Agile Transformation
 - Transparency
 categories:
 - Scrum
-- People and Process
-- Agile Product Management
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

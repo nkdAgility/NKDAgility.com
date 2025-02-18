@@ -24,13 +24,13 @@ duration: 40
 isShort: true
 tags:
 - Organisational Culture
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- People and Process
 - Leadership
 
 ---

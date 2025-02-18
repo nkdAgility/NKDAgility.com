@@ -28,7 +28,8 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Personal
+- DevOps
+- Social Technologies
 preview: nakedalm-windows-logo-12-12.png
 
 ---

@@ -29,9 +29,9 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - Install and Configuration
-- System Configuration
-- Troubleshooting
 - Software Development
+- Troubleshooting
+- System Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-1-1.png
 

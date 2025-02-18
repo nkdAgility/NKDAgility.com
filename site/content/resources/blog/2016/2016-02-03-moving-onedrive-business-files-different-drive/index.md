@@ -30,8 +30,7 @@ tags:
 - Install and Configuration
 - System Configuration
 - Troubleshooting
-categories:
-- Personal
+categories: []
 preview: clip_image001-1-1-1.png
 
 ---

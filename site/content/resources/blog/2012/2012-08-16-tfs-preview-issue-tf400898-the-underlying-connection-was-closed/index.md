@@ -30,7 +30,8 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Azure DevOps
+- Engineering Excellence
+- DevOps
 preview: metro-problem-icon-4-4.png
 
 ---

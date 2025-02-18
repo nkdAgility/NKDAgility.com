@@ -22,11 +22,13 @@ aliasesFor404:
 - /blog/list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
-- Azure Repos
-- Software Development
-categories:
 - Practical Techniques and Tooling
+- Software Development
+- Azure Repos
 - Azure DevOps
+categories:
+- Engineering Excellence
+- DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

@@ -24,10 +24,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 preview: metro-aggreko-128-link-1-1.png
-categories:
-- News and Reviews
-- Products and Books
-- Application Lifecycle Management
+categories: []
 
 ---
 The Sticky Buddy has been updated to fix the following problems:

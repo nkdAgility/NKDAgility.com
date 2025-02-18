@@ -31,11 +31,7 @@ tags:
 - Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- Code and Complexity
-- Events and Presentations
-- Practical Techniques and Tooling
-- Technical Excellence
-- Application Lifecycle Management
+- Engineering Excellence
 
 ---
 How Visual Studio helps teams explore, understand, maintain, and uphold their project's architecture. Introduction to some basic architecture & design concepts and common trouble spots for teams.

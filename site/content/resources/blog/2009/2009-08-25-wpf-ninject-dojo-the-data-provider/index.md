@@ -26,11 +26,12 @@ aliasesFor404:
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/blog/wpf-ninject-dojo-the-data-provider
 tags:
-- Technical Mastery
-- Software Development
-categories:
 - Practical Techniques and Tooling
+- Software Development
+- Technical Mastery
 - Technical Excellence
+categories:
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

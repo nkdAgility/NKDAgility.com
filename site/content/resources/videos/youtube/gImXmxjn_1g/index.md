@@ -23,13 +23,25 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false
-tags: []
+tags:
+- Coaching
+- Agile Frameworks
+- Agile Strategy
+- People and Process
+- Business Agility
+- Agile Project Management
+- Agile Product Management
+- Organisational Agility
+- Agile Transformation
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
  Congratulations, you've earned your stripes as an #agilepractitioner and now it's time to bring your expertise, skills, and experience into the realm of #consulting. #agileconsulting to be precise.

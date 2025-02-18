@@ -29,10 +29,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
+- Leadership
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

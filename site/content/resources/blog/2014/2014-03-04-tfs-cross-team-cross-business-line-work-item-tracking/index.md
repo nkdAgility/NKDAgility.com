@@ -28,8 +28,9 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- People and Process
-- Technical Excellence
+- Product Management
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

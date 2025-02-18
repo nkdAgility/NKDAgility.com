@@ -28,28 +28,16 @@ aliasesFor404:
 tags:
 - Transparency
 - Increment
-- Definition of Done
 - Scrum Product Development
-- Agile Product Management
+- Definition of Done
 - Scrum Team
+- Agile Product Management
 - Agile Project Management
 - Value Delivery
-- Professional Scrum
-- Product Delivery
-- Team Performance
 - Software Development
-- Scrum Master
-- Working Software
-- Agile Planning
-- Pragmatic Thinking
-- Agile Transformation
-- Software Developers
-- Operational Practices
-- Empirical Process Control
-- Agile Frameworks
+- Team Performance
 categories:
 - Scrum
-- People and Process
 - Engineering Excellence
 - Social Technologies
 preview: 20190906_152025-2-2.gif

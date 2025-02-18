@@ -29,38 +29,19 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Evidence Based Leadership
 - Metrics and Learning
-- Empirical Process Control
-- Pragmatic Thinking
+- Evidence Based Leadership
+- People and Process
 - Transparency and Accountability
 - Ability to Innovate
+- Empirical Process Control
+- Pragmatic Thinking
+- Discovery and Learning
 - Evidence Based Management
-- Agile Strategy
-- Strategy
-- Organisational Physics
-- Organisational Agility
-- Decision Making
-- Agile Leadership
-- Products and Books
-- Trend Analysis
-- Technical Leadership
-- Business Agility
-- Organisational Change
-- Sociotechnical Systems
-- Organisational Culture
-- Agile Project Management
-- Sensemaking
-- Strategic Goals
-- Operational Practices
-- Value Delivery
-- Enterprise Agility
 resourceTypes:
 - video
 categories:
 - Leadership
-- People and Process
-- Discovery and Learning
 - Product Management
 - Social Technologies
 

@@ -21,14 +21,22 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 isShort: false
-tags: []
+tags:
+- Agile Product Management
+- Entrepreneurship
+- People and Process
+- Product Owner
+- Value Delivery
+- Product Discovery
+- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 As an entrepreneur, I often find myself reflecting on the pivotal role that product management plays in the success of a startup. Having navigated the tumultuous waters of entrepreneurship, I can confidently say that understanding value is not just a nice-to-have; it’s essential. This is why I wholeheartedly recommend the Professional Scrum Product Owner (PSPO) course, particularly for those of us who are at the helm of small organisations.

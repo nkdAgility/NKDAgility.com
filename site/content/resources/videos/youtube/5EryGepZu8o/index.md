@@ -27,20 +27,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Complexity Thinking
 - Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Values and Principles
 - Empirical Process Control
+- Agile Project Management
+- Agile Philosophy
 - Pragmatic Thinking
-- Sensemaking
+- Agile Values and Principles
 - Software Development
+- Sensemaking
 resourceTypes:
 - video
 layout: video
 categories:
-- Complexity Thinking
-- People and Process
+- Social Technologies
 
 ---
 If you could teach just one thing about Scrum, what would it be?

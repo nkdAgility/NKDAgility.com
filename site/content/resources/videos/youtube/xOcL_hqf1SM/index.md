@@ -21,7 +21,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
-tags: []
+tags:
+- Agile Frameworks
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,9 +31,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
 - Scrum
-- People and Process
 - Social Technologies
 
 ---

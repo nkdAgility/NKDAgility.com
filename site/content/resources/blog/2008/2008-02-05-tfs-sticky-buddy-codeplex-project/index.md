@@ -24,12 +24,14 @@ aliasesFor404:
 tags:
 - Software Development
 - Team Collaboration
-- Transparency
-- Collaboration Tools
-- Operational Practices
-categories:
 - Practical Techniques and Tooling
+- Collaboration Tools
+- Transparency
+- Operational Practices
 - Application Lifecycle Management
+categories:
+- DevOps
+- Social Technologies
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

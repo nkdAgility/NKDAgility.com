@@ -22,14 +22,11 @@ aliasesFor404:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
-- Evidence Based Leadership
 - Metrics and Learning
+- Evidence Based Leadership
 - Evidence Based Management
 categories:
-- People and Process
-- Discovery and Learning
 - Product Management
-- Events and Presentations
 - Engineering Excellence
 - Social Technologies
 preview: nakedalm-agility-index-24-24.png

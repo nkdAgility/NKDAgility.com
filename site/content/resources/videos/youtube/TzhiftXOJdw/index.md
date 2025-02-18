@@ -28,28 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
-- Agile Philosophy
+- People and Process
+- Market Adaptability
 - Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- BetaCodex
 - Change Management
-- Digital Transformation
+- Agile Transformation
+- Organisational Agility
 - Organisational Change
-- Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Scaling Agility
-- Software Development
-- Strategic Goals
-- Strategy
+- Business Agility
+- Agile Philosophy
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
-- Enterprise Agility
-- Market Adaptability
-- People and Process
+- Social Technologies
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

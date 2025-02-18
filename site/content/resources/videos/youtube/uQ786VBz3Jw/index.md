@@ -21,14 +21,27 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
-tags: []
+tags:
+- Transparency
+- Agile Planning Tools
+- Transparency and Accountability
+- Agile Product Management
+- People and Process
+- Product Owner
+- Agile Planning
+- Team Collaboration
+- Agile Frameworks
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Product Management
+- Social Technologies
 
 ---
 When it comes to effective Sprint planning, I’ve learned that there are a couple of key principles that can make all the difference. Drawing from my experiences, I want to share my top tips to help you and your team navigate this crucial phase of the Agile process.

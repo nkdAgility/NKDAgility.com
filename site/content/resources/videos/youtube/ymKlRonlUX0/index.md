@@ -29,18 +29,18 @@ sitemap:
   priority: 0.6
 tags:
 - Empirical Process Control
-- Agile Product Management
 - Agile Planning
+- People and Process
 - Agile Project Management
+- Agile Product Management
 - Agile Philosophy
 - Pragmatic Thinking
-- Software Developers
 - Software Development
+- Software Developers
 - Agile Transformation
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

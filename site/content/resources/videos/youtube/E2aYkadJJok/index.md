@@ -22,12 +22,13 @@ preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
+- Kanban
 - Practical Techniques and Tooling
 - Lean Thinking
-- Operational Practices
-- Throughput
 - Agile Project Management
 - Pragmatic Thinking
+- Throughput
+- Operational Practices
 - Flow Efficiency
 - Software Development
 sitemap:
@@ -37,7 +38,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

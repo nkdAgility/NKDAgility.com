@@ -21,11 +21,11 @@ aliasesFor404:
 - /team-system-mvp
 - /blog/team-system-mvp
 - /resources/blog/team-system-mvp
-tags: []
-categories:
+tags:
 - Personal
 - News and Reviews
 - Miscellaneous
+categories: []
 preview: metro-award-link-1-1.png
 
 ---

@@ -27,11 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Agile Strategy
+- Business Agility
+- Agile Project Management
+- Agile Transformation
+- Software Development
+- Coaching
+- Technical Leadership
+- People and Process
+- Organisational Agility
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

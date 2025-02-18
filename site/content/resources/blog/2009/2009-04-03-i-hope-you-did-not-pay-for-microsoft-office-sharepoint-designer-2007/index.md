@@ -21,10 +21,10 @@ aliasesFor404:
 - /i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /resources/blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
-tags: []
-preview: metro-sharepoint-128-link-1-1.png
-categories:
+tags:
 - News and Reviews
+preview: metro-sharepoint-128-link-1-1.png
+categories: []
 
 ---
 Coz its now free…

@@ -25,24 +25,17 @@ aliasesFor404:
 tags:
 - Throughput
 - Agile Product Management
-- Metrics and Learning
-- Value Delivery
 - Agile Project Management
-- Team Performance
-- Flow Efficiency
+- Value Delivery
+- Metrics and Learning
 - Decision Making
+- Flow Efficiency
+- Team Performance
 - Evidence Based Leadership
 - Operational Practices
-- Software Development
-- Pragmatic Thinking
-- Agile Planning
-- Practical Techniques and Tooling
-- Evidence Based Management
-- Estimation
 categories:
 - Social Technologies
 - Product Management
-- People and Process
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

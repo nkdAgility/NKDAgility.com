@@ -28,32 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
-- Decision Making
-- Employee Engagement
-- Organisational Culture
-- Pragmatic Thinking
-- Product Management
 - Product Owner
-- Psychological Safety
-- Scrum Master
-- Scrum Product Development
-- Scrum Team
+- Decision Making
 - Sprint Review
-- Team Collaboration
+- People and Process
+- Agile Product Management
+- Scrum Product Development
 - Team Motivation
-- Team Performance
-- Transparency
+- Organisational Culture
+- Agile Planning
+- Employee Engagement
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
+- Scrum
+- Product Management
+- Social Technologies
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

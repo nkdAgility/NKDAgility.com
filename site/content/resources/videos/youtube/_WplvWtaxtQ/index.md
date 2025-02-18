@@ -28,6 +28,7 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
+- People and Process
 - Scrum Team
 - Agile Project Management
 resourceTypes:
@@ -35,7 +36,6 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 
 ---

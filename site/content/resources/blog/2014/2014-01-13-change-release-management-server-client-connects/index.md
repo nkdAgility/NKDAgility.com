@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
 tags:
-- System Configuration
 - Release Management
+- System Configuration
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps

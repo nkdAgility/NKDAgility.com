@@ -28,8 +28,7 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Discovery and Learning
-- Practical Techniques and Tooling
+- Engineering Excellence
 preview: metro-binary-vb-128-link-3-1.png
 
 ---

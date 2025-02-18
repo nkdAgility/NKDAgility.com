@@ -24,9 +24,8 @@ aliasesFor404:
 tags:
 - System Configuration
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+- Engineering Excellence
+- DevOps
 
 ---
 ![](images/image_thumb-1-1.png)

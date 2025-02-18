@@ -18,28 +18,11 @@ aliasesFor404:
 - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 categories:
-- Organisational Agility
-- People and Process
 - Scrum
-- Discovery and Learning
-- Value Delivery
-- Events and Presentations
+- Social Technologies
 tags:
-- Agile Coaching
-- Agile Community
-- Agile Product Management
-- Agile Software Development
-- Scrum Master
-- Scrum Team
-- Continuous Improvement
-- Remote Working
-- Agile Transformation
-- Agile Values and Principles
-- Team Collaboration
-- Customer Feedback Loops
-- Evidence Based Improvement
-- Agile Planning
-- Value Delivery
+- Events and Presentations
+- People and Process
 
 ---
 I have been working on perfecting my techniques by incorporating Liberating Structures, Training from the Back of the Room, and Organization and Relationship Systems Coaching into my deliveries. I have found, along with many other trainers, that live-virtual delivery of classes can be more powerful, and more engaging.

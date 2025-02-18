@@ -20,17 +20,20 @@ card:
   content: Discover more about Continuous Delivery and how it can help you in your Agile journey!
   title: Continuous Delivery
 categories:
-- Discovery and Learning
+- Product Management
+- Engineering Excellence
+- DevOps
 tags:
-- Product Delivery
-- Value Delivery
 - Continuous Delivery
+- Value Delivery
+- Product Delivery
+- Product Validation
 - Customer Feedback Loops
 - Agile Product Management
-- Product Validation
-- Frequent Releases
-- Working Software
+- Discovery and Learning
 - Software Development
+- Working Software
+- Frequent Releases
 
 ---
 Closing the feedback loop is imposable without getting your product in front of the users that will be using it. Only they can determine if the perceived value that you think that you have is actually value.

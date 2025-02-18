@@ -27,13 +27,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Philosophy
+- Personal
 resourceTypes:
 - video
 layout: video
 categories:
-- People and Process
-- Personal
+- Scrum
+- Product Management
+- Leadership
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

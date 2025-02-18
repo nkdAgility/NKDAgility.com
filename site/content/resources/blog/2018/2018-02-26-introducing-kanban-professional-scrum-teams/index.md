@@ -29,20 +29,14 @@ tags:
 - Throughput
 - Metrics and Learning
 - Agile Project Management
-- Products and Books
-- Operational Practices
-- Software Developers
-- Practical Techniques and Tooling
-- Flow Efficiency
-- Software Development
 - Agile Frameworks
-- Pragmatic Thinking
-- Professional Scrum
-- Product Delivery
-- Agile Transformation
-categories:
 - Events and Presentations
+- Software Development
+- Software Developers
+- Products and Books
 - News and Reviews
+- Practical Techniques and Tooling
+categories:
 - Social Technologies
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 

@@ -28,22 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Working Agreements
+- People and Process
 - Team Performance
 - Team Collaboration
+- Working Agreements
 - Agile Project Management
 - Pragmatic Thinking
 - Strategy
 - Team Motivation
-- Self Organisation
-- Operational Practices
 - Accountability
-- Sociotechnical Systems
-- Software Development
+- Self Organisation
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

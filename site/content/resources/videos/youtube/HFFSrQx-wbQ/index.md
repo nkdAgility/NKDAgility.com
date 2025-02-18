@@ -21,7 +21,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
-tags: []
+tags:
+- Agile Values and Principles
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,10 +31,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Discovery and Learning
 - Leadership
-- Miscellaneous
 - Social Technologies
 
 ---

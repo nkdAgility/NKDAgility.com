@@ -27,10 +27,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Software Developers
+- Software Development
+- Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Engineering Excellence
+- Product Management
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

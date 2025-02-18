@@ -27,10 +27,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Decision Theory
+- Sensemaking
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

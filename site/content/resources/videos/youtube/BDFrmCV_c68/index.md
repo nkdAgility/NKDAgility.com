@@ -28,19 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
+- Metrics and Learning
+- Personal
+- Pragmatic Thinking
+- Product Owner
+- Agile Product Management
+- Value Delivery
 - Evidence Based Leadership
 - Experimentation
 - Hypothesis Driven Development
-- Pragmatic Thinking
-- Product Management
-- Product Owner
+- Decision Making
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Metrics and Learning
-- Personal
+- Product Management
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

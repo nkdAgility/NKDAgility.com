@@ -23,22 +23,19 @@ aliasesFor404:
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
 - Software Developers
+- Install and Configuration
 - Software Development
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Azure DevOps
 - Technical Mastery
-- Engineering Excellence
+- Technical Excellence
 - Continuous Integration
 - System Configuration
 - Azure Pipelines
-- Operational Practices
-- Troubleshooting
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Engineering Excellence
 - DevOps
-- Azure DevOps
-- Technical Excellence
 
 ---
 ![vs2010alm](images/e6d297adc9ef_12485-vs2010alm_-4-8.png)At SSW we use gated check-in for all of our projects. The benefits are based on the number of developers you have working on your project.

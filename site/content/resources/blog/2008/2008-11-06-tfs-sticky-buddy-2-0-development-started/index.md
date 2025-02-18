@@ -29,10 +29,7 @@ tags:
 - Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Code and Complexity
-- Install and Configuration
-- Application Lifecycle Management
-- Technical Excellence
+- Engineering Excellence
 
 ---
 Lets just say that it will be a while in development. I am trying to implement the Composite Application blocks for WPF from Microsoft in an attempt to make the application more modular. I will be updating and [releasing under the v2.0 CTP](http://hinshelwood.com/downloads/TFSStickyBuddy/v2.0/) version and I have uploaded the installation files. This is a [ClickOnce application](http://hinshelwood.com/downloads/TFSStickyBuddy/v2.0/Hinshelwood.TFSStickyBuddy.application), so you will always have the latest version of the CTP.

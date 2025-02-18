@@ -22,14 +22,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false
-tags: []
+tags:
+- Agile Leadership
+- Agile Transformation
+- Organisational Agility
+- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
  Leading Agile Change is hard and many companies have already been through their agile evolution. What learnings have they found to increase the value delivered. Martin will go through a number of excellent complimentary practices that might provide you with value.

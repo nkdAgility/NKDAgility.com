@@ -23,11 +23,7 @@ aliasesFor404:
 - /resources/blog/tfs-admin-tool-1-2-gotcha
 tags:
 - Troubleshooting
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
-- Application Lifecycle Management
+categories: []
 
 ---
 I ran into a small problem with the tfs admin tool.

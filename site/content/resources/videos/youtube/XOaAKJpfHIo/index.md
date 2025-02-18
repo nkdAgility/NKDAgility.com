@@ -28,24 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Customer Retention
-- Customer Satisfaction
-- Frequent Releases
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
 - Software Development
+- Value Delivery
+- People and Process
+- Product Delivery
+- Software Developers
+- Market Adaptability
+- Pragmatic Thinking
 - Working Software
+- Agile Project Management
+- Customer Retention
 resourceTypes:
 - video
 categories:
 - DevOps
-- Product Delivery
-- Value Delivery
+- Social Technologies
 
 ---
 How important is DevOps in continuous delivery of value to customers?

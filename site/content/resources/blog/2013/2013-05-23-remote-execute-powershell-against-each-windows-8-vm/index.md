@@ -25,7 +25,7 @@ tags:
 - Windows
 - Technical Mastery
 categories:
-- Technical Excellence
+- DevOps
 preview: image11-1-1.png
 
 ---

@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 tags:
 - Install and Configuration
-- System Configuration
-- Practical Techniques and Tooling
 - Azure Boards
-- Azure DevOps
+- Practical Techniques and Tooling
+- System Configuration
 - Software Development
+- Azure DevOps
 categories: []
 
 ---

@@ -28,11 +28,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Values and Principles
+- Pragmatic Thinking
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Management
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

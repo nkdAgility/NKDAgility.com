@@ -22,9 +22,8 @@ preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- Agile Product Management
-- Sociotechnical Systems
-- Organisational Psychology
+- People and Process
+- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,7 +31,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
+- Product Management
+- Leadership
+- Scrum
 
 ---
 Understanding is one of those elusive concepts that we often take for granted in our day-to-day interactions, especially in the realm of product ownership. As I’ve navigated through various teams and projects, one thing has become abundantly clear: you can't measure understanding. It’s not as straightforward as drawing a line in the sand and declaring, “At this point, everyone gets it.” Instead, understanding is nebulous, fuzzy, and deeply personal.

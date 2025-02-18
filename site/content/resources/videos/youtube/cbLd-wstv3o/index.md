@@ -33,10 +33,10 @@ tags:
 - Value Delivery
 - Evidence Based Management
 - Evidence Based Leadership
-- Decision Making
 - Pragmatic Thinking
-- Ability to Innovate
+- Decision Making
 - Product Owner
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

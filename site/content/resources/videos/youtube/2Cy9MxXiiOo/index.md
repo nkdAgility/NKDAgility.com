@@ -26,11 +26,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum Product Development
+- Agile Project Management
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Social Technologies
+- Scrum
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

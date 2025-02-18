@@ -22,8 +22,9 @@ preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Organisational Psychology
+- People and Process
 - Metrics and Learning
+- Organisational Psychology
 - Employee Engagement
 - Sociotechnical Systems
 sitemap:
@@ -33,7 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
+- Leadership
 
 ---
 In my journey through various organisations, I've come to realise a fundamental truth: the way we measure people profoundly influences their behaviour. This insight has been a game-changer for me, especially when navigating the complexities of team dynamics and organisational culture. 

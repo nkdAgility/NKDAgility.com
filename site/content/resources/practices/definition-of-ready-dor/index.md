@@ -24,21 +24,17 @@ card:
   title: Definition of Ready (DoR)
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 tags:
 - Definition of Ready
 - Product Backlog
+- Scrum Product Development
+- Software Developers
 - Backlog Refinement
+- People and Process
 - Agile Product Management
 - Scrum Team
-- Software Developers
-- Scrum Product Development
 - Professional Scrum
-- Agile Planning
-- Software Development
-- Agile Project Management
-- Pragmatic Thinking
 - Agile Frameworks
 
 ---

@@ -25,10 +25,10 @@ aliasesFor404:
 - /microsoft-surface--wow
 - /blog/microsoft-surface--wow
 - /resources/blog/microsoft-surface-wow
-tags: []
-preview: nakedalm-logo-128-link-1-1.png
-categories:
+tags:
 - News and Reviews
+preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 I have just looked at the [Surface first look](http://www.microsoft.com/surface/) site and I am truly amazed! I want one, really badly...

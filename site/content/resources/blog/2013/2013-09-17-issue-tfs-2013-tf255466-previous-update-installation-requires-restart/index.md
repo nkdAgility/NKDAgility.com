@@ -27,8 +27,7 @@ aliasesFor404:
 - /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 tags:
 - Troubleshooting
-categories:
-- Personal
+categories: []
 preview: metro-problem-icon-4-4.png
 
 ---

@@ -21,10 +21,10 @@ aliasesFor404:
 - /developer-vindication
 - /blog/developer-vindication
 - /resources/blog/developer-vindication
-categories:
-- Personal
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags: []
+tags:
+- Personal
 
 ---
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...

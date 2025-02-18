@@ -27,23 +27,17 @@ aliasesFor404:
 - /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 tags:
 - Software Development
-- Working Software
-- Strategy
-- Pragmatic Thinking
-- Software Developers
-- Agile Strategy
-- Engineering Excellence
-- Digital Transformation
-- Operational Practices
-categories:
 - People and Process
 - Products and Books
-- Value Delivery
-- Application Lifecycle Management
 - Events and Presentations
+- Application Lifecycle Management
+- Value Delivery
+- Working Software
 - Practical Techniques and Tooling
 - Azure DevOps
 - Product Delivery
+categories:
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

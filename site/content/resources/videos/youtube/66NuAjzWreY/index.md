@@ -35,7 +35,6 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
-- People and Process
 
 ---
 ## **What is Evidence-Based Management?**

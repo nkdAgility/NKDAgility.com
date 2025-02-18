@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\blog"
+$outputDir = ".\site\content\resources"
 
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
@@ -65,6 +65,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         $runBatchCheck = $false
     }
     $ActivityText = "Processing [Q1:$($Counter)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
+    Write-InformationLog $ActivityText 
     if ((($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) -and $batchCheckCount -le $hugoMarkdownBatchQueue.Count) -or $hugoMarkdownQueue.Count -eq 0) {
         $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
         $batchCheckCount++
@@ -119,6 +120,9 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
     #=================ResourceType=================
     $ResourceType = Get-ResourceType  -FilePath  $hugoMarkdown.FolderPath
+    if ($null -eq $ResourceType) {
+        $ResourceType = $hugoMarkdown.FrontMatter.type
+    }
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue $ResourceType -addAfter 'ResourceId' -Overwrite
 
     #=================ResourceImport+=================
@@ -213,12 +217,23 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
         # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
         #-----------------Categories-------------------
-        $categoryClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "categories" -Catalog $categoriesCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3
-        $categories = $categoryClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
+        $categoryClassification = Get-CategoryConfidenceWithChecksum  -updateMissing `
+            -ClassificationType "categories" `
+            -Catalog $categoriesCatalog `
+            -CacheFolder $hugoMarkdown.FolderPath `
+            -ResourceContent  $BodyContent `
+            -ResourceTitle $hugoMarkdown.FrontMatter.title
+        $categories = $categoryClassification | ConvertFrom-Json | Sort-Object final_score -Descending | Select-Object -First 3 | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
         #-----------------Tags-------------------
-        $tagClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "tags" -Catalog $tagsCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 20 -batch
-        $tags = $tagClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
+        $tagClassification = Get-CategoryConfidenceWithChecksum -batch -updateMissing `
+            -ClassificationType "tags" `
+            -Catalog $tagsCatalog `
+            -CacheFolder $hugoMarkdown.FolderPath `
+            -ResourceContent  $BodyContent `
+            -ResourceTitle $hugoMarkdown.FrontMatter.title
+
+        $tags = $tagClassification | ConvertFrom-Json | Sort-Object final_score -Descending | Select-Object -First 10 | ForEach-Object { $_.category } #| Sort-Object
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
 
     }
@@ -229,7 +244,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
            
         }
         "podcast" { 
-                
+                 
         }
         "videos" { 
             if ($hugoMarkdown.FrontMatter.Contains('canonicalURL')) {

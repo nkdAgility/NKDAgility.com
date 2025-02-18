@@ -29,10 +29,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Product Owner
+- Agile Product Management
+- Agile Project Management
+- Personal
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 ## Common Comments from the PSPO Course

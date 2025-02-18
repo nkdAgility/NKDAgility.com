@@ -29,10 +29,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Agile Project Management
+- Agile Transformation
+- Pragmatic Thinking
+- Coaching
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

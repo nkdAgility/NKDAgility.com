@@ -21,14 +21,25 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false
-tags: []
+tags:
+- Agile Values and Principles
+- People and Process
+- Agile Project Management
+- Team Collaboration
+- Agile Transformation
+- Software Developers
+- Organisational Culture
+- Change Management
+- Team Performance
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, Scrum Master, or product owner.

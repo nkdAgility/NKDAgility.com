@@ -22,14 +22,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false
-tags: []
+tags:
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
 
 ---
  Something very close to my heart is helping folks understand the origin of the practices that are commonly used in management today. I feel that only with an understanding of history can we figure out how to change the future. I often talk about this in my classes and help folks see why things are the way that they are in many organisations.

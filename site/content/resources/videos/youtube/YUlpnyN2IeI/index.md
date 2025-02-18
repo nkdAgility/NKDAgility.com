@@ -30,23 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
-- Agile Values and Principles
-- Empirical Process Control
-- Pragmatic Thinking
 - Scrum Master
-- Software Developers
+- Empirical Process Control
+- Agile Values and Principles
 - Software Development
+- Software Developers
+- Agile Project Management
+- Personal
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Personal
+- Scrum
+- Social Technologies
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

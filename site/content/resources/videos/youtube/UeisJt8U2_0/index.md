@@ -28,17 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Master
+- People and Process
+- Scrum Team
 - Agile Frameworks
 - Agile Project Management
-- Professional Scrum
-- Scrum Master
-- Scrum Team
 - Software Development
+- Personal
+- Professional Scrum
 resourceTypes:
 - video
 categories:
-- People and Process
-- Personal
+- Scrum
+- Social Technologies
 
 ---
 # Navigating the Plague of Incompetence in Agile Coaching 🚧

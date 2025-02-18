@@ -29,32 +29,19 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
+- People and Process
+- Agile Strategy
+- Discovery and Learning
+- Agile Transformation
 - Agile Philosophy
+- Agile Project Management
 - Business Agility
 - Market Adaptability
-- Agile Strategy
 - Change Management
-- Agile Transformation
-- Agile Project Management
-- Organisational Change
-- Enterprise Agility
-- Pragmatic Thinking
-- Continuous Learning
-- Organisational Agility
-- Organisational Culture
-- Resilience and Change
-- Agile Values and Principles
-- Value Delivery
-- Sociotechnical Systems
-- Organisational Physics
-- Sensemaking
-- Empirical Process Control
 resourceTypes:
 - video
 categories:
 - Leadership
-- People and Process
-- Discovery and Learning
 - Social Technologies
 
 ---

@@ -26,11 +26,11 @@ aliasesFor404:
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 tags:
-- System Configuration
-- Troubleshooting
-categories:
-- Install and Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Install and Configuration
+- Troubleshooting
+categories: []
 preview: metro-problem-icon-5-5.png
 
 ---

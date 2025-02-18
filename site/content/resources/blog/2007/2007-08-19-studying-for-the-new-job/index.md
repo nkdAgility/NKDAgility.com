@@ -22,12 +22,9 @@ aliasesFor404:
 - /blog/studying-for-the-new-job
 - /resources/blog/studying-for-the-new-job
 tags:
-- Windows
-- Continuous Learning
-- Software Development
-preview: metro-sharepoint-128-link-1-1.png
-categories:
 - Products and Books
+preview: metro-sharepoint-128-link-1-1.png
+categories: []
 
 ---
 I will be [starting a new job](http://blog.hinshelwood.com/archive/2007/08/16/A-change-for-the-better.aspx) in around a month and I wanted to get up-to-speed with the technologies that the new company want to be using. To start with I have had a look at a number of certifications:

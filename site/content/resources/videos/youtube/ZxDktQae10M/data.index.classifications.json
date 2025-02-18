@@ -514,12 +514,12 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-11T21:23:42",
+    "calculated_at": "2025-02-17T16:42:34",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions installation and configuration basics, which are relevant to the Windows operating system, but the primary focus is on VSTS Sync Migration Tools rather than Windows itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -600,15 +600,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the overview of VSTS Sync Migration Tools, which is not directly related to Continuous Delivery principles or practices.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "calculated_at": "2025-02-11T21:23:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses VSTS Sync Migration Tools, which is unrelated to BetaCodex principles or organisational design.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -1189,12 +1180,12 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-11T21:21:41",
+    "calculated_at": "2025-02-17T16:42:34",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions VSTS Sync Migration Tools, which are related to Azure DevOps, but it primarily focuses on an overview of the tools rather than in-depth discussions on Azure DevOps functionalities or practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1320,6 +1311,69 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of VSTS Sync Migration Tools, with no relevance to organisational psychology.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T11:15:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and their installation and configuration, with no discussion of Scrum, Kanban, Lean, or Agile practices.",
+    "level": "Ignored"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T11:15:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical implementation details of VSTS Sync Migration Tools, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-18T11:15:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and does not discuss BetaCodex principles or related topics.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-18T11:15:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and their installation and configuration, with no clear discussion on the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T11:15:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and does not discuss Scrum principles, practices, or frameworks.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-18T11:15:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and their installation and configuration, with no discussion on Agile principles or product-centric development.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-18T11:15:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools, which does not align with the core principles of platform engineering or internal developer platforms.",
     "level": "Ignored"
   }
 }

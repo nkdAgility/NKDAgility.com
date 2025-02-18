@@ -29,11 +29,11 @@ tags:
 - Metrics and Learning
 - Practical Techniques and Tooling
 - Forecasting
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - Value Delivery
-- Decision Making
 - Estimation
+- Decision Making
 resourceTypes:
 - video
 categories:

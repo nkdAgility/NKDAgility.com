@@ -21,7 +21,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 isShort: true
-tags: []
+tags:
+- Scrum Master
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
+- Software Development
+- People and Process
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,7 +37,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 
 ---

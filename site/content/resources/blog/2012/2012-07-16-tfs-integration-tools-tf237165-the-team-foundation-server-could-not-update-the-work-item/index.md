@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags:
 - Troubleshooting
-- System Configuration
-- Software Development
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Software Development
+categories: []
 preview: metro-problem-icon-2-2.png
 
 ---

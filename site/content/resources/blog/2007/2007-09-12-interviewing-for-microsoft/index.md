@@ -22,10 +22,11 @@ aliasesFor404:
 - /blog/interviewing-for-microsoft
 - /resources/blog/interviewing-for-microsoft
 tags:
-- Continuous Learning
-categories:
 - Personal
 - Miscellaneous
+- Continuous Learning
+categories:
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

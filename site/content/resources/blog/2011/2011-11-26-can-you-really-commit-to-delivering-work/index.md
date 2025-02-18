@@ -29,34 +29,17 @@ tags:
 - Transparency
 - Forecasting
 - Scrum Product Development
+- Transparency and Accountability
 - Software Development
 - Agile Planning
+- Product Delivery
 - Scrum Team
+- Agile Product Management
 - Agile Values and Principles
-- Team Performance
-- Agile Philosophy
-- Pragmatic Thinking
-- Software Developers
-- Agile Project Management
-- Professional Scrum
-- Empirical Process Control
-- Agile Transformation
-- Agile Frameworks
-- Scrum Values
-- Accountability
-- Scrum Master
-- Agile Strategy
-- Product Management
-- Change Management
-- Estimation
 categories:
 - Scrum
-- Agile Product Management
-- Product Delivery
-- Transparency and Accountability
-- People and Process
-- Value Delivery
-- Organisational Agility
+- Social Technologies
+- Product Management
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

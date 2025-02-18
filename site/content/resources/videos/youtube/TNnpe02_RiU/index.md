@@ -27,10 +27,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Software Developers
+- People and Process
+- Software Development
+- Pragmatic Thinking
+- Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Social Technologies
 
 ---
 **What is Your Peeve in DevOps**

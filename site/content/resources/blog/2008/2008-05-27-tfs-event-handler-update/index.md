@@ -22,16 +22,16 @@ aliasesFor404:
 - /blog/tfs-event-handler-update
 - /resources/blog/tfs-event-handler-update
 tags:
-- Working Software
 - Release Management
-- Frequent Releases
-- Troubleshooting
-- Software Development
-categories:
+- Working Software
 - News and Reviews
 - Practical Techniques and Tooling
-- Azure DevOps
 - Application Lifecycle Management
+- Software Development
+- Azure DevOps
+- Troubleshooting
+- Frequent Releases
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

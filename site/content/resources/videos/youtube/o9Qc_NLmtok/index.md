@@ -25,10 +25,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Discovery and Learning
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Immersive Learning: 8 Weeks of Deep Engagement

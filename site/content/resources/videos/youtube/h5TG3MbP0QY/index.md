@@ -29,7 +29,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Customer Satisfaction
+- Transparency and Accountability
+- Agile Values and Principles
+- Accountability
+- Personal
+- Miscellaneous
+- Agile Philosophy
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

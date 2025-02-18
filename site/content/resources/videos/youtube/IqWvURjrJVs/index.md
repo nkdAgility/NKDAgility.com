@@ -22,14 +22,25 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
-tags: []
+tags:
+- Coaching
+- People and Process
+- Organisational Agility
+- Business Agility
+- Agile Frameworks
+- Scrum Product Development
+- Software Development
+- Agile Strategy
+- Team Performance
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

@@ -23,17 +23,16 @@ aliasesFor404:
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 tags:
 - Software Development
-- System Configuration
-- Windows
-- Technical Mastery
-- Operational Practices
-- Pragmatic Thinking
-categories:
 - Install and Configuration
+- System Configuration
 - Platform Engineering
 - Practical Techniques and Tooling
+- Windows
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
+- Operational Practices
+categories:
 - DevOps
 
 ---

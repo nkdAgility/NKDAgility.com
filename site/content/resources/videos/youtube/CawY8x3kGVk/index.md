@@ -28,27 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Product Development
 - Scrum Team
-- Self Organisation
+- Professional Scrum
+- Agile Product Management
+- Agile Project Management
+- People and Process
 - Software Developers
-- Software Development
-- Team Collaboration
-- Team Performance
-- Technical Debt
 - Technical Leadership
+- Agile Frameworks
+- Self Organisation
+- Software Development
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Sociotechnical Systems
+- Scrum
+- Social Technologies
 
 ---
 # Scrum and Micromanagement: Dispelling the Myth 🚀

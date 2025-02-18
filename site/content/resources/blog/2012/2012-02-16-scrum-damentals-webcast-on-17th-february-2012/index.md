@@ -22,17 +22,18 @@ aliasesFor404:
 - /blog/scrum-damentals-webcast-on-17th-february-2012
 - /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 tags:
-- Agile Frameworks
-- Agile Transformation
 - Professional Scrum
+- Agile Frameworks
+- Events and Presentations
 - Agile Project Management
-- Pragmatic Thinking
+- Agile Transformation
 - Software Development
+- Pragmatic Thinking
+- People and Process
 - Software Developers
 categories:
 - Scrum
-- Events and Presentations
-- People and Process
+- Social Technologies
 preview: metro-event-128-link-1-1.png
 
 ---

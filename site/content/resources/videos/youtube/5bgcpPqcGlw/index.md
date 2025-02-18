@@ -20,7 +20,11 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
 isShort: false
-tags: []
+tags:
+- Events and Presentations
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +32,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
 
 ---
 In my journey through the world of software development and site reliability engineering, I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure DevOps team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.

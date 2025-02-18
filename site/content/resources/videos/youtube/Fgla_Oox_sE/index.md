@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
+- People and Process
 - Agile Product Management
 - Scrum Product Development
 - Value Delivery
@@ -38,7 +39,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
 
 ---

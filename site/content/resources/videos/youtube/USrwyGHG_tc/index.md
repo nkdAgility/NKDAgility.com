@@ -29,10 +29,23 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Values and Principles
+- Scrum Team
+- Scrum Master
+- Business Agility
+- Professional Scrum
+- People and Process
+- Team Performance
+- Team Collaboration
+- Agile Product Management
+- Agile Frameworks
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
+- Leadership
 
 ---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 

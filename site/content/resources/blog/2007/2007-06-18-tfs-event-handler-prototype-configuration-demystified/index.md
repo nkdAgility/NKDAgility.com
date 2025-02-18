@@ -24,12 +24,13 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Technical Mastery
-- Software Development
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
 - Azure DevOps
+- Technical Mastery
+categories:
+- Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

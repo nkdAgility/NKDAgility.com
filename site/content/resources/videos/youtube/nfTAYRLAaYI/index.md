@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Lean Thinking
-- Operational Practices
-- Agile Project Management
+- Kanban
 - Agile Frameworks
+- Lean Thinking
+- Agile Project Management
+- Operational Practices
 - Lean Principles
 - Software Development
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

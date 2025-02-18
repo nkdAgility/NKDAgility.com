@@ -33,8 +33,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Kanban
 - Product Management
 - Social Technologies
 

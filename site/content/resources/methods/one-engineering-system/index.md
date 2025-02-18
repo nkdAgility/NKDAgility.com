@@ -28,15 +28,14 @@ card:
 categories:
 - Engineering Excellence
 - DevOps
-- Technical Excellence
 tags:
 - Strategy
 - One Engineering System (1ES)
-- Azure DevOps
 - Software Development
-- Operational Practices
-- Practical Techniques and Tooling
+- Azure DevOps
 - Team Collaboration
+- Practical Techniques and Tooling
+- Operational Practices
 - Pragmatic Thinking
 - Collaboration Tools
 - Software Developers

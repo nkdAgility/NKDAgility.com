@@ -22,14 +22,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
-tags: []
+tags:
+- Agile Philosophy
+- Organisational Agility
+- Change Management
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
+- Social Technologies
 
 ---
  There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can’t install it. There is no end state, no optimal outcome, No best practices. We are no longer factory workers.

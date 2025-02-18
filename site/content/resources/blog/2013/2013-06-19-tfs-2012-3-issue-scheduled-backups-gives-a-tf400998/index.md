@@ -29,16 +29,15 @@ aliasesFor404:
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 tags:
 - Windows
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Install and Configuration
+- Software Development
 - Azure DevOps
 - Troubleshooting
-- Software Development
 - Pragmatic Thinking
 - Technical Mastery
 categories:
-- Technical Excellence
 - DevOps
 preview: puzzle-issue-problem-128-link-3-3.png
 

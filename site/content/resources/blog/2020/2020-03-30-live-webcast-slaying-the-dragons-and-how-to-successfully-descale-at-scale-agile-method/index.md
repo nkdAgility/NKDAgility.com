@@ -26,9 +26,11 @@ aliasesFor404:
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 tags:
+- Events and Presentations
 - Organisational Agility
 categories:
-- Events and Presentations
+- Leadership
+- Social Technologies
 preview: 2020-03-27_21-36-13-1-1.jpg
 
 ---

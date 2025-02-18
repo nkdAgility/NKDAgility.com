@@ -28,28 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Planning Tools
-- Agile Project Management
-- Decision Making
-- Pragmatic Thinking
-- Product Backlog
-- Product Management
 - Product Owner
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
+- Product Backlog
 - Scrum Team
+- Agile Product Management
+- Scrum Master
+- People and Process
+- Professional Scrum
 - Software Developers
 - Software Development
-- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
+- Scrum
+- Social Technologies
+- Product Management
 
 ---
 ## Navigating Sprint Backlog Selection

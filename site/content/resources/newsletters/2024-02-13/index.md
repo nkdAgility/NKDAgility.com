@@ -18,16 +18,16 @@ aliasesFor404:
 - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 categories:
-- Events and Presentations
-- People and Process
 - Social Technologies
 tags:
 - Agile Project Management
+- Events and Presentations
+- People and Process
 - Products and Books
 - Software Development
 - Agile Product Management
-- Practical Techniques and Tooling
 - Agile Transformation
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 
 ---

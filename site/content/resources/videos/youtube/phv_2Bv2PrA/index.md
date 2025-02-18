@@ -22,14 +22,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
 isShort: false
-tags: []
+tags:
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Engineering Excellence
+- Social Technologies
 
 ---
  This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 

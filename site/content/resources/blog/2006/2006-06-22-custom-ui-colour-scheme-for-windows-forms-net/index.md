@@ -25,9 +25,11 @@ aliasesFor404:
 - /custom-ui-colour-scheme-for-windows-forms--net
 - /blog/custom-ui-colour-scheme-for-windows-forms--net
 - /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
-tags: []
-categories:
-- Install and Configuration
+tags:
+- Windows
+- Software Development
+- Technical Mastery
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

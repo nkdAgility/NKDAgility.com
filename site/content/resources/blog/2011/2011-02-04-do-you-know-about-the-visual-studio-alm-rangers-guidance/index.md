@@ -26,12 +26,10 @@ aliasesFor404:
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 tags:
-- Technical Mastery
-- Engineering Excellence
-- Software Development
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
-- Application Lifecycle Management
+- Engineering Excellence
 
 ---
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_2.png)

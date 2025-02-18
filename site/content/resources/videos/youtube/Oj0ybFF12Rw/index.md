@@ -27,10 +27,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scaling Scrum
+- Scaling Agility
+- Agile Frameworks
+- Software Development
+- Agile Project Management
+- Professional Scrum
+- Scaled Agile
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 ## "Don't scale scrum" - A Common Refrain 

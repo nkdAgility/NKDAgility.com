@@ -2,13 +2,13 @@
 title: Words matter.
 description: "Join Simon Reindl and Martin Hinshelwood in this month's podcast as they discuss the vital role of language and transparency in the #agile world."
 ResourceId: Z1FuzHOIZD5
-ResourceImport: true
+ResourceImport: false
 ResourceType: podcast
 date: 2023-06-29
 categories:
-- Transparency and Accountability
-- People and Process
-- Discovery and Learning
+- DevOps
+- Scrum
+- Social Technologies
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -16,7 +16,8 @@ slug: words-matter
 aliases:
 - /resources/Z1FuzHOIZD5
 tags:
-- Discovery and Learning
+- Transparency
+- Transparency and Accountability
 
 ---
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of transparency, specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

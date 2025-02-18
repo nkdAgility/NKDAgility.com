@@ -28,31 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- Product Validation
-- Product Delivery
-- Customer Feedback Loops
 - Product Owner
-- Agile Product Management
+- Product Validation
+- Discovery and Learning
+- Customer Feedback Loops
+- Agile Product Operating Model
 - Value Delivery
-- Pragmatic Thinking
-- Agile Project Management
-- Organisational Agility
-- Agile Planning
-- Customer Satisfaction
-- Agile Philosophy
-- Market Adaptability
+- Product Delivery
+- Agile Product Management
 - Business Agility
-- Agile Values and Principles
-- Product Strategy
-- Scrum Product Development
-- Customer Retention
+- Agile Project Management
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Product Management
-- People and Process
 
 ---
 In the fast-paced world of Agile development, one of the most critical aspects of delivering value is how effectively we turn user feedback into concrete work items. It’s not just about listening to what our users have to say; it's about taking that feedback and quickly transforming it into actions that improve our product. If your feedback loop is slow, your product’s value might be diminishing. Let's explore how to shorten that timeline, ensuring that user feedback fuels continuous improvement and high-value delivery.

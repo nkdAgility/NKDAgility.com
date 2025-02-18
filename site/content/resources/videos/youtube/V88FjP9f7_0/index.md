@@ -27,10 +27,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Values and Principles
+- Agile Project Management
+- Agile Philosophy
+- Agile Frameworks
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

@@ -28,25 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Planning Tools
-- Agile Project Management
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
-- Scrum Team
-- Software Developers
+- Professional Scrum
+- Agile Planning
 - Software Development
-- Team Collaboration
-- Team Performance
+- Agile Project Management
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Product Delivery
+- Scrum
+- Social Technologies
 
 ---
 ## Setting the Tone for Success

@@ -29,10 +29,13 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- People and Process
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

@@ -28,15 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Learning
-- Sociotechnical Systems
-- Coaching
-- Pragmatic Thinking
-- Team Collaboration
+- Discovery and Learning
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
+categories: []
 
 ---
 In the world of Agile and Scrum, training is essential for teams to stay effective and efficient. However, traditional training methods can often feel disconnected from real-world application. This is where immersive learning comes in, offering a holistic approach that integrates not only theory but also practical, hands-on experience.

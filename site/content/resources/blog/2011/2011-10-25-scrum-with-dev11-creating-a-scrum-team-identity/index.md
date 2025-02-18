@@ -27,17 +27,18 @@ aliasesFor404:
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 tags:
 - Scrum Team
+- People and Process
 - Team Collaboration
+- News and Reviews
+- Practical Techniques and Tooling
 - Agile Frameworks
-- Agile Transformation
-- Agile Project Management
-- Software Developers
 - Software Development
+- Software Developers
+- Agile Project Management
+- Agile Transformation
 categories:
 - Scrum
-- News and Reviews
-- People and Process
-- Practical Techniques and Tooling
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

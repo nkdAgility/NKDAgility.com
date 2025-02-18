@@ -22,7 +22,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
 isShort: false
-tags: []
+tags:
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -28,30 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Business Agility
+- Strategic Goals
 - Organisational Culture
 - Organisational Agility
-- Strategic Goals
-- Organisational Change
-- Enterprise Agility
+- People and Process
+- Business Agility
 - Market Adaptability
 - Operational Practices
 - Organisational Physics
-- Agile Strategy
 - Value Delivery
-- Sociotechnical Systems
-- Resilience and Change
-- Pragmatic Thinking
-- Continuous Learning
-- Sensemaking
-- Strategy
-- Complexity Thinking
-- Ability to Innovate
+- Organisational Change
 resourceTypes:
 - video
 categories:
-- People and Process
-- Systems Thinking
+- Scrum
+- Engineering Excellence
+- Product Management
 
 ---
 In times of economic uncertainty, whether it's a recession, market instability, or a downturn, organizations often resort to cost-cutting as a knee-jerk reaction. The common belief is that by reducing expenses, companies can safeguard their financial stability. However, this approach is not only short-sighted but also counterproductive. In this blog post, I’ll explore why cutting costs, particularly in areas like agile coaching, training, and business agility, can actually disadvantage your organization in the long run. I'll also share insights on how to navigate economic downturns effectively, ensuring your business emerges stronger on the other side.

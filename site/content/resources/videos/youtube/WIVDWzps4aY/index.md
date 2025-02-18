@@ -21,14 +21,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
 isShort: true
-tags: []
+tags:
+- Agile Product Management
+- Product Owner
+- Products and Books
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 One of my favourite classes to teach is the Product Owner class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective product management. 

@@ -32,8 +32,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- People and Process
-- Discovery and Learning
 - Product Management
 - Social Technologies
 

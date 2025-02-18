@@ -28,17 +28,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Project Management
 - Backlog Refinement
-- Estimation
-- Pragmatic Thinking
-- Software Developers
+- People and Process
+- Agile Frameworks
 - Software Development
+- Agile Project Management
+- Estimation
+- Software Developers
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- People and Process
+- Social Technologies
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

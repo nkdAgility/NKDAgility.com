@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
 - Social Technologies
 
 ---

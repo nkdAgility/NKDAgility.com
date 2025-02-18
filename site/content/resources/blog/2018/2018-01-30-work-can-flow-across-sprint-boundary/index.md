@@ -30,7 +30,6 @@ tags:
 - Agile Project Management
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 preview: nkdagility-cross-sprint-boundary-2-1.png
 

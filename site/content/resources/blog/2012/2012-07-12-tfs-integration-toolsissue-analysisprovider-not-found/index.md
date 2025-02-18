@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
-- Pragmatic Thinking
-- Technical Mastery
-- Software Development
-- System Configuration
-- Windows
-categories:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Software Development
+- Technical Mastery
+- System Configuration
+- Pragmatic Thinking
+- Windows
+categories: []
 preview: metro-problem-icon-3-3.png
 
 ---

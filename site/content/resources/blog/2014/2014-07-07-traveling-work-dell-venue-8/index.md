@@ -28,9 +28,7 @@ aliasesFor404:
 tags:
 - Windows
 - Products and Books
-categories:
-- News and Reviews
-- Personal
+categories: []
 preview: nakedalm-windows-logo-4-4.png
 
 ---

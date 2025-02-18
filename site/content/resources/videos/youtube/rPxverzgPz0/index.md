@@ -30,29 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Agility
+- Scrum Team
+- Organisational Change
+- People and Process
 - Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
+- Scrum Product Development
 - Agile Transformation
 - Change Management
-- Organisational Change
-- Organisational Culture
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
-- Scrum Product Development
-- Scrum Team
-- Software Development
 - Team Collaboration
-- Team Motivation
-- Team Performance
+- Agile Project Management
 resourceTypes:
 - video
 categories:
-- Organisational Agility
-- People and Process
-- Products and Books
+- Scrum
+- Social Technologies
 
 ---
 **Would you recommend the APS course to a newbie scrum team, and Why?**

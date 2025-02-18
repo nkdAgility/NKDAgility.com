@@ -33,17 +33,14 @@ tags:
 - Coaching
 - Application Lifecycle Management
 - Software Development
+- People and Process
 - Product Delivery
 - Practical Techniques and Tooling
-- Operational Practices
-- Pragmatic Thinking
-- Agile Project Management
-- Deployment Strategies
-- Software Developers
-- Frequent Releases
-categories:
-- People and Process
 - Technical Excellence
+- Pragmatic Thinking
+- Operational Practices
+- Agile Project Management
+categories:
 - Social Technologies
 - Engineering Excellence
 - DevOps

@@ -31,8 +31,8 @@ tags:
 - Value Delivery
 - Evidence Based Management
 - Metrics and Learning
-- Decision Making
 - Pragmatic Thinking
+- Decision Making
 resourceTypes:
 - video
 layout: video

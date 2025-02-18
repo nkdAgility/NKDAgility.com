@@ -29,10 +29,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Scrum Team
+- Agile Project Management
+- Scrum Master
+- Team Performance
+- Professional Scrum
+- Agile Frameworks
+- Agile Leadership
+- Agile Transformation
+- Agile Product Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 **1 critical skill for a Scrum Master and why?**

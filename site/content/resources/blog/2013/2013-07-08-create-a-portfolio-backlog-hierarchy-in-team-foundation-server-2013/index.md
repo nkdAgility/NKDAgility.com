@@ -25,7 +25,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 categories:
-- Technical Excellence
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

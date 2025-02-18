@@ -24,25 +24,16 @@ aliasesFor404:
 tags:
 - Agile Leadership
 - Organisational Culture
+- People and Process
+- Resilience and Change
 - Organisational Agility
 - Organisational Change
-- Resilience and Change
 - Business Agility
 - Change Management
 - Enterprise Agility
 - Market Adaptability
-- Sociotechnical Systems
-- Agile Strategy
-- Pragmatic Thinking
-- Organisational Physics
-- Agile Philosophy
-- Technical Leadership
-- Agile Transformation
-- Digital Transformation
 categories:
 - Leadership
-- People and Process
-- Discovery and Learning
 - Social Technologies
 preview: image-3-3-3.png
 

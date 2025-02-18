@@ -29,21 +29,18 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Agile Philosophy
-- Complexity Thinking
+- People and Process
+- Agile Frameworks
+- Software Development
 - Agile Strategy
 - Software Developers
-- Software Development
+- Complexity Thinking
+- Agile Philosophy
 - Agile Transformation
-- Agile Frameworks
-- Sociotechnical Systems
 - Organisational Agility
-- Pragmatic Thinking
-- Organisational Physics
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

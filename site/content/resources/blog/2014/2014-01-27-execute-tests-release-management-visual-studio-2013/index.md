@@ -30,7 +30,6 @@ tags:
 - Automated Testing
 categories:
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

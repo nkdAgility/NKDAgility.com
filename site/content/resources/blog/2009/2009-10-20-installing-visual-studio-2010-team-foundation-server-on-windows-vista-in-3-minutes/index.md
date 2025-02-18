@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 tags:
 - Windows
-- System Configuration
-preview: metro-visual-studio-2010-128-link-7-7.png
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- System Configuration
+preview: metro-visual-studio-2010-128-link-7-7.png
+categories: []
 
 ---
 New in Visual Studio 2010 is the ability to install TFS on XP, Vista and Windows 7. You can use SQL 2008 Express, so no large overhead, and the Basic version you use for this does have the reporting and SharePoint requirement that the main install does. That does not mean that you can't upgrade later :)

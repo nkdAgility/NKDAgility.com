@@ -25,10 +25,23 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum Master
+- Agile Leadership
+- Team Collaboration
+- Agile Project Management
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
+- Team Performance
+- Technical Leadership
+- People and Process
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
+- Scrum
+- Social Technologies
 
 ---
 **Is a scrum master an agile micromanager?**

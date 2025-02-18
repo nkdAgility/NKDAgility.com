@@ -18,26 +18,14 @@ aliasesFor404:
 - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 categories:
-- Organisational Agility
-- Agile Product Management
-- Value Delivery
-- People and Process
-- Scrum
+- Product Management
 tags:
 - Product Owner
-- Agile Product Ownership
-- Strategic Goals
-- Team Collaboration
-- Customer Satisfaction
-- Agile Product Discovery
-- Value Prioritisation
-- Continuous Improvement
-- Agile Leadership
-- Business Agility
-- Team Motivation
-- Agile Community
-- Agile Transformation
-- Employee Engagement
+- Agile Product Management
+- Strategy
+- Value Delivery
+- People and Process
+- Product Strategy
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

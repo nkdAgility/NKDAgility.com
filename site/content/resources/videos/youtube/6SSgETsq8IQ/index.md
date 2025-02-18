@@ -20,7 +20,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
 duration: 137
 isShort: false
-tags: []
+tags:
+- Agile Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Agile Project Management
+- Agile Frameworks
+- Value Delivery
+- People and Process
+- Products and Books
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +38,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Product Management
+- Social Technologies
 
 ---
 As I reflect on my journey as a Professional Scrum Product Owner, I can't help but emphasise the profound impact this role has on both product development and team dynamics. The Professional Scrum Product Owner course is not just another training session; it’s an immersive experience that equips individuals with the skills and mindset necessary to thrive in today’s fast-paced, agile environments.

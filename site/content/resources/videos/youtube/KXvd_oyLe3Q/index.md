@@ -29,36 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Resilience and Change
-- Azure DevOps
-- Continuous Learning
-- Complexity Thinking
 - Metrics and Learning
-- Technical Debt
-- Sociotechnical Systems
+- Discovery and Learning
+- Resilience and Change
+- People and Process
+- Azure DevOps
+- Complexity Thinking
+- Continuous Learning
 - Ability to Innovate
-- Technical Leadership
-- Engineering Practices
-- Practical Techniques and Tooling
-- Technical Mastery
-- Change Management
 - Frequent Releases
-- Product Delivery
-- Software Development
-- Market Adaptability
-- Strategy
-- Deployment Frequency
-- Organisational Physics
-- Organisational Agility
-- Flow Efficiency
-- Throughput
-- Value Delivery
-- Software Developers
-- Operational Practices
-- Digital Transformation
-- Continuous Delivery
-- Enterprise Agility
-- Organisational Change
 resourceTypes:
 - video
 categories:

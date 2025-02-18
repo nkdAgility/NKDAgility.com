@@ -33,16 +33,14 @@ card:
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
 categories:
 - Product Management
-- People and Process
-- Discovery and Learning
 - Social Technologies
 tags:
 - Evidence Based Management
 - Ability to Innovate
 - Value Delivery
+- Metrics and Learning
 - Evidence Based Leadership
 - Experimentation
-- Metrics and Learning
 - Decision Making
 
 ---

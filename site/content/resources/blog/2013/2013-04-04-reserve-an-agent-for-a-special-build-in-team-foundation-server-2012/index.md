@@ -25,13 +25,8 @@ tags:
 - Pragmatic Thinking
 - Software Development
 categories:
-- Install and Configuration
-- Application Lifecycle Management
-- Practical Techniques and Tooling
+- Engineering Excellence
 - DevOps
-- Azure DevOps
-- Technical Excellence
-- Platform Engineering
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

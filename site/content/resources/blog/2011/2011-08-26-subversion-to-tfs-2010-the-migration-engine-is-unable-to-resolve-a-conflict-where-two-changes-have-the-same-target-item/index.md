@@ -29,8 +29,7 @@ tags:
 - Troubleshooting
 preview: image-1.png
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Engineering Excellence
 
 ---
 [![subversion](images/subversion_thumb-17-17.png "subversion")](http://blog.hinshelwood.com/files/2011/08/subversion1.png)

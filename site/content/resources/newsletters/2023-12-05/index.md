@@ -18,19 +18,18 @@ aliasesFor404:
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
 - Scrum
-- Discovery and Learning
-- People and Process
-- Events and Presentations
 - Social Technologies
 tags:
 - Professional Scrum
 - Continuous Learning
+- People and Process
+- Discovery and Learning
+- Events and Presentations
 - Products and Books
 - Agile Transformation
 - Pragmatic Thinking
 - Agile Project Management
 - Value Delivery
-- Coaching
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:

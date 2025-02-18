@@ -23,11 +23,11 @@ aliasesFor404:
 - /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
 tags:
 - Windows
+- Install and Configuration
 - Troubleshooting
 - System Configuration
 preview: metro-visual-studio-2005-128-link-9-9.png
-categories:
-- Install and Configuration
+categories: []
 
 ---
 I am installing VS2008 in a virtual environment, so this may not be exactly what you would get, but the purpose is to identify if VS2008 does indeed work on Windows 7 and what the experience is like.

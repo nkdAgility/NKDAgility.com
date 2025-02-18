@@ -28,26 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Kanban
 - Strategy
+- People and Process
 - Cycle Time
 - Metrics and Learning
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Agile Frameworks
-- Operational Practices
-- Throughput
+- Flow Efficiency
+- Practical Techniques and Tooling
 - Software Development
-- Pragmatic Thinking
-- Agile Project Management
-- Agile Transformation
-- Evidence Based Leadership
-- Lean
-- Decision Making
+- Throughput
 resourceTypes:
 - video
 categories:
-- Kanban
-- People and Process
 - Social Technologies
 
 ---

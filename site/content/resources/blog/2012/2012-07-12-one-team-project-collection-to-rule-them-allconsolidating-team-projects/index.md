@@ -30,11 +30,9 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Install and Configuration
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- Azure DevOps
-- Technical Excellence
+- Scrum
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

@@ -28,28 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Delivery
 - Metrics and Learning
+- Product Delivery
 - Value Delivery
-- Team Performance
 - Practical Techniques and Tooling
-- Software Development
-- Agile Frameworks
-- Agile Project Management
+- Team Performance
 - Operational Practices
 - Pragmatic Thinking
-- Strategy
-- Scrum Product Development
-- Flow Efficiency
-- Agile Product Management
-- Working Software
-- Agile Planning
-- Increment
+- Agile Frameworks
+- Agile Project Management
+- Software Development
 resourceTypes:
 - video
 categories:
 - Social Technologies
-- People and Process
 
 ---
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban

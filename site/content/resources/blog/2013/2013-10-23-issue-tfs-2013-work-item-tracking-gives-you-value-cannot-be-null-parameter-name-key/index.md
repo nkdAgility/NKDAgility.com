@@ -28,9 +28,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Code and Complexity
 - Engineering Excellence
-- Technical Excellence
 
 ---
 When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.

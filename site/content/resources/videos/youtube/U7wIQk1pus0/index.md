@@ -22,7 +22,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg
 duration: 722
 isShort: false
-tags: []
+tags:
+- Install and Configuration
+- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

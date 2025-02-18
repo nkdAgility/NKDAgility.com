@@ -23,8 +23,7 @@ aliasesFor404:
 - /resources/blog/unique-id-in-sharepoint-list
 tags:
 - Troubleshooting
-categories:
-- Install and Configuration
+categories: []
 preview: metro-sharepoint-128-link-2-1.png
 
 ---

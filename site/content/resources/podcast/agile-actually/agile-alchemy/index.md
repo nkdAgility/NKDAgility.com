@@ -6,11 +6,8 @@ ResourceImport: false
 ResourceType: podcast
 date: 2023-12-19
 categories:
-- Scrum
 - DevOps
-- Events and Presentations
-- News and Reviews
-- People and Process
+- Scrum
 - Social Technologies
 author: MrHinsh
 resourceTypes: podcast
@@ -19,6 +16,7 @@ slug: agile-alchemy
 aliases:
 - /resources/i2XYfDpX46l
 tags:
+- Transparency
 - Transparency and Accountability
 
 ---

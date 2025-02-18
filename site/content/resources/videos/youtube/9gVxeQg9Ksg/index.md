@@ -28,8 +28,18 @@ sitemap:
   priority: 0.6
 resourceTypes:
 - video
-categories: []
-tags: []
+categories:
+- Leadership
+- Product Management
+- Social Technologies
+tags:
+- People and Process
+- Team Performance
+- Organisational Culture
+- Team Collaboration
+- Team Motivation
+- Organisational Agility
+- Sociotechnical Systems
 
 ---
 As I reflect on my journey through the world of Agile and Scrum, I often find myself revisiting the fundamental principles that underpin these methodologies. It’s easy to get lost in the jargon and the latest trends, but at the heart of it all lies a simple truth: Agile is about people and their interactions. 

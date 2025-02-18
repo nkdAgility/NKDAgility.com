@@ -24,8 +24,9 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Mastery
-categories:
 - Technical Excellence
+categories:
+- Engineering Excellence
 preview: metro-merilllynch-128-link-3-3.png
 
 ---

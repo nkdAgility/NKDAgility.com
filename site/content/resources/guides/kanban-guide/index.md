@@ -25,9 +25,9 @@ card:
   content: Discover more about Kanban Guide and how it can help you in your Agile journey!
   title: Kanban Guide
 categories:
-- Kanban
 - Social Technologies
 tags:
+- Kanban
 - Operational Practices
 
 ---

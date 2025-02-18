@@ -26,17 +26,17 @@ aliasesFor404:
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
+- News and Reviews
+- Install and Configuration
 - Software Development
+- Products and Books
+- Practical Techniques and Tooling
 - System Configuration
 - Release Management
 - Technical Mastery
-- Engineering Excellence
 - Troubleshooting
 categories:
-- Install and Configuration
-- News and Reviews
-- Practical Techniques and Tooling
-- Products and Books
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

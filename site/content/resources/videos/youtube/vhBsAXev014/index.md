@@ -28,32 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
-- Agile Philosophy
-- Agile Project Management
 - Agile Strategy
-- Agile Transformation
-- Change Management
-- Digital Transformation
-- Organisational Change
+- People and Process
+- Agile Product Management
+- Agile Project Management
 - Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Product Management
-- Product Owner
-- Product Strategy
-- Sensemaking
-- Software Development
-- Strategic Goals
-- Team Collaboration
-- Team Motivation
-- Team Performance
+- Digital Transformation
+- Change Management
+- Organisational Change
+- Agile Transformation
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Systems Thinking
+- Product Management
+- Leadership
+- Social Technologies
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

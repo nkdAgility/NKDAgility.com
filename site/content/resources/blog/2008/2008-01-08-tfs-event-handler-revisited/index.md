@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/tfs-event-handler-revisited
 - /resources/blog/tfs-event-handler-revisited
 tags:
-- Troubleshooting
-- Software Development
-categories:
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Software Development
+- Troubleshooting
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

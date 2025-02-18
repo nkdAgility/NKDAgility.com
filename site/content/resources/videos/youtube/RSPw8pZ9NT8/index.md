@@ -21,14 +21,25 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
-tags: []
+tags:
+- Strategy
+- Kanban
+- Throughput
+- Forecasting
+- Cycle Time
+- Metrics and Learning
+- Value Delivery
+- Software Development
+- Flow Efficiency
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 In my recent Kanban workshop with Procamban.org, titled "APK: Applying Professional Kanban," I had the opportunity to delve deep into the strategic underpinnings of DevOps. Over the course of 16 hours, we explored how Kanban serves as a meta-process that can be applied to any existing workflow, regardless of its nature. Whether your team is using Scrum, a homegrown process, or even something like SSADM, Kanban provides a framework to observe and enhance your current practices.

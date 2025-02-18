@@ -22,14 +22,20 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: true
-tags: []
+tags:
+- Events and Presentations
+- Agile Frameworks
+- Agile Project Management
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
  Join me monthy one the 4th Wednesday for Business Agility Raw. Come and discuss what matters most to you today with our lean coffee format. Check out the se3ssion Mural for this month's questions and add your own to the mix!

@@ -41,7 +41,6 @@ tags:
 - Product Owner
 categories:
 - Scrum
-- People and Process
 - Product Management
 - Social Technologies
 preview: image-3-3.png

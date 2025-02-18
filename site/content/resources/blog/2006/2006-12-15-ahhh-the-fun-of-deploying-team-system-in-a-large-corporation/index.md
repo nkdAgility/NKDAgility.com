@@ -31,10 +31,11 @@ aliasesFor404:
 - /resources/blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- DevOps
 tags:
+- Practical Techniques and Tooling
 - System Configuration
+- Install and Configuration
 - Software Development
 - Troubleshooting
 

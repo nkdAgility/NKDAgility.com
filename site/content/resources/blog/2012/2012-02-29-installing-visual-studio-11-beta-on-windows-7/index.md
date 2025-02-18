@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/installing-visual-studio-11-beta-on-windows-7
 tags:
 - Windows
-categories:
 - Install and Configuration
+categories: []
 
 ---
 With the launch of Visual Studio 11 beta and that it is [fully supported in production](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/) I wanted to update my laptop with the bits. I have a presentation on Friday of [what's new in Visual Studio 11](http://blog.hinshelwood.com/events/) and I will show some of the new features there.

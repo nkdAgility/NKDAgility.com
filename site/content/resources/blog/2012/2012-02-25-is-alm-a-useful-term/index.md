@@ -27,17 +27,18 @@ aliasesFor404:
 - /resources/blog/is-alm-a-useful-term
 tags:
 - Software Developers
-- Software Development
-- Agile Strategy
-- Engineering Excellence
-- Pragmatic Thinking
-categories:
-- People and Process
 - Application Lifecycle Management
+- Software Development
+- People and Process
 - Market Adaptability
 - Product Delivery
 - Organisational Agility
+- Agile Strategy
 - Business Agility
+- Pragmatic Thinking
+categories:
+- Social Technologies
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

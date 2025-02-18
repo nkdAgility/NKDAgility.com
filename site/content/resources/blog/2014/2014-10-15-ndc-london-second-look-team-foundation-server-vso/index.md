@@ -31,8 +31,10 @@ aliasesFor404:
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
 - Application Lifecycle Management
-categories:
 - Events and Presentations
+categories:
+- DevOps
+- Engineering Excellence
 preview: metro-event-icon-7-7.png
 
 ---

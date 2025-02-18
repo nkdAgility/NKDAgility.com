@@ -37,10 +37,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- Code and Complexity
 - Product Management
-- People and Process
 - Engineering Excellence
 - DevOps
 

@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/should-geekswithblogs-move-to-the-wordpress-platform-
 - /resources/blog/should-geekswithblogs-move-to-the-wordpress-platform
 tags:
-- Frequent Releases
-- Decision Making
-- Digital Transformation
-- Software Development
-categories:
 - Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-4-4.png
 
 ---

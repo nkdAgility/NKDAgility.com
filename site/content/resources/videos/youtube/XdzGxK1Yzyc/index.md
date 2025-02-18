@@ -28,27 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Accountability
-- Agile Frameworks
-- Agile Project Management
-- Agile Strategy
-- Pragmatic Thinking
-- Product Management
 - Product Owner
-- Product Strategy
-- Professional Scrum
-- Scrum Product Development
-- Scrum Team
-- Software Development
-- Strategic Goals
-- Strategy
-- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
+- Scrum
+- Product Management
+- Social Technologies
 
 ---
 ## Decoding the Role of the Product Owner

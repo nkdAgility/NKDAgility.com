@@ -26,26 +26,11 @@ aliasesFor404:
 - /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 tags:
-- Strategy
-- Team Collaboration
-- Product Management
-- Product Strategy
-- Product Owner
-- Technical Mastery
-- Working Software
-- Ability to Innovate
-- Technical Leadership
-- Agile Project Management
-- Continuous Learning
-- Software Developers
-- Organisational Physics
-- Engineering Excellence
-- Digital Transformation
-- Strategic Goals
-- Software Development
-- Pragmatic Thinking
-categories:
 - Personal
+categories:
+- Scrum
+- Product Management
+- Engineering Excellence
 
 ---
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

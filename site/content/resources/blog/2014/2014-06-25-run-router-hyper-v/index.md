@@ -29,12 +29,11 @@ tags:
 - Windows
 - Practical Techniques and Tooling
 - Install and Configuration
-- System Configuration
 - Technical Mastery
 - Troubleshooting
+- System Configuration
 - Pragmatic Thinking
-categories:
-- Technical Excellence
+categories: []
 preview: naked-alm-hyper-v-17-17.png
 
 ---

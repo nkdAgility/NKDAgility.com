@@ -22,14 +22,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false
-tags: []
+tags:
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Scrum
+- Social Technologies
 
 ---
  #devops is that mysterious partner to #agile in many environments. It's something that has stumped many an #agilecoach or #agileconsultant, because it requires knowledge and practise in the environment to thrive.

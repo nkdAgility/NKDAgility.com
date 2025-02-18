@@ -26,17 +26,14 @@ tags:
 - Test First Development
 - Automated Testing
 - Software Development
+- Practical Techniques and Tooling
 - Test Automation
 - Engineering Practices
-- Software Developers
-- Pragmatic Thinking
-- Technical Mastery
-- Engineering Excellence
-- Troubleshooting
-categories:
-- Practical Techniques and Tooling
-- Technical Excellence
 - Azure DevOps
+- Technical Mastery
+- Software Developers
+categories:
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

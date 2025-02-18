@@ -27,52 +27,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- Agile Leadership
+- People and Process
 - Agile Values and Principles
 - Business Agility
+- Agile Product Operating Model
+- Agile Leadership
 - Agile Product Management
 - Value Delivery
-- Sociotechnical Systems
-- Organisational Change
-- Team Motivation
-- Agile Transformation
-- Agile Project Management
-- Organisational Agility
-- Enterprise Agility
-- Team Collaboration
-- Software Developers
-- Software Development
-- Agile Frameworks
 - Technical Leadership
-- Operational Practices
-- Agile Philosophy
-- Change Management
-- Agile Strategy
-- Continuous Learning
-- Empirical Process Control
 - Team Performance
-- Beta Codex
-- Lean Thinking
-- Organisational Physics
-- Organisational Culture
-- Self Organisation
-- Lean
-- Pragmatic Thinking
-- Lean Principles
-- Lean Product Development
-- Value Stream Management
-- Agile Planning
-- Market Adaptability
+- Organisational Change
 resourceTypes:
 - video
 layout: video
 categories:
-- People and Process
 - Leadership
-- Discovery and Learning
 - Social Technologies
-- Personal
 
 ---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword—it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.

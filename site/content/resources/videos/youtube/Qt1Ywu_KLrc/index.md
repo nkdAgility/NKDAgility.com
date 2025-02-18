@@ -21,7 +21,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false
-tags: []
+tags:
+- Azure DevOps
+- Practical Techniques and Tooling
+- Install and Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

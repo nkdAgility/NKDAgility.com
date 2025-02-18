@@ -28,9 +28,7 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 preview: puzzle-issue-problem-128-link-5-5.png
 
 ---

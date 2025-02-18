@@ -29,18 +29,15 @@ tags:
 - Software Development
 - Software Developers
 - Modern Source Control
-- Release Management
-- Agile Project Management
-- Pragmatic Thinking
-- Technical Mastery
-- Engineering Excellence
-- Engineering Practices
-- Operational Practices
-categories:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
+- Release Management
 - Product Delivery
+- Practical Techniques and Tooling
+- Technical Mastery
 - Technical Excellence
+- Agile Project Management
+categories:
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

@@ -21,7 +21,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: true
-tags: []
+tags:
+- Accountability
+- Product Owner
+- Scrum Product Development
+- Agile Product Management
+- Agile Project Management
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

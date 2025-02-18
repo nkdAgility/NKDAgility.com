@@ -29,9 +29,6 @@ tags:
 - Products and Books
 - Practical Techniques and Tooling
 categories:
-- Events and Presentations
-- News and Reviews
-- Miscellaneous
 - DevOps
 preview: nakedalm-windows-logo-7-7.png
 

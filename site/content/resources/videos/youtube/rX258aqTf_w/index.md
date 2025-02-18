@@ -28,26 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Leadership
+- People and Process
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
-- Coaching
-- Decision Making
-- Mentoring
-- Organisational Change
-- Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Software Development
 - Technical Leadership
+- Organisational Agility
+- Software Development
+- Pragmatic Thinking
+- Agile Leadership
+- Organisational Change
 resourceTypes:
 - video
 categories:
-- Business Agility
-- Organisational Agility
-- People and Process
+- Leadership
+- Social Technologies
 
 ---
 In what circumstances is agile consulting appropriate?

@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/rddotnet
 tags:
 - Software Development
-categories:
 - Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

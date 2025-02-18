@@ -29,10 +29,21 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Decision Making
+- Agile Leadership
+- Decision Theory
+- People and Process
+- Team Performance
+- Organisational Physics
+- Organisational Culture
+- Organisational Change
+- Business Agility
+- Agile Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
 **Why I love heirarchies of competence**

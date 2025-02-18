@@ -21,7 +21,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5UG3FF0n0C8/maxresdefault.jpg
 duration: 41
 isShort: true
-tags: []
+tags:
+- Events and Presentations
+- Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -29,7 +32,10 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
+- Scrum
+- Social Technologies
 
 ---
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

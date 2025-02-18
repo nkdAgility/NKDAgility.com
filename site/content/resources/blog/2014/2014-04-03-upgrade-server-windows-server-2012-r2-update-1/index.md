@@ -27,8 +27,7 @@ aliasesFor404:
 - /resources/blog/upgrade-server-windows-server-2012-r2-update-1
 tags:
 - Windows
-categories:
-- News and Reviews
+categories: []
 preview: nakedalm-windows-logo-6-6.png
 
 ---

@@ -26,20 +26,11 @@ aliasesFor404:
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
 - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 tags:
-- Software Development
-- Working Software
-- Software Developers
-- Frequent Releases
-- Modern Source Control
-- Technical Mastery
-- Collaboration Tools
-- Engineering Excellence
-- Release Management
-- Continuous Integration
-- Operational Practices
-categories:
-- News and Reviews
 - Products and Books
+- News and Reviews
+categories:
+- Engineering Excellence
+- DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

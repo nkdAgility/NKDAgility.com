@@ -25,39 +25,15 @@ tags:
 - Operational Practices
 - Acceptance Test Driven Development
 - Definition of Done
-- Software Developers
-- Working Software
 - Product Delivery
-- Software Development
 - Value Delivery
-- Evidence Based Management
-- Continuous Delivery
-- Practical Techniques and Tooling
+- Software Developers
+- Software Development
+- Working Software
 - Metrics and Learning
-- Agile Project Management
-- Engineering Practices
-- Pragmatic Thinking
-- Application Lifecycle Management
-- Forecasting
-- Product Backlog
-- Scrum Product Development
-- Automated Testing
-- Test Automation
-- Team Performance
-- Empirical Process Control
-- Agile Product Management
-- Evidence Based Leadership
-- Deployment Frequency
-- Sociotechnical Systems
-- Azure Pipelines
-- Strategy
-- Continuous Integration
-- Release Management
-- Increment
+- Continuous Delivery
 categories:
-- People and Process
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 preview: nakedalm-experts-professional-scrum-2-2.png
 

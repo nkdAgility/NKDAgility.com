@@ -22,7 +22,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
-tags: []
+tags:
+- Scrum Product Development
+- Pragmatic Thinking
+- Software Development
+- Software Developers
+- Scrum Team
+- Backlog Refinement
+- Product Backlog
+- People and Process
+- Agile Planning
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,7 +40,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 
 ---

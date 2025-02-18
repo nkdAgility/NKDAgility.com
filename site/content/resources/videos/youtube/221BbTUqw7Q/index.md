@@ -31,20 +31,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Professional Scrum
 - Agile Frameworks
+- Software Development
 - Agile Project Management
 - Empirical Process Control
 - Pragmatic Thinking
-- Professional Scrum
 - Scrum Product Development
 - Scrum Team
-- Software Development
+- Agile Product Management
 resourceTypes:
 - video
 layout: video
 categories:
-- Agile Product Management
-- People and Process
+- Scrum
+- Social Technologies
 
 ---
 ## Scrum's True Potential: A Journey Through the APS Immersive Class

@@ -29,12 +29,12 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Agile Product Management
+- People and Process
 - Products and Books
+- Agile Product Management
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
 
 ---

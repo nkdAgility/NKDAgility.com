@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/tfs-event-handler-ctp-2-released
 - /resources/blog/tfs-event-handler-ctp-2-released
 tags:
+- Install and Configuration
 - Software Development
 - System Configuration
-categories:
-- Install and Configuration
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

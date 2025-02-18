@@ -30,12 +30,12 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+- Pragmatic Thinking
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

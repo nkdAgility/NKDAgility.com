@@ -29,9 +29,6 @@ tags:
 - Install and Configuration
 - Windows
 categories:
-- Events and Presentations
-- Technical Excellence
-- Personal
 - Engineering Excellence
 - DevOps
 preview: nakedalm-windows-logo-16-16.png

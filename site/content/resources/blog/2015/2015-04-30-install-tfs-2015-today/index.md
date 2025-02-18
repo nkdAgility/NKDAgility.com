@@ -25,7 +25,6 @@ tags:
 - Install and Configuration
 - System Configuration
 categories:
-- Technical Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 

@@ -28,19 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
-- Agile Transformation
 - Change Management
-- Coaching
+- People and Process
+- Agile Leadership
+- Business Agility
+- Resilience and Change
 - Organisational Change
+- Organisational Agility
+- Agile Transformation
 - Organisational Culture
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Business Agility
-- People and Process
-- Resilience and Change
+- Leadership
 
 ---
 **Why do you prefer agile consulting over agile coaching?**

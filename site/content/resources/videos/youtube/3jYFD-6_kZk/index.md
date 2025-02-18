@@ -29,11 +29,11 @@ sitemap:
 tags:
 - Troubleshooting
 - Install and Configuration
-- System Configuration
 - Azure DevOps
+- System Configuration
 - Practical Techniques and Tooling
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Pragmatic Thinking
 resourceTypes:
 - video

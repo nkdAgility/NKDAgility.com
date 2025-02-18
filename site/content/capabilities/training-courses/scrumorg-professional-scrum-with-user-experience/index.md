@@ -1,38 +1,58 @@
 ---
 title: Professional Scrum with User Experience (PSU) with Certification
+description: Explore the vital role of UX in Scrum with hands-on learning, community support, and a chance to earn the PSU I certification. Join us!
+ResourceId: napm9Qz4WTz
 date: 2019-05-25
 creator: Martin Hinshelwood
-id: "38640"
 type: course
 slug: professional-scrum-with-user-experience-psu-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-  - /training-courses/professional-scrum-with-user-experience-psu-training
-  - /training-courses/professional-scrum-with-user-experience-training-with-certification
-  - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
-  - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
+- /training-courses/professional-scrum-with-user-experience-psu-training
+- /training-courses/professional-scrum-with-user-experience-training-with-certification
+- /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
+- /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
 course-topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course-vendors:
-  - Scrum.org
+- Scrum.org
 course-learning-experiences:
-  - Immersive
-  - Traditional
+- Immersive
+- Traditional
 delivery-audiences:
-  - Product Owners
-  - Product Managers
-  - Scrum Masters
-  - Lean Agile Practitioners
-  - Teams
+- Product Owners
+- Product Managers
+- Scrum Masters
+- Lean Agile Practitioners
+- Teams
 tags:
-  - certification
-  - product-discovery
+- Scrum
+- Scrum Product Development
+- Experimentation
+- Value Delivery
+- Agile Product Management
+- Product Discovery
+- Discovery and Learning
+- Professional Scrum
+- Practical Techniques and Tooling
+- People and Process
+- Pragmatic Thinking
+- Agile Transformation
+- Products and Books
+- Team Collaboration
+- Continuous Learning
+- Agile Project Management
+- Agile Frameworks
+- Software Development
+- Cross Functional Teams
+- Scrum Team
+- Scrum Master
 categories:
-  - agility
+- Social Technologies
 preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PSU-400x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -59,7 +79,7 @@ outcomes: |2+
   - Focus on users
   - Experimentation
 
-assessment:
+assessment: 
 objectives: |+
   Students will leave the class understanding: 
   - Gain a common understanding of what is meant by Professional Scrum
@@ -85,13 +105,13 @@ prerequisites: |+
   - Review [The Scrum Guide](https://nkdagility.com/resources/the-scrum-guide/)
   - Review the Course Material provided in your [Classroom](https://community.nkdagility.com/all-courses)
 
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 ### Should UX be part of the Scrum Team?
 
 UX/CX plays a critical role in successful product development. Participants explore Professional Scrum and Lean UX through a unique blend of self-paced learning, live classroom hands-on activity-based exercises, and community-based aftercare.

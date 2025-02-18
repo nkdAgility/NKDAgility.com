@@ -35,7 +35,6 @@ resourceTypes:
 categories:
 - Scrum
 - Product Management
-- People and Process
 - Social Technologies
 
 ---

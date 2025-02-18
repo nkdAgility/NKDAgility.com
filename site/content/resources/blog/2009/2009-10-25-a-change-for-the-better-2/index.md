@@ -26,28 +26,13 @@ aliasesFor404:
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 - /resources/blog/a-change-for-the-better-2
 tags:
-- Working Software
-- Team Performance
-- Team Collaboration
-- Software Development
-- Software Developers
-- Change Management
-- Employee Engagement
-- Team Motivation
-- Decision Making
-- Continuous Learning
-- Windows
-- Psychological Safety
-- Pragmatic Thinking
-- Technical Mastery
-- Engineering Excellence
-- Organisational Culture
-- Digital Transformation
-- Operational Practices
-categories:
 - Miscellaneous
 - Personal
 - People and Process
+categories:
+- Leadership
+- Engineering Excellence
+- DevOps
 preview: metro-SSWLogo-128-link-3-1.png
 
 ---

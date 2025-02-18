@@ -28,11 +28,8 @@ aliasesFor404:
 tags:
 - Evidence Based Management
 categories:
-- People and Process
 - Product Management
-- Discovery and Learning
 - Social Technologies
-- Personal
 preview: nakedalm-agility-index-7-7.png
 
 ---

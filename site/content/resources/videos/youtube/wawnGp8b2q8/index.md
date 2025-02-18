@@ -21,7 +21,10 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: false
-tags: []
+tags:
+- Discovery and Learning
+- Continuous Learning
+- Experimentation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

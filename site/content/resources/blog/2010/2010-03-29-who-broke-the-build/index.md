@@ -27,31 +27,19 @@ aliasesFor404:
 - /resources/blog/who-broke-the-build
 tags:
 - Windows
-- System Configuration
-- Software Developers
-- Modern Source Control
-- Engineering Practices
-- Azure Pipelines
-- Continuous Integration
-- Software Development
-- Continuous Delivery
-- Technical Mastery
-- Engineering Excellence
-- Pragmatic Thinking
-- Accountability
-- Working Software
-- Operational Practices
-- Troubleshooting
-- Release Management
-preview: metro-visual-studio-2010-128-link-10-10.png
-categories:
 - Code and Complexity
 - Install and Configuration
 - Application Lifecycle Management
+- System Configuration
 - Practical Techniques and Tooling
-- DevOps
-- Azure DevOps
+- Software Developers
+- Modern Source Control
 - Technical Excellence
+- Continuous Delivery
+preview: metro-visual-studio-2010-128-link-10-10.png
+categories:
+- Engineering Excellence
+- DevOps
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

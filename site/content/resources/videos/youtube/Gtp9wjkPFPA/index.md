@@ -27,10 +27,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
+- DevOps
+- Engineering Excellence
 
 ---
 ## DevOps & Agile: Two Sides of the Same Coin 🪙

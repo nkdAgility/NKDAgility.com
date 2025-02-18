@@ -29,11 +29,11 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
+- People and Process
 resourceTypes:
 - video
 categories:
 - Scrum
-- People and Process
 
 ---
 The current state of Scrum Master roles is, to put it mildly, troubling. Across organizations, there’s a significant, systemic lack of competence in the Scrum Master accountability. This shortfall has grown from the agile boom of the past two decades, creating a demand for Scrum Masters that far outstrips the available supply. As a result, many individuals have transitioned into these roles without the necessary skills or experience to succeed.

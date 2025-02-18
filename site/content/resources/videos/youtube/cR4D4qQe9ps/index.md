@@ -29,10 +29,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum Master
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
+- Software Development
+- People and Process
+- Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 **#1 tip for a new Scrum Master**

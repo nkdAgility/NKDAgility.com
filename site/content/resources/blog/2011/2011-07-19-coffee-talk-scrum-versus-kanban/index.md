@@ -27,10 +27,11 @@ aliasesFor404:
 - /resources/blog/coffee-talk-scrum-versus-kanban
 tags:
 - Software Development
-- Agile Project Management
 - Agile Frameworks
-categories:
 - Events and Presentations
+- Agile Project Management
+categories:
+- Social Technologies
 preview: metro-event-128-link-1-1.png
 
 ---

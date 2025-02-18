@@ -26,27 +26,14 @@ tags:
 - Transparency
 - Increment
 - Agile Product Operating Model
-- Agile Values and Principles
 - Agile Product Management
-- Agile Planning
-- Agile Transformation
-- Agile Project Management
-- Agile Philosophy
-- Scrum Product Development
-- Product Delivery
-- Working Software
+- Agile Values and Principles
 - Agile Strategy
 - Agile Frameworks
-- Organisational Agility
-- Software Developers
-- Pragmatic Thinking
-- Value Delivery
-- Business Agility
-- Software Development
-- Empirical Process Control
-- Technical Debt
-categories:
+- Scrum Product Development
 - People and Process
+- Agile Planning
+categories:
 - Product Management
 - Social Technologies
 preview: image-1.jpg

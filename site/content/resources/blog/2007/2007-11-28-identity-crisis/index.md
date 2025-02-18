@@ -23,10 +23,10 @@ aliasesFor404:
 - /resources/blog/identity-crisis
 tags:
 - Windows
+- Practical Techniques and Tooling
 - Digital Transformation
 - System Configuration
-categories:
-- Practical Techniques and Tooling
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -30,32 +30,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Customer Feedback Loops
-- Customer Satisfaction
-- Decision Making
-- Empirical Process Control
-- Pragmatic Thinking
 - Product Owner
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
 - Scrum Team
-- Software Developers
-- Software Development
 - Sprint Review
-- Strategy
-- Team Performance
+- Customer Feedback Loops
+- Pragmatic Thinking
+- Product Delivery
+- Agile Product Management
+- Scrum Master
+- People and Process
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Product Delivery
+- Scrum
+- Social Technologies
+- Product Management
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

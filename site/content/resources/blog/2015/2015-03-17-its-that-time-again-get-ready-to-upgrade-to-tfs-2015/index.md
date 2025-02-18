@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
 - Release Management
+- News and Reviews
 - Install and Configuration
 - System Configuration
 - Software Development
-categories:
-- News and Reviews
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

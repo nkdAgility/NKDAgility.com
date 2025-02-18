@@ -23,52 +23,23 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
+- People and Process
 - Decision Making
-- Transparency and Accountability
-- Team Collaboration
-- Organisational Culture
-- Team Motivation
-- Value Delivery
-- Change Management
-- Metrics and Learning
-- Pragmatic Thinking
 - Continuous Learning
-- Decision Theory
+- Team Collaboration
+- Change Management
+- Pragmatic Thinking
+- Discovery and Learning
+- Organisational Culture
 - Team Performance
-- Business Agility
-- Agile Leadership
-- Strategy
-- Organisational Physics
-- Sensemaking
-- Organisational Agility
-- Sociotechnical Systems
-- Agile Philosophy
-- Operational Practices
-- Transparency
-- Technical Leadership
-- Agile Strategy
-- Lean Product Development
-- Evidence Based Leadership
-- Agile Values and Principles
-- Agile Product Operating Model
-- Ability to Innovate
-- Evidence Based Management
-- Organisational Change
-- Lean
-- Lean Principles
-- Self Organisation
-- Accountability
-- Enterprise Agility
-- Entrepreneurship
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- People and Process
 - Product Management
-- Discovery and Learning
 
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.

@@ -26,11 +26,12 @@ aliasesFor404:
 - /blog/wpf-drag-&-drop-behaviour
 - /resources/blog/wpf-drag-drop-behaviour
 tags:
-- Technical Mastery
-- Software Development
-categories:
 - Practical Techniques and Tooling
+- Software Development
+- Technical Mastery
 - Technical Excellence
+categories:
+- Engineering Excellence
 preview: metro-binary-vb-128-link-5-1.png
 
 ---

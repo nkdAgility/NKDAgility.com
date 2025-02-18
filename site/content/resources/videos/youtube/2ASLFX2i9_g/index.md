@@ -27,23 +27,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
-- Agile Project Management
-- Lean Product Development
-- Operational Practices
-- Pragmatic Thinking
-- Product Management
+- People and Process
+- Agile Product Management
+- Metrics and Learning
 - Scrum Product Development
-- Software Developers
-- Software Development
+- Agile Planning
 - Team Performance
+- Value Delivery
+- Agile Project Management
+- Software Development
+- Software Developers
 resourceTypes:
 - video
 layout: video
 categories:
-- Agile Product Management
-- Metrics and Learning
-- People and Process
+- Scrum
+- Social Technologies
+- Product Management
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 

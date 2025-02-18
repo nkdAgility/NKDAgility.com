@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/windows-mobile-device-center
 tags:
 - Windows
-categories:
 - Install and Configuration
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -18,25 +18,18 @@ aliasesFor404:
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 categories:
 - Scrum
-- Transparency and Accountability
-- Value Delivery
-- People and Process
-- Metrics and Learning
+- Social Technologies
 tags:
 - Professional Scrum
-- Scrum Team
-- Scrum Product Management
-- Continuous Improvement
-- Empirical Process Control
-- Transparency
+- Scrum Product Development
 - Agile Product Management
-- Agile Coaching
-- Agile Product Discovery
-- Customer Feedback Loops
-- Agile Leadership
-- Agile Software Development
-- Agile Values and Principles
+- Transparency and Accountability
+- Agile Project Management
 - Agile Transformation
+- Events and Presentations
+- Agile Frameworks
+- People and Process
+- Software Development
 
 ---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

@@ -27,16 +27,19 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-2012-teams-without-areas
 tags:
 - Software Development
-- Azure Boards
-- System Configuration
-- Pragmatic Thinking
-- Operational Practices
-categories:
 - Practical Techniques and Tooling
 - Install and Configuration
+- Azure Boards
+- System Configuration
 - Azure DevOps
+- Pragmatic Thinking
+- Operational Practices
 - Application Lifecycle Management
 - Technical Excellence
+categories:
+- Scrum
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

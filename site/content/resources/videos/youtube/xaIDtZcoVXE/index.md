@@ -32,16 +32,12 @@ tags:
 - Value Stream Management
 - Metrics and Learning
 - Value Delivery
-- Ability to Innovate
 - Evidence Based Management
-- Product Delivery
+- Ability to Innovate
 - Evidence Based Leadership
-- Operational Practices
-- Throughput
-- Flow Efficiency
+- Product Delivery
 - Pragmatic Thinking
-- Lead Time
-- Strategy
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

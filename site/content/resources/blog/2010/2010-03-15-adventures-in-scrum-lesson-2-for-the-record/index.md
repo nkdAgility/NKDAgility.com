@@ -26,27 +26,19 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
+- People and Process
 - Scrum Product Development
 - Scrum Team
-- Professional Scrum
+- Team Collaboration
 - Scrum Master
 - Software Developers
+- Agile Product Management
 - Agile Planning
 - Software Development
-- Team Collaboration
-- Agile Frameworks
-- Agile Transformation
-- Agile Project Management
-- Pragmatic Thinking
-- Product Owner
-- Team Performance
+- Product Delivery
 categories:
 - Scrum
-- People and Process
-- Agile Product Management
-- Product Delivery
-- Transparency and Accountability
-- Personal
+- Social Technologies
 preview: metro-SSWLogo-128-link-1-1.png
 
 ---

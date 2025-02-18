@@ -26,15 +26,9 @@ aliasesFor404:
 - /blog/event--msdn--sharepoint-for-developers-(edinburgh)
 - /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
 tags:
-- Windows
-- Software Developers
-- Continuous Learning
-- Technical Mastery
-- Collaboration Tools
-- Software Development
-categories:
 - Events and Presentations
 - News and Reviews
+categories: []
 preview: metro-visual-studio-2005-128-link-2-2.png
 
 ---

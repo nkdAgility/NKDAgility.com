@@ -22,13 +22,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
 duration: 436
 isShort: false
-tags: []
+tags:
+- Agile Planning
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
+- Product Management
 
 ---
 One of the most pervasive myths I encounter in the world of Scrum is the notion that Agile means we can forgo planning altogether. This idea is not just misguided; it’s downright detrimental to the success of any Agile team. Let me clarify: Scrum is fundamentally about planning. 

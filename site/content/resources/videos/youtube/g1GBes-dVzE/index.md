@@ -29,10 +29,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Coaching
+- People and Process
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Why a Deep Understanding is Non-Negotiable

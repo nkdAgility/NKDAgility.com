@@ -26,19 +26,13 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Continuous Learning
-- Products and Books
-- Product Delivery
-- Agile Product Management
-- Value Delivery
-- Team Performance
-- Software Development
-- Organisational Agility
-- Agile Project Management
-- Coaching
-- Agile Transformation
-- Pragmatic Thinking
-- Team Collaboration
+- Discovery and Learning
 - Agile Frameworks
+- Events and Presentations
+- Software Development
+- Coaching
+- Team Performance
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

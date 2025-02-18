@@ -21,31 +21,7 @@ preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
 tags:
-- Agile Project Management
-- Agile Product Management
-- Agile Frameworks
-- Agile Leadership
-- Agile Transformation
-- Agile Strategy
-- Evidence Based Management
-- Ability to Innovate
-- Pragmatic Thinking
-- Strategy
-- Organisational Culture
-- Organisational Agility
-- Decision Making
-- Enterprise Agility
-- Organisational Change
-- Metrics and Learning
-- Operational Practices
-- Value Delivery
-- Technical Leadership
-- Business Agility
-- Empirical Process Control
-- Evidence Based Leadership
-- Continuous Learning
-- Software Development
-- Mentoring
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -55,7 +31,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- People and Process
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself thinking about the importance of continuous learning and skill enhancement. Recently, I had the opportunity to participate in an evidence-based management class, and I can’t help but share how transformative this experience was for me and how it can be for you too.

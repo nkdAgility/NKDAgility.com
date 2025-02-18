@@ -30,16 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Philosophy
-- Empirical Process Control
+- People and Process
+- Discovery and Learning
+- Complexity Thinking
 - Pragmatic Thinking
-- Sensemaking
+- Business Agility
+- Empirical Process Control
+- Market Adaptability
+- Personal
+- Agile Philosophy
+- Organisational Agility
 resourceTypes:
 - video
 categories:
-- Complexity Thinking
-- Discovery and Learning
-- People and Process
+- DevOps
+- Social Technologies
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

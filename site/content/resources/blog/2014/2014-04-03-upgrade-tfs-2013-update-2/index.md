@@ -27,22 +27,16 @@ aliasesFor404:
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
 - Install and Configuration
-- System Configuration
 - Release Management
-- Products and Books
+- System Configuration
 - Application Lifecycle Management
-- Practical Techniques and Tooling
-- Agile Planning Tools
-- Azure DevOps
-- Frequent Releases
-- Product Delivery
-- Software Development
-- Modern Source Control
-- Working Software
-- Pragmatic Thinking
-categories:
+- Products and Books
 - News and Reviews
-- Technical Excellence
+- Agile Planning Tools
+- Practical Techniques and Tooling
+- Software Development
+- Azure DevOps
+categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

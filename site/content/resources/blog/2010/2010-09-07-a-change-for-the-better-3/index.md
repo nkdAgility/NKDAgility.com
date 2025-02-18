@@ -26,24 +26,20 @@ aliasesFor404:
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
 tags:
-- Agile Project Management
-- Software Developers
-- Continuous Learning
-- Software Development
-- Mentoring
-- Agile Transformation
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Engineering Excellence
-- Coaching
-categories:
-- People and Process
 - Application Lifecycle Management
+- People and Process
+- Software Developers
+- Agile Project Management
+- Software Development
+- Continuous Learning
 - Personal
-- Scrum
+- Mentoring
 - Product Delivery
-- Practical Techniques and Tooling
+- Engineering Practices
+categories:
+- Social Technologies
+- Scrum
+- Engineering Excellence
 preview: metro-nwc-128-link-2-2.png
 
 ---

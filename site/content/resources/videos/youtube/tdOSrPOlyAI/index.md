@@ -23,10 +23,12 @@ preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 127
 isShort: false
 tags:
-- Technical Mastery
+- Technical Excellence
 - Engineering Practices
+- Technical Mastery
 - Software Development
 - Technical Leadership
+- People and Process
 - Technical Debt
 - Value Delivery
 - Pragmatic Thinking
@@ -37,8 +39,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- Technical Excellence
-- People and Process
 - DevOps
 
 ---

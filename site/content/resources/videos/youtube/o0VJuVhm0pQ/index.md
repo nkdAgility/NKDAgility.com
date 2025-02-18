@@ -28,32 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Ability to Innovate
-- Agile Frameworks
-- Agile Leadership
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Customer Retention
-- Customer Satisfaction
-- Empirical Process Control
-- Evidence Based Leadership
-- Experimentation
-- Hypothesis Driven Development
-- Increment
-- Pragmatic Thinking
-- Product Management
 - Scrum Product Development
+- Empirical Process Control
+- People and Process
+- Value Delivery
+- Agile Product Management
 - Software Development
-- Strategy
-- Working Software
+- Product Delivery
+- Agile Project Management
+- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
+- Scrum
+- Product Management
+- Social Technologies
 
 ---
 In high competition markets, how does scrum product development help acquire and retain customers?

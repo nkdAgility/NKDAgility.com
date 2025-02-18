@@ -30,8 +30,7 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-categories:
-- Technical Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

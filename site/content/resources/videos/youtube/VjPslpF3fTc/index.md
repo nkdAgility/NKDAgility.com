@@ -28,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
 - Continuous Learning
 resourceTypes:
 - video
-categories:
-- Discovery and Learning
+categories: []
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

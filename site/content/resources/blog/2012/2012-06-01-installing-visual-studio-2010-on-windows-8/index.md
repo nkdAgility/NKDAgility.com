@@ -23,8 +23,7 @@ aliasesFor404:
 - /resources/blog/installing-visual-studio-2010-on-windows-8
 tags:
 - Windows
-categories:
-- Install and Configuration
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

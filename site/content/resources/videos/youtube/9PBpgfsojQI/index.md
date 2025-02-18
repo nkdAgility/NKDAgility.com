@@ -28,25 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
-- Coaching
-- Continuous Learning
-- Operational Practices
-- Pragmatic Thinking
-- Product Management
-- Product Owner
-- Product Strategy
-- Scrum Product Development
-- Software Development
 - Strategy
+- Product Owner
+- People and Process
+- Agile Product Management
+- Agile Product Operating Model
+- Value Delivery
+- Product Delivery
+- Agile Project Management
+- Pragmatic Thinking
+- Product Strategy
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
-- Value Delivery
+- Product Management
+- Social Technologies
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

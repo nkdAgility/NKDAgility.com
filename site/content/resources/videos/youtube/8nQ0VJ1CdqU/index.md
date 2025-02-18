@@ -28,31 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Decision Making
 - Agile Leadership
+- Beta Codex
+- Agile Strategy
 - Agile Philosophy
 - Agile Project Management
-- Agile Strategy
+- Sociotechnical Systems
 - Agile Transformation
-- Agile Values and Principles
-- BetaCodex
-- Change Management
-- Decision Making
 - Organisational Change
-- Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Scaling Agility
-- Self Organisation
-- Software Development
-- Team Collaboration
-- Team Motivation
-- Transparency
 resourceTypes:
 - video
 categories:
-- Enterprise Agility
-- People and Process
-- Sociotechnical Systems
+- Leadership
+- Social Technologies
 
 ---
 Why did so many of the early agile transformations fail?

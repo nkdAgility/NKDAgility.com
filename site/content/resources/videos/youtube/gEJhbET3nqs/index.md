@@ -22,14 +22,21 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false
-tags: []
+tags:
+- Agile Leadership
+- People and Process
+- Organisational Agility
+- Business Agility
+- Agile Transformation
+- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Leadership
 
 ---
  You will understand where and how agility can help your organization improve, by addressing challenges you can solve in no other way. You will also understand how agile teams work and what you, as a manager or leader, can do to help them to improve. You will also be able to quantify the benefits of improving the agility of your organization through concrete measures. This class can be delivered virtually or on-site, in a specific organization, to help its leaders understand their important role in transforming their organization, or in a public class setting.

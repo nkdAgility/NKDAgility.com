@@ -28,13 +28,9 @@ aliasesFor404:
 tags:
 - Organisational Change
 categories:
-- People and Process
-- Scrum
 - Leadership
+- Scrum
 - Social Technologies
-- DevOps
-- Discovery and Learning
-- Product Management
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

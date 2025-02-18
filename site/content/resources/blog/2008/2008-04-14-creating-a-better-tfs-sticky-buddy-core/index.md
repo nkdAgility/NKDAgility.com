@@ -26,10 +26,11 @@ aliasesFor404:
 - /blog/creating-a-better-tfs-sticky-buddy-(core)
 - /resources/blog/creating-a-better-tfs-sticky-buddy-core
 tags:
-- Technical Mastery
 - Software Development
-categories:
+- Technical Mastery
 - Technical Excellence
+categories:
+- Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

@@ -31,37 +31,15 @@ tags:
 - Sensemaking
 - Agile Project Management
 - Agile Product Management
-- Agile Product Operating Model
 - Scrum Product Development
-- Agile Strategy
-- Product Backlog
-- Resilience and Change
-- Organisational Culture
-- Decision Making
-- Software Development
-- Product Owner
-- Agile Planning
-- Complexity Thinking
-- Agile Philosophy
-- Product Delivery
-- Agile Frameworks
-- Organisational Agility
-- Organisational Physics
-- Sociotechnical Systems
-- Strategy
-- Agile Values and Principles
-- Agile Planning Tools
-- Agile Transformation
-- Self Organisation
-- Business Agility
-- Market Adaptability
-categories:
-- People and Process
 - Discovery and Learning
+- Agile Product Operating Model
+- Agile Strategy
+- Resilience and Change
+- People and Process
+categories:
 - Product Management
-- Systems Thinking
 - Social Technologies
-- Code and Complexity
 preview: image-1.jpg
 
 ---

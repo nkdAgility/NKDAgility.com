@@ -21,14 +21,26 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
-tags: []
+tags:
+- Product Owner
+- People and Process
+- Ability to Innovate
+- Agile Product Management
+- Scrum Product Development
+- Decision Making
+- Metrics and Learning
+- Agile Product Operating Model
+- Value Delivery
+- Evidence Based Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
 
 ---
 As a product owner, adopting an entrepreneurial stance is crucial for steering your team towards success. I often think of this stance as embodying the visionary who gazes into the future, shaping the product backlog with insights and foresight. However, there are two key aspects that I believe every product owner must keep in mind to truly harness this entrepreneurial spirit.

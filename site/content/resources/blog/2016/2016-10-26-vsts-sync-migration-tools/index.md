@@ -26,9 +26,7 @@ tags:
 - Azure DevOps
 - Software Development
 categories:
-- News and Reviews
 - Engineering Excellence
-- Technical Excellence
 - DevOps
 preview: image_thumb-1-1.png
 

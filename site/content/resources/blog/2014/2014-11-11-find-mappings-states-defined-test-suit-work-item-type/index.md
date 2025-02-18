@@ -29,14 +29,15 @@ tags:
 - System Configuration
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Mastery
-- Azure DevOps
-- Troubleshooting
 - Software Development
+- Azure DevOps
+- Technical Mastery
+- Technical Excellence
+- Troubleshooting
 - Pragmatic Thinking
 - Working Software
 categories:
-- Technical Excellence
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

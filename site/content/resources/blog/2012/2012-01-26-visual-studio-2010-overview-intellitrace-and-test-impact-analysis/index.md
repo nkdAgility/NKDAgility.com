@@ -29,15 +29,17 @@ aliasesFor404:
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
 - Automated Testing
-- Troubleshooting
+- Events and Presentations
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Software Development
+- Technical Excellence
+- Troubleshooting
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- Events and Presentations
-- Practical Techniques and Tooling
-- Technical Excellence
-- Application Lifecycle Management
+- Engineering Excellence
+- DevOps
 
 ---
 Intellitrace was built in response to the #1 and #2 demands from TFS 2008 customers: help us find bugs faster so we can fix them faster. As a configurable "flight data recorder" for all aspects of debug and test, it provides advanced and integrated logging so devs can locate and reproduce the bug exactly the way it occurred. Especially in Agile environments, regression testing needs can quickly spiral beyond available resources. Automated testing helps, but a large automated test suite can also impede rapid iterative development. Test Impact Analysis helps the team focus and prioritize by automatically identifying which tests are potentially affected by a pending change.

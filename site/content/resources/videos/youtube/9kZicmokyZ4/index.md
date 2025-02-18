@@ -34,9 +34,9 @@ tags:
 - Evidence Based Management
 - Evidence Based Leadership
 - Empirical Process Control
-- Operational Practices
-- Decision Making
 - Pragmatic Thinking
+- Decision Making
+- Operational Practices
 - Ability to Innovate
 resourceTypes:
 - video

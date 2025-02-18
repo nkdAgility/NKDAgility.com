@@ -30,18 +30,11 @@ aliasesFor404:
 - /blog/hosted-tfs--and-cheap…-from-phase2
 - /resources/blog/hosted-tfs-and-cheap-from-phase2
 tags:
-- Windows
-- Software Developers
-- Working Software
-- Modern Source Control
-- Technical Mastery
-- Collaboration Tools
-- Software Development
-- System Configuration
+- Products and Books
+- News and Reviews
 preview: metro-sharepoint-128-link-2-2.png
 categories:
-- News and Reviews
-- Products and Books
+- DevOps
 
 ---
 [![image](images/21c33c4198cb_76CA-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-21c33c4198cb_76CA-image_6.png)

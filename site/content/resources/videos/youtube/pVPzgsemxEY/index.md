@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Operational Practices
 - Lean Principles
+- Operational Practices
 resourceTypes:
 - video
 categories:

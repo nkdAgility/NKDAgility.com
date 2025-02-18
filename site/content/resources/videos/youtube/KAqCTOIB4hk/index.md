@@ -30,29 +30,18 @@ sitemap:
 tags:
 - Metrics and Learning
 - Change Management
-- Ability to Innovate
+- People and Process
+- Discovery and Learning
 - Continuous Learning
 - Value Delivery
 - Evidence Based Management
+- Ability to Innovate
 - Pragmatic Thinking
-- Organisational Physics
-- Coaching
-- Sensemaking
-- Decision Making
 - Mentoring
-- Evidence Based Leadership
-- Sociotechnical Systems
-- Agile Product Management
-- Organisational Change
-- Operational Practices
-- Organisational Agility
-- Business Agility
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
 - Product Management
-- People and Process
 
 ---
 In today's fast-paced business environment, continuous learning is not just a luxury—it's a necessity. But how do we move beyond traditional learning methods to something that truly makes an impact? Enter **immersive learning**, a game-changing approach designed to not only impart knowledge but also drive real-world application and transformation within organizations.

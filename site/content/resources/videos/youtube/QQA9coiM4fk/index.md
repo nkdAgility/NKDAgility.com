@@ -28,14 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Pragmatic Thinking
 - Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
+- People and Process
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
-- Practical Techniques and Tooling
 
 ---
 ## Navigating the Complexities with Expert Guidance 

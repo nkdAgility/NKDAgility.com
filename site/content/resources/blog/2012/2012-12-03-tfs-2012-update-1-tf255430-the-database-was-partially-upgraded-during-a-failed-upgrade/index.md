@@ -30,17 +30,17 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Operational Practices
-- Technical Mastery
-- Troubleshooting
-- Release Management
-- Software Development
-- Pragmatic Thinking
-categories:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Operational Practices
+- Software Development
+- Release Management
 - Azure DevOps
+- Technical Mastery
 - Technical Excellence
+categories:
+- Engineering Excellence
+- DevOps
 preview: metro-problem-icon-2-2.png
 
 ---

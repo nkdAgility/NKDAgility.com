@@ -29,8 +29,6 @@ aliasesFor404:
 tags:
 - Technical Debt
 categories:
-- People and Process
-- Code and Complexity
 - Engineering Excellence
 - Social Technologies
 - Product Management

@@ -25,7 +25,6 @@ tags:
 - Software Development
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 preview: IC749984-1-1.png
 

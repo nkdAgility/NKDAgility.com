@@ -22,14 +22,26 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
-tags: []
+tags:
+- Coaching
+- Team Collaboration
+- Scrum Team
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Team Performance
+- Agile Philosophy
+- Business Agility
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
  #agileconsulting can be incredibly rewarding and fulfilling.

@@ -21,7 +21,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false
-tags: []
+tags:
+- Digital Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

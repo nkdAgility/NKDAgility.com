@@ -28,17 +28,17 @@ aliasesFor404:
 tags:
 - Professional Scrum
 - Scrum Master
-- Agile Project Management
-- Organisational Change
-- Agile Frameworks
-- Agile Transformation
-- Pragmatic Thinking
-- Software Development
-- Technical Leadership
-categories:
-- Scrum
 - People and Process
 - Events and Presentations
+- Organisational Change
+- Agile Project Management
+- Agile Frameworks
+- Software Development
+- Agile Transformation
+- Pragmatic Thinking
+categories:
+- Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

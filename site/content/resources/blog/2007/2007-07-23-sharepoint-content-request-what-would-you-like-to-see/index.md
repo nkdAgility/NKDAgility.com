@@ -27,13 +27,13 @@ aliasesFor404:
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
 - /sharepoint-content-request
 - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
-categories:
-- Practical Techniques and Tooling
-- Products and Books
-- Application Lifecycle Management
-- Miscellaneous
+categories: []
 tags:
+- Products and Books
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Software Development
+- Miscellaneous
 
 ---
 what-would-you-like-to-see-

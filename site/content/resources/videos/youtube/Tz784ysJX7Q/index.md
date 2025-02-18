@@ -23,6 +23,7 @@ preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
 tags:
+- People and Process
 - Product Delivery
 - Decision Making
 - Complexity Thinking
@@ -34,7 +35,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- People and Process
 - Engineering Excellence
 
 ---

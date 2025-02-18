@@ -30,9 +30,10 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
+- Events and Presentations
 categories:
 - Scrum
-- Events and Presentations
+- Social Technologies
 preview: metro-event-128-link-1-1.png
 
 ---

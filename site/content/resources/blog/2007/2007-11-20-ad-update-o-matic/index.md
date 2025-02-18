@@ -22,10 +22,10 @@ aliasesFor404:
 - /blog/ad-update-o-matic
 - /resources/blog/ad-update-o-matic
 tags:
-- Working Software
 - Windows
-- Technical Mastery
 - Software Development
+- Technical Mastery
+- Working Software
 - System Configuration
 - Operational Practices
 categories: []

@@ -23,10 +23,11 @@ duration: 24
 isShort: true
 tags:
 - Organisational Change
-- Organisational Psychology
 - Change Management
-- Employee Engagement
+- People and Process
+- Organisational Psychology
 - Team Motivation
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +35,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
 - Leadership
 
 ---

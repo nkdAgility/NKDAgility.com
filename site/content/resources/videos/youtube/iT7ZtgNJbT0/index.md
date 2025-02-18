@@ -30,14 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Project Management
-- Agile Transformation
+- Personal
 - Software Development
+- Agile Transformation
 resourceTypes:
 - video
 categories:
-- People and Process
-- Personal
+- Scrum
+- Social Technologies
 
 ---
 **What was your best day as an Agile consultant?**

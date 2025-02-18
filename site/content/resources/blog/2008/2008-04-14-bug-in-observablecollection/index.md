@@ -26,11 +26,11 @@ aliasesFor404:
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
 tags:
+- Software Development
 - Technical Mastery
 - Troubleshooting
-- Software Development
 categories:
-- Code and Complexity
+- Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

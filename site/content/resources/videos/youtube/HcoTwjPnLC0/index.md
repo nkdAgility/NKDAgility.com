@@ -29,10 +29,14 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Owner
+- Agile Product Management
+- Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 ## Defining Roles in Agile

@@ -26,9 +26,9 @@ aliasesFor404:
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
 tags:
-- Product Delivery
-- Release Management
 - Software Development
+- Release Management
+- Product Delivery
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png

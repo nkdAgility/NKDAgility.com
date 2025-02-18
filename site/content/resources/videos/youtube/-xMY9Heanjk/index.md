@@ -27,33 +27,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
-- Continuous Learning
-- Customer Feedback Loops
-- Decision Making
+- People and Process
 - Empirical Process Control
-- Evidence Based Leadership
-- Evidence Based Management
-- Experimentation
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Product Development
-- Software Developers
-- Software Development
-- Strategy
-- Team Collaboration
+- Agile Planning
 - Team Performance
+- Scrum Product Development
+- Agile Frameworks
+- Professional Scrum
+- Customer Feedback Loops
+- Agile Transformation
+- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video
 categories:
-- Agile Product Management
-- Metrics and Learning
-- People and Process
+- Scrum
+- Social Technologies
 
 ---
 What is the hardest part of working with a brand-new scrum team?

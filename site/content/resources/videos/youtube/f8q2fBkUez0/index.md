@@ -22,10 +22,11 @@ preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
 duration: 4859
 isShort: false
 tags:
+- People and Process
 - Decision Making
 - Organisational Change
-- Sociotechnical Systems
 - Organisational Physics
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,7 +34,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
+- Scrum
+- Social Technologies
 
 ---
 In the world of agile and organisational development, one topic that often surfaces is the relationship between financial awareness and employee motivation. Recently, I had the opportunity to engage in a thought-provoking discussion with my colleagues, Ryan and Michael, about whether companies should take money off the table when it comes to motivating their employees. This conversation sparked some reflections on my own experiences and the broader implications for businesses today.

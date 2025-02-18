@@ -29,46 +29,19 @@ sitemap:
   priority: 0.6
 tags:
 - Increment
-- Agile Product Operating Model
-- Agile Leadership
 - Working Software
-- Product Delivery
-- Agile Values and Principles
 - Business Agility
+- People and Process
 - Agile Product Management
-- Decision Making
-- Software Development
-- Organisational Agility
-- Software Developers
-- Agile Project Management
-- Agile Transformation
-- Enterprise Agility
-- Organisational Culture
-- Team Performance
-- Agile Philosophy
-- Change Management
-- Organisational Change
-- Agile Strategy
-- Operational Practices
-- Agile Frameworks
-- Continuous Learning
+- Agile Leadership
+- Product Delivery
+- Agile Product Operating Model
+- Agile Values and Principles
 - Value Delivery
-- Empirical Process Control
-- Agile Planning
-- Deployment Frequency
-- Strategy
-- Pragmatic Thinking
-- Frequent Releases
-- Continuous Delivery
-- Metrics and Learning
-- Market Adaptability
 resourceTypes:
 - video
 categories:
-- People and Process
-- Discovery and Learning
 - Product Management
-- News and Reviews
 - Social Technologies
 
 ---

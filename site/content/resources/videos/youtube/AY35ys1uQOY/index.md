@@ -27,10 +27,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Scrum Product Development
+- Agile Planning
+- Agile Project Management
+- Agile Product Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
+- Scrum
 
 ---
 ## Is Your Sprint Goal Hitting the Mark?

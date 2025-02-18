@@ -22,12 +22,11 @@ aliasesFor404:
 - /blog/get-analysis-services-last-processed-date
 - /resources/blog/get-analysis-services-last-processed-date
 tags:
+- Software Development
 - Technical Mastery
 - Troubleshooting
-- Software Development
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Code and Complexity
+categories: []
 
 ---
 I need a little bit of code to get the last processed date for the cube that my site connects to:

@@ -26,26 +26,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Kanban
 - Operational Practices
-- Metrics and Learning
-- Value Delivery
-- Practical Techniques and Tooling
 - Flow Efficiency
+- Practical Techniques and Tooling
+- Value Delivery
+- People and Process
+- Metrics and Learning
 - Lean Thinking
-- Lean
-- Throughput
-- Software Development
-- Agile Project Management
-- Pragmatic Thinking
 - Agile Frameworks
-- Lean Principles
-- Cycle Time
-- Value Stream Management
+- Software Development
 resourceTypes:
 - video
 categories:
-- Kanban
-- People and Process
 - Social Technologies
 
 ---

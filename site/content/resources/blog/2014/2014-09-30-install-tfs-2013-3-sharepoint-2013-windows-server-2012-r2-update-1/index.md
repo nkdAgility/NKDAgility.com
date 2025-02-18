@@ -29,7 +29,6 @@ tags:
 - Windows
 - Install and Configuration
 categories:
-- Technical Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 

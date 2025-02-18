@@ -29,45 +29,15 @@ tags:
 - Transparency
 - Empirical Process Control
 - Agile Product Management
+- People and Process
 - Transparency and Accountability
+- Change Management
 - Organisational Agility
+- Agile Values and Principles
 - Scaling Agility
 - Organisational Change
-- Agile Values and Principles
-- Agile Project Management
-- Team Collaboration
-- Change Management
-- Organisational Culture
-- Agile Frameworks
-- Agile Leadership
-- Team Motivation
-- Agile Transformation
-- Software Development
-- Agile Philosophy
-- Business Agility
-- Operational Practices
-- Agile Strategy
-- Enterprise Agility
-- Value Delivery
-- Software Developers
-- Team Performance
-- Technical Leadership
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Strategy
-- Market Adaptability
-- Lean Product Development
-- Organisational Physics
-- Resilience and Change
-- Continuous Learning
-- Self Organisation
-- Coaching
-- Beta Codex
 categories:
-- People and Process
-- Discovery and Learning
 - Leadership
-- Personal
 - Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 

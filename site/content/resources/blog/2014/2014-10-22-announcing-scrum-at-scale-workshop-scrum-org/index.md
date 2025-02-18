@@ -26,43 +26,18 @@ aliasesFor404:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- Organisational Change
-- Scaling Agility
-- Scaling Scrum
-- Agile Project Management
-- Organisational Culture
 - Metrics and Learning
-- Large Scale Agility
 - Organisational Agility
+- Software Development
 - Evidence Based Management
 - Change Management
-- Software Development
-- Enterprise Agility
+- Scaling Agility
+- People and Process
+- Organisational Culture
 - Resilience and Change
-- Scaled Agile
-- Agile Transformation
-- Agile Frameworks
-- Agile Strategy
-- Evidence Based Leadership
-- Products and Books
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Business Agility
-- Professional Scrum
-- Ability to Innovate
-- Operational Practices
-- Value Delivery
-- Empirical Process Control
-- Organisational Physics
-- Agile Leadership
-- Decision Making
-- Strategy
-- Team Performance
+- Enterprise Agility
 categories:
 - Scrum
-- People and Process
-- Events and Presentations
-- News and Reviews
 - Social Technologies
 preview: nakedalm-experts-professional-scrum-2-2.png
 

@@ -28,19 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
+- People and Process
+- Discovery and Learning
 - Continuous Learning
-- Employee Engagement
-- Mentoring
-- Pragmatic Thinking
 - Software Developers
+- Personal
+- Employee Engagement
+- Pragmatic Thinking
 - Software Development
+- Coaching
+- Mentoring
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
-- Personal
+- Scrum
+- Leadership
+- Engineering Excellence
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

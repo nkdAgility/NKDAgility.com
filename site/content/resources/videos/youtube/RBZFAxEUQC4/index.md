@@ -31,7 +31,8 @@ tags:
 - Organisational Change
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

@@ -30,23 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Deployment Frequency
-- Engineering Excellence
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
+- Market Adaptability
 - Software Development
-- Strategy
-- Technical Leadership
 - Technical Mastery
+- Software Developers
+- Pragmatic Thinking
+- Product Delivery
+- Value Delivery
+- Technical Excellence
+- Engineering Practices
 - Working Software
 resourceTypes:
 - video
 categories:
 - DevOps
-- Market Adaptability
-- Product Delivery
+- Engineering Excellence
 
 ---
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 

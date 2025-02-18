@@ -26,12 +26,11 @@ aliasesFor404:
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
-- Troubleshooting
 - Software Development
+- Troubleshooting
 - System Configuration
 - Pragmatic Thinking
-categories:
-- Discovery and Learning
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

@@ -28,10 +28,10 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
-- Azure Pipelines
 - Azure DevOps
 - Practical Techniques and Tooling
+- System Configuration
+- Azure Pipelines
 - Software Development
 - Continuous Integration
 categories:

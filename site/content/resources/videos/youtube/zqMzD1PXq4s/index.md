@@ -25,15 +25,14 @@ isShort: false
 tags:
 - Azure DevOps
 - Technical Leadership
-- Technical Mastery
-- Value Delivery
+- Technical Excellence
+- People and Process
 - Engineering Practices
 - Software Development
+- Technical Mastery
+- Value Delivery
 - Technical Debt
-- Operational Practices
 - Pragmatic Thinking
-- Product Delivery
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,10 +40,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- Technical Excellence
-- People and Process
 - DevOps
-- Code and Complexity
 
 ---
 Chaos costs money. In my experience working with various organisations, I've seen firsthand how they struggle to manage the chaos that often surrounds the delivery of usable, working products to their customers. The result? Substandard work, a barrage of bugs hitting production, and a frustrating cycle of rework because things simply don’t meet the minimum standards we expect. It’s a familiar tale, and one that I’ve encountered time and again.

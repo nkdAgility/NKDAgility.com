@@ -22,11 +22,12 @@ preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- Agile Leadership
-- Agile Project Management
 - Scrum Master
+- People and Process
 - Scrum Team
 - Technical Leadership
+- Agile Project Management
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +35,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
+- Leadership
+- Scrum
+- Social Technologies
 
 ---
 When I reflect on my journey as a Scrum Master, one of the most persistent misconceptions I encounter is the belief that a Scrum Master is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 

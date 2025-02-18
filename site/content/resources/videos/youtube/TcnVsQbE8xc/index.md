@@ -27,10 +27,20 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum Master
+- People and Process
+- Agile Frameworks
+- Software Development
+- Agile Project Management
+- Scrum Team
+- Professional Scrum
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  

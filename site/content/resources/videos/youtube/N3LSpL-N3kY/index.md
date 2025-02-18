@@ -25,10 +25,15 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Product Owner
+- Discovery and Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
+- Scrum
 
 ---
 ## The Product Owner Journey

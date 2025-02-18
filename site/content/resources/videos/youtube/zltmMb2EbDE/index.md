@@ -28,21 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Throughput
+- Kanban
 - Strategy
+- Throughput
 - Metrics and Learning
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Software Development
+- Practical Techniques and Tooling
 - Cycle Time
-- Operational Practices
-- Agile Project Management
-- Pragmatic Thinking
+- Flow Efficiency
 - Agile Frameworks
+- Agile Project Management
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

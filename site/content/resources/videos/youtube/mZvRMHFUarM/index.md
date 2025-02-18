@@ -26,19 +26,16 @@ tags:
 - Forecasting
 - Estimation
 - Software Development
-- Product Delivery
-- Decision Making
 - Decision Theory
+- Product Delivery
 - Pragmatic Thinking
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- People and Process
-- Discovery and Learning
-- Scrum
 - Engineering Excellence
 - Product Management
 - Social Technologies

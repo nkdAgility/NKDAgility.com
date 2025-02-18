@@ -29,11 +29,11 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
+- People and Process
 resourceTypes:
 - video
 categories:
 - DevOps
-- People and Process
 
 ---
 In today’s fast-paced digital landscape, organizations across various industries—from medical devices to military operations, internet startups to web organizations—face the challenge of implementing DevOps practices. Despite the common goal of optimizing software delivery, the journey is anything but uniform. The intrinsic philosophies of DevOps remain consistent, but the path to success is as unique as the organizations themselves.

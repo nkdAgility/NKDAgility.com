@@ -26,16 +26,17 @@ aliasesFor404:
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 tags:
-- Pragmatic Thinking
-- Troubleshooting
+- Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
+- Azure DevOps
+- Troubleshooting
 - System Configuration
+- Pragmatic Thinking
 - Operational Practices
 - Technical Mastery
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

@@ -27,10 +27,19 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Organisational Change
+- People and Process
+- Organisational Agility
+- Agile Frameworks
+- Enterprise Agility
+- Scaling Agility
+- Agile Transformation
+- Sociotechnical Systems
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## The Reality of Scrum Adoption 🤔  

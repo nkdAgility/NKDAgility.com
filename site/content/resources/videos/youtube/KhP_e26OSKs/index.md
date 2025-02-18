@@ -23,6 +23,7 @@ duration: 57
 isShort: true
 tags:
 - Product Owner
+- People and Process
 - Agile Project Management
 sitemap:
   filename: sitemap.xml
@@ -31,7 +32,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

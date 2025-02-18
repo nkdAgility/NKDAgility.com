@@ -29,20 +29,15 @@ aliasesFor404:
 tags:
 - Business Agility
 - Agile Strategy
+- Organisational Culture
+- People and Process
 - Enterprise Agility
 - Organisational Agility
-- Organisational Culture
 - Strategy
 - Pragmatic Thinking
 - Market Adaptability
 - Scaling Agility
-- Team Motivation
-- Resilience and Change
-- Sociotechnical Systems
-- Organisational Change
 categories:
-- People and Process
-- Discovery and Learning
 - Leadership
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 

@@ -28,11 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Organisational Culture
 resourceTypes:
 - video
 categories:
-- People and Process
+- Leadership
+- Social Technologies
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

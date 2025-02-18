@@ -26,14 +26,9 @@ aliasesFor404:
 - /blog/blogging-about---
 - /resources/blog/blogging-about
 tags:
-- Software Development
-- Continuous Learning
-- Software Developers
-- Technical Mastery
-- System Configuration
-categories:
 - Miscellaneous
 - Personal
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

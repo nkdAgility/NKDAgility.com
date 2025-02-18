@@ -23,31 +23,15 @@ duration: 971
 isShort: false
 tags:
 - Decision Making
+- People and Process
+- Agile Project Management
+- Agile Values and Principles
+- Resilience and Change
 - Organisational Agility
-- Organisational Change
 - Complexity Thinking
 - Business Agility
 - Ability to Innovate
-- Agile Values and Principles
-- Resilience and Change
-- Agile Project Management
-- Agile Philosophy
-- Pragmatic Thinking
-- Market Adaptability
-- Decision Theory
-- Agile Transformation
-- Agile Strategy
-- Enterprise Agility
-- Metrics and Learning
-- Empirical Process Control
-- Evidence Based Leadership
-- Organisational Physics
-- Strategy
-- Sensemaking
-- Beta Codex
-- Evidence Based Management
-- Agile Product Management
-- Agile Frameworks
+- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -55,8 +39,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
-- Discovery and Learning
 - Social Technologies
 - Product Management
 

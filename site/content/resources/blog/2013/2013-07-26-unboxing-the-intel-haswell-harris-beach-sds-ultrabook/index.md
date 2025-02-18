@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Windows
 - Products and Books
-categories:
 - News and Reviews
+categories: []
 preview: Web-Intel-Metro-icon-4-4.png
 
 ---

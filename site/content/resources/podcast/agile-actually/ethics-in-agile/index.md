@@ -2,13 +2,12 @@
 title: Ethics in Agile
 description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
 ResourceId: hWrztsvRPAi
-ResourceImport: true
+ResourceImport: false
 ResourceType: podcast
 date: 2023-10-26
 categories:
-- Transparency and Accountability
-- People and Process
-- Discovery and Learning
+- Scrum
+- Social Technologies
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -17,19 +16,7 @@ aliases:
 - /resources/hWrztsvRPAi
 tags:
 - Transparency
-- Agile Coaching
-- Agile Values and Principles
-- Team Collaboration
-- Organisational Culture
-- Continuous Improvement
-- Evidence Based Management
-- Agile Leadership
-- Agile Software Development
-- Agile Digital Tools
-- Agile Community
-- Psychological Safety
-- Team Motivation
-- Change Management
+- Transparency and Accountability
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

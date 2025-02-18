@@ -29,10 +29,22 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Scrum Master
+- Agile Values and Principles
+- Agile Frameworks
+- Team Performance
+- People and Process
+- Agile Project Management
+- Agile Philosophy
+- Agile Transformation
+- Software Development
+- Agile Product Management
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 **Worst agile advice you've ever heard?**

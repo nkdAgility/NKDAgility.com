@@ -28,28 +28,16 @@ aliasesFor404:
 tags:
 - Large Scale Agility
 - Professional Scrum
-- Scaling Scrum
 - Scaling Agility
+- Events and Presentations
+- Scaling Scrum
+- People and Process
 - Software Development
-- Scaled Agile
-- Scrum Product Development
-- Organisational Agility
-- Team Performance
 - Software Developers
 - Agile Frameworks
-- Value Delivery
-- Strategy
-- Pragmatic Thinking
-- Agile Strategy
-- Agile Product Management
-- Product Delivery
-- Agile Project Management
-- Agile Transformation
-- Enterprise Agility
+- Scrum Product Development
 categories:
 - Scrum
-- People and Process
-- Events and Presentations
 - Social Technologies
 preview: clip_image003-3-3.png
 

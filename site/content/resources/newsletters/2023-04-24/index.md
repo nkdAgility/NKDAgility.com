@@ -18,25 +18,15 @@ aliasesFor404:
 - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 categories:
 - Scrum
-- People and Process
-- Organisational Agility
-- AI and Automation in Agility
-- Value Delivery
+- Social Technologies
 tags:
-- Agile Certification
-- Professional Scrum
-- Scrum Team
-- Scrum Product Management
-- Agile Product Management
-- Agile Coaching
-- Team Collaboration
-- Continuous Improvement
-- Agile Mentoring Program
-- Employee Engagement
-- Agile Values and Principles
-- Technical Mastery
-- Agile Leadership
-- Value Delivery
+- People and Process
+- Events and Presentations
+- Continuous Learning
+- Agile Frameworks
+- Software Development
+- Agile Project Management
+- Agile Transformation
 
 ---
 The world is spinning faster than ever, with more players than ever.

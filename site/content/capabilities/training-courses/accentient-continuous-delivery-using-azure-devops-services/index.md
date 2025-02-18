@@ -1,29 +1,49 @@
 ---
 title: Continuous Delivery Using Azure DevOps Services Training
+description: It seems there are no specific details provided for the resource. Please share the relevant information, and I'll be happy to help you create a concise description!
+ResourceId: Et_C1UNbGdO
 date: 2018-11-28
 creator: Martin Hinshelwood
-id: "38573"
 type: course
 slug: continuous-delivery-using-azure-devops-services-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-  - /training-courses/continuous-delivery-using-azure-devops-services
-  - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
-  - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
+- /training-courses/continuous-delivery-using-azure-devops-services
+- /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
+- /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
 course-topics:
-  - Azure DevOps Training Courses
+- Azure DevOps Training Courses
 course-vendors:
-  - Accentient
+- Accentient
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - Developers
+- Developers
 tags:
-  - development
+- Value Delivery
+- Product Delivery
+- Azure DevOps
+- Continuous Delivery
+- Software Development
+- Working Software
+- Continuous Learning
+- Team Collaboration
+- Software Developers
+- Operational Practices
+- Engineering Practices
+- Practical Techniques and Tooling
+- Technical Excellence
+- Technical Mastery
+- Market Adaptability
+- Frequent Releases
+- Pragmatic Thinking
+- Deployment Frequency
 categories:
+- DevOps
+- Engineering Excellence
 preview: pipelines-icon-80.png
 previewIcon: A-CDADS.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -31,7 +51,7 @@ card:
   content: This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback.
 code: cdads
 level: intermediate
-introduction:
+introduction: 
 overview: This course is intended for experienced software development professionals who want to learn about DevOps in order to achieve Continuous Integration, Continuous Delivery, Continuous Feedback, and Continuous Learning in a technical value stream as supported by Azure DevOps Services, Visual Studio, and Azure in order to continually deliver working software at scale. Students will also install and evaluate several extensions from the Azure DevOps Marketplace. Those who use the on-premises version of Azure DevOps Server (Team Foundation Server/TFS) will also benefit from this course. Attendees should be familiar with Visual Studio, Scrum, and have basic experience with Azure DevOps Services, Visual Studio Team Services or Team Foundation Server.
 outcomes: |2+
 
@@ -43,12 +63,14 @@ outcomes: |2+
   6. Empowering the Product Owner
   7. Learning and Improving Continuously
 
-assessment:
-objectives: "This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback. To maximize learning, students will work in teams, in a common team project, on a common case study. <small>Note: This course was previously called Continuously Delivery Using Visual Studio Team Services (CDVSTS).</small>"
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
+assessment: 
+objectives: 'This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback. To maximize learning, students will work in teams, in a common team project, on a common case study. <small>Note: This course was previously called Continuously Delivery Using Visual Studio Team Services (CDVSTS).</small>'
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
+
 ---
+

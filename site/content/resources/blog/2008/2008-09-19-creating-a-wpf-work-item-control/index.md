@@ -24,11 +24,7 @@ aliasesFor404:
 tags:
 - Software Development
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
-- Technical Excellence
-- Application Lifecycle Management
+- Engineering Excellence
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

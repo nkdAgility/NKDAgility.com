@@ -26,21 +26,9 @@ aliasesFor404:
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
-- Windows
-- Release Management
-- Product Owner
-- Install and Configuration
-- Azure DevOps
-- Product Delivery
-- Practical Techniques and Tooling
-- Software Development
-- Troubleshooting
-- Application Lifecycle Management
-- Software Developers
-- Continuous Delivery
-- Pragmatic Thinking
-categories:
 - Events and Presentations
+categories:
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

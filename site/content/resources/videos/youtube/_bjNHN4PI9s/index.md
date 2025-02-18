@@ -20,7 +20,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 isShort: false
-tags: []
+tags:
+- Events and Presentations
+- Install and Configuration
+- Remote Working
+- Collaboration Tools
+- Practical Techniques and Tooling
+- Team Collaboration
+- Products and Books
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +35,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 Welcome to my blog! Today, I want to share my experiences and insights from running live virtual classrooms, particularly focusing on the technologies that enhance our learning environment. As a professional Scrum trainer with Naked Agility, I’ve had the opportunity to facilitate numerous classes, and I’ve learned a thing or two about making the most of our digital tools. 

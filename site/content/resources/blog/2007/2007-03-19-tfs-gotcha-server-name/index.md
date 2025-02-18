@@ -26,13 +26,13 @@ aliasesFor404:
 - /blog/tfs-gotcha-(server-name)
 - /resources/blog/tfs-gotcha-server-name
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 tags:
 - Windows
-- Troubleshooting
+- Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
+- Troubleshooting
 - System Configuration
 
 ---

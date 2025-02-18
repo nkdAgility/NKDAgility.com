@@ -24,7 +24,7 @@ aliasesFor404:
 tags:
 - System Configuration
 categories:
-- Personal
+- DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

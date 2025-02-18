@@ -22,18 +22,9 @@ aliasesFor404:
 - /blog/visual-studio-alm-mvp-of-the-year-2011
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
 tags:
-- Continuous Learning
-- Strategic Goals
-- Team Collaboration
-- Software Developers
-- Transparency
-- Pragmatic Thinking
-- Technical Mastery
-- Engineering Excellence
-- Troubleshooting
-- Software Development
-categories:
 - Personal
+categories:
+- Engineering Excellence
 preview: metro-award-link-2-2.png
 
 ---

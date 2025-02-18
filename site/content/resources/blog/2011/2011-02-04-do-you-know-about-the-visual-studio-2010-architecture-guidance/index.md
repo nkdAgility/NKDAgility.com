@@ -26,12 +26,13 @@ aliasesFor404:
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 tags:
+- Practical Techniques and Tooling
+- Products and Books
 - Software Development
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
-- Practical Techniques and Tooling
-- Products and Books
+- Engineering Excellence
 
 ---
 [![image](images/Do-you-know-about-the-Visual-Studio-2010_E583-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-2010_E583-image_2.png)

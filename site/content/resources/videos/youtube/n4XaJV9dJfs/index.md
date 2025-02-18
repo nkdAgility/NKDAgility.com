@@ -21,7 +21,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
-tags: []
+tags:
+- Transparency
+- Scrum Product Development
+- Agile Planning
+- People and Process
+- Agile Product Management
+- Professional Scrum
+- Agile Frameworks
+- Complexity Thinking
+- Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,7 +40,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 
 ---

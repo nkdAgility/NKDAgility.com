@@ -25,10 +25,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Agile Frameworks
+- Software Development
+- Software Developers
+- Strategy
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 ## Scrum in a DevOps World: A Game Changer!

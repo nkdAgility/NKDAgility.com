@@ -33,9 +33,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Personal
-- Discovery and Learning
-- People and Process
 - Social Technologies
 
 ---

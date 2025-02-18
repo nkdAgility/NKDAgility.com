@@ -28,9 +28,8 @@ aliasesFor404:
 tags:
 - Organisational Change
 categories:
-- Scrum
 - Leadership
-- People and Process
+- Scrum
 - Social Technologies
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 

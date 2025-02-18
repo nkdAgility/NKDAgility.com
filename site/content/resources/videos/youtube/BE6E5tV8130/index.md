@@ -28,30 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Planning
 - Agile Project Management
-- Agile Strategy
-- Agile Transformation
+- Increment
+- Agile Product Management
 - Agile Values and Principles
 - Decision Making
+- Agile Product Operating Model
+- Value Delivery
+- People and Process
+- Business Agility
 - Empirical Process Control
-- Frequent Releases
-- Hypothesis Driven Development
-- Increment
-- Pragmatic Thinking
-- Product Management
-- Software Developers
-- Software Development
-- Working Software
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- Business Agility
-- Value Delivery
+- Product Management
+- Social Technologies
 
 ---
 How is agile product development different to waterfall project management?

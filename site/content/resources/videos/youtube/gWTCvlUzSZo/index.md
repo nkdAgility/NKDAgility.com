@@ -21,14 +21,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
 duration: 45
 isShort: true
-tags: []
+tags:
+- Scrum Master
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 As a Scrum Master, I’ve often found myself reflecting on the tools and techniques that enhance our interactions with teams. One of the most underrated yet impactful tools in our arsenal is, surprisingly, a good camera. You might be wondering, “What’s the big deal about cameras?” Well, let me share my thoughts and experiences on this topic.

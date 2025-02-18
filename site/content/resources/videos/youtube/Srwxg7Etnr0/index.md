@@ -28,22 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Planning
-- Agile Project Management
-- Professional Scrum
-- Scrum Master
 - Scrum Product Development
+- People and Process
 - Scrum Team
-- Software Developers
-- Software Development
+- Professional Scrum
+- Agile Planning
+- Scrum Master
 - Team Collaboration
-- Team Performance
+- Agile Product Management
+- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:
-- Agile Product Management
-- People and Process
+- Scrum
+- Social Technologies
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

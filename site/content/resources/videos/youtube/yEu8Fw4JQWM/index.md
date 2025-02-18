@@ -28,22 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Kanban
 - Agile Frameworks
+- People and Process
 - Agile Project Management
 - Agile Transformation
-- Lean Principles
-- Lean Thinking
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
 - Software Development
+- Lean Thinking
+- Pragmatic Thinking
+- Flow Efficiency
 - Throughput
 resourceTypes:
 - video
 categories:
-- Flow Efficiency
-- Kanban
-- People and Process
+- Social Technologies
 
 ---
 ## Why Less is Always More When It Comes to WIP

@@ -26,18 +26,14 @@ tags:
 - Agile Values and Principles
 - Software Development
 - Agile Transformation
-- Agile Philosophy
+- People and Process
 - Agile Project Management
+- Agile Philosophy
 - Organisational Agility
 - Pragmatic Thinking
-- Product Delivery
-- Agile Product Management
-- Agile Strategy
-- Software Developers
 - Agile Frameworks
-- Business Agility
+- Agile Strategy
 categories:
-- People and Process
 - Social Technologies
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 

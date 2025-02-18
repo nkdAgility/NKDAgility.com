@@ -30,8 +30,6 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
 - Engineering Excellence
 - Product Management
 

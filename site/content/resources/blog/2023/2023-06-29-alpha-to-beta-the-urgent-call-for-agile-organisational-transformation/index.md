@@ -29,7 +29,6 @@ aliasesFor404:
 tags:
 - Organisational Change
 categories:
-- People and Process
 - Social Technologies
 - Leadership
 preview: 1686217267121-1-1-1.jpg

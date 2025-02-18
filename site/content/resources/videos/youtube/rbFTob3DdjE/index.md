@@ -21,14 +21,19 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
 isShort: true
-tags: []
+tags:
+- Team Collaboration
+- People and Process
+- Collaboration Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 As a Scrum Master, I’ve developed a fondness for digital whiteboards. It’s a love that transcends the specific platform; whether it’s Mural, Miro, Lucid Spark, or even Microsoft Whiteboards, the essence remains the same. These tools have become indispensable in my toolkit, enabling me to create compelling interactive experiences for teams, workshops, and even our daily scrums.

@@ -27,14 +27,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Developers
 - Software Development
+- People and Process
+- Software Developers
 resourceTypes:
 - video
 layout: video
 categories:
 - DevOps
-- People and Process
+- Social Technologies
 
 ---
 What is DevOps and how is it different to Agile?

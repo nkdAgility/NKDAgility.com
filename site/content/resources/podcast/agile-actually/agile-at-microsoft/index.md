@@ -7,10 +7,8 @@ ResourceType: podcast
 date: 2024-04-25
 categories:
 - Scrum
-- News and Reviews
-- People and Process
-- Leadership
 - Social Technologies
+- Leadership
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

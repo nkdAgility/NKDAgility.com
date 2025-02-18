@@ -30,11 +30,14 @@ tags:
 - Modern Source Control
 - Application Lifecycle Management
 - Collaboration Tools
+- News and Reviews
 - Practical Techniques and Tooling
 - Azure DevOps
 - Agile Planning Tools
 categories:
-- News and Reviews
+- Scrum
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

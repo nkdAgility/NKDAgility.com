@@ -27,12 +27,10 @@ aliasesFor404:
 - /resources/blog/migrating-codeplex-github
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Modern Source Control
+- Practical Techniques and Tooling
 categories:
-- Personal
-- Technical Excellence
 - DevOps
 preview: clip_image001-1-1.png
 

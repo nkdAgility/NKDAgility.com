@@ -6,11 +6,8 @@ ResourceImport: false
 ResourceType: podcast
 date: 2023-11-23
 categories:
-- Scrum
 - DevOps
-- People and Process
-- Events and Presentations
-- News and Reviews
+- Scrum
 - Social Technologies
 author: MrHinsh
 resourceTypes: podcast
@@ -18,7 +15,8 @@ layout: podcast
 slug: continuous-delivery
 aliases:
 - /resources/pGqagcI_q5y
-tags: []
+tags:
+- Transparency and Accountability
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

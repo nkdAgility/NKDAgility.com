@@ -30,16 +30,17 @@ aliasesFor404:
 - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
-- Agile Project Management
+- People and Process
 - Team Collaboration
+- Agile Project Management
+- Practical Techniques and Tooling
 - Agile Frameworks
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 - Team Performance
 - Scrum Product Development
 categories:
-- People and Process
-- Practical Techniques and Tooling
+- Social Technologies
 - Scrum
 preview: metro-visual-studio-2005-128-link-1-1.png
 

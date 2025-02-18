@@ -24,14 +24,13 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Install and Configuration
-- System Configuration
+- Agile Frameworks
 - Products and Books
 - Practical Techniques and Tooling
-- Agile Frameworks
-- Azure DevOps
-- Operational Practices
-- Software Developers
+- System Configuration
 - Software Development
+- Azure DevOps
+- Software Developers
 - Pragmatic Thinking
 categories:
 - Scrum

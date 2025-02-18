@@ -23,10 +23,10 @@ aliasesFor404:
 - /resources/blog/configure-features-in-team-foundation-server-2013
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
+- System Configuration
 - Software Development
+- Azure DevOps
 categories:
 - Social Technologies
 

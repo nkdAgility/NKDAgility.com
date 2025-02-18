@@ -22,12 +22,7 @@ aliasesFor404:
 - /blog/time-that-task-vsts-check-in-policy
 - /resources/blog/time-that-task-vsts-check-in-policy
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- People and Process
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- Azure DevOps
-- Miscellaneous
+categories: []
 tags:
 - Pragmatic Thinking
 

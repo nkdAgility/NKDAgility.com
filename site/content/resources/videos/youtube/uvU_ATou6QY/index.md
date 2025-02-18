@@ -21,14 +21,21 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
-tags: []
+tags:
+- Product Owner
+- People and Process
+- Agile Product Management
+- Accountability
+- Agile Project Management
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
 
 ---
 As a product owner, I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner. 

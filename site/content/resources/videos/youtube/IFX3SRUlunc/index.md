@@ -22,13 +22,25 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/IFX3SRUlunc/maxresdefault.jpg
 duration: 115
 isShort: false
-tags: []
+tags:
+- Lean
+- Lean Product Development
+- Events and Presentations
+- Lean Principles
+- Value Delivery
+- Lean Thinking
+- Product Owner
+- Product Discovery
+- Discovery and Learning
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Management
+- Social Technologies
 
 ---
 Over the past 18 months, I've noticed a significant uptick in interest and inquiries surrounding lean product development, particularly in the context of product ownership. This shift is not just a passing trend; it reflects a deeper desire within our industry to refine our decision-making processes regarding what we build. 

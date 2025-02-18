@@ -28,26 +28,15 @@ aliasesFor404:
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 tags:
 - Scrum Product Development
-- Product Delivery
-- Backlog Refinement
-- Agile Product Management
-- Scrum Team
-- Agile Project Management
+- People and Process
 - Practical Techniques and Tooling
-- Team Performance
-- Professional Scrum
+- Product Delivery
+- Scrum Team
+- Agile Product Management
+- Agile Project Management
+- Backlog Refinement
 - Team Collaboration
-- Agile Frameworks
-- Software Development
-- Software Developers
-- Agile Planning
-- Pragmatic Thinking
-- Increment
-- Product Backlog
-- Value Delivery
-- Scrum Master
-- Azure Boards
-- Operational Practices
+- Professional Scrum
 categories:
 - Scrum
 - Social Technologies

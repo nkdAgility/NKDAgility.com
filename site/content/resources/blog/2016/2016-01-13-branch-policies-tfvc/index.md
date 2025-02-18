@@ -30,13 +30,13 @@ tags:
 - Technical Mastery
 - Modern Source Control
 - Practical Techniques and Tooling
-- Azure DevOps
-- Operational Practices
 - Software Development
+- Azure DevOps
+- Technical Excellence
+- Operational Practices
 - Pragmatic Thinking
 categories:
 - Engineering Excellence
-- Technical Excellence
 preview: image-2-2-2.png
 
 ---

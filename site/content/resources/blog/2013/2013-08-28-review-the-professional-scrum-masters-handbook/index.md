@@ -29,8 +29,6 @@ tags:
 - Products and Books
 categories:
 - Scrum
-- People and Process
-- News and Reviews
 - Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 

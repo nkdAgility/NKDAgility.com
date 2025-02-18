@@ -33,6 +33,7 @@ tags:
 - Agile Project Management
 categories:
 - Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

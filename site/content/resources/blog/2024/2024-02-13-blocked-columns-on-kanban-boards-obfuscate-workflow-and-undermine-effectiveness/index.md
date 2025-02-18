@@ -28,21 +28,16 @@ aliasesFor404:
 tags:
 - Flow Efficiency
 - Transparency
+- Kanban
 - Azure DevOps
 - Azure Boards
-- Practical Techniques and Tooling
 - Software Development
-- Operational Practices
+- Practical Techniques and Tooling
+- Agile Frameworks
 - Lean
 - Agile Project Management
-- Pragmatic Thinking
-- Agile Frameworks
-- Transparency and Accountability
-- Lean Thinking
 categories:
-- Kanban
 - Social Technologies
-- People and Process
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 
 ---

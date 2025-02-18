@@ -28,11 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
+- Miscellaneous
 resourceTypes:
 - video
-categories:
-- Miscellaneous
+categories: []
 
 ---
 ## Navigating its Limits in Agile Work Environments 

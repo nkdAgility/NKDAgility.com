@@ -370,12 +370,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T14:36:43",
+    "calculated_at": "2025-02-17T16:42:32",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions DevOps and Agility, which are relevant to software developers, but it is primarily an invitation for a Q&A session rather than a focused discussion on these topics.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -388,12 +388,12 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T14:36:46",
+    "calculated_at": "2025-02-17T16:42:32",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
     "final_score": 45.0,
     "reasoning": "The content mentions topics related to DevOps and Agility, which are relevant to software development practices, but it is primarily an invitation for a Q&A session rather than a focused discussion on software development methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -537,15 +537,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics without a focus on experimentation or hypothesis-driven approaches.",
-    "level": "Ignored"
-  },
-  "BetaCodex": {
-    "category": "BetaCodex",
-    "calculated_at": "2025-02-12T14:37:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility, without a clear emphasis on BetaCodex principles or practices.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
@@ -1144,21 +1135,21 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T14:35:06",
+    "calculated_at": "2025-02-17T16:42:32",
     "ai_confidence": 50,
     "non_ai_confidence": 50,
     "final_score": 50.0,
     "reasoning": "The content mentions DevOps as a topic of discussion, but it is not the primary focus, as it also includes Agility and is centred around a Q&A format.",
-    "level": "Secondary"
+    "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T14:35:07",
+    "calculated_at": "2025-02-17T16:42:32",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content mentions Agile and Scrum, which are related to team dynamics and collaboration, but it primarily focuses on a Q&A format without delving deeply into the interplay between human behaviour and structured methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1171,12 +1162,12 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T14:35:11",
+    "calculated_at": "2025-02-17T16:42:32",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
     "final_score": 46.0,
     "reasoning": "The content mentions an 'Ask me Anything' session with a professional trainer, which indicates a live event format. However, the primary focus is on the topics of DevOps and Agility rather than the event itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -1320,6 +1311,69 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily invites questions on DevOps and Agility without sharing personal experiences or insights.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T11:12:28",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a secondary theme related to Scrum and Agile practices, but it is not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T11:12:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily invites questions on various topics without a clear focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-18T11:12:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility, without a clear emphasis on BetaCodex principles or practices.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-18T11:12:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on a Q&A session about various topics including DevOps and Agility, without a clear emphasis on the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T11:12:33",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content mentions Scrum and features a Professional Scrum Trainer, indicating a significant but secondary theme related to Scrum within a broader context of DevOps and Agility.",
+    "level": "Tertiary"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-18T11:12:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on the Agile Product Operating Model.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-18T11:12:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile topics, with a focus on Scrum, rather than Platform Engineering.",
     "level": "Ignored"
   }
 }

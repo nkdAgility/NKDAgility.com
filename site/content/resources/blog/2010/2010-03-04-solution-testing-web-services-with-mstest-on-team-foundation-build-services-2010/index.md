@@ -29,9 +29,7 @@ tags:
 - Software Development
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
+- Engineering Excellence
 
 ---
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!

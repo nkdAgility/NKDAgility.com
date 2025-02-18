@@ -26,12 +26,8 @@ aliasesFor404:
 - /blog/windows-mobile-6-black-shadow-(4-0)
 - /resources/blog/windows-mobile-6-black-shadow-4-0
 tags:
-- Windows
-- Technical Mastery
-- Troubleshooting
-- System Configuration
-categories:
 - Install and Configuration
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

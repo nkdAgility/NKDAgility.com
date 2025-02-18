@@ -24,25 +24,15 @@ duration: 169
 isShort: false
 tags:
 - Technical Leadership
-- Software Developers
-- Product Delivery
-- Agile Philosophy
-- Agile Project Management
-- Software Development
 - Engineering Practices
-- Organisational Agility
-- Market Adaptability
-- Pragmatic Thinking
+- Software Development
+- Product Delivery
+- Software Developers
+- Agile Philosophy
+- People and Process
+- Agile Project Management
 - Value Delivery
 - Complexity Thinking
-- Agile Values and Principles
-- Agile Strategy
-- Agile Planning
-- Continuous Learning
-- Agile Transformation
-- Working Software
-- Business Agility
-- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,7 +40,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- People and Process
 - Social Technologies
 
 ---

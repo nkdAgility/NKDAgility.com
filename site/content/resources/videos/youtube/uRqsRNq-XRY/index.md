@@ -21,7 +21,11 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
-tags: []
+tags:
+- Metrics and Learning
+- People and Process
+- Organisational Agility
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,7 +33,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- People and Process
+- Leadership
+- Engineering Excellence
+- Product Management
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call the "judgment trap." This is one of the seven signs of the agile apocalypse, and it’s something that can derail even the most well-intentioned teams. Today, I want to share my thoughts on how judgment manifests in Agile environments and how we can navigate this challenge to foster a healthier, more productive atmosphere.

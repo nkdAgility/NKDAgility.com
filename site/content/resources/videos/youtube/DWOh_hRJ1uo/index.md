@@ -30,18 +30,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Personal
+- Scrum Master
 - Agile Frameworks
+- People and Process
 - Agile Project Management
+- Discovery and Learning
+- Professional Scrum
 - Continuous Learning
 - Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
 resourceTypes:
 - video
 categories:
-- Discovery and Learning
-- People and Process
-- Personal
+- Scrum
+- Social Technologies
 
 ---
 **What is your best advice for becoming a Scrum Master outside software engineering?**

@@ -21,7 +21,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
-tags: []
+tags:
+- People and Process
+- Agile Frameworks
+- Software Development
+- Software Developers
+- Agile Project Management
+- Agile Philosophy
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,7 +37,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- People and Process
 - Social Technologies
 
 ---

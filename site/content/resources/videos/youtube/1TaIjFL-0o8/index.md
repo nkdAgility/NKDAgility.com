@@ -20,7 +20,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
-tags: []
+tags:
+- Scrum Master
+- People and Process
+- Professional Scrum
+- Agile Frameworks
+- Agile Project Management
+- Scrum Team
+- Agile Transformation
+- Software Development
+- Sociotechnical Systems
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +38,9 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
 In my experience teaching the Professional Scrum Master II (PSM2) course, I've encountered a recurring theme that resonates deeply with participants: the epiphanies that emerge during our discussions. While there are several insights that attendees gain, the most common epiphany often revolves around the role of the Scrum Master and the broader implications of their responsibilities.

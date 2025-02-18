@@ -28,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Project Management
 - Agile Transformation
-- Coaching
 - Software Development
 resourceTypes:
 - video
 categories:
-- People and Process
+- Social Technologies
 
 ---
 **No go zone for Agile consultants**

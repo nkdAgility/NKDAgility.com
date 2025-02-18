@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
+- Practical Techniques and Tooling
+- Install and Configuration
 - Windows
 - Technical Mastery
 - Troubleshooting
 - System Configuration
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories:
-- Install and Configuration
-- Practical Techniques and Tooling
+categories: []
 
 ---
 This problem it seams is to do with the way Visual Studio 2010 connects to your [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") server over HTTPS. The default value for “BypassProxyOnLocal” in Visual Studio 2008 was “False”, but it has been changed to “True” for Visual Studio 2010 Beta 1. It should be noted that this is currently a Beta 1 workaround and this behaviour may be updated for Beta 2 and RTM.

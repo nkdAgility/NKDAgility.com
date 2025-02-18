@@ -23,11 +23,7 @@ aliasesFor404:
 - /resources/blog/tfs-process-templates
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- People and Process
-- Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
-- Application Lifecycle Management
+- Engineering Excellence
 tags:
 - Software Development
 

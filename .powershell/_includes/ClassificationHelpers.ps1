@@ -36,9 +36,8 @@ function Get-CategoryConfidenceWithChecksum {
         [string]$ResourceTitle,
         [string]$CacheFolder,
         [string]$ClassificationType = "classification",
-        [int]$MinConfidence = 50,
-        [int]$MaxCategories = 5,
-        [switch]$batch
+        [switch]$batch,
+        [switch]$updateMissing
     )
 
     if (!(Test-Path $CacheFolder)) {
@@ -168,7 +167,15 @@ function Get-CategoryConfidenceWithChecksum {
                         continue
                     }
                     $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
-                    $cachedData | Add-Member -MemberType NoteProperty -Name $newEntry.category -Value $newEntry 
+                    if ($cachedData.PSObject.Properties[$newEntry.category]) {
+                        $oldEntry = $cachedData.($newEntry.category)
+                        if ([System.DateTimeOffset]$oldEntry.calculated_at -gt $newEntry.calculated_at) {
+                            $cachedData.$newEntry.category = $newEntry
+                        }
+                    }
+                    else {
+                        $cachedData | Add-Member -MemberType NoteProperty -Name $newEntry.category -Value $newEntry 
+                    }
                 }
 
                 # Save updated cache
@@ -215,7 +222,7 @@ function Get-CategoryConfidenceWithChecksum {
         }
     }
 
-    if ($categoryMissing.Count -gt 0 -and $batchStatus -eq $null) {
+    if ($categoryMissing.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
       
         # Build prompts for missing items
         $prompts = @()
@@ -356,6 +363,7 @@ function Get-ConfidenceFromAIResponse {
         [string]$ResourceTitle,
         [string]$ResourceContent
     )
+    $responceOK = $true
     try {
         if ($AIResponseJson -match '(?s)```json\s*(.*?)\s*```') {
             $AIResponseJson = $matches[1] # Extracted JSON content 
@@ -364,19 +372,16 @@ function Get-ConfidenceFromAIResponse {
         $AIResponse = $AIResponseJson | ConvertFrom-Json -ErrorAction Stop
     }
     catch {
+
         Write-ErrorLog "Error parsing AI response.. Skipping. Error: $_"
         Write-ErrorLog "AI Response Json: {AIResponseJson}" -PropertyValues $AIResponseJson
-        exit
+        $AIResponse = $null
+        $responceOK = $false
     }
    
-    try {
+    if ($responceOK) {
         $aiConfidence = if ($AIResponse.PSObject.Properties["confidence"]) { $AIResponse.confidence } else { 0 }
         $category = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
-    }
-    catch {
-        Write-ErrorLog "Error parsing AI response for $category. Skipping. Error: $_"
-        Write-ErrorLog "AI Response Json: {AIResponseJson}" -PropertyValues $AIResponseJson
-        exit
     }
     
     # Non-AI Confidence Calculation
@@ -403,7 +408,7 @@ function Get-ConfidenceFromAIResponse {
 
     return [PSCustomObject]@{
         "category"          = $category
-        "calculated_at"     = (Get-Date).ToUniversalTime().ToString("s")
+        "calculated_at"     = if ($responceOK) { (Get-Date).ToUniversalTime().ToString("s") } else { (Get-Date).AddDays(-365).ToUniversalTime().ToString("s") }
         "ai_confidence"     = $aiConfidence
         "non_ai_confidence" = $nonAiConfidence
         "final_score"       = $finalScore

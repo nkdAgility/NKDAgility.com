@@ -21,7 +21,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false
-tags: []
+tags:
+- Agile Project Management
+- Definition of Done
 sitemap:
   filename: sitemap.xml
   priority: 0.6

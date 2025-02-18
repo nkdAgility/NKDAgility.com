@@ -1,43 +1,47 @@
 ---
 title: Professional Scrum with Kanban (PSK) with Certification
+description: Enhance your Scrum skills with the Professional Scrum with Kanban™ training, blending self-paced learning and hands-on exercises for effective team strategies.
+ResourceId: 9TCIWaWs_mz
 date: 2018-02-26
 creator: Martin Hinshelwood
-id: "38325"
 type: course
 slug: professional-scrum-with-kanban-psk-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-  - /training-courses/professional-scrum-with-kanban-psk
-  - /training-courses/professional-scrum-with-kanban-psk-training
-  - /training-courses/professional-scrum-with-kanban-training-with-certification
-  - /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
+- /training-courses/professional-scrum-with-kanban-psk
+- /training-courses/professional-scrum-with-kanban-psk-training
+- /training-courses/professional-scrum-with-kanban-training-with-certification
+- /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
 course-topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course-vendors:
-  - Scrum.org
+- Scrum.org
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - Product Owners
-  - Product Managers
-  - Scrum Masters
-  - Lean Agile Practitioners
-  - Teams
+- Product Owners
+- Product Managers
+- Scrum Masters
+- Lean Agile Practitioners
+- Teams
 tags:
-  - agile
-  - certification
-  - flow
-  - kanban
-  - professional-kanban
-  - professional-scrum
-  - professional-scrum-with-kanban
-  - scrum-org
+- Transparency
+- Professional Scrum
+- Practical Techniques and Tooling
+- Agile Frameworks
+- Agile Project Management
+- Flow Efficiency
+- Agile Transformation
+- Operational Practices
+- Products and Books
+- Software Development
+- Agile Product Management
 categories:
-  - agility
+- Social Technologies
 preview: naked-agility-Professional-Scrum-PSK-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSK-400x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -60,7 +64,7 @@ outcomes: |2+
   - **Kanban in Practice** - Understand Kanban through practical participation;
   - **Scrum with Kanban** - How does Professional Kanban affect and enhance Professional Scrum; What are the additional practices and how might they be applied
 
-assessment:
+assessment: 
 objectives: |+
   Students will learn how their Scrum Teams can introduce complementary practices from Kanban while continuing the way they are already working with Scrum, all without changing Scrum. In this class, students will: 
   - Gain a clear understanding of how flow works within the context of Scrum.
@@ -69,13 +73,13 @@ objectives: |+
   - Learn a practical approach to improving transparency and visibility for their work.
 
 prerequisites: Before you take this course you should have a solid understanding of Professional Scrum.
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 [Professional Scrum with Kanban™ (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training experience uses a unique blend of **self-paced** learning, **live classroom** hands-on activity-based exercises, and **community-based** aftercare. It helps experienced Scrum practitioners implement a **Kanban strategy** within the context of Scrum to help actively improve the effectiveness of their team.The course goes beyond the topics explored in the [Professional Scrum Master (PSM)](https://nkdagility.com/training/courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it/) & [Professional Scrum Product Owner (PSPO)](https://nkdagility.com/training/scheduled/professional-scrum-product-owner-pspo-experience-on-8th-august-2022-live-virtual-class-over-4-half-days/) classes and deepens participants' understanding by introducing lean practices.Students should already have at least one year of product development experience and practical knowledge of Scrum to participate in and benefit from these exercises. Having previously taken the APS, PSM, or PSPO class is recommended but not required.
 
 - Session 1: 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗰𝗿𝘂𝗺 𝗣𝗿𝗶𝗺𝗲𝗿Session 2: 𝗞𝗮𝗻𝗯𝗮𝗻 𝗶𝗻 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲Session 3: 𝗜𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝗩𝗶𝘀𝘂𝗹𝗶𝘀𝗮𝘁𝗶𝗼𝗻𝘀Session 4: 𝗜𝗺𝗽𝗮𝗰𝘁 𝗼𝗻 𝗘𝘃𝗲𝗻𝘁𝘀, 𝗔𝗰𝗰𝗼𝘂𝗻𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀, & 𝗔𝗿𝘁𝗲𝗳𝗮𝗰𝘁𝘀

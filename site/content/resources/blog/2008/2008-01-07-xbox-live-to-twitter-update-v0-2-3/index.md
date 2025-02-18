@@ -28,12 +28,12 @@ aliasesFor404:
 - /blog/xbox-live-to-twitter-update-(v0-2-3)
 - /resources/blog/xbox-live-to-twitter-update-v0-2-3
 tags:
+- Discovery and Learning
+- Software Development
+- Technical Mastery
 - Working Software
 - Frequent Releases
-- Technical Mastery
-- Software Development
-categories:
-- Discovery and Learning
+categories: []
 preview: metro-xbox-360-link-1-1.png
 
 ---

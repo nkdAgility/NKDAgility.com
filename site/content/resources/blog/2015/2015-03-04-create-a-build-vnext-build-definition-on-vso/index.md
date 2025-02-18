@@ -26,12 +26,11 @@ aliasesFor404:
 - /blog/create-a-build-vnext-build-definition
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
-- Practical Techniques and Tooling
 - Software Development
-- Azure Pipelines
+- Practical Techniques and Tooling
 - Azure DevOps
+- Azure Pipelines
 categories:
-- Technical Excellence
 - Engineering Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-26-26.png

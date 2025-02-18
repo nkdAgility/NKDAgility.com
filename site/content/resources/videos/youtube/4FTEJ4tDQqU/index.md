@@ -20,7 +20,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 isShort: false
-tags: []
+tags:
+- Personal
+- Agile Project Management
+- Software Development
+- People and Process
+- Agile Frameworks
+- Software Developers
+- Agile Philosophy
+- Organisational Agility
+- Agile Transformation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -28,7 +38,9 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
+- DevOps
 
 ---
 When I reflect on my journey from a developer to an advocate for Agile practices, I often find myself pondering the question: why did I embrace Agile over traditional project management? The truth is, during my time as a developer, I didn’t consciously choose Agile; rather, it was a reaction to the limitations I experienced with conventional project management methods.

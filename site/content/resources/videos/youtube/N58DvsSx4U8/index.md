@@ -28,17 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Digital Transformation
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
+- One Engineering System (1ES)
+- People and Process
+- Azure DevOps
 - Software Development
+- Digital Transformation
+- Software Developers
+- Practical Techniques and Tooling
+- Personal
+- Pragmatic Thinking
+- Operational Practices
 resourceTypes:
 - video
 categories:
-- Azure DevOps
 - DevOps
-- People and Process
 
 ---
 ## A Journey to DevOps Success

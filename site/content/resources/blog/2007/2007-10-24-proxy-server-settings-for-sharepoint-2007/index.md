@@ -23,9 +23,9 @@ aliasesFor404:
 - /resources/blog/proxy-server-settings-for-sharepoint-2007
 tags:
 - System Configuration
-- Troubleshooting
-categories:
 - Install and Configuration
+- Troubleshooting
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

@@ -28,7 +28,7 @@ aliasesFor404:
 tags:
 - Troubleshooting
 categories:
-- Technical Excellence
+- Engineering Excellence
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

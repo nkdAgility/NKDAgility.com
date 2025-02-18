@@ -29,19 +29,18 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
+- People and Process
 - Agile Project Management
+- Psychological Safety
 - Agile Philosophy
 - Organisational Agility
-- Psychological Safety
 - Software Development
 - Pragmatic Thinking
 - Agile Product Management
 - Transparency and Accountability
-- Software Developers
 resourceTypes:
 - video
 categories:
-- People and Process
 - Social Technologies
 
 ---

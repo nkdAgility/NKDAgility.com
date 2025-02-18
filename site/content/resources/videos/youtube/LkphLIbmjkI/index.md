@@ -28,25 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
+- People and Process
 - Agile Project Management
-- Agile Transformation
-- Coaching
-- Continuous Learning
-- Engineering Excellence
-- Mentoring
+- Agile Frameworks
+- Software Development
+- Technical Leadership
 - Pragmatic Thinking
 - Software Developers
-- Software Development
-- Team Collaboration
-- Technical Leadership
-- Technical Mastery
+- Mentoring
+- Continuous Learning
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - DevOps
-- People and Process
-- Practical Techniques and Tooling
+- Engineering Excellence
 
 ---
 ## Limits of Professional Coaching

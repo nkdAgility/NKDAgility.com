@@ -26,10 +26,9 @@ aliasesFor404:
 - /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
 - /resources/blog/a-change-for-the-better-1
 tags:
-- Organisational Culture
-categories:
 - Miscellaneous
 - Personal
+categories: []
 preview: metro-aggreko-128-link-1-1.png
 
 ---

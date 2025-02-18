@@ -21,14 +21,11 @@ preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- Agile Product Management
-- Transparency and Accountability
-- Resilience and Change
-- Product Delivery
-- Sociotechnical Systems
-- Organisational Agility
-- Organisational Psychology
-- Business Agility
+- People and Process
+- Organisational Culture
+- Agile Leadership
+- Team Performance
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,7 +34,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- People and Process
 - Leadership
 
 ---

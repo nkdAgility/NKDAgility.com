@@ -26,25 +26,11 @@ aliasesFor404:
 - /blog/scrum-tapas--the-importance-of-professionalism
 - /resources/blog/scrum-tapas-importance-professionalism
 tags:
-- Scrum Values
-- Professional Scrum
-- Agile Values and Principles
-- Products and Books
-- Scaling Scrum
-- Software Developers
-- Software Development
-- Scaling Agility
-- Team Performance
-- Agile Project Management
-- Agile Transformation
-- Agile Product Management
-- Large Scale Agility
-- Scaled Agile
-- Product Delivery
-- Team Collaboration
-- Agile Frameworks
-categories:
 - Events and Presentations
+categories:
+- Scrum
+- Engineering Excellence
+- Social Technologies
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
 
 ---

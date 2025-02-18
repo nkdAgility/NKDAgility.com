@@ -28,15 +28,15 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
-- Troubleshooting
-- Operational Practices
 - Software Development
+- Technical Excellence
 - Continuous Integration
+- Troubleshooting
+- System Configuration
 - Pragmatic Thinking
+- Operational Practices
 - Release Management
 categories:
-- Technical Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

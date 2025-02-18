@@ -22,14 +22,18 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: false
-tags: []
+tags:
+- Azure DevOps
+- Practical Techniques and Tooling
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- DevOps
 
 ---
  Check out the latest version: https://youtu.be/Qt1Ywu_KLrc

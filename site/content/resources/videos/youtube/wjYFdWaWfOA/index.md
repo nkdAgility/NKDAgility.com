@@ -22,14 +22,24 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
-tags: []
+tags:
+- Scrum Master
+- Agile Project Management
+- Agile Product Management
+- Scrum Team
+- Agile Frameworks
+- Software Development
+- Team Performance
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
+- Social Technologies
 
 ---
  *Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*

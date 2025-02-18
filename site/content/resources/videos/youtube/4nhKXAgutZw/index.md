@@ -27,19 +27,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Customer Satisfaction
 - Agile Values and Principles
-- Agile Philosophy
 - Organisational Culture
-- Employee Engagement
+- Agile Philosophy
 - Team Motivation
+- Employee Engagement
 - Organisational Psychology
 - Agile Leadership
 resourceTypes:
 - video
 layout: video
 categories:
-- People and Process
+- Product Management
+- Leadership
+- Social Technologies
 
 ---
 When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms—**compassion, benevolence, empathy**—and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.

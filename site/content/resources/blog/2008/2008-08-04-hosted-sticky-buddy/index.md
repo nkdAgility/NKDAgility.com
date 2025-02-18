@@ -22,11 +22,9 @@ aliasesFor404:
 - /blog/hosted-sticky-buddy
 - /resources/blog/hosted-sticky-buddy
 tags:
-- Software Development
-- System Configuration
-preview: nakedalm-logo-128-link-1-1.png
-categories:
 - Install and Configuration
+preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 I now have a nice hosted version of the [TFS Sticky Buddy](http://rddotnet.com/tfsstickybuddy.aspx) that is fairly fast and deploys using ClickOnce, but you do need to make sure that you already have .NET 3.5 and Team Explorer 2008 installed first…

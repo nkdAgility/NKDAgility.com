@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Leadership
 - Metrics and Learning
+- Evidence Based Leadership
 - Decision Making
 - Evidence Based Management
 resourceTypes:

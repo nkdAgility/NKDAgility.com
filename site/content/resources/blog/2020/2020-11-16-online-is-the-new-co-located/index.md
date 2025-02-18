@@ -23,18 +23,17 @@ aliasesFor404:
 - /resources/blog/online-is-the-new-co-located
 tags:
 - Transparency
+- People and Process
+- Events and Presentations
 - Transparency and Accountability
-- Pragmatic Thinking
 - Team Collaboration
+- Pragmatic Thinking
 - Remote Working
 - Team Performance
 - Collaboration Tools
-- Sociotechnical Systems
-categories:
-- People and Process
-- Events and Presentations
-- Social Technologies
 - Personal
+categories:
+- Social Technologies
 preview: image-21-3-3.png
 
 ---
