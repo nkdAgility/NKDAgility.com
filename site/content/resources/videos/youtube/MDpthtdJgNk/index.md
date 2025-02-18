@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - People and Process
 - Practical Techniques and Tooling
 - Agile Frameworks
@@ -37,6 +36,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

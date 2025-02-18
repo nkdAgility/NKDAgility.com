@@ -33,8 +33,8 @@ tags:
 - People and Process
 - Change Management
 - Organisational Physics
-- Sociotechnical Systems
 - Systems Thinking
+- Sociotechnical Systems
 - Complexity Thinking
 - Pragmatic Thinking
 resourceTypes:

@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - Agile Frameworks
 - Lean Thinking
 - Agile Project Management
@@ -38,6 +37,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

@@ -27,7 +27,6 @@ delivery-audiences:
 - Product Owners
 - Lean Agile Practitioners
 tags:
-- Kanban
 - Agile Project Management
 - Strategy
 - Portfolio Management
@@ -37,7 +36,9 @@ tags:
 - Scaling Agility
 - Pragmatic Thinking
 - Transparency
+- Operational Practices
 categories:
+- Kanban
 - Social Technologies
 preview: NKDAgility-Courses-SPK-16x9-1.jpg
 previewIcon: SPK@600.png

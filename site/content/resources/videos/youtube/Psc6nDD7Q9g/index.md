@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Kanban
 - Metrics and Learning
 - People and Process
 - Transparency and Accountability
@@ -38,9 +37,11 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Operational Practices
+- Lean
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

@@ -21,7 +21,6 @@ preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
-- Kanban
 - Operational Practices
 sitemap:
   filename: sitemap.xml
@@ -31,6 +30,7 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - Agile Product Operating Model
 - Value Delivery
 - Scaled Agile
@@ -36,11 +35,13 @@ tags:
 - Agile Project Management
 - Agile Frameworks
 - Flow Efficiency
+- Agile Strategy
 - Scaling Kanban
 - Portfolio Management
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

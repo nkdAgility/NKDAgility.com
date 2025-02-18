@@ -24,10 +24,10 @@ isShort: false
 tags:
 - Discovery and Learning
 - Experimentation
-- Product Discovery
-- Product Validation
 - Empirical Process Control
+- Product Validation
 - People and Process
+- Product Discovery
 - Product Delivery
 - Agile Product Management
 - Continuous Learning

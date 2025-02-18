@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Kanban
 - Transparency and Accountability
 - Practical Techniques and Tooling
 - Operational Practices
@@ -39,6 +38,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

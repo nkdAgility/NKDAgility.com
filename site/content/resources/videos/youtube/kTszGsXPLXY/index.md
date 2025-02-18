@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - Metrics and Learning
 - People and Process
 - Cycle Time
@@ -38,9 +37,11 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
+- Flow Efficiency
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

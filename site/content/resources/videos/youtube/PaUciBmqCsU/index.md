@@ -28,19 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
-- Kanban
 - Transparency
+- Strategy
 - Transparency and Accountability
 - Flow Efficiency
 - Value Stream Management
 - Value Delivery
-- Empirical Process Control
 - Practical Techniques and Tooling
-- Agile Project Management
+- Empirical Process Control
+- Throughput
+- Software Development
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

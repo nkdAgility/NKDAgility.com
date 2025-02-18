@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
-- Kanban
 - Operational Practices
 - People and Process
 - Team Collaboration
@@ -38,9 +37,11 @@ tags:
 - Software Development
 - Lean Thinking
 - Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---

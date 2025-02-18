@@ -28,11 +28,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
+- Operational Practices
+- Practical Techniques and Tooling
+- Flow Efficiency
+- Agile Frameworks
+- Software Development
+- Lean Thinking
+- Agile Project Management
+- Pragmatic Thinking
+- Throughput
+- Value Delivery
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Kanban
 
 ---
 ### Actively Managing Your Workflow in a Kanban Strategy

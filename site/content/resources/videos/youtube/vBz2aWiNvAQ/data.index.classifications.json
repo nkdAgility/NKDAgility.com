@@ -1,0 +1,56 @@
+{
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T15:19:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Sprint Review process, which is a Scrum event, rather than focusing on leadership practices or strategies.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-18T15:19:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-18T15:19:46",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Sprint Review, which is a key event in the Scrum framework, indicating a connection to product management practices. However, it primarily focuses on the execution of the Sprint Review rather than broader strategic aspects of product management.",
+    "level": "Tertiary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-18T15:19:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T15:19:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily focuses on the Sprint Review, a key event in the Scrum framework, discussing its purpose and the importance of feedback, which aligns with the principles of Agile practices.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T15:19:50",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily focuses on the Sprint Review, which is a key event in the Scrum framework, and discusses its purpose and execution.",
+    "level": "Secondary"
+  }
+}

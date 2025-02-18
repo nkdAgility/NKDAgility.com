@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
-- Kanban
 - Metrics and Learning
 - Practical Techniques and Tooling
 - Flow Efficiency
@@ -38,9 +37,11 @@ tags:
 - Lean Thinking
 - Pragmatic Thinking
 - Operational Practices
+- Lean Principles
 resourceTypes:
 - video
 categories:
+- Kanban
 - Social Technologies
 
 ---
