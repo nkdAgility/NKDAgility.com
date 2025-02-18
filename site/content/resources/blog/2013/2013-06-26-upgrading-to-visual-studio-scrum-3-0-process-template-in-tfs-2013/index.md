@@ -32,7 +32,6 @@ tags:
 - Azure DevOps
 - Software Developers
 - Pragmatic Thinking
-- Operational Practices
 categories:
 - Scrum
 - Social Technologies

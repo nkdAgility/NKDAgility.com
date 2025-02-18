@@ -36,18 +36,7 @@ tags:
 - Organisational Agility
 - Team Performance
 - Pragmatic Thinking
-- Strategy
 - Sociotechnical Systems
-- Agile Leadership
-- Scrum Master
-- Resilience and Change
-- Discovery and Learning
-- Value Delivery
-- Business Agility
-- Organisational Physics
-- Agile Strategy
-- Enterprise Agility
-- Coaching
 resourceTypes:
 - video
 layout: video

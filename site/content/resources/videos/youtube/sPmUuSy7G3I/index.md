@@ -33,8 +33,6 @@ tags:
 - Software Development
 - Agile Planning
 - Agile Product Management
-- Product Delivery
-- Agile Planning Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.4

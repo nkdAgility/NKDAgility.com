@@ -40,9 +40,6 @@ tags:
 - Coaching
 - Pragmatic Thinking
 - Accountability
-- Practical Techniques and Tooling
-- Scrum Team
-- Mentoring
 resourceTypes:
 - video
 categories:

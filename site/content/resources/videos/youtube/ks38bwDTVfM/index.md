@@ -30,21 +30,9 @@ tags:
 - Scrum Team
 - Backlog Refinement
 - Product Backlog
-- Professional Scrum
-- Product Delivery
-- Agile Product Management
-- Team Collaboration
-- Scrum Master
-- Team Performance
-- Agile Planning
 - People and Process
-- Agile Project Management
-- Agile Frameworks
-- Agile Transformation
-- Agile Planning Tools
-- Operational Practices
-- Practical Techniques and Tooling
-- Working Software
+- Agile Planning
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

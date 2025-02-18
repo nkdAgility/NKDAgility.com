@@ -23,20 +23,13 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Agile Product Management
-- Agile Frameworks
-- Events and Presentations
-- People and Process
-- Agile Project Management
 - Transparency and Accountability
+- Agile Project Management
 - Agile Transformation
+- Events and Presentations
+- Agile Frameworks
+- People and Process
 - Software Development
-- Empirical Process Control
-- Pragmatic Thinking
-- Organisational Agility
-- Products and Books
-- News and Reviews
-- Practical Techniques and Tooling
-- Operational Practices
 
 ---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

@@ -38,18 +38,8 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Empirical Process Control
-- Metrics and Learning
-- Customer Feedback Loops
 - Scrum Team
-- Scrum Master
-- Experimentation
-- Agile Project Management
-- Agile Planning
-- Organisational Agility
-- Coaching
-- Software Development
-- Sociotechnical Systems
-- Operational Practices
+- Customer Feedback Loops
 resourceTypes:
 - video
 categories:

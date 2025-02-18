@@ -37,7 +37,6 @@ tags:
 - Pragmatic Thinking
 - Metrics and Learning
 - Lean
-- Organisational Physics
 resourceTypes:
 - video
 layout: video

@@ -39,19 +39,7 @@ tags:
 - Agile Project Management
 - Team Performance
 - Team Collaboration
-- Employee Engagement
-- Pragmatic Thinking
-- Coaching
 - Software Development
-- Agile Leadership
-- Agile Product Management
-- Agile Planning
-- Agile Transformation
-- Value Delivery
-- Professional Scrum
-- Organisational Psychology
-- Software Developers
-- Personal
 resourceTypes:
 - video
 categories:

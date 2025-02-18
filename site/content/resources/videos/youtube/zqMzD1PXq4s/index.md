@@ -33,10 +33,6 @@ tags:
 - Value Delivery
 - Technical Debt
 - Pragmatic Thinking
-- Operational Practices
-- Code and Complexity
-- Product Delivery
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

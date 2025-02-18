@@ -28,24 +28,11 @@ tags:
 - Agile Product Operating Model
 - Agile Product Management
 - Agile Values and Principles
-- Working Software
-- Agile Transformation
-- Product Delivery
-- Agile Project Management
-- Agile Philosophy
+- Agile Strategy
+- Agile Frameworks
+- Scrum Product Development
 - People and Process
 - Agile Planning
-- Scrum Product Development
-- Agile Frameworks
-- Agile Strategy
-- Pragmatic Thinking
-- Empirical Process Control
-- Business Agility
-- Value Delivery
-- Software Developers
-- Organisational Agility
-- Software Development
-- Technical Debt
 categories:
 - Product Management
 - Social Technologies

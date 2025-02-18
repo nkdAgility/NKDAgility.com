@@ -36,8 +36,6 @@ tags:
 - Agile Product Management
 - Scrum Team
 - Agile Transformation
-- Software Developers
-- Product Delivery
 categories:
 - Scrum
 - Social Technologies

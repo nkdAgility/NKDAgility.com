@@ -38,9 +38,6 @@ tags:
 - Software Development
 - Agile Project Management
 - Pragmatic Thinking
-- Professional Scrum
-- Team Performance
-- Agile Transformation
 resourceTypes:
 - video
 categories:

@@ -38,12 +38,6 @@ tags:
 - Agile Project Management
 - Practical Techniques and Tooling
 - Flow Efficiency
-- Agile Frameworks
-- Pragmatic Thinking
-- Operational Practices
-- People and Process
-- Value Delivery
-- Throughput
 resourceTypes:
 - video
 categories:

@@ -28,7 +28,6 @@ categories:
 - Scrum
 - Engineering Excellence
 - Social Technologies
-- Product Management
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

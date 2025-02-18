@@ -36,8 +36,6 @@ tags:
 - Modern Source Control
 - Operational Practices
 - Azure Pipelines
-- Pragmatic Thinking
-- Continuous Delivery
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png

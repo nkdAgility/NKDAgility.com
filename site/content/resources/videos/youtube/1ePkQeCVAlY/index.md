@@ -37,10 +37,6 @@ tags:
 - Lean Thinking
 - Complexity Thinking
 - Pragmatic Thinking
-- Systems Thinking
-- Operational Practices
-- Lean Product Development
-- Sociotechnical Systems
 resourceTypes:
 - video
 layout: video

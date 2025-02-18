@@ -31,7 +31,6 @@ tags:
 - Software Development
 - Sociotechnical Systems
 - Agile Leadership
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -27,16 +27,8 @@ tags:
 - Software Developers
 - Value Delivery
 - Continuous Integration
-- Deployment Strategies
-- Practical Techniques and Tooling
-- Product Delivery
-- Operational Practices
-- Deployment Frequency
-- Modern Source Control
 - Flow Efficiency
-- Frequent Releases
-- Pragmatic Thinking
-- Strategy
+- Modern Source Control
 categories:
 - DevOps
 - Engineering Excellence

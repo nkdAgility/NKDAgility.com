@@ -40,10 +40,6 @@ tags:
 - Agile Transformation
 - Software Development
 - Agile Product Management
-- Pragmatic Thinking
-- Personal
-- Scrum Values
-- Organisational Agility
 resourceTypes:
 - video
 categories:

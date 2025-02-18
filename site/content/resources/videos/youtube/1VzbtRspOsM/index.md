@@ -37,9 +37,6 @@ tags:
 - Team Collaboration
 - Team Motivation
 - Personal
-- Mentoring
-- Organisational Agility
-- Sociotechnical Systems
 resourceTypes:
 - video
 layout: video

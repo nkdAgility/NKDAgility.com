@@ -32,22 +32,12 @@ tags:
 - Sprint Review
 - Scrum Team
 - People and Process
-- Agile Planning
-- Product Owner
-- Transparency and Accountability
-- Professional Scrum
+- Scrum Master
+- Agile Product Management
 - Team Performance
 - Team Collaboration
-- Agile Product Management
-- Scrum Master
-- Pragmatic Thinking
-- Value Delivery
-- Software Development
-- Agile Frameworks
-- Agile Project Management
-- Transparency
-- Agile Values and Principles
-- Product Delivery
+- Transparency and Accountability
+- Product Owner
 resourceTypes:
 - video
 categories:

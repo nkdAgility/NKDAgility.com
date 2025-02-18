@@ -38,23 +38,6 @@ tags:
 - Flow Efficiency
 - Scaling Kanban
 - Portfolio Management
-- Scaling Agility
-- People and Process
-- Agile Strategy
-- Organisational Physics
-- Throughput
-- Large Scale Agility
-- Operational Practices
-- Systems Thinking
-- Enterprise Agility
-- Strategy
-- Pragmatic Thinking
-- Business Agility
-- Agile Transformation
-- Practical Techniques and Tooling
-- Value Stream Management
-- Organisational Agility
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

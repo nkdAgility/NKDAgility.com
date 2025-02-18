@@ -40,9 +40,6 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Agile Project Management
-- Deployment Strategies
-- Software Developers
-- Frequent Releases
 categories:
 - Social Technologies
 - Engineering Excellence

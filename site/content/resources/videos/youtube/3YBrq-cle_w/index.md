@@ -31,7 +31,6 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Self Organisation
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

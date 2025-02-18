@@ -32,9 +32,6 @@ tags:
 - Agile Planning
 - Agile Planning Tools
 - Software Development
-- Practical Techniques and Tooling
-- Products and Books
-- Pragmatic Thinking
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

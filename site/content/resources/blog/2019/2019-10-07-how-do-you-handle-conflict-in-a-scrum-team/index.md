@@ -33,20 +33,9 @@ tags:
 - Scrum Team
 - Scrum Master
 - People and Process
-- Agile Frameworks
-- Software Development
-- Team Performance
-- Agile Product Management
-- Agile Transformation
-- Team Motivation
-- Team Collaboration
 - Agile Project Management
-- Technical Leadership
-- Software Developers
-- Pragmatic Thinking
-- Accountability
-- Agile Leadership
-- Mentoring
+- Team Collaboration
+- Team Motivation
 categories:
 - Scrum
 - Social Technologies

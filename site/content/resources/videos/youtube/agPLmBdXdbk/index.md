@@ -29,21 +29,13 @@ tags:
 - Coaching
 - Agile Values and Principles
 - Resilience and Change
-- Agile Leadership
-- Agile Transformation
-- Agile Philosophy
-- Change Management
+- Organisational Change
+- Agile Frameworks
+- People and Process
 - Agile Project Management
 - Agile Strategy
-- People and Process
-- Agile Frameworks
-- Organisational Change
-- Mentoring
-- Organisational Agility
-- Business Agility
-- Pragmatic Thinking
-- Personal
-- Software Development
+- Agile Philosophy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

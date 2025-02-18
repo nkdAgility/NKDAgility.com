@@ -32,26 +32,6 @@ tags:
 - Agile Product Management
 - Continuous Learning
 - Hypothesis Driven Development
-- Sensemaking
-- Complexity Thinking
-- Pragmatic Thinking
-- Decision Making
-- Value Delivery
-- Lean Product Development
-- Evidence Based Management
-- Evidence Based Leadership
-- Scrum Product Development
-- Metrics and Learning
-- Product Strategy
-- Product Owner
-- Ability to Innovate
-- Agile Product Operating Model
-- Sociotechnical Systems
-- Systems Thinking
-- Agile Philosophy
-- Agile Strategy
-- Lean Startup
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

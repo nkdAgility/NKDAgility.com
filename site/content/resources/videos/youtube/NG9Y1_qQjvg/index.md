@@ -22,7 +22,11 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 isShort: false
-tags: []
+tags:
+- Release Management
+- Install and Configuration
+- Practical Techniques and Tooling
+- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

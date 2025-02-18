@@ -36,15 +36,8 @@ tags:
 - Market Adaptability
 - Pragmatic Thinking
 - Working Software
-- Operational Practices
-- Organisational Agility
-- Customer Satisfaction
-- Agile Philosophy
-- Agile Strategy
-- Customer Retention
 - Agile Project Management
-- Agile Transformation
-- Frequent Releases
+- Customer Retention
 resourceTypes:
 - video
 categories:

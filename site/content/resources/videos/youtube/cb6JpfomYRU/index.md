@@ -30,16 +30,8 @@ tags:
 - Practical Techniques and Tooling
 - Continuous Learning
 - Scrum Team
-- Personal
-- Organisational Agility
-- Mentoring
-- Agile Transformation
-- Agile Frameworks
-- Team Performance
-- Software Development
 - Team Collaboration
-- Agile Project Management
-- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

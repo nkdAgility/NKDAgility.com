@@ -38,7 +38,6 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Transparency and Accountability
-- Software Developers
 resourceTypes:
 - video
 categories:

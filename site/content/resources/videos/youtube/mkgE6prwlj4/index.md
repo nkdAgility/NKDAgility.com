@@ -38,7 +38,6 @@ categories:
 - DevOps
 - Scrum
 - Engineering Excellence
-- Social Technologies
 
 ---
 ## Spotlight on Outstanding Scrum Application

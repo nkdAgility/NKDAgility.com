@@ -38,9 +38,6 @@ tags:
 - Decision Making
 - Lean Startup
 - Evidence Based Management
-- Decision Theory
-- MVP
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

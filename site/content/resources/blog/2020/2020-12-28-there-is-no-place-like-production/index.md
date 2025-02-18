@@ -28,42 +28,11 @@ tags:
 - Product Validation
 - Agile Product Management
 - Release Management
-- Product Discovery
-- Value Delivery
-- Lean Product Development
-- Product Delivery
-- Working Software
-- Ability to Innovate
-- Agile Product Operating Model
-- Discovery and Learning
 - Metrics and Learning
-- Frequent Releases
-- Agile Philosophy
-- Pragmatic Thinking
-- Decision Making
-- Deployment Frequency
-- Hypothesis Driven Development
-- Empirical Process Control
-- Operational Practices
-- MVP
-- Experimentation
-- Agile Strategy
-- Lean Startup
-- Evidence Based Leadership
-- Value Stream Management
-- Product Owner
-- Evidence Based Management
-- Agile Values and Principles
-- Software Development
-- Organisational Agility
-- People and Process
-- Product Strategy
-- Customer Satisfaction
-- Market Adaptability
-- Continuous Delivery
-- Customer Retention
-- Lean Principles
-- Customer Feedback Loops
+- Discovery and Learning
+- Agile Product Operating Model
+- Ability to Innovate
+- Working Software
 categories:
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg

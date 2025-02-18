@@ -30,21 +30,12 @@ tags:
 - Discovery and Learning
 - Working Software
 - People and Process
-- Agile Philosophy
-- Product Delivery
-- Customer Feedback Loops
-- Agile Transformation
-- Agile Strategy
-- Business Agility
 - Products and Books
-- Value Delivery
-- Organisational Agility
-- Frequent Releases
-- Deployment Frequency
-- Personal
-- Software Development
-- Product Discovery
-- Customer Retention
+- Agile Strategy
+- Agile Transformation
+- Business Agility
+- Product Delivery
+- Agile Philosophy
 categories:
 - Product Management
 preview: nakedalm-logo-128-link-1-1.png

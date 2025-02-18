@@ -36,9 +36,6 @@ tags:
 - People and Process
 - Agile Project Management
 - Agile Product Management
-- Agile Transformation
-- Team Performance
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

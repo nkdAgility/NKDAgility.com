@@ -36,8 +36,6 @@ tags:
 - Technical Mastery
 - Technical Excellence
 - Troubleshooting
-- Azure Pipelines
-- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

@@ -31,8 +31,6 @@ categories:
 - Leadership
 - Scrum
 - Social Technologies
-- DevOps
-- Product Management
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

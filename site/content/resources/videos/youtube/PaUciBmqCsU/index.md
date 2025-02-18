@@ -37,16 +37,7 @@ tags:
 - Value Delivery
 - Empirical Process Control
 - Practical Techniques and Tooling
-- Agile Transformation
-- Agile Frameworks
-- Throughput
-- Pragmatic Thinking
-- Lean Principles
-- Lean
-- Software Development
 - Agile Project Management
-- Lean Thinking
-- Operational Practices
 resourceTypes:
 - video
 categories:

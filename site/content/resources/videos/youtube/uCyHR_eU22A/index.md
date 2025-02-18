@@ -37,16 +37,7 @@ tags:
 - People and Process
 - Professional Scrum
 - Software Developers
-- Team Collaboration
-- Pragmatic Thinking
-- Agile Planning
-- Agile Frameworks
-- Agile Project Management
 - Software Development
-- Value Delivery
-- Product Delivery
-- Agile Planning Tools
-- Decision Making
 resourceTypes:
 - video
 categories:

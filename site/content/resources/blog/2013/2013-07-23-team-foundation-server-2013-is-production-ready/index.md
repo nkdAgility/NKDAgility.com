@@ -32,12 +32,6 @@ tags:
 - Agile Frameworks
 - Agile Strategy
 - Software Developers
-- People and Process
-- Product Delivery
-- Organisational Agility
-- Frequent Releases
-- Pragmatic Thinking
-- Transparency
 categories:
 - Engineering Excellence
 

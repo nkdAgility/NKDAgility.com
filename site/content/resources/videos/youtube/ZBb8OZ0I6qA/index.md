@@ -32,11 +32,6 @@ tags:
 - Agile Product Operating Model
 - Agile Planning
 - Azure Boards
-- Pragmatic Thinking
-- Software Development
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -36,10 +36,6 @@ tags:
 - Pragmatic Thinking
 - Azure Boards
 - Large Scale Agility
-- People and Process
-- Agile Strategy
-- Product Delivery
-- Operational Practices
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-8-8.png

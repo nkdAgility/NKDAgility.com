@@ -33,19 +33,11 @@ tags:
 - People and Process
 - Team Collaboration
 - Continuous Learning
-- Agile Frameworks
-- Software Development
 - Agile Project Management
 - Pragmatic Thinking
+- Agile Frameworks
+- Software Development
 - Scrum Team
-- Professional Scrum
-- Customer Feedback Loops
-- Scrum Product Development
-- Team Performance
-- Agile Product Management
-- Agile Transformation
-- Coaching
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

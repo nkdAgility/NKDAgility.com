@@ -34,18 +34,10 @@ tags:
 - Value Delivery
 - Product Delivery
 - People and Process
-- Deployment Frequency
 - Deployment Strategies
 - Practical Techniques and Tooling
+- Deployment Frequency
 - Operational Practices
-- Technical Excellence
-- Technical Mastery
-- Continuous Delivery
-- Sociotechnical Systems
-- Frequent Releases
-- Release Management
-- Decision Making
-- Market Adaptability
 resourceTypes:
 - video
 categories:

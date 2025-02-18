@@ -38,12 +38,6 @@ tags:
 - Pragmatic Thinking
 - Products and Books
 - Agile Product Management
-- Product Delivery
-- Lean Startup
-- Value Delivery
-- Complexity Thinking
-- Sensemaking
-- Decision Making
 resourceTypes:
 - video
 categories:

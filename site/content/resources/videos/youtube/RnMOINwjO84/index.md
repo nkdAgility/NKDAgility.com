@@ -32,24 +32,6 @@ tags:
 - Business Agility
 - Ability to Innovate
 - Organisational Change
-- Organisational Physics
-- Decision Theory
-- Evidence Based Leadership
-- Pragmatic Thinking
-- Agile Strategy
-- Discovery and Learning
-- Market Adaptability
-- Enterprise Agility
-- Empirical Process Control
-- Agile Philosophy
-- Metrics and Learning
-- Agile Transformation
-- Strategy
-- Sensemaking
-- Beta Codex
-- Agile Product Management
-- Evidence Based Management
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

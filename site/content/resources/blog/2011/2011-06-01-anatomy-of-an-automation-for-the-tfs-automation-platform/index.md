@@ -32,7 +32,6 @@ tags:
 - Technical Mastery
 - Technical Excellence
 - Operational Practices
-- Pragmatic Thinking
 categories:
 - DevOps
 

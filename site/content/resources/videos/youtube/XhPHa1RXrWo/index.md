@@ -38,9 +38,6 @@ tags:
 - Agile Philosophy
 - Agile Transformation
 - Organisational Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Organisational Physics
 resourceTypes:
 - video
 categories:

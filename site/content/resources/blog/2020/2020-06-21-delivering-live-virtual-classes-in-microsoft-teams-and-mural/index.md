@@ -36,29 +36,6 @@ tags:
 - Collaboration Tools
 - Scrum Team
 - Scrum Values
-- Agile Project Management
-- Practical Techniques and Tooling
-- Agile Transformation
-- Products and Books
-- Team Motivation
-- Agile Frameworks
-- Agile Leadership
-- Self Organisation
-- Remote Working
-- Team Performance
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Psychological Safety
-- Organisational Agility
-- Accountability
-- Software Development
-- Agile Philosophy
-- Working Agreements
-- Scrum Master
-- Cross Functional Teams
-- Continuous Learning
-- Coaching
-- Operational Practices
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

@@ -40,7 +40,6 @@ categories:
 - Scrum
 - Engineering Excellence
 - DevOps
-- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

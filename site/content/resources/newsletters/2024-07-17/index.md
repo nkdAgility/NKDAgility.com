@@ -27,21 +27,9 @@ tags:
 - Product Discovery
 - Products and Books
 - Agile Product Management
-- Customer Satisfaction
-- Product Delivery
+- People and Process
 - Events and Presentations
 - Agile Project Management
-- People and Process
-- Value Delivery
-- Practical Techniques and Tooling
-- Scrum Product Development
-- Customer Feedback Loops
-- Hypothesis Driven Development
-- Product Strategy
-- Experimentation
-- Lean Startup
-- MVP
-- Pragmatic Thinking
 
 ---
 **Dear Innovators and Product Enthusiasts,**

@@ -36,7 +36,6 @@ tags:
 - Miscellaneous
 - Product Delivery
 - Organisational Agility
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -32,11 +32,6 @@ tags:
 - Install and Configuration
 - Agile Frameworks
 - Software Development
-- Azure DevOps
-- Troubleshooting
-- Product Delivery
-- System Configuration
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

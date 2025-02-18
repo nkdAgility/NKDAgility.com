@@ -39,12 +39,6 @@ tags:
 - Scrum Master
 - Agile Project Management
 - Agile Product Management
-- Scrum Team
-- Product Delivery
-- Software Development
-- Agile Planning
-- Team Performance
-- Agile Frameworks
 resourceTypes:
 - video
 layout: video

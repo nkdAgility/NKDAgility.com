@@ -33,16 +33,9 @@ tags:
 - Value Delivery
 - People and Process
 - Metrics and Learning
-- Agile Project Management
-- Lean
-- Throughput
-- Pragmatic Thinking
-- Software Development
-- Agile Frameworks
 - Lean Thinking
-- Lean Principles
-- Cycle Time
-- Value Stream Management
+- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:

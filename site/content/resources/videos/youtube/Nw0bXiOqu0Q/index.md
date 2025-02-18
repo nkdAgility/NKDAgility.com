@@ -33,39 +33,11 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Empirical Process Control
-- Agile Values and Principles
-- Change Management
-- Continuous Learning
-- Resilience and Change
-- Discovery and Learning
-- Hypothesis Driven Development
 - Business Agility
-- Organisational Change
-- Product Delivery
-- Agile Philosophy
-- Enterprise Agility
-- Decision Making
-- Market Adaptability
-- Agile Strategy
-- Software Development
-- Agile Frameworks
-- Agile Transformation
-- Value Delivery
-- Strategy
-- Complexity Thinking
-- Pragmatic Thinking
-- Experimentation
-- Metrics and Learning
-- Agile Leadership
-- Agile Product Operating Model
-- Evidence Based Leadership
-- Evidence Based Management
-- Ability to Innovate
-- Organisational Culture
-- Sociotechnical Systems
-- Sensemaking
-- Organisational Physics
-- Digital Transformation
+- Hypothesis Driven Development
+- Discovery and Learning
+- Resilience and Change
+- Continuous Learning
 resourceTypes:
 - video
 categories:

@@ -23,7 +23,6 @@ categories:
 - Product Management
 - Engineering Excellence
 - DevOps
-- Social Technologies
 tags:
 - Continuous Delivery
 - Value Delivery

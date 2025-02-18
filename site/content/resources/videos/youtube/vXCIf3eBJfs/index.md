@@ -38,9 +38,6 @@ tags:
 - Technical Leadership
 - People and Process
 - Organisational Agility
-- Practical Techniques and Tooling
-- Pragmatic Thinking
-- Decision Making
 resourceTypes:
 - video
 categories:

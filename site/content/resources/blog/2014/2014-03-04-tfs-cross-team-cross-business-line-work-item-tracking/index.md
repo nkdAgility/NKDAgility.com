@@ -31,7 +31,6 @@ categories:
 - Product Management
 - Engineering Excellence
 - DevOps
-- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

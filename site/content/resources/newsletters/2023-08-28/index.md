@@ -26,19 +26,12 @@ tags:
 - Professional Scrum
 - Agile Product Management
 - Scrum Team
-- News and Reviews
-- Products and Books
-- Agile Project Management
-- People and Process
-- Scrum Master
-- Product Owner
-- Events and Presentations
-- Agile Frameworks
 - Continuous Learning
-- Software Development
-- Customer Retention
-- Customer Satisfaction
-- Software Developers
+- Agile Frameworks
+- Events and Presentations
+- Product Owner
+- Scrum Master
+- People and Process
 
 ---
 Greetings,

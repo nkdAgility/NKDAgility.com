@@ -37,8 +37,6 @@ categories:
 - Scrum
 - Engineering Excellence
 - Product Management
-- DevOps
-- Social Technologies
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

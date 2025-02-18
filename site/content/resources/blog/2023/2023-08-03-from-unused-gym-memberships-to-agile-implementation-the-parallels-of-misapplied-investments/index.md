@@ -33,10 +33,6 @@ tags:
 - Pragmatic Thinking
 - Agile Frameworks
 - Agile Strategy
-- Software Developers
-- Agile Product Management
-- Product Delivery
-- Business Agility
 categories:
 - Social Technologies
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg

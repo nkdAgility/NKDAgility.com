@@ -40,9 +40,6 @@ tags:
 - Frequent Releases
 - Platform Engineering
 - Product Delivery
-- Product Validation
-- Technical Excellence
-- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

@@ -35,21 +35,9 @@ tags:
 - Transparency
 - Scrum Product Development
 - Sprint Review
-- Agile Philosophy
-- Transparency and Accountability
-- Agile Transformation
-- Software Development
-- Professional Scrum
 - Agile Frameworks
-- Organisational Culture
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Agile Values and Principles
-- Agile Leadership
-- Team Performance
-- Agile Planning
-- Value Delivery
-- Software Developers
+- Professional Scrum
+- Software Development
 resourceTypes:
 - video
 categories:

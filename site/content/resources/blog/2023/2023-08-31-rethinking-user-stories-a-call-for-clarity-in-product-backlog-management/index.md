@@ -37,7 +37,6 @@ tags:
 - Software Development
 - Agile Project Management
 - Product Delivery
-- Pragmatic Thinking
 categories:
 - Product Management
 - Social Technologies

@@ -40,7 +40,6 @@ tags:
 - Personal
 - Agile Philosophy
 - Organisational Agility
-- Sensemaking
 resourceTypes:
 - video
 categories:

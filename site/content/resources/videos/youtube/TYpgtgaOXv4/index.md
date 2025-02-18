@@ -38,7 +38,6 @@ tags:
 - Software Development
 - Value Delivery
 - Scrum Product Development
-- Agile Planning
 resourceTypes:
 - video
 categories:

@@ -32,11 +32,6 @@ tags:
 - Decision Making
 - Sociotechnical Systems
 - Business Agility
-- Enterprise Agility
-- Discovery and Learning
-- Coaching
-- Organisational Physics
-- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

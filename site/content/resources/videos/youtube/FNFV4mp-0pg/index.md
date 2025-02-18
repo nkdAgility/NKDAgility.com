@@ -36,12 +36,6 @@ tags:
 - Team Performance
 - Technical Leadership
 - People and Process
-- Team Motivation
-- Agile Transformation
-- Self Organisation
-- Software Development
-- Coaching
-- Mentoring
 resourceTypes:
 - video
 categories:

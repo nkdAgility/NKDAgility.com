@@ -32,8 +32,6 @@ tags:
 - Agile Planning Tools
 - Practical Techniques and Tooling
 - Agile Frameworks
-- Agile Planning
-- Application Lifecycle Management
 categories:
 - Scrum
 - Social Technologies

@@ -42,8 +42,6 @@ categories:
 - Leadership
 - DevOps
 - Scrum
-- Engineering Excellence
-- Social Technologies
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

@@ -26,31 +26,11 @@ tags:
 - Continuous Delivery
 - Product Delivery
 - Scrum Team
-- Technical Leadership
-- People and Process
-- Scrum Master
-- Agile Product Management
-- Team Collaboration
-- Working Software
-- Organisational Agility
-- Self Organisation
 - Team Performance
-- Sociotechnical Systems
-- Agile Project Management
-- Pragmatic Thinking
-- Strategy
-- Operational Practices
-- Agile Transformation
-- Agile Frameworks
-- Agile Strategy
-- Agile Planning
-- Coaching
-- Software Development
-- Software Developers
-- Discovery and Learning
-- Agile Leadership
-- Continuous Learning
-- Metrics and Learning
+- Self Organisation
+- Organisational Agility
+- Working Software
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

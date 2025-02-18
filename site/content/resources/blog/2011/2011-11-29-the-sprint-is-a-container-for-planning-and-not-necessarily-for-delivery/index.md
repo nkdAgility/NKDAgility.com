@@ -29,33 +29,13 @@ tags:
 - Value Delivery
 - Product Delivery
 - Agile Product Management
-- Pragmatic Thinking
-- Automated Testing
-- Practical Techniques and Tooling
-- Frequent Releases
-- Agile Transformation
-- Agile Project Management
-- Working Software
-- Agile Frameworks
-- Deployment Strategies
-- People and Process
-- Technical Excellence
-- Technical Leadership
-- Software Developers
-- Technical Mastery
 - Deployment Frequency
-- Engineering Practices
-- Operational Practices
-- Test Automation
-- Scrum Product Development
-- Release Management
-- Market Adaptability
-- Strategy
+- Technical Mastery
+- Software Developers
 categories:
 - Scrum
 - Engineering Excellence
 - DevOps
-- Social Technologies
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

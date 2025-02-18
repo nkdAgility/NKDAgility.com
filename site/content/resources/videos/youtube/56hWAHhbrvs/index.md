@@ -31,19 +31,12 @@ tags:
 - People and Process
 - Agile Philosophy
 - Agile Transformation
-- Sociotechnical Systems
-- Beta Codex
-- Organisational Physics
-- Organisational Culture
-- Organisational Change
-- Business Agility
-- Enterprise Agility
-- Scaling Agility
 - Organisational Agility
-- Agile Values and Principles
-- Agile Leadership
-- Change Management
-- Software Development
+- Scaling Agility
+- Enterprise Agility
+- Business Agility
+- Organisational Change
+- Organisational Culture
 resourceTypes:
 - video
 layout: video

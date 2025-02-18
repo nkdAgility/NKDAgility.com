@@ -32,10 +32,6 @@ tags:
 - Agile Philosophy
 - Organisational Agility
 - Organisational Culture
-- Sociotechnical Systems
-- Organisational Change
-- Team Motivation
-- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

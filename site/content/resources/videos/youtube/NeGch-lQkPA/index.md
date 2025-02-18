@@ -33,19 +33,11 @@ tags:
 - Value Delivery
 - Practical Techniques and Tooling
 - Team Performance
-- Agile Project Management
-- Software Development
+- Operational Practices
 - Pragmatic Thinking
 - Agile Frameworks
-- Operational Practices
-- Strategy
-- Scrum Product Development
-- People and Process
-- Flow Efficiency
-- Agile Product Management
-- Agile Planning
-- Increment
-- Working Software
+- Agile Project Management
+- Software Development
 resourceTypes:
 - video
 categories:

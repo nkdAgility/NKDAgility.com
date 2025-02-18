@@ -38,17 +38,6 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - Product Strategy
-- Coaching
-- Agile Strategy
-- Scrum Product Development
-- Practical Techniques and Tooling
-- Market Adaptability
-- Business Agility
-- Organisational Agility
-- Continuous Learning
-- Agile Planning
-- Software Development
-- Operational Practices
 resourceTypes:
 - video
 categories:

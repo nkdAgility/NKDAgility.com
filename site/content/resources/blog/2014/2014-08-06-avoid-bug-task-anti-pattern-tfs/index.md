@@ -35,23 +35,8 @@ tags:
 - Test First Development
 - Software Development
 - Practical Techniques and Tooling
-- Agile Planning
-- Technical Mastery
-- Technical Excellence
-- Azure Boards
-- Transparency and Accountability
-- Agile Transformation
-- Agile Project Management
-- Team Performance
 - Software Developers
-- Pragmatic Thinking
-- Operational Practices
-- Transparency
-- Engineering Practices
-- Working Software
-- Test Driven Development
-- Product Backlog
-- Team Collaboration
+- Team Performance
 categories:
 - DevOps
 - Engineering Excellence

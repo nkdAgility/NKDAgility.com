@@ -40,10 +40,6 @@ tags:
 - Agile Product Management
 - Entrepreneurship
 - Sensemaking
-- Pragmatic Thinking
-- Agile Leadership
-- Scrum Product Development
-- Complexity Thinking
 resourceTypes:
 - video
 categories:

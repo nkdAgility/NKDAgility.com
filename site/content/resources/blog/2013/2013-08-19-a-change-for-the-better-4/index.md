@@ -33,18 +33,11 @@ tags:
 - Application Lifecycle Management
 - Agile Planning
 - Agile Project Management
-- Agile Transformation
-- Agile Frameworks
-- Practical Techniques and Tooling
-- People and Process
-- Agile Strategy
 - Agile Leadership
-- Business Agility
-- Personal
-- Organisational Agility
-- Operational Practices
-- Software Developers
-- Pragmatic Thinking
+- Agile Strategy
+- People and Process
+- Agile Frameworks
+- Agile Transformation
 categories:
 - Social Technologies
 preview: nakedalm-logo-128-link-4-4.png

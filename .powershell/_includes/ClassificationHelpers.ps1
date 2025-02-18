@@ -36,8 +36,6 @@ function Get-CategoryConfidenceWithChecksum {
         [string]$ResourceTitle,
         [string]$CacheFolder,
         [string]$ClassificationType = "classification",
-        [int]$MinConfidence = 50,
-        [int]$MaxCategories = 5,
         [switch]$batch,
         [switch]$updateMissing
     )

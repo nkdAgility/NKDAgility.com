@@ -30,30 +30,9 @@ tags:
 - Change Management
 - Resilience and Change
 - People and Process
-- Evidence Based Management
-- Decision Making
-- Pragmatic Thinking
-- Portfolio Management
-- Agile Transformation
-- Agile Philosophy
-- Product Delivery
-- Agile Frameworks
-- Business Agility
-- Organisational Change
-- Value Delivery
-- Agile Strategy
-- Agile Planning
 - Market Adaptability
-- Organisational Physics
-- Strategy
-- Organisational Agility
-- Enterprise Agility
-- Operational Practices
-- Evidence Based Leadership
-- Digital Transformation
-- Software Development
-- Decision Theory
-- Sociotechnical Systems
+- Agile Planning
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

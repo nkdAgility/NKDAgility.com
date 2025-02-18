@@ -37,22 +37,9 @@ tags:
 - Product Backlog
 - Scrum Team
 - Scaling Scrum
-- Agile Planning
-- Team Collaboration
-- People and Process
-- Technical Leadership
-- Product Delivery
-- Software Development
-- Events and Presentations
-- Scaling Agility
-- Large Scale Agility
-- Agile Product Management
 - Team Performance
-- Agile Frameworks
-- Agile Transformation
-- Scaled Agile
-- Software Developers
-- Pragmatic Thinking
+- Agile Product Management
+- Large Scale Agility
 categories:
 - Scrum
 preview: 146713119-1-1.jpg

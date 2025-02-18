@@ -38,8 +38,6 @@ tags:
 - Flow Efficiency
 - Agile Frameworks
 - Agile Project Management
-- Pragmatic Thinking
-- Operational Practices
 resourceTypes:
 - video
 categories:

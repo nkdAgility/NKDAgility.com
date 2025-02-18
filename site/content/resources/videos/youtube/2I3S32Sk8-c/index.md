@@ -32,20 +32,11 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - People and Process
+- Team Performance
+- Team Collaboration
+- Professional Scrum
 - Agile Product Management
 - Scrum Master
-- Team Collaboration
-- Team Performance
-- Professional Scrum
-- Software Developers
-- Pragmatic Thinking
-- Agile Project Management
-- Software Development
-- Agile Transformation
-- Agile Frameworks
-- Empirical Process Control
-- Scrum Values
-- Agile Planning
 resourceTypes:
 - video
 layout: video

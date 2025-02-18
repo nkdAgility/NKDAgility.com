@@ -40,10 +40,6 @@ tags:
 - Agile Project Management
 - Personal
 - Agile Philosophy
-- Agile Transformation
-- Pragmatic Thinking
-- Agile Planning
-- Agile Product Management
 resourceTypes:
 - video
 categories:

@@ -9,7 +9,6 @@ categories:
 - DevOps
 - Scrum
 - Leadership
-- Social Technologies
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

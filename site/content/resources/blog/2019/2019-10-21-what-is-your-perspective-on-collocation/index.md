@@ -28,23 +28,14 @@ aliasesFor404:
 tags:
 - Organisational Culture
 - Scrum Team
-- Agile Frameworks
-- Events and Presentations
-- Software Development
-- Team Performance
-- People and Process
-- Team Collaboration
 - Agile Project Management
+- Team Collaboration
+- People and Process
 - Team Motivation
-- Software Developers
-- Sociotechnical Systems
-- Pragmatic Thinking
-- Personal
-- Professional Scrum
-- Scrum Master
-- Organisational Psychology
-- Agile Product Management
-- Operational Practices
+- Software Development
+- Events and Presentations
+- Agile Frameworks
+- Team Performance
 categories:
 - Scrum
 - Social Technologies

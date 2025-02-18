@@ -31,10 +31,6 @@ tags:
 - Organisational Agility
 - Agile Transformation
 - Pragmatic Thinking
-- Organisational Culture
-- Sociotechnical Systems
-- Agile Strategy
-- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

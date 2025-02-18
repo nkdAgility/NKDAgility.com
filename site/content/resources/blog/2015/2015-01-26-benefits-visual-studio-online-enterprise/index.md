@@ -36,10 +36,6 @@ tags:
 - Practical Techniques and Tooling
 - Digital Transformation
 - Market Adaptability
-- Frequent Releases
-- Enterprise Agility
-- Organisational Change
-- Azure Pipelines
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

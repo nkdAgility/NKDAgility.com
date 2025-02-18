@@ -31,9 +31,6 @@ tags:
 - Value Stream Management
 - Discovery and Learning
 - Flow Efficiency
-- Software Developers
-- Strategy
-- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.6

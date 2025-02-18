@@ -34,19 +34,9 @@ tags:
 - Transparency and Accountability
 - Scrum Team
 - People and Process
-- Professional Scrum
-- Product Delivery
-- Agile Product Management
-- Scrum Master
-- Software Developers
-- Team Performance
 - Team Collaboration
-- Agile Planning
-- Pragmatic Thinking
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Software Development
+- Team Performance
+- Software Developers
 resourceTypes:
 - video
 layout: video

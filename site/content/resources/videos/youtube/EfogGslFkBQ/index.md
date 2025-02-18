@@ -38,7 +38,6 @@ tags:
 - Cycle Time
 - Flow Efficiency
 - Software Development
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

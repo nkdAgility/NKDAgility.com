@@ -31,10 +31,6 @@ tags:
 - Scrum Product Development
 - Agile Product Management
 - Team Performance
-- Technical Leadership
-- Agile Frameworks
-- Agile Leadership
-- Pragmatic Thinking
 categories:
 - Scrum
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg

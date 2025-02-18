@@ -35,29 +35,9 @@ tags:
 - Agile Product Operating Model
 - Agile Product Management
 - Value Delivery
-- Agile Leadership
-- Product Owner
-- Product Strategy
-- Decision Theory
-- Strategic Goals
-- Change Management
 - Business Agility
-- Organisational Agility
-- Agile Philosophy
-- Agile Strategy
-- Pragmatic Thinking
-- Sensemaking
-- Organisational Change
-- Team Motivation
-- Organisational Physics
-- Enterprise Agility
-- Organisational Culture
-- Complexity Thinking
-- Strategy
-- Sociotechnical Systems
-- Ability to Innovate
-- Organisational Psychology
-- Personal
+- Change Management
+- Strategic Goals
 resourceTypes:
 - video
 categories:

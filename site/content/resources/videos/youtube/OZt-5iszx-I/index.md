@@ -36,19 +36,8 @@ tags:
 - Value Delivery
 - Product Delivery
 - Agile Product Management
-- Market Adaptability
-- Pragmatic Thinking
-- Organisational Agility
-- Agile Philosophy
-- Agile Planning
-- Customer Satisfaction
-- Agile Project Management
 - Business Agility
-- Scrum Product Development
-- Agile Values and Principles
-- Product Strategy
-- People and Process
-- Customer Retention
+- Agile Project Management
 resourceTypes:
 - video
 categories:

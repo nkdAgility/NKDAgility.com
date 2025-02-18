@@ -36,12 +36,6 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Azure DevOps
-- Azure Boards
-- Agile Project Management
-- Pragmatic Thinking
-- Product Delivery
-- Agile Planning Tools
-- Operational Practices
 categories:
 - Social Technologies
 - Scrum

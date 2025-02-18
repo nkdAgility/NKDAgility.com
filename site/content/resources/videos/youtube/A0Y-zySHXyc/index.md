@@ -35,24 +35,15 @@ tags:
 - Scrum Team
 - Agile Product Management
 - People and Process
-- Professional Scrum
-- Team Collaboration
 - Agile Project Management
-- Personal
-- Decision Making
-- Agile Leadership
-- Software Developers
-- Team Performance
-- Pragmatic Thinking
-- Organisational Culture
-- Sociotechnical Systems
+- Team Collaboration
+- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Leadership
 - Scrum
 - Product Management
-- Social Technologies
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

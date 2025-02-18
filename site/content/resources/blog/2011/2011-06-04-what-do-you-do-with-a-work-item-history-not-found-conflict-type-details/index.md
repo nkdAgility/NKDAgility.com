@@ -32,8 +32,6 @@ tags:
 - Software Development
 - Release Management
 - Azure DevOps
-- Azure Boards
-- Pragmatic Thinking
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

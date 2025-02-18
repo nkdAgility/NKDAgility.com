@@ -49,7 +49,6 @@ tags:
 - Software Development
 - Scaling Agility
 - Agile Frameworks
-- Agile Project Management
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

@@ -33,10 +33,6 @@ tags:
 - Technical Mastery
 - Value Delivery
 - Technical Excellence
-- Flow Efficiency
-- Operational Practices
-- Continuous Delivery
-- Continuous Integration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

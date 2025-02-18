@@ -22,7 +22,14 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: false
-tags: []
+tags:
+- Organisational Change
+- People and Process
+- Organisational Agility
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

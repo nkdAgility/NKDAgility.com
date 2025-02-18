@@ -31,24 +31,12 @@ tags:
 - Agile Values and Principles
 - Agile Product Management
 - Working Software
-- Agile Project Management
-- Discovery and Learning
-- Agile Transformation
-- Product Delivery
-- People and Process
+- Scrum Product Development
+- Product Validation
+- Software Development
+- Software Developers
 - Agile Philosophy
 - Value Delivery
-- Software Developers
-- Software Development
-- Product Validation
-- Scrum Product Development
-- Increment
-- Organisational Agility
-- Pragmatic Thinking
-- Empirical Process Control
-- Market Adaptability
-- Experimentation
-- Lean Startup
 resourceTypes:
 - video
 layout: video

@@ -37,18 +37,7 @@ tags:
 - Evidence Based Management
 - Ability to Innovate
 - Pragmatic Thinking
-- Organisational Physics
-- Evidence Based Leadership
-- Coaching
-- Decision Making
-- Sensemaking
 - Mentoring
-- Sociotechnical Systems
-- Agile Product Management
-- Organisational Change
-- Business Agility
-- Organisational Agility
-- Operational Practices
 resourceTypes:
 - video
 categories:

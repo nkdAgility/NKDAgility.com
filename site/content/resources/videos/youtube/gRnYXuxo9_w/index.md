@@ -33,9 +33,6 @@ tags:
 - Team Collaboration
 - Agile Frameworks
 - Software Development
-- Team Motivation
-- Agile Product Management
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -36,7 +36,6 @@ tags:
 - Technical Excellence
 - Continuous Integration
 - Pragmatic Thinking
-- Operational Practices
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png

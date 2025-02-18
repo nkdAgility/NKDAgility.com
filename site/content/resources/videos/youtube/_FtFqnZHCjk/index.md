@@ -35,19 +35,8 @@ tags:
 - Agile Product Operating Model
 - Agile Project Management
 - Product Delivery
-- Agile Philosophy
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Transformation
-- Lead Time
-- Agile Strategy
-- Agile Planning
 - Market Adaptability
-- Business Agility
-- Flow Efficiency
-- Organisational Agility
-- Frequent Releases
-- Deployment Frequency
+- Agile Planning
 resourceTypes:
 - video
 layout: video

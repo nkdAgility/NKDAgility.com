@@ -40,29 +40,6 @@ tags:
 - Agile Product Management
 - Scrum Master
 - People and Process
-- Professional Scrum
-- Empirical Process Control
-- Software Developers
-- Software Development
-- Value Delivery
-- Decision Making
-- Agile Frameworks
-- Agile Project Management
-- Agile Planning
-- Strategy
-- Agile Transformation
-- Agile Strategy
-- Customer Satisfaction
-- Team Collaboration
-- Discovery and Learning
-- Team Performance
-- Product Validation
-- Agile Philosophy
-- Decision Theory
-- Working Software
-- Sensemaking
-- Organisational Agility
-- Increment
 resourceTypes:
 - video
 categories:

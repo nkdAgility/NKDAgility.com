@@ -38,9 +38,6 @@ tags:
 - Software Development
 - Lean Thinking
 - Agile Project Management
-- Pragmatic Thinking
-- Transparency
-- Flow Efficiency
 resourceTypes:
 - video
 categories:

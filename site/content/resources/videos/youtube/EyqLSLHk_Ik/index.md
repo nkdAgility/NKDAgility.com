@@ -33,7 +33,6 @@ categories:
 - Leadership
 - Engineering Excellence
 - Social Technologies
-- Product Management
 
 ---
 In my journey as a product development mentor, I've come to realise that the heart of successful software organisations lies in the people who build the products. In Scrum, we refer to these individuals as developers, but this term encompasses a diverse group: testers, coders, analysts, product owners, and even those in cyber security operations. Each plays a crucial role in the creation of a product, and it’s essential that we foster an environment where they can thrive.

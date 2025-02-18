@@ -34,21 +34,10 @@ tags:
 - Continuous Learning
 - Value Delivery
 - Agile Philosophy
-- Coaching
-- Agile Frameworks
-- Team Collaboration
+- Pragmatic Thinking
 - Agile Transformation
 - Agile Project Management
-- Pragmatic Thinking
-- Scrum Product Development
-- Practical Techniques and Tooling
-- Professional Scrum
-- Customer Feedback Loops
-- Agile Product Management
-- Team Performance
-- Software Development
-- Organisational Agility
-- Sociotechnical Systems
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

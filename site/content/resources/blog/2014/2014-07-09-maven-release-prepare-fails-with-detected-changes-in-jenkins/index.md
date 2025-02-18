@@ -32,9 +32,6 @@ tags:
 - Technical Mastery
 - Troubleshooting
 - System Configuration
-- Pragmatic Thinking
-- Application Lifecycle Management
-- Operational Practices
 categories:
 - DevOps
 - Engineering Excellence

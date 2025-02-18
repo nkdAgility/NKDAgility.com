@@ -25,23 +25,13 @@ tags:
 - Agile Values and Principles
 - People and Process
 - Agile Project Management
-- Team Performance
-- Change Management
-- Agile Philosophy
-- Software Developers
-- Agile Transformation
 - Team Collaboration
+- Agile Transformation
+- Software Developers
 - Organisational Culture
-- Complexity Thinking
-- Pragmatic Thinking
-- Organisational Agility
-- Systems Thinking
-- Sociotechnical Systems
-- Organisational Physics
-- Personal
-- Organisational Change
-- Agile Strategy
-- Metrics and Learning
+- Change Management
+- Team Performance
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

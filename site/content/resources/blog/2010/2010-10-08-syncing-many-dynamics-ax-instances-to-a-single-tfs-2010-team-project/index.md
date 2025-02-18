@@ -32,8 +32,6 @@ tags:
 - Technical Mastery
 - Technical Excellence
 - Troubleshooting
-- Pragmatic Thinking
-- Operational Practices
 categories:
 - Engineering Excellence
 

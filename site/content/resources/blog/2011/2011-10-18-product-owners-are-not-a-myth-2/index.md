@@ -36,12 +36,6 @@ tags:
 - Scrum Team
 - Professional Scrum
 - Software Development
-- Value Delivery
-- Product Delivery
-- Agile Frameworks
-- Agile Planning
-- Agile Transformation
-- Pragmatic Thinking
 categories:
 - Scrum
 - Product Management

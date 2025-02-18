@@ -32,8 +32,6 @@ tags:
 - Azure DevOps
 - Technical Excellence
 - Working Software
-- Operational Practices
-- Technical Mastery
 categories:
 - Engineering Excellence
 - DevOps

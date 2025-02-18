@@ -39,9 +39,6 @@ tags:
 - Scrum Team
 - Practical Techniques and Tooling
 - Team Performance
-- Software Development
-- Coaching
-- Continuous Learning
 resourceTypes:
 - video
 layout: video

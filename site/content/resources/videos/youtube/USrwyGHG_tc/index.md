@@ -33,29 +33,13 @@ tags:
 - Agile Values and Principles
 - Scrum Team
 - Scrum Master
-- Agile Leadership
-- Agile Transformation
-- Organisational Agility
-- Team Motivation
-- Agile Project Management
-- Software Development
-- Agile Product Management
-- Team Collaboration
-- Team Performance
-- Agile Frameworks
-- People and Process
-- Professional Scrum
 - Business Agility
-- Technical Leadership
-- Psychological Safety
-- Coaching
-- Scrum Values
-- Self Organisation
-- Accountability
-- Mentoring
-- Employee Engagement
-- Agile Philosophy
-- Pragmatic Thinking
+- Professional Scrum
+- People and Process
+- Team Performance
+- Team Collaboration
+- Agile Product Management
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

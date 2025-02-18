@@ -35,18 +35,9 @@ tags:
 - Scrum Team
 - People and Process
 - Product Owner
-- Software Development
-- Team Collaboration
-- Team Performance
 - Agile Frameworks
-- Organisational Culture
-- Professional Scrum
-- Software Developers
-- Scrum Master
-- Team Motivation
-- Agile Transformation
-- Sociotechnical Systems
-- Pragmatic Thinking
+- Team Performance
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -39,16 +39,7 @@ tags:
 - Value Delivery
 - Team Collaboration
 - Agile Project Management
-- Empirical Process Control
 - Pragmatic Thinking
-- Scrum Product Development
-- Product Delivery
-- Professional Scrum
-- Organisational Culture
-- Software Developers
-- Agile Planning
-- Personal
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

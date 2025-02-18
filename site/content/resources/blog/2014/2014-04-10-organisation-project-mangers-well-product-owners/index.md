@@ -31,25 +31,11 @@ tags:
 - Agile Product Operating Model
 - Product Owner
 - Product Delivery
-- Scrum Team
-- Organisational Agility
-- Agile Philosophy
-- Agile Transformation
-- Team Collaboration
-- Business Agility
-- Agile Strategy
 - People and Process
-- Organisational Culture
-- Sociotechnical Systems
-- Organisational Change
-- Organisational Physics
-- Agile Frameworks
-- Software Development
-- Scaled Agile
-- Enterprise Agility
-- Team Performance
-- Agile Planning
-- Professional Scrum
+- Business Agility
+- Team Collaboration
+- Agile Strategy
+- Agile Philosophy
 categories:
 - Product Management
 - Social Technologies

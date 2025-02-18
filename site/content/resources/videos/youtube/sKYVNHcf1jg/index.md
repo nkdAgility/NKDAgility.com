@@ -24,26 +24,15 @@ duration: 280
 isShort: false
 tags:
 - Coaching
-- Agile Leadership
-- Agile Frameworks
-- Organisational Agility
-- People and Process
-- Business Agility
-- Team Motivation
-- Team Performance
-- Agile Transformation
-- Agile Project Management
-- Agile Philosophy
-- Agile Product Management
-- Scrum Team
 - Team Collaboration
-- Scrum Product Development
-- Personal
-- Professional Scrum
-- Product Delivery
-- Market Adaptability
-- Software Development
-- Pragmatic Thinking
+- Scrum Team
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Team Performance
+- Agile Philosophy
+- Business Agility
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4

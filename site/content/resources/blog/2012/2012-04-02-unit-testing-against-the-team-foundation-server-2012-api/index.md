@@ -32,9 +32,6 @@ tags:
 - Azure DevOps
 - Technical Mastery
 - Software Developers
-- Technical Excellence
-- Troubleshooting
-- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

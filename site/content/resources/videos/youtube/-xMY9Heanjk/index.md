@@ -30,36 +30,13 @@ tags:
 - People and Process
 - Empirical Process Control
 - Agile Planning
-- Metrics and Learning
-- Discovery and Learning
-- Agile Philosophy
-- Agile Product Management
-- Agile Project Management
-- Team Collaboration
-- Evidence Based Management
-- Agile Transformation
-- Customer Feedback Loops
-- Professional Scrum
-- Agile Frameworks
-- Scrum Product Development
 - Team Performance
+- Scrum Product Development
+- Agile Frameworks
+- Professional Scrum
+- Customer Feedback Loops
+- Agile Transformation
 - Evidence Based Leadership
-- Software Development
-- Strategy
-- Pragmatic Thinking
-- Continuous Learning
-- Value Delivery
-- Decision Making
-- Experimentation
-- Software Developers
-- Organisational Agility
-- Lean Startup
-- Lean Product Development
-- Organisational Physics
-- Product Delivery
-- Technical Leadership
-- Market Adaptability
-- Operational Practices
 resourceTypes:
 - video
 layout: video

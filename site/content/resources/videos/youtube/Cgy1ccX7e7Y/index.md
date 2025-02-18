@@ -35,27 +35,9 @@ tags:
 - Agile Leadership
 - Market Adaptability
 - Business Agility
-- Enterprise Agility
-- Pragmatic Thinking
-- Resilience and Change
-- Agile Philosophy
-- Agile Transformation
-- Agile Frameworks
-- Agile Strategy
-- Software Development
-- Complexity Thinking
 - Change Management
-- Organisational Culture
-- Sociotechnical Systems
-- Organisational Physics
-- Sensemaking
-- Agile Values and Principles
-- Scaling Agility
-- Continuous Learning
-- Self Organisation
-- Value Delivery
-- Strategy
-- Beta Codex
+- Complexity Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

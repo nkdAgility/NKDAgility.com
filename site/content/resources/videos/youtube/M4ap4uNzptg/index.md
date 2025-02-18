@@ -38,19 +38,6 @@ tags:
 - Business Agility
 - Market Adaptability
 - Change Management
-- Organisational Change
-- Organisational Agility
-- Organisational Culture
-- Pragmatic Thinking
-- Continuous Learning
-- Enterprise Agility
-- Resilience and Change
-- Agile Values and Principles
-- Value Delivery
-- Organisational Physics
-- Sensemaking
-- Empirical Process Control
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

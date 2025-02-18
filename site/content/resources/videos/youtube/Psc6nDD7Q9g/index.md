@@ -38,12 +38,6 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Operational Practices
-- Lean
-- Value Delivery
-- Lean Thinking
-- Empirical Process Control
-- Pragmatic Thinking
-- Flow Efficiency
 resourceTypes:
 - video
 categories:

@@ -34,9 +34,6 @@ tags:
 - Organisational Agility
 - Agile Transformation
 - Professional Scrum
-- Software Development
-- Team Collaboration
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

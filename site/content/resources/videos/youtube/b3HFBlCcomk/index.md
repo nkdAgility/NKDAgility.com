@@ -33,18 +33,11 @@ tags:
 - Agile Project Management
 - People and Process
 - Agile Values and Principles
-- Business Agility
-- Agile Strategy
-- Agile Philosophy
-- Product Delivery
-- Organisational Agility
-- Agile Transformation
-- Value Delivery
 - Agile Frameworks
-- Empirical Process Control
-- Decision Making
-- Software Development
-- Pragmatic Thinking
+- Value Delivery
+- Agile Transformation
+- Organisational Agility
+- Product Delivery
 resourceTypes:
 - video
 categories:

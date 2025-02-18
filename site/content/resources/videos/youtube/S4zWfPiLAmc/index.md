@@ -33,18 +33,11 @@ tags:
 - Metrics and Learning
 - Transparency and Accountability
 - Cycle Time
-- Empirical Process Control
-- Evidence Based Management
+- Practical Techniques and Tooling
 - Evidence Based Leadership
 - Flow Efficiency
-- Practical Techniques and Tooling
-- Decision Making
-- Operational Practices
-- Throughput
-- Pragmatic Thinking
-- Agile Project Management
-- Software Development
-- Value Delivery
+- Empirical Process Control
+- Evidence Based Management
 resourceTypes:
 - video
 categories:

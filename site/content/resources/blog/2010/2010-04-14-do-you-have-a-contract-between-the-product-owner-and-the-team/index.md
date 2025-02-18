@@ -31,18 +31,11 @@ tags:
 - Product Owner
 - Scrum Product Development
 - Scrum Team
-- Product Delivery
-- Professional Scrum
-- Agile Frameworks
-- People and Process
-- Team Collaboration
 - Agile Planning
-- Software Developers
-- Software Development
-- Working Agreements
-- Pragmatic Thinking
-- Team Performance
-- Accountability
+- Team Collaboration
+- People and Process
+- Professional Scrum
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

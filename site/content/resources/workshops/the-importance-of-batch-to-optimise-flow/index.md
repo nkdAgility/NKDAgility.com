@@ -32,17 +32,9 @@ tags:
 - Flow Efficiency
 - Team Performance
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Lean Thinking
-- Agile Project Management
-- Agile Frameworks
-- Software Development
-- Lean Product Development
-- Lean
-- Throughput
 - Lean Principles
-- Product Delivery
-- Operational Practices
+- Throughput
+- Lean
 
 ---
 ## Duration

@@ -37,25 +37,7 @@ tags:
 - Agile Project Management
 - Sociotechnical Systems
 - Agile Transformation
-- Organisational Culture
-- Organisational Agility
-- Team Motivation
-- Team Collaboration
-- Enterprise Agility
-- Organisational Physics
-- Change Management
-- Software Development
-- Business Agility
-- Pragmatic Thinking
 - Organisational Change
-- Agile Values and Principles
-- Self Organisation
-- Resilience and Change
-- Decision Theory
-- Transparency and Accountability
-- Scaling Agility
-- Organisational Psychology
-- Transparency
 resourceTypes:
 - video
 categories:

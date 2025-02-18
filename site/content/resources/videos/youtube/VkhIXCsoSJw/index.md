@@ -29,32 +29,10 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - AI and Automation in Agility
-- People and Process
-- Cycle Time
-- Automated Testing
-- Technical Debt
-- Code and Complexity
-- Azure DevOps
 - Test Automation
-- Discovery and Learning
-- Product Delivery
-- Platform Engineering
-- Engineering Practices
-- Software Developers
-- Technical Mastery
-- Metrics and Learning
-- Deployment Frequency
-- Continuous Integration
-- Working Software
-- Continuous Learning
-- Frequent Releases
-- Value Delivery
-- Digital Transformation
-- Software Development
-- Flow Efficiency
-- Throughput
-- Azure Pipelines
-- Market Adaptability
+- Azure DevOps
+- Code and Complexity
+- Automated Testing
 resourceTypes:
 - video
 sitemap:

@@ -41,7 +41,6 @@ categories:
 - Scrum
 - Engineering Excellence
 - DevOps
-- Social Technologies
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

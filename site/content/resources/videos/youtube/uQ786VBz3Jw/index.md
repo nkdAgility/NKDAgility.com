@@ -29,20 +29,9 @@ tags:
 - People and Process
 - Product Owner
 - Agile Planning
-- Team Performance
-- Agile Project Management
-- Scrum Product Development
-- Scrum Team
-- Product Delivery
-- Agile Transformation
-- Agile Frameworks
 - Team Collaboration
-- Software Developers
-- Scrum Master
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
-- Strategy
+- Agile Frameworks
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

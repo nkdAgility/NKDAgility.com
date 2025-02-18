@@ -33,21 +33,10 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Metrics and Learning
-- Scrum Team
-- Scrum Product Development
-- Value Delivery
+- Cycle Time
 - Transparency and Accountability
 - Agile Planning
-- Cycle Time
-- Team Performance
-- People and Process
-- Agile Frameworks
-- Professional Scrum
-- Agile Transformation
-- Empirical Process Control
-- Software Developers
-- Software Development
-- Pragmatic Thinking
+- Scrum Product Development
 categories:
 - Scrum
 - Social Technologies

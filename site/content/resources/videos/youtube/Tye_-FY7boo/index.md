@@ -37,16 +37,7 @@ tags:
 - Agile Product Operating Model
 - Product Discovery
 - Product Strategy
-- Strategy
-- Agile Strategy
 - Pragmatic Thinking
-- Scrum Product Development
-- Professional Scrum
-- Agile Project Management
-- Organisational Agility
-- Business Agility
-- Strategic Goals
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

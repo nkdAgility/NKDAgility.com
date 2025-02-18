@@ -38,9 +38,6 @@ tags:
 - Team Motivation
 - Accountability
 - Self Organisation
-- Software Development
-- Sociotechnical Systems
-- Operational Practices
 resourceTypes:
 - video
 categories:

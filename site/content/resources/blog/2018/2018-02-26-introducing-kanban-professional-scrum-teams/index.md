@@ -36,12 +36,6 @@ tags:
 - Products and Books
 - News and Reviews
 - Practical Techniques and Tooling
-- Flow Efficiency
-- Operational Practices
-- Pragmatic Thinking
-- Professional Scrum
-- Product Delivery
-- Agile Transformation
 categories:
 - Social Technologies
 preview: nkdagility-scrum-and-kanban-1900-2-1.png

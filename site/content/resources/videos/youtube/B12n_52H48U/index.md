@@ -40,9 +40,6 @@ tags:
 - Scrum Product Development
 - Accountability
 - Agile Strategy
-- Market Adaptability
-- Organisational Agility
-- Sensemaking
 resourceTypes:
 - video
 categories:

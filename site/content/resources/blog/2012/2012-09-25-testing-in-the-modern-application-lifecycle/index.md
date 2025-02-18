@@ -28,20 +28,10 @@ tags:
 - Product Delivery
 - Value Delivery
 - Working Software
-- Engineering Practices
-- Practical Techniques and Tooling
 - Products and Books
 - Team Collaboration
-- Technical Excellence
-- Operational Practices
-- Pragmatic Thinking
-- Technical Mastery
-- Azure DevOps
-- Software Developers
-- Test Automation
-- People and Process
-- Metrics and Learning
-- Troubleshooting
+- Engineering Practices
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 preview: metro-test-icon-7-7.png

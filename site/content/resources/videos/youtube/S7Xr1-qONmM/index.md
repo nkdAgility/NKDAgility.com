@@ -36,16 +36,8 @@ tags:
 - Agile Project Management
 - Agile Product Management
 - Product Delivery
-- Software Development
-- Agile Frameworks
-- Team Collaboration
 - Pragmatic Thinking
-- Decision Making
-- Discovery and Learning
-- Empirical Process Control
-- Software Developers
-- Cross Functional Teams
-- Sociotechnical Systems
+- Team Collaboration
 resourceTypes:
 - video
 categories:

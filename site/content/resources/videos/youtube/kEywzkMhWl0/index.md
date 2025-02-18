@@ -34,20 +34,12 @@ tags:
 - Scrum Team
 - Agile Project Management
 - Scrum Master
-- Agile Transformation
-- Agile Leadership
-- Agile Product Management
+- Team Performance
 - Professional Scrum
 - Agile Frameworks
-- Team Performance
-- Software Development
-- Agile Philosophy
-- Resilience and Change
-- Change Management
-- Team Motivation
-- Organisational Change
-- Coaching
-- Mentoring
+- Agile Leadership
+- Agile Transformation
+- Agile Product Management
 resourceTypes:
 - video
 categories:

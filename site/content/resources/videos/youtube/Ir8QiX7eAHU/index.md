@@ -38,8 +38,6 @@ tags:
 - Lean Thinking
 - Agile Project Management
 - Pragmatic Thinking
-- Throughput
-- Lean
 resourceTypes:
 - video
 categories:

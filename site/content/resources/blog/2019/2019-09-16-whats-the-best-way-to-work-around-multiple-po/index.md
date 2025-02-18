@@ -32,28 +32,14 @@ tags:
 - Scrum Team
 - Agile Product Management
 - Product Backlog
-- Agile Product Operating Model
-- Events and Presentations
-- Product Delivery
-- Value Delivery
 - Agile Project Management
+- Value Delivery
 - People and Process
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Transformation
-- Strategy
-- Decision Making
-- Software Developers
-- Agile Strategy
-- Agile Planning
-- Software Development
-- Accountability
-- Technical Leadership
+- Events and Presentations
 categories:
 - Scrum
 - Product Management
 - Leadership
-- Social Technologies
 preview: 495173592-1-1.jpg
 
 ---

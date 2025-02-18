@@ -34,39 +34,9 @@ tags:
 - Agile Leadership
 - Agile Product Management
 - Value Delivery
-- Sociotechnical Systems
-- Empirical Process Control
-- Team Collaboration
-- Enterprise Agility
-- Team Motivation
-- Agile Philosophy
-- Organisational Agility
-- Discovery and Learning
-- Agile Project Management
-- Agile Transformation
-- Agile Frameworks
-- Operational Practices
-- Software Developers
-- Software Development
-- Continuous Learning
-- Change Management
-- Agile Strategy
-- Organisational Change
-- Team Performance
 - Technical Leadership
-- Lean Thinking
-- Beta Codex
-- Self Organisation
-- Organisational Culture
-- Organisational Physics
-- Lean
-- Pragmatic Thinking
-- Lean Product Development
-- Lean Principles
-- Value Stream Management
-- Agile Planning
-- Market Adaptability
-- Personal
+- Team Performance
+- Organisational Change
 resourceTypes:
 - video
 layout: video

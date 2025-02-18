@@ -33,10 +33,6 @@ tags:
 - Software Developers
 - Agile Project Management
 - Agile Philosophy
-- Organisational Agility
-- Agile Transformation
-- Pragmatic Thinking
-- Organisational Culture
 categories:
 - Scrum
 - Social Technologies

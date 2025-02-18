@@ -40,10 +40,6 @@ tags:
 - Mentoring
 - Professional Scrum
 - Team Collaboration
-- Pragmatic Thinking
-- Software Development
-- Technical Leadership
-- Agile Leadership
 resourceTypes:
 - video
 categories:

@@ -29,20 +29,13 @@ tags:
 - Automated Testing
 - Practical Techniques and Tooling
 - Modern Source Control
-- Technical Excellence
-- Application Lifecycle Management
-- Azure Pipelines
-- Azure DevOps
+- Technical Mastery
+- Operational Practices
+- Engineering Practices
 - Continuous Integration
 - Software Development
-- Engineering Practices
-- Operational Practices
-- Technical Mastery
-- Continuous Delivery
-- Product Delivery
-- Software Developers
-- Pragmatic Thinking
-- Working Software
+- Azure Pipelines
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Engineering Excellence

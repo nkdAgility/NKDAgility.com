@@ -37,7 +37,6 @@ tags:
 - Pragmatic Thinking
 - Coaching
 - Value Delivery
-- Agile Transformation
 categories:
 - Social Technologies
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg

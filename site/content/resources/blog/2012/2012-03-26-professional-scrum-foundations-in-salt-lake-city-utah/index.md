@@ -40,19 +40,6 @@ tags:
 - Discovery and Learning
 - Software Developers
 - Team Collaboration
-- Team Performance
-- Self Organisation
-- Pragmatic Thinking
-- Software Development
-- Agile Planning
-- Personal
-- Scrum Team
-- Practical Techniques and Tooling
-- Products and Books
-- Team Motivation
-- Product Delivery
-- Coaching
-- Continuous Learning
 categories:
 - Scrum
 - Social Technologies

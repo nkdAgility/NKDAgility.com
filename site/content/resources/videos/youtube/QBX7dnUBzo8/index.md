@@ -31,30 +31,13 @@ tags:
 - People and Process
 - Resilience and Change
 - Business Agility
-- Agile Philosophy
-- Agile Transformation
-- Enterprise Agility
-- Agile Leadership
-- Organisational Agility
-- Scaling Agility
-- Change Management
-- Agile Strategy
-- Agile Frameworks
 - Organisational Change
+- Agile Frameworks
+- Agile Strategy
+- Change Management
+- Scaling Agility
 - Metrics and Learning
-- Pragmatic Thinking
-- Organisational Culture
-- Organisational Physics
-- Sociotechnical Systems
-- Strategy
-- Systems Thinking
-- Market Adaptability
-- Evidence Based Leadership
-- Personal
-- Complexity Thinking
-- Sensemaking
-- Digital Transformation
-- Operational Practices
+- Agile Leadership
 resourceTypes:
 - video
 categories:

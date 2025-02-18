@@ -36,16 +36,8 @@ tags:
 - Organisational Agility
 - Agile Strategy
 - Agile Project Management
-- Business Agility
-- Enterprise Agility
-- Evidence Based Management
-- Technical Leadership
 - Agile Transformation
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Strategy
-- Organisational Change
-- Operational Practices
+- Technical Leadership
 resourceTypes:
 - video
 categories:

@@ -38,21 +38,6 @@ tags:
 - Hypothesis Driven Development
 - Continuous Learning
 - Lean Product Development
-- Team Collaboration
-- Agile Product Management
-- Metrics and Learning
-- Agile Product Operating Model
-- Practical Techniques and Tooling
-- Evidence Based Leadership
-- Ability to Innovate
-- Business Agility
-- Organisational Agility
-- Evidence Based Management
-- Decision Making
-- Lean Principles
-- Agile Philosophy
-- Lean Startup
-- Operational Practices
 resourceTypes:
 - video
 categories:

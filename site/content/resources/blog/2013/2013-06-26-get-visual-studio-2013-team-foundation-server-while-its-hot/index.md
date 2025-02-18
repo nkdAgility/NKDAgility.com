@@ -34,24 +34,8 @@ tags:
 - Portfolio Management
 - Agile Planning Tools
 - Collaboration Tools
-- News and Reviews
-- Software Developers
-- Agile Planning
-- Products and Books
-- Practical Techniques and Tooling
-- Agile Strategy
-- Azure Boards
 - Application Lifecycle Management
-- Azure DevOps
-- Software Development
-- Team Performance
-- Working Software
-- Scrum Product Development
-- Value Delivery
-- Agile Product Operating Model
-- Agile Frameworks
-- Agile Transformation
-- Pragmatic Thinking
+- Azure Boards
 categories:
 - Social Technologies
 - Scrum

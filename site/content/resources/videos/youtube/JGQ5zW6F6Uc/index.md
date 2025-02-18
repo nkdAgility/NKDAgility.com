@@ -32,11 +32,6 @@ tags:
 - Software Development
 - Team Performance
 - Team Collaboration
-- Agile Project Management
-- Agile Transformation
-- Pragmatic Thinking
-- Product Owner
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

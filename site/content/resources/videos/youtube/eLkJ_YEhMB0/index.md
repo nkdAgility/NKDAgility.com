@@ -32,20 +32,12 @@ tags:
 - Agile Project Management
 - Daily Scrum
 - People and Process
-- Value Delivery
-- Agile Philosophy
-- Agile Product Management
-- Team Collaboration
-- Pragmatic Thinking
-- Scrum Master
-- Team Performance
-- Scrum Product Development
-- Agile Frameworks
 - Agile Transformation
-- Software Developers
-- Software Development
-- Agile Planning
-- Professional Scrum
+- Agile Frameworks
+- Scrum Product Development
+- Team Performance
+- Scrum Master
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

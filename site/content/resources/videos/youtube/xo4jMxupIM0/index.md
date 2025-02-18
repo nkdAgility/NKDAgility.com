@@ -37,16 +37,7 @@ tags:
 - Team Collaboration
 - Pragmatic Thinking
 - Events and Presentations
-- Agile Frameworks
-- Team Performance
 - Coaching
-- Metrics and Learning
-- Software Development
-- Scrum Team
-- Agile Product Management
-- Agile Philosophy
-- Empirical Process Control
-- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

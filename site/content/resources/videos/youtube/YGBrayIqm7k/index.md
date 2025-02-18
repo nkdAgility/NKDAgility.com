@@ -31,22 +31,13 @@ tags:
 - Agile Product Management
 - Strategy
 - Ability to Innovate
-- People and Process
-- Agile Strategy
-- Value Delivery
-- Agile Product Operating Model
-- Strategic Goals
-- Product Delivery
-- Product Strategy
-- Metrics and Learning
 - Agile Project Management
-- Decision Making
-- Evidence Based Leadership
-- Pragmatic Thinking
-- Product Validation
-- Working Software
-- Evidence Based Management
-- Product Discovery
+- Metrics and Learning
+- Product Delivery
+- Strategic Goals
+- Product Strategy
+- Value Delivery
+- Agile Strategy
 resourceTypes:
 - video
 categories:

@@ -36,12 +36,6 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Product Delivery
-- Strategy
-- Pragmatic Thinking
-- Agile Strategy
-- Software Developers
-- Digital Transformation
-- Operational Practices
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png

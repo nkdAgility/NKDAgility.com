@@ -32,7 +32,6 @@ tags:
 - Software Development
 - Organisational Agility
 - Pragmatic Thinking
-- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

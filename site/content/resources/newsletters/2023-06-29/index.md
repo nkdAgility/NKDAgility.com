@@ -29,7 +29,6 @@ tags:
 - Organisational Agility
 - Agile Strategy
 - Software Development
-- Pragmatic Thinking
 
 ---
 Dear NKD Agilists!

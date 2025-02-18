@@ -30,11 +30,11 @@ aliasesFor404:
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
 tags:
-- Business Agility
-- People and Process
-- Ability to Innovate
 - Organisational Physics
+- People and Process
+- Business Agility
 - Sociotechnical Systems
+- Ability to Innovate
 - Digital Transformation
 - Miscellaneous
 categories: []

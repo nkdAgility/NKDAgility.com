@@ -31,22 +31,13 @@ tags:
 - People and Process
 - Agile Project Management
 - Agile Product Management
-- Agile Strategy
-- Agile Frameworks
-- Agile Planning
-- Working Software
-- Scrum Product Development
-- Agile Transformation
-- Agile Philosophy
-- Product Delivery
 - Value Delivery
-- Software Development
-- Software Developers
-- Pragmatic Thinking
-- Agile Values and Principles
-- Technical Debt
-- Increment
-- Complexity Thinking
+- Product Delivery
+- Agile Transformation
+- Scrum Product Development
+- Agile Philosophy
+- Agile Planning
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

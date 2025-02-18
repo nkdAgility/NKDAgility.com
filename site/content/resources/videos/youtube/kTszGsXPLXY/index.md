@@ -38,8 +38,6 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
-- Flow Efficiency
-- Throughput
 resourceTypes:
 - video
 categories:

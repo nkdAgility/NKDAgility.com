@@ -32,9 +32,6 @@ tags:
 - Agile Leadership
 - Enterprise Agility
 - Team Motivation
-- Agile Philosophy
-- Pragmatic Thinking
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

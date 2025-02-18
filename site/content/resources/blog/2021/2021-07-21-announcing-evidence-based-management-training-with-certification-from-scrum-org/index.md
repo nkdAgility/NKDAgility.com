@@ -36,23 +36,12 @@ tags:
 - People and Process
 - Ability to Innovate
 - Events and Presentations
-- Agile Frameworks
-- Strategic Goals
-- Agile Strategy
-- News and Reviews
-- Value Delivery
 - Products and Books
-- Strategy
-- Pragmatic Thinking
-- Decision Making
-- Empirical Process Control
-- Agile Product Management
-- Agile Transformation
+- Value Delivery
 categories:
 - Leadership
 - Social Technologies
 - Scrum
-- Product Management
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

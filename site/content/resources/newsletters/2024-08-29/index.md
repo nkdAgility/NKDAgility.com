@@ -30,9 +30,6 @@ tags:
 - Practical Techniques and Tooling
 - Product Owner
 - Customer Satisfaction
-- Product Delivery
-- Experimentation
-- Value Delivery
 
 ---
 **Dear Innovators and Product Enthusiasts,**

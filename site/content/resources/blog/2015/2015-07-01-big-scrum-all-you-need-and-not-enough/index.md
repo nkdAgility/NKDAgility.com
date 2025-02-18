@@ -32,22 +32,10 @@ tags:
 - Events and Presentations
 - Scaling Scrum
 - People and Process
-- Team Performance
-- Organisational Agility
-- Value Delivery
-- Scaled Agile
-- Scrum Product Development
-- Agile Frameworks
-- Software Developers
 - Software Development
-- Product Delivery
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Strategy
-- Agile Project Management
-- Agile Product Management
-- Strategy
-- Enterprise Agility
+- Software Developers
+- Agile Frameworks
+- Scrum Product Development
 categories:
 - Scrum
 - Social Technologies

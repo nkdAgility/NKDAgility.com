@@ -38,25 +38,6 @@ tags:
 - Pragmatic Thinking
 - Discovery and Learning
 - Evidence Based Management
-- Organisational Physics
-- Agile Strategy
-- Decision Making
-- Organisational Agility
-- Strategy
-- Agile Leadership
-- Technical Leadership
-- Products and Books
-- Trend Analysis
-- Organisational Change
-- Business Agility
-- Strategic Goals
-- Sensemaking
-- Sociotechnical Systems
-- Agile Project Management
-- Enterprise Agility
-- Value Delivery
-- Organisational Culture
-- Operational Practices
 resourceTypes:
 - video
 categories:

@@ -35,17 +35,9 @@ tags:
 - People and Process
 - Software Developers
 - Technical Leadership
-- Pragmatic Thinking
-- Software Development
-- Self Organisation
 - Agile Frameworks
-- Sociotechnical Systems
-- Technical Debt
-- Scrum Product Development
-- Team Collaboration
-- Team Performance
-- Agile Planning
-- Agile Transformation
+- Self Organisation
+- Software Development
 resourceTypes:
 - video
 categories:

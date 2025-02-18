@@ -38,11 +38,6 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Scrum Product Development
-- Professional Scrum
-- Agile Philosophy
-- Discovery and Learning
-- Continuous Learning
-- Decision Making
 resourceTypes:
 - video
 categories:

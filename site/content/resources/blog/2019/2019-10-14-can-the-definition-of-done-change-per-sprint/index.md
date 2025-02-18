@@ -33,21 +33,9 @@ tags:
 - Scrum Team
 - Agile Product Management
 - Agile Project Management
-- Professional Scrum
-- Product Delivery
-- People and Process
-- Scrum Master
-- Team Performance
-- Software Development
 - Value Delivery
-- Empirical Process Control
-- Working Software
-- Software Developers
-- Agile Planning
-- Agile Transformation
-- Pragmatic Thinking
-- Agile Frameworks
-- Operational Practices
+- Software Development
+- Team Performance
 categories:
 - Scrum
 - Engineering Excellence

@@ -32,7 +32,6 @@ tags:
 - Troubleshooting
 - Operational Practices
 - Application Lifecycle Management
-- Azure Pipelines
 preview: metro-SSWLogo-128-link-6-6.png
 categories:
 - DevOps

@@ -36,8 +36,6 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Technical Excellence
-- Pragmatic Thinking
-- Cycle Time
 categories:
 - Product Management
 preview: metro-requirements-icon-14-14.png

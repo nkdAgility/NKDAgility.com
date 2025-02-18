@@ -33,9 +33,6 @@ tags:
 - Product Discovery
 - Discovery and Learning
 - Decision Making
-- Entrepreneurship
-- Pragmatic Thinking
-- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

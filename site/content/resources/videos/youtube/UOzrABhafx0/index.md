@@ -38,10 +38,6 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Planning
-- Agile Planning Tools
-- Backlog Refinement
-- Value Delivery
-- Product Delivery
 resourceTypes:
 - video
 categories:

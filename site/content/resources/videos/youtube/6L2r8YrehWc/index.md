@@ -26,20 +26,12 @@ tags:
 - People and Process
 - Scrum Team
 - Scrum Master
-- Pragmatic Thinking
-- Team Collaboration
-- Agile Product Management
+- Team Performance
 - Professional Scrum
 - Technical Leadership
-- Team Performance
-- Agile Leadership
-- Coaching
-- Agile Project Management
-- Software Development
-- Agile Frameworks
-- Agile Transformation
-- Sociotechnical Systems
-- Team Motivation
+- Team Collaboration
+- Pragmatic Thinking
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

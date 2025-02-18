@@ -27,40 +27,15 @@ aliasesFor404:
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
 - Metrics and Learning
-- Organisational Change
-- Scaling Scrum
-- Agile Project Management
-- Enterprise Agility
-- Resilience and Change
-- Large Scale Agility
+- Organisational Agility
+- Software Development
+- Evidence Based Management
+- Change Management
+- Scaling Agility
 - People and Process
 - Organisational Culture
-- Scaling Agility
-- Change Management
-- Evidence Based Management
-- Software Development
-- Organisational Agility
-- Evidence Based Leadership
-- Agile Strategy
-- Scaled Agile
-- Agile Transformation
-- Events and Presentations
-- Products and Books
-- News and Reviews
-- Agile Frameworks
-- Sociotechnical Systems
-- Pragmatic Thinking
-- Business Agility
-- Professional Scrum
-- Agile Leadership
-- Empirical Process Control
-- Ability to Innovate
-- Value Delivery
-- Organisational Physics
-- Operational Practices
-- Decision Making
-- Team Performance
-- Strategy
+- Resilience and Change
+- Enterprise Agility
 categories:
 - Scrum
 - Social Technologies

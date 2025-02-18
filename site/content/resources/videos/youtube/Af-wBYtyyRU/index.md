@@ -34,22 +34,10 @@ tags:
 - Product Delivery
 - Agile Product Management
 - Ability to Innovate
-- Agile Project Management
-- Agile Product Operating Model
-- Product Owner
+- People and Process
 - Decision Making
 - Evidence Based Management
-- People and Process
-- Strategy
-- Evidence Based Leadership
-- Pragmatic Thinking
-- Empirical Process Control
-- Agile Strategy
-- Scrum Product Development
-- Product Strategy
-- Products and Books
-- Business Agility
-- Operational Practices
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

@@ -27,18 +27,11 @@ tags:
 - Agile Product Operating Model
 - People and Process
 - Agile Product Management
-- Agile Frameworks
-- Events and Presentations
 - Continuous Learning
 - Agile Project Management
+- Agile Frameworks
+- Events and Presentations
 - Organisational Agility
-- Team Collaboration
-- Pragmatic Thinking
-- Agile Leadership
-- Agile Transformation
-- Agile Strategy
-- Value Delivery
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

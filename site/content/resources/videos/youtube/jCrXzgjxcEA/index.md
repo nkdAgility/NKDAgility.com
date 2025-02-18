@@ -32,11 +32,6 @@ tags:
 - Lead Time
 - Agile Project Management
 - Cycle Time
-- Agile Frameworks
-- Operational Practices
-- Pragmatic Thinking
-- Install and Configuration
-- Collaboration Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -37,17 +37,9 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Value Delivery
-- Engineering Practices
 - Technical Excellence
+- Engineering Practices
 - Working Software
-- Technical Leadership
-- People and Process
-- Operational Practices
-- Strategy
-- Organisational Agility
-- Deployment Frequency
-- Enterprise Agility
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

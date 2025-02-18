@@ -31,15 +31,8 @@ tags:
 - Sociotechnical Systems
 - Team Performance
 - Software Developers
-- Technical Leadership
-- Business Agility
-- Operational Practices
-- Market Adaptability
 - Agile Product Operating Model
-- Organisational Agility
-- Organisational Physics
-- Strategy
-- Agile Strategy
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

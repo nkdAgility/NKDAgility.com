@@ -38,11 +38,6 @@ tags:
 - Agile Transformation
 - Agile Product Operating Model
 - Pragmatic Thinking
-- Sociotechnical Systems
-- Organisational Physics
-- Organisational Change
-- Business Agility
-- Enterprise Agility
 resourceTypes:
 - video
 categories:

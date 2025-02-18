@@ -34,20 +34,9 @@ tags:
 - People and Process
 - Agile Leadership
 - Agile Project Management
-- Agile Strategy
-- Value Delivery
 - Technical Leadership
 - Pragmatic Thinking
-- Organisational Agility
-- Personal
-- Market Adaptability
-- Business Agility
-- Deployment Frequency
-- Agile Transformation
-- Scaling Agility
-- Software Development
-- Organisational Culture
-- Enterprise Agility
+- Agile Strategy
 resourceTypes:
 - video
 layout: video
@@ -55,7 +44,6 @@ categories:
 - Leadership
 - DevOps
 - Product Management
-- Social Technologies
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of product management - these are the MVPs who redefine the game. 🌟 

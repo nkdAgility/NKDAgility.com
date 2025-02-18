@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-6-6.png
 

@@ -32,9 +32,6 @@ tags:
 - Resilience and Change
 - Transparency and Accountability
 - Organisational Culture
-- Digital Transformation
-- Business Agility
-- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

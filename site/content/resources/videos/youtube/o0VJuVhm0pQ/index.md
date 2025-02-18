@@ -38,23 +38,6 @@ tags:
 - Agile Project Management
 - Agile Frameworks
 - Pragmatic Thinking
-- Evidence Based Leadership
-- Agile Leadership
-- Customer Satisfaction
-- Working Software
-- Agile Values and Principles
-- Ability to Innovate
-- Hypothesis Driven Development
-- Organisational Agility
-- Agile Transformation
-- Market Adaptability
-- Agile Strategy
-- Customer Retention
-- Metrics and Learning
-- Sociotechnical Systems
-- Experimentation
-- Increment
-- Strategy
 resourceTypes:
 - video
 categories:

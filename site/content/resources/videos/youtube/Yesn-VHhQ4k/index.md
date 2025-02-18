@@ -33,18 +33,11 @@ tags:
 - Empirical Process Control
 - Discovery and Learning
 - Scrum Values
-- Agile Transformation
-- Organisational Agility
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Software Development
 - Agile Frameworks
-- Complexity Thinking
-- Pragmatic Thinking
-- Software Developers
-- Continuous Learning
-- Sensemaking
+- Software Development
+- Agile Strategy
+- Agile Project Management
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

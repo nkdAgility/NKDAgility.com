@@ -31,17 +31,7 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Hypothesis Driven Development
-- Experimentation
 - Continuous Learning
-- Metrics and Learning
-- Agile Product Management
-- Organisational Agility
-- Evidence Based Management
-- Practical Techniques and Tooling
-- Ability to Innovate
-- Agile Philosophy
-- Lean Startup
-- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

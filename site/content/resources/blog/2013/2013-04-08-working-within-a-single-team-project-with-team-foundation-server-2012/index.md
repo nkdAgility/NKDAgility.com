@@ -32,12 +32,10 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Agile Planning
-- Working Software
 categories:
 - Scrum
 - Engineering Excellence
 - DevOps
-- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

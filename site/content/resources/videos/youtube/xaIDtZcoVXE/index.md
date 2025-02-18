@@ -38,10 +38,6 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - Flow Efficiency
-- Throughput
-- Operational Practices
-- Lead Time
-- Strategy
 resourceTypes:
 - video
 categories:

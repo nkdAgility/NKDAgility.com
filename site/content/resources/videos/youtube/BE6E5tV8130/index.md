@@ -38,23 +38,6 @@ tags:
 - People and Process
 - Business Agility
 - Empirical Process Control
-- Product Delivery
-- Agile Frameworks
-- Agile Transformation
-- Organisational Agility
-- Agile Strategy
-- Software Development
-- Enterprise Agility
-- Agile Philosophy
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Hypothesis Driven Development
-- Market Adaptability
-- Agile Leadership
-- Working Software
-- Agile Planning
-- Software Developers
-- Frequent Releases
 resourceTypes:
 - video
 categories:

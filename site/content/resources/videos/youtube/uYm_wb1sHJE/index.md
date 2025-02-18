@@ -37,19 +37,9 @@ tags:
 - Scrum Product Development
 - Agile Project Management
 - People and Process
-- Professional Scrum
-- Scrum Master
-- Software Development
-- Agile Frameworks
 - Pragmatic Thinking
-- Practical Techniques and Tooling
-- Team Collaboration
-- Customer Feedback Loops
-- Scrum Team
-- Team Performance
-- Value Delivery
-- Agile Planning
-- Working Software
+- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -32,10 +32,6 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Planning
-- Strategic Goals
-- Value Delivery
-- Agile Project Management
-- Strategy
 categories:
 - Scrum
 - Product Management

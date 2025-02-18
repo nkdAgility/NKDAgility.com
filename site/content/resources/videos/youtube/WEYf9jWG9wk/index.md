@@ -32,8 +32,6 @@ tags:
 - Product Validation
 - Product Discovery
 - Lean Startup
-- Business Agility
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

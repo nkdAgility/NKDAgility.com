@@ -36,15 +36,8 @@ tags:
 - Agile Frameworks
 - Flow Efficiency
 - Practical Techniques and Tooling
-- Operational Practices
-- Pragmatic Thinking
-- Throughput
 - Software Development
-- Agile Project Management
-- Agile Transformation
-- Lean
-- Decision Making
-- Evidence Based Leadership
+- Throughput
 resourceTypes:
 - video
 categories:

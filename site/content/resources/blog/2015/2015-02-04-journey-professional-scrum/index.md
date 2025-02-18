@@ -29,34 +29,13 @@ tags:
 - Scrum Product Development
 - Strategy
 - People and Process
-- Scaling Scrum
-- Professional Scrum
-- Organisational Agility
-- Scaling Agility
-- Product Delivery
-- Agile Product Management
-- Organisational Change
-- Value Delivery
-- Business Agility
-- Software Development
-- Organisational Culture
 - Agile Project Management
-- Agile Frameworks
-- Agile Planning
-- Discovery and Learning
-- Agile Transformation
-- Self Organisation
-- Team Performance
-- Agile Strategy
-- Enterprise Agility
-- Team Collaboration
-- Pragmatic Thinking
-- Software Developers
-- Personal
-- Sociotechnical Systems
-- Market Adaptability
-- Continuous Learning
-- Application Lifecycle Management
+- Organisational Culture
+- Software Development
+- Business Agility
+- Value Delivery
+- Organisational Change
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

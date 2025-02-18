@@ -37,12 +37,6 @@ tags:
 - Technical Leadership
 - Organisational Change
 - People and Process
-- Business Agility
-- Market Adaptability
-- Enterprise Agility
-- Mentoring
-- Organisational Agility
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

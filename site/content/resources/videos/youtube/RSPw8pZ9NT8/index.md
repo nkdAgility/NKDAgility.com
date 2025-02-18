@@ -29,18 +29,9 @@ tags:
 - Cycle Time
 - Metrics and Learning
 - Value Delivery
-- Pragmatic Thinking
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Software Development
-- Agile Project Management
-- Estimation
-- Decision Making
-- Agile Frameworks
-- Decision Theory
-- Operational Practices
-- Product Delivery
-- Lean Thinking
+- Flow Efficiency
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

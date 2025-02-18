@@ -32,12 +32,6 @@ tags:
 - Agile Product Management
 - Product Delivery
 - Agile Frameworks
-- Technical Leadership
-- Agile Project Management
-- Pragmatic Thinking
-- Value Delivery
-- Operational Practices
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

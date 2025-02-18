@@ -31,9 +31,6 @@ tags:
 - Agile Product Management
 - Agile Transformation
 - Software Development
-- Pragmatic Thinking
-- Events and Presentations
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

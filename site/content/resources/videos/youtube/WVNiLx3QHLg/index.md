@@ -34,21 +34,12 @@ tags:
 - Agile Leadership
 - Decision Theory
 - People and Process
-- Pragmatic Thinking
-- Employee Engagement
-- Sensemaking
-- Agile Philosophy
-- Team Motivation
-- Sociotechnical Systems
-- Organisational Psychology
-- Agile Strategy
-- Business Agility
-- Organisational Change
-- Organisational Culture
-- Organisational Physics
 - Team Performance
-- Team Collaboration
-- Systems Thinking
+- Organisational Physics
+- Organisational Culture
+- Organisational Change
+- Business Agility
+- Agile Strategy
 resourceTypes:
 - video
 categories:

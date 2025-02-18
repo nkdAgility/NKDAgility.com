@@ -31,15 +31,8 @@ tags:
 - Decision Making
 - Flow Efficiency
 - Team Performance
-- Pragmatic Thinking
-- Software Development
-- Operational Practices
 - Evidence Based Leadership
-- Agile Planning
-- People and Process
-- Practical Techniques and Tooling
-- Evidence Based Management
-- Estimation
+- Operational Practices
 categories:
 - Social Technologies
 - Product Management

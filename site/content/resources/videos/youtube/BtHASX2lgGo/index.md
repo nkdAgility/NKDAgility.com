@@ -32,10 +32,6 @@ tags:
 - Agile Philosophy
 - Product Delivery
 - Agile Transformation
-- Software Development
-- Empirical Process Control
-- Pragmatic Thinking
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

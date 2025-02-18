@@ -33,17 +33,9 @@ tags:
 - Scrum Team
 - Scrum Master
 - Software Development
-- News and Reviews
-- Team Performance
-- Events and Presentations
-- Software Developers
-- Agile Planning
-- Product Delivery
-- Professional Scrum
 - Agile Product Management
-- Pragmatic Thinking
-- Agile Frameworks
-- Agile Transformation
+- Professional Scrum
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

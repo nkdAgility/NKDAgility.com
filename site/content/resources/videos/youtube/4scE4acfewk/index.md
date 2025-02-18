@@ -37,8 +37,6 @@ tags:
 - Metrics and Learning
 - Team Performance
 - Agile Leadership
-- Decision Making
-- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video

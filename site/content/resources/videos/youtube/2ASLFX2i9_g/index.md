@@ -37,10 +37,6 @@ tags:
 - Agile Project Management
 - Software Development
 - Software Developers
-- Pragmatic Thinking
-- Operational Practices
-- Lean Product Development
-- Flow Efficiency
 resourceTypes:
 - video
 layout: video

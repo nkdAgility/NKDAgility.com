@@ -31,29 +31,7 @@ tags:
 - Hypothesis Driven Development
 - Product Strategy
 - Value Delivery
-- Strategy
-- Decision Making
-- Organisational Agility
-- Agile Strategy
-- Agile Philosophy
-- Strategic Goals
-- Evidence Based Leadership
-- Pragmatic Thinking
 - Sociotechnical Systems
-- Ability to Innovate
-- Products and Books
-- Agile Project Management
-- Team Collaboration
-- Evidence Based Management
-- Product Discovery
-- Team Motivation
-- Product Owner
-- Business Agility
-- Organisational Change
-- Organisational Physics
-- Sensemaking
-- Enterprise Agility
-- Experimentation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

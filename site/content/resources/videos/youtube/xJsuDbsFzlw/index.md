@@ -31,17 +31,7 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - People and Process
-- Software Developers
-- Product Delivery
-- Team Collaboration
-- Scrum Master
-- Pragmatic Thinking
-- Team Performance
-- Software Development
-- Scrum Product Development
 - Professional Scrum
-- Practical Techniques and Tooling
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

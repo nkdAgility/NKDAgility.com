@@ -37,12 +37,6 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Team Collaboration
-- Agile Project Management
-- Agile Philosophy
-- Organisational Culture
-- Enterprise Agility
-- Personal
 resourceTypes:
 - video
 layout: video

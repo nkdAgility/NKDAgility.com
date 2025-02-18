@@ -32,7 +32,6 @@ tags:
 - Software Developers
 - Pragmatic Thinking
 - Operational Practices
-- Agile Transformation
 categories:
 - Social Technologies
 

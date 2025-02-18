@@ -28,18 +28,10 @@ tags:
 - Practical Techniques and Tooling
 - Product Delivery
 - Platform Engineering
+- Technical Mastery
+- Software Developers
 - Operational Practices
 - Technical Excellence
-- Software Developers
-- Technical Mastery
-- Pragmatic Thinking
-- Azure DevOps
-- Frequent Releases
-- Digital Transformation
-- Windows
-- Products and Books
-- Test Automation
-- Continuous Delivery
 categories:
 - Engineering Excellence
 - DevOps

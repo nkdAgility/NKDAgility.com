@@ -32,11 +32,6 @@ tags:
 - Working Software
 - Agile Product Management
 - Operational Practices
-- Agile Frameworks
-- Agile Planning
-- Software Developers
-- Agile Project Management
-- Pragmatic Thinking
 categories:
 - Scrum
 - Engineering Excellence

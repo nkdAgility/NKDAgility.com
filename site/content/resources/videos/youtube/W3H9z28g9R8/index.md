@@ -38,21 +38,6 @@ tags:
 - Organisational Physics
 - Organisational Culture
 - Organisational Agility
-- Organisational Change
-- Beta Codex
-- Agile Strategy
-- Accountability
-- Agile Leadership
-- Business Agility
-- Self Organisation
-- Value Delivery
-- Sensemaking
-- Team Collaboration
-- Enterprise Agility
-- Team Motivation
-- Personal
-- Decision Theory
-- Organisational Psychology
 resourceTypes:
 - video
 categories:

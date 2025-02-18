@@ -31,22 +31,11 @@ tags:
 - Scrum Team
 - Software Development
 - Practical Techniques and Tooling
-- People and Process
-- Metrics and Learning
-- Agile Project Management
-- Agile Product Management
+- Team Performance
+- Professional Scrum
 - Software Developers
 - Agile Planning
-- Professional Scrum
-- Team Performance
-- Forecasting
-- Agile Frameworks
-- Agile Transformation
-- Pragmatic Thinking
-- Empirical Process Control
-- Agile Planning Tools
-- Scrum Master
-- Estimation
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

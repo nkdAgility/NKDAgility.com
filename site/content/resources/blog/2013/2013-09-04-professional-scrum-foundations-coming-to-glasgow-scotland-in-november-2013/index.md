@@ -40,8 +40,6 @@ tags:
 - Products and Books
 - Agile Transformation
 - Software Developers
-- Organisational Change
-- Working Software
 categories:
 - Scrum
 - Social Technologies

@@ -37,11 +37,6 @@ tags:
 - Software Development
 - Agile Project Management
 - Increment
-- Value Delivery
-- Software Developers
-- Agile Product Management
-- Empirical Process Control
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

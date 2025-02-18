@@ -38,8 +38,6 @@ tags:
 - Azure DevOps
 - Technical Mastery
 - Technical Excellence
-- Troubleshooting
-- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

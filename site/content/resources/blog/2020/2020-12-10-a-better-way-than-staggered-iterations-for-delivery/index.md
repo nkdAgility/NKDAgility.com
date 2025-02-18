@@ -25,43 +25,14 @@ aliasesFor404:
 tags:
 - Test First Development
 - Increment
-- Software Developers
-- Working Software
-- Empirical Process Control
-- Value Delivery
-- Scrum Team
+- Business Agility
+- Scrum Product Development
+- Cycle Time
 - People and Process
 - Software Development
-- Cycle Time
-- Scrum Product Development
-- Business Agility
-- Cross Functional Teams
-- Professional Scrum
-- Practical Techniques and Tooling
-- Team Collaboration
-- Team Performance
-- Organisational Agility
-- Agile Product Operating Model
-- Technical Excellence
-- Product Delivery
-- Technical Mastery
-- Technical Leadership
-- Deployment Frequency
-- Agile Transformation
-- Pragmatic Thinking
-- Flow Efficiency
-- Throughput
-- Market Adaptability
-- Agile Project Management
-- Agile Planning
-- Engineering Practices
-- Self Organisation
-- Agile Frameworks
-- Agile Product Management
-- Operational Practices
-- Agile Strategy
-- Continuous Delivery
-- Frequent Releases
+- Value Delivery
+- Empirical Process Control
+- Working Software
 categories:
 - Scrum
 - Social Technologies

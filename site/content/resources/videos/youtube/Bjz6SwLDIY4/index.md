@@ -38,10 +38,6 @@ tags:
 - Enterprise Agility
 - Agile Philosophy
 - Beta Codex
-- Organisational Physics
-- Agile Strategy
-- Sensemaking
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

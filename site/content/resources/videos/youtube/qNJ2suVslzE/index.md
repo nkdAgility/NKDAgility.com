@@ -26,27 +26,13 @@ tags:
 - Agile Product Operating Model
 - Agile Product Management
 - Agile Values and Principles
-- Market Adaptability
-- Product Delivery
-- Agile Philosophy
-- Agile Transformation
-- People and Process
-- Agile Project Management
-- Software Developers
-- Agile Strategy
-- Software Development
-- Agile Frameworks
-- Value Delivery
 - Agile Planning
-- Business Agility
-- Strategy
-- Organisational Agility
-- Pragmatic Thinking
-- Lean Product Development
-- Working Software
-- Product Owner
-- Empirical Process Control
-- Operational Practices
+- Value Delivery
+- Agile Frameworks
+- Agile Strategy
+- Software Developers
+- Software Development
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

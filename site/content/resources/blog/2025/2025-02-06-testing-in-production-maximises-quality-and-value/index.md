@@ -33,12 +33,6 @@ tags:
 - Software Developers
 - Technical Excellence
 - Frequent Releases
-- Practical Techniques and Tooling
-- Deployment Frequency
-- Operational Practices
-- Market Adaptability
-- Pragmatic Thinking
-- Strategy
 categories:
 - DevOps
 - Engineering Excellence

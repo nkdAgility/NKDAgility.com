@@ -36,24 +36,8 @@ tags:
 - Agile Leadership
 - Business Agility
 - Agile Frameworks
-- Organisational Change
-- Self Organisation
-- Decision Making
-- Agile Transformation
-- Agile Philosophy
-- Enterprise Agility
-- Organisational Physics
-- Organisational Culture
 - Agile Strategy
-- Team Motivation
-- Sociotechnical Systems
-- Pragmatic Thinking
-- Beta Codex
-- Software Development
-- Transparency and Accountability
-- Value Delivery
-- Decision Theory
-- Sensemaking
+- Organisational Culture
 resourceTypes:
 - video
 categories:

@@ -38,10 +38,6 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Planning
-- Agile Project Management
-- Pragmatic Thinking
-- Software Developers
-- Product Delivery
 resourceTypes:
 - video
 categories:

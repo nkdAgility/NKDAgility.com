@@ -29,24 +29,8 @@ tags:
 - Customer Feedback Loops
 - Organisational Agility
 - Team Collaboration
-- Agile Transformation
-- Agile Frameworks
-- Pragmatic Thinking
-- Software Development
-- Empirical Process Control
-- Agile Project Management
 - Software Developers
-- Scrum Team
-- Metrics and Learning
-- Scrum Product Development
-- Agile Planning
-- Market Adaptability
-- Agile Product Management
-- Technical Leadership
-- Mentoring
-- Product Delivery
-- Value Delivery
-- Operational Practices
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

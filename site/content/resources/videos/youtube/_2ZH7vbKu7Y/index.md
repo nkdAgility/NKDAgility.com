@@ -35,27 +35,11 @@ tags:
 - Resilience and Change
 - Discovery and Learning
 - Continuous Learning
-- Team Motivation
-- Agile Leadership
-- Pragmatic Thinking
-- Team Collaboration
-- Technical Leadership
-- Change Management
 - Team Performance
+- Change Management
+- Technical Leadership
 - Organisational Change
-- Sociotechnical Systems
-- Organisational Agility
-- Organisational Physics
-- Organisational Culture
-- Agile Philosophy
-- Organisational Psychology
-- Psychological Safety
-- Enterprise Agility
-- Ability to Innovate
-- Business Agility
-- Mentoring
-- Employee Engagement
-- Coaching
+- Pragmatic Thinking
 categories:
 - Leadership
 

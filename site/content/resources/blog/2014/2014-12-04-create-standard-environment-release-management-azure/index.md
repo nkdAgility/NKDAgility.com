@@ -36,11 +36,6 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Software Development
-- Product Delivery
-- System Configuration
-- Pragmatic Thinking
-- Operational Practices
-- Continuous Delivery
 categories:
 - DevOps
 preview: nakedalm-windows-logo-16-16.png

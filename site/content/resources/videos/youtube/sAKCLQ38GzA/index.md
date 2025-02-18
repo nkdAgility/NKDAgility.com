@@ -38,9 +38,6 @@ tags:
 - Agile Strategy
 - Organisational Physics
 - Organisational Psychology
-- Sociotechnical Systems
-- Organisational Change
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

@@ -35,31 +35,9 @@ tags:
 - People and Process
 - Value Delivery
 - Agile Product Operating Model
-- Pragmatic Thinking
-- Agile Project Management
-- Agile Transformation
-- Lean Product Development
-- Software Developers
-- Lean Thinking
-- Value Stream Management
-- Team Performance
-- Software Development
-- Agile Philosophy
-- Agile Frameworks
 - Agile Strategy
-- Throughput
-- Organisational Agility
-- Operational Practices
-- Continuous Learning
-- Personal
-- Organisational Culture
-- Agile Leadership
-- Team Motivation
-- Discovery and Learning
-- Lean
-- Sociotechnical Systems
-- Business Agility
-- Lean Principles
+- Agile Frameworks
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

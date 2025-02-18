@@ -36,16 +36,8 @@ tags:
 - Agile Project Management
 - Market Adaptability
 - Value Delivery
-- Organisational Agility
-- Business Agility
 - Pragmatic Thinking
-- Agile Leadership
-- Agile Strategy
-- Agile Planning
-- Product Delivery
-- Discovery and Learning
-- Customer Feedback Loops
-- Customer Satisfaction
+- Organisational Agility
 resourceTypes:
 - video
 categories:

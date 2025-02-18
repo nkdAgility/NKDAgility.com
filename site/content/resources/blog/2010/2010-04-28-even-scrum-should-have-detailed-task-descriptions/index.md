@@ -32,8 +32,6 @@ tags:
 - Definition of Ready
 - Team Collaboration
 - Software Developers
-- Pragmatic Thinking
-- Transparency
 categories:
 - Scrum
 - Social Technologies

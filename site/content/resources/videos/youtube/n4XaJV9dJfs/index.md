@@ -32,12 +32,6 @@ tags:
 - Complexity Thinking
 - Agile Project Management
 - Agile Transformation
-- Transparency and Accountability
-- Software Development
-- Empirical Process Control
-- Product Backlog
-- Sensemaking
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

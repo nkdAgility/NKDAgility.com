@@ -30,21 +30,9 @@ tags:
 - Decision Making
 - Agile Product Management
 - People and Process
-- Evidence Based Management
-- Agile Product Operating Model
-- Practical Techniques and Tooling
-- Product Delivery
-- Agile Project Management
-- Software Development
-- Evidence Based Leadership
 - Value Delivery
-- Strategy
-- Agile Strategy
-- Operational Practices
-- Throughput
-- Lean Product Development
-- Agile Planning
-- Agile Frameworks
+- Evidence Based Leadership
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

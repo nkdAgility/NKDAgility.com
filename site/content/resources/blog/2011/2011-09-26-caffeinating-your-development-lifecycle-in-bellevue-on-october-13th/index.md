@@ -27,7 +27,6 @@ categories:
 - Product Management
 - Engineering Excellence
 - DevOps
-- Social Technologies
 preview: metro-nwc-128-link-3-3.png
 
 ---

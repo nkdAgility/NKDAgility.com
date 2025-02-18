@@ -31,9 +31,6 @@ tags:
 - Operational Practices
 - Software Development
 - Software Developers
-- Value Delivery
-- Pragmatic Thinking
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

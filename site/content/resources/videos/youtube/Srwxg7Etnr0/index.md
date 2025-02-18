@@ -38,9 +38,6 @@ tags:
 - Agile Product Management
 - Agile Frameworks
 - Software Development
-- Agile Project Management
-- Team Performance
-- Software Developers
 resourceTypes:
 - video
 categories:

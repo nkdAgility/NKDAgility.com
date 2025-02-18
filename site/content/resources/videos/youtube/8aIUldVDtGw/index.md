@@ -37,28 +37,7 @@ tags:
 - Lean Thinking
 - Scrum Product Development
 - Cycle Time
-- Pragmatic Thinking
-- Lean Principles
-- Agile Project Management
-- Flow Efficiency
-- Team Collaboration
-- Value Delivery
-- Product Delivery
 - Team Performance
-- Operational Practices
-- Agile Frameworks
-- Agile Strategy
-- Software Development
-- Agile Planning
-- Scrum Team
-- Product Owner
-- Software Developers
-- Agile Product Operating Model
-- Professional Scrum
-- Scrum Master
-- Organisational Physics
-- Organisational Agility
-- Agile Transformation
 resourceTypes:
 - video
 categories:

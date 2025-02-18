@@ -35,20 +35,11 @@ tags:
 - People and Process
 - Backlog Refinement
 - Product Backlog
+- Agile Product Management
+- Team Performance
+- Scrum Team
 - Product Delivery
 - Agile Planning Tools
-- Team Performance
-- Agile Product Management
-- Scrum Team
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Project Management
-- Professional Scrum
-- Scrum Master
-- Software Developers
-- Software Development
-- Definition of Ready
 resourceTypes:
 - video
 categories:

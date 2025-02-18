@@ -41,9 +41,6 @@ tags:
 - Operational Practices
 - Agile Frameworks
 - Technical Excellence
-- Agile Project Management
-- Pragmatic Thinking
-- Working Software
 
 ---
 branching-for-each-sprint

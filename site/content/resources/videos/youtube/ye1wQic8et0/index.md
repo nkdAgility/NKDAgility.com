@@ -32,12 +32,6 @@ tags:
 - Value Delivery
 - Enterprise Agility
 - Organisational Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Flow Efficiency
-- Operational Practices
-- Organisational Change
-- Entrepreneurship
 sitemap:
   filename: sitemap.xml
   priority: 0.6

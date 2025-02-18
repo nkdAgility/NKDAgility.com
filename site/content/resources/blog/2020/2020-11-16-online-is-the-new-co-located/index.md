@@ -32,7 +32,6 @@ tags:
 - Team Performance
 - Collaboration Tools
 - Personal
-- Sociotechnical Systems
 categories:
 - Social Technologies
 preview: image-21-3-3.png

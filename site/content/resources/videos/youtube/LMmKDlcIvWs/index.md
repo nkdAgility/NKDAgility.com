@@ -38,9 +38,6 @@ tags:
 - Lean Thinking
 - Pragmatic Thinking
 - Operational Practices
-- Lean Principles
-- Continuous Learning
-- Software Development
 resourceTypes:
 - video
 categories:

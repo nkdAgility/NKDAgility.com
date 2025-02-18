@@ -38,19 +38,6 @@ tags:
 - Business Agility
 - Agile Philosophy
 - Enterprise Agility
-- Sociotechnical Systems
-- Beta Codex
-- Organisational Culture
-- Organisational Physics
-- Pragmatic Thinking
-- Resilience and Change
-- Agile Values and Principles
-- Agile Leadership
-- Scaling Agility
-- Digital Transformation
-- Strategic Goals
-- Strategy
-- Software Development
 resourceTypes:
 - video
 categories:

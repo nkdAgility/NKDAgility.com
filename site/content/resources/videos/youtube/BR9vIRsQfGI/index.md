@@ -33,8 +33,6 @@ tags:
 - Agile Product Management
 - Scrum Team
 - Mentoring
-- Product Delivery
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4

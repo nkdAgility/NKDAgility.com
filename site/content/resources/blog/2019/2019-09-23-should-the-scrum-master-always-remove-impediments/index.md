@@ -36,10 +36,6 @@ tags:
 - Team Collaboration
 - Pragmatic Thinking
 - Agile Frameworks
-- Software Development
-- Agile Project Management
-- Self Organisation
-- Coaching
 categories:
 - Scrum
 - Social Technologies

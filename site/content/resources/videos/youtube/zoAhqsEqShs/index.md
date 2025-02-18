@@ -34,28 +34,10 @@ tags:
 - Agile Transformation
 - People and Process
 - Agile Project Management
-- Agile Frameworks
-- Enterprise Agility
-- Team Collaboration
-- Organisational Change
-- Agile Philosophy
-- Organisational Agility
 - Agile Strategy
+- Organisational Agility
+- Agile Philosophy
 - Team Motivation
-- Pragmatic Thinking
-- Personal
-- Organisational Culture
-- Coaching
-- Agile Leadership
-- Continuous Learning
-- Discovery and Learning
-- Business Agility
-- Value Delivery
-- Product Delivery
-- Digital Transformation
-- Team Performance
-- Market Adaptability
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

@@ -29,43 +29,9 @@ tags:
 - Agile Project Management
 - Agile Product Management
 - Empirical Process Control
-- Software Developers
-- Customer Feedback Loops
-- Software Development
-- Agile Planning
-- Team Collaboration
-- Product Delivery
-- Agile Transformation
-- Product Validation
-- Value Delivery
-- Agile Frameworks
-- Agile Philosophy
-- Team Performance
 - Agile Strategy
-- Market Adaptability
-- Pragmatic Thinking
-- Operational Practices
-- Organisational Culture
-- Organisational Agility
-- Continuous Learning
-- Business Agility
-- Organisational Physics
-- Scrum Product Development
-- Organisational Change
-- Accountability
-- Deployment Frequency
-- Transparency and Accountability
-- Self Organisation
-- Agile Product Operating Model
-- Agile Leadership
-- Technical Leadership
-- Metrics and Learning
-- Discovery and Learning
-- Team Motivation
-- Transparency
-- Professional Scrum
-- Flow Efficiency
-- Strategy
+- Team Performance
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

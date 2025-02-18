@@ -34,24 +34,10 @@ tags:
 - Agile Leadership
 - People and Process
 - Business Agility
-- Agile Philosophy
-- Organisational Agility
-- Agile Strategy
-- Agile Transformation
-- Market Adaptability
-- Software Development
 - Enterprise Agility
-- Organisational Culture
-- Organisational Change
-- Scaling Agility
-- Sociotechnical Systems
-- Software Developers
-- Pragmatic Thinking
-- Decision Making
-- Technical Leadership
-- Change Management
-- Resilience and Change
-- Beta Codex
+- Market Adaptability
+- Agile Transformation
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -33,33 +33,11 @@ tags:
 - Sprint Review
 - People and Process
 - Agile Product Management
-- Transparency and Accountability
-- Agile Project Management
-- Team Collaboration
-- Agile Philosophy
-- Value Delivery
-- Agile Transformation
-- Scrum Team
-- Team Performance
-- Employee Engagement
-- Agile Planning
-- Agile Frameworks
-- Organisational Culture
-- Team Motivation
 - Scrum Product Development
-- Transparency
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Scrum Master
-- Psychological Safety
-- Software Development
-- Agile Leadership
-- Product Delivery
-- Organisational Agility
-- Agile Strategy
-- Technical Leadership
-- Software Developers
-- Professional Scrum
+- Team Motivation
+- Organisational Culture
+- Agile Planning
+- Employee Engagement
 resourceTypes:
 - video
 categories:

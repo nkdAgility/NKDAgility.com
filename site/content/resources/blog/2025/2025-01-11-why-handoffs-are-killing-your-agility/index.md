@@ -28,17 +28,10 @@ tags:
 - Cross Functional Teams
 - Product Delivery
 - Organisational Agility
-- Lean Principles
-- Team Performance
-- People and Process
-- Pragmatic Thinking
-- Flow Efficiency
-- Lean
 categories:
 - DevOps
 - Engineering Excellence
 - Social Technologies
-- Product Management
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

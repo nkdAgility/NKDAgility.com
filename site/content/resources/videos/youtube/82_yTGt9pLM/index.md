@@ -29,15 +29,8 @@ tags:
 - Agile Philosophy
 - Organisational Change
 - Pragmatic Thinking
-- Continuous Learning
-- Business Agility
 - Discovery and Learning
-- Enterprise Agility
-- Agile Project Management
-- Value Delivery
-- Scaling Agility
-- Change Management
-- Sociotechnical Systems
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

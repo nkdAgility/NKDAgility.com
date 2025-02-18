@@ -35,18 +35,9 @@ tags:
 - Agile Product Operating Model
 - Product Backlog
 - Agile Project Management
-- Practical Techniques and Tooling
-- Product Owner
-- Agile Frameworks
-- Backlog Refinement
-- Azure Boards
-- Product Delivery
 - Software Development
-- Azure DevOps
-- Troubleshooting
-- Pragmatic Thinking
-- Software Developers
-- Working Software
+- Product Delivery
+- Azure Boards
 categories:
 - Social Technologies
 - Scrum

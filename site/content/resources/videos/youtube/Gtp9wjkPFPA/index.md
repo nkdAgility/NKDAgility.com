@@ -35,7 +35,6 @@ categories:
 - Leadership
 - DevOps
 - Engineering Excellence
-- Social Technologies
 
 ---
 ## DevOps & Agile: Two Sides of the Same Coin 🪙

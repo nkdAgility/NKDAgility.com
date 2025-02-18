@@ -31,7 +31,6 @@ tags:
 - Organisational Agility
 - Value Delivery
 - Agile Leadership
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

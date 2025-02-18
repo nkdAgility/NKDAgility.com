@@ -30,42 +30,12 @@ tags:
 - Empirical Process Control
 - Agile Product Management
 - People and Process
-- Team Collaboration
-- Organisational Change
-- Scaling Agility
-- Agile Project Management
+- Transparency and Accountability
+- Change Management
 - Organisational Agility
 - Agile Values and Principles
-- Change Management
-- Transparency and Accountability
-- Agile Frameworks
-- Agile Transformation
-- Team Motivation
-- Enterprise Agility
-- Discovery and Learning
-- Agile Philosophy
-- Business Agility
-- Software Development
-- Agile Strategy
-- Agile Leadership
-- Software Developers
-- Operational Practices
-- Organisational Culture
-- Value Delivery
-- Team Performance
-- Strategy
-- Market Adaptability
-- Technical Leadership
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Personal
-- Lean Product Development
-- Organisational Physics
-- Resilience and Change
-- Coaching
-- Beta Codex
-- Self Organisation
-- Continuous Learning
+- Scaling Agility
+- Organisational Change
 categories:
 - Leadership
 - Social Technologies

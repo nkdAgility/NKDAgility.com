@@ -31,9 +31,6 @@ tags:
 - Organisational Culture
 - Working Software
 - Product Delivery
-- Organisational Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -31,19 +31,11 @@ tags:
 - Professional Scrum
 - People and Process
 - Scrum Product Development
-- Software Development
-- Team Performance
 - Team Collaboration
 - Events and Presentations
+- Software Development
+- Team Performance
 - Software Developers
-- Agile Transformation
-- Agile Product Management
-- Agile Frameworks
-- Product Delivery
-- Pragmatic Thinking
-- Working Software
-- Cross Functional Teams
-- Agile Planning
 categories:
 - Scrum
 - Social Technologies

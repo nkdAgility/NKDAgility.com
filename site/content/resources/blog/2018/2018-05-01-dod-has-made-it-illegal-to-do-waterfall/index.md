@@ -24,43 +24,14 @@ aliasesFor404:
 tags:
 - People and Process
 - Increment
-- Agile Project Management
-- Enterprise Agility
-- Working Software
-- Business Agility
-- Resilience and Change
-- Empirical Process Control
-- Large Scale Agility
-- Agile Product Operating Model
-- Software Development
-- Scrum Product Development
-- Software Developers
 - Agile Values and Principles
-- Product Delivery
-- Agile Philosophy
-- Practical Techniques and Tooling
-- Frequent Releases
-- Pragmatic Thinking
-- Agile Transformation
-- Sociotechnical Systems
-- Organisational Agility
-- Value Delivery
-- Organisational Change
-- Change Management
-- Agile Strategy
-- Agile Planning
-- Agile Product Management
-- News and Reviews
-- Agile Frameworks
-- Trend Analysis
-- Strategy
-- Deployment Frequency
-- Market Adaptability
-- Digital Transformation
-- Operational Practices
-- Lean Product Development
-- Technical Excellence
-- Lean Principles
+- Software Developers
+- Scrum Product Development
+- Agile Product Operating Model
+- Large Scale Agility
+- Software Development
+- Resilience and Change
+- Business Agility
 categories:
 - Scrum
 - Social Technologies

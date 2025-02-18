@@ -32,10 +32,6 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Technical Mastery
-- Technical Excellence
-- Product Backlog
-- Pragmatic Thinking
-- Agile Project Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum

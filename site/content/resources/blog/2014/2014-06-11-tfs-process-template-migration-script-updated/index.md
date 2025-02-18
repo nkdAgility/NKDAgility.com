@@ -32,9 +32,6 @@ tags:
 - Technical Mastery
 - Technical Excellence
 - Troubleshooting
-- Pragmatic Thinking
-- Agile Frameworks
-- Software Developers
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

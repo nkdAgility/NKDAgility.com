@@ -30,50 +30,13 @@ tags:
 - People and Process
 - Transparency
 - Agile Product Management
-- Software Developers
-- Professional Scrum
-- Agile Project Management
-- Business Agility
-- Value Delivery
-- Scrum Master
-- Transparency and Accountability
-- Organisational Change
-- Organisational Agility
-- Resilience and Change
-- Agile Product Operating Model
-- Events and Presentations
-- Scrum Product Development
-- Change Management
 - Product Delivery
-- Empirical Process Control
-- Evidence Based Management
-- Scaling Agility
-- Enterprise Agility
-- Agile Philosophy
-- Agile Transformation
-- Team Motivation
-- Market Adaptability
-- Team Performance
-- Self Organisation
-- Agile Leadership
-- Organisational Culture
-- Organisational Physics
-- Software Development
-- Team Collaboration
-- Agile Strategy
-- Agile Planning
-- Agile Frameworks
-- Discovery and Learning
-- Digital Transformation
-- Pragmatic Thinking
-- Operational Practices
-- Sociotechnical Systems
-- Coaching
-- Strategy
-- Technical Leadership
-- Continuous Learning
-- Working Software
-- Personal
+- Change Management
+- Scrum Product Development
+- Events and Presentations
+- Resilience and Change
+- Organisational Agility
+- Organisational Change
 categories:
 - Scrum
 - Social Technologies

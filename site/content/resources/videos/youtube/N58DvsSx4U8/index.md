@@ -38,8 +38,6 @@ tags:
 - Personal
 - Pragmatic Thinking
 - Operational Practices
-- Market Adaptability
-- Organisational Agility
 resourceTypes:
 - video
 categories:

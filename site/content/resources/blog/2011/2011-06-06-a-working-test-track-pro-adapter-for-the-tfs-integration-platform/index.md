@@ -32,10 +32,6 @@ tags:
 - Software Developers
 - Technical Excellence
 - Troubleshooting
-- System Configuration
-- Operational Practices
-- Pragmatic Thinking
-- Increment
 categories:
 - Engineering Excellence
 

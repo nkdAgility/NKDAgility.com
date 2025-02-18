@@ -38,14 +38,6 @@ tags:
 - Pragmatic Thinking
 - Agile Leadership
 - Organisational Change
-- Value Delivery
-- Business Agility
-- Agile Frameworks
-- Enterprise Agility
-- Decision Making
-- Organisational Culture
-- Organisational Physics
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

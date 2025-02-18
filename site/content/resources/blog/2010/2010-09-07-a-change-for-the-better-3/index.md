@@ -36,11 +36,6 @@ tags:
 - Mentoring
 - Product Delivery
 - Engineering Practices
-- Agile Transformation
-- Practical Techniques and Tooling
-- Operational Practices
-- Coaching
-- Pragmatic Thinking
 categories:
 - Social Technologies
 - Scrum

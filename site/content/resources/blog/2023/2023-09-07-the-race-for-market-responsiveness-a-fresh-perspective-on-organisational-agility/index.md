@@ -37,10 +37,6 @@ tags:
 - Strategic Goals
 - Strategy
 - Agile Philosophy
-- Pragmatic Thinking
-- People and Process
-- Digital Transformation
-- Trend Analysis
 categories:
 - Leadership
 - Product Management

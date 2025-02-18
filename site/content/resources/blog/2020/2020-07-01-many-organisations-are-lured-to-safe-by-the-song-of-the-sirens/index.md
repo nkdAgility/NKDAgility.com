@@ -32,12 +32,6 @@ tags:
 - Organisational Change
 - People and Process
 - Enterprise Agility
-- Agile Philosophy
-- Organisational Agility
-- Organisational Culture
-- Resilience and Change
-- Organisational Physics
-- Sociotechnical Systems
 categories:
 - Leadership
 - Social Technologies

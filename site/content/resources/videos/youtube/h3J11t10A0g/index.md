@@ -31,19 +31,8 @@ tags:
 - Agile Philosophy
 - People and Process
 - Agile Project Management
-- Pragmatic Thinking
-- Organisational Agility
-- Market Adaptability
-- Complexity Thinking
 - Value Delivery
-- Agile Values and Principles
-- Working Software
-- Continuous Learning
-- Agile Strategy
-- Agile Transformation
-- Agile Planning
-- Business Agility
-- Operational Practices
+- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

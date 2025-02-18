@@ -32,9 +32,6 @@ tags:
 - Continuous Integration
 - System Configuration
 - Azure Pipelines
-- Pragmatic Thinking
-- Operational Practices
-- Troubleshooting
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - Engineering Excellence

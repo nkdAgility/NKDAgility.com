@@ -36,7 +36,6 @@ tags:
 - Software Development
 - Agile Transformation
 - Pragmatic Thinking
-- Technical Leadership
 categories:
 - Scrum
 - Social Technologies

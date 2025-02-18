@@ -38,7 +38,6 @@ tags:
 - Software Development
 - Software Developers
 - Pragmatic Thinking
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

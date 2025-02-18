@@ -22,7 +22,8 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
 isShort: false
-tags: []
+tags:
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.4

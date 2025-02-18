@@ -38,10 +38,6 @@ tags:
 - Pragmatic Thinking
 - Flow Efficiency
 - Throughput
-- Operational Practices
-- Lean Principles
-- Lean
-- Software Developers
 resourceTypes:
 - video
 categories:

@@ -32,7 +32,6 @@ tags:
 - Customer Retention
 - Value Delivery
 - Personal
-- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

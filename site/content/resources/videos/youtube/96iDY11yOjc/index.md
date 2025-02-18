@@ -44,7 +44,6 @@ categories:
 - Scrum
 - Leadership
 - Engineering Excellence
-- Social Technologies
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

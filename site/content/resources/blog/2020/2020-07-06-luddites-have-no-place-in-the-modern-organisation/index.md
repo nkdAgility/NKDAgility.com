@@ -29,18 +29,9 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Business Agility
-- Market Adaptability
 - Change Management
 - Enterprise Agility
-- Agile Strategy
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Agile Transformation
-- Discovery and Learning
-- Technical Leadership
-- Agile Philosophy
-- Organisational Physics
-- Digital Transformation
+- Market Adaptability
 categories:
 - Leadership
 - Social Technologies

@@ -29,17 +29,9 @@ tags:
 - Release Management
 - Azure DevOps
 - Practical Techniques and Tooling
-- Software Development
-- Software Developers
 - News and Reviews
-- Frequent Releases
-- Technical Excellence
-- Technical Mastery
-- Operational Practices
-- Products and Books
-- Deployment Strategies
-- Pragmatic Thinking
-- Continuous Delivery
+- Software Developers
+- Software Development
 categories:
 - DevOps
 - Engineering Excellence

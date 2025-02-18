@@ -37,19 +37,6 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Agile Strategy
-- Software Development
-- Software Developers
-- Value Delivery
-- Market Adaptability
-- Agile Frameworks
-- Agile Transformation
-- Organisational Agility
-- Agile Planning
-- Agile Product Operating Model
-- Product Validation
-- Business Agility
-- People and Process
-- Empirical Process Control
 categories:
 - Social Technologies
 - Product Management

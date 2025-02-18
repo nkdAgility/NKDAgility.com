@@ -35,20 +35,7 @@ tags:
 - Team Performance
 - Technical Mastery
 - Scrum Master
-- People and Process
-- Agile Product Management
-- Value Delivery
 - Technical Leadership
-- Agile Leadership
-- Agile Project Management
-- Agile Frameworks
-- Agile Transformation
-- Pragmatic Thinking
-- Organisational Change
-- Engineering Practices
-- Product Delivery
-- Mentoring
-- Sociotechnical Systems
 categories:
 - Scrum
 preview: 1029723898-1-1.jpg

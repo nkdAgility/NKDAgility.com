@@ -32,10 +32,6 @@ tags:
 - Kanban
 - Operational Practices
 - Strategy
-- Software Development
-- Decision Making
-- Value Delivery
-- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -34,20 +34,8 @@ tags:
 - Practical Techniques and Tooling
 - Software Developers
 - Modern Source Control
-- Pragmatic Thinking
-- Azure Pipelines
-- Operational Practices
-- Continuous Integration
-- Working Software
-- Troubleshooting
-- Engineering Practices
-- Azure DevOps
-- Software Development
-- Accountability
-- Continuous Delivery
 - Technical Excellence
-- Technical Mastery
-- Release Management
+- Continuous Delivery
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence

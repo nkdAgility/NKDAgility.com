@@ -38,9 +38,6 @@ tags:
 - Mentoring
 - Continuous Learning
 - Practical Techniques and Tooling
-- Technical Mastery
-- Team Collaboration
-- Agile Transformation
 resourceTypes:
 - video
 categories:

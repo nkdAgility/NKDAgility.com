@@ -27,18 +27,11 @@ tags:
 - Software Development
 - Software Developers
 - Business Agility
-- Events and Presentations
-- Organisational Agility
 - News and Reviews
 - Market Adaptability
+- Events and Presentations
+- Organisational Agility
 - Digital Transformation
-- Sociotechnical Systems
-- Resilience and Change
-- Agile Transformation
-- Frequent Releases
-- Value Delivery
-- Product Delivery
-- Pragmatic Thinking
 categories:
 - DevOps
 preview: metro-new-normal-icon-28-28.png

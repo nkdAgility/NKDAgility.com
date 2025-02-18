@@ -36,11 +36,6 @@ tags:
 - Agile Frameworks
 - Lean
 - Agile Project Management
-- Pragmatic Thinking
-- Operational Practices
-- People and Process
-- Transparency and Accountability
-- Lean Thinking
 categories:
 - Social Technologies
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg

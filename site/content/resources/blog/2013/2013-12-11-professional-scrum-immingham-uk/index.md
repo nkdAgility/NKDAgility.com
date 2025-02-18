@@ -37,20 +37,9 @@ tags:
 - Product Delivery
 - Scrum Team
 - Cross Functional Teams
-- Team Performance
-- Team Collaboration
+- People and Process
 - Events and Presentations
 - Agile Product Management
-- People and Process
-- Agile Transformation
-- Organisational Agility
-- Agile Project Management
-- Pragmatic Thinking
-- Agile Frameworks
-- Personal
-- Sociotechnical Systems
-- Team Motivation
-- Self Organisation
 categories:
 - Scrum
 - Social Technologies

@@ -20,7 +20,11 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
 isShort: false
-tags: []
+tags:
+- Events and Presentations
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

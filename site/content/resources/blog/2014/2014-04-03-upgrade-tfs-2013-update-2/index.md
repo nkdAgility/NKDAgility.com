@@ -36,12 +36,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
-- Modern Source Control
-- Technical Excellence
-- Product Delivery
-- Frequent Releases
-- Working Software
-- Pragmatic Thinking
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

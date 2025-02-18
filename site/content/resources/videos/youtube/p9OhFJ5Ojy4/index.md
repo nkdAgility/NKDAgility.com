@@ -22,7 +22,11 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
-tags: []
+tags:
+- Agile Philosophy
+- Organisational Agility
+- Change Management
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4

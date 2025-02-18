@@ -29,23 +29,10 @@ tags:
 - Azure DevOps
 - Working Software
 - People and Process
-- Software Development
-- Value Delivery
-- Engineering Practices
-- Practical Techniques and Tooling
+- Deployment Frequency
+- Deployment Strategies
 - Software Developers
 - Technical Excellence
-- Deployment Strategies
-- Deployment Frequency
-- Frequent Releases
-- Operational Practices
-- Release Management
-- Experimentation
-- Customer Feedback Loops
-- Technical Mastery
-- Automated Testing
-- Customer Satisfaction
-- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

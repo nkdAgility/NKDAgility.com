@@ -38,7 +38,6 @@ tags:
 - Agile Planning
 - Software Developers
 - Agile Project Management
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

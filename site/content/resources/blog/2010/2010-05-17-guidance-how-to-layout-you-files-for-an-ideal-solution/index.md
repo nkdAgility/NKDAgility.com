@@ -36,9 +36,6 @@ tags:
 - Technical Mastery
 - Technical Excellence
 - Agile Project Management
-- Pragmatic Thinking
-- Engineering Practices
-- Operational Practices
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-11-11.png

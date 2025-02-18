@@ -28,21 +28,10 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Change Management
-- Agile Transformation
-- Product Delivery
-- Pragmatic Thinking
-- Professional Scrum
-- Value Delivery
-- Team Performance
-- Software Development
-- Agile Frameworks
 - Organisational Change
-- Software Developers
-- Organisational Agility
-- Resilience and Change
-- Team Collaboration
-- Technical Leadership
-- Sociotechnical Systems
+- Agile Frameworks
+- Software Development
+- Team Performance
 categories:
 - Scrum
 - Social Technologies

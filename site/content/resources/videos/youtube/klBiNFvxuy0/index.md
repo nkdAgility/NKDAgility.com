@@ -38,9 +38,6 @@ tags:
 - Empirical Process Control
 - Pragmatic Thinking
 - Agile Values and Principles
-- Scrum Product Development
-- Discovery and Learning
-- Continuous Learning
 resourceTypes:
 - video
 categories:

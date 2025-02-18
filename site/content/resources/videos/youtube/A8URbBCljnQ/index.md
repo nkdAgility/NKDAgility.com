@@ -21,7 +21,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
 duration: 1506
 isShort: false
-tags: []
+tags:
+- People and Process
+- Team Collaboration
+- Pragmatic Thinking
+- Scrum Product Development
+- Remote Working
+- Events and Presentations
+- Software Development
+- Scrum Team
+- Product Delivery
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,7 +42,6 @@ categories:
 - Scrum
 - Social Technologies
 - Product Management
-- DevOps
 
 ---
 Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around remote working, the integration of UX in Agile practices, and the importance of team dynamics. 

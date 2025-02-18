@@ -29,22 +29,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Scrum Team
-- Product Delivery
-- Software Development
-- Agile Planning
-- Professional Scrum
-- Software Developers
-- Scrum Master
-- Agile Product Management
 - Team Collaboration
-- Agile Transformation
-- Pragmatic Thinking
-- Agile Project Management
-- Agile Frameworks
-- Product Owner
-- Transparency and Accountability
-- Team Performance
-- Personal
+- Scrum Master
+- Software Developers
+- Agile Product Management
+- Agile Planning
+- Software Development
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies
