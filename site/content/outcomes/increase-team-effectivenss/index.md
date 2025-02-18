@@ -14,17 +14,7 @@ aliases:
   - /outcomes/increased-team-productivity/
   - /outcomes/increase-team-effectivenss/
 tags:
-  - Agile
-  - Collaboration
-  - Continuous Improvement
-  - Productivity
-  - Team
 categories:
-  - agility
-  - collaboration
-  - organisational-change
-  - people-and-process
-  - tools-and-techniques
 card:
   button:
     content: Start Optimizing Now

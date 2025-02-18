@@ -23,7 +23,6 @@ card:
 categories:
 - Agile Product Management
 - Product Delivery
-- Value Delivery
 tags:
 - Agile Planning
 - Agile Project Management
