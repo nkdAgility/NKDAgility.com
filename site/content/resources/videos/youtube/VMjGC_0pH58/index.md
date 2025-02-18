@@ -30,7 +30,11 @@ sitemap:
   priority: 0.6
 categories:
 - Social Technologies
-tags: []
+tags:
+- People and Process
+- Personal
+- Agile Philosophy
+- Transparency and Accountability
 
 ---
 In the ever-evolving landscape of Agile methodologies, one topic that often gets overlooked is the intersection of ethics and agility. As I reflect on my journey as a professional Scrum trainer and Agile coach, I find it crucial to address this gnarly issue. Ethics, at its core, is about understanding the difference between right and wrong and acting accordingly. Agility, on the other hand, is about delivering value quickly and effectively. But can an organisation truly be agile while operating unethically? 

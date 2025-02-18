@@ -22,7 +22,9 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/1CCv95gd_oU/hqdefault.jpg
 duration: 2739
 isShort: false
-tags: []
+tags:
+- Events and Presentations
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

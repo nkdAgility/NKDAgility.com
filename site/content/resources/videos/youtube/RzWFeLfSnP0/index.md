@@ -31,7 +31,17 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-tags: []
+tags:
+- Lean
+- Agile Strategy
+- Operational Practices
+- Value Delivery
+- Events and Presentations
+- Lean Product Development
+- Lean Principles
+- People and Process
+- Agile Philosophy
+- Agile Transformation
 
 ---
  Why is done so important in the Reporting & Data Space?
