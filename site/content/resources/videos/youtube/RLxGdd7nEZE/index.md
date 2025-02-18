@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Organisational Physics
 - Systems Thinking
+- Organisational Physics
 - Change Management
 - Organisational Change
 - Pragmatic Thinking

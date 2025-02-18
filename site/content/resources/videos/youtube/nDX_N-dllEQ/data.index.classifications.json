@@ -43,5 +43,23 @@
     "final_score": 45.0,
     "reasoning": "The content primarily promotes a workshop focused on Kanban, which is a key topic within the Social Technologies category, but does not delve deeply into the principles or practices of Kanban itself.",
     "level": "Tertiary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T15:25:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on Kanban, which is unrelated to Scrum principles and practices.",
+    "level": "Ignored"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-18T15:25:47",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "The content primarily focuses on an introduction to Kanban, indicating a clear emphasis on the Kanban methodology and its principles.",
+    "level": "Secondary"
   }
 }

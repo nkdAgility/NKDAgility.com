@@ -30,7 +30,17 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-tags: []
+tags:
+- Software Developers
+- Transparency
+- Agile Values and Principles
+- Agile Project Management
+- Software Development
+- Organisational Culture
+- Agile Frameworks
+- Agile Philosophy
+- Agile Transformation
+- Practical Techniques and Tooling
 
 ---
 In today's episode of Agile Actually, I want to dive into a topic that resonates deeply with many of us in the agile community: the paradox of tools complicating our work rather than simplifying it. It’s a conversation that often triggers a lot of thoughts and emotions, and I’m excited to explore it with you.

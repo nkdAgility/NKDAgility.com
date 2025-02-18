@@ -27,7 +27,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
 - Throughput
 - People and Process
 - Cycle Time
@@ -37,10 +36,12 @@ tags:
 - Pragmatic Thinking
 - Metrics and Learning
 - Lean
+- Organisational Physics
 resourceTypes:
 - video
 layout: video
 categories:
+- Kanban
 - Social Technologies
 
 ---

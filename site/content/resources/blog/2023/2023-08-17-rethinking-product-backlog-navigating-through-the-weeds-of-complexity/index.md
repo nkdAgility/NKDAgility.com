@@ -29,14 +29,14 @@ aliasesFor404:
 tags:
 - Pragmatic Thinking
 - Sensemaking
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
+- Product Backlog
 - Scrum Product Development
 - Discovery and Learning
 - Agile Product Operating Model
 - Agile Strategy
 - Resilience and Change
-- People and Process
 categories:
 - Product Management
 - Social Technologies

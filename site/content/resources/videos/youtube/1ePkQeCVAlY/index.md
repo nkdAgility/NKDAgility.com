@@ -32,18 +32,18 @@ tags:
 - Value Stream Management
 - Value Delivery
 - Lean Principles
+- Systems Thinking
 - Lean
 - Organisational Physics
 - Lean Thinking
 - Complexity Thinking
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
 categories:
 - Engineering Excellence
+- Kanban
 - Product Management
-- Social Technologies
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

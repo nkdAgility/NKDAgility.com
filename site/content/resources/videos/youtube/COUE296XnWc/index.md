@@ -31,7 +31,17 @@ resourceTypes:
 categories:
 - Leadership
 - Social Technologies
-tags: []
+tags:
+- People and Process
+- Evidence Based Management
+- Software Development
+- Agile Strategy
+- Change Management
+- Agile Leadership
+- Agile Project Management
+- Technical Leadership
+- Organisational Agility
+- Agile Transformation
 
 ---
 As I sit down to reflect on my recent experiences in the world of Agile leadership and transformation, I can't help but think about the importance of adaptability and the human element in our work. It’s a topic that resonates deeply with me, especially as I engage with various teams and organisations striving to embrace Agile methodologies.

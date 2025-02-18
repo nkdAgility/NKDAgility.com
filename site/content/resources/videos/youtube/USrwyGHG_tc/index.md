@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Scrum Team
 - Scrum Master
+- Agile Values and Principles
+- Agile Leadership
 - Business Agility
-- Professional Scrum
-- People and Process
-- Team Performance
-- Team Collaboration
-- Agile Product Management
 - Agile Frameworks
+- People and Process
+- Team Collaboration
+- Organisational Agility
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -28,7 +28,10 @@ sitemap:
 layout: video
 resourceTypes:
 - video
-tags: []
+tags:
+- Practical Techniques and Tooling
+- Install and Configuration
+- Azure DevOps
 categories:
 - DevOps
 

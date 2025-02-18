@@ -31,7 +31,15 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
-tags: []
+tags:
+- Professional Scrum
+- Scrum Master
+- Agile Frameworks
+- Events and Presentations
+- Agile Project Management
+- Agile Transformation
+- Software Development
+- People and Process
 
 ---
 As I reflect on my journey in the world of Agile and Scrum, I often find myself drawn back to the transformative power of effective training. Recently, I had the pleasure of facilitating a workshop designed specifically for those eager to embark on or enhance their careers as Scrum Masters. This experience reinforced my belief in the importance of a solid foundation in Scrum theory and principles.
