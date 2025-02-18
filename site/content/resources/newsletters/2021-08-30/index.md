@@ -20,7 +20,9 @@ aliasesFor404:
 categories:
 - Scrum
 - Social Technologies
-tags: []
+tags:
+- Events and Presentations
+- People and Process
 
 ---
 I have been working on perfecting my techniques by incorporating Liberating Structures, Training from the Back of the Room, and Organization and Relationship Systems Coaching into my deliveries. I have found, along with many other trainers, that live-virtual delivery of classes can be more powerful, and more engaging.
