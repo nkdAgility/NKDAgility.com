@@ -2,14 +2,13 @@
 title: Installing Visual Studio 2010 on Windows 8
 description: Learn how to install Visual Studio 2010 on Windows 8 effortlessly. Discover tips for a smooth setup and optimize your development environment today!
 ResourceId: 9182z5AEKd6
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 5388
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-01
 creator: Martin Hinshelwood
-id: "5388"
 layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2010-on-windows-8
@@ -21,16 +20,10 @@ aliases:
 aliasesFor404:
 - /installing-visual-studio-2010-on-windows-8
 - /blog/installing-visual-studio-2010-on-windows-8
+- /resources/blog/installing-visual-studio-2010-on-windows-8
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- tools
-- visual-studio
-- vs2012
-- win8
-categories:
-- tools-and-techniques
+- Windows
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

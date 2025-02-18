@@ -2,14 +2,13 @@
 title: Why I miss Orange and why Vodafone suck!
 description: Discover why Martin Hinshelwood misses Orange and shares his frustrating experience with Vodafone's customer service. A must-read for mobile users!
 ResourceId: 5uRWOuzPVbV
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 71
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-02-08
 creator: Martin Hinshelwood
-id: "71"
 layout: blog
 resourceTypes: blog
 slug: why-i-miss-orange-and-why-vodafone-suck
@@ -25,11 +24,12 @@ aliasesFor404:
 - /blog/why-i-miss-orange-and-why-vodafone-suck
 - /why-i-miss-orange-and-why-vodafone-suck-
 - /blog/why-i-miss-orange-and-why-vodafone-suck-
+- /resources/blog/why-i-miss-orange-and-why-vodafone-suck
 tags:
-- fail
-- mobile
-categories:
-- me
+- Customer Satisfaction
+- Personal
+- Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

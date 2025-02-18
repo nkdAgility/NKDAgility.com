@@ -2,14 +2,13 @@
 title: My Team Foundation Server system accounts are changing? What do I do?
 description: Learn how to manage changing TFS 2012 system accounts effectively. Follow our guide to ensure your service accounts remain operational and secure.
 ResourceId: GJOGgre5lz-
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 8031
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-30
 creator: Martin Hinshelwood
-id: "8031"
 layout: blog
 resourceTypes: blog
 slug: my-team-foundation-server-system-accounts-are-changing-what-do-i-do
@@ -25,14 +24,16 @@ aliasesFor404:
 - /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 - /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
+- /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 tags:
-- configuration
-- infrastructure
-- tfs
-- tfs2012
-- tools
+- System Configuration
+- Install and Configuration
+- Practical Techniques and Tooling
+- Software Development
+- Azure DevOps
+- Troubleshooting
 categories:
-- code-and-complexity
+- DevOps
 
 ---
 If you have multiple service accounts for TFS 2012 and you are in a corporation chances are that two things are true:

@@ -1,52 +1,72 @@
 ---
-title: DevOps Migration. Incomplete Migrations
-description: Master Azure DevOps migrations! Learn to tackle incomplete migrations and data loss fears with expert tips for a seamless transition to the cloud.
+title: 'Mastering Cloud Migration: Overcoming the Fear of Incomplete Data Transfers'
+description: Worried about incomplete cloud migrations? Discover essential tips for a smooth transition to Azure DevOps and ensure your data stays intact!
 date: 2024-11-07T05:45:02Z
 ResourceId: x6a_BuQq580
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: x6a_BuQq580
 url: /resources/videos/:slug
 slug: devops-migration-incomplete-migrations
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=x6a_BuQq580
 aliases:
 - /resources/videos/x6a_BuQq580
 - /resources/videos/devops-migration-incomplete-migrations
 - /resources/devops-migration-incomplete-migrations
 - /resources/x6a_BuQq580
+aliasesFor404:
+- /resources/videos/devops-migration-incomplete-migrations
+- /resources/devops-migration-incomplete-migrations
 preview: https://i.ytimg.com/vi/x6a_BuQq580/maxresdefault.jpg
 duration: 186
 isShort: false
 tags:
-- Azure DevOps
-- Azure DevOps migration
-- DevOps
-- DevOps migration
-- DevOps consultant
-- DevOps coach
-- DevOps training
+- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- DevOps
 
 ---
- In this video, I address a common concern in Azure DevOps migrations: the fear of incomplete migrations and data loss. With experience in hundreds of migrations using Microsoft’s database import tool, I can confidently say that data loss is extremely rare, and any limitations or adjustments are fully manageable with the right preparation.
+When it comes to migrating to the cloud, I often encounter a common concern: the fear of incomplete migrations. Many people worry that essential data will be lost or unavailable during the transition. However, having conducted hundreds of migrations using Microsoft's database import tool, I can confidently say that I have never experienced any data loss that wasn't already known beforehand. 
 
-We’ll discuss factors like attachment sizes, performance limits, and how to manage these constraints when moving to the cloud. Microsoft provides robust tools to help identify potential issues ahead of time, so you can plan effectively and avoid any unexpected surprises.
+### Understanding the Migration Landscape
 
-Video Chapters:
+Before diving into the migration process, it’s crucial to understand the differences between on-premises and cloud environments. Here are a few key points to consider:
 
-00:00 - Addressing the Fear of Incomplete Migrations
-00:31 - Understanding On-Prem vs. Cloud Limitations
-01:15 - Planning Ahead: Identifying Potential Constraints
-01:47 - Working with Microsoft Support During Migration
-02:31 - Customizing Your Migration: Choosing Data and Teams to Move
-03:00 - Final Thoughts: Ensuring a Smooth Migration
+- **Attachment Size Limitations**: One significant difference is the database attachment size. While you can increase this size on-premises, the same flexibility isn’t available in the cloud. This is because cloud environments are shared among multiple users, and performance issues can arise if one company monopolises resources with excessively large attachments.
 
-👉 Watch the video to learn how to prepare for a seamless Azure DevOps migration and eliminate concerns about incomplete migrations. Don’t forget to like, comment, and subscribe for more migration tips and DevOps insights! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with #devopsmigration #azuredevops #devopsconsulting #devopscoach 
- [Watch on Youtube](https://www.youtube.com/watch?v=x6a_BuQq580)
+- **Planning is Key**: To mitigate potential issues, it’s essential to identify these limitations upfront during the planning phase. This means calling out any constraints and figuring out how to address them before the migration begins. Microsoft provides tools that help you understand these limitations and their impacts, ensuring that your environment is ready for the move to Azure DevOps.
+
+### The Reality of Incomplete Migrations
+
+From my experience, the notion of an "incomplete migration" is often overstated. Here’s why:
+
+- **Structured Process**: If you follow a structured migration process, it should work seamlessly. I’ve encountered situations where migrations get stuck, but these are typically resolved by restoring the local TFS and replanning. In larger migrations, I always recommend reaching out to Microsoft’s support team. They are well-equipped to assist with migration-related issues and can help troubleshoot any problems that arise.
+
+- **Ad Hoc Migrations**: If you’re considering an ad hoc migration—moving specific teams, projects, or data—you’ll need to have clear conversations about what can and cannot be migrated. This is highly dependent on your data’s format and your willingness to lose certain pieces. The key is to have these discussions upfront, so there are no surprises when it’s time to migrate.
+
+### Preparing for a Smooth Migration
+
+To ensure a successful migration, here are some steps I recommend:
+
+1. **Assess Your Data**: Understand what data you want to migrate and identify any potential issues beforehand.
+   
+2. **Utilise Microsoft Tools**: Leverage the tools provided by Microsoft to gain insights into your current environment and what adjustments may be necessary.
+
+3. **Engage with Support**: Don’t hesitate to reach out to Microsoft’s support team for guidance, especially for larger migrations. They can provide invaluable assistance.
+
+4. **Communicate Clearly**: Ensure that all stakeholders are aware of the migration plan and any limitations that may affect the process.
+
+5. **Plan for Contingencies**: Have a backup plan in place in case something goes awry during the migration.
+
+### Conclusion
+
+In conclusion, the fear of incomplete migrations can often be alleviated through thorough planning and clear communication. By understanding the limitations of cloud environments and preparing adequately, you can ensure a smooth transition to Azure DevOps. Remember, there should be no surprises when it comes time to migrate—just a well-executed plan that sets you up for success.

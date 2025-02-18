@@ -1,0 +1,7 @@
+Scotland 2023 is just around the corner. Um, or it's Agile 2023, the Scotland experience. It's just around the corner. Um, I'm really looking forward to it. Nick Jolte is sponsoring. Um, this year, and one of the reasons that we decided to sponsor is that we're Scottish. We're a Scottish company. Um, I know I say that funny because I've lived in other countries. I've spent a lot of time travelling around the world, but I've always come back to Scotland to live.
+
+And I don't actually have, um, although I don't have a lot of customers in Scotland, I'm always interested in what folks are doing, the communities. Um, I sponsor Future of Work in Scotland as well, um, which is a great, uh, event, regular Meetup event where they get some of the best speakers in the world. Um, and I think this is going to be the same. I had your 2023, um, the conference as a whole has this massive presence around the world.
+
+Um, I spoke at Deliver Agile 2023, um, back in—no, well, obviously not 2023—back in, when did I speak at that conference? 2017. Um, and it was a fantastic event, and I think this is going to be the same, a little bit smaller scale, um, but they're just starting out in Scotland, and I think it's going to be amazing, lots of amazing speakers on the lineup.
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else Agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

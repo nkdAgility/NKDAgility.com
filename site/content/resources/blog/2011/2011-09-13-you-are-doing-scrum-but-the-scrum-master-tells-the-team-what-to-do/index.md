@@ -2,14 +2,13 @@
 title: You are doing Scrum but the Scrum Master tells the team what to do!
 description: Discover why a Scrum Master shouldn't dictate tasks to the team. Empower self-organization and enhance accountability for better project outcomes.
 ResourceId: 5WdN6qGylV8
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 3778
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-13
 creator: Martin Hinshelwood
-id: "3778"
 layout: blog
 resourceTypes: blog
 slug: you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
@@ -25,15 +24,11 @@ aliasesFor404:
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 - /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
+- /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 tags:
-- agile
-- develop
-- nwcadence
-- people
-- process
-- scrum
+- Scrum Team
 categories:
-- people-and-process
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

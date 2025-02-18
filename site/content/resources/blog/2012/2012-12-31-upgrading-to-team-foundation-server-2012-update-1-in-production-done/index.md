@@ -2,14 +2,13 @@
 title: Upgrading to Team Foundation Server 2012 Update 1 in production – DONE
 description: Learn how to successfully upgrade to Team Foundation Server 2012 Update 1 with expert tips, a detailed checklist, and troubleshooting advice for a smooth transition.
 ResourceId: -X57bQlULtp
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9211
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-31
 creator: Martin Hinshelwood
-id: "9211"
 layout: blog
 resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2012-update-1-in-production-done
@@ -25,18 +24,12 @@ aliasesFor404:
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 - /upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
+- /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 tags:
-- configuration
-- infrastructure
-- tfs
-- tfs2008
-- tfs2010
-- tfs2012
-- tfs2012-1
-- tools
+- Install and Configuration
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 
 ---

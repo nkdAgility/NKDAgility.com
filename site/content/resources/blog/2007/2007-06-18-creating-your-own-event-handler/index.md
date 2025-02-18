@@ -2,14 +2,13 @@
 title: Creating your own Event Handler
 description: Learn to create your own event handler with Team Foundation Server. This guide simplifies the process, empowering developers to enhance their workflows.
 ResourceId: 53h9G1A5o8G
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 378
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-18
 creator: Martin Hinshelwood
-id: "378"
 layout: blog
 resourceTypes: blog
 slug: creating-your-own-event-handler
@@ -21,12 +20,15 @@ aliases:
 aliasesFor404:
 - /creating-your-own-event-handler
 - /blog/creating-your-own-event-handler
+- /resources/blog/creating-your-own-event-handler
 tags:
-- code
-- tfs-event-handler
-- wit
+- Practical Techniques and Tooling
+- Software Development
+- Azure DevOps
+- Technical Mastery
+- Technical Excellence
 categories:
-- code-and-complexity
+- Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

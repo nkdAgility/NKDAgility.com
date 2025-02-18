@@ -2,14 +2,13 @@
 title: TFS Usage Statistics
 description: Explore TFS usage statistics, including user activity, work items, and version control metrics. Discover insights to enhance your team's productivity!
 ResourceId: s5nBJ6ec37-
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 187
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-22
 creator: Martin Hinshelwood
-id: "187"
 layout: blog
 resourceTypes: blog
 slug: tfs-usage-statistics
@@ -21,9 +20,12 @@ aliases:
 aliasesFor404:
 - /tfs-usage-statistics
 - /blog/tfs-usage-statistics
+- /resources/blog/tfs-usage-statistics
 tags:
-- tools
+- Modern Source Control
+- Metrics and Learning
 preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 Stats on out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Instance. Not much but growing.

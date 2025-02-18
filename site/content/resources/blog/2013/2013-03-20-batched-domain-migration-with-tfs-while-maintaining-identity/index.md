@@ -2,14 +2,13 @@
 title: Batched domain migration with TFS while maintaining Identity
 description: Learn how to execute a batched domain migration with TFS while preserving user identities. Avoid pitfalls and ensure a smooth transition for your team.
 ResourceId: vzIIFAI5ygR
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9324
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-20
 creator: Martin Hinshelwood
-id: "9324"
 layout: blog
 resourceTypes: blog
 slug: batched-domain-migration-with-tfs-while-maintaining-identity
@@ -21,18 +20,20 @@ aliases:
 aliasesFor404:
 - /batched-domain-migration-with-tfs-while-maintaining-identity
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
+- /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
-- active-directory
-- configuration
-- infrastructure
-- operational
-- tactical
-- tfs
-- tfs2012-2
-- tools
+- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Install and Configuration
+- Software Development
+- Azure DevOps
+- Technical Mastery
+- Technical Excellence
+- Troubleshooting
+- System Configuration
+- Operational Practices
 categories:
-- code-and-complexity
-- tools-and-techniques
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

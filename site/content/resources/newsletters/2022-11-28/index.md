@@ -1,17 +1,34 @@
 ---
-id: "48577"
-title: "Futureproof Yourself With Skills, Capabilities And Certifications That Companies Care About"
-date: "2022-11-28"
-preview: "naked-agility-technically-agile-1280×720-December2022.jpg"
-author: "MrHinsh"
+title: Futureproof Yourself With Skills, Capabilities And Certifications That Companies Care About
+description: Unlock your agility potential! Upskill with our Scrum courses to thrive in today's complex market and stand out as a valuable asset. Join us now!
+ResourceId: Kn3i3yGquon
+ResourceImport: true
+ResourceType: newsletters
+date: 2022-11-28
+preview: naked-agility-technically-agile-1280×720-December2022.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "newsletter-2022"
+slug: newsletter-2022
 aliases:
-  - /newsletters/newsletter-2022/
-  - /resources/newsletters/newsletter-2022/
----
+- /newsletters/newsletter-2022/
+- /resources/newsletters/newsletter-2022/
+- /resources/Kn3i3yGquon
+aliasesFor404:
+- /newsletters/newsletter-2022/
+- /resources/newsletters/newsletter-2022/
+categories:
+- Scrum
+- Product Management
+- Social Technologies
+tags:
+- People and Process
+- Business Agility
+- Events and Presentations
+- Organisational Agility
+- Market Adaptability
 
+---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.
 
 Why? Because it empowers us to run experiments, frequently inspect, and regularly adapt. That’s how we navigate complexity. That’s how we create value, despite uncertainty, regardless of the industry or environment we serve.

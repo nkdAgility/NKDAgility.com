@@ -1,79 +1,57 @@
 ---
-title: 7 Virtues of agile. Chastity
-description: Unlock Agile success! Discover the virtue of Chastity in our latest video and learn how thoughtful planning transforms your approach to business agility.
+title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation'
+description: Discover the overlooked virtue of chastity in agility. Learn how to implement changes thoughtfully for true organisational transformation.
 date: 2023-12-04T08:39:06Z
 ResourceId: vftc6m70a0w
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
 slug: 7-virtues-of-agile-chastity
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=vftc6m70a0w
 aliases:
 - /resources/videos/vftc6m70a0w
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity
 - /resources/vftc6m70a0w
+aliasesFor404:
+- /resources/videos/7-virtues-of-agile-chastity
+- /resources/7-virtues-of-agile-chastity
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- People and Process
+- Agile Transformation
+- Agile Values and Principles
+- Agile Strategy
+- Change Management
+- Business Agility
+- Agile Leadership
+- Agile Philosophy
+- Organisational Agility
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
- 🚀 Unlock the Secrets of Agile Success with "The Seven Virtues of Agility: Embracing Chastity in Business"!
+In the realm of agility, one of the seven virtues that often gets overlooked is chastity. Now, before you raise an eyebrow, let me clarify: in our agile context, chastity is all about taking your time. It’s about resisting the urge to rush into the implementation of agile practices without fully understanding the implications of those changes within your organisation.
 
-🌟 Are you ready to revolutionize your approach to Agile? Dive into our latest video where we unravel the seldom-discussed virtue of Chastity in the Agile framework. Discover why slowing down and thoughtful planning are crucial for real Agile success.
+When we think we’ve successfully adopted agile, it’s tempting to dive headfirst into the myriad of tools and processes available. However, I’ve learned through experience that this can lead to a superficial understanding of agility. The truth is, the implications of agile extend far beyond just the mechanics of how we work. Here are a few key points to consider:
 
-💡 What You'll Learn:
+- **Democratisation of the Workplace**: Agile encourages involving more people in decision-making. This isn’t just a box-ticking exercise; it requires careful thought and planning. You need to consider how to effectively change your organisation’s culture to embrace this inclusivity.
 
-The Essence of Chastity in Agile: It's not just about speed; it's about effectiveness. Learn why taking your time is a game-changer in Agile implementation.
+- **Engagement with Stakeholders**: It’s crucial to involve your team in the narrative of change. If you don’t, you risk alienating them. Remember, nobody truly cares about your organisational goals unless they see how those goals align with their own. The way to bridge this gap is to make their goals your goals. This shared vision fosters a sense of ownership and commitment.
 
-Beyond Mechanics: Explore how Agile goes far beyond mere operational changes, impacting the very culture of your workplace.
+- **Utilising Tools for Inclusivity**: There are fantastic tools out there, such as Open Space Agility, that can facilitate this inclusive decision-making process. These tools allow everyone in your organisation to contribute to the journey towards greater agility, ensuring that the transition is not just top-down but a collective effort.
 
-Democratizing Decision-Making: Understand the power of involving more voices in your organization's journey towards Agile transformation.
-The Power of Inclusion: How to align individual goals with organizational objectives for a cohesive, motivated team.
+Taking your time to thoughtfully implement these changes is essential. It’s this deliberate approach that will enable you to extract the maximum value from your agile strategies. If you find yourself struggling to harness the full potential of the seven virtues of agility, I encourage you to seek assistance. My team at Naked Agility is here to help, or you might consider reaching out to a consultant, coach, or trainer who can guide you through this transformative process.
 
-Tools for Transformation: Get insights into tools like Open Space Agile that facilitate organization-wide participation in decision-making.
-Maximizing Agile Strategies: Tips on how time, thoughtfulness, and inclusivity can elevate your Agile strategies to new heights.
-
-Expert Assistance: Learn how our team at Naked Agility can guide you through the complexities of Agile virtues for optimum results.
-
-🔗 Need Expert Guidance? Struggling with the seven virtues of agility? Connect with us on https://www.nkdagility.com for tailored support from Naked Agility. Remember, it's not just about agility; it's about embracing Naked Agility for transformative results.
-
-👉 Don't Miss Out! Click play now and embark on a journey to master the art of Agile with a fresh, virtue-centric perspective. Subscribe for more insights and hit the bell icon to stay updated!
-
-#AgileTransformation #BusinessAgility #NakedAgility #LeadershipDevelopment #OrganizationalChange #AgileCoaching
-
-✨ Transform your approach to Agile today – Watch now and take the first step towards a more effective and inclusive Agile journey! ✨ 
- [Watch on Youtube](https://www.youtube.com/watch?v=vftc6m70a0w)
+Don’t wait until you’re overwhelmed; take action now. Agility is not just a buzzword; it’s about achieving naked agility—stripping away the unnecessary layers to reveal the core of what makes your organisation thrive. Use the links below to get in touch, and let’s embark on this journey together.

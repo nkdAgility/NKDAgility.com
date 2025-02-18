@@ -2,14 +2,13 @@
 title: Continuous value delivery with modern business applications
 description: Discover how modern business applications enable continuous value delivery, transforming software development practices for happier consumers and faster updates.
 ResourceId: Bqw3QI4cP_9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-27
 creator: Martin Hinshelwood
-id: "9149"
 layout: blog
 resourceTypes: blog
 slug: continuous-value-delivery-with-modern-business-applications
@@ -21,24 +20,22 @@ aliases:
 aliasesFor404:
 - /continuous-value-delivery-with-modern-business-applications
 - /blog/continuous-value-delivery-with-modern-business-applications
+- /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
-- continious-value-delivery
-- define
-- develop
-- improve
-- infrastructure
-- measure
-- operate
-- people
-- practices
-- process
-- tfs2012
-- vs2012
-- vs-2012-1
+- Continuous Delivery
+- Software Developers
+- Value Delivery
+- Working Software
+- Operational Practices
+- Software Development
+- Technical Excellence
+- Product Delivery
+- Business Agility
+- Deployment Strategies
 categories:
-- measure-and-learn
-- people-and-process
-- tools-and-techniques
+- Engineering Excellence
+- DevOps
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

@@ -1,72 +1,93 @@
 ---
-title: 3 core practices of Kanban Defining and visualizing a workflow
-description: "Unlock Kanban's potential! Learn to define and visualise workflows for enhanced efficiency, clarity, and team collaboration. Streamline your processes today! \U0001F680"
+title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
+description: Unlock your team's potential by mastering Kanban! Discover how defining and visualising your workflow can boost clarity, alignment, and efficiency.
 date: 2024-02-27T07:00:31Z
 ResourceId: sbr8NkJSLPU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug
 slug: 3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=sbr8NkJSLPU
 aliases:
 - /resources/videos/sbr8NkJSLPU
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/sbr8NkJSLPU
+aliasesFor404:
+- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- Kanban
-- Kanban courses
-- Kanban training
-- Kanban coach
-- Kanban consultant
-- Kanban method
-- ProKanban
+- People and Process
+- Team Collaboration
+- Practical Techniques and Tooling
+- Operational Practices
+- Agile Frameworks
+- Software Development
+- Agile Project Management
+- Transparency
+- Pragmatic Thinking
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
 
 ---
- Unlock the Power of Kanban: Streamline Your Workflow for Maximum Efficiency 🚀
+One of the core practices of Kanban that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 
 
-Introduction to Kanban 📌
+### Why Define and Visualise Your Workflow?
 
-Kanban is more than just a project management tool; it's a revolutionary approach that enhances visibility and collaboration across teams. By defining and visualizing your workflow, you set the stage for unparalleled efficiency and productivity.
+When we take the time to define our workflow, we create a shared understanding among team members. This is crucial for several reasons:
 
-Why Kanban? 🤔
+- **Clarity**: Everyone knows what to expect and how to contribute.
+- **Alignment**: Team members are on the same page regarding priorities and processes.
+- **Efficiency**: A well-defined workflow reduces confusion and streamlines operations.
 
-Clarity and Consensus: Establish a clear understanding of your team's processes and tasks.
-Visibility: Create a visual map of your workflow to identify bottlenecks and streamline operations.
-Maximized Value: Focus on selecting work that delivers the highest value to your business and customers.
+### Key Questions to Consider
 
-Key Concepts of Kanban 📊
+To effectively define our workflow, we need to gather various pieces of information. Here are some essential questions to ask:
 
-Define Your Workflow: Start by laying out the stages each task goes through from start to finish. This foundational step ensures everyone is on the same page.
-Visualize Your Workflow: Use a Kanban board to make the abstract concrete, offering a bird's-eye view of your project's status at any given moment.
-Work Selection: Dive into the criteria for choosing tasks. It's not just about what seems interesting or matches someone's skills; it's about what maximizes value.
-Setting Rules: Establish clear guidelines for how tasks move from one stage to another, ensuring a smooth flow and preventing work from piling up.
-Managing Work in Progress: Decide on policies to control the volume of simultaneous tasks, preventing overload and promoting focus.
+- **What goes on our board?**  
+  Identifying the types of work that will be represented is fundamental. This could include tasks, projects, or any other relevant work items.
 
-Benefits of a Well-Defined Workflow 🌟
+- **What are the current stages of our work?**  
+  It’s not just about individual tasks; we need to consider the overall flow of all work through the system. This will help us establish the columns on our Kanban board.
 
-Enhanced Team Agreement: Ensures everyone agrees on the approach and methodology, fostering unity and reducing confusion.
-Stable System Creation: A stable, predictable system emerges from a well-defined workflow, enabling consistent, quality output.
-Transparency and Accountability: A visual workflow makes it easier to track progress, identify issues early, and hold team members accountable for their work.
+- **How do we select items from the board?**  
+  This is where things can get tricky. Often, team members choose tasks based on personal preference or perceived fit with their skills. However, we must ask ourselves:  
+  - Are we maximising the value of what we deliver?  
+  - Are we making the right business decisions?
 
-Your Path to a Streamlined Workflow 💡
+### Establishing Rules and Policies
 
-Embarking on the journey to refine your workflow with Kanban is a step toward unlocking your team's full potential. Whether you're just getting started or looking to refine your existing processes, we're here to guide you.
+Once we’ve answered these questions, it’s time to set some ground rules. This includes:
 
-Need Assistance? 🆘
-Struggling to implement or optimize your Kanban strategy? We're here to help! Whether you need direct support or are looking for resources to get you on the right path, we've got you covered.
+- **Defining how we select tasks**: Establish clear criteria for choosing work items.
+- **Determining how work moves between columns**: What does it mean for a task to progress from one stage to another?
+- **Identifying the types of work**: What categories do we need to include on our board?
+- **Controlling work in progress (WIP)**: How do we manage the amount of work we take on at any given time?
 
-👉 Visit NKD Agility for more insightful videos, articles, and how-to blogs designed to empower your team and elevate your project management game. 
- [Watch on Youtube](https://www.youtube.com/watch?v=sbr8NkJSLPU)
+These rules are not just arbitrary; they are essential for creating a stable system. Without them, we risk devolving into a chaotic environment where each team member operates on their own terms, leading to instability and inefficiency.
+
+### The Importance of a Stable System
+
+You may have heard the term "stable system" thrown around in discussions about Kanban. But what does it really mean? A stable system is one where:
+
+- **Everyone agrees on the process**: There’s a collective understanding of how work should flow.
+- **Processes are documented**: We’ve written down our agreed-upon methods, making it easier to onboard new team members and maintain consistency.
+- **Visualisation is key**: By visualising our workflow, we can all see what’s happening at a glance, which fosters transparency and accountability.
+
+### Conclusion
+
+Defining and visualising your workflow is not just a best practice; it’s a fundamental aspect of effective Kanban implementation. If you’re struggling to put this into practice, don’t hesitate to reach out for help. Whether it’s through my services or connecting you with someone who can assist, there’s always a way to enhance your Kanban strategy.
+
+By taking these steps, you’ll not only improve your team’s efficiency but also create a more harmonious working environment where everyone knows their role and how they contribute to the bigger picture. Let’s embrace the power of a well-defined workflow and watch our productivity soar!

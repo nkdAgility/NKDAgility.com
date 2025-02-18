@@ -3,7 +3,7 @@ title: Znaczenie znajomości terenu
 description: "Discover how understanding terrain enhances agility through Poland's unique mushroom foraging sport. Join us in exploring agile principles! \U0001F344✨"
 date: 2023-08-10T14:45:00Z
 ResourceId: IqWvURjrJVs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IqWvURjrJVs
@@ -16,29 +16,31 @@ aliases:
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu
 - /resources/IqWvURjrJVs
+aliasesFor404:
+- /resources/videos/znaczenie-znajomości-terenu
+- /resources/znaczenie-znajomości-terenu
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
 tags:
-- Agile
-- Agile Leadership
-- Agile Leader
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
-- PAL
-- PAL-E
-- PAL-EBM
-- Evidence based management
-- Agile project management
-- Agile product management
-- Agile product development
+- Coaching
+- People and Process
+- Organisational Agility
+- Business Agility
+- Agile Frameworks
+- Scrum Product Development
+- Software Development
+- Agile Strategy
+- Team Performance
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

@@ -2,14 +2,13 @@
 title: Vote for your feature
 description: Cast your vote for the next features in TFS Sticky Buddy! Help shape version 2.0 by selecting the enhancements you want to see. Join the discussion now!
 ResourceId: 0gvfwOdoE6v
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 234
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-30
 creator: Martin Hinshelwood
-id: "234"
 layout: blog
 resourceTypes: blog
 slug: vote-for-your-feature
@@ -21,12 +20,12 @@ aliases:
 aliasesFor404:
 - /vote-for-your-feature
 - /blog/vote-for-your-feature
+- /resources/blog/vote-for-your-feature
 tags:
-- tfs-sticky-buddy
-- wit
-- wpf
+- Customer Feedback Loops
+- Product Discovery
 categories:
-- me
+- Product Management
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -3,7 +3,7 @@ title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive
 description: "Discover 5 ways immersive learning enhances your skills as a Scrum practitioner. Elevate your practice with NKD Agility's expert insights! #Scrum #Agile"
 date: 2024-02-05T07:00:03Z
 ResourceId: C8a_-zn1Wsc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: C8a_-zn1Wsc
@@ -20,35 +20,22 @@ aliases:
 - /resources/videos/C8a_-zn1Wsc
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 - /resources/C8a_-zn1Wsc
+aliasesFor404:
+- /resources/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Discovery and Learning
+- Continuous Learning
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
+- Product Management
 
 ---
 In the ever-evolving world of Agile and Scrum, one of the most valuable approaches to mastering the methodologies is immersive learning. It’s a technique that not only sharpens your understanding but also combats the cognitive biases we unknowingly harbor. As Agile practitioners, we often think we know more than we do about the framework. Immersive learning helps dismantle that illusion, forcing us to confront the reality of how much we still have to discover.

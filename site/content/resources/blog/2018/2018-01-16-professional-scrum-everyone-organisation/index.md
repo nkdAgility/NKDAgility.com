@@ -2,7 +2,7 @@
 title: Professional Scrum is for everyone in your organisation
 description: Discover how Professional Scrum can empower everyone in your organization to enhance collaboration, drive value, and embrace agile transformation.
 ResourceId: Cr7wjIJ8Uvb
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 38287
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2018-01-16
 AudioNative: true
 creator: Martin Hinshelwood
-id: "38287"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-everyone-organisation
@@ -26,15 +25,22 @@ aliasesFor404:
 - /blog/professional-scrum-everyone-organisation
 - /professional-scrum-is-for-everyone-in-your-organisation
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
+- /resources/blog/professional-scrum-everyone-organisation
 tags:
-- agile
-- evidence-based-management
-- professioal-scrum
-- scrum
-- scrum-definition
-- training
+- People and Process
+- Transparency
+- Agile Product Management
+- Product Delivery
+- Change Management
+- Scrum Product Development
+- Events and Presentations
+- Resilience and Change
+- Organisational Agility
+- Organisational Change
 categories:
-- agility
+- Scrum
+- Social Technologies
+- Leadership
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

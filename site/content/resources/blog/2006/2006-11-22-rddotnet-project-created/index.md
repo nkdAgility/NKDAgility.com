@@ -2,14 +2,13 @@
 title: RDdotNET Project Created
 description: Discover the RD.NET Community Foundation, a powerful new project enhancing service-oriented architecture with globalisation, relationship, and shell services.
 ResourceId: cD1LS3C3pX0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 460
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-11-22
 creator: Martin Hinshelwood
-id: "460"
 layout: blog
 resourceTypes: blog
 slug: rddotnet-project-created
@@ -21,9 +20,11 @@ aliases:
 aliasesFor404:
 - /rddotnet-project-created
 - /blog/rddotnet-project-created
+- /resources/blog/rddotnet-project-created
 tags:
-- service-oriented-architecture
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 I have now created a new project within [CodePlex](http://www.codeplex.com "CodePlex") that encompases all of the features of WhiteLabel, but with a whole host of extras. The WhiteLabel project is now complete and a release will be uploaded as soon as [CodePlex](http://www.codeplex.com "CodePlex") starts working again.

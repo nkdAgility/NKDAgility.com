@@ -3,7 +3,7 @@ title: Most Common Thing You Hear in a PSM 1 Course?
 description: 'Discover the most common insights from delegates in a PSM 1 course with Martin Hinshelwood. Join us for a quick dive into Scrum training! #shorts #agile'
 date: 2023-06-28T11:00:24Z
 ResourceId: h5TG3MbP0QY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: h5TG3MbP0QY
@@ -21,18 +21,27 @@ aliases:
 - /resources/videos/h5TG3MbP0QY
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/h5TG3MbP0QY
+aliasesFor404:
+- /resources/most-common-thing-you-hear-in-a-psm-1-course-2
+- /resources/most-common-thing-you-hear-in-a-psm-1-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
+- /resources/most-common-thing-you-hear-in-a-psm-1-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- PSM
-- Professional Scrum Master
-- Scrum Master
-- Scrum Master course
-- Scrum Master training
+- People and Process
+- Customer Satisfaction
+- Transparency and Accountability
+- Agile Values and Principles
+- Accountability
+- Personal
+- Miscellaneous
+- Agile Philosophy
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories: []
 
 ---
 ## "But in the Real World..."

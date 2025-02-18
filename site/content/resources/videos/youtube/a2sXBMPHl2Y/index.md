@@ -3,7 +3,7 @@ title: How can companies derive greater benefits from training by investing in a
 description: 'Discover how private training courses can enhance team effectiveness and drive success in your organisation. Unlock the power of tailored #Scrum training!'
 date: 2023-05-05T07:00:01Z
 ResourceId: a2sXBMPHl2Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: a2sXBMPHl2Y
@@ -21,18 +21,27 @@ aliases:
 - /resources/videos/a2sXBMPHl2Y
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 - /resources/a2sXBMPHl2Y
+aliasesFor404:
+- /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
+- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
+- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Training
-- Scrum Courses
-- Private Scrum Courses
-- Private Scrum Training
-- Private corporate classes
-- Private corporate workshops
+- People and Process
+- Continuous Learning
+- Pragmatic Thinking
+- Coaching
+- Organisational Culture
+- Personal
 resourceTypes:
 - video
+categories:
+- Leadership
+- DevOps
+- Scrum
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

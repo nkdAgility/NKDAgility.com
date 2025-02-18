@@ -1,27 +1,33 @@
 ---
 title: Sprint Planning Event
 description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
+ResourceId: v_AGzuOgZ0g
+ResourceImport: false
+ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-  - /learn/agile-delivery-kit/practices/sprint-planning-event
-references:
+- /learn/agile-delivery-kit/practices/sprint-planning-event
+- /resources/v_AGzuOgZ0g
+aliasesFor404:
+- /learn/agile-delivery-kit/practices/sprint-planning-event
+references: 
 recommendedContent:
-  - collection: recipes
-    path: _recipes/sprint-planning-recipe.md
-  - collection: guides
-    path: _guides/manifesto-for-agile-software-development.md
-  - collection: guides
-    path: _guides/scrum-guide.md
+- collection: recipes
+  path: _recipes/sprint-planning-recipe.md
+- collection: guides
+  path: _guides/manifesto-for-agile-software-development.md
+- collection: guides
+  path: _guides/scrum-guide.md
 videos:
-  - title: What is the most common mistake in sprint planning?
-    embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
-  - title: What is sprint planning?
-    embed: https://www.youtube.com/embed/nMkit8zBxG0
-  - title: "What is your #1 tip for effective sprint planning?"
-    embed: https://www.youtube.com/embed/uQ786VBz3Jw
-  - title: "How does a scrum team plan and prioritize work effectively?"
-    embed: https://www.youtube.com/embed/sPmUuSy7G3I
+- title: What is the most common mistake in sprint planning?
+  embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
+- title: What is sprint planning?
+  embed: https://www.youtube.com/embed/nMkit8zBxG0
+- title: 'What is your #1 tip for effective sprint planning?'
+  embed: https://www.youtube.com/embed/uQ786VBz3Jw
+- title: How does a scrum team plan and prioritize work effectively?
+  embed: https://www.youtube.com/embed/sPmUuSy7G3I
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
@@ -29,8 +35,22 @@ card:
     content: Learn More
   content: Discover more about Sprint Planning Event and how it can help you in your Agile journey!
   title: Sprint Planning Event
----
+categories:
+- Scrum
+- Social Technologies
+tags:
+- Scrum Product Development
+- People and Process
+- Scrum Team
+- Professional Scrum
+- Agile Planning
+- Team Collaboration
+- Agile Product Management
+- Product Delivery
+- Agile Frameworks
+- Software Development
 
+---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.
 
 ![naked Agility Scrum Framework Sprint Planning](./../assets/images/naked-agility-scrum-framework-sprint-planning.jpg)

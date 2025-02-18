@@ -1,57 +1,78 @@
 ---
-title: How much of a competitive edge will the immersive PSM course deliver to delegates?
-description: Discover how our immersive 7-week Professional Scrum Master course gives you a competitive edge over traditional workshops. Elevate your team's skills today!
+title: 'Transform Your Career: How to Become a Confident Scrum Master Through Real-World Learning and Community Support'
+description: Transform your career as a Scrum Master with hands-on training that builds confidence, fosters community, and applies Agile principles in real-time. Join us!
 date: 2023-07-13T07:41:01Z
 ResourceId: cb6JpfomYRU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
 slug: how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=cb6JpfomYRU
 aliases:
 - /resources/videos/cb6JpfomYRU
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 - /resources/cb6JpfomYRU
+aliasesFor404:
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+- /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
 tags:
-- Scrum
-- Scrum Courses
-- Scrum.Org
-- Scrum Certification
-- Immersive Learning Experience
-- Immersive Scrum Course
-- Immersive PSM course
-- Immersive Professional Scrum Master course
-- Immersive Professional Scrum Master Certification
+- Coaching
+- Scrum Master
+- People and Process
+- Discovery and Learning
+- Professional Scrum
+- Practical Techniques and Tooling
+- Continuous Learning
+- Scrum Team
+- Team Collaboration
+- Software Development
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
- The immersive learning experiences were developed to help raise the standard of a #scrummaster entering the industry, and to provide additional value for organizations that wanted to really upskill their teams.
+When I think about the journey of becoming a Scrum Master, I often reflect on the transformative experiences that shape our understanding and application of Agile principles. One of the most significant aspects of this journey is the immediate ability to put theory into practice. From the very first session of my training, participants are not just passive learners; they are actively engaged in identifying and addressing real issues within their organisations. 
 
-In this short video, Kanban Dan talks about the competitive advantage you can achieve through the immersive learning 7-week Professional Scrum Master course when compared to a 2-day workshop.
+### Immediate Application of Learning
 
-About NKD Agility
+- **Homework with Purpose**: Unlike traditional homework, which often feels disconnected from real-world applications, the exercises I assign are designed to be implemented in your workplace. This means you can start making meaningful changes right away, rather than waiting until the end of a course.
+- **Identifying Problems**: Scrum doesn’t magically solve your problems; instead, it illuminates where those problems lie. This early focus on real issues allows us to tackle them collaboratively, fostering a sense of community and shared learning.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### Building a Community of Practice
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+One of the most rewarding aspects of this training is the opportunity to create a community of practice. Many organisations already have established Scrum Master communities, but for those that don’t, it’s crucial to set one up. This community becomes a vital support network, allowing participants to share their challenges and successes.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+- **Hive Mind Approach**: By bringing your problems back to the group, you’re not alone in your struggles. We work together to find solutions, leveraging the collective wisdom of the cohort.
+- **Shared Experiences**: The bonds formed during this process often extend well beyond the classroom. I’ve found that many participants stay in touch for years, sharing insights and supporting each other in their professional journeys.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+### Flexible Learning Environment
 
-We would love to work with you. 
+One of the standout features of this training is its structure. Instead of taking two full days out of the office, we meet for just one afternoon a week. This approach is not only more manageable but also allows for a deeper engagement with the material.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=cb6JpfomYRU)
+- **Reduced Cognitive Load**: A two-day class can be overwhelming, with a significant cognitive burden. By breaking the content into manageable chunks, participants can absorb and apply what they learn more effectively.
+- **Real-World Application**: This format encourages immediate application of concepts, allowing for multiple loops of learning. You can try out new ideas in your workplace, reflect on them, and bring your experiences back to the group for discussion.
+
+### Confidence Through Experience
+
+As someone who has navigated the challenges of being a new Scrum Master, I understand the difficulties that come with the role. Often, new Scrum Masters face the most complex problems at the beginning of their careers, when they have the least experience. This training programme is designed to build your confidence and competence.
+
+- **Support Network**: Throughout the course, you have a safety net of support. As you progress, this support gradually scales back, but by then, you’ll have developed the confidence to tackle challenges independently.
+- **Career Advancement**: While I can’t guarantee that this training will land you a better job, I can assure you that the confidence you gain will shine through in interviews and professional interactions.
+
+### Conclusion
+
+In summary, the journey to becoming a proficient Scrum Master is not just about acquiring knowledge; it’s about applying that knowledge in real-world scenarios, building a supportive community, and developing the confidence to face challenges head-on. This training programme offers a unique blend of coaching and practical application, ensuring that you leave not just with a certification, but with a deeper understanding and readiness to excel in your role. 
+
+If you’re ready to embark on this journey, I invite you to join us and experience the difference for yourself. Together, we can navigate the complexities of Agile and emerge as confident, capable Scrum Masters.

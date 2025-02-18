@@ -3,7 +3,7 @@ title: Navigating the Complex World of Azure DevOps Data Migration
 description: Discover essential insights for Azure DevOps migration! Learn about common pitfalls, best practices, and expert tips to ensure a smooth transition.
 date: 2024-07-31T12:00:49Z
 ResourceId: 3jYFD-6_kZk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3jYFD-6_kZk
@@ -19,16 +19,27 @@ aliases:
 - /resources/videos/3jYFD-6_kZk
 - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/3jYFD-6_kZk
+aliasesFor404:
+- /resources/navigating-the-complex-world-of-azure-devops-data-migration
+- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+- /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Troubleshooting
+- Install and Configuration
 - Azure DevOps
-- Azure DevOps Migration
-- Migration challenges
+- System Configuration
+- Practical Techniques and Tooling
+- Software Development
+- Technical Mastery
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
+categories:
+- DevOps
 
 ---
 When it comes to migrating data in Azure DevOps, the process can be overwhelming, especially if you're dealing with legacy systems or older versions of Team Foundation Server (TFS). As someone who has been through this many times, I can tell you that there are countless pitfalls, but with careful planning and attention to detail, you can avoid most of them. In this post, I'll share some of the common issues, critical steps, and personal experiences that can help you successfully navigate the complexities of Azure DevOps data migration.

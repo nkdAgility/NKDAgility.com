@@ -2,14 +2,13 @@
 title: Blogging from 2500 meters
 description: Join Martin Hinshelwood as he blogs from the French Alps, sharing insights on skiing, tech challenges, and creative writing amidst stunning mountain views.
 ResourceId: uxd-czfPeHg
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10509
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-17
 creator: Martin Hinshelwood
-id: "10509"
 layout: blog
 resourceTypes: blog
 slug: blogging-2500-meters
@@ -25,9 +24,12 @@ aliasesFor404:
 - /blog/blogging-2500-meters
 - /blogging-from-2500-meters
 - /blog/blogging-from-2500-meters
-categories:
-- news-and-reviews
+- /resources/blog/blogging-2500-meters
+categories: []
 preview: nakedalm-logo-260-7-7.png
+tags:
+- Windows
+- Personal
 
 ---
 I am currently 2k meters up the side of a mountain in the French Alps and while skiing is fun it takes its toll on my knees that are already a bit dodgy. Thus I have been Skiing in the mornings and sunning myself in the afternoons. It is about 25 degrees Celsius here during the day and tad sunny.

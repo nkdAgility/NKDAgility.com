@@ -2,14 +2,13 @@
 title: Simplify
 description: Discover how I simplified my blog categories for better organization and clarity. Join the conversation and share your thoughts on enhancing user experience!
 ResourceId: CEZVS03cb-9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 372
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-14
 creator: Martin Hinshelwood
-id: "372"
 layout: blog
 resourceTypes: blog
 slug: simplify
@@ -21,9 +20,11 @@ aliases:
 aliasesFor404:
 - /simplify
 - /blog/simplify
-categories:
-- me
+- /resources/blog/simplify
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Miscellaneous
 
 ---
 Well I just got through simplifying my blog categories! I just though they were, well... rubbish,  and there were too many of them. I have toned them down and added a full description for them all with links to the relevant Wikipedia pages...

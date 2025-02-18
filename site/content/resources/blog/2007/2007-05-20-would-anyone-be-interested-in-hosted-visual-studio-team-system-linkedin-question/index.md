@@ -2,14 +2,13 @@
 title: Would anyone be interested in hosted Visual Studio Team System (LinkedIn Question)
 description: Explore the potential of a hosted Visual Studio Team System for small businesses. Discover customization options and ease of management for your projects!
 ResourceId: aGh8Dn3evEi
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 400
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-20
 creator: Martin Hinshelwood
-id: "400"
 layout: blog
 resourceTypes: blog
 slug: would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
@@ -25,10 +24,21 @@ aliasesFor404:
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
+- /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
-- tfs
-- tfs2008
+- Modern Source Control
+- Software Development
+- Products and Books
+- News and Reviews
+- Practical Techniques and Tooling
+- System Configuration
+- Application Lifecycle Management
+- Collaboration Tools
+- Azure DevOps
+- Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- DevOps
 
 ---
 View Full Question and Answers: [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)

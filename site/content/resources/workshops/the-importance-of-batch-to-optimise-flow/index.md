@@ -1,11 +1,20 @@
 ---
 title: The Importance of Batch to Optimise Flow
+description: Join our 60-minute workshop to discover how breaking down large Backlog Items into smaller pieces enhances delivery and flow. Explore queuing theory in action!
+ResourceId: kwS9oPiz-Ny
+ResourceImport: false
+ResourceType: workshops
 resourceTypes: workshop
 layout: workshop
 aliases:
-  - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
-  - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
-  - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
+- workshops/The-Importance-of-Batch-to-Optimise-Flow.html
+- /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
+- /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
+- /resources/kwS9oPiz-Ny
+aliasesFor404:
+- workshops/The-Importance-of-Batch-to-Optimise-Flow.html
+- /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
+- /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
@@ -13,8 +22,21 @@ card:
     content: Learn More
   content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
   title: The Importance of Batch to Optimise Flow
----
+categories:
+- Social Technologies
+tags:
+- People and Process
+- Value Delivery
+- Scrum Product Development
+- Events and Presentations
+- Flow Efficiency
+- Team Performance
+- Practical Techniques and Tooling
+- Lean Principles
+- Throughput
+- Lean
 
+---
 ## Duration
 
 60 Minutes

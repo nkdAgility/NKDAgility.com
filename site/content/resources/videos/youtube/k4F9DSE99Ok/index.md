@@ -1,75 +1,70 @@
 ---
-title: Famine! 7 Harbingers agile apocalypse. But shorter!
-description: Discover how Famine, one of the 7 signs of the agile apocalypse, can hinder your team's success. Learn to avoid feedback starvation!
+title: 'Combatting Famine in Agile: How to Foster Stakeholder Engagement and Boost Team Morale'
+description: Combat Agile famine by boosting stakeholder engagement! Discover strategies to enhance feedback and align your team with business goals for better outcomes.
 date: 2023-10-31T07:00:18Z
 ResourceId: k4F9DSE99Ok
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
 slug: famine!-7-harbingers-agile-apocalypse-but-shorter!
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=k4F9DSE99Ok
 aliases:
 - /resources/videos/k4F9DSE99Ok
 - /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/k4F9DSE99Ok
+aliasesFor404:
+- /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- People and Process
+- Agile Project Management
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
- One of the 7 signs of the #agile apocalypse is Famine. 
+In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of Scrum and Agile practices.
 
-Famine happens when you are starved of feedback, reviews, and information that can help the team create products that truly delight customers. For some teams, that famine may even extend to your #productowner failing to turn up for reviews and meetings.
+Famine, in our Agile framework, manifests as a significant lack of feedback. This isn’t just about the absence of comments on a product; it’s about a broader disengagement from stakeholders, including your product owner. When the business fails to engage, it creates a void that can be detrimental to the entire team’s morale and productivity.
 
-Full video: https://youtu.be/W3H9z28g9R8
+### The Consequences of Famine
 
-About NKD Agility
+When feedback is scarce, several issues arise:
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+- **Lack of Care and Attention**: If stakeholders aren’t showing up to provide input, it sends a message to the team that their work isn’t valued. This can lead to a culture of indifference, where team members may start to question the importance of their contributions.
+  
+- **Stagnation of Growth**: Without regular feedback, teams miss out on opportunities for improvement. Agile is all about iterating and evolving, and without that external perspective, we risk stagnation.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Misalignment with Business Goals**: The absence of stakeholder engagement can lead to a disconnect between what the team is building and what the business actually needs. This misalignment can result in wasted effort and resources.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+### Engaging Stakeholders
 
-We would love to work with you. 
+So, how do we combat this famine? Here are a few strategies that I’ve found effective in my experience:
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=k4F9DSE99Ok)
+- **Regular Check-Ins**: Schedule consistent meetings with stakeholders to discuss progress and gather feedback. This keeps everyone aligned and engaged.
+
+- **Create a Feedback Culture**: Encourage an environment where feedback is not only welcomed but actively sought. This can be through retrospectives, demos, or informal catch-ups.
+
+- **Involve the Product Owner**: The product owner plays a crucial role in bridging the gap between the team and stakeholders. Ensure they are actively involved and communicating the needs and expectations of the business.
+
+- **Visualise Progress**: Use tools like Kanban boards or burndown charts to visually represent progress. This can help stakeholders see the value being delivered and encourage their involvement.
+
+### The Importance of Engagement
+
+Ultimately, the key takeaway here is that engagement is vital. If the business doesn’t care enough to provide feedback, why should your team care about the work they’re doing? It’s a reciprocal relationship. When stakeholders are engaged, it fosters a sense of purpose and direction for the team, leading to better outcomes and a more vibrant Agile culture.
+
+I encourage you to reflect on your own experiences. Have you noticed signs of famine in your Agile practices? What steps can you take to ensure that feedback flows freely and that all parties remain engaged? 
+
+Thank you for taking the time to read this post. If you found it valuable, please like, follow, and subscribe. I always appreciate your comments, and if you’d like to discuss this topic further or anything else related to Agile, Scrum, or DevOps, feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!

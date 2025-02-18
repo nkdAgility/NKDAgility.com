@@ -3,7 +3,7 @@ title: How big is the gap between an average developer and a great Agile Develop
 description: "Unlock the secrets to becoming a great agile developer! Discover the power of self-investment, practice, and continuous learning. \U0001F4DA\U0001F4A1✨"
 date: 2023-06-06T07:00:04Z
 ResourceId: 96iDY11yOjc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 96iDY11yOjc
@@ -20,17 +20,30 @@ aliases:
 - /resources/videos/96iDY11yOjc
 - /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 - /resources/96iDY11yOjc
+aliasesFor404:
+- /resources/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
+- /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
+- /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Developer
-- Software Developer
-- Agile Software Development
-- Agile Product Development
-- Agile Project Management
+- People and Process
+- Discovery and Learning
+- Continuous Learning
+- Software Developers
+- Personal
+- Pragmatic Thinking
+- Employee Engagement
+- Software Development
+- Coaching
+- Mentoring
 resourceTypes:
 - video
+categories:
+- Scrum
+- Leadership
+- Engineering Excellence
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

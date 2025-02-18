@@ -3,7 +3,7 @@ title: The Importance of Delivering Working Software Every Iteration
 description: 'Discover 6 surprising insights about Agile Product Management that can transform your approach! Watch now for essential tips. #agile #productmanagement'
 date: 2024-06-26T06:45:00Z
 ResourceId: 3-LDBJppxvo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3-LDBJppxvo
@@ -19,16 +19,29 @@ aliases:
 - /resources/videos/3-LDBJppxvo
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/3-LDBJppxvo
+aliasesFor404:
+- /resources/the-importance-of-delivering-working-software-every-iteration
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile product management
-- Product Management
+- Customer Feedback Loops
+- Agile Values and Principles
+- Agile Product Management
+- Working Software
+- Scrum Product Development
+- Product Validation
+- Software Development
+- Software Developers
+- Agile Philosophy
+- Value Delivery
 resourceTypes:
 - video
 layout: video
+categories:
+- Social Technologies
 
 ---
 In the ever-evolving world of Agile, the ability to deliver working software to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.

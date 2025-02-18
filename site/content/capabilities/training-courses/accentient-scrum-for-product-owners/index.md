@@ -1,30 +1,50 @@
 ---
 title: Scrum for Product Owners Training
+description: Enhance your effectiveness as a Product Owner in this interactive class, featuring presentations, discussions, and hands-on activities to drive value in Scrum.
+ResourceId: qVBmvY9STVE
+ResourceImport: true
+ResourceType: course
 date: 2020-08-31
 creator: Martin Hinshelwood
-id: "44729"
 type: course
 slug: scrum-for-product-owners-training
-url:
+url: 
 aliases:
-  - /training-courses/scrum-for-product-owners
-  - /training-courses/scrum-for-product-owners-training/
-  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
+- /training-courses/scrum-for-product-owners
+- /training-courses/scrum-for-product-owners-training/
+- /capabilities/training-courses/accentient/scrum-for-product-owners-training
+- /resources/qVBmvY9STVE
+aliasesFor404:
+- /training-courses/scrum-for-product-owners
+- /training-courses/scrum-for-product-owners-training/
+- /capabilities/training-courses/accentient/scrum-for-product-owners-training
 course-topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course-vendors:
-  - Accentient
+- Accentient
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - Entrepreneurs
-  - Product Managers
+- Entrepreneurs
+- Product Managers
 tags:
+- Agile Project Management
+- Scrum Product Development
+- Product Owner
+- Professional Scrum
+- Software Development
+- Backlog Refinement
+- Product Backlog
+- Agile Product Management
+- Scrum Team
+- Agile Frameworks
 categories:
-  - agility
-preview:
+- Scrum
+- Product Management
+- Social Technologies
+preview: 
 previewIcon: A-S4PO.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -55,14 +75,14 @@ outcomes: |2+
   5. Getting “Done”
   6. Improving as a team
 
-assessment:
-objectives:
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+assessment: 
+objectives: 
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.

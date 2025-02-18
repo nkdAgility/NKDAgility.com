@@ -1,68 +1,69 @@
 ---
-title: ' shorts 5 kinds of Agile bandits. 3rd kind'
-description: "Discover the 3rd kind of Agile bandit with Martin Hinshelwood! Uncover insights on story points and boost your team's agility. #Agile #Scrum #Shorts"
+title: "Ditching Agile Banditry: Why Story Points and Velocity Metrics Are Undermining Your Team's Success"
+description: Ditch the agile banditry! Discover how to replace story points and velocity with objective metrics that empower teams and enhance collaboration.
 date: 2024-01-08T11:00:37Z
 ResourceId: eK8YscAACnE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: eK8YscAACnE
 url: /resources/videos/:slug
 slug: -shorts-5-kinds-of-agile-bandits-3rd-kind
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=eK8YscAACnE
 aliases:
 - /resources/videos/eK8YscAACnE
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/eK8YscAACnE
+aliasesFor404:
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
 preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Metrics and Learning
+- Pragmatic Thinking
+- Throughput
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Kanban
+- Product Management
+- Social Technologies
 
 ---
- #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 agile bandits. This video features #storypoints 
+In my journey through the world of Agile, I've encountered a recurring theme that I can only describe as "agile banditry." This term might sound a bit dramatic, but it perfectly encapsulates the misuse of certain Agile practices that can undermine the very principles we strive to uphold. One of the most common culprits? The infamous story points and velocity metrics.
 
-About NKD Agility
+### The Misuse of Story Points and Velocity
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Let’s be clear: story points and velocity are often wielded like weapons against teams. I've seen it happen time and again—leadership or stakeholders will use these metrics to ambush teams, demanding predictability and performance based on subjective measures. This approach not only misrepresents the true nature of Agile but also creates an environment of mistrust and anxiety.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Subjectivity at Play**: Story points are inherently subjective. They rely on team members' perceptions and estimations, which can vary widely. When these points are used to evaluate performance, they can lead to misunderstandings and misaligned expectations.
+  
+- **Ambushing Teams and Leadership**: I've witnessed teams being pressured to justify their velocity, often leading to a toxic atmosphere where they feel they must "perform" rather than collaborate. This is not what Agile is about. It’s about fostering a culture of openness and continuous improvement, not one of fear and defensiveness.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+### A Call to Action: Ditch the Banditry
 
-We would love to work with you. 
+So, what can we do instead? I urge you to abandon the use of story points and velocity as performance metrics. Instead, focus on more objective measures that truly reflect the team's output and efficiency. Here are a couple of alternatives that I've found to be far more effective:
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=eK8YscAACnE)
+- **Cycle Time**: This metric measures the time it takes for a task to move from start to finish. It provides a clear picture of how efficiently work is being completed and can help identify bottlenecks in the process.
+
+- **Throughput**: This refers to the number of tasks completed in a given timeframe. By tracking throughput, teams can gain insights into their capacity and make informed decisions about future work.
+
+### Embracing Objective Measures
+
+By shifting our focus to cycle time and throughput, we can foster a more collaborative environment where teams feel empowered to share their challenges and successes without the fear of being judged by arbitrary numbers. This approach aligns with the core values of Agile—transparency, collaboration, and continuous improvement.
+
+In my experience, when teams are encouraged to engage in meaningful conversations about their work, rather than being pressured to meet specific metrics, they become more cohesive and productive. They start to understand their processes better and can adapt more effectively to changes.
+
+### Conclusion
+
+Let’s put an end to agile banditry. By moving away from the misuse of story points and velocity, we can create a healthier Agile environment that prioritises genuine collaboration and improvement. Remember, Agile is not just about delivering software; it’s about delivering value through empowered teams. 
+
+So, the next time you find yourself reaching for those story points, take a step back. Ask yourself: are these metrics helping my team, or are they just another form of ambush? Let’s choose wisely and embrace the true spirit of Agile.

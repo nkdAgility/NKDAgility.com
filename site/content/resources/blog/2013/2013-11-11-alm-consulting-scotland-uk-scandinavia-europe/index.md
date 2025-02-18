@@ -2,14 +2,13 @@
 title: ALM Consulting in Scotland, UK, Scandinavia &amp; Europe
 description: Discover expert ALM consulting across Scotland, the UK, and Europe. Enhance your software development processes with tailored training and coaching.
 ResourceId: ETl5K8OQ9kV
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10226
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-11-11
 creator: Martin Hinshelwood
-id: "10226"
 layout: blog
 resourceTypes: blog
 slug: alm-consulting-scotland-uk-scandinavia-europe
@@ -29,29 +28,22 @@ aliasesFor404:
 - /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
 - /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
+- /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 tags:
-- automated-build
-- automation
-- build
-- consulting
-- dps
-- europe
-- lean
-- lean-agile
-- migration
-- modern-alm
-- scandinavia
-- scotland
-- tfs
-- training
-- uk
-- upgrade
+- Coaching
+- Application Lifecycle Management
+- Software Development
+- People and Process
+- Product Delivery
+- Practical Techniques and Tooling
+- Technical Excellence
+- Pragmatic Thinking
+- Operational Practices
+- Agile Project Management
 categories:
-- events-and-presentations
-- install-and-configuration
-- me
-- news-and-reviews
-- tools-and-techniques
+- Social Technologies
+- Engineering Excellence
+- DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

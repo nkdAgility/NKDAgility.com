@@ -3,7 +3,7 @@ title: What is a sprint goal?
 description: 'Discover the essence of a product goal! Join Martin Hinshelwood as he explains its importance in aligning team efforts with customer value. #Agile #Scrum'
 date: 2023-05-30T11:00:40Z
 ResourceId: qXsjLuss22Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qXsjLuss22Y
@@ -21,34 +21,25 @@ aliases:
 - /resources/videos/qXsjLuss22Y
 - /resources/what-is-a-product-goal-
 - /resources/qXsjLuss22Y
+aliasesFor404:
+- /resources/what-is-a-sprint-goal
+- /resources/what-is-a-product-goal
+- /resources/videos/what-is-a-product-goal-
+- /resources/what-is-a-product-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
+- People and Process
+- Agile Product Management
 - Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Strategy
 resourceTypes:
 - video
+categories:
+- Product Management
+- Social Technologies
+- Scrum
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

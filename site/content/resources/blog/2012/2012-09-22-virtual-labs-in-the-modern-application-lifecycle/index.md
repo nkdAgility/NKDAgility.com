@@ -2,14 +2,13 @@
 title: Virtual Labs in the modern application lifecycle
 description: Explore how virtual labs enhance the modern application lifecycle, enabling agile development and efficient testing in complex environments. Rise to the challenge!
 ResourceId: SXJ7aTQkyMj
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 8803
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-22
 creator: Martin Hinshelwood
-id: "8803"
 layout: blog
 resourceTypes: blog
 slug: virtual-labs-in-the-modern-application-lifecycle
@@ -21,22 +20,21 @@ aliases:
 aliasesFor404:
 - /virtual-labs-in-the-modern-application-lifecycle
 - /blog/virtual-labs-in-the-modern-application-lifecycle
+- /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 tags:
-- agile
-- infrastructure
-- modern-application-lifecycle
-- practices
-- process
-- s30d
-- tfs
-- tfs2012
-- the-new-normal
-- tools
-- virtual-labs
-- visual-studio
-- vs2012
+- Application Lifecycle Management
+- Automated Testing
+- Software Development
+- Practical Techniques and Tooling
+- Product Delivery
+- Platform Engineering
+- Technical Mastery
+- Software Developers
+- Operational Practices
+- Technical Excellence
 categories:
-- tools-and-techniques
+- Engineering Excellence
+- DevOps
 preview: metro-lab-5-5.png
 
 ---

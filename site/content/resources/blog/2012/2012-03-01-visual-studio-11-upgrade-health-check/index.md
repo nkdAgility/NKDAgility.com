@@ -2,14 +2,13 @@
 title: Visual Studio 11 Upgrade Health Check
 description: Prepare for a smooth transition to Visual Studio 11 with our expert Health Check. Ensure your upgrade is seamless and unlock new features today!
 ResourceId: A8N6LXr-4Ql
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4747
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-01
 creator: Martin Hinshelwood
-id: "4747"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-11-upgrade-health-check
@@ -21,17 +20,21 @@ aliases:
 aliasesFor404:
 - /visual-studio-11-upgrade-health-check
 - /blog/visual-studio-11-upgrade-health-check
+- /resources/blog/visual-studio-11-upgrade-health-check
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- tfs2012
-- tools
-- visual-studio
-- vs2012
+- Events and Presentations
+- Team Performance
+- People and Process
+- Team Collaboration
+- Products and Books
+- News and Reviews
+- Practical Techniques and Tooling
+- Install and Configuration
+- Agile Frameworks
+- Software Development
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Scrum
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

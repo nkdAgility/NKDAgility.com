@@ -2,14 +2,13 @@
 title: Online is the new co-located
 description: Explore how online participation redefines co-location in agile practices. Embrace video engagement for effective communication and collaboration in virtual events.
 ResourceId: QnZVgaG90q_
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 44487
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-16
 creator: Martin Hinshelwood
-id: "44487"
 layout: blog
 resourceTypes: blog
 slug: online-is-the-new-co-located
@@ -21,13 +20,20 @@ aliases:
 aliasesFor404:
 - /online-is-the-new-co-located
 - /blog/online-is-the-new-co-located
+- /resources/blog/online-is-the-new-co-located
 tags:
-- featured
-- leadership-track
-- scrum-theory
+- Transparency
+- People and Process
+- Events and Presentations
+- Transparency and Accountability
+- Team Collaboration
+- Pragmatic Thinking
+- Remote Working
+- Team Performance
+- Collaboration Tools
+- Personal
 categories:
-- agility
-- people-and-process
+- Social Technologies
 preview: image-21-3-3.png
 
 ---

@@ -2,14 +2,13 @@
 title: Move your Active Directory domain to another server
 description: Learn how to successfully move your Active Directory domain to a new server with expert tips and a detailed video guide. Simplify your migration process!
 ResourceId: koQQ-rllpsw
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10334
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-20
 creator: Martin Hinshelwood
-id: "10334"
 layout: blog
 resourceTypes: blog
 slug: move-your-active-directory-domain-to-another-server
@@ -21,13 +20,13 @@ aliases:
 aliasesFor404:
 - /move-your-active-directory-domain-to-another-server
 - /blog/move-your-active-directory-domain-to-another-server
+- /resources/blog/move-your-active-directory-domain-to-another-server
 tags:
-- active-directory
-- domain
-- server-2012-r2
-- tf255435
-categories:
-- install-and-configuration
+- Windows
+- Install and Configuration
+- Troubleshooting
+- System Configuration
+categories: []
 preview: metro-server-instances_thumb-2-2.png
 
 ---

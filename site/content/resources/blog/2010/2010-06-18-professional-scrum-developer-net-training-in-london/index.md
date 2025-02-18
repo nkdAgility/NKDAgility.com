@@ -2,14 +2,13 @@
 title: Professional Scrum Developer (.NET) Training in London
 description: Join the Professional Scrum Developer training in London to enhance your .NET skills, collaborate in teams, and master Agile practices. Sign up now!
 ResourceId: 3N171wqPaTf
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 37
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-18
 creator: Martin Hinshelwood
-id: "37"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-developer-net-training-in-london
@@ -25,17 +24,16 @@ aliasesFor404:
 - /blog/professional-scrum-developer-net-training-in-london
 - /professional-scrum-developer-(-net)-training-in-london
 - /blog/professional-scrum-developer-(-net)-training-in-london
+- /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
-- agile
-- events-and-presentations
-- process
-- proscrumdev
-- psd
-- scrum
-- ssw
-- tools
+- Scrum Product Development
+- Professional Scrum
+- Software Development
+- Agile Frameworks
+- Events and Presentations
 categories:
-- events-and-presentations
+- Scrum
+- Social Technologies
 preview: metro-event-128-link-1-1.png
 
 ---

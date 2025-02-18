@@ -1,50 +1,81 @@
 ---
-title: Agile Consulting Services overview
-description: Discover NKD Agility's Agile Consulting services in this video, where Martin Hinshelwood explains how we empower teams to thrive in agile environments.
+title: 'Unlocking Agile Consulting: Transform Your Organisation with Diverse Strategies and Continuous Learning'
+description: Unlock the secrets of Agile Consulting! Discover diverse strategies, empower your team, and maximise value in your organisation. Join the journey today!
 date: 2023-06-17T07:30:02Z
 ResourceId: 82_yTGt9pLM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 82_yTGt9pLM
 url: /resources/videos/:slug
 slug: agile-consulting-services-overview
-canonicalUrl: https://www.youtube.com/watch?v=82_yTGt9pLM
 aliases:
 - /resources/videos/82_yTGt9pLM
 - /resources/videos/agile-consulting-services-overview
 - /resources/agile-consulting-services-overview
 - /resources/82_yTGt9pLM
+aliasesFor404:
+- /resources/videos/agile-consulting-services-overview
+- /resources/agile-consulting-services-overview
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 isShort: false
 tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
-- Agile training
+- People and Process
+- Agile Frameworks
+- Agile Strategy
+- Agile Transformation
+- Organisational Agility
+- Agile Philosophy
+- Organisational Change
+- Pragmatic Thinking
+- Discovery and Learning
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
- #agileconsulting can appear somewhat nebulous because of the adaptive and responsive nature of consulting engagements. That said, we all like to know what we are buying before making an investment in a service, so in this short video Martin Hinshelwood explains what NKD Agility Agile Consulting services look, sound, and feel like.
+When I think about Agile Consulting, I often find that it’s a term that can leave people scratching their heads. What does it really mean? Over the years, I’ve developed my own approach to Agile Consulting, and I’d like to share some insights from my experiences that might help clarify this nebulous concept.
 
-About NKD Agility
+### Understanding Agile Consulting
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+At its core, Agile Consulting is about conversation and connection. It’s about helping organisations understand that there are multiple pathways to success, rather than being locked into a single framework like Scrum or Kanban. Here’s what I’ve learned:
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Diverse Options**: Many teams get so entrenched in one methodology that they forget there are other strategies available. My role is to help them see the broader landscape of options that can lead to successful product delivery.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+- **Bridging the Gap**: Agile isn’t just a tool for delivering projects; it’s a mindset that can transform the entire organisation. I often find myself filling the gap between the ideal world presented in training sessions and the realities of the workplace. 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Focusing on Value**: Ultimately, the goal for most organisations is to maximise revenue for the effort they invest. By fostering tighter feedback loops and encouraging more frequent customer interactions, we can help teams deliver greater value.
 
-We would love to work with you. 
+### Engaging at All Levels
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=82_yTGt9pLM)
+One of the most rewarding aspects of my work is engaging with people at various levels within an organisation. Whether I’m working directly with teams or collaborating with leadership, the focus remains the same: improving the way they work together. Here’s how I approach this:
+
+- **Workshops**: I run workshops that serve dual purposes. Not only do we aim to achieve specific outcomes, but I also strive to ensure participants leave with new skills. This could be anything from learning how to facilitate better discussions to navigating the often tricky dynamics of team disagreements.
+
+- **Empowering Change**: A key takeaway from my experience is that change must come from within the organisation. As a consultant, I can’t dictate how a business should operate. Instead, my role is to provoke thought and inspire the people within the organisation to identify and implement the necessary changes.
+
+### Assessing the Current State
+
+Before diving into solutions, it’s crucial to understand where an organisation currently stands. I often conduct state-of-Agile reports, which involve:
+
+- **Interviews**: I speak with individuals at all levels to gauge the current state of agility within the organisation. This helps identify opportunities for improvement.
+
+- **Identifying Challenges**: From these discussions, I compile a report that highlights the top three challenges the organisation faces. This serves as a foundation for future conversations about potential support and training.
+
+### The Journey of Continuous Learning
+
+Agile Consulting is not a one-size-fits-all solution. It requires a diverse toolkit and a commitment to continuous learning. I’m always on the lookout for new methods, theories, and tools that can enhance my practice. Here’s what I focus on:
+
+- **Knowledge Sharing**: I aim to provide organisations with the information they need to move forward. This could be insights from my experiences or new methodologies that I’ve discovered.
+
+- **Building Relationships**: Ultimately, it’s about fostering relationships and creating an environment where teams feel empowered to experiment and grow.
+
+In conclusion, Agile Consulting is a multifaceted journey that involves understanding, engaging, and empowering organisations to embrace change. If you’re interested in exploring this further or have any questions about Agile, Scrum, or DevOps, I invite you to connect with me. Let’s grab a coffee and discuss how we can navigate this exciting landscape together.

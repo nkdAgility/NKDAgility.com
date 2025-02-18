@@ -2,14 +2,13 @@
 title: Software Development Industrial Revolution
 description: Explore the software development industrial revolution and learn how Team Foundation Server can enhance collaboration and speed in IT projects. Join the change!
 ResourceId: 3YR-l0WfbLK
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 416
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
 creator: Martin Hinshelwood
-id: "416"
 layout: blog
 resourceTypes: blog
 slug: software-development-industrial-revolution
@@ -21,22 +20,21 @@ aliases:
 aliasesFor404:
 - /software-development-industrial-revolution
 - /blog/software-development-industrial-revolution
+- /resources/blog/software-development-industrial-revolution
 tags:
-- code
-- configuration
-- define
-- develop
-- fail
-- infrastructure
-- operate
-- people
-- practices
-- process
-- tools
+- Pragmatic Thinking
+- Working Software
+- Software Development
+- Application Lifecycle Management
+- Product Delivery
+- News and Reviews
+- People and Process
+- Team Collaboration
+- Products and Books
+- Release Management
 categories:
-- measure-and-learn
-- people-and-process
-- tools-and-techniques
+- Engineering Excellence
+- DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

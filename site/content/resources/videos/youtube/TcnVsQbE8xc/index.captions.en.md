@@ -1,0 +1,3 @@
+So one of the key reasons to do PSM to Scrum Master advanced class is to gain a deeper understanding of the three different focus areas of the Scrum Master and even realise that there are three is a great one as well. The focus on the team, right? How do you help the team be more effective? Right after getting rid of all the crap that you think a Scrum Master has to do, how do you actually help them? How do you help the Product Owner be more effective at your product management? 
+
+And also, how do you help the organisation? Right? What are the Scrum Master's responsibilities to the organisation and helping them adopt these practices and be more effective?

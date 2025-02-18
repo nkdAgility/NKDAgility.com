@@ -2,14 +2,13 @@
 title: Deployment documentation
 description: Explore effective deployment strategies for complex applications across multiple environments. Learn how to gain control and streamline updates with ease.
 ResourceId: 154BNVcnbaU
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 363
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
 creator: Martin Hinshelwood
-id: "363"
 layout: blog
 resourceTypes: blog
 slug: deployment-documentation
@@ -21,9 +20,21 @@ aliases:
 aliasesFor404:
 - /deployment-documentation
 - /blog/deployment-documentation
+- /resources/blog/deployment-documentation
 categories:
-- code-and-complexity
+- DevOps
 preview: metro-binary-vb-128-link-1-1.png
+tags:
+- Application Lifecycle Management
+- Release Management
+- Deployment Strategies
+- Practical Techniques and Tooling
+- System Configuration
+- Install and Configuration
+- Software Development
+- Product Delivery
+- Pragmatic Thinking
+- Operational Practices
 
 ---
 Over the past week I have been working on creating and documenting a deployment process for our new main business application. This application is very complicated and requires twenty servers per four environments. We need to track and control deployment to UAT, pre-production, production and C&R (disaster recovery site), but my company as a larger organization only requires control of production.

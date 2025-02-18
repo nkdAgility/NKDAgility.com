@@ -3,7 +3,7 @@ title: How do you select the most valuable items for the sprint backlog?
 description: "Master the art of selecting valuable Sprint backlog items in Scrum! Join Martin as he uncovers strategic insights for effective Agile planning. \U0001F3A8\U0001F4C8"
 date: 2023-05-30T07:00:18Z
 ResourceId: uCyHR_eU22A
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uCyHR_eU22A
@@ -20,34 +20,30 @@ aliases:
 - /resources/videos/uCyHR_eU22A
 - /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 - /resources/uCyHR_eU22A
+aliasesFor404:
+- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
+- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
+- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
+- Product Owner
 - Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Product Backlog
+- Scrum Team
+- Agile Product Management
+- Scrum Master
+- People and Process
+- Professional Scrum
+- Software Developers
+- Software Development
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
+- Product Management
 
 ---
 ## Navigating Sprint Backlog Selection

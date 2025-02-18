@@ -1,0 +1,17 @@
+So we have this program. I call it the, well, I guess it's confusingly named underemployment, underemployed, unemployed program. I kind of change the name depending on how I feel that day. 
+
+Um, and it's a program that allows people who either don't have a job, right, so they're changing careers, or just happen to be made redundant, right? That could be things that happen. Um, or if they're in a job that is beneath them, right? That's depending on your country, they're going to calculate um unemployment in various different ways. But most of the major countries calculate, include in unemployment figures somebody who is underemployed. 
+
+So that is, uh, you're a nuclear physicist and you're currently working at McDonald's, right? You're underemployed. You should be working somewhere using your talents and capability that you've got. But it could be, I mean, I'm creating a big one there, but that could be any, you know, even short gaps. Uh, somebody who is normally a project manager who is working with teams or a scrum master and, um, they're having to do something else because there are jobs available in their particular context, right? That's the under slash unemployed program that we have. 
+
+And, um, the reason I created it was because there are so many people that are in that category and they can really struggle to afford premium training like we're talking about, right? You want to get your PSM, your PSPO, your Advanced, whatever it is, because you think it will enable um doors to open for you, right? We all know that that certification is not the be all and end all of knowledge. It's not a thing that you should rely on, right? But lots of recruiters and companies do rely on it. And while they do rely on it, it's perhaps something that you could add to your CV. It adds to your story that would open a door and enable you to then have a conversation with somebody, and that's where you are then able to shine. 
+
+Right? And part of that, um, um, story is being able to participate in these trainings, gain some extra understanding, and that bit of paper that perhaps cracks that door to get into that interview, um, so that you can shine. So that's why I created it. 
+
+Um, if the way it works is, um, you go to my website, you book a class, and instead of paying upfront, which is what most people are going to do, um, you can pick invoice and then give me a call, uh, give me a chat, chat to me, email me, whatever. 
+
+Um, and we can have a conversation. And what I do is I just set it as a 30% deposit up front, so you pay a little bit, right? It's not going to be completely free; I have costs too, right? So there's a 30% deposit up front, and then you pay the rest when you're ready, right? When you feel, uh, you're, when you've got that job that you want that's paying you the rate that you're worth, right? Then you can pay it back. 
+
+Um, I've done this a few times with a few people. I've never had anybody not pay it back, and most people pay it back fairly quickly. So, uh, I am always happy to help people increase their ability, increase their capability, and if this program can help them, that's great. 
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else, add your scrum or DevOps, then please book a coffee with me through Naked Agility.

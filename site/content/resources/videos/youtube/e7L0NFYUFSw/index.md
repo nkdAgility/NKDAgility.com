@@ -3,7 +3,7 @@ title: Does scrum really allow you to do twice the work in half the time?
 description: 'Explore if Scrum truly enables you to achieve twice the work in half the time, as Martin Hinshelwood unpacks its real value proposition. #Scrum #Agile'
 date: 2023-02-02T07:00:13Z
 ResourceId: e7L0NFYUFSw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: e7L0NFYUFSw
@@ -16,21 +16,25 @@ aliases:
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/e7L0NFYUFSw
+aliasesFor404:
+- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
+- /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
 tags:
-- Scrum
-- Product Development
-- Agile
-- Project Management
+- Agile Frameworks
 - Agile Project Management
+- People and Process
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
  Jeff Sutherland, the co-creator of #scrum, titled his book 'How to do twice the work in half the time' and it's been a value proposition for the #scrumframework ever since.

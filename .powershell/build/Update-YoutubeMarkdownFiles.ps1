@@ -3,7 +3,7 @@
 . ./.powershell/_includes/HugoHelpers.ps1
 
 $outputDir = "site\content\resources\videos\youtube"
-$excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
+# $excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
 
 # Function to use OpenAI to update the description if needed
 function Get-UpdatedDescription {
@@ -90,11 +90,11 @@ function Update-YoutubeMarkdownFiles {
 
             $aliases = @("/resources/$videoId", "/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
            
-            # Get the tags from the snippet and filter out excluded tags
-            $tags = @()
-            if ($videoSnippet.tags) {
-                $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
-            }
+            # # Get the tags from the snippet and filter out excluded tags
+            # $tags = @()
+            # if ($videoSnippet.tags) {
+            #     $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
+            # }
 
             # Use Update-Field from HugoHelpers.ps1 to update or add each field
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'title' -fieldValue $title 
@@ -149,9 +149,9 @@ function Update-YoutubeMarkdownFiles {
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort
-            if ($tags.Count -gt 0) {
-                Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -addAfter "isShort"
-            }
+            # if ($tags.Count -gt 0) {
+            #     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -addAfter "isShort"
+            # }
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -addAfter "duration"
             if ($source -eq "youtube") {
                 $priority = 0.4

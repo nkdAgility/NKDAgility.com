@@ -3,7 +3,7 @@ title: 'Understanding the Difference: Traditional Management vs. Evidence-Based 
 description: Explore the key differences between Traditional Management and Evidence-Based Management (EBM) in decision-making for better organisational success!
 date: 2024-09-12T07:00:02Z
 ResourceId: 3CgKmunwiSQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3CgKmunwiSQ
@@ -19,23 +19,28 @@ aliases:
 - /resources/videos/3CgKmunwiSQ
 - /resources/traditional-management-vs-evidence-based-management
 - /resources/3CgKmunwiSQ
+aliasesFor404:
+- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/traditional-management-vs-evidence-based-management
+- /resources/traditional-management-vs-evidence-based-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- EBM
+- Decision Making
 - Evidence Based Management
-- Agile Project Management
-- Project Management
-- Project Manager
-- Product Management
-- Agile Product Management
-- Product Manager
-- Product Owner
-- Scrum Master
+- Metrics and Learning
+- Evidence Based Leadership
+- People and Process
+- Decision Theory
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
+categories:
+- Product Management
+- Leadership
+- Social Technologies
 
 ---
 ## **What Is Traditional Management?**

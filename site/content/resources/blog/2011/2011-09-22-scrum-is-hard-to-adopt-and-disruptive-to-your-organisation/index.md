@@ -2,14 +2,13 @@
 title: Scrum is hard to adopt and disruptive to your organisation
 description: Discover the challenges of adopting Scrum in your organization. Learn why commitment and training are essential for successful Agile transformation.
 ResourceId: TRgmAScsBJs
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 3789
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-22
 creator: Martin Hinshelwood
-id: "3789"
 layout: blog
 resourceTypes: blog
 slug: scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
@@ -21,19 +20,21 @@ aliases:
 aliasesFor404:
 - /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
+- /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 tags:
-- agile
-- define
-- develop
-- nwcadence
-- operate
-- people
-- practices
-- process
-- pst
-- scrum
+- Mentoring
+- People and Process
+- Scrum Product Development
+- Agile Product Management
+- Agile Project Management
+- Change Management
+- Organisational Change
+- Agile Frameworks
+- Software Development
+- Team Performance
 categories:
-- people-and-process
+- Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-4-4.png
 
 ---

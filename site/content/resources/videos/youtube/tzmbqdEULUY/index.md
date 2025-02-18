@@ -1,49 +1,68 @@
 ---
-title: DevOps Migration. Downtime
-description: Discover strategies to minimise downtime during Azure DevOps migrations. Learn from real-world examples and expert tips for a seamless transition!
+title: 'Mastering Data Migration: How to Minimise Downtime and Keep Your Engineers Productive'
+description: Minimise downtime during data migration with expert insights! Discover how strategic planning and Git can keep your team productive.
 date: 2024-11-05T06:00:34Z
 ResourceId: tzmbqdEULUY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tzmbqdEULUY
 url: /resources/videos/:slug
 slug: devops-migration-downtime
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=tzmbqdEULUY
 aliases:
 - /resources/videos/tzmbqdEULUY
 - /resources/videos/devops-migration-downtime
 - /resources/devops-migration-downtime
 - /resources/tzmbqdEULUY
+aliasesFor404:
+- /resources/videos/devops-migration-downtime
+- /resources/devops-migration-downtime
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- Azure
 - Azure DevOps
-- Azure DevOps migration
-- DevOps
-- DevOps migration
+- Software Development
+- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Operational Practices
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- DevOps
 
 ---
- In this video, we tackle one of the most critical challenges in Azure DevOps data migration: minimizing downtime. For organizations with thousands of engineers, even a short downtime can disrupt productivity. However, careful planning, strategic use of dry runs, and effective teamwork can help minimize downtime to almost zero.
+When it comes to data migration, one of the most pressing concerns for organisations is often the potential for downtime. However, I’ve learned through experience that this concern can sometimes be overstated, especially in environments with a large number of software engineers. Let me share some insights from my journey that might help you navigate this complex process.
 
-We discuss how Git, as a decentralized source control, allows engineers to work even during migration downtime. Plus, I share insights from a real-world case where we successfully migrated a massive 2.5TB TFS collection with minimal downtime by executing the migration on a Friday evening and restoring operations by Monday morning. Planning, validation, and collaboration were the keys to a smooth transition!
+### Understanding the Reality of Downtime
 
-Video Chapters:
+In a typical scenario, if you have a collection of 5,000 software engineers, the idea of them being unable to work due to downtime can sound alarming. But let’s unpack that a bit. Even if TFS or Azure DevOps goes offline, your engineers can still continue their work. Sure, collaboration becomes a bit trickier, but it’s not impossible. 
 
-00:00 - Introduction to Minimizing Downtime in Azure DevOps Migration
-00:26 - Understanding Workarounds for Downtime with Git
-01:09 - Real-World Example: Minimizing Downtime in Large-Scale Migrations
-02:03 - Planning, Dry Runs, and Best Practices for Migration Success
-03:26 - Key Takeaways for Global Teams Minimizing Migration Downtime
+- **Git as a Lifeline**: If your team is using Git as their source control system, they can still share code and work on their tasks offline. This is reminiscent of how Linux was developed—without a central source control system, developers communicated and shared patches via email. Git supports this kind of decentralised collaboration beautifully.
 
-👉 Watch the video to discover proven strategies for reducing downtime in Azure DevOps migrations. Don’t forget to like, comment, and subscribe to our channel for more expert guidance on DevOps! Visit https://nkdagility.com/capabilities/azure-devops-migration-services/ if you need help with your #azuredevops or #devopsmigration 
- [Watch on Youtube](https://www.youtube.com/watch?v=tzmbqdEULUY)
+- **Work Items and Context**: While engineers can continue coding, they won’t have access to work items during the downtime. This means they need to be well-informed about their tasks beforehand. Clear communication and planning are essential here.
+
+### Planning for Minimal Downtime
+
+From my experience, if you plan your migration effectively, downtime can be kept to an absolute minimum. I recall one of the largest migrations I managed, which involved moving a staggering 2.5 terabytes of data from an on-premises setup in Europe to Azure DevOps. Here’s how we achieved minimal disruption:
+
+- **Strategic Timing**: We scheduled the final migration to take place over a weekend. We took the system offline at 5:00 p.m. on Friday and were back online by Sunday morning. This allowed engineers to validate the migration over the weekend, ensuring everything was in order.
+
+- **Thorough Preparation**: This migration wasn’t a spur-of-the-moment decision. It took us 3 to 6 months of meticulous planning, dry runs, and validations to ensure everything would go smoothly. Dry runs are crucial—they allow you to test the process and identify potential pitfalls before the actual migration.
+
+- **Support from Experts**: Having Microsoft on hand during the migration was invaluable. Their expertise helped us navigate any issues that arose, ensuring a seamless transition.
+
+### The Outcome
+
+In the end, we managed to migrate a collection that supported around 5,500 software engineers with minimal downtime. While there was some unavoidable downtime for engineers in different regions, we did everything possible to minimise the impact. The key takeaway here is that with careful planning and the right tools, you can significantly reduce downtime during data migrations.
+
+### Final Thoughts
+
+Data migration doesn’t have to be a daunting task. By leveraging tools like Git and investing time in thorough planning and dry runs, you can ensure that your team remains productive, even in the face of potential downtime. Remember, it’s all about preparation and communication. If you approach your migration with these principles in mind, you’ll find that the process can be much smoother than you might expect. 
+
+So, the next time you’re faced with a data migration, take a deep breath, plan meticulously, and trust in the capabilities of your team and the tools at your disposal. You might just surprise yourself with how well it goes!

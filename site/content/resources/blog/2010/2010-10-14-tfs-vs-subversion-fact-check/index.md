@@ -2,14 +2,13 @@
 title: TFS vs. Subversion fact check
 description: Explore the key differences between TFS and Subversion in this insightful fact check. Discover solutions to common SVN user challenges with TFS 2010.
 ResourceId: Tpk1xLI-Ygd
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 22
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-14
 creator: Martin Hinshelwood
-id: "22"
 layout: blog
 resourceTypes: blog
 slug: tfs-vs-subversion-fact-check
@@ -25,13 +24,14 @@ aliasesFor404:
 - /blog/tfs-vs-subversion-fact-check
 - /tfs-vs--subversion-fact-check
 - /blog/tfs-vs--subversion-fact-check
+- /resources/blog/tfs-vs-subversion-fact-check
 tags:
-- codeproject
-- nwcadence
-- svn
-- tfs
-- tfs2010
-- tools
+- Modern Source Control
+- Install and Configuration
+- Software Development
+- Troubleshooting
+categories:
+- Engineering Excellence
 
 ---
 ![subversion](images/32ab51073e36_8B5F-subversion_-6-6.png)I spotted a good comparison of [TFS vs. Subversion](http://dotnet.dzone.com/news/tfs-vs-subversion) by [Jarosław Dobrzański](http://dobrzanski.net) on DZone (you can also read the [original post](http://dobrzanski.net/2010/04/17/tfs-subversion/)) but I feel that a couple of the points were either out of date, or borne out of a lack of knowledge of the product, or even more likely I just missed the point. This article was taken from the perspective of an SVN user who has moved to TFS, and I am not in that category.

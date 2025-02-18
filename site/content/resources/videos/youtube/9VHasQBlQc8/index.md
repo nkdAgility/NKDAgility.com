@@ -3,7 +3,7 @@ title: The Importance of Patience and Trust in Building Agile Organizations
 description: "Unlock Agile success with patience! Discover how this vital virtue builds trust, navigates setbacks, and fosters a non-blame culture. Watch now! \U0001F31F"
 date: 2023-12-08T07:00:06Z
 ResourceId: 9VHasQBlQc8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9VHasQBlQc8
@@ -20,35 +20,27 @@ aliases:
 - /resources/videos/9VHasQBlQc8
 - /resources/7-virtues-of-agile-patience
 - /resources/9VHasQBlQc8
+aliasesFor404:
+- /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
+- /resources/videos/7-virtues-of-agile-patience
+- /resources/7-virtues-of-agile-patience
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- People and Process
+- Organisational Culture
+- Agile Philosophy
+- Agile Leadership
+- Agile Values and Principles
+- Team Performance
+- Team Collaboration
+- Team Motivation
+- Personal
 resourceTypes:
 - video
+categories:
+- Leadership
 
 ---
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.

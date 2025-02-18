@@ -3,7 +3,7 @@ title: Momentum
 description: "Discover the power of momentum in product development and organisational culture with Martin Hinshelwood. Boost your agile team's performance today! #agile #scrum"
 date: 2023-05-16T07:00:02Z
 ResourceId: 5bgfme-Pspw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5bgfme-Pspw
@@ -19,20 +19,22 @@ aliases:
 - /resources/videos/5bgfme-Pspw
 - /resources/momentum
 - /resources/5bgfme-Pspw
+aliasesFor404:
+- /resources/momentum-2
+- /resources/videos/momentum
+- /resources/momentum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Momentum
-- Team performance
-- Agile
-- Agile Team
-- Scrum
-- Scrum Team
-- Product Development
+- Miscellaneous
+- Product Delivery
 resourceTypes:
 - video
 layout: video
+categories:
+- Product Management
+- Leadership
 
 ---
 **Momentum**

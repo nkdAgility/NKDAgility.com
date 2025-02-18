@@ -1,0 +1,3465 @@
+1
+00:00:02,870 --> 00:00:09,480
+so the idea of the presentation is to
+
+2
+00:00:05,609 --> 00:00:11,429
+show you where we stand today our
+
+3
+00:00:09,480 --> 00:00:15,539
+investigation regarding how we would
+
+4
+00:00:11,429 --> 00:00:20,550
+like to break out the that get the
+
+5
+00:00:15,539 --> 00:00:23,160
+biggest of the collections and our
+
+6
+00:00:20,550 --> 00:00:25,109
+concerns about migrating to a source and
+
+7
+00:00:23,160 --> 00:00:30,449
+things that we would like to clarify
+
+8
+00:00:25,109 --> 00:00:33,780
+with you yeah so whatever it is that
+
+9
+00:00:30,449 --> 00:00:35,790
+refers that to be scenario is the idea
+
+10
+00:00:33,780 --> 00:00:38,570
+that we have this huge collection that
+
+11
+00:00:35,790 --> 00:00:41,220
+we want to break down in order to
+
+12
+00:00:38,570 --> 00:00:44,760
+provide access to different teams and
+
+13
+00:00:41,220 --> 00:00:47,130
+have the rights elated environment so as
+
+14
+00:00:44,760 --> 00:00:49,530
+it is right now it's a bit of a huge
+
+15
+00:00:47,130 --> 00:00:52,890
+strain if we have one project collection
+
+16
+00:00:49,530 --> 00:00:55,470
+that has multiple repositories multiple
+
+17
+00:00:52,890 --> 00:00:57,600
+branches they contain implementation of
+
+18
+00:00:55,470 --> 00:01:00,750
+the core product functionality as well
+
+19
+00:00:57,600 --> 00:01:05,280
+as customizations that are project
+
+20
+00:01:00,750 --> 00:01:10,170
+specific so what we want to achieve is
+
+21
+00:01:05,280 --> 00:01:13,350
+let's say separate these two and have
+
+22
+00:01:10,170 --> 00:01:16,619
+the product component in a separate
+
+23
+00:01:13,350 --> 00:01:19,770
+project and it's project specific
+
+24
+00:01:16,619 --> 00:01:22,289
+implementation in its separate one so
+
+25
+00:01:19,770 --> 00:01:24,359
+instead of having to implement the
+
+26
+00:01:22,289 --> 00:01:27,570
+security restrictions within the same
+
+27
+00:01:24,359 --> 00:01:30,210
+project in the collection break out this
+
+28
+00:01:27,570 --> 00:01:33,299
+huge project into something like let's
+
+29
+00:01:30,210 --> 00:01:36,780
+say this having its own repositories its
+
+30
+00:01:33,299 --> 00:01:39,450
+own pipelines its own teams its own
+
+31
+00:01:36,780 --> 00:01:41,310
+administrative team who is going to
+
+32
+00:01:39,450 --> 00:01:46,799
+define which members of which team is
+
+33
+00:01:41,310 --> 00:01:49,369
+going to have access to what and since
+
+34
+00:01:46,799 --> 00:01:53,009
+we are going to be migrating let's say -
+
+35
+00:01:49,369 --> 00:01:56,340
+as well we have the common project
+
+36
+00:01:53,009 --> 00:01:59,869
+template with the work item templates
+
+37
+00:01:56,340 --> 00:02:03,869
+that have the additions and the
+
+38
+00:01:59,869 --> 00:02:06,299
+customization that we have and build
+
+39
+00:02:03,869 --> 00:02:10,200
+agents that are going to support the
+
+40
+00:02:06,299 --> 00:02:13,530
+field pipelines on its project that are
+
+41
+00:02:10,200 --> 00:02:15,300
+going to be a topic for the next slides
+
+42
+00:02:13,530 --> 00:02:19,450
+as we go on
+
+43
+00:02:15,300 --> 00:02:23,200
+so we have a couple of things that we
+
+44
+00:02:19,450 --> 00:02:26,500
+would like to check one thing is that we
+
+45
+00:02:23,200 --> 00:02:29,860
+need to migrate from this cluster of
+
+46
+00:02:26,500 --> 00:02:32,170
+repositories that it is right now into
+
+47
+00:02:29,860 --> 00:02:37,450
+different projects and repositories of
+
+48
+00:02:32,170 --> 00:02:40,990
+their own and keeping the history I saw
+
+49
+00:02:37,450 --> 00:02:44,790
+that we could move associated work items
+
+50
+00:02:40,990 --> 00:02:48,540
+from the pool to different repositioned
+
+51
+00:02:44,790 --> 00:02:52,030
+projects but we had to use the analytics
+
+52
+00:02:48,540 --> 00:02:57,160
+feature which I couldn't quite get to be
+
+53
+00:02:52,030 --> 00:03:00,370
+working yet and when we have to migrate
+
+54
+00:02:57,160 --> 00:03:03,940
+it to Azure DevOps services online we
+
+55
+00:03:00,370 --> 00:03:06,070
+would like to have an inside of whatever
+
+56
+00:03:03,940 --> 00:03:08,770
+restrictions they may apply for example
+
+57
+00:03:06,070 --> 00:03:11,040
+I found that known as the web service
+
+58
+00:03:08,770 --> 00:03:16,000
+there is a hard limit of 300 projects
+
+59
+00:03:11,040 --> 00:03:17,770
+where organizations with organization
+
+60
+00:03:16,000 --> 00:03:22,170
+for the rest released in our case is the
+
+61
+00:03:17,770 --> 00:03:22,170
+project collection as yep Eric now
+
+62
+00:03:22,950 --> 00:03:28,150
+so one thing we have to consider is this
+
+63
+00:03:25,870 --> 00:03:32,620
+maybe there are others but that I
+
+64
+00:03:28,150 --> 00:03:34,959
+haven't found out yet so for example as
+
+65
+00:03:32,620 --> 00:03:36,640
+I said we have a custom process template
+
+66
+00:03:34,959 --> 00:03:37,150
+that we have set up that's based on the
+
+67
+00:03:36,640 --> 00:03:42,459
+scrammed
+
+68
+00:03:37,150 --> 00:03:44,590
+so it has epics and PBIS and so on while
+
+69
+00:03:42,459 --> 00:03:46,269
+we have done so far is that we have
+
+70
+00:03:44,590 --> 00:03:48,760
+changed the work item templates added
+
+71
+00:03:46,269 --> 00:03:51,160
+new fields or changes in the form layout
+
+72
+00:03:48,760 --> 00:03:55,989
+or the workflow we have incorporated
+
+73
+00:03:51,160 --> 00:03:59,200
+steps of our own very same change in the
+
+74
+00:03:55,989 --> 00:04:01,810
+XML for the requirement category I guess
+
+75
+00:03:59,200 --> 00:04:04,750
+this is for it to be shown and treated
+
+76
+00:04:01,810 --> 00:04:10,090
+for the bugs to be treated as tasks in
+
+77
+00:04:04,750 --> 00:04:12,549
+the in the backlogs the process
+
+78
+00:04:10,090 --> 00:04:15,489
+configuration XML I have seen that there
+
+79
+00:04:12,549 --> 00:04:18,940
+are changes compared to the described
+
+80
+00:04:15,489 --> 00:04:22,479
+template as it comes out of the box and
+
+81
+00:04:18,940 --> 00:04:24,940
+we are using custom global lists that we
+
+82
+00:04:22,479 --> 00:04:29,850
+used to populate set and drop-down
+
+83
+00:04:24,940 --> 00:04:34,780
+fields and are in our form templates
+
+84
+00:04:29,850 --> 00:04:36,639
+so what we need to consider when we are
+
+85
+00:04:34,780 --> 00:04:40,030
+going to separate this huge collection
+
+86
+00:04:36,639 --> 00:04:42,490
+is for example that's a hosted XML
+
+87
+00:04:40,030 --> 00:04:46,300
+process will have to be the basis as we
+
+88
+00:04:42,490 --> 00:04:48,760
+create it's a project we do not have to
+
+89
+00:04:46,300 --> 00:04:52,600
+have common fields and the workflow is
+
+90
+00:04:48,760 --> 00:04:55,090
+going to be common and we have to check
+
+91
+00:04:52,600 --> 00:04:59,500
+whatever limitations there are for the
+
+92
+00:04:55,090 --> 00:05:01,660
+globalists for example I saw there were
+
+93
+00:04:59,500 --> 00:05:03,520
+limitations on the number of items you
+
+94
+00:05:01,660 --> 00:05:06,310
+can have on a list in the polar project
+
+95
+00:05:03,520 --> 00:05:11,380
+collection the number of lists you have
+
+96
+00:05:06,310 --> 00:05:14,560
+in a project collection and when we are
+
+97
+00:05:11,380 --> 00:05:16,810
+migrating to a zoo there are things that
+
+98
+00:05:14,560 --> 00:05:19,240
+we would like to clarify concerning to
+
+99
+00:05:16,810 --> 00:05:24,669
+the existing restrictions to existing
+
+100
+00:05:19,240 --> 00:05:28,210
+customization I ran across documentation
+
+101
+00:05:24,669 --> 00:05:30,669
+for migration tool that was describing
+
+102
+00:05:28,210 --> 00:05:35,710
+some limitations in the number of fields
+
+103
+00:05:30,669 --> 00:05:39,960
+you can have per collection it was
+
+104
+00:05:35,710 --> 00:05:43,330
+something like a thousand something yep
+
+105
+00:05:39,960 --> 00:05:46,210
+but I wanted to clarify for example if
+
+106
+00:05:43,330 --> 00:05:49,530
+these are unique reference names in the
+
+107
+00:05:46,210 --> 00:05:52,270
+XML for example or they it's time you
+
+108
+00:05:49,530 --> 00:05:55,870
+deploy a new project that is based on
+
+109
+00:05:52,270 --> 00:06:00,190
+the process templates you are adding to
+
+110
+00:05:55,870 --> 00:06:02,410
+this pool the unique reference names so
+
+111
+00:06:00,190 --> 00:06:05,050
+it's unique reference names I also came
+
+112
+00:06:02,410 --> 00:06:08,590
+across the fact that we salute the
+
+113
+00:06:05,050 --> 00:06:13,530
+Bobson you have the the concept of a
+
+114
+00:06:08,590 --> 00:06:17,229
+migrated inherited process template so
+
+115
+00:06:13,530 --> 00:06:18,910
+it's all the rest of the guys it's
+
+116
+00:06:17,229 --> 00:06:21,220
+something like keeping the scram
+
+117
+00:06:18,910 --> 00:06:23,340
+template which is the out-of-the-box you
+
+118
+00:06:21,220 --> 00:06:26,350
+have been injured at one with us your
+
+119
+00:06:23,340 --> 00:06:28,450
+customizations and it's time you deploy
+
+120
+00:06:26,350 --> 00:06:31,440
+a new project you say it's based on the
+
+121
+00:06:28,450 --> 00:06:35,080
+inherited and the obvious let's say
+
+122
+00:06:31,440 --> 00:06:37,000
+benefit is that whatever change you have
+
+123
+00:06:35,080 --> 00:06:38,530
+to perform in order to include a new
+
+124
+00:06:37,000 --> 00:06:41,680
+field you do it on the iterative process
+
+125
+00:06:38,530 --> 00:06:44,860
+template and it's project that is based
+
+126
+00:06:41,680 --> 00:06:48,010
+on the process template is automatically
+
+127
+00:06:44,860 --> 00:06:50,860
+getting the change whereas today we have
+
+128
+00:06:48,010 --> 00:06:56,110
+to upload with with admin via plate
+
+129
+00:06:50,860 --> 00:06:58,419
+dated XML on it's different project now
+
+130
+00:06:56,110 --> 00:07:01,000
+for example I saw that there is a
+
+131
+00:06:58,419 --> 00:07:06,159
+different limit when you're using
+
+132
+00:07:01,000 --> 00:07:09,760
+garrotted template it's 8,000 something
+
+133
+00:07:06,159 --> 00:07:13,270
+but I don't know if it counts the number
+
+134
+00:07:09,760 --> 00:07:16,840
+of prints bit different way so instead
+
+135
+00:07:13,270 --> 00:07:24,820
+of using the unique reference reference
+
+136
+00:07:16,840 --> 00:07:28,990
+names so we are always we are using for
+
+137
+00:07:24,820 --> 00:07:32,050
+example the power tools it's a plugin
+
+138
+00:07:28,990 --> 00:07:33,539
+for visual studio to upload the maximals
+
+139
+00:07:32,050 --> 00:07:36,180
+I don't know if we are going to be
+
+140
+00:07:33,539 --> 00:07:40,860
+requiring another tool in order to
+
+141
+00:07:36,180 --> 00:07:40,860
+upload the xml's of the process template
+
+142
+00:07:41,789 --> 00:07:50,950
+you will it's very different
+
+143
+00:07:47,919 --> 00:07:53,010
+ok because I saw when you're using the
+
+144
+00:07:50,950 --> 00:07:55,510
+inherited process you actually
+
+145
+00:07:53,010 --> 00:07:56,610
+performing whatever changes you perform
+
+146
+00:07:55,510 --> 00:08:04,090
+on
+
+147
+00:07:56,610 --> 00:08:07,810
+TFS itself but yes so the next thing is
+
+148
+00:08:04,090 --> 00:08:11,740
+that we have custom integrations with
+
+149
+00:08:07,810 --> 00:08:14,200
+TFS yeah what what we're doing exactly
+
+150
+00:08:11,740 --> 00:08:17,380
+we have two types of issue tracking so
+
+151
+00:08:14,200 --> 00:08:21,810
+it did say it's PSM by HP and spiritus
+
+152
+00:08:17,380 --> 00:08:26,320
+for in factura so we have used the
+
+153
+00:08:21,810 --> 00:08:27,909
+an external tool that the systems and
+
+154
+00:08:26,320 --> 00:08:31,469
+orchestrate or platform that will allow
+
+155
+00:08:27,909 --> 00:08:34,959
+you to organize tasks in sequences and
+
+156
+00:08:31,469 --> 00:08:36,909
+therefore automate certain procedures
+
+157
+00:08:34,959 --> 00:08:41,349
+and give you a template in order to
+
+158
+00:08:36,909 --> 00:08:43,089
+write code you know to find to cleave
+
+159
+00:08:41,349 --> 00:08:45,520
+provide the functionality for the
+
+160
+00:08:43,089 --> 00:08:49,600
+integration these things are running
+
+161
+00:08:45,520 --> 00:08:53,829
+with using the TFS extended client so in
+
+162
+00:08:49,600 --> 00:08:55,720
+the REST API so we would like to see
+
+163
+00:08:53,829 --> 00:08:58,209
+this working also in
+
+164
+00:08:55,720 --> 00:08:59,920
+when we go to a zoo I guess that the
+
+165
+00:08:58,209 --> 00:09:02,889
+only thing we have to take into account
+
+166
+00:08:59,920 --> 00:09:07,089
+this the different URL but we're going
+
+167
+00:09:02,889 --> 00:09:10,810
+to be accessing TFS in the project so in
+
+168
+00:09:07,089 --> 00:09:14,050
+in in theory yes the all the REST API is
+
+169
+00:09:10,810 --> 00:09:19,269
+work the TFS extended client works just
+
+170
+00:09:14,050 --> 00:09:21,519
+now but it is deprecated ah so there's
+
+171
+00:09:19,269 --> 00:09:25,529
+gonna be something else for she's out to
+
+172
+00:09:21,519 --> 00:09:28,959
+degrade - yeah so there is the REST API
+
+173
+00:09:25,529 --> 00:09:32,139
+so then there's a if you're not using
+
+174
+00:09:28,959 --> 00:09:33,970
+the extended client then you're using
+
+175
+00:09:32,139 --> 00:09:37,449
+all the REST API so you can do all the
+
+176
+00:09:33,970 --> 00:09:38,709
+same stuff and more but yeah I've got a
+
+177
+00:09:37,449 --> 00:09:47,949
+whole bunch of stuff built on the
+
+178
+00:09:38,709 --> 00:09:53,079
+extended client as well so another thing
+
+179
+00:09:47,949 --> 00:09:56,319
+we use is we have external apps that are
+
+180
+00:09:53,079 --> 00:10:00,040
+triggered during the build pipeline so
+
+181
+00:09:56,319 --> 00:10:02,790
+we have command line tasks that instruct
+
+182
+00:10:00,040 --> 00:10:07,480
+the bid agent to execute a certain
+
+183
+00:10:02,790 --> 00:10:09,639
+except hunt these are also using the TFS
+
+184
+00:10:07,480 --> 00:10:12,100
+extended line where I stay API if the
+
+185
+00:10:09,639 --> 00:10:14,199
+fact that it's version two is because we
+
+186
+00:10:12,100 --> 00:10:16,779
+build it when it was fashioned - so I
+
+187
+00:10:14,199 --> 00:10:23,050
+guess version 5 it's something like this
+
+188
+00:10:16,779 --> 00:10:26,259
+now so this let's say it's a bit of an
+
+189
+00:10:23,050 --> 00:10:28,120
+issue we need to discuss because the
+
+190
+00:10:26,259 --> 00:10:31,240
+build definitions are we're going to see
+
+191
+00:10:28,120 --> 00:10:33,610
+later on uses variables with UNC path
+
+192
+00:10:31,240 --> 00:10:37,420
+names and accounts that are local to
+
+193
+00:10:33,610 --> 00:10:39,490
+ours so in order to also to be able to
+
+194
+00:10:37,420 --> 00:10:41,199
+trigger this external apps I guess that
+
+195
+00:10:39,490 --> 00:10:49,809
+the build agent will have to remain
+
+196
+00:10:41,199 --> 00:10:52,509
+local in our environment yep so pretty
+
+197
+00:10:49,809 --> 00:10:54,879
+much this sums up in this part which is
+
+198
+00:10:52,509 --> 00:10:56,980
+the concerns about the buildin release
+
+199
+00:10:54,879 --> 00:10:59,680
+pipelines we have tasks that are
+
+200
+00:10:56,980 --> 00:11:02,709
+supported out of the box we have tasks
+
+201
+00:10:59,680 --> 00:11:04,600
+that we have incorporated from the
+
+202
+00:11:02,709 --> 00:11:06,459
+marketplace like we have one that
+
+203
+00:11:04,600 --> 00:11:09,730
+triggers bills from different
+
+204
+00:11:06,459 --> 00:11:12,939
+definitions within the same sequence
+
+205
+00:11:09,730 --> 00:11:15,639
+the star executes custom bad scripts and
+
+206
+00:11:12,939 --> 00:11:21,689
+parcels tactile keyboard the invoke the
+
+207
+00:11:15,639 --> 00:11:25,299
+external applications that we have and
+
+208
+00:11:21,689 --> 00:11:26,829
+when we want to where we are considering
+
+209
+00:11:25,299 --> 00:11:29,980
+about migrating to the online
+
+210
+00:11:26,829 --> 00:11:32,529
+environment would like to see exactly
+
+211
+00:11:29,980 --> 00:11:34,449
+that the fact that we use variables that
+
+212
+00:11:32,529 --> 00:11:37,689
+refer to assets that are returned to our
+
+213
+00:11:34,449 --> 00:11:39,759
+system we will have to be also supported
+
+214
+00:11:37,689 --> 00:11:42,489
+so I guess the only way to go with that
+
+215
+00:11:39,759 --> 00:11:47,529
+is with a local days and as we have
+
+216
+00:11:42,489 --> 00:11:50,049
+today I also read somewhere that if you
+
+217
+00:11:47,529 --> 00:11:52,839
+have had not dawns from the marketplace
+
+218
+00:11:50,049 --> 00:11:55,629
+you have to reinstall them so there's no
+
+219
+00:11:52,839 --> 00:11:57,999
+migration to that so we need to take
+
+220
+00:11:55,629 --> 00:12:00,129
+care if when we are going to be
+
+221
+00:11:57,999 --> 00:12:02,139
+migrating that big definition that
+
+222
+00:12:00,129 --> 00:12:05,410
+already has tasks that are from the
+
+223
+00:12:02,139 --> 00:12:07,660
+marketplace do we also need for example
+
+224
+00:12:05,410 --> 00:12:10,899
+to remove those tasks migrate the big
+
+225
+00:12:07,660 --> 00:12:14,230
+definition and record them or we can
+
+226
+00:12:10,899 --> 00:12:23,139
+migrate them you can just migrate them
+
+227
+00:12:14,230 --> 00:12:25,419
+that's ok ok so another thing we have to
+
+228
+00:12:23,139 --> 00:12:27,699
+consider us that we use a local
+
+229
+00:12:25,419 --> 00:12:31,199
+repository for nougat and NPM packages
+
+230
+00:12:27,699 --> 00:12:34,299
+we use project which is let's say a
+
+231
+00:12:31,199 --> 00:12:38,079
+server that holds the NPM s and then you
+
+232
+00:12:34,299 --> 00:12:42,699
+get so it can be used during the build
+
+233
+00:12:38,079 --> 00:12:48,910
+sequence when we are going with a new
+
+234
+00:12:42,699 --> 00:12:51,100
+gate steps again about invoking the
+
+235
+00:12:48,910 --> 00:12:55,059
+extent that the external apps during the
+
+236
+00:12:51,100 --> 00:12:57,429
+build the fact that we remains that we
+
+237
+00:12:55,059 --> 00:13:01,899
+use the applications with extended
+
+238
+00:12:57,429 --> 00:13:03,789
+client the rest api get library get to
+
+239
+00:13:01,899 --> 00:13:05,709
+start to clone the rebels perform the
+
+240
+00:13:03,789 --> 00:13:12,819
+commits impose change saying git command
+
+241
+00:13:05,709 --> 00:13:16,389
+line in our environments so in terms of
+
+242
+00:13:12,819 --> 00:13:18,639
+a security as it is right now we have
+
+243
+00:13:16,389 --> 00:13:21,659
+the on-premise TFS so it's our active
+
+244
+00:13:18,639 --> 00:13:21,659
+directory that does the job
+
+245
+00:13:23,069 --> 00:13:31,680
+and we restrict access to various parts
+
+246
+00:13:26,680 --> 00:13:34,949
+of the let's say the collection by
+
+247
+00:13:31,680 --> 00:13:39,990
+manipulating the TFS group access rights
+
+248
+00:13:34,949 --> 00:13:43,290
+iteration area restrictions and so on so
+
+249
+00:13:39,990 --> 00:13:47,470
+when we are going let's say to split
+
+250
+00:13:43,290 --> 00:13:51,759
+with the huge collection we are going to
+
+251
+00:13:47,470 --> 00:13:54,610
+be enforcing the security access rights
+
+252
+00:13:51,759 --> 00:13:56,889
+to its project within the collection as
+
+253
+00:13:54,610 --> 00:13:59,019
+it is but when we are going to assume
+
+254
+00:13:56,889 --> 00:14:01,750
+the web services like yes the
+
+255
+00:13:59,019 --> 00:14:06,160
+authentication will use this Azul Active
+
+256
+00:14:01,750 --> 00:14:08,110
+Directory so it's no longer our Active
+
+257
+00:14:06,160 --> 00:14:11,259
+Directory we need a different set of
+
+258
+00:14:08,110 --> 00:14:15,279
+credentials let's say or it is the
+
+259
+00:14:11,259 --> 00:14:18,189
+process off part of the process of the
+
+260
+00:14:15,279 --> 00:14:19,689
+migration is we will link your internal
+
+261
+00:14:18,189 --> 00:14:22,360
+Active Directory to Azure Active
+
+262
+00:14:19,689 --> 00:14:24,550
+Directory and then it would effectively
+
+263
+00:14:22,360 --> 00:14:28,300
+be the same credentials or what does use
+
+264
+00:14:24,550 --> 00:14:32,560
+a different mechanism okay we can have
+
+265
+00:14:28,300 --> 00:14:34,689
+continuity of that for sure just for
+
+266
+00:14:32,560 --> 00:14:37,839
+let's say the sake of completion I found
+
+267
+00:14:34,689 --> 00:14:40,269
+that we can also provide MFA or IP
+
+268
+00:14:37,839 --> 00:14:42,939
+restriction if you want to further
+
+269
+00:14:40,269 --> 00:14:48,250
+restrict down the access to when we are
+
+270
+00:14:42,939 --> 00:14:52,810
+online the fact remains that because we
+
+271
+00:14:48,250 --> 00:14:54,759
+are using for the sinking of TFS with
+
+272
+00:14:52,810 --> 00:14:58,899
+the external issue trackers and not be
+
+273
+00:14:54,759 --> 00:15:02,220
+dangers using some accounts of our own
+
+274
+00:14:58,899 --> 00:15:07,269
+we would like to have control over the
+
+275
+00:15:02,220 --> 00:15:09,459
+password expiration policy so of course
+
+276
+00:15:07,269 --> 00:15:11,620
+since they are internal users in our
+
+277
+00:15:09,459 --> 00:15:14,500
+Active Directory you can enforce that I
+
+278
+00:15:11,620 --> 00:15:19,199
+don't know if we are syncing with a
+
+279
+00:15:14,500 --> 00:15:22,899
+Azure Active Directory is possible yeah
+
+280
+00:15:19,199 --> 00:15:25,329
+okay if you if you expire the password
+
+281
+00:15:22,899 --> 00:15:26,769
+then that syncs to I soon as your Active
+
+282
+00:15:25,329 --> 00:15:33,160
+Directory it will sync the password
+
+283
+00:15:26,769 --> 00:15:35,810
+expiration as well okay so in doing a
+
+284
+00:15:33,160 --> 00:15:38,450
+little digging in the internet what's
+
+285
+00:15:35,810 --> 00:15:40,490
+things that might affect us when we are
+
+286
+00:15:38,450 --> 00:15:42,770
+going to the unlined now you read
+
+287
+00:15:40,490 --> 00:15:46,160
+somewhere that reporting as it is with
+
+288
+00:15:42,770 --> 00:15:49,820
+Excel is no longer applied because the
+
+289
+00:15:46,160 --> 00:15:56,110
+ad dome is using only the connection to
+
+290
+00:15:49,820 --> 00:15:59,900
+the on premise is this accurate so and
+
+291
+00:15:56,110 --> 00:16:03,910
+the sequel server reporting services and
+
+292
+00:15:59,900 --> 00:16:07,010
+data warehouse are are not available on
+
+293
+00:16:03,910 --> 00:16:11,390
+your DevOps services you will have to
+
+294
+00:16:07,010 --> 00:16:15,170
+use the BI connector and the analytics
+
+295
+00:16:11,390 --> 00:16:18,860
+service ok what we do is the most common
+
+296
+00:16:15,170 --> 00:16:22,520
+thing we do is that they set up a query
+
+297
+00:16:18,860 --> 00:16:25,700
+they save it under set queries on TFS so
+
+298
+00:16:22,520 --> 00:16:27,830
+we have this plug-in on for the office
+
+299
+00:16:25,700 --> 00:16:30,230
+integration and we can download the
+
+300
+00:16:27,830 --> 00:16:32,510
+results and Excel is there still working
+
+301
+00:16:30,230 --> 00:16:34,880
+over how about the student run nope
+
+302
+00:16:32,510 --> 00:16:38,360
+let's start working because I read
+
+303
+00:16:34,880 --> 00:16:40,000
+somewhere that you need to access what
+
+304
+00:16:38,360 --> 00:16:43,400
+it was called
+
+305
+00:16:40,000 --> 00:16:45,820
+Azul boards or something like that so
+
+306
+00:16:43,400 --> 00:16:49,250
+there's a new way of doing some of that
+
+307
+00:16:45,820 --> 00:16:53,240
+the old way will still work but it's
+
+308
+00:16:49,250 --> 00:16:56,060
+dependent upon the extended object model
+
+309
+00:16:53,240 --> 00:16:59,660
+therefore if the a which is deprecated
+
+310
+00:16:56,060 --> 00:17:03,020
+so if they expire the the old the old
+
+311
+00:16:59,660 --> 00:17:07,069
+object model then you would have a
+
+312
+00:17:03,020 --> 00:17:08,780
+problem but it's there right now ok ok
+
+313
+00:17:07,069 --> 00:17:10,640
+as we said the extensions will need to
+
+314
+00:17:08,780 --> 00:17:13,550
+be reinstalled we haven't implemented
+
+315
+00:17:10,640 --> 00:17:15,199
+anything of our own so I guess we are
+
+316
+00:17:13,550 --> 00:17:18,620
+not having trouble because everything is
+
+317
+00:17:15,199 --> 00:17:20,929
+from the marketplace just note that
+
+318
+00:17:18,620 --> 00:17:22,660
+mentions of users in work item
+
+319
+00:17:20,929 --> 00:17:25,370
+discussions
+
+320
+00:17:22,660 --> 00:17:28,069
+it says will remain but reference to on
+
+321
+00:17:25,370 --> 00:17:35,000
+premise identities is going have to
+
+322
+00:17:28,069 --> 00:17:39,440
+change a subscription notification I
+
+323
+00:17:35,000 --> 00:17:42,620
+guess they are migrated as well ok and
+
+324
+00:17:39,440 --> 00:17:45,260
+the thing that you asked and I've
+
+325
+00:17:42,620 --> 00:17:48,410
+probably didn't answer concerning
+
+326
+00:17:45,260 --> 00:17:49,470
+licensing we have when the number of
+
+327
+00:17:48,410 --> 00:17:55,110
+users we have
+
+328
+00:17:49,470 --> 00:17:57,419
+that are non visual studio yes I counted
+
+329
+00:17:55,110 --> 00:18:01,049
+67 something but I guess we have to
+
+330
+00:17:57,419 --> 00:18:02,820
+exact that because I think it's with
+
+331
+00:18:01,049 --> 00:18:05,730
+paid subscription I find the Sun
+
+332
+00:18:02,820 --> 00:18:09,750
+correctly you have access to the zoo
+
+333
+00:18:05,730 --> 00:18:14,360
+their Web Services okay so we need to do
+
+334
+00:18:09,750 --> 00:18:17,789
+a checklist so this is the basic layout
+
+335
+00:18:14,360 --> 00:18:19,710
+where we stand and yep when we would
+
+336
+00:18:17,789 --> 00:18:21,539
+like to go and a first step break him
+
+337
+00:18:19,710 --> 00:18:23,309
+down with cubes project collection so
+
+338
+00:18:21,539 --> 00:18:26,750
+that have independent components
+
+339
+00:18:23,309 --> 00:18:32,909
+accessing it by independent teams and
+
+340
+00:18:26,750 --> 00:18:35,880
+taking that broken-down scenario all the
+
+341
+00:18:32,909 --> 00:18:38,549
+way up to us who develops this has been
+
+342
+00:18:35,880 --> 00:18:40,559
+mainly targeted on these kids let's say
+
+343
+00:18:38,549 --> 00:18:42,090
+collection but the rest of the project
+
+344
+00:18:40,559 --> 00:18:44,789
+collection are rather simple
+
+345
+00:18:42,090 --> 00:18:49,260
+they don't have this let's say massive
+
+346
+00:18:44,789 --> 00:18:50,909
+and complicated repository system they
+
+347
+00:18:49,260 --> 00:18:53,700
+have their own repository they have
+
+348
+00:18:50,909 --> 00:18:57,120
+their own customizations of the process
+
+349
+00:18:53,700 --> 00:18:58,890
+template so I guess what we are going to
+
+350
+00:18:57,120 --> 00:19:01,020
+do with a huge one we're going to do
+
+351
+00:18:58,890 --> 00:19:04,500
+with the rest of them as well yeah that
+
+352
+00:19:01,020 --> 00:19:09,870
+is a big collection just to confirm is
+
+353
+00:19:04,500 --> 00:19:13,260
+just over a terabyte yeah check it's the
+
+354
+00:19:09,870 --> 00:19:16,260
+number I show you yeah I think it was
+
+355
+00:19:13,260 --> 00:19:21,409
+one point I can't remember what you say
+
+356
+00:19:16,260 --> 00:19:24,620
+at one point to one point two terabytes
+
+357
+00:19:21,409 --> 00:19:24,620
+which is
+
+358
+00:19:35,390 --> 00:19:38,990
+that might take a minute
+
+359
+00:19:41,000 --> 00:19:47,450
+yeah yeah 1.2 terabytes
+
+360
+00:19:49,990 --> 00:19:57,450
+so the largest collection that I've
+
+361
+00:19:53,020 --> 00:19:57,450
+uploaded it was 2.8 terabytes
+
+362
+00:19:58,169 --> 00:20:05,200
+it's all a little bit of effort to get
+
+363
+00:20:03,399 --> 00:20:07,390
+it up there because obviously data
+
+364
+00:20:05,200 --> 00:20:10,059
+speeds and various things there's some
+
+365
+00:20:07,390 --> 00:20:14,039
+things we can do around that to make it
+
+366
+00:20:10,059 --> 00:20:18,340
+much faster on D of migration and
+
+367
+00:20:14,039 --> 00:20:25,390
+effectively we can take up a copy of the
+
+368
+00:20:18,340 --> 00:20:28,419
+database prior to the day you're gonna
+
+369
+00:20:25,390 --> 00:20:31,450
+move over and then just cake take a
+
+370
+00:20:28,419 --> 00:20:34,330
+differencing up which makes it much
+
+371
+00:20:31,450 --> 00:20:37,210
+faster but it will take a long time to
+
+372
+00:20:34,330 --> 00:20:40,659
+process on as you're DevOps probably
+
+373
+00:20:37,210 --> 00:20:43,470
+close to 48 hours for them to be able to
+
+374
+00:20:40,659 --> 00:20:46,929
+process it process it into the system
+
+375
+00:20:43,470 --> 00:20:48,940
+guys sorry this is panna he's from the
+
+376
+00:20:46,929 --> 00:20:51,059
+screenshot here it looks like 120
+
+377
+00:20:48,940 --> 00:20:57,789
+gigabytes not 1.2 terabytes
+
+378
+00:20:51,059 --> 00:21:04,770
+yeah decimal point somewhere then that
+
+379
+00:20:57,789 --> 00:21:04,770
+would be definitely be 120 gigabytes
+
+380
+00:21:05,159 --> 00:21:19,480
+that would be fairly straightforward
+
+381
+00:21:07,299 --> 00:21:22,270
+then much faster another thing I would
+
+382
+00:21:19,480 --> 00:21:26,679
+like for us was some projects of ours we
+
+383
+00:21:22,270 --> 00:21:28,990
+have set up CI bills and using pull
+
+384
+00:21:26,679 --> 00:21:30,840
+requests the set up is going to be
+
+385
+00:21:28,990 --> 00:21:36,539
+migrated as well
+
+386
+00:21:30,840 --> 00:21:40,630
+okay so all effectively your your
+
+387
+00:21:36,539 --> 00:21:46,049
+collection with migrate I am as as is
+
+388
+00:21:40,630 --> 00:21:48,789
+and I would want you to do at the very
+
+389
+00:21:46,049 --> 00:21:51,429
+what what we would do first is we would
+
+390
+00:21:48,789 --> 00:21:55,270
+get the collection ready to migrate and
+
+391
+00:21:51,429 --> 00:21:59,620
+then we do a dry run during the dry run
+
+392
+00:21:55,270 --> 00:22:03,130
+you would get a copy of your collection
+
+393
+00:21:59,620 --> 00:22:03,850
+up on Azure DevOps and then you would be
+
+394
+00:22:03,130 --> 00:22:07,150
+able to
+
+395
+00:22:03,850 --> 00:22:14,049
+asked all of the extensions that you're
+
+396
+00:22:07,150 --> 00:22:19,090
+using effectively it the import sequence
+
+397
+00:22:14,049 --> 00:22:21,340
+am is pretty close to full fidelity it's
+
+398
+00:22:19,090 --> 00:22:23,860
+not complete full fidelity you did note
+
+399
+00:22:21,340 --> 00:22:29,380
+some of the the differences in your in
+
+400
+00:22:23,860 --> 00:22:32,230
+your presentation when you move up those
+
+401
+00:22:29,380 --> 00:22:36,190
+additional work to do afterwards but
+
+402
+00:22:32,230 --> 00:22:40,900
+it's not mandatory for example you would
+
+403
+00:22:36,190 --> 00:22:42,370
+stay on the XML process when you
+
+404
+00:22:40,900 --> 00:22:47,140
+initially moved up and then you would
+
+405
+00:22:42,370 --> 00:22:49,510
+need to migrate through a process to the
+
+406
+00:22:47,140 --> 00:22:51,070
+inherited process and that's an
+
+407
+00:22:49,510 --> 00:22:54,730
+important thing to do in order to
+
+408
+00:22:51,070 --> 00:22:55,840
+support a greater number of projects do
+
+409
+00:22:54,730 --> 00:23:01,510
+you know how many projects you have
+
+410
+00:22:55,840 --> 00:23:05,830
+right now and right now it's six
+
+411
+00:23:01,510 --> 00:23:10,480
+projects okay and six bigger projects so
+
+412
+00:23:05,830 --> 00:23:13,840
+you you also need to consider the
+
+413
+00:23:10,480 --> 00:23:16,720
+relationship between boundaries and the
+
+414
+00:23:13,840 --> 00:23:21,370
+project inside of your DevOps just
+
+415
+00:23:16,720 --> 00:23:24,340
+inside of TFS in general and so all of
+
+416
+00:23:21,370 --> 00:23:27,720
+the planning tools the agile planning
+
+417
+00:23:24,340 --> 00:23:31,780
+tools and the team based tools only
+
+418
+00:23:27,720 --> 00:23:34,150
+function inside of a single project so
+
+419
+00:23:31,780 --> 00:23:36,640
+you would know if you're in multiple
+
+420
+00:23:34,150 --> 00:23:40,390
+team projects you would no longer be
+
+421
+00:23:36,640 --> 00:23:45,250
+able to create at the same level of
+
+422
+00:23:40,390 --> 00:23:47,950
+reporting across those projects that
+
+423
+00:23:45,250 --> 00:23:49,929
+you're able to do just now because
+
+424
+00:23:47,950 --> 00:23:55,030
+you're inside of one team project yeah
+
+425
+00:23:49,929 --> 00:23:58,440
+it's related together does that make
+
+426
+00:23:55,030 --> 00:24:01,240
+sense yeah yeah yeah this end because
+
+427
+00:23:58,440 --> 00:24:03,059
+right now there could the only report
+
+428
+00:24:01,240 --> 00:24:05,460
+think that we do is through the search
+
+429
+00:24:03,059 --> 00:24:09,340
+queries thing and the integration yeah
+
+430
+00:24:05,460 --> 00:24:10,840
+so and then when we break down let's say
+
+431
+00:24:09,340 --> 00:24:13,540
+because their circle areas are going to
+
+432
+00:24:10,840 --> 00:24:15,730
+be referring to action items that are
+
+433
+00:24:13,540 --> 00:24:18,630
+different called projects within the
+
+434
+00:24:15,730 --> 00:24:23,500
+collection you can do a merge of those
+
+435
+00:24:18,630 --> 00:24:25,750
+yeah you can do it in an Excel yeah so
+
+436
+00:24:23,500 --> 00:24:27,520
+you will get the access to the analytic
+
+437
+00:24:25,750 --> 00:24:31,179
+service which is a little bit more
+
+438
+00:24:27,520 --> 00:24:39,730
+powerful and can report across multiple
+
+439
+00:24:31,179 --> 00:24:44,320
+projects at that level so the other
+
+440
+00:24:39,730 --> 00:24:48,789
+things that I had on my list was process
+
+441
+00:24:44,320 --> 00:24:51,370
+the migration the size yeah so it's
+
+442
+00:24:48,789 --> 00:24:54,789
+raining out the extensions that you have
+
+443
+00:24:51,370 --> 00:25:01,149
+that you're using around the object
+
+444
+00:24:54,789 --> 00:25:05,409
+model and scum operations manager that
+
+445
+00:25:01,149 --> 00:25:11,200
+is one bit that I am not sure works in
+
+446
+00:25:05,409 --> 00:25:12,880
+Azure DevOps so even even if the team
+
+447
+00:25:11,200 --> 00:25:14,950
+that makes it says it doesn't work
+
+448
+00:25:12,880 --> 00:25:18,730
+doesn't mean it doesn't work it just
+
+449
+00:25:14,950 --> 00:25:22,000
+means they don't support it so we would
+
+450
+00:25:18,730 --> 00:25:28,960
+want to test all of the extensions once
+
+451
+00:25:22,000 --> 00:25:31,240
+we get a copy of the the collection up
+
+452
+00:25:28,960 --> 00:25:34,409
+into a your DevOps will also be able to
+
+453
+00:25:31,240 --> 00:25:39,549
+test the migration we'll be able to test
+
+454
+00:25:34,409 --> 00:25:41,679
+the account access to to that and and
+
+455
+00:25:39,549 --> 00:25:44,919
+Microsoft does something called a dry
+
+456
+00:25:41,679 --> 00:25:47,080
+run which means that you have a copy of
+
+457
+00:25:44,919 --> 00:25:49,029
+the collection but is expected to be
+
+458
+00:25:47,080 --> 00:25:51,640
+deleted so it's not incorporated into
+
+459
+00:25:49,029 --> 00:25:55,000
+the overall system so you'll be able to
+
+460
+00:25:51,640 --> 00:25:57,610
+access it and I think it stays up for 30
+
+461
+00:25:55,000 --> 00:25:59,320
+days by default we'll be able to access
+
+462
+00:25:57,610 --> 00:26:00,880
+it we'll be able to set things up
+
+463
+00:25:59,320 --> 00:26:04,419
+configure anything you want change
+
+464
+00:26:00,880 --> 00:26:05,679
+anything you want and try out and all
+
+465
+00:26:04,419 --> 00:26:09,669
+the different things to make sure
+
+466
+00:26:05,679 --> 00:26:11,820
+everything works as you expect and so
+
+467
+00:26:09,669 --> 00:26:13,559
+that you have the minimum amount of
+
+468
+00:26:11,820 --> 00:26:17,529
+[Music]
+
+469
+00:26:13,559 --> 00:26:20,700
+problems when you get up there it is
+
+470
+00:26:17,529 --> 00:26:25,960
+important to note that once you do the
+
+471
+00:26:20,700 --> 00:26:30,250
+production run and it's going to be M
+
+472
+00:26:25,960 --> 00:26:31,570
+off it's not just a forward only process
+
+473
+00:26:30,250 --> 00:26:35,109
+but you want it to be
+
+474
+00:26:31,570 --> 00:26:37,029
+as forward only as you can make and so
+
+475
+00:26:35,109 --> 00:26:40,749
+if you do end up with lots of small
+
+476
+00:26:37,029 --> 00:26:42,279
+niggly had small problems maybe some
+
+477
+00:26:40,749 --> 00:26:44,549
+builds aren't working or that kind of
+
+478
+00:26:42,279 --> 00:26:48,269
+thing it's better to roll forward and
+
+479
+00:26:44,549 --> 00:26:52,029
+and fix them in production as it were
+
+480
+00:26:48,269 --> 00:26:55,149
+than to fall back to your TFS on premise
+
+481
+00:26:52,029 --> 00:27:01,389
+because you'll have data out of sync and
+
+482
+00:26:55,149 --> 00:27:05,499
+that's not easy to reify does that make
+
+483
+00:27:01,389 --> 00:27:07,389
+sense yeah yeah understand and so once
+
+484
+00:27:05,499 --> 00:27:08,859
+we've got there we can do multiple dry
+
+485
+00:27:07,389 --> 00:27:10,720
+runs we can make sure everything's
+
+486
+00:27:08,859 --> 00:27:14,679
+working and we can get that up there
+
+487
+00:27:10,720 --> 00:27:18,220
+have you managed to run the analysis
+
+488
+00:27:14,679 --> 00:27:19,529
+tools for the migration no I haven't
+
+489
+00:27:18,220 --> 00:27:23,129
+tried anything yet
+
+490
+00:27:19,529 --> 00:27:25,720
+so that part of the migration and
+
+491
+00:27:23,129 --> 00:27:28,779
+Microsoft's migration tools there's some
+
+492
+00:27:25,720 --> 00:27:30,129
+analysis components that we'll check and
+
+493
+00:27:28,779 --> 00:27:32,049
+there's lots of work we can do up front
+
+494
+00:27:30,129 --> 00:27:34,389
+to make it as easy and seamless as
+
+495
+00:27:32,049 --> 00:27:38,950
+possible it will check your collection
+
+496
+00:27:34,389 --> 00:27:42,070
+for any faults or things that haven't
+
+497
+00:27:38,950 --> 00:27:45,749
+been done from past upgrades sometimes
+
+498
+00:27:42,070 --> 00:27:48,070
+it's just process template changes or
+
+499
+00:27:45,749 --> 00:27:50,169
+fixing up things that there was a
+
+500
+00:27:48,070 --> 00:27:52,389
+command that was in the documentation
+
+501
+00:27:50,169 --> 00:27:54,279
+hidden somewhere that nobody ran and
+
+502
+00:27:52,389 --> 00:27:56,889
+that that's okay everybody's in that
+
+503
+00:27:54,279 --> 00:27:59,200
+position which is why this tool exists
+
+504
+00:27:56,889 --> 00:28:02,049
+and it will give you a list of things to
+
+505
+00:27:59,200 --> 00:28:04,090
+go run to fix everything out and it will
+
+506
+00:28:02,049 --> 00:28:07,210
+also tell you which of your process
+
+507
+00:28:04,090 --> 00:28:09,759
+template customizations will work in as
+
+508
+00:28:07,210 --> 00:28:11,889
+your dev ops and which will not work in
+
+509
+00:28:09,759 --> 00:28:16,419
+as your dev ops including the sizes of
+
+510
+00:28:11,889 --> 00:28:21,249
+your and global lists so you can have a
+
+511
+00:28:16,419 --> 00:28:27,220
+maximum of 64 global lists with 512
+
+512
+00:28:21,249 --> 00:28:30,129
+items pair pair list which sounds like a
+
+513
+00:28:27,220 --> 00:28:35,429
+lot but it depends how how much you're
+
+514
+00:28:30,129 --> 00:28:37,989
+using it yeah I was afraid of us because
+
+515
+00:28:35,429 --> 00:28:40,779
+actually we are using them to populate
+
+516
+00:28:37,989 --> 00:28:42,849
+films and some of them are dynamic for
+
+517
+00:28:40,779 --> 00:28:44,900
+example they are listing the big numbers
+
+518
+00:28:42,849 --> 00:28:47,930
+as they are generated
+
+519
+00:28:44,900 --> 00:28:49,760
+and yet quite a big list that needs to
+
+520
+00:28:47,930 --> 00:28:54,080
+be manually trimmed down it's another
+
+521
+00:28:49,760 --> 00:28:57,760
+time so we have to understand that this
+
+522
+00:28:54,080 --> 00:29:01,700
+list is going to be effectively
+
+523
+00:28:57,760 --> 00:29:03,470
+duplicated across all the projects in
+
+524
+00:29:01,700 --> 00:29:06,050
+the collection so we may have to come up
+
+525
+00:29:03,470 --> 00:29:11,000
+with a smarter way of handling how we're
+
+526
+00:29:06,050 --> 00:29:15,020
+gonna mark the big number on the items
+
+527
+00:29:11,000 --> 00:29:18,020
+that are included in the bill so I would
+
+528
+00:29:15,020 --> 00:29:20,630
+I would just use do it as a text box and
+
+529
+00:29:18,020 --> 00:29:25,580
+have the system populate it and then
+
+530
+00:29:20,630 --> 00:29:27,110
+it's not a drop-down list to be a
+
+531
+00:29:25,580 --> 00:29:30,230
+drop-down list because it's not human
+
+532
+00:29:27,110 --> 00:29:32,120
+selectable but we can look at some of
+
+533
+00:29:30,230 --> 00:29:34,760
+those things as they come up and some of
+
+534
+00:29:32,120 --> 00:29:38,170
+those automatic build fields are are
+
+535
+00:29:34,760 --> 00:29:42,590
+they migrate them for us out of the box
+
+536
+00:29:38,170 --> 00:29:46,700
+but it will definitely truncate some of
+
+537
+00:29:42,590 --> 00:29:49,070
+those items but fields with values won't
+
+538
+00:29:46,700 --> 00:29:51,320
+lose their values they'll just maintain
+
+539
+00:29:49,070 --> 00:29:53,710
+that text value and can't be changed if
+
+540
+00:29:51,320 --> 00:29:53,710
+that makes sense
+
+541
+00:29:54,320 --> 00:30:00,500
+okay for me there they say what I have
+
+542
+00:29:57,350 --> 00:30:02,620
+to check is this analysis tool it's part
+
+543
+00:30:00,500 --> 00:30:06,830
+of the migration tools I have to figure
+
+544
+00:30:02,620 --> 00:30:16,450
+fine and run I guess yeah I can give you
+
+545
+00:30:06,830 --> 00:30:21,590
+a link to that as your DevOps migration
+
+546
+00:30:16,450 --> 00:30:26,210
+tool from Microsoft has migration guide
+
+547
+00:30:21,590 --> 00:30:28,820
+and the tool let me I'm just gonna stick
+
+548
+00:30:26,210 --> 00:30:34,970
+it in can you see the chat I just added
+
+549
+00:30:28,820 --> 00:30:38,510
+it to the chat if you can't see it I can
+
+550
+00:30:34,970 --> 00:30:49,850
+always eat I'll make it as part of the
+
+551
+00:30:38,510 --> 00:30:53,900
+email at the yeah okay well those are
+
+552
+00:30:49,850 --> 00:30:57,050
+step by step migration guide which is
+
+553
+00:30:53,900 --> 00:30:58,520
+what I would follow as well and it does
+
+554
+00:30:57,050 --> 00:31:03,800
+provide
+
+555
+00:30:58,520 --> 00:31:06,230
+like lots and lots of tips on how to fix
+
+556
+00:31:03,800 --> 00:31:09,320
+most of the common problems that folks
+
+557
+00:31:06,230 --> 00:31:12,860
+have and and it will provide the tool
+
+558
+00:31:09,320 --> 00:31:16,430
+will definitely that fix more stuff for
+
+559
+00:31:12,860 --> 00:31:17,180
+us but you do need to be on as your
+
+560
+00:31:16,430 --> 00:31:21,560
+DevOps
+
+561
+00:31:17,180 --> 00:31:26,620
+at twenty nineteen dot one dot one M or
+
+562
+00:31:21,560 --> 00:31:30,830
+as your DevOps 2019 update one and I
+
+563
+00:31:26,620 --> 00:31:33,560
+think speedo versions for import and but
+
+564
+00:31:30,830 --> 00:31:34,640
+you need to get there in order to import
+
+565
+00:31:33,560 --> 00:31:37,820
+to as your DevOps
+
+566
+00:31:34,640 --> 00:31:39,770
+anyway so you definitely want to try and
+
+567
+00:31:37,820 --> 00:31:44,750
+I don't know if you're on that I think
+
+568
+00:31:39,770 --> 00:31:47,420
+you said 2018 yeah yeah and so the the
+
+569
+00:31:44,750 --> 00:31:50,960
+documentation will describe the versions
+
+570
+00:31:47,420 --> 00:31:52,850
+that are supported and it takes at least
+
+571
+00:31:50,960 --> 00:31:56,060
+two or three weeks after a new version
+
+572
+00:31:52,850 --> 00:31:57,590
+comes out before they change the import
+
+573
+00:31:56,060 --> 00:32:01,610
+to support the newer versions and they
+
+574
+00:31:57,590 --> 00:32:04,430
+support to two back and so generally
+
+575
+00:32:01,610 --> 00:32:09,170
+there's not a huge problem but you just
+
+576
+00:32:04,430 --> 00:32:11,750
+need to make sure that that we're on a
+
+577
+00:32:09,170 --> 00:32:14,990
+version that's supported and then run
+
+578
+00:32:11,750 --> 00:32:18,380
+the validation tool and which will do a
+
+579
+00:32:14,990 --> 00:32:19,940
+bunch of things to to fix a bunch of
+
+580
+00:32:18,380 --> 00:32:22,850
+stuff automatically but it will also
+
+581
+00:32:19,940 --> 00:32:25,100
+give you a list of lots of things that
+
+582
+00:32:22,850 --> 00:32:26,930
+you have to go fix manually some of it
+
+583
+00:32:25,100 --> 00:32:29,960
+is just running command lines with
+
+584
+00:32:26,930 --> 00:32:32,450
+elevated privileges to fix stuff other
+
+585
+00:32:29,960 --> 00:32:35,890
+stuff is changing the process template
+
+586
+00:32:32,450 --> 00:32:38,600
+and fixing that across all of your
+
+587
+00:32:35,890 --> 00:32:40,370
+templates before it will allow the
+
+588
+00:32:38,600 --> 00:32:44,690
+upload but again they're all things we
+
+589
+00:32:40,370 --> 00:32:48,260
+have to do anyway and I think the
+
+590
+00:32:44,690 --> 00:32:51,820
+important thing for your circumstance is
+
+591
+00:32:48,260 --> 00:32:57,020
+getting getting those extensions and
+
+592
+00:32:51,820 --> 00:33:00,470
+your your plugins checked against as
+
+593
+00:32:57,020 --> 00:33:02,360
+your DevOps so what you could do even
+
+594
+00:33:00,470 --> 00:33:05,140
+before you've managed to get a copy of
+
+595
+00:33:02,360 --> 00:33:07,720
+your collection up to as your DevOps is
+
+596
+00:33:05,140 --> 00:33:11,499
+set up
+
+597
+00:33:07,720 --> 00:33:14,529
+it takes some of your chords across to
+
+598
+00:33:11,499 --> 00:33:16,269
+Azure DevOps just a generic location and
+
+599
+00:33:14,529 --> 00:33:20,289
+as your DevOps and make something and
+
+600
+00:33:16,269 --> 00:33:22,720
+then set it up as if it would have been
+
+601
+00:33:20,289 --> 00:33:24,700
+migrated and see if you can do your
+
+602
+00:33:22,720 --> 00:33:27,539
+builds you can do the plugins you have
+
+603
+00:33:24,700 --> 00:33:30,940
+the automated tools that set up them
+
+604
+00:33:27,539 --> 00:33:33,759
+that will help isolate what things might
+
+605
+00:33:30,940 --> 00:33:35,889
+need to change what extra effort we need
+
+606
+00:33:33,759 --> 00:33:40,840
+to have I mean I can help you guys with
+
+607
+00:33:35,889 --> 00:33:44,350
+that as well okay so the idea is whether
+
+608
+00:33:40,840 --> 00:33:47,590
+we take the collection as it is we push
+
+609
+00:33:44,350 --> 00:33:49,950
+it to Azul we're in the test pass we
+
+610
+00:33:47,590 --> 00:33:52,840
+start the breakdown of the collection us
+
+611
+00:33:49,950 --> 00:33:54,700
+so you won't you won't be able to do
+
+612
+00:33:52,840 --> 00:33:56,919
+that until it meets all of the criteria
+
+613
+00:33:54,700 --> 00:33:59,259
+for doing an upload but you will be able
+
+614
+00:33:56,919 --> 00:34:02,169
+to just take some take some codes a copy
+
+615
+00:33:59,259 --> 00:34:05,799
+of a piece of code that you know builds
+
+616
+00:34:02,169 --> 00:34:09,280
+locally put it in a get report in Azure
+
+617
+00:34:05,799 --> 00:34:13,299
+DevOps and then build it in Azure DevOps
+
+618
+00:34:09,280 --> 00:34:14,889
+so you've set up and the the the
+
+619
+00:34:13,299 --> 00:34:16,629
+different plugins and things that you
+
+620
+00:34:14,889 --> 00:34:19,059
+use at the moment and make sure that
+
+621
+00:34:16,629 --> 00:34:21,220
+they work and even before you've
+
+622
+00:34:19,059 --> 00:34:23,200
+upgraded your on-premise server even
+
+623
+00:34:21,220 --> 00:34:24,520
+before you've you've got a copy up into
+
+624
+00:34:23,200 --> 00:34:29,889
+the cloud which will take a little bit
+
+625
+00:34:24,520 --> 00:34:32,649
+more effort okay anyway we have to let's
+
+626
+00:34:29,889 --> 00:34:36,010
+say check out this with extended client
+
+627
+00:34:32,649 --> 00:34:39,460
+because we depend heavily on it so yep
+
+628
+00:34:36,010 --> 00:34:42,099
+I mean extended client does work in fool
+
+629
+00:34:39,460 --> 00:34:43,929
+against Azure DevOps all of my tools
+
+630
+00:34:42,099 --> 00:34:46,450
+that work against your DevOps are using
+
+631
+00:34:43,929 --> 00:34:52,750
+these using the extended point and they
+
+632
+00:34:46,450 --> 00:34:54,700
+did have our em January 2021 expiry for
+
+633
+00:34:52,750 --> 00:34:59,710
+the extended client but I think that's
+
+634
+00:34:54,700 --> 00:35:02,520
+been pushed back okay but it's not going
+
+635
+00:34:59,710 --> 00:35:02,520
+to be indefinite
+
+636
+00:35:03,580 --> 00:35:10,510
+I don't know if the rest of the guys
+
+637
+00:35:09,130 --> 00:35:14,260
+have anything to add yeah
+
+638
+00:35:10,510 --> 00:35:19,210
+can I ask about SharePoint we use
+
+639
+00:35:14,260 --> 00:35:21,970
+current a SharePoint with the I think we
+
+640
+00:35:19,210 --> 00:35:25,510
+usually the grated version with that
+
+641
+00:35:21,970 --> 00:35:27,130
+comes with TFS so can we use the
+
+642
+00:35:25,510 --> 00:35:31,119
+pleasure of SharePoint that comes with
+
+643
+00:35:27,130 --> 00:35:33,850
+office 365 as a company no I mean yes
+
+644
+00:35:31,119 --> 00:35:37,420
+you can but there is no integration
+
+645
+00:35:33,850 --> 00:35:43,750
+between as your DevOps and SharePoint
+
+646
+00:35:37,420 --> 00:35:45,790
+that to be fair that's probably a good
+
+647
+00:35:43,750 --> 00:35:47,080
+thing the integration was never super
+
+648
+00:35:45,790 --> 00:35:49,330
+awesome in the first place it was
+
+649
+00:35:47,080 --> 00:35:51,550
+literally just file access we can do
+
+650
+00:35:49,330 --> 00:35:57,400
+anywhere on our pcs I don't think it
+
+651
+00:35:51,550 --> 00:36:02,710
+really added anything super valuable you
+
+652
+00:35:57,400 --> 00:36:05,470
+may disagree for sure the other question
+
+653
+00:36:02,710 --> 00:36:08,710
+is how can we do a bandwidth analysis to
+
+654
+00:36:05,470 --> 00:36:14,410
+make sure that you know we set up the
+
+655
+00:36:08,710 --> 00:36:21,730
+correct bandwidth between our company
+
+656
+00:36:14,410 --> 00:36:24,550
+Mazu yeah so there's a system what's
+
+657
+00:36:21,730 --> 00:36:28,170
+called my Microsoft have I have a system
+
+658
+00:36:24,550 --> 00:36:32,140
+for creating a dedicated pipe between
+
+659
+00:36:28,170 --> 00:36:35,950
+your internal network in and Azure and I
+
+660
+00:36:32,140 --> 00:36:38,560
+do have I have a recommendation around
+
+661
+00:36:35,950 --> 00:36:42,369
+that the M has worked well with other
+
+662
+00:36:38,560 --> 00:36:46,530
+companies in that you want to try and
+
+663
+00:36:42,369 --> 00:36:50,020
+avoid a restriction that requires
+
+664
+00:36:46,530 --> 00:36:53,200
+connections to Azure to go through your
+
+665
+00:36:50,020 --> 00:36:57,640
+internal network when people are working
+
+666
+00:36:53,200 --> 00:37:02,320
+remotely it is going to be a huge
+
+667
+00:36:57,640 --> 00:37:04,240
+bandwidth implication for your
+
+668
+00:37:02,320 --> 00:37:07,540
+organization I know everybody's working
+
+669
+00:37:04,240 --> 00:37:12,070
+remotely just now but even once you get
+
+670
+00:37:07,540 --> 00:37:14,260
+in back into the office it's ok having
+
+671
+00:37:12,070 --> 00:37:16,810
+people connecting out from the office
+
+672
+00:37:14,260 --> 00:37:17,349
+but having people outside having to
+
+673
+00:37:16,810 --> 00:37:20,829
+connect in
+
+674
+00:37:17,349 --> 00:37:23,589
+VPN - then go back out - as your
+
+675
+00:37:20,829 --> 00:37:28,799
+resources is going to add a significant
+
+676
+00:37:23,589 --> 00:37:30,940
+burden there's enough security in
+
+677
+00:37:28,799 --> 00:37:33,970
+specifically as your DevOps but as
+
+678
+00:37:30,940 --> 00:37:38,799
+you're in general to enable the ability
+
+679
+00:37:33,970 --> 00:37:42,749
+for machines domain join machines to
+
+680
+00:37:38,799 --> 00:37:45,960
+connect directly to and services and
+
+681
+00:37:42,749 --> 00:37:50,559
+resources and as your DevOps in a secure
+
+682
+00:37:45,960 --> 00:37:51,880
+manner it it's it's not necessary to go
+
+683
+00:37:50,559 --> 00:37:54,190
+through the internal network I
+
+684
+00:37:51,880 --> 00:37:56,739
+understand some organizations want to do
+
+685
+00:37:54,190 --> 00:38:02,769
+that but it is going to be a significant
+
+686
+00:37:56,739 --> 00:38:07,900
+burden and slow things down a lot did
+
+687
+00:38:02,769 --> 00:38:09,519
+that make sense yeah but do you have any
+
+688
+00:38:07,900 --> 00:38:16,269
+recommendation about the average
+
+689
+00:38:09,519 --> 00:38:19,779
+bandwidth fair use or something yeah so
+
+690
+00:38:16,269 --> 00:38:21,849
+so unfortunately there's there's no such
+
+691
+00:38:19,779 --> 00:38:25,660
+thing as an average user when it comes
+
+692
+00:38:21,849 --> 00:38:28,539
+to - like as your DevOps and I would
+
+693
+00:38:25,660 --> 00:38:31,029
+look at the I would I would look at the
+
+694
+00:38:28,539 --> 00:38:35,130
+bandwidth that your users are currently
+
+695
+00:38:31,029 --> 00:38:39,219
+using against your your your TFS server
+
+696
+00:38:35,130 --> 00:38:42,700
+and it's not going to be any more than
+
+697
+00:38:39,219 --> 00:38:46,539
+that luckily you're using gate so the
+
+698
+00:38:42,700 --> 00:38:47,920
+majority of traffic would be source
+
+699
+00:38:46,539 --> 00:38:49,809
+control traffic under normal
+
+700
+00:38:47,920 --> 00:38:53,200
+circumstances but once you've cloned
+
+701
+00:38:49,809 --> 00:38:55,119
+they get repo and it's obviously you've
+
+702
+00:38:53,200 --> 00:38:56,559
+got a copy on your local machine so it
+
+703
+00:38:55,119 --> 00:38:59,200
+would just be work item tracking and
+
+704
+00:38:56,559 --> 00:39:02,469
+some of the build data what's going to
+
+705
+00:38:59,200 --> 00:39:06,249
+be more important or you I think is your
+
+706
+00:39:02,469 --> 00:39:09,130
+on-premise build agents and the data
+
+707
+00:39:06,249 --> 00:39:11,079
+being passed from the build agent
+
+708
+00:39:09,130 --> 00:39:11,739
+downloading the source code from Azure
+
+709
+00:39:11,079 --> 00:39:15,309
+DevOps
+
+710
+00:39:11,739 --> 00:39:19,719
+and then pushing it back up again and so
+
+711
+00:39:15,309 --> 00:39:22,869
+you you should look at what current data
+
+712
+00:39:19,719 --> 00:39:25,329
+transfer are you getting between your
+
+713
+00:39:22,869 --> 00:39:28,630
+people on your network and your existing
+
+714
+00:39:25,329 --> 00:39:30,080
+TFS instance and it's probably not going
+
+715
+00:39:28,630 --> 00:39:33,869
+to be
+
+716
+00:39:30,080 --> 00:39:35,280
+not much more heavy than that it'd
+
+717
+00:39:33,869 --> 00:39:43,290
+probably be less heavy but it's not
+
+718
+00:39:35,280 --> 00:39:44,820
+gonna be more heavy every organization
+
+719
+00:39:43,290 --> 00:39:48,210
+has a different profile for how their
+
+720
+00:39:44,820 --> 00:39:52,250
+users use TFS and as your DevOps and not
+
+721
+00:39:48,210 --> 00:39:52,250
+a it's just not a standard
+
+722
+00:40:04,010 --> 00:40:11,730
+what what is a good idea is when you're
+
+723
+00:40:09,270 --> 00:40:15,090
+thinking about that traffic you can
+
+724
+00:40:11,730 --> 00:40:17,430
+monitor it between the the your current
+
+725
+00:40:15,090 --> 00:40:22,100
+instance probably want to think about
+
+726
+00:40:17,430 --> 00:40:25,940
+and what of that traffic that connects
+
+727
+00:40:22,100 --> 00:40:29,510
+internally on my network can I move to
+
+728
+00:40:25,940 --> 00:40:32,460
+the cloud in some way so that it's not
+
+729
+00:40:29,510 --> 00:40:36,080
+communicating through my internet pipe
+
+730
+00:40:32,460 --> 00:40:41,970
+so for example you said you had our
+
+731
+00:40:36,080 --> 00:40:45,150
+artifacts repository for NPM and and you
+
+732
+00:40:41,970 --> 00:40:46,950
+get packages that artifact repository
+
+733
+00:40:45,150 --> 00:40:51,240
+probably currently resides on your
+
+734
+00:40:46,950 --> 00:40:56,400
+internal network that could run em in a
+
+735
+00:40:51,240 --> 00:40:59,869
+juror I just as a server in your your
+
+736
+00:40:56,400 --> 00:41:04,980
+your as your private network and also
+
+737
+00:40:59,869 --> 00:41:09,210
+your build agents that you run and on
+
+738
+00:41:04,980 --> 00:41:12,450
+your local network could run as build
+
+739
+00:41:09,210 --> 00:41:15,720
+agents in a private at work in a juror
+
+740
+00:41:12,450 --> 00:41:18,090
+no they do because we have to access a
+
+741
+00:41:15,720 --> 00:41:20,070
+lot of database that have to run
+
+742
+00:41:18,090 --> 00:41:23,670
+interment so you will create an even
+
+743
+00:41:20,070 --> 00:41:26,810
+worse okay okay yeah yeah that's what
+
+744
+00:41:23,670 --> 00:41:26,810
+you do we have
+
+745
+00:41:33,619 --> 00:41:40,140
+so I I there's a number of organizations
+
+746
+00:41:36,839 --> 00:41:43,349
+I work with like slumber J which are oil
+
+747
+00:41:40,140 --> 00:41:46,410
+and gas and they've moved everything all
+
+748
+00:41:43,349 --> 00:41:48,630
+they don't have internal servers and
+
+749
+00:41:46,410 --> 00:41:53,039
+networks anymore that everything's been
+
+750
+00:41:48,630 --> 00:41:55,650
+moved to and as your Google or Amazon so
+
+751
+00:41:53,039 --> 00:41:58,980
+that they don't have that internal data
+
+752
+00:41:55,650 --> 00:42:01,260
+problem but yeah I understand if you've
+
+753
+00:41:58,980 --> 00:42:03,119
+got a lot of on premise data that's
+
+754
+00:42:01,260 --> 00:42:11,400
+pushed around then you'll probably need
+
+755
+00:42:03,119 --> 00:42:22,049
+stuff to be on premise there any
+
+756
+00:42:11,400 --> 00:42:25,230
+additional questions just the final one
+
+757
+00:42:22,049 --> 00:42:27,289
+from me at least because I think I
+
+758
+00:42:25,230 --> 00:42:30,059
+missed it
+
+759
+00:42:27,289 --> 00:42:33,390
+don't send to the scenario that would
+
+760
+00:42:30,059 --> 00:42:36,240
+break down the current project multiple
+
+761
+00:42:33,390 --> 00:42:37,829
+ones yeah I guess it's best that we move
+
+762
+00:42:36,240 --> 00:42:41,400
+because this is going to be a gradual
+
+763
+00:42:37,829 --> 00:42:45,980
+process we're not going to do a split
+
+764
+00:42:41,400 --> 00:42:49,760
+from day one we keep on let's say
+
+765
+00:42:45,980 --> 00:42:53,220
+separating its project specific element
+
+766
+00:42:49,760 --> 00:42:55,619
+yep bit by bit so I guess the process
+
+767
+00:42:53,220 --> 00:42:57,960
+would be to boost the collection as it
+
+768
+00:42:55,619 --> 00:43:03,180
+is right now or clutter it up and break
+
+769
+00:42:57,960 --> 00:43:06,480
+it down on a zoo recommendation okay my
+
+770
+00:43:03,180 --> 00:43:10,099
+recommendation there and there is a tool
+
+771
+00:43:06,480 --> 00:43:12,660
+for moving data around in Azure DevOps
+
+772
+00:43:10,099 --> 00:43:18,119
+code there's your DevOps migration tools
+
+773
+00:43:12,660 --> 00:43:21,720
+and they allow you to move data with as
+
+774
+00:43:18,119 --> 00:43:23,690
+much history as is possible it's not all
+
+775
+00:43:21,720 --> 00:43:28,700
+possible but with as much as possible
+
+776
+00:43:23,690 --> 00:43:31,380
+for work item tracking and get is easy
+
+777
+00:43:28,700 --> 00:43:38,819
+but work item tracking data will move
+
+778
+00:43:31,380 --> 00:43:40,799
+the data with history but the the a lot
+
+779
+00:43:38,819 --> 00:43:42,150
+of other things are more manual and you
+
+780
+00:43:40,799 --> 00:43:43,619
+kind of want that anyway because you
+
+781
+00:43:42,150 --> 00:43:46,710
+want to pick and choose what you take
+
+782
+00:43:43,619 --> 00:43:47,160
+with you okay you want to clean up as
+
+783
+00:43:46,710 --> 00:43:54,240
+you go
+
+784
+00:43:47,160 --> 00:43:57,030
+yeah okay I'm good for now
+
+785
+00:43:54,240 --> 00:43:59,220
+there's gonna be more I guess oh no I
+
+786
+00:43:57,030 --> 00:44:02,280
+have no problem and I'm always available
+
+787
+00:43:59,220 --> 00:44:04,470
+if you need to chat about some of these
+
+788
+00:44:02,280 --> 00:44:12,620
+things and help figure it out
+
+789
+00:44:04,470 --> 00:44:12,620
+I go else is there any anything you need
+
+790
+00:44:16,820 --> 00:44:27,210
+possible next steps I think having
+
+791
+00:44:21,870 --> 00:44:30,980
+conclude this discovery I think next
+
+792
+00:44:27,210 --> 00:44:36,360
+step is to go from outside describe
+
+793
+00:44:30,980 --> 00:44:39,480
+probably our what actually we want from
+
+794
+00:44:36,360 --> 00:44:43,500
+the project from you and after that you
+
+795
+00:44:39,480 --> 00:44:50,370
+to come back with an effort estimation
+
+796
+00:44:43,500 --> 00:44:55,650
+and a budget in order to to submit it to
+
+797
+00:44:50,370 --> 00:44:59,640
+our IT steering committee and I think
+
+798
+00:44:55,650 --> 00:45:02,790
+also it timetable okay probably from any
+
+799
+00:44:59,640 --> 00:45:10,190
+the setting is not three or four months
+
+800
+00:45:02,790 --> 00:45:18,180
+work so hopefully yeah so we need some
+
+801
+00:45:10,190 --> 00:45:20,160
+indication for availability yes sorry
+
+802
+00:45:18,180 --> 00:45:26,910
+I'd also like to say sorry to interrupt
+
+803
+00:45:20,160 --> 00:45:29,340
+and uh the the and I I would want you to
+
+804
+00:45:26,910 --> 00:45:33,300
+own everything that you have to take
+
+805
+00:45:29,340 --> 00:45:36,570
+forward and use me for things that you
+
+806
+00:45:33,300 --> 00:45:40,260
+don't have to take forward so for
+
+807
+00:45:36,570 --> 00:45:42,570
+example the the some of the getting
+
+808
+00:45:40,260 --> 00:45:45,690
+stuff into Azure DevOps
+
+809
+00:45:42,570 --> 00:45:47,700
+is a one-time thing you don't need the
+
+810
+00:45:45,690 --> 00:45:49,680
+skills internally to be able to manage
+
+811
+00:45:47,700 --> 00:45:52,170
+and maintain that going forward because
+
+812
+00:45:49,680 --> 00:45:55,260
+you do it once and then it's done but
+
+813
+00:45:52,170 --> 00:45:58,230
+for example and some of the the
+
+814
+00:45:55,260 --> 00:46:01,140
+migrating of data or really
+
+815
+00:45:58,230 --> 00:46:02,609
+understanding the process template if
+
+816
+00:46:01,140 --> 00:46:04,470
+you have people that already have that
+
+817
+00:46:02,609 --> 00:46:07,049
+knowledge or that need that knowledge to
+
+818
+00:46:04,470 --> 00:46:10,079
+carry forward and it would be better use
+
+819
+00:46:07,049 --> 00:46:12,900
+of my time to help those folks get up to
+
+820
+00:46:10,079 --> 00:46:15,869
+speed so they can do it and then not
+
+821
+00:46:12,900 --> 00:46:17,970
+only do you minimize your your costs
+
+822
+00:46:15,869 --> 00:46:24,720
+with me you maximize the value that you
+
+823
+00:46:17,970 --> 00:46:30,510
+get out of that engagement yeah on the
+
+824
+00:46:24,720 --> 00:46:33,809
+other side because we need to it's one
+
+825
+00:46:30,510 --> 00:46:37,339
+of them except for the business
+
+826
+00:46:33,809 --> 00:46:43,440
+requirement this is also an audit issue
+
+827
+00:46:37,339 --> 00:46:48,359
+with visual studio license so personally
+
+828
+00:46:43,440 --> 00:46:51,900
+personally I need to assuming that the
+
+829
+00:46:48,359 --> 00:46:55,380
+business Yanni's VV panelist is okay
+
+830
+00:46:51,900 --> 00:47:01,849
+with the approach I need to move fast
+
+831
+00:46:55,380 --> 00:47:06,150
+so velocity against cost probably
+
+832
+00:47:01,849 --> 00:47:08,460
+velocity is more critical to us this is
+
+833
+00:47:06,150 --> 00:47:13,500
+this is my understanding because I have
+
+834
+00:47:08,460 --> 00:47:17,569
+a the otic two behind me to kick me in
+
+835
+00:47:13,500 --> 00:47:23,299
+my ass every quarter but but I think
+
+836
+00:47:17,569 --> 00:47:23,299
+maybe we have to discuss our side
+
+837
+00:47:29,910 --> 00:47:36,779
+okay if we have all the information from
+
+838
+00:47:33,329 --> 00:47:43,859
+outside yeah knees with apologies Nico's
+
+839
+00:47:36,779 --> 00:47:46,859
+and Sonia and we are able to prepare the
+
+840
+00:47:43,859 --> 00:47:53,069
+requirement document for Marty I think
+
+841
+00:47:46,859 --> 00:47:55,500
+we are okay for now I'll reply to emails
+
+842
+00:47:53,069 --> 00:47:57,200
+that we've had with a link to some of
+
+843
+00:47:55,500 --> 00:48:00,809
+the documentation that I talked about
+
+844
+00:47:57,200 --> 00:48:04,369
+and hopefully that will add some value
+
+845
+00:48:00,809 --> 00:48:11,450
+there okay okay okay great
+
+846
+00:48:04,369 --> 00:48:11,450
+you're very welcome good to get from you
+
+847
+00:48:11,780 --> 00:48:18,050
+okay thank you I do I do still
+
+848
+00:48:14,270 --> 00:48:20,660
+occasionally get emails from your TFS
+
+849
+00:48:18,050 --> 00:48:25,370
+database server to tell me that you've
+
+850
+00:48:20,660 --> 00:48:29,990
+run out of this space so I do hear from
+
+851
+00:48:25,370 --> 00:48:39,410
+you every so often something that our
+
+852
+00:48:29,990 --> 00:48:44,660
+all the department has fine before two
+
+853
+00:48:39,410 --> 00:48:46,790
+weeks ago so okay yeah I haven't seen
+
+854
+00:48:44,660 --> 00:48:51,350
+one in a couple of weeks so thanks
+
+855
+00:48:46,790 --> 00:48:54,020
+thanks Jenna because if I likely find
+
+856
+00:48:51,350 --> 00:49:04,960
+this be an issue for us because who is
+
+857
+00:48:54,020 --> 00:49:18,350
+this vendor I don't know if Yan is
+
+858
+00:49:04,960 --> 00:49:20,750
+released if you do have additional
+
+859
+00:49:18,350 --> 00:49:24,680
+questions feel free to fire me an email
+
+860
+00:49:20,750 --> 00:49:26,210
+or our message me on on teams and I'll
+
+861
+00:49:24,680 --> 00:49:29,930
+get an answer as best I can
+
+862
+00:49:26,210 --> 00:49:32,390
+I'm I'm training for days this week so I
+
+863
+00:49:29,930 --> 00:49:39,850
+might not respond super quickly but I
+
+864
+00:49:32,390 --> 00:49:43,750
+have tried my best thank you
+
+865
+00:49:39,850 --> 00:49:49,390
+nice evening
+
+866
+00:49:43,750 --> 00:49:49,390
+yeah you too you too have a nice night
+
+

@@ -1,40 +1,57 @@
 ---
 title: Applying Professional Kanban (APK) Course with Certification
+description: Join our updated 'Applying Professional Kanban' course for an immersive learning experience, blending live sessions and real-world application over several weeks.
+ResourceId: ZeqWpEsyhbv
+ResourceImport: true
+ResourceType: course
 date: 2020-12-17
 creator: Martin Hinshelwood
-id: "45447"
 type: course
 weight: 100
 slug: applying-professional-kanban-apk-training-experience-with-certification
 url: /capabilities/training-courses/kanban-training-courses/:slug/
 aliases:
-  - /apk/
-  - /training-courses/apk/
-  - /training-courses/applying-professional-kanban/
-  - /training-courses/applying-professional-kanban-training-with-certification/
-  - /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
-  - /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
+- /apk/
+- /training-courses/apk/
+- /training-courses/applying-professional-kanban/
+- /training-courses/applying-professional-kanban-training-with-certification/
+- /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+- /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
+- /resources/ZeqWpEsyhbv
+aliasesFor404:
+- /apk/
+- /training-courses/apk/
+- /training-courses/applying-professional-kanban/
+- /training-courses/applying-professional-kanban-training-with-certification/
+- /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+- /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
 course-topics:
-  - Kanban Training Courses
+- Kanban Training Courses
 course-vendors:
-  - ProKanban.org
+- ProKanban.org
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - Teams
-  - Product Owners
-  - Lean Agile Practitioners
+- Teams
+- Product Owners
+- Lean Agile Practitioners
 tags:
-  - certification
-  - kanban
-  - lean
-  - team
-  - teams
+- Practical Techniques and Tooling
+- Flow Efficiency
+- Operational Practices
+- Agile Frameworks
+- Lean Thinking
+- Pragmatic Thinking
+- Continuous Learning
+- Agile Project Management
+- Value Delivery
+- Software Development
 categories:
-  - agility
+- Kanban
+- Social Technologies
 preview: NKDAgility-Courses-APK-16x9-1.jpg
 previewIcon: APK@2x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -42,7 +59,7 @@ card:
   content: "Revolutionize Your Team's Performance with Kanban: Join our Immersion Training Course for a deep, practical dive into Kanban principles, designed to seamlessly integrate into your work life and foster continuous improvement and real-world application. Transform the way you deliver value today!"
 code: APK
 level: intermediate
-introduction:
+introduction: 
 overview: |2-
 
   1. **Team Members**: Individuals working in teams who are looking to enhance their workflow and productivity. Suitable for those in technical, creative, or operational roles seeking to improve their project management and delivery skills.
@@ -65,7 +82,7 @@ outcomes: |2-
   - **Getting Started with Kanban**: A step-by-step guide to initiating a Kanban system from scratch. Understand the essentials of starting Kanban in your organization, from initial setup to engaging team members and ensuring a successful launch.
 
    Each of these topics is tailored to provide a comprehensive understanding of Kanban, combining theoretical knowledge with practical, immersive exercises. This approach ensures that participants not only learn about Kanban but also acquire the skills necessary to effectively implement and benefit from it in their professional context.
-assessment:
+assessment: 
 objectives: |-
   Following the completion of our 'Applying Professional Kanban' course, learners will have gained a comprehensive set of skills and knowledge, enabling them to: 
   1. **Explain the Basic Principles of Flow**: Understand and articulate the fundamental concepts of flow in the context of Kanban, and how they contribute to smoother, more efficient processes.
@@ -86,13 +103,13 @@ prerequisites: |-
   5. **Basic Project Management Knowledge**: While not mandatory, understanding the basics of project management can be helpful in comprehending how Kanban can optimize project workflows.
 
    These recommendations are designed to ensure that participants can fully engage with the course content and apply the learnings effectively in their professional environments. However, the course is structured to be inclusive and beneficial even for those who are new to Kanban and agile practices.
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 Embark on a continuous learning journey with our updated 'Applying Professional Kanban' course, now offered as an [Immersion Training experience](https://nkdagility.com/blog/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving/). This innovative format extends the learning over several weeks with concise, live sessions, blending real-world application with reflective practice for a truly effective learning journey.
 
 With incremental classroom learning, outcome-based assignments, and facilitated reflections, this course offers a practical approach to mastering Kanban. Ideal for those who thrive on applying and experimenting in real-time work environments, this immersive strategy ensures deeper understanding, collaborative growth, and the ability to make an immediate positive impact in your professional setting.

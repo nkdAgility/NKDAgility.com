@@ -1,20 +1,40 @@
 ---
 title: Common Goals
 description: All participants and stakeholders should understand the overall strategic goals and be able to see how the work contributes to it
+ResourceId: K-0Kt7CHeQw
+ResourceImport: false
+ResourceType: principles
 resourceTypes: principles
 layout: principles
-recommendedContent:
+recommendedContent: 
 date: 2024-09-17
 creator: Martin Hinshelwood
 aliases:
-  - /learn/agile-delivery-kit/first-principals/common-goals/
+- /learn/agile-delivery-kit/first-principals/common-goals/
+- /resources/K-0Kt7CHeQw
+aliasesFor404:
+- /learn/agile-delivery-kit/first-principals/common-goals/
 card:
   button:
     content: Learn More
   content: Discover more about Common Goals and how it can help you in your Agile journey!
   title: Common Goals
----
+categories:
+- Scrum
+- Social Technologies
+tags:
+- Scrum Product Development
+- Strategy
+- Strategic Goals
+- Scrum Team
+- Professional Scrum
+- People and Process
+- Agile Project Management
+- Product Owner
+- Team Motivation
+- Agile Product Management
 
+---
 It is important for all participants and stakeholders to understand an organization's strategic goals and how their work contributes to achieving them. This alignment leads to focused efforts, efficient resource utilization, and better decision-making. Understanding the organization's objectives also motivates participants and stakeholders, leading to a greater sense of ownership, accountability, and commitment to achieving the goals.
 
 ## The Importance of Goals

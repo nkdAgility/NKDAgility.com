@@ -3,7 +3,7 @@ title: How do you know if you've got a great Sprint Goal?
 description: 'Discover how to craft a valuable sprint goal in Scrum! Join Martin Hinshelwood for insights that align teams with strategic objectives. #Agile #Scrum #Shorts'
 date: 2023-06-02T11:00:12Z
 ResourceId: AY35ys1uQOY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: AY35ys1uQOY
@@ -20,36 +20,24 @@ aliases:
 - /resources/videos/AY35ys1uQOY
 - /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - /resources/AY35ys1uQOY
+aliasesFor404:
+- /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
+- /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
+- /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Goal
-- Scrum Goal
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
+- People and Process
 - Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
+- Agile Planning
 - Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Agile Product Management
 resourceTypes:
 - video
+categories:
+- Social Technologies
+- Scrum
 
 ---
 ## Is Your Sprint Goal Hitting the Mark?

@@ -2,14 +2,13 @@
 title: 'TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number'
 description: Resolve stuck builds in TFS 2012 with our troubleshooting guide. Discover key insights and solutions to get your Team Foundation Build back on track!
 ResourceId: NARdkNvqUei
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 7760
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-30
 creator: Martin Hinshelwood
-id: "7760"
 layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
@@ -26,13 +25,12 @@ aliasesFor404:
 - /blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 - /tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
 - /blog/tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
+- /tfs-2012
+- /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 tags:
-- puzzles
-- tfs-build
-- tfs
-- tfs2012
+- Troubleshooting
 categories:
-- problems-and-puzzles
+- DevOps
 preview: metro-problem-icon-7-7.png
 
 ---

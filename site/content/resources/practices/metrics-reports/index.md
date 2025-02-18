@@ -1,14 +1,21 @@
 ---
 title: Metrics and Reports
+description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
+ResourceId: 26FWeqJuu0P
+ResourceImport: false
+ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-  - /learn/agile-delivery-kit/practices/metrics-reports
+- /learn/agile-delivery-kit/practices/metrics-reports
+- /resources/26FWeqJuu0P
+aliasesFor404:
+- /learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
-  - practices/Metrics-Reports/
-  - practices/Metrics-Reports.html
-  - metrics-reports
-  - metrics-reports.html
+- practices/Metrics-Reports/
+- practices/Metrics-Reports.html
+- metrics-reports
+- metrics-reports.html
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:
@@ -16,8 +23,22 @@ card:
     content: Learn More
   content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
   title: Metrics and Reports
----
+categories:
+- Product Management
+- Engineering Excellence
+tags:
+- Metrics and Learning
+- Transparency
+- Throughput
+- Flow Efficiency
+- Transparency and Accountability
+- Agile Product Operating Model
+- Product Delivery
+- Cycle Time
+- Practical Techniques and Tooling
+- Team Performance
 
+---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
 
 ###Background material

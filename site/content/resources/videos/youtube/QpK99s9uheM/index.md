@@ -1,52 +1,72 @@
 ---
-title: Is a scrum master an agile project manager?
-description: 'Discover the difference between a Scrum Master and an Agile Project Manager in this insightful video by Martin Hinshelwood. #Agile #Scrum #Shorts'
+title: 'From Control to Collaboration: How Project Managers Can Embrace Agility and Thrive'
+description: Unlock the secrets to agile project management! Discover how to shift your mindset, embrace uncertainty, and empower your team for success.
 date: 2023-05-24T07:00:23Z
 ResourceId: QpK99s9uheM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QpK99s9uheM
 url: /resources/videos/:slug
 slug: is-a-scrum-master-an-agile-project-manager-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=QpK99s9uheM
 aliases:
 - /resources/videos/QpK99s9uheM
 - /resources/videos/is-a-scrum-master-an-agile-project-manager-
 - /resources/is-a-scrum-master-an-agile-project-manager-
 - /resources/QpK99s9uheM
+aliasesFor404:
+- /resources/videos/is-a-scrum-master-an-agile-project-manager-
+- /resources/is-a-scrum-master-an-agile-project-manager-
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
-- Scrum Master
-- ScrumMaster
-- Project Manager
-- Agile Project Manager
-- Scrum
-- Agile
-- Agile Project Management
+- People and Process
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
+- Leadership
 
 ---
- #shorts #shortsvideo #agile doesn't have a #projectmanager role and neither does #scrum. Sometimes, people think a #scrummaster is an #agileprojectmanager but they aren't. They perform a completely different role. Martin Hinshelwood explains.
+In my experience, the term "project manager" often feels like an oxymoron when we talk about agility. It’s a bit of a paradox, isn’t it? While we can certainly sprinkle some agile principles into project management, the reality is that unless a project manager is willing to let go of their traditional mindset—specifically the belief that they have all the answers and can control every aspect of a project—they will continue to face the same challenges that have plagued project management for years.
 
-About NKD Agility
+### Embracing Complexity
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Agility is fundamentally about embracing complexity and uncertainty. It’s about recognising that we cannot predict every outcome or control every variable. This is where many project managers struggle. They often come from a background where predictability and control were paramount, and shifting to an agile mindset requires a significant change in thinking.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Letting Go of Control**: A project manager who clings to the idea that they must know everything will find it difficult to adapt to the fluid nature of agile. They need to understand that in an agile environment, the team is empowered to make decisions, and the project manager’s role shifts from controlling to facilitating.
+  
+- **Accepting Uncertainty**: Accepting that not everything can be known upfront is crucial. Agile methodologies thrive on iterative processes, where teams learn and adapt as they go. This means that project managers must be comfortable with ambiguity and be willing to pivot when necessary.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+### The Agile Project Manager
 
-We would love to work with you. 
+Now, let’s talk about the concept of the "agile project manager." While it’s true that some project managers can transition into the role of a Scrum Master, often what we see is the emergence of an "agile project manager." This is someone who applies agile practices but still operates under the traditional project management mindset.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=QpK99s9uheM)
+- **The Good**: They may introduce agile ceremonies, such as daily stand-ups or sprint reviews, and encourage collaboration within the team. This can lead to improved communication and a more engaged team.
+
+- **The Bad**: However, if they continue to impose control and maintain a top-down approach, they risk undermining the very principles of agility. The team may feel stifled, and the potential for innovation and adaptability diminishes.
+
+### Recommendations for Transitioning
+
+If you’re a project manager looking to embrace agility, here are a few recommendations based on my experiences:
+
+1. **Shift Your Mindset**: Start by recognising that you don’t have to have all the answers. Embrace the idea that your role is to support the team rather than dictate their actions.
+
+2. **Foster Collaboration**: Encourage open communication and collaboration within your team. Create an environment where team members feel safe to share their ideas and concerns.
+
+3. **Focus on Outcomes, Not Outputs**: Shift your focus from delivering a specific output to achieving desired outcomes. This means being flexible in how you get there and being open to change.
+
+4. **Invest in Continuous Learning**: Agility is about learning and adapting. Encourage your team to experiment, learn from failures, and continuously improve their processes.
+
+5. **Be Patient**: Transitioning to an agile mindset takes time. Be patient with yourself and your team as you navigate this journey together.
+
+### Conclusion
+
+In conclusion, while the role of a project manager can coexist with agile practices, it requires a fundamental shift in mindset. Embracing complexity, letting go of control, and fostering a collaborative environment are essential for true agility. Remember, it’s not just about applying agile practices; it’s about embodying the agile principles in everything you do. By doing so, you’ll not only enhance your effectiveness as a project manager but also empower your team to thrive in an ever-changing landscape.

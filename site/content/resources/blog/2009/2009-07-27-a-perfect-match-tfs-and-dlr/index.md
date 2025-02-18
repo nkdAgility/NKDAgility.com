@@ -2,14 +2,13 @@
 title: A perfect match TFS and DLR
 description: Discover how to streamline TFS check-in policies using the Dynamic Language Runtime. Simplify your development process with innovative solutions in Visual Studio 2010!
 ResourceId: JlC3Gm8IgO8
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 96
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-27
 creator: Martin Hinshelwood
-id: "96"
 layout: blog
 resourceTypes: blog
 slug: a-perfect-match-tfs-and-dlr
@@ -21,15 +20,12 @@ aliases:
 aliasesFor404:
 - /a-perfect-match-tfs-and-dlr
 - /blog/a-perfect-match-tfs-and-dlr
+- /resources/blog/a-perfect-match-tfs-and-dlr
 tags:
-- code
-- tfs-event-handler
-- tools
-- visual-studio
-- vs2010
+- Practical Techniques and Tooling
+- Software Development
 categories:
-- code-and-complexity
-- me
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

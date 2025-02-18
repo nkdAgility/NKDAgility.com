@@ -3,7 +3,7 @@ title: How does a Scrum Master or Agile coach motivate a Scrum Team?
 description: "Unlock the secrets to motivating Scrum teams! Join us as we explore effective techniques for Scrum Masters and Agile Coaches to boost engagement and productivity. \U0001F680✨"
 date: 2023-09-11T07:00:17Z
 ResourceId: hFjoIf3KPeI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hFjoIf3KPeI
@@ -21,24 +21,31 @@ aliases:
 - /resources/videos/hFjoIf3KPeI
 - /resources/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
 - /resources/hFjoIf3KPeI
+aliasesFor404:
+- /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-2
+- /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+- /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
+- /resources/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Team Motivation
+- People and Process
+- Scrum Product Development
+- Scrum Team
 - Scrum Master
-- Agile Coach
-- Scrum
-- Agile
-- Team motivation
-- Scrum Team motivation
-- Scrum team inspiration
-- Agile product development
-- Agile project management
-- Agile product management
-- project management
-- product development
+- Agile Frameworks
+- Agile Project Management
+- Team Performance
+- Team Collaboration
+- Software Development
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
+- Leadership
 
 ---
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 

@@ -3,7 +3,7 @@ title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
 description: Unlock essential negotiation skills for product owners! Learn strategies from an FBI expert to enhance your influence and success. Watch now!
 date: 2023-12-13T07:00:07Z
 ResourceId: DBa5_WhA68M
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DBa5_WhA68M
@@ -20,35 +20,22 @@ aliases:
 - /resources/videos/DBa5_WhA68M
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/DBa5_WhA68M
+aliasesFor404:
+- /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Owner
+- People and Process
+- Products and Books
+- Agile Product Management
 resourceTypes:
 - video
+categories:
+- Product Management
 
 ---
 One of the most vital skills for a Product Owner is negotiation. Whether you’re a seasoned Product Owner or just starting out, mastering negotiation can be the key to delivering maximum value. It’s a skill that you’ll use constantly — with developers, stakeholders, and leadership within your organization. Let’s dive into how negotiation plays a role in the life of a Product Owner and how you can become a master negotiator.

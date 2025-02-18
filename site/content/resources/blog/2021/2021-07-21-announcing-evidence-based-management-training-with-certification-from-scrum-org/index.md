@@ -2,14 +2,13 @@
 title: Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org
 description: Join the Professional Agile Leadership with Evidence-Based Management Training from Scrum.org. Enhance your leadership skills and create tailored metrics for success!
 ResourceId: XuePm2RAZa0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 46257
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-07-21
 creator: Martin Hinshelwood
-id: "46257"
 layout: blog
 resourceTypes: blog
 slug: announcing-evidence-based-management-training-with-certification-from-scrum-org
@@ -27,10 +26,22 @@ aliasesFor404:
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
 - /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+- /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
 tags:
-- annoucement
+- Evidence Based Management
+- Evidence Based Leadership
+- Metrics and Learning
+- Agile Project Management
+- Agile Leadership
+- People and Process
+- Ability to Innovate
+- Events and Presentations
+- Products and Books
+- Value Delivery
 categories:
-- agility
+- Leadership
+- Social Technologies
+- Scrum
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

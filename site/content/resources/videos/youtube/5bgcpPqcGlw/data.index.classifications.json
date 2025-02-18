@@ -1,0 +1,1379 @@
+{
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-18T11:06:03",
+    "ai_confidence": 85,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the integration of engineering and operations within the Azure DevOps team, focusing on site reliability engineering, automation, and continuous delivery practices, which are central to DevOps principles.",
+    "level": "Primary"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T11:06:05",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically Scrum, and how they are applied within the Azure DevOps team to enhance collaboration, transparency, and continuous improvement in site reliability engineering.",
+    "level": "Secondary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-18T11:06:07",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses site reliability engineering, automation, continuous improvement, and the integration of engineering and operations, which are all central to the principles of engineering excellence. It also touches on best practices in telemetry, incident management, and the importance of transparency and collaboration within engineering teams.",
+    "level": "Secondary"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T11:06:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the role of leadership in fostering a live site culture and transparency within the Azure DevOps team, highlighting the importance of leadership in creating an agile environment. However, the primary focus is on technical practices and site reliability engineering rather than leadership strategies or frameworks.",
+    "level": "Tertiary"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-18T11:06:11",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of product management, particularly in relation to Agile and Scrum frameworks, customer feedback, and the importance of transparency and trust with customers. However, the primary focus is on site reliability engineering and operational practices rather than strategic product management.",
+    "level": "Tertiary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T11:46:30",
+    "ai_confidence": 70,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Scrum practices, including sprints and the role of Scrum teams, as part of a broader conversation on site reliability and DevOps. While Scrum is a significant theme, the primary focus is on site reliability engineering and operational practices.",
+    "level": "Secondary"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on site reliability engineering, Scrum practices, and the operational dynamics of the Azure DevOps team. There is minimal discussion on asynchronous development principles, practices, or collaboration. The topics covered do not align with the core ideas of asynchronous development as defined in the classification.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Azure DevOps and site reliability engineering, with only tangential references to the role of a Product Owner, lacking a focused discussion on Product Owner responsibilities or practices.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the role of metrics, telemetry, data collection, and continuous improvement methodologies used by the Azure DevOps team. It emphasizes the importance of data-driven decision-making, transparency, understanding performance metrics, and how these elements contribute to a resilient live site culture within Agile and DevOps practices.",
+    "level": "Secondary"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content mentions Scrum practices and roles, such as sprints and automated processes in a Scrum context, but the primary focus is on site reliability engineering and Azure DevOps rather than Scrum principles or practices.",
+    "level": "Tertiary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Agile practices, the use of Scrum within Azure DevOps, and emphasizes the importance of transparency, collaboration, and continuous improvement, which are key themes in Agile frameworks. However, the primary focus is more on site reliability engineering and operational practices rather than a comprehensive exploration of Agile frameworks themselves.",
+    "level": "Secondary"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "While the content discusses Scrum implementation within the Azure DevOps team and touches on topics such as sprints, product ownership, and transparency, the primary focus is on site reliability engineering and operational practices rather than on the iterative development and product enhancement typical of Scrum product development.",
+    "level": "Tertiary"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 100,
+    "non_ai_confidence": 10,
+    "final_score": 91.0,
+    "reasoning": "The content is a direct presentation discussion that focuses on site reliability engineering within the context of Agile and DevOps practices at a live speaking event. It includes elements such as a speaker addressing the audience, sharing insights, and discussing key practices relevant to the Agile and DevOps community.",
+    "level": "Primary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses extensively on site reliability engineering, telemetry collection, and operational practices rather than directly discussing methodologies for validating product ideas through user engagement or market needs.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses team dynamics, ownership, and responsibility within the Azure DevOps team, touching on transparency and accountability in operations and incident management. However, it primarily focuses on site reliability and the engineering practices rather than accountability as a distinct central theme.",
+    "level": "Tertiary"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 65,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content primarily discusses Azure DevOps and site reliability engineering but includes significant references to the Windows operating system, especially in relation to its deployment and update processes. However, this content is not centered solely on Windows; Azure DevOps and related practices take precedence.",
+    "level": "Secondary"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on site reliability engineering, Azure DevOps practices, and operational management rather than discussing the Sprint Review process or its role in Scrum.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-18T12:22:56",
+    "ai_confidence": 60,
+    "non_ai_confidence": 10,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the importance of transparency and trust with customers, emphasizes the need for feedback loops, and mentions customer responsiveness in the context of Azure DevOps. While customer satisfaction is a significant theme, the primary focus is on site reliability and engineering practices.",
+    "level": "Tertiary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses application deployment, maintenance, and operational reliability, touching on ALM practices and metrics. However, it primarily focuses on site reliability engineering and Azure DevOps processes, making ALM a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content briefly mentions Agile practices and virtual classrooms, indicating a focus on remote collaboration within Agile methodologies. However, the primary focus is on site reliability engineering and operational practices rather than remote working strategies.",
+    "level": "Tertiary"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses continuous improvement, transparency, and efficiency in software development and operations, which aligns with Lean principles as secondary themes. However, Lean principles are not the primary focus; the discussion is more about site reliability and DevOps practices.",
+    "level": "Tertiary"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 70,
+    "non_ai_confidence": 30,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of automation in relation to the Definition of Done in Scrum and Agile practices, and touches on how the Definition of Done relates to the team's ability to deploy reliable software. However, the primary focus remains on site reliability engineering and organizational culture rather than the Definition of Done itself.",
+    "level": "Secondary"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses site reliability engineering, Azure DevOps practices, and the operational aspects of software engineering teams without a central focus on evidence-based leadership principles or empirical evidence to enhance leadership decisions.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses site reliability engineering, automation, and Azure DevOps practices, without a focus on revenue per employee metrics or related financial efficiency measures.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses site reliability engineering, Azure DevOps, and team dynamics in a technical context without a focus on collaboration tools or their direct impact on Agile teamwork.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and the organizational structure of teams within Azure DevOps, emphasizing elements of autonomy and collective responsibility. However, the focus is primarily on site reliability and operational practices rather than a deeper exploration of self-organization culture.",
+    "level": "Tertiary"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses site reliability engineering, operational practices, and organizational culture within Azure DevOps, without a clear focus on market share strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Continuous Delivery principles, particularly highlighting automation, deployment processes, and incident management within the context of Azure DevOps, which aligns closely with the continuous delivery framework.",
+    "level": "Secondary"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the importance of transparency and understanding customer needs, which are relevant to customer feedback loops, but the primary focus is on site reliability engineering and operational practices rather than the mechanisms for collecting and integrating customer feedback.",
+    "level": "Tertiary"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses site reliability engineering and automation practices within an Agile context, touching on principles such as continuous delivery, team collaboration, and the importance of transparency and telemetry. However, the main focus is on operational aspects rather than strictly software engineering practices like TDD or clean code.",
+    "level": "Secondary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-18T12:22:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses site reliability engineering, Agile practices, and Azure DevOps without a focus on Test Driven Development principles, such as the TDD cycle or writing tests before code.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of transparency and responsiveness in maintaining customer trust, which aligns with customer retention strategies, though it primarily focuses on site reliability engineering and operational practices.",
+    "level": "Tertiary"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses site reliability engineering and development practices within Azure DevOps, with no mention of Lean Startup principles, MVP, or iterative learning processes central to the Lean Startup methodology.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 95,
+    "non_ai_confidence": 20,
+    "final_score": 88.0,
+    "reasoning": "Content primarily discusses software development practices, particularly focusing on site reliability engineering (SRE), Agile methodologies (Scrum), automation, and continuous delivery within the context of Azure DevOps. The emphasis on metrics, team collaboration, and managing software lifecycle is central to the discussions presented.",
+    "level": "Primary"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily focuses on site reliability engineering and operational practices within Azure DevOps, detailing transparency, automation, and team organization rather than discussing coaching techniques or collaboration focused on team growth and development.",
+    "level": "Ignored"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Agile practices in the context of Azure DevOps, including scrum roles, iterative delivery, and the importance of transparency and feedback loops in software development. However, it also heavily emphasizes site reliability engineering and operational concerns, making Agile Planning a secondary theme.",
+    "level": "Secondary"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 65,
+    "non_ai_confidence": 10,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of Agile practices within the Azure DevOps team's culture and their approach to site reliability. It mentions Scrum methodologies, continuous value delivery, the importance of feedback loops, and agile principles in context. However, the focus is more on site reliability engineering practices and specific operational challenges rather than on broader organizational Agile strategy.",
+    "level": "Tertiary"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the practices of the Azure DevOps team, including their use of Agile methodologies like Scrum, continuous improvement, transparency with customers, and how they organize cross-functional teams to manage site reliability and performance. It emphasizes team dynamics, roles within the team, and metrics for improving performance, which aligns well with the category of 'Team Performance'.",
+    "level": "Secondary"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methods, Site Reliability Engineering (SRE), and Azure DevOps, without a clear focus on Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily focuses on site reliability engineering and operational practices within Azure DevOps, rather than clearly defined long-term strategic goals aligned with business agility.",
+    "level": "Ignored"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses site reliability engineering, team dynamics, and cultural aspects of Azure DevOps without focusing on Azure Repos functionalities or source control topics.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses site reliability engineering, DevOps practices, and operational transparency, which are not directly aligned with the core principles of Value Stream Management.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 30,
+    "non_ai_confidence": 30,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Azure DevOps, site reliability engineering, and operational practices, while only briefly touching on topics related to standardizing and integrating software development practices that align with 1ES. There are no substantial discussions about the core principles, best practices, or challenges of the One Engineering System.",
+    "level": "Quaternary"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-18T12:22:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of organizational culture transformation and the need for adaptability and resilience, particularly in relation to the shift from waterfall to agile practices at Microsoft. However, the main focus is on site reliability engineering and DevOps practices rather than change management strategies and principles.",
+    "level": "Tertiary"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the transformation of Microsoft's practices with Azure DevOps, touching on automation, operational efficiency, and the integration of engineering and operations teams, which relates to digital transformation principles. However, it primarily focuses on site reliability engineering rather than a comprehensive view of digital transformation strategies or broader organizational culture change.",
+    "level": "Tertiary"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on site reliability, operations, transparency, and teamwork in Agile environments rather than on systematic testing of ideas or hypothesis-driven experimentation.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content discusses continuous improvement practices, such as leveraging feedback and telemetry data to enhance site reliability and team performance, which aligns with continuous learning principles in Agile and DevOps environments.",
+    "level": "Secondary"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the dynamics of site reliability and engineering operations within organizations, highlighting the interplay between engineering and operations, as well as the importance of transparency and trust in organizational culture. While it focuses on specific practices within Azure DevOps, it demonstrates key systems thinking principles as they relate to organizational behaviour and dynamics.",
+    "level": "Secondary"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses aspects of site reliability and deployment processes, including challenges related to software releases and the importance of automation, telemetry, and continuous improvement within the context of Azure DevOps. While Release Management is a significant secondary theme, the primary focus is more on site reliability engineering and operational transparency rather than on the strategies and practices specifically associated with Release Management.",
+    "level": "Secondary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Azure DevOps, covering its role in site reliability engineering, continuous delivery, and best practices within the Azure DevOps team. It also details how the Azure DevOps platform supports engineering efforts and operational stability, making it a central theme of the discussion.",
+    "level": "Secondary"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on software engineering practices, specifically on aspects of site reliability, automation, DevOps integration, and technical transparency which align with best practices of software craftsmanship and engineering excellence.",
+    "level": "Secondary"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the role of software developers within the context of Agile and DevOps practices, including site reliability engineering, automation, continuous delivery, and the interaction between development and operations teams.",
+    "level": "Secondary"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily focuses on site reliability engineering and Azure DevOps, discussing engineering practices rather than principles of Lean Product Development.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 60,
+    "non_ai_confidence": 20,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of engineering teams, site reliability, and software development processes, but primarily focuses on site reliability engineering and Agile methodologies rather than a deep exploration of code quality principles or complexity theory.",
+    "level": "Tertiary"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the live site culture and how it integrates engineering with operations, emphasizing trust, transparency, and a shift from traditional departmental structures to cross-functional teams. It highlights the leadership's role in promoting this culture within the Azure DevOps team, illustrating the importance of cultural changes in supporting Agile and DevOps practices. Key themes such as building customer trust, accountability, and a culture of continuous improvement are central to the discussion.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content focuses primarily on site reliability engineering and practices within Azure DevOps, with minimal discussion related to backlog refinement or its key practices.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-18T12:22:59",
+    "ai_confidence": 85,
+    "non_ai_confidence": 30,
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses site reliability engineering principles, practices, and a case study from the Azure DevOps team. It clearly covers topics such as transparency, monitoring, incident response, automation, and the integration of development and operations, while also referencing best practices for maintaining system reliability in production environments, aligning well with SRE principles.",
+    "level": "Secondary"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Scrum practices within the context of site reliability and engineering, making Scrum a significant theme but not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses elements of Agile practices at a large scale, particularly within Microsoft's Azure DevOps team, focusing on transparency, cross-functional teams, and the integration of DevOps principles. However, it mainly emphasizes operational aspects rather than a comprehensive Agile scaling framework or transformation strategy, making it a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content discusses various aspects of Agile and DevOps practices, focusing on transparency, customer trust, iterative improvement, and continuous delivery of value. It emphasizes the importance of aligning development with customer needs, which is central to the topic of Value Delivery.",
+    "level": "Secondary"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the role of technical leadership in promoting site reliability engineering and DevOps practices within teams. It emphasizes the importance of transparency, continuous improvement, mentoring, and collaboration in an agile environment, which are all key elements of technical leadership.",
+    "level": "Secondary"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content relates to Azure DevOps, which includes source control, deployment practices, and team collaboration in a modern software development context, though it primarily focuses on site reliability engineering and operational practices rather than source control methodologies.",
+    "level": "Tertiary"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses site reliability engineering, Agile methodologies, and operational practices within Azure DevOps, without a clear focus on decision-making processes in uncertain environments.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on site reliability, engineering practices, and operational culture without a clear emphasis on forecasting methods or techniques within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content discusses various technical practices and methodologies related to site reliability engineering, automation, telemetry, and continuous delivery within the Azure DevOps environment. It emphasizes engineering practices that enhance system reliability and response times, aligning closely with the principles of Technical Excellence.",
+    "level": "Secondary"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transformation of Microsoft towards a live-site culture and the integration of engineering and operations through Agile and DevOps practices. While the focus is heavily on operational practices and tools, it also highlights broader themes of changing organisational structures, responsibilities, and cultural shifts necessary to implement effective change, which aligns with organisational change discussions.",
+    "level": "Secondary"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses site reliability engineering and Azure DevOps practices with some references to Scrum and Agile principles, but it does not focus on the scaled Agile frameworks or practices necessary for coordination across multiple teams or enterprise-level initiatives.",
+    "level": "Quaternary"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses concepts of site reliability engineering and DevOps practices without a clear focus on Lean Thinking principles.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 85,
+    "non_ai_confidence": 30,
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses the role of team dynamics, site reliability engineering, and Agile methodologies within the Azure DevOps environment, emphasizing transparency, trust, and the human factors influencing effective processes.",
+    "level": "Secondary"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the Azure DevOps platform, emphasizing its role in supporting engineering and operations, automation, and developer productivity. While it touches on site reliability and operational efficiency, platform engineering is a secondary theme rather than the primary focus.",
+    "level": "Tertiary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-18T12:23:00",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses site reliability engineering and Azure DevOps practices, emphasizing the importance of responsiveness, adaptability, and a culture of continuous improvement. While the central focus is on technical processes related to Azure DevOps, it aligns with the theme of business agility by recognizing how these practices contribute to a more agile organization. However, it primarily revolves around specific technical implementations rather than broader strategic discussions directly related to business agility.",
+    "level": "Secondary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 55,
+    "non_ai_confidence": 10,
+    "final_score": 50.0,
+    "reasoning": "The content discusses complex system dynamics, operational challenges, and the importance of transparency and automation in site reliability, which aligns with principles of Complexity Thinking. However, it primarily focuses on DevOps and Agile practices rather than explicitly centering on complexity science concepts.",
+    "level": "Tertiary"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses technical aspects of site reliability, DevOps practices, and engineering team organization, with little focus on psychological principles affecting motivation, engagement, or team dynamics.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses site reliability engineering, operational practices, and the transition of Microsoft's engineering teams, with only brief mentions of Azure DevOps as a tool, without focusing explicitly on Azure Boards functionalities.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses site reliability, DevOps practices, and operational strategies within Azure DevOps, with minimal direct reference to Definition of Ready concepts. The focus is on engineering, operational transparency, and incident response rather than on defining actionable standards for backlog items.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses site reliability engineering, automation, DevOps practices, and transparency without a clear, primary focus on Lead Time as defined in the classification.",
+    "level": "Ignored"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses site reliability engineering, team structure, and practices within Azure DevOps, with no significant focus on Minimum Viable Products or their development/iteration processes.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses aspects of Agile practices, such as team dynamics, continuous improvement, and transparency, but it mainly focuses on technical aspects and operational processes of Azure DevOps rather than directly addressing Agile leadership roles and strategies.",
+    "level": "Tertiary"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 60,
+    "non_ai_confidence": 40,
+    "final_score": 58.0,
+    "reasoning": "The content discusses automation as an important aspect of Agile practices. While it primarily focuses on site reliability and DevOps practices, the mention of automation in relation to Agile principles suggests a significant connection to the category, even though it is not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses various aspects of deployment strategies and practices within the Azure DevOps team, such as automation, incident management, continuous delivery, and risk management in deployments. However, it also delves into general site reliability engineering and agile practices, making deployment strategies a significant but secondary theme.",
+    "level": "Tertiary"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 65,
+    "non_ai_confidence": 10,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile principles such as transparency, inspection, and adaptation, alongside techniques and the importance of telemetry and data-driven decision making in the context of Azure DevOps and site reliability. While these elements are significant, the broader focus is on site reliability engineering rather than purely on empirical process control, making it a major but secondary theme.",
+    "level": "Tertiary"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on managing technical debt within the context of Azure DevOps, detailing the importance of automation, continuous improvement, and the organizational structures necessary to maintain a healthy codebase. It includes examples of past technical debt impacts, like the Knight Capital Group incident, and emphasizes the necessity of integrating technical debt management into development practices.",
+    "level": "Secondary"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses aspects of team dynamics, particularly in the context of Azure DevOps, Agile practices, and site reliability engineering. It focuses on cross-functional teams, the importance of collaboration, transparency, and building trust within teams, showing that while the primary topic is site reliability, collaboration is a significant theme throughout.",
+    "level": "Tertiary"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the Azure DevOps team's practices aimed at enhancing site reliability, transparency, and responsiveness to operational issues, which directly ties into Agile methodologies, continuous feedback loops, and the importance of cross-functional teams. It highlights how these practices enable the organization to adapt swiftly to market demands and operational challenges, reflecting a strong focus on market adaptability.",
+    "level": "Secondary"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-18T12:23:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses site reliability engineering and Azure DevOps without a clear focus on AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses practices, principles, and examples surrounding the delivery and management of functional software, particularly in the context of site reliability and DevOps within Azure DevOps. It emphasizes the importance of operational software, feedback loops, continuous delivery, and quality metrics, aligning well with the theme of working software.",
+    "level": "Secondary"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses site reliability engineering and Azure DevOps, mentioning Scrum only in a limited context without focusing on the Daily Scrum event or its principles.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on site reliability engineering and Azure DevOps practices, with only peripheral mentions of CI principles.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses concepts of site reliability, continuous delivery, and the integration of Teams, Operations, and Engineering within Microsoft, which closely aligns with enterprise agility principles. While it focuses on specific practices within Azure DevOps, it does address larger themes of organisational structure and creating a culture of responsiveness and adaptability. However, it also includes significant detail about individual team practices and technical aspects that may not directly align with the broader organisational agility framework.",
+    "level": "Secondary"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses site reliability engineering and practices within Azure DevOps, with little focus on the Product Backlog or its management.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile practices, specifically Scrum roles and ceremonies, as well as techniques for managing work in an Agile framework. It emphasizes iterative development, collaboration within cross-functional teams, and the importance of transparency and communication, which are all central to Agile Project Management.",
+    "level": "Secondary"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on site reliability and operational practices within Azure DevOps, with little to no discussion on psychological safety as a central theme.",
+    "level": "Ignored"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 75,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses various practices and methods related to site reliability, incident response, and troubleshooting technical issues, which makes it a major theme, though it also covers broader organizational and agile practices.",
+    "level": "Secondary"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Azure DevOps and its role in enhancing practices in Agile and DevOps, including aspects like transparency, telemetry, and incident management, while also alluding to related literature and operational practices, which makes it a major but secondary theme.",
+    "level": "Tertiary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses insights into Azure DevOps practices related to site reliability and their recent developments, with a strong focus on operational best practices and transparency. Key topics related to Agile and DevOps trends are thoroughly covered.",
+    "level": "Secondary"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content discusses some aspects of team dynamics, such as transparency and collaboration within the Azure DevOps team. However, the primary focus is on technical practices and site reliability engineering rather than direct team motivation strategies.",
+    "level": "Quaternary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily focused on technical aspects of Azure DevOps, site reliability, and engineering practices rather than personal experiences or reflections.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses site reliability engineering, DevOps practices, and organizational culture in Microsoft, with only brief mentions of Scrum without any significant focus on scaling Scrum practices.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the transition from traditional departmental structures to cross-functional teams within the Azure DevOps team, highlighting the importance of collaboration, transparency, and accountability across various roles, which aligns closely with the principles of cross-functional teams in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-18T12:23:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content includes discussions about transparency and team collaboration which are linked to Scrum values, but it primarily focuses on site reliability engineering practices and Azure DevOps, making Scrum values a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 60,
+    "non_ai_confidence": 20,
+    "final_score": 56.0,
+    "reasoning": "While the content primarily discusses site reliability engineering and practices within Azure DevOps, it mentions Agile practices like scrum, roles within teams, and strategies for improving product delivery and customer feedback. However, the main focus is not squarely on Agile Product Management as defined in the guidelines.",
+    "level": "Tertiary"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content mainly focuses on site reliability engineering, Azure DevOps practices, and operational challenges, with no clear discussion of Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses site reliability engineering, Azure DevOps practices, and operational strategies, with no clear focus on Test First Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Azure DevOps practices, site reliability, and specific methodologies such as Scrum, which do not align with the Miscellaneous category.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content briefly mentions scrum practices, roles, and team dynamics, but primarily focuses on site reliability engineering and operational challenges rather than the detailing collaboration within a Scrum Team.",
+    "level": "Tertiary"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the evolution of Agile and DevOps within the context of Microsoft, alongside insights into trends in operational practices and challenges. However, while it touches on trends, it primarily focuses on specific practices and stories rather than providing a comprehensive analysis of trends.",
+    "level": "Tertiary"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses site reliability engineering and operational practices within Azure DevOps, rather than focusing on entrepreneurship principles, innovation, risk-taking, or strategies related to building successful ventures.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses site reliability engineering and organizational practices within Azure DevOps, with little focus on estimation techniques or practices within Agile or Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the strategic integration of site reliability engineering (SRE), automation, and operational transparency within Azure DevOps, which is relevant to developing strategic approaches in Agile and DevOps environments. It emphasizes the importance of aligning engineering and operations teams to deliver value and achieve high uptime, thereby touching on strategic alignment and enhancement of team performance.",
+    "level": "Secondary"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses site reliability engineering, operational practices, and technical aspects of Azure DevOps without focusing on the mentoring process or related themes.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses agile principles such as transparency, collaboration between engineering and operations, continuous improvement, and the importance of feedback loops. However, it primarily focuses on technical implementations in the context of site reliability engineering rather than the broader implications of Agile as a mindset.",
+    "level": "Tertiary"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses methodologies related to product delivery, including the importance of continuous delivery, automation, transparency, and integrating operations and engineering teams, which are all central to effective product delivery.",
+    "level": "Secondary"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "While the content primarily focuses on site reliability and DevOps practices, it touches upon themes of team organization, cross-functional collaboration, and the culture of agility within Microsoft, suggesting an overall alignment with the principles of scaling agility.",
+    "level": "Tertiary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the practices and transformations of the Azure DevOps team in relation to site reliability engineering, continuous delivery, and the integration of cross-functional teams, emphasizing the importance of agility, transparency, customer feedback loops, and continuous improvement. It aligns with key topics under the category while exploring methodologies that enhance adaptability and responsiveness.",
+    "level": "Secondary"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-18T12:23:03",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Agile practices within a specific context, particularly the Azure DevOps team and their live site culture, along with mentions of Scrum methodologies, automation in agile contexts, and the importance of transparency and continuous improvement. However, it focuses heavily on operational reliability and site reliability engineering more than the broader strategic aspects of Agile transformation.",
+    "level": "Secondary"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses site reliability engineering, Azure DevOps practices, and operational management, which are not directly related to portfolio management topics.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the Azure DevOps team's strategies for maintaining a resilient live site culture, including their adaptation to change through operational practices, transparency with customers, and continuous improvement methodologies. It discusses the importance of automation, incident response, and a culture of learning from failures, which are all central themes in resilience and change management.",
+    "level": "Secondary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses how the Azure DevOps team implements transparency in their operations, focusing on building trust with customers through communication and data sharing. It emphasizes the importance of accountability in monitoring and responding to site reliability issues, which aligns well with the themes of transparency and accountability within Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 30,
+    "non_ai_confidence": 20,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile concepts like scrum and SRE but focuses primarily on site reliability and engineering practices rather than specific Agile planning tools or techniques.",
+    "level": "Quaternary"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the transition of Microsoft towards a continuous delivery model, the importance of frequent software releases, and various practices and tools that facilitate this approach, including automation and DevOps integration.",
+    "level": "Secondary"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses practical techniques for implementing Agile and DevOps practices within the Azure DevOps framework. It highlights the importance of automation, telemetry, and cross-functional teams, while also addressing methodologies like Scrum and specific tools used for continuous integration and delivery. These elements align closely with the exploration and application of tools and methodologies to enhance team performance and collaboration.",
+    "level": "Secondary"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content discusses site reliability and engineering practices, it includes elements of sensemaking related to interpreting data and responsiveness to incidents, which contribute to informed decision-making in complex environments. However, the primary focus remains on practical implementation rather than a deep exploration of sensemaking principles.",
+    "level": "Tertiary"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 20,
+    "non_ai_confidence": 10,
+    "final_score": 19.0,
+    "reasoning": "The content primarily discusses site reliability engineering, agile practices, and the operational balance within Azure DevOps rather than focusing on specific system configuration aspects such as installation, configuration management tools, or system optimization. Although system configuration is mentioned, it is not a central theme.",
+    "level": "Quinary"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content discusses site reliability engineering, operational needs, and Azure DevOps practices, which do not align with customer needs identification or defining product features.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses site reliability engineering and Azure DevOps practices but only touches upon Azure Pipelines in a limited context. The focus is more on overall DevOps culture and operational strategies rather than specific details about Azure Pipelines itself.",
+    "level": "Quaternary"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses site reliability engineering within Azure DevOps, focusing on operational efficiency, team organization, deployment practices, and incident management rather than the principles of hypothesis driven development or experimentation.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly in the context of site reliability engineering and DevOps within Microsoft. It covers elements of cross-functional teams, continuous feedback, automation, and aligning product delivery with customer needs, which are relevant to the Agile Product Operating Model. However, the primary focus is on operational culture and site reliability rather than a direct exploration of the Agile Product Operating Model itself.",
+    "level": "Tertiary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "While the content primarily focuses on site reliability engineering and operational practices within the Azure DevOps team, there are significant discussions surrounding continuous improvement, feedback loops, and the importance of learning from failures, which aligns with the themes of discovery and learning in product development.",
+    "level": "Tertiary"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-18T12:23:04",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses automation in the context of DevOps and site reliability, mentioning the importance of automated processes for deployment and incident response, but primarily focuses on broader site reliability and agile practices rather than test automation specifically.",
+    "level": "Tertiary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses site reliability engineering, technical processes, and tools used in Azure DevOps, focusing on operational efficiency and automation rather than the psychological and social aspects of employee engagement.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses automation as part of the Agile practices and mentions its importance in maintaining system reliability. However, it primarily focuses on site reliability and operational aspects rather than diving deep into automated testing methodologies, frameworks, or specific testing tools.",
+    "level": "Tertiary"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses Site Reliability Engineering and Azure DevOps practices, with a focus on Scrum methodologies, rather than Scaling Kanban or its principles.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 95,
+    "non_ai_confidence": 10,
+    "final_score": 86.0,
+    "reasoning": "The content primarily discusses practical strategies and case studies related to site reliability engineering within the Azure DevOps context. It emphasizes real-world applications of Agile principles, the importance of transparency, automation, and responsiveness to customer needs in complex environments, aligning closely with the themes of pragmatic thinking.",
+    "level": "Primary"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses site reliability engineering and operational aspects of Azure DevOps, without a focused exploration of Cycle Time or its measurement.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses decision-making aspects regarding site reliability, customer feedback, prioritization of work, and transparency in operations. However, it primarily focuses on site reliability engineering practices and automation, making decision-making a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the organizational practices of the Azure DevOps team, which includes elements of decentralization and team dynamics. However, it is primarily focused on site reliability engineering and specific operational practices, making Beta Codex a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses site reliability engineering, automation processes, and organizational changes within Azure DevOps, with minimal focus on working agreements or team collaboration norms.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 79,
+    "non_ai_confidence": 0,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering potentially shippable product increments within the context of Azure DevOps and site reliability engineering. It touches upon Agile practices and the need for continuous improvement and automation, emphasizing quality and customer feedback, aligning closely with the concept of an Increment in Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses site reliability engineering, operational practices, and the culture within the Azure DevOps team without a central focus on Acceptance Test Driven Development or its principles.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses site reliability engineering, operational practices, and specific technical implementations related to Azure DevOps, rather than defining product vision or strategy.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 60,
+    "non_ai_confidence": 20,
+    "final_score": 56.0,
+    "reasoning": "While the content primarily discusses site reliability engineering and Azure DevOps practices, it includes significant references to Agile principles such as transparency, continuous improvement, and the importance of collaboration in Agile teams. However, the emphasis is more on specific practices than a focused discussion of Agile values and principles.",
+    "level": "Tertiary"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on site reliability engineering and Azure DevOps practices, with no substantial discussion on Value Stream Mapping or related principles.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-18T12:23:05",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content discusses the integration of social and technical systems within the Azure DevOps organization, focusing on team dynamics, transparency, communication, and collaboration in site reliability engineering, showing a clear alignment with sociotechnical principles.",
+    "level": "Secondary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of site reliability engineering and continuous delivery, which relate to flow efficiency concepts by highlighting the importance of minimizing downtime and responding to incidents quickly. However, the primary focus is on site reliability and operational efficiency rather than a clear, direct discussion of flow efficiency principles.",
+    "level": "Tertiary"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses transparency in the context of the Azure DevOps team's processes, including how they communicate issues to customers, collect telemetry, and maintain trust. It explores techniques for building transparency and accountability within a technical team, making it a central theme of the presentation.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 50,
+    "final_score": 5.0,
+    "reasoning": "The content discusses site reliability engineering and Azure DevOps with mentions of Scrum and Agile processes, but it does not primarily focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses complex organizational dynamics, such as balancing operational needs with engineering tasks, and touches upon principles that align with Systems Thinking, including transparency, feedback loops, and building cross-functional teams. However, the primary focus is on specific processes within Azure DevOps rather than a thorough exploration of Systems Thinking principles.",
+    "level": "Tertiary"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content covers several aspects of software development, live site reliability, and DevOps practices, it primarily discusses the balance between delivery and site reliability rather than focusing specifically on throughput metrics and optimization techniques. It mentions concepts related to throughput, such as automation and responding to incidents promptly, but they are secondary to the main theme of site reliability and engineering practices.",
+    "level": "Tertiary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses strategies and practices related to deployment frequency, particularly in the context of the Azure DevOps team's practices, automation, and continuous delivery. It highlights the importance of rapid iterations and effective feedback loops, while also examining historical instances, such as the Knight Capital Group case, to illustrate the consequences of deployment issues. The ties to Agile and DevOps methodologies and mentions of metrics and best practices further reinforce its relevance to the category.",
+    "level": "Secondary"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses principles related to transparency, continuous improvement, and data collection in the context of site reliability engineering within Azure DevOps, which are relevant to Evidence-Based Management. However, it is mostly focused on site reliability and operational practices rather than a clear, primary discussion of Evidence-Based Management itself.",
+    "level": "Tertiary"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses site reliability engineering, Agile principles, team dynamics, and high-level practices within Azure DevOps, rather than focusing on installation and configuration processes or specific tools.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses elements related to continuous improvement, automation, and the importance of a culture that supports live site reliability and operational efficiency. However, the primary focus is more on operational practices and site reliability engineering rather than a clear emphasis on innovation capabilities or evidence-based management principles.",
+    "level": "Tertiary"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-18T12:23:06",
+    "ai_confidence": 95,
+    "non_ai_confidence": 20,
+    "final_score": 88.0,
+    "reasoning": "The content primarily discusses strategies and practices related to site reliability engineering (SRE), automation, metrics, and operational transparency within Azure DevOps, which aligns well with enhancing operational efficiency. It includes specific techniques for continuous improvement, managing workflow, and integrating DevOps principles, making operational practices the central theme.",
+    "level": "Primary"
+  }
+}

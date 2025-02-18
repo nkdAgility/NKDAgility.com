@@ -3,7 +3,7 @@ title: How to Choose the Right Agile Coach for Your Business Success
 description: 'Discover 5 essential tips from Martin Hinshelwood on hiring the right #AgileCoach in this insightful video. Elevate your #Agile journey today!'
 date: 2023-11-24T11:00:52Z
 ResourceId: vXCIf3eBJfs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vXCIf3eBJfs
@@ -20,35 +20,28 @@ aliases:
 - /resources/videos/vXCIf3eBJfs
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
 - /resources/vXCIf3eBJfs
+aliasesFor404:
+- /resources/how-to-choose-the-right-agile-coach-for-your-business-success
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Frameworks
+- Agile Strategy
+- Business Agility
+- Agile Project Management
+- Agile Transformation
+- Software Development
+- Coaching
+- Technical Leadership
+- People and Process
+- Organisational Agility
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 In the ever-evolving world of Agile, selecting the right coach for your team or organization can make a profound difference in achieving success. With so many frameworks and approaches available, it’s crucial to find someone who brings more than just one method to the table. But how do you know if the Agile coach you're considering is the right fit? Let's dive into some key factors you should consider, especially when evaluating their approach and versatility.

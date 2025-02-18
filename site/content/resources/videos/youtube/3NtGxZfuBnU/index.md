@@ -3,7 +3,7 @@ title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle
 description: "Explore Agile's journey from disillusionment to enlightenment with Martin as he uncovers truths, debunks myths, and sets realistic expectations. \U0001F680\U0001F4A1"
 date: 2023-07-07T07:00:03Z
 ResourceId: 3NtGxZfuBnU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3NtGxZfuBnU
@@ -19,18 +19,23 @@ aliases:
 - /resources/videos/3NtGxZfuBnU
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - /resources/3NtGxZfuBnU
+aliasesFor404:
+- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
+- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile Coaching
-- Gartners Hype Cycle
-- Slope of enlightenment
+- People and Process
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- Social Technologies
+- Leadership
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

@@ -3,7 +3,7 @@ title: 'Vision, Value, and Validation: The Keys to Successful Product Management
 description: "Unlock the secrets of successful product ownership! Discover Vision, Value, and Validation in our essential guide for aspiring product owners. \U0001F680✨"
 date: 2023-12-14T06:45:02Z
 ResourceId: Tye_-FY7boo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Tye_-FY7boo
@@ -20,35 +20,28 @@ aliases:
 - /resources/videos/Tye_-FY7boo
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/Tye_-FY7boo
+aliasesFor404:
+- /resources/vision-value-and-validation-the-keys-to-successful-product-management
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Owner
+- Product Validation
+- Product Delivery
+- Agile Product Management
+- Value Delivery
+- People and Process
+- Agile Product Operating Model
+- Product Discovery
+- Product Strategy
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- Product Management
 
 ---
 In the world of Agile, transitioning from traditional project management to product management is an exciting but often challenging journey. For new Product Owners, one of the most crucial lessons to learn is the importance of **Vision, Value, and Validation**. These three pillars fill the vacuum left when we move away from project management frameworks, such as Gantt charts and milestones, that may no longer serve a product-focused organization.

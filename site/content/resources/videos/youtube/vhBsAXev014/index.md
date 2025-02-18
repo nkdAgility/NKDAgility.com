@@ -3,7 +3,7 @@ title: 7 Harbingers of the Agile apocalypse. Chaos.
 description: "Master agile transformation! \U0001F31F Join Martin as he uncovers chaos pitfalls and the vital role of communication, direction, and alignment. \U0001F680"
 date: 2023-10-23T07:00:21Z
 ResourceId: vhBsAXev014
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vhBsAXev014
@@ -20,40 +20,30 @@ aliases:
 - /resources/videos/vhBsAXev014
 - /resources/chaos!-7-harbingers-agile-apocalypse
 - /resources/vhBsAXev014
+aliasesFor404:
+- /resources/7-harbingers-of-the-agile-apocalypse-chaos
+- /resources/videos/chaos!-7-harbingers-agile-apocalypse
+- /resources/chaos!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
+- People and Process
+- Agile Strategy
 - Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Agile Product Management
+- Agile Product Operating Model
+- Digital Transformation
+- Strategic Goals
+- Product Owner
+- Agile Transformation
+- Organisational Culture
 resourceTypes:
 - video
+categories:
+- Product Management
+- Leadership
+- Social Technologies
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

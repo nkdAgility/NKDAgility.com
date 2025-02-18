@@ -2,14 +2,13 @@
 title: There is no "do agile" there is only "be agile"
 description: Discover why true agility is about being, not just doing. Embrace deep organizational change for lasting value in your agile journey. Learn more!
 ResourceId: QIFsyx_OqLG
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10058
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-01
 creator: Martin Hinshelwood
-id: "10058"
 layout: blog
 resourceTypes: blog
 slug: there-is-no-do-agile-there-is-only-be-agile
@@ -25,12 +24,21 @@ aliasesFor404:
 - /blog/there-is-no-do-agile-there-is-only-be-agile
 - /there-is-no--do-agile--there-is-only--be-agile-
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
+- /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
-- agile
-- lean
-- scrum
+- Transparency
+- Empirical Process Control
+- Agile Product Management
+- People and Process
+- Transparency and Accountability
+- Change Management
+- Organisational Agility
+- Agile Values and Principles
+- Scaling Agility
+- Organisational Change
 categories:
-- people-and-process
+- Leadership
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

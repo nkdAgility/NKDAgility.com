@@ -2,14 +2,13 @@
 title: Who broke the build?
 description: Discover why broken builds matter in development. Learn how to identify issues and maintain code quality with effective build management strategies.
 ResourceId: SVgPQgwftag
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 59
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-29
 creator: Martin Hinshelwood
-id: "59"
 layout: blog
 resourceTypes: blog
 slug: who-broke-the-build
@@ -25,19 +24,22 @@ aliasesFor404:
 - /blog/who-broke-the-build
 - /who-broke-the-build-
 - /blog/who-broke-the-build-
+- /resources/blog/who-broke-the-build
 tags:
-- automated-build
-- sharepoint
-- silverlight
-- spf2010
-- ssw
-- tfs-build
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Windows
+- Code and Complexity
+- Install and Configuration
+- Application Lifecycle Management
+- System Configuration
+- Practical Techniques and Tooling
+- Software Developers
+- Modern Source Control
+- Technical Excellence
+- Continuous Delivery
 preview: metro-visual-studio-2010-128-link-10-10.png
+categories:
+- Engineering Excellence
+- DevOps
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

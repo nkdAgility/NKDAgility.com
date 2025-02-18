@@ -2,14 +2,13 @@
 title: Getting a service account for VSO with TFS Service Credential Viewer
 description: Learn how to obtain a service account for Visual Studio Online using the TFS Service Credential Viewer. Streamline your automation tasks effortlessly!
 ResourceId: i10guK3jvON
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10596
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-18
 creator: Martin Hinshelwood
-id: "10596"
 layout: blog
 resourceTypes: blog
 slug: getting-service-account-vso-tfs-service-credential-viewer
@@ -25,11 +24,18 @@ aliasesFor404:
 - /blog/getting-service-account-vso-tfs-service-credential-viewer
 - /getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 - /blog/getting-a-service-account-for-vso-with-tfs-service-credential-viewer
+- /resources/blog/getting-service-account-vso-tfs-service-credential-viewer
 tags:
-- tfs
-- vsteamservices
+- Troubleshooting
+- Install and Configuration
+- Azure DevOps
+- Practical Techniques and Tooling
+- Software Development
+- Windows
+- System Configuration
 categories:
-- tools-and-techniques
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

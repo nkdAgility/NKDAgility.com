@@ -1,60 +1,79 @@
 ---
-title: Is the APS immersive learning experience the equivalent of having a hands on scrum coach?
-description: Discover how an immersive APS course can provide the hands-on scrum coaching your team needs to excel in agile practices.
+title: "Unlocking Agility: How EPS Immersive Learning Transforms Your Team's Performance"
+description: Unlock your team's potential with our EPS immersive learning experience! Discover how structured feedback and coaching can enhance agility and effectiveness.
 date: 2023-08-16T07:00:03Z
 ResourceId: 6S9LGyxU2cQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6S9LGyxU2cQ
 url: /resources/videos/:slug
 slug: is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
-canonicalUrl: https://www.youtube.com/watch?v=6S9LGyxU2cQ
 aliases:
 - /resources/videos/6S9LGyxU2cQ
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/6S9LGyxU2cQ
+aliasesFor404:
+- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+- /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: false
 tags:
-- APS
-- Applying Professional Scrum
-- Applying Professional Scrum course
-- Scrum training
-- Scrum coach
-- Agile coach
-- agile coaching
-- agile project management
-- agile product management
-- agile product development
+- Coaching
+- People and Process
+- Discovery and Learning
+- Team Performance
+- Continuous Learning
+- Customer Feedback Loops
+- Organisational Agility
+- Team Collaboration
+- Software Developers
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Social Technologies
+- Scrum
 
 ---
- Sometimes, you just need to learn how to do #scrum properly. It isn't so much about learning the mechanics of #scrum, it's instead about how to apply #scrum professionally in your #scrumteam.
+When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on Scrum coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.
 
-It may feel like you need an #agilecoach to help you, but sometimes, all you need is to attend an #APS or #applyingprofessionalscrum course as a team to achieve a great outcome.
+### The Power of Continuous Support
 
-In this short video, Martin Hinshelwood explains how an immersive learning #APS course can simulate #agilecoaching more effectively than having an #agilecoach onboard.
+Having someone embedded within your team on a continuous basis is invaluable. This presence allows for ongoing advice and engagement, which can significantly enhance your team's performance. While the immersive class doesn’t replace a dedicated Scrum coach, it does offer a structured way to receive guidance and feedback throughout the learning process.
 
-About NKD Agility
+### Feedback Loops: The Heart of Learning
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+One of the standout features of our immersive sessions is the built-in feedback loop. Each session concludes with an assignment designed to be implemented in your organisation. Before the next session, we debrief on these assignments, allowing you to reflect on what worked and what didn’t. This isn’t just about doing; it’s about learning and adapting based on real-world experiences.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Continuous Improvement**: Each session builds on the last, creating a cycle of learning that mirrors the iterative nature of Scrum.
+- **Coaching Included**: You’re not just participating; you’re receiving coaching from the trainer, who helps you navigate challenges and refine your approach.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+### Maximising Your Time Investment
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Over the course of ten weeks, you’ll engage in five Sprints. This means you’re only dedicating half a day per week to the immersive class—just ten percent of your Sprint time. While it may seem like a loss of productive time, the potential gains in team effectiveness can far outweigh this investment.
 
-We would love to work with you. 
+- **Five Retrospectives**: With each Sprint, you have the opportunity to reflect on the training’s impact. This regular check-in allows your team to assess progress and adapt the training to better suit your needs.
+- **Tailored Learning**: The trainer can adjust the content based on your feedback, ensuring that the learning experience is relevant and impactful.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=6S9LGyxU2cQ)
+### Additional Coaching: A Unique Advantage
+
+As if the immersive class wasn’t beneficial enough, we also offer an hour of additional coaching for each participant. For a class of twelve, that’s an extra twelve hours of coaching spread over the ten weeks. This additional support can take many forms:
+
+- **Follow-Up Sessions**: The trainer can return for your retrospectives or Sprint reviews, providing insights and guidance as you implement what you’ve learned.
+- **Real-Time Feedback**: By participating in your daily stand-ups or other ceremonies, the trainer can help you close feedback loops more effectively.
+
+### Your Commitment Matters
+
+Ultimately, the success of the EPS immersive class hinges on your willingness to engage with the process. It’s up to you to integrate the coaching and feedback into your daily practices. This immersive experience is designed to kickstart your journey towards Scrum, Kanban, or whatever agile framework you’re pursuing.
+
+In conclusion, while the EPS immersive learning experience may not fully replace a hands-on Scrum coach, it offers a robust framework for continuous learning and improvement. By committing to this process, you can significantly enhance your team's agility and effectiveness.
+
+If you found this post helpful, I encourage you to like, follow, and subscribe. I’m always eager to engage with fellow agile enthusiasts, so feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can elevate your agile journey together!

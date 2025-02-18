@@ -2,14 +2,13 @@
 title: Loosing the battle, but the war goes on
 description: Join Martin Hinshelwood as he navigates the challenges of promoting TFS over Jira and Subversion, sharing insights on team dynamics and project management.
 ResourceId: eDmNn28RPGH
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 367
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-19
 creator: Martin Hinshelwood
-id: "367"
 layout: blog
 resourceTypes: blog
 slug: loosing-the-battle-but-the-war-goes-on
@@ -29,13 +28,20 @@ aliasesFor404:
 - /blog/loosing-the-battle,-but-the-war-goes-on
 - /loosing-the-battle--but-the-war-goes-on
 - /blog/loosing-the-battle--but-the-war-goes-on
+- /resources/blog/loosing-the-battle-but-the-war-goes-on
 tags:
-- fail
-- tfs
-- tfs2005
-- visual-studio
-- vs2005
+- Release Management
+- People and Process
+- Application Lifecycle Management
+- Software Development
+- Software Developers
+- Modern Source Control
+- Products and Books
+- Practical Techniques and Tooling
+- Collaboration Tools
+- Personal
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories: []
 
 ---
 Well in my current war to get my company to use [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server"), I am loosing the battle for Visual Studio Team System adoption. I have fought many battles, against Jira, Confluence and Subversion, but they are currently wining. I cant seam to get the Architecture & Strategy guys to get behind the project. They are sitting on the sidelines encouraging me, but with no active participation.

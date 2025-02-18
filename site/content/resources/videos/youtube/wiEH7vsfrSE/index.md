@@ -3,7 +3,7 @@ title: Why Cost-Cutting During Recessions Is Counterproductive
 description: Discover how to recession-proof your business by investing in people and processes. Learn Kanban strategies to boost effectiveness and thrive, not just survive!
 date: 2024-07-04T06:45:04Z
 ResourceId: wiEH7vsfrSE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wiEH7vsfrSE
@@ -20,19 +20,30 @@ aliases:
 - /resources/videos/wiEH7vsfrSE
 - /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
 - /resources/wiEH7vsfrSE
+aliasesFor404:
+- /resources/why-cost-cutting-during-recessions-is-counterproductive
+- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
+- /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile coach
-- Agile consultant
-- Agile project management
-- project management
-- Agile product development
-- product development
+- Strategic Goals
+- Organisational Agility
+- Organisational Culture
+- People and Process
+- Business Agility
+- Operational Practices
+- Agile Strategy
+- Organisational Physics
+- Value Delivery
+- Organisational Change
 resourceTypes:
 - video
+categories:
+- Scrum
+- Engineering Excellence
+- Product Management
 
 ---
 In times of economic uncertainty, whether it's a recession, market instability, or a downturn, organizations often resort to cost-cutting as a knee-jerk reaction. The common belief is that by reducing expenses, companies can safeguard their financial stability. However, this approach is not only short-sighted but also counterproductive. In this blog post, I’ll explore why cutting costs, particularly in areas like agile coaching, training, and business agility, can actually disadvantage your organization in the long run. I'll also share insights on how to navigate economic downturns effectively, ensuring your business emerges stronger on the other side.

@@ -3,7 +3,7 @@ title: DevOps Consulting Overview
 description: Discover how DevOps consulting can transform your software delivery with insights from expert Martin Hinshelwood. Elevate your agile journey today!
 date: 2023-06-16T07:00:14Z
 ResourceId: QQA9coiM4fk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QQA9coiM4fk
@@ -20,16 +20,23 @@ aliases:
 - /resources/videos/QQA9coiM4fk
 - /resources/devops-consulting-overview-
 - /resources/QQA9coiM4fk
+aliasesFor404:
+- /resources/devops-consulting-overview
+- /resources/videos/devops-consulting-overview-
+- /resources/devops-consulting-overview-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- DevOps consulting
-- Agile Consulting
-- DevOps consultant
-- DevOps coach
+- Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
+- People and Process
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- DevOps
 
 ---
 ## Navigating the Complexities with Expert Guidance 

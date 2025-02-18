@@ -3,7 +3,7 @@ title: What is a sprint goal?
 description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
 date: 2023-05-25T14:00:20Z
 ResourceId: JVZzJZ5q0Hw
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JVZzJZ5q0Hw
@@ -21,24 +21,29 @@ aliases:
 - /resources/videos/JVZzJZ5q0Hw
 - /resources/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/JVZzJZ5q0Hw
+aliasesFor404:
+- /resources/what-is-the-most-common-mistake-in-sprint-planning
+- /resources/what-is-a-sprint-goal
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
+- /resources/what-is-the-most-common-mistake-in-sprint-planning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint planning
-- Planning
-- Sprint
-- Scrum
-- Scrum Framework
-- Scrum Methodology
-- Scrum Approach
-- Project Management
-- Product Management
-- Product Development
-- Agile project management
-- Agile product development
+- Scrum Product Development
+- Agile Planning
+- People and Process
+- Backlog Refinement
+- Product Backlog
+- Agile Product Management
+- Team Performance
+- Scrum Team
+- Product Delivery
+- Agile Planning Tools
 resourceTypes:
 - video
+categories:
+- Scrum
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

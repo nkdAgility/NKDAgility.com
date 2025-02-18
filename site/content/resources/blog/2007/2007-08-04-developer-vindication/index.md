@@ -2,14 +2,13 @@
 title: Developer vindication
 description: Discover my journey as a .Net developer and the unexpected opportunity from Microsoft. Join me as I navigate career changes and visa challenges!
 ResourceId: YexFt6yC4wk
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 350
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-04
 creator: Martin Hinshelwood
-id: "350"
 layout: blog
 resourceTypes: blog
 slug: developer-vindication
@@ -21,9 +20,11 @@ aliases:
 aliasesFor404:
 - /developer-vindication
 - /blog/developer-vindication
-categories:
-- me
+- /resources/blog/developer-vindication
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Personal
 
 ---
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...

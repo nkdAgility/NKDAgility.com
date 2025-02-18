@@ -2,14 +2,13 @@
 title: Visual Studio 2010 Overview - Introduction
 description: Explore the features of Visual Studio 2010 in this overview, designed to enhance your understanding of ALM and guide you to deeper-dive sessions. Watch now!
 ResourceId: 2d6IQ5TVE-_
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4131
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
 creator: Martin Hinshelwood
-id: "4131"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-introduction
@@ -26,16 +25,13 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview-introduction
 - /visual-studio-2010-overview---introduction
 - /blog/visual-studio-2010-overview---introduction
+- /visual-studio-2010-overview
+- /resources/blog/visual-studio-2010-overview-introduction
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- webcast-2
+- Events and Presentations
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories: []
 
 ---
 A high-level overview of ALM and how the features in Visual Studio 2010 support ALM. This presentation touches on all the features shown in the rest of the deeper-dive sessions. If attendees don't know which other sessions they want, watching this presentation might help them decide.

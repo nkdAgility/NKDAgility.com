@@ -2,14 +2,13 @@
 title: Mozy Backup Space Gathering update
 description: Join my quest for free Mozy backup space! Discover how referrals can boost your storage and get tips on maximizing your online backup experience.
 ResourceId: Ijl3My1sDG-
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 286
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-27
 creator: Martin Hinshelwood
-id: "286"
 layout: blog
 resourceTypes: blog
 slug: mozy-backup-space-gathering-update
@@ -21,9 +20,10 @@ aliases:
 aliasesFor404:
 - /mozy-backup-space-gathering-update
 - /blog/mozy-backup-space-gathering-update
-categories:
-- me
+- /resources/blog/mozy-backup-space-gathering-update
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
+tags: []
 
 ---
 Well, I currently have two referrals :)

@@ -2,14 +2,13 @@
 title: Updating the Command Line Parser
 description: Discover how to enhance your command line applications with a versatile parser in VB.NET. Streamline multiple commands and improve your coding efficiency!
 ResourceId: ZMPPpD1TIuP
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 91
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-17
 creator: Martin Hinshelwood
-id: "91"
 layout: blog
 resourceTypes: blog
 slug: updating-the-command-line-parser
@@ -21,13 +20,11 @@ aliases:
 aliasesFor404:
 - /updating-the-command-line-parser
 - /blog/updating-the-command-line-parser
+- /resources/blog/updating-the-command-line-parser
 tags:
-- code
-- codeproject
-- tools
+- Technical Mastery
 categories:
-- code-and-complexity
-- me
+- Engineering Excellence
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

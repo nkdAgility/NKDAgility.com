@@ -1,57 +1,75 @@
 ---
-title: Why do you encourage people to follow a certification path in their career journey?
-description: Discover why certification is essential for mastering Agile roles. Join Martin Hinshelwood as he guides you on the path to Scrum expertise!
+title: Why Pursuing Agile Certifications is Your Key to Career Advancement
+description: Unlock your career potential in Agile and Scrum! Discover why certifications matter, how they validate your skills, and the path to continuous learning.
 date: 2023-03-07T07:00:09Z
 ResourceId: _fFs-0GL1CA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _fFs-0GL1CA
 url: /resources/videos/:slug
 slug: why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
-canonicalUrl: https://www.youtube.com/watch?v=_fFs-0GL1CA
 aliases:
 - /resources/videos/_fFs-0GL1CA
 - /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/_fFs-0GL1CA
+aliasesFor404:
+- /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
+- /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false
 tags:
-- Scrum
-- Scrum Training
-- Agile
-- Agile Scrum Training
-- Scrum Certification
-- Scrum Master
-- Product Owner
+- Software Development
+- People and Process
+- Products and Books
+- Discovery and Learning
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
- The world of #agile is inherently complex. If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.
+When I reflect on my journey in the Agile and Scrum landscape, one question often arises: why should I encourage individuals to pursue a certification path in their careers? The answer is quite simple and resonates with the same rationale that drives people to attend university. Certifications, much like degrees, serve as a foot in the door. They provide a way to validate your knowledge, but let’s be clear—certifications themselves hold no intrinsic value. 
 
-So, when you enter the working world as a #scrummaster or #productowner, you need guardrails that can help you progress on your journey through an apprenticeship and onto mastery. You need to invest a great deal of time and effort in learning, practicing, and receiving coaching if you are going to be great at what you do.
+### The Reality of Certifications
 
-In this short video, Martin Hinshelwood talks about the value of certification in your journey to mastery, and how following Scrum.Org certification paths can help ensure that you are studying the right materials, listening to industry respected thought leaders, and receiving validation of your knowledge and capabilities through an official certification body.
+Think back to your own experiences. How often have you had to pull out your university degree a decade after graduation? For me, it was only when I applied for my H-1B visa to work in the US that I needed to showcase my degree. Even then, it wasn’t enough on its own; I had to supplement it with two years of professional experience to meet the requirements. This illustrates a crucial point: while certifications can help validate your knowledge, they do not equate to actual skills or the ability to apply what you’ve learned.
 
-About NKD Agility
+- **Knowledge vs. Skills**: It’s essential to differentiate between amassing knowledge and developing skills. For instance, if you’re part of a Scrum team, it’s a given that you should have read the Scrum Guide. But how can an employer verify that you’ve done so? 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### The Litmus Test for Employers
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+As an employer, I would want a straightforward way to assess whether candidates have the foundational knowledge necessary for the role. Instead of interviewing thousands of applicants and asking if they’ve read the Scrum Guide, I could simply require the Professional Scrum Master I (PSM1) certification. Passing this assessment is a strong indicator that you’ve engaged with the Scrum Guide and understand its principles. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+This certification acts as a litmus test, helping employers narrow down candidates who are genuinely prepared to contribute to a Scrum team. 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+### The Importance of Validated Learning
 
-We would love to work with you. 
+Beyond the external validation that certifications provide, there’s an internal aspect that’s equally important: validated learning. If you complete a course without any assessment, how can you be sure you’ve grasped the material? You might think you understood everything, but our memories can be deceptive. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=_fFs-0GL1CA)
+This is where Scrum.org excels. They offer a unique approach to validated learning. After completing a course, you receive a token to take the assessment, with the opportunity for a second attempt if needed. This structure not only encourages you to engage with the material but also provides feedback on your performance across various categories. 
+
+- **Feedback and Growth**: If you pass but score low in a specific area, you’re given resources to study further. This targeted learning path is invaluable for your professional development. 
+
+### Continuous Learning and Career Advancement
+
+Once you’ve secured that initial foot in the door, the real challenge begins: demonstrating your understanding during interviews. There’s a wealth of advice on LinkedIn about how to validate a candidate’s knowledge, often involving tricky questions. However, the best way to prepare is simply to know your stuff. 
+
+To truly understand the concepts, you must invest time in studying, whether through reading books, watching videos, or engaging with blog posts. Training courses can serve as a great starting point, but they should be viewed as just that—a starting point. 
+
+### What’s Next?
+
+The output from Scrum.org classes is impressive, often including a list of at least ten recommended books and additional resources. Each trainer typically adds their own insights and materials, enriching the learning experience. By taking the time to explore these resources, you can significantly enhance your career trajectory and accelerate your professional growth.
+
+In conclusion, pursuing a certification path is not merely about adding a line to your CV; it’s about committing to a journey of continuous learning and improvement. If you’re serious about advancing your career in Agile, Scrum, or DevOps, I encourage you to invest in your education and embrace the opportunities that certifications provide.
+
+Thank you for taking the time to read this post. If you found it helpful, please like, follow, and subscribe. I’m always open to discussions, so feel free to book a coffee chat with me through Naked Agility if you’d like to delve deeper into Agile, Scrum, or DevOps topics.

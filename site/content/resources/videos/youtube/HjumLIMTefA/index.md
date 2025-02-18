@@ -3,7 +3,7 @@ title: The Power of Immersive Learning in Agile Training
 description: 'Discover the top 5 reasons why immersive learning transforms Scrum training for students! Dive into the experience in this engaging short video. #Scrum #Agile'
 date: 2024-02-04T11:00:23Z
 ResourceId: HjumLIMTefA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HjumLIMTefA
@@ -20,35 +20,25 @@ aliases:
 - /resources/videos/HjumLIMTefA
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 - /resources/HjumLIMTefA
+aliasesFor404:
+- /resources/the-power-of-immersive-learning-in-agile-training
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Continuous Learning
+- Discovery and Learning
+- Change Management
+- People and Process
+- Organisational Agility
+- Resilience and Change
+- Organisational Change
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 In the world of Agile training, there's one approach that stands out above the rest: immersive learning. It's not just about absorbing knowledge in a classroom setting; it's about creating a lasting impact that resonates far beyond the training session itself. When participants take what they’ve learned and apply it to their real-world challenges, that's where the magic happens. But what makes immersive learning so effective? Let’s dive into how this approach creates _real_ organizational change and why it should be at the core of any Agile learning journey.

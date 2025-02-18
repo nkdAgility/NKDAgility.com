@@ -1,62 +1,78 @@
 ---
-title: Why did you embrace Agile over traditional project management as a developer?
-description: "Join Martin as he shares his transformative journey from traditional project management to Agile, highlighting the power of people in software development. \U0001F680✨"
+title: 'From Developer to Agile Advocate: How My Journey Unveiled the Power of Scrum and DevOps'
+description: Discover how my journey from developer to Agile advocate transformed my approach to project management. Explore the liberating power of Agile and Scrum!
 date: 2023-03-02T07:00:01Z
 ResourceId: 4FTEJ4tDQqU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/:slug
 slug: why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
-canonicalUrl: https://www.youtube.com/watch?v=4FTEJ4tDQqU
 aliases:
 - /resources/videos/4FTEJ4tDQqU
 - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 - /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 - /resources/4FTEJ4tDQqU
+aliasesFor404:
+- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
+- /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 isShort: false
 tags:
-- Agile
-- Agile Coach
-- Agile Consultant
+- Personal
 - Agile Project Management
-- Agile Product Development
+- Software Development
+- People and Process
+- Agile Frameworks
+- Software Developers
+- Agile Philosophy
+- Organisational Agility
+- Agile Transformation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Social Technologies
+- DevOps
 
 ---
- Agile's Journey: A Developer's Transition from Traditional to Agile Practices - Explore a developer's insightful journey from traditional project management to the empowering world of Agile and DevOps. Discover the transformative power of people over tools in this eye-opening video.
+When I reflect on my journey from a developer to an advocate for Agile practices, I often find myself pondering the question: why did I embrace Agile over traditional project management? The truth is, during my time as a developer, I didn’t consciously choose Agile; rather, it was a reaction to the limitations I experienced with conventional project management methods.
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+### My Early Experiences
 
-In this video, Martin delves into his professional evolution from a developer entrenched in conventional project management to an advocate for Agile and DevOps practices. 🚀 He shares his experiences across various industries, including finance and manufacturing, highlighting the limitations of traditional methods and the pivotal moments that led him to embrace Agile. 🔄 Martin emphasizes the significance of people and organizational structure in problem-solving, offering his unique perspective on Agile's liberating nature. ✨
+Throughout my career, I had the opportunity to work at various organisations, including Merrill Lynch, several design agencies, and a generator manufacturer. Each of these environments approached projects in a similar, traditional manner. Interestingly, the most progressive of these was the generator company, which might seem odd at first glance. However, the reason for this was simple: the leadership was exceptional. 
 
-*Key Takeaways:*
-00:00:06 Agile vs. Traditional: A Developer's Dilemma
-00:01:09 From Development to DevOps: A Critical Shift
-00:03:36 Discovering Scrum: The Agile Revelation
-00:04:03 Organizational Transformation through Agile
-00:05:03 Agile's Liberating Impact on Software Engineering
+In contrast, my experiences often left me feeling disillusioned. I encountered project managers who seemed disconnected from the realities of our work. It was as if they didn’t grasp the complexities of what we were doing, nor did they seem to care. This disconnect was frustrating and, I believe, it significantly shaped my perspective on project management.
 
-*NKDAgility can help!*
+### Transitioning to DevOps
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to transition from traditional project management to Agile or struggle with the integration of DevOps, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+As I transitioned from development into the DevOps space, I began to see the value of Agile principles more clearly. Initially, I thought of DevOps primarily in terms of tools. Many people might argue against this, but in my experience, the reality is that tools play a significant role in DevOps. However, I soon realised that the tools themselves were not the solution to our problems; it was the people using them who truly mattered.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and immediately!
+I frequently assisted clients in migrating to Azure DevOps, and time and again, I encountered the same issue: they wanted to replicate their old, ineffective processes in a new tool. I found myself in the position of having to explain that the problem wasn’t the tool; it was the way they were using it. 
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
-_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
+### The Baggage We Carry
 
-Because you don't just need agility, you need Naked Agility.
+Many clients would acknowledge their past mistakes and express a desire for a fresh start. Yet, despite their intentions, they often brought along the same old baggage—inefficient processes, unnecessary custom fields, and convoluted rules. This is where the real work began: engaging with people to rethink their workflows, simplify processes, and reduce bureaucracy.
 
+For anyone who has used Jira, you’ll know that custom fields and rules can be a nightmare. The challenge lies in stripping back to the essentials: do you really need that field? Does it add value? Does it bring you joy? The goal should be to retain only what is absolutely necessary for your business.
 
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, 
- [Watch on Youtube](https://www.youtube.com/watch?v=4FTEJ4tDQqU)
+### Discovering Scrum
+
+My journey took a pivotal turn when I travelled to Australia to participate in the beta for the Professional Scrum Developer (PSD) class. It was there that I was introduced to Scrum. To become a PSD trainer, I had to take a Scrum class, and it was a revelation. The principles of Scrum resonated deeply with me; they aligned perfectly with the challenges I had faced throughout my software engineering career.
+
+I realised that Scrum could help others navigate the same obstacles I had encountered. For the next five years, I maintained a focus on DevOps, but I quickly learned that when clients sought DevOps assistance, they often needed help with deeper organisational issues—issues related to people, bureaucracy, and how to structure their businesses to maximise value.
+
+### The Freedom of Agility
+
+What ultimately drew me to Agile was its liberating nature. It empowers teams to break free from constraints and fosters an environment where they can thrive. I believe that when engineers are given the freedom to innovate and solve problems, they can achieve remarkable results.
+
+In conclusion, my journey from developer to Agile advocate was not a straightforward path. It was shaped by my experiences with traditional project management, my transition into DevOps, and my eventual discovery of Scrum. I encourage anyone grappling with similar challenges to consider the principles of Agile and how they can transform not just your processes, but your entire organisational culture.
+
+Thank you for taking the time to read my thoughts. If you found this post insightful, please like, follow, and subscribe. I always welcome comments and discussions, so if you’d like to chat about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility.

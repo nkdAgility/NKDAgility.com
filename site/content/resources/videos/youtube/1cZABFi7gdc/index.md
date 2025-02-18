@@ -3,7 +3,7 @@ title: 'Hiring the Right Agile Coach: What You Need to Know'
 description: 'Discover key insights from Martin Hinshelwood on hiring an #agilecoach in part 4 of our series. Make informed decisions for your #agile journey!'
 date: 2023-11-23T11:00:01Z
 ResourceId: 1cZABFi7gdc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1cZABFi7gdc
@@ -19,36 +19,30 @@ aliases:
 - /resources/videos/1cZABFi7gdc
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/1cZABFi7gdc
+aliasesFor404:
+- /resources/hiring-the-right-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Frameworks
+- Agile Strategy
+- Agile Leadership
+- Agile Project Management
+- Agile Transformation
+- Software Development
+- Coaching
+- Technical Leadership
+- Organisational Change
+- People and Process
 resourceTypes:
 - video
 layout: video
+categories:
+- Leadership
+- Social Technologies
 
 ---
 Finding the right Agile coach can make or break your organization's journey toward greater agility. While the Agile landscape is filled with talented coaches, not all will suit your organization’s unique needs. Whether you're a small startup looking to scale or a large enterprise seeking to enhance its agility, finding the right coach is essential.

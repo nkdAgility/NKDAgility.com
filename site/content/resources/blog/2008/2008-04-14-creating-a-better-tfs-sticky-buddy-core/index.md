@@ -2,14 +2,13 @@
 title: Creating a better TFS Sticky Buddy (Core)
 description: Explore innovative techniques for enhancing TFS Sticky Buddy with WPF. Learn to manage hierarchical data effectively and improve your coding skills!
 ResourceId: NNnyeihSpHg
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 241
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-14
 creator: Martin Hinshelwood
-id: "241"
 layout: blog
 resourceTypes: blog
 slug: creating-a-better-tfs-sticky-buddy-core
@@ -25,15 +24,13 @@ aliasesFor404:
 - /blog/creating-a-better-tfs-sticky-buddy-core
 - /creating-a-better-tfs-sticky-buddy-(core)
 - /blog/creating-a-better-tfs-sticky-buddy-(core)
+- /resources/blog/creating-a-better-tfs-sticky-buddy-core
 tags:
-- code
-- infrastructure
-- tfs-sticky-buddy
-- tools
-- wit
-- wpf
+- Software Development
+- Technical Mastery
+- Technical Excellence
 categories:
-- code-and-complexity
+- Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

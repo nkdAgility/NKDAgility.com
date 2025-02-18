@@ -2,14 +2,13 @@
 title: Change the Release Management Server that your Client connects to
 description: Learn how to easily change the Release Management Server your client connects to, ensuring smooth transitions between different environments. Get started now!
 ResourceId: zTjRpmZ5cJQ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10329
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-13
 creator: Martin Hinshelwood
-id: "10329"
 layout: blog
 resourceTypes: blog
 slug: change-release-management-server-client-connects
@@ -25,17 +24,17 @@ aliasesFor404:
 - /blog/change-release-management-server-client-connects
 - /change-the-release-management-server-that-your-client-connects-to
 - /blog/change-the-release-management-server-that-your-client-connects-to
+- /resources/blog/change-release-management-server-client-connects
 tags:
-- inrelease
-- release
-- release-management
-- release-management-client
-- tfs
-- tfs-2013
-- visual-studio-2013
+- Release Management
+- System Configuration
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Troubleshooting
+- Pragmatic Thinking
 categories:
-- install-and-configuration
-- upgrade-and-maintenance
+- DevOps
 
 ---
 As a consultant I am onsite at a different customer every week and as I use my own laptop for most engagements I need to be able to change the Release Management Server that I connect to from the thick client.

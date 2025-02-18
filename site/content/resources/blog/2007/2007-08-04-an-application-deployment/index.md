@@ -2,14 +2,13 @@
 title: An Application Deployment
 description: Explore the challenges of application deployment and the pitfalls of poor documentation. Learn how to navigate complex installations effectively.
 ResourceId: UnvdJlF863n
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 349
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-04
 creator: Martin Hinshelwood
-id: "349"
 layout: blog
 resourceTypes: blog
 slug: an-application-deployment
@@ -21,9 +20,11 @@ aliases:
 aliasesFor404:
 - /an-application-deployment
 - /blog/an-application-deployment
+- /resources/blog/an-application-deployment
 tags:
-- fail
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 Why is it that vendors insist on developers staying up all night to write installation documentation for a 40 component on 19 server installation? Do they not realize that this is not the best way to have your documentation produced? What about the image that it presents to the customer, or the impact of someone actually following said documentation!

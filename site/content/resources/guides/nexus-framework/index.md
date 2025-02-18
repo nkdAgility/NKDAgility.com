@@ -1,7 +1,9 @@
 ---
 title: Nexus Guide
-description: It seems there are no specific details provided for the video. Please share the key points or themes of the video, and I'll create a concise description for you!
+description: Discover the Nexus framework for scaling Scrum, enabling multiple teams to collaborate effectively and deliver integrated products with enhanced value.
 ResourceId: iC8MlA3TE7S
+ResourceImport: false
+ResourceType: guides
 resourceTypes: guide
 layout: guide
 aliases:
@@ -9,6 +11,10 @@ aliases:
 - guides/Nexus-Framework.html
 - /learn/agile-delivery-kit/guides/nexus-framework
 - /resources/iC8MlA3TE7S
+aliasesFor404:
+- guides/Nexus-Framework/
+- guides/Nexus-Framework.html
+- /learn/agile-delivery-kit/guides/nexus-framework
 references:
 - title: The 2020 Scrum Guide
   url: https://scrumguides.org/scrum-guide.html
@@ -29,6 +35,20 @@ card:
     content: Learn More
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
+categories:
+- Scrum
+- Social Technologies
+tags:
+- Scaling Scrum
+- Scaled Agile
+- Scrum Product Development
+- Large Scale Agility
+- Scrum Team
+- Product Delivery
+- Professional Scrum
+- Software Development
+- Scaling Agility
+- Agile Frameworks
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

@@ -2,14 +2,13 @@
 title: Returning an Anonymous type...
 description: Discover how to return an anonymous type in VB.NET and enhance your coding skills. Learn practical examples and improve your development process today!
 ResourceId: ZD6hMyXVz9s
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 268
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-07
 creator: Martin Hinshelwood
-id: "268"
 layout: blog
 resourceTypes: blog
 slug: returning-an-anonymous-type
@@ -25,11 +24,10 @@ aliasesFor404:
 - /blog/returning-an-anonymous-type
 - /returning-an-anonymous-type---
 - /blog/returning-an-anonymous-type---
+- /resources/blog/returning-an-anonymous-type
 tags:
-- code
-- process
-categories:
-- code-and-complexity
+- Software Development
+categories: []
 preview: metro-binary-vb-128-link-2-1.png
 
 ---

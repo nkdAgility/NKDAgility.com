@@ -3,7 +3,7 @@ title: 'Story Points: A Ghost of Agile Past'
 description: "Uncover the hidden challenges of story points in Agile! Join Martin as he explores their pitfalls and advocates for a value-driven approach. \U0001F47B\U0001F680 #AgileChallenges"
 date: 2023-12-29T07:00:14Z
 ResourceId: beR21RHTUvo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: beR21RHTUvo
@@ -20,35 +20,23 @@ aliases:
 - /resources/videos/beR21RHTUvo
 - /resources/5-ghosts-of-agile-past-story-points
 - /resources/beR21RHTUvo
+aliasesFor404:
+- /resources/story-points-a-ghost-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-story-points
+- /resources/5-ghosts-of-agile-past-story-points
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Estimation
+- People and Process
+- Agile Project Management
+- Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment—an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.

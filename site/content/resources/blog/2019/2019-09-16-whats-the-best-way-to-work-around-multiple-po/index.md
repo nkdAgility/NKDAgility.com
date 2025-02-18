@@ -2,14 +2,13 @@
 title: What's the best way to work around multiple PO?
 description: Discover effective strategies for managing multiple Product Owners and enhancing backlog ownership to drive value delivery in your Scrum team.
 ResourceId: KIG3LzjF3zK
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 39853
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-16
 creator: Martin Hinshelwood
-id: "39853"
 layout: blog
 resourceTypes: blog
 slug: whats-the-best-way-to-work-around-multiple-po
@@ -25,11 +24,22 @@ aliasesFor404:
 - /blog/whats-the-best-way-to-work-around-multiple-po
 - /what's-the-best-way-to-work-around-multiple-po-
 - /blog/what's-the-best-way-to-work-around-multiple-po-
+- /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags:
-- product-owner
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
+- Agile Product Management
+- Product Backlog
+- Agile Project Management
+- Value Delivery
+- People and Process
+- Events and Presentations
 categories:
-- agility
-- people-and-process
+- Scrum
+- Product Management
+- Leadership
 preview: 495173592-1-1.jpg
 
 ---

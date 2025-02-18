@@ -3,7 +3,7 @@ title: Mastering Evidence-Based Management for Agile Success
 description: Unlock the power of Evidence-Based Management! Learn to gather and analyse data for better product decisions and boost customer satisfaction.
 date: 2024-10-02T13:17:24Z
 ResourceId: S0h_7ayLpsE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: S0h_7ayLpsE
@@ -20,17 +20,22 @@ aliases:
 - /resources/videos/S0h_7ayLpsE
 - /resources/evidence-based-management-gathering-and-analyzing-data
 - /resources/S0h_7ayLpsE
+aliasesFor404:
+- /resources/mastering-evidence-based-management-for-agile-success
+- /resources/videos/evidence-based-management-gathering-and-analyzing-data
+- /resources/evidence-based-management-gathering-and-analyzing-data
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence-based Management
-- EBM
-- EBM framework
-- Agile
-- Scrum
+- Metrics and Learning
+- Evidence Based Leadership
+- Decision Making
+- Evidence Based Management
 resourceTypes:
 - video
+categories:
+- Product Management
 
 ---
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.

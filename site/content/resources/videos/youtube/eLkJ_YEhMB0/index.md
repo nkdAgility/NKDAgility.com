@@ -3,7 +3,7 @@ title: Overcoming the Ghost of Agile Certifications
 description: "Transform your Agile Scrum meetings from routine to value-driven! Discover strategies to boost productivity and avoid the ghosts of Agile past. \U0001F31F"
 date: 2024-01-02T07:00:20Z
 ResourceId: eLkJ_YEhMB0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: eLkJ_YEhMB0
@@ -20,35 +20,29 @@ aliases:
 - /resources/videos/eLkJ_YEhMB0
 - /resources/5-ghosts-of-agile-past-3-questions
 - /resources/eLkJ_YEhMB0
+aliasesFor404:
+- /resources/overcoming-the-ghost-of-agile-certifications
+- /resources/videos/5-ghosts-of-agile-past-3-questions
+- /resources/5-ghosts-of-agile-past-3-questions
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Scrum Team
+- Agile Project Management
+- Daily Scrum
+- People and Process
+- Agile Transformation
+- Agile Frameworks
+- Scrum Product Development
+- Team Performance
+- Scrum Master
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and Scrum space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.

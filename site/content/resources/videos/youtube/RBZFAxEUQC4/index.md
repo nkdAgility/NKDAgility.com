@@ -3,7 +3,7 @@ title: '7 deadly sins of Agile: Lust'
 description: "Discover why 'lust' for quick agile solutions can hinder transformation. Learn to tailor agile practices to your unique needs! \U0001F680\U0001F504 #Agile #Transformation"
 date: 2023-10-12T07:00:12Z
 ResourceId: RBZFAxEUQC4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RBZFAxEUQC4
@@ -20,37 +20,19 @@ aliases:
 - /resources/videos/RBZFAxEUQC4
 - /resources/lust!-7-deadly-sins-of-agile
 - /resources/RBZFAxEUQC4
+aliasesFor404:
+- /resources/7-deadly-sins-of-agile-lust
+- /resources/videos/lust!-7-deadly-sins-of-agile
+- /resources/lust!-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Organisational Change
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

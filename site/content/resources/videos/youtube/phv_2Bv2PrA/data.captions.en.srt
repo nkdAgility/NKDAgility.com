@@ -1,0 +1,2741 @@
+1
+00:00:00,599 --> 00:00:05,819
+agile is fundamentally about shortening
+
+2
+00:00:03,959 --> 00:00:08,880
+the time it takes to deliver your
+
+3
+00:00:05,819 --> 00:00:10,800
+products to users and to learn from it
+
+4
+00:00:08,880 --> 00:00:12,120
+traditional management practices were
+
+5
+00:00:10,800 --> 00:00:14,820
+developed during the Industrial
+
+6
+00:00:12,120 --> 00:00:18,779
+Revolution to manage the work of largely
+
+7
+00:00:14,820 --> 00:00:21,480
+uneducated Workforce while we can still
+
+8
+00:00:18,779 --> 00:00:24,359
+be somewhat successful when using these
+
+9
+00:00:21,480 --> 00:00:27,420
+traditional management practices they no
+
+10
+00:00:24,359 --> 00:00:30,240
+longer fit the type of work that we are
+
+11
+00:00:27,420 --> 00:00:32,759
+doing in modern organizations
+
+12
+00:00:30,240 --> 00:00:34,380
+my name is Martin hincherwood I'm a
+
+13
+00:00:32,759 --> 00:00:36,780
+professional scrum trainer with
+
+14
+00:00:34,380 --> 00:00:39,000
+scrum.org professional kanban Trainor
+
+15
+00:00:36,780 --> 00:00:41,700
+with Pro kanban and I've been a
+
+16
+00:00:39,000 --> 00:00:43,800
+Microsoft MVP in devops for the last 14
+
+17
+00:00:41,700 --> 00:00:46,320
+years
+
+18
+00:00:43,800 --> 00:00:48,180
+I want to create an understanding of the
+
+19
+00:00:46,320 --> 00:00:50,460
+two different worlds that we're talking
+
+20
+00:00:48,180 --> 00:00:52,440
+about here so during the Industrial
+
+21
+00:00:50,460 --> 00:00:55,500
+Revolution with a largely uneducated
+
+22
+00:00:52,440 --> 00:00:58,320
+Workforce we needed to make lots of
+
+23
+00:00:55,500 --> 00:01:01,559
+goods really quickly so we created a
+
+24
+00:00:58,320 --> 00:01:04,260
+model in our organizations where we had
+
+25
+00:01:01,559 --> 00:01:06,180
+the highly knowledgeable people at the
+
+26
+00:01:04,260 --> 00:01:08,700
+top of the organization who were
+
+27
+00:01:06,180 --> 00:01:09,960
+steering and giving direction to all of
+
+28
+00:01:08,700 --> 00:01:12,299
+the rest the people in the organization
+
+29
+00:01:09,960 --> 00:01:14,700
+that were largely uneducated
+
+30
+00:01:12,299 --> 00:01:16,260
+but the type of work that we were doing
+
+31
+00:01:14,700 --> 00:01:20,299
+the type of work we were physically
+
+32
+00:01:16,260 --> 00:01:20,299
+doing was was complicated
+
+33
+00:01:21,540 --> 00:01:27,000
+and this complicated work had a
+
+34
+00:01:24,840 --> 00:01:31,759
+particular characteristic right
+
+35
+00:01:27,000 --> 00:01:31,759
+um we could apply more knowledge
+
+36
+00:01:31,860 --> 00:01:36,380
+to it and it became
+
+37
+00:01:36,600 --> 00:01:40,680
+simple
+
+38
+00:01:38,280 --> 00:01:43,259
+right this work became simple so by
+
+39
+00:01:40,680 --> 00:01:46,140
+applying more knowledge to this problem
+
+40
+00:01:43,259 --> 00:01:50,280
+we made it simple so we created standard
+
+41
+00:01:46,140 --> 00:01:53,520
+operating procedures we uh um built out
+
+42
+00:01:50,280 --> 00:01:55,860
+common ways that things work and
+
+43
+00:01:53,520 --> 00:01:58,320
+optimized you know identified the
+
+44
+00:01:55,860 --> 00:02:01,860
+patterns and optimized for them uh we
+
+45
+00:01:58,320 --> 00:02:03,840
+pushed people into ability based groups
+
+46
+00:02:01,860 --> 00:02:06,719
+inside of our organization so we
+
+47
+00:02:03,840 --> 00:02:10,440
+actually we ended up not only with the
+
+48
+00:02:06,719 --> 00:02:14,879
+hierarchy of our organization but also
+
+49
+00:02:10,440 --> 00:02:17,520
+the departmental model within our
+
+50
+00:02:14,879 --> 00:02:20,819
+organization as well where we had the
+
+51
+00:02:17,520 --> 00:02:22,920
+CEO at the top giving direction they had
+
+52
+00:02:20,819 --> 00:02:24,720
+the absolute knowledge of the entire
+
+53
+00:02:22,920 --> 00:02:27,599
+business and how everything functioned
+
+54
+00:02:24,720 --> 00:02:32,220
+and they give direction
+
+55
+00:02:27,599 --> 00:02:36,239
+to perhaps the sales team or the uh
+
+56
+00:02:32,220 --> 00:02:39,000
+marketing team right and they had a head
+
+57
+00:02:36,239 --> 00:02:41,040
+who then farmed out that work to
+
+58
+00:02:39,000 --> 00:02:42,300
+individual people down the down the
+
+59
+00:02:41,040 --> 00:02:45,000
+totem
+
+60
+00:02:42,300 --> 00:02:48,000
+um and work work work was done and that
+
+61
+00:02:45,000 --> 00:02:50,400
+that works great in a world where the
+
+62
+00:02:48,000 --> 00:02:53,040
+CEO can give instructions give
+
+63
+00:02:50,400 --> 00:02:55,200
+instructions and we follow them and
+
+64
+00:02:53,040 --> 00:02:58,920
+things are successful but the problem is
+
+65
+00:02:55,200 --> 00:03:02,879
+the market is at the bottom
+
+66
+00:02:58,920 --> 00:03:05,940
+and in our new world and the market is
+
+67
+00:03:02,879 --> 00:03:09,420
+changing a lot more frequently than the
+
+68
+00:03:05,940 --> 00:03:12,180
+CEO is is is taking a a test on what's
+
+69
+00:03:09,420 --> 00:03:15,840
+going on so knowledge would have to flow
+
+70
+00:03:12,180 --> 00:03:17,940
+back up this chain and it's too slow if
+
+71
+00:03:15,840 --> 00:03:20,580
+your organization is unable to respond
+
+72
+00:03:17,940 --> 00:03:23,159
+to change as quickly as your competitors
+
+73
+00:03:20,580 --> 00:03:25,860
+you're going to fail and because the
+
+74
+00:03:23,159 --> 00:03:28,140
+markets have changed this complicated
+
+75
+00:03:25,860 --> 00:03:31,140
+work no longer really exists we can't
+
+76
+00:03:28,140 --> 00:03:33,840
+turn it into simple so every single
+
+77
+00:03:31,140 --> 00:03:35,940
+thing we do becomes custom which means
+
+78
+00:03:33,840 --> 00:03:37,500
+that that flow of information is
+
+79
+00:03:35,940 --> 00:03:39,900
+becoming heavier and heavier and heavier
+
+80
+00:03:37,500 --> 00:03:41,940
+up and down the chain in order to get
+
+81
+00:03:39,900 --> 00:03:42,959
+things done and it's just not being
+
+82
+00:03:41,940 --> 00:03:44,640
+successful
+
+83
+00:03:42,959 --> 00:03:47,099
+and that's because we're we're not
+
+84
+00:03:44,640 --> 00:03:48,180
+operating in this complicated space
+
+85
+00:03:47,099 --> 00:03:52,739
+anymore
+
+86
+00:03:48,180 --> 00:03:54,480
+things have changed things have become
+
+87
+00:03:52,739 --> 00:03:57,000
+complex
+
+88
+00:03:54,480 --> 00:03:59,519
+and no amount of
+
+89
+00:03:57,000 --> 00:04:02,159
+standard operating procedures or
+
+90
+00:03:59,519 --> 00:04:04,799
+processes or practices or ways of doing
+
+91
+00:04:02,159 --> 00:04:08,220
+things can turn
+
+92
+00:04:04,799 --> 00:04:11,700
+complicated work into simple
+
+93
+00:04:08,220 --> 00:04:14,760
+okay it never becomes simple what
+
+94
+00:04:11,700 --> 00:04:16,979
+complicated sorry complex work does do
+
+95
+00:04:14,760 --> 00:04:21,199
+is it generates
+
+96
+00:04:16,979 --> 00:04:21,199
+copious amounts of
+
+97
+00:04:22,280 --> 00:04:26,880
+surprise right that's those markets
+
+98
+00:04:25,259 --> 00:04:30,240
+changing so we need to be able to adapt
+
+99
+00:04:26,880 --> 00:04:32,340
+to it much more quickly uh than we were
+
+100
+00:04:30,240 --> 00:04:36,560
+doing before so that's that's the
+
+101
+00:04:32,340 --> 00:04:36,560
+different world so traditional
+
+102
+00:04:37,380 --> 00:04:42,120
+management and project management
+
+103
+00:04:39,240 --> 00:04:47,120
+practices were developed to work in this
+
+104
+00:04:42,120 --> 00:04:50,160
+space so you have things like uh PMI
+
+105
+00:04:47,120 --> 00:04:53,340
+uh uh prince2
+
+106
+00:04:50,160 --> 00:04:55,080
+um more more recently we have things
+
+107
+00:04:53,340 --> 00:04:58,080
+like
+
+108
+00:04:55,080 --> 00:05:00,479
+safe the scaled agile framework and are
+
+109
+00:04:58,080 --> 00:05:03,300
+all developed to work in this space
+
+110
+00:05:00,479 --> 00:05:06,000
+where the work is is is just merely
+
+111
+00:05:03,300 --> 00:05:09,300
+complicated and we can turn it simple by
+
+112
+00:05:06,000 --> 00:05:11,940
+documenting a process okay but in actual
+
+113
+00:05:09,300 --> 00:05:13,560
+fact we mostly most of the work we do
+
+114
+00:05:11,940 --> 00:05:16,800
+today most of the way our organizations
+
+115
+00:05:13,560 --> 00:05:18,720
+need to operate today is we operate in a
+
+116
+00:05:16,800 --> 00:05:21,540
+complex World complex markets complex
+
+117
+00:05:18,720 --> 00:05:23,280
+work delivering all this complex uh
+
+118
+00:05:21,540 --> 00:05:26,820
+creative things
+
+119
+00:05:23,280 --> 00:05:28,979
+and agile was a response to that
+
+120
+00:05:26,820 --> 00:05:30,900
+difference right
+
+121
+00:05:28,979 --> 00:05:33,840
+um agile's been around a very long time
+
+122
+00:05:30,900 --> 00:05:39,180
+the agile Manifesto was signed in 2001
+
+123
+00:05:33,840 --> 00:05:43,620
+which is 22 years ago 21 years ago
+
+124
+00:05:39,180 --> 00:05:46,740
+um scrum was developed in this space
+
+125
+00:05:43,620 --> 00:05:51,720
+and scrum has been around for 25 years
+
+126
+00:05:46,740 --> 00:05:56,639
+uh 2019 93 was the first rendition of
+
+127
+00:05:51,720 --> 00:05:59,699
+scrum but even before that way back in
+
+128
+00:05:56,639 --> 00:06:01,620
+the the new new product development game
+
+129
+00:05:59,699 --> 00:06:04,919
+uh article Harvard Business review
+
+130
+00:06:01,620 --> 00:06:09,800
+article I have a a definition at the end
+
+131
+00:06:04,919 --> 00:06:12,120
+um was 1986 I think 1986. so these ideas
+
+132
+00:06:09,800 --> 00:06:15,539
+have been around for an incredibly long
+
+133
+00:06:12,120 --> 00:06:17,460
+time and actually uh it started long
+
+134
+00:06:15,539 --> 00:06:20,460
+before that but that's that's too much
+
+135
+00:06:17,460 --> 00:06:22,620
+for for just now but if we exist in this
+
+136
+00:06:20,460 --> 00:06:25,259
+complex space we need processes and
+
+137
+00:06:22,620 --> 00:06:28,380
+practices that were developed for this
+
+138
+00:06:25,259 --> 00:06:30,720
+complex space and we need something a
+
+139
+00:06:28,380 --> 00:06:33,660
+little bit different
+
+140
+00:06:30,720 --> 00:06:34,919
+um because in our world of of uh
+
+141
+00:06:33,660 --> 00:06:39,539
+complexity
+
+142
+00:06:34,919 --> 00:06:41,759
+things are very unpredictable okay uh
+
+143
+00:06:39,539 --> 00:06:44,160
+there's a great lack of predictability
+
+144
+00:06:41,759 --> 00:06:46,979
+in those species uh so here I've
+
+145
+00:06:44,160 --> 00:06:48,539
+categorized the the types of things that
+
+146
+00:06:46,979 --> 00:06:50,759
+we would do in product development just
+
+147
+00:06:48,539 --> 00:06:52,919
+into three three key areas uh
+
+148
+00:06:50,759 --> 00:06:55,139
+requirements technology and people
+
+149
+00:06:52,919 --> 00:06:56,819
+um it's a very very broad categories I
+
+150
+00:06:55,139 --> 00:06:58,139
+do understand that
+
+151
+00:06:56,819 --> 00:07:00,539
+um but let's think about the
+
+152
+00:06:58,139 --> 00:07:02,699
+predictability of each of those items
+
+153
+00:07:00,539 --> 00:07:05,580
+and where it would sit
+
+154
+00:07:02,699 --> 00:07:07,259
+well we're no longer taking orders right
+
+155
+00:07:05,580 --> 00:07:08,819
+we're not having orders coming from
+
+156
+00:07:07,259 --> 00:07:10,759
+above in the organization and we just
+
+157
+00:07:08,819 --> 00:07:14,520
+follow it the customer
+
+158
+00:07:10,759 --> 00:07:16,560
+might say yes I want this uh but the
+
+159
+00:07:14,520 --> 00:07:19,319
+reality is that the chances of this
+
+160
+00:07:16,560 --> 00:07:21,300
+being what they actually need are are
+
+161
+00:07:19,319 --> 00:07:23,819
+are are very different in fact there's
+
+162
+00:07:21,300 --> 00:07:26,580
+some good data around that uh so the
+
+163
+00:07:23,819 --> 00:07:28,139
+Standish group in in Boston create the
+
+164
+00:07:26,580 --> 00:07:29,340
+chaos report
+
+165
+00:07:28,139 --> 00:07:33,060
+um and they've added a few things that
+
+166
+00:07:29,340 --> 00:07:35,220
+story one of them is that uh um
+
+167
+00:07:33,060 --> 00:07:39,060
+35
+
+168
+00:07:35,220 --> 00:07:43,020
+percent of our requirements
+
+169
+00:07:39,060 --> 00:07:46,979
+change over the life of our product not
+
+170
+00:07:43,020 --> 00:07:50,120
+only that but 65 percent of the things
+
+171
+00:07:46,979 --> 00:07:50,120
+that we build
+
+172
+00:07:50,340 --> 00:07:55,800
+are used little
+
+173
+00:07:53,940 --> 00:07:58,979
+if ever
+
+174
+00:07:55,800 --> 00:08:03,300
+think about the waste for every every
+
+175
+00:07:58,979 --> 00:08:07,139
+dollar of investment that we have we're
+
+176
+00:08:03,300 --> 00:08:10,139
+losing 65 65 cents on the dollar is
+
+177
+00:08:07,139 --> 00:08:12,419
+being lost just to building stuff that
+
+178
+00:08:10,139 --> 00:08:14,699
+our customers don't actually use so why
+
+179
+00:08:12,419 --> 00:08:16,620
+do we build things that our customers
+
+180
+00:08:14,699 --> 00:08:18,900
+don't actually use surely they asked for
+
+181
+00:08:16,620 --> 00:08:20,639
+them so they need them but the reality
+
+182
+00:08:18,900 --> 00:08:22,080
+is that they ask for things they don't
+
+183
+00:08:20,639 --> 00:08:23,580
+need and the reason they ask for things
+
+184
+00:08:22,080 --> 00:08:26,340
+they don't need is because we ask them
+
+185
+00:08:23,580 --> 00:08:28,620
+an unreasonable question we say what are
+
+186
+00:08:26,340 --> 00:08:30,539
+you going to need in a year's time in 12
+
+187
+00:08:28,620 --> 00:08:33,240
+months when we've built your product for
+
+188
+00:08:30,539 --> 00:08:35,159
+you what do you need and the reality is
+
+189
+00:08:33,240 --> 00:08:36,479
+they don't know they don't know what
+
+190
+00:08:35,159 --> 00:08:38,940
+business decisions are going to happen
+
+191
+00:08:36,479 --> 00:08:41,039
+over the next 12 months they don't know
+
+192
+00:08:38,940 --> 00:08:43,320
+what Market changes are going to happen
+
+193
+00:08:41,039 --> 00:08:45,839
+over the next 12 months they don't know
+
+194
+00:08:43,320 --> 00:08:47,279
+what other unpredictable world events
+
+195
+00:08:45,839 --> 00:08:51,060
+are going to happen over the next 12
+
+196
+00:08:47,279 --> 00:08:53,820
+months so their knowledge of what might
+
+197
+00:08:51,060 --> 00:08:56,160
+maybe happen includes a whole bunch of
+
+198
+00:08:53,820 --> 00:08:58,680
+things that they won't need once the
+
+199
+00:08:56,160 --> 00:09:01,500
+decisions been made or if a particular
+
+200
+00:08:58,680 --> 00:09:03,420
+event happens we need these hundred
+
+201
+00:09:01,500 --> 00:09:05,459
+features if it doesn't happen we need
+
+202
+00:09:03,420 --> 00:09:06,959
+these other 100 features and if we're
+
+203
+00:09:05,459 --> 00:09:08,880
+asking them up front they're going to
+
+204
+00:09:06,959 --> 00:09:11,160
+give us the full 200 features so there's
+
+205
+00:09:08,880 --> 00:09:14,000
+half of those things we don't need
+
+206
+00:09:11,160 --> 00:09:17,279
+so requirements while we like to think
+
+207
+00:09:14,000 --> 00:09:19,680
+that our requirements once we've signed
+
+208
+00:09:17,279 --> 00:09:23,760
+off on them are are fairly High
+
+209
+00:09:19,680 --> 00:09:27,260
+predictability the reality is is they're
+
+210
+00:09:23,760 --> 00:09:30,779
+probably closer to that 30 percent
+
+211
+00:09:27,260 --> 00:09:32,339
+predictable so we need to figure out
+
+212
+00:09:30,779 --> 00:09:33,720
+um how do we how do we adapt more
+
+213
+00:09:32,339 --> 00:09:35,100
+quickly to be able to take that into
+
+214
+00:09:33,720 --> 00:09:38,820
+account
+
+215
+00:09:35,100 --> 00:09:42,180
+uh the next thing is technology okay uh
+
+216
+00:09:38,820 --> 00:09:44,459
+technology could be our uh the the
+
+217
+00:09:42,180 --> 00:09:46,980
+software technology it could be a
+
+218
+00:09:44,459 --> 00:09:47,580
+product technology it could be
+
+219
+00:09:46,980 --> 00:09:49,940
+um
+
+220
+00:09:47,580 --> 00:09:53,700
+processes ways of doing things
+
+221
+00:09:49,940 --> 00:09:55,560
+technology right uh probably scrum sits
+
+222
+00:09:53,700 --> 00:09:57,060
+in that space kanban sits in that space
+
+223
+00:09:55,560 --> 00:09:59,760
+these are technologies that were
+
+224
+00:09:57,060 --> 00:10:01,260
+developed in order to help us do things
+
+225
+00:09:59,760 --> 00:10:03,060
+uh traditional project management
+
+226
+00:10:01,260 --> 00:10:04,920
+practices PMI and prints too are
+
+227
+00:10:03,060 --> 00:10:08,700
+Technologies right ways of doing things
+
+228
+00:10:04,920 --> 00:10:11,040
+but the reality is that even during the
+
+229
+00:10:08,700 --> 00:10:14,220
+life of a product the technologies that
+
+230
+00:10:11,040 --> 00:10:17,279
+we need are going to change okay so some
+
+231
+00:10:14,220 --> 00:10:19,260
+of those Technologies might be uh would
+
+232
+00:10:17,279 --> 00:10:20,339
+you would you run a product in exactly
+
+233
+00:10:19,260 --> 00:10:22,500
+the same way when you're building
+
+234
+00:10:20,339 --> 00:10:25,080
+something new versus you're supporting
+
+235
+00:10:22,500 --> 00:10:26,880
+something that exists versus something
+
+236
+00:10:25,080 --> 00:10:28,920
+happened in the market that you need to
+
+237
+00:10:26,880 --> 00:10:30,720
+adapt around making a change to what's
+
+238
+00:10:28,920 --> 00:10:34,019
+going on no we're going to use different
+
+239
+00:10:30,720 --> 00:10:36,080
+processes and practices and even in the
+
+240
+00:10:34,019 --> 00:10:39,480
+software technology
+
+241
+00:10:36,080 --> 00:10:42,120
+windows and visual studio are are are on
+
+242
+00:10:39,480 --> 00:10:44,100
+daily builds these products the products
+
+243
+00:10:42,120 --> 00:10:46,500
+that we rely on that we use as part of
+
+244
+00:10:44,100 --> 00:10:48,899
+our process are constantly constantly
+
+245
+00:10:46,500 --> 00:10:51,420
+changing now technology is probably a
+
+246
+00:10:48,899 --> 00:10:52,920
+little bit more uh predictable than
+
+247
+00:10:51,420 --> 00:10:55,920
+requirements
+
+248
+00:10:52,920 --> 00:10:58,920
+um I'll put this in the 50 there it
+
+249
+00:10:55,920 --> 00:11:01,980
+might be a little bit higher okay but
+
+250
+00:10:58,920 --> 00:11:04,140
+it's still fairly fairly low and then
+
+251
+00:11:01,980 --> 00:11:06,420
+our last our last predictability is
+
+252
+00:11:04,140 --> 00:11:09,240
+people right and I don't know about you
+
+253
+00:11:06,420 --> 00:11:11,760
+but I don't come into work every day and
+
+254
+00:11:09,240 --> 00:11:14,640
+operate at exactly the same level people
+
+255
+00:11:11,760 --> 00:11:16,500
+are not machines no matter how much we
+
+256
+00:11:14,640 --> 00:11:18,300
+want to say that people should just come
+
+257
+00:11:16,500 --> 00:11:21,180
+into work and be professional every day
+
+258
+00:11:18,300 --> 00:11:24,300
+that's not how human beings operate
+
+259
+00:11:21,180 --> 00:11:26,279
+people take vacation people take sick
+
+260
+00:11:24,300 --> 00:11:28,740
+days people have kids people have
+
+261
+00:11:26,279 --> 00:11:30,300
+arguments people have disagreements if I
+
+262
+00:11:28,740 --> 00:11:32,700
+have to work with somebody I don't like
+
+263
+00:11:30,300 --> 00:11:35,579
+I'm not going to perform as well as I
+
+264
+00:11:32,700 --> 00:11:37,980
+would uh uh if I was working with
+
+265
+00:11:35,579 --> 00:11:39,480
+somebody I did like right we're going to
+
+266
+00:11:37,980 --> 00:11:42,300
+collaborate more
+
+267
+00:11:39,480 --> 00:11:45,120
+what is that impact on on the world and
+
+268
+00:11:42,300 --> 00:11:49,500
+I would suggest that people are probably
+
+269
+00:11:45,120 --> 00:11:50,700
+the least predictable element here
+
+270
+00:11:49,500 --> 00:11:53,339
+um
+
+271
+00:11:50,700 --> 00:11:55,560
+and if you if you average this across
+
+272
+00:11:53,339 --> 00:11:58,079
+each of these different ideas these
+
+273
+00:11:55,560 --> 00:12:01,700
+different topics we get a we get a kind
+
+274
+00:11:58,079 --> 00:12:04,920
+of picture of very low predictability
+
+275
+00:12:01,700 --> 00:12:07,200
+definitely less than 50 percent now
+
+276
+00:12:04,920 --> 00:12:11,640
+imagine that you've created our project
+
+277
+00:12:07,200 --> 00:12:13,920
+plan uh for the next next 12 months
+
+278
+00:12:11,640 --> 00:12:15,899
+um we've created our bunch of mitigating
+
+279
+00:12:13,920 --> 00:12:17,640
+uh we've got we've got a bunch of risks
+
+280
+00:12:15,899 --> 00:12:19,260
+that might happen we've got maybe 200
+
+281
+00:12:17,640 --> 00:12:20,579
+risks that might happen over the life of
+
+282
+00:12:19,260 --> 00:12:22,320
+the product
+
+283
+00:12:20,579 --> 00:12:24,360
+um and we have a whole bunch of
+
+284
+00:12:22,320 --> 00:12:26,160
+mitigating actions that we've created if
+
+285
+00:12:24,360 --> 00:12:28,680
+this happens we'll do this
+
+286
+00:12:26,160 --> 00:12:33,779
+that
+
+287
+00:12:28,680 --> 00:12:36,600
+what if 40 uh sorry eight eight sixty
+
+288
+00:12:33,779 --> 00:12:37,920
+percent sixty percent of all of that is
+
+289
+00:12:36,600 --> 00:12:41,339
+going to change over the life of the
+
+290
+00:12:37,920 --> 00:12:43,260
+product and change constantly right what
+
+291
+00:12:41,339 --> 00:12:45,000
+is that impact on the body of work that
+
+292
+00:12:43,260 --> 00:12:46,860
+we've created and our look forward into
+
+293
+00:12:45,000 --> 00:12:48,779
+the future there's a lot of waste in
+
+294
+00:12:46,860 --> 00:12:51,240
+there uh things that we couldn't protect
+
+295
+00:12:48,779 --> 00:12:52,560
+those surprises are going to happen so
+
+296
+00:12:51,240 --> 00:12:53,839
+we really want to tackle it in a
+
+297
+00:12:52,560 --> 00:12:58,620
+different way
+
+298
+00:12:53,839 --> 00:13:01,260
+uh so in in this agile space we deal
+
+299
+00:12:58,620 --> 00:13:03,420
+with this predictability this lack of
+
+300
+00:13:01,260 --> 00:13:06,060
+predictability we deal with it by having
+
+301
+00:13:03,420 --> 00:13:10,200
+working product on a regular Cadence
+
+302
+00:13:06,060 --> 00:13:12,899
+okay so perhaps we have a regular
+
+303
+00:13:10,200 --> 00:13:16,260
+Cadence of once a month we're going to
+
+304
+00:13:12,899 --> 00:13:22,680
+deliver working usable product so
+
+305
+00:13:16,260 --> 00:13:25,860
+instead of just having that single uh
+
+306
+00:13:22,680 --> 00:13:30,060
+delivery at the end in our traditional
+
+307
+00:13:25,860 --> 00:13:33,000
+model we have continuous delivery of new
+
+308
+00:13:30,060 --> 00:13:35,279
+uh product working product that our
+
+309
+00:13:33,000 --> 00:13:38,220
+customer can use can work with in
+
+310
+00:13:35,279 --> 00:13:40,200
+production can give us feedback on that
+
+311
+00:13:38,220 --> 00:13:42,180
+will help inform the next piece of work
+
+312
+00:13:40,200 --> 00:13:43,500
+this gives us a whole bunch of
+
+313
+00:13:42,180 --> 00:13:45,300
+capabilities and I'm going to talk about
+
+314
+00:13:43,500 --> 00:13:46,800
+that in a moment but this is the
+
+315
+00:13:45,300 --> 00:13:48,720
+superpower
+
+316
+00:13:46,800 --> 00:13:51,980
+um this is the thing that allows us to
+
+317
+00:13:48,720 --> 00:13:51,980
+mitigate risk
+
+318
+00:13:53,700 --> 00:13:57,540
+is the only thing that allows us to
+
+319
+00:13:55,680 --> 00:13:59,639
+mitigate risk in this complex world
+
+320
+00:13:57,540 --> 00:14:01,500
+where everything's changing so much we
+
+321
+00:13:59,639 --> 00:14:03,600
+can't plan our way out of the risk like
+
+322
+00:14:01,500 --> 00:14:05,760
+we would in a traditional model when the
+
+323
+00:14:03,600 --> 00:14:07,980
+variance is very small when the variance
+
+324
+00:14:05,760 --> 00:14:10,079
+is high we need to create these working
+
+325
+00:14:07,980 --> 00:14:13,500
+usable products because then when
+
+326
+00:14:10,079 --> 00:14:17,160
+something happens let's say a market
+
+327
+00:14:13,500 --> 00:14:21,779
+change happens we can maybe do another
+
+328
+00:14:17,160 --> 00:14:24,540
+release very quickly after right we can
+
+329
+00:14:21,779 --> 00:14:29,660
+do more releases than we have here
+
+330
+00:14:24,540 --> 00:14:29,660
+perhaps uh there's a world event
+
+331
+00:14:30,420 --> 00:14:35,519
+happens and we need to do a bunch of
+
+332
+00:14:32,880 --> 00:14:37,920
+small releases in order to get these the
+
+333
+00:14:35,519 --> 00:14:40,380
+the the the the you know competitors
+
+334
+00:14:37,920 --> 00:14:42,540
+released uh new features and we need to
+
+335
+00:14:40,380 --> 00:14:45,360
+get it our features into Market very
+
+336
+00:14:42,540 --> 00:14:48,420
+quickly and these are
+
+337
+00:14:45,360 --> 00:14:51,240
+the tool that we use to mitigate risk so
+
+338
+00:14:48,420 --> 00:14:54,600
+let's look at what that looks like
+
+339
+00:14:51,240 --> 00:14:57,959
+so in um I'm gonna gonna go through this
+
+340
+00:14:54,600 --> 00:15:01,100
+first uh quickly with uh or with a
+
+341
+00:14:57,959 --> 00:15:01,100
+traditional mindset right
+
+342
+00:15:03,060 --> 00:15:08,100
+so in a traditional mindset let's say we
+
+343
+00:15:05,579 --> 00:15:10,260
+take that a pure traditional mindset
+
+344
+00:15:08,100 --> 00:15:11,940
+where we don't actually give the
+
+345
+00:15:10,260 --> 00:15:13,380
+customer uh we don't deploy to
+
+346
+00:15:11,940 --> 00:15:15,180
+production Until the End you've got 12
+
+347
+00:15:13,380 --> 00:15:17,220
+month project let's say it's going to
+
+348
+00:15:15,180 --> 00:15:20,880
+cost 12 million of whatever monies you
+
+349
+00:15:17,220 --> 00:15:23,100
+like dollars Euros or Pounds and we're
+
+350
+00:15:20,880 --> 00:15:24,120
+going to deliver on a monthly basis so
+
+351
+00:15:23,100 --> 00:15:26,760
+we're gonna have
+
+352
+00:15:24,120 --> 00:15:28,680
+um in a traditional model uh we're going
+
+353
+00:15:26,760 --> 00:15:31,440
+to deliver at the end of the 12 months
+
+354
+00:15:28,680 --> 00:15:33,060
+okay so what's the visibility during the
+
+355
+00:15:31,440 --> 00:15:36,060
+life of the product well visibility
+
+356
+00:15:33,060 --> 00:15:37,800
+normally starts high right it's going to
+
+357
+00:15:36,060 --> 00:15:39,540
+start high because we're writing the
+
+358
+00:15:37,800 --> 00:15:42,600
+documentation we're communicating what's
+
+359
+00:15:39,540 --> 00:15:44,820
+going on uh but then
+
+360
+00:15:42,600 --> 00:15:46,260
+right at the end we've got high
+
+361
+00:15:44,820 --> 00:15:49,920
+visibility because we've delivered them
+
+362
+00:15:46,260 --> 00:15:52,560
+working products but in between how much
+
+363
+00:15:49,920 --> 00:15:54,959
+visibility does the customer actually
+
+364
+00:15:52,560 --> 00:15:57,180
+have right what can they actually see
+
+365
+00:15:54,959 --> 00:15:59,699
+what can they use in the product what do
+
+366
+00:15:57,180 --> 00:16:01,740
+they really know apart from you know we
+
+367
+00:15:59,699 --> 00:16:04,860
+tell them things are going great right
+
+368
+00:16:01,740 --> 00:16:07,680
+we're 80 there and all of those things
+
+369
+00:16:04,860 --> 00:16:10,980
+so while visibility is not zero
+
+370
+00:16:07,680 --> 00:16:13,079
+it is fairly fairly low throughout the
+
+371
+00:16:10,980 --> 00:16:14,820
+life of the project and goes at low
+
+372
+00:16:13,079 --> 00:16:18,240
+fairly quickly
+
+373
+00:16:14,820 --> 00:16:21,720
+couple that because visibility is is not
+
+374
+00:16:18,240 --> 00:16:23,100
+higher ability to change also uh over
+
+375
+00:16:21,720 --> 00:16:25,139
+the life of the project drops fairly
+
+376
+00:16:23,100 --> 00:16:27,180
+quickly so our ability to change at the
+
+377
+00:16:25,139 --> 00:16:29,459
+end is very low right we've built a
+
+378
+00:16:27,180 --> 00:16:31,740
+bunch of stuff right so we have a low
+
+379
+00:16:29,459 --> 00:16:34,680
+ability to change it's more expensive to
+
+380
+00:16:31,740 --> 00:16:37,139
+change things but we drop very quickly
+
+381
+00:16:34,680 --> 00:16:39,360
+after we start work in a traditional
+
+382
+00:16:37,139 --> 00:16:42,120
+model because we start everything right
+
+383
+00:16:39,360 --> 00:16:44,459
+we're not creating those vertical slices
+
+384
+00:16:42,120 --> 00:16:47,100
+this is why things like Spiral came into
+
+385
+00:16:44,459 --> 00:16:51,360
+existence to kind of help with those
+
+386
+00:16:47,100 --> 00:16:53,940
+stories but this idea uh um is the the
+
+387
+00:16:51,360 --> 00:16:55,800
+change drops off very quickly we
+
+388
+00:16:53,940 --> 00:16:57,959
+maintain it for some time but it drops
+
+389
+00:16:55,800 --> 00:17:00,899
+off fairly quickly
+
+390
+00:16:57,959 --> 00:17:03,240
+and then our customers operational risk
+
+391
+00:17:00,899 --> 00:17:05,579
+operational risk always starts at a
+
+392
+00:17:03,240 --> 00:17:07,260
+hundred percent what is the risk to the
+
+393
+00:17:05,579 --> 00:17:09,299
+customer what's the customer's risk
+
+394
+00:17:07,260 --> 00:17:11,880
+they're looking at us going what's my
+
+395
+00:17:09,299 --> 00:17:13,500
+risk uh on whether these folks will
+
+396
+00:17:11,880 --> 00:17:17,520
+deliver what I think they're going to
+
+397
+00:17:13,500 --> 00:17:20,880
+deliver right so it starts very high
+
+398
+00:17:17,520 --> 00:17:22,500
+um and then it's obviously zero at the
+
+399
+00:17:20,880 --> 00:17:24,959
+end because we deliver our working
+
+400
+00:17:22,500 --> 00:17:26,640
+usable product at the end of every
+
+401
+00:17:24,959 --> 00:17:29,520
+project right that's that happens every
+
+402
+00:17:26,640 --> 00:17:31,440
+project but operational risk during the
+
+403
+00:17:29,520 --> 00:17:33,059
+life of the project remains very high it
+
+404
+00:17:31,440 --> 00:17:35,220
+maybe drops a little bit as they see
+
+405
+00:17:33,059 --> 00:17:37,440
+some of the things we've created maybe
+
+406
+00:17:35,220 --> 00:17:40,140
+there's a little dip maybe there's a
+
+407
+00:17:37,440 --> 00:17:43,200
+little dip there at the end as we go
+
+408
+00:17:40,140 --> 00:17:45,600
+into uat but the reality is we get to
+
+409
+00:17:43,200 --> 00:17:48,480
+the end and their risk drops to zero
+
+410
+00:17:45,600 --> 00:17:51,000
+only once we've delivered a working
+
+411
+00:17:48,480 --> 00:17:52,740
+usable uh product for them once we've
+
+412
+00:17:51,000 --> 00:17:55,380
+solved their business problem
+
+413
+00:17:52,740 --> 00:17:58,200
+and then if we look at realized value
+
+414
+00:17:55,380 --> 00:18:01,200
+how much value does the customer have
+
+415
+00:17:58,200 --> 00:18:03,539
+well it starts at zero they've got no
+
+416
+00:18:01,200 --> 00:18:05,640
+value and at the end of the product
+
+417
+00:18:03,539 --> 00:18:09,539
+cycle at the end of the 12 months they
+
+418
+00:18:05,640 --> 00:18:12,660
+have full value but during you know how
+
+419
+00:18:09,539 --> 00:18:14,880
+often do you actually deliver value to
+
+420
+00:18:12,660 --> 00:18:18,840
+the customer and I very specifically use
+
+421
+00:18:14,880 --> 00:18:21,780
+realized value uat does not count as
+
+422
+00:18:18,840 --> 00:18:24,720
+realized value uat does not actually
+
+423
+00:18:21,780 --> 00:18:28,500
+solve the customer's problem it's still
+
+424
+00:18:24,720 --> 00:18:31,020
+a pending problem so we don't have that
+
+425
+00:18:28,500 --> 00:18:32,460
+value realized until the end of the
+
+426
+00:18:31,020 --> 00:18:35,940
+product cycle
+
+427
+00:18:32,460 --> 00:18:38,460
+so hope hopefully you you agree or
+
+428
+00:18:35,940 --> 00:18:40,799
+mostly agree with the way I shape these
+
+429
+00:18:38,460 --> 00:18:42,240
+lines you maybe have little caveats but
+
+430
+00:18:40,799 --> 00:18:44,880
+I think it's not going to be that much
+
+431
+00:18:42,240 --> 00:18:48,360
+different from from what I've drawn
+
+432
+00:18:44,880 --> 00:18:51,360
+so let's take a another look and look at
+
+433
+00:18:48,360 --> 00:18:53,520
+uh I'm gonna put agile
+
+434
+00:18:51,360 --> 00:18:55,320
+but you might call it empirical it
+
+435
+00:18:53,520 --> 00:18:58,500
+doesn't really matter what word you use
+
+436
+00:18:55,320 --> 00:19:00,600
+agile's it's been agile since 2001 uh
+
+437
+00:18:58,500 --> 00:19:02,820
+before that it was just empiricism right
+
+438
+00:19:00,600 --> 00:19:04,860
+an empirical process
+
+439
+00:19:02,820 --> 00:19:06,480
+um and what we're going to do is at
+
+440
+00:19:04,860 --> 00:19:09,360
+least every month
+
+441
+00:19:06,480 --> 00:19:12,120
+at least every 30 days we're going to
+
+442
+00:19:09,360 --> 00:19:15,539
+have working product and it's going to
+
+443
+00:19:12,120 --> 00:19:17,520
+be in production okay
+
+444
+00:19:15,539 --> 00:19:20,160
+um so where where does visibility sit
+
+445
+00:19:17,520 --> 00:19:22,080
+well visibility
+
+446
+00:19:20,160 --> 00:19:24,960
+um sits fairly High throughout the life
+
+447
+00:19:22,080 --> 00:19:30,840
+of the project right so it starts high
+
+448
+00:19:24,960 --> 00:19:33,419
+and then every month we're going to have
+
+449
+00:19:30,840 --> 00:19:36,480
+I'm not probably not going to put 12 of
+
+450
+00:19:33,419 --> 00:19:38,760
+these little uh stars in there right uh
+
+451
+00:19:36,480 --> 00:19:40,919
+but every month they're going to have
+
+452
+00:19:38,760 --> 00:19:42,780
+that same level of visibility here are
+
+453
+00:19:40,919 --> 00:19:45,600
+all the things we created over the last
+
+454
+00:19:42,780 --> 00:19:49,320
+month please validate that it is what
+
+455
+00:19:45,600 --> 00:19:52,320
+we've created and during those sessions
+
+456
+00:19:49,320 --> 00:19:54,900
+you're going to have these uh little
+
+457
+00:19:52,320 --> 00:19:57,360
+little dips where we're not doing
+
+458
+00:19:54,900 --> 00:19:58,799
+anything I guess I could make that I
+
+459
+00:19:57,360 --> 00:20:00,299
+guess that could go all the way down
+
+460
+00:19:58,799 --> 00:20:02,880
+here right maybe
+
+461
+00:20:00,299 --> 00:20:05,760
+that kind of makes sense you know bring
+
+462
+00:20:02,880 --> 00:20:07,799
+it in line with the the the that idea of
+
+463
+00:20:05,760 --> 00:20:09,780
+not being able to see anything but we
+
+464
+00:20:07,799 --> 00:20:12,600
+have all of these touch points we have
+
+465
+00:20:09,780 --> 00:20:14,340
+12 touch points throughout the life of
+
+466
+00:20:12,600 --> 00:20:16,919
+the product where the customer is given
+
+467
+00:20:14,340 --> 00:20:19,559
+the ability to to give them the ability
+
+468
+00:20:16,919 --> 00:20:22,020
+to change potentially
+
+469
+00:20:19,559 --> 00:20:24,480
+also our ability to change over the life
+
+470
+00:20:22,020 --> 00:20:27,360
+of the product is is very different as
+
+471
+00:20:24,480 --> 00:20:30,240
+well right so we're going to start with
+
+472
+00:20:27,360 --> 00:20:32,760
+high ability to change in both cases
+
+473
+00:20:30,240 --> 00:20:34,980
+we've built nothing and in the end we're
+
+474
+00:20:32,760 --> 00:20:37,620
+gonna potentially have a low ability to
+
+475
+00:20:34,980 --> 00:20:39,660
+change in both cases we've built a
+
+476
+00:20:37,620 --> 00:20:41,820
+product right so now it's difficult to
+
+477
+00:20:39,660 --> 00:20:44,700
+change because a whole product exists 10
+
+478
+00:20:41,820 --> 00:20:47,160
+12 months worth of work versus uh no
+
+479
+00:20:44,700 --> 00:20:50,220
+work but the model is very different
+
+480
+00:20:47,160 --> 00:20:52,799
+because at the end because we're working
+
+481
+00:20:50,220 --> 00:20:54,960
+in in usable working increments at the
+
+482
+00:20:52,799 --> 00:20:57,419
+end of each month when we ship the
+
+483
+00:20:54,960 --> 00:21:00,000
+product the customer has the option to
+
+484
+00:20:57,419 --> 00:21:02,400
+change anything we've not started and it
+
+485
+00:21:00,000 --> 00:21:03,960
+has zero impact to our ability to
+
+486
+00:21:02,400 --> 00:21:05,760
+deliver it has zero impact on the
+
+487
+00:21:03,960 --> 00:21:08,400
+product and there's potentially zero
+
+488
+00:21:05,760 --> 00:21:10,799
+waste it's close to zero it's never zero
+
+489
+00:21:08,400 --> 00:21:12,419
+right but we have much lower waste when
+
+490
+00:21:10,799 --> 00:21:14,940
+they maintain that ability to change
+
+491
+00:21:12,419 --> 00:21:16,559
+anything we've not started so what you
+
+492
+00:21:14,940 --> 00:21:19,140
+end up with is you're still going to
+
+493
+00:21:16,559 --> 00:21:22,740
+drop because you're Building Product but
+
+494
+00:21:19,140 --> 00:21:25,740
+it's going to to be on a a kind of
+
+495
+00:21:22,740 --> 00:21:27,660
+different trajectory right we're we're
+
+496
+00:21:25,740 --> 00:21:29,940
+reducing our ability to change as we go
+
+497
+00:21:27,660 --> 00:21:32,640
+through the product but everything we've
+
+498
+00:21:29,940 --> 00:21:34,980
+not built yet still has the ability to
+
+499
+00:21:32,640 --> 00:21:37,020
+change and we even have the ability to
+
+500
+00:21:34,980 --> 00:21:39,120
+change existing stuff just like we did
+
+501
+00:21:37,020 --> 00:21:41,280
+in our traditional process
+
+502
+00:21:39,120 --> 00:21:43,320
+um but we're adding that to the ability
+
+503
+00:21:41,280 --> 00:21:46,620
+to change everything we've not started
+
+504
+00:21:43,320 --> 00:21:49,039
+if at the end of Sprint four month four
+
+505
+00:21:46,620 --> 00:21:52,860
+they want the customer wants to delete
+
+506
+00:21:49,039 --> 00:21:54,360
+our entire product backlog and build a
+
+507
+00:21:52,860 --> 00:21:56,100
+new one and that's what we work on
+
+508
+00:21:54,360 --> 00:21:59,640
+that's cool we can do that because
+
+509
+00:21:56,100 --> 00:22:03,059
+everything we have done so far is usable
+
+510
+00:21:59,640 --> 00:22:05,039
+and works it's production ready okay
+
+511
+00:22:03,059 --> 00:22:06,539
+that's that super power that we need in
+
+512
+00:22:05,039 --> 00:22:08,220
+order to get there
+
+513
+00:22:06,539 --> 00:22:11,580
+so how does that look for operational
+
+514
+00:22:08,220 --> 00:22:13,620
+risk well we're going to start in the
+
+515
+00:22:11,580 --> 00:22:16,080
+same place right and end in the same
+
+516
+00:22:13,620 --> 00:22:17,039
+place that's that that normal model
+
+517
+00:22:16,080 --> 00:22:19,559
+we're going to start in the same place
+
+518
+00:22:17,039 --> 00:22:22,020
+and end in the same place but in fact at
+
+519
+00:22:19,559 --> 00:22:24,240
+the end of the first month we've
+
+520
+00:22:22,020 --> 00:22:26,360
+alleviated some of the risk
+
+521
+00:22:24,240 --> 00:22:29,280
+right they have some working product
+
+522
+00:22:26,360 --> 00:22:31,440
+hopefully we've solved the most valuable
+
+523
+00:22:29,280 --> 00:22:33,780
+problem we can in the first 30 days
+
+524
+00:22:31,440 --> 00:22:35,760
+right what could we do in 30 days that's
+
+525
+00:22:33,780 --> 00:22:37,500
+what I do with teams is I get them in a
+
+526
+00:22:35,760 --> 00:22:40,620
+room and I say here's what the customer
+
+527
+00:22:37,500 --> 00:22:42,539
+wants what is the most valuable thing we
+
+528
+00:22:40,620 --> 00:22:45,059
+could do in this space in the next 30
+
+529
+00:22:42,539 --> 00:22:46,740
+days let's build that at the end of the
+
+530
+00:22:45,059 --> 00:22:48,539
+30 days you've got that you give it to
+
+531
+00:22:46,740 --> 00:22:49,679
+the customer and say are we going in the
+
+532
+00:22:48,539 --> 00:22:51,900
+right direction are we building
+
+533
+00:22:49,679 --> 00:22:53,880
+something that's valuable do you want to
+
+534
+00:22:51,900 --> 00:22:55,919
+change your mind it gives them that
+
+535
+00:22:53,880 --> 00:22:58,140
+visibility they can potentially we can
+
+536
+00:22:55,919 --> 00:23:00,659
+potentially ship it to production and
+
+537
+00:22:58,140 --> 00:23:03,120
+they can use it in production there's
+
+538
+00:23:00,659 --> 00:23:05,880
+all sorts of things we have to do to
+
+539
+00:23:03,120 --> 00:23:08,820
+allow that to happen but
+
+540
+00:23:05,880 --> 00:23:11,159
+what you end up with is this
+
+541
+00:23:08,820 --> 00:23:13,080
+direct trajectory
+
+542
+00:23:11,159 --> 00:23:16,080
+from top left to bottom right right
+
+543
+00:23:13,080 --> 00:23:19,799
+every single time we create a usable
+
+544
+00:23:16,080 --> 00:23:21,179
+working product we we have uh we
+
+545
+00:23:19,799 --> 00:23:23,820
+alleviate their the customer's
+
+546
+00:23:21,179 --> 00:23:25,799
+operational risk right we also alleviate
+
+547
+00:23:23,820 --> 00:23:27,480
+their fiscal risk their money is no
+
+548
+00:23:25,799 --> 00:23:29,760
+longer at risk because they have a
+
+549
+00:23:27,480 --> 00:23:33,059
+working product and yeah you might have
+
+550
+00:23:29,760 --> 00:23:35,520
+Sprints where uh you know something bad
+
+551
+00:23:33,059 --> 00:23:38,400
+happens and we we have a little Plateau
+
+552
+00:23:35,520 --> 00:23:40,559
+right that's entirely possible but
+
+553
+00:23:38,400 --> 00:23:41,880
+mostly you're going to you're hopefully
+
+554
+00:23:40,559 --> 00:23:44,100
+going to be delivering at the end of
+
+555
+00:23:41,880 --> 00:23:46,380
+every every Sprint a usable working
+
+556
+00:23:44,100 --> 00:23:49,140
+product that shows progress
+
+557
+00:23:46,380 --> 00:23:51,000
+right and then we've got
+
+558
+00:23:49,140 --> 00:23:53,880
+two things we need to talk about for
+
+559
+00:23:51,000 --> 00:23:56,880
+realized value we need to talk about if
+
+560
+00:23:53,880 --> 00:23:58,860
+we are in a traditional organization so
+
+561
+00:23:56,880 --> 00:24:02,760
+a hierarchical departmental model
+
+562
+00:23:58,860 --> 00:24:06,059
+top-down organization and we're we're
+
+563
+00:24:02,760 --> 00:24:07,559
+using agile practices in our team what
+
+564
+00:24:06,059 --> 00:24:11,039
+does that look like for the realization
+
+565
+00:24:07,559 --> 00:24:13,740
+of value realized value is value I have
+
+566
+00:24:11,039 --> 00:24:15,120
+so if you're creating value for me I
+
+567
+00:24:13,740 --> 00:24:17,340
+don't have something that you've
+
+568
+00:24:15,120 --> 00:24:19,500
+documented I don't have something that
+
+569
+00:24:17,340 --> 00:24:22,860
+you've built but not tested I don't have
+
+570
+00:24:19,500 --> 00:24:24,780
+it yet it's not value yet it's potential
+
+571
+00:24:22,860 --> 00:24:27,840
+value right that's correct but it's not
+
+572
+00:24:24,780 --> 00:24:29,760
+value for me yet as the customer and so
+
+573
+00:24:27,840 --> 00:24:31,679
+right at the beginning we start at the
+
+574
+00:24:29,760 --> 00:24:33,260
+bottom we go to the top and then we have
+
+575
+00:24:31,679 --> 00:24:37,320
+every month we're going to deliver
+
+576
+00:24:33,260 --> 00:24:38,820
+usable working products so every one of
+
+577
+00:24:37,320 --> 00:24:41,760
+these notches
+
+578
+00:24:38,820 --> 00:24:44,059
+is a delivery of value it's a delivery
+
+579
+00:24:41,760 --> 00:24:44,059
+of
+
+580
+00:24:46,020 --> 00:24:51,720
+it's a delivery of something that we can
+
+581
+00:24:49,620 --> 00:24:54,299
+use that we can get in front of our our
+
+582
+00:24:51,720 --> 00:24:55,919
+customer that we can have them kick the
+
+583
+00:24:54,299 --> 00:24:58,980
+tires on that they can have them tell us
+
+584
+00:24:55,919 --> 00:25:01,200
+that we were wrong or we were right and
+
+585
+00:24:58,980 --> 00:25:03,840
+there you'll be able to use it
+
+586
+00:25:01,200 --> 00:25:05,580
+so that's one option is we're in that
+
+587
+00:25:03,840 --> 00:25:08,340
+traditional organization where we're
+
+588
+00:25:05,580 --> 00:25:10,919
+handied here's 300 yeah well let me do
+
+589
+00:25:08,340 --> 00:25:12,780
+that here's the 300 requirements that
+
+590
+00:25:10,919 --> 00:25:13,679
+you want us to build and we're going to
+
+591
+00:25:12,780 --> 00:25:15,900
+build it
+
+592
+00:25:13,679 --> 00:25:17,940
+but in both of these models maybe a
+
+593
+00:25:15,900 --> 00:25:20,640
+little bit less in the agile model we're
+
+594
+00:25:17,940 --> 00:25:22,559
+still under that constraint of
+
+595
+00:25:20,640 --> 00:25:24,720
+so here we asked for we were asked for
+
+596
+00:25:22,559 --> 00:25:27,299
+300 things and we delivered 300 things
+
+597
+00:25:24,720 --> 00:25:29,900
+in both models but remember we talked
+
+598
+00:25:27,299 --> 00:25:33,059
+about the 65
+
+599
+00:25:29,900 --> 00:25:35,760
+that's used little if ever that's
+
+600
+00:25:33,059 --> 00:25:37,740
+included in those 300 things so what
+
+601
+00:25:35,760 --> 00:25:40,919
+could we do differently well what would
+
+602
+00:25:37,740 --> 00:25:43,740
+be great is if at the end of the first
+
+603
+00:25:40,919 --> 00:25:45,779
+month the customer gets the product and
+
+604
+00:25:43,740 --> 00:25:48,360
+they tell us about all of the things
+
+605
+00:25:45,779 --> 00:25:50,100
+that have changed right they get to look
+
+606
+00:25:48,360 --> 00:25:52,620
+at the product and decide they want
+
+607
+00:25:50,100 --> 00:25:54,659
+something different they get to tell us
+
+608
+00:25:52,620 --> 00:25:58,740
+about the way their business has changed
+
+609
+00:25:54,659 --> 00:26:00,720
+in the last uh uh 30 days
+
+610
+00:25:58,740 --> 00:26:03,299
+and perhaps there are a bunch of
+
+611
+00:26:00,720 --> 00:26:05,820
+features up here that they don't need
+
+612
+00:26:03,299 --> 00:26:08,580
+anymore right they made a business
+
+613
+00:26:05,820 --> 00:26:11,039
+decision and the world has changed so
+
+614
+00:26:08,580 --> 00:26:13,559
+they don't need those so instead they
+
+615
+00:26:11,039 --> 00:26:14,580
+replace that with something else and we
+
+616
+00:26:13,559 --> 00:26:18,179
+build
+
+617
+00:26:14,580 --> 00:26:19,620
+something else of value okay that's
+
+618
+00:26:18,179 --> 00:26:21,659
+probably too steep
+
+619
+00:26:19,620 --> 00:26:23,120
+that's too steep
+
+620
+00:26:21,659 --> 00:26:26,039
+let's do
+
+621
+00:26:23,120 --> 00:26:27,779
+something else of value and at the end
+
+622
+00:26:26,039 --> 00:26:30,179
+of the next month we build something
+
+623
+00:26:27,779 --> 00:26:32,760
+else of value because they decide they
+
+624
+00:26:30,179 --> 00:26:35,340
+don't need this piece and then we build
+
+625
+00:26:32,760 --> 00:26:38,880
+something else of value and perhaps at
+
+626
+00:26:35,340 --> 00:26:41,520
+this point right where we're almost at
+
+627
+00:26:38,880 --> 00:26:44,220
+that same value level as we created over
+
+628
+00:26:41,520 --> 00:26:47,279
+here they decide
+
+629
+00:26:44,220 --> 00:26:50,880
+we're done we were able to deliver early
+
+630
+00:26:47,279 --> 00:26:54,240
+we were able to finish the product this
+
+631
+00:26:50,880 --> 00:26:57,000
+is only possible if we're able to change
+
+632
+00:26:54,240 --> 00:26:58,919
+the requirements if the requirements are
+
+633
+00:26:57,000 --> 00:27:00,480
+fluid and in fact you don't want the
+
+634
+00:26:58,919 --> 00:27:02,220
+full requirements up front but we want
+
+635
+00:27:00,480 --> 00:27:05,520
+those fluid requirements so we can make
+
+636
+00:27:02,220 --> 00:27:07,860
+changes constantly and then hopefully
+
+637
+00:27:05,520 --> 00:27:10,320
+well that's a bad line we get somewhere
+
+638
+00:27:07,860 --> 00:27:12,419
+somewhere up here where we have this
+
+639
+00:27:10,320 --> 00:27:15,480
+much higher value product if we continue
+
+640
+00:27:12,419 --> 00:27:17,760
+to build it it's much more in keeping
+
+641
+00:27:15,480 --> 00:27:21,539
+with what it is that the customer wants
+
+642
+00:27:17,760 --> 00:27:23,820
+and we've minimized that 65 percent
+
+643
+00:27:21,539 --> 00:27:25,919
+of features not used we're still going
+
+644
+00:27:23,820 --> 00:27:28,260
+to build stuff that's not used and we
+
+645
+00:27:25,919 --> 00:27:31,380
+end up in that space
+
+646
+00:27:28,260 --> 00:27:34,500
+all of these things are predisposed on
+
+647
+00:27:31,380 --> 00:27:37,679
+having a working usable product at the
+
+648
+00:27:34,500 --> 00:27:39,480
+end of every iteration including the
+
+649
+00:27:37,679 --> 00:27:42,900
+first
+
+650
+00:27:39,480 --> 00:27:45,659
+that is not out with the bounds of every
+
+651
+00:27:42,900 --> 00:27:48,059
+single organization on the planet it is
+
+652
+00:27:45,659 --> 00:27:51,360
+something that for example the windows
+
+653
+00:27:48,059 --> 00:27:53,340
+team do on a weekly basis they create a
+
+654
+00:27:51,360 --> 00:27:55,020
+working usable product on a weekly basis
+
+655
+00:27:53,340 --> 00:27:57,840
+with four and a half thousand software
+
+656
+00:27:55,020 --> 00:28:01,500
+Engineers working on a product that is
+
+657
+00:27:57,840 --> 00:28:05,220
+just enormous if they can do it we can
+
+658
+00:28:01,500 --> 00:28:07,740
+all do it the only excuses we have is
+
+659
+00:28:05,220 --> 00:28:10,320
+the existing state of our system the
+
+660
+00:28:07,740 --> 00:28:13,080
+existing expectation of quality and
+
+661
+00:28:10,320 --> 00:28:16,080
+capability in our teams and in our
+
+662
+00:28:13,080 --> 00:28:18,779
+organizations okay we need to work on
+
+663
+00:28:16,080 --> 00:28:21,539
+those and we can all get these
+
+664
+00:28:18,779 --> 00:28:23,700
+capabilities and we can all be a little
+
+665
+00:28:21,539 --> 00:28:25,799
+bit more agile
+
+666
+00:28:23,700 --> 00:28:28,380
+so thanks for
+
+667
+00:28:25,799 --> 00:28:31,500
+um listening to my little rant if you
+
+668
+00:28:28,380 --> 00:28:35,100
+are interested in having a further chat
+
+669
+00:28:31,500 --> 00:28:37,500
+with me please use that QR code in the
+
+670
+00:28:35,100 --> 00:28:40,200
+in the top right there to book a free 30
+
+671
+00:28:37,500 --> 00:28:42,900
+minutes with me uh if you want our free
+
+672
+00:28:40,200 --> 00:28:44,640
+consultation that's cool if you want to
+
+673
+00:28:42,900 --> 00:28:46,140
+just have a chat about some of the
+
+674
+00:28:44,640 --> 00:28:48,120
+things I've talked about and how it
+
+675
+00:28:46,140 --> 00:28:50,100
+might be applied in your organization
+
+676
+00:28:48,120 --> 00:28:51,840
+others are wait to book a coffee on
+
+677
+00:28:50,100 --> 00:28:53,820
+there as well just book a coffee
+
+678
+00:28:51,840 --> 00:28:56,940
+all right two books that I really
+
+679
+00:28:53,820 --> 00:28:58,919
+recommend that you read is one is the
+
+680
+00:28:56,940 --> 00:29:02,760
+new new product development game that's
+
+681
+00:28:58,919 --> 00:29:05,700
+a 19 that's the 1986 Harvard Business
+
+682
+00:29:02,760 --> 00:29:08,760
+review article and also Stephen Dennings
+
+683
+00:29:05,700 --> 00:29:10,080
+book at the age of agile those are both
+
+684
+00:29:08,760 --> 00:29:12,919
+great works
+
+685
+00:29:10,080 --> 00:29:12,919
+you for listening
+
+

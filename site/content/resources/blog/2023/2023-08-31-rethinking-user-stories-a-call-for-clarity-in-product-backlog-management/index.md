@@ -2,7 +2,7 @@
 title: "Rethinking 'User Stories': A Call for Clarity in Product Backlog Management"
 description: Discover why 'User Stories' may hinder product development and learn to embrace 'Product Backlog Items' for clearer, more effective communication.
 ResourceId: E2aOGiRDnuG
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49726
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-08-31
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49726"
 layout: blog
 resourceTypes: blog
 slug: rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
@@ -26,15 +25,21 @@ aliasesFor404:
 - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 - /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
+- /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags:
-- featured
-- homepage
-- product-backlog-item
-- product-backlog-management
-- user-stories
+- Transparency
+- Scrum Product Development
+- People and Process
+- Product Backlog
+- Agile Product Management
+- Transparency and Accountability
+- Product Owner
+- Software Development
+- Agile Project Management
+- Product Delivery
 categories:
-- agility
-- discovery-ideation
+- Product Management
+- Social Technologies
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

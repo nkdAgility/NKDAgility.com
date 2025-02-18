@@ -3,7 +3,7 @@ title: Overview of 'applying metrics for predictability' Kanban course.
 description: "Unlock your team's potential! Discover how to enhance predictability in delivery using Kanban metrics in this insightful course overview. \U0001F680\U0001F4CA #Kanban #Agile"
 date: 2024-02-20T07:00:27Z
 ResourceId: gjrvSJWE0Gk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: gjrvSJWE0Gk
@@ -19,23 +19,25 @@ aliases:
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/gjrvSJWE0Gk
 - /resources/gjrvSJWE0Gk
+aliasesFor404:
+- /resources/overview-of-applying-metrics-for-predictability-kanban-course
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban course
-- Kanban training
-- Kanban trainer
-- Kanban coach
-- Kanban consultant
-- Applying Kanban
-- Kanban metrics
-- Kanban flow
-- Predictability in Kanban
-- Kanban forecasting
+- Metrics and Learning
+- Practical Techniques and Tooling
+- Forecasting
+- Pragmatic Thinking
+- Operational Practices
+- Value Delivery
+- Estimation
+- Decision Making
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course

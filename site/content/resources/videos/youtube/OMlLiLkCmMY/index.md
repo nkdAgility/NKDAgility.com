@@ -1,66 +1,67 @@
 ---
-title: ' shorts 7 Virtues of Agile. Chastity'
-description: "Discover the first virtue of Agile: Chastity. Join Martin Hinshelwood in this insightful #shorts video and unlock your team's potential!"
+title: 'Engaging Your Team: The Secret to Successful Organisational Change'
+description: Unlock the secrets to successful organisational change! Discover how to engage your team, align goals, and foster a culture of participation.
 date: 2023-12-04T11:00:23Z
 ResourceId: OMlLiLkCmMY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OMlLiLkCmMY
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-chastity
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=OMlLiLkCmMY
 aliases:
 - /resources/videos/OMlLiLkCmMY
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity
 - /resources/OMlLiLkCmMY
+aliasesFor404:
+- /resources/videos/-shorts-7-virtues-of-agile-chastity
+- /resources/-shorts-7-virtues-of-agile-chastity
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Organisational Change
+- Change Management
+- People and Process
+- Organisational Psychology
+- Team Motivation
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Leadership
 
 ---
- #shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood. First virtue, #chastity. Visit https://www.nkdagility.com
+In my journey through organisational change, I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### The Importance of Involvement
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+When embarking on a transformation journey, it’s crucial to remember that people are at the heart of any organisation. Here are some insights I've gathered over the years:
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Shared Goals**: It’s easy to get caught up in the lofty ambitions of leadership, but the reality is that nobody truly cares about your goals unless they see how those goals align with their own. To foster a sense of ownership and commitment, we must make their goals our goals. This alignment creates a shared purpose that can drive engagement and motivation.
 
-We would love to work with you. 
+- **Crafting the Story**: Every change initiative needs a compelling narrative. This story should not only outline the vision but also highlight the role each individual plays in achieving that vision. When people see themselves as integral to the journey, they are more likely to invest their time and energy into making it a success.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=OMlLiLkCmMY)
+- **Empowerment Through Participation**: Involving team members in the change process empowers them. It gives them a voice and a stake in the outcome. This can be achieved through workshops, feedback sessions, and open discussions where everyone feels safe to express their thoughts and ideas.
+
+### Building a Culture of Engagement
+
+Creating a culture that embraces change requires ongoing effort. Here are some strategies that have worked for me:
+
+- **Regular Communication**: Keep the lines of communication open. Regular updates about the progress of the change initiative can help maintain momentum and keep everyone informed. Transparency builds trust, and trust is essential for a successful transformation.
+
+- **Celebrate Small Wins**: Acknowledge and celebrate the milestones along the way. Recognising achievements, no matter how small, can boost morale and reinforce the belief that the change is worthwhile.
+
+- **Feedback Loops**: Establish mechanisms for continuous feedback. This not only helps in refining the change process but also shows that you value the input of your team. When people feel heard, they are more likely to engage positively with the change.
+
+### Conclusion
+
+In conclusion, the success of any organisational change hinges on our ability to engage the people within it. By making their goals our goals, crafting a compelling narrative, and fostering a culture of participation and communication, we can create an environment where change is not just accepted but embraced. 
+
+Remember, it’s not just about what you want to achieve; it’s about how you can inspire others to join you on that journey. When we align our visions and work together, we can transform not just our organisations, but also the lives of those within them.

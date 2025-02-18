@@ -3,7 +3,7 @@ title: What makes a truly great scrum master?
 description: Discover the key traits of an exceptional Scrum Master in this insightful video by Martin Hinshelwood, highlighting the power of influence over authority.
 date: 2023-03-13T07:00:19Z
 ResourceId: rHFhR3o849k
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rHFhR3o849k
@@ -16,21 +16,28 @@ aliases:
 - /resources/videos/what-makes-a-truly-great-scrum-master-
 - /resources/what-makes-a-truly-great-scrum-master-
 - /resources/rHFhR3o849k
+aliasesFor404:
+- /resources/videos/what-makes-a-truly-great-scrum-master-
+- /resources/what-makes-a-truly-great-scrum-master-
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- Scrum
 - Scrum Master
-- Agile
-- Agile Product Development
-- Scrum Master traits and characteristics
+- People and Process
+- Agile Frameworks
+- Software Development
+- Agile Project Management
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
  There is a significant difference between a #projectmanager and a #scrummaster, and it's often hard for people to understand how a scrum master operates through influence, coaching, and mentoring rather than leveraging the authority and power of a traditional #projectmanager.

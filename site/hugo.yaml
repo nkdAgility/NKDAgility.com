@@ -22,7 +22,7 @@ params:
   editURL: "https://github.com/nkdAgility/nkdagility.com/edit/main/site/content/" # URL to edit content on GitHub
 
 pagination:
-  pagerSize: 20
+  pagerSize: 30
 
 # Enable sitemap and robots.txt
 sitemap:
@@ -44,7 +44,6 @@ module:
       excludeFiles:
         - "**/data.yaml"
         - "**/wordpress*"
-        - "**/data.*"
 
 outputFormats:
   json:
@@ -74,14 +73,17 @@ taxonomies:
   people-ability: people-abilities
   resourceTypes: resourceTypes
 
-cascade:
-  - _target:
-      path: /tags/**
-    _build:
-      render: never
+# cascade:
+#   - _target:
+#       path: /tags/**
+#     _build:
+#       render: never
 
 permalinks:
   taxonomy:
+    categories: "/resources/:slug/"
+    tags: "/resources/:slug/"
+    marketing: "/marketing/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences"
     course-topics: "/capabilities/training-courses/course-topics"
@@ -90,6 +92,9 @@ permalinks:
     customer-industry: "/company/customers/industry"
     people-abilities: "/company/people/abilities"
   term:
+    categories: "/resources/:slug/"
+    tags: "/resources/:slug/"
+    marketing: "/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences/:slug/"
     course-topics: "/capabilities/training-courses/:slug/"

@@ -3,7 +3,7 @@ title: Is a PSM II certification validation of your skills, or does it develop y
 description: Discover if the PSM II certification validates your skills or enhances your capabilities as a Scrum Master. Join Martin Hinshelwood for insights!
 date: 2023-04-17T07:00:17Z
 ResourceId: vI_qQ7-1z2E
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vI_qQ7-1z2E
@@ -21,18 +21,30 @@ aliases:
 - /resources/videos/vI_qQ7-1z2E
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 - /resources/vI_qQ7-1z2E
+aliasesFor404:
+- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
+- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Training
-- Professional Scrum Master Advanced
-- Advanced Professional Scrum Master
-- Professional Scrum Master II
-- PSM II
-- PSM
+- Professional Scrum
+- Scrum Master
+- Discovery and Learning
+- Agile Frameworks
+- Continuous Learning
+- People and Process
+- Agile Project Management
+- Coaching
+- Pragmatic Thinking
+- Accountability
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course

@@ -2,14 +2,13 @@
 title: Team Server Event Handlers made easy...
 description: Discover how to easily deploy event handlers for Team Foundation Server with our comprehensive guide. Simplify your coding process and enhance productivity!
 ResourceId: NjGpMY3aKfH
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 412
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
 creator: Martin Hinshelwood
-id: "412"
 layout: blog
 resourceTypes: blog
 slug: team-server-event-handlers-made-easy
@@ -25,21 +24,13 @@ aliasesFor404:
 - /blog/team-server-event-handlers-made-easy
 - /team-server-event-handlers-made-easy---
 - /blog/team-server-event-handlers-made-easy---
-
----
-- /blog/team-server-event-handlers-made-easy---
-- /resources/NjGpMY3aKfH
-
----
-- /blog/team-server-event-handlers-made-easy---
-tags:
-- code
-- tfs
-- tfs2005
-- tfs-event-handler
-- wit
+- /resources/blog/team-server-event-handlers-made-easy
 categories:
-- code-and-complexity
+- Engineering Excellence
+tags:
+- Practical Techniques and Tooling
+- Technical Mastery
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

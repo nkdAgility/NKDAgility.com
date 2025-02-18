@@ -3,7 +3,7 @@ title: Czym różni się zwinne przywództwo od tradycyjnego zarządzania
 description: Discover the key differences between agile leadership and traditional management in this insightful video by Naked Agility. Transform your team's potential!
 date: 2023-08-09T14:59:44Z
 ResourceId: Fo49oedF34g
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Fo49oedF34g
@@ -17,27 +17,31 @@ aliases:
 - /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 - /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 - /resources/Fo49oedF34g
+aliasesFor404:
+- /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
+- /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- Agile
-- Agile Leadership
-- Agile Leader
-- Professional Agile Leader
-- Professional Agile Leader Essentials
-- Professional Agile Leader Evidence Based Management
-- evidence based management
-- evidence based leadership
-- agile project management
-- agile product development
-- agile product management
-- agile project manager
+- Coaching
+- People and Process
+- Organisational Agility
+- Agile Frameworks
+- Software Development
+- Team Collaboration
+- Agile Project Management
+- Product Delivery
+- Agile Transformation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?

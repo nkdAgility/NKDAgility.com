@@ -2,14 +2,13 @@
 title: Microsoft Answer for the end-user
 description: Discover the new Microsoft Answers forum for Windows Vista users, offering straightforward support and real solutions without the technical jargon. Join now!
 ResourceId: KIMZ-rpIxds
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 151
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-15
 creator: Martin Hinshelwood
-id: "151"
 layout: blog
 resourceTypes: blog
 slug: microsoft-answer-for-the-end-user
@@ -21,9 +20,12 @@ aliases:
 aliasesFor404:
 - /microsoft-answer-for-the-end-user
 - /blog/microsoft-answer-for-the-end-user
-categories:
-- me
+- /resources/blog/microsoft-answer-for-the-end-user
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Windows
+- Miscellaneous
 
 ---
 Up until now the only avenue for your average Vista user for support was to trawl the MSDN Forums, Technet Forums and the Support site for some elusive piece of information that is buried among all that technical BS that we teckies like to call help.

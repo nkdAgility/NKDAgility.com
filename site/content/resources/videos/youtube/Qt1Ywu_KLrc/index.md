@@ -1,52 +1,92 @@
 ---
-title: Basic Work Item Migration with the Azure DevOps Migration Tools
-description: Discover how to effortlessly migrate and bulk edit work items in Azure DevOps with our comprehensive guide on the Migration Tools.
+title: 'Mastering Azure DevOps Migration: A Step-by-Step Guide for Seamless Project Transfers'
+description: Master Azure DevOps migration with our step-by-step guide! Learn essential tools, setup tips, and common pitfalls to ensure a smooth transition.
 date: 2023-11-16T12:47:09Z
 ResourceId: Qt1Ywu_KLrc
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Qt1Ywu_KLrc
 url: /resources/videos/:slug
 slug: basic-work-item-migration-with-the-azure-devops-migration-tools
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=Qt1Ywu_KLrc
 aliases:
 - /resources/videos/Qt1Ywu_KLrc
 - /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
 - /resources/basic-work-item-migration-with-the-azure-devops-migration-tools
 - /resources/Qt1Ywu_KLrc
+aliasesFor404:
+- /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
+- /resources/basic-work-item-migration-with-the-azure-devops-migration-tools
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false
 tags:
-- AzureDevOps
-- Azure DevOps Migration Tools
+- Azure DevOps
+- Practical Techniques and Tooling
+- Install and Configuration
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- DevOps
 
 ---
- The Azure DevOps Migration Tools allow you to bulk edit and migrate data between Team Projects on both Microsoft Team Foundation Server (TFS) and Azure DevOps Services. Take a look at the documentation to find out how. This project is published as code on GitHub as well as a Winget package a nkdAgility.AzureDevOpsMigrationTools.
+When it comes to migrating projects within Azure DevOps, I often find that the process can seem daunting, especially for those who are new to the platform. However, I’m here to share my personal experience and guide you through a straightforward migration using the Azure DevOps migration tools. I’ll also address some common exceptions and issues that may arise along the way. So, let’s dive in!
 
-Ask Questions on Github: https://github.com/nkdAgility/azure-devops-migration-tools/discussions
+### Getting Started with Azure DevOps Migration Tools
 
-*What can you do with this tool?*
-- Migrate Work Items, TestPlans & Suits, Teams, Shared Queries, Pipelines, & Processes from one Team Project to another
-- Migrate Work Items, TestPlans & Suits, Teams, Shared Queries, Pipelines, & Processes from one Organization to another
-- Bulk edit of Work Items across an entire Project.
+The first step in any migration is to ensure you have the right tools installed. You can find the Azure DevOps migration tools on GitHub. Here’s how to get started:
 
-*NKDAgility can help!*
+- **Visit the GitHub Repository**: Navigate to the Azure DevOps tools repository and locate the latest release on the right-hand side.
+- **Installation Options**: If you’re in an environment without internet access, you can download the release file, unzip it, and run the migration from that folder. However, for most users, I recommend using package managers like **Winget** or **Chocolatey** for installation.
 
-These are the types of challenges that lean-agile practitioners thrive on and many find daunting. If you struggle to manage your Sprints effectively, my team at NKDAgility is here to assist you or connect you with a consultant, coach, or trainer who can.
+For Windows Server users, Chocolatey is your go-to option, while Winget is perfect for those on Windows 10 or 11. 
 
-Don't let issues derail your value delivery. Seek out help sooner rather than later!
+### Setting Up the Migration
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
-_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
+Once you have the tools installed, it’s time to set up your migration. Here’s a step-by-step guide:
 
-Because you don't just need agility, you need Naked Agility. 
- [Watch on Youtube](https://www.youtube.com/watch?v=Qt1Ywu_KLrc)
+1. **Open a Command Prompt**: Make sure to use a non-admin command prompt to avoid any issues with the path.
+2. **Search for Azure DevOps Tools**: Use the command `winget search Azure DevOps` to find the tools and install them using `winget install <tool-id>`.
+3. **Initial Configuration**: Run the command `devops migration init` to create a configuration file. This file will be essential for your migration.
+
+### Configuring the Migration File
+
+After generating the configuration file, you’ll need to make a few adjustments:
+
+- **Field Maps**: If you have an older configuration file, remove all field maps as they can complicate the migration process.
+- **Node Paths**: Delete any unnecessary node paths and replace them with `null` to simplify your configuration.
+
+Next, you’ll need to specify your source and target projects. Ensure you have both the URL of the collection and the project URL handy. 
+
+### Connecting to Source and Target Projects
+
+When connecting to your source project, you can use the prompt option for ease. For the target project, create a new project (let’s call it `migration target three`) and ensure it uses the same process as the source.
+
+### Adding Required Fields
+
+For the migration to work seamlessly, you’ll need to add a field called **reflected work item ID** to your target project. This field is crucial for tracking the relationship between work items in the source and target environments.
+
+### Running the Migration
+
+With everything set up, it’s time to execute the migration:
+
+- Use the command `devops migration execute -C <config-file-path>` to start the migration process.
+- If you encounter an error stating that the processor is disabled, simply change `processor enabled` to `true` in your configuration file.
+
+### Handling Common Issues
+
+During the migration, you may run into a few common issues:
+
+- **Missing Iteration Paths**: If the migration tool identifies missing iteration paths, you’ll need to create a mapping in your configuration file to address this.
+- **Work Item Links**: The tool will only fix links from work items to Git repos, not the other way around. Ensure your Git repo names match between source and target to avoid issues.
+
+### Final Thoughts
+
+Migrating work items between Azure DevOps projects doesn’t have to be a complex task. By following these steps and being mindful of common pitfalls, you can ensure a smooth transition. If you find yourself needing additional help, my team at Naked Agility is here to assist you, or we can help you find a consultant who can.
+
+Remember, the key to a successful migration is preparation and attention to detail. Don’t hesitate to reach out for support, and happy migrating!

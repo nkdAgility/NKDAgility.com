@@ -2,7 +2,7 @@
 title: Become the leader that you were meant to to be
 description: Unlock your leadership potential! Discover how to inspire and lead effectively in modern organizations. Become the leader you were meant to be!
 ResourceId: -Oo9b3G-8Zw
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 45806
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-02-04
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45806"
 layout: blog
 resourceTypes: blog
 slug: become-the-leader-that-you-were-meant-to-to-be
@@ -22,11 +21,21 @@ aliases:
 aliasesFor404:
 - /become-the-leader-that-you-were-meant-to-to-be
 - /blog/become-the-leader-that-you-were-meant-to-to-be
+- /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
-- featured
-- leadership-track
+- Scrum Master
+- People and Process
+- Agile Leadership
+- Agile Project Management
+- Scrum Team
+- Professional Scrum
+- Technical Leadership
+- Products and Books
+- Team Motivation
 categories:
-- news-and-reviews
+- Leadership
+- Social Technologies
+- Scrum
 preview: image-2-2.png
 
 ---

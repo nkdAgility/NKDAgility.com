@@ -2,14 +2,13 @@
 title: The Insufficiency of Scrum is a fallacy
 description: Explore the myth of Scrum's insufficiency and learn how effective engineering practices can enhance Agile success. Elevate your team's performance today!
 ResourceId: n9OhtpbJs0-
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9338
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-23
 creator: Martin Hinshelwood
-id: "9338"
 layout: blog
 resourceTypes: blog
 slug: the-insufficiency-of-scrum-is-a-fallacy
@@ -21,21 +20,22 @@ aliases:
 aliasesFor404:
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
+- /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
-- agile
-- develop
-- improve
-- kanban
-- people
-- practices
-- process
-- scaled-agile
-- scrum
-- strategic
-- tactical
+- Professional Scrum
+- Technical Debt
+- Scrum Master
+- Working Software
+- Agile Project Management
+- Agile Product Management
+- People and Process
+- Software Development
+- Engineering Practices
+- Scrum Team
 categories:
-- people-and-process
-- tools-and-techniques
+- Scrum
+- Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

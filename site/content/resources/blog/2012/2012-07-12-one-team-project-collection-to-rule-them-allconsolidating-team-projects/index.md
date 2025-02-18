@@ -2,14 +2,13 @@
 title: One Team Project Collection to rule them all - Consolidating Team Projects
 description: Discover strategies for consolidating Team Projects in TFS 2012. Learn how to streamline your workflow and enhance collaboration with expert insights.
 ResourceId: xzuqsTxb7UD
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 6109
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-12
 creator: Martin Hinshelwood
-id: "6109"
 layout: blog
 resourceTypes: blog
 slug: one-team-project-collection-to-rule-them-allconsolidating-team-projects
@@ -26,17 +25,14 @@ aliasesFor404:
 - /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 - /one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
+- /one-team-project-collection-to-rule-them-all
+- /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 tags:
-- configuration
-- infrastructure
-- one-team-project-seriese
-- tfs
-- tfs2012
-- tfs-integration-platform
-- tools
+- Troubleshooting
 categories:
-- code-and-complexity
-- tools-and-techniques
+- Scrum
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

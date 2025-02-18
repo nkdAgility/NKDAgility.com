@@ -2,14 +2,13 @@
 title: Modelling Teams in Team Foundation Server 2013
 description: Master Team Foundation Server 2013 with expert insights on modeling teams, managing projects, and optimizing source control for enhanced collaboration.
 ResourceId: Km0aNB0A6C1
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9777
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-16
 creator: Martin Hinshelwood
-id: "9777"
 layout: blog
 resourceTypes: blog
 slug: modelling-teams-in-team-foundation-server-2013
@@ -21,21 +20,20 @@ aliases:
 aliasesFor404:
 - /modelling-teams-in-team-foundation-server-2013
 - /blog/modelling-teams-in-team-foundation-server-2013
+- /resources/blog/modelling-teams-in-team-foundation-server-2013
 tags:
-- area-path
-- branching
-- configuration
-- permissions
-- process
-- source-control
-- teams
-- tfs
-- tfs-2013
-- tools
-- version-control
+- Software Development
+- Application Lifecycle Management
+- Modern Source Control
+- Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Operational Practices
+- System Configuration
+- Software Developers
 categories:
-- install-and-configuration
-- tools-and-techniques
+- DevOps
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

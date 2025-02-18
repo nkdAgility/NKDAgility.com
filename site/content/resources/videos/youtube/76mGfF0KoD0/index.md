@@ -1,57 +1,86 @@
 ---
-title: Would you recommend a team APS workshop or an agile consultant?
-description: Discover whether an APS workshop or agile consultant is best for your team. Join Martin Hinshelwood as he shares insights on mastering Scrum for effective product development.
+title: Is Your Scrum Master Struggling? Discover When to Choose an Agile Process Simulation Workshop
+description: Is your Scrum Master struggling with team dynamics? Discover how an Agile Process Simulation workshop can empower your team and enhance collaboration.
 date: 2023-04-05T07:00:03Z
 ResourceId: 76mGfF0KoD0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 76mGfF0KoD0
 url: /resources/videos/:slug
 slug: would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
-canonicalUrl: https://www.youtube.com/watch?v=76mGfF0KoD0
 aliases:
 - /resources/videos/76mGfF0KoD0
 - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/76mGfF0KoD0
+aliasesFor404:
+- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
+- /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
-- Scrum
-- Applying Professional Scrum
-- APS
-- Scrum coach
-- Agile Coach
-- Agile Consultant
-- Agile Consulting
+- Agile Project Management
+- Coaching
+- Scrum Master
+- People and Process
+- Scrum Team
+- Agile Frameworks
+- Team Collaboration
+- Agile Product Management
+- Agile Transformation
+- Software Development
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
- If a #scrummaster is battling to organize the team effectively and align them with customer and organizational objectives throughout the #productdevelopment process, what should you do?
+When it comes to the role of a Scrum Master, I often find myself reflecting on the dynamics within a team. Recently, I was asked whether I would recommend an Agile Process Simulation (APS) workshop or an agile consultant if a Scrum Master was struggling with their team. My immediate thought was, “Perhaps we need to consider a new Scrum Master.” After all, if a Scrum Master is battling with their team, it raises some serious questions about their effectiveness and understanding of their role.
 
-What do you do if the team simply don't get #scrum or don't understand why they need to shift from traditional #projectmanagement to #agile in order to be more effective as a #productdevelopment team?
+### The Role of the Scrum Master
 
-In this short video, Martin Hinshelwood talks about the value of the APS (Applying Professional Scrum) workshop, combined with #agileconsulting to really help the team get traction and master the key elements of #scrum.
+The Scrum Master is there to facilitate and support the team, not to engage in conflict. If the entire team is at odds with the Scrum Master, it’s a clear indication that something is amiss. Here are a few points to consider:
 
-About NKD Agility
+- **Collaboration is Key**: The Scrum Master should be a part of the team, working collaboratively to enhance effectiveness.
+- **Understanding the Conflict**: It’s essential to understand what the Scrum Master is battling the team over. Is it a misunderstanding of Scrum principles, or is it a deeper issue within the team dynamics?
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### When to Consider an APS Workshop
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+If the Scrum Master is facing resistance from the team regarding practices that could benefit them, it’s crucial to remember that Scrum is meant to be a democratised process. Here’s how I would approach the situation:
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+- **Empower the Team**: The team should have the autonomy to decide whether to adopt Scrum practices. If they feel forced into it, resistance is inevitable.
+- **Facilitate Understanding**: An APS workshop can be a great way to help the team understand the value of Scrum. It’s not just about teaching them the framework; it’s about engaging them in a way that resonates with their specific context.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+### A Hybrid Approach
 
-We would love to work with you. 
+In my experience as an agile consultant, I often adopt a coaching role. Here’s how I would structure a hybrid APS workshop:
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=76mGfF0KoD0)
+1. **Observation and Coaching**: I would start by observing the team dynamics and then focus on coaching the Scrum Master. If they’re struggling, it’s essential to address that first.
+   
+2. **Engaging the Team**: During the workshop, I would encourage the team to express their concerns about Scrum. This dialogue is vital for understanding their perspective.
+
+3. **Tailored Learning**: Whether it’s a public APS class or a private session, I ensure that we address the specific issues the team faces. This is where the real value lies.
+
+### Key Questions to Explore
+
+At the end of the APS workshop, I facilitate a session where we dive into critical questions:
+
+- **Should We Use Scrum?**: What are the reasons for and against using Scrum in their context?
+- **Current Effectiveness**: Is their current way of working delivering value to the customer? If not, what changes are necessary?
+- **Exploring Tools**: After discussing various tools and practices, will they try any of these, or do they prefer to explore other options?
+
+These questions are not for me to answer but for the team to reflect upon. It’s about fostering a culture of self-discovery and empowerment.
+
+### Conclusion
+
+In conclusion, if a Scrum Master is battling with their team, it’s a signal that we need to reassess the situation. An APS workshop can be a valuable tool, but it should be approached as a collaborative effort rather than a top-down imposition. By engaging the team in meaningful conversations and encouraging them to explore their own processes, we can help them make informed decisions that lead to better outcomes.
+
+If you found this discussion insightful, I encourage you to like, follow, and subscribe. I’m always open to conversations about agile, Scrum, or DevOps, so feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can enhance your agile journey together!

@@ -2,14 +2,13 @@
 title: Upgrading to TFS 2015 in production - DONE
 description: Discover the first production upgrade to TFS 2015! Learn essential steps, tips, and best practices to ensure a smooth transition for your team.
 ResourceId: lJiwJaztYBO
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11308
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-04-29
 creator: Martin Hinshelwood
-id: "11308"
 layout: blog
 resourceTypes: blog
 slug: upgrading-to-tfs-2015-in-production-done
@@ -26,13 +25,13 @@ aliasesFor404:
 - /blog/upgrading-to-tfs-2015-in-production-done
 - /upgrading-to-tfs-2015-in-production---done
 - /blog/upgrading-to-tfs-2015-in-production---done
+- /upgrading-to-tfs-2015-in-production
+- /resources/blog/upgrading-to-tfs-2015-in-production-done
 tags:
-- tfs
-- tfs-2013-4
-- tfs-2015
-- upgrade
+- Install and Configuration
 categories:
-- install-and-configuration
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 
 ---

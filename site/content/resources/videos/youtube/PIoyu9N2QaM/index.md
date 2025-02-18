@@ -3,7 +3,7 @@ title: What is the difference between a newbie scrum master and a professional S
 description: "Discover the key differences between newbie and seasoned Scrum Masters with Agile Coach Martin. Elevate your Scrum skills and insights today! \U0001F31F\U0001F680"
 date: 2023-04-06T07:00:08Z
 ResourceId: PIoyu9N2QaM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: PIoyu9N2QaM
@@ -22,18 +22,29 @@ aliases:
 - /resources/videos/PIoyu9N2QaM
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 - /resources/PIoyu9N2QaM
+aliasesFor404:
+- /resources/transform-your-software-team-with-expert-product-development-mentoring
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- scrum
-- scrum master
-- scrummaster
-- experienced scrummaster
-- skilled scrummaster
-- agile coach
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Agile Frameworks
+- People and Process
+- Agile Project Management
+- Software Development
+- Accountability
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 ## Unpacking the Differences

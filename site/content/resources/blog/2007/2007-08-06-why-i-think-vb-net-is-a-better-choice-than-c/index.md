@@ -2,14 +2,13 @@
 title: Why I think VB.NET is a better choice than C#
 description: Discover why VB.NET may be a superior choice over C# for readability, accessibility, and efficiency, especially for developers with dyslexia.
 ResourceId: 1Vt6-eiRtjI
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 340
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-06
 creator: Martin Hinshelwood
-id: "340"
 layout: blog
 resourceTypes: blog
 slug: why-i-think-vb-net-is-a-better-choice-than-c
@@ -25,13 +24,10 @@ aliasesFor404:
 - /blog/why-i-think-vb-net-is-a-better-choice-than-c
 - /why-i-think-vb-net-is-a-better-choice-than-c-
 - /blog/why-i-think-vb-net-is-a-better-choice-than-c-
+- /resources/blog/why-i-think-vb-net-is-a-better-choice-than-c
 tags:
-- dyslexia
-- tools
-- visual-basic
-- visual-basic-9
-categories:
-- me
+- Personal
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -3,7 +3,7 @@ title: 'The Importance of Competence in Organizations: Building a Culture of Lea
 description: "Discover why investing in team competence is vital for innovation. Happy, skilled people create great products. Let's foster growth and excellence! \U0001F331\U0001F680"
 date: 2024-10-15T06:45:00Z
 ResourceId: I9avUDYFw-E
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: I9avUDYFw-E
@@ -20,12 +20,23 @@ aliases:
 - /resources/videos/I9avUDYFw-E
 - /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 - /resources/I9avUDYFw-E
+aliasesFor404:
+- /resources/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+- /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
+- /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- People and Process
+- Discovery and Learning
+- Continuous Learning
+- Organisational Culture
+- Organisational Psychology
 resourceTypes:
 - video
+categories:
+- Leadership
 
 ---
 Competence is more than just a buzzword in today's fast-paced world—it's a foundational element for success in any organization. If we want to create valuable products and services, investing in our team's competence is non-negotiable. It’s not just about bringing in the right people but supporting those we have in their journey of continuous learning, experimentation, and growth. Let’s dive into why competence matters and how we can foster an environment where it thrives.

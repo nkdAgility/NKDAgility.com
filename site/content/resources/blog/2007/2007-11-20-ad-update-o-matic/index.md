@@ -2,14 +2,13 @@
 title: AD Update-O-Matic
 description: Discover how to automate Active Directory updates with a custom VB 9.0 application, enhancing organization for MOSS 2007 users. Dive into the details!
 ResourceId: PxQXixHg3e3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 290
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-20
 creator: Martin Hinshelwood
-id: "290"
 layout: blog
 resourceTypes: blog
 slug: ad-update-o-matic
@@ -21,14 +20,15 @@ aliases:
 aliasesFor404:
 - /ad-update-o-matic
 - /blog/ad-update-o-matic
+- /resources/blog/ad-update-o-matic
 tags:
-- code
-- infrastructure
-- moss2007
-- sharepoint
-- tools
-categories:
-- code-and-complexity
+- Windows
+- Software Development
+- Technical Mastery
+- Working Software
+- System Configuration
+- Operational Practices
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

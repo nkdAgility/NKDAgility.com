@@ -2,14 +2,13 @@
 title: The Delivery
 description: Join Martin Hinshelwood as he shares the unforgettable story of his daughter's birth, a moment that changed his life forever. Celebrate this special milestone!
 ResourceId: Cy6oTqwpH2P
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 374
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-25
 creator: Martin Hinshelwood
-id: "374"
 layout: blog
 resourceTypes: blog
 slug: the-delivery
@@ -21,9 +20,12 @@ aliases:
 aliasesFor404:
 - /the-delivery
 - /blog/the-delivery
-categories:
-- me
+- /resources/blog/the-delivery
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Personal
+- Miscellaneous
 
 ---
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...

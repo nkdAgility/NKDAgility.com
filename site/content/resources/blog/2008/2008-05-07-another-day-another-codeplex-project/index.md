@@ -2,14 +2,13 @@
 title: Another day another Codeplex Project
 description: Explore innovative SharePoint Designer custom workflows with Martin Hinshelwood. Discover solutions to enhance your projects and streamline your processes!
 ResourceId: Jk2Pp119tUF
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 232
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-07
 creator: Martin Hinshelwood
-id: "232"
 layout: blog
 resourceTypes: blog
 slug: another-day-another-codeplex-project
@@ -21,12 +20,14 @@ aliases:
 aliasesFor404:
 - /another-day-another-codeplex-project
 - /blog/another-day-another-codeplex-project
+- /resources/blog/another-day-another-codeplex-project
 tags:
-- moss2007
-- sharepoint
-- sp2007
-categories:
-- me
+- Practical Techniques and Tooling
+- Software Development
+- Technical Mastery
+- Working Software
+- Troubleshooting
+categories: []
 preview: metro-sharepoint-128-link-2-2.png
 
 ---

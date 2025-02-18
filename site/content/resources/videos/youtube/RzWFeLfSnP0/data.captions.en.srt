@@ -1,0 +1,3909 @@
+1
+00:00:06,160 --> 00:00:08,960
+and but i mean fundamentally the
+
+2
+00:00:07,520 --> 00:00:09,920
+definition of done is the work we're
+
+3
+00:00:08,960 --> 00:00:11,519
+going to do
+
+4
+00:00:09,920 --> 00:00:13,440
+so and that's very different than what
+
+5
+00:00:11,519 --> 00:00:14,240
+the the people that asked us for
+
+6
+00:00:13,440 --> 00:00:16,320
+something
+
+7
+00:00:14,240 --> 00:00:17,520
+they need the content of what they've
+
+8
+00:00:16,320 --> 00:00:18,960
+asked for
+
+9
+00:00:17,520 --> 00:00:20,480
+that's important but how are we going to
+
+10
+00:00:18,960 --> 00:00:22,080
+create it and so thinking about that is
+
+11
+00:00:20,480 --> 00:00:25,599
+our definition of done
+
+12
+00:00:22,080 --> 00:00:26,240
+what is the least amount of work we
+
+13
+00:00:25,599 --> 00:00:28,880
+could do
+
+14
+00:00:26,240 --> 00:00:30,800
+in order to to validate the hypothesis
+
+15
+00:00:28,880 --> 00:00:33,360
+but also produce
+
+16
+00:00:30,800 --> 00:00:35,280
+the quality of the work that's necessary
+
+17
+00:00:33,360 --> 00:00:37,840
+to be usable
+
+18
+00:00:35,280 --> 00:00:40,239
+in a sustainable way for that end user
+
+19
+00:00:37,840 --> 00:00:40,239
+customer
+
+20
+00:00:42,239 --> 00:00:45,920
+my name is mark naumann and i work at
+
+21
+00:00:44,239 --> 00:00:48,640
+smn consulting
+
+22
+00:00:45,920 --> 00:00:50,559
+and um my background is electrical
+
+23
+00:00:48,640 --> 00:00:52,640
+engineering and software development and
+
+24
+00:00:50,559 --> 00:00:54,640
+i've been working with folks to adopt
+
+25
+00:00:52,640 --> 00:00:55,760
+scrum and agile practices and get better
+
+26
+00:00:54,640 --> 00:00:59,440
+at it for
+
+27
+00:00:55,760 --> 00:01:01,600
+gosh about almost 20 years and
+
+28
+00:00:59,440 --> 00:01:03,440
+focused in as a professional scrum
+
+29
+00:01:01,600 --> 00:01:06,479
+trainer here for the past
+
+30
+00:01:03,440 --> 00:01:07,920
+uh about eight years or so and had a lot
+
+31
+00:01:06,479 --> 00:01:09,920
+of experience with
+
+32
+00:01:07,920 --> 00:01:12,080
+data development particularly data
+
+33
+00:01:09,920 --> 00:01:15,040
+warehouse business intelligence
+
+34
+00:01:12,080 --> 00:01:16,799
+report writing things like that both
+
+35
+00:01:15,040 --> 00:01:18,080
+from the perspective of working on teams
+
+36
+00:01:16,799 --> 00:01:20,240
+doing that work
+
+37
+00:01:18,080 --> 00:01:22,400
+as well as working with teams as an
+
+38
+00:01:20,240 --> 00:01:23,920
+agile coach and consultant helping them
+
+39
+00:01:22,400 --> 00:01:25,200
+figure out how to get better agile
+
+40
+00:01:23,920 --> 00:01:28,799
+business results
+
+41
+00:01:25,200 --> 00:01:28,799
+in that particular problem space
+
+42
+00:01:35,680 --> 00:01:38,720
+well and for people that are familiar
+
+43
+00:01:37,680 --> 00:01:40,720
+with software it's
+
+44
+00:01:38,720 --> 00:01:42,560
+it's for the same reason that we want
+
+45
+00:01:40,720 --> 00:01:44,479
+the the
+
+46
+00:01:42,560 --> 00:01:46,960
+i'll call it the technical quality of
+
+47
+00:01:44,479 --> 00:01:49,680
+the work that the team is doing
+
+48
+00:01:46,960 --> 00:01:51,520
+is developing is appropriate and ready
+
+49
+00:01:49,680 --> 00:01:52,880
+for the customer to actually use it and
+
+50
+00:01:51,520 --> 00:01:54,799
+get benefit out of it whatever the
+
+51
+00:01:52,880 --> 00:01:58,719
+benefit is
+
+52
+00:01:54,799 --> 00:02:00,880
+so in the case of data
+
+53
+00:01:58,719 --> 00:02:03,119
+we have to go through a certain number
+
+54
+00:02:00,880 --> 00:02:04,240
+of technical steps some tasks that we
+
+55
+00:02:03,119 --> 00:02:05,600
+have to perform
+
+56
+00:02:04,240 --> 00:02:07,280
+in order to get to that level of
+
+57
+00:02:05,600 --> 00:02:09,440
+technical quality we're going to be
+
+58
+00:02:07,280 --> 00:02:10,959
+extracting some data we're going to be
+
+59
+00:02:09,440 --> 00:02:12,640
+transforming it we're going to be
+
+60
+00:02:10,959 --> 00:02:14,400
+loading it in we're going to be creating
+
+61
+00:02:12,640 --> 00:02:16,000
+reports on that data
+
+62
+00:02:14,400 --> 00:02:18,239
+the reporting data is going to be
+
+63
+00:02:16,000 --> 00:02:20,319
+formatted in a certain way
+
+64
+00:02:18,239 --> 00:02:22,640
+when the data changes we have to ensure
+
+65
+00:02:20,319 --> 00:02:24,800
+that those changes are actually
+
+66
+00:02:22,640 --> 00:02:27,040
+visible in the report so that the report
+
+67
+00:02:24,800 --> 00:02:28,239
+can show updates on a regular basis or
+
+68
+00:02:27,040 --> 00:02:32,480
+trends if it's
+
+69
+00:02:28,239 --> 00:02:34,480
+visualizing the data as many reports do
+
+70
+00:02:32,480 --> 00:02:36,640
+and what data we're looking at is a
+
+71
+00:02:34,480 --> 00:02:40,319
+different question
+
+72
+00:02:36,640 --> 00:02:41,360
+what what metrics the user wants to get
+
+73
+00:02:40,319 --> 00:02:44,480
+out of the data
+
+74
+00:02:41,360 --> 00:02:46,239
+is a different question the way that
+
+75
+00:02:44,480 --> 00:02:47,519
+they're seeing that data is a different
+
+76
+00:02:46,239 --> 00:02:49,599
+question those are all what
+
+77
+00:02:47,519 --> 00:02:50,959
+questions and in scrum those what
+
+78
+00:02:49,599 --> 00:02:53,280
+questions are answered
+
+79
+00:02:50,959 --> 00:02:54,080
+on the product backlog but whatever it
+
+80
+00:02:53,280 --> 00:02:57,360
+is that the
+
+81
+00:02:54,080 --> 00:02:59,360
+that the end user of our report usually
+
+82
+00:02:57,360 --> 00:03:01,120
+in the type of data we're talking about
+
+83
+00:02:59,360 --> 00:03:03,040
+it culminates in some form of a report
+
+84
+00:03:01,120 --> 00:03:05,599
+it could be an online dashboard
+
+85
+00:03:03,040 --> 00:03:07,599
+it could be a a pdf file that's
+
+86
+00:03:05,599 --> 00:03:10,239
+generated periodically
+
+87
+00:03:07,599 --> 00:03:11,519
+it could just be data ready for
+
+88
+00:03:10,239 --> 00:03:14,640
+consumption through
+
+89
+00:03:11,519 --> 00:03:17,760
+an api but whatever that
+
+90
+00:03:14,640 --> 00:03:19,360
+end result is that we're going to define
+
+91
+00:03:17,760 --> 00:03:21,599
+that by the product backlog
+
+92
+00:03:19,360 --> 00:03:23,120
+and we want it to be consumable at a
+
+93
+00:03:21,599 --> 00:03:24,799
+level of quality
+
+94
+00:03:23,120 --> 00:03:26,480
+that meets the needs and expectations of
+
+95
+00:03:24,799 --> 00:03:29,680
+the end user so
+
+96
+00:03:26,480 --> 00:03:32,239
+we have to make sure that we've
+
+97
+00:03:29,680 --> 00:03:33,280
+tested it properly we have to make sure
+
+98
+00:03:32,239 --> 00:03:35,040
+that we've done
+
+99
+00:03:33,280 --> 00:03:36,239
+whatever cleanup is necessary to the
+
+100
+00:03:35,040 --> 00:03:37,440
+standards that we've established for
+
+101
+00:03:36,239 --> 00:03:39,840
+ourselves
+
+102
+00:03:37,440 --> 00:03:41,360
+that infers that we have standards so
+
+103
+00:03:39,840 --> 00:03:43,440
+maybe the standards are set by the
+
+104
+00:03:41,360 --> 00:03:44,879
+organization
+
+105
+00:03:43,440 --> 00:03:46,879
+that's pretty common in fact if you look
+
+106
+00:03:44,879 --> 00:03:48,720
+at the scrum guide when it talks about
+
+107
+00:03:46,879 --> 00:03:50,159
+the definition of done
+
+108
+00:03:48,720 --> 00:03:52,640
+it says that if the development
+
+109
+00:03:50,159 --> 00:03:54,480
+organization has a definition of done
+
+110
+00:03:52,640 --> 00:03:56,640
+then that's the definition we need to
+
+111
+00:03:54,480 --> 00:03:57,840
+live up to but if there isn't
+
+112
+00:03:56,640 --> 00:04:00,080
+a definition of done from the
+
+113
+00:03:57,840 --> 00:04:02,560
+organization then the scrum
+
+114
+00:04:00,080 --> 00:04:03,519
+team needs to ensure they've defined
+
+115
+00:04:02,560 --> 00:04:05,920
+what will
+
+116
+00:04:03,519 --> 00:04:07,439
+constitute done work so if we haven't
+
+117
+00:04:05,920 --> 00:04:10,480
+done adequate testing
+
+118
+00:04:07,439 --> 00:04:12,879
+if we haven't validated that it
+
+119
+00:04:10,480 --> 00:04:13,840
+produces the the type of information
+
+120
+00:04:12,879 --> 00:04:17,600
+that
+
+121
+00:04:13,840 --> 00:04:18,799
+is needed at the precision and accuracy
+
+122
+00:04:17,600 --> 00:04:21,040
+those are concerns that we have
+
+123
+00:04:18,799 --> 00:04:23,360
+particularly in the data world um
+
+124
+00:04:21,040 --> 00:04:25,199
+that we're expecting uh for this
+
+125
+00:04:23,360 --> 00:04:27,199
+particular application type
+
+126
+00:04:25,199 --> 00:04:28,479
+then it's not done and that means if
+
+127
+00:04:27,199 --> 00:04:30,960
+it's not done
+
+128
+00:04:28,479 --> 00:04:32,320
+that we can't deliver it or at least we
+
+129
+00:04:30,960 --> 00:04:33,120
+should not deliver it at least in a
+
+130
+00:04:32,320 --> 00:04:35,520
+well-formed
+
+131
+00:04:33,120 --> 00:04:37,520
+team that's executing scrum correctly we
+
+132
+00:04:35,520 --> 00:04:40,160
+would not ever deliver done work
+
+133
+00:04:37,520 --> 00:04:42,080
+we won't present done work uh i'm sorry
+
+134
+00:04:40,160 --> 00:04:43,199
+undone work is what i meant to say and
+
+135
+00:04:42,080 --> 00:04:44,639
+at the sprint review we're not going to
+
+136
+00:04:43,199 --> 00:04:46,000
+review undone work we're only going to
+
+137
+00:04:44,639 --> 00:04:48,960
+look at done work
+
+138
+00:04:46,000 --> 00:04:49,759
+and in the words of scrum uh in the
+
+139
+00:04:48,960 --> 00:04:52,720
+increment
+
+140
+00:04:49,759 --> 00:04:54,840
+that we develop this particular sprint
+
+141
+00:04:52,720 --> 00:04:56,240
+only done work is included in that
+
+142
+00:04:54,840 --> 00:04:58,320
+increment
+
+143
+00:04:56,240 --> 00:05:00,240
+and it happens sometimes especially
+
+144
+00:04:58,320 --> 00:05:02,880
+early on in scrum adoption that we
+
+145
+00:05:00,240 --> 00:05:03,520
+will work during a sprint to try to
+
+146
+00:05:02,880 --> 00:05:05,280
+produce
+
+147
+00:05:03,520 --> 00:05:07,520
+done work but we don't get all the way
+
+148
+00:05:05,280 --> 00:05:08,720
+there we we're not able to complete all
+
+149
+00:05:07,520 --> 00:05:10,880
+of the tasks
+
+150
+00:05:08,720 --> 00:05:12,080
+necessary to get to our agreed upon
+
+151
+00:05:10,880 --> 00:05:13,600
+definition of done
+
+152
+00:05:12,080 --> 00:05:15,840
+maybe there were some tests we couldn't
+
+153
+00:05:13,600 --> 00:05:17,680
+perform or maybe
+
+154
+00:05:15,840 --> 00:05:19,840
+maybe there has to be an approval in our
+
+155
+00:05:17,680 --> 00:05:21,600
+environment i'm not encouraging that
+
+156
+00:05:19,840 --> 00:05:23,280
+but sometimes in some environments we
+
+157
+00:05:21,600 --> 00:05:25,680
+have to get some kind of review or
+
+158
+00:05:23,280 --> 00:05:27,120
+approval process that has to happen
+
+159
+00:05:25,680 --> 00:05:28,639
+and if that's part of our definition of
+
+160
+00:05:27,120 --> 00:05:31,280
+done and we have not done that yet the
+
+161
+00:05:28,639 --> 00:05:32,639
+work's not done
+
+162
+00:05:31,280 --> 00:05:34,479
+now that means it can't be in the
+
+163
+00:05:32,639 --> 00:05:36,800
+increment at least in well
+
+164
+00:05:34,479 --> 00:05:39,199
+in a mature scrum environment we're not
+
+165
+00:05:36,800 --> 00:05:40,560
+going to talk about it is done we can
+
+166
+00:05:39,199 --> 00:05:42,080
+talk about the fact that we worked on
+
+167
+00:05:40,560 --> 00:05:43,840
+this particular
+
+168
+00:05:42,080 --> 00:05:45,520
+aspect of the data but we didn't get
+
+169
+00:05:43,840 --> 00:05:47,680
+there that's fine
+
+170
+00:05:45,520 --> 00:05:49,680
+we'll be transparent about it of course
+
+171
+00:05:47,680 --> 00:05:51,919
+and whatever work remains for that
+
+172
+00:05:49,680 --> 00:05:54,000
+particular valuable piece of work it's
+
+173
+00:05:51,919 --> 00:05:55,680
+going to go back on the product backlog
+
+174
+00:05:54,000 --> 00:05:57,520
+and the product owner can validate that
+
+175
+00:05:55,680 --> 00:05:59,840
+it's still the most important work
+
+176
+00:05:57,520 --> 00:06:01,759
+or not the most important work anymore
+
+177
+00:05:59,840 --> 00:06:03,840
+and then in our future sprints we'll
+
+178
+00:06:01,759 --> 00:06:05,680
+continue that work as appropriate or
+
+179
+00:06:03,840 --> 00:06:06,560
+either next sprint or later whatever it
+
+180
+00:06:05,680 --> 00:06:09,039
+is
+
+181
+00:06:06,560 --> 00:06:09,919
+so that it's really useful to separate
+
+182
+00:06:09,039 --> 00:06:11,680
+the idea of
+
+183
+00:06:09,919 --> 00:06:13,120
+what we need to do and why we need to do
+
+184
+00:06:11,680 --> 00:06:14,319
+it and that's represented on the product
+
+185
+00:06:13,120 --> 00:06:17,440
+backlog
+
+186
+00:06:14,319 --> 00:06:19,520
+and um what is the work this team is
+
+187
+00:06:17,440 --> 00:06:22,960
+going to do
+
+188
+00:06:19,520 --> 00:06:24,800
+in order to make it usable to our
+
+189
+00:06:22,960 --> 00:06:26,160
+standards for the end user
+
+190
+00:06:24,800 --> 00:06:28,080
+and thinking about the end user is
+
+191
+00:06:26,160 --> 00:06:28,960
+really important that could be an end
+
+192
+00:06:28,080 --> 00:06:30,000
+customer
+
+193
+00:06:28,960 --> 00:06:33,039
+it could be a manager in the
+
+194
+00:06:30,000 --> 00:06:35,039
+organization it could be another system
+
+195
+00:06:33,039 --> 00:06:36,639
+in the organization that uses the data
+
+196
+00:06:35,039 --> 00:06:38,960
+that this team provides
+
+197
+00:06:36,639 --> 00:06:41,440
+in order to do other things for whoever
+
+198
+00:06:38,960 --> 00:06:43,039
+customers or other stakeholders
+
+199
+00:06:41,440 --> 00:06:44,639
+so think about that think about the what
+
+200
+00:06:43,039 --> 00:06:46,240
+versus the ha the that
+
+201
+00:06:44,639 --> 00:06:49,840
+how we're doing the work itself that's
+
+202
+00:06:46,240 --> 00:06:49,840
+the definition of done
+
+203
+00:06:54,080 --> 00:06:57,280
+well typically there's a sequence of
+
+204
+00:06:56,240 --> 00:06:58,960
+steps that
+
+205
+00:06:57,280 --> 00:07:00,479
+teams are already familiar with that
+
+206
+00:06:58,960 --> 00:07:02,240
+work in this space
+
+207
+00:07:00,479 --> 00:07:04,400
+if it's a data warehouse or business
+
+208
+00:07:02,240 --> 00:07:06,639
+intelligence or goes by different names
+
+209
+00:07:04,400 --> 00:07:09,199
+in some areas
+
+210
+00:07:06,639 --> 00:07:09,680
+um they probably have a way of working
+
+211
+00:07:09,199 --> 00:07:11,199
+and
+
+212
+00:07:09,680 --> 00:07:13,199
+even though they're going maybe they're
+
+213
+00:07:11,199 --> 00:07:14,800
+adopting scrum those tasks that they
+
+214
+00:07:13,199 --> 00:07:16,800
+used to perform
+
+215
+00:07:14,800 --> 00:07:18,080
+all need to happen now the thing is
+
+216
+00:07:16,800 --> 00:07:19,280
+because we're working in these small
+
+217
+00:07:18,080 --> 00:07:22,080
+increments and we're trying to
+
+218
+00:07:19,280 --> 00:07:23,919
+produce bits of value and deliver them
+
+219
+00:07:22,080 --> 00:07:24,880
+early and often so that we can get
+
+220
+00:07:23,919 --> 00:07:27,599
+feedback
+
+221
+00:07:24,880 --> 00:07:28,800
+and use empiricism to inspect and adapt
+
+222
+00:07:27,599 --> 00:07:31,280
+our progress
+
+223
+00:07:28,800 --> 00:07:32,880
+toward the you know the big goals we
+
+224
+00:07:31,280 --> 00:07:36,319
+have for this particular
+
+225
+00:07:32,880 --> 00:07:38,240
+product um
+
+226
+00:07:36,319 --> 00:07:40,160
+we probably have to apply those tasks in
+
+227
+00:07:38,240 --> 00:07:43,440
+a bit of a different way
+
+228
+00:07:40,160 --> 00:07:44,240
+and uh we the etl acronym still works
+
+229
+00:07:43,440 --> 00:07:46,879
+you know extract
+
+230
+00:07:44,240 --> 00:07:48,319
+transform load now in business
+
+231
+00:07:46,879 --> 00:07:49,680
+intelligence there's additional things
+
+232
+00:07:48,319 --> 00:07:52,879
+we have to do in terms of
+
+233
+00:07:49,680 --> 00:07:53,360
+report creation all of the steps that we
+
+234
+00:07:52,879 --> 00:07:55,919
+did
+
+235
+00:07:53,360 --> 00:07:58,000
+in identifying the data sources
+
+236
+00:07:55,919 --> 00:07:59,919
+connecting to those data sources
+
+237
+00:07:58,000 --> 00:08:01,599
+extracting data elements from those
+
+238
+00:07:59,919 --> 00:08:05,199
+sources
+
+239
+00:08:01,599 --> 00:08:07,919
+evaluating the quality of that data
+
+240
+00:08:05,199 --> 00:08:09,280
+and then performing transformation steps
+
+241
+00:08:07,919 --> 00:08:11,919
+by
+
+242
+00:08:09,280 --> 00:08:13,599
+joining data sources together
+
+243
+00:08:11,919 --> 00:08:16,000
+manipulating the data through
+
+244
+00:08:13,599 --> 00:08:17,199
+whatever means could be through you know
+
+245
+00:08:16,000 --> 00:08:19,520
+elaborate formula
+
+246
+00:08:17,199 --> 00:08:22,319
+it could be very simple transformations
+
+247
+00:08:19,520 --> 00:08:24,560
+of just lookups
+
+248
+00:08:22,319 --> 00:08:26,479
+and then of course loading it into a new
+
+249
+00:08:24,560 --> 00:08:28,319
+data which requires that there be a data
+
+250
+00:08:26,479 --> 00:08:30,160
+model that can contain the data
+
+251
+00:08:28,319 --> 00:08:31,360
+and that data model has to have all the
+
+252
+00:08:30,160 --> 00:08:32,880
+right elements
+
+253
+00:08:31,360 --> 00:08:34,560
+configured in a way that we can read
+
+254
+00:08:32,880 --> 00:08:36,399
+them out and use them
+
+255
+00:08:34,560 --> 00:08:38,839
+in whatever the reporting mechanism
+
+256
+00:08:36,399 --> 00:08:42,080
+mechanism is again a dashboard
+
+257
+00:08:38,839 --> 00:08:43,440
+uh static report that's periodically
+
+258
+00:08:42,080 --> 00:08:46,080
+generated or
+
+259
+00:08:43,440 --> 00:08:47,360
+a live data feed through an api so all
+
+260
+00:08:46,080 --> 00:08:48,320
+the steps are going to have to happen
+
+261
+00:08:47,360 --> 00:08:51,519
+but they're going to happen
+
+262
+00:08:48,320 --> 00:08:53,120
+in a different way and this uh
+
+263
+00:08:51,519 --> 00:08:55,440
+to think about what's different about it
+
+264
+00:08:53,120 --> 00:08:57,360
+we have to link back to
+
+265
+00:08:55,440 --> 00:08:59,200
+what will make this work acceptable so
+
+266
+00:08:57,360 --> 00:09:01,279
+now we get into this question that we've
+
+267
+00:08:59,200 --> 00:09:02,720
+kind of touched on of acceptance
+
+268
+00:09:01,279 --> 00:09:04,320
+criteria which occurs in the product
+
+269
+00:09:02,720 --> 00:09:06,000
+backlog
+
+270
+00:09:04,320 --> 00:09:08,160
+and the definition of done which is the
+
+271
+00:09:06,000 --> 00:09:10,560
+quality of the work that the developers
+
+272
+00:09:08,160 --> 00:09:12,160
+on a scrum team are producing in our
+
+273
+00:09:10,560 --> 00:09:14,240
+increment
+
+274
+00:09:12,160 --> 00:09:16,000
+of course the increments accumulate from
+
+275
+00:09:14,240 --> 00:09:19,120
+sprint to sprint to sprint in order to
+
+276
+00:09:16,000 --> 00:09:19,120
+achieve our product goals
+
+277
+00:09:19,920 --> 00:09:24,480
+so the key difference from the way data
+
+278
+00:09:22,959 --> 00:09:26,000
+teams used to work
+
+279
+00:09:24,480 --> 00:09:27,360
+in a traditional environment or let's
+
+280
+00:09:26,000 --> 00:09:29,519
+say a waterfall environment very
+
+281
+00:09:27,360 --> 00:09:31,440
+project-centric environment
+
+282
+00:09:29,519 --> 00:09:32,560
+let's think about that for a second what
+
+283
+00:09:31,440 --> 00:09:34,320
+are we trying to achieve
+
+284
+00:09:32,560 --> 00:09:36,399
+let's keep it really simple we need to
+
+285
+00:09:34,320 --> 00:09:38,080
+produce a particular report
+
+286
+00:09:36,399 --> 00:09:39,760
+for a particular business purpose
+
+287
+00:09:38,080 --> 00:09:41,040
+there's a particular audience that we
+
+288
+00:09:39,760 --> 00:09:42,560
+would focus on
+
+289
+00:09:41,040 --> 00:09:44,560
+we'd understand what that business
+
+290
+00:09:42,560 --> 00:09:45,680
+purpose is why they want the data what
+
+291
+00:09:44,560 --> 00:09:48,640
+they're going to do with that data how
+
+292
+00:09:45,680 --> 00:09:48,640
+they're going to use that data
+
+293
+00:09:49,040 --> 00:09:54,399
+and then we would find the sources of
+
+294
+00:09:51,680 --> 00:09:56,959
+the information and of course it can be
+
+295
+00:09:54,399 --> 00:09:58,480
+distributed very broadly across multiple
+
+296
+00:09:56,959 --> 00:10:00,399
+systems usually it is in this
+
+297
+00:09:58,480 --> 00:10:02,240
+environment
+
+298
+00:10:00,399 --> 00:10:04,160
+we have to find the data first of all
+
+299
+00:10:02,240 --> 00:10:04,959
+and there would be we'd find all of the
+
+300
+00:10:04,160 --> 00:10:07,040
+data
+
+301
+00:10:04,959 --> 00:10:08,640
+and we would design uh all of the
+
+302
+00:10:07,040 --> 00:10:09,440
+interfaces to all the different data
+
+303
+00:10:08,640 --> 00:10:10,959
+sources
+
+304
+00:10:09,440 --> 00:10:13,120
+some of them may already exist some of
+
+305
+00:10:10,959 --> 00:10:13,519
+them may be brand new but we do all that
+
+306
+00:10:13,120 --> 00:10:16,240
+design
+
+307
+00:10:13,519 --> 00:10:16,640
+up front and we would then implement all
+
+308
+00:10:16,240 --> 00:10:19,680
+that
+
+309
+00:10:16,640 --> 00:10:21,680
+extraction of the data and of course we
+
+310
+00:10:19,680 --> 00:10:23,040
+will have analyzed the existing data to
+
+311
+00:10:21,680 --> 00:10:26,160
+look for data cleanliness
+
+312
+00:10:23,040 --> 00:10:28,800
+issues data error problems uh
+
+313
+00:10:26,160 --> 00:10:30,800
+redundant data and all the issues that
+
+314
+00:10:28,800 --> 00:10:32,640
+the audience is probably familiar with
+
+315
+00:10:30,800 --> 00:10:34,000
+we do all of that analysis and we do all
+
+316
+00:10:32,640 --> 00:10:35,279
+the corrections as part of our
+
+317
+00:10:34,000 --> 00:10:36,640
+transformation
+
+318
+00:10:35,279 --> 00:10:38,320
+and as also as part of the
+
+319
+00:10:36,640 --> 00:10:40,000
+transformation we combine the data
+
+320
+00:10:38,320 --> 00:10:40,720
+services together and manipulate them in
+
+321
+00:10:40,000 --> 00:10:42,480
+the way
+
+322
+00:10:40,720 --> 00:10:44,480
+that we'll have the actual data needed
+
+323
+00:10:42,480 --> 00:10:46,399
+for the ultimate report
+
+324
+00:10:44,480 --> 00:10:48,079
+we then that we do all the
+
+325
+00:10:46,399 --> 00:10:48,880
+transformation then we load all that
+
+326
+00:10:48,079 --> 00:10:52,000
+data into
+
+327
+00:10:48,880 --> 00:10:54,000
+our data repository
+
+328
+00:10:52,000 --> 00:10:56,160
+or get usually a data warehouse uh
+
+329
+00:10:54,000 --> 00:10:59,360
+depending on the technology you're using
+
+330
+00:10:56,160 --> 00:11:00,000
+and uh we would load all of all the data
+
+331
+00:10:59,360 --> 00:11:01,279
+into the data
+
+332
+00:11:00,000 --> 00:11:03,120
+warehouse and then we would start
+
+333
+00:11:01,279 --> 00:11:05,920
+working on the
+
+334
+00:11:03,120 --> 00:11:07,920
+the whole report and would create all
+
+335
+00:11:05,920 --> 00:11:11,120
+the different elements in our report
+
+336
+00:11:07,920 --> 00:11:12,880
+if it's a dashboard or a
+
+337
+00:11:11,120 --> 00:11:14,480
+hard copy output of course there'll be
+
+338
+00:11:12,880 --> 00:11:16,240
+formatting involved there'll be
+
+339
+00:11:14,480 --> 00:11:17,839
+visualization involved in one form or
+
+340
+00:11:16,240 --> 00:11:19,600
+another and we'd
+
+341
+00:11:17,839 --> 00:11:21,760
+produce the entire report and then
+
+342
+00:11:19,600 --> 00:11:23,519
+deliver the end result
+
+343
+00:11:21,760 --> 00:11:25,839
+okay the problem is that that process
+
+344
+00:11:23,519 --> 00:11:28,480
+takes months or longer
+
+345
+00:11:25,839 --> 00:11:30,079
+and maybe years and typically by the
+
+346
+00:11:28,480 --> 00:11:31,120
+time we actually deliver that report to
+
+347
+00:11:30,079 --> 00:11:34,160
+the end user
+
+348
+00:11:31,120 --> 00:11:36,079
+who requested it many months ago
+
+349
+00:11:34,160 --> 00:11:37,200
+we discover all the errors we made in
+
+350
+00:11:36,079 --> 00:11:39,680
+interpreting what they asked
+
+351
+00:11:37,200 --> 00:11:40,880
+for first problem more importantly what
+
+352
+00:11:39,680 --> 00:11:42,399
+typically happens is they don't need
+
+353
+00:11:40,880 --> 00:11:43,600
+that report anymore because it took too
+
+354
+00:11:42,399 --> 00:11:45,040
+long and now they're off and they have a
+
+355
+00:11:43,600 --> 00:11:46,399
+different need
+
+356
+00:11:45,040 --> 00:11:48,079
+which is why we need to go to something
+
+357
+00:11:46,399 --> 00:11:49,519
+much more responsive so in a more
+
+358
+00:11:48,079 --> 00:11:50,959
+responsive environment
+
+359
+00:11:49,519 --> 00:11:53,440
+we need to be able to get a little bit
+
+360
+00:11:50,959 --> 00:11:54,480
+of data directly to the user as quickly
+
+361
+00:11:53,440 --> 00:11:56,079
+as possible
+
+362
+00:11:54,480 --> 00:11:57,600
+that'll help validate that they have the
+
+363
+00:11:56,079 --> 00:11:59,200
+data they need to avoid the kind of
+
+364
+00:11:57,600 --> 00:12:00,959
+errors and interpretation
+
+365
+00:11:59,200 --> 00:12:03,519
+that we're still going to make we just
+
+366
+00:12:00,959 --> 00:12:05,200
+want to find them really fast
+
+367
+00:12:03,519 --> 00:12:07,360
+but more importantly we may discover
+
+368
+00:12:05,200 --> 00:12:10,800
+that what they ask for isn't what they
+
+369
+00:12:07,360 --> 00:12:11,360
+really need and we can change what we're
+
+370
+00:12:10,800 --> 00:12:14,079
+doing
+
+371
+00:12:11,360 --> 00:12:15,519
+as we continue to deliver in this
+
+372
+00:12:14,079 --> 00:12:17,920
+continuous fashion
+
+373
+00:12:15,519 --> 00:12:19,519
+but that means that the what we need to
+
+374
+00:12:17,920 --> 00:12:20,800
+do is going to look different than what
+
+375
+00:12:19,519 --> 00:12:23,760
+we're used to
+
+376
+00:12:20,800 --> 00:12:24,000
+from traditional development so we're
+
+377
+00:12:23,760 --> 00:12:26,160
+not
+
+378
+00:12:24,000 --> 00:12:28,000
+going to design all of the extraction up
+
+379
+00:12:26,160 --> 00:12:29,760
+front and identify all the data and then
+
+380
+00:12:28,000 --> 00:12:32,399
+do all the transformation that
+
+381
+00:12:29,760 --> 00:12:33,200
+you know that sort of relay race
+
+382
+00:12:32,399 --> 00:12:36,720
+waterfall
+
+383
+00:12:33,200 --> 00:12:39,680
+approach instead we're going to look at
+
+384
+00:12:36,720 --> 00:12:42,079
+the individual
+
+385
+00:12:39,680 --> 00:12:43,440
+information that the end user needs for
+
+386
+00:12:42,079 --> 00:12:45,680
+specific purposes
+
+387
+00:12:43,440 --> 00:12:46,560
+so maybe they need to understand the
+
+388
+00:12:45,680 --> 00:12:50,000
+current
+
+389
+00:12:46,560 --> 00:12:50,800
+uh customer ordering of a particular
+
+390
+00:12:50,000 --> 00:12:52,240
+product
+
+391
+00:12:50,800 --> 00:12:54,160
+and so we need that means for that
+
+392
+00:12:52,240 --> 00:12:56,240
+particular information of the
+
+393
+00:12:54,160 --> 00:12:58,399
+ordering trend of a given product we'll
+
+394
+00:12:56,240 --> 00:13:00,959
+need to find information on the product
+
+395
+00:12:58,399 --> 00:13:01,519
+uh itself the name of the product maybe
+
+396
+00:13:00,959 --> 00:13:04,240
+it's
+
+397
+00:13:01,519 --> 00:13:05,200
+product sku number uh we may need to
+
+398
+00:13:04,240 --> 00:13:07,279
+find information
+
+399
+00:13:05,200 --> 00:13:08,800
+on customer orders for that particular
+
+400
+00:13:07,279 --> 00:13:09,680
+skew number maybe there's a variety of
+
+401
+00:13:08,800 --> 00:13:11,040
+sku numbers
+
+402
+00:13:09,680 --> 00:13:12,720
+for a given product because it's a
+
+403
+00:13:11,040 --> 00:13:13,680
+product family we have to understand all
+
+404
+00:13:12,720 --> 00:13:16,320
+that
+
+405
+00:13:13,680 --> 00:13:18,240
+well instead of trying to collect all of
+
+406
+00:13:16,320 --> 00:13:19,440
+that data for this one little element of
+
+407
+00:13:18,240 --> 00:13:20,399
+the report maybe we're just going to
+
+408
+00:13:19,440 --> 00:13:23,040
+find
+
+409
+00:13:20,399 --> 00:13:24,079
+uh the product sku number that we're
+
+410
+00:13:23,040 --> 00:13:27,440
+looking for
+
+411
+00:13:24,079 --> 00:13:29,040
+and be able to load that data transform
+
+412
+00:13:27,440 --> 00:13:29,760
+it in a way that's usable in the end
+
+413
+00:13:29,040 --> 00:13:33,279
+report
+
+414
+00:13:29,760 --> 00:13:34,800
+and say here is one product okay i don't
+
+415
+00:13:33,279 --> 00:13:37,200
+have the order information yet
+
+416
+00:13:34,800 --> 00:13:38,000
+yep that's true we don't have that yet
+
+417
+00:13:37,200 --> 00:13:39,440
+uh but
+
+418
+00:13:38,000 --> 00:13:41,120
+is this the product that you're looking
+
+419
+00:13:39,440 --> 00:13:41,680
+for is this in a format that's usable
+
+420
+00:13:41,120 --> 00:13:43,440
+for you
+
+421
+00:13:41,680 --> 00:13:45,199
+yeah it's good so far i just need more
+
+422
+00:13:43,440 --> 00:13:46,720
+of it or they might say
+
+423
+00:13:45,199 --> 00:13:48,240
+well it's the product i'm looking for
+
+424
+00:13:46,720 --> 00:13:49,839
+but it's not in a format that i can
+
+425
+00:13:48,240 --> 00:13:51,199
+understand i can't use it that way
+
+426
+00:13:49,839 --> 00:13:53,040
+i don't need a sku number that doesn't
+
+427
+00:13:51,199 --> 00:13:53,680
+tell me anything i need to actually have
+
+428
+00:13:53,040 --> 00:13:55,680
+the product
+
+429
+00:13:53,680 --> 00:13:57,440
+name with its description because of
+
+430
+00:13:55,680 --> 00:13:58,880
+what i'm doing with this data oh okay
+
+431
+00:13:57,440 --> 00:14:00,079
+well that's important to know
+
+432
+00:13:58,880 --> 00:14:02,079
+so we don't even need to show you the
+
+433
+00:14:00,079 --> 00:14:02,560
+sku number we but we need to make sure
+
+434
+00:14:02,079 --> 00:14:04,079
+we've
+
+435
+00:14:02,560 --> 00:14:05,279
+collected the data associated with that
+
+436
+00:14:04,079 --> 00:14:07,360
+oh we're going to make a correction now
+
+437
+00:14:05,279 --> 00:14:09,760
+we're going to change what we're doing
+
+438
+00:14:07,360 --> 00:14:11,920
+based on feedback from the end user but
+
+439
+00:14:09,760 --> 00:14:14,959
+we need to get that feedback
+
+440
+00:14:11,920 --> 00:14:16,480
+uh certainly in you know certainly less
+
+441
+00:14:14,959 --> 00:14:17,440
+than many months that it took us to get
+
+442
+00:14:16,480 --> 00:14:18,480
+the whole report
+
+443
+00:14:17,440 --> 00:14:20,399
+in fact i'd like to be able to get
+
+444
+00:14:18,480 --> 00:14:22,000
+feedback like that in a matter of days
+
+445
+00:14:20,399 --> 00:14:23,199
+or maybe even hours if that were
+
+446
+00:14:22,000 --> 00:14:26,320
+possible
+
+447
+00:14:23,199 --> 00:14:29,360
+based on our ability now the question is
+
+448
+00:14:26,320 --> 00:14:32,000
+what do we have to do along the way to
+
+449
+00:14:29,360 --> 00:14:34,079
+collect that little bit of product data
+
+450
+00:14:32,000 --> 00:14:35,839
+to extract it from its source to
+
+451
+00:14:34,079 --> 00:14:39,440
+transform it into some useful
+
+452
+00:14:35,839 --> 00:14:41,440
+uh information and uh
+
+453
+00:14:39,440 --> 00:14:43,360
+load it so that we can then create that
+
+454
+00:14:41,440 --> 00:14:45,519
+bit of a maybe it was a table that has
+
+455
+00:14:43,360 --> 00:14:47,199
+this it has only one row in it
+
+456
+00:14:45,519 --> 00:14:50,000
+which says right now it says the
+
+457
+00:14:47,199 --> 00:14:50,000
+product's you number
+
+458
+00:14:50,480 --> 00:14:53,680
+that how we're going to work but what
+
+459
+00:14:52,240 --> 00:14:55,839
+we're going to do
+
+460
+00:14:53,680 --> 00:14:56,720
+is our definition of done this is what
+
+461
+00:14:55,839 --> 00:14:59,440
+we expect of
+
+462
+00:14:56,720 --> 00:15:00,720
+our cells in the scrum team the develop
+
+463
+00:14:59,440 --> 00:15:02,320
+what the developers are going to do
+
+464
+00:15:00,720 --> 00:15:03,279
+they're going to do some analysis of the
+
+465
+00:15:02,320 --> 00:15:06,480
+source data
+
+466
+00:15:03,279 --> 00:15:08,880
+they're going to create technology
+
+467
+00:15:06,480 --> 00:15:11,040
+which is often a you know software code
+
+468
+00:15:08,880 --> 00:15:12,800
+that will connect to that data source
+
+469
+00:15:11,040 --> 00:15:14,480
+they're going to build an extraction for
+
+470
+00:15:12,800 --> 00:15:16,000
+this one bit of data
+
+471
+00:15:14,480 --> 00:15:18,399
+they're going to uh and when they do
+
+472
+00:15:16,000 --> 00:15:19,920
+that they're going to test it by
+
+473
+00:15:18,399 --> 00:15:21,279
+finding different sources of data to
+
+474
+00:15:19,920 --> 00:15:22,560
+make sure the data is transmitted
+
+475
+00:15:21,279 --> 00:15:25,279
+accurately
+
+476
+00:15:22,560 --> 00:15:26,320
+so there's now we've done a an analysis
+
+477
+00:15:25,279 --> 00:15:27,920
+a design
+
+478
+00:15:26,320 --> 00:15:29,360
+an implementation of the code and
+
+479
+00:15:27,920 --> 00:15:31,680
+testing of that code
+
+480
+00:15:29,360 --> 00:15:33,440
+and that's only for this first stage or
+
+481
+00:15:31,680 --> 00:15:34,880
+first couple of stages of extracting and
+
+482
+00:15:33,440 --> 00:15:36,160
+maybe transformation
+
+483
+00:15:34,880 --> 00:15:38,320
+then there's the same thing of
+
+484
+00:15:36,160 --> 00:15:40,240
+connecting it to our data warehouse
+
+485
+00:15:38,320 --> 00:15:41,920
+we've got to make sure it it's loaded
+
+486
+00:15:40,240 --> 00:15:44,240
+correctly we're going to test that
+
+487
+00:15:41,920 --> 00:15:45,279
+by looking at various aspects of data
+
+488
+00:15:44,240 --> 00:15:47,040
+all along the way
+
+489
+00:15:45,279 --> 00:15:48,320
+we may need to collect information about
+
+490
+00:15:47,040 --> 00:15:49,920
+what we've done
+
+491
+00:15:48,320 --> 00:15:51,519
+because we know this is just one piece
+
+492
+00:15:49,920 --> 00:15:53,759
+of the whole puzzle and we're going to
+
+493
+00:15:51,519 --> 00:15:55,440
+modify it in the future
+
+494
+00:15:53,759 --> 00:15:56,880
+now a lot of people first hear what i'm
+
+495
+00:15:55,440 --> 00:15:57,519
+saying and say oh my god this will be
+
+496
+00:15:56,880 --> 00:15:59,920
+terrible well
+
+497
+00:15:57,519 --> 00:16:01,839
+we'll have lots of rework and
+
+498
+00:15:59,920 --> 00:16:03,120
+fundamentally rework is the wrong way of
+
+499
+00:16:01,839 --> 00:16:04,800
+thinking of it
+
+500
+00:16:03,120 --> 00:16:06,639
+in the agile world we're simply
+
+501
+00:16:04,800 --> 00:16:07,600
+enhancing what we already have so
+
+502
+00:16:06,639 --> 00:16:08,800
+everything we're going to do is an
+
+503
+00:16:07,600 --> 00:16:10,560
+enhancement
+
+504
+00:16:08,800 --> 00:16:12,079
+there could be rework if we make an
+
+505
+00:16:10,560 --> 00:16:13,839
+error
+
+506
+00:16:12,079 --> 00:16:15,920
+particularly an error we don't find
+
+507
+00:16:13,839 --> 00:16:18,079
+let's say that we
+
+508
+00:16:15,920 --> 00:16:20,000
+do some of the steps in our definition
+
+509
+00:16:18,079 --> 00:16:21,120
+of done of analysis and design and
+
+510
+00:16:20,000 --> 00:16:22,880
+implementation
+
+511
+00:16:21,120 --> 00:16:24,959
+but we forget or maybe there's a lot of
+
+512
+00:16:22,880 --> 00:16:27,199
+schedule pressure from outside and we
+
+513
+00:16:24,959 --> 00:16:28,160
+we skip the testing of that it'll work
+
+514
+00:16:27,199 --> 00:16:29,519
+it's so simple
+
+515
+00:16:28,160 --> 00:16:31,600
+we've done it so many times we don't
+
+516
+00:16:29,519 --> 00:16:33,199
+have to bother testing that
+
+517
+00:16:31,600 --> 00:16:34,880
+the problem is inevitably when you skip
+
+518
+00:16:33,199 --> 00:16:37,040
+steps like that which you might know is
+
+519
+00:16:34,880 --> 00:16:38,560
+creating technical debt
+
+520
+00:16:37,040 --> 00:16:40,880
+we're going to discover the errors we
+
+521
+00:16:38,560 --> 00:16:43,360
+didn't discover when we created them
+
+522
+00:16:40,880 --> 00:16:44,880
+some point later that's going to be
+
+523
+00:16:43,360 --> 00:16:46,079
+reworked when we have to go back and
+
+524
+00:16:44,880 --> 00:16:46,880
+correct something that we could have
+
+525
+00:16:46,079 --> 00:16:49,040
+found right
+
+526
+00:16:46,880 --> 00:16:50,079
+when we did it the error that we made
+
+527
+00:16:49,040 --> 00:16:51,600
+when we made it
+
+528
+00:16:50,079 --> 00:16:53,120
+corrected it right away and carried
+
+529
+00:16:51,600 --> 00:16:55,519
+forward with good
+
+530
+00:16:53,120 --> 00:16:56,880
+uh a good product so that good product
+
+531
+00:16:55,519 --> 00:16:58,800
+is the definition of done that we're
+
+532
+00:16:56,880 --> 00:17:00,720
+looking for
+
+533
+00:16:58,800 --> 00:17:02,720
+the thing that will make it acceptable
+
+534
+00:17:00,720 --> 00:17:04,000
+is the particular information in the
+
+535
+00:17:02,720 --> 00:17:07,199
+right format
+
+536
+00:17:04,000 --> 00:17:10,400
+giving the right the
+
+537
+00:17:07,199 --> 00:17:13,760
+the right level of accuracy
+
+538
+00:17:10,400 --> 00:17:16,559
+precision and visibility
+
+539
+00:17:13,760 --> 00:17:18,079
+of the data itself so that the end
+
+540
+00:17:16,559 --> 00:17:19,839
+business user can make the kind of
+
+541
+00:17:18,079 --> 00:17:22,160
+decisions they need to make
+
+542
+00:17:19,839 --> 00:17:23,280
+in this data reporting business
+
+543
+00:17:22,160 --> 00:17:25,439
+intelligent
+
+544
+00:17:23,280 --> 00:17:26,720
+business intelligence realm so that's
+
+545
+00:17:25,439 --> 00:17:28,079
+the acceptance criteria that's going to
+
+546
+00:17:26,720 --> 00:17:29,919
+be on the product backlog the steps
+
+547
+00:17:28,079 --> 00:17:33,840
+we're going to do to create that value
+
+548
+00:17:29,919 --> 00:17:36,400
+is the definition of done and um
+
+549
+00:17:33,840 --> 00:17:37,760
+i think that that's an important aspect
+
+550
+00:17:36,400 --> 00:17:39,120
+that we ought to be thinking about so
+
+551
+00:17:37,760 --> 00:17:39,679
+what what do you see on the definition
+
+552
+00:17:39,120 --> 00:17:41,200
+of done
+
+553
+00:17:39,679 --> 00:17:42,799
+you're going to see those analysis tasks
+
+554
+00:17:41,200 --> 00:17:44,080
+whatever they are for you you're going
+
+555
+00:17:42,799 --> 00:17:45,360
+to see design tasks
+
+556
+00:17:44,080 --> 00:17:47,280
+whatever those are for you that'll
+
+557
+00:17:45,360 --> 00:17:51,360
+include data modeling
+
+558
+00:17:47,280 --> 00:17:53,280
+it'll include uh code implementation
+
+559
+00:17:51,360 --> 00:17:55,120
+what interfaces do we need what objects
+
+560
+00:17:53,280 --> 00:17:57,600
+do we need in our source code
+
+561
+00:17:55,120 --> 00:17:58,640
+uh what methods are going to exist in
+
+562
+00:17:57,600 --> 00:18:00,480
+order to
+
+563
+00:17:58,640 --> 00:18:02,080
+do transformation for example that's
+
+564
+00:18:00,480 --> 00:18:05,039
+design activity as well
+
+565
+00:18:02,080 --> 00:18:06,799
+we're going to implement that through
+
+566
+00:18:05,039 --> 00:18:10,559
+code implementation
+
+567
+00:18:06,799 --> 00:18:13,440
+through creation of data models
+
+568
+00:18:10,559 --> 00:18:14,640
+through the implementation of data
+
+569
+00:18:13,440 --> 00:18:16,559
+interfaces
+
+570
+00:18:14,640 --> 00:18:18,080
+various signatures maybe you're passing
+
+571
+00:18:16,559 --> 00:18:19,440
+data with json or something like that
+
+572
+00:18:18,080 --> 00:18:20,799
+all of that has to be
+
+573
+00:18:19,440 --> 00:18:22,720
+implemented and then we've got to test
+
+574
+00:18:20,799 --> 00:18:24,400
+every step of the way those are really
+
+575
+00:18:22,720 --> 00:18:26,880
+common ones that we would see
+
+576
+00:18:24,400 --> 00:18:28,080
+in the code world that's pretty clear in
+
+577
+00:18:26,880 --> 00:18:30,160
+the reporting space
+
+578
+00:18:28,080 --> 00:18:31,840
+it's the same problem but it looks a
+
+579
+00:18:30,160 --> 00:18:34,880
+little bit different
+
+580
+00:18:31,840 --> 00:18:35,840
+uh because let's let's take a pdf report
+
+581
+00:18:34,880 --> 00:18:37,919
+we're going to have we're still going to
+
+582
+00:18:35,840 --> 00:18:40,400
+do analysis which is to say
+
+583
+00:18:37,919 --> 00:18:42,000
+what is this report going to look like
+
+584
+00:18:40,400 --> 00:18:43,760
+and how are we going to implement
+
+585
+00:18:42,000 --> 00:18:45,600
+it that's design then we have to
+
+586
+00:18:43,760 --> 00:18:47,840
+actually create the data
+
+587
+00:18:45,600 --> 00:18:50,320
+the report we have to have a report that
+
+588
+00:18:47,840 --> 00:18:51,919
+we can look at and evaluate the testing
+
+589
+00:18:50,320 --> 00:18:54,080
+to validate that it's actually doing
+
+590
+00:18:51,919 --> 00:18:56,080
+what we thought it was going to do
+
+591
+00:18:54,080 --> 00:18:58,320
+and then as we get even more mature in
+
+592
+00:18:56,080 --> 00:19:00,160
+scrum all of this has been
+
+593
+00:18:58,320 --> 00:19:02,000
+what we would call a hypothesis this is
+
+594
+00:19:00,160 --> 00:19:03,280
+what we believe the end user
+
+595
+00:19:02,000 --> 00:19:05,440
+is looking for that's going to create
+
+596
+00:19:03,280 --> 00:19:06,080
+the value that we need and now we want
+
+597
+00:19:05,440 --> 00:19:08,480
+to
+
+598
+00:19:06,080 --> 00:19:10,080
+validate that hypothesis and this should
+
+599
+00:19:08,480 --> 00:19:11,200
+still be part of the work that the scrum
+
+600
+00:19:10,080 --> 00:19:12,960
+team is doing
+
+601
+00:19:11,200 --> 00:19:15,679
+and the only way really to validate this
+
+602
+00:19:12,960 --> 00:19:17,760
+hypothesis to get the end user engaged
+
+603
+00:19:15,679 --> 00:19:19,679
+so in the case of this hard copy pdf
+
+604
+00:19:17,760 --> 00:19:20,880
+report let's give it to the user let's
+
+605
+00:19:19,679 --> 00:19:22,559
+talk to them about it let's get their
+
+606
+00:19:20,880 --> 00:19:24,400
+feedback and say is this what you need
+
+607
+00:19:22,559 --> 00:19:25,840
+will this solve your problem will this
+
+608
+00:19:24,400 --> 00:19:26,640
+allow you to make the decisions you need
+
+609
+00:19:25,840 --> 00:19:29,120
+to make
+
+610
+00:19:26,640 --> 00:19:30,400
+yes or no or what do we need to do to
+
+611
+00:19:29,120 --> 00:19:32,000
+make it better
+
+612
+00:19:30,400 --> 00:19:33,600
+that provides new information on our
+
+613
+00:19:32,000 --> 00:19:35,440
+product backlog so that we can really
+
+614
+00:19:33,600 --> 00:19:37,600
+deliver what they need
+
+615
+00:19:35,440 --> 00:19:40,400
+so again another way to say this is the
+
+616
+00:19:37,600 --> 00:19:42,960
+task that a developer would do
+
+617
+00:19:40,400 --> 00:19:44,240
+in their day-to-day work is the type of
+
+618
+00:19:42,960 --> 00:19:46,080
+things that we would see on the
+
+619
+00:19:44,240 --> 00:19:48,720
+definition of done
+
+620
+00:19:46,080 --> 00:19:50,000
+the things that the user needs that's in
+
+621
+00:19:48,720 --> 00:19:51,440
+the product backlog
+
+622
+00:19:50,000 --> 00:19:53,440
+and that'll help us understand what will
+
+623
+00:19:51,440 --> 00:19:56,880
+make this acceptable or
+
+624
+00:19:53,440 --> 00:19:56,880
+as we say acceptance criteria
+
+625
+00:20:01,200 --> 00:20:04,240
+well that brings up a good point because
+
+626
+00:20:02,720 --> 00:20:06,159
+in the data world there's often
+
+627
+00:20:04,240 --> 00:20:07,760
+well it's not it's it's true virtually
+
+628
+00:20:06,159 --> 00:20:09,840
+for everything but there could be a lot
+
+629
+00:20:07,760 --> 00:20:12,559
+of regulatory concerns
+
+630
+00:20:09,840 --> 00:20:14,400
+um depending on what the data is and how
+
+631
+00:20:12,559 --> 00:20:16,080
+we're using it what it's used for
+
+632
+00:20:14,400 --> 00:20:17,919
+there may be additional things we need
+
+633
+00:20:16,080 --> 00:20:19,600
+to do in our definition of done to
+
+634
+00:20:17,919 --> 00:20:22,720
+ensure compliance to
+
+635
+00:20:19,600 --> 00:20:24,080
+regulation or governance issues and that
+
+636
+00:20:22,720 --> 00:20:26,880
+could be governance
+
+637
+00:20:24,080 --> 00:20:27,520
+from within the organization or external
+
+638
+00:20:26,880 --> 00:20:30,640
+governance
+
+639
+00:20:27,520 --> 00:20:34,799
+again like regulators and any
+
+640
+00:20:30,640 --> 00:20:37,280
+audits that might occur either by
+
+641
+00:20:34,799 --> 00:20:38,720
+other independent organizations or by
+
+642
+00:20:37,280 --> 00:20:40,880
+government entities or whatever it might
+
+643
+00:20:38,720 --> 00:20:40,880
+be
+
+644
+00:20:44,480 --> 00:20:47,840
+you know that's an interesting question
+
+645
+00:20:45,919 --> 00:20:49,120
+because this can show up in either the
+
+646
+00:20:47,840 --> 00:20:51,280
+acceptance criteria
+
+647
+00:20:49,120 --> 00:20:53,120
+or the definition of done or both
+
+648
+00:20:51,280 --> 00:20:56,240
+depending on what you're doing
+
+649
+00:20:53,120 --> 00:20:57,200
+um if the end client let's imagine that
+
+650
+00:20:56,240 --> 00:21:00,240
+we're developing
+
+651
+00:20:57,200 --> 00:21:02,400
+uh we're one company we have a client
+
+652
+00:21:00,240 --> 00:21:05,440
+organization a different company that
+
+653
+00:21:02,400 --> 00:21:08,960
+has hired us to create a particular data
+
+654
+00:21:05,440 --> 00:21:10,080
+report and we're implementing the report
+
+655
+00:21:08,960 --> 00:21:12,240
+for them
+
+656
+00:21:10,080 --> 00:21:14,080
+the overall process doesn't change but
+
+657
+00:21:12,240 --> 00:21:15,039
+they need that report for some specific
+
+658
+00:21:14,080 --> 00:21:17,200
+business purpose
+
+659
+00:21:15,039 --> 00:21:19,919
+which includes all of their governance
+
+660
+00:21:17,200 --> 00:21:22,320
+needs their regulatory compliance needs
+
+661
+00:21:19,919 --> 00:21:23,440
+things like that all of that customer
+
+662
+00:21:22,320 --> 00:21:25,039
+needs
+
+663
+00:21:23,440 --> 00:21:26,640
+uh including the governance and
+
+664
+00:21:25,039 --> 00:21:29,120
+regulatory compliance needs to show up
+
+665
+00:21:26,640 --> 00:21:30,960
+in our product backlog as part of the
+
+666
+00:21:29,120 --> 00:21:33,360
+items on that backlog and the acceptance
+
+667
+00:21:30,960 --> 00:21:36,799
+criteria of those items
+
+668
+00:21:33,360 --> 00:21:37,679
+at the same time we have our own needs
+
+669
+00:21:36,799 --> 00:21:40,559
+because
+
+670
+00:21:37,679 --> 00:21:42,400
+what we produce is part of the the
+
+671
+00:21:40,559 --> 00:21:43,919
+quality of our product the brand image
+
+672
+00:21:42,400 --> 00:21:45,600
+of our organization and the way we
+
+673
+00:21:43,919 --> 00:21:47,200
+interact with our clients
+
+674
+00:21:45,600 --> 00:21:49,360
+and we're not willing for example to
+
+675
+00:21:47,200 --> 00:21:51,280
+give untested code to our clients
+
+676
+00:21:49,360 --> 00:21:52,960
+to fumble through and find defects let's
+
+677
+00:21:51,280 --> 00:21:54,480
+imagine we work for an organization like
+
+678
+00:21:52,960 --> 00:21:57,840
+that
+
+679
+00:21:54,480 --> 00:22:00,159
+and so our definition of done is got to
+
+680
+00:21:57,840 --> 00:22:03,200
+ensure that what we give to our clients
+
+681
+00:22:00,159 --> 00:22:06,880
+is that the that appropriate level of
+
+682
+00:22:03,200 --> 00:22:09,919
+technical quality to meet the um
+
+683
+00:22:06,880 --> 00:22:13,360
+overall objectives of our own companies
+
+684
+00:22:09,919 --> 00:22:14,559
+brand image and commitments to our
+
+685
+00:22:13,360 --> 00:22:15,600
+clients because there may be even
+
+686
+00:22:14,559 --> 00:22:17,520
+contractual
+
+687
+00:22:15,600 --> 00:22:19,120
+commitments around that and then of
+
+688
+00:22:17,520 --> 00:22:21,919
+course we have our own
+
+689
+00:22:19,120 --> 00:22:23,840
+governance and regulatory compliance
+
+690
+00:22:21,919 --> 00:22:27,679
+issues
+
+691
+00:22:23,840 --> 00:22:29,000
+whether that's reporting to
+
+692
+00:22:27,679 --> 00:22:31,200
+in the united states we have things like
+
+693
+00:22:29,000 --> 00:22:32,880
+sarbanes-oxley and other things that
+
+694
+00:22:31,200 --> 00:22:33,440
+virtually every company has to comply
+
+695
+00:22:32,880 --> 00:22:35,200
+with
+
+696
+00:22:33,440 --> 00:22:37,520
+and very often the data we collect is
+
+697
+00:22:35,200 --> 00:22:40,159
+how we demonstrate compliance
+
+698
+00:22:37,520 --> 00:22:42,559
+to the regulators of those particular
+
+699
+00:22:40,159 --> 00:22:44,159
+concerns
+
+700
+00:22:42,559 --> 00:22:46,000
+then we could have contractual
+
+701
+00:22:44,159 --> 00:22:47,200
+requirements from our client which is
+
+702
+00:22:46,000 --> 00:22:48,400
+another form
+
+703
+00:22:47,200 --> 00:22:50,720
+i mean we wouldn't call that a
+
+704
+00:22:48,400 --> 00:22:52,400
+regulation maybe but
+
+705
+00:22:50,720 --> 00:22:53,919
+there's a term or a condition in our
+
+706
+00:22:52,400 --> 00:22:55,840
+contract with our client that says we're
+
+707
+00:22:53,919 --> 00:22:58,880
+going to have done something
+
+708
+00:22:55,840 --> 00:23:01,520
+we may well need to show evidence
+
+709
+00:22:58,880 --> 00:23:02,960
+of perhaps they could audit us or
+
+710
+00:23:01,520 --> 00:23:04,320
+perhaps they simply
+
+711
+00:23:02,960 --> 00:23:06,640
+expect it from us as part of our
+
+712
+00:23:04,320 --> 00:23:07,280
+delivery to demonstrate that we've
+
+713
+00:23:06,640 --> 00:23:10,080
+actually done
+
+714
+00:23:07,280 --> 00:23:12,240
+some work well that would be need to be
+
+715
+00:23:10,080 --> 00:23:14,159
+part of our definition of done to record
+
+716
+00:23:12,240 --> 00:23:17,120
+the fact whatever that means
+
+717
+00:23:14,159 --> 00:23:17,840
+that we've done what's required of us
+
+718
+00:23:17,120 --> 00:23:19,440
+and
+
+719
+00:23:17,840 --> 00:23:21,520
+a lot of times the tools we use in our
+
+720
+00:23:19,440 --> 00:23:23,360
+environment maybe it's azure devops
+
+721
+00:23:21,520 --> 00:23:24,720
+or any other tools in our development
+
+722
+00:23:23,360 --> 00:23:25,280
+environment might collect some of that
+
+723
+00:23:24,720 --> 00:23:27,039
+data
+
+724
+00:23:25,280 --> 00:23:30,480
+but if it doesn't we still need to
+
+725
+00:23:27,039 --> 00:23:32,960
+collect it that's still required
+
+726
+00:23:30,480 --> 00:23:34,480
+for us to fulfill those particular needs
+
+727
+00:23:32,960 --> 00:23:37,919
+and even if we have to
+
+728
+00:23:34,480 --> 00:23:39,440
+collect it with a clipboard and a pencil
+
+729
+00:23:37,919 --> 00:23:41,039
+then that needs to be part of our
+
+730
+00:23:39,440 --> 00:23:42,080
+definition of done that we've collected
+
+731
+00:23:41,039 --> 00:23:44,240
+that particular
+
+732
+00:23:42,080 --> 00:23:46,159
+information that's necessary for the
+
+733
+00:23:44,240 --> 00:23:48,799
+operation of our organization
+
+734
+00:23:46,159 --> 00:23:50,000
+so again the your point is really
+
+735
+00:23:48,799 --> 00:23:51,120
+interesting and important because it
+
+736
+00:23:50,000 --> 00:23:52,400
+actually could show up as either
+
+737
+00:23:51,120 --> 00:23:53,039
+acceptance criteria in the product
+
+738
+00:23:52,400 --> 00:23:56,080
+backlog
+
+739
+00:23:53,039 --> 00:23:57,919
+or our definition of don and so
+
+740
+00:23:56,080 --> 00:23:59,520
+having a clear understanding of the
+
+741
+00:23:57,919 --> 00:24:01,279
+difference between the two is crucial
+
+742
+00:23:59,520 --> 00:24:03,200
+from that perspective
+
+743
+00:24:01,279 --> 00:24:05,600
+and even more importantly what is the
+
+744
+00:24:03,200 --> 00:24:07,120
+ultimate use of all this information and
+
+745
+00:24:05,600 --> 00:24:10,080
+what are all the different
+
+746
+00:24:07,120 --> 00:24:11,760
+dimensions of need it's not just the end
+
+747
+00:24:10,080 --> 00:24:13,440
+user need or the client need
+
+748
+00:24:11,760 --> 00:24:16,799
+there's also these regulatory needs
+
+749
+00:24:13,440 --> 00:24:19,279
+there's our own operation there's
+
+750
+00:24:16,799 --> 00:24:21,039
+perhaps governance from uh interaction
+
+751
+00:24:19,279 --> 00:24:22,159
+with our customers and clients
+
+752
+00:24:21,039 --> 00:24:24,400
+so all of those will have to be
+
+753
+00:24:22,159 --> 00:24:25,919
+considered sounds like uh
+
+754
+00:24:24,400 --> 00:24:28,720
+coming up with your definition of done
+
+755
+00:24:25,919 --> 00:24:30,960
+is rather complicated
+
+756
+00:24:28,720 --> 00:24:32,720
+well it is complicated and that's why if
+
+757
+00:24:30,960 --> 00:24:33,200
+our organization has been focusing on
+
+758
+00:24:32,720 --> 00:24:35,440
+how to
+
+759
+00:24:33,200 --> 00:24:37,440
+develop things in an agile way hopefully
+
+760
+00:24:35,440 --> 00:24:39,440
+the organization's helping us out
+
+761
+00:24:37,440 --> 00:24:40,559
+through a development whatever
+
+762
+00:24:39,440 --> 00:24:42,000
+development means
+
+763
+00:24:40,559 --> 00:24:44,080
+for us but in our case we're talking
+
+764
+00:24:42,000 --> 00:24:45,600
+about the data warehouse business
+
+765
+00:24:44,080 --> 00:24:46,640
+intelligence in a lot of organizations
+
+766
+00:24:45,600 --> 00:24:49,600
+that's its own
+
+767
+00:24:46,640 --> 00:24:50,159
+let's call it department or organization
+
+768
+00:24:49,600 --> 00:24:51,840
+and
+
+769
+00:24:50,159 --> 00:24:53,919
+ultimately i'd want that organization to
+
+770
+00:24:51,840 --> 00:24:54,720
+say look there's a minimum definition of
+
+771
+00:24:53,919 --> 00:24:56,799
+done
+
+772
+00:24:54,720 --> 00:24:58,480
+for all of the data warehouse report
+
+773
+00:24:56,799 --> 00:24:59,679
+business intelligence and reporting work
+
+774
+00:24:58,480 --> 00:25:01,600
+that we do
+
+775
+00:24:59,679 --> 00:25:03,200
+and here it is now you can go beyond
+
+776
+00:25:01,600 --> 00:25:05,200
+that meaning more
+
+777
+00:25:03,200 --> 00:25:07,440
+you can increase the quality level in
+
+778
+00:25:05,200 --> 00:25:09,120
+any team based on the need of that team
+
+779
+00:25:07,440 --> 00:25:11,279
+but there's a minimum below which we
+
+780
+00:25:09,120 --> 00:25:12,799
+won't go
+
+781
+00:25:11,279 --> 00:25:14,480
+but whether there's an organizational
+
+782
+00:25:12,799 --> 00:25:15,679
+definition of done or not the scrum team
+
+783
+00:25:14,480 --> 00:25:17,279
+is responsible
+
+784
+00:25:15,679 --> 00:25:19,840
+to comply with one and if they're not
+
+785
+00:25:17,279 --> 00:25:23,679
+given one they need to create their own
+
+786
+00:25:19,840 --> 00:25:23,679
+and then it's going to change over time
+
+787
+00:25:23,919 --> 00:25:27,360
+this is an interesting aspect of the
+
+788
+00:25:25,279 --> 00:25:28,799
+definition of done
+
+789
+00:25:27,360 --> 00:25:30,480
+sort of sounds obvious when you say it
+
+790
+00:25:28,799 --> 00:25:32,000
+but you have to be able to do the
+
+791
+00:25:30,480 --> 00:25:33,840
+definition of done i mean you have to
+
+792
+00:25:32,000 --> 00:25:38,320
+have the technical skills
+
+793
+00:25:33,840 --> 00:25:38,320
+the tools the capability to get to done
+
+794
+00:25:39,200 --> 00:25:43,039
+so let me make up a bit of an example
+
+795
+00:25:41,440 --> 00:25:44,159
+here let's say that we would like to
+
+796
+00:25:43,039 --> 00:25:46,559
+make sure we run
+
+797
+00:25:44,159 --> 00:25:48,240
+a suite of automated regression tests
+
+798
+00:25:46,559 --> 00:25:51,760
+every time we modify
+
+799
+00:25:48,240 --> 00:25:53,679
+our data warehouse and our report
+
+800
+00:25:51,760 --> 00:25:57,039
+and we think that's an awesome way to
+
+801
+00:25:53,679 --> 00:25:59,279
+ensure the technical quality of our work
+
+802
+00:25:57,039 --> 00:26:00,159
+if we put that in the definition of done
+
+803
+00:25:59,279 --> 00:26:02,000
+but we have no
+
+804
+00:26:00,159 --> 00:26:03,279
+ability to run automated regression
+
+805
+00:26:02,000 --> 00:26:06,000
+tests in fact we don't even have
+
+806
+00:26:03,279 --> 00:26:09,279
+automated regression tests
+
+807
+00:26:06,000 --> 00:26:11,039
+then our work can't be done so
+
+808
+00:26:09,279 --> 00:26:12,799
+what we what is the work we're going to
+
+809
+00:26:11,039 --> 00:26:14,640
+need what will it take for us to get to
+
+810
+00:26:12,799 --> 00:26:15,760
+that awesome capability of automated
+
+811
+00:26:14,640 --> 00:26:18,320
+regression tests
+
+812
+00:26:15,760 --> 00:26:20,159
+we need frameworks we need tests we need
+
+813
+00:26:18,320 --> 00:26:21,919
+et cetera et cetera et cetera we need
+
+814
+00:26:20,159 --> 00:26:24,159
+continuous integration and deployment
+
+815
+00:26:21,919 --> 00:26:25,760
+ultimately which of course azure devops
+
+816
+00:26:24,159 --> 00:26:27,919
+can give us all of that stuff but if we
+
+817
+00:26:25,760 --> 00:26:29,520
+don't write the automated tests
+
+818
+00:26:27,919 --> 00:26:31,360
+there won't be any automated testing
+
+819
+00:26:29,520 --> 00:26:33,919
+which means we would not have done work
+
+820
+00:26:31,360 --> 00:26:36,000
+ever so in the meantime we have an
+
+821
+00:26:33,919 --> 00:26:38,320
+aspiration to get
+
+822
+00:26:36,000 --> 00:26:40,640
+to this automated regression test idea
+
+823
+00:26:38,320 --> 00:26:42,240
+but we can't do it yet
+
+824
+00:26:40,640 --> 00:26:43,840
+before we can change the definition of
+
+825
+00:26:42,240 --> 00:26:47,120
+done we're going to have to go do
+
+826
+00:26:43,840 --> 00:26:48,880
+the work that's necessary and maybe this
+
+827
+00:26:47,120 --> 00:26:49,840
+team is doing that work so maybe there's
+
+828
+00:26:48,880 --> 00:26:51,440
+some
+
+829
+00:26:49,840 --> 00:26:53,760
+fraction of our capacity we're going to
+
+830
+00:26:51,440 --> 00:26:56,159
+do to create that while we're still
+
+831
+00:26:53,760 --> 00:26:59,360
+building the k the the data warehouse
+
+832
+00:26:56,159 --> 00:27:01,919
+and the reporting and delivering value
+
+833
+00:26:59,360 --> 00:27:03,919
+in the way we're currently able so we
+
+834
+00:27:01,919 --> 00:27:07,840
+got to keep delivering value otherwise
+
+835
+00:27:03,919 --> 00:27:09,039
+we're not valuable and as we gain new
+
+836
+00:27:07,840 --> 00:27:11,760
+capability
+
+837
+00:27:09,039 --> 00:27:12,080
+in raising the bar of technical quality
+
+838
+00:27:11,760 --> 00:27:14,320
+like
+
+839
+00:27:12,080 --> 00:27:15,760
+the ability to begin doing a few
+
+840
+00:27:14,320 --> 00:27:17,840
+automated tests
+
+841
+00:27:15,760 --> 00:27:19,679
+we can start to modify our definition of
+
+842
+00:27:17,840 --> 00:27:22,399
+done to include
+
+843
+00:27:19,679 --> 00:27:24,480
+maybe a few key automated tests even
+
+844
+00:27:22,399 --> 00:27:26,000
+though there might still be many tests
+
+845
+00:27:24,480 --> 00:27:27,919
+that are not automated it doesn't mean
+
+846
+00:27:26,000 --> 00:27:29,360
+they're not necessary anymore
+
+847
+00:27:27,919 --> 00:27:30,960
+it means we'll need to do them in the
+
+848
+00:27:29,360 --> 00:27:32,799
+way we used to do them until we can
+
+849
+00:27:30,960 --> 00:27:34,960
+automate those as well if that's part of
+
+850
+00:27:32,799 --> 00:27:36,960
+our goal so the definition of done will
+
+851
+00:27:34,960 --> 00:27:38,320
+modify over time as we continue to raise
+
+852
+00:27:36,960 --> 00:27:40,320
+the bar
+
+853
+00:27:38,320 --> 00:27:43,279
+on our technical quality and the
+
+854
+00:27:40,320 --> 00:27:44,720
+delivery to our customers
+
+855
+00:27:43,279 --> 00:27:47,200
+as well as meeting the overall
+
+856
+00:27:44,720 --> 00:27:49,039
+objectives of our own organization
+
+857
+00:27:47,200 --> 00:27:50,880
+automating tests is one key way to get
+
+858
+00:27:49,039 --> 00:27:52,000
+faster at things because computers are
+
+859
+00:27:50,880 --> 00:27:55,760
+really good at that type of
+
+860
+00:27:52,000 --> 00:27:58,559
+work that sort of repetitive
+
+861
+00:27:55,760 --> 00:27:59,919
+step-by-step things computers should do
+
+862
+00:27:58,559 --> 00:28:00,799
+that work we shouldn't be doing that
+
+863
+00:27:59,919 --> 00:28:03,039
+manually
+
+864
+00:28:00,799 --> 00:28:04,720
+that'll take a lot of our manual effort
+
+865
+00:28:03,039 --> 00:28:06,480
+away and allow us to focus on other
+
+866
+00:28:04,720 --> 00:28:08,960
+things that humans are really good at
+
+867
+00:28:06,480 --> 00:28:10,320
+that analysis part the design part the
+
+868
+00:28:08,960 --> 00:28:12,080
+implementation part
+
+869
+00:28:10,320 --> 00:28:14,640
+those creative aspects are what humans
+
+870
+00:28:12,080 --> 00:28:16,000
+are good at and as we get computers to
+
+871
+00:28:14,640 --> 00:28:18,159
+do more and more of the manual
+
+872
+00:28:16,000 --> 00:28:19,760
+stuff that the computers are good at
+
+873
+00:28:18,159 --> 00:28:21,120
+will get faster at what we're doing
+
+874
+00:28:19,760 --> 00:28:24,080
+that's usually a goal for the
+
+875
+00:28:21,120 --> 00:28:26,240
+organization because
+
+876
+00:28:24,080 --> 00:28:28,799
+i've never encountered a data reporting
+
+877
+00:28:26,240 --> 00:28:30,880
+group that didn't have too much to do
+
+878
+00:28:28,799 --> 00:28:32,880
+so finding ways to be able to get faster
+
+879
+00:28:30,880 --> 00:28:36,240
+would be great
+
+880
+00:28:32,880 --> 00:28:37,279
+well um i would say that the hardest
+
+881
+00:28:36,240 --> 00:28:39,039
+part of all this
+
+882
+00:28:37,279 --> 00:28:40,720
+really isn't you know the events of
+
+883
+00:28:39,039 --> 00:28:42,480
+scrum or the artifacts
+
+884
+00:28:40,720 --> 00:28:44,720
+having a product backlog or a sprint
+
+885
+00:28:42,480 --> 00:28:46,480
+backlog or even in
+
+886
+00:28:44,720 --> 00:28:48,799
+an increment per se or even having a
+
+887
+00:28:46,480 --> 00:28:50,720
+definition of done the real hard part is
+
+888
+00:28:48,799 --> 00:28:53,279
+thinking about this problem in this new
+
+889
+00:28:50,720 --> 00:28:54,880
+way uh most people try to use all of
+
+890
+00:28:53,279 --> 00:28:56,240
+their waterfall practices in the scrum
+
+891
+00:28:54,880 --> 00:28:57,360
+environment and you know fundamentally
+
+892
+00:28:56,240 --> 00:28:58,240
+you're just not going to get very much
+
+893
+00:28:57,360 --> 00:28:59,919
+benefit
+
+894
+00:28:58,240 --> 00:29:01,279
+i'll even be bold enough to see it just
+
+895
+00:28:59,919 --> 00:29:04,000
+doesn't work
+
+896
+00:29:01,279 --> 00:29:05,039
+so um learning to think in this new way
+
+897
+00:29:04,000 --> 00:29:06,960
+is the hard part
+
+898
+00:29:05,039 --> 00:29:08,640
+so there is a reference work i usually
+
+899
+00:29:06,960 --> 00:29:11,440
+point to people
+
+900
+00:29:08,640 --> 00:29:12,000
+in in the in the state of space ken
+
+901
+00:29:11,440 --> 00:29:14,880
+collier
+
+902
+00:29:12,000 --> 00:29:16,960
+who uh he may still be i at least was
+
+903
+00:29:14,880 --> 00:29:20,960
+the chief technology officer
+
+904
+00:29:16,960 --> 00:29:22,399
+of thoughtworks which is a pretty famous
+
+905
+00:29:20,960 --> 00:29:24,799
+maybe some would say infamous i don't
+
+906
+00:29:22,399 --> 00:29:26,320
+know but um the agile software
+
+907
+00:29:24,799 --> 00:29:27,840
+development organization
+
+908
+00:29:26,320 --> 00:29:29,600
+and ken collier wrote a book called
+
+909
+00:29:27,840 --> 00:29:32,559
+agile analytics
+
+910
+00:29:29,600 --> 00:29:34,399
+so this book breaks down how do you
+
+911
+00:29:32,559 --> 00:29:35,919
+develop data warehouse and reporting
+
+912
+00:29:34,399 --> 00:29:37,520
+capability
+
+913
+00:29:35,919 --> 00:29:39,520
+for your organization whether that's for
+
+914
+00:29:37,520 --> 00:29:42,000
+clients or within your own company
+
+915
+00:29:39,520 --> 00:29:43,360
+using agile practices and as he breaks
+
+916
+00:29:42,000 --> 00:29:44,559
+down how to do it
+
+917
+00:29:43,360 --> 00:29:46,320
+helps understand what are the
+
+918
+00:29:44,559 --> 00:29:47,360
+consequences and talk through how it's
+
+919
+00:29:46,320 --> 00:29:50,240
+different and
+
+920
+00:29:47,360 --> 00:29:52,640
+overcoming the different objections that
+
+921
+00:29:50,240 --> 00:29:55,200
+people have because this new way
+
+922
+00:29:52,640 --> 00:29:56,880
+of working seems to be quote unquote
+
+923
+00:29:55,200 --> 00:29:58,799
+inefficient
+
+924
+00:29:56,880 --> 00:30:00,399
+and from the old way of thinking it
+
+925
+00:29:58,799 --> 00:30:02,399
+probably is
+
+926
+00:30:00,399 --> 00:30:04,159
+but it's so much more effective in
+
+927
+00:30:02,399 --> 00:30:08,240
+delivering real value
+
+928
+00:30:04,159 --> 00:30:09,679
+that it's worth it um also as we grow
+
+929
+00:30:08,240 --> 00:30:12,159
+the definition of done
+
+930
+00:30:09,679 --> 00:30:14,960
+just to link this back in and ken's book
+
+931
+00:30:12,159 --> 00:30:16,159
+and again agile analytics by ken collier
+
+932
+00:30:14,960 --> 00:30:18,000
+as he talks about the different
+
+933
+00:30:16,159 --> 00:30:20,080
+practices you needed to adopt
+
+934
+00:30:18,000 --> 00:30:21,360
+like automated testing and continuous
+
+935
+00:30:20,080 --> 00:30:22,720
+integration and delivery and all of
+
+936
+00:30:21,360 --> 00:30:25,200
+those practices
+
+937
+00:30:22,720 --> 00:30:27,679
+as they apply in the in the data space
+
+938
+00:30:25,200 --> 00:30:30,159
+will actually get to be very efficient
+
+939
+00:30:27,679 --> 00:30:31,840
+in addition to being very effective
+
+940
+00:30:30,159 --> 00:30:37,840
+which is really the ultimate goal for
+
+941
+00:30:31,840 --> 00:30:37,840
+any group like this
+
+942
+00:30:39,039 --> 00:30:42,880
+yeah do they really are they going to
+
+943
+00:30:40,480 --> 00:30:44,080
+use and get them not just even use but
+
+944
+00:30:42,880 --> 00:30:46,080
+are they really going to achieve
+
+945
+00:30:44,080 --> 00:30:47,360
+their goals the customers goals are they
+
+946
+00:30:46,080 --> 00:30:50,320
+achieving their goals
+
+947
+00:30:47,360 --> 00:30:50,880
+with what we deliver and that'll require
+
+948
+00:30:50,320 --> 00:30:52,559
+this
+
+949
+00:30:50,880 --> 00:30:55,600
+new way of working so that we can
+
+950
+00:30:52,559 --> 00:30:58,080
+validate our hypothesis along the way
+
+951
+00:30:55,600 --> 00:30:59,840
+but also continue to raise the bar on
+
+952
+00:30:58,080 --> 00:31:02,240
+how we're developing in such a way that
+
+953
+00:30:59,840 --> 00:31:04,240
+we can do this very very rapidly
+
+954
+00:31:02,240 --> 00:31:05,919
+and adapt what we're doing so they get
+
+955
+00:31:04,240 --> 00:31:07,200
+better benefit maybe even than they
+
+956
+00:31:05,919 --> 00:31:08,640
+thought of
+
+957
+00:31:07,200 --> 00:31:10,480
+and um that's the way we're going to
+
+958
+00:31:08,640 --> 00:31:12,640
+beat our competition whatever that is in
+
+959
+00:31:10,480 --> 00:31:14,799
+the data world our competitors are often
+
+960
+00:31:12,640 --> 00:31:15,919
+you know excel spreadsheets and data
+
+961
+00:31:14,799 --> 00:31:18,799
+dumps that people are
+
+962
+00:31:15,919 --> 00:31:20,799
+are manually manipulating and unless we
+
+963
+00:31:18,799 --> 00:31:21,840
+can deliver something better and faster
+
+964
+00:31:20,799 --> 00:31:23,279
+than that
+
+965
+00:31:21,840 --> 00:31:25,200
+they're going to continue to use those
+
+966
+00:31:23,279 --> 00:31:26,640
+approaches and
+
+967
+00:31:25,200 --> 00:31:28,320
+what value we're delivering will always
+
+968
+00:31:26,640 --> 00:31:30,000
+be in question so
+
+969
+00:31:28,320 --> 00:31:31,200
+but that's that's the ultimate goal
+
+970
+00:31:30,000 --> 00:31:32,799
+we've got to help our customers be
+
+971
+00:31:31,200 --> 00:31:34,640
+successful that's the only way we can be
+
+972
+00:31:32,799 --> 00:31:36,720
+successful
+
+973
+00:31:34,640 --> 00:31:38,240
+well thank you very much mark this has
+
+974
+00:31:36,720 --> 00:31:42,000
+been awesome thanks for inviting me
+
+975
+00:31:38,240 --> 00:31:42,000
+appreciate it mark you're welcome thank
+
+976
+00:31:44,840 --> 00:31:47,840
+you
+
+977
+00:32:08,640 --> 00:32:10,720
+you
+
+

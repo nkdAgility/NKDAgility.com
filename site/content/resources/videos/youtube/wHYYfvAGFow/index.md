@@ -3,7 +3,7 @@ title: What is Taylorism and how did it influence project management?
 description: "Discover how Taylorism revolutionised project management, shaping work dynamics from the Industrial Revolution to today's people-centric approaches. \U0001F4C8\U0001F570️"
 date: 2023-02-22T07:00:28Z
 ResourceId: wHYYfvAGFow
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wHYYfvAGFow
@@ -20,16 +20,23 @@ aliases:
 - /resources/videos/wHYYfvAGFow
 - /resources/what-is-taylorism-and-how-did-it-influence-project-management-
 - /resources/wHYYfvAGFow
+aliasesFor404:
+- /resources/what-is-taylorism-and-how-did-it-influence-project-management
+- /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-
+- /resources/what-is-taylorism-and-how-did-it-influence-project-management-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Taylorism
-- Project Management
-- Product Development
-- Management
+- People and Process
+- Sociotechnical Systems
+- Complexity Thinking
 resourceTypes:
 - video
+categories:
+- Scrum
+- Product Management
+- Social Technologies
 
 ---
 What is Taylorism and how did it influence project management?

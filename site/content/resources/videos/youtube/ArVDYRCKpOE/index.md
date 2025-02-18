@@ -3,7 +3,7 @@ title: 'Quotes: Fake it until you make it'
 description: 'Explore the pros and cons of "fake it until you make it" in Agile with Martin Hinshelwood. Discover insights for inspired, high-performing teams! #agile #scrum'
 date: 2023-10-11T15:00:13Z
 ResourceId: ArVDYRCKpOE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ArVDYRCKpOE
@@ -20,37 +20,18 @@ aliases:
 - /resources/videos/ArVDYRCKpOE
 - /resources/quotes,-fake-it-until-you-make-it
 - /resources/ArVDYRCKpOE
+aliasesFor404:
+- /resources/quotes-fake-it-until-you-make-it
+- /resources/videos/quotes,-fake-it-until-you-make-it
+- /resources/quotes,-fake-it-until-you-make-it
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- Miscellaneous
 resourceTypes:
 - video
+categories: []
 
 ---
 ## Navigating its Limits in Agile Work Environments 

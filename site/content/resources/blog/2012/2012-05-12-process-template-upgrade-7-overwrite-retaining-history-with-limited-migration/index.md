@@ -2,14 +2,13 @@
 title: 'Process Template Upgrade #7 – Rename Work Items and Import new ones'
 description: Learn how to upgrade your TFS process template while preserving work item history. Follow these essential steps for a smooth transition and minimal disruption.
 ResourceId: 8bwduNxH7WG
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 5277
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-05-12
 creator: Martin Hinshelwood
-id: "5277"
 layout: blog
 resourceTypes: blog
 slug: process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
@@ -25,14 +24,13 @@ aliasesFor404:
 - /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 - /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
+- /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 tags:
-- configuration
-- infrastructure
-- tf400508
-- tfs
-- tools
+- Install and Configuration
 categories:
-- upgrade-and-maintenance
+- Scrum
+- Engineering Excellence
+- DevOps
 
 ---
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved. Although the original list had only #6 options lets look at the #7 option…

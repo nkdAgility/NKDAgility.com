@@ -3,7 +3,7 @@ title: Why do you think the Advanced PSPO course is a perfect fit for entreprene
 description: Discover how the Advanced PSPO course empowers entrepreneurs to master product vision and management, shaping impactful product development strategies.
 date: 2023-05-08T07:00:15Z
 ResourceId: spfK8bCulwU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: spfK8bCulwU
@@ -16,26 +16,24 @@ aliases:
 - /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 - /resources/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 - /resources/spfK8bCulwU
+aliasesFor404:
+- /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
+- /resources/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: false
 tags:
-- PSPO
-- PSPO-A
-- Professional Scrum Product Owner
-- Professional Scrum Product Owner - Advanced
-- Scrum.Org
-- Scrum Training
+- Agile Product Management
 - Product Owner
-- Product Ownership
-- Product Manager
-- Product Management
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
  A great #productowner is a game-changer in the organization because they help shape and articulate the product vision, mission, and goals. People like Steve Jobs who create and sustain a standard of #productdevelopment that captures the imagination of an entire generation.

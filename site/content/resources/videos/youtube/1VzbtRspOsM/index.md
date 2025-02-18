@@ -3,7 +3,7 @@ title: How Immersive Learning Transforms Aspiring Agile Leaders
 description: Discover why the PAL-E immersive learning experience is essential for aspiring agile leaders, blending scrum training with hands-on coaching for effective transition.
 date: 2023-11-24T07:00:00Z
 ResourceId: 1VzbtRspOsM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1VzbtRspOsM
@@ -19,36 +19,29 @@ aliases:
 - /resources/videos/1VzbtRspOsM
 - /resources/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 - /resources/1VzbtRspOsM
+aliasesFor404:
+- /resources/how-immersive-learning-transforms-aspiring-agile-leaders
+- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
+- /resources/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- People and Process
+- Discovery and Learning
+- Agile Leadership
+- Organisational Culture
+- Continuous Learning
+- Organisational Change
+- Coaching
+- Team Collaboration
+- Team Motivation
+- Personal
 resourceTypes:
 - video
 layout: video
+categories:
+- Leadership
 
 ---
 Aspiring agile leaders often face significant challenges when trying to shift organizational culture. They encounter barriers to having the necessary deep conversations and find themselves short on time and space to implement the changes they envision. In today’s fast-paced environments, making that leap to true agile leadership can feel daunting. That's where immersive learning experiences, like the PAL-E (Professional Agile Leadership Essentials) class, come in to play. These courses create room for both reflection and action, driving real, sustainable change within organizations.

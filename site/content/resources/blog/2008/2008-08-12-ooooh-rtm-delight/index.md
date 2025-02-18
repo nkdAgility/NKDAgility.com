@@ -2,14 +2,13 @@
 title: Ooooh, RTM Delight
 description: Discover the latest in Visual Studio 2008 and Team Foundation Server 2008 with performance boosts and new features that enhance your development experience!
 ResourceId: i8GZ_Yop1t_
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 212
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-12
 creator: Martin Hinshelwood
-id: "212"
 layout: blog
 resourceTypes: blog
 slug: ooooh-rtm-delight
@@ -29,14 +28,14 @@ aliasesFor404:
 - /blog/ooooh,-rtm-delight
 - /ooooh--rtm-delight
 - /blog/ooooh--rtm-delight
+- /resources/blog/ooooh-rtm-delight
 tags:
-- tfs
-- tfs2008
-- tools
-- visual-studio
-- vs2008
-- wpf
+- News and Reviews
+- Release Management
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- Engineering Excellence
 
 ---
 Well, MSDN will be busy today… Visual Studio 2008 Beta 1, Team Foundation Server 2008 Beta 1 and .NET Framework Beta 1 have all been released today. This is grate news as I have been using the Beta for about as long as it has been available and all those applications I have waiting in the wings can now go live :), Or at least get into the final phase of development.

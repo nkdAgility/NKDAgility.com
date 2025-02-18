@@ -3,7 +3,7 @@ title: How did you come to be a preferred Scrum training supplier for Microsoft?
 description: Discover how Martin Hinshelwood became the preferred Scrum training supplier for Microsoft, empowering their agile journey in product development.
 date: 2023-05-10T07:00:17Z
 ResourceId: tUC5TainG2E
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tUC5TainG2E
@@ -20,17 +20,20 @@ aliases:
 - /resources/videos/tUC5TainG2E
 - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 - /resources/tUC5TainG2E
+aliasesFor404:
+- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
+- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
+- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Microsoft
-- Agile at Microsoft
-- Scrum at Microsoft
-- Scrum Training for Microsoft
-- Agile Scrum training for Microsoft
+- People and Process
+- Personal
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"

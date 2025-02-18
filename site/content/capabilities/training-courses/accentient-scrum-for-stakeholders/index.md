@@ -1,29 +1,46 @@
 ---
 title: Scrum for Stakeholders Training
+description: Join this interactive class to discover what Scrum is, its benefits, and how it transforms your work. Engage in discussions and team activities for real insights!
+ResourceId: 33qyqKjBf3T
+ResourceImport: true
+ResourceType: course
 date: 2020-08-31
 creator: Martin Hinshelwood
-id: "44728"
 type: course
 slug: scrum-for-stakeholders-training
-url:
+url: 
 aliases:
-  - /training-courses/scrum-for-stakeholders
-  - /training-courses/scrum-for-stakeholders-training/
-  - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+- /training-courses/scrum-for-stakeholders
+- /training-courses/scrum-for-stakeholders-training/
+- /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+- /resources/33qyqKjBf3T
+aliasesFor404:
+- /training-courses/scrum-for-stakeholders
+- /training-courses/scrum-for-stakeholders-training/
+- /capabilities/training-courses/accentient/scrum-for-stakeholders-training
 course-topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course-vendors:
-  - Accentient
+- Accentient
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - Product Managers
+- Product Managers
 tags:
+- Scrum Product Development
+- Agile Project Management
+- Agile Product Management
+- Professional Scrum
+- Software Development
+- Agile Frameworks
+- Agile Transformation
+- People and Process
 categories:
-  - agility
-preview:
+- Scrum
+- Social Technologies
+preview: 
 previewIcon: A-S4S.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -54,14 +71,14 @@ outcomes: |2+
   7. New Ways of Measuring Success
   8. Roadmap
 
-assessment:
-objectives:
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+assessment: 
+objectives: 
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 This instructor-led class is intended to answer three questions commonly asked by Stakeholders: *What is Scrum? Why will Scrum be better for me? How will I work differently going forward.* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities and discussions, attendees will experience and see the truth behind those answers.

@@ -2,14 +2,13 @@
 title: 'TFS Build reports Licencies.licx: unable to load type'
 description: Discover solutions for the 'unable to load type' error in TFS build reports. Learn how to streamline your CI builds and enhance your development process.
 ResourceId: om6UWMd_ONd
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10730
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-23
 creator: Martin Hinshelwood
-id: "10730"
 layout: blog
 resourceTypes: blog
 slug: tfs-build-reports-licencies-licx-unable-load-type
@@ -25,11 +24,20 @@ aliasesFor404:
 - /blog/tfs-build-reports-licencies-licx-unable-load-type
 - /tfs-build-reports-licencies-licx--unable-to-load-type
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
+- /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
-- build
-- tf-build
+- Install and Configuration
+- Practical Techniques and Tooling
+- Software Development
+- Technical Excellence
+- Continuous Integration
+- Troubleshooting
+- System Configuration
+- Pragmatic Thinking
+- Operational Practices
+- Release Management
 categories:
-- problems-and-puzzles
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

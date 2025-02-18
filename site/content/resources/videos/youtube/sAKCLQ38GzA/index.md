@@ -3,7 +3,7 @@ title: Does 'starting with why' - Simon Sinek - really matter?
 description: Explore the essence of motivation beyond money! Discover how 'starting with why' fuels intrinsic drive and purpose in the workplace.
 date: 2023-10-19T08:22:23Z
 ResourceId: sAKCLQ38GzA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sAKCLQ38GzA
@@ -20,37 +20,30 @@ aliases:
 - /resources/videos/sAKCLQ38GzA
 - /resources/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/sAKCLQ38GzA
+aliasesFor404:
+- /resources/does-starting-with-why-simon-sinek-really-matter
+- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
+- /resources/does-'starting-with-why'-simon-sinek-really-matter-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
+- People and Process
+- Team Motivation
+- Agile Product Operating Model
+- Strategic Goals
+- Organisational Culture
+- Product Strategy
+- Employee Engagement
+- Agile Strategy
+- Organisational Physics
+- Organisational Psychology
 resourceTypes:
 - video
+categories:
+- Leadership
+- Social Technologies
+- Product Management
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

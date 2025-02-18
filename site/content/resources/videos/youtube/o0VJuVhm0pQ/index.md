@@ -3,7 +3,7 @@ title: In high competition markets, how does scrum product development help acqu
 description: "Unlock Scrum's potential in competitive markets! Discover how it enhances product development, boosts innovation, and drives customer retention. \U0001F680\U0001F4C8"
 date: 2023-02-13T07:00:21Z
 ResourceId: o0VJuVhm0pQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: o0VJuVhm0pQ
@@ -20,16 +20,30 @@ aliases:
 - /resources/videos/o0VJuVhm0pQ
 - /resources/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
 - /resources/o0VJuVhm0pQ
+aliasesFor404:
+- /resources/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
+- /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
+- /resources/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Product Development
-- Project Management
-- Agile Leadership
+- Scrum Product Development
+- Empirical Process Control
+- People and Process
+- Value Delivery
+- Agile Product Management
+- Software Development
+- Product Delivery
+- Agile Project Management
+- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- Scrum
+- Product Management
+- Social Technologies
 
 ---
 In high competition markets, how does scrum product development help acquire and retain customers?

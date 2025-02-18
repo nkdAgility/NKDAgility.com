@@ -1,4 +1,5 @@
 # Helpers
+. ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/YoutubeAPI.ps1
 
 Write-Host "Running v4"
@@ -19,7 +20,7 @@ $captionsDownloadLimit = 25
 $accessToken = Get-OAuthTokenFromRefreshToken -clientId $env:GOOGLE_CLINET_ID -clientSecret $env:GOOGLE_CLINET_SECRET -refreshToken $env:GOOGLE_REFRESH_TOKEN
 
 if (-not $accessToken) {
-    Write-Host "ERROR: Access token not found. Exiting." -ForegroundColor Red
+    Write-Host "ERROR: Access token not found. Exiting."
     exit 1
 }
 
@@ -41,10 +42,10 @@ if (Test-Path $dataFilePath) {
     $lastSearchDate = Get-Date $videoData.SearchDate
     $fileAgeHours = (Get-Date) - $lastSearchDate
     if ($fileAgeHours.TotalHours -lt $maxYoutubeDataAgeHours) {
-        Write-Host "$dataFilePath is up to date (Last search: $lastSearchDate)." -ForegroundColor Yellow
+        Write-Host "$dataFilePath is up to date (Last search: $lastSearchDate)." 
     }
     else {
-        Write-Host "$dataFilePath is outdated (Last search: $lastSearchDate)." -ForegroundColor Cyan
+        Write-Host "$dataFilePath is outdated (Last search: $lastSearchDate)."
         $fetchYoutubeChannelVideos = $true
     }
 }
@@ -79,6 +80,7 @@ foreach ($video in $videoData.Videos) {
 
     if ($env:GOOGLE_QUOTA_OK -eq $false) {
         Write-Host "  No Quota: Skipping" -ForegroundColor Yellow
+        $captionsDownloadMissing++
         continue;
     }
    

@@ -13,7 +13,7 @@ function Get-YoutubeChannelVideos {
         return
     }
 
-    Write-Host "Fetching video list for channel: $channelId using $authType"
+    Write-Debug "Fetching video list for channel: $channelId using $authType"
 
     $searchDate = Get-Date -Format "yyyy-MM-ddTHH:mm:ss" # ISO 8601 timestamp
     $uploadsPlaylistId = $null
@@ -27,7 +27,7 @@ function Get-YoutubeChannelVideos {
         $headers = @{ Authorization = "Bearer $token" }
         $channelResponse = Invoke-RestMethod -Uri $channelApiUrl -Headers $headers -Method Get
         $uploadsPlaylistId = $channelResponse.items[0].contentDetails.relatedPlaylists.uploads
-        Write-Host "Uploads playlist ID retrieved: $uploadsPlaylistId"
+        Write-Debug "Uploads playlist ID retrieved: $uploadsPlaylistId"
     }
     catch {
         Write-Error "Failed to fetch uploads playlist ID: $($_.Exception.Message)"
@@ -41,7 +41,7 @@ function Get-YoutubeChannelVideos {
             $headers = @{ Authorization = "Bearer $token" }
         
             $playlistResponse = Invoke-RestMethod -Uri $playlistApiUrl -Headers $headers -Method Get
-            Write-Host "  Parsing Page $page with $($playlistResponse.items.Count) videos"
+            Write-Debug "  Parsing Page $page with $($playlistResponse.items.Count) videos"
             $allVideosData += $playlistResponse.items
             $nextPageToken = $playlistResponse.nextPageToken
             $page++
@@ -52,7 +52,7 @@ function Get-YoutubeChannelVideos {
         }
     } while ($nextPageToken)
 
-    Write-Host "Retrieved $($allVideosData.Count) videos from uploads playlist."
+    Write-Debug "Retrieved $($allVideosData.Count) videos from uploads playlist."
 
     # Return an object containing the search date and basic video list
     return @{
@@ -94,34 +94,34 @@ function Get-YoutubeVideoData {
     
     # Ensure API key is defined
     if (-not $token) {
-        Write-Host "token is missing.." -ForegroundColor Red
+        Write-Debug "token is missing.." 
         return $null
     }
 
     # Ensure videoId is valid
     if (-not $videoId) {
-        Write-Host "Invalid videoId provided." -ForegroundColor Red
+        Write-Debug "Invalid videoId provided."
         return $null
     }
 
-    Write-Host "Working on Data for: $videoId" -ForegroundColor Green
+    Write-Debug "Working on Data for: $videoId"
     $videoDetailsUrl = "https://www.googleapis.com/youtube/v3/videos?id=$videoId&part=snippet,contentDetails,statistics,status"
     $headers = @{ Authorization = "Bearer $token" }
     try {
         $videoDetails = Invoke-RestMethod -Uri $videoDetailsUrl -Method Get -Headers $headers -ErrorAction Stop
         if ($null -eq $videoDetails -or $null -eq $videoDetails.items -or $videoDetails.items.Count -eq 0) {
-            Write-Host "No data found for video: $videoId" -ForegroundColor Yellow
+            Write-Debug "No data found for video: $videoId" 
             return $null
         }
 
         $videoData = $videoDetails.items[0]
 
-        Write-Host "Data found for video: $videoId" -ForegroundColor Green
+        Write-Debug "Data found for video: $videoId" 
         return $videoData
     }
     catch {
-        Write-Host "Error fetching data for video: $videoId" -ForegroundColor Red
-        Write-Host $_.Exception.Message -ForegroundColor Red
+        Write-Debug "Error fetching data for video: $videoId" 
+        Write-Debug $_.Exception.Message 
         return $null
     }
 }
@@ -137,17 +137,17 @@ function Get-YouTubeCaptionsData {
 
     # Ensure API key is defined
     if (-not $token) {
-        Write-Host "API Key is missing. Please set the API Key." -ForegroundColor Red
+        Write-Debug "API Key is missing. Please set the API Key." 
         return $null
     }
 
     # Ensure videoId is valid
     if (-not $videoId) {
-        Write-Host "Invalid videoId provided." -ForegroundColor Red
+        Write-Debug "Invalid videoId provided."
         return $null
     }
 
-    Write-Host "Getting caption data for: $videoId" -ForegroundColor Green
+    Write-Debug "Getting caption data for: $videoId"
     $captionsUrl = "https://www.googleapis.com/youtube/v3/captions?videoId=$videoId&part=snippet"
     $headers = @{ Authorization = "Bearer $token" }
     try {
@@ -168,7 +168,7 @@ function Get-YouTubeCaptionsData {
             }
         }
         else {
-            Write-Host "No captions found for video: $videoId" -ForegroundColor Yellow
+            Write-Debug "No captions found for video: $videoId"
         }
 
         return $captionsData
@@ -179,14 +179,14 @@ function Get-YouTubeCaptionsData {
             $errorObject = $_.ErrorDetails | ConvertFrom-Json
             # Extract the "reason" field
             $reason = $errorObject.error.errors[0].reason
-            Write-Host "Error Reason: $reason"
+            Write-Debug "Error Reason: $reason"
             if ($reason -eq "quotaExceeded") {
-                Write-Host "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests."
                 $env:GOOGLE_QUOTA_OK = $false
             }
         }
         else {
-            Write-Host "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+            Write-Debug "Error downloading caption: $($_.Exception.Message)" 
         }
         return $null
     }
@@ -234,20 +234,20 @@ function Get-YouTubeCaptions {
             $errorObject = $_.ErrorDetails | ConvertFrom-Json
             # Extract the "reason" field
             $reason = $errorObject.error.errors[0].reason
-            Write-Host "Error Reason: $reason"
+            Write-Debug "Error Reason: $reason"
             if ($reason -eq "quotaExceeded") {
-                Write-Host "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests."
                 $env:GOOGLE_QUOTA_OK = $false
             }
         }
         else {
-            Write-Host "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+            Write-Debug "Error downloading caption: $($_.Exception.Message)"
         }
         return $null
     }
 }
 
-# Function to download a caption file with a check if $captionContent is empty and decode if necessary
+# Function to download a caption file with proper ASCII and UTF-8 handling
 function Get-YouTubeCaption {
     param (
         [Parameter(Mandatory = $true)]
@@ -256,53 +256,60 @@ function Get-YouTubeCaption {
         [string]$token
     )
 
-    # Specify the format as SRT by adding 'tfmt=srt' to the URL
     $downloadUrl = "https://www.googleapis.com/youtube/v3/captions/$captionId/?tfmt=srt"
     $headers = @{"Authorization" = "Bearer $token" }
 
-    # Use Invoke-WebRequest for binary or non-JSON/XML responses
     try {
         $response = Invoke-WebRequest -Uri $downloadUrl -Headers $headers -Method Get
         $captionContent = $response.Content
 
-        # Check if the content is potentially ASCII-encoded (only contains numbers and whitespace)
-        if ($captionContent -match '^(\d+(\s\d+)*\r?\n?)+$') {
-            Write-Host "Content appears to be ASCII-encoded. Decoding..." -ForegroundColor Yellow
+        # Convert to byte array and check encoding
+        $bytes = [System.Text.Encoding]::UTF8.GetBytes($captionContent)
+        $utf8Decoded = [System.Text.Encoding]::UTF8.GetString($bytes)
 
-            # Decode the ASCII-encoded content
+        # If it contains non-ASCII characters, assume it's already UTF-8
+        if ($utf8Decoded -match '[^\x00-\x7F]') {
+            Write-Debug "Content is UTF-8. Returning as-is." 
+            return $utf8Decoded
+        }
+
+        # Otherwise, check if it's numeric ASCII-encoded content
+        if ($utf8Decoded -match '^(\d+(\s\d+)*\r?\n?)+$') {
+            Write-Debug "Content appears to be ASCII-encoded text. Decoding..." 
             $decodedContent = ""
-            foreach ($line in $captionContent -split "`n") {
+
+            foreach ($line in $utf8Decoded -split "\s+") {
                 if ($line -match '^\d+$') {
                     $decodedContent += [char][int]$line
-                } else {
+                }
+                else {
                     $decodedContent += "`n" + $line
                 }
             }
-
             return $decodedContent
-        } else {
-            Write-Host "Content is already decoded." -ForegroundColor Green
-            return $captionContent
         }
+
+        # If no encoding issue is detected, return content as is
+        Write-Debug "Content is ASCII text. Returning as-is." 
+        return $utf8Decoded
     }
     catch {
         if ($_.ErrorDetails) {
-            # Parse the error response from the error details
             $errorObject = $_.ErrorDetails | ConvertFrom-Json
-
-            # Extract the "reason" field
             $reason = $errorObject.error.errors[0].reason
-            Write-Host "Error Reason: $reason"
+            Write-Debug "Error Reason: $reason"
             if ($reason -eq "quotaExceeded") {
-                Write-Host "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests." -ForegroundColor Red
+                Write-Debug "Quota Exceeded. Set GOOGLE_QUOTA_OK to false to stop further requests."
                 $env:GOOGLE_QUOTA_OK = $false
             }
-        } else {
-            Write-Host "Error downloading caption: $($_.Exception.Message)" -ForegroundColor Red
+        }
+        else {
+            Write-Debug "Error downloading caption: $($_.Exception.Message)"
         }
         return $null
     }
 }
+
 
 
 # Function to get authorization code from user
@@ -315,8 +322,8 @@ function Get-AuthorizationCode {
 
     # Construct the authorization URL
     $authUrl = "https://accounts.google.com/o/oauth2/auth?client_id=$clientId&redirect_uri=$redirectUri&response_type=code&scope=$scope"
-    Write-Host "Open this URL in your browser to authorize the application:"
-    Write-Host $authUrl
+    Write-Debug "Open this URL in your browser to authorize the application:"
+    Write-Debug $authUrl
 
     # Open the URL in the default browser
     Start-Process $authUrl
@@ -326,7 +333,7 @@ function Get-AuthorizationCode {
     $listener.Prefixes.Add($redirectUri + "/")
     $listener.Start()
 
-    Write-Host "Waiting for authorization response..."
+    Write-Debug "Waiting for authorization response..."
 
     # Step 3: Wait for the OAuth response and extract the authorization code
     $context = $listener.GetContext()
@@ -368,4 +375,4 @@ function Get-TokensFromAuthCode {
 }
 
 
-Write-Host "YoutubeAPI.ps1 loaded" -ForegroundColor Green
+Write-Debug "YoutubeAPI.ps1 loaded"

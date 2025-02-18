@@ -3,7 +3,7 @@ title: 'Turning User Feedback into Actionable Work: A Guide to Maximizing Produc
 description: Unlock the secrets of Agile Product Management! Discover how short feedback loops can enhance product value and customer satisfaction in under a month.
 date: 2024-07-10T06:45:01Z
 ResourceId: OZt-5iszx-I
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OZt-5iszx-I
@@ -20,15 +20,28 @@ aliases:
 - /resources/videos/OZt-5iszx-I
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 - /resources/OZt-5iszx-I
+aliasesFor404:
+- /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Product Management
-- Agile product management
+- Product Owner
+- Product Validation
+- Discovery and Learning
+- Customer Feedback Loops
+- Agile Product Operating Model
+- Value Delivery
+- Product Delivery
+- Agile Product Management
+- Business Agility
+- Agile Project Management
 resourceTypes:
 - video
+categories:
+- Product Management
 
 ---
 In the fast-paced world of Agile development, one of the most critical aspects of delivering value is how effectively we turn user feedback into concrete work items. It’s not just about listening to what our users have to say; it's about taking that feedback and quickly transforming it into actions that improve our product. If your feedback loop is slow, your product’s value might be diminishing. Let's explore how to shorten that timeline, ensuring that user feedback fuels continuous improvement and high-value delivery.

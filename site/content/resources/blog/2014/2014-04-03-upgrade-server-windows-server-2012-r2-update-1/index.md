@@ -2,14 +2,13 @@
 title: Upgrade your server to Windows Server 2012 R2 Update 1
 description: Upgrade your server to Windows Server 2012 R2 Update 1 with our step-by-step guide. Ensure your systems are up-to-date for optimal performance and security.
 ResourceId: KyDt7UnJIhX
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10472
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-03
 creator: Martin Hinshelwood
-id: "10472"
 layout: blog
 resourceTypes: blog
 slug: upgrade-server-windows-server-2012-r2-update-1
@@ -25,13 +24,10 @@ aliasesFor404:
 - /blog/upgrade-server-windows-server-2012-r2-update-1
 - /upgrade-your-server-to-windows-server-2012-r2-update-1
 - /blog/upgrade-your-server-to-windows-server-2012-r2-update-1
+- /resources/blog/upgrade-server-windows-server-2012-r2-update-1
 tags:
-- windows
-- windows-8-1
-- windows-server
-categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Windows
+categories: []
 preview: nakedalm-windows-logo-6-6.png
 
 ---

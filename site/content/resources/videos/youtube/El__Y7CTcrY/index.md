@@ -3,7 +3,7 @@ title: 'The Power of Immersive Learning in Scrum Training: Why Less Is More'
 description: 'Discover 5 reasons why Martin Hinshelwood loves immersive learning for students in Scrum. Join us for Part 1 of this insightful journey! #Agile #Scrum'
 date: 2024-01-31T14:44:15Z
 ResourceId: El__Y7CTcrY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: El__Y7CTcrY
@@ -20,35 +20,23 @@ aliases:
 - /resources/videos/El__Y7CTcrY
 - /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 - /resources/El__Y7CTcrY
+aliasesFor404:
+- /resources/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+- /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
+- /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- People and Process
+- Discovery and Learning
+- Continuous Learning
+- Coaching
+- Personal
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 One of the most rewarding aspects of teaching Scrum is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.

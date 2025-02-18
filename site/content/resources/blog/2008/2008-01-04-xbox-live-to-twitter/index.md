@@ -2,14 +2,13 @@
 title: Xbox Live To Twitter
 description: Discover how to connect your Xbox Live updates to Twitter with a custom application. Download the source code and enhance your gaming experience!
 ResourceId: 7DGS8UR6dab
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 271
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-04
 creator: Martin Hinshelwood
-id: "271"
 layout: blog
 resourceTypes: blog
 slug: xbox-live-to-twitter
@@ -21,10 +20,10 @@ aliases:
 aliasesFor404:
 - /xbox-live-to-twitter
 - /blog/xbox-live-to-twitter
+- /resources/blog/xbox-live-to-twitter
 tags:
-- xbox
-categories:
-- me
+- Troubleshooting
+categories: []
 preview: metro-xbox-360-link-1-1.png
 
 ---

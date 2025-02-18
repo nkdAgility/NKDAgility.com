@@ -2,14 +2,13 @@
 title: 'VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper'
 description: Resolve VSS to TFS import issues with our guide on TF60014 & TF60087 errors. Learn how to fix user mapping problems and streamline your migration process.
 ResourceId: a2ptmGZFk8P
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 6124
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-28
 creator: Martin Hinshelwood
-id: "6124"
 layout: blog
 resourceTypes: blog
 slug: vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
@@ -25,16 +24,12 @@ aliasesFor404:
 - /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 - /vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
 - /blog/vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
+- /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 tags:
-- kb
-- puzzles
-- tf60014
-- tf60087
-- tfs
-- tfs2010
-- visual-sourcesafe
-categories:
-- problems-and-puzzles
+- Install and Configuration
+- Troubleshooting
+- Software Development
+categories: []
 preview: metro-problem-icon-2-2.png
 
 ---

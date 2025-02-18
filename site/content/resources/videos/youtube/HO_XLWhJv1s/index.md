@@ -3,7 +3,7 @@ title: Professional Scrum Product Owner (PSPO) Overview to discover product mana
 description: Unlock your potential as a Product Owner! Join our interactive PSPO course to master essential skills and drive product value in Agile teams.
 date: 2022-08-18T15:37:37Z
 ResourceId: HO_XLWhJv1s
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HO_XLWhJv1s
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/professional-scrum-product-owner-(pspo)-overview-to-discover-product-management-skills-&-practices
 - /resources/professional-scrum-product-owner-(pspo)-overview-to-discover-product-management-skills-&-practices
 - /resources/HO_XLWhJv1s
+aliasesFor404:
+- /resources/videos/professional-scrum-product-owner-(pspo)-overview-to-discover-product-management-skills-&-practices
+- /resources/professional-scrum-product-owner-(pspo)-overview-to-discover-product-management-skills-&-practices
 preview: https://i.ytimg.com/vi/HO_XLWhJv1s/maxresdefault.jpg
 duration: 137
 isShort: false
@@ -26,6 +29,18 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Scrum
+- Product Management
+- Social Technologies
+tags:
+- Agile Product Management
+- Product Owner
+- Professional Scrum
+- Scrum Product Development
+- Agile Project Management
+- People and Process
+- Value Delivery
 
 ---
  The Professional Scrum Product Owner is a hands-on, activity-based course where students explore Professional Scrum and develop an understanding of the Product Owner's critical role on the Scrum Team. 
