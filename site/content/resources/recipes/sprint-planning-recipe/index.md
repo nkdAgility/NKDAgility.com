@@ -1,36 +1,50 @@
 ---
 title: Sprint Planning Recipe
+description: Master Sprint Planning with this guide! Learn to craft effective goals, select backlog items, and create actionable plans for successful sprints.
+ResourceId: D1dSEM9ni3C
+ResourceImport: false
+ResourceType: recipes
 resourceTypes: recipe
 layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
 date: 2024-09-17
 aliases:
-  - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+- /resources/D1dSEM9ni3C
+aliasesFor404:
+- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
 recommendedContent:
-  - collection: practices
-    path: _practices/professional-sprint-planning.md
-  - collection: guides
-    path: _guides/manifesto-for-agile-software-development.md
-  - collection: guides
-    path: _guides/scrum-guide.md
+- collection: practices
+  path: _practices/professional-sprint-planning.md
+- collection: guides
+  path: _guides/manifesto-for-agile-software-development.md
+- collection: guides
+  path: _guides/scrum-guide.md
 videos:
-  - title: What is the most common mistake in sprint planning?
-    embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
-  - title: What is sprint planning?
-    embed: https://www.youtube.com/embed/nMkit8zBxG0
-  - title: "What is your #1 tip for effective sprint planning?"
-    embed: https://www.youtube.com/embed/uQ786VBz3Jw
-  - title: "How does a scrum team plan and prioritize work effectively?"
-    embed: https://www.youtube.com/embed/sPmUuSy7G3I
-
+- title: What is the most common mistake in sprint planning?
+  embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
+- title: What is sprint planning?
+  embed: https://www.youtube.com/embed/nMkit8zBxG0
+- title: 'What is your #1 tip for effective sprint planning?'
+  embed: https://www.youtube.com/embed/uQ786VBz3Jw
+- title: How does a scrum team plan and prioritize work effectively?
+  embed: https://www.youtube.com/embed/sPmUuSy7G3I
 card:
   button:
     content: Learn More
   content: Discover more about Sprint Planning Recipe and how it can help you in your Agile journey!
   title: Sprint Planning Recipe
----
+categories:
+- Scrum
+- Social Technologies
+tags:
+- Scrum Product Development
+- Professional Scrum
+- Agile Planning
+- Agile Project Management
 
+---
 The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire Scrum Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the Scrum Team has going in, the shorter it will be. That is, if the Product Backlog is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.
 
 I would expect a typical Sprint Planning to take from 30-120 minutes if there is a clear understanding.

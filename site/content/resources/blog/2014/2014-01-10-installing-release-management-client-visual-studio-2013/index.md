@@ -2,14 +2,13 @@
 title: Installing Release Management Client for Visual Studio 2013
 description: Learn how to install the Release Management Client for Visual Studio 2013 effortlessly. Streamline your release pipeline with this quick and easy guide!
 ResourceId: FuoEoqFDuqx
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10321
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-10
 creator: Martin Hinshelwood
-id: "10321"
 layout: blog
 resourceTypes: blog
 slug: installing-release-management-client-visual-studio-2013
@@ -25,16 +24,11 @@ aliasesFor404:
 - /blog/installing-release-management-client-visual-studio-2013
 - /installing-release-management-client-for-visual-studio-2013
 - /blog/installing-release-management-client-for-visual-studio-2013
+- /resources/blog/installing-release-management-client-visual-studio-2013
 tags:
-- inrelease
-- release-management
-- release-management-client
-- tfs
-- tfs-2013
-- visual-studio-2013
-- visual-studio
+- Install and Configuration
 categories:
-- install-and-configuration
+- DevOps
 
 ---
 With the addition of the new Release Management Client for Visual Studio 2013 to the Visual Studio ALM roundup many folks are going to be giving it a go. If you might remember some of my post during the preview days of this tool there were some issue with installing it. It looks like Microsoft has gotten most of them sorted out and I can now get everything installed.

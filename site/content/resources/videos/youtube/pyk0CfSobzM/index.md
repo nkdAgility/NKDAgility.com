@@ -3,7 +3,7 @@ title: How does a Scrum team estimate what can be delivered in a Sprint?
 description: "Master Sprint estimation in Scrum! Join Martin as he navigates the challenges of creative tasks and effective planning. Perfect for agile enthusiasts! \U0001F680"
 date: 2023-06-01T07:00:31Z
 ResourceId: pyk0CfSobzM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pyk0CfSobzM
@@ -20,38 +20,29 @@ aliases:
 - /resources/videos/pyk0CfSobzM
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - /resources/pyk0CfSobzM
+aliasesFor404:
+- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
+- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Work estimations
-- Estimation in scrum
-- Estimation in agile
-- agile forecasting
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
+- Estimation
 - Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Scrum Team
+- Professional Scrum
+- Scrum Master
+- People and Process
+- Agile Product Management
+- Agile Frameworks
+- Software Development
+- Agile Planning
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in Scrum Teams

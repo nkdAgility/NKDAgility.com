@@ -3,7 +3,7 @@ title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 description: "Discover how to avoid rigid product ownership in Agile! Join Martin as he shares insights on fostering team engagement and achieving true Agile success. \U0001F680"
 date: 2024-01-10T07:00:11Z
 ResourceId: EoInrPvjBHo
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: EoInrPvjBHo
@@ -20,35 +20,28 @@ aliases:
 - /resources/videos/EoInrPvjBHo
 - /resources/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/EoInrPvjBHo
+aliasesFor404:
+- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+- /resources/5-kinds-of-agile-bandits-product-owner-bandits
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Owner
+- People and Process
+- Agile Project Management
+- Agile Product Management
+- Agile Product Operating Model
+- Team Motivation
+- Personal
+- Employee Engagement
+- Agile Philosophy
 resourceTypes:
 - video
+categories:
+- Product Management
+- Social Technologies
 
 ---
 In Agile, there's a common misconception that leads to what I like to call "Agile Banditry." Product Owners, when misguided, can fall into the trap of treating their role as a project manager, dictating every step of the team’s progress like an overbearing taskmaster. This often leads to disengagement, frustration, and ultimately, a failed product. In this blog, we’ll explore the dangers of Agile Banditry and how Product Owners can avoid this trap, enabling their teams to thrive.

@@ -2,14 +2,13 @@
 title: Windows Mobile 6 Black Shadow (4.0)
 description: Discover the benefits of updating to Windows Mobile 6 Black Shadow (4.0) with expert tips and a step-by-step guide for a smooth installation experience!
 ResourceId: zVL1JtizXQg
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 375
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-21
 creator: Martin Hinshelwood
-id: "375"
 layout: blog
 resourceTypes: blog
 slug: windows-mobile-6-black-shadow-4-0
@@ -25,10 +24,10 @@ aliasesFor404:
 - /blog/windows-mobile-6-black-shadow-4-0
 - /windows-mobile-6-black-shadow-(4-0)
 - /blog/windows-mobile-6-black-shadow-(4-0)
+- /resources/blog/windows-mobile-6-black-shadow-4-0
 tags:
-- windows-mobile-6
-categories:
-- products-and-books
+- Install and Configuration
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

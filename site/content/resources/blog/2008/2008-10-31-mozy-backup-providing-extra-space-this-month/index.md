@@ -2,14 +2,13 @@
 title: Mozy Backup providing extra space this month
 description: Discover how Mozy Backup is doubling your referral space this month! Learn why this reliable backup solution is essential for your data safety.
 ResourceId: VgEgURg3LhB
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 176
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-31
 creator: Martin Hinshelwood
-id: "176"
 layout: blog
 resourceTypes: blog
 slug: mozy-backup-providing-extra-space-this-month
@@ -21,9 +20,12 @@ aliases:
 aliasesFor404:
 - /mozy-backup-providing-extra-space-this-month
 - /blog/mozy-backup-providing-extra-space-this-month
-categories:
-- me
+- /resources/blog/mozy-backup-providing-extra-space-this-month
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Personal
+- Products and Books
 
 ---
 Until the 30th of November 2008 [Mozy](http://mozy.com/?ref=8R96AG) are increasing the amount of space you get for referring a friend from 256mb to 512mb!

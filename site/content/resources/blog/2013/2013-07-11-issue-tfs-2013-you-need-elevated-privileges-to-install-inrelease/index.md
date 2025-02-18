@@ -2,14 +2,13 @@
 title: Issue [ TFS 2013 ] You need elevated privileges to install InRelease
 description: Discover how to resolve the 'elevated privileges' error when installing InRelease 3 on TFS 2013. Follow our step-by-step guide for a smooth installation!
 ResourceId: 8WoqmaS6v99
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9753
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
 creator: Martin Hinshelwood
-id: "9753"
 layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
@@ -25,14 +24,14 @@ aliasesFor404:
 - /blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 - /issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
+- /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 tags:
-- elevated-privileges
-- inrelease
-- puzzles
-- tfs
-- tfs-2013
-categories:
-- problems-and-puzzles
+- Install and Configuration
+- Practical Techniques and Tooling
+- Windows
+- Troubleshooting
+- System Configuration
+categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

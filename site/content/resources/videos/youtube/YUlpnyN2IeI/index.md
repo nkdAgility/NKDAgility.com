@@ -3,7 +3,7 @@ title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
 date: 2023-06-05T07:00:20Z
 ResourceId: YUlpnyN2IeI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YUlpnyN2IeI
@@ -21,31 +21,30 @@ aliases:
 - /resources/videos/YUlpnyN2IeI
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/YUlpnyN2IeI
+aliasesFor404:
+- /resources/best-scrum-advice-you-ever-received-2
+- /resources/best-scrum-advice-you-ever-received
+- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Advice
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
+- People and Process
+- Agile Frameworks
+- Scrum Master
+- Empirical Process Control
+- Agile Values and Principles
+- Software Development
+- Software Developers
 - Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
+- Personal
+- Agile Philosophy
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

@@ -2,7 +2,7 @@
 title: There is no place like production
 description: Discover why real user feedback in production is essential for delivering value. Learn to validate assumptions and enhance product success effectively.
 ResourceId: KUJ7jHOGqP7
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 45324
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-28
 AudioNative: true
 creator: Martin Hinshelwood
-id: "45324"
 layout: blog
 resourceTypes: blog
 slug: there-is-no-place-like-production
@@ -22,12 +21,20 @@ aliases:
 aliasesFor404:
 - /there-is-no-place-like-production
 - /blog/there-is-no-place-like-production
+- /resources/blog/there-is-no-place-like-production
 tags:
-- hypothesis-driven-development
-- product-discovery
-- product-owner
+- Increment
+- Business Agility
+- Product Validation
+- Agile Product Management
+- Release Management
+- Metrics and Learning
+- Discovery and Learning
+- Agile Product Operating Model
+- Ability to Innovate
+- Working Software
 categories:
-- discovery-ideation
+- Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

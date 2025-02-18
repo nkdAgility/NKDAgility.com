@@ -2,14 +2,13 @@
 title: Release planning and predictable delivery
 description: Master release planning and achieve predictable delivery in agile environments. Discover strategies to enhance quality and streamline your software development process.
 ResourceId: 2cOXevMnGb_
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9714
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-24
 creator: Martin Hinshelwood
-id: "9714"
 layout: blog
 resourceTypes: blog
 slug: release-planning-and-predictable-delivery
@@ -21,24 +20,14 @@ aliases:
 aliasesFor404:
 - /release-planning-and-predictable-delivery
 - /blog/release-planning-and-predictable-delivery
+- /resources/blog/release-planning-and-predictable-delivery
 tags:
-- backlog-management
-- company-culture
-- continuous-quality
-- define
-- devops
-- dod
-- forcast
-- homepage
-- improve
-- iteration
-- product-backlog
-- product-planning
-- release-planning
-- strategic
-- the-sprint
+- Software Development
+- Product Delivery
 categories:
-- people-and-process
+- Scrum
+- Engineering Excellence
+- Social Technologies
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

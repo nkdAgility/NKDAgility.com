@@ -2,14 +2,13 @@
 title: Moderating for Community-Credit
 description: Join me as I share my experience moderating submissions for Community-Credit, a platform that rewards honesty and community engagement. Sign up and win prizes!
 ResourceId: ChsE6EP6OC4
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 313
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-13
 creator: Martin Hinshelwood
-id: "313"
 layout: blog
 resourceTypes: blog
 slug: moderating-for-community-credit
@@ -21,9 +20,12 @@ aliases:
 aliasesFor404:
 - /moderating-for-community-credit
 - /blog/moderating-for-community-credit
-categories:
-- me
+- /resources/blog/moderating-for-community-credit
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Miscellaneous
+- Personal
 
 ---
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.

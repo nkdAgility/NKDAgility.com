@@ -2,14 +2,13 @@
 title: Envisioning vs Provisioning
 description: Explore the roles of Envisioners and Provisioners in software development. Discover how their unique skills drive innovation and deliver effective solutions.
 ResourceId: klxWFYrDmai
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 405
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-03
 creator: Martin Hinshelwood
-id: "405"
 layout: blog
 resourceTypes: blog
 slug: envisioning-vs-provisioning
@@ -21,13 +20,10 @@ aliases:
 aliasesFor404:
 - /envisioning-vs-provisioning
 - /blog/envisioning-vs-provisioning
+- /resources/blog/envisioning-vs-provisioning
 tags:
-- define
-- develop
-- fail
-- practices
-categories:
-- people-and-process
+- Software Development
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

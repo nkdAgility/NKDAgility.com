@@ -2,14 +2,13 @@
 title: TFS Handover
 description: Explore essential TFS handover documentation by Martin Hinshelwood, detailing installation tips and management insights for a smooth transition in your office.
 ResourceId: pHZwP7oD5dE
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 319
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-28
 creator: Martin Hinshelwood
-id: "319"
 layout: blog
 resourceTypes: blog
 slug: tfs-handover
@@ -21,12 +20,11 @@ aliases:
 aliasesFor404:
 - /tfs-handover
 - /blog/tfs-handover
+- /resources/blog/tfs-handover
 tags:
-- sp2007
-- tfs
-- tfs2005
-categories:
-- me
+- Install and Configuration
+- System Configuration
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

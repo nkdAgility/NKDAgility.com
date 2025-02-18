@@ -1,0 +1,1379 @@
+{
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-13T09:44:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and project management without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-13T09:45:00",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on team communication, collaboration, and strategies for effective teamwork. It emphasises the importance of meaningful conversations and shared ownership among team members, aligning well with the principles of Team Collaboration.",
+    "level": "Secondary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-13T09:45:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, focusing on team collaboration and progress management, rather than the development or utilisation of a Minimum Viable Product.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-13T09:45:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and progress management rather than deployment frequency.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum and its role in managing work in progress, which relates to throughput. However, the primary focus is on Scrum practices rather than a direct exploration of throughput as a central theme.",
+    "level": "Tertiary"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Daily Scrum event and its purpose, which indirectly relates to Scrum Values such as Commitment and Openness. However, it primarily focuses on the structure and facilitation of the Daily Scrum rather than explicitly addressing the Scrum Values themselves.",
+    "level": "Tertiary"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-13T09:45:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-13T09:45:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, focusing on team collaboration and planning rather than Test Driven Development principles.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-13T09:45:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and planning rather than test automation principles or practices.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-13T09:45:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-13T09:45:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its structure, focusing on Scrum practices rather than mentoring techniques or guidance.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-13T09:45:18",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on transparency, inspection, and adaptation, which are key principles of empirical process control. It emphasises the importance of meaningful conversations, managing work in progress, and adapting practices based on team dynamics, aligning well with the category's themes.",
+    "level": "Secondary"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-13T09:45:19",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses practical strategies for conducting the Daily Scrum within the Scrum framework, emphasising adaptability, collaboration, and real-world applications of Agile principles.",
+    "level": "Secondary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-13T09:45:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum, which is a Scrum event that indirectly relates to the Increment by focusing on the team's progress towards the Sprint Goal and managing work in the Sprint Backlog. However, it does not primarily address the concept of Increment itself.",
+    "level": "Tertiary"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-13T09:45:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team dynamics and practices rather than on measuring or enhancing innovation capabilities.",
+    "level": "Ignored"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum and its role in strategising towards the Sprint Goal, making strategy a significant theme, but it primarily focuses on the event itself rather than broader strategic concepts.",
+    "level": "Tertiary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, which is related to Agile practices. However, it does not focus extensively on Agile Planning Tools themselves, making it a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-13T09:45:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-13T09:45:29",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event, its purpose, and facilitation techniques, which are central to the Scrum Master's role in guiding the team.",
+    "level": "Secondary"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-13T09:45:31",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its purpose, practices, and facilitation techniques that enhance team collaboration and performance. It addresses how to effectively manage ongoing work, strategise as a team, and maintain transparency, which are all central to improving team dynamics and productivity.",
+    "level": "Secondary"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-13T09:45:33",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the Daily Scrum, which is a key event in the Scrum framework that facilitates Agile Planning. It focuses on how teams can effectively manage their work, strategise, and adapt their plans based on ongoing progress, aligning well with Agile Planning principles.",
+    "level": "Secondary"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-13T09:45:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its practices, without a clear focus on forecasting methodologies or empirical data for predicting delivery timelines.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-13T09:45:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its purpose, focusing on team dynamics and progress management rather than estimation techniques or practices.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-13T09:45:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its purpose, structure, and facilitation techniques, rather than on evidence-based management principles or practices.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-13T09:45:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-13T09:45:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and practices rather than Azure Boards specifically.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-13T09:45:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum and the importance of Developers owning the event, which relates to accountability in terms of team dynamics and ownership. However, the primary focus is on the structure and facilitation of the Daily Scrum rather than a deep exploration of accountability as a central theme.",
+    "level": "Tertiary"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-13T09:45:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-13T09:45:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event in the Scrum framework, focusing on its purpose, structure, and facilitation rather than on working agreements or team norms.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-13T09:45:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team dynamics and processes rather than customer satisfaction or experience.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-13T09:45:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event and its mechanics within the Scrum framework, without a clear focus on leadership roles or practices in Agile contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-13T09:45:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-13T09:45:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, focusing on team collaboration and planning rather than Lean principles such as waste reduction and value maximisation.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-13T09:45:58",
+    "ai_confidence": 90,
+    "non_ai_confidence": 20,
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses the Daily Scrum, its purpose, structure, and best practices, making it a central topic.",
+    "level": "Primary"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its structure and practices rather than the underlying Agile values and principles.",
+    "level": "Quaternary"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-13T09:46:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and planning rather than automated testing principles or practices.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-13T09:46:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event and its practices, with no focus on the Definition of Ready or its criteria.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-13T09:46:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its practices, without addressing the Definition of Done or its criteria.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-13T09:46:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its practices within the Scrum framework, without a focus on cross-functional teams or their characteristics.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-13T09:46:06",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on how developers can effectively manage their work, collaborate, and strategise to achieve the Sprint Goal. It aligns well with Agile practices and the role of developers in enhancing productivity and communication.",
+    "level": "Secondary"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-13T09:46:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, focusing on individual team practices rather than scaling Agile across multiple teams or at an enterprise level.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-13T09:46:08",
+    "ai_confidence": 90,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its purpose, practices, and facilitation techniques, which are central to Agile software development methodologies.",
+    "level": "Primary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-13T09:46:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, with no mention of Azure Repos or related functionalities.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-13T09:46:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and progress management, without addressing Acceptance Test Driven Development or its principles.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-13T09:46:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team dynamics and work management rather than customer feedback integration.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum, which is a key event in the Scrum framework, and touches on aspects of strategising and aligning work with the Sprint Goal. However, it primarily focuses on the technical practices of the Daily Scrum rather than a broader Agile strategy context.",
+    "level": "Tertiary"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-13T09:46:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team roles and practices rather than collaboration tools.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, which is a key aspect of Agile practices. However, it does not extensively cover broader Agile transformation strategies or methodologies, making it a secondary theme rather than a primary focus.",
+    "level": "Tertiary"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-13T09:46:20",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on techniques for improving team collaboration, transparency, and strategic planning. It provides practical guidance on optimising the Daily Scrum process, which aligns with operational efficiency and delivery enhancement in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum and its role in facilitating team collaboration and strategising, which are aspects of decision-making. However, it primarily focuses on Scrum practices rather than structured, evidence-based methodologies for decision-making.",
+    "level": "Tertiary"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, which is a key aspect of Agile methodologies that contributes to the delivery of working software. However, it focuses more on the process and facilitation of the Daily Scrum rather than directly addressing the characteristics or delivery of functional software.",
+    "level": "Tertiary"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-13T09:46:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event, its purpose, and practices, which are unrelated to the Sprint Review.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-13T09:46:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-13T09:46:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on its structure, purpose, and facilitation techniques, without addressing psychological safety as a primary topic.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-13T09:46:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-13T09:46:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-13T09:46:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, focusing on synchronous team interactions and practices rather than asynchronous development principles.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-13T09:46:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its structure, focusing on team dynamics and communication rather than experimentation or hypothesis-driven approaches.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-13T09:46:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and work management, without any mention of revenue per employee or related financial metrics.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-13T09:46:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, with no mention of Azure Pipelines or related CI/CD practices.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-13T09:46:47",
+    "ai_confidence": 90,
+    "non_ai_confidence": 0,
+    "final_score": 81.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, detailing its purpose, structure, and best practices, which are central to Agile Project Management.",
+    "level": "Primary"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-13T09:46:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, focusing on team collaboration and progress management rather than Lean principles or waste minimisation.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-13T09:46:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its facilitation, focusing on the Developers' roles rather than the responsibilities or practices of the Product Owner.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-13T09:46:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Daily Scrum and its relationship with the Sprint Backlog, indicating a secondary theme related to backlog management, but the primary focus is on the Daily Scrum event itself.",
+    "level": "Tertiary"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Daily Scrum and its role in team collaboration and communication, which are important aspects of team motivation. However, the primary focus is on the structure and process of the Daily Scrum rather than explicit strategies for enhancing team motivation.",
+    "level": "Tertiary"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-13T09:46:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework without focusing on hypothesis formulation, experimentation, or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-13T09:46:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and project management rather than Value Stream Mapping principles.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-13T09:46:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Daily Scrum process rather than product discovery methodologies or customer needs.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-13T09:46:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and progress management rather than on frequent software releases or delivery practices.",
+    "level": "Ignored"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, but it also touches on the mindset and intent behind the event, which aligns with Agile principles of collaboration and adaptability.",
+    "level": "Tertiary"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-13T09:47:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its operational aspects within the Scrum framework, without a focus on long-term strategic goals or business agility.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-13T09:47:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its purpose within the Scrum framework, without a focus on Lead Time as a primary topic.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-13T09:47:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, focusing on team collaboration and progress management, which is not directly related to Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-13T09:47:06",
+    "ai_confidence": 90,
+    "non_ai_confidence": 20,
+    "final_score": 83.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event, its purpose, and best practices, which are central to the Scrum framework and product development.",
+    "level": "Primary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-13T09:47:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-13T09:47:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on roles, processes, and practices rather than on sensemaking principles or decision-making in complex environments.",
+    "level": "Ignored"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-13T09:47:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, which are more related to project management than technical practices.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-13T09:47:12",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event in the Scrum framework, focusing on the importance of transparency in managing work progress and facilitating open communication among team members. It highlights techniques for maintaining visibility of the Sprint Backlog and the need for meaningful conversations, which aligns well with the principles of transparency in Agile processes.",
+    "level": "Secondary"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-13T09:47:14",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event, focusing on its purpose, practices, and the roles of Developers in facilitating it, which aligns closely with Scrum Team dynamics.",
+    "level": "Secondary"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-13T09:47:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its facilitation, with no clear focus on Cycle Time or its measurement.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum and its purpose in facilitating team collaboration and strategy, which aligns with the principles of Continuous Learning. However, the primary focus is on the mechanics of the Daily Scrum rather than explicitly promoting a growth mindset or continuous improvement practices.",
+    "level": "Tertiary"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-13T09:47:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event in the Scrum framework, focusing on its purpose, structure, and facilitation techniques, without addressing trend analysis or its implications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum, which is a key event in the Scrum framework that promotes team collaboration and ownership of work. However, it primarily focuses on the structure and facilitation of the event rather than the broader principles of self-organisation.",
+    "level": "Tertiary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum, which is a key event in the Scrum framework that can influence engineering practices. While it touches on aspects of collaboration and transparency in the development process, it primarily focuses on Scrum roles and events rather than broader engineering excellence principles or practices.",
+    "level": "Tertiary"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-13T09:47:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-13T09:47:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-13T09:47:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and planning rather than on technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-13T09:47:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily focuses on the Daily Scrum event within the Scrum framework, discussing its purpose, structure, and facilitation techniques. It does not address scaling Scrum practices, frameworks, or coordination among multiple teams, which are central to the 'Scaling Scrum' category.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum, which is a key Agile ceremony that can be adapted for remote teams. However, it primarily focuses on the Scrum framework rather than specifically addressing remote working practices or challenges.",
+    "level": "Tertiary"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-13T09:47:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its practices within the Scrum framework, without a focus on evidence-based leadership principles or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-13T09:47:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Daily Scrum process rather than deployment methodologies.",
+    "level": "Ignored"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-13T09:47:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event and its practices, rather than focusing on backlog refinement or related techniques.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-13T09:47:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and Scrum practices, which are focused on team-level agile practices rather than scaling agility across the organisation.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, which is a project management methodology. While it touches on aspects of team collaboration and strategy, it does not focus on the broader strategic alignment of customer needs, business objectives, and technical capabilities that are central to product management.",
+    "level": "Tertiary"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-13T09:47:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its structure within the Scrum framework, focusing on technical practices rather than cultural aspects.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-13T09:47:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team collaboration and project management rather than version control practices.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum and its facilitation, which includes elements of coaching such as fostering collaboration and encouraging meaningful conversations. However, the primary focus is on the Scrum framework and its practices rather than on coaching techniques or the role of a coach.",
+    "level": "Tertiary"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-13T09:47:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-13T09:47:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and progress management rather than validating product ideas through user engagement.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-13T09:47:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-13T09:47:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and progress management rather than release management strategies or practices.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-13T09:47:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its purpose, facilitation, and practices. While it touches on aspects of team dynamics and collaboration, it does not delve deeply into broader technical leadership principles or strategies, making it a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses identifying problems and issues during the Daily Scrum, which relates to troubleshooting in a Scrum context. However, the primary focus is on Scrum practices rather than systematic troubleshooting methodologies.",
+    "level": "Tertiary"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-13T09:47:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, focusing on its structure, purpose, and facilitation techniques, rather than on change management principles or practices.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, which is a key Agile practice. However, it focuses more on the event's structure and facilitation rather than core engineering practices like clean code, TDD, or CI/CD.",
+    "level": "Tertiary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-13T09:48:00",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, detailing its purpose, practices, and facilitation options, which aligns closely with the exploration of Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-13T09:48:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and planning rather than Test First Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-13T09:48:03",
+    "ai_confidence": 90,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event, its purpose, structure, and best practices, aligning closely with Scrum principles and practices.",
+    "level": "Primary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-13T09:43:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without any mention of Azure DevOps or its functionalities.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-13T09:44:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its purpose, practices, and facilitation rather than reviewing or analysing specific products or literature.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-13T09:44:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-13T09:44:03",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on managing work in progress, identifying bottlenecks, and enhancing transparency, which are all key aspects of flow efficiency.",
+    "level": "Secondary"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-13T09:44:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on its structure and practices without addressing market adaptability or related strategies.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum event within the Scrum framework, focusing on team dynamics, communication, and collaboration. While it touches on sociotechnical aspects, such as the need for meaningful conversation and adapting practices to team needs, the primary focus remains on the Scrum process rather than a broader exploration of sociotechnical systems.",
+    "level": "Tertiary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-13T09:44:09",
+    "ai_confidence": 70,
+    "non_ai_confidence": 20,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Daily Scrum and emphasises the importance of transparency in managing work and maintaining alignment with the Sprint Goal. While it primarily focuses on Scrum practices, the themes of open communication and accountability are significant, making it a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on team collaboration and adaptability. While it touches on aspects of organisational agility, such as the need for teams to adapt their practices and maintain transparency, the main focus is on Scrum-specific roles and processes rather than broader organisational agility strategies.",
+    "level": "Tertiary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-13T09:44:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, focusing on team dynamics and practices rather than Systems Thinking principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Daily Scrum and its role in managing work and strategising, which touches on aspects of metrics and performance data. However, the primary focus is on Scrum practices rather than a deep exploration of metrics and learning.",
+    "level": "Tertiary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-13T09:44:21",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its purpose, facilitation, and the role of Developers in managing work towards the Sprint Goal, which aligns with Agile Product Management principles.",
+    "level": "Secondary"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-13T09:44:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its practices within the Scrum framework, without any focus on installation or configuration of tools or software.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-13T09:44:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework without any mention of AI or automation technologies.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-13T09:44:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on the Daily Scrum event within the Scrum framework, discussing its purpose, practices, and facilitation techniques, rather than providing news or reviews related to Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-13T09:44:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-13T09:44:29",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on team dynamics, collaboration, and the importance of communication among Developers. It emphasises the human element in managing work and adapting practices to team needs, aligning well with the category's focus on the interplay between people and structured methodologies.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-13T09:44:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, focusing on team dynamics and meeting facilitation rather than engineering practices or methodologies that enhance technical excellence.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-13T09:44:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework but does not focus on broader events, presentations, or discussions relevant to Agile or DevOps communities.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-13T09:44:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event in the Scrum framework, focusing on team dynamics and facilitation rather than on code quality or complexity in software development.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-13T09:44:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-13T09:44:37",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the Daily Scrum event within the Scrum framework, focusing on how it can enhance team collaboration and transparency, which are essential for delivering value. However, it primarily centres on the mechanics of the Daily Scrum rather than broader strategies for value delivery.",
+    "level": "Secondary"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-13T09:44:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-13T09:44:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team dynamics and practices rather than organisational resilience or change management.",
+    "level": "Ignored"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-13T09:44:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on practical techniques for conducting the meeting effectively, including facilitation options and visualisation tools. It provides actionable steps and insights that align with the exploration and application of Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-13T09:44:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-13T09:44:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Daily Scrum rather than Value Stream Management principles.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-13T09:44:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team-level practices without addressing broader organisational implications or strategies for enterprise agility.",
+    "level": "Ignored"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-13T09:44:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, focusing on its structure and practices rather than on broader principles or strategies of business agility.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-13T09:44:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Daily Scrum rather than the broader application lifecycle management practices.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-13T09:44:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-13T09:44:53",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on its purpose, practices, and facilitation techniques, which are integral to the product delivery process in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-13T09:44:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-17T12:11:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Daily Scrum within the Scrum framework, touching on themes of emergent practices and the need for adaptation based on team dynamics, which aligns with complexity thinking. However, the primary focus is on Scrum processes rather than a deep exploration of complexity science principles.",
+    "level": "Tertiary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-13T09:44:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event and its structure, focusing on technical aspects and facilitation methods rather than personal experiences or reflections.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T12:11:13",
+    "ai_confidence": 90,
+    "non_ai_confidence": 50,
+    "final_score": 86.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event, its purpose, structure, and best practices, which are central to the Scrum framework.",
+    "level": "Primary"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T12:11:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T12:11:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Daily Scrum process rather than the principles of BetaCodex or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T12:11:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses the Daily Scrum event within the Scrum framework, which is not related to the One Engineering System (1ES) principles or practices.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T12:11:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, which is a component of Agile methodologies. While it touches on aspects of collaboration and value delivery, it does not focus on the broader Agile Product Operating Model or its principles.",
+    "level": "Tertiary"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T13:51:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event and its structure, focusing on technical implementation details rather than leadership practices.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T13:51:38",
+    "ai_confidence": 90,
+    "non_ai_confidence": 0,
+    "final_score": 81.0,
+    "reasoning": "Content primarily discusses the Daily Scrum event within the Scrum framework, detailing its purpose, structure, and practices, which aligns closely with the category of Social Technologies.",
+    "level": "Primary"
+  }
+}

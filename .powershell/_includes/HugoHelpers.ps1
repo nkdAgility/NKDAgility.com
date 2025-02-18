@@ -10,12 +10,16 @@ else {
 class HugoMarkdown {
     [System.Collections.Specialized.OrderedDictionary]$FrontMatter
     [string]$BodyContent
+    [string]$FilePath
+    [string]$FolderPath
 
-    HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent) {
+    HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath, [string]$FolderPath) {
         # Directly assign the front matter to the class property
         $this.FrontMatter = $frontMatter
         # Set the body content
         $this.BodyContent = $bodyContent
+        $this.FilePath = $FilePath
+        $this.FolderPath = $FolderPath
     }
 }
 
@@ -24,7 +28,6 @@ function Get-HugoMarkdown {
         [Parameter(Mandatory = $true)]
         [string]$Path
     )
-
     # Read the entire content of the Markdown file
     $content = Get-Content -Path $Path -Raw
 
@@ -42,7 +45,24 @@ function Get-HugoMarkdown {
         exit 1
     }
 
-    return [HugoMarkdown]::new($frontMatter, $bodyContent)
+    return [HugoMarkdown]::new($frontMatter, $bodyContent, $Path, (Get-Item -Path $Path).DirectoryName)
+}
+
+function Remove-Field {
+    param (
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Specialized.OrderedDictionary]$frontMatter,
+        [Parameter(Mandatory = $true)]
+        [string]$fieldName
+    )
+
+    if ($frontMatter.Contains($fieldName)) {
+        $frontMatter.Remove($fieldName)
+        Write-Debug "$fieldName removed"
+    }
+    else {
+        Write-Debug "$fieldName does not exist"
+    }
 }
 
 # Function to update a  field in the front matter
@@ -64,10 +84,10 @@ function Update-Field {
         if ($Overwrite -or ([string]::IsNullOrEmpty($frontMatter[$fieldName]))) {
             # Overwrite the existing value
             $frontMatter[$fieldName] = $fieldValue
-            Write-Host "$fieldName overwritten"
+            Write-Debug "$fieldName overwritten"
         }
         else {
-            Write-Host "$fieldName already exists and is not empty"
+            Write-Debug "$fieldName already exists and is not empty"
         }
         return
     }
@@ -91,7 +111,7 @@ function Update-Field {
         $frontMatter[$fieldName] = $fieldValue
     }
 
-    Write-Host "$fieldName added"
+    Write-Debug "$fieldName added"
     return 
 }
 
@@ -104,9 +124,11 @@ function Update-StringList {
         [Parameter(Mandatory = $true)]
         [string]$fieldName,
         [Parameter(Mandatory = $true)]
+        [AllowEmptyCollection()]
         [string[]]$values,
         [string]$addAfter = $null,
-        [string]$addBefore = $null
+        [string]$addBefore = $null,
+        [switch]$Overwrite
     )
 
     # Ensure the input values are unique and always an array
@@ -129,7 +151,7 @@ function Update-StringList {
             $frontMatter[$fieldName] = $values
         }
         
-        Write-Host "$fieldName added"
+        Write-Debug "$fieldName added"
     }
     else {
         # Ensure the field is always an array
@@ -137,16 +159,21 @@ function Update-StringList {
             $frontMatter[$fieldName] = @($frontMatter[$fieldName])
         }
         
-        # Update list if it already exists, adding only unique values
-        $existingValues = $frontMatter[$fieldName]
-        $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
-        if ($newValues.Count -ne 0) {
-            $frontMatter[$fieldName] += $newValues
-            Write-Host "$fieldName updated with new unique values"
+        if ($Overwrite) {
+            $frontMatter[$fieldName] = $values
         }
         else {
-            Write-Host "$fieldName already contains all values"
-        }
+            # Update list if it already exists, adding only unique values
+            $existingValues = $frontMatter[$fieldName]
+            $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
+            if ($newValues.Count -ne 0) {
+                $frontMatter[$fieldName] += $newValues
+                Write-Debug "$fieldName updated with new unique values"
+            }
+            else {
+                Write-Debug "$fieldName already contains all values"
+            }
+        }       
     }
 
     # Ensure uniqueness while preserving the first occurrence’s casing
@@ -168,7 +195,7 @@ function Update-StringList {
     # Check for duplicates in the updated array
     $duplicates = $frontMatter[$fieldName] | Group-Object | Where-Object { $_.Count -gt 1 }
     foreach ($duplicate in $duplicates) {
-        Write-Host "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
+        Write-Debug "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
         exit
     }
 }
@@ -190,4 +217,21 @@ function Save-HugoMarkdown {
     Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
 }
 
-Write-Host "HugoHelpers.ps1 loaded" -ForegroundColor Green
+function Get-HugoMarkdownList {
+    param (
+        [string]$FolderPath
+    )
+
+    $mdFiles = Get-ChildItem -Path $FolderPath -Recurse -Filter "*.md" -File
+    $metadataList = @()
+
+    foreach ($markdownFile in $mdFiles) {
+        # Load Markdown data using Get-HugoMarkdown
+        $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile.FullName
+        $metadataList += $hugoMarkdown
+    }
+
+    return $metadataList
+}
+
+Write-InfoLog "HugoHelpers.ps1 loaded"

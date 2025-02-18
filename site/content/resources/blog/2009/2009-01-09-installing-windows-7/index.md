@@ -2,14 +2,13 @@
 title: Installing Windows 7
 description: Discover the step-by-step process of installing Windows 7 in a virtual environment. Join Martin Hinshelwood for tips and insights on a smooth setup experience!
 ResourceId: il4oYdn6wqL
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 148
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-09
 creator: Martin Hinshelwood
-id: "148"
 layout: blog
 resourceTypes: blog
 slug: installing-windows-7
@@ -21,9 +20,11 @@ aliases:
 aliasesFor404:
 - /installing-windows-7
 - /blog/installing-windows-7
+- /resources/blog/installing-windows-7
 tags:
-- tools
+- Windows
 preview: nakedalm-logo-128-link-18-18.png
+categories: []
 
 ---
 Installing Windows 7 is so similar to the Vista install it almost does not deserve a post on it, but as I did not do a Vista install post, and I am waiting for the install to complete, I though you should see, erm…. the nice new colours…

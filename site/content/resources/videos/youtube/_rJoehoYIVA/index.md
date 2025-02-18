@@ -3,7 +3,7 @@ title: 'Mastering Azure DevOps Migration: Navigating Challenges, Solutions, and 
 description: Discover expert insights on Azure DevOps migration, addressing common challenges and benefits for IT managers, DevOps teams, and business owners.
 date: 2024-07-31T09:25:17Z
 ResourceId: _rJoehoYIVA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _rJoehoYIVA
@@ -19,18 +19,23 @@ aliases:
 - /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - /resources/_rJoehoYIVA
+aliasesFor404:
+- /resources/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
+- /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
+- /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Azure DevOps
-- DevOps
-- DevOps migration
-- DevOps consultant
-- DevOps coach
+- Practical Techniques and Tooling
+- Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
+categories:
+- DevOps
 
 ---
 In the ever-evolving world of technology, companies often find themselves in need of migrating to more modern, efficient platforms. Azure DevOps is a popular choice for many, offering a robust suite of tools and services designed to streamline development processes. However, the path to a successful migration can be fraught with challenges and complexities. In this post, I'll share my experiences and insights into Azure DevOps migration, highlighting common scenarios, challenges, and best practices.

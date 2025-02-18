@@ -2,14 +2,13 @@
 title: Upcomming Scrum at Scale Workshop from Scrum.org
 description: Join the Scrum at Scale Workshop by Scrum.org to drive agile transformation in your organization. Learn to implement effective change and improve culture!
 ResourceId: eSPePG8uDaZ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10824
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-22
 creator: Martin Hinshelwood
-id: "10824"
 layout: blog
 resourceTypes: blog
 slug: announcing-scrum-at-scale-workshop-scrum-org
@@ -25,17 +24,21 @@ aliasesFor404:
 - /blog/announcing-scrum-at-scale-workshop-scrum-org
 - /upcomming-scrum-at-scale-workshop-from-scrum-org
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
+- /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- agile
-- agility
-- ebmgt
-- evidence
-- scrum
-- scrum-at-scale
-- scrum-org
+- Metrics and Learning
+- Organisational Agility
+- Software Development
+- Evidence Based Management
+- Change Management
+- Scaling Agility
+- People and Process
+- Organisational Culture
+- Resilience and Change
+- Enterprise Agility
 categories:
-- news-and-reviews
-- people-and-process
+- Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

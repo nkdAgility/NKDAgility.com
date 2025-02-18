@@ -3,7 +3,7 @@ title: Unlocking the Power of Immersive Learning in Agile
 description: 'Discover 5 reasons why immersive learning transforms Scrum training for students! Join us for insights that inspire and elevate your Agile journey. #Scrum #Agile'
 date: 2024-02-03T07:00:12Z
 ResourceId: OlzXHZihQzI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OlzXHZihQzI
@@ -20,35 +20,24 @@ aliases:
 - /resources/videos/OlzXHZihQzI
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - /resources/OlzXHZihQzI
+aliasesFor404:
+- /resources/unlocking-the-power-of-immersive-learning-in-agile
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Discovery and Learning
+- Continuous Learning
+- People and Process
+- Organisational Agility
 resourceTypes:
 - video
+categories:
+- Leadership
+- Social Technologies
+- Scrum
 
 ---
 In today’s fast-paced, ever-evolving workplace, Agile practices are becoming a cornerstone for teams looking to deliver value, adapt, and innovate quickly. But how do we ensure that teams and individuals truly _internalize_ Agile principles? How do we create an environment where Agile becomes second nature, rather than just a series of rituals to follow? This is where **immersive learning** shines.

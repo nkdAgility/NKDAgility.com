@@ -2,14 +2,13 @@
 title: TFS Feature Wish (TFS Checkin Notifier)
 description: Discover the TFS Checkin Notifier, an essential add-in for Team Explorer that streamlines file access requests and enhances collaboration in source control.
 ResourceId: 1QNKNnc1Mvj
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 397
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-24
 creator: Martin Hinshelwood
-id: "397"
 layout: blog
 resourceTypes: blog
 slug: tfs-feature-wish-tfs-checkin-notifier
@@ -25,7 +24,11 @@ aliasesFor404:
 - /blog/tfs-feature-wish-tfs-checkin-notifier
 - /tfs-feature-wish-(tfs-checkin-notifier)
 - /blog/tfs-feature-wish-(tfs-checkin-notifier)
+- /resources/blog/tfs-feature-wish-tfs-checkin-notifier
 preview: nakedalm-logo-128-link-1-1.png
+categories: []
+tags:
+- Miscellaneous
 
 ---
 One of the annoying things about Source-Control is that someone else can have that file you really need checked out! This can be annoying if they are not in the same building or even country.

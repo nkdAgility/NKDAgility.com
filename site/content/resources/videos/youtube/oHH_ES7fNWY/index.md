@@ -3,7 +3,7 @@ title: Sending email from Office 365 for TFS 2013
 description: Learn how to configure email notifications in TFS 2013 using Office 365. Enhance your app's communication effortlessly! More at nakedalm.com/blog.
 date: 2014-01-02T15:58:51Z
 ResourceId: oHH_ES7fNWY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: oHH_ES7fNWY
@@ -16,28 +16,22 @@ aliases:
 - /resources/videos/sending-email-from-office-365-for-tfs-2013
 - /resources/sending-email-from-office-365-for-tfs-2013
 - /resources/oHH_ES7fNWY
+aliasesFor404:
+- /resources/videos/sending-email-from-office-365-for-tfs-2013
+- /resources/sending-email-from-office-365-for-tfs-2013
 preview: https://i.ytimg.com/vi/oHH_ES7fNWY/maxresdefault.jpg
 duration: 145
 isShort: false
 tags:
-- TFS
-- TFS 2013
-- Team Foundation Server (Software)
-- Microsoft Visual Studio (Software)
-- Visual Studio Application Lifecycle Management (Software)
-- VSALM
-- ALM
-- Release Management
-- InRelease
-- Install
-- Release Management Server
-- Install & Configure 101
+- Install and Configuration
+- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories: []
 
 ---
  Have you ever tried to configure emails for an application to send through office 365?

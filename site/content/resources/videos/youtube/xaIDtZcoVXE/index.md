@@ -3,7 +3,7 @@ title: How Do You Know How Long It Takes to Deliver Value?
 description: 'Unlock the power of Evidence-Based Management! Discover 5 reasons why EBM is essential for enhancing your Time to Market and driving business success. #EBM #Shorts'
 date: 2024-01-26T11:00:51Z
 ResourceId: xaIDtZcoVXE
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xaIDtZcoVXE
@@ -20,35 +20,28 @@ aliases:
 - /resources/videos/xaIDtZcoVXE
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 - /resources/xaIDtZcoVXE
+aliasesFor404:
+- /resources/how-do-you-know-how-long-it-takes-to-deliver-value
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Decision Making
+- Value Stream Management
+- Metrics and Learning
+- Value Delivery
+- Evidence Based Management
+- Ability to Innovate
+- Evidence Based Leadership
+- Product Delivery
+- Pragmatic Thinking
+- Flow Efficiency
 resourceTypes:
 - video
+categories:
+- Product Management
 
 ---
 Delivering value to customers efficiently is a key goal for any Agile team. But how do you know how long it actually takes? That’s where **Evidence-Based Management (EBM)** comes into play. One of the key value areas in EBM is **Time to Market**—a critical factor that helps organizations measure and improve how quickly they deliver valuable outcomes. This post dives into the importance of **Time to Market**, the metrics you can use to measure it, and why it’s crucial for business success. 🚀

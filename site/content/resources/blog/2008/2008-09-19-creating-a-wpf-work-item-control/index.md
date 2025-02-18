@@ -2,14 +2,13 @@
 title: Creating a WPF Work Item Control
 description: Learn to create a custom WPF Work Item Control for Visual Studio Team System, enhancing user interactions with requirements and change requests effectively.
 ResourceId: 4vBEBY-yvDB
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 191
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-19
 creator: Martin Hinshelwood
-id: "191"
 layout: blog
 resourceTypes: blog
 slug: creating-a-wpf-work-item-control
@@ -21,15 +20,11 @@ aliases:
 aliasesFor404:
 - /creating-a-wpf-work-item-control
 - /blog/creating-a-wpf-work-item-control
+- /resources/blog/creating-a-wpf-work-item-control
 tags:
-- code
-- codeproject
-- tfs
-- tfs2008
-- tools
-- wpf
+- Software Development
 categories:
-- code-and-complexity
+- Engineering Excellence
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

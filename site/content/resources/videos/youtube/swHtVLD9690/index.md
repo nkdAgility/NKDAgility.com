@@ -3,7 +3,7 @@ title: The Common Challenges of Adopting DevOps Practices
 description: Discover the challenges organisations face in adopting DevOps practices and why real-world production testing is crucial for user experience success.
 date: 2024-08-20T08:04:38Z
 ResourceId: swHtVLD9690
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: swHtVLD9690
@@ -20,19 +20,28 @@ aliases:
 - /resources/videos/swHtVLD9690
 - /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 - /resources/swHtVLD9690
+aliasesFor404:
+- /resources/the-common-challenges-of-adopting-devops-practices
+- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
+- /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Azure DevOps
-- DevOps
-- DevOps migration
-- DevOps migration services
-- Azure DevOps migration
-- DevOps consulting
-- DevOps consultant
+- People and Process
+- Software Development
+- Software Developers
+- Market Adaptability
+- Operational Practices
+- Pragmatic Thinking
+- Resilience and Change
+- Product Delivery
+- Value Delivery
+- Complexity Thinking
 resourceTypes:
 - video
+categories:
+- DevOps
 
 ---
 When organizations embark on the journey of adopting DevOps practices, they often encounter significant challenges. One of the most common is what I like to call "regression" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.

@@ -1,17 +1,33 @@
 ---
-id: "48700"
-title: "February 2023 NKDAgility: How much of an impact can a strong, skilled product owner have?"
-date: "2023-01-31"
-preview: "naked-agility-technically-agile-1280×720-February2023-1.jpg"
-author: "MrHinsh"
+title: 'February 2023 NKDAgility: How much of an impact can a strong, skilled product owner have?'
+description: Navigate economic uncertainty with strong product ownership. Discover how skilled product owners can drive value and competitive advantage in your organisation.
+ResourceId: Kofi3sgOhDX
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-01-31
+preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have"
+slug: february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliases:
-  - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
-  - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
----
+- /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+- /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+- /resources/Kofi3sgOhDX
+aliasesFor404:
+- /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+- /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+categories:
+- Product Management
+tags:
+- Product Owner
+- Agile Product Management
+- Strategy
+- Value Delivery
+- People and Process
+- Product Strategy
 
+---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.
 
 In conjunction with this, we’ve also seen a great deal of predictions for a rough 2023 from an economic perspective. A deep recession that is anticipated to last until the second quarter of 2024.

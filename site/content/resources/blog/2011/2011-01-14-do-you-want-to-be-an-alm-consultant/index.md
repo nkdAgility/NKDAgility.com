@@ -2,14 +2,13 @@
 title: Do you want to be an ALM Consultant?
 description: Join Northwest Cadence as an ALM Consultant! Leverage your expertise in software development and help clients build better software efficiently.
 ResourceId: VWFF90m9BYG
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 17
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-14
 creator: Martin Hinshelwood
-id: "17"
 layout: blog
 resourceTypes: blog
 slug: do-you-want-to-be-an-alm-consultant
@@ -25,38 +24,15 @@ aliasesFor404:
 - /blog/do-you-want-to-be-an-alm-consultant
 - /do-you-want-to-be-an-alm-consultant-
 - /blog/do-you-want-to-be-an-alm-consultant-
+- /resources/blog/do-you-want-to-be-an-alm-consultant
 tags:
-- agile
-- code
-- configuration
-- define
-- develop
-- infrastructure
-- jobs
-- kanban
-- modern-alm
-- nwcadence
-- operate
-- operational
-- people
-- practices
-- process
-- scrum
-- strategic
-- tactical
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Application Lifecycle Management
+- Software Development
+- People and Process
 categories:
-- alm
-- code-and-complexity
-- events-and-presentations
-- people-and-process
-- problems-and-puzzles
-- tools-and-techniques
-- upgrade-and-maintenance
+- Leadership
+- Scrum
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

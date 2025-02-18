@@ -2,14 +2,13 @@
 title: Screenshots of Vista from 2002 to Today
 description: Explore the evolution of Vista from its 2002 Alpha release to today's features, showcasing the journey of innovation and design in this engaging visual retrospective.
 ResourceId: jKVJOS1VMWK
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 450
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-09
 creator: Martin Hinshelwood
-id: "450"
 layout: blog
 resourceTypes: blog
 slug: screenshots-of-vista-from-2002-to-today
@@ -21,10 +20,11 @@ aliases:
 aliasesFor404:
 - /screenshots-of-vista-from-2002-to-today
 - /blog/screenshots-of-vista-from-2002-to-today
+- /resources/blog/screenshots-of-vista-from-2002-to-today
 tags:
-- off-topic
-- vista
+- Windows
 preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 An interesting look at Vista (Long Horn) as an Alpha release in 2002, the first Aero features in 2004, to what we have today

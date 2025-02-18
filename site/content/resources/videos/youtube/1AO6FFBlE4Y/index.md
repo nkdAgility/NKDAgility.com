@@ -3,7 +3,7 @@ title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpo
 description: Discover the hidden costs of poor-quality code with Martin Hinshelwood. Learn how investing in quality boosts productivity and protects your brand.
 date: 2024-11-19T09:58:28Z
 ResourceId: 1AO6FFBlE4Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1AO6FFBlE4Y
@@ -14,21 +14,23 @@ aliases:
 - /resources/videos/the-high-cost-of-poor-quality-code-
 - /resources/the-high-cost-of-poor-quality-code-
 - /resources/1AO6FFBlE4Y
+aliasesFor404:
+- /resources/videos/the-high-cost-of-poor-quality-code-
+- /resources/the-high-cost-of-poor-quality-code-
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Software engineering
-- Agile
-- Scrum
-- Agile product development
-- Product development
-- Project management
-- Agile project management
-- Product owner
-- Scrum master
-- Product Manager
-- Project manager
+- Engineering Practices
+- Code and Complexity
+- Technical Debt
+- Technical Mastery
+- Technical Excellence
+- Working Software
+- Product Delivery
+- Operational Practices
+- Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,6 +38,8 @@ slug: the-high-cost-of-poor-quality-code-
 layout: video
 resourceTypes:
 - video
+categories:
+- Engineering Excellence
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

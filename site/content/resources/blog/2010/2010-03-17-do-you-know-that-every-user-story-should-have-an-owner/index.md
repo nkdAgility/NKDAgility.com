@@ -2,14 +2,13 @@
 title: Do you know that every user story should have an owner?
 description: Discover why every user story needs an owner for effective Scrum management. Enhance your team's communication and streamline project success!
 ResourceId: OOCAnXLzP9r
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 61
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-17
 creator: Martin Hinshelwood
-id: "61"
 layout: blog
 resourceTypes: blog
 slug: do-you-know-that-every-user-story-should-have-an-owner
@@ -25,15 +24,21 @@ aliasesFor404:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner
 - /do-you-know-that-every-user-story-should-have-an-owner-
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
+- /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
-- define
-- develop
-- practices
-- ssw
-- user-stories
+- Scrum Product Development
+- Scrum Team
+- Software Development
+- Team Performance
+- People and Process
+- Team Collaboration
+- Agile Product Management
+- Agile Project Management
+- Accountability
+- Pragmatic Thinking
 categories:
-- people-and-process
-- tools-and-techniques
+- Scrum
+- Social Technologies
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

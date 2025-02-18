@@ -1,63 +1,89 @@
 ---
-title: How much of an impact can a great agile consultant have?
-description: Discover how a skilled agile consultant can transform your team's approach to product development, navigating complexity and driving success in uncertain environments.
+title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
+description: Unlock your organisation's potential with expert consulting insights! Discover how a consultant's unique perspective can drive swift, impactful change.
 date: 2023-01-24T07:30:02Z
 ResourceId: 8vu-AXJwwYk
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8vu-AXJwwYk
 url: /resources/videos/:slug
 slug: how-much-of-an-impact-can-a-great-agile-consultant-have-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=8vu-AXJwwYk
 aliases:
 - /resources/videos/8vu-AXJwwYk
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/8vu-AXJwwYk
+aliasesFor404:
+- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
+- /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
 tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
-- Product Development
-- Agile Project Management
-- Agile Product Development
+- Pragmatic Thinking
+- Organisational Change
+- People and Process
+- Change Management
+- Organisational Physics
+- Organisational Agility
+- Sociotechnical Systems
+- Resilience and Change
+- Transparency and Accountability
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Leadership
 
 ---
- In 2001, a group of brilliant #softwareengineers came together to define and articulate a new style of #productdevelopment based on their collective knowledge, experience, and experimentation with #agileframeworks.
+When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and coaching. 
 
-It was a revolutionary new approach to #productdevelopment and #projectmanagement (for lack of a better word) that empowered teams to navigate complexity, uncertainty, volatility, and ambiguity.
+**The Consultant's Role: A Unique Perspective**
 
-If you have never built the solution or solved the problem before, you simply don't know what you don't know, and you cannot know how long something will take to build or how much that will cost to deliver. You won't know until you have built the solution or solved the problem.
+A consultant is not just an agile consultant; they are a catalyst for change. Unlike a coach, who is typically embedded within the organisation for the long haul, a consultant comes in with a specific purpose and a clear timeframe. This difference is crucial. Here’s what I’ve learned over the years:
 
-This can be a frustrating thing for #managers and #leadership teams to hear because they want certainty and want to be able to effectively plan and budget for products and services.
+- **Focused Expertise**: Consultants are brought in to tackle specific problems. They don’t linger unnecessarily, which can often be a sign of their value. If a company wants you around full-time, it might mean you’re not charging enough for your expertise.
 
-So, how do you navigate complexity and yet still ensure that you are effective? How do you know whether your team are working on the most valuable products and solving the most compelling problems?
+- **State of Agile Reports**: One of my go-to strategies is conducting a "state of agile" report. This involves interviewing a diverse range of employees to gauge the current agile practices within the organisation. The insights I gather often reveal a stark contrast between what leadership believes is happening and the reality on the ground. 
 
-That's where a great #agileconsultant can have an enormous impact. In this short video, Martin Hinshelwood explains how a deeply experienced and knowledgeable #agileconsultant can help teams thrive in complex #productdevelopment environments.
+- **Bridging the Gap**: It’s not uncommon to hear leadership touting their commitment to continuous delivery and unit testing, while the teams on the ground express frustration over the lack of these practices. This disconnect highlights the need for open and transparent communication within the organisation.
 
-About NKD Agility
+**Identifying and Addressing Core Issues**
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+When I step into an organisation, my goal is to identify the significant issues that need addressing. I’m not there to fix minor problems; I’m looking for the proverbial switch on the wall that can be flipped to initiate change. Here’s how I approach this:
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Trial and Error**: I provide organisations with actionable suggestions to try out. These may have worked in other contexts, but I always emphasise that they might not be a perfect fit. The key is to experiment, learn, and adapt.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+- **Ownership of Problems**: It’s essential for the organisation’s leaders to take ownership of their challenges. If they rely too heavily on an external consultant, they may struggle to implement lasting change. 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Brutal Honesty**: As a consultant, I have the luxury of being candid. I can deliver the hard truths about what’s broken within the organisation without fear of repercussions. This honesty can be a wake-up call for leadership, prompting them to take action.
 
-We would love to work with you. 
+**The Value of Quick Wins**
 
-#scrum #agile #scrumteam #agileprojectmanagement 
-#agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=8vu-AXJwwYk)
+One of the most significant advantages of consulting is the ability to implement changes swiftly. I often liken this to ripping off a Band-Aid. Here’s why quick wins matter:
+
+- **Immediate Impact**: By addressing issues head-on, organisations can see immediate improvements. This approach contrasts with the slower, more gradual changes that coaches might advocate.
+
+- **Tailored Recommendations**: A great consultant knows when to push for rapid change and when to advocate for a more measured approach. This discernment is crucial for navigating the complexities of organisational dynamics.
+
+**Common Challenges Across Organisations**
+
+Interestingly, I’ve found that many organisations believe they have unique problems. However, in my experience, these challenges are often universal. Here are some insights:
+
+- **Shared Struggles**: The issues organisations face—transitioning from traditional hierarchical structures to more decentralised, self-organising teams—are not unique. They are common across industries.
+
+- **Cultural Shifts**: Moving from a Tayloristic mindset to one that embraces agility and self-organisation requires significant cultural change. This shift is often fraught with challenges, but it’s essential for long-term success.
+
+- **External Perspective**: Bringing in an outsider can provide a fresh perspective that is often lacking internally. I’ve seen time and again how an external consultant can highlight obvious issues that those within the organisation may overlook.
+
+**Conclusion: The Consultant's Edge**
+
+In conclusion, the value of a great consultant lies in their ability to quickly identify and address core issues within an organisation. They bring a unique perspective that can catalyse change, helping organisations navigate the complexities of agile transformation. 
+
+If you find yourself in a situation where you’re grappling with organisational challenges, consider the potential benefits of engaging a consultant. Their insights could be the key to unlocking your organisation’s true potential. Remember, the journey to agility is not just about adopting new practices; it’s about fostering a culture that embraces change and innovation.

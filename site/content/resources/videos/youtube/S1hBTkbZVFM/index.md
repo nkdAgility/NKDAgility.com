@@ -3,7 +3,7 @@ title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams
 description: "Discover 5 key considerations for hiring an #AgileCoach with Martin Hinshelwood in this insightful #shorts video. Elevate your team's performance today!"
 date: 2023-11-20T11:00:30Z
 ResourceId: S1hBTkbZVFM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: S1hBTkbZVFM
@@ -20,35 +20,20 @@ aliases:
 - /resources/videos/S1hBTkbZVFM
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - /resources/S1hBTkbZVFM
+aliasesFor404:
+- /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- People and Process
 resourceTypes:
 - video
+categories:
+- Leadership
+- Social Technologies
 
 ---
 Hiring an Agile coach can be a game changer for organizations striving to embrace agility. However, finding the right fit for your organization isn't just about credentials and buzzwords. One of the most critical factors when selecting an Agile coach is their ability to **engage and gain credibility with teams and leadership**. Let's dive into why this is so essential and how you can make the best hiring decision.

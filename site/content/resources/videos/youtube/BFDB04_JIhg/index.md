@@ -3,7 +3,7 @@ title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement
 description: Unlock the true power of Kanban! Discover its benefits, key metrics, and how to transform your workflows into a secret weapon for process improvement.
 date: 2024-06-24T06:48:02Z
 ResourceId: BFDB04_JIhg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BFDB04_JIhg
@@ -20,17 +20,26 @@ aliases:
 - /resources/videos/BFDB04_JIhg
 - /resources/introduction-to-kanban
 - /resources/BFDB04_JIhg
+aliasesFor404:
+- /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+- /resources/videos/introduction-to-kanban
+- /resources/introduction-to-kanban
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Agile
-- Agile framework
-- Agile product development
-- Agile project management
+- Transparency
+- Transparency and Accountability
+- Practical Techniques and Tooling
+- Operational Practices
+- Lean Thinking
+- Metrics and Learning
+- Lean
 resourceTypes:
 - video
+categories:
+- Kanban
+- Social Technologies
 
 ---
 In the world of Agile, we often hear about different tools and frameworks that help teams optimize their processes. One such tool is **Kanban**. Often misunderstood as a process in itself, Kanban is not a process but rather a powerful tool that provides clarity and insight into whatever process you're already using.

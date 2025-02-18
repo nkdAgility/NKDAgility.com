@@ -2,14 +2,13 @@
 title: Does your organisation have both Project Mangers as well as Product Owners?
 description: Explore the challenges of having both Project Managers and Product Owners in your organization. Discover how to achieve true agility and team alignment.
 ResourceId: 2s_5i0e0NBx
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10489
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-10
 creator: Martin Hinshelwood
-id: "10489"
 layout: blog
 resourceTypes: blog
 slug: organisation-project-mangers-well-product-owners
@@ -25,16 +24,22 @@ aliasesFor404:
 - /blog/organisation-project-mangers-well-product-owners
 - /does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
 - /blog/does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
+- /resources/blog/organisation-project-mangers-well-product-owners
 tags:
-- backlog-management
-- management
-- organisation
-- product-owner
-- project-management
-- project-manager
-- teams
+- Agile Product Management
+- Agile Project Management
+- Agile Product Operating Model
+- Product Owner
+- Product Delivery
+- People and Process
+- Business Agility
+- Team Collaboration
+- Agile Strategy
+- Agile Philosophy
 categories:
-- people-and-process
+- Product Management
+- Social Technologies
+- Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

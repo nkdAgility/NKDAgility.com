@@ -2,14 +2,13 @@
 title: 'Team Foundation Server Error TF30177 : Team Project Creation Failed'
 description: Resolve the TF30177 error in Team Foundation Server with our step-by-step guide. Learn how to fix project creation issues and optimize your TFS setup.
 ResourceId: ovERk0hj1XD
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 332
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-14
 creator: Martin Hinshelwood
-id: "332"
 layout: blog
 resourceTypes: blog
 slug: team-foundation-server-error-tf30177-team-project-creation-failed
@@ -25,13 +24,12 @@ aliasesFor404:
 - /blog/team-foundation-server-error-tf30177-team-project-creation-failed
 - /team-foundation-server-error-tf30177---team-project-creation-failed
 - /blog/team-foundation-server-error-tf30177---team-project-creation-failed
+- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
 tags:
-- ml
-- tfs
-- tools
-- visual-studio
-- vs2005
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories:
+- DevOps
 
 ---
 When you create your first project, you may get an error during the creation process. When you look at the log file and see a "proxy error" message detail it may be to do with the way that TFS installs.

@@ -3,7 +3,7 @@ title: 'Evidence-Based Management: The Four Key Value Areas in Scrum'
 description: Discover the four key value areas of Evidence-Based Management to optimise your organisation's success and drive innovation. Unlock your potential today!
 date: 2024-09-13T07:00:34Z
 ResourceId: sT44RQgin5A
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sT44RQgin5A
@@ -20,21 +20,24 @@ aliases:
 - /resources/videos/sT44RQgin5A
 - /resources/the-four-key-value-areas-of-ebm
 - /resources/sT44RQgin5A
+aliasesFor404:
+- /resources/evidence-based-management-the-four-key-value-areas-in-scrum
+- /resources/videos/the-four-key-value-areas-of-ebm
+- /resources/the-four-key-value-areas-of-ebm
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence-based Management
-- EBM
-- Agile
-- Agile leadership
-- Agile management
-- Management
-- Leadership
-- Project management
-- Project manager
+- Metrics and Learning
+- Ability to Innovate
+- Decision Making
+- Evidence Based Leadership
+- Value Delivery
+- Evidence Based Management
 resourceTypes:
 - video
+categories:
+- Product Management
 
 ---
 When we talk about _evidence-based management_ in Scrum, we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.

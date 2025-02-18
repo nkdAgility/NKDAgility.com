@@ -2,14 +2,13 @@
 title: Advanced Email Content
 description: Explore the potential of advanced email content with WPF. Discover how to embed interactive elements in emails and enhance communication creatively!
 ResourceId: h1xQYYoWfnY
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 431
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-24
 creator: Martin Hinshelwood
-id: "431"
 layout: blog
 resourceTypes: blog
 slug: advanced-email-content
@@ -21,10 +20,10 @@ aliases:
 aliasesFor404:
 - /advanced-email-content
 - /blog/advanced-email-content
+- /resources/blog/advanced-email-content
 tags:
-- wpf
-categories:
-- code-and-complexity
+- Windows
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

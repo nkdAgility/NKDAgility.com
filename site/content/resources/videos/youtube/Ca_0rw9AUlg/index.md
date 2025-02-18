@@ -3,7 +3,7 @@ title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus
 description: Uncover the truth about Agile and culture transformation with Michael Sahota. Discover why changing culture is more complex than it seems!
 date: 2024-01-21T07:00:06Z
 ResourceId: Ca_0rw9AUlg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Ca_0rw9AUlg
@@ -20,35 +20,28 @@ aliases:
 - /resources/videos/Ca_0rw9AUlg
 - /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 - /resources/Ca_0rw9AUlg
+aliasesFor404:
+- /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+- /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
+- /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Organisational Culture
+- Organisational Change
+- People and Process
+- Change Management
+- Organisational Physics
+- Systems Thinking
+- Sociotechnical Systems
+- Complexity Thinking
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- Leadership
+- Social Technologies
 
 ---
 Agile transformations are often heralded as the magical solution to organizational dysfunction, promising faster delivery, happier teams, and better outcomes. However, there's a quote that resonates deeply with many Agile professionals: “There’s no such thing as an Agile transformation, it’s a cultural transformation.”

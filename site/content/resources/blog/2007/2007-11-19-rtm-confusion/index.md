@@ -2,14 +2,13 @@
 title: RTM Confusion
 description: Confused about the RTM release of VS2008? Discover insights on Team Explorer, Team Suite, and essential downloads to streamline your development process.
 ResourceId: S8tFRw6ao4M
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 292
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-19
 creator: Martin Hinshelwood
-id: "292"
 layout: blog
 resourceTypes: blog
 slug: rtm-confusion
@@ -21,12 +20,10 @@ aliases:
 aliasesFor404:
 - /rtm-confusion
 - /blog/rtm-confusion
+- /resources/blog/rtm-confusion
 tags:
-- tfs
-- visual-studio
-- vs2008
-categories:
-- tools-and-techniques
+- Miscellaneous
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

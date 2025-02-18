@@ -2,14 +2,13 @@
 title: hinshelm vs fernienator
 description: Join the fun as I take on my brother-in-law in an epic Xbox showdown! Discover who comes out on top in this entertaining gaming battle.
 ResourceId: RqLAuKHYWAJ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 443
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-12
 creator: Martin Hinshelwood
-id: "443"
 layout: blog
 resourceTypes: blog
 slug: hinshelm-vs-fernienator
@@ -21,11 +20,9 @@ aliases:
 aliasesFor404:
 - /hinshelm-vs-fernienator
 - /blog/hinshelm-vs-fernienator
-tags:
-- answers
-- xbox
-categories:
-- me
+- /resources/blog/hinshelm-vs-fernienator
+tags: []
+categories: []
 preview: metro-xbox-360-link-2-2.png
 
 ---

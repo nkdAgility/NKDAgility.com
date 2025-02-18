@@ -1,16 +1,37 @@
 ---
-id: "51596"
-title: "Introducing the Professional Product Validation and Discovery Workshop from Scrum.org"
-date: "2024-07-17"
-author: "MrHinsh"
+title: Introducing the Professional Product Validation and Discovery Workshop from Scrum.org
+description: Join our Professional Product Validation and Discovery Workshop to master customer-centric development and validate your product ideas with expert guidance!
+ResourceId: w5rxdL8YHNa
+ResourceImport: true
+ResourceType: newsletters
+date: 2024-07-17
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org"
+slug: introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org
 aliases:
-  - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-  - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
----
+- /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+- /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+- /resources/w5rxdL8YHNa
+aliasesFor404:
+- /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+- /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+categories:
+- Product Management
+- Social Technologies
+tags:
+- Discovery and Learning
+- Team Collaboration
+- Product Validation
+- Agile Product Operating Model
+- Product Discovery
+- Products and Books
+- Agile Product Management
+- People and Process
+- Events and Presentations
+- Agile Project Management
 
+---
 **Dear Innovators and Product Enthusiasts,**
 
 We are thrilled to announce the upcoming Professional Product Validation and Discovery Workshop from Scrum.org—a transformative experience designed to elevate your product development journey to new heights. If you are committed to developing products and features that resonate deeply with customers, this workshop is your gateway to achieving that goal.

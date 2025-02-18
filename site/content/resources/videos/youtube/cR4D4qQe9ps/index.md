@@ -3,7 +3,7 @@ title: '#1 tip for a new Scrum Master'
 description: 'Unlock your potential as a Scrum Master! Join Martin Hinshelwood for his top tip to thrive with your new Agile team. #Scrum #Agile #Shorts'
 date: 2023-05-17T07:00:14Z
 ResourceId: cR4D4qQe9ps
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cR4D4qQe9ps
@@ -21,20 +21,27 @@ aliases:
 - /resources/videos/cR4D4qQe9ps
 - /resources/-1-tip-for-a-scrum-master
 - /resources/cR4D4qQe9ps
+aliasesFor404:
+- /resources/1-tip-for-a-new-scrum-master
+- /resources/1-tip-for-a-scrum-master
+- /resources/videos/-1-tip-for-a-scrum-master
+- /resources/-1-tip-for-a-scrum-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
 - Scrum Master
-- Scrum Master tips
-- ScrumMaster
-- ScrumMaster tips
-- Scrum Coach
-- Agile Coach
-- Agile
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
+- Software Development
+- People and Process
+- Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
+categories:
+- Scrum
 
 ---
 **#1 tip for a new Scrum Master**

@@ -2,14 +2,13 @@
 title: Visual Studio 2010 Overview Webcasts
 description: Explore essential webcasts on Visual Studio 2010 and Team Foundation Server features. Enhance your ALM knowledge with engaging overviews and insights!
 ResourceId: _EPy7wea5xE
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 4128
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
 creator: Martin Hinshelwood
-id: "4128"
 layout: blog
 resourceTypes: blog
 slug: an-index-to-all-visual-studio-2010-overview-sessions
@@ -25,15 +24,15 @@ aliasesFor404:
 - /blog/an-index-to-all-visual-studio-2010-overview-sessions
 - /visual-studio-2010-overview-webcasts
 - /blog/visual-studio-2010-overview-webcasts
+- /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Events and Presentations
+- Application Lifecycle Management
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories:
+- Engineering Excellence
+- DevOps
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-2-2.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2012/01/VisualStudioALMLogo.png)

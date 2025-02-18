@@ -1,0 +1,1379 @@
+{
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-12T14:58:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies in software development without any mention of AI or its integration within Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses practices that enable cross-functional collaboration in the context of continuous delivery, which is a significant theme. However, the primary focus is on the complexities of delivery practices rather than on team dynamics or collaboration techniques.",
+    "level": "Tertiary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-12T14:58:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses continuous delivery practices and philosophies rather than focusing on the development and utilisation of a Minimum Viable Product.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses continuous delivery practices and the importance of deploying changes quickly to production, which relates to deployment frequency. However, it primarily focuses on the philosophy and challenges of continuous delivery rather than specific strategies or metrics for optimising deployment frequency.",
+    "level": "Tertiary"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-12T14:58:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concept of best practices in continuous delivery and the complexities of working in modern software environments, rather than focusing on the measurement and optimisation of throughput.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-12T14:58:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and technical implementations rather than Scrum Values.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and quality in production, which align with Lean principles of minimising waste and maximising learning. However, the primary focus is on continuous delivery and complex systems rather than Lean Product Development specifically.",
+    "level": "Tertiary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-12T14:58:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Test Driven Development principles or the TDD cycle.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-12T14:58:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on test automation principles, frameworks, or tools.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses continuous delivery practices and mentions the Windows operating system in the context of deployment strategies. However, the primary focus is on software delivery methodologies rather than Windows-specific topics such as installation, configuration, or troubleshooting.",
+    "level": "Tertiary"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-12T14:58:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on mentoring or coaching in Agile environments.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and the importance of adapting to complex environments, which aligns with the principles of empirical process control. However, it primarily focuses on best practices in complex systems rather than explicitly on empirical process control itself.",
+    "level": "Tertiary"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-12T14:58:45",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses practical problem-solving strategies in the context of continuous delivery and Agile practices, emphasising adaptability and real-world applications of DevOps principles. It explores the importance of audience-based deployment models and the philosophy of finding and fixing issues in production, which aligns closely with the key topics of pragmatic thinking.",
+    "level": "Secondary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-12T14:58:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical practices and philosophies related to continuous delivery and software development, with no focus on employee engagement or motivation.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-12T14:58:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies rather than focusing on the delivery of software increments within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses practices and philosophies that support continuous delivery and quality in production, which are related to innovation in software development. However, the primary focus is on delivery strategies rather than directly measuring or enhancing the organisation's capacity to innovate.",
+    "level": "Tertiary"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses practices related to continuous delivery and audience-based deployment, which are relevant to Agile and DevOps strategies. However, the primary focus is on specific practices rather than a comprehensive strategic approach, making it a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-12T14:58:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies rather than Agile planning tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-12T14:58:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, focusing on software development and deployment strategies rather than the management of a portfolio of projects or alignment with organisational strategy.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-12T14:59:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on the Scrum Master role or responsibilities.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices that enable cross-functional collaboration and continuous delivery, which are relevant to team performance. However, the primary focus is on delivery strategies and practices rather than directly on team dynamics or methodologies aimed at maximising team effectiveness.",
+    "level": "Tertiary"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-12T14:59:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies rather than Agile Planning methodologies or principles. It does not focus on Agile planning techniques, user stories, backlogs, or sprints, which are central to the Agile Planning category.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-12T14:59:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies rather than forecasting methods within Agile and Scrum frameworks.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-12T14:59:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses continuous delivery practices and philosophies, with no clear focus on estimation techniques or Agile estimation practices.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-12T14:59:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the concept of continuous delivery and the challenges of implementing best practices in complex systems, without a focus on empirical evidence or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-12T14:59:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses continuous delivery practices and technical strategies rather than organisational change methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-12T14:59:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Azure Boards or its functionalities in Agile project management.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-12T14:59:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no direct reference to market share strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-12T14:59:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and the complexities of software deployment, without a clear focus on accountability or team ownership principles.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-12T14:59:17",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses practices and philosophies that support continuous delivery, including audience-based deployment strategies, the importance of building quality in, and the need for a philosophy of finding and fixing issues in production. It aligns well with the principles of Continuous Delivery as it addresses the complexities of delivering software in a production environment.",
+    "level": "Secondary"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-12T14:59:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies rather than working agreements or team collaboration norms.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-12T14:59:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and technical implementation details without a clear focus on customer satisfaction or experience.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-12T14:59:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and technical strategies without a clear focus on Agile leadership roles or principles.",
+    "level": "Ignored"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses continuous delivery practices and philosophies, which are closely related to Continuous Integration. However, the primary focus is on continuous delivery rather than CI itself, making it a major but secondary theme.",
+    "level": "Tertiary"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-12T14:59:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery and practices in complex systems, with no clear focus on Lean principles such as waste reduction or value maximisation.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-12T14:59:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Daily Scrum or its related topics.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and quality in production, which align with Agile principles of flexibility and customer-centricity. However, it primarily focuses on specific practices and methodologies rather than a deep exploration of Agile values and principles.",
+    "level": "Tertiary"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses practices related to continuous delivery and the importance of quality in production, which includes elements of automated testing. However, the primary focus is on broader continuous delivery strategies and philosophies rather than specifically on automated testing methodologies or tools.",
+    "level": "Tertiary"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-12T14:59:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on the Definition of Ready or its criteria.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-12T14:59:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on the Definition of Done or its criteria.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices that enable cross-functional collaboration to support continuous delivery, indicating a major but secondary theme related to cross-functional teams within the context of Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-12T14:59:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery, audience-based deployment, and the role of developers in ensuring quality in production, which aligns closely with Agile and DevOps methodologies.",
+    "level": "Secondary"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-12T14:59:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on scaling Agile methodologies or frameworks across multiple teams.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-12T14:59:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses practices and philosophies related to continuous delivery, audience-based deployment, and quality assurance in software development, aligning well with key topics in the Software Development category.",
+    "level": "Secondary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-12T14:59:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a direct focus on Azure Repos or its functionalities.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-12T14:59:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Acceptance Test Driven Development or acceptance criteria.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-12T14:59:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on customer feedback integration or mechanisms for collecting and acting on customer insights.",
+    "level": "Ignored"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and adaptability in complex systems, which aligns with Agile principles. However, it primarily focuses on technical practices rather than a strategic context, making Agile Strategy a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-12T14:59:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with only brief mentions of tools like Microsoft Teams, which do not form the central theme of the discussion.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-12T14:59:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies without a clear focus on Agile transformation principles, frameworks, or methodologies.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-12T14:59:52",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses practices and philosophies that enhance continuous delivery and operational efficiency within complex systems, aligning well with the principles of Agile and DevOps methodologies.",
+    "level": "Secondary"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices and philosophies related to continuous delivery and quality management, which includes elements of decision-making in the context of evaluating and prioritising options based on empirical evidence. However, the primary focus is on practices rather than structured decision-making methodologies.",
+    "level": "Tertiary"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-12T14:59:56",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery and quality in software development, which are central to the concept of working software. It addresses the importance of delivering functional software that meets user needs and the iterative processes involved in achieving this.",
+    "level": "Secondary"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-12T14:59:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Sprint Review or its related topics.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses practices related to continuous delivery and system reliability, touching on concepts like audience-based deployment and monitoring in production. However, it primarily focuses on continuous delivery rather than the core principles of Site Reliability Engineering.",
+    "level": "Tertiary"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-12T15:00:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses continuous delivery practices and technical strategies without a focus on psychological safety or team dynamics.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-12T15:00:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on customer retention strategies or user engagement methodologies.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-12T15:00:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, focusing on complex systems and deployment strategies, without a clear emphasis on Lean Startup principles such as MVP, Build-Measure-Learn, or validated learning.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-12T15:00:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a focus on asynchronous development principles or team collaboration across time zones.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices related to continuous delivery and audience-based deployment, which imply a form of experimentation in production. However, the primary focus is on the challenges and philosophies of continuous delivery rather than a systematic exploration of hypothesis-driven experimentation in Agile workflows.",
+    "level": "Tertiary"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-12T15:00:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses continuous delivery practices and philosophies without any mention of revenue per employee or related financial metrics.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-12T15:00:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without specific reference to Azure Pipelines or its configuration, management, or integration aspects.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-12T15:00:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies, focusing on complex systems and audience-based deployment models, rather than agile project management principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-12T15:00:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, focusing on complex systems and audience-based deployment, rather than Lean principles or waste minimisation.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-12T15:00:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and technical implementation details, with no clear focus on the responsibilities or role of a Product Owner.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-12T15:00:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a focus on scaling Agile methodologies across an organisation.",
+    "level": "Ignored"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-12T15:00:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on the Product Backlog or its management.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-12T15:00:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses technical practices and philosophies related to continuous delivery and system architecture, without a clear focus on team motivation or dynamics.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-12T15:00:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a focus on hypothesis formulation, experimentation, or validated learning.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-12T15:00:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Value Stream Mapping or its principles.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-12T15:00:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses continuous delivery practices and technical implementation details rather than focusing on understanding customer needs or defining product features.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-12T15:00:59",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses practices and philosophies that enable continuous delivery and audience-based deployment strategies, which are central to the concept of frequent releases. It elaborates on the importance of delivering updates quickly and efficiently while maintaining quality, aligning well with the principles of frequent releases.",
+    "level": "Secondary"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices that support continuous delivery and quality, which aligns with Agile principles of adaptability and continuous improvement. However, it primarily focuses on specific practices rather than the broader Agile philosophy.",
+    "level": "Tertiary"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-12T15:01:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses practices and philosophies related to continuous delivery and quality assurance in complex systems, without a clear focus on long-term strategic goals or business agility.",
+    "level": "Ignored"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-12T15:01:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on Lead Time as a metric or its measurement.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-12T15:01:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Behaviour Driven Development principles or collaboration among stakeholders.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-12T15:01:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies in complex systems, without a clear focus on Scrum principles, roles, or product development processes.",
+    "level": "Ignored"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-12T15:01:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and technical implementation details rather than product strategy, vision, or market analysis.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the complexities of continuous delivery in software development and the need for adaptive practices in response to changing environments. While it touches on sensemaking principles, it primarily focuses on technical practices and philosophies rather than a comprehensive exploration of sensemaking as a central theme.",
+    "level": "Tertiary"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-12T15:01:12",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery, quality assurance, and software architecture, which are central to technical mastery in software development.",
+    "level": "Secondary"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-12T15:01:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and the complexities of working in such environments, without a clear focus on transparency or its role in Agile processes.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-12T15:01:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Scrum Team dynamics, roles, or collaboration.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-12T15:01:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Cycle Time as a metric or its implications.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices and philosophies related to continuous delivery and quality in production, which implies a focus on learning from experiences and adapting practices. However, it primarily centres on deployment strategies and technical practices rather than explicitly promoting a growth mindset or knowledge sharing within teams.",
+    "level": "Tertiary"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-12T15:01:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the inadequacy of best practices in complex systems and the shift towards audience-based delivery models, without a clear focus on identifying or analysing trends within Agile, DevOps, or business agility frameworks.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-12T15:01:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and the complexities of working in modern software environments, without a clear focus on self-organisation principles or practices.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-12T15:01:27",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery, quality assurance, and the management of complex systems, which are central to engineering excellence. It emphasises the importance of adapting practices to fit complex environments and highlights the need for continuous improvement in engineering processes.",
+    "level": "Secondary"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices related to continuous delivery and audience-based deployment, which are relevant to digital transformation. However, the primary focus is on software delivery practices rather than a strategic discussion on digital transformation as a whole.",
+    "level": "Tertiary"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-12T15:01:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies rather than specific system configuration processes or methodologies.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-12T15:01:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-12T15:01:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies in complex systems, without a clear focus on scaling Scrum principles or frameworks.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-12T15:01:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses continuous delivery practices and philosophies without any focus on remote working or Agile team collaboration in a distributed environment.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-12T15:01:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on evidence-based leadership principles or empirical evidence informing leadership decisions.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-12T15:01:44",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses practices related to continuous delivery and audience-based deployment strategies, which are relevant to deployment methodologies. However, it also delves into broader concepts and philosophies that extend beyond strict deployment strategies, making it a secondary theme rather than the primary focus.",
+    "level": "Secondary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-12T15:01:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on backlog refinement or related Agile practices.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-12T15:01:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on scaling agile principles across an organisation.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and audience-based deployment, which are relevant to product management. However, the primary focus is on technical implementation and practices rather than strategic alignment or methodologies specific to product management.",
+    "level": "Tertiary"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-12T15:01:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical practices and philosophies related to continuous delivery and deployment strategies, without a clear focus on organisational culture or its impact on agility and team dynamics.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and deployment strategies, which are relevant to modern source control. However, the primary focus is on the philosophy of practices rather than specific version control methodologies or tools.",
+    "level": "Tertiary"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-12T15:01:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and deployment strategies, with no clear focus on coaching or facilitation of growth and development within teams.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices related to continuous delivery and the dynamics of organisational processes, but it primarily focuses on software development practices rather than a comprehensive systems thinking approach to organisational behaviour.",
+    "level": "Tertiary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and testing in production, which are relevant to validating product ideas through real user engagement. However, the primary focus is on delivery strategies and system architecture rather than direct methodologies for product validation.",
+    "level": "Tertiary"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-12T15:02:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Kanban principles or scaling Kanban in large organisations.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses continuous delivery practices and audience-based deployment strategies, which are relevant to release management. However, it primarily focuses on the philosophy and challenges of implementing these practices rather than a structured discussion on release management processes.",
+    "level": "Tertiary"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-12T15:02:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and software development methodologies, with no clear focus on entrepreneurship principles or practices.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices related to continuous delivery and quality management, which are relevant to technical leadership. However, it primarily focuses on the challenges and philosophies of continuous delivery rather than explicitly addressing the principles of technical leadership or agile methodologies.",
+    "level": "Tertiary"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices related to continuous delivery and the challenges of maintaining quality in complex systems, which includes elements of troubleshooting, such as identifying issues in production and the need for effective problem-solving strategies. However, the primary focus is on best practices and philosophies rather than direct troubleshooting techniques.",
+    "level": "Tertiary"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-12T15:02:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies rather than change management strategies or principles.",
+    "level": "Ignored"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-12T15:02:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses practices related to continuous delivery, audience-based deployment, and the philosophy of building quality into software, which are central to Agile engineering practices.",
+    "level": "Secondary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-12T15:02:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies rather than focusing on Agile frameworks or their principles. It does not explore or compare Agile frameworks, nor does it provide insights into their implementation or impact on organisational agility.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-12T15:02:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery and audience-based deployment strategies, with no clear focus on Test First Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-12T15:02:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies, with no clear focus on Scrum principles, roles, or events.",
+    "level": "Ignored"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses continuous delivery practices and mentions Azure DevOps in the context of incidents and service management, but the primary focus is on general continuous delivery philosophies rather than specific Azure DevOps functionalities.",
+    "level": "Tertiary"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-12T14:56:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses practices and philosophies related to continuous delivery and system architecture, without a clear focus on specific products or literature.",
+    "level": "Ignored"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses decision-making processes related to continuous delivery and the implications of adopting different deployment strategies, which aligns with decision theory principles. However, the primary focus is on technical practices rather than a thorough exploration of decision-making frameworks or models.",
+    "level": "Tertiary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices that support continuous delivery and the importance of optimising delivery strategies, which are related to flow efficiency. However, the primary focus is on the concept of best practices in complex systems rather than directly addressing flow efficiency principles or techniques.",
+    "level": "Tertiary"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices related to continuous delivery and audience-based deployment, which are relevant to market adaptability. However, the primary focus is on the complexities of continuous delivery rather than explicitly on strategies for enhancing market adaptability.",
+    "level": "Tertiary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices that enable cross-functional collaboration and continuous delivery, touching on the interplay between technology and organisational practices. However, it primarily focuses on technical practices rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Tertiary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-12T14:57:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and the complexities of working in Agile environments, without a clear focus on transparency or accountability principles.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices that enable cross-functional collaboration and continuous delivery, which are relevant to organisational agility. However, the primary focus is on specific practices rather than a broader discussion of organisational agility principles.",
+    "level": "Tertiary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-12T14:57:11",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the complexities of continuous delivery in software development, emphasising the interconnectedness of systems and the need for holistic approaches rather than isolated best practices. It touches on concepts such as audience-based deployment, feedback loops, and the philosophy of continuous improvement, which align well with Systems Thinking principles.",
+    "level": "Secondary"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and quality assurance, touching on the importance of monitoring and feedback mechanisms in production environments. However, it primarily focuses on the philosophy of practices rather than specific metrics or data-driven decision-making, making it a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-12T14:57:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies, focusing on technical aspects and deployment strategies rather than Agile product management principles or the role of the Product Owner.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-12T14:57:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses the philosophy and practices of continuous delivery and audience-based deployment rather than specific installation or configuration procedures for tools or software.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-12T14:57:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on AI or automation technologies within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-12T14:57:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the concept of continuous delivery and practices within complex systems, rather than providing news or reviews related to Agile, DevOps, or technology updates.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-12T14:57:23",
+    "ai_confidence": 85,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses continuous delivery practices, audience-based deployment strategies, and the importance of collaboration and quality in production, all of which are central to DevOps principles.",
+    "level": "Primary"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-12T14:57:25",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses practices that enable cross-functional collaboration and continuous delivery, highlighting the importance of team dynamics, communication, and the human factors involved in adapting processes to enhance productivity and quality.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-12T14:57:27",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery, audience-based deployment, and the importance of building quality into software. It addresses technical methodologies that enhance agility and responsiveness in software development, aligning well with the principles of Technical Excellence.",
+    "level": "Secondary"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-12T14:57:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses best practices and philosophies related to continuous delivery and software development, without reference to specific events, presentations, or discussions relevant to Agile or DevOps conferences.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-12T14:57:34",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the complexities of continuous delivery in software development, the inadequacy of best practices in complex systems, and the importance of adapting practices to manage quality and user experience. It explores the interplay between code quality, deployment strategies, and the inherent complexities of software systems, aligning well with the themes of the 'Code and Complexity' category.",
+    "level": "Secondary"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-12T14:57:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery and practices related to software development, with no clear focus on Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-12T14:57:52",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses practices and philosophies that enhance continuous delivery and quality in production, aligning closely with strategies for delivering value to customers. It emphasises the importance of audience-based deployment, cross-functional collaboration, and the need for continuous improvement, which are central to value delivery in Agile and DevOps contexts.",
+    "level": "Secondary"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-12T14:57:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with specific references to Agile and DevOps principles.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-12T14:57:55",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses practices and philosophies that enhance organisational resilience and adaptability in complex environments, particularly in the context of continuous delivery and change management.",
+    "level": "Secondary"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-12T14:57:57",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses practices and methodologies related to continuous delivery, audience-based deployment, and the philosophy of testing in production, which are central to enhancing Agile and DevOps practices.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-12T14:57:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, with no clear focus on Kanban principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-12T14:57:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies, focusing on deployment strategies and quality assurance rather than the flow of value within an organisation.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices that enable cross-functional collaboration and continuous delivery, which are relevant to enterprise agility. However, it primarily focuses on technical practices and philosophies rather than broader organisational strategies or frameworks for scaling agility.",
+    "level": "Tertiary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices related to continuous delivery and adaptability in complex systems, which aligns with the principles of business agility. However, the primary focus is on technical practices rather than a comprehensive exploration of business agility as a central theme.",
+    "level": "Tertiary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices related to continuous delivery and deployment strategies, which are relevant to the application lifecycle. However, it primarily focuses on the challenges and philosophies of continuous delivery rather than a comprehensive view of the entire application lifecycle management process.",
+    "level": "Tertiary"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-12T14:58:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical practices related to continuous delivery and software deployment, with no focus on psychological principles or theories relevant to organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-12T14:58:08",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses continuous delivery practices, audience-based deployment strategies, and the importance of quality in production, which are all central to effective product delivery methodologies.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-17T11:57:03",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses practices and philosophies related to continuous delivery and quality in production, touching on the importance of adapting to complex environments and learning from experiences. However, the primary focus is on specific practices rather than a broader exploration of discovery and learning methodologies.",
+    "level": "Tertiary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-12T14:58:17",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the complexities of continuous delivery in software development, emphasising the non-linear dynamics and emergent behaviours in complex systems. It critiques the notion of best practices in favour of adaptive practices suited to changing environments, aligning well with the principles of complexity science.",
+    "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-12T14:58:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical practices and philosophies related to continuous delivery and system architecture, without a clear focus on personal experiences or reflections.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T11:57:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses continuous delivery practices and philosophies, with no clear focus on Scrum principles, roles, events, or artifacts.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T11:57:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on platform engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T11:57:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on BetaCodex principles or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T11:57:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and philosophies without a clear focus on the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T11:57:10",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses practices related to continuous delivery and cross-functional collaboration, which are relevant to the Agile Product Operating Model, but the primary focus is on continuous delivery in complex environments rather than a comprehensive exploration of the Agile Product Operating Model itself.",
+    "level": "Tertiary"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T13:47:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses continuous delivery practices and technical strategies rather than leadership principles or practices.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T13:47:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses practices that enable cross-functional collaboration and continuous delivery, which are relevant to Agile methodologies. However, it primarily focuses on the challenges and philosophies surrounding continuous delivery rather than strictly adhering to Scrum, Kanban, Lean, or Agile frameworks.",
+    "level": "Tertiary"
+  }
+}

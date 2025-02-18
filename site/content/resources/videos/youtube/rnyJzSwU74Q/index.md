@@ -3,7 +3,7 @@ title: Traditional vs Empirical! Whats the difference? Agile faces off agianst w
 description: "Explore the clash of Agile vs Waterfall! Discover how empirical models boost project success with visibility, adaptability, and continuous value delivery. \U0001F680"
 date: 2022-10-12T17:08:59Z
 ResourceId: rnyJzSwU74Q
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rnyJzSwU74Q
@@ -16,16 +16,28 @@ aliases:
 - /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/rnyJzSwU74Q
+aliasesFor404:
+- /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+- /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
 isShort: false
-tags: []
+tags:
+- Agile Project Management
+- Empirical Process Control
+- Agile Philosophy
+- Software Development
+- Value Delivery
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Product Management
+- Social Technologies
 
 ---
  Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.

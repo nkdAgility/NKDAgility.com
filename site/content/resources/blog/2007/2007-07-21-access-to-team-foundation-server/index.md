@@ -2,14 +2,13 @@
 title: Access to Team Foundation Server
 description: Discover how to enhance your TFS skills at home, overcoming limitations of hosted solutions. Unlock the full potential of Team Foundation Server today!
 ResourceId: ttgv7j3g-kW
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 366
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-21
 creator: Martin Hinshelwood
-id: "366"
 layout: blog
 resourceTypes: blog
 slug: access-to-team-foundation-server
@@ -21,8 +20,15 @@ aliases:
 aliasesFor404:
 - /access-to-team-foundation-server
 - /blog/access-to-team-foundation-server
+- /resources/blog/access-to-team-foundation-server
 tags:
-- tfs
+- Application Lifecycle Management
+- Software Development
+- Continuous Learning
+- Technical Mastery
+- Troubleshooting
+- Miscellaneous
+categories: []
 
 ---
 With my lack of time to work with TFS at work in anything but a server maintenance and user assistance role, or even any sort of Visual Studio work, I will need to find a way to continue to access and work with Team System.

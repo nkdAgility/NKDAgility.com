@@ -2,14 +2,13 @@
 title: My Wish List of Team Foundation Server Tools
 description: Explore essential Team Foundation Server tools in my wish list, designed to enhance workflow and collaboration for developers. Join the conversation!
 ResourceId: ew4cQCgRYB0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 389
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-06
 creator: Martin Hinshelwood
-id: "389"
 layout: blog
 resourceTypes: blog
 slug: my-wish-list-of-team-foundation-server-tools
@@ -21,11 +20,12 @@ aliases:
 aliasesFor404:
 - /my-wish-list-of-team-foundation-server-tools
 - /blog/my-wish-list-of-team-foundation-server-tools
+- /resources/blog/my-wish-list-of-team-foundation-server-tools
 tags:
-- visual-studio
-- vs2005
-- wit
+- Practical Techniques and Tooling
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
+categories: []
 
 ---
 **TFS Event Handler**

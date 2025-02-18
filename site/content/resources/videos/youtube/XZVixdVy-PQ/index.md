@@ -3,7 +3,7 @@ title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
 description: "Discover the true essence of Agile with Ken Schwaber! Learn how to innovate software development beyond rituals for better results. \U0001F31F"
 date: 2024-01-22T07:00:11Z
 ResourceId: XZVixdVy-PQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XZVixdVy-PQ
@@ -20,35 +20,28 @@ aliases:
 - /resources/videos/XZVixdVy-PQ
 - /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 - /resources/XZVixdVy-PQ
+aliasesFor404:
+- /resources/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- People and Process
+- Agile Values and Principles
+- Agile Frameworks
+- Software Development
+- Agile Strategy
+- Agile Philosophy
+- Organisational Agility
+- Agile Transformation
+- Agile Product Operating Model
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:

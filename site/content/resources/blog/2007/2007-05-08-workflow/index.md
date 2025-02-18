@@ -2,14 +2,13 @@
 title: Workflow
 description: Join the discussion on enhancing Team Foundation Server with Workflow support. Explore innovative ideas for dynamic workflow editing and implementation!
 ResourceId: X7LXRyvtNg0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 401
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-08
 creator: Martin Hinshelwood
-id: "401"
 layout: blog
 resourceTypes: blog
 slug: workflow
@@ -21,12 +20,16 @@ aliases:
 aliasesFor404:
 - /workflow
 - /blog/workflow
+- /resources/blog/workflow
 tags:
-- service-oriented-architecture
-- tfs-event-handler
-- wf
-- wit
+- Practical Techniques and Tooling
+- Software Development
+- Azure DevOps
+- Technical Mastery
+- Miscellaneous
+- Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 I am thinking of adding WF support to my Team Foundation Server Event Handler, but I am interested in a discussion on the topic of the how's and wherefores. I have seen a lot of people implementing Workflow for Team Server and this would provide them a host system.

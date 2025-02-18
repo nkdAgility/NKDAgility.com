@@ -1,66 +1,54 @@
 ---
-title: ' shorts 7 Virtues of agile. Charity'
-description: 'Discover the 7 virtues of Agile, focusing on Charity. Learn how a happy, inspired team enhances customer experience! #Agile #Scrum #Shorts'
+title: 'Unlocking Success: Join Me for a Virtual Coffee to Tackle Your Agile and Technical Challenges'
+description: Join me for a virtual coffee chat to tackle your agile and technical challenges. Let's explore actionable solutions together and empower your organisation's success!
 date: 2023-12-06T11:01:01Z
 ResourceId: zro-li2QIMM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zro-li2QIMM
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-charity
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=zro-li2QIMM
 aliases:
 - /resources/videos/zro-li2QIMM
 - /resources/videos/-shorts-7-virtues-of-agile-charity
 - /resources/-shorts-7-virtues-of-agile-charity
 - /resources/zro-li2QIMM
+aliasesFor404:
+- /resources/videos/-shorts-7-virtues-of-agile-charity
+- /resources/-shorts-7-virtues-of-agile-charity
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Personal
+- Mentoring
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Leadership
+- Social Technologies
 
 ---
- #shorts #shortsvideo #shortvideo 7 virtues of #agile. Charity. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #productmanagement #scrummaster #agilecoach #productowner #agileleadership 
+In my journey through the realms of both technical and agile practices, I've often found myself reflecting on the true essence of what it means to help others succeed. It’s not just about the methodologies or the frameworks; it’s about the people and the organisations behind them. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+I invite you to join me for a virtual coffee chat. Yes, you heard that right! If you’re grappling with challenges in your organisation, whether they’re related to agile practices or technical hurdles, I’m here to lend a hand. You can easily book a slot on my website, and in just half an hour, we can dive into your issues. If I can help you find a solution during our conversation, that’s a win-win. We’ve shared a moment, exchanged ideas, and you walk away with something actionable that could lead to success.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Now, let me clarify: I don’t do this for direct remuneration. My motivation stems from a genuine desire to see others thrive. I derive immense satisfaction from helping individuals and organisations navigate their challenges. When I see a team or a company flourish through agile practices, it’s not just their success; it’s a collective victory for everyone involved. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Here’s why I believe in this approach:
 
-We would love to work with you. 
+- **Empowerment**: When organisations embrace agile, they empower their employees. This empowerment fosters a culture of collaboration, innovation, and continuous improvement. It’s about creating an environment where everyone feels valued and capable of contributing to the organisation’s success.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=zro-li2QIMM)
+- **Community Impact**: The ripple effect of a successful organisation extends beyond its walls. When a company thrives, it positively impacts its employees, their families, and the wider community. This interconnectedness is what makes our work meaningful.
+
+- **Charity of Knowledge**: Sharing knowledge and insights is a form of charity. By offering my time and expertise, I’m contributing to a larger ecosystem where everyone can benefit. It’s about building a community of learners and doers who support one another in their journeys.
+
+- **Real-World Relevance**: The challenges organisations face are often complex and multifaceted. By engaging in open conversations, we can uncover practical solutions that are tailored to your unique context. It’s not about one-size-fits-all answers; it’s about finding what works for you.
+
+In conclusion, I encourage you to take that step. If you’re facing hurdles in your agile journey or technical challenges, let’s have a chat. Together, we can explore potential solutions that could lead to meaningful change. Remember, success is not just an individual achievement; it’s a collective endeavour that benefits us all. So, let’s connect, share ideas, and work towards a brighter future for your organisation and the community at large.

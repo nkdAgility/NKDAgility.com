@@ -2,14 +2,13 @@
 title: Install Release Management 2013
 description: Learn to install and configure Release Management 2013 with Visual Studio 2013 in under 10 minutes. Streamline your deployment process effortlessly!
 ResourceId: 1m73SCOy0k9
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10353
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-03
 creator: Martin Hinshelwood
-id: "10353"
 layout: blog
 resourceTypes: blog
 slug: install-release-management-2013
@@ -21,17 +20,14 @@ aliases:
 aliasesFor404:
 - /install-release-management-2013
 - /blog/install-release-management-2013
+- /resources/blog/install-release-management-2013
 tags:
-- microsoft-deployment-agent
-- release
-- release-management
-- release-management-client
-- release-management-server
-- tfs
-- tfs-2013
-- videos
+- Release Management
+- Install and Configuration
+- Practical Techniques and Tooling
+- System Configuration
 categories:
-- install-and-configuration
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

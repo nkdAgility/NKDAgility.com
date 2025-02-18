@@ -2,14 +2,13 @@
 title: Installing Internet Explorer 8 Beta 2
 description: Discover how to install Internet Explorer 8 Beta 2 with essential links and guidance for a smooth setup. Get started on your upgrade today!
 ResourceId: JYf3i9TAak5
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 204
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-28
 creator: Martin Hinshelwood
-id: "204"
 layout: blog
 resourceTypes: blog
 slug: installing-internet-explorer-8-beta-2
@@ -21,11 +20,13 @@ aliases:
 aliasesFor404:
 - /installing-internet-explorer-8-beta-2
 - /blog/installing-internet-explorer-8-beta-2
+- /resources/blog/installing-internet-explorer-8-beta-2
 tags:
-- ie8
-- off-topic
-- tools
+- Windows
+- Install and Configuration
+- Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png
+categories: []
 
 ---
 After I got my computer rebuilt (due to [Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM](http://blog.hinshelwood.com/archive/2008/08/12/problems-with-team-explorer-after-installed-visual-studio-2008-sp1.aspx)) I did not reinstall IE8 Beta 1 as I knew that Beta 2 was soon to be available.

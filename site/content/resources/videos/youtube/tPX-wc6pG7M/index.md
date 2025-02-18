@@ -1,61 +1,74 @@
 ---
-title: 5 October 2023 Agile Leader Webinar
-description: Join Dr. Joanna Płaskonka & Martin Hinshelwood in this 18-min Agile Leadership webinar. Gain insights, strategies, and engage in an interactive Q&A!
+title: 'Unlocking Organisational Value: The Transformative Power of Engagement in Agile Teams'
+description: Unlock your team's potential! Discover how decentralisation and engagement can transform your organisation, driving innovation and value creation.
 date: 2023-09-28T10:27:47Z
 ResourceId: tPX-wc6pG7M
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tPX-wc6pG7M
 url: /resources/videos/:slug
 slug: 5-october-2023-agile-leader-webinar
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=tPX-wc6pG7M
 aliases:
 - /resources/videos/tPX-wc6pG7M
 - /resources/videos/5-october-2023-agile-leader-webinar
 - /resources/5-october-2023-agile-leader-webinar
 - /resources/tPX-wc6pG7M
+aliasesFor404:
+- /resources/videos/5-october-2023-agile-leader-webinar
+- /resources/5-october-2023-agile-leader-webinar
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: false
 tags:
-- Agile Leadership
-- Agile leader
-- Leadership
-- Leader
-- Agile project management
-- Agile product development
-- Agile product management
+- Agile Values and Principles
+- People and Process
+- Agile Strategy
+- Organisational Culture
+- Value Delivery
+- Employee Engagement
+- Organisational Change
+- Agile Philosophy
+- Organisational Agility
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Leadership
+- Social Technologies
 
 ---
- 🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟 
+In my journey through the world of agile and organisational effectiveness, I've often found myself pondering a critical question: If even large organisations struggle to deliver value and determine which products to build, what hope do smaller organisations have? With tighter budgets and fewer hands on deck, the challenge can seem insurmountable. However, I firmly believe that the issue isn't about scale; it's about engagement.
 
-Register at https://events.teams.microsoft.com/event/18ce0eb6-2b89-4e62-bab0-4c78a27ee18e@686c55d4-ab81-4a17-9eef-6472a5633fab
+### The Power of Engagement
 
-Dive into the world of Agile with two of the industry's foremost experts, Dr. Joanna Płaskonka and Martin Hinshelwood, in an enlightening 18-minute webcast that promises to reshape your understanding of Agile Leadership and Transformation. 
+Engaging the people you have is paramount to creating products of the highest possible value. Traditional management practices often stifle this engagement. They dictate what employees should do, where they should go, and how they should execute their tasks. This top-down approach can lead to a disengaged workforce, where individuals are merely clocking in for a paycheck rather than contributing to a shared vision.
 
-🔍 What Awaits You?
+#### Key Insights on Engagement:
 
-Expert Insights: With Dr. Płaskonka's academic prowess in Agile methodologies and Hinshelwood's vast industry experience, expect a harmonious blend of theory and practice.
-Transformational Strategies: Learn the key elements that drive successful Agile transformations and how leadership plays a pivotal role.
-Interactive Q&A: Engage directly with the experts, seeking answers to your most pressing questions.
-Actionable Takeaways: Walk away with practical strategies to lead and champion Agile transformations in your organisation.
-🚀 Why This Webcast?
+- **Decentralisation**: We need to rethink how we structure our organisations. By decentralising decision-making, we empower individuals to take ownership of their work. This not only boosts morale but also fosters innovation.
+  
+- **Democratisation**: Engaging everyone in the process means creating an environment where all voices are heard. This inclusivity can lead to richer ideas and solutions that might not emerge in a more hierarchical structure.
 
+- **Principles Over Rules**: Instead of imposing strict rules, we should focus on establishing clear principles. When everyone understands the direction and goals of the organisation, they can leverage their unique skills to contribute effectively.
 
-Whether you're an executive, a manager, or an Agile enthusiast, this webcast is tailored to provide insights into the evolving landscape of Agile leadership and the nuances of organisational transformation. Gain a competitive edge by understanding the principles that underpin successful Agile transformations.
+### Enabling Your Team
 
- 
+As leaders, it's crucial to recognise that we cannot know everything about how to maximise our team's capabilities. Our role is to enable our people to discover how best to utilise their skills for the benefit of the organisation. This requires a shift in mindset:
 
-📅 Reserve Your Spot!
+- **Foster a Culture of Care**: For your team to truly engage, they need to care about the organisation's success. If they are merely there for a paycheck, the outcomes will reflect that lack of investment.
 
+- **Encourage Autonomy**: Allow your team members the freedom to explore and innovate. When people feel trusted to make decisions, they are more likely to take initiative and drive results.
 
-Spaces are limited, and this unique opportunity to learn from the best won't last long. Sign up now and embark on a journey that promises to elevate your Agile leadership and transformation strategies! 
- [Watch on Youtube](https://www.youtube.com/watch?v=tPX-wc6pG7M)
+- **Create a Shared Vision**: Ensure that everyone is aligned with the organisation's goals. A shared vision can motivate individuals to work collaboratively towards common objectives.
+
+### Conclusion
+
+In conclusion, the path to delivering value in any organisation—large or small—lies in how we engage our people. By decentralising authority, democratising decision-making, and focusing on principles rather than rules, we can unlock the potential within our teams. Remember, it's not about the number of people or the size of the budget; it's about creating an environment where everyone feels valued and motivated to contribute to the organisation's success. 
+
+Let’s embrace this shift in perspective and work towards a more engaged and effective workforce. Thank you for joining me on this journey towards maximising value in our organisations.

@@ -1,4 +1,5 @@
 # Helpers
+
 . ./.powershell/_includes/ImagesToBlobStorage.ps1
 
 Write-Host "Starting process..."

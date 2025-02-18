@@ -2,14 +2,13 @@
 title: Migrating source from Perforce to Git on VSO
 description: Learn how to migrate from Perforce to Git on VSO with expert tips and strategies for a smooth transition to modern version control. Start your journey now!
 ResourceId: bvuzuOYg8gs
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10677
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-20
 creator: Martin Hinshelwood
-id: "10677"
 layout: blog
 resourceTypes: blog
 slug: migrating-source-perforce-git-vso
@@ -25,14 +24,11 @@ aliasesFor404:
 - /blog/migrating-source-perforce-git-vso
 - /migrating-source-from-perforce-to-git-on-vso
 - /blog/migrating-source-from-perforce-to-git-on-vso
+- /resources/blog/migrating-source-perforce-git-vso
 tags:
-- git
-- microsoft-id
-- migration
-- perforce
-- vsteamservices
+- Software Development
 categories:
-- tools-and-techniques
+- DevOps
 preview: naked-alm-git-1-1.png
 
 ---

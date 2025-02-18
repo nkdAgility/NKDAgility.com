@@ -3,7 +3,7 @@ title: Getting started with Kanban.
 description: Discover how to effortlessly launch a Kanban pilot in your organisation, tackle common challenges, and leverage metrics for workflow improvement!
 date: 2024-02-14T07:00:19Z
 ResourceId: kTszGsXPLXY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kTszGsXPLXY
@@ -20,24 +20,29 @@ aliases:
 - /resources/videos/kTszGsXPLXY
 - /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 - /resources/kTszGsXPLXY
+aliasesFor404:
+- /resources/getting-started-with-kanban
+- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
+- /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban method
-- Kanban training
-- Kanban coaching
-- Kanban consulting
-- Kanban approach
-- Agile
-- Agile framework
-- Agility
-- Business Agility
-- Agile project management
-- Agile product development
+- Metrics and Learning
+- People and Process
+- Cycle Time
+- Practical Techniques and Tooling
+- Agile Frameworks
+- Agile Project Management
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Flow Efficiency
 resourceTypes:
 - video
+categories:
+- Kanban
+- Social Technologies
 
 ---
 ### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot

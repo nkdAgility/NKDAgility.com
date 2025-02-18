@@ -1,118 +1,74 @@
 ---
-title: Making Business Decisions with Evidence! What is evidence-based management?
-description: Unlock the power of evidence-based management! Learn to make data-driven decisions and enhance your leadership for sustainable business growth.
+title: 'Unlocking Business Value: The Power of Evidence-Based Management for Effective Leadership'
+description: Unlock your organisation's potential with evidence-based management. Discover how data-driven decisions can drive real business value and innovation.
 date: 2024-01-25T07:00:13Z
 ResourceId: MCkSBdzRK_c
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MCkSBdzRK_c
 url: /resources/videos/:slug
 slug: making-business-decisions-with-evidence!-what-is-evidence-based-management-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=MCkSBdzRK_c
 aliases:
 - /resources/videos/MCkSBdzRK_c
 - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/MCkSBdzRK_c
+aliasesFor404:
+- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+- /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Evidence Based Management
+- Evidence Based Leadership
+- Decision Making
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Leadership
+- Product Management
 
 ---
- 🚀 Explore the Power of Evidence-Based Management in This Essential Video! 🚀
+When I think about evidence-based management, I can't help but reflect on how crucial it is to bring a scientific approach to leadership. In my experience, many organisations still rely heavily on gut feelings or vanity metrics—those numbers that make us look good but don’t actually drive meaningful change. This is where evidence-based management steps in, helping us focus on delivering real business value.
 
-👀 Why You Should Watch:
+### Understanding Evidence-Based Management
 
-Understand the concept of evidence-based management and its impact on leadership.
-Learn how to make data-informed decisions for your organization.
-Discover the critical value areas to measure for sustainable business growth.
-🔑 Key Highlights:
+At its core, evidence-based management is about making informed decisions based on data. It’s not just about collecting metrics; it’s about understanding their relevance to our stakeholders and customers. Here are the key components I believe are essential:
 
-Defining Evidence-Based Management (00:00:01 - 00:00:29):
+- **Market Value**: This is the lifeblood of any sustainable business. We need to assess both our current value—what we’re doing well right now—and our unrealised value—those opportunities we haven’t yet explored. 
 
-🔬 Bringing science and empiricism to leadership.
-📊 Focus on using data to inform decisions and measure their impact.
-Challenges in Organizations (00:00:29 - 00:00:59):
+- **Organisational Capability**: This encompasses our ability to execute effectively. It’s about ensuring we’re not just doing things right but also doing the right things. 
 
-🔄 Moving beyond gut feel and vanity metrics.
-📈 Addressing the need to understand true business value.
-The Essence of Business Value (00:00:59 - 00:01:29):
+### The Four Key Value Areas
 
-💡 Focusing on delivering value to stakeholders and measuring it effectively.
-🎯 Two categories to measure: market value and capability.
-Market Value: Current and Unrealized (00:01:29 - 00:02:25):
+To get a holistic view of our ability to deliver business value, I recommend focusing on four key areas:
 
-🌐 Balancing current value with potential market opportunities.
-✅ Customizing metrics to fit your organization's unique context.
-Organizational Capability (00:02:25 - 00:03:19):
+1. **Current Value**: What value are we currently providing through our products and services?
+2. **Unrealised Value**: What potential value is still on the table? Are there markets or customer segments we haven’t tapped into?
+3. **Time to Market**: How quickly can we move from idea to market? This is crucial for testing our assumptions and getting feedback from customers.
+4. **Ability to Innovate**: How much time are we dedicating to delivering new products or features? What barriers are hindering our innovation efforts?
 
-💪 Assessing the ability to innovate and time to market.
-🏃‍♂️ Speed of moving ideas into the market is crucial.
-Four Key Value Areas (00:03:19 - 00:04:09):
+### The Importance of Metrics
 
-📝 Current value, unrealized value, innovation ability, and market speed.
-🌍 Provides a holistic view of business value delivery.
-Monitoring and Decision-Making (00:04:09 - 00:05:16):
+While evidence-based management comes with a set of example metrics, it’s vital to tailor these to fit your organisation’s unique context. I’ve seen too many teams collect data for the sake of it, without understanding what those numbers mean for their business. 
 
-🧭 Using metrics to guide organizational changes and decisions.
-🎛️ Regularly monitor and adapt based on the chosen metrics.
-Creating Competitive Advantage (00:05:16 - 00:06:08):
+- **Regular Monitoring**: Establish a cadence for reviewing these metrics—quarterly, for instance. This allows you to see how your decisions impact your organisation over time.
 
-🔑 Utilizing data-driven decisions for market adaptation.
-🥇 Gain a competitive edge with well-defined goals and strategies.
-👍 Why You Should Like and Subscribe:
+- **Data-Driven Decisions**: Use the insights gained from your metrics to inform your strategic direction. This is where the real power of evidence-based management lies.
 
-Stay informed about cutting-edge management strategies.
-Transform your leadership with data-driven decision-making.
-Gain a competitive edge in your industry through evidence-based practices.
-🔗 Take Action Now!
+### A Competitive Advantage
 
-🌟 Like, Subscribe, and Lead with Confidence using Evidence-Based Management!
-📢 Share this video to help others harness the power of data in leadership.
-🎓 Explore more at Naked Agility for comprehensive learning and support.
+In my travels through various organisations, I’ve often encountered teams without clear goals, strategies, or measurement frameworks. This lack of direction can be detrimental. However, those who leverage empirical, hypothesis-driven, data-based decisions can carve out a significant competitive advantage. 
 
-About Naked Agility
+### Conclusion
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Evidence-based management is not just a buzzword; it’s a transformative approach that can shape the future of your organisation. By focusing on the right metrics and making informed decisions, we can ensure that we’re not just surviving but thriving in today’s competitive landscape.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
-
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
-
-We would love to work with you. 
-
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=MCkSBdzRK_c)
+If you’re interested in discussing how evidence-based management can be tailored to your unique needs, I invite you to book a call with us at Naked Agility. We also offer immersive and traditional public classes that can help you and your team embrace this powerful approach. Let’s work together to unlock your organisation’s potential!

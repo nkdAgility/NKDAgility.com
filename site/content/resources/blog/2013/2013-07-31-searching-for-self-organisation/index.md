@@ -2,14 +2,13 @@
 title: Searching for self-organisation
 description: Explore the journey to self-organisation in teams. Discover strategies to foster accountability, identity, and high performance for agile success.
 ResourceId: EjoEHTWiJtf
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9741
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-31
 creator: Martin Hinshelwood
-id: "9741"
 layout: blog
 resourceTypes: blog
 slug: searching-for-self-organisation
@@ -21,17 +20,13 @@ aliases:
 aliasesFor404:
 - /searching-for-self-organisation
 - /blog/searching-for-self-organisation
+- /resources/blog/searching-for-self-organisation
 tags:
-- culture
-- development-team
-- improve
-- project-manager
-- self-organisation
-- strategic
-- team
-- teams
+- Self Organisation
 categories:
-- people-and-process
+- Leadership
+- Social Technologies
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

@@ -2,14 +2,13 @@
 title: TFS Weekend Part 1 - Install
 description: Join Martin Hinshelwood as he shares his TFS installation journey, tackling challenges and solutions for small companies. Discover tips for success!
 ResourceId: B1LQBjDfDfF
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 426
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-19
 creator: Martin Hinshelwood
-id: "426"
 layout: blog
 resourceTypes: blog
 slug: tfs-weekend-part-1-install
@@ -26,7 +25,14 @@ aliasesFor404:
 - /blog/tfs-weekend-part-1-install
 - /tfs-weekend-part-1---install
 - /blog/tfs-weekend-part-1---install
+- /tfs-weekend-part-1
+- /resources/blog/tfs-weekend-part-1-install
 preview: nakedalm-logo-128-link-1-1.png
+categories: []
+tags:
+- Install and Configuration
+- Troubleshooting
+- System Configuration
 
 ---
 I got a call from a friend of mine (Neil Ramsay) who was installing TFS for his company ([http://www.quantad.com](http://www.quantad.com)). Needless to say, he had a few problems, as everyone does when installing TFS. So he gave me a call and I road to the resque.

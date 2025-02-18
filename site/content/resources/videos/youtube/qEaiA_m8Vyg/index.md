@@ -3,7 +3,7 @@ title: Why have you decided to go all in on immersive learning experiences?
 description: "Discover how immersive learning transforms training into a journey of engagement and growth with Martin! Embrace a new way to learn. \U0001F331\U0001F4DA"
 date: 2023-07-10T07:00:18Z
 ResourceId: qEaiA_m8Vyg
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qEaiA_m8Vyg
@@ -19,17 +19,28 @@ aliases:
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/videos/qEaiA_m8Vyg
 - /resources/qEaiA_m8Vyg
+aliasesFor404:
+- /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
+- /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Immersive learning experience
-- Scrum Training
-- Scrum Certification
-- Scrum.Org
-- Scrum courses
+- People and Process
+- Metrics and Learning
+- Customer Feedback Loops
+- Continuous Learning
+- Empirical Process Control
+- Discovery and Learning
+- Personal
+- Team Collaboration
+- Coaching
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
+- Leadership
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

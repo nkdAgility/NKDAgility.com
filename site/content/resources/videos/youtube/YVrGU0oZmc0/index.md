@@ -1,9 +1,9 @@
 ---
-title: Unlocking Continuous Delivery with Feature Flags - The Key to Faster, Safer Deployments
-description: Discover how feature flags revolutionise continuous delivery, enabling faster, safer deployments and enhanced customer feedback. Unlock your team's potential!
+title: 'Unlocking Continuous Delivery: How Feature Flags Transform Software Development'
+description: Unlock the power of feature flags for seamless software delivery! Discover how incremental releases and user feedback can transform your development process.
 date: 2025-01-16T06:45:00Z
 ResourceId: YVrGU0oZmc0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YVrGU0oZmc0
@@ -11,66 +11,58 @@ source: youtube
 url: /resources/videos/:slug
 slug: unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=YVrGU0oZmc0
 aliases:
 - /resources/videos/YVrGU0oZmc0
 - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/YVrGU0oZmc0
+aliasesFor404:
+- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+- /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
 duration: 557
 isShort: false
 tags:
-- Deployment frequency
-- DevOps
-- Developers
+- Continuous Delivery
+- Software Development
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
+categories:
+- DevOps
 
 ---
- Unlocking Continuous Delivery with Feature Flags: The Key to Faster, Safer Deployments
+In my journey through the world of software development, one practice has consistently stood out as a game changer for organisations striving for more frequent delivery: the use of feature flags. This approach not only facilitates continuous delivery but also allows teams to deploy new features to production incrementally, ensuring that they can gather valuable feedback before fully rolling out changes to all users.
 
-Feature flags are a game-changer for teams moving towards continuous delivery. In this video, I dive deep into how feature flags empower engineering teams to deploy faster, gather actionable feedback, and reduce risks while delivering value to customers incrementally. Whether you're building small updates or tackling major overhauls, feature flags are an essential tool to succeed in fast-paced development environments.
+### Embracing Incremental Delivery
 
-📚 Chapters:
+When we talk about continuous delivery, it’s essential to accept that we might deploy features that aren’t quite ready for the end user. This doesn’t mean we’re throwing caution to the wind; rather, it’s about delivering small increments of functionality. For instance, you might have a feature that requires multiple deployments to reach its final form. Imagine you want to deliver 10% of a feature now, with the remaining 90% to follow later. This is where feature flags come into play.
 
-1. 00:00 Introduction – Why feature flags are crucial for continuous delivery.
-2. 01:15 What Are Feature Flags? – The basics and their role in deployment.
-3. 02:30 Real-World Example: Azure DevOps – How Microsoft uses feature flags to manage incremental releases.
-4. 05:00 The Feature Flag Workflow – From internal testing to public rollout.
-5. 07:45 Engaging with Customers – Collecting telemetry and feedback through feature flags.
-6. 10:30 Managing Risk with Automation – Using feature flags to prevent production issues.
-7. 13:00 Long-Term Feature Management – Lessons from Azure DevOps’ multi-year rollout.
-8. 15:20 Call to Action – How Naked Agility can help you implement feature flag practices.
+#### A Real-World Example: Azure DevOps
 
-🎯 Who This Video is For:
+The Azure DevOps team exemplifies this practice beautifully. When you log into their platform, you’ll notice a button in the top right corner that allows you to access preview features. This is a clear indication of how they manage feature flags. Here’s how it works:
 
-• Developers & QA Teams: Interested in deploying features incrementally and testing in production.
-• Product Managers: Looking to validate features with real users before full-scale rollouts.
-• Engineering Leaders & CTOs: Wanting to adopt continuous delivery practices while minimizing risks.
-• Organizations: Aiming to improve customer engagement and streamline feature delivery.
+- **Development Phase**: When developers are working on an update, they often ship smaller changes directly. However, for significant new functionalities, they hide these behind feature flags.
+- **Internal Testing**: Initially, the feature is enabled only for the developers’ accounts. They monitor telemetry to assess performance and identify any issues.
+- **Private Preview**: Once the team is satisfied with the internal testing, they may open the feature to a select group within Microsoft. Users can opt in to test the feature, providing feedback and telemetry data.
+- **Public Preview**: If the feature performs well, it transitions to a public preview, where it becomes available to all users who wish to try it out. This stage is crucial for gathering broader feedback.
 
-🌟 What You’ll Learn:
+### The Importance of Feedback
 
-• The role of feature flags in achieving continuous delivery.
-• How to manage incremental feature rollouts safely and effectively.
-• Real-world strategies for collecting telemetry and customer feedback.
-• Techniques to validate and refine features before a full launch.
-• How automation can enhance feature flag management and minimize risks.
-• Lessons from Azure DevOps’ successful use of feature flags to replace major features over time.
+Feedback is the lifeblood of this process. When users turn off a feature, they’re prompted to provide reasons. This engagement is invaluable. I’ve personally experienced this when I’ve turned off a feature and received follow-up communication from the product manager. They genuinely want to understand what’s missing or what could be improved. This level of engagement not only helps refine the feature but also fosters a sense of community between the development team and users.
 
-💡 Key Takeaways:
+### Continuous Monitoring and Adaptation
 
-• Incremental Value Delivery: Deploy features in small slices to gather insights and iterate quickly.
-• Customer Engagement: Use telemetry and direct feedback to understand user needs and refine features.
-• Risk Mitigation: Feature flags allow you to disable problematic features instantly, protecting users and systems.
-• Automation Integration: Automate feature flag management to detect and respond to performance issues in real time.
-• Long-Term Rollouts: Major features may require extended periods to fully transition, but feature flags ensure stability throughout.
+As the feature progresses through its lifecycle, the team continuously monitors its performance. They assess whether enough users are engaging with the feature and whether it meets their needs. If the telemetry indicates that the feature isn’t performing well, they can quickly disable it, ensuring that it doesn’t negatively impact the user experience.
 
-🔗 Ready to embrace continuous delivery?
+### The Long Road to Full Deployment
 
-Visit www.nkdagility.com to discover how Naked Agility can help you implement feature flags, enhance customer feedback loops, and deploy with confidence. Let’s build smarter, faster, and more resilient systems together! 
- [Watch on Youtube](https://www.youtube.com/watch?v=YVrGU0oZmc0)
+It’s worth noting that transitioning a feature from development to full deployment can be a lengthy process. For example, the Azure DevOps team took nearly three years to fully migrate users from old boards to new boards. This was due to the need for ongoing adjustments and improvements based on user feedback and performance metrics.
+
+### Conclusion: The Power of Feature Flags
+
+Incorporating feature flags into your development process is a powerful strategy for enabling continuous delivery while safeguarding your users and system. By allowing for incremental releases and gathering real-time feedback, you can ensure that you’re building the right features that truly meet user needs. 
+
+As you consider your own practices, I encourage you to reflect on how feature flags could enhance your delivery process. Embrace the opportunity to engage with your users, gather insights, and ultimately deliver a product that resonates with them. After all, in the world of software development, it’s not just about delivering features; it’s about delivering value.

@@ -2,14 +2,13 @@
 title: Can the Definition of Done change per Sprint?
 description: Explore how the Definition of Done can evolve in Scrum. Learn to enhance quality without compromising standards in your agile development process.
 ResourceId: LdmZbBlwgM-
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 40168
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-14
 creator: Martin Hinshelwood
-id: "40168"
 layout: blog
 resourceTypes: blog
 slug: can-the-definition-of-done-change-per-sprint
@@ -25,14 +24,22 @@ aliasesFor404:
 - /blog/can-the-definition-of-done-change-per-sprint
 - /can-the-definition-of-done-change-per-sprint-
 - /blog/can-the-definition-of-done-change-per-sprint-
+- /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
-- definition-of-done
+- Transparency
+- Increment
+- Scrum Product Development
+- Definition of Done
+- Scrum Team
+- Agile Product Management
+- Agile Project Management
+- Value Delivery
+- Software Development
+- Team Performance
 categories:
-- agility
-- code-and-complexity
-- devops
-- measure-and-learn
-- tools-and-techniques
+- Scrum
+- Engineering Excellence
+- Social Technologies
 preview: 20190906_152025-2-2.gif
 
 ---

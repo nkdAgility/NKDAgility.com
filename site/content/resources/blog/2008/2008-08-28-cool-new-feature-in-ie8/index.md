@@ -2,14 +2,13 @@
 title: Cool new feature in IE8
 description: Discover the game-changing address bar enhancements in IE8 that boost efficiency and make browsing easier. Upgrade your experience today!
 ResourceId: wd7JhsgRpbS
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 202
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-28
 creator: Martin Hinshelwood
-id: "202"
 layout: blog
 resourceTypes: blog
 slug: cool-new-feature-in-ie8
@@ -21,11 +20,11 @@ aliases:
 aliasesFor404:
 - /cool-new-feature-in-ie8
 - /blog/cool-new-feature-in-ie8
+- /resources/blog/cool-new-feature-in-ie8
 tags:
-- ie8
-- off-topic
-- tools
+- Windows
 preview: nakedalm-logo-128-link-2-2.png
+categories: []
 
 ---
 It may be simple, and it may be small, but the feature that hit me first and greatest in IE8 was the address bar enhancements. This feature alone would have me upgrading:

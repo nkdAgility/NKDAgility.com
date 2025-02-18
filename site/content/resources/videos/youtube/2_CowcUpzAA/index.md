@@ -3,7 +3,7 @@ title: 'The Real Scope of a Product Owner: Beyond the Backlog'
 description: Discover why training is vital for product owners in Scrum. Martin Hinshelwood highlights the skills needed to excel and gain a competitive edge.
 date: 2023-11-27T06:46:47Z
 ResourceId: 2_CowcUpzAA
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2_CowcUpzAA
@@ -19,36 +19,22 @@ aliases:
 - /resources/videos/2_CowcUpzAA
 - /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
 - /resources/2_CowcUpzAA
+aliasesFor404:
+- /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
+- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+- /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Owner
 resourceTypes:
 - video
 layout: video
+categories:
+- Product Management
+- Scrum
+- Social Technologies
 
 ---
 When most people hear the term "Product Owner," they typically think about managing a product backlog and making sure the team works through it. While this is part of the job, it’s a very small piece of the puzzle. In reality, the Product Owner role is far more significant, with broader responsibilities and accountability. Let’s dive deeper into what it means to be a true Product Owner in an Agile environment, and why many who take on the role often find themselves surprised by its complexity.

@@ -3,7 +3,7 @@ title: 'Part 2: Most influential people in Agile'
 description: 'Join Martin Hinshelwood as he shares his personal insights on the most influential figures in Agile. Discover the impact of Agile on teams! #agile #shorts'
 date: 2023-08-09T07:00:14Z
 ResourceId: eykcZoUdVO8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: eykcZoUdVO8
@@ -21,14 +21,23 @@ aliases:
 - /resources/videos/eykcZoUdVO8
 - /resources/most-influential-person-in-agile-for-you-personally-
 - /resources/eykcZoUdVO8
+aliasesFor404:
+- /resources/part-2-most-influential-people-in-agile-3
+- /resources/most-influential-person-in-agile-for-you-personally
+- /resources/videos/most-influential-person-in-agile-for-you-personally-
+- /resources/most-influential-person-in-agile-for-you-personally-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile leadership
+- People and Process
+- Personal
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
+- Leadership
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

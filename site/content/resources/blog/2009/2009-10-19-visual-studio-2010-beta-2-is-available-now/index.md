@@ -2,14 +2,13 @@
 title: Visual Studio 2010 Beta 2 is available Now!
 description: Discover the new features of Visual Studio 2010 Beta 2 now available for download! Simplify your development process with enhanced tools and editions.
 ResourceId: 8vMRaXfImnd
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 86
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-19
 creator: Martin Hinshelwood
-id: "86"
 layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-beta-2-is-available-now
@@ -25,14 +24,12 @@ aliasesFor404:
 - /blog/visual-studio-2010-beta-2-is-available-now
 - /visual-studio-2010-beta-2-is-available-now-
 - /blog/visual-studio-2010-beta-2-is-available-now-
+- /resources/blog/visual-studio-2010-beta-2-is-available-now
 tags:
-- aggreko
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+- Products and Books
+- News and Reviews
 preview: metro-visual-studio-2010-128-link-1-1.png
+categories: []
 
 ---
 Visual Studio 2010 Beta 2 is now available on MSDN for download!

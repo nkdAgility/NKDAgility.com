@@ -2,14 +2,13 @@
 title: Team Build Error
 description: Discover solutions to MS Build errors in Visual Studio 2005 and 2008. Learn how updates can resolve issues and streamline your Business Intelligence projects.
 ResourceId: hLCFRDIvAXj
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 197
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-08
 creator: Martin Hinshelwood
-id: "197"
 layout: blog
 resourceTypes: blog
 slug: team-build-error
@@ -21,13 +20,14 @@ aliases:
 aliasesFor404:
 - /team-build-error
 - /blog/team-build-error
+- /resources/blog/team-build-error
 tags:
-- aggreko
-- tfs-build
-- tools
-- visual-studio
-- vs2005
+- Windows
+- Software Development
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-3-1.png
+categories:
+- DevOps
 
 ---
 I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:

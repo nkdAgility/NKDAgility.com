@@ -2,7 +2,7 @@
 title: "The Evolution of Agile Learning: Insights from Scrum.org's Webinar"
 description: Discover the future of Agile training with immersive learning insights from Scrum.org's webinar. Enhance your skills and drive real change in your organization!
 ResourceId: Ax5c4JFICyO
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 50979
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-12-14
 AudioNative: true
 creator: Martin Hinshelwood
-id: "50979"
 layout: blog
 resourceTypes: blog
 slug: the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
@@ -26,11 +25,20 @@ aliasesFor404:
 - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 - /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
+- /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
-- featured
-- homepage
+- Change Management
+- Continuous Learning
+- People and Process
+- Discovery and Learning
+- Agile Frameworks
+- Events and Presentations
+- Products and Books
+- Pragmatic Thinking
+- Coaching
+- Value Delivery
 categories:
-- agility
+- Social Technologies
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

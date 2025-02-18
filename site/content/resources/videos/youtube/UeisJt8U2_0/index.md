@@ -3,7 +3,7 @@ title: 7 Harbingers of the Agile Apocalypse. Plague.
 description: "Explore the parallels between ancient myths and today's agile challenges as Martin tackles the plague of incompetent coaches. Join the journey! \U0001F32C️\U0001F412"
 date: 2023-10-20T07:00:23Z
 ResourceId: UeisJt8U2_0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: UeisJt8U2_0
@@ -20,40 +20,27 @@ aliases:
 - /resources/videos/UeisJt8U2_0
 - /resources/plague!-7-harbingers-agile-apocalypse
 - /resources/UeisJt8U2_0
+aliasesFor404:
+- /resources/7-harbingers-of-the-agile-apocalypse-plague
+- /resources/videos/plague!-7-harbingers-agile-apocalypse
+- /resources/plague!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
+- Scrum Master
+- People and Process
+- Scrum Team
+- Agile Frameworks
 - Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- Software Development
+- Personal
+- Professional Scrum
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 # Navigating the Plague of Incompetence in Agile Coaching 🚧

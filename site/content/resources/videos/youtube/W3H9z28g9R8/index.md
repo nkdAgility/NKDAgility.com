@@ -3,7 +3,7 @@ title: 7 Harbingers of the Agile Apocalypse. Famine.
 description: "Explore how resource scarcity in organisations mirrors the Aztec's Fourth Sun, Nahui-Atl. Discover insights and solutions to combat organisational famine! \U0001F30D\U0001F4BC"
 date: 2023-10-19T15:00:30Z
 ResourceId: W3H9z28g9R8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: W3H9z28g9R8
@@ -20,40 +20,28 @@ aliases:
 - /resources/videos/W3H9z28g9R8
 - /resources/famine!-7-harbingers-agile-apocalypse
 - /resources/W3H9z28g9R8
+aliasesFor404:
+- /resources/7-harbingers-of-the-agile-apocalypse-famine
+- /resources/videos/famine!-7-harbingers-agile-apocalypse
+- /resources/famine!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Backlog
-- Product Backlog
-- Backlog
-- Sprint
-- Scrum
-- Scrum Product Development
-- Scrum Project Management
-- Agile
-- Agile Product Development
-- Agile Project Management
-- Product Development
-- Project Management
-- product team
-- agile coach
-- agile coaching
-- agile consultant
-- agile consulting
-- DevOps
-- DevOps consultant
-- DevOps consulting
-- DevOps coach
-- DevOps coaching
-- Agile leadership
-- Agile leader
-- Leadership
-- 7 signs
-- agile-pocalypse
-- agile-apocalypse
+- People and Process
+- Decision Making
+- Change Management
+- Transparency and Accountability
+- Agile Philosophy
+- Sociotechnical Systems
+- Pragmatic Thinking
+- Organisational Physics
+- Organisational Culture
+- Organisational Agility
 resourceTypes:
 - video
+categories:
+- Leadership
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

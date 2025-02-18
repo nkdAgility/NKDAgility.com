@@ -2,14 +2,13 @@
 title: Professional Scrum teams build software that works
 description: Discover how Professional Scrum Teams can deliver high-quality software that works. Learn to enhance accountability and trust in your development process.
 ResourceId: vCeqzJIgF1F
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 22774
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-03
 creator: Martin Hinshelwood
-id: "22774"
 layout: blog
 resourceTypes: blog
 slug: professional-scrum-teams-build-software-works
@@ -25,19 +24,13 @@ aliasesFor404:
 - /blog/professional-scrum-teams-build-software-works
 - /professional-scrum-teams-build-software-that-works
 - /blog/professional-scrum-teams-build-software-that-works
+- /resources/blog/professional-scrum-teams-build-software-works
 tags:
-- agile
-- increment
-- leadership-track
-- lean
-- professional-scrum
-- professional-scrum-developer
-- scrum
-- scrum-masters
-- scrum-team
-- taylorism
+- Software Development
+- Working Software
 categories:
-- agility
+- Scrum
+- Social Technologies
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

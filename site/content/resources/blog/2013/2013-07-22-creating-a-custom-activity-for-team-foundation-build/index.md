@@ -2,14 +2,13 @@
 title: Creating a custom Activity for Team Foundation Build
 description: Learn to create custom activities for Team Foundation Build with this step-by-step guide. Simplify your workflows and enhance your build processes today!
 ResourceId: mgwL4ERT1N3
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9769
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-22
 creator: Martin Hinshelwood
-id: "9769"
 layout: blog
 resourceTypes: blog
 slug: creating-a-custom-activity-for-team-foundation-build
@@ -21,16 +20,20 @@ aliases:
 aliasesFor404:
 - /creating-a-custom-activity-for-team-foundation-build
 - /blog/creating-a-custom-activity-for-team-foundation-build
+- /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
-- code
-- configuration
-- custom-activity
-- tfs-build
-- tools
-- workflow
+- Install and Configuration
+- Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Mastery
+- Technical Excellence
+- Continuous Integration
+- Azure Pipelines
+- Operational Practices
 categories:
-- code-and-complexity
-- install-and-configuration
+- Engineering Excellence
+- DevOps
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

@@ -2,14 +2,13 @@
 title: TFS Sticky Buddy Update
 description: Discover the latest updates for TFS Sticky Buddy, including fixes for key issues. Enhance your workflow with version 1.6 and improve your productivity!
 ResourceId: 6FP0Axpic3s
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 200
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-03
 creator: Martin Hinshelwood
-id: "200"
 layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-update
@@ -21,13 +20,11 @@ aliases:
 aliasesFor404:
 - /tfs-sticky-buddy-update
 - /blog/tfs-sticky-buddy-update
+- /resources/blog/tfs-sticky-buddy-update
 tags:
-- aggreko
-- tfs-sticky-buddy
-- tools
-- wit
-- wpf
+- Troubleshooting
 preview: metro-aggreko-128-link-1-1.png
+categories: []
 
 ---
 The Sticky Buddy has been updated to fix the following problems:

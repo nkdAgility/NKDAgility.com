@@ -2,7 +2,7 @@
 title: If your backlog is not refined then you are doing it wrong
 description: Ensure your Scrum team's success by refining your Product Backlog. Discover effective strategies to enhance clarity and quality in Sprint Planning.
 ResourceId: 4ukwclfJlXy
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 38243
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2020-12-17
 AudioNative: true
 creator: Martin Hinshelwood
-id: "38243"
 layout: blog
 resourceTypes: blog
 slug: backlog-not-refined-wrong
@@ -26,14 +25,17 @@ aliasesFor404:
 - /blog/backlog-not-refined-wrong
 - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
+- /resources/blog/backlog-not-refined-wrong
 tags:
-- product-backlog
-- product-discovery
-- refinement
+- Scrum Product Development
+- Backlog Refinement
+- Product Backlog
+- Professional Scrum
+- Software Development
+- Agile Project Management
 categories:
-- agility
-- discovery-ideation
-- people-and-process
+- Scrum
+- Social Technologies
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

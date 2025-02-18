@@ -47,6 +47,11 @@
           <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ $keywords }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ $keywords }}'">Keywords <i class="fa-regular fa-clipboard"></i></button>
           {{ $previewUrl := partial "functions/get-preview-image.html" . }}
           <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('https://nkdagility.com/blob{{ $previewUrl }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ $previewUrl }}'">Preview Image <i class="fa-regular fa-clipboard"></i></button>
+          <hr />
+          <strong>Resources</strong>
+          {{ range .Page.Resources }}
+            <p>{{ .Name }} ({{ .MediaType.Type }})</p>
+          {{ end }}
         </div>
       </div>
     {{ end }}

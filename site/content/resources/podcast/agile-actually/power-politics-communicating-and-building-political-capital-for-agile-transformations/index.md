@@ -1,15 +1,25 @@
 ---
-id: "51413"
-title: "Power & Politics! Communicating and Building Political Capital for Agile Transformations!"
-date: "2024-06-04"
+title: Power & Politics! Communicating and Building Political Capital for Agile Transformations!
+description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
+ResourceId: 2RYiDJ9l8wh
+ResourceImport: false
+ResourceType: podcast
+date: 2024-06-04
 categories:
-  - "agility"
-author: "MrHinsh"
+- Scrum
+- Social Technologies
+- Leadership
+author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: "power-politics-communicating-and-building-political-capital-for-agile-transformations"
----
+slug: power-politics-communicating-and-building-political-capital-for-agile-transformations
+aliases:
+- /resources/2RYiDJ9l8wh
+tags:
+- Transparency
+- People and Process
 
+---
 ![](https://nkdagility.com/wp-content/uploads/2024/06/37154808-1717508586054-52b451df81ef9.jpg)
 
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of transparency, specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

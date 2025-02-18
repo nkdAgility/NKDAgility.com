@@ -2,14 +2,13 @@
 title: Technorati Troubles
 description: Struggling with Technorati? Discover my challenges with URL redirects and invalid tags, and join the conversation on resolving these blogging issues.
 ResourceId: r1BGZbCmJRA
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 308
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-22
 creator: Martin Hinshelwood
-id: "308"
 layout: blog
 resourceTypes: blog
 slug: technorati-troubles
@@ -21,9 +20,12 @@ aliases:
 aliasesFor404:
 - /technorati-troubles
 - /blog/technorati-troubles
-categories:
-- me
+- /resources/blog/technorati-troubles
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
+tags:
+- Troubleshooting
+- Miscellaneous
 
 ---
 Recently I have been having real trouble with Technorati. I have been trying to mop up my loose blog claims and I have been having a problem. Technorati seems unable to get a lock on redirected URL's, I don't see why that would be an issue, but it is. In a effort to try to remedy this problem I have put all of my claim codes here:

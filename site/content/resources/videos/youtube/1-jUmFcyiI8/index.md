@@ -1,9 +1,9 @@
 ---
-title: Accelerating Time to Market with a Tight Feedback Loop
-description: Unlock faster market delivery! Discover how to optimise deployment frequency, eliminate bottlenecks, and enhance customer trust in this insightful video.
+title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success'
+description: Unlock the secrets to efficient software delivery! Discover how deployment frequency, stability, and learning time can transform your team's success.
 date: 2025-01-22T14:16:54Z
 ResourceId: 1-jUmFcyiI8
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1-jUmFcyiI8
@@ -11,65 +11,66 @@ source: youtube
 url: /resources/videos/:slug
 slug: accelerating-time-to-market-with-a-tight-feedback-loop
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=1-jUmFcyiI8
 aliases:
 - /resources/videos/1-jUmFcyiI8
 - /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/1-jUmFcyiI8
+aliasesFor404:
+- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
+- /resources/accelerating-time-to-market-with-a-tight-feedback-loop
 preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
 tags:
-- Deployment frequency in DevOps
-- DevOps
-- Engineering Excellence
+- Product Delivery
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
+categories:
+- DevOps
+- Product Management
+- Engineering Excellence
 
 ---
- *Mastering Deployment Frequency: Shorten Feedback Loops, Maximize Value*
+In my journey through the world of software development, I've come to realise that deployment frequency is a crucial leading indicator of a company's ability to reduce time to market. It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.
 
-Deployment frequency is more than just a metric—it's a powerful leading indicator of your company’s ability to reduce time to market, respond to opportunities, and maximize value creation. In this video, I explore the nuances of time-to-learn cycles, how to identify bottlenecks in your delivery pipeline, and the transformative impact of continuous delivery on your engineering team's ability to iterate, innovate, and adapt.
+### Understanding Deployment Metrics
 
-# 📚 *Chapters:*
+To truly gauge our deployment capabilities, we need to consider several factors:
 
-1. *00:00 Introduction* – The importance of deployment frequency.
-2. *01:15 Time-to-Learn Defined* – From ideation to customer feedback.
-3. *03:45 Identifying Bottlenecks* – How to find and fix the biggest blockers in your delivery cycle.
-4. *06:30 Managing Risk and Speed* – Balancing speed with stability in complex environments.
-5. *09:15 Customer-Centric Engineering* – Building trust with customers through rapid iterations.
-6. *11:45 Responding to Market Opportunities* – Delivering on high-pressure business demands.
-7. *14:00 Engineering and Business Alignment* – Using telemetry to guide product decisions.
-8. *16:20 Call to Action* – How Naked Agility can help you deploy faster and smarter.
+- **Stability of Environments**: A stable environment is key. If we can deploy to a stable environment consistently, we should be able to deliver to production more swiftly. This stability is a reasonable indicator of our deployment health.
+  
+- **End-to-End Pipeline Analysis**: I advocate for examining the entire pipeline—from ideation to delivery. This means tracking how long it takes to get features in front of customers and closing the feedback loop. The time it takes to learn from our deployments is often the most significant bottleneck.
 
-# 🎯 *Who This Video is For:*
-- *Engineering Leaders & Delivery Managers*: Seeking to optimize their teams' deployment cycles and reduce risk.
-- *Product Managers*: Wanting to align development with market opportunities and customer needs.
-- *CTOs & Business Leaders*: Aiming to create agile, responsive engineering teams capable of continuous delivery.
-- *Organizations in Competitive Markets*: Looking to leverage speed and innovation to gain an edge.
+### The Time to Learn
 
+The concept of "time to learn" is vital. It encompasses the entire cycle of collecting data, understanding feature performance, and iterating based on that feedback. Here’s how I approach it:
 
-# 🌟 *What You’ll Learn:*
+1. **Identify Bottlenecks**: Look for the longest delays in your time to learn. Once identified, tackle these issues head-on. Streamlining these processes can lead to faster iterations and improved delivery.
 
-- The importance of deployment frequency as a leading indicator of organizational agility.
-- How to measure and shorten your time-to-learn cycles for better decision-making.
-- Strategies to identify and eliminate bottlenecks in your delivery pipeline.
-- Techniques to build trust between engineering teams, the business, and customers.
-- How to leverage telemetry for smarter product development and delivery.
-- Practical steps to respond to high-stakes business opportunities with confidence.
+2. **Define Manageable Learning Times**: What constitutes a manageable time to learn? It’s about finding the balance—enough speed to meet customer expectations without incurring unnecessary costs. 
 
-# 💡 *Key Takeaways:*
-- *Shorten Time-to-Learn*: Continuously iterate on features with rapid deployment cycles to adapt to complex, changing needs.
-- *Build Trust*: Customers trust engineering teams that ship high-quality updates quickly and consistently.
-- *Seize Opportunities*: When the business needs something urgently, continuous delivery allows engineering teams to deliver quickly and confidently.
-- *Align Engineering and Business*: Use telemetry to provide the business with actionable insights for smarter product decisions.
-- *Iterate Safely*: Smaller, incremental deployments reduce risk and improve stability in production environments.
+3. **Align with Business Needs**: Understand the urgency of your sales team. They often promise features to customers, creating expectations that must be met. It’s crucial to ship features quickly to build and maintain trust.
 
-### 🔗 *Ready to Accelerate Your Deployment Cycle?*  
+### The Quandary of Speed
 
-Visit **[www.nkdagility.com](https://www.nkdagility.com)** to learn how Naked Agility can help you optimize your delivery pipeline, shorten feedback loops, and empower your engineering teams to seize market opportunities faster than ever before. Let’s build smarter, faster, and more adaptable systems together! 
- [Watch on Youtube](https://www.youtube.com/watch?v=1-jUmFcyiI8)
+As a delivery manager, I often grapple with the question of speed. There’s a prevailing belief that faster is always better, but this isn’t universally true. We must consider:
+
+- **Business Demands**: If the business doesn’t require rapid changes, pushing for speed can lead to unnecessary risks. However, if we can shorten feedback loops, we can iterate more effectively and respond to real-time data.
+
+- **Handling Opportunities**: When a business opportunity arises, the pressure to deliver can be immense. If your team is accustomed to continuous delivery, adding new features becomes less daunting. You can ship quickly, iterate, and refine based on user feedback.
+
+### Building Trust and Collaboration
+
+The relationship between engineering and the business is critical. Customers don’t differentiate between the business and the engineering team; they see us as one entity. If we can foster extreme trust between ourselves, the business, and our customers, we can focus on what truly matters: building the right products.
+
+- **Collecting Data**: It’s our responsibility to gather telemetry and provide insights that inform business decisions. This data empowers the business to make informed choices about what to build next.
+
+- **Continuous Delivery**: By enabling continuous delivery, we position ourselves to seize opportunities faster than our competitors. This agility is what sets successful teams apart.
+
+### Conclusion
+
+In conclusion, the interplay between deployment frequency, stability, and the time to learn is fundamental to maximising business value. By focusing on these areas, we can enhance our delivery capabilities and build stronger relationships with our customers. Remember, it’s not just about shipping products; it’s about shipping the right products, at the right time, with the right information to back our decisions. Let’s embrace this journey together, continuously learning and adapting to meet the ever-evolving demands of our industry.

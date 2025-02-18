@@ -1,0 +1,1379 @@
+{
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-12T16:37:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges in software project management, Agile principles, and the need for technical leadership, without a clear focus on AI applications.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile and Scrum principles, which relate to team dynamics and collaboration, but the primary focus is on challenges with deadlines and technical leadership rather than direct team collaboration techniques.",
+    "level": "Tertiary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of iterative development, which are relevant to MVP concepts, but it primarily focuses on challenges related to deadlines and project management rather than specifically on MVP development or validation.",
+    "level": "Tertiary"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and continuous delivery, which are related to deployment frequency, but the primary focus is on challenges with deadlines and unpredictability in software projects.",
+    "level": "Tertiary"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-12T16:37:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to missed deadlines and unpredictability in software projects, rather than focusing on the measurement and optimisation of throughput.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-12T16:38:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and project management rather than focusing on Scrum Values.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses principles of Agile and Scrum, which are related to Lean Product Development, but the primary focus is on addressing issues with deadlines and unpredictability in software projects rather than explicitly on Lean principles or waste reduction.",
+    "level": "Tertiary"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-12T16:38:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines, unpredictability in software projects, and the principles of Agile and Scrum, without a clear focus on Test Driven Development.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-12T16:38:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges in software project management, unpredictability, and the importance of technical leadership, without a clear focus on test automation principles or practices.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-12T16:38:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses software project management and Agile methodologies, with no mention of Windows or related topics.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-12T16:38:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to project management, technical leadership, and the unpredictability of software projects, rather than focusing on mentoring or coaching in Agile environments.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of continuous feedback and adaptation, which are relevant to empirical process control, but it primarily focuses on challenges related to deadlines and project management rather than a deep exploration of empirical process control itself.",
+    "level": "Tertiary"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-12T16:38:17",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses practical problem-solving strategies in the context of Agile and Scrum, focusing on navigating complexity and unpredictability in software project management.",
+    "level": "Secondary"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-12T16:38:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical leadership, Agile, and Scrum methodologies, with no clear focus on employee engagement or motivation.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on iterative development and continuous delivery, which are related to the concept of Increment, but it primarily addresses broader issues of project management and unpredictability rather than specifically focusing on the delivery of software increments.",
+    "level": "Tertiary"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the unpredictability in software project delivery and the need for technical leadership and engineering excellence, which are related to innovation capabilities. However, the primary focus is on challenges and practices in project management rather than directly measuring or enhancing the ability to innovate.",
+    "level": "Tertiary"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the unpredictability of software project delivery and the need for effective leadership and engineering practices, which are relevant to strategic approaches in Agile. However, it primarily focuses on challenges and solutions rather than a clear strategic framework.",
+    "level": "Tertiary"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile principles and the need for tools to improve effectiveness, but it primarily focuses on broader issues of unpredictability and leadership in software projects rather than specific Agile planning tools.",
+    "level": "Tertiary"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-12T16:38:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to software project delivery, technical leadership, and Agile principles, without a clear focus on portfolio management or strategic alignment of projects.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile and Scrum principles, which are relevant to the Scrum Master role, but it primarily focuses on broader organisational challenges and technical leadership rather than the specific responsibilities and practices of a Scrum Master.",
+    "level": "Tertiary"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of leadership and engineering excellence in the context of software project delivery, which relates to team performance but is not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-12T16:38:39",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Agile principles and their role in addressing unpredictability in project delivery, making Agile Planning a significant theme, though it also touches on broader topics of technical leadership and engineering excellence.",
+    "level": "Secondary"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-12T16:38:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to missed deadlines and unpredictability in software projects, without a clear focus on forecasting methodologies or practices within Agile and Scrum.",
+    "level": "Ignored"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-12T16:38:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to missed deadlines and unpredictability in software projects, rather than focusing on estimation techniques or practices within Agile and Scrum.",
+    "level": "Ignored"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the unpredictability in software project management and the need for effective decision-making, which aligns with some principles of Evidence-Based Management. However, it primarily focuses on Agile and Scrum practices rather than empirical evidence or data-driven approaches.",
+    "level": "Tertiary"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the need for effective leadership in the context of software project management, which relates to organisational change but is primarily focused on technical leadership and engineering practices.",
+    "level": "Tertiary"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-12T16:38:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses general challenges in software project management and Agile principles but does not specifically address Azure Boards or its functionalities.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-12T16:38:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses project management challenges and Agile methodologies, with no focus on market share or related strategies.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-12T16:38:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, focusing on technical leadership and engineering excellence rather than accountability within Agile teams.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses principles related to continuous delivery, but primarily focuses on challenges with deadlines and project management rather than CD as a central theme.",
+    "level": "Tertiary"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-12T16:38:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines, unpredictability in software projects, and the importance of technical leadership and engineering excellence, rather than focusing on working agreements or team collaboration norms.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-12T16:38:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to project management, technical leadership, and Agile principles, without a clear focus on customer satisfaction or enhancing customer experience.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of leadership in navigating unpredictability and fostering technical excellence within Agile frameworks, making Agile leadership a significant theme, though not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses concepts related to continuous delivery and continuous testing, which are associated with Continuous Integration, but the primary focus is on project management challenges and Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses principles of Agile and Scrum, which include iterative development and continuous improvement, aligning with Lean concepts. However, it primarily focuses on challenges related to deadlines and project management rather than explicitly on Lean principles.",
+    "level": "Tertiary"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-12T16:39:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and budget overruns in software projects, with a focus on Agile and Scrum principles, but does not specifically address the Daily Scrum event or its structure.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-12T16:39:04",
+    "ai_confidence": 70,
+    "non_ai_confidence": 30,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and philosophies, particularly focusing on iterative development and continuous practices, which are central to Agile values. However, it also heavily emphasises technical leadership and engineering excellence, making Agile a secondary theme.",
+    "level": "Secondary"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses principles of Agile and continuous practices, which include continuous testing, but it primarily focuses on broader issues of project management and leadership rather than specifically on automated testing methodologies or tools.",
+    "level": "Tertiary"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-12T16:39:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, without a clear focus on the Definition of Ready or its criteria.",
+    "level": "Ignored"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-12T16:39:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and project management rather than the Definition of Done.",
+    "level": "Ignored"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-12T16:39:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, focusing on technical leadership and Agile principles without a clear emphasis on cross-functional teams.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-12T16:39:12",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses Agile principles and their impact on software development, focusing on the need for technical leadership and engineering excellence in the context of unpredictability in software projects.",
+    "level": "Secondary"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-12T16:39:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and project management without a clear focus on scaling Agile practices across multiple teams or at an enterprise level.",
+    "level": "Ignored"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-12T16:39:14",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses Agile and Scrum principles, focusing on improving software project delivery and addressing common challenges in software development.",
+    "level": "Secondary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-12T16:39:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges in software project management and Agile methodologies, with no direct reference to Azure Repos or its functionalities.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-12T16:39:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Scrum principles without a focus on Acceptance Test Driven Development or acceptance criteria.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses continuous feedback as part of Agile and Scrum principles, indicating a secondary theme related to customer feedback loops, but it primarily focuses on challenges in project management and technical leadership.",
+    "level": "Tertiary"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-12T16:39:21",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Agile principles and their importance in addressing unpredictability in software project delivery, making Agile a significant theme. However, it primarily focuses on challenges related to deadlines and technical leadership rather than a comprehensive Agile strategy.",
+    "level": "Secondary"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-12T16:39:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and unpredictability in software projects, focusing on technical leadership and Agile principles rather than specific collaboration tools or their impact on team dynamics.",
+    "level": "Ignored"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-12T16:39:28",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "Content discusses Agile principles and philosophies, particularly in relation to improving effectiveness and decision-making in software projects, but it primarily focuses on challenges with deadlines and project management.",
+    "level": "Secondary"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-12T16:39:30",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the unpredictability of software project delivery and the need for technical leadership and engineering excellence, which aligns with operational practices. However, it primarily focuses on challenges and philosophical aspects rather than specific techniques or strategies for improving operational efficiency.",
+    "level": "Secondary"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the unpredictability of software project delivery and the need for effective decision-making within organisations, particularly in the context of Agile and Scrum principles. However, it primarily focuses on challenges and philosophies rather than structured decision-making methodologies.",
+    "level": "Tertiary"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-12T16:39:34",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the challenges of software project delivery, the importance of quality in engineering, and the principles of Agile and Scrum, which are relevant to working software. However, it primarily focuses on the issues surrounding deadlines and unpredictability rather than directly on the delivery of functional software.",
+    "level": "Secondary"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-12T16:39:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges in software project management and Agile principles, without a clear focus on Sprint Review.",
+    "level": "Ignored"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-12T16:39:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile and Scrum methodologies, focusing on software project management rather than Site Reliability Engineering principles.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-12T16:39:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses issues related to missed deadlines, unpredictability in software projects, and the importance of technical leadership and engineering excellence, without a clear focus on psychological safety.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-12T16:39:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to project management, deadlines, and technical leadership rather than strategies for retaining customers.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-12T16:39:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and budget overruns in software projects, focusing on Agile and Scrum principles rather than Lean Startup methodologies like MVP, Build-Measure-Learn, or validated learning.",
+    "level": "Ignored"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-12T16:39:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines, unpredictability in software projects, and Agile principles, without a clear focus on asynchronous development practices or principles.",
+    "level": "Ignored"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-12T16:39:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to missed deadlines and unpredictability in software projects, with a focus on Agile principles and leadership rather than on experimentation or hypothesis-driven approaches.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-12T16:39:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses project management challenges and Agile principles without addressing revenue per employee metrics.",
+    "level": "Ignored"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-12T16:39:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges in software project management and Agile principles, without specific reference to Azure Pipelines or related CI/CD practices.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-12T16:39:54",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses Agile principles and philosophies, particularly focusing on iterative development and continuous feedback, which are central to Agile Project Management.",
+    "level": "Secondary"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-12T16:39:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to software project management, unpredictability, and Agile methodologies, without a clear focus on Lean principles or practices.",
+    "level": "Ignored"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-12T16:39:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses challenges in software project management and the importance of technical leadership, rather than focusing on the specific responsibilities and practices of a Product Owner.",
+    "level": "Ignored"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the need for leadership and engineering excellence, which are relevant to large-scale agility, but it primarily focuses on challenges related to project delivery and technical leadership rather than explicitly addressing scaling Agile across an organisation.",
+    "level": "Tertiary"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-12T16:39:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and project management rather than focusing on the Product Backlog or its management.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-12T16:40:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and technical leadership rather than team motivation or dynamics.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-12T16:40:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, with a focus on Agile and Scrum principles, but does not specifically address hypothesis formulation, experimentation, or validated learning.",
+    "level": "Ignored"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-12T16:40:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses issues related to project management, Agile, and Scrum, without a focus on Value Stream Mapping or its principles.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-12T16:40:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines, budget overruns, and the importance of technical leadership and Agile methodologies, rather than focusing on identifying customer needs or defining product features.",
+    "level": "Ignored"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses principles of Agile and continuous delivery, which are relevant to frequent releases, but the primary focus is on challenges related to deadlines and project management.",
+    "level": "Tertiary"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-12T16:40:08",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the principles and philosophies behind Agile and Scrum, focusing on iterative development, continuous delivery, and the importance of adaptability in software engineering, which aligns closely with Agile Philosophy.",
+    "level": "Secondary"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the unpredictability in software project delivery and the need for technical leadership and engineering excellence, which are related to strategic goals in enhancing business agility. However, the primary focus is on operational challenges rather than explicitly defining or articulating long-term strategic objectives.",
+    "level": "Tertiary"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-12T16:40:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, without a clear focus on Lead Time as a metric or its measurement.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-12T16:40:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines, unpredictability in software projects, and Agile principles, without a clear focus on Behaviour Driven Development or its core practices.",
+    "level": "Ignored"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on iterative development and continuous feedback, which are relevant to Scrum product development, but it does not primarily centre on Scrum practices or roles.",
+    "level": "Tertiary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-12T16:40:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses technical leadership, engineering excellence, and Agile principles rather than focusing on product strategy, vision, or roadmap development.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the unpredictability and complexity in software project management, touching on the need for effective decision-making and leadership understanding, which aligns with sensemaking principles. However, the primary focus is on technical leadership and Agile methodologies rather than a deep exploration of sensemaking itself.",
+    "level": "Tertiary"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of technical leadership and engineering excellence in the context of software project delivery, touching on Agile principles and continuous practices, but primarily focuses on project management challenges rather than technical craftsmanship.",
+    "level": "Tertiary"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-12T16:40:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, with a focus on technical leadership and engineering excellence rather than transparency in Agile processes.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-12T16:40:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses general Agile principles and challenges in software project delivery without a clear focus on Scrum Team dynamics or roles.",
+    "level": "Ignored"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-12T16:40:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, without a clear focus on Cycle Time as a measurement or its implications.",
+    "level": "Ignored"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-12T16:40:29",
+    "ai_confidence": 70,
+    "non_ai_confidence": 10,
+    "final_score": 64.0,
+    "reasoning": "The content discusses principles of Agile and Scrum, including continuous feedback and delivery, which are related to Continuous Learning. However, the primary focus is on addressing issues with deadlines and project management rather than explicitly promoting a growth mindset or knowledge sharing.",
+    "level": "Secondary"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-12T16:40:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to missed deadlines and unpredictability in software projects, rather than focusing on trend analysis within Agile, DevOps, or business agility frameworks.",
+    "level": "Ignored"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the need for effective decision-making and leadership, which are related to self-organisation, but the primary focus is on challenges with deadlines and technical leadership rather than self-organisation itself.",
+    "level": "Tertiary"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-12T16:40:35",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the importance of engineering excellence and technical leadership in the context of software development, focusing on quality, adaptability, and best practices such as Agile and continuous delivery.",
+    "level": "Secondary"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile and Scrum principles, which are methodologies that can support digital transformation efforts, but the primary focus is on challenges related to project management and software delivery rather than a strategic adoption of digital technologies.",
+    "level": "Tertiary"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-12T16:40:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses project management methodologies, specifically Agile and Scrum, rather than system configuration.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-12T16:40:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, focusing on leadership and engineering excellence rather than directly addressing technical debt management or its implications.",
+    "level": "Ignored"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-12T16:40:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges in software project management and the unpredictability of deadlines, with only a brief mention of Agile and Scrum principles without a focus on scaling practices.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-12T16:40:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and budget overruns in software projects, focusing on technical leadership and Agile principles without specific reference to remote working practices or challenges.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the unpredictability in software project management and the need for leadership to understand technical realities, which aligns with evidence-based practices. However, it primarily focuses on Agile principles and technical leadership rather than explicitly on evidence-based leadership itself.",
+    "level": "Tertiary"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-12T16:40:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and project management rather than specific deployment strategies.",
+    "level": "Ignored"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-12T16:40:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and unpredictability in software projects, without a clear focus on backlog refinement or its associated practices.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses agile principles and the importance of leadership and engineering excellence, which are relevant to scaling agility, but it primarily focuses on challenges related to deadlines and project management rather than explicitly addressing scaling agile practices across the organisation.",
+    "level": "Tertiary"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile and Scrum principles, which are relevant to product management, but the primary focus is on technical leadership and the unpredictability of software project delivery.",
+    "level": "Tertiary"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the role of leadership and the importance of understanding technical realities, which are relevant to organisational culture. However, the primary focus is on technical challenges and practices rather than a deep exploration of cultural elements.",
+    "level": "Tertiary"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-12T16:40:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues related to project management, deadlines, and Agile methodologies, without a clear focus on version control practices.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-12T16:40:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and technical leadership in software projects, with a focus on Agile and Scrum principles rather than coaching practices.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the unpredictability in software project management and the need for effective leadership and engineering practices, which aligns with systems thinking principles. However, it primarily focuses on Agile and Scrum methodologies rather than a comprehensive exploration of organisational dynamics.",
+    "level": "Tertiary"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-12T16:41:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, focusing on Agile and Scrum principles rather than directly addressing product validation methodologies or user engagement.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-12T16:41:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Scrum principles without a focus on Kanban or its scaling in organisations.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts related to Agile and continuous delivery, which are relevant to release management, but the primary focus is on challenges with deadlines and project unpredictability rather than specific release management practices.",
+    "level": "Tertiary"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-12T16:41:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses project management challenges and Agile methodologies, which are not central to entrepreneurship.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-12T16:41:07",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses the importance of technical leadership and engineering excellence in managing unpredictability in software projects, aligning with key topics of the category.",
+    "level": "Secondary"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-12T16:41:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to project management, deadlines, and Agile principles rather than specific troubleshooting techniques or methodologies.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the unpredictability of software project delivery and the need for effective leadership and engineering practices, which are relevant to change management principles in Agile environments. However, the primary focus is on technical leadership and project delivery rather than change management strategies or practices.",
+    "level": "Tertiary"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-12T16:41:12",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the importance of engineering excellence, Agile principles, and continuous practices in software development, aligning closely with the category's focus on high-quality engineering practices.",
+    "level": "Secondary"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and philosophies, particularly in relation to iterative development and continuous practices, but it primarily focuses on challenges in project management and leadership rather than a deep exploration of Agile frameworks.",
+    "level": "Tertiary"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-12T16:41:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and the unpredictability of software projects, with a focus on Agile and Scrum principles rather than specifically on Test First Development or TDD.",
+    "level": "Ignored"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly in the context of improving software delivery and addressing unpredictability, making Scrum a significant theme but not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-12T16:36:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Scrum principles without specific reference to Azure DevOps or its functionalities.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile principles and the need for tools to improve effectiveness, but it primarily focuses on challenges in software project management rather than specific products or literature.",
+    "level": "Tertiary"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses decision-making in the context of software project management and the unpredictability of outcomes, which aligns with decision theory principles. However, the primary focus is on Agile and Scrum methodologies rather than decision theory itself.",
+    "level": "Tertiary"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the need for continuous improvement, which are related to flow efficiency, but the primary focus is on challenges with deadlines and unpredictability in software projects.",
+    "level": "Tertiary"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-12T16:37:02",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Agile principles and their role in enhancing responsiveness and decision-making in software development, which aligns well with the category of Market Adaptability.",
+    "level": "Secondary"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the interplay between organisational leadership and technical practices in the context of software delivery, highlighting the importance of understanding technical realities and the role of Agile principles. However, it primarily focuses on challenges related to deadlines and project management rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Tertiary"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-12T16:37:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and unpredictability in software projects, focusing on technical leadership and engineering excellence rather than transparency and accountability.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-12T16:37:09",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the principles and philosophies behind Agile and Scrum, focusing on how these methodologies can enhance organisational effectiveness and adaptability in the face of unpredictability in software projects.",
+    "level": "Secondary"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses complexity and unpredictability in software projects, touching on decision-making and the need for a holistic understanding of technical realities, which aligns with Systems Thinking principles. However, the primary focus is on Agile and Scrum methodologies, making Systems Thinking a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles such as continuous feedback and iterative development, which are related to metrics and learning, but the primary focus is on challenges with deadlines and the unpredictability of software projects.",
+    "level": "Tertiary"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile principles and their impact on product delivery, but it primarily focuses on challenges related to deadlines and technical leadership rather than specific Agile product management practices.",
+    "level": "Tertiary"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-12T16:37:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses challenges related to deadlines and project management in software development, without focusing on installation or configuration of tools.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-12T16:37:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses challenges related to missed deadlines and budget overruns in software projects, focusing on technical leadership and Agile principles without a clear emphasis on AI or automation.",
+    "level": "Ignored"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and their application in addressing common issues in software project management, making it a major but secondary theme.",
+    "level": "Tertiary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses principles of Agile and continuous delivery, which are relevant to DevOps, but the primary focus is on challenges related to project management and leadership rather than DevOps practices.",
+    "level": "Tertiary"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-12T16:37:23",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the interplay between leadership, engineering excellence, and Agile principles, focusing on how these human factors influence software project outcomes and decision-making.",
+    "level": "Secondary"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of technical leadership and engineering excellence in the context of unpredictability in software projects, touching on Agile principles and continuous practices, but it primarily focuses on broader organisational challenges rather than specific engineering methodologies.",
+    "level": "Tertiary"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-12T16:37:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses challenges in software project management and Agile principles without reference to specific events or presentations.",
+    "level": "Ignored"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the unpredictability in software projects and the need for high-quality engineering, which relates to complexity in software development. However, the primary focus is on project management and Agile methodologies rather than directly on code quality or complexity theory.",
+    "level": "Tertiary"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-12T16:37:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Scrum principles without a clear focus on Lean methodologies or concepts.",
+    "level": "Ignored"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-12T16:37:31",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Agile and Scrum principles, focusing on iterative development, continuous delivery, and the importance of technical leadership in delivering value effectively.",
+    "level": "Secondary"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-12T16:37:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and practices, particularly in relation to software project management and leadership.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses unpredictability in software projects and the need for adaptability and leadership, which are relevant to resilience and change, but the primary focus is on technical leadership and Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and the need for tools and capabilities to improve effectiveness, but it primarily focuses on the challenges of missed deadlines and unpredictability in software projects.",
+    "level": "Tertiary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-12T16:37:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Agile and Scrum methodologies, with no clear focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-12T16:37:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to missed deadlines and project management challenges, with a focus on Agile and Scrum principles, rather than directly addressing Value Stream Management.",
+    "level": "Ignored"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the unpredictability of software project delivery and the need for leadership and engineering excellence, which aligns with themes of adaptability and continuous improvement. However, it primarily focuses on technical leadership and Scrum practices without a strong organisational context.",
+    "level": "Tertiary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-12T16:37:44",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the unpredictability of software project delivery and the need for technical leadership and engineering excellence, which are relevant to business agility. However, it primarily focuses on Agile and Scrum practices rather than a broader exploration of business agility principles.",
+    "level": "Secondary"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses challenges related to software project management, including unpredictability and the need for technical leadership, which are relevant to application lifecycle management. However, it primarily focuses on Agile and Scrum principles rather than the full lifecycle of applications.",
+    "level": "Tertiary"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-12T16:37:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses technical leadership, Agile methodologies, and software engineering practices, with minimal focus on psychological principles related to organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-12T16:37:48",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses the challenges of meeting deadlines and budget overruns in software projects, emphasising the importance of Agile methodologies, iterative development, and continuous practices, which are central to effective product delivery.",
+    "level": "Secondary"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-17T12:00:07",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the unpredictability in software projects and the importance of continuous feedback and iterative development, which are relevant to discovery and learning. However, the primary focus is on project management challenges and technical leadership rather than on methodologies for fostering innovation and learning.",
+    "level": "Tertiary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-12T16:37:51",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses unpredictability and the realities of complexity in organisational contexts, highlighting the need for technical leadership and Agile principles, which align with complexity thinking.",
+    "level": "Secondary"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-12T16:37:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges in software project management and the unpredictability of deadlines, without personal anecdotes or reflections.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T12:00:09",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses Agile principles and mentions Scrum in the context of iterative development and continuous improvement, but it primarily focuses on broader themes of unpredictability in software development and leadership rather than specific Scrum practices.",
+    "level": "Tertiary"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T12:00:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile principles and the unpredictability of software development without a clear focus on platform engineering or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T12:00:12",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the need for adaptive leadership, which aligns with some aspects of BetaCodex, but it primarily focuses on software development challenges rather than a comprehensive exploration of BetaCodex principles.",
+    "level": "Tertiary"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T12:00:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Agile and Scrum methodologies, focusing on unpredictability in software development rather than the One Engineering System framework.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T12:00:14",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Agile principles and their impact on software development, but it primarily focuses on unpredictability in project management rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "level": "Tertiary"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T13:48:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the role of leadership in navigating unpredictability in software development and highlights the importance of understanding technical realities, making it a major but secondary theme.",
+    "level": "Tertiary"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T13:48:26",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses Agile principles and their application in software development, highlighting iterative development and continuous improvement.",
+    "level": "Secondary"
+  }
+}

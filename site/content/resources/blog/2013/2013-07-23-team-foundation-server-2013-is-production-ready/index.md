@@ -2,14 +2,13 @@
 title: Team Foundation Server 2013 is production ready
 description: Discover why Team Foundation Server 2013 is production-ready! Learn about its agile journey, major improvements, and why you should upgrade now.
 ResourceId: HxDL5HRMiX4
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9917
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-23
 creator: Martin Hinshelwood
-id: "9917"
 layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2013-is-production-ready
@@ -21,16 +20,20 @@ aliases:
 aliasesFor404:
 - /team-foundation-server-2013-is-production-ready
 - /blog/team-foundation-server-2013-is-production-ready
+- /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
-- tfs
-- tfs2012
-- tfs2012-1
-- tfs2012-2
-- tfs-2012-3
-- tfs-2013
+- Technical Debt
+- Products and Books
+- Software Development
+- News and Reviews
+- Application Lifecycle Management
+- Agile Project Management
+- Working Software
+- Agile Frameworks
+- Agile Strategy
+- Software Developers
 categories:
-- news-and-reviews
-- products-and-books
+- Engineering Excellence
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

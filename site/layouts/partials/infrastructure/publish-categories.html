@@ -3,6 +3,7 @@
   {{- $.Scratch.Add "categories" (dict
     "name" $category
     "slug" ($category | urlize)
+    "description" (index $pages 0).Description
     )
   -}}
 {{- end }}

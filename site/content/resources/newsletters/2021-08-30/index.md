@@ -1,17 +1,31 @@
 ---
-id: "46514"
-title: "Training Schedule 2021 Q4/2022 Q1"
-date: "2021-08-30"
-preview: "class-marketing-Q32021.jpg"
-author: "MrHinsh"
+title: Training Schedule 2021 Q4/2022 Q1
+description: Transform your training with engaging live-virtual workshops! Join us for free sessions on agility, Scrum, and more, enhancing knowledge retention and collaboration.
+ResourceId: 7oAVt27r_UY
+ResourceImport: true
+ResourceType: newsletters
+date: 2021-08-30
+preview: class-marketing-Q32021.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "naked-agility-training-schedule-2021-q4-2022-q1"
+slug: naked-agility-training-schedule-2021-q4-2022-q1
 aliases:
-  - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
-  - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
----
+- /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+- /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+- /resources/7oAVt27r_UY
+aliasesFor404:
+- /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+- /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+categories:
+- Scrum
+- Kanban
+- Social Technologies
+tags:
+- Events and Presentations
+- People and Process
 
+---
 I have been working on perfecting my techniques by incorporating Liberating Structures, Training from the Back of the Room, and Organization and Relationship Systems Coaching into my deliveries. I have found, along with many other trainers, that live-virtual delivery of classes can be more powerful, and more engaging.
 
 We can do this by leveraging the additional time format, timezones, and techniques that are available in the virtual world. I for one have found it better all around! I have been able to engage with more customers and spend more time with them all. It has moved my training business from a one-and-done model to a longer-term partnership with my customers. This is primarily due to my ability to optimise my time as I am no longer travelling 300 days a year.

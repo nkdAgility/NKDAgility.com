@@ -2,14 +2,13 @@
 title: Create a Build vNext build definition
 description: Learn how to create a Build vNext definition on VSO with this comprehensive guide. Enhance your CI/CD process and streamline your development workflow!
 ResourceId: ey-p-MBUzgQ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 11047
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-04
 creator: Martin Hinshelwood
-id: "11047"
 layout: blog
 resourceTypes: blog
 slug: create-a-build-vnext-build-definition-on-vso
@@ -25,25 +24,15 @@ aliasesFor404:
 - /blog/create-a-build-vnext-build-definition-on-vso
 - /create-a-build-vnext-build-definition
 - /blog/create-a-build-vnext-build-definition
+- /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
-- android
-- build
-- cmake
-- jake
-- msbuild
-- powershell
-- preview
-- tf-build
-- tfs
-- tfs-2015
-- vnext
-- visual-studio
-- vsteamservices
-- vstest
-- xcode
+- Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
+- Azure Pipelines
 categories:
-- install-and-configuration
-- tools-and-techniques
+- Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---

@@ -3,7 +3,7 @@ title: Learn Scrum with Minecraft Education Edition
 description: Discover how Minecraft enhances the APS course, fostering collaboration and creativity in Agile teams. Join Martin Hinshelwood for insights!
 date: 2023-01-10T07:48:02Z
 ResourceId: ZrzqNfV7P9o
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZrzqNfV7P9o
@@ -21,17 +21,22 @@ aliases:
 - /resources/videos/ZrzqNfV7P9o
 - /resources/why-does-minecraft-make-the-aps-course-so-awesome-
 - /resources/ZrzqNfV7P9o
+aliasesFor404:
+- /resources/why-does-minecraft-make-the-aps-course-so-awesome
+- /resources/learn-scrum-with-minecraft
+- /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
+- /resources/why-does-minecraft-make-the-aps-course-so-awesome-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- APS
-- Applying Professional Scrum
-- Scrum Certification
-- Scrum Training
-- Agile Scrum Training
+- Install and Configuration
+- Practical Techniques and Tooling
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
 In the Applying Professional Scrum (APS) with Certification classroom, the **Minecraft Campsite** case study provides the best experience for students and more connections to how they work currently. Practice Scrum in Minecraft's complex and chaotic environment to experience the high-variance world of complex product development. We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.

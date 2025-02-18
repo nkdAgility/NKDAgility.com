@@ -2,14 +2,13 @@
 title: MSN Cartoon (Beta)
 description: Explore the MSN Cartoon Beta and learn how to create custom avatars with this fun guide. Unleash your creativity and share your unique cartoon self!
 ResourceId: fFkCnlj8PXW
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 347
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-04
 creator: Martin Hinshelwood
-id: "347"
 layout: blog
 resourceTypes: blog
 slug: msn-cartoon-beta
@@ -25,10 +24,11 @@ aliasesFor404:
 - /blog/msn-cartoon-beta
 - /msn-cartoon-(beta)
 - /blog/msn-cartoon-(beta)
+- /resources/blog/msn-cartoon-beta
 tags:
-- answers
-categories:
-- me
+- Install and Configuration
+- Miscellaneous
+categories: []
 preview: nakedalm-logo-128-link-25-25.png
 
 ---

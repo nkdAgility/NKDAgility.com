@@ -2,14 +2,13 @@
 title: Microsoft's internal uptake of Team Foundation Server
 description: Explore Microsoft's internal adoption of Team Foundation Server, showcasing its impact on development teams and the future of Visual Studio. Discover more!
 ResourceId: 1NIc24-e5FY
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 343
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-05
 creator: Martin Hinshelwood
-id: "343"
 layout: blog
 resourceTypes: blog
 slug: microsofts-internal-uptake-of-team-foundation-server
@@ -25,14 +24,13 @@ aliasesFor404:
 - /blog/microsofts-internal-uptake-of-team-foundation-server
 - /microsoft's-internal-uptake-of-team-foundation-server
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
+- /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 tags:
-- tfs
-- tfs2008
-- visual-studio
-- vs2008
+- Products and Books
+- News and Reviews
 categories:
-- news-and-reviews
-- products-and-books
+- Engineering Excellence
+- DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

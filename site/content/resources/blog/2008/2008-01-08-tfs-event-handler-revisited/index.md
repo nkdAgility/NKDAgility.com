@@ -2,14 +2,13 @@
 title: TFS Event Handler Revisited
 description: Explore the challenges and solutions in revisiting the TFS Event Handler for Visual Studio 2008. Join Martin Hinshelwood on this coding journey!
 ResourceId: QSQv7s8SaaD
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 266
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-08
 creator: Martin Hinshelwood
-id: "266"
 layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-revisited
@@ -21,16 +20,13 @@ aliases:
 aliasesFor404:
 - /tfs-event-handler-revisited
 - /blog/tfs-event-handler-revisited
+- /resources/blog/tfs-event-handler-revisited
 tags:
-- code
-- infrastructure
-- tfs
-- tfs2008
-- visual-studio
-- vs2008
-- wit
-categories:
-- code-and-complexity
+- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Software Development
+- Troubleshooting
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

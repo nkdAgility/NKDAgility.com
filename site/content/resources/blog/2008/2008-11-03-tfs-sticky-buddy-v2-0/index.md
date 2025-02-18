@@ -2,14 +2,13 @@
 title: TFS Sticky Buddy v2.0
 description: Discover the new features of TFS Sticky Buddy v2.0! Explore its improved interface and modular design, and share your ideas on Codeplex today!
 ResourceId: fxUFeDoOsrZ
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 174
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-03
 creator: Martin Hinshelwood
-id: "174"
 layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-v2-0
@@ -21,12 +20,16 @@ aliases:
 aliasesFor404:
 - /tfs-sticky-buddy-v2-0
 - /blog/tfs-sticky-buddy-v2-0
+- /resources/blog/tfs-sticky-buddy-v2-0
 tags:
-- tfs-sticky-buddy
-- tools
-- wit
-- wpf
+- Code and Complexity
+- Working Software
+- Application Lifecycle Management
+- Software Development
+- Technical Mastery
+- Technical Excellence
 preview: nakedalm-logo-128-link-2-1.png
+categories: []
 
 ---
 I will be working on some new features to the Sticky Buddy application. Improvements in the interface, along with a more modular structure and more diagram offering are in the mix. I have been working on some of the enhancements and their implementation in my other lesser known project [TFS Heat ITSM](http://hinshelwood.com/TFSHeatITSM.aspx)…

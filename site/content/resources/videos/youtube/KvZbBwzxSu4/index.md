@@ -3,7 +3,7 @@ title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direc
 description: Unlock your team's potential! Discover how a shared vision and clear goals drive organisational success and empower informed decision-making. Watch now!
 date: 2024-08-08T06:45:00Z
 ResourceId: KvZbBwzxSu4
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KvZbBwzxSu4
@@ -20,17 +20,29 @@ aliases:
 - /resources/videos/KvZbBwzxSu4
 - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/KvZbBwzxSu4
+aliasesFor404:
+- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Product Manager
-- Product Management
-- Agile product management
-- Agile product development
+- People and Process
+- Evidence Based Leadership
+- Evidence Based Management
+- Decision Making
+- Agile Product Operating Model
+- Agile Product Management
+- Value Delivery
+- Business Agility
+- Change Management
+- Strategic Goals
 resourceTypes:
 - video
+categories:
+- Leadership
+- Product Management
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

@@ -3,7 +3,7 @@ title: How to Discover Unrealized Value in Your Product
 description: "Discover 5 compelling reasons to implement Evidence-Based Management (EBM) in your environment and unlock your product's unrealised potential! #EBM #Shorts"
 date: 2024-01-24T11:00:29Z
 ResourceId: cbLd-wstv3o
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cbLd-wstv3o
@@ -20,35 +20,27 @@ aliases:
 - /resources/videos/cbLd-wstv3o
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 - /resources/cbLd-wstv3o
+aliasesFor404:
+- /resources/how-to-discover-unrealized-value-in-your-product
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Product Management
+- Metrics and Learning
+- Value Delivery
+- Evidence Based Management
+- Evidence Based Leadership
+- Pragmatic Thinking
+- Decision Making
+- Product Owner
+- Ability to Innovate
 resourceTypes:
 - video
+categories:
+- Product Management
 
 ---
 When developing a product, it’s natural to focus on delivering value as efficiently as possible. But have you ever wondered what additional value you could be achieving but haven’t yet? How do you uncover those hidden opportunities to take your product to the next level? That’s where Evidence-Based Management (EBM) comes into play.

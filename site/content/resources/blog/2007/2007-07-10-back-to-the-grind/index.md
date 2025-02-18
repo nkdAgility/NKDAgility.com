@@ -2,14 +2,13 @@
 title: Back to the grind
 description: Join Martin Hinshelwood as he reflects on his paternity leave and the joy of welcoming his baby girl, before diving back into the work grind.
 ResourceId: dcAyw0f562g
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 373
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-10
 creator: Martin Hinshelwood
-id: "373"
 layout: blog
 resourceTypes: blog
 slug: back-to-the-grind
@@ -21,9 +20,11 @@ aliases:
 aliasesFor404:
 - /back-to-the-grind
 - /blog/back-to-the-grind
-categories:
-- me
+- /resources/blog/back-to-the-grind
+categories: []
 preview: nakedalm-logo-128-link-2-2.png
+tags:
+- Personal
 
 ---
 Well that's my paternity leave over, I cant believe that it has been two weeks! Well I got a gorgeous  baby girl out of it:

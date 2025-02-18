@@ -1,17 +1,39 @@
 ---
-id: "49803"
-title: "September 2023 NKDAgility: Empower Your Learning Journey with Our Referral Programme"
-date: "2023-08-28"
-preview: "naked-agility-technically-agile-1280×720-September-2023.jpg"
-author: "MrHinsh"
+title: 'September 2023 NKDAgility: Empower Your Learning Journey with Our Referral Programme'
+description: Join our Referral Programme! Share your unique code, earn credits for future classes, and help others save 20% on their course fees. It's a win-win!
+ResourceId: TJDLWyX3cZt
+ResourceImport: true
+ResourceType: newsletters
+date: 2023-08-28
+preview: naked-agility-technically-agile-1280×720-September-2023.jpg
+author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
-slug: "september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme"
+slug: september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme
 aliases:
-  - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
-  - /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
----
+- /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+- /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+- /resources/TJDLWyX3cZt
+aliasesFor404:
+- /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+- /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+categories:
+- Scrum
+- Product Management
+- Social Technologies
+tags:
+- Discovery and Learning
+- Professional Scrum
+- Agile Product Management
+- Scrum Team
+- Continuous Learning
+- Agile Frameworks
+- Events and Presentations
+- Product Owner
+- Scrum Master
+- People and Process
 
+---
 Greetings,
 
 We hope this message finds you in good spirits and health. As a valued member of our community, we are always looking for ways to enhance your experience and provide you with the utmost value. Today, we are thrilled to share an exciting update that does just that.

@@ -1,0 +1,393 @@
+1
+00:00:00,320 --> 00:00:07,440
+okay so um if i uh scroll down my page
+
+2
+00:00:04,720 --> 00:00:08,880
+you can see that this uh list here is
+
+3
+00:00:07,440 --> 00:00:11,759
+rendered vertically rather than
+
+4
+00:00:08,880 --> 00:00:12,960
+horizontally and that's supposed to have
+
+5
+00:00:11,759 --> 00:00:17,680
+bootstrap
+
+6
+00:00:12,960 --> 00:00:20,000
+uh loaded and if i view the page source
+
+7
+00:00:17,680 --> 00:00:23,680
+f
+
+8
+00:00:20,000 --> 00:00:25,279
+you'll see that the bootstrap code
+
+9
+00:00:23,680 --> 00:00:26,880
+is not
+
+10
+00:00:25,279 --> 00:00:29,279
+in here
+
+11
+00:00:26,880 --> 00:00:31,840
+however if i go to
+
+12
+00:00:29,279 --> 00:00:31,840
+my dashboard
+
+13
+00:00:33,040 --> 00:00:37,120
+and i go to
+
+14
+00:00:34,480 --> 00:00:37,120
+where the
+
+15
+00:00:37,680 --> 00:00:41,840
+elementor
+
+16
+00:00:39,120 --> 00:00:41,840
+custom code
+
+17
+00:00:43,040 --> 00:00:48,480
+uh you'll see boot trap bootstrap head
+
+18
+00:00:46,399 --> 00:00:50,239
+um so if i edit that
+
+19
+00:00:48,480 --> 00:00:52,640
+these are all the same body they all
+
+20
+00:00:50,239 --> 00:00:54,800
+exist on all the pages you'll see um
+
+21
+00:00:52,640 --> 00:00:56,559
+here's the code that i expect to see
+
+22
+00:00:54,800 --> 00:00:57,840
+which i do not see
+
+23
+00:00:56,559 --> 00:01:01,120
+and then on the right hand side here you
+
+24
+00:00:57,840 --> 00:01:02,879
+can see its entire site
+
+25
+00:01:01,120 --> 00:01:03,600
+okay so this should
+
+26
+00:01:02,879 --> 00:01:06,479
+be
+
+27
+00:01:03,600 --> 00:01:08,159
+in here however it's
+
+28
+00:01:06,479 --> 00:01:11,680
+not in here
+
+29
+00:01:08,159 --> 00:01:13,360
+and none of the predefined code elements
+
+30
+00:01:11,680 --> 00:01:15,360
+are appearing there and if i click on
+
+31
+00:01:13,360 --> 00:01:17,600
+edit conditions
+
+32
+00:01:15,360 --> 00:01:20,960
+and you see i just go save and close
+
+33
+00:01:17,600 --> 00:01:21,840
+um i get an error message and there is
+
+34
+00:01:20,960 --> 00:01:23,119
+no
+
+35
+00:01:21,840 --> 00:01:25,520
+uh
+
+36
+00:01:23,119 --> 00:01:29,439
+more details than that
+
+37
+00:01:25,520 --> 00:01:30,720
+uh if i go check my error messages which
+
+38
+00:01:29,439 --> 00:01:33,040
+i might need to open in your browser to
+
+39
+00:01:30,720 --> 00:01:33,040
+do that
+
+40
+00:01:33,280 --> 00:01:38,159
+error logs
+
+41
+00:01:35,119 --> 00:01:38,159
+current error logs
+
+42
+00:01:38,720 --> 00:01:44,640
+here is the current
+
+43
+00:01:41,040 --> 00:01:47,119
+uh error log and you can see that all
+
+44
+00:01:44,640 --> 00:01:49,280
+i've got is some elementor pro upgrade i
+
+45
+00:01:47,119 --> 00:01:51,600
+tried to downgrade elementor pro don't
+
+46
+00:01:49,280 --> 00:01:53,520
+get me started it didn't work totally
+
+47
+00:01:51,600 --> 00:01:55,280
+garbled the whole site so i rolled back
+
+48
+00:01:53,520 --> 00:01:57,759
+to previous version
+
+49
+00:01:55,280 --> 00:01:57,759
+um
+
+50
+00:01:58,079 --> 00:02:03,280
+but anyway uh uh the site is there and
+
+51
+00:02:01,360 --> 00:02:06,000
+none of these
+
+52
+00:02:03,280 --> 00:02:08,720
+error messages are actually listed for
+
+53
+00:02:06,000 --> 00:02:10,000
+for that so that's the error messages
+
+54
+00:02:08,720 --> 00:02:11,920
+there
+
+55
+00:02:10,000 --> 00:02:15,280
+uh
+
+56
+00:02:11,920 --> 00:02:18,560
+so on the main website
+
+57
+00:02:15,280 --> 00:02:20,959
+um you can see that the
+
+58
+00:02:18,560 --> 00:02:23,040
+it has the impact some things are built
+
+59
+00:02:20,959 --> 00:02:25,280
+using um
+
+60
+00:02:23,040 --> 00:02:27,120
+bootstrap in the background so this
+
+61
+00:02:25,280 --> 00:02:29,120
+isn't loading
+
+62
+00:02:27,120 --> 00:02:33,200
+and
+
+63
+00:02:29,120 --> 00:02:33,200
+if i go to one of my courses
+
+64
+00:02:34,000 --> 00:02:38,000
+this is supposed to be in two columns
+
+65
+00:02:36,800 --> 00:02:41,120
+not loading
+
+66
+00:02:38,000 --> 00:02:42,959
+um and this is supposed to have a box
+
+67
+00:02:41,120 --> 00:02:44,879
+around it with a different color not
+
+68
+00:02:42,959 --> 00:02:47,680
+loading so i don't use it for a lot of
+
+69
+00:02:44,879 --> 00:02:50,400
+stuff but the stuff i do use it for
+
+70
+00:02:47,680 --> 00:02:53,840
+is important um but
+
+71
+00:02:50,400 --> 00:02:55,120
+that as well both um that code for
+
+72
+00:02:53,840 --> 00:02:59,280
+bootstrap
+
+73
+00:02:55,120 --> 00:03:01,680
+and if i go back to elementor and custom
+
+74
+00:02:59,280 --> 00:03:01,680
+code
+
+75
+00:03:02,800 --> 00:03:08,959
+uh the linkedin stuff not loading uh
+
+76
+00:03:06,720 --> 00:03:11,760
+the end the start none of this none of
+
+77
+00:03:08,959 --> 00:03:14,640
+this stuff is uh
+
+78
+00:03:11,760 --> 00:03:16,720
+being rendered in the front end
+
+79
+00:03:14,640 --> 00:03:19,040
+they all have high priority um i've
+
+80
+00:03:16,720 --> 00:03:20,480
+tried clearing all the caches doing all
+
+81
+00:03:19,040 --> 00:03:23,360
+of those things completely resetting
+
+82
+00:03:20,480 --> 00:03:24,640
+everything uh doesn't make a difference
+
+83
+00:03:23,360 --> 00:03:28,400
+and if i
+
+84
+00:03:24,640 --> 00:03:30,720
+install a previous version of elementor
+
+85
+00:03:28,400 --> 00:03:33,440
+it works uh with the
+
+86
+00:03:30,720 --> 00:03:36,159
+one version back it works
+
+87
+00:03:33,440 --> 00:03:38,000
+this version does not work
+
+88
+00:03:36,159 --> 00:03:40,400
+um
+
+89
+00:03:38,000 --> 00:03:42,319
+let's check because you'll probably ask
+
+90
+00:03:40,400 --> 00:03:45,200
+about themes
+
+91
+00:03:42,319 --> 00:03:47,360
+and i am using i think i'm using your
+
+92
+00:03:45,200 --> 00:03:49,840
+hello elementor
+
+93
+00:03:47,360 --> 00:03:54,959
+theme it says the new version even if i
+
+94
+00:03:49,840 --> 00:03:54,959
+update to the new version um it does not
+
+95
+00:03:55,599 --> 00:03:59,840
+make any difference it doesn't make any
+
+96
+00:03:57,599 --> 00:04:03,040
+difference to the to the to the output
+
+97
+00:03:59,840 --> 00:04:03,040
+of those rendered
+
+98
+00:04:03,120 --> 00:04:07,879
+software bits code custom code
+
+

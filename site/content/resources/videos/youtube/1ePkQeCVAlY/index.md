@@ -3,7 +3,7 @@ title: What is the difference between resource efficiency and flow efficiency?
 description: Explore the vital differences between resource and flow efficiency in modern workplaces. Unlock strategies for a happier, more productive team!
 date: 2023-03-09T07:00:02Z
 ResourceId: 1ePkQeCVAlY
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1ePkQeCVAlY
@@ -19,19 +19,31 @@ aliases:
 - /resources/videos/1ePkQeCVAlY
 - /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
 - /resources/1ePkQeCVAlY
+aliasesFor404:
+- /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
+- /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
+- /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Resource Efficiency
+- People and Process
 - Flow Efficiency
-- Agile
-- Scrum
-- Agile Project Management
-- Product Development
+- Value Stream Management
+- Value Delivery
+- Lean Principles
+- Systems Thinking
+- Lean
+- Organisational Physics
+- Lean Thinking
+- Complexity Thinking
 resourceTypes:
 - video
 layout: video
+categories:
+- Engineering Excellence
+- Kanban
+- Product Management
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

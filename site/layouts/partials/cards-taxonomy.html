@@ -1,0 +1,17 @@
+{{- $sectionName := .SectionName }}
+{{- $PagePermalink := .context.Page.Permalink }}
+{{- $section := .context.Site.GetPage "section" $sectionName }}
+<div class="container">
+  <div class="row">
+    {{- range $section.Pages.ByWeight }}
+      {{- if not .Draft }}
+        {{- if ne .Permalink $PagePermalink }}
+          <div class="col-md-6 col-xl-4 d-flex">
+            <!-- prettier-ignore -->
+            {{- partial "card.html" (dict "Page" . "class" "sectioncards" "title" .Params.card.title "content" .Params.card.content "buttonContent" .Params.card.button.content "permalink" .Permalink ) }}
+          </div>
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  </div>
+</div>

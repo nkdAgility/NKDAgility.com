@@ -1,0 +1,1379 @@
+{
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-17T15:41:06",
+    "ai_confidence": 80,
+    "non_ai_confidence": 50,
+    "final_score": 77.0,
+    "reasoning": "Content primarily discusses Scrum practices, specifically focusing on Sprint success strategies, including the definition of done, managing work in a Sprint, and the importance of refinement, which are all central to the Scrum framework.",
+    "level": "Secondary"
+  },
+  "Kanban": {
+    "category": "Kanban",
+    "calculated_at": "2025-02-17T15:41:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, with no clear focus on Kanban principles or practices.",
+    "level": "Ignored"
+  },
+  "Systems Thinking": {
+    "category": "Systems Thinking",
+    "calculated_at": "2025-02-17T15:41:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices, focusing on team dynamics and work management rather than Systems Thinking principles.",
+    "level": "Ignored"
+  },
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-17T15:41:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum practices and strategies for managing work within a Sprint, rather than focusing on leadership principles or practices.",
+    "level": "Ignored"
+  },
+  "Events and Presentations": {
+    "category": "Events and Presentations",
+    "calculated_at": "2025-02-17T15:41:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses strategies for improving team performance in Agile sprints, without reference to specific events, presentations, or discussions related to Agile or DevOps conferences.",
+    "level": "Ignored"
+  },
+  "Discovery and Learning": {
+    "category": "Discovery and Learning",
+    "calculated_at": "2025-02-17T15:41:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on project management strategies rather than discovery or learning methodologies.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-17T15:41:19",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of software development practices, particularly in relation to Agile and Scrum methodologies, which include managing technical debt and refining processes. However, the primary focus is on Agile practices rather than a broader discussion of engineering excellence.",
+    "level": "Tertiary"
+  },
+  "Code and Complexity": {
+    "category": "Code and Complexity",
+    "calculated_at": "2025-02-17T15:41:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices, with a focus on team dynamics and project management rather than the interplay between code quality and complexity.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-17T15:41:22",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile and Scrum methodologies, which are relevant to product management, but primarily focuses on team dynamics and technical execution rather than strategic product management aspects.",
+    "level": "Tertiary"
+  },
+  "News and Reviews": {
+    "category": "News and Reviews",
+    "calculated_at": "2025-02-17T15:41:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily focuses on practical strategies for Agile practices rather than discussing news, updates, or reviews related to Agile, DevOps, or technology.",
+    "level": "Ignored"
+  },
+  "Personal": {
+    "category": "Personal",
+    "calculated_at": "2025-02-17T15:41:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses strategies for improving team performance in Agile and Scrum, lacking personal anecdotes or reflections.",
+    "level": "Ignored"
+  },
+  "Miscellaneous": {
+    "category": "Miscellaneous",
+    "calculated_at": "2025-02-17T15:41:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Technical Excellence": {
+    "category": "Technical Excellence",
+    "calculated_at": "2025-02-17T15:41:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile practices and team dynamics without a strong focus on technical engineering practices or methodologies that enhance agility in software development.",
+    "level": "Ignored"
+  },
+  "People and Process": {
+    "category": "People and Process",
+    "calculated_at": "2025-02-17T15:41:29",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses strategies for improving team dynamics and processes within an Agile framework, focusing on collaboration, planning, and refinement, which are central to effective team performance.",
+    "level": "Secondary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-17T15:41:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 30,
+    "final_score": 3.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles and practices.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-17T15:41:32",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses Scrum practices, including the definition of done, managing work in sprints, and the importance of refinement, which are central to Agile methodologies.",
+    "level": "Secondary"
+  },
+  "Continuous Learning": {
+    "category": "Continuous Learning",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile techniques and practices that relate to team improvement and refinement, indicating a secondary theme of continuous learning in the context of Agile methodologies.",
+    "level": "Tertiary"
+  },
+  "Value Stream Management": {
+    "category": "Value Stream Management",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without addressing Value Stream Management principles or practices.",
+    "level": "Ignored"
+  },
+  "Continuous Delivery": {
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices, roles, and planning strategies without addressing Continuous Delivery principles or practices.",
+    "level": "Ignored"
+  },
+  "Test First Development": {
+    "category": "Test First Development",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses Scrum roles, processes, and planning within Agile without addressing Test First Development or its core principles.",
+    "level": "Ignored"
+  },
+  "Operational Practices": {
+    "category": "Operational Practices",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses techniques for improving sprint efficiency within Agile methodologies, including the definition of done, workload management, refinement practices, and planning considerations.",
+    "level": "Secondary"
+  },
+  "Install and Configuration": {
+    "category": "Install and Configuration",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content focuses on Scrum principles and strategies for improving team performance rather than on installation or configuration of tools or platforms.",
+    "level": "Ignored"
+  },
+  "Platform Engineering": {
+    "category": "Platform Engineering",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to platform engineering.",
+    "level": "Ignored"
+  },
+  "Azure Boards": {
+    "category": "Azure Boards",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses general Agile practices and strategies for Sprint success, without specific focus on Azure Boards or its functionalities.",
+    "level": "Ignored"
+  },
+  "Deployment Frequency": {
+    "category": "Deployment Frequency",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses Scrum roles and event planning rather than the optimisation of deployment intervals.",
+    "level": "Ignored"
+  },
+  "Customer Retention": {
+    "category": "Customer Retention",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and Agile methodologies without focusing on customer retention strategies, engagement, or reducing churn.",
+    "level": "Ignored"
+  },
+  "Behaviour Driven Development": {
+    "category": "Behaviour Driven Development",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and strategies for team success in Agile methodologies, but does not specifically address Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Transparency": {
+    "category": "Transparency",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses strategies for Sprint success, focusing on definition of done, workload management, and planning rather than directly addressing transparency or communication within the team.",
+    "level": "Ignored"
+  },
+  "Agile Leadership": {
+    "category": "Agile Leadership",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses primarily on Scrum practices and techniques rather than on leadership roles or the principles of Agile Leadership.",
+    "level": "Ignored"
+  },
+  "Agile Project Management": {
+    "category": "Agile Project Management",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses essential strategies for improving Sprint success in Agile project management, focusing on concepts like 'definition of done', workload management, and backlog refinement, which are central to Agile practices.",
+    "level": "Secondary"
+  },
+  "Cross Functional Teams": {
+    "category": "Cross Functional Teams",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content discusses Agile practices and team dynamics but focuses predominantly on Sprint planning and refinement rather than on cross-functional teams specifically.",
+    "level": "Quaternary"
+  },
+  "Product Owner": {
+    "category": "Product Owner",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile strategies relevant for managing Sprints and backlogs, which indirectly relates to the Product Owner's role, particularly in terms of refinement and backlog management. However, it focuses more on general Scrum practices than specifically on the responsibilities and skills of a Product Owner.",
+    "level": "Tertiary"
+  },
+  "Lead Time": {
+    "category": "Lead Time",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of considering lead times related to dependencies and future planning within the context of Agile and Sprint planning, but it primarily focuses on team strategies for improving Sprint success rather than exclusively on lead time itself.",
+    "level": "Tertiary"
+  },
+  "Strategy": {
+    "category": "Strategy",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses elements related to refining Agile practices such as Sprint planning, refinement, and managing workload, which are important for effective strategy execution in Agile environments. However, it primarily focuses on practical advice rather than broader strategic concepts.",
+    "level": "Tertiary"
+  },
+  "Beta Codex": {
+    "category": "Beta Codex",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum roles, events, and strategies for improving team performance within the Scrum framework, without a clear focus on BetaCodex principles or decentralised organisational design.",
+    "level": "Ignored"
+  },
+  "Customer Feedback Loops": {
+    "category": "Customer Feedback Loops",
+    "calculated_at": "2025-02-17T23:35:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum concepts, roles, and planning techniques without a focus on customer feedback integration.",
+    "level": "Ignored"
+  },
+  "Coaching": {
+    "category": "Coaching",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and strategies, focusing on team management and tasks rather than coaching individuals or facilitating growth.",
+    "level": "Ignored"
+  },
+  "Scaling Kanban": {
+    "category": "Scaling Kanban",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is primarily focused on Scrum practices, such as Sprint planning, definition of done, and refinement, without discussing Kanban principles or their application in scaling environments.",
+    "level": "Ignored"
+  },
+  "Windows": {
+    "category": "Windows",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile and Scrum practices, which are unrelated to the Windows operating system.",
+    "level": "Ignored"
+  },
+  "Lean Principles": {
+    "category": "Lean Principles",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile and Scrum practices, with a focus on sprint planning and refinement, rather than Lean principles related to waste reduction and value maximisation.",
+    "level": "Ignored"
+  },
+  "Technical Debt": {
+    "category": "Technical Debt",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the importance of reserving time for paying back technical debt within the context of Agile Sprint planning, making it a significant theme, but not the primary focus of the entire discussion.",
+    "level": "Tertiary"
+  },
+  "Azure DevOps": {
+    "category": "Azure DevOps",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum strategies and Agile principles without specific mention or focus on Azure DevOps tools or functionalities.",
+    "level": "Ignored"
+  },
+  "Product Validation": {
+    "category": "Product Validation",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile and Scrum practices, focusing on team dynamics and project management rather than on validating product ideas through user feedback or iterative testing.",
+    "level": "Ignored"
+  },
+  "Resilience and Change": {
+    "category": "Resilience and Change",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without focusing on resilience or change management.",
+    "level": "Ignored"
+  },
+  "Daily Scrum": {
+    "category": "Daily Scrum",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses strategies for managing work during a Sprint, including planning, refinement, and definition of done, but does not focus specifically on the Daily Scrum event.",
+    "level": "Ignored"
+  },
+  "Acceptance Test Driven Development": {
+    "category": "Acceptance Test Driven Development",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum practices, focus on definition of done, and sprint planning, without addressing Acceptance Test Driven Development or acceptance criteria.",
+    "level": "Ignored"
+  },
+  "Mentoring": {
+    "category": "Mentoring",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on strategies for managing Sprint activities and planning rather than on mentoring, coaching, or professional development in Agile environments.",
+    "level": "Ignored"
+  },
+  "Trend Analysis": {
+    "category": "Trend Analysis",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum practices and strategies to improve team performance without focusing on trend analysis or emerging patterns in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Release Management": {
+    "category": "Release Management",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on Scrum practices, sprint planning, and Agile methodology without addressing specific aspects of release management.",
+    "level": "Ignored"
+  },
+  "Team Collaboration": {
+    "category": "Team Collaboration",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses strategies for improving team dynamics during sprints, including techniques for planning, refinement, and defining 'done', which are essential for effective team collaboration in Agile and Scrum frameworks.",
+    "level": "Secondary"
+  },
+  "Metrics and Learning": {
+    "category": "Metrics and Learning",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum practices and strategies for improving Sprint success without a focus on metrics, data analysis, or learning mechanisms.",
+    "level": "Ignored"
+  },
+  "Psychological Safety": {
+    "category": "Psychological Safety",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile strategies and Scrum practices, with no clear focus on psychological safety.",
+    "level": "Ignored"
+  },
+  "Evidence Based Leadership": {
+    "category": "Evidence Based Leadership",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on practical advice for Scrum practices and Sprint management without any emphasis on empirical evidence or evidence-based leadership principles.",
+    "level": "Ignored"
+  },
+  "Sensemaking": {
+    "category": "Sensemaking",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile strategies and Scrum practices, without a clear focus on sensemaking or decision-making in complex environments.",
+    "level": "Ignored"
+  },
+  "Portfolio Management": {
+    "category": "Portfolio Management",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on team-level Agile practices rather than portfolio management.",
+    "level": "Ignored"
+  },
+  "Market Share": {
+    "category": "Market Share",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices without any clear relation to market share strategies or competitive advantage.",
+    "level": "Ignored"
+  },
+  "Test Driven Development": {
+    "category": "Test Driven Development",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum roles, sprint management, and planning processes in Agile, with no focus on Test Driven Development practices or principles.",
+    "level": "Ignored"
+  },
+  "Application Lifecycle Management": {
+    "category": "Application Lifecycle Management",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies, Scrum roles, and sprint strategies, which do not focus on the overall lifecycle management of applications.",
+    "level": "Ignored"
+  },
+  "Decision Making": {
+    "category": "Decision Making",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses planning and refining work within Agile sprints, which involves decision-making related to workload management and prioritization of tasks. However, it is primarily focused on Agile practices rather than structured, evidence-based decision-making.",
+    "level": "Tertiary"
+  },
+  "Product Strategy": {
+    "category": "Product Strategy",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum practices and roles, focusing on sprint planning and refinement, which do not align with product strategy themes.",
+    "level": "Ignored"
+  },
+  "Scaling Agility": {
+    "category": "Scaling Agility",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on team-level agile practices, specifically Scrum roles and events, which does not align with the topic of scaling agility across organizations.",
+    "level": "Ignored"
+  },
+  "Test Automation": {
+    "category": "Test Automation",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses Agile practices and strategies for improving team performance in sprints, but does not mention test automation or related topics.",
+    "level": "Ignored"
+  },
+  "Organisational Psychology": {
+    "category": "Organisational Psychology",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and Scrum practices without focusing on the psychological aspects of organisational behaviour.",
+    "level": "Ignored"
+  },
+  "AI and Automation in Agility": {
+    "category": "AI and Automation in Agility",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "Content heavily discusses Agile practices, Scrum roles, and strategies for improving team efficiency, but does not mention AI or automation.",
+    "level": "Ignored"
+  },
+  "Scrum Team": {
+    "category": "Scrum Team",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "Content primarily discusses Scrum practices, specifically focusing on team dynamics such as the definition of done, workload management, and the importance of refinement in a Scrum context.",
+    "level": "Secondary"
+  },
+  "Practical Techniques and Tooling": {
+    "category": "Practical Techniques and Tooling",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 75,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses practical strategies in Agile practices, specifically focusing on defining 'done', managing workload in Sprints, and refinement activities. While it revolves around Agile methodology, which is relevant to the category, it does not delve significantly into specific tools or detailed case studies, making it a major but secondary theme.",
+    "level": "Secondary"
+  },
+  "Experimentation": {
+    "category": "Experimentation",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and strategies but does not focus on experimentation or hypothesis-driven methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "category": "Scrum Master",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses strategies related to Scrum practices such as definition of done, planning, and backlog refinement, which are central to the role of a Scrum Master.",
+    "level": "Secondary"
+  },
+  "Enterprise Agility": {
+    "category": "Enterprise Agility",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses team-level agile practices and strategies for improving team sprint success without addressing the broader implications of agility at the organizational level.",
+    "level": "Ignored"
+  },
+  "Products and Books": {
+    "category": "Products and Books",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses strategies for Agile practices and Scrum methodology without referencing specific products or literature.",
+    "level": "Ignored"
+  },
+  "Sprint Review": {
+    "category": "Sprint Review",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content discusses strategies for improving Sprint success without explicitly focusing on the Sprint Review, its purpose, or its processes. It primarily addresses other Scrum elements such as Sprint planning and definition of done, making it irrelevant to the specific category.",
+    "level": "Ignored"
+  },
+  "Product Discovery": {
+    "category": "Product Discovery",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum roles and practices, focusing on Sprint management and refinement processes rather than on user needs, feature definitions, or product discovery methodologies.",
+    "level": "Ignored"
+  },
+  "Revenue per Employee": {
+    "category": "Revenue per Employee",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and strategies for optimizing team performance, but does not mention or relate to revenue per employee metrics.",
+    "level": "Ignored"
+  },
+  "Lean": {
+    "category": "Lean",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Scrum methodologies without reference to Lean principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Transparency and Accountability": {
+    "category": "Transparency and Accountability",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses strategies related to Sprint management and refinement in Agile, but does not focus on transparency or accountability as primary themes.",
+    "level": "Ignored"
+  },
+  "Hypothesis Driven Development": {
+    "category": "Hypothesis Driven Development",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile practices, specifically Scrum, without a focus on hypothesis formulation, experimentation, or empirical testing.",
+    "level": "Ignored"
+  },
+  "Sociotechnical Systems": {
+    "category": "Sociotechnical Systems",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events in the context of Agile practices without addressing the sociotechnical interactions or organizational elements related to technology adoption and team effectiveness.",
+    "level": "Ignored"
+  },
+  "Modern Source Control": {
+    "category": "Modern Source Control",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and Sprint management without any reference to source control practices.",
+    "level": "Ignored"
+  },
+  "Scaled Agile": {
+    "category": "Scaled Agile",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses individual Scrum practices without reference to scaling or multiple teams.",
+    "level": "Ignored"
+  },
+  "Change Management": {
+    "category": "Change Management",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses Scrum practices and strategies for improving team performance during Sprints, without a clear focus on change management principles or themes.",
+    "level": "Ignored"
+  },
+  "Scrum Values": {
+    "category": "Scrum Values",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses techniques related to Sprint planning and workload management rather than the Scrum Values themselves.",
+    "level": "Ignored"
+  },
+  "Automated Testing": {
+    "category": "Automated Testing",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles, events, and team strategies without mentioning automated testing.",
+    "level": "Ignored"
+  },
+  "Technical Leadership": {
+    "category": "Technical Leadership",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses agile practices and strategies for managing sprints, which aligns with the principles of technical leadership but does not explicitly address leadership or mentoring aspects.",
+    "level": "Tertiary"
+  },
+  "MVP": {
+    "category": "MVP",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and strategies for team sprint success, with no clear reference to Minimum Viable Products or related concepts.",
+    "level": "Ignored"
+  },
+  "Digital Transformation": {
+    "category": "Digital Transformation",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile practices without linking to broader digital transformation strategies.",
+    "level": "Ignored"
+  },
+  "Agile Product Management": {
+    "category": "Agile Product Management",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses Scrum practices such as the definition of done, sprint planning, and refinement, which are essential aspects of Agile product management.",
+    "level": "Secondary"
+  },
+  "Scaling Scrum": {
+    "category": "Scaling Scrum",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "The content primarily focuses on individual team practices and strategies, without discussing scaling Scrum to multiple teams or organisational contexts.",
+    "level": "Ignored"
+  },
+  "Organisational Physics": {
+    "category": "Organisational Physics",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on Scrum practices and Agile strategies, which do not align with the systems thinking or organisational dynamics central to the category of Organisational Physics.",
+    "level": "Ignored"
+  },
+  "Throughput": {
+    "category": "Throughput",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses concepts that relate to work completion rates, such as the definition of done and the importance of not overcommitting work during a Sprint. However, the focus is primarily on Scrum practices and roles, with only a secondary emphasis on throughput-related topics.",
+    "level": "Tertiary"
+  },
+  "Troubleshooting": {
+    "category": "Troubleshooting",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile practices and strategies for Sprint success without a clear focus on troubleshooting technical issues.",
+    "level": "Ignored"
+  },
+  "Lean Startup": {
+    "category": "Lean Startup",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile strategies and Scrum practices, with no clear connection to Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Definition of Ready": {
+    "category": "Definition of Ready",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the Definition of Done and general sprint management rather than focusing on the Definition of Ready or its criteria.",
+    "level": "Ignored"
+  },
+  "Entrepreneurship": {
+    "category": "Entrepreneurship",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile practices and Scrum methodologies, which are not primarily focused on entrepreneurship.",
+    "level": "Ignored"
+  },
+  "Agile Planning Tools": {
+    "category": "Agile Planning Tools",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 79,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses essential strategies for improving Sprint success, particularly focusing on refinement, backlog management, and planning practices, which are relevant to Agile Planning Tools. However, it does not explicitly mention specific Agile planning tools or software.",
+    "level": "Secondary"
+  },
+  "Scrum Product Development": {
+    "category": "Scrum Product Development",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 85,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses key aspects of Scrum such as the definition of done, Sprint planning and the importance of proper refinement of the product backlog, which are central to Scrum product development.",
+    "level": "Secondary"
+  },
+  "Self Organisation": {
+    "category": "Self Organisation",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses principles related to Scrum and Agile methodologies, including refinement and the importance of the definition of done, which relate to self-organisation. However, the focus is primarily on specific strategies for sprint success rather than on self-organisation as a central theme.",
+    "level": "Tertiary"
+  },
+  "Large Scale Agility": {
+    "category": "Large Scale Agility",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses team-level practices and strategies related to Scrum without addressing scaling Agile across an organization.",
+    "level": "Ignored"
+  },
+  "Ability to Innovate": {
+    "category": "Ability to Innovate",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on innovation capabilities or the measurement and improvement of innovation through empirical data.",
+    "level": "Ignored"
+  },
+  "Flow Efficiency": {
+    "category": "Flow Efficiency",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content discusses strategies for improving Sprint success, it focuses more on Scrum practices rather than directly addressing flow efficiency principles or techniques for optimizing throughput across the value stream.",
+    "level": "Tertiary"
+  },
+  "Value Stream Mapping": {
+    "category": "Value Stream Mapping",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Scrum practices, with no mention of Value Stream Mapping or related concepts.",
+    "level": "Ignored"
+  },
+  "Accountability": {
+    "category": "Accountability",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses strategies for managing work in Agile sprints without a focus on accountability or team ownership.",
+    "level": "Ignored"
+  },
+  "Team Motivation": {
+    "category": "Team Motivation",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Scrum roles, Sprint planning, and workflow management without a clear focus on team motivation strategies or dynamics.",
+    "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses Agile principles and Scrum practices related to team dynamics and sprint success, which are relevant to Agile product development, but it does not explicitly focus on the Agile Product Operating Model as a central theme.",
+    "level": "Tertiary"
+  },
+  "Azure Repos": {
+    "category": "Azure Repos",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices, with no mention of Azure Repos or relevant source control topics.",
+    "level": "Ignored"
+  },
+  "Lean Product Development": {
+    "category": "Lean Product Development",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile practices, specifically related to Scrum roles and events, without a clear focus on Lean principles or waste reduction in product development.",
+    "level": "Ignored"
+  },
+  "Working Software": {
+    "category": "Working Software",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 70,
+    "non_ai_confidence": 0,
+    "final_score": 63.0,
+    "reasoning": "The content discusses strategies for completing work in Sprints, including having a definition of done and the importance of refining the backlog, which aligns with the delivery of functional software. However, the focus is more on agile strategies than on the delivery of working software itself.",
+    "level": "Secondary"
+  },
+  "Technical Mastery": {
+    "category": "Technical Mastery",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses technical debt, refactoring, and planning in relation to software development practices, which are relevant to technical mastery, but the focus is primarily on Scrum and Agile methodologies rather than a direct exploration of engineering excellence.",
+    "level": "Tertiary"
+  },
+  "Engineering Practices": {
+    "category": "Engineering Practices",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses aspects of Agile practices and touches on technical debt and refinement, which are relevant to engineering practices, but it primarily focuses on Scrum roles and Sprint management rather than core engineering methodologies.",
+    "level": "Tertiary"
+  },
+  "Product Delivery": {
+    "category": "Product Delivery",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content discusses essential strategies for effective sprint management within an Agile framework, focusing on key practices that directly relate to product delivery processes.",
+    "level": "Secondary"
+  },
+  "Estimation": {
+    "category": "Estimation",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses factors influencing the amount of work that can be realistically taken on in a Sprint and emphasizes the importance of planning and understanding the complexity of tasks. However, it does not primarily focus on estimation techniques or collaborative estimation practices.",
+    "level": "Tertiary"
+  },
+  "Agile Philosophy": {
+    "category": "Agile Philosophy",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content primarily discusses specific practices related to Scrum, it touches on underlying principles of Agile such as planning, team collaboration, and the importance of adapting processes to ensure better outcomes, which aligns it with Agile Philosophy as a major theme.",
+    "level": "Tertiary"
+  },
+  "Software Development": {
+    "category": "Software Development",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses strategies related to Agile methodologies, specifically focusing on Scrum practices such as defining 'done', managing workload in sprints, and refinement of the product backlog. These topics are central to software development practices and directly align with the category.",
+    "level": "Secondary"
+  },
+  "Complexity Thinking": {
+    "category": "Complexity Thinking",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 47.0,
+    "reasoning": "The content discusses elements that relate to Agile practices, including planning and refining work in the context of uncertainty and complexity. While it does touch on aspects of complexity and the need for adaptive responses, it mainly focuses on practical strategies rather than a deep exploration of complexity science principles.",
+    "level": "Tertiary"
+  },
+  "Backlog Refinement": {
+    "category": "Backlog Refinement",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of backlog refinement in Agile, its role in planning, and techniques to manage the product backlog effectively, making it a clear topic.",
+    "level": "Secondary"
+  },
+  "Team Performance": {
+    "category": "Team Performance",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content primarily discusses strategies for enhancing team performance in Agile, specifically focusing on the importance of a definition of done, managing workload, and refinement practices, which are central to effective team performance.",
+    "level": "Secondary"
+  },
+  "Value Delivery": {
+    "category": "Value Delivery",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "While the content discusses Agile principles related to sprint planning and execution, it primarily focuses on operational strategies that enhance team productivity rather than directly addressing value delivery mechanisms or customer satisfaction.",
+    "level": "Tertiary"
+  },
+  "Definition of Done": {
+    "category": "Definition of Done",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content mentions the Definition of Done as an important aspect of Agile and discusses its role in understanding the amount of work required to complete tasks. However, the primary focus is on various strategies for sprint success, making the DoD a secondary theme.",
+    "level": "Tertiary"
+  },
+  "Continuous Integration": {
+    "category": "Continuous Integration",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and Sprint management, with no mention of Continuous Integration principles, practices, or tools.",
+    "level": "Ignored"
+  },
+  "AI": {
+    "category": "AI",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily focuses on Agile methodologies and Scrum practices without mentioning AI or its integration into these processes.",
+    "level": "Ignored"
+  },
+  "Collaboration Tools": {
+    "category": "Collaboration Tools",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on Scrum practices and strategies for improving Sprint success rather than discussing collaboration tools.",
+    "level": "Ignored"
+  },
+  "Agile Values and Principles": {
+    "category": "Agile Values and Principles",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses elements related to Agile practices such as the definition of done, sprint planning, and refinement, which are important to Agile, but it primarily focuses on practical execution aspects rather than the deeper values and principles of Agile itself.",
+    "level": "Tertiary"
+  },
+  "Organisational Change": {
+    "category": "Organisational Change",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without a focus on broader organisational change practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Software Developers": {
+    "category": "Software Developers",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 85,
+    "non_ai_confidence": 0,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on Agile practices, particularly strategies for improving Sprint success in Scrum, which is highly relevant to software developers and their role within Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Evidence Based Management": {
+    "category": "Evidence Based Management",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on Agile practices and strategies for improving team performance in sprints, without addressing the principles of Evidence-Based Management or data-driven decision-making.",
+    "level": "Ignored"
+  },
+  "Market Adaptability": {
+    "category": "Market Adaptability",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile methodologies and Scrum practices that can enhance responsiveness and team dynamics, which contribute to market adaptability, but it focuses primarily on team strategies rather than broader market adaptability concepts.",
+    "level": "Tertiary"
+  },
+  "Agile Planning": {
+    "category": "Agile Planning",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on strategies for improving Sprint success through proper planning, defining a definition of done, managing workload, and refining the backlog. It emphasizes the importance of planning within Agile frameworks, making it relevant to the Agile Planning category.",
+    "level": "Secondary"
+  },
+  "Product Backlog": {
+    "category": "Product Backlog",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses backlog refinement as part of the Scrum process, focusing on the importance of understanding and planning for items in the product backlog, thus aligning well with the Product Backlog category.",
+    "level": "Secondary"
+  },
+  "System Configuration": {
+    "category": "System Configuration",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and methodologies but does not address system configuration topics.",
+    "level": "Ignored"
+  },
+  "Lean Thinking": {
+    "category": "Lean Thinking",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices, with no clear focus on Lean Thinking principles or practices.",
+    "level": "Ignored"
+  },
+  "Employee Engagement": {
+    "category": "Employee Engagement",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and event management rather than focusing on employee motivation or engagement strategies.",
+    "level": "Ignored"
+  },
+  "One Engineering System (1ES)": {
+    "category": "One Engineering System (1ES)",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Agile strategies and Scrum practices without reference to the One Engineering System framework or its principles.",
+    "level": "Ignored"
+  },
+  "Agile Frameworks": {
+    "category": "Agile Frameworks",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily discusses Scrum principles and practices, including the definition of done, workload management, and Sprint refinement, which are central to the Scrum framework in Agile.",
+    "level": "Secondary"
+  },
+  "Frequent Releases": {
+    "category": "Frequent Releases",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses agile principles and Sprint management, but it does not focus on frequent releases or software delivery practices.",
+    "level": "Ignored"
+  },
+  "Customer Satisfaction": {
+    "category": "Customer Satisfaction",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum roles and strategies for improving team efficiency, with no clear focus on customer satisfaction or related metrics.",
+    "level": "Ignored"
+  },
+  "Remote Working": {
+    "category": "Remote Working",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile strategies and practices without addressing remote work specifically.",
+    "level": "Ignored"
+  },
+  "Empirical Process Control": {
+    "category": "Empirical Process Control",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses strategies to improve Sprint success, touching on concepts like definition of done, managing work in sprints, and refinement. While it relates to Agile practices, empirical process control is not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Decision Theory": {
+    "category": "Decision Theory",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and Scrum practices without a clear focus on decision-making processes or frameworks related to uncertainty.",
+    "level": "Ignored"
+  },
+  "Pragmatic Thinking": {
+    "category": "Pragmatic Thinking",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 85,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content focuses primarily on practical strategies for improving team performance in Agile and Scrum contexts, discussing the importance of having a definition of done, managing workload, planning, and refining the product backlog. It provides actionable insights and real-world applications that align well with pragmatic thinking.",
+    "level": "Secondary"
+  },
+  "Azure Pipelines": {
+    "category": "Azure Pipelines",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum principles and practices without any specific reference to Azure Pipelines or CI/CD processes.",
+    "level": "Ignored"
+  },
+  "Organisational Culture": {
+    "category": "Organisational Culture",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles, events, and specific Agile practices, without focusing on organisational culture.",
+    "level": "Ignored"
+  },
+  "Forecasting": {
+    "category": "Forecasting",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Scrum roles and the importance of planning, refinement, and workload estimation, which are relevant to forecasting in Agile. However, it does not primarily focus on forecasting techniques or empirical data usage.",
+    "level": "Tertiary"
+  },
+  "Professional Scrum": {
+    "category": "Professional Scrum",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 10,
+    "final_score": 73.0,
+    "reasoning": "Content provides an in-depth exploration of Scrum practices related to Sprint success, such as definition of done, work management in Sprints, refinement, and team planning, aligning with Scrum principles.",
+    "level": "Secondary"
+  },
+  "Agile Transformation": {
+    "category": "Agile Transformation",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses strategies for improving sprint effectiveness within Agile frameworks, particularly focusing on Scrum practices. It emphasizes key Agile concepts such as the definition of done and backlog refinement, which are central to Agile transformation.",
+    "level": "Secondary"
+  },
+  "Agile Strategy": {
+    "category": "Agile Strategy",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses essential strategies for teams to improve their Sprint success, which relates to Agile practices. However, it primarily focuses on technical practices and team-level considerations rather than a strategic overview of Agile principles or organizational alignment.",
+    "level": "Tertiary"
+  },
+  "Working Agreements": {
+    "category": "Working Agreements",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on Scrum practices such as 'definition of done' and planning strategies, rather than explicitly addressing working agreements and their role in team collaboration.",
+    "level": "Ignored"
+  },
+  "Strategic Goals": {
+    "category": "Strategic Goals",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum processes and tactics related to sprint management without addressing long-term strategic goals or organizational agility.",
+    "level": "Ignored"
+  },
+  "Deployment Strategies": {
+    "category": "Deployment Strategies",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 1.0,
+    "reasoning": "Content heavily discusses Scrum practices and team dynamics, focusing on Agile methodologies rather than deployment strategies.",
+    "level": "Ignored"
+  },
+  "Organisational Agility": {
+    "category": "Organisational Agility",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile methodologies, specifically focusing on Scrum practices such as definition of done, sprint planning, and refinement. While it primarily addresses these practices, it touches on aspects of agility and responsiveness in the context of team dynamics and work management, making it a significant but secondary theme.",
+    "level": "Tertiary"
+  },
+  "Business Agility": {
+    "category": "Business Agility",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content addresses strategies within the context of Agile methodologies and Scrum practices, which are elements that contribute to business agility but does not focus primarily on broader principles or case studies of business agility itself.",
+    "level": "Tertiary"
+  },
+  "Cycle Time": {
+    "category": "Cycle Time",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 30,
+    "non_ai_confidence": 10,
+    "final_score": 28.0,
+    "reasoning": "The content primarily focuses on strategies related to Scrum roles, planning, and refinement processes within Agile, with only indirect references to aspects that could relate to Cycle Time. However, the central theme does not clearly discuss Cycle Time as a primary topic or how it is measured.",
+    "level": "Quaternary"
+  },
+  "Site Reliability Engineering": {
+    "category": "Site Reliability Engineering",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and Scrum practices, without a focus on Site Reliability Engineering principles.",
+    "level": "Ignored"
+  },
+  "Increment": {
+    "category": "Increment",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 50,
+    "non_ai_confidence": 30,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the importance of having a definition of done and the need for refinement, which are both relevant to delivering increments in Agile. However, the primary focus is on managing workload during sprints rather than explicitly on the concept of increments.",
+    "level": "Tertiary"
+  },
+  "Asynchronous Development": {
+    "category": "Asynchronous Development",
+    "calculated_at": "2025-02-17T23:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Scrum roles, events, and strategies for managing sprints, focusing on agile methodologies rather than asynchronous development principles or practices.",
+    "level": "Ignored"
+  }
+}

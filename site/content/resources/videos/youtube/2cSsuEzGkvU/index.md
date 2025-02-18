@@ -1,66 +1,75 @@
 ---
-title: ' shorts 7 Virtues of agile. Humility'
-description: 'Discover the power of humility in Agile! Join us as we explore one of the 7 virtues that drive successful teams. #Agile #Shorts #NakedAgility'
+title: 'Empathy in Agile: Building Trust and Stronger Relationships for Success'
+description: Discover how empathy and respect can transform your agile practices. Learn to build trust within teams, with leadership, and towards customers for lasting success.
 date: 2023-12-12T11:00:04Z
 ResourceId: 2cSsuEzGkvU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2cSsuEzGkvU
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-humility
-canonicalUrl: https://www.youtube.com/watch?v=2cSsuEzGkvU
 aliases:
 - /resources/videos/2cSsuEzGkvU
 - /resources/videos/-shorts-7-virtues-of-agile-humility
 - /resources/-shorts-7-virtues-of-agile-humility
 - /resources/2cSsuEzGkvU
+aliasesFor404:
+- /resources/videos/-shorts-7-virtues-of-agile-humility
+- /resources/-shorts-7-virtues-of-agile-humility
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- People and Process
+- Agile Values and Principles
+- Team Collaboration
+- Team Motivation
+- Coaching
+- Team Performance
+- Personal
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 layout: video
 resourceTypes:
 - video
+categories:
+- Leadership
+- Social Technologies
 
 ---
- #shorts #shortsvideo #shortvideo 7 virtues of #agile. Humility. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productmanagement #productdevelopment #projectmanager #productmanager #developer #scrummaster #productowner #agilecoach #agileleadership 
+In my journey through the world of agility, I've come to realise that the foundation of successful agile practices lies not just in frameworks or methodologies, but in the relationships we cultivate. Bringing modesty and respect for others into our conversations is paramount. It’s about building trust—trust that extends beyond our immediate teams to encompass the entire organisation and even our customers.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### The Importance of Empathy in Agile
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Empathy is a powerful tool in fostering strong relationships. Here’s how I see it playing out in practice:
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Within the Team**: When we approach our colleagues with respect and humility, we create an environment where everyone feels valued. This openness encourages team members to share their thoughts and ideas without fear of judgement, leading to richer discussions and better outcomes.
 
-We would love to work with you. 
+- **With Leadership**: Building empathetic relationships with leadership is equally crucial. When leaders demonstrate respect for their teams, it fosters a culture of collaboration. This, in turn, allows for more effective decision-making and a shared vision for success.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=2cSsuEzGkvU)
+- **Towards Customers**: Our customers are not just end-users; they are partners in our journey. By respecting their needs and perspectives, we can create products that truly resonate with them. Listening to customer feedback and incorporating it into our processes is essential for delivering value.
+
+### Avoiding Assumptions and Cognitive Bias
+
+One of the key risks in any agile environment is the tendency to make assumptions. It’s easy to fall into the trap of thinking we know what others are thinking or feeling. Here are a few strategies I’ve found helpful in combating this:
+
+- **Ask Questions**: Instead of assuming, ask open-ended questions. This not only clarifies misunderstandings but also shows that you value others' opinions.
+
+- **Seek Feedback**: Regularly solicit feedback from your team and stakeholders. This practice not only helps in identifying blind spots but also reinforces the idea that everyone’s perspective matters.
+
+- **Be Open to Critique**: Cognitive bias can be insidious, often going unnoticed until someone else points it out. Be willing to listen to those who challenge your views. It’s a sign of strength, not weakness, to acknowledge that we don’t have all the answers.
+
+### The Role of Perception in Decision-Making
+
+It’s essential to recognise that other people's perceptions can significantly influence our decision-making processes. Here’s why this matters:
+
+- **Diverse Perspectives**: Engaging with diverse viewpoints can lead to more innovative solutions. When we consider how others perceive a situation, we can uncover insights that we might have otherwise overlooked.
+
+- **Building Trust**: When we actively listen to others and validate their experiences, we build trust. This trust is the bedrock of effective collaboration and ultimately leads to better results.
+
+- **Continuous Improvement**: Embracing feedback and differing perceptions fosters a culture of continuous improvement. It encourages us to adapt and evolve, which is at the heart of agility.
+
+In conclusion, modesty and respect are not just niceties; they are essential components of a thriving agile environment. By prioritising empathy, avoiding assumptions, and valuing diverse perspectives, we can create a culture that not only enhances our agile practices but also enriches our professional relationships. Let’s commit to building trust and fostering an environment where everyone feels heard and valued. After all, agility is as much about people as it is about processes.

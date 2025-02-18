@@ -2,14 +2,13 @@
 title: HTC Touch
 description: Discover the HTC Touch, a groundbreaking competitor to the iPhone, blending functionality and style for mobile enthusiasts. Find out why it's a must-have!
 ResourceId: nPextmaNube
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 385
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-07
 creator: Martin Hinshelwood
-id: "385"
 layout: blog
 resourceTypes: blog
 slug: htc-touch
@@ -21,11 +20,11 @@ aliases:
 aliasesFor404:
 - /htc-touch
 - /blog/htc-touch
+- /resources/blog/htc-touch
 tags:
-- answers
-- windows-mobile-6
-categories:
-- products-and-books
+- Products and Books
+- News and Reviews
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

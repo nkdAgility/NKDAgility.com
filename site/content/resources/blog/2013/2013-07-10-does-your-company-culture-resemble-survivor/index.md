@@ -2,14 +2,13 @@
 title: Does your company culture resemble Survivor?
 description: Is your company culture a 'Survivor' game? Discover how fostering collaboration can enhance agility and team success in your organization.
 ResourceId: 1VbvpOX1Hg0
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9716
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-10
 creator: Martin Hinshelwood
-id: "9716"
 layout: blog
 resourceTypes: blog
 slug: does-your-company-culture-resemble-survivor
@@ -25,17 +24,22 @@ aliasesFor404:
 - /blog/does-your-company-culture-resemble-survivor
 - /does-your-company-culture-resemble-survivor-
 - /blog/does-your-company-culture-resemble-survivor-
+- /resources/blog/does-your-company-culture-resemble-survivor
 tags:
-- company-culture
-- development-team
-- improve
-- people
-- strategic
-- team
-- teams
+- Agile Transformation
+- People and Process
+- Software Development
+- Agile Values and Principles
+- Software Developers
+- Team Collaboration
+- Agile Leadership
+- Resilience and Change
+- Team Performance
+- Product Delivery
 categories:
-- measure-and-learn
-- people-and-process
+- Leadership
+- Social Technologies
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

@@ -3,7 +3,7 @@ title: Maximizing Transparency and Improvement in Software Engineering with Kanb
 description: Unlock the power of Kanban! Discover how it enhances software engineering processes, boosts efficiency, and fosters team collaboration. Watch now!
 date: 2024-07-29T06:45:02Z
 ResourceId: Psc6nDD7Q9g
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Psc6nDD7Q9g
@@ -20,20 +20,29 @@ aliases:
 - /resources/videos/Psc6nDD7Q9g
 - /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 - /resources/Psc6nDD7Q9g
+aliasesFor404:
+- "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
+- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+- /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Kanban
-- Kanban training
-- Kanban courses
-- Kanban coaching
-- Kanban consulting
-- Agile
-- Agile framework
-- Agile adoption
+- Transparency
+- Metrics and Learning
+- People and Process
+- Transparency and Accountability
+- Software Development
+- Practical Techniques and Tooling
+- Agile Frameworks
+- Agile Project Management
+- Operational Practices
+- Lean
 resourceTypes:
 - video
+categories:
+- Kanban
+- Social Technologies
 
 ---
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for continuous improvement is **Kanban**.

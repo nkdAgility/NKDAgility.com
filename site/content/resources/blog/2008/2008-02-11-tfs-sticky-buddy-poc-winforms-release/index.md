@@ -2,14 +2,13 @@
 title: TFS Sticky Buddy POC (WinForms) release
 description: Explore the TFS Sticky Buddy POC for WinForms, a demo dashboard for Team Foundation Server. Download now to enhance your project management experience!
 ResourceId: FSoIFwapvMt
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 248
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-11
 creator: Martin Hinshelwood
-id: "248"
 layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-poc-winforms-release
@@ -25,18 +24,11 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-poc-winforms-release
 - /tfs-sticky-buddy-poc-(winforms)-release
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
+- /resources/blog/tfs-sticky-buddy-poc-winforms-release
 tags:
-- code
-- infrastructure
-- tfs
-- tfs-sticky-buddy
-- tools
-- visual-studio
-- vs2008
-- wit
-- wpf
-categories:
-- code-and-complexity
+- Release Management
+- Install and Configuration
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

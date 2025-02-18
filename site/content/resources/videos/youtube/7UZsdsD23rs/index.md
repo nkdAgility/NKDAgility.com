@@ -3,7 +3,7 @@ title: What is empiricism and why is it so critical to great Agile?
 description: "Unlock lean-agile secrets with Martin! Enhance value delivery and team dynamics in fast-paced projects. Dive in for expert insights! \U0001F680 #Agile #Scrum"
 date: 2023-08-30T07:00:05Z
 ResourceId: 7UZsdsD23rs
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 7UZsdsD23rs
@@ -19,21 +19,21 @@ aliases:
 - /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 - /resources/videos/7UZsdsD23rs
 - /resources/7UZsdsD23rs
+aliasesFor404:
+- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
+- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Empiricism
 - Empirical Process Control
-- Agile
-- Scrum
-- Scrum theory
-- Agile project management
-- Agile product management
-- Agile product development
 resourceTypes:
 - video
 layout: video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 ## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 

@@ -3,7 +3,7 @@ title: Why does Agile focus on values and principles rather than a prescribed se
 description: Discover why Agile prioritises values and principles over rigid steps, enabling teams to navigate complexity and uncertainty effectively.
 date: 2023-01-23T07:00:14Z
 ResourceId: Yesn-VHhQ4k
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Yesn-VHhQ4k
@@ -20,16 +20,29 @@ aliases:
 - /resources/videos/Yesn-VHhQ4k
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 - /resources/Yesn-VHhQ4k
+aliasesFor404:
+- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
+- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Manifesto
-- Agile values and principles
-- Agile Consulting
+- Agile Values and Principles
+- People and Process
+- Empirical Process Control
+- Discovery and Learning
+- Scrum Values
+- Agile Frameworks
+- Software Development
+- Agile Strategy
+- Agile Project Management
+- Agile Philosophy
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 Agile exists to address the idea that no predetermined set of steps will lead to a predefined outcome. The problem has never been solved, nor has the solution ever been created, so you don’t know what you don’t know. No formula is going to guarantee a desired outcome.

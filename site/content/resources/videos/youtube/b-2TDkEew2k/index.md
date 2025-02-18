@@ -1,66 +1,73 @@
 ---
-title: ' shorts 7 Virtues of agile. Temperance'
-description: 'Discover the virtue of Temperance in Agile! Join us for insights on fostering balance and harmony in your teams. #Agile #Scrum #Shorts'
+title: 'Mastering Agile: The Power of "Just Enough and No More" for Optimal Efficiency'
+description: Discover how the mantra "just enough and no more" can transform your agile practices. Learn to optimise processes, enhance productivity, and deliver value effectively.
 date: 2023-12-05T11:00:27Z
 ResourceId: b-2TDkEew2k
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug
 slug: -shorts-7-virtues-of-agile-temperance
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=b-2TDkEew2k
 aliases:
 - /resources/videos/b-2TDkEew2k
 - /resources/videos/-shorts-7-virtues-of-agile-temperance
 - /resources/-shorts-7-virtues-of-agile-temperance
 - /resources/b-2TDkEew2k
+aliasesFor404:
+- /resources/videos/-shorts-7-virtues-of-agile-temperance
+- /resources/-shorts-7-virtues-of-agile-temperance
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Agile Values and Principles
+- Agile Planning
+- Agile Frameworks
+- Agile Project Management
+- Agile Product Management
+- Agile Philosophy
+- Agile Transformation
+- Software Development
+- Organisational Agility
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Social Technologies
 
 ---
- #shorts #shortvideo #shortsvideo 7 Virtues of #agile. Temperance. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productdevelopment #productmanager #projectmanager #agilecoach #scrummaster 
+I often find myself reflecting on a conversation I had with Ken Schwaber many years ago. He shared a simple yet profound mantra that has stuck with me ever since: "Just enough and no more." This phrase resonates deeply within the agile community, and I believe it holds the key to understanding how we can optimise our processes and deliver value effectively.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### The Essence of "Just Enough"
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+When I think about the various aspects of agile practices, this mantra applies universally. Here are a few examples that illustrate its relevance:
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Backlog Management**: How much backlog should we maintain? The answer is straightforward: just enough and no more. A bloated backlog can lead to confusion and overwhelm, while a well-maintained one ensures that the team is focused on delivering the most valuable features first.
 
-We would love to work with you. 
+- **Team Composition**: How many developers do we need? Again, the answer is just enough and no more. Having too many developers can lead to communication overhead and inefficiencies, while too few can hinder progress. The key is to find the right balance that allows the team to function optimally.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=b-2TDkEew2k)
+- **Refinement Time**: How much time should we dedicate to backlog refinement? You guessed it—just enough and no more. Spending excessive time on refinement can lead to analysis paralysis, while insufficient time can result in poorly defined user stories. The goal is to strike a balance that keeps the team aligned and ready to deliver.
+
+- **Upfront Planning**: How much planning should we do before starting a project? Just enough and no more. While planning is essential, over-planning can stifle creativity and adaptability. Agile encourages us to embrace change and be ready to pivot as needed.
+
+### Maximising Work Not Done
+
+One of the core principles of the Agile Manifesto is to maximise the amount of work not done. This principle aligns perfectly with the "just enough" philosophy. By focusing on what truly matters and eliminating unnecessary tasks, we can streamline our processes and enhance productivity. Here’s how you can apply this principle in your work:
+
+- **Prioritise Value**: Always ask yourself, "What is the most valuable thing I can do right now?" This mindset helps you focus on high-impact tasks and avoid getting bogged down in less important activities.
+
+- **Embrace Simplicity**: Strive for simplicity in your processes and solutions. Complex systems can lead to confusion and inefficiency, while simple solutions are easier to understand and maintain.
+
+- **Iterate and Adapt**: Agile is all about iteration. Regularly review your processes and outcomes, and be willing to adapt based on what you learn. This approach ensures that you are always moving towards greater efficiency and effectiveness.
+
+### Conclusion
+
+In my experience, embracing the "just enough and no more" philosophy has transformed the way I approach agile practices. It encourages a mindset of focus, efficiency, and continuous improvement. By applying this principle across various aspects of our work, we can create a more agile environment that fosters collaboration, innovation, and ultimately, success.
+
+So, the next time you find yourself grappling with a quantity question, remember Ken's words: "Just enough and no more." It’s a powerful reminder to keep things simple and focused, allowing us to maximise our impact while minimising unnecessary effort.

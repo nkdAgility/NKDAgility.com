@@ -1,0 +1,4949 @@
+1
+00:00:01,839 --> 00:00:07,920
+okay so this presentation
+
+2
+00:00:04,080 --> 00:00:07,920
+is being uh recorded
+
+3
+00:00:10,400 --> 00:00:15,839
+hi my name's martin henshawwit
+
+4
+00:00:13,920 --> 00:00:17,119
+i'm the owner at naked agility with
+
+5
+00:00:15,839 --> 00:00:19,600
+martin henchwood i'm a
+
+6
+00:00:17,119 --> 00:00:20,800
+professional scrum trainer with
+
+7
+00:00:19,600 --> 00:00:23,600
+scrum.org
+
+8
+00:00:20,800 --> 00:00:25,279
+i'm a microsoft mvp and i've been
+
+9
+00:00:23,600 --> 00:00:28,320
+delivering software
+
+10
+00:00:25,279 --> 00:00:32,079
+for 20 years and working with
+
+11
+00:00:28,320 --> 00:00:34,640
+organizational change for over 10 years
+
+12
+00:00:32,079 --> 00:00:35,840
+and i'd like to thank william for this
+
+13
+00:00:34,640 --> 00:00:38,960
+opportunity to talk
+
+14
+00:00:35,840 --> 00:00:42,320
+about story points and velocity
+
+15
+00:00:38,960 --> 00:00:44,079
+uh this session is an experimental topic
+
+16
+00:00:42,320 --> 00:00:47,280
+for me i'm hoping
+
+17
+00:00:44,079 --> 00:00:49,520
+that you that are attending can
+
+18
+00:00:47,280 --> 00:00:50,879
+help me tell a better story in the
+
+19
+00:00:49,520 --> 00:00:54,160
+future so i'll be looking for
+
+20
+00:00:50,879 --> 00:00:54,719
+feedback at the end please feel free to
+
+21
+00:00:54,160 --> 00:00:58,320
+ask
+
+22
+00:00:54,719 --> 00:01:00,320
+any questions in the chat uh
+
+23
+00:00:58,320 --> 00:01:01,920
+jessica will hopefully uh be able to
+
+24
+00:01:00,320 --> 00:01:05,199
+moderate that
+
+25
+00:01:01,920 --> 00:01:08,479
+uh jessica is a fluent spanish speaker
+
+26
+00:01:05,199 --> 00:01:11,600
+um so if there are any confusions
+
+27
+00:01:08,479 --> 00:01:13,600
+about what i'm saying feel free to
+
+28
+00:01:11,600 --> 00:01:17,360
+message her in the chat
+
+29
+00:01:13,600 --> 00:01:21,119
+you can also in the um
+
+30
+00:01:17,360 --> 00:01:23,119
+the team's ui you can actually turn on
+
+31
+00:01:21,119 --> 00:01:25,360
+live captions it will only do it
+
+32
+00:01:23,119 --> 00:01:28,159
+currently in english
+
+33
+00:01:25,360 --> 00:01:29,680
+but you can do it and maybe that's uh
+
+34
+00:01:28,159 --> 00:01:31,840
+helpful so you just click
+
+35
+00:01:29,680 --> 00:01:32,720
+at the ellipse on the center of the
+
+36
+00:01:31,840 --> 00:01:36,079
+screen
+
+37
+00:01:32,720 --> 00:01:38,880
+um and turn on
+
+38
+00:01:36,079 --> 00:01:40,000
+live captions so i've got it turned on
+
+39
+00:01:38,880 --> 00:01:42,159
+on that machine up
+
+40
+00:01:40,000 --> 00:01:43,040
+there for us at the end of the
+
+41
+00:01:42,159 --> 00:01:46,320
+presentation
+
+42
+00:01:43,040 --> 00:01:47,520
+i'm going to provide a link to the
+
+43
+00:01:46,320 --> 00:01:51,200
+presentation
+
+44
+00:01:47,520 --> 00:01:54,079
+um and you can also find me
+
+45
+00:01:51,200 --> 00:01:55,520
+on linkedin and i have lots of other
+
+46
+00:01:54,079 --> 00:01:57,320
+presentation that i've recorded and
+
+47
+00:01:55,520 --> 00:01:59,439
+published on
+
+48
+00:01:57,320 --> 00:02:02,000
+nakedagility.tv
+
+49
+00:01:59,439 --> 00:02:02,560
+so i see we've got a few more people so
+
+50
+00:02:02,000 --> 00:02:05,759
+let's
+
+51
+00:02:02,560 --> 00:02:07,520
+um see how we do for uh some
+
+52
+00:02:05,759 --> 00:02:10,160
+participation
+
+53
+00:02:07,520 --> 00:02:11,039
+what i'm going to do is i'm going to put
+
+54
+00:02:10,160 --> 00:02:14,480
+the link
+
+55
+00:02:11,039 --> 00:02:17,599
+in the chat so that everybody
+
+56
+00:02:14,480 --> 00:02:19,680
+can find it let me put the link
+
+57
+00:02:17,599 --> 00:02:21,120
+in the chat so you don't have to type it
+
+58
+00:02:19,680 --> 00:02:24,000
+uh so i have
+
+59
+00:02:21,120 --> 00:02:24,720
+posted this link in the chat it is case
+
+60
+00:02:24,000 --> 00:02:27,920
+sensitive
+
+61
+00:02:24,720 --> 00:02:30,959
+so if you're typing it into a browser um
+
+62
+00:02:27,920 --> 00:02:34,000
+please do so carefully
+
+63
+00:02:30,959 --> 00:02:35,440
+and i'm just waiting to see uh who is
+
+64
+00:02:34,000 --> 00:02:38,400
+able to
+
+65
+00:02:35,440 --> 00:02:39,040
+make it on there we go i've got a couple
+
+66
+00:02:38,400 --> 00:02:42,080
+of people
+
+67
+00:02:39,040 --> 00:02:45,760
+i have awesome i have visiting penguin
+
+68
+00:02:42,080 --> 00:02:50,319
+visiting crab and visiting pig awesome
+
+69
+00:02:45,760 --> 00:02:53,440
+so um what i'd like you to do
+
+70
+00:02:50,319 --> 00:02:54,720
+is i'm going to put a a timer for two
+
+71
+00:02:53,440 --> 00:02:55,680
+minutes but if you see there's an
+
+72
+00:02:54,720 --> 00:02:58,560
+outline
+
+73
+00:02:55,680 --> 00:02:59,680
+on the top right of the mural um and you
+
+74
+00:02:58,560 --> 00:03:03,040
+should be able to click
+
+75
+00:02:59,680 --> 00:03:04,000
+uh measuring progress and that will take
+
+76
+00:03:03,040 --> 00:03:05,920
+you to
+
+77
+00:03:04,000 --> 00:03:08,239
+uh oh thank you visiting penguin is
+
+78
+00:03:05,920 --> 00:03:11,200
+following me um i will summon
+
+79
+00:03:08,239 --> 00:03:12,720
+everybody to this uh uh summon everybody
+
+80
+00:03:11,200 --> 00:03:16,000
+there we go
+
+81
+00:03:12,720 --> 00:03:19,200
+so what i'd i'd like to do uh first
+
+82
+00:03:16,000 --> 00:03:23,920
+is a little exercise where um
+
+83
+00:03:19,200 --> 00:03:26,959
+i'd like you to tell me what techniques
+
+84
+00:03:23,920 --> 00:03:29,920
+you have used uh to measure
+
+85
+00:03:26,959 --> 00:03:31,280
+progress within a sprint and maybe other
+
+86
+00:03:29,920 --> 00:03:34,319
+techniques
+
+87
+00:03:31,280 --> 00:03:36,400
+that you've heard of as well and i'd
+
+88
+00:03:34,319 --> 00:03:37,760
+like to create a sticky for each
+
+89
+00:03:36,400 --> 00:03:40,080
+method so i'm actually i'm just going to
+
+90
+00:03:37,760 --> 00:03:41,040
+put a timer on for two minutes so we
+
+91
+00:03:40,080 --> 00:03:44,080
+don't spend
+
+92
+00:03:41,040 --> 00:03:48,000
+at too long doing things
+
+93
+00:03:44,080 --> 00:03:50,879
+but i'd like you to create as many
+
+94
+00:03:48,000 --> 00:03:51,680
+stickies as you can within that
+
+95
+00:03:50,879 --> 00:03:54,640
+measuring
+
+96
+00:03:51,680 --> 00:03:55,280
+progress uh box so i'm gonna give you
+
+97
+00:03:54,640 --> 00:03:58,840
+that
+
+98
+00:03:55,280 --> 00:04:00,080
+two minute timer which is now one minute
+
+99
+00:03:58,840 --> 00:04:02,159
+45.
+
+100
+00:04:00,080 --> 00:04:03,840
+and i'll maybe start it off oh that's a
+
+101
+00:04:02,159 --> 00:04:04,799
+good point if you don't know how to
+
+102
+00:04:03,840 --> 00:04:07,439
+create a sticky
+
+103
+00:04:04,799 --> 00:04:08,640
+using this tool uh you double click
+
+104
+00:04:07,439 --> 00:04:11,360
+anywhere on the screen
+
+105
+00:04:08,640 --> 00:04:12,480
+and it will just create one absolutely
+
+106
+00:04:11,360 --> 00:04:16,880
+there we go so there's
+
+107
+00:04:12,480 --> 00:04:20,720
+a visiting pig is creating one
+
+108
+00:04:16,880 --> 00:04:23,600
+and visiting uh bird which is jessica
+
+109
+00:04:20,720 --> 00:04:25,040
+um is having it go as well so you just
+
+110
+00:04:23,600 --> 00:04:28,400
+double click anywhere
+
+111
+00:04:25,040 --> 00:04:31,520
+and type in yep burn down
+
+112
+00:04:28,400 --> 00:04:34,160
+is definitely a tool that i've seen uh
+
+113
+00:04:31,520 --> 00:04:34,160
+teams use
+
+114
+00:04:38,160 --> 00:04:43,840
+any other tools
+
+115
+00:04:44,479 --> 00:04:47,600
+so for the sake of the recording i'm
+
+116
+00:04:46,240 --> 00:04:50,400
+gonna bring this
+
+117
+00:04:47,600 --> 00:04:52,400
+over to the share uh there's about a
+
+118
+00:04:50,400 --> 00:04:54,560
+minute left
+
+119
+00:04:52,400 --> 00:04:56,720
+burn down chart burn up what about
+
+120
+00:04:54,560 --> 00:04:57,440
+metrics what about points of data what
+
+121
+00:04:56,720 --> 00:04:58,960
+sort of
+
+122
+00:04:57,440 --> 00:05:00,479
+other ways are there to measure is it
+
+123
+00:04:58,960 --> 00:05:03,039
+just burn down what do you plot on a
+
+124
+00:05:00,479 --> 00:05:03,039
+burn down
+
+125
+00:05:03,280 --> 00:05:08,400
+number of defects i like that one that's
+
+126
+00:05:05,360 --> 00:05:08,400
+that's one i've seen before
+
+127
+00:05:08,840 --> 00:05:12,320
+uh let's see
+
+128
+00:05:12,400 --> 00:05:17,840
+work until meeting the sprint goal user
+
+129
+00:05:15,520 --> 00:05:20,160
+stories closed by day
+
+130
+00:05:17,840 --> 00:05:20,160
+cool
+
+131
+00:05:22,720 --> 00:05:27,440
+nobody has mentioned story points
+
+132
+00:05:28,479 --> 00:05:32,479
+remaining story points that's a good one
+
+133
+00:05:35,199 --> 00:05:40,400
+so the story points must be a metric
+
+134
+00:05:37,600 --> 00:05:40,400
+inside of that
+
+135
+00:05:42,320 --> 00:05:49,919
+okay work in process thank you very much
+
+136
+00:05:46,639 --> 00:05:51,120
+whoever that was uh so we have a number
+
+137
+00:05:49,919 --> 00:05:53,600
+of things
+
+138
+00:05:51,120 --> 00:05:54,720
+that that folks have entered uh burn
+
+139
+00:05:53,600 --> 00:05:57,840
+down chart
+
+140
+00:05:54,720 --> 00:05:58,560
+uh work work until meeting the sprint
+
+141
+00:05:57,840 --> 00:06:00,960
+goal
+
+142
+00:05:58,560 --> 00:06:03,039
+um so i'm not sure how you're measuring
+
+143
+00:06:00,960 --> 00:06:06,080
+that or what data points you're using
+
+144
+00:06:03,039 --> 00:06:09,759
+with that i guess you would maybe look
+
+145
+00:06:06,080 --> 00:06:12,240
+at story points remaining maybe
+
+146
+00:06:09,759 --> 00:06:13,759
+or stories remaining or items remaining
+
+147
+00:06:12,240 --> 00:06:16,960
+uh we've got burn up
+
+148
+00:06:13,759 --> 00:06:17,600
+work in process user stories closed by
+
+149
+00:06:16,960 --> 00:06:19,840
+day
+
+150
+00:06:17,600 --> 00:06:21,680
+a number of defects created that can
+
+151
+00:06:19,840 --> 00:06:23,120
+definitely be a good measure but is
+
+152
+00:06:21,680 --> 00:06:27,440
+generally a measure of
+
+153
+00:06:23,120 --> 00:06:30,479
+quality rather than progress but um
+
+154
+00:06:27,440 --> 00:06:32,160
+they are all uh good measures so the
+
+155
+00:06:30,479 --> 00:06:35,280
+ones that i was
+
+156
+00:06:32,160 --> 00:06:38,639
+two that are i was surprised
+
+157
+00:06:35,280 --> 00:06:41,759
+were not on there our story points uh
+
+158
+00:06:38,639 --> 00:06:44,560
+and velocity are the two most
+
+159
+00:06:41,759 --> 00:06:45,360
+common ways it was implied in at least
+
+160
+00:06:44,560 --> 00:06:48,400
+one of the
+
+161
+00:06:45,360 --> 00:06:50,319
+the post-its uh so that does uh make
+
+162
+00:06:48,400 --> 00:06:54,400
+sense
+
+163
+00:06:50,319 --> 00:06:57,360
+so the the most popular uh method
+
+164
+00:06:54,400 --> 00:06:58,160
+for um doing that is story points and
+
+165
+00:06:57,360 --> 00:07:01,520
+velocity
+
+166
+00:06:58,160 --> 00:07:04,639
+and really story points and velocity are
+
+167
+00:07:01,520 --> 00:07:05,599
+are not they're not actually part of
+
+168
+00:07:04,639 --> 00:07:08,479
+scrum
+
+169
+00:07:05,599 --> 00:07:10,160
+uh there are a number of things that we
+
+170
+00:07:08,479 --> 00:07:12,800
+collectively
+
+171
+00:07:10,160 --> 00:07:13,639
+believe are required to do scrum and
+
+172
+00:07:12,800 --> 00:07:17,120
+these have been
+
+173
+00:07:13,639 --> 00:07:20,400
+perpetuated by a long-running
+
+174
+00:07:17,120 --> 00:07:22,720
+perseverance of trainers to the
+
+175
+00:07:20,400 --> 00:07:24,160
+to the training teaching to the lowest
+
+176
+00:07:22,720 --> 00:07:25,840
+common denominator
+
+177
+00:07:24,160 --> 00:07:28,400
+and trying to keep things as simple as
+
+178
+00:07:25,840 --> 00:07:30,720
+possible story points and velocity are
+
+179
+00:07:28,400 --> 00:07:32,880
+easy to understand they're easy to
+
+180
+00:07:30,720 --> 00:07:35,759
+implement they're easy to follow
+
+181
+00:07:32,880 --> 00:07:37,680
+um i would like to assert that they
+
+182
+00:07:35,759 --> 00:07:41,440
+don't provide as much value as
+
+183
+00:07:37,680 --> 00:07:43,759
+folks think they do um
+
+184
+00:07:41,440 --> 00:07:45,199
+there's a kind of a general consensus in
+
+185
+00:07:43,759 --> 00:07:47,440
+the trainer community
+
+186
+00:07:45,199 --> 00:07:50,240
+that folks that attend scrum training
+
+187
+00:07:47,440 --> 00:07:52,800
+are not smart enough to do anything else
+
+188
+00:07:50,240 --> 00:07:54,720
+and i would like to disagree i think
+
+189
+00:07:52,800 --> 00:07:55,360
+they are smart enough to do something
+
+190
+00:07:54,720 --> 00:07:58,400
+else
+
+191
+00:07:55,360 --> 00:08:00,800
+and whenever i teach scrum training i
+
+192
+00:07:58,400 --> 00:08:01,680
+always use different measures that we're
+
+193
+00:08:00,800 --> 00:08:03,840
+going to talk about
+
+194
+00:08:01,680 --> 00:08:05,360
+a little bit later i'm sure some of you
+
+195
+00:08:03,840 --> 00:08:08,319
+have already guessed
+
+196
+00:08:05,360 --> 00:08:09,840
+uh what i'm talking about but if you go
+
+197
+00:08:08,319 --> 00:08:11,280
+and have a look in the scrum guide you
+
+198
+00:08:09,840 --> 00:08:13,120
+can see i've i've
+
+199
+00:08:11,280 --> 00:08:15,120
+collected a couple of screenshots for
+
+200
+00:08:13,120 --> 00:08:16,080
+both velocity and story points neither
+
+201
+00:08:15,120 --> 00:08:18,160
+of which
+
+202
+00:08:16,080 --> 00:08:19,680
+are mentioned in scrum guide uh but
+
+203
+00:08:18,160 --> 00:08:21,680
+neither is burn down
+
+204
+00:08:19,680 --> 00:08:23,199
+neither is user story neither is
+
+205
+00:08:21,680 --> 00:08:27,039
+original estimate
+
+206
+00:08:23,199 --> 00:08:29,280
+bug count or actual versus completed
+
+207
+00:08:27,039 --> 00:08:30,319
+errors none of these things are
+
+208
+00:08:29,280 --> 00:08:33,360
+mentioned
+
+209
+00:08:30,319 --> 00:08:33,360
+in the scrum guide
+
+210
+00:08:33,440 --> 00:08:40,080
+i would say it's okay for a team to
+
+211
+00:08:36,640 --> 00:08:42,640
+start with story points and velocity
+
+212
+00:08:40,080 --> 00:08:44,000
+i've seen many teams get value out of
+
+213
+00:08:42,640 --> 00:08:46,080
+that
+
+214
+00:08:44,000 --> 00:08:48,480
+there are many things that change when a
+
+215
+00:08:46,080 --> 00:08:51,360
+team moves from traditional
+
+216
+00:08:48,480 --> 00:08:52,000
+project management practices of the past
+
+217
+00:08:51,360 --> 00:08:54,959
+to more
+
+218
+00:08:52,000 --> 00:08:55,839
+empirical practices of the present and
+
+219
+00:08:54,959 --> 00:08:58,880
+sometimes we
+
+220
+00:08:55,839 --> 00:09:00,959
+kind of need to pick our battles at one
+
+221
+00:08:58,880 --> 00:09:01,920
+such battle is that of story points and
+
+222
+00:09:00,959 --> 00:09:04,560
+velocity
+
+223
+00:09:01,920 --> 00:09:06,320
+and all of the other gubbins that goes
+
+224
+00:09:04,560 --> 00:09:08,160
+around with it that's maybe a very
+
+225
+00:09:06,320 --> 00:09:11,360
+british expression uh
+
+226
+00:09:08,160 --> 00:09:13,680
+gubbins is just all the other stuff
+
+227
+00:09:11,360 --> 00:09:15,760
+like if you're going to do story pines
+
+228
+00:09:13,680 --> 00:09:17,440
+and velocity you probably have some kind
+
+229
+00:09:15,760 --> 00:09:18,399
+of burn down you maybe have some kind of
+
+230
+00:09:17,440 --> 00:09:22,240
+burn up
+
+231
+00:09:18,399 --> 00:09:24,080
+um those kind of artifacts are part of
+
+232
+00:09:22,240 --> 00:09:26,240
+that
+
+233
+00:09:24,080 --> 00:09:27,279
+perhaps we do this because we need to
+
+234
+00:09:26,240 --> 00:09:29,519
+appease
+
+235
+00:09:27,279 --> 00:09:31,440
+other parts of the organization that are
+
+236
+00:09:29,519 --> 00:09:34,399
+not yet ready for change
+
+237
+00:09:31,440 --> 00:09:34,800
+uh perhaps we have to distance ourselves
+
+238
+00:09:34,399 --> 00:09:37,920
+from
+
+239
+00:09:34,800 --> 00:09:41,440
+data because we have uh
+
+240
+00:09:37,920 --> 00:09:44,480
+a traditional persecution
+
+241
+00:09:41,440 --> 00:09:46,720
+of the team by using
+
+242
+00:09:44,480 --> 00:09:48,959
+data of the past and that's that
+
+243
+00:09:46,720 --> 00:09:50,160
+original estimate versus actuals that i
+
+244
+00:09:48,959 --> 00:09:52,480
+see all the time
+
+245
+00:09:50,160 --> 00:09:54,800
+in organizations and we need to get
+
+246
+00:09:52,480 --> 00:09:57,839
+better at estimating by closing
+
+247
+00:09:54,800 --> 00:09:58,959
+closing that gap uh between original and
+
+248
+00:09:57,839 --> 00:10:02,880
+actuals
+
+249
+00:09:58,959 --> 00:10:05,760
+and it's just just not really tenable
+
+250
+00:10:02,880 --> 00:10:07,519
+while story points and velocity can be a
+
+251
+00:10:05,760 --> 00:10:10,560
+good starting point
+
+252
+00:10:07,519 --> 00:10:13,200
+they are not a good long-term
+
+253
+00:10:10,560 --> 00:10:13,920
+story um i'm not saying that there's no
+
+254
+00:10:13,200 --> 00:10:16,560
+value
+
+255
+00:10:13,920 --> 00:10:17,040
+in story points or planning poker that's
+
+256
+00:10:16,560 --> 00:10:18,720
+what this
+
+257
+00:10:17,040 --> 00:10:20,240
+uh team here is doing a little bit of
+
+258
+00:10:18,720 --> 00:10:23,200
+planning poker
+
+259
+00:10:20,240 --> 00:10:24,800
+um when a team is just starting out they
+
+260
+00:10:23,200 --> 00:10:27,120
+kind of do need to keep things
+
+261
+00:10:24,800 --> 00:10:28,640
+a little bit simple and iterate towards
+
+262
+00:10:27,120 --> 00:10:32,320
+better outcomes
+
+263
+00:10:28,640 --> 00:10:34,160
+we often start from typical traditional
+
+264
+00:10:32,320 --> 00:10:36,720
+practices and planning poker
+
+265
+00:10:34,160 --> 00:10:37,600
+is definitely a good learning point
+
+266
+00:10:36,720 --> 00:10:39,839
+stories
+
+267
+00:10:37,600 --> 00:10:42,320
+points use rough sizing as a way to
+
+268
+00:10:39,839 --> 00:10:44,640
+analyze work and break it down
+
+269
+00:10:42,320 --> 00:10:45,920
+because really the scores the the
+
+270
+00:10:44,640 --> 00:10:47,839
+numbers
+
+271
+00:10:45,920 --> 00:10:49,279
+that we get the points that we come up
+
+272
+00:10:47,839 --> 00:10:51,920
+with for stories
+
+273
+00:10:49,279 --> 00:10:52,959
+they're just made up like we always used
+
+274
+00:10:51,920 --> 00:10:56,720
+to they're a
+
+275
+00:10:52,959 --> 00:11:00,000
+a relative uh rough sizing thing
+
+276
+00:10:56,720 --> 00:11:02,240
+that allows us and enables our team
+
+277
+00:11:00,000 --> 00:11:03,279
+to get a shared understanding of the
+
+278
+00:11:02,240 --> 00:11:06,640
+work
+
+279
+00:11:03,279 --> 00:11:09,920
+it's about generating conversations
+
+280
+00:11:06,640 --> 00:11:12,079
+of understanding what we don't know that
+
+281
+00:11:09,920 --> 00:11:15,200
+other team members do know
+
+282
+00:11:12,079 --> 00:11:18,000
+and being able to come to a shared
+
+283
+00:11:15,200 --> 00:11:19,120
+understanding shared learning of what
+
+284
+00:11:18,000 --> 00:11:21,839
+those things are
+
+285
+00:11:19,120 --> 00:11:22,959
+and and that's awesome that's exactly
+
+286
+00:11:21,839 --> 00:11:26,160
+what we want
+
+287
+00:11:22,959 --> 00:11:29,360
+uh to achieve but i would assert that
+
+288
+00:11:26,160 --> 00:11:31,920
+we don't need to use those numbers
+
+289
+00:11:29,360 --> 00:11:33,839
+after that exercise that is definitely a
+
+290
+00:11:31,920 --> 00:11:36,240
+good exercise to have
+
+291
+00:11:33,839 --> 00:11:38,320
+but the story points and velocity um are
+
+292
+00:11:36,240 --> 00:11:42,320
+not super useful
+
+293
+00:11:38,320 --> 00:11:42,800
+because agile teams try to use story
+
+294
+00:11:42,320 --> 00:11:45,760
+points
+
+295
+00:11:42,800 --> 00:11:47,600
+and velocity for future predictability
+
+296
+00:11:45,760 --> 00:11:48,800
+uh to gain that level of predictability
+
+297
+00:11:47,600 --> 00:11:53,360
+and it's it's a total
+
+298
+00:11:48,800 --> 00:11:56,720
+fallacy uh that that is a valid thing
+
+299
+00:11:53,360 --> 00:11:58,639
+um while it would be okay for a team to
+
+300
+00:11:56,720 --> 00:11:59,120
+use it for a while if an agile team is
+
+301
+00:11:58,639 --> 00:12:02,320
+still
+
+302
+00:11:59,120 --> 00:12:05,839
+using velocity and story points
+
+303
+00:12:02,320 --> 00:12:08,160
+after uh they have 20 or 30 sprints
+
+304
+00:12:05,839 --> 00:12:10,079
+under their belt then i would have
+
+305
+00:12:08,160 --> 00:12:13,120
+serious concerns
+
+306
+00:12:10,079 --> 00:12:16,240
+about their ability
+
+307
+00:12:13,120 --> 00:12:18,880
+their ability to adapt uh to change
+
+308
+00:12:16,240 --> 00:12:20,240
+and their sincerity towards that change
+
+309
+00:12:18,880 --> 00:12:23,519
+in general
+
+310
+00:12:20,240 --> 00:12:26,560
+um teams using story points just don't
+
+311
+00:12:23,519 --> 00:12:29,839
+understand their work or its nature
+
+312
+00:12:26,560 --> 00:12:30,399
+this is what i mean by immaturity and
+
+313
+00:12:29,839 --> 00:12:33,519
+not
+
+314
+00:12:30,399 --> 00:12:36,480
+that something that's a sign of maturity
+
+315
+00:12:33,519 --> 00:12:38,639
+uh the opposite of that that's what i
+
+316
+00:12:36,480 --> 00:12:39,040
+mean by being an immature thing we just
+
+317
+00:12:38,639 --> 00:12:41,839
+don't
+
+318
+00:12:39,040 --> 00:12:43,440
+understand our work enough uh to have a
+
+319
+00:12:41,839 --> 00:12:46,480
+concrete measure
+
+320
+00:12:43,440 --> 00:12:47,760
+indeed uh the scrum team using story
+
+321
+00:12:46,480 --> 00:12:50,959
+points really has
+
+322
+00:12:47,760 --> 00:12:53,360
+at no constant consistent
+
+323
+00:12:50,959 --> 00:12:54,800
+reference points and they're just
+
+324
+00:12:53,360 --> 00:12:56,079
+shooting in the dark same as they were
+
+325
+00:12:54,800 --> 00:12:58,320
+before
+
+326
+00:12:56,079 --> 00:13:00,480
+this is very common and i believe it to
+
+327
+00:12:58,320 --> 00:13:02,320
+be an organizational dysfunction we pick
+
+328
+00:13:00,480 --> 00:13:06,079
+story points because of that
+
+329
+00:13:02,320 --> 00:13:07,120
+organizational immaturity and while they
+
+330
+00:13:06,079 --> 00:13:09,200
+have
+
+331
+00:13:07,120 --> 00:13:10,800
+in doing planning poker and
+
+332
+00:13:09,200 --> 00:13:12,880
+understanding those things
+
+333
+00:13:10,800 --> 00:13:13,839
+gained additional understanding of the
+
+334
+00:13:12,880 --> 00:13:16,800
+goals
+
+335
+00:13:13,839 --> 00:13:17,839
+of what those things are that we're
+
+336
+00:13:16,800 --> 00:13:20,160
+trying to achieve
+
+337
+00:13:17,839 --> 00:13:22,079
+what it is we're going to do they still
+
+338
+00:13:20,160 --> 00:13:23,360
+don't have an understanding of the
+
+339
+00:13:22,079 --> 00:13:26,320
+predictability
+
+340
+00:13:23,360 --> 00:13:27,440
+and thus they have no confidence in
+
+341
+00:13:26,320 --> 00:13:29,279
+their predictions
+
+342
+00:13:27,440 --> 00:13:30,959
+they may have false confidence but it's
+
+343
+00:13:29,279 --> 00:13:34,320
+not actual confidence
+
+344
+00:13:30,959 --> 00:13:37,760
+in their predictions we need
+
+345
+00:13:34,320 --> 00:13:40,800
+some concrete uh data
+
+346
+00:13:37,760 --> 00:13:43,680
+uh that we can use it to build
+
+347
+00:13:40,800 --> 00:13:45,920
+trust with our stakeholders that we know
+
+348
+00:13:43,680 --> 00:13:48,720
+what we're talking about at all
+
+349
+00:13:45,920 --> 00:13:49,519
+otherwise they may just take their money
+
+350
+00:13:48,720 --> 00:13:51,120
+elsewhere
+
+351
+00:13:49,519 --> 00:13:52,800
+and then we don't have additional work
+
+352
+00:13:51,120 --> 00:13:57,040
+we we need that level
+
+353
+00:13:52,800 --> 00:13:57,760
+of confidence so the traditional method
+
+354
+00:13:57,040 --> 00:14:00,959
+for
+
+355
+00:13:57,760 --> 00:14:04,240
+uh improving that level of confidence
+
+356
+00:14:00,959 --> 00:14:08,199
+is confidence is uh to
+
+357
+00:14:04,240 --> 00:14:12,639
+focus on that velocity
+
+358
+00:14:08,199 --> 00:14:16,160
+fluctuation and try and improve
+
+359
+00:14:12,639 --> 00:14:16,880
+uh that velocity fluctuation uh sorry
+
+360
+00:14:16,160 --> 00:14:20,079
+improve it
+
+361
+00:14:16,880 --> 00:14:20,480
+improves the team's position and have a
+
+362
+00:14:20,079 --> 00:14:23,839
+more
+
+363
+00:14:20,480 --> 00:14:24,240
+stable velocity so what i would like to
+
+364
+00:14:23,839 --> 00:14:27,440
+do
+
+365
+00:14:24,240 --> 00:14:30,720
+is there is a second question uh
+
+366
+00:14:27,440 --> 00:14:31,440
+here in the fluctuating velocity section
+
+367
+00:14:30,720 --> 00:14:34,240
+so if you click
+
+368
+00:14:31,440 --> 00:14:34,959
+fluctuating velocity on the right i will
+
+369
+00:14:34,240 --> 00:14:37,199
+summon
+
+370
+00:14:34,959 --> 00:14:39,040
+everybody i'm only going to put two
+
+371
+00:14:37,199 --> 00:14:40,639
+minutes i know it says three
+
+372
+00:14:39,040 --> 00:14:42,880
+uh but i'm going to put two minutes on
+
+373
+00:14:40,639 --> 00:14:44,959
+there and i'm going to ask that you
+
+374
+00:14:42,880 --> 00:14:48,639
+create a post-it
+
+375
+00:14:44,959 --> 00:14:49,120
+for everything that you could do with a
+
+376
+00:14:48,639 --> 00:14:52,560
+team
+
+377
+00:14:49,120 --> 00:14:57,440
+to help them improve their velocity
+
+378
+00:14:52,560 --> 00:15:01,440
+stabilize it maybe make it bigger plus
+
+379
+00:14:57,440 --> 00:15:01,440
+make it more consistent
+
+380
+00:15:11,519 --> 00:15:14,320
+so i know there's a few people following
+
+381
+00:15:12,880 --> 00:15:14,720
+me but i'm just going to zoom in so i
+
+382
+00:15:14,320 --> 00:15:16,399
+can
+
+383
+00:15:14,720 --> 00:15:19,440
+read that a little bit better because it
+
+384
+00:15:16,399 --> 00:15:19,440
+was rather small
+
+385
+00:15:22,160 --> 00:15:26,480
+so work on commitment and optimistically
+
+386
+00:15:25,920 --> 00:15:29,040
+view
+
+387
+00:15:26,480 --> 00:15:40,800
+refinement now trying to put that reduce
+
+388
+00:15:29,040 --> 00:15:43,759
+waste yep
+
+389
+00:15:40,800 --> 00:15:44,560
+couldn't we uh restrict the team's
+
+390
+00:15:43,759 --> 00:15:46,639
+holidays
+
+391
+00:15:44,560 --> 00:15:49,519
+that's usually a good way to to have
+
+392
+00:15:46,639 --> 00:15:52,880
+more consistency
+
+393
+00:15:49,519 --> 00:15:52,880
+i'm just joking with that one
+
+394
+00:15:53,199 --> 00:16:00,800
+there's about 40 seconds left hit them
+
+395
+00:15:57,360 --> 00:16:00,800
+i don't know who was typing that but
+
+396
+00:16:01,920 --> 00:16:07,680
+that was visiting sea lion
+
+397
+00:16:05,199 --> 00:16:10,320
+let's let's wall up the team make them
+
+398
+00:16:07,680 --> 00:16:12,639
+work harder
+
+399
+00:16:10,320 --> 00:16:14,160
+focus on one thing instead of many
+
+400
+00:16:12,639 --> 00:16:17,519
+that's kind of getting to the
+
+401
+00:16:14,160 --> 00:16:20,240
+to the to the crux of it
+
+402
+00:16:17,519 --> 00:16:21,519
+focus on the sprint goal fixing
+
+403
+00:16:20,240 --> 00:16:23,920
+technical debt
+
+404
+00:16:21,519 --> 00:16:24,560
+that's definitely something we're going
+
+405
+00:16:23,920 --> 00:16:27,600
+to do
+
+406
+00:16:24,560 --> 00:16:28,480
+collaborative refinement a very powerful
+
+407
+00:16:27,600 --> 00:16:30,639
+technique
+
+408
+00:16:28,480 --> 00:16:31,839
+these are all really good techniques uh
+
+409
+00:16:30,639 --> 00:16:34,639
+i would be
+
+410
+00:16:31,839 --> 00:16:35,440
+concerned with focusing too much on
+
+411
+00:16:34,639 --> 00:16:38,560
+reducing
+
+412
+00:16:35,440 --> 00:16:40,560
+waste uh waste is
+
+413
+00:16:38,560 --> 00:16:42,240
+the elimination of waste is a lean
+
+414
+00:16:40,560 --> 00:16:45,680
+technique that applies
+
+415
+00:16:42,240 --> 00:16:47,920
+mostly to uh understood
+
+416
+00:16:45,680 --> 00:16:49,440
+work uh because we want to remove all
+
+417
+00:16:47,920 --> 00:16:51,199
+waste from the process like if we were
+
+418
+00:16:49,440 --> 00:16:54,240
+building a set of cars
+
+419
+00:16:51,199 --> 00:16:55,519
+uh um we're we've got a production line
+
+420
+00:16:54,240 --> 00:16:59,120
+and we want to eliminate
+
+421
+00:16:55,519 --> 00:17:01,360
+all waste waste in a creative endeavor
+
+422
+00:16:59,120 --> 00:17:02,240
+or things that look like waste in a
+
+423
+00:17:01,360 --> 00:17:03,920
+creative diver
+
+424
+00:17:02,240 --> 00:17:05,439
+are actually the thing that gives us
+
+425
+00:17:03,920 --> 00:17:08,079
+that little bit of friction
+
+426
+00:17:05,439 --> 00:17:09,199
+uh that creativeness of the development
+
+427
+00:17:08,079 --> 00:17:12,400
+team of building
+
+428
+00:17:09,199 --> 00:17:15,760
+uh interesting and powerful products uh
+
+429
+00:17:12,400 --> 00:17:19,039
+so i i like reducing waste
+
+430
+00:17:15,760 --> 00:17:21,679
+i just would be uh careful
+
+431
+00:17:19,039 --> 00:17:23,520
+with that technique i would reduce
+
+432
+00:17:21,679 --> 00:17:25,439
+technical debt that's a way to reduce
+
+433
+00:17:23,520 --> 00:17:28,559
+waste reducing rework
+
+434
+00:17:25,439 --> 00:17:31,039
+um have built testing
+
+435
+00:17:28,559 --> 00:17:32,640
+into the process rather than test after
+
+436
+00:17:31,039 --> 00:17:35,679
+which a lot of teams do
+
+437
+00:17:32,640 --> 00:17:37,760
+that will reduce waste as well so there
+
+438
+00:17:35,679 --> 00:17:42,080
+are definitely things we can do
+
+439
+00:17:37,760 --> 00:17:45,039
+to reduce waste but the reality is
+
+440
+00:17:42,080 --> 00:17:46,320
+if i can change that there we go your
+
+441
+00:17:45,039 --> 00:17:49,760
+velocity is
+
+442
+00:17:46,320 --> 00:17:52,960
+is going to fluctuate that is
+
+443
+00:17:49,760 --> 00:17:56,960
+just a fundamental uh reality
+
+444
+00:17:52,960 --> 00:17:58,640
+of uh the way we work velocity was a way
+
+445
+00:17:56,960 --> 00:18:01,360
+to kind of assert
+
+446
+00:17:58,640 --> 00:18:03,039
+that confidence with a plot of our
+
+447
+00:18:01,360 --> 00:18:05,280
+delivered story points
+
+448
+00:18:03,039 --> 00:18:06,400
+along with some clever calculations like
+
+449
+00:18:05,280 --> 00:18:09,600
+maybe uh
+
+450
+00:18:06,400 --> 00:18:12,559
+the mean or the mean of the worst three
+
+451
+00:18:09,600 --> 00:18:14,480
+and we assert that we're likely to
+
+452
+00:18:12,559 --> 00:18:17,919
+deliver about
+
+453
+00:18:14,480 --> 00:18:20,240
+20 story points this is such a wholly
+
+454
+00:18:17,919 --> 00:18:22,240
+improbable assumption that the vast
+
+455
+00:18:20,240 --> 00:18:25,039
+majority of scrum teams talk about
+
+456
+00:18:22,240 --> 00:18:26,640
+carryover points and quiz me on how to
+
+457
+00:18:25,039 --> 00:18:28,320
+represent that
+
+458
+00:18:26,640 --> 00:18:30,000
+do you re-estimate and stick it on the
+
+459
+00:18:28,320 --> 00:18:31,919
+backlog or did you just go straight into
+
+460
+00:18:30,000 --> 00:18:33,280
+the next sprint and do you chop it up
+
+461
+00:18:31,919 --> 00:18:34,880
+and do you get points for the stuff
+
+462
+00:18:33,280 --> 00:18:37,200
+you've just done in the previous sprint
+
+463
+00:18:34,880 --> 00:18:39,039
+even though you didn't finish it these
+
+464
+00:18:37,200 --> 00:18:42,480
+are all questions
+
+465
+00:18:39,039 --> 00:18:46,000
+that make visible
+
+466
+00:18:42,480 --> 00:18:48,400
+make transparent a fundamental problem
+
+467
+00:18:46,000 --> 00:18:49,520
+with the idea of story points and
+
+468
+00:18:48,400 --> 00:18:52,480
+velocity
+
+469
+00:18:49,520 --> 00:18:54,240
+in the first place scrum teams have been
+
+470
+00:18:52,480 --> 00:18:56,559
+basing their confidence
+
+471
+00:18:54,240 --> 00:18:57,919
+level that they talk to stakeholders
+
+472
+00:18:56,559 --> 00:19:01,120
+about
+
+473
+00:18:57,919 --> 00:19:03,840
+based on just an agreed consensus
+
+474
+00:19:01,120 --> 00:19:05,039
+that can't be compared between teams
+
+475
+00:19:03,840 --> 00:19:07,840
+can't be looked at
+
+476
+00:19:05,039 --> 00:19:08,960
+across an organization and it's
+
+477
+00:19:07,840 --> 00:19:11,919
+susceptible
+
+478
+00:19:08,960 --> 00:19:13,440
+to any sort of gaming you would like and
+
+479
+00:19:11,919 --> 00:19:14,640
+it's just made up in the team's
+
+480
+00:19:13,440 --> 00:19:16,960
+estimation room
+
+481
+00:19:14,640 --> 00:19:18,000
+so if you have a different person doing
+
+482
+00:19:16,960 --> 00:19:19,840
+the work
+
+483
+00:19:18,000 --> 00:19:23,280
+than was involved in estimating maybe
+
+484
+00:19:19,840 --> 00:19:25,520
+because there was some vacation time
+
+485
+00:19:23,280 --> 00:19:26,640
+and somebody who was critical to
+
+486
+00:19:25,520 --> 00:19:29,360
+creating
+
+487
+00:19:26,640 --> 00:19:30,480
+the understanding that we got during
+
+488
+00:19:29,360 --> 00:19:33,760
+refinement
+
+489
+00:19:30,480 --> 00:19:35,120
+is now they're off while when we go to
+
+490
+00:19:33,760 --> 00:19:38,880
+take this story
+
+491
+00:19:35,120 --> 00:19:40,640
+they're not available then um
+
+492
+00:19:38,880 --> 00:19:42,559
+it's going to take much longer than we
+
+493
+00:19:40,640 --> 00:19:43,440
+thought it was maybe some critical skill
+
+494
+00:19:42,559 --> 00:19:46,000
+is missing
+
+495
+00:19:43,440 --> 00:19:47,600
+maybe some critical insight is missing
+
+496
+00:19:46,000 --> 00:19:49,039
+we've shared our understanding as much
+
+497
+00:19:47,600 --> 00:19:51,600
+as possible but
+
+498
+00:19:49,039 --> 00:19:53,760
+we just don't have the confidence level
+
+499
+00:19:51,600 --> 00:19:55,600
+that we thought we did so we end up with
+
+500
+00:19:53,760 --> 00:19:56,880
+carryovers we end up with things
+
+501
+00:19:55,600 --> 00:20:00,400
+spilling over
+
+502
+00:19:56,880 --> 00:20:03,200
+into the next sprint in a way that is
+
+503
+00:20:00,400 --> 00:20:03,200
+untenable
+
+504
+00:20:04,000 --> 00:20:07,760
+i got this quote uh off at daniel
+
+505
+00:20:06,799 --> 00:20:10,080
+vicanti's
+
+506
+00:20:07,760 --> 00:20:11,360
+at twitter he actually gave me another
+
+507
+00:20:10,080 --> 00:20:12,400
+quote that i'm not going to use because
+
+508
+00:20:11,360 --> 00:20:15,919
+it's very rude
+
+509
+00:20:12,400 --> 00:20:18,080
+uh but he says uh he used to say that
+
+510
+00:20:15,919 --> 00:20:19,280
+story points set the agile industry back
+
+511
+00:20:18,080 --> 00:20:20,799
+10 years
+
+512
+00:20:19,280 --> 00:20:22,640
+and he was wrong they set the industry
+
+513
+00:20:20,799 --> 00:20:26,640
+back 20 years
+
+514
+00:20:22,640 --> 00:20:29,679
+we have been scrum has been around for
+
+515
+00:20:26,640 --> 00:20:33,120
+25 years the agile manifesto
+
+516
+00:20:29,679 --> 00:20:33,679
+was signed nearly 20 years ago and we're
+
+517
+00:20:33,120 --> 00:20:36,799
+still
+
+518
+00:20:33,679 --> 00:20:40,159
+talking about uh story points
+
+519
+00:20:36,799 --> 00:20:40,960
+and velocity as a concrete measure for
+
+520
+00:20:40,159 --> 00:20:44,799
+teams
+
+521
+00:20:40,960 --> 00:20:48,000
+and it is just not acceptable
+
+522
+00:20:44,799 --> 00:20:51,039
+anymore we need to create
+
+523
+00:20:48,000 --> 00:20:53,919
+uh a world in which we have a
+
+524
+00:20:51,039 --> 00:20:54,480
+more suitable set of measures that we
+
+525
+00:20:53,919 --> 00:20:58,080
+can
+
+526
+00:20:54,480 --> 00:21:01,360
+actually use to understand
+
+527
+00:20:58,080 --> 00:21:04,640
+our work understand how the team is go
+
+528
+00:21:01,360 --> 00:21:06,960
+doing and understand how changes that
+
+529
+00:21:04,640 --> 00:21:07,840
+that team makes or that the organization
+
+530
+00:21:06,960 --> 00:21:12,159
+makes
+
+531
+00:21:07,840 --> 00:21:14,640
+impacts on that work we need something
+
+532
+00:21:12,159 --> 00:21:18,320
+that when you game the system it
+
+533
+00:21:14,640 --> 00:21:21,280
+produces a different result
+
+534
+00:21:18,320 --> 00:21:22,559
+instead of gaming the system by oh we'll
+
+535
+00:21:21,280 --> 00:21:24,480
+just call that a
+
+536
+00:21:22,559 --> 00:21:25,919
+ten pointer instead of a five pointer
+
+537
+00:21:24,480 --> 00:21:26,960
+and we've doubled the amount of work
+
+538
+00:21:25,919 --> 00:21:29,120
+that we did
+
+539
+00:21:26,960 --> 00:21:30,000
+and we want people to be gaming the
+
+540
+00:21:29,120 --> 00:21:33,760
+system in a way
+
+541
+00:21:30,000 --> 00:21:36,880
+that benefits the process that reduces
+
+542
+00:21:33,760 --> 00:21:37,919
+uh the time it takes for us to deliver
+
+543
+00:21:36,880 --> 00:21:40,400
+things
+
+544
+00:21:37,919 --> 00:21:41,360
+and there are some very key practices
+
+545
+00:21:40,400 --> 00:21:43,760
+around that
+
+546
+00:21:41,360 --> 00:21:44,400
+uh they are well known i'm not going to
+
+547
+00:21:43,760 --> 00:21:48,559
+be
+
+548
+00:21:44,400 --> 00:21:51,679
+uh i'm not opening a a magic box
+
+549
+00:21:48,559 --> 00:21:54,720
+um but we need to be actively
+
+550
+00:21:51,679 --> 00:21:57,360
+managing items in progress
+
+551
+00:21:54,720 --> 00:21:58,480
+actively managing the items that we're
+
+552
+00:21:57,360 --> 00:22:01,280
+working on
+
+553
+00:21:58,480 --> 00:22:02,799
+and the way to do that is definitely to
+
+554
+00:22:01,280 --> 00:22:05,840
+visualize
+
+555
+00:22:02,799 --> 00:22:09,520
+your work um understand
+
+556
+00:22:05,840 --> 00:22:13,120
+where what stage things are at and if
+
+557
+00:22:09,520 --> 00:22:14,320
+you will have seen a kanban style board
+
+558
+00:22:13,120 --> 00:22:17,200
+before
+
+559
+00:22:14,320 --> 00:22:17,919
+where work itself moves across rather
+
+560
+00:22:17,200 --> 00:22:20,960
+than
+
+561
+00:22:17,919 --> 00:22:24,000
+a storyboard where the work
+
+562
+00:22:20,960 --> 00:22:26,880
+is stationary and items of work
+
+563
+00:22:24,000 --> 00:22:27,360
+flow across so the what is stationary on
+
+564
+00:22:26,880 --> 00:22:30,559
+this
+
+565
+00:22:27,360 --> 00:22:32,960
+uh board the what is flowing uh
+
+566
+00:22:30,559 --> 00:22:34,320
+across during the sprint and and we
+
+567
+00:22:32,960 --> 00:22:37,360
+maybe have some
+
+568
+00:22:34,320 --> 00:22:38,480
+at stages along the way that work has to
+
+569
+00:22:37,360 --> 00:22:41,120
+flow through
+
+570
+00:22:38,480 --> 00:22:42,240
+in order to get to at the end get to
+
+571
+00:22:41,120 --> 00:22:45,039
+production
+
+572
+00:22:42,240 --> 00:22:46,400
+uh but you can see a limiting uh working
+
+573
+00:22:45,039 --> 00:22:50,000
+process by having
+
+574
+00:22:46,400 --> 00:22:52,080
+a a total whip limit that's divided
+
+575
+00:22:50,000 --> 00:22:53,679
+into the individual columns kanban has
+
+576
+00:22:52,080 --> 00:22:56,720
+no requirement
+
+577
+00:22:53,679 --> 00:22:58,080
+to have uh individual columns with whip
+
+578
+00:22:56,720 --> 00:23:00,880
+limits however
+
+579
+00:22:58,080 --> 00:23:02,240
+if you are going to have columns within
+
+580
+00:23:00,880 --> 00:23:05,360
+that process then they should have what
+
+581
+00:23:02,240 --> 00:23:08,799
+plummets beetle you don't have to
+
+582
+00:23:05,360 --> 00:23:11,840
+but we need to also record our cycle
+
+583
+00:23:08,799 --> 00:23:15,039
+time we need to understand how
+
+584
+00:23:11,840 --> 00:23:17,360
+long things are in process for
+
+585
+00:23:15,039 --> 00:23:19,520
+how long does it take from when the the
+
+586
+00:23:17,360 --> 00:23:22,799
+team that owns that kanban
+
+587
+00:23:19,520 --> 00:23:24,960
+owns that part of the process when they
+
+588
+00:23:22,799 --> 00:23:30,720
+decide that work has started
+
+589
+00:23:24,960 --> 00:23:30,720
+until they decide that work has finished
+
+590
+00:23:30,880 --> 00:23:38,240
+uh we can use our work in process
+
+591
+00:23:34,640 --> 00:23:39,440
+and plot that uh on a on a graph called
+
+592
+00:23:38,240 --> 00:23:42,799
+a cumulative flow
+
+593
+00:23:39,440 --> 00:23:43,840
+graph and cumulative flow is very scary
+
+594
+00:23:42,799 --> 00:23:47,919
+to look at when you
+
+595
+00:23:43,840 --> 00:23:48,159
+first see it but it actually gives you
+
+596
+00:23:47,919 --> 00:23:51,200
+an
+
+597
+00:23:48,159 --> 00:23:53,840
+indication of the predictability
+
+598
+00:23:51,200 --> 00:23:55,039
+that you're having so you can see this
+
+599
+00:23:53,840 --> 00:23:57,120
+particular
+
+600
+00:23:55,039 --> 00:23:58,320
+cumulative flow that you see there which
+
+601
+00:23:57,120 --> 00:24:01,360
+is a little bit small but
+
+602
+00:23:58,320 --> 00:24:05,600
+can i zoom in
+
+603
+00:24:01,360 --> 00:24:08,960
+oh i think i can using there we go
+
+604
+00:24:05,600 --> 00:24:11,520
+uh this particular cumulative flow is
+
+605
+00:24:08,960 --> 00:24:14,000
+uh showing each of the different columns
+
+606
+00:24:11,520 --> 00:24:14,000
+that we had
+
+607
+00:24:15,520 --> 00:24:20,240
+and sorry was there a question
+
+608
+00:24:20,640 --> 00:24:24,559
+there's just some background noise it's
+
+609
+00:24:22,400 --> 00:24:27,600
+okay everybody's muted now that's
+
+610
+00:24:24,559 --> 00:24:30,080
+awesome so uh
+
+611
+00:24:27,600 --> 00:24:31,760
+that these lines on the cumulative flow
+
+612
+00:24:30,080 --> 00:24:35,039
+are wavy
+
+613
+00:24:31,760 --> 00:24:36,640
+i.e not straight is an indication of a
+
+614
+00:24:35,039 --> 00:24:38,640
+lack of predictability
+
+615
+00:24:36,640 --> 00:24:39,919
+the more predictability you have in the
+
+616
+00:24:38,640 --> 00:24:43,279
+system the
+
+617
+00:24:39,919 --> 00:24:45,919
+straighter those lines are and then
+
+618
+00:24:43,279 --> 00:24:47,279
+it's easy to see once those lines are a
+
+619
+00:24:45,919 --> 00:24:50,240
+little bit straighter
+
+620
+00:24:47,279 --> 00:24:51,440
+if they're diverging your working
+
+621
+00:24:50,240 --> 00:24:54,159
+process is increasing
+
+622
+00:24:51,440 --> 00:24:55,120
+if they're coming together then your
+
+623
+00:24:54,159 --> 00:24:58,880
+working process
+
+624
+00:24:55,120 --> 00:25:01,520
+is reducing ideally what you want to see
+
+625
+00:24:58,880 --> 00:25:02,400
+is parallel lines but that's almost
+
+626
+00:25:01,520 --> 00:25:04,960
+never going to
+
+627
+00:25:02,400 --> 00:25:05,760
+happen in the real world but that's the
+
+628
+00:25:04,960 --> 00:25:09,279
+the goal
+
+629
+00:25:05,760 --> 00:25:12,159
+that you're aiming for as you uh
+
+630
+00:25:09,279 --> 00:25:14,240
+do certain things in your process you
+
+631
+00:25:12,159 --> 00:25:15,600
+can see the impact that they have on
+
+632
+00:25:14,240 --> 00:25:18,480
+your predictability
+
+633
+00:25:15,600 --> 00:25:19,520
+this graph is indicative of the
+
+634
+00:25:18,480 --> 00:25:21,279
+predictability
+
+635
+00:25:19,520 --> 00:25:22,880
+of the team and that these lines are
+
+636
+00:25:21,279 --> 00:25:25,200
+waving around all over the place
+
+637
+00:25:22,880 --> 00:25:27,679
+is a indication that they're not being
+
+638
+00:25:25,200 --> 00:25:31,520
+very predictable
+
+639
+00:25:27,679 --> 00:25:34,320
+unzoom that there we go so working pro
+
+640
+00:25:31,520 --> 00:25:35,360
+cycle time and working process are two
+
+641
+00:25:34,320 --> 00:25:38,960
+really powerful
+
+642
+00:25:35,360 --> 00:25:42,159
+at measures throughput um is
+
+643
+00:25:38,960 --> 00:25:44,880
+a measure of items of work
+
+644
+00:25:42,159 --> 00:25:45,679
+per unit of time so you can use any unit
+
+645
+00:25:44,880 --> 00:25:48,000
+of time
+
+646
+00:25:45,679 --> 00:25:48,720
+you like if you're sprinting it's
+
+647
+00:25:48,000 --> 00:25:51,760
+probably
+
+648
+00:25:48,720 --> 00:25:53,679
+a two-week sprint so how many
+
+649
+00:25:51,760 --> 00:25:56,559
+pieces of work were you able to deliver
+
+650
+00:25:53,679 --> 00:25:58,559
+in two weeks and it does not care about
+
+651
+00:25:56,559 --> 00:26:00,000
+size it very deliberately doesn't care
+
+652
+00:25:58,559 --> 00:26:00,799
+about size which is the difference
+
+653
+00:26:00,000 --> 00:26:03,039
+between
+
+654
+00:26:00,799 --> 00:26:04,880
+throughput and velocity velocity usually
+
+655
+00:26:03,039 --> 00:26:06,159
+cares about the size or complexity of
+
+656
+00:26:04,880 --> 00:26:07,120
+items because you're applying story
+
+657
+00:26:06,159 --> 00:26:10,559
+points
+
+658
+00:26:07,120 --> 00:26:13,520
+throughput ignores that because then
+
+659
+00:26:10,559 --> 00:26:15,440
+gaming the system will be the team
+
+660
+00:26:13,520 --> 00:26:16,880
+reducing the size of the items by
+
+661
+00:26:15,440 --> 00:26:17,760
+breaking them down or making them
+
+662
+00:26:16,880 --> 00:26:20,480
+simpler
+
+663
+00:26:17,760 --> 00:26:22,159
+and and things that are smaller are
+
+664
+00:26:20,480 --> 00:26:23,760
+going to go through this process
+
+665
+00:26:22,159 --> 00:26:26,640
+a lot quicker because smaller things are
+
+666
+00:26:23,760 --> 00:26:28,400
+easier to do so if we half the size
+
+667
+00:26:26,640 --> 00:26:30,400
+of all of the things that we're working
+
+668
+00:26:28,400 --> 00:26:31,039
+on we're going to half the amount of
+
+669
+00:26:30,400 --> 00:26:32,880
+work
+
+670
+00:26:31,039 --> 00:26:34,400
+that we have to do therefore we will
+
+671
+00:26:32,880 --> 00:26:36,080
+half the amount of time
+
+672
+00:26:34,400 --> 00:26:38,480
+it takes to go through the system
+
+673
+00:26:36,080 --> 00:26:41,840
+therefore each item
+
+674
+00:26:38,480 --> 00:26:45,440
+will get delivered more quickly um
+
+675
+00:26:41,840 --> 00:26:48,080
+so that's it's i'm fine with the team
+
+676
+00:26:45,440 --> 00:26:49,760
+gaming that metric but throughput um
+
+677
+00:26:48,080 --> 00:26:52,400
+allows us to tell an interesting
+
+678
+00:26:49,760 --> 00:26:54,720
+uh story but there's one more metric
+
+679
+00:26:52,400 --> 00:26:56,880
+that we really need to understand
+
+680
+00:26:54,720 --> 00:26:58,080
+that helps us have more interesting
+
+681
+00:26:56,880 --> 00:27:01,200
+conversations
+
+682
+00:26:58,080 --> 00:27:02,559
+during our existing uh agile events
+
+683
+00:27:01,200 --> 00:27:04,960
+maybe you're doing scrum
+
+684
+00:27:02,559 --> 00:27:06,080
+maybe you're doing other uh processes
+
+685
+00:27:04,960 --> 00:27:08,559
+maybe you've made up your
+
+686
+00:27:06,080 --> 00:27:10,320
+own uh very powerful process empirical
+
+687
+00:27:08,559 --> 00:27:11,039
+process control system that works for
+
+688
+00:27:10,320 --> 00:27:14,400
+you
+
+689
+00:27:11,039 --> 00:27:18,000
+um and that is work item aging
+
+690
+00:27:14,400 --> 00:27:21,840
+we have to understand how old things are
+
+691
+00:27:18,000 --> 00:27:24,880
+and how close they are to our
+
+692
+00:27:21,840 --> 00:27:27,200
+uh uh likelihood of completing them
+
+693
+00:27:24,880 --> 00:27:28,799
+in order to see whether we need to go
+
+694
+00:27:27,200 --> 00:27:30,960
+deal with something now
+
+695
+00:27:28,799 --> 00:27:32,559
+is this getting so old it's been in
+
+696
+00:27:30,960 --> 00:27:35,440
+there so long
+
+697
+00:27:32,559 --> 00:27:37,360
+that it's likely not to me then me be
+
+698
+00:27:35,440 --> 00:27:38,960
+delivered by the end of the sprint
+
+699
+00:27:37,360 --> 00:27:40,960
+that may be something that we want to
+
+700
+00:27:38,960 --> 00:27:41,600
+focus on as a team that we maybe want to
+
+701
+00:27:40,960 --> 00:27:43,679
+swarm
+
+702
+00:27:41,600 --> 00:27:46,000
+around so it allows us to have some of
+
+703
+00:27:43,679 --> 00:27:49,279
+those more interesting conversations
+
+704
+00:27:46,000 --> 00:27:50,000
+so in order to use flow in a scrum
+
+705
+00:27:49,279 --> 00:27:52,159
+context
+
+706
+00:27:50,000 --> 00:27:53,120
+i i'm a professional scrum trainer my
+
+707
+00:27:52,159 --> 00:27:56,320
+recommendation
+
+708
+00:27:53,120 --> 00:27:57,039
+is uh to use scrum as your scaffolding
+
+709
+00:27:56,320 --> 00:27:59,919
+for
+
+710
+00:27:57,039 --> 00:28:01,360
+project management and then flow to flow
+
+711
+00:27:59,919 --> 00:28:03,840
+techniques to manage your work that
+
+712
+00:28:01,360 --> 00:28:05,919
+would be my general recommendation
+
+713
+00:28:03,840 --> 00:28:07,039
+but flow in a scrum process those core
+
+714
+00:28:05,919 --> 00:28:09,200
+practices
+
+715
+00:28:07,039 --> 00:28:10,159
+are that defining and visualizing your
+
+716
+00:28:09,200 --> 00:28:12,240
+work
+
+717
+00:28:10,159 --> 00:28:13,279
+limiting the working process we have to
+
+718
+00:28:12,240 --> 00:28:15,760
+measure it and then
+
+719
+00:28:13,279 --> 00:28:17,200
+actively managing those items and the
+
+720
+00:28:15,760 --> 00:28:20,320
+actively managing
+
+721
+00:28:17,200 --> 00:28:21,840
+is uh super important there you're not
+
+722
+00:28:20,320 --> 00:28:23,440
+actively managing if you're just
+
+723
+00:28:21,840 --> 00:28:25,520
+ignoring stuff and letting it flow
+
+724
+00:28:23,440 --> 00:28:27,919
+through the sprint you need to actually
+
+725
+00:28:25,520 --> 00:28:29,200
+go decide whether you need to do
+
+726
+00:28:27,919 --> 00:28:30,240
+something extra whether you need to
+
+727
+00:28:29,200 --> 00:28:33,600
+change what you're doing
+
+728
+00:28:30,240 --> 00:28:34,720
+inside of that process and inspecting
+
+729
+00:28:33,600 --> 00:28:36,559
+and adapting
+
+730
+00:28:34,720 --> 00:28:38,480
+your workflow you need to constantly
+
+731
+00:28:36,559 --> 00:28:41,120
+make changes to your workflow
+
+732
+00:28:38,480 --> 00:28:42,399
+see how it affects the data one of the
+
+733
+00:28:41,120 --> 00:28:43,440
+things that i mentioned which is the
+
+734
+00:28:42,399 --> 00:28:46,559
+most common
+
+735
+00:28:43,440 --> 00:28:49,360
+uh uh thing that we talk about in
+
+736
+00:28:46,559 --> 00:28:50,320
+any flow techniques is reducing batch
+
+737
+00:28:49,360 --> 00:28:53,600
+size
+
+738
+00:28:50,320 --> 00:28:56,880
+making batches smaller will help us
+
+739
+00:28:53,600 --> 00:28:59,919
+deliver things more quickly
+
+740
+00:28:56,880 --> 00:29:03,120
+so i would like to um
+
+741
+00:28:59,919 --> 00:29:07,360
+do another little exercise in
+
+742
+00:29:03,120 --> 00:29:10,880
+mural so i have let's
+
+743
+00:29:07,360 --> 00:29:13,440
+where did i put it in
+
+744
+00:29:10,880 --> 00:29:17,760
+the mural nope that's not what i wanted
+
+745
+00:29:13,440 --> 00:29:17,760
+to do it's a tab that's already there
+
+746
+00:29:18,159 --> 00:29:24,640
+there it is um in the mural there's a
+
+747
+00:29:21,840 --> 00:29:26,320
+third exercise in number three batches
+
+748
+00:29:24,640 --> 00:29:28,640
+in scrum
+
+749
+00:29:26,320 --> 00:29:29,600
+uh and three people are following me let
+
+750
+00:29:28,640 --> 00:29:31,520
+me just summon
+
+751
+00:29:29,600 --> 00:29:33,840
+everyone and then i'll not i'll not zoom
+
+752
+00:29:31,520 --> 00:29:37,279
+so i get nine people following me now
+
+753
+00:29:33,840 --> 00:29:39,919
+what i'd like you to do is create a
+
+754
+00:29:37,279 --> 00:29:41,440
+sticky for everything that you think is
+
+755
+00:29:39,919 --> 00:29:44,320
+a batch
+
+756
+00:29:41,440 --> 00:29:45,679
+in scrum what are what are batches in
+
+757
+00:29:44,320 --> 00:29:47,279
+this scrum world so i'm gonna i'm gonna
+
+758
+00:29:45,679 --> 00:29:48,720
+put two minutes on the time box your
+
+759
+00:29:47,279 --> 00:29:50,159
+smart group should be able to do this in
+
+760
+00:29:48,720 --> 00:29:52,480
+two minutes
+
+761
+00:29:50,159 --> 00:29:54,799
+um and we need to come up with a list of
+
+762
+00:29:52,480 --> 00:29:56,399
+those batches so think of things that
+
+763
+00:29:54,799 --> 00:29:58,159
+you would be counted by actually
+
+764
+00:29:56,399 --> 00:30:01,200
+deliverable definitely
+
+765
+00:29:58,159 --> 00:30:02,640
+uh a thing that is a batch
+
+766
+00:30:01,200 --> 00:30:04,880
+what what would you call that in the
+
+767
+00:30:02,640 --> 00:30:06,480
+scrum world
+
+768
+00:30:04,880 --> 00:30:08,720
+we can have that as an additional sticky
+
+769
+00:30:06,480 --> 00:30:11,600
+next to it oh the increment
+
+770
+00:30:08,720 --> 00:30:12,399
+okay yes definitely the increment is a
+
+771
+00:30:11,600 --> 00:30:15,200
+batch
+
+772
+00:30:12,399 --> 00:30:16,320
+thank you for for making that clearer i
+
+773
+00:30:15,200 --> 00:30:19,360
+was not 100
+
+774
+00:30:16,320 --> 00:30:20,320
+on that for those uh there are nine
+
+775
+00:30:19,360 --> 00:30:23,200
+people here
+
+776
+00:30:20,320 --> 00:30:23,679
+there are how many participants are
+
+777
+00:30:23,200 --> 00:30:27,520
+there
+
+778
+00:30:23,679 --> 00:30:31,360
+in the there are 12 participants
+
+779
+00:30:27,520 --> 00:30:32,399
+in the call in the chat you should be
+
+780
+00:30:31,360 --> 00:30:35,440
+able to see
+
+781
+00:30:32,399 --> 00:30:37,919
+a link for the
+
+782
+00:30:35,440 --> 00:30:40,000
+mural i'm gonna post it again i see uh
+
+783
+00:30:37,919 --> 00:30:42,159
+marty has also posted it again
+
+784
+00:30:40,000 --> 00:30:43,840
+because folks that are new in will not
+
+785
+00:30:42,159 --> 00:30:45,039
+see it but i will post it again so folks
+
+786
+00:30:43,840 --> 00:30:47,919
+can get in
+
+787
+00:30:45,039 --> 00:30:48,799
+thank you uh marty for that that's very
+
+788
+00:30:47,919 --> 00:30:51,919
+useful
+
+789
+00:30:48,799 --> 00:30:53,200
+as we get pbis in the sprint backlog
+
+790
+00:30:51,919 --> 00:30:56,640
+so are you saying that the sprint
+
+791
+00:30:53,200 --> 00:30:59,200
+backlog is a batch or that the pbis
+
+792
+00:30:56,640 --> 00:31:00,080
+are a batch or both maybe you need two
+
+793
+00:30:59,200 --> 00:31:02,840
+stickies
+
+794
+00:31:00,080 --> 00:31:04,480
+i would count them as two separate
+
+795
+00:31:02,840 --> 00:31:07,360
+things
+
+796
+00:31:04,480 --> 00:31:09,120
+does anybody else like would like to add
+
+797
+00:31:07,360 --> 00:31:10,320
+a few things to this list sprint backlog
+
+798
+00:31:09,120 --> 00:31:14,000
+yes thank you very much
+
+799
+00:31:10,320 --> 00:31:17,360
+visiting visiting dragon bracket the
+
+800
+00:31:14,000 --> 00:31:20,480
+sea lion awesome
+
+801
+00:31:17,360 --> 00:31:20,480
+is there any um
+
+802
+00:31:21,760 --> 00:31:26,159
+anybody else going to add something
+
+803
+00:31:22,799 --> 00:31:26,159
+there's 25 seconds left
+
+804
+00:31:27,360 --> 00:31:33,840
+retrospective commitments
+
+805
+00:31:34,240 --> 00:31:38,480
+perfect thank you visiting c-line i'm
+
+806
+00:31:36,720 --> 00:31:42,399
+going to add a couple as well
+
+807
+00:31:38,480 --> 00:31:44,840
+um i'm going to say pbis
+
+808
+00:31:42,399 --> 00:31:48,000
+product backlog items whether you call
+
+809
+00:31:44,840 --> 00:31:51,279
+them uh
+
+810
+00:31:48,000 --> 00:31:53,519
+stories or
+
+811
+00:31:51,279 --> 00:31:54,320
+our requirements whatever you call those
+
+812
+00:31:53,519 --> 00:31:57,360
+things
+
+813
+00:31:54,320 --> 00:32:01,519
+um so we've got uh the sprint backlog
+
+814
+00:31:57,360 --> 00:32:05,200
+pbis uh the increment uh
+
+815
+00:32:01,519 --> 00:32:08,399
+retro next actions these are all uh uh
+
+816
+00:32:05,200 --> 00:32:09,360
+batches in scrum and one of the things
+
+817
+00:32:08,399 --> 00:32:14,159
+that we
+
+818
+00:32:09,360 --> 00:32:17,519
+try and uh do once we start
+
+819
+00:32:14,159 --> 00:32:20,399
+looking at our flow techniques
+
+820
+00:32:17,519 --> 00:32:23,360
+is we start reducing the batch size for
+
+821
+00:32:20,399 --> 00:32:26,559
+as many things as possible
+
+822
+00:32:23,360 --> 00:32:29,120
+so we want to reduce the size of our
+
+823
+00:32:26,559 --> 00:32:30,559
+pbis the things from our product backlog
+
+824
+00:32:29,120 --> 00:32:34,480
+that we're taking through
+
+825
+00:32:30,559 --> 00:32:35,200
+on average um i see scrum teams taking
+
+826
+00:32:34,480 --> 00:32:38,799
+on
+
+827
+00:32:35,200 --> 00:32:40,960
+maybe 8 to 12 things per sprint
+
+828
+00:32:38,799 --> 00:32:42,159
+that's just a vague average from my
+
+829
+00:32:40,960 --> 00:32:46,080
+experience
+
+830
+00:32:42,159 --> 00:32:48,559
+um but teams that monitor flow
+
+831
+00:32:46,080 --> 00:32:50,320
+have that go up to 70 or 80 things
+
+832
+00:32:48,559 --> 00:32:52,159
+because they're making each of those
+
+833
+00:32:50,320 --> 00:32:55,360
+pieces of value
+
+834
+00:32:52,159 --> 00:32:56,640
+much smaller which means they flow much
+
+835
+00:32:55,360 --> 00:32:59,679
+more quickly
+
+836
+00:32:56,640 --> 00:33:02,720
+through the system and once you have a
+
+837
+00:32:59,679 --> 00:33:03,039
+flow based system you can start looking
+
+838
+00:33:02,720 --> 00:33:06,559
+at
+
+839
+00:33:03,039 --> 00:33:09,039
+how you can break down that batch
+
+840
+00:33:06,559 --> 00:33:10,960
+of the increment are you doing
+
+841
+00:33:09,039 --> 00:33:13,440
+continuous delivery
+
+842
+00:33:10,960 --> 00:33:15,279
+are you using devops practices to
+
+843
+00:33:13,440 --> 00:33:16,000
+continuously deliver your product to
+
+844
+00:33:15,279 --> 00:33:18,320
+production
+
+845
+00:33:16,000 --> 00:33:19,679
+and what engineering practices do you
+
+846
+00:33:18,320 --> 00:33:22,720
+use to make sure that you
+
+847
+00:33:19,679 --> 00:33:23,039
+always have a good product to be able to
+
+848
+00:33:22,720 --> 00:33:26,080
+ship
+
+849
+00:33:23,039 --> 00:33:30,320
+to production uh so once you have that
+
+850
+00:33:26,080 --> 00:33:33,039
+you can then start flowing work
+
+851
+00:33:30,320 --> 00:33:34,880
+across the sprint boundary because we
+
+852
+00:33:33,039 --> 00:33:36,000
+always have working software we're
+
+853
+00:33:34,880 --> 00:33:38,480
+always shipping
+
+854
+00:33:36,000 --> 00:33:40,080
+every commit to source control in a
+
+855
+00:33:38,480 --> 00:33:43,360
+continuous delivery world
+
+856
+00:33:40,080 --> 00:33:45,760
+ends up in production therefore
+
+857
+00:33:43,360 --> 00:33:46,480
+um we have the engineering practices in
+
+858
+00:33:45,760 --> 00:33:48,880
+place
+
+859
+00:33:46,480 --> 00:33:50,960
+to hide things that are not finished yet
+
+860
+00:33:48,880 --> 00:33:54,240
+maybe we're using feature flags
+
+861
+00:33:50,960 --> 00:33:56,559
+and still ship to production we can then
+
+862
+00:33:54,240 --> 00:33:58,320
+have a piece of work that well we didn't
+
+863
+00:33:56,559 --> 00:33:59,919
+quite finish it in this sprint but we're
+
+864
+00:33:58,320 --> 00:34:00,399
+going to finish it in the next print and
+
+865
+00:33:59,919 --> 00:34:03,360
+it just
+
+866
+00:34:00,399 --> 00:34:05,039
+flows right across the sprint boundary
+
+867
+00:34:03,360 --> 00:34:08,240
+then scrum becomes
+
+868
+00:34:05,039 --> 00:34:11,200
+that container for planning and
+
+869
+00:34:08,240 --> 00:34:12,079
+flow management techniques are used for
+
+870
+00:34:11,200 --> 00:34:14,480
+delivery
+
+871
+00:34:12,079 --> 00:34:16,720
+and that's very powerful we're using
+
+872
+00:34:14,480 --> 00:34:20,079
+flow in our production line
+
+873
+00:34:16,720 --> 00:34:24,000
+but we're using a two-week iterative
+
+874
+00:34:20,079 --> 00:34:24,800
+cycle for our cognitive uh ideation and
+
+875
+00:34:24,000 --> 00:34:30,240
+planning
+
+876
+00:34:24,800 --> 00:34:33,200
+cycle that's that's uh really powerful
+
+877
+00:34:30,240 --> 00:34:34,000
+so then at the individual events in
+
+878
+00:34:33,200 --> 00:34:36,159
+scrum we can
+
+879
+00:34:34,000 --> 00:34:39,119
+actually have different completely
+
+880
+00:34:36,159 --> 00:34:42,480
+different conversations
+
+881
+00:34:39,119 --> 00:34:45,119
+when we're at our our daily scrum
+
+882
+00:34:42,480 --> 00:34:46,720
+we're not necessarily focused on the
+
+883
+00:34:45,119 --> 00:34:49,760
+individual anymore
+
+884
+00:34:46,720 --> 00:34:51,599
+what did i do to to
+
+885
+00:34:49,760 --> 00:34:53,679
+what did i do yesterday what am i doing
+
+886
+00:34:51,599 --> 00:34:55,599
+today what am i
+
+887
+00:34:53,679 --> 00:34:57,200
+going to do tomorrow yeah anything
+
+888
+00:34:55,599 --> 00:35:00,240
+that's blocking me
+
+889
+00:34:57,200 --> 00:35:01,599
+we're looking at things on the board and
+
+890
+00:35:00,240 --> 00:35:04,079
+saying
+
+891
+00:35:01,599 --> 00:35:05,359
+why is this thing not moving why is it
+
+892
+00:35:04,079 --> 00:35:07,040
+here so long
+
+893
+00:35:05,359 --> 00:35:08,800
+oh this one's not been here that long
+
+894
+00:35:07,040 --> 00:35:11,200
+but this one's been here really long so
+
+895
+00:35:08,800 --> 00:35:14,640
+let's focus on this one instead
+
+896
+00:35:11,200 --> 00:35:17,599
+um what can we do to move this item
+
+897
+00:35:14,640 --> 00:35:18,000
+forward to get it closer to the end of
+
+898
+00:35:17,599 --> 00:35:21,760
+that
+
+899
+00:35:18,000 --> 00:35:23,359
+process and things like going right to
+
+900
+00:35:21,760 --> 00:35:25,359
+left on the board
+
+901
+00:35:23,359 --> 00:35:27,119
+help with that because you've got a pool
+
+902
+00:35:25,359 --> 00:35:28,079
+process you're not pushing work through
+
+903
+00:35:27,119 --> 00:35:31,119
+this process
+
+904
+00:35:28,079 --> 00:35:34,160
+it's being pulled from the right uh from
+
+905
+00:35:31,119 --> 00:35:36,320
+from the left to the right yeah
+
+906
+00:35:34,160 --> 00:35:38,000
+pooled uh i don't think i've got my
+
+907
+00:35:36,320 --> 00:35:41,280
+terminology quite right there but i
+
+908
+00:35:38,000 --> 00:35:41,839
+think you know what i mean and it allows
+
+909
+00:35:41,280 --> 00:35:44,079
+us to
+
+910
+00:35:41,839 --> 00:35:45,200
+to really have better conversations
+
+911
+00:35:44,079 --> 00:35:48,640
+about that work
+
+912
+00:35:45,200 --> 00:35:50,720
+and the thing that allows us to see uh
+
+913
+00:35:48,640 --> 00:35:52,000
+when things have been sitting too long
+
+914
+00:35:50,720 --> 00:35:54,960
+uh measuring
+
+915
+00:35:52,000 --> 00:35:55,839
+measuring latency what one easy way to
+
+916
+00:35:54,960 --> 00:35:57,280
+do it
+
+917
+00:35:55,839 --> 00:35:59,040
+it says they're right the date on the
+
+918
+00:35:57,280 --> 00:36:02,079
+back of the cards i've seen
+
+919
+00:35:59,040 --> 00:36:05,440
+dot voting uh so you just put every day
+
+920
+00:36:02,079 --> 00:36:07,359
+put a dot on the card and the cards with
+
+921
+00:36:05,440 --> 00:36:09,440
+the most dots that are still in progress
+
+922
+00:36:07,359 --> 00:36:12,880
+are the things you want to focus on
+
+923
+00:36:09,440 --> 00:36:16,480
+uh jessica really liked that idea
+
+924
+00:36:12,880 --> 00:36:16,960
+of sticking a a banana peel to the item
+
+925
+00:36:16,480 --> 00:36:18,720
+and the
+
+926
+00:36:16,960 --> 00:36:19,839
+browner the banana peel the longer it's
+
+927
+00:36:18,720 --> 00:36:20,400
+been sitting there you don't want it
+
+928
+00:36:19,839 --> 00:36:24,400
+sitting there
+
+929
+00:36:20,400 --> 00:36:27,040
+too long or it'll start to smell um
+
+930
+00:36:24,400 --> 00:36:27,520
+but one of the things that we often use
+
+931
+00:36:27,040 --> 00:36:30,880
+and the
+
+932
+00:36:27,520 --> 00:36:34,000
+graph that we use uh there is a is a
+
+933
+00:36:30,880 --> 00:36:37,040
+um histogram with whip limits
+
+934
+00:36:34,000 --> 00:36:40,480
+um and the green is uh you can see the
+
+935
+00:36:37,040 --> 00:36:41,680
+the 50 70 85 95 i'm going to talk about
+
+936
+00:36:40,480 --> 00:36:44,560
+competent
+
+937
+00:36:41,680 --> 00:36:45,920
+confidence levels in the next slide but
+
+938
+00:36:44,560 --> 00:36:49,520
+that's effectively
+
+939
+00:36:45,920 --> 00:36:52,560
+uh green is things are flowing awesome
+
+940
+00:36:49,520 --> 00:36:54,079
+at half of the things that we do end up
+
+941
+00:36:52,560 --> 00:36:57,200
+in that green bit
+
+942
+00:36:54,079 --> 00:37:01,040
+uh 70 of the things we do end up
+
+943
+00:36:57,200 --> 00:37:04,320
+in the light green 85 percent end up
+
+944
+00:37:01,040 --> 00:37:06,800
+in the yellow and 95 of things
+
+945
+00:37:04,320 --> 00:37:08,000
+are done within the orange so if
+
+946
+00:37:06,800 --> 00:37:12,560
+something's in the
+
+947
+00:37:08,000 --> 00:37:14,320
+red it is likely that it will not
+
+948
+00:37:12,560 --> 00:37:16,160
+be finished by the end of the sprint if
+
+949
+00:37:14,320 --> 00:37:18,960
+something's in the orange
+
+950
+00:37:16,160 --> 00:37:19,680
+it's could be a con it's a definitely a
+
+951
+00:37:18,960 --> 00:37:22,079
+concern
+
+952
+00:37:19,680 --> 00:37:23,359
+if something's in the yellow it's going
+
+953
+00:37:22,079 --> 00:37:25,520
+to be a concern
+
+954
+00:37:23,359 --> 00:37:27,359
+so you can see that progression and this
+
+955
+00:37:25,520 --> 00:37:28,720
+particular graph they're calculating it
+
+956
+00:37:27,359 --> 00:37:30,720
+per column
+
+957
+00:37:28,720 --> 00:37:32,240
+you can do it just overall which is what
+
+958
+00:37:30,720 --> 00:37:36,640
+i'm going to show you
+
+959
+00:37:32,240 --> 00:37:39,520
+next so we use the cycle times
+
+960
+00:37:36,640 --> 00:37:41,440
+scatter plot so we plot all of those
+
+961
+00:37:39,520 --> 00:37:42,880
+cycle times that we calculate how long
+
+962
+00:37:41,440 --> 00:37:46,480
+things are going to take
+
+963
+00:37:42,880 --> 00:37:49,680
+uh on the vertical axis here
+
+964
+00:37:46,480 --> 00:37:50,400
+uh so that is number of days so you can
+
+965
+00:37:49,680 --> 00:37:53,440
+see
+
+966
+00:37:50,400 --> 00:37:57,040
+uh seven days 10 days 12 days
+
+967
+00:37:53,440 --> 00:37:59,359
+at 16 days all the way up to 30 days
+
+968
+00:37:57,040 --> 00:38:00,240
+to deliver something and then along the
+
+969
+00:37:59,359 --> 00:38:02,560
+bottom is the
+
+970
+00:38:00,240 --> 00:38:04,640
+the date that it was finished and you
+
+971
+00:38:02,560 --> 00:38:05,599
+can see that some of the items have uh
+
+972
+00:38:04,640 --> 00:38:07,040
+uh maybe you can
+
+973
+00:38:05,599 --> 00:38:09,200
+maybe need to zoom in for that have a
+
+974
+00:38:07,040 --> 00:38:12,240
+four in them how many items
+
+975
+00:38:09,200 --> 00:38:12,960
+uh uh were in that four oh sorry four
+
+976
+00:38:12,240 --> 00:38:15,440
+items were
+
+977
+00:38:12,960 --> 00:38:18,160
+were in that particular point in time
+
+978
+00:38:15,440 --> 00:38:20,960
+the horizontal dotted lines with the 50
+
+979
+00:38:18,160 --> 00:38:24,240
+75 85 and 95
+
+980
+00:38:20,960 --> 00:38:28,640
+are um calculated
+
+981
+00:38:24,240 --> 00:38:30,640
+that 50 of all the items
+
+982
+00:38:28,640 --> 00:38:32,000
+displayed on this graph are below that
+
+983
+00:38:30,640 --> 00:38:33,920
+50 line
+
+984
+00:38:32,000 --> 00:38:36,400
+75 percent of all the items are below
+
+985
+00:38:33,920 --> 00:38:39,440
+the 78 line 85
+
+986
+00:38:36,400 --> 00:38:40,480
+same as you go up and the prediction on
+
+987
+00:38:39,440 --> 00:38:44,160
+the left
+
+988
+00:38:40,480 --> 00:38:46,880
+is the seven days 50 of all the things
+
+989
+00:38:44,160 --> 00:38:48,640
+we do based on this data will be
+
+990
+00:38:46,880 --> 00:38:51,200
+delivered in seven days
+
+991
+00:38:48,640 --> 00:38:52,480
+but if you go all the way up to 85 it's
+
+992
+00:38:51,200 --> 00:38:55,040
+16 days
+
+993
+00:38:52,480 --> 00:38:56,880
+so we can say for sure for this
+
+994
+00:38:55,040 --> 00:39:01,520
+particular team
+
+995
+00:38:56,880 --> 00:39:04,000
+that 85 of the time
+
+996
+00:39:01,520 --> 00:39:05,920
+anything we bring into their sprint is
+
+997
+00:39:04,000 --> 00:39:08,400
+finished in 16 days or less
+
+998
+00:39:05,920 --> 00:39:08,400
+anything
+
+999
+00:39:09,040 --> 00:39:12,400
+that's a really powerful measure that's
+
+1000
+00:39:11,200 --> 00:39:15,839
+a concrete
+
+1001
+00:39:12,400 --> 00:39:19,119
+statistical measure there is some leeway
+
+1002
+00:39:15,839 --> 00:39:22,240
+there there is some space for
+
+1003
+00:39:19,119 --> 00:39:25,520
+for concern but 85 is pretty
+
+1004
+00:39:22,240 --> 00:39:28,960
+pretty sure remember we're
+
+1005
+00:39:25,520 --> 00:39:32,560
+working on creative work so more is
+
+1006
+00:39:28,960 --> 00:39:36,480
+unknown than known so if we get a
+
+1007
+00:39:32,560 --> 00:39:39,040
+a 16 day uh
+
+1008
+00:39:36,480 --> 00:39:40,720
+85 percent then that's pretty good but i
+
+1009
+00:39:39,040 --> 00:39:42,880
+would ask a question
+
+1010
+00:39:40,720 --> 00:39:44,800
+i would ask if we're on a two-week
+
+1011
+00:39:42,880 --> 00:39:49,040
+sprint is 16 days
+
+1012
+00:39:44,800 --> 00:39:52,240
+okay and in fact it's not it's too slow
+
+1013
+00:39:49,040 --> 00:39:52,800
+so we can use those flow metrics in
+
+1014
+00:39:52,240 --> 00:39:56,079
+different
+
+1015
+00:39:52,800 --> 00:39:58,560
+events within our uh
+
+1016
+00:39:56,079 --> 00:39:59,760
+scrum in order to understand them a
+
+1017
+00:39:58,560 --> 00:40:02,640
+little bit better
+
+1018
+00:39:59,760 --> 00:40:04,800
+so we can use work item aging in our
+
+1019
+00:40:02,640 --> 00:40:06,480
+daily scrum to understand where we need
+
+1020
+00:40:04,800 --> 00:40:09,760
+to focus our time
+
+1021
+00:40:06,480 --> 00:40:13,040
+uh we can use cycle time in our retro
+
+1022
+00:40:09,760 --> 00:40:16,800
+retrospective to understand
+
+1023
+00:40:13,040 --> 00:40:20,000
+uh how things went during the sprint
+
+1024
+00:40:16,800 --> 00:40:22,000
+are we able to increase our
+
+1025
+00:40:20,000 --> 00:40:23,200
+confidence level that we're giving to
+
+1026
+00:40:22,000 --> 00:40:24,800
+our stakeholders
+
+1027
+00:40:23,200 --> 00:40:26,720
+what does that confidence level look
+
+1028
+00:40:24,800 --> 00:40:27,359
+like what can we do to improve it we can
+
+1029
+00:40:26,720 --> 00:40:31,440
+look at that
+
+1030
+00:40:27,359 --> 00:40:34,400
+that data there the cycle time
+
+1031
+00:40:31,440 --> 00:40:35,680
+we can use our work in process during
+
+1032
+00:40:34,400 --> 00:40:39,040
+the daily scrum
+
+1033
+00:40:35,680 --> 00:40:41,760
+to understand uh how things are
+
+1034
+00:40:39,040 --> 00:40:43,200
+are flowing again part of that uh aging
+
+1035
+00:40:41,760 --> 00:40:46,079
+data as well
+
+1036
+00:40:43,200 --> 00:40:47,760
+but also during our retro are are what
+
+1037
+00:40:46,079 --> 00:40:49,520
+do our whip limits make sense
+
+1038
+00:40:47,760 --> 00:40:50,960
+uh is work flowing well through the
+
+1039
+00:40:49,520 --> 00:40:52,800
+system do we need to do
+
+1040
+00:40:50,960 --> 00:40:54,160
+something about it and potentially at
+
+1041
+00:40:52,800 --> 00:40:55,760
+the review as well
+
+1042
+00:40:54,160 --> 00:40:58,560
+talking to our stakeholders get more
+
+1043
+00:40:55,760 --> 00:41:01,040
+credibility with your stakeholders
+
+1044
+00:40:58,560 --> 00:41:02,960
+and you can also use throughput during
+
+1045
+00:41:01,040 --> 00:41:06,160
+sprint planning our throughput
+
+1046
+00:41:02,960 --> 00:41:09,359
+is a concrete indication of
+
+1047
+00:41:06,160 --> 00:41:10,000
+what's happened in the past so we're
+
+1048
+00:41:09,359 --> 00:41:12,720
+able to
+
+1049
+00:41:10,000 --> 00:41:14,319
+use that to understand what we might
+
+1050
+00:41:12,720 --> 00:41:17,200
+potentially be able to do
+
+1051
+00:41:14,319 --> 00:41:21,040
+in the future it's a lot more it has a
+
+1052
+00:41:17,200 --> 00:41:24,880
+much higher degree of accuracy
+
+1053
+00:41:21,040 --> 00:41:27,359
+than velocity because
+
+1054
+00:41:24,880 --> 00:41:30,880
+we will have been able over a period of
+
+1055
+00:41:27,359 --> 00:41:33,760
+time to improve our predictability
+
+1056
+00:41:30,880 --> 00:41:34,960
+which is not possible using velocity and
+
+1057
+00:41:33,760 --> 00:41:36,880
+story points
+
+1058
+00:41:34,960 --> 00:41:38,319
+so we would use throughput during our
+
+1059
+00:41:36,880 --> 00:41:41,680
+planning our review
+
+1060
+00:41:38,319 --> 00:41:44,880
+and our our retro so this
+
+1061
+00:41:41,680 --> 00:41:48,319
+data will help us understand
+
+1062
+00:41:44,880 --> 00:41:51,760
+those things help us manage that work
+
+1063
+00:41:48,319 --> 00:41:53,280
+help us have uh build trust with our
+
+1064
+00:41:51,760 --> 00:41:56,560
+stakeholders
+
+1065
+00:41:53,280 --> 00:41:59,920
+by making uh uh
+
+1066
+00:41:56,560 --> 00:42:00,400
+that story of data and when things will
+
+1067
+00:41:59,920 --> 00:42:04,720
+be done
+
+1068
+00:42:00,400 --> 00:42:08,079
+a lot more at credible uh
+
+1069
+00:42:04,720 --> 00:42:10,240
+as a good quote you can definitely
+
+1070
+00:42:08,079 --> 00:42:11,680
+have a read of that later it's long but
+
+1071
+00:42:10,240 --> 00:42:13,680
+it's basically
+
+1072
+00:42:11,680 --> 00:42:15,119
+half your batch size things will get
+
+1073
+00:42:13,680 --> 00:42:16,800
+delivered faster
+
+1074
+00:42:15,119 --> 00:42:18,720
+um half and again things will get
+
+1075
+00:42:16,800 --> 00:42:21,680
+delivered faster again
+
+1076
+00:42:18,720 --> 00:42:22,160
+if you want to research at some stuff on
+
+1077
+00:42:21,680 --> 00:42:25,359
+this
+
+1078
+00:42:22,160 --> 00:42:26,160
+topic uh i've put some notes up there at
+
+1079
+00:42:25,359 --> 00:42:28,240
+little's law
+
+1080
+00:42:26,160 --> 00:42:29,280
+queuing theory continuous delivery no
+
+1081
+00:42:28,240 --> 00:42:32,400
+estimates
+
+1082
+00:42:29,280 --> 00:42:34,640
+and there is a guide from scrum.org that
+
+1083
+00:42:32,400 --> 00:42:36,560
+is an addendum to the scrum guide called
+
+1084
+00:42:34,640 --> 00:42:40,000
+the kanban guide for scrum teams
+
+1085
+00:42:36,560 --> 00:42:42,880
+about how you implement flow techniques
+
+1086
+00:42:40,000 --> 00:42:43,599
+within the empirical control system
+
+1087
+00:42:42,880 --> 00:42:47,040
+which is
+
+1088
+00:42:43,599 --> 00:42:51,119
+scrum and that can be very powerful
+
+1089
+00:42:47,040 --> 00:42:53,359
+so in the minute i have left
+
+1090
+00:42:51,119 --> 00:42:54,480
+i would like to open up for both
+
+1091
+00:42:53,359 --> 00:42:59,200
+questions
+
+1092
+00:42:54,480 --> 00:43:02,000
+and feedback um if you want you can
+
+1093
+00:42:59,200 --> 00:43:02,880
+unmute to ask questions i would also
+
+1094
+00:43:02,000 --> 00:43:06,079
+love
+
+1095
+00:43:02,880 --> 00:43:08,800
+uh for you to put feedback in
+
+1096
+00:43:06,079 --> 00:43:09,520
+the mural things in this talk you were
+
+1097
+00:43:08,800 --> 00:43:12,480
+happy with
+
+1098
+00:43:09,520 --> 00:43:13,920
+things uh you thought were meh and
+
+1099
+00:43:12,480 --> 00:43:17,280
+things that you didn't like
+
+1100
+00:43:13,920 --> 00:43:19,760
+as well as um anything that you think i
+
+1101
+00:43:17,280 --> 00:43:25,599
+can do to improve the talk
+
+1102
+00:43:19,760 --> 00:43:27,839
+um also questions does anybody have any
+
+1103
+00:43:25,599 --> 00:43:27,839
+questions
+
+1104
+00:43:45,920 --> 00:43:53,680
+yeah hi martin uh here are
+
+1105
+00:43:49,040 --> 00:43:56,000
+the the draw on speaking the drum guest
+
+1106
+00:43:53,680 --> 00:43:58,400
+what about what do you think about
+
+1107
+00:43:56,000 --> 00:44:00,560
+putting some metrics related more than
+
+1108
+00:43:58,400 --> 00:44:02,240
+you're talking about incomes about
+
+1109
+00:44:00,560 --> 00:44:04,640
+throughput but
+
+1110
+00:44:02,240 --> 00:44:06,960
+what do you recommend to a team that
+
+1111
+00:44:04,640 --> 00:44:07,680
+want to begin to focus on outcome or an
+
+1112
+00:44:06,960 --> 00:44:10,160
+output
+
+1113
+00:44:07,680 --> 00:44:11,599
+more than more than only predictability
+
+1114
+00:44:10,160 --> 00:44:16,079
+about
+
+1115
+00:44:11,599 --> 00:44:16,079
+uh if what they are really really
+
+1116
+00:44:16,160 --> 00:44:20,560
+what they are uh producing what is the
+
+1117
+00:44:18,480 --> 00:44:23,440
+real impact to the customer
+
+1118
+00:44:20,560 --> 00:44:25,200
+or so yeah and i think that that's yeah
+
+1119
+00:44:23,440 --> 00:44:28,079
+that that's an awesome question
+
+1120
+00:44:25,200 --> 00:44:29,599
+um so just to to paraphrase that so that
+
+1121
+00:44:28,079 --> 00:44:32,640
+i make sure i've got it right
+
+1122
+00:44:29,599 --> 00:44:36,000
+and the these metrics are awesome
+
+1123
+00:44:32,640 --> 00:44:37,920
+for uh monitoring delivery and improving
+
+1124
+00:44:36,000 --> 00:44:39,119
+delivery but that doesn't we could still
+
+1125
+00:44:37,920 --> 00:44:41,760
+be delivering a
+
+1126
+00:44:39,119 --> 00:44:42,319
+pile of crap to our customers um how do
+
+1127
+00:44:41,760 --> 00:44:45,040
+we
+
+1128
+00:44:42,319 --> 00:44:46,240
+monitor value that we're delivering to
+
+1129
+00:44:45,040 --> 00:44:48,560
+our customers
+
+1130
+00:44:46,240 --> 00:44:48,560
+is that
+
+1131
+00:44:49,359 --> 00:44:53,200
+your questions yeah yeah is it yeah just
+
+1132
+00:44:51,200 --> 00:44:54,960
+stopping the delivering crap yeah
+
+1133
+00:44:53,200 --> 00:44:57,040
+yeah something that doesn't deliver crap
+
+1134
+00:44:54,960 --> 00:44:59,920
+deliver more value um
+
+1135
+00:44:57,040 --> 00:45:01,839
+yeah that that's your measure no um so
+
+1136
+00:44:59,920 --> 00:45:05,119
+uh
+
+1137
+00:45:01,839 --> 00:45:07,119
+i talk about i i have i teach class uh
+
+1138
+00:45:05,119 --> 00:45:09,520
+called the the professional scrum with
+
+1139
+00:45:07,119 --> 00:45:12,240
+ux user experience
+
+1140
+00:45:09,520 --> 00:45:12,720
+and what it really is is how to uh how
+
+1141
+00:45:12,240 --> 00:45:17,200
+to
+
+1142
+00:45:12,720 --> 00:45:20,560
+what data do we use to optimize value
+
+1143
+00:45:17,200 --> 00:45:21,119
+and there's no concrete measures for
+
+1144
+00:45:20,560 --> 00:45:22,960
+that
+
+1145
+00:45:21,119 --> 00:45:24,480
+i could i would actually point you a
+
+1146
+00:45:22,960 --> 00:45:28,079
+little bit at the
+
+1147
+00:45:24,480 --> 00:45:30,240
+um ebm evidence-based management guide
+
+1148
+00:45:28,079 --> 00:45:33,280
+from scrum.org they have a bunch of
+
+1149
+00:45:30,240 --> 00:45:35,599
+starter measures that are very generic
+
+1150
+00:45:33,280 --> 00:45:37,119
+uh that are good for measuring change
+
+1151
+00:45:35,599 --> 00:45:38,560
+within your organization and are you
+
+1152
+00:45:37,119 --> 00:45:40,240
+improving and are you having happy
+
+1153
+00:45:38,560 --> 00:45:42,720
+customers because happy customers
+
+1154
+00:45:40,240 --> 00:45:43,520
+happy customers happy employees always
+
+1155
+00:45:42,720 --> 00:45:46,880
+good
+
+1156
+00:45:43,520 --> 00:45:49,280
+um but also for
+
+1157
+00:45:46,880 --> 00:45:50,960
+every single idea that your product
+
+1158
+00:45:49,280 --> 00:45:54,480
+owner has
+
+1159
+00:45:50,960 --> 00:45:55,520
+and they need to along with the scrum
+
+1160
+00:45:54,480 --> 00:45:57,599
+team
+
+1161
+00:45:55,520 --> 00:45:59,839
+understand what they're trying to
+
+1162
+00:45:57,599 --> 00:46:01,520
+achieve with it what behavior
+
+1163
+00:45:59,839 --> 00:46:03,839
+in your customers are you trying to
+
+1164
+00:46:01,520 --> 00:46:05,599
+change what are you trying to improve
+
+1165
+00:46:03,839 --> 00:46:07,440
+how are you going to measure that so
+
+1166
+00:46:05,599 --> 00:46:09,760
+it's specific to each
+
+1167
+00:46:07,440 --> 00:46:10,960
+backlog item it's part of that what that
+
+1168
+00:46:09,760 --> 00:46:12,640
+you're delivering
+
+1169
+00:46:10,960 --> 00:46:14,960
+so how you're going to measure that and
+
+1170
+00:46:12,640 --> 00:46:18,000
+then actually measure it
+
+1171
+00:46:14,960 --> 00:46:20,480
+so telemetry is your friend there
+
+1172
+00:46:18,000 --> 00:46:21,599
+are people actually using the feature
+
+1173
+00:46:20,480 --> 00:46:23,200
+that you built
+
+1174
+00:46:21,599 --> 00:46:25,599
+and are they using it in the way you
+
+1175
+00:46:23,200 --> 00:46:27,200
+expect is it creating that changing
+
+1176
+00:46:25,599 --> 00:46:28,880
+behavior for the users
+
+1177
+00:46:27,200 --> 00:46:31,040
+that you expect so you have to be able
+
+1178
+00:46:28,880 --> 00:46:32,400
+to model the existing behavior and then
+
+1179
+00:46:31,040 --> 00:46:35,040
+see the change
+
+1180
+00:46:32,400 --> 00:46:36,160
+i i usually use app insights application
+
+1181
+00:46:35,040 --> 00:46:39,520
+insights
+
+1182
+00:46:36,160 --> 00:46:40,319
+uh for that works on any any tech any
+
+1183
+00:46:39,520 --> 00:46:42,800
+platform
+
+1184
+00:46:40,319 --> 00:46:43,440
+and it allows you to not only collect
+
+1185
+00:46:42,800 --> 00:46:45,200
+the base
+
+1186
+00:46:43,440 --> 00:46:47,040
+data you know like some of the google
+
+1187
+00:46:45,200 --> 00:46:47,839
+analytics stuff plus the server-side
+
+1188
+00:46:47,040 --> 00:46:51,280
+stuff
+
+1189
+00:46:47,839 --> 00:46:54,240
+um but also add your own
+
+1190
+00:46:51,280 --> 00:46:55,680
+custom metrics that are about how your
+
+1191
+00:46:54,240 --> 00:46:57,200
+application functions how that
+
+1192
+00:46:55,680 --> 00:47:00,240
+particular feature works
+
+1193
+00:46:57,200 --> 00:47:01,040
+and and and monitor that data is your
+
+1194
+00:47:00,240 --> 00:47:03,440
+friend
+
+1195
+00:47:01,040 --> 00:47:05,440
+honestly data's your friend customers
+
+1196
+00:47:03,440 --> 00:47:07,359
+lie
+
+1197
+00:47:05,440 --> 00:47:08,720
+remember that customers lie data
+
+1198
+00:47:07,359 --> 00:47:12,160
+generally doesn't although
+
+1199
+00:47:08,720 --> 00:47:13,200
+you can read it badly um so definitely
+
+1200
+00:47:12,160 --> 00:47:14,800
+good
+
+1201
+00:47:13,200 --> 00:47:16,880
+thank you for that question did i answer
+
+1202
+00:47:14,800 --> 00:47:16,880
+it
+
+1203
+00:47:18,720 --> 00:47:24,079
+yeah i was re i i i was writing yeah
+
+1204
+00:47:21,760 --> 00:47:24,960
+yeah thank you martin agree with the
+
+1205
+00:47:24,079 --> 00:47:28,160
+lies of
+
+1206
+00:47:24,960 --> 00:47:32,160
+our customers or yes
+
+1207
+00:47:28,160 --> 00:47:33,839
+what was it uh henry ford said if uh
+
+1208
+00:47:32,160 --> 00:47:38,000
+if if he'd listened to customers he
+
+1209
+00:47:33,839 --> 00:47:41,440
+would have created faster horses
+
+1210
+00:47:38,000 --> 00:47:44,240
+rather than the motor car um
+
+1211
+00:47:41,440 --> 00:47:44,240
+any other questions
+
+1212
+00:47:48,800 --> 00:47:52,720
+so if there's not any other questions i
+
+1213
+00:47:50,880 --> 00:47:55,040
+saw a couple of folks
+
+1214
+00:47:52,720 --> 00:47:55,760
+left there's probably other talks to go
+
+1215
+00:47:55,040 --> 00:47:57,520
+to
+
+1216
+00:47:55,760 --> 00:47:58,880
+let me skip to the last slide where i
+
+1217
+00:47:57,520 --> 00:48:02,640
+have a lovely
+
+1218
+00:47:58,880 --> 00:48:05,680
+uh link which i just noticed has
+
+1219
+00:48:02,640 --> 00:48:10,800
+uh o's and zeros
+
+1220
+00:48:05,680 --> 00:48:10,800
+uh without a good font so that is a
+
+1221
+00:48:11,720 --> 00:48:16,079
+oos2020
+
+1222
+00:48:12,880 --> 00:48:18,480
+ie 2020 a aos 2020
+
+1223
+00:48:16,079 --> 00:48:19,119
+at dash velocity and and that will get
+
+1224
+00:48:18,480 --> 00:48:22,800
+you
+
+1225
+00:48:19,119 --> 00:48:25,359
+this copy of the presentation
+
+1226
+00:48:22,800 --> 00:48:26,240
+um you'll be able to view it online and
+
+1227
+00:48:25,359 --> 00:48:28,960
+the recording
+
+1228
+00:48:26,240 --> 00:48:35,839
+i guess will go up at some point thank
+
+1229
+00:48:28,960 --> 00:48:35,839
+you very much for coming
+
+1230
+00:48:37,280 --> 00:48:41,119
+thank you marin you're welcome please
+
+1231
+00:48:39,839 --> 00:48:44,400
+feel free
+
+1232
+00:48:41,119 --> 00:48:44,400
+hook me up on linkedin
+
+1233
+00:48:44,640 --> 00:48:49,839
+i will gracias
+
+1234
+00:48:53,680 --> 00:49:04,000
+thank you martin my pleasure
+
+1235
+00:49:02,240 --> 00:49:17,040
+oh it's coffee break that means i could
+
+1236
+00:49:04,000 --> 00:49:19,119
+have kept going
+
+1237
+00:49:17,040 --> 00:49:19,119
+you
+
+

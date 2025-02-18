@@ -3,7 +3,7 @@ title: Worst agile advice you've ever heard?
 description: 'Discover the worst agile advice ever! Join Martin Hinshelwood as he highlights the pitfalls of focusing on agile mechanics over core values. #agile #scrum #shorts'
 date: 2023-05-09T09:30:04Z
 ResourceId: L6opxb0FYcU
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: L6opxb0FYcU
@@ -21,16 +21,30 @@ aliases:
 - /resources/videos/L6opxb0FYcU
 - /resources/worst-agile-advice-heard-
 - /resources/L6opxb0FYcU
+aliasesFor404:
+- /resources/worst-agile-advice-youve-ever-heard
+- /resources/worst-agile-advice-heard
+- /resources/videos/worst-agile-advice-heard-
+- /resources/worst-agile-advice-heard-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Dogma
-- Worst agile advice
-- Worst agile practice
-- Worst example of scrum
+- Scrum Master
+- Agile Values and Principles
+- Agile Frameworks
+- Team Performance
+- People and Process
+- Agile Project Management
+- Agile Philosophy
+- Agile Transformation
+- Software Development
+- Agile Product Management
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 **Worst agile advice you've ever heard?**

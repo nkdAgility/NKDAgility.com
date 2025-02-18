@@ -2,14 +2,13 @@
 title: Messenger United
 description: Discover Messenger United, an innovative application enhancing LinkedIn sync and integrating Microsoft services for seamless connectivity. Explore its features now!
 ResourceId: RvQ6ePytMFh
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 217
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-07-08
 creator: Martin Hinshelwood
-id: "217"
 layout: blog
 resourceTypes: blog
 slug: messenger-united
@@ -21,10 +20,13 @@ aliases:
 aliasesFor404:
 - /messenger-united
 - /blog/messenger-united
+- /resources/blog/messenger-united
 tags:
-- answers
-- tools
+- Products and Books
+- News and Reviews
+- Windows
 preview: nakedalm-logo-128-link-3-3.png
+categories: []
 
 ---
 Although the site is a little skewed today…

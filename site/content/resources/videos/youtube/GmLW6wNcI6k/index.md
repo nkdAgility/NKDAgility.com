@@ -3,7 +3,7 @@ title: What Does the Assessment Phase of a Consulting Engagement Look and Feel L
 description: Discover the assessment phase of agile consulting with NKD Agility. Martin Hinshelwood shares insights on tackling challenges and enhancing team performance.
 date: 2023-06-19T10:00:25Z
 ResourceId: GmLW6wNcI6k
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GmLW6wNcI6k
@@ -21,15 +21,30 @@ aliases:
 - /resources/videos/GmLW6wNcI6k
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 - /resources/GmLW6wNcI6k
+aliasesFor404:
+- /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
+- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
+- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Agile Consulting
-- Agile Consultant
+- People and Process
+- Discovery and Learning
+- Complexity Thinking
+- Pragmatic Thinking
+- Business Agility
+- Empirical Process Control
+- Market Adaptability
+- Personal
+- Agile Philosophy
+- Organisational Agility
 resourceTypes:
 - video
+categories:
+- DevOps
+- Social Technologies
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

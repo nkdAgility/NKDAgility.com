@@ -2,7 +2,7 @@
 title: 'Embrace Uniqueness: Why Creating Your Own Scaling Practices Leads to Business Success'
 description: Discover how creating unique scaling practices can drive your business success. Embrace your distinctiveness and foster agility for sustainable growth.
 ResourceId: rMAdB_yEwWb
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 49480
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2023-06-21
 AudioNative: true
 creator: Martin Hinshelwood
-id: "49480"
 layout: blog
 resourceTypes: blog
 slug: embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
@@ -26,11 +25,20 @@ aliasesFor404:
 - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 - /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+- /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
-- featured
-- homepage
+- Business Agility
+- Agile Strategy
+- Organisational Culture
+- People and Process
+- Enterprise Agility
+- Organisational Agility
+- Strategy
+- Pragmatic Thinking
+- Market Adaptability
+- Scaling Agility
 categories:
-- agility
+- Leadership
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 
 ---

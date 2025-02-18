@@ -3,7 +3,7 @@ title: Free Workshop 1 - Introduction to Agility and Building Awesome Teams
 description: Join our free workshop to explore agility, team building, and insights on Cynefin. Discover strategies for creating awesome teams and enhancing collaboration!
 date: 2021-08-06T04:49:25Z
 ResourceId: X2WJzWV_GiI
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: X2WJzWV_GiI
@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/free-workshop-1-introduction-to-agility-and-building-awesome-teams
 - /resources/free-workshop-1-introduction-to-agility-and-building-awesome-teams
 - /resources/X2WJzWV_GiI
+aliasesFor404:
+- /resources/videos/free-workshop-1-introduction-to-agility-and-building-awesome-teams
+- /resources/free-workshop-1-introduction-to-agility-and-building-awesome-teams
 preview: https://i.ytimg.com/vi/X2WJzWV_GiI/maxresdefault.jpg
 duration: 6360
 isShort: false
@@ -26,6 +29,12 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
+categories:
+- Leadership
+- Social Technologies
+tags:
+- Events and Presentations
+- People and Process
 
 ---
  00:00:00 Preamble

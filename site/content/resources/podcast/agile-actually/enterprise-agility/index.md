@@ -1,15 +1,25 @@
 ---
-id: "51188"
-title: "Enterprise Agility"
-date: "2024-01-25"
+title: Enterprise Agility
+description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
+ResourceId: SOXXjw2lnAK
+ResourceImport: false
+ResourceType: podcast
+date: 2024-01-25
 categories:
-  - "agility"
-author: "MrHinsh"
+- DevOps
+- Scrum
+- Social Technologies
+author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: "enterprise-agility"
----
+slug: enterprise-agility
+aliases:
+- /resources/SOXXjw2lnAK
+tags:
+- Transparency
+- Transparency and Accountability
 
+---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)
 
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of transparency, specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

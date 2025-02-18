@@ -2,14 +2,13 @@
 title: Adding ToolStripPanel UI Adapter Support to the Composite UI Application Block
 description: Learn how to enhance the Composite UI Application Block with ToolStripPanel support. Discover code solutions and best practices for UI adaptation.
 ResourceId: y_vlPh65_5Q
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 467
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-06-22
 creator: Martin Hinshelwood
-id: "467"
 layout: blog
 resourceTypes: blog
 slug: hinshelm-on-composite-ui-application-block
@@ -25,11 +24,15 @@ aliasesFor404:
 - /blog/hinshelm-on-composite-ui-application-block
 - /adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
+- /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
-- code
-- tools
+- Practical Techniques and Tooling
+- Software Development
+- Technical Mastery
+- Technical Excellence
+- Pragmatic Thinking
 categories:
-- code-and-complexity
+- Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

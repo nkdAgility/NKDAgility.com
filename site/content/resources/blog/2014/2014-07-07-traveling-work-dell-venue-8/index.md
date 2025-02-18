@@ -2,14 +2,13 @@
 title: Traveling for work and the Dell Venue 8
 description: Discover how the Dell Venue 8 enhances travel productivity for professionals. Join Martin Hinshelwood as he shares tips and insights from his journeys.
 ResourceId: Y8cHV08YFNc
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 10645
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-07
 creator: Martin Hinshelwood
-id: "10645"
 layout: blog
 resourceTypes: blog
 slug: traveling-work-dell-venue-8
@@ -25,14 +24,11 @@ aliasesFor404:
 - /blog/traveling-work-dell-venue-8
 - /traveling-for-work-and-the-dell-venue-8
 - /blog/traveling-for-work-and-the-dell-venue-8
+- /resources/blog/traveling-work-dell-venue-8
 tags:
-- consulting
-- dell-venue-8
-- surface-2
-- surface-2-pro
-- traveling
-categories:
-- news-and-reviews
+- Windows
+- Products and Books
+categories: []
 preview: nakedalm-windows-logo-4-4.png
 
 ---

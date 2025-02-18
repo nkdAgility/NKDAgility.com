@@ -1,40 +1,41 @@
 ---
 title: Agile Requirements Workshop
+description: Join our workshop to master agile requirements management! Learn to break down backlogs and enhance planning for successful projects and products.
+ResourceId: _Wnpjm9sqp4
+ResourceImport: true
+ResourceType: course
 date: 2013-09-06
 creator: Martin Hinshelwood
-id: "10107"
 type: course
 slug: agile-requirements-workshop
-url:
+url: 
 aliases:
-  - agile-requirements-workshop-1-day
-  - /training-courses/agile-requirements-workshop/
+- agile-requirements-workshop-1-day
+- /training-courses/agile-requirements-workshop/
+- /resources/_Wnpjm9sqp4
+aliasesFor404:
+- agile-requirements-workshop-1-day
+- /training-courses/agile-requirements-workshop/
 course-topics:
-  - Agile Training Courses
+- Agile Training Courses
 course-vendors:
-  - NKDAgility
+- NKDAgility
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - Teams
-  - Product Owners
+- Teams
+- Product Owners
 tags:
-  - agile
-  - agility
-  - backlog
-  - business-agility
-  - modern-alm
-  - product-backlog-items
-  - product-backog
-  - professional-scrum
-  - requirements
-  - user-stories
-  - workshop
+- Events and Presentations
+- Agile Project Management
+- Software Development
 categories:
-  - tools-and-techniques
+- Scrum
+- Social Technologies
+- Product Management
 preview: nakedalm-experts-visual-studio-alm.png
 previewIcon: NKD-AR.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -45,18 +46,18 @@ level: intermediate
 introduction: |2
 
   In this course we work against your backlog, and your backlog items.
-overview:
-outcomes:
-assessment:
-objectives:
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+overview: 
+outcomes: 
+assessment: 
+objectives: 
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 This workshop includes guided discussion focusing on agile requirements management and planning practices for agile teams, projects, and products. Covers medium and long term planning needs and results in a backlog for the steps needed to establish a solid requirements management practice within your organisation.
 
 We start by diving into a piece of work that has already been delivered. Hindsight gives the team the ability to really break the desirement down into the things that they really did deliver.

@@ -2,14 +2,13 @@
 title: 'Video: New with Visual Studio 2013: Manage portfolio backlogs to understand the scope of work'
 description: Discover how to effectively manage portfolio backlogs in Visual Studio 2013 to enhance your project scope understanding. Watch the video for insights!
 ResourceId: i-oFFVJd0PN
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9718
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-18
 creator: Martin Hinshelwood
-id: "9718"
 layout: blog
 resourceTypes: blog
 slug: video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
@@ -25,16 +24,15 @@ aliasesFor404:
 - /blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /blog/video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
+- /resources/blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 tags:
-- define
-- improve
-- operational
-- portfolio-management
-- practices
-- process
-- tfs-2013
+- Practical Techniques and Tooling
+- Portfolio Management
+- Agile Planning Tools
+- Software Development
 categories:
-- tools-and-techniques
+- Product Management
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

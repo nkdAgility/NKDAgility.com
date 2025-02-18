@@ -2,7 +2,7 @@
 title: Story Points & Velocity are a sign of an unsuccessful team
 description: Discover why relying on Story Points and Velocity may hinder your Scrum team's success. Learn to embrace true agility and enhance your team's adaptability.
 ResourceId: ICuFIMyhnwj
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 44532
 ResourceImportSource: Wordpress
@@ -10,7 +10,6 @@ ResourceImportOriginalSource: Wordpress
 date: 2021-01-04
 AudioNative: true
 creator: Martin Hinshelwood
-id: "44532"
 layout: blog
 resourceTypes: blog
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team
@@ -26,13 +25,21 @@ aliasesFor404:
 - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 - /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
+- /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
-- daily-scrum
-- featured
-- leadership-track
+- Transparency
+- Estimation
+- Increment
+- Agile Product Management
+- Agile Project Management
+- Metrics and Learning
+- Cycle Time
+- Transparency and Accountability
+- Agile Planning
+- Scrum Product Development
 categories:
-- agility
-- measure-and-learn
+- Scrum
+- Social Technologies
 preview: image-9-14-14.png
 
 ---

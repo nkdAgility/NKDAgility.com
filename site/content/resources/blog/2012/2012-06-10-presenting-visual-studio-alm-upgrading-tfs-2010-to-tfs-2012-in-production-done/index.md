@@ -2,14 +2,13 @@
 title: Presenting Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in production – Done
 description: Discover how to successfully upgrade from TFS 2010 to TFS 2012 and unlock the full potential of Visual Studio ALM for your organization. Learn more!
 ResourceId: XVaSDKBKQvb
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 5432
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-10
 creator: Martin Hinshelwood
-id: "5432"
 layout: blog
 resourceTypes: blog
 slug: presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
@@ -25,22 +24,20 @@ aliasesFor404:
 - /blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 - /presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 - /blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
+- /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 tags:
-- configuration
-- infrastructure
-- modern-alm
-- practices
-- process
-- tfs
-- tfs2010
-- tfs2012
-- tools
-- visual-studio
-- vs2010
-- vs2012
+- Software Development
+- People and Process
+- Products and Books
+- Events and Presentations
+- Application Lifecycle Management
+- Value Delivery
+- Working Software
+- Practical Techniques and Tooling
+- Azure DevOps
+- Product Delivery
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

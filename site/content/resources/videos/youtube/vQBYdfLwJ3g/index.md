@@ -1,58 +1,75 @@
 ---
-title: Why is the PSPO a great fit for the 8-week immersive learning experience?
-description: Discover how the PSPO course enhances the 8-week immersive learning experience, blending work and education for mastering product ownership.
+title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
+description: Unlock the potential of the Product Owner role! Discover how immersive learning bridges theory and practice, empowering you to drive real change in your organisation.
 date: 2023-06-09T07:00:27Z
 ResourceId: vQBYdfLwJ3g
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vQBYdfLwJ3g
 url: /resources/videos/:slug
 slug: why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=vQBYdfLwJ3g
 aliases:
 - /resources/videos/vQBYdfLwJ3g
 - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 - /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 - /resources/vQBYdfLwJ3g
+aliasesFor404:
+- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+- /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- PSPO
-- 8-week PSPO course
-- Immersive Learning
-- Immersive Learning experience
-- Immersive Learning PSPO course
-- Scrum.Org
-- Professional Scrum Product Owner
-- Scrum Training
-- Scrum Courses
-- Scrum Certification
+- Product Owner
+- Discovery and Learning
+- Agile Product Operating Model
+- People and Process
+- Agile Product Management
+- Continuous Learning
+- Agile Project Management
+- Agile Frameworks
+- Events and Presentations
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- Product Management
+- Social Technologies
+- Scrum
 
 ---
- The Professional Scrum Product Owner or PSPO course from Scrum.Org is a great fit for the new 8-week immersive learning experience because it enables you to learn, work, and transform the classroom environment into a real-world learning experience.
+As I reflect on the immersive learning experience of the Product Owner (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 
 
-In this short video, Martin Hinshelwood explains how you can combine your work and immersive learning experience to truly master product ownership.
+### Understanding the Product Owner Role
 
-About NKD Agility
+When we talk about the product owner, we’re essentially discussing an agile product manager. This role encompasses all the tools and techniques of product management, but it also requires a shift in mindset. The journey of a product owner can be likened to moving from being a mere scribe—the lowest form of product ownership—to becoming a mini CEO or entrepreneur of the product. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+- **Ownership**: At the pinnacle of this totem pole, the product owner has full fiscal and commercial accountability for their product within the organisation. This level of ownership allows them to engage with various aspects of the business that they may not have had access to previously.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+### Expanding Responsibilities
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+As product owners, we need to consider how we can integrate marketing, sales, and even contract negotiations into our roles. For instance, if you’re drafting contracts with customers, your involvement is crucial. The way you write those contracts can significantly impact how the work is delivered. 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Control and Influence**: While you may not have direct control over branding and marketing—especially in larger organisations—you can still influence these areas. Your voice should be respected at the table, and your insights valued. 
 
-We would love to work with you. 
+### The Immersive Learning Experience
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=vQBYdfLwJ3g)
+This immersive class is designed to bridge the gap between theoretical knowledge and practical application. It allows participants to connect the dots between what we discuss in class and what they need to implement in their organisations. 
+
+- **Empirical Learning**: The iterative and incremental nature of this experience encourages you to bring empiricism into your practice. You can try out new strategies in your organisation and return to share your findings with your peers. 
+
+Imagine a group of product owners who have all attempted the same activity in their respective organisations. They can come back and share their experiences, offering help and advice based on real-world applications. 
+
+- **Collaborative Insights**: For example, if one participant works at a bank and successfully navigates a conversation with their compliance director, they can share that insight with others facing similar challenges. This collaborative exchange of ideas can lead to innovative solutions and improved practices across the board.
+
+### Conclusion
+
+In conclusion, the immersive learning experience for product owners is not just about acquiring knowledge; it’s about fostering a community of practice where we can learn from one another. By engaging in these conversations and sharing our experiences, we can elevate our roles and become more effective in our organisations.
+
+If you found this discussion valuable, I encourage you to like, follow, and subscribe. I always welcome comments and would love to chat about agile, scrum, or DevOps. Feel free to book a coffee with me through Naked Agility. Let’s continue this journey together!

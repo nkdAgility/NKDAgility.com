@@ -3,7 +3,7 @@ title: What should have been way more popular in Agile than it currently is?
 description: "Unlock the secret to Agile success! Discover why principles, not just tools, are key to effective practices in this insightful video with Martin. \U0001F31F"
 date: 2023-05-03T07:00:33Z
 ResourceId: y2TObrUi3m0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: y2TObrUi3m0
@@ -16,19 +16,26 @@ aliases:
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 - /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 - /resources/y2TObrUi3m0
+aliasesFor404:
+- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
+- /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 isShort: false
 tags:
-- Agile
-- Agile product development
-- Agile project management
+- Agile Values and Principles
+- Agile Transformation
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
+- Product Management
 
 ---
  *Unlocking Agile Success: Beyond Tools and Techniques*

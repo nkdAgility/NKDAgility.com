@@ -2,14 +2,13 @@
 title: Interviewing for Microsoft
 description: Explore my journey interviewing for a dream job at Microsoft, the challenges faced, and valuable lessons learned in software development and public speaking.
 ResourceId: ldGtzdVxYwE
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 315
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-12
 creator: Martin Hinshelwood
-id: "315"
 layout: blog
 resourceTypes: blog
 slug: interviewing-for-microsoft
@@ -21,10 +20,13 @@ aliases:
 aliasesFor404:
 - /interviewing-for-microsoft
 - /blog/interviewing-for-microsoft
+- /resources/blog/interviewing-for-microsoft
 tags:
-- wcf
+- Personal
+- Miscellaneous
+- Continuous Learning
 categories:
-- me
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

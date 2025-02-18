@@ -2,14 +2,13 @@
 title: Improvements in Visual Studio ALM from the ALM Summit
 description: Discover the latest enhancements in Visual Studio ALM from the ALM Summit, including Git support, web-based test management, and Kanban improvements.
 ResourceId: E9mwcXKPJ0C
-ResourceType: blogpost
+ResourceType: blog
 ResourceImport: true
 ResourceImportId: 9239
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-02-08
 creator: Martin Hinshelwood
-id: "9239"
 layout: blog
 resourceTypes: blog
 slug: improvements-in-visual-studio-alm-from-the-alm-summit
@@ -21,22 +20,20 @@ aliases:
 aliasesFor404:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
+- /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
-- define
-- dvcs
-- git
-- infrastructure
-- kanban
-- modern-alm
-- operate
-- practices
-- test-hub
-- tfs2012-2
-- tools
-- wit-tagging
+- Events and Presentations
+- Application Lifecycle Management
+- Software Development
+- Modern Source Control
+- News and Reviews
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
+- Working Software
+- Operational Practices
 categories:
-- events-and-presentations
-- tools-and-techniques
+- Kanban
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

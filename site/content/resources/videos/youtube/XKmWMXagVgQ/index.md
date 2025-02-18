@@ -3,7 +3,7 @@ title: The Power of Continuous Learning for Product Owners
 description: "Unlock your potential as a product owner! Discover the power of continuous learning and stay ahead in the ever-evolving world of product management. \U0001F680"
 date: 2023-12-19T07:00:11Z
 ResourceId: XKmWMXagVgQ
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XKmWMXagVgQ
@@ -20,35 +20,23 @@ aliases:
 - /resources/videos/XKmWMXagVgQ
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/XKmWMXagVgQ
+aliasesFor404:
+- /resources/the-power-of-continuous-learning-for-product-owners
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile
-- Scrum
-- agile project management
-- agile product development
-- agile product management
-- project management
-- product development
-- product management
-- professional scrum trainer
-- scrum training
-- scrum certification
-- scrum.org
-- DevOps consultant
-- DevOps coach
-- DevOps engineer
-- agile coach
-- agile consultant
-- agile trainer
-- scrum framework
-- scrum methodology
-- scrum approach
-- agile leadership
-- leadership.
+- Product Owner
+- Continuous Learning
+- Discovery and Learning
+- Agile Product Management
+- Products and Books
 resourceTypes:
 - video
+categories:
+- Product Management
 
 ---
 As a new product owner, you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **continuous learning**.

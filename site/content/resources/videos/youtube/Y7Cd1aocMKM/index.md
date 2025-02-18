@@ -3,7 +3,7 @@ title: How effective is scrum training via digital delivery?
 description: Discover how digital scrum training transforms learning with engaging tools like LEGO and Minecraft, making agile practices accessible and effective!
 date: 2023-01-31T07:00:08Z
 ResourceId: Y7Cd1aocMKM
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Y7Cd1aocMKM
@@ -20,20 +20,27 @@ aliases:
 - /resources/videos/Y7Cd1aocMKM
 - /resources/how-effective-is-scrum-training-via-digital-delivery-
 - /resources/Y7Cd1aocMKM
+aliasesFor404:
+- /resources/how-effective-is-scrum-training-via-digital-delivery
+- /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
+- /resources/how-effective-is-scrum-training-via-digital-delivery-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum
-- Scrum Training
-- Scrum Certification
-- Online Training
-- Live
-- Agile
-- Agile Courses
-- Agile Training
+- People and Process
+- Agile Frameworks
+- Team Collaboration
+- Agile Project Management
+- Remote Working
+- Practical Techniques and Tooling
+- Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
+categories:
+- Scrum
+- Social Technologies
 
 ---
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.

@@ -2,9 +2,8 @@
 title: There Is No Such Thing as a "Junior" Scrum Master
 description: The idea of a junior Scrum Master is a fallacy. The Scrum Master is not an entry-level position and should be born fully formed!
 ResourceId: f2RQh2UCwqB
+ResourceType: blog
 ResourceImport: false
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2025-02-17T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
@@ -16,22 +15,26 @@ resourceTypes: blog
 slug: no-such-thing-as-a-junior-scrum-master
 aliases:
 - /resources/f2RQh2UCwqB
-- /no-such-thing-as-a-junior-scrum-master
-- /blog/no-such-thing-as-a-junior-scrum-master
-- /there-is-no-such-thing-as-a--junior--scrum-master
-- /blog/there-is-no-such-thing-as-a--junior--scrum-master
 aliasesFor404:
 - /no-such-thing-as-a-junior-scrum-master
 - /blog/no-such-thing-as-a-junior-scrum-master
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
+- Accountability
 - Scrum Master
-- Scrum
-- Competence
+- Agile Project Management
+- Scrum Team
+- Software Development
+- People and Process
+- Professional Scrum
+- Scrum Product Development
+- Agile Product Management
+- Team Performance
 categories:
-- People & Teams
+- Scrum
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
+marketing: []
 
 ---
 Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a Scrum Master. The idea of a “junior” Scrum Master is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the Scrum Team as a practitioner who has already demonstrated technical mastery, business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**

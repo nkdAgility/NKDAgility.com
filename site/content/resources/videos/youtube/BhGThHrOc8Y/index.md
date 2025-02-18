@@ -1,59 +1,74 @@
 ---
-title: People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are about people, not tools.
-description: "Discover the true essence of DevOps! Join Martin as he explores the people-driven philosophy behind successful implementations, beyond just tools. \U0001F680\U0001F4A1"
+title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
+description: Discover the true essence of DevOps beyond tools. Learn how to leverage its principles for enhanced collaboration and product quality in software development.
 date: 2023-06-07T07:00:02Z
 ResourceId: BhGThHrOc8Y
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BhGThHrOc8Y
 url: /resources/videos/:slug
 slug: people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=BhGThHrOc8Y
 aliases:
 - /resources/videos/BhGThHrOc8Y
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 - /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 - /resources/BhGThHrOc8Y
+aliasesFor404:
+- /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false
 tags:
-- DevOps
-- Engineering Excellence
-- DevOps Consulting
-- Agile
-- Agile Software Development
-- Agile Product Development
-- Agile Project Management
+- Software Development
+- Software Developers
+- People and Process
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
+categories:
+- DevOps
 
 ---
- Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡
+When I think about DevOps, I often find myself reflecting on the misconceptions that surround it. As someone who has been a Microsoft MVP in Azure DevOps for 14 years, I’ve seen firsthand how the term "DevOps" can be misinterpreted. Many people, when they mention DevOps in my presence, are actually referring to Azure DevOps—the tools that come with it. But let me be clear: the tool is not the value. The tool is merely a means to surface or leverage the value that comes from the underlying idea of DevOps.
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+### Understanding DevOps: More Than Just Tools
 
-In this video, Martin delves into the common misconceptions surrounding DevOps. He emphasizes that while tools like Azure DevOps and Jira are essential, they aren't the heart and soul of DevOps. With the help of insights from industry experts like Sam Guggenheimer and real-world examples, Martin sheds light on the idea-driven nature of DevOps. 🎙️🚀
+So, what is it that people think they know about DevOps but really don’t? The first thing to grasp is that DevOps is not a tool, a process, or even a practice. It’s an idea—a concept that originated in the realm of software engineering. 
 
-00:00:25 Tools vs. Value in DevOps  
-00:00:44 Agile vs. DevOps 
-00:01:17 DevOps in Software Engineering  
-00:01:55 Importance of feedback loops in DevOps  
-00:02:33 The role of tools in DevOps  
+- **DevOps as an Idea**: At its core, DevOps is about understanding how we can improve our engineering systems. It’s about asking critical questions:
+  - How does our approach to Agile impact the way we create our products?
+  - What changes can we make to shorten feedback loops?
+  - How do we design our products with agility in mind?
 
-*NKDAgility can help!*  
-Do you find it hard to decipher DevOps beyond the tools? If you're grappling with understanding the core concepts behind DevOps, my team at NKDAgility can guide you. Don't let these challenges hinder your value delivery. Act now!
+These questions are essential for anyone looking to embrace the true spirit of DevOps.
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_  
-_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
+### The Relationship Between Agile and DevOps
 
-Because you don't just need agility, you need Naked Agility.
+While Agile focuses on the people and processes involved in software development, DevOps delves into the nebulous aspects of how we can enhance those processes through collaboration and integration. It’s not just about the tools we use; it’s about how we think about our work and the systems we create.
 
-#devops #azuredevops #agilecoach #agileconsultant #continousdelivery #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=BhGThHrOc8Y)
+I remember having enlightening conversations with Sam Guggenheimer, one of the original minds behind Team Foundation Server (TFS) and later Azure DevOps. His vision was always forward-thinking, focusing on what we needed to support the idea of DevOps. 
+
+- **Tools as Support**: TFS and Azure DevOps are products of that vision, not the driving force behind it. The tools are there to support the idea of DevOps, not to define it. This is a crucial distinction that many people overlook.
+
+### Shifting the Focus
+
+The challenge lies in shifting our focus from the tools to the ideas they support. When we default to thinking about tools, we miss the bigger picture. 
+
+- **Embrace the Idea**: Instead of asking, "What tool should I use for DevOps?" we should be asking, "How can I leverage the principles of DevOps to improve my team's performance and product quality?"
+
+This mindset shift is vital for anyone looking to truly understand and implement DevOps effectively.
+
+### Final Thoughts
+
+In conclusion, DevOps is a powerful idea that can transform the way we approach software development. It’s about fostering a culture of collaboration, continuous improvement, and responsiveness to change. 
+
+If you’re interested in diving deeper into this topic or discussing Agile, Scrum, or DevOps further, I invite you to book a coffee chat with me through Naked Agility. I always enjoy engaging with others who are passionate about these concepts.
+
+Thank you for taking the time to read my thoughts on DevOps. If you found this post helpful, please like, follow, and subscribe for more insights. I look forward to hearing your comments and continuing the conversation!
