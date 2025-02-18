@@ -1,30 +1,32 @@
 ---
 title: Scrum for Executives Training
+description: Join this interactive class to discover what Scrum is, why it matters, and your role in its adoption through engaging discussions and team activities.
+ResourceId: AHschsDjL2E
 date: 2020-08-31
 creator: Martin Hinshelwood
-id: "44726"
 type: course
 slug: scrum-for-executives-training
-url:
+url: 
 aliases:
-  - /training-courses/scrum-for-executives
-  - /training-courses/scrum-for-executives-training/
-  - /capabilities/training-courses/accentient/scrum-for-executives
+- /training-courses/scrum-for-executives
+- /training-courses/scrum-for-executives-training/
+- /capabilities/training-courses/accentient/scrum-for-executives
 course-topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course-vendors:
-  - Accentient
+- Accentient
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - Entrepreneurs
-  - Executives
+- Entrepreneurs
+- Executives
 tags:
+- Agile Frameworks
 categories:
-  - agility
-preview:
+- Social Technologies
+preview: 
 previewIcon: A-S4E.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -59,14 +61,14 @@ outcomes: |2+
   7. The Scrum Principles
   8. Where Scrum Fits and Where It Doesn’t
 
-assessment:
-objectives:
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+assessment: 
+objectives: 
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.

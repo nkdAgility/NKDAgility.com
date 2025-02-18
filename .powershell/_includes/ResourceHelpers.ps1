@@ -26,7 +26,7 @@ function Get-ResourceType {
         return $matches['ResourceType']
     }
     else {
-        Write-Debug "No match found." -ForegroundColor Red
+        Write-Debug "No match found."
         return $null
     }
 }

@@ -1,37 +1,51 @@
 ---
 title: Professional Agile Leadership Essentials (PAL-e) with Certification
+description: Empower leaders with the skills to drive agile transformation in your organisation through our adaptable, immersive PAL-e Essentials workshop.
+ResourceId: CujSf0EnB7d
 date: 2017-05-07
 creator: Martin Hinshelwood
-id: "11878"
 type: course
 slug: professional-agile-leadership-essentials-pal-e-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-  - /training-courses/professional-agile-leadership
-  - /training-courses/professional-agile-leadership-essentials-training
-  - /training-courses/professional-agile-leadership-essentials-training-with-certification
-  - /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
+- /training-courses/professional-agile-leadership
+- /training-courses/professional-agile-leadership-essentials-training
+- /training-courses/professional-agile-leadership-essentials-training-with-certification
+- /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
+- /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
 course-topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course-vendors:
-  - Scrum.org
+- Scrum.org
 course-learning-experiences:
-  - Immersive
-  - Traditional
+- Immersive
+- Traditional
 delivery-audiences:
-  - Product Owners
-  - Lean Agile Practitioners
-  - Managers
-  - Entrepreneurs
+- Product Owners
+- Lean Agile Practitioners
+- Managers
+- Entrepreneurs
 tags:
-  - certification
-  - leadership
+- Agile Project Management
+- Agile Transformation
+- Agile Leadership
+- Business Agility
+- Agile Frameworks
+- People and Process
+- Technical Leadership
+- Events and Presentations
+- Value Delivery
+- Organisational Change
+- Agile Strategy
+- Organisational Agility
+- Change Management
+- Software Development
 categories:
-  - agility
+- Leadership
+- Social Technologies
 preview: naked-agility-Professional-Scrum-PALE-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PALE-400x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -66,7 +80,7 @@ outcomes: |2+
   - Professionalism - The "How"
   - Scaling
 
-assessment:
+assessment: 
 objectives: |2+
 
   - Development of a common language
@@ -74,14 +88,14 @@ objectives: |2+
   - Professional introduction and establishment of Agile techniques
   - Role management plays in the Agile change of an organization
 
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 Professional Agile Leadership (PAL-e) Essentials is a modular workshop, adaptable up to 2-days in length based on the needs of your organization. The workshop provides a foundation for the role that leaders play in creating the conditions for a successful agile transformation. Leaders and managers are critical enablers in helping their organizations be successful, yet the role of leaders and managers in an agile organization can be quite different from what they are used to. This workshop uses a combination of instruction and team-based exercises to help participants learn how to form and support agile teams to achieve better results, and how to lead the cultural and behavioural changes that organizations must make to reap the benefits of an agile product delivery approach.
 
 This course can be delivered in various formats to support a better learning experience:

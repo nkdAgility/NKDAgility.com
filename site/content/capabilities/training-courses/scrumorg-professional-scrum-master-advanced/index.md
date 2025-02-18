@@ -1,36 +1,37 @@
 ---
 title: Professional Scrum Master Advanced (PSM-A) with Certification
+description: Elevate your Scrum Master skills with the 2-day PSM-A course, designed for experienced professionals seeking advanced knowledge and a free PSM II certification attempt.
+ResourceId: 7p77l4PFd03
 date: 2019-05-25
 creator: Martin Hinshelwood
-id: "38638"
 type: course
 slug: professional-scrum-master-advanced-psm-a-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-  - /training-courses/advanced-scrum-master-psm-ii-training
-  - /training-courses/professional-scrum-master-ii-psmii-training
-  - /training-courses/advanced-professional-scrum-master-psm-a-training
-  - /training-courses/professional-scrum-master-ii-training-with-certification
-  - /training-courses/professional-scrum-master-advanced-training-with-certification
-  - /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
-  - /capabilities/training-courses/scrum.org/professional-scrum-master-advanced-psm-a-with-certification/
+- /training-courses/advanced-scrum-master-psm-ii-training
+- /training-courses/professional-scrum-master-ii-psmii-training
+- /training-courses/advanced-professional-scrum-master-psm-a-training
+- /training-courses/professional-scrum-master-ii-training-with-certification
+- /training-courses/professional-scrum-master-advanced-training-with-certification
+- /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
+- /capabilities/training-courses/scrum.org/professional-scrum-master-advanced-psm-a-with-certification/
 course-topics:
-  - Scrum Training Courses
+- Scrum Training Courses
 course-vendors:
-  - Scrum.org
+- Scrum.org
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - Managers
-  - Scrum Masters
-  - Lean Agile Practitioners
+- Managers
+- Scrum Masters
+- Lean Agile Practitioners
 tags:
-  - certification
+- Scrum
 categories:
-  - agility
+- Social Technologies
 preview: naked-agility-Professional-Scrum-PSMA-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSMII-400x.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -68,7 +69,7 @@ outcomes: |2+
   - Understanding the challenges of middle management
   - Scrum Master as a change agent
 
-assessment:
+assessment: 
 objectives: |2+
 
   - What practices, tools, skills and stances make an effective Scrum Master
@@ -78,14 +79,14 @@ objectives: |2+
   - Ways that the Scrum Master can help to change the environment making it more conducive for Scrum Teams to be successful with greater agility
   - Provide tips and techniques for the Scrum Master to work with the rest of the organization in support of their Scrum Teams
 
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 The Professional Scrum Master II (PSM-A) course is a 2-day advanced Scrum Master class designed to support Scrum Masters in their professional development.  The PSM II course is intended for Scrum Masters with at least one year of experience who are looking to grow their knowledge and abilities as a Scrum Master. This course is one step in that journey. The course also includes a free attempt at the globally recognized [Professional Scrum Master II (PSM II) certification](https://www.scrum.org/professional-scrum-master-ii-certification) exam.
 
 Unlike the [Professional Scrum Master (PSM) course](https://nkdagility.com/training/courses/professional-scrum-master/) which focuses on how to use Scrum, the Scrum framework and the role of the Scrum Master, PSM-A is an advanced course helping students to understand the stances that characterize an effective Scrum Master and servant-leader while diving deep into how they serve the Development Team, Product Owner and organization. The course then teaches students about related practices and skills to enable them to have the right types of conversations and how to apply them to become better Scrum Masters.

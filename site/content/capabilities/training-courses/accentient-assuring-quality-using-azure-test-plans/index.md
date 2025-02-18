@@ -1,31 +1,36 @@
 ---
 title: Assuring Quality Using Azure Test Plans Training
+description: Master Azure Test Plans in this one-day course, empowering your agile team to ensure quality in web and desktop applications through hands-on collaboration.
+ResourceId: m932F_fIGB5
 date: 2020-09-01
 creator: Martin Hinshelwood
-id: "44766"
 type: course
 slug: assuring-quality-using-azure-test-plans-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-  - /training-courses/assuring-quality-using-azure-test-plans
-  - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
-  - /AD-QA/
-  - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
+- /training-courses/assuring-quality-using-azure-test-plans
+- /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/
+- /AD-QA/
+- /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
 course-topics:
-  - Azure DevOps Training Courses
+- Azure DevOps Training Courses
 course-vendors:
-  - Accentient
+- Accentient
 course-learning-experiences:
-  - Traditional
+- Traditional
 delivery-audiences:
-  - QA
+- QA
 tags:
-  - development
+- Software Development
+- Azure DevOps
+- Practical Techniques and Tooling
+- Technical Excellence
+- Test Automation
 categories:
-  - Azure DevOps
-preview:
+- Engineering Excellence
+preview: 
 previewIcon: A-AQATP.png
-brandColour:
+brandColour: 
 card:
   button:
     content: ""
@@ -46,14 +51,14 @@ outcomes: |2+
   2. Test Planning
   3. Running Tests
 
-assessment:
-objectives:
-prerequisites:
-audience:
-trainers:
-roadmap:
-syllabus:
-events:
----
+assessment: 
+objectives: 
+prerequisites: 
+audience: 
+trainers: 
+roadmap: 
+syllabus: 
+events: 
 
+---
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Test Plans enable a team to plan, track, and assess quality throughout the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Test Plans to effectively assure quality in web and desktop applications. To maximize learning, students will work in teams, in a common team project, on a common case study.
