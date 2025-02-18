@@ -44,7 +44,6 @@ module:
       excludeFiles:
         - "**/data.yaml"
         - "**/wordpress*"
-        - "**/index.captions.*.md"
 
 outputFormats:
   json:

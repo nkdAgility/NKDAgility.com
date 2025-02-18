@@ -20,7 +20,7 @@ $Counter = 0
 $captions | ForEach-Object {
     $Counter++
     $oldName = $_.FullName
-    $newName = $oldName -replace 'index\.', ''
+    $newName = Join-Path $_.Directory ".$($_.Name)" 
     Rename-Item -Path $oldName -NewName $newName
 
     Write-Output "Renamed: $oldName to $newName"
