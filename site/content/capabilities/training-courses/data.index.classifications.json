@@ -1,0 +1,56 @@
+{
+  "Leadership": {
+    "category": "Leadership",
+    "calculated_at": "2025-02-18T14:36:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on training courses for specific roles in Agile rather than discussing leadership practices or strategies.",
+    "level": "Ignored"
+  },
+  "Engineering Excellence": {
+    "category": "Engineering Excellence",
+    "calculated_at": "2025-02-18T14:36:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on training programs for Agile roles rather than engineering practices or software craftsmanship.",
+    "level": "Ignored"
+  },
+  "Product Management": {
+    "category": "Product Management",
+    "calculated_at": "2025-02-18T14:36:40",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses training programs for roles relevant to Agile and Scrum, which are related to product management, but it does not primarily focus on strategic aspects of product management itself.",
+    "level": "Tertiary"
+  },
+  "DevOps": {
+    "category": "DevOps",
+    "calculated_at": "2025-02-18T14:36:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile roles and training, which are not central to DevOps principles and practices.",
+    "level": "Ignored"
+  },
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-02-18T14:36:43",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "Content primarily focuses on training programs for roles within Agile methodologies, specifically mentioning Scrum Masters and Product Owners, which aligns closely with the principles of the Social Technologies category.",
+    "level": "Secondary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-02-18T14:36:44",
+    "ai_confidence": 50,
+    "non_ai_confidence": 50,
+    "final_score": 50.0,
+    "reasoning": "The content mentions Scrum roles and training for Scrum Masters and Product Owners, indicating a significant but secondary theme related to Scrum within a broader Agile context.",
+    "level": "Tertiary"
+  }
+}
