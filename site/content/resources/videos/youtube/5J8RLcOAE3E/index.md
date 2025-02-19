@@ -24,15 +24,15 @@ duration: 891
 isShort: false
 tags:
 - Pragmatic Thinking
+- Working Software
+- Software Developers
+- Product Delivery
+- Code and Complexity
+- Systems Thinking
+- Resilience and Change
+- People and Process
 - Continuous Delivery
 - Engineering Practices
-- People and Process
-- Working Software
-- Code and Complexity
-- Product Delivery
-- Resilience and Change
-- Systems Thinking
-- Software Developers
 resourceTypes:
 - video
 sitemap:

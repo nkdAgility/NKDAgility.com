@@ -24,14 +24,14 @@ aliasesFor404:
 tags:
 - Increment
 - Product Delivery
-- Agile Product Management
 - Value Delivery
+- Agile Product Management
 - Transparency
-- Software Development
 - Deployment Frequency
+- Software Development
 - Working Software
+- Frequent Releases
 - People and Process
-- Customer Feedback Loops
 categories:
 - Product Management
 preview: 2025-02-10-without-delivery-no-value.jpg

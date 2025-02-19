@@ -23,15 +23,15 @@ aliasesFor404:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Software Development
 - Deployment Strategies
-- Continuous Delivery
-- Azure DevOps
+- Software Development
 - Value Delivery
+- Azure DevOps
+- Continuous Delivery
 - Product Delivery
 - Technical Mastery
+- Practical Techniques and Tooling
 - Software Developers
-- Technical Excellence
 - Frequent Releases
 categories:
 - DevOps

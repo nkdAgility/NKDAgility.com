@@ -23,11 +23,11 @@ preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
 tags:
-- People and Process
 - Product Delivery
+- People and Process
 - Decision Making
-- Complexity Thinking
 - Pragmatic Thinking
+- Complexity Thinking
 - Sociotechnical Systems
 resourceTypes:
 - video
