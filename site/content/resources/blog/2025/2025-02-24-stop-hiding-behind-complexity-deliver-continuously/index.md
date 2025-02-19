@@ -1,5 +1,7 @@
 ---
 title: Stop Hiding Behind Complexity and Start Delivering Continuously
+description: Unlock continuous delivery for any software, regardless of complexity. Invest in fixing technical debt and automate processes for faster, reliable releases.
+ResourceId: 7hEAycZIn8w
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-24T09:00:00
@@ -10,13 +12,25 @@ resourceTypes: blog
 slug: stop-hiding-behind-complexity-deliver-continuously
 aliases:
   - /resources/f2RQh2UCwqB
+  - /resources/7hEAycZIn8w
 aliasesFor404:
+  - /resources/f2RQh2UCwqB
+  - /stop-hiding-behind-complexity-deliver-continuously
+  - /blog/stop-hiding-behind-complexity-deliver-continuously
+  - /stop-hiding-behind-complexity-and-start-delivering-continuously
+  - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
+  - Value Delivery
+  - Software Development
+  - Continuous Delivery
+  - Product Delivery
+  - Frequent Releases
 categories:
+  - DevOps
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 ---
 
-Every organisation says their software is 'too complex' for continuous delivery. That's nonsense. Complexity is an excuse, not a blocker. Azure DevOps, Starbucks, and countless others proved it wrong. The only real obstacle is the unwillingness to invest in fixing what’s broken. That’s bullshit. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too—if you’re willing to pay down your technical debt.
+Every organisation says their software is 'too complex' for continuous delivery. That's nonsense. Complexity is an excuse, not a blocker. Azure DevOps, Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too—if you’re willing to pay down your technical debt.
 
 Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.
 
