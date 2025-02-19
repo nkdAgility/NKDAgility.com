@@ -36,7 +36,9 @@ The organisation must be willing to invest significant time and effort in enabli
 
 This evolution was not the result of a silver bullet but a deliberate effort to eliminate technical debt, automate relentlessly, and embed a culture of continuous improvement. It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after six years.
 
-> TLDR; Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
+### TLDR;
+
+Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
 
 ## What is holding you back?
 
