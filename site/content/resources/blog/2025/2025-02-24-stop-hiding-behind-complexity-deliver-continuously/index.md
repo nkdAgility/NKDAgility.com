@@ -11,10 +11,8 @@ layout: blog
 resourceTypes: blog
 slug: stop-hiding-behind-complexity-deliver-continuously
 aliases:
-  - /resources/f2RQh2UCwqB
   - /resources/7hEAycZIn8w
 aliasesFor404:
-  - /resources/f2RQh2UCwqB
   - /stop-hiding-behind-complexity-deliver-continuously
   - /blog/stop-hiding-behind-complexity-deliver-continuously
   - /stop-hiding-behind-complexity-and-start-delivering-continuously
