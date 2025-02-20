@@ -28,7 +28,9 @@ categories:
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 ---
 
-Every organisation says their software is 'too complex' for continuous delivery. That's nonsense. Complexity is an excuse, not a blocker. Azure DevOps, Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too—if you’re willing to pay down your technical debt.
+### Stop Hiding Behind Complexity and Start Delivering Continuously
+
+Every organisation says their software is 'too complex' for continuous delivery. That's nonsense. Complexity is an excuse, not a blocker. Azure DevOps, Starbucks, and countless others proved it wrong. The only real obstacle is the unwillingness to invest in fixing what’s broken. That’s bullshit. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too—if you’re willing to pay down your technical debt.
 
 Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.
 
@@ -36,9 +38,7 @@ The organisation must be willing to invest significant time and effort in enabli
 
 This evolution was not the result of a silver bullet but a deliberate effort to eliminate technical debt, automate relentlessly, and embed a culture of continuous improvement. It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after six years.
 
-### TLDR;
-
-Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
+> TLDR; Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
 
 ## What is holding you back?
 
@@ -60,7 +60,7 @@ The result is unchecked technical debt, high bug rates in production, significan
 
 This is not a terminal condition but a challenge to manage and overcome. The key lies in intentionality. Without tackling the root causes of complexity for new capabilities, slow releases, and frequent production issues, process changes will fail to deliver meaningful results.
 
-## The Evolution of the Developer Division at Microsoft
+### The Evolution of the Developer Division at Microsoft
 
 Like every other company that has built software at scale, Microsoft fell into the usual traps of long release cycles, single-pass coding, and poor testing quality. For the Developer Division—responsible for Visual Studio, Team Foundation Server, and other software engineering tools—this resulted in a two-year release cycle, a four-year customer feedback loop, and fixing 75,000 bugs to get Visual Studio 2010 out the door.
 
@@ -70,9 +70,9 @@ Azure DevOps emerged as the result of decisive action by Microsoft's Developer D
 
 - **Automate Everything**: This cannot be emphasised enough. Automate every possible task. If something cannot be automated today, create a plan to rework the architecture until it can be. From testing and deployments to upgrades, certificates, passwords, and environments—automation should be the default, not the exception.
 
-- **Trunk-Based Development**: The cognitive load and resulting technical debt from supporting multiple versions of your product significantly increases complexity and risk. Long-running branches, especially when promoting by branch, slow the delivery of working software to real users. Adopting [Trunk-Based Development practices](https://nkdagility.com/resources/blog/stop-promoting-branches/) eliminates this risk by ensuring that all code integrates continuously into a single shared branch.&#x20;
+- **Trunk-Based Development**: The cognitive load and resulting technical debt from supporting multiple versions of your product significantly increases complexity and risk. Long-running branches, especially when promoting by branch, slow the delivery of working software to real users. Adopting [Trunk-Based Development practices]({{< ref /resources/blog/2025/2025-02-06-stop-promoting-branches >}}) eliminates this risk by ensuring that all code integrates continuously into a single shared branch.
 
-- **Feature Flags**: To maximise both quality and value, it's essential to [test new capabilities in production](https://nkdagility.com/resources/blog/testing-in-production-maximises-quality-and-value/) while gradually exposing them to users, reducing risk. This approach shortens feedback loops and enables swift adaptation to emerging market opportunities. Since we can't predict which features will deliver the most value, we validate hypotheses by running small experiments with real data. Effective use of feature flags is crucial for these experiments, ensuring safe, controlled releases that drive continuous improvement.
+- **Feature Flags**: To maximise both quality and value, it's essential to [test new capabilities in production]({{< ref /resources/blog/2025/2025-02-06-testing-in-production-maximises-quality-and-value >}}) while gradually exposing them to users, reducing risk. This approach shortens feedback loops and enables swift adaptation to emerging market opportunities. Since we can't predict which features will deliver the most value, we validate hypotheses by running small experiments with real data. Effective use of feature flags is crucial for these experiments, ensuring safe, controlled releases that drive continuous improvement.
 
 - **Shift-Left**: Shift from testing quality at the end (QA, Staging, UAT) to embedding it throughout the development process. Use hypothesis-driven practices and unit tests at every stage to ensure high quality from the start. Discovering a security vulnerability in staging often means the flaw is deeply embedded, leaving no time or budget for proper fixes—only quick patches that hackers easily exploit. Instead, conduct security tests, code reviews, and performance checks continuously, as close to code creation as possible.
 
@@ -86,20 +86,32 @@ In the world of modern software engineering its no longer an optional thing. It'
 
 How short your timeline needs to be is a question for your business... what is your effective planning horizon. For Starbucks PoS its 48h; for Windows, its \~120h, for Facebook its just a few minutes.
 
-To measure velocity, Azure DevOps focused on four critical metrics:
+## Measuring your velocity
 
-- Time to Build
-- Time to Self-Test
-- Time to Deploy
-- Time to Learn
+Velocity isn't just about how much work gets done—it's about how fast you move from idea to outcome. It’s about closing feedback loops quickly, enabling continuous improvement, and delivering valuable increments faster.
 
-Evidence-based management would ask you to consider how these metrics directly influence your delivery velocity and ability to adapt quickly:
+In 2018, Buck Hodges from Microsoft's Azure DevOps/Team Foundation Server team introduced four key metrics to evaluate and enhance the software development and deployment process:
 
-- Release Frequency
-- Customer Cycle Time
-- Deployment Frequency
-- Time-to-Learn
-- Time to Pivot
+- **Time to Build:** This metric measures the duration from code commit to the completion of a successful local build on a developer's workstation. It reflects the amount of time a developer needs to wait to know if their code compiles.
+
+- **Time to Self-Test:** This refers to the time taken to execute automated tests after a build locally. A shorter Time to Self-Test reflects fast tests and enables quicker feedback on code quality. Efficient self-testing cycles catch defects early, reduce rework, and maintain code integrity.
+
+- **Time to Deploy:** This metric tracks the time required to deploy a build to a production environment. Shorter deployment times increase velocity by enabling rapid feedback and value delivery. Minimising the Time to Deploy is crucial for rapidly delivering features and fixes to end users. Continuous integration and delivery (CI/CD) pipelines are essential for optimising this metric.
+
+- **Time to Learn:** This encompasses the period from deployment to collecting and analysing user feedback or telemetry data. Reducing Time to Learn ensures teams quickly understand user interactions and make informed decisions for future development. Faster learning cycles mean teams adapt quickly, prioritise effectively, and avoid wasting time on low-value features.
+
+These metrics represent stages in the flow of work from ideation to outcome. They are not the only metrics or stages, but they represent and expose significant bottlenecks in this case—and they are 100% within the control of engineering. Engineering did not require any outside approval to measure and optimise these stages. Accountability for improvement lies squarely within the team.
+
+By monitoring and optimising these metrics, development teams can achieve a more streamlined and responsive DevOps workflow, leading to faster delivery of high-quality software. However, these metrics are focused on the work of engineers building the product, and there may be other things in the application lifecycle that may have a bigger impact on you and your teams.
+
+It's crucial to take a holistic view of metrics, and the [Evidence-Based Management (EBM) guide]({{< ref /resources/guides/evidence-based-management-guide-2020 >}}) is a great starting point. It offers example metrics that can either be adopted directly or adapted to fit your context. When choosing metrics, focus on the four Key Value Areas (KVAs) defined by EBM:
+
+1. **Current Value (CV):** Measures the value delivered to customers or stakeholders today, reflecting satisfaction and success based on the current product.
+2. **Unrealized Value (UV):** Identifies potential future value by highlighting gaps between what customers have and what they need or desire.
+3. **Ability to Innovate (A2I):** Assesses how effectively the organisation can deliver new capabilities, features, or products without being constrained by technical debt, process bottlenecks, or organisational drag.
+4. **Time to Market (T2M):** Evaluates the speed at which ideas, features, or fixes move from concept to production, directly impacting responsiveness to market demands and customer needs.
+
+These four areas provide a balanced view, ensuring you don’t just measure output but focus on the outcomes that drive business success and customer satisfaction.
 
 ## The Path Forward
 
