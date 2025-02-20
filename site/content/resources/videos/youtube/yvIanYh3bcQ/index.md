@@ -37,13 +37,23 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags: []
+tags:
+- Lean Principles
+- Organisational Agility
+- Lean Thinking
+- Business Agility
+- Pragmatic Thinking
+- Operational Practices
+- Lean
+- People and Process
+- Market Adaptability
+- Organisational Change
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 - Engineering Excellence
+- Leadership
 canonicalUrl: https://www.youtube.com/watch?v=yvIanYh3bcQ
 
 ---

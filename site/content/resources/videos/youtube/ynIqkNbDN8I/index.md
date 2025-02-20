@@ -35,7 +35,17 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags: []
+tags:
+- Agile Product Management
+- Value Delivery
+- Business Agility
+- Agile Product Operating Model
+- Deployment Frequency
+- Ability to Innovate
+- Product Validation
+- Metrics and Learning
+- Frequent Releases
+- Evidence Based Management
 resourceTypes:
 - video
 categories:
