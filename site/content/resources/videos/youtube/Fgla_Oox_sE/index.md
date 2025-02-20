@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
 - People and Process
+- Product Owner
 - Agile Product Management
 - Scrum Product Development
 - Value Delivery

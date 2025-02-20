@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Scaling Scrum
 - Practical Techniques and Tooling
+- Scaling Scrum
 - Large Scale Agility
 - Scaled Agile
 - Scaling Agility
-- Agile Frameworks
-- Software Development
-- Agile Project Management
 - Pragmatic Thinking
+- Agile Frameworks
+- Agile Project Management
+- Software Development
 resourceTypes:
 - video
 categories:

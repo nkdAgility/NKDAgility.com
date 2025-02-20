@@ -34,10 +34,10 @@ tags:
 - Continuous Learning
 - Value Delivery
 - Agile Philosophy
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Project Management
 - Agile Frameworks
+- Pragmatic Thinking
+- Team Collaboration
+- Coaching
 resourceTypes:
 - video
 categories:

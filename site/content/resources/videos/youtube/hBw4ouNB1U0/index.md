@@ -25,8 +25,8 @@ tags:
 - Metrics and Learning
 - Operational Practices
 - Transparency
-- Continuous Learning
 - Practical Techniques and Tooling
+- Continuous Learning
 - Discovery and Learning
 - Pragmatic Thinking
 sitemap:

@@ -33,8 +33,8 @@ tags:
 - Agile Philosophy
 - Agile Leadership
 - Agile Values and Principles
-- Team Performance
 - Team Collaboration
+- Team Performance
 - Team Motivation
 - Personal
 resourceTypes:

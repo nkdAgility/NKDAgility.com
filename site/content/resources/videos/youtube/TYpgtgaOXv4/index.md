@@ -32,12 +32,12 @@ tags:
 - Agile Product Management
 - Product Backlog
 - Agile Project Management
-- Product Owner
 - Product Delivery
+- Product Owner
 - Agile Planning Tools
-- Software Development
 - Value Delivery
-- Scrum Product Development
+- Software Development
+- Agile Planning
 resourceTypes:
 - video
 categories:

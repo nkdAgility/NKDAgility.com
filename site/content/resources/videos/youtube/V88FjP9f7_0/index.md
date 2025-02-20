@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Agile Project Management
 - Agile Philosophy
+- Agile Project Management
 - Agile Frameworks
 resourceTypes:
 - video

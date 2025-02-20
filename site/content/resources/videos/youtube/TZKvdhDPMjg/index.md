@@ -30,10 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Project Management
-- Agile Transformation
 - Pragmatic Thinking
+- People and Process
+- Agile Transformation
+- Agile Project Management
 - Coaching
 resourceTypes:
 - video

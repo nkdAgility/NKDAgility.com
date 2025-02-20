@@ -28,10 +28,10 @@ sitemap:
 tags:
 - People and Process
 - Metrics and Learning
-- Customer Feedback Loops
 - Continuous Learning
 - Empirical Process Control
 - Discovery and Learning
+- Customer Feedback Loops
 - Personal
 - Team Collaboration
 - Coaching
@@ -39,8 +39,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

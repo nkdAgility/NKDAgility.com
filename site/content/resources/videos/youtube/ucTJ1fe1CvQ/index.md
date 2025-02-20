@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Experimentation
 - Discovery and Learning
-- Product Validation
 - People and Process
+- Product Validation
 - Product Discovery
 - Continuous Learning
 - Hypothesis Driven Development

@@ -22,8 +22,8 @@ duration: 58
 isShort: true
 tags:
 - Continuous Learning
-- Products and Books
 - Discovery and Learning
+- Products and Books
 - Personal
 - Miscellaneous
 sitemap:

@@ -28,25 +28,29 @@ aliasesFor404:
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/KWiWgLFalyA
+- /resources/videos/KWiWgLFalyA
+- /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+- /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
+- Pragmatic Thinking
+- Strategy
+- Operational Practices
 - People and Process
-- Evidence Based Leadership
-- Evidence Based Management
-- Decision Making
-- Agile Product Operating Model
-- Agile Product Management
-- Value Delivery
+- Systems Thinking
+- Sociotechnical Systems
+- Agile Strategy
+- Organisational Agility
 - Business Agility
-- Change Management
-- Strategic Goals
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
+- Social Technologies
+- Engineering Excellence
 canonicalUrl: https://www.youtube.com/watch?v=KWiWgLFalyA
 
 ---

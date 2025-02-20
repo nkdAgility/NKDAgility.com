@@ -23,8 +23,8 @@ preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Continuous Delivery
 - Continuous Integration
+- Continuous Delivery
 - Software Development
 sitemap:
   filename: sitemap.xml

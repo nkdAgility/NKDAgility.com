@@ -31,16 +31,16 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Continuous Learning
 - Pragmatic Thinking
-- Coaching
-- Organisational Culture
+- Continuous Learning
 - Personal
+- Organisational Culture
+- Coaching
 resourceTypes:
 - video
 categories:
-- Leadership
 - DevOps
+- Leadership
 - Scrum
 
 ---

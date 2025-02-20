@@ -31,13 +31,13 @@ tags:
 - Agile Leadership
 - Agile Values and Principles
 - People and Process
-- Metrics and Learning
 - Agile Product Management
-- Business Agility
 - Empirical Process Control
 - Evidence Based Leadership
-- Market Adaptability
-- Agile Strategy
+- Metrics and Learning
+- Business Agility
+- Scaling Agility
+- Product Delivery
 resourceTypes:
 - video
 categories:

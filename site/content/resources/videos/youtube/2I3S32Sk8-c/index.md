@@ -28,15 +28,15 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Transparency and Accountability
 - Scrum Product Development
 - Scrum Team
+- Transparency and Accountability
 - People and Process
+- Scrum Master
+- Agile Product Management
+- Professional Scrum
 - Team Performance
 - Team Collaboration
-- Professional Scrum
-- Agile Product Management
-- Scrum Master
 resourceTypes:
 - video
 layout: video

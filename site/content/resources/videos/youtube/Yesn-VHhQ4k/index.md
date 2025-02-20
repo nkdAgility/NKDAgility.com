@@ -31,13 +31,13 @@ tags:
 - Agile Values and Principles
 - People and Process
 - Empirical Process Control
-- Discovery and Learning
 - Scrum Values
-- Agile Frameworks
-- Software Development
-- Agile Strategy
-- Agile Project Management
+- Discovery and Learning
+- Agile Transformation
 - Agile Philosophy
+- Agile Project Management
+- Organisational Agility
+- Agile Strategy
 resourceTypes:
 - video
 categories:

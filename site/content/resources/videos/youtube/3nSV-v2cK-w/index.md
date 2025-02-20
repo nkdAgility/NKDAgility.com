@@ -24,11 +24,11 @@ isShort: false
 tags:
 - Team Collaboration
 - People and Process
-- Team Motivation
 - Agile Values and Principles
-- Software Development
-- Agile Philosophy
+- Team Motivation
 - Organisational Agility
+- Agile Philosophy
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

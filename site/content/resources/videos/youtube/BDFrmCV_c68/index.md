@@ -29,13 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Personal
 - Pragmatic Thinking
-- Product Owner
+- Personal
 - Agile Product Management
+- Product Owner
 - Value Delivery
-- Evidence Based Leadership
 - Experimentation
+- Evidence Based Leadership
 - Hypothesis Driven Development
 - Decision Making
 resourceTypes:

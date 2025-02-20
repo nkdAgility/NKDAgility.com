@@ -33,9 +33,9 @@ tags:
 - People and Process
 - Organisational Change
 - Resilience and Change
-- Business Agility
-- Market Adaptability
 - Agile Philosophy
+- Market Adaptability
+- Business Agility
 - Agile Transformation
 resourceTypes:
 - video

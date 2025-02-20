@@ -26,13 +26,13 @@ tags:
 - Continuous Delivery
 - Practical Techniques and Tooling
 - Technical Excellence
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 - AI and Automation in Agility
-- Test Automation
-- Azure DevOps
-- Code and Complexity
 - Automated Testing
+- People and Process
+- Technical Debt
+- Azure DevOps
 resourceTypes:
 - video
 sitemap:

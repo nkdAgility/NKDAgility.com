@@ -31,13 +31,13 @@ tags:
 - People and Process
 - Transparency
 - Agile Values and Principles
-- Organisational Agility
-- Agile Project Management
+- Agile Frameworks
 - Agile Leadership
 - Business Agility
-- Agile Frameworks
-- Agile Strategy
-- Organisational Culture
+- Agile Project Management
+- Organisational Agility
+- Enterprise Agility
+- Organisational Physics
 resourceTypes:
 - video
 categories:

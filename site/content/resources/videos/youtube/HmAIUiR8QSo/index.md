@@ -23,10 +23,10 @@ preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
 tags:
-- Technical Leadership
 - People and Process
-- Technical Mastery
+- Technical Leadership
 - Organisational Culture
+- Technical Mastery
 - Pragmatic Thinking
 - Sociotechnical Systems
 sitemap:

@@ -23,16 +23,16 @@ preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
-- Product Owner
-- Professional Scrum
-- Agile Frameworks
-- Scrum Product Development
-- Software Development
-- People and Process
-- Agile Project Management
 - Agile Product Management
-- Scrum Team
+- People and Process
+- Agile Frameworks
+- Product Delivery
 - Mentoring
+- Product Owner
+- Scrum Product Development
+- Agile Transformation
+- Professional Scrum
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

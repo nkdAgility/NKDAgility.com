@@ -31,11 +31,11 @@ tags:
 - Scrum Master
 - People and Process
 - Agile Frameworks
-- Software Development
 - Agile Project Management
+- Software Development
 - Scrum Team
-- Professional Scrum
 - Team Performance
+- Professional Scrum
 resourceTypes:
 - video
 categories:

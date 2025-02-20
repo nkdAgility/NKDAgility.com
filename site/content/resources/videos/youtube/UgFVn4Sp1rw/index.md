@@ -25,14 +25,14 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Ability to Innovate
-- Metrics and Learning
-- Scrum Product Development
-- Decision Making
 - Agile Product Management
 - People and Process
-- Value Delivery
-- Evidence Based Leadership
+- Decision Making
+- Metrics and Learning
+- Scrum Product Development
 - Software Development
+- Value Delivery
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

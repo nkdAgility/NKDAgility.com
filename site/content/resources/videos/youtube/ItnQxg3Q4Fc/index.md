@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Agile Leadership
 - People and Process
-- Agile Philosophy
 - Market Adaptability
-- Agile Transformation
-- Agile Strategy
+- Agile Philosophy
 - Change Management
 - Agile Project Management
 - Value Delivery
-- Technical Leadership
+- Agile Transformation
+- Agile Strategy
+- Business Agility
 resourceTypes:
 - video
 categories:

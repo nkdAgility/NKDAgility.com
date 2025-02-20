@@ -25,14 +25,14 @@ isShort: false
 tags:
 - Entrepreneurship
 - MVP
-- Ability to Innovate
 - Lean Product Development
-- Value Delivery
-- Business Agility
+- Ability to Innovate
 - Product Validation
+- Product Discovery
 - Metrics and Learning
-- Lean Startup
+- Value Delivery
 - Product Delivery
+- Lean Startup
 sitemap:
   filename: sitemap.xml
   priority: 0.6

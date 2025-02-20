@@ -30,11 +30,11 @@ sitemap:
 tags:
 - Flow Efficiency
 - Agile Frameworks
-- Software Development
+- Operational Practices
 - Lean Thinking
 - Agile Project Management
 - Throughput
-- Operational Practices
+- Software Development
 resourceTypes:
 - video
 categories:

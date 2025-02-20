@@ -32,9 +32,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - DevOps
-- Engineering Excellence
+- Leadership
+- Social Technologies
 
 ---
 ## DevOps & Agile: Two Sides of the Same Coin 🪙

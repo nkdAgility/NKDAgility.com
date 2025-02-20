@@ -23,16 +23,16 @@ preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false
 tags:
-- Professional Scrum
 - Scaling Scrum
-- Scaled Agile
+- Professional Scrum
 - People and Process
+- Scaled Agile
 - Scaling Agility
+- Pragmatic Thinking
 - Agile Frameworks
-- Software Development
 - Large Scale Agility
 - Agile Project Management
-- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

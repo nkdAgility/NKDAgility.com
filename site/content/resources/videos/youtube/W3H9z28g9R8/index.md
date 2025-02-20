@@ -31,13 +31,13 @@ tags:
 - People and Process
 - Decision Making
 - Change Management
-- Transparency and Accountability
 - Agile Philosophy
-- Sociotechnical Systems
+- Transparency and Accountability
 - Pragmatic Thinking
-- Organisational Physics
-- Organisational Culture
+- Sociotechnical Systems
+- Organisational Change
 - Organisational Agility
+- Beta Codex
 resourceTypes:
 - video
 categories:

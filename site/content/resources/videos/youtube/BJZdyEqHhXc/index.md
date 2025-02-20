@@ -24,13 +24,13 @@ isShort: false
 tags:
 - People and Process
 - Resilience and Change
+- Organisational Agility
 - Change Management
 - Organisational Change
-- Organisational Agility
-- Sensemaking
 - Pragmatic Thinking
-- Decision Making
+- Sensemaking
 - Sociotechnical Systems
+- Decision Making
 - Business Agility
 sitemap:
   filename: sitemap.xml

@@ -22,8 +22,8 @@ preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
 tags:
-- Product Owner
 - People and Process
+- Product Owner
 - Agile Product Management
 - Accountability
 - Agile Project Management

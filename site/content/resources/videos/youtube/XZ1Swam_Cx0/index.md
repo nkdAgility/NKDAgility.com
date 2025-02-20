@@ -24,11 +24,11 @@ isShort: true
 tags:
 - People and Process
 - Agile Frameworks
-- Software Development
 - Software Developers
-- Agile Project Management
 - Agile Philosophy
 - Agile Transformation
+- Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

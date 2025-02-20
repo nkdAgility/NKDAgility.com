@@ -25,14 +25,14 @@ isShort: true
 tags:
 - Professional Scrum
 - Scrum Master
-- Continuous Learning
 - Discovery and Learning
+- Continuous Learning
+- Agile Product Management
+- People and Process
+- Team Collaboration
+- Value Delivery
 - Agile Frameworks
-- Events and Presentations
-- Software Development
-- Coaching
 - Team Performance
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

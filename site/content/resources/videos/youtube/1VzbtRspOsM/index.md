@@ -33,10 +33,10 @@ tags:
 - Organisational Culture
 - Continuous Learning
 - Organisational Change
-- Coaching
 - Team Collaboration
-- Team Motivation
 - Personal
+- Mentoring
+- Organisational Agility
 resourceTypes:
 - video
 layout: video

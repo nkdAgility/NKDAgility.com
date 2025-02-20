@@ -25,8 +25,8 @@ tags:
 - People and Process
 - Decision Making
 - Organisational Change
-- Organisational Physics
 - Sociotechnical Systems
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6

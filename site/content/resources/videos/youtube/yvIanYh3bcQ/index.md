@@ -30,25 +30,20 @@ aliasesFor404:
 - /resources/best-scrum-advice-you-ever-received
 - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/yvIanYh3bcQ
+- /resources/videos/yvIanYh3bcQ
+- /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
+- /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags:
-- People and Process
-- Agile Frameworks
-- Scrum Master
-- Empirical Process Control
-- Agile Values and Principles
-- Software Development
-- Software Developers
-- Agile Project Management
-- Personal
-- Agile Philosophy
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
+- Leadership
 - Social Technologies
+- Engineering Excellence
 canonicalUrl: https://www.youtube.com/watch?v=yvIanYh3bcQ
 
 ---

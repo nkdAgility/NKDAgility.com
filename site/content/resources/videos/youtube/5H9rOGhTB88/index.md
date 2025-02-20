@@ -28,15 +28,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
-- Business Agility
-- Agile Product Operating Model
-- Agile Leadership
 - Agile Product Management
 - Value Delivery
-- Technical Leadership
-- Team Performance
+- Agile Values and Principles
+- Agile Leadership
+- Business Agility
+- Agile Product Operating Model
+- Agile Transformation
 - Organisational Change
+- Sociotechnical Systems
 resourceTypes:
 - video
 layout: video

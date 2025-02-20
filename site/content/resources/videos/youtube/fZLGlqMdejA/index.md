@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Flow Efficiency
-- Product Delivery
-- Agile Values and Principles
 - People and Process
 - Value Delivery
+- Agile Values and Principles
+- Flow Efficiency
 - Agile Product Operating Model
-- Agile Strategy
+- Product Delivery
 - Agile Frameworks
-- Agile Philosophy
+- Software Developers
+- Value Stream Management
 resourceTypes:
 - video
 categories:

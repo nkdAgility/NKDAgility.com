@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Continuous Learning
 - People and Process
+- Continuous Learning
 - Organisational Agility
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 - Scrum
 
 ---

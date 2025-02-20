@@ -25,15 +25,15 @@ duration: 376
 isShort: false
 tags:
 - Coaching
+- Agile Product Management
+- People and Process
 - Agile Frameworks
 - Agile Strategy
-- People and Process
-- Business Agility
-- Agile Project Management
-- Agile Product Management
 - Organisational Agility
+- Business Agility
 - Agile Transformation
-- Professional Scrum
+- Agile Project Management
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

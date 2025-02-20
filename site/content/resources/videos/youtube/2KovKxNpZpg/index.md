@@ -23,11 +23,11 @@ isShort: true
 tags:
 - Agile Values and Principles
 - Agile Frameworks
-- Agile Project Management
 - Agile Philosophy
 - Agile Transformation
-- Software Development
+- Agile Project Management
 - Empirical Process Control
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

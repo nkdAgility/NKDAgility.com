@@ -32,23 +32,17 @@ aliasesFor404:
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+- /resources/PNLCxB2zmUA
+- /resources/videos/PNLCxB2zmUA
+- /resources/videos/the-necessity-of-architectural-adaptation
+- /resources/the-necessity-of-architectural-adaptation
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags:
-- Professional Scrum
-- Scrum Master
-- Scrum Team
-- Agile Frameworks
-- People and Process
-- Agile Project Management
-- Software Development
-- Accountability
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
-- Social Technologies
+categories: []
 canonicalUrl: https://www.youtube.com/watch?v=PNLCxB2zmUA
 
 ---

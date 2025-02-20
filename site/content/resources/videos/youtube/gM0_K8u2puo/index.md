@@ -28,25 +28,18 @@ aliasesFor404:
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/how-does-a-scrum-team-create-a-sprint-goal-
+- /resources/gM0_K8u2puo
+- /resources/videos/gM0_K8u2puo
+- /resources/videos/be-a-market-leader,-not-a-follower
+- /resources/be-a-market-leader,-not-a-follower
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags:
-- Scrum Product Development
-- Scrum Team
-- Professional Scrum
-- People and Process
-- Agile Product Management
-- Agile Frameworks
-- Software Development
-- Agile Planning
-- Value Delivery
-- Agile Project Management
+tags: []
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 canonicalUrl: https://www.youtube.com/watch?v=gM0_K8u2puo
 
 ---

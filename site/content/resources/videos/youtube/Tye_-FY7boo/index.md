@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Product Validation
-- Product Delivery
 - Agile Product Management
-- Value Delivery
 - People and Process
+- Value Delivery
+- Product Delivery
+- Product Validation
+- Product Owner
+- Product Strategy
 - Agile Product Operating Model
 - Product Discovery
-- Product Strategy
 - Pragmatic Thinking
 resourceTypes:
 - video

@@ -31,20 +31,20 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Organisational Physics
 - Organisational Culture
+- Organisational Physics
 - Sociotechnical Systems
 - Organisational Change
 - Decision Making
 - Market Adaptability
-- Business Agility
 - Enterprise Agility
+- Business Agility
 resourceTypes:
 - video
 categories:
 - DevOps
 - Product Management
-- Leadership
+- Social Technologies
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
+- Customer Feedback Loops
+- Value Delivery
+- Discovery and Learning
+- Product Delivery
+- Agile Product Operating Model
 - Product Owner
 - Product Validation
-- Discovery and Learning
-- Customer Feedback Loops
-- Agile Product Operating Model
-- Value Delivery
-- Product Delivery
-- Agile Product Management
-- Business Agility
+- Organisational Agility
 - Agile Project Management
 resourceTypes:
 - video

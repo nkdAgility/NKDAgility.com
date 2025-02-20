@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Team
-- Professional Scrum
 - Agile Product Management
-- Agile Project Management
 - People and Process
+- Agile Project Management
 - Software Developers
+- Professional Scrum
 - Technical Leadership
-- Agile Frameworks
 - Self Organisation
-- Software Development
+- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

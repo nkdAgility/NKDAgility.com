@@ -31,13 +31,13 @@ tags:
 - Agile Frameworks
 - Agile Strategy
 - Business Agility
-- Agile Project Management
 - Agile Transformation
-- Software Development
-- Coaching
-- Technical Leadership
+- Agile Project Management
+- Pragmatic Thinking
 - People and Process
+- Practical Techniques and Tooling
 - Organisational Agility
+- Coaching
 resourceTypes:
 - video
 categories:

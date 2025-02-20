@@ -22,29 +22,21 @@ aliases:
 aliasesFor404:
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/rbEQRJrs4NY
+- /resources/videos/rbEQRJrs4NY
+- /resources/videos/from-assumption-to-real-value-user-test
+- /resources/from-assumption-to-real-value-user-test
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
-tags:
-- Professional Scrum
-- Scrum Product Development
-- Scrum Master
-- Scrum Team
-- Software Development
-- Team Performance
-- People and Process
-- Agile Product Management
-- Product Delivery
-- Agile Frameworks
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Social Technologies
+categories: []
 canonicalUrl: https://www.youtube.com/watch?v=rbEQRJrs4NY
 
 ---

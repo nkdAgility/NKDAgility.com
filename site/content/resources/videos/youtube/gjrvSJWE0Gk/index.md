@@ -28,9 +28,9 @@ sitemap:
 tags:
 - Metrics and Learning
 - Practical Techniques and Tooling
-- Forecasting
 - Pragmatic Thinking
 - Operational Practices
+- Forecasting
 - Value Delivery
 - Estimation
 - Decision Making

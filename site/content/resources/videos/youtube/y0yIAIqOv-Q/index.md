@@ -32,8 +32,8 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Agile Transformation
 resourceTypes:
 - video

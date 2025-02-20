@@ -23,12 +23,14 @@ aliases:
 aliasesFor404:
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
+- /resources/XyprV8F_es4
+- /resources/videos/XyprV8F_es4
+- /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
+- /resources/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true
-tags:
-- Agile Project Management
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -36,7 +38,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Leadership
+- DevOps
 
 ---
  The Role of Leadership in Driving Continuous Delivery and Organizational Change

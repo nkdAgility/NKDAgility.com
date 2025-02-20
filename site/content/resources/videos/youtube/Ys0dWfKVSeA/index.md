@@ -32,12 +32,12 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Agile Frameworks
 - Software Development
+- Team Collaboration
+- Value Delivery
+- Agile Frameworks
 - Agile Transformation
 - Organisational Agility
-- Value Delivery
-- Team Collaboration
 - Agile Project Management
 - Pragmatic Thinking
 resourceTypes:

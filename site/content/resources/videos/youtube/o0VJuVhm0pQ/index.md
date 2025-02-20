@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- Empirical Process Control
 - People and Process
-- Value Delivery
-- Agile Product Management
+- Empirical Process Control
+- Scrum Product Development
 - Software Development
+- Agile Product Management
+- Value Delivery
 - Product Delivery
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 - Pragmatic Thinking
 resourceTypes:
 - video

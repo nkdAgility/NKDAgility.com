@@ -25,12 +25,12 @@ tags:
 - People and Process
 - Value Delivery
 - Product Delivery
-- Software Development
-- Market Adaptability
 - Operational Practices
+- Market Adaptability
+- Software Development
+- Flow Efficiency
 - Value Stream Management
 - Discovery and Learning
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

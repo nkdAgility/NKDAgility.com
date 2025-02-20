@@ -25,9 +25,9 @@ isShort: false
 tags:
 - People and Process
 - Agile Frameworks
-- Software Development
-- Agile Project Management
 - Agile Transformation
+- Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

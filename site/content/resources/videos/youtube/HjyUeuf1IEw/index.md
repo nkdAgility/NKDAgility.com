@@ -23,10 +23,10 @@ preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
 tags:
-- Events and Presentations
 - People and Process
-- Software Development
+- Events and Presentations
 - Software Developers
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

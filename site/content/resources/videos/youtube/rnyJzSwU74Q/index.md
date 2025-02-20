@@ -24,8 +24,8 @@ duration: 866
 isShort: false
 tags:
 - Agile Project Management
-- Empirical Process Control
 - Agile Philosophy
+- Empirical Process Control
 - Software Development
 - Value Delivery
 - Market Adaptability

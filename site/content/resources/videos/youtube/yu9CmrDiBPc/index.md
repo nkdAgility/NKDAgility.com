@@ -30,25 +30,20 @@ aliasesFor404:
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 - "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- /resources/yu9CmrDiBPc
+- /resources/videos/yu9CmrDiBPc
+- /resources/videos/tech-can-scale,-but-can-your-culture-
+- /resources/tech-can-scale,-but-can-your-culture-
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags:
-- People and Process
-- Agile Product Management
-- Agile Frameworks
-- Software Development
-- Agile Transformation
-- Organisational Agility
-- Value Delivery
-- Team Collaboration
-- Agile Project Management
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
 categories:
+- DevOps
 - Scrum
-- Social Technologies
+- Product Management
 canonicalUrl: https://www.youtube.com/watch?v=yu9CmrDiBPc
 
 ---

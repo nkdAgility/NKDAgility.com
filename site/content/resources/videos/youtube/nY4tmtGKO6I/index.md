@@ -25,10 +25,10 @@ tags:
 - Scrum Master
 - Scrum Team
 - Professional Scrum
-- Agile Frameworks
-- Software Development
 - People and Process
+- Agile Frameworks
 - Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

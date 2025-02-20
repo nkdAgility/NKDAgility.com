@@ -30,8 +30,8 @@ sitemap:
 tags:
 - People and Process
 - Discovery and Learning
-- Continuous Learning
 - Organisational Culture
+- Continuous Learning
 - Organisational Psychology
 resourceTypes:
 - video

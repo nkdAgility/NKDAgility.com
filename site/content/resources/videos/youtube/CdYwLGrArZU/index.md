@@ -31,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Product Owner
 - Agile Product Management
-- Agile Project Management
-- Personal
+- Product Owner
 - Pragmatic Thinking
+- Personal
+- Agile Project Management
 resourceTypes:
 - video
 categories:

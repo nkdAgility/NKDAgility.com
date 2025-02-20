@@ -31,15 +31,15 @@ tags:
 - People and Process
 - Agile Values and Principles
 - Team Collaboration
-- Team Motivation
 - Agile Philosophy
+- Team Motivation
 - Personal
 resourceTypes:
 - video
 categories:
 - Product Management
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 One of the key virtues in Agile is **charity**—the act of helping others without expecting anything in return. This often goes unnoticed, yet it plays a crucial role in the success of teams, products, and organizations. As someone who has witnessed the transformative power of this virtue firsthand, I believe it’s time we shine a spotlight on how charity manifests in Agile environments and why it’s essential to embrace it fully.

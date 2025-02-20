@@ -32,8 +32,8 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Agile Project Management
 - Strategy
+- Agile Project Management
 resourceTypes:
 - video
 categories:

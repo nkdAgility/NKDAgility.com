@@ -23,12 +23,12 @@ isShort: false
 tags:
 - Agile Project Management
 - Coaching
-- Scrum Master
 - People and Process
+- Scrum Master
 - Scrum Team
-- Agile Frameworks
-- Team Collaboration
 - Agile Product Management
+- Team Collaboration
+- Agile Frameworks
 - Agile Transformation
 - Software Development
 sitemap:

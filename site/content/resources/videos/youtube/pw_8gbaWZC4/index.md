@@ -24,14 +24,14 @@ isShort: false
 tags:
 - Transparency
 - Metrics and Learning
-- Practical Techniques and Tooling
 - Flow Efficiency
-- Agile Frameworks
-- Agile Project Management
+- Practical Techniques and Tooling
 - Pragmatic Thinking
+- Agile Frameworks
 - Operational Practices
+- Agile Project Management
 - Strategy
-- Software Development
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

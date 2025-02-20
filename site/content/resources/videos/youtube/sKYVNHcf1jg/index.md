@@ -24,15 +24,15 @@ duration: 280
 isShort: false
 tags:
 - Coaching
-- Team Collaboration
-- Scrum Team
-- Agile Product Management
-- Agile Project Management
-- Agile Transformation
+- Organisational Agility
 - Team Performance
-- Agile Philosophy
-- Business Agility
+- Agile Product Management
+- Agile Frameworks
+- Scrum Team
+- Agile Project Management
 - People and Process
+- Team Motivation
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4

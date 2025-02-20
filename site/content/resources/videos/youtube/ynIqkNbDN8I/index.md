@@ -28,24 +28,18 @@ aliasesFor404:
 - /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 - /resources/videos/5-ghosts-of-agile-past-burndown-charts
 - /resources/5-ghosts-of-agile-past-burndown-charts
+- /resources/ynIqkNbDN8I
+- /resources/videos/ynIqkNbDN8I
+- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+- /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags:
-- Empirical Process Control
-- Agile Planning
-- People and Process
-- Agile Project Management
-- Agile Product Management
-- Agile Philosophy
-- Pragmatic Thinking
-- Software Development
-- Software Developers
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Management
 canonicalUrl: https://www.youtube.com/watch?v=ynIqkNbDN8I
 
 ---

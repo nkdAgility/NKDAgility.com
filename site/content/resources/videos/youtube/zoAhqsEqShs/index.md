@@ -30,14 +30,14 @@ sitemap:
 tags:
 - Software Development
 - Agile Product Management
-- Change Management
-- Agile Transformation
 - People and Process
 - Agile Project Management
-- Agile Strategy
+- Agile Transformation
+- Change Management
 - Organisational Agility
+- Enterprise Agility
+- Organisational Change
 - Agile Philosophy
-- Team Motivation
 resourceTypes:
 - video
 categories:

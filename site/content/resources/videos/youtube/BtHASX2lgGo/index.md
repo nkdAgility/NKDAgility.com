@@ -22,15 +22,15 @@ preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
+- Agile Product Management
 - Agile Planning
 - Agile Project Management
-- Agile Product Management
-- Agile Frameworks
-- Scrum Product Development
-- Software Developers
 - People and Process
-- Agile Philosophy
+- Agile Frameworks
+- Software Developers
 - Product Delivery
+- Agile Philosophy
+- Scrum Product Development
 - Agile Transformation
 sitemap:
   filename: sitemap.xml

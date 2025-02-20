@@ -29,8 +29,8 @@ sitemap:
 tags:
 - Throughput
 - People and Process
-- Cycle Time
 - Flow Efficiency
+- Cycle Time
 - Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking

@@ -29,20 +29,20 @@ sitemap:
 tags:
 - Agile Frameworks
 - Agile Strategy
-- Agile Leadership
-- Agile Project Management
 - Agile Transformation
-- Software Development
-- Coaching
-- Technical Leadership
-- Organisational Change
+- Agile Project Management
+- Agile Leadership
+- Pragmatic Thinking
 - People and Process
+- Mentoring
+- Enterprise Agility
+- Organisational Agility
 resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 Finding the right Agile coach can make or break your organization's journey toward greater agility. While the Agile landscape is filled with talented coaches, not all will suit your organization’s unique needs. Whether you're a small startup looking to scale or a large enterprise seeking to enhance its agility, finding the right coach is essential.

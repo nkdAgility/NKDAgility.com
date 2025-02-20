@@ -33,8 +33,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

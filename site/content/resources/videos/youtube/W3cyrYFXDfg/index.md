@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
-- Metrics and Learning
 - People and Process
-- Evidence Based Leadership
+- Metrics and Learning
 - Decision Making
 - Organisational Agility
+- Evidence Based Leadership
 - Agile Strategy
 - Agile Project Management
-- Agile Transformation
+- Evidence Based Management
 - Technical Leadership
 resourceTypes:
 - video

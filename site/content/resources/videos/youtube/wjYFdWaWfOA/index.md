@@ -23,14 +23,14 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
-- Scrum Master
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
+- Scrum Master
 - Scrum Team
-- Agile Frameworks
-- Software Development
-- Team Performance
 - People and Process
+- Agile Frameworks
+- Team Performance
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

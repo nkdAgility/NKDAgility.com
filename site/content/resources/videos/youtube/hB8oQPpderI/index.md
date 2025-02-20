@@ -30,9 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Learning
 - People and Process
 - Team Collaboration
+- Continuous Learning
 - Agile Project Management
 - Discovery and Learning
 resourceTypes:

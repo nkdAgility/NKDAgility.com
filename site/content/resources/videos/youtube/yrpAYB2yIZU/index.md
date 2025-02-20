@@ -24,8 +24,8 @@ duration: 922
 isShort: false
 tags:
 - Install and Configuration
-- System Configuration
 - Windows
+- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

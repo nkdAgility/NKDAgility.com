@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Value Delivery
 - People and Process
+- Value Delivery
 - Product Delivery
+- Software Development
 - Software Developers
-- Market Adaptability
 - Pragmatic Thinking
+- Market Adaptability
 - Working Software
-- Agile Project Management
-- Customer Retention
+- Organisational Agility
+- Customer Satisfaction
 resourceTypes:
 - video
 categories:

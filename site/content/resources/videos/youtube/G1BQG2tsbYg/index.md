@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
 - Agile Strategy
 - Enterprise Agility
-- Business Agility
 - Strategy
 - Agile Product Management
 - Agile Values and Principles
 - Agile Planning
-- Strategic Goals
-- Change Management
+- People and Process
 - Resilience and Change
+- Strategic Goals
 resourceTypes:
 - video
 categories:

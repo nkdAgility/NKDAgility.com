@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Team
+- People and Process
 - Agile Project Management
 - Daily Scrum
-- People and Process
-- Agile Transformation
-- Agile Frameworks
-- Scrum Product Development
-- Team Performance
-- Scrum Master
 - Pragmatic Thinking
+- Agile Product Management
+- Team Collaboration
+- Value Delivery
+- Agile Frameworks
+- Team Performance
 resourceTypes:
 - video
 categories:

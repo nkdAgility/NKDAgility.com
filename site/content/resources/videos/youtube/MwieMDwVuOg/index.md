@@ -22,18 +22,24 @@ aliases:
 aliasesFor404:
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
+- /resources/MwieMDwVuOg
+- /resources/videos/MwieMDwVuOg
+- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
+- /resources/the-key-to-scaling-successfully-agile-as-an-enabler
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
-- People and Process
-- Agile Values and Principles
-- Value Delivery
+- Agile Strategy
 - Agile Philosophy
-- Personal
-- Miscellaneous
+- Scaled Agile
+- Agile Transformation
+- Scaling Agility
 - Pragmatic Thinking
-- Customer Satisfaction
+- Enterprise Agility
+- Strategy
+- Organisational Agility
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -41,9 +47,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- Leadership
 - Product Management
+- Social Technologies
 canonicalUrl: https://www.youtube.com/watch?v=MwieMDwVuOg
 
 ---

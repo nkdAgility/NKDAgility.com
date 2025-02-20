@@ -23,8 +23,8 @@ preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
 tags:
-- Agile Philosophy
 - Organisational Agility
+- Agile Philosophy
 - Change Management
 - Business Agility
 sitemap:

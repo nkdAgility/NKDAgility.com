@@ -34,12 +34,12 @@ tags:
 - Product Owner
 - Products and Books
 - Decision Making
-- Decision Theory
-- Team Collaboration
-- Agile Project Management
 - Agile Product Management
+- Team Collaboration
+- Decision Theory
+- Agile Project Management
+- Pragmatic Thinking
 - Entrepreneurship
-- Sensemaking
 resourceTypes:
 - video
 categories:

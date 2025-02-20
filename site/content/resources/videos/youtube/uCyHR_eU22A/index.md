@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Scrum Product Development
 - Product Backlog
-- Scrum Team
+- Scrum Product Development
 - Agile Product Management
-- Scrum Master
 - People and Process
-- Professional Scrum
+- Scrum Master
 - Software Developers
-- Software Development
+- Professional Scrum
+- Scrum Team
+- Agile Planning
 resourceTypes:
 - video
 categories:

@@ -27,8 +27,8 @@ tags:
 - Practical Techniques and Tooling
 - Operational Practices
 - Agile Frameworks
-- Software Development
 - Agile Project Management
+- Software Development
 - Transparency
 - Pragmatic Thinking
 - Flow Efficiency

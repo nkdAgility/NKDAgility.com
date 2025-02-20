@@ -27,16 +27,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Agile Product Management
-- Cycle Time
-- Value Delivery
+- Agile Values and Principles
 - People and Process
-- Agile Product Operating Model
+- Value Delivery
 - Agile Project Management
 - Product Delivery
-- Market Adaptability
-- Agile Planning
+- Cycle Time
+- Agile Product Operating Model
+- Lead Time
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

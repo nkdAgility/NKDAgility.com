@@ -26,8 +26,8 @@ tags:
 - People and Process
 - Product Delivery
 - Decision Making
-- Complexity Thinking
 - Pragmatic Thinking
+- Complexity Thinking
 - Sociotechnical Systems
 resourceTypes:
 - video
