@@ -7,6 +7,9 @@ ResourceImport: false
 date: 2025-02-24T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
+contributors:
+  - name: John McFadyen
+    external: https://www.linkedin.com/in/johnmcfadyen/
 layout: blog
 resourceTypes: blog
 slug: stop-hiding-behind-complexity-deliver-continuously
