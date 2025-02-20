@@ -125,7 +125,7 @@ foreach ($video in $videoData.Videos) {
         }
         else {
             Write-Host "  Reached capations manafest update limit of $captionsManafestUpdateLimit. skipping."
-        }
+        } 
     }
 
     # 3. Download Captions
