@@ -26,8 +26,8 @@ tags:
 - Increment
 - Scrum Product Development
 - Software Development
-- Professional Scrum
 - Product Delivery
+- Professional Scrum
 - Value Delivery
 - Working Software
 - Agile Product Management
