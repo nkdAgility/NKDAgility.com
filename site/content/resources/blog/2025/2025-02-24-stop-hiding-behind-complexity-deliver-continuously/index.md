@@ -39,7 +39,7 @@ Continuous delivery is not a pipe dream. If the organisation is willing to inves
 
 The organisation must be willing to invest significant time and effort in enabling it. Microsoft's Azure DevOps team exemplifies this. They transitioned from shipping new features every two years to delivering value every three weeks, increasing their annual feature delivery from 25 to nearly 300 at their peak.
 
-This evolution was not the result of a silver bullet but a deliberate effort to modernise architecture, eliminate technical debt, automate relentlessly, and embed a culture of continuous improvement. It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after six years.
+This evolution was not the result of a silver bullet but a deliberate effort to modernise architecture, eliminate technical debt, automate relentlessly, and embed a culture of continuous improvement. It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after four years, later stabilising at just over 300. This is the power of continuous delivery.
 
 ### TLDR
 
