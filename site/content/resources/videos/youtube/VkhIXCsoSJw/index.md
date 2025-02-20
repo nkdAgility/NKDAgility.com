@@ -24,11 +24,9 @@ duration: 529
 isShort: false
 tags:
 - Continuous Delivery
-- Practical Techniques and Tooling
 - Technical Excellence
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Operational Practices
-- AI and Automation in Agility
 - Automated Testing
 - People and Process
 - Technical Debt

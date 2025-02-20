@@ -13,7 +13,7 @@ $levelSwitch.MinimumLevel = 'Debug'
 $outputDir = ".\site\content\resources\videos"
 $resources = $null
 # Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending #| Select-Object -Skip 600  # | Select-Object -First 300 
+$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending
 #$resources += Get-ChildItem -Path "site\content\capabilities\training-courses"  -Recurse -Include "index.md", "_index.md"  | Sort-Object { $_ } -Descending
 
 $Counter = 1
@@ -33,7 +33,7 @@ $resources | ForEach-Object {
 $TotalItems = $hugoMarkdownObjects.Count
 Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $TotalItems
 ### FILTER hugoMarkdownObjects
-$hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending
+$hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending | Select-Object -First 20 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($TotalItems)
 ### /FILTER hugoMarkdownObjects
 ### Convert hugoMarkdownObjects to queue
@@ -213,7 +213,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     $categories = $categoryClassification | ConvertFrom-Json | Sort-Object final_score -Descending | Select-Object -First 3 | ForEach-Object { $_.category } #| Sort-Object
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
     #-----------------Tags-------------------
-    $tagClassification = Get-CategoryConfidenceWithChecksum -batch -updateMissing `
+    $tagClassification = Get-CategoryConfidenceWithChecksum -updateMissing `
         -ClassificationType "tags" `
         -Catalog $tagsCatalog `
         -CacheFolder $hugoMarkdown.FolderPath `
