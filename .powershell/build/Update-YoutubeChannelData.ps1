@@ -83,14 +83,21 @@ foreach ($video in $videoData.Videos) {
         $captionsDownloadMissing++
         continue;
     }
-   
 
     $videoId = $video.contentDetails.videoId
     # Create the directory named after the video ID
     $videoDir = Join-Path $outputDir $videoId
+    if ($video.status.privacyStatus -ne "public") {
+        Write-Host "  $($video.status.privacyStatus) Video: Skipping & Cleaning" -ForegroundColor Yellow
+        if (Test-Path $videoDir) {
+            Remove-Item -Path $videoDir -Recurse -Force
+        }
+        continue;
+    }
     if (-not (Test-Path $videoDir)) {
         New-Item -Path $videoDir -ItemType Directory
     }
+
 
     # 1. Get Youtube Video Data
     $jsonFilePathVideos = Join-Path $videoDir "data.json"
