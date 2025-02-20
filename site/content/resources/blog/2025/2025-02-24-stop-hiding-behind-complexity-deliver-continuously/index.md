@@ -10,6 +10,8 @@ creator: Martin Hinshelwood
 contributors:
   - name: John McFadyen
     external: https://www.linkedin.com/in/johnmcfadyen/
+  - name: Rich Visotcky
+    external: https://www.linkedin.com/in/richvisotcky/
 layout: blog
 resourceTypes: blog
 slug: stop-hiding-behind-complexity-deliver-continuously
@@ -31,17 +33,17 @@ categories:
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 ---
 
-### Stop Hiding Behind Complexity and Start Delivering Continuously
-
-Every organisation says their software is 'too complex' for continuous delivery. That's nonsense. Complexity is an excuse, not a blocker. Azure DevOps, Starbucks, and countless others proved it wrong. The only real obstacle is the unwillingness to invest in fixing what’s broken. That’s bullshit. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too—if you’re willing to pay down your technical debt.
+Every organisation says their software is 'too complex' for continuous delivery. That's nonsense. Complexity is an excuse, not a blocker. Azure DevOps, Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.
 
 Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.
 
 The organisation must be willing to invest significant time and effort in enabling it. Microsoft's Azure DevOps team exemplifies this. They transitioned from shipping new features every two years to delivering value every three weeks, increasing their annual feature delivery from 25 to nearly 300 at their peak.
 
-This evolution was not the result of a silver bullet but a deliberate effort to eliminate technical debt, automate relentlessly, and embed a culture of continuous improvement. It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after six years.
+This evolution was not the result of a silver bullet but a deliberate effort to modernise architecture, eliminate technical debt, automate relentlessly, and embed a culture of continuous improvement. It is an ongoing evolution that has paid dividends for every year of effort invested. They delivered 58 features at the end of the first year of investment, rising to over 250 features after six years.
 
-> TLDR; Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
+### TLDR
+
+Every software system, no matter how complex or archaic, can be updated, tested, and deployed continuously—without delays, bottlenecks, or manual interventions. This is the core of Continuous Delivery (CD): software always in a deployable state, ready for frequent, reliable releases.
 
 ## What is holding you back?
 
@@ -73,7 +75,7 @@ Azure DevOps emerged as the result of decisive action by Microsoft's Developer D
 
 - **Automate Everything**: This cannot be emphasised enough. Automate every possible task. If something cannot be automated today, create a plan to rework the architecture until it can be. From testing and deployments to upgrades, certificates, passwords, and environments—automation should be the default, not the exception.
 
-- **Trunk-Based Development**: The cognitive load and resulting technical debt from supporting multiple versions of your product significantly increases complexity and risk. Long-running branches, especially when promoting by branch, slow the delivery of working software to real users. Adopting [Trunk-Based Development practices]({{< ref "/resources/blog/2025/2025-02-06-stop-promoting-branches" >}}) eliminates this risk by ensuring that all code integrates continuously into a single shared branch.
+- **Trunk-Based Development**: The cognitive load and resulting complexity from supporting multiple versions of your product significantly increases complexity and risk. Long-running branches, especially when promoting by branch, slow the delivery of working software to real users. Adopting [Trunk-Based Development practices]({{< ref "/resources/blog/2025/2025-02-06-stop-promoting-branches" >}}) eliminates this risk by ensuring that all code integrates continuously into a single shared branch.
 
 - **Feature Flags**: To maximise both quality and value, it's essential to [test new capabilities in production]({{< ref "/resources/blog/2025/2025-02-06-testing-in-production-maximises-quality-and-value" >}}) while gradually exposing them to users, reducing risk. This approach shortens feedback loops and enables swift adaptation to emerging market opportunities. Since we can't predict which features will deliver the most value, we validate hypotheses by running small experiments with real data. Effective use of feature flags is crucial for these experiments, ensuring safe, controlled releases that drive continuous improvement.
 
@@ -120,8 +122,8 @@ These four areas provide a balanced view, ensuring you don’t just measure outp
 
 Ultimately, when deployments are automated, code is well-tested, and processes are streamlined, teams can respond faster to customer needs, market changes, and business opportunities. Azure DevOps’ and Windows evolutions proved that the barrier to continuous delivery is not technical complexity but organisational will.
 
-No matter where you start, the path to continuous delivery is through addressing technical debt head-on. Prioritise automation, enforce code quality and relentlessly improve your processes. The result is not just faster releases but better software, happier teams, and more satisfied customers.
+No matter where you start, the path to continuous delivery is through addressing the complexity that is slowing you down head-on. Prioritise automation, enforce code quality and relentlessly improve your processes. The result is not just faster releases but better software, happier teams, and more satisfied customers.
 
 If Azure DevOps can do it with their scale and complexity, so can you.
 
-The only question is whether you're willing to do what Azure DevOps, Starbucks, and countless others have done: stop hiding behind complexity, pay down your technical debt, and start delivering continuously.
+The only question is whether you're willing to do what Azure DevOps, Starbucks, and countless others have done: stop hiding behind complexity, and start delivering continuously.
