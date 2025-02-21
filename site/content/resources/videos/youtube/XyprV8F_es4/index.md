@@ -30,7 +30,17 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true
-tags: []
+tags:
+- Continuous Delivery
+- Resilience and Change
+- Continuous Learning
+- Enterprise Agility
+- Value Delivery
+- Organisational Agility
+- Organisational Change
+- Organisational Culture
+- Business Agility
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -37,7 +37,9 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Systems Thinking
+- Organisational Physics
 resourceTypes:
 - video
 categories: []

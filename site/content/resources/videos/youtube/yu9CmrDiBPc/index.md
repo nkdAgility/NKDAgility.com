@@ -37,7 +37,16 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags: []
+tags:
+- People and Process
+- Organisational Culture
+- Sociotechnical Systems
+- Enterprise Agility
+- Team Collaboration
+- Scaling Agility
+- Pragmatic Thinking
+- Organisational Agility
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

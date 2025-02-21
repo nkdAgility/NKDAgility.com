@@ -29,7 +29,13 @@ aliasesFor404:
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
-tags: []
+tags:
+- People and Process
+- Experimentation
+- Product Validation
+- Agile Transformation
+- Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

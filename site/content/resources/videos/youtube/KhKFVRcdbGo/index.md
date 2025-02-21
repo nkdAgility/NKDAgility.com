@@ -39,6 +39,7 @@ tags:
 - Value Stream Management
 - Evidence Based Leadership
 - Business Agility
+- Decision Making
 
 ---
 Creating a culture of engineering excellence within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

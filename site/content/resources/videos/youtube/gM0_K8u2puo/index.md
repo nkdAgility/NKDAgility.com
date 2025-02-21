@@ -35,7 +35,10 @@ aliasesFor404:
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-tags: []
+tags:
+- Product Delivery
+- Agile Project Management
+- Software Development
 resourceTypes:
 - video
 categories:
