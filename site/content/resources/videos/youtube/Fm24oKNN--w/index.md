@@ -23,13 +23,13 @@ preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: false
 tags:
-- Organisational Change
 - People and Process
+- Organisational Change
 - Organisational Agility
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
 - Pragmatic Thinking
+- Agile Frameworks
+- Agile Transformation
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

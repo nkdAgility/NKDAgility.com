@@ -27,13 +27,13 @@ tags:
 - Coaching
 - People and Process
 - Organisational Agility
-- Agile Frameworks
-- Software Development
+- Pragmatic Thinking
 - Team Collaboration
-- Agile Project Management
+- Agile Frameworks
 - Product Delivery
 - Agile Transformation
-- Pragmatic Thinking
+- Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

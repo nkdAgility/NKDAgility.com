@@ -30,14 +30,14 @@ sitemap:
 tags:
 - Discovery and Learning
 - Experimentation
-- People and Process
 - Product Discovery
+- People and Process
+- Hypothesis Driven Development
 - Product Validation
 - Pragmatic Thinking
 - Value Delivery
-- Hypothesis Driven Development
 - Continuous Learning
-- Lean Product Development
+- Team Collaboration
 resourceTypes:
 - video
 categories:

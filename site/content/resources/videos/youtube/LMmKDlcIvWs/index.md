@@ -30,13 +30,13 @@ sitemap:
 tags:
 - Strategy
 - Metrics and Learning
-- Practical Techniques and Tooling
 - Flow Efficiency
+- Practical Techniques and Tooling
+- Pragmatic Thinking
 - Agile Frameworks
 - Lean
-- Lean Thinking
-- Pragmatic Thinking
 - Operational Practices
+- Lean Thinking
 - Lean Principles
 resourceTypes:
 - video

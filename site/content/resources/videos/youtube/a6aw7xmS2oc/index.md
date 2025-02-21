@@ -22,16 +22,16 @@ preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- Product Owner
 - People and Process
+- Product Owner
 - Ability to Innovate
-- Agile Product Management
-- Scrum Product Development
-- Decision Making
 - Metrics and Learning
 - Agile Product Operating Model
+- Decision Making
 - Value Delivery
-- Evidence Based Leadership
+- Scrum Product Development
+- Agile Product Management
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

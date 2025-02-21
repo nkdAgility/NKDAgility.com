@@ -32,12 +32,12 @@ tags:
 - People and Process
 - Throughput
 - Strategy
-- Lean Product Development
+- Cycle Time
 - Agile Product Management
 - Lean Thinking
 - Scrum Product Development
-- Cycle Time
-- Team Performance
+- Lean Product Development
+- Value Delivery
 resourceTypes:
 - video
 categories:

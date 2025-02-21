@@ -23,14 +23,14 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
+- People and Process
+- Technical Excellence
 - Azure DevOps
 - Technical Leadership
-- Technical Excellence
-- People and Process
-- Engineering Practices
-- Software Development
-- Technical Mastery
 - Value Delivery
+- Engineering Practices
+- Technical Mastery
+- Software Development
 - Technical Debt
 - Pragmatic Thinking
 sitemap:

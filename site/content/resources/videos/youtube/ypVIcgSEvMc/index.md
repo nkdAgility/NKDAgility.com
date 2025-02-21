@@ -28,10 +28,10 @@ sitemap:
 tags:
 - Discovery and Learning
 - Continuous Learning
-- Customer Retention
-- Coaching
 - Mentoring
+- Coaching
 - Employee Engagement
+- Customer Retention
 resourceTypes:
 - video
 categories: []

@@ -30,14 +30,14 @@ sitemap:
 tags:
 - Decision Making
 - Value Stream Management
-- Metrics and Learning
 - Value Delivery
-- Evidence Based Management
+- Metrics and Learning
 - Ability to Innovate
-- Evidence Based Leadership
-- Product Delivery
+- Evidence Based Management
 - Pragmatic Thinking
 - Flow Efficiency
+- Product Delivery
+- Operational Practices
 resourceTypes:
 - video
 categories:

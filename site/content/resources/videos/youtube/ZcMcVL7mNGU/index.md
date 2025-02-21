@@ -26,12 +26,12 @@ tags:
 - Agile Product Management
 - People and Process
 - Agile Product Operating Model
-- Metrics and Learning
-- Product Delivery
-- Hypothesis Driven Development
-- Product Strategy
 - Value Delivery
-- Sociotechnical Systems
+- Product Strategy
+- Metrics and Learning
+- Hypothesis Driven Development
+- Product Delivery
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

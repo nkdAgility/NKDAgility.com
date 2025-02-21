@@ -24,8 +24,8 @@ duration: 1977
 isShort: false
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

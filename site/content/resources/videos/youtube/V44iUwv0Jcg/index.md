@@ -22,8 +22,8 @@ preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
-- Lean Thinking
 - Operational Practices
+- Lean Thinking
 - Discovery and Learning
 sitemap:
   filename: sitemap.xml

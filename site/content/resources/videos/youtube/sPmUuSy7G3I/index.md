@@ -25,14 +25,14 @@ isShort: false
 tags:
 - People and Process
 - Scrum Team
-- Scrum Product Development
-- Team Performance
 - Team Collaboration
+- Team Performance
+- Scrum Product Development
 - Agile Project Management
-- Agile Frameworks
-- Software Development
-- Agile Planning
 - Agile Product Management
+- Agile Frameworks
+- Agile Planning
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4

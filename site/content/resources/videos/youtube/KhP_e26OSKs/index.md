@@ -22,8 +22,8 @@ preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Product Owner
 - People and Process
+- Product Owner
 - Agile Project Management
 sitemap:
   filename: sitemap.xml

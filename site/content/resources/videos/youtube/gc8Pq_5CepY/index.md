@@ -24,10 +24,10 @@ duration: 1686
 isShort: false
 tags:
 - Professional Scrum
-- Events and Presentations
 - People and Process
-- Software Development
+- Events and Presentations
 - Software Developers
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

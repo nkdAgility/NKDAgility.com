@@ -32,14 +32,14 @@ sitemap:
 tags:
 - People and Process
 - Discovery and Learning
-- Team Performance
 - Team Collaboration
+- Team Performance
 - Continuous Learning
-- Agile Frameworks
 - Pragmatic Thinking
+- Agile Frameworks
 - Empirical Process Control
+- Metrics and Learning
 - Scrum Team
-- Customer Feedback Loops
 resourceTypes:
 - video
 categories:

@@ -28,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Agile Project Management
-- Psychological Safety
-- Agile Philosophy
 - Organisational Agility
-- Software Development
+- Agile Philosophy
+- Psychological Safety
 - Pragmatic Thinking
+- Software Development
 - Agile Product Management
 - Transparency and Accountability
 resourceTypes:

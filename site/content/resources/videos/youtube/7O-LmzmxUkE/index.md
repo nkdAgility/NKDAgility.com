@@ -31,12 +31,12 @@ tags:
 - Transparency
 - Empirical Process Control
 - Daily Scrum
-- Transparency and Accountability
 - Scrum Team
+- Transparency and Accountability
 - People and Process
 - Team Collaboration
-- Team Performance
 - Software Developers
+- Scrum Master
 resourceTypes:
 - video
 layout: video

@@ -24,12 +24,12 @@ duration: 2351
 isShort: false
 tags:
 - Azure DevOps
-- Events and Presentations
 - People and Process
 - News and Reviews
-- Software Development
+- Events and Presentations
 - Software Developers
 - Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

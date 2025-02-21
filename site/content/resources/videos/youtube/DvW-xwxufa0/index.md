@@ -36,7 +36,7 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Leadership
+- Social Technologies
 - Engineering Excellence
 
 ---

@@ -27,8 +27,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
-- Software Development
 - Software Developers
+- Software Development
 - Strategy
 - Pragmatic Thinking
 resourceTypes:

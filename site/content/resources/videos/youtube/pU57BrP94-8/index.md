@@ -31,18 +31,18 @@ tags:
 - People and Process
 - Discovery and Learning
 - Continuous Learning
-- Coaching
 - Team Collaboration
+- Coaching
 - Metrics and Learning
-- Empirical Process Control
-- Mentoring
 - Pragmatic Thinking
+- Mentoring
+- Empirical Process Control
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

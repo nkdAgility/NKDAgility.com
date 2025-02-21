@@ -25,13 +25,13 @@ tags:
 - People and Process
 - Value Delivery
 - Business Agility
-- Organisational Change
-- Organisational Agility
 - Beta Codex
+- Organisational Agility
+- Organisational Change
+- Pragmatic Thinking
 - Agile Strategy
-- Agile Leadership
 - Enterprise Agility
-- Team Motivation
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

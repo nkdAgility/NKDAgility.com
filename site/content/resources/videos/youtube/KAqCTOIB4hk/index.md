@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Change Management
-- People and Process
 - Discovery and Learning
-- Continuous Learning
-- Value Delivery
-- Evidence Based Management
-- Ability to Innovate
+- People and Process
+- Change Management
 - Pragmatic Thinking
+- Value Delivery
+- Ability to Innovate
+- Evidence Based Management
+- Continuous Learning
 - Mentoring
 resourceTypes:
 - video

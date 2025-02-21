@@ -22,16 +22,16 @@ preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
 tags:
-- Agile Project Management
 - Agile Product Management
-- Scrum Product Development
-- Azure DevOps
+- Agile Project Management
 - People and Process
-- Product Backlog
 - Practical Techniques and Tooling
 - Agile Product Operating Model
+- Scrum Product Development
+- Azure DevOps
+- Product Backlog
+- Pragmatic Thinking
 - Agile Planning
-- Azure Boards
 sitemap:
   filename: sitemap.xml
   priority: 0.6

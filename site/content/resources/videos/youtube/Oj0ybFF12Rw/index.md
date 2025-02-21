@@ -31,8 +31,8 @@ tags:
 - Scaling Scrum
 - Scaling Agility
 - Agile Frameworks
-- Software Development
 - Agile Project Management
+- Software Development
 - Professional Scrum
 - Scaled Agile
 resourceTypes:

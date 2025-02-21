@@ -23,15 +23,15 @@ duration: 237
 isShort: false
 tags:
 - Accountability
-- People and Process
 - Scrum Team
 - Scrum Master
-- Team Performance
-- Professional Scrum
-- Technical Leadership
-- Team Collaboration
-- Pragmatic Thinking
+- People and Process
 - Agile Product Management
+- Team Collaboration
+- Team Performance
+- Technical Leadership
+- Pragmatic Thinking
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,8 +40,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 In the world of Scrum, a common question arises: why isn’t the Scrum Master endowed with any real power or authority as outlined in the Scrum Guide? This is a thought-provoking inquiry, and I’d like to share my perspective based on my experiences in the field.

@@ -29,10 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Software Development
 - Software Developers
-- Market Adaptability
 - Operational Practices
+- Market Adaptability
+- Software Development
 - Pragmatic Thinking
 - Resilience and Change
 - Product Delivery

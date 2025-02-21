@@ -24,8 +24,8 @@ isShort: true
 tags:
 - Software Development
 - Engineering Practices
-- Technical Mastery
 - Technical Excellence
+- Technical Mastery
 - Test Driven Development
 - Software Developers
 - Code and Complexity

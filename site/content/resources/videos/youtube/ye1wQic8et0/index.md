@@ -24,14 +24,14 @@ isShort: false
 tags:
 - People and Process
 - Agile Strategy
-- Business Agility
 - Lead Time
-- Market Adaptability
 - Agile Philosophy
+- Market Adaptability
+- Business Agility
 - Decision Making
+- Pragmatic Thinking
 - Value Delivery
-- Enterprise Agility
-- Organisational Agility
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

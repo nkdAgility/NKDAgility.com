@@ -23,9 +23,9 @@ isShort: false
 tags:
 - Events and Presentations
 - Install and Configuration
+- Practical Techniques and Tooling
 - Remote Working
 - Collaboration Tools
-- Practical Techniques and Tooling
 - Team Collaboration
 - Products and Books
 sitemap:

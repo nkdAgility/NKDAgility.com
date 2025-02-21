@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - People and Process
-- Agile Project Management
+- Agile Frameworks
 - Agile Transformation
-- Software Development
-- Lean Thinking
+- Agile Project Management
 - Pragmatic Thinking
 - Flow Efficiency
-- Throughput
 - Operational Practices
+- Lean Thinking
+- Throughput
+- Software Development
 resourceTypes:
 - video
 categories:

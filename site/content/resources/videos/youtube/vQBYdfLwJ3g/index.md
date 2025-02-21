@@ -22,16 +22,16 @@ preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- Product Owner
-- Discovery and Learning
-- Agile Product Operating Model
-- People and Process
 - Agile Product Management
+- People and Process
+- Discovery and Learning
+- Product Owner
+- Agile Product Operating Model
 - Continuous Learning
 - Agile Project Management
-- Agile Frameworks
 - Events and Presentations
-- Organisational Agility
+- Agile Frameworks
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

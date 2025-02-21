@@ -22,15 +22,15 @@ duration: 25
 isShort: true
 tags:
 - Agile Values and Principles
-- Technical Leadership
 - People and Process
-- Agile Project Management
 - Agile Transformation
-- Software Development
-- Team Performance
+- Agile Project Management
+- Technical Leadership
+- Pragmatic Thinking
+- Product Delivery
 - Organisational Culture
 - Working Software
-- Product Delivery
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

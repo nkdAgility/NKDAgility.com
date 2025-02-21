@@ -24,14 +24,14 @@ isShort: false
 tags:
 - Decision Making
 - People and Process
+- Resilience and Change
 - Agile Project Management
 - Agile Values and Principles
-- Resilience and Change
-- Organisational Agility
 - Complexity Thinking
 - Business Agility
 - Ability to Innovate
 - Organisational Change
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

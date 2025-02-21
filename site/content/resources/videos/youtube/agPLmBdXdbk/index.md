@@ -31,16 +31,16 @@ tags:
 - Resilience and Change
 - Organisational Change
 - Agile Frameworks
-- People and Process
+- Agile Leadership
+- Agile Philosophy
 - Agile Project Management
 - Agile Strategy
-- Agile Philosophy
-- Agile Transformation
+- People and Process
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 **Must have trait in an Agile Consultant**

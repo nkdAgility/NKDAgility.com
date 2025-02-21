@@ -30,14 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - Pragmatic Thinking
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - DevOps
 - Scrum
-- Engineering Excellence
+- Social Technologies
 
 ---
 ## Spotlight on Outstanding Scrum Application

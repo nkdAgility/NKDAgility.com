@@ -23,14 +23,14 @@ duration: 2034
 isShort: false
 tags:
 - One Engineering System (1ES)
-- Azure DevOps
 - Product Delivery
-- Azure Boards
+- Azure DevOps
 - Practical Techniques and Tooling
-- Software Development
+- Azure Boards
+- Pragmatic Thinking
 - Software Developers
 - Troubleshooting
-- Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

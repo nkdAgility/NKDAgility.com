@@ -30,14 +30,14 @@ sitemap:
 tags:
 - Transparency
 - Metrics and Learning
-- Transparency and Accountability
 - Cycle Time
-- Evidence Based Leadership
-- Empirical Process Control
-- Practical Techniques and Tooling
+- Transparency and Accountability
 - Flow Efficiency
+- Practical Techniques and Tooling
+- Empirical Process Control
 - Evidence Based Management
-- Software Development
+- Evidence Based Leadership
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

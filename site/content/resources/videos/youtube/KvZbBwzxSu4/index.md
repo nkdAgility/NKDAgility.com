@@ -33,11 +33,11 @@ tags:
 - Evidence Based Management
 - Decision Making
 - Agile Product Operating Model
-- Agile Product Management
 - Value Delivery
-- Business Agility
+- Agile Product Management
+- Agile Leadership
+- Product Strategy
 - Change Management
-- Strategic Goals
 resourceTypes:
 - video
 categories:

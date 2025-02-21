@@ -24,8 +24,8 @@ duration: 117
 isShort: false
 tags:
 - Agile Values and Principles
-- Agile Transformation
 - Agile Philosophy
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.4

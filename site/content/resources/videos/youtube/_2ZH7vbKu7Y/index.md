@@ -32,14 +32,14 @@ sitemap:
 tags:
 - People and Process
 - Personal
-- Resilience and Change
 - Discovery and Learning
+- Resilience and Change
 - Continuous Learning
 - Team Performance
-- Change Management
 - Technical Leadership
-- Organisational Change
-- Agile Leadership
+- Change Management
+- Team Collaboration
+- Team Motivation
 categories:
 - Leadership
 

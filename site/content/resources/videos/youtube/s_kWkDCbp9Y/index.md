@@ -30,14 +30,14 @@ sitemap:
 tags:
 - People and Process
 - Coaching
-- Mentoring
 - Pragmatic Thinking
+- Mentoring
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 Becoming an Agile coach isn’t just about knowing Agile practices. It’s about understanding the context in which your team operates and having the experience to back it up. In this post, I’ll explore why having domain knowledge is essential for Agile coaches, how it impacts your effectiveness, and what you can do to deepen your understanding. Let's dive into it! 🚀

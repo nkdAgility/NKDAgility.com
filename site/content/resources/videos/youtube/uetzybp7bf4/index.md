@@ -25,14 +25,14 @@ isShort: false
 tags:
 - People and Process
 - Decision Making
-- Continuous Learning
-- Team Collaboration
-- Change Management
-- Pragmatic Thinking
+- Team Motivation
+- Transparency and Accountability
 - Discovery and Learning
-- Organisational Culture
-- Team Performance
+- Team Collaboration
 - Value Delivery
+- Business Agility
+- Metrics and Learning
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

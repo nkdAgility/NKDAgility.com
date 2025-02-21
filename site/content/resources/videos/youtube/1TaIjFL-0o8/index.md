@@ -21,13 +21,13 @@ preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
 tags:
-- Scrum Master
 - People and Process
-- Professional Scrum
+- Scrum Master
 - Agile Frameworks
+- Agile Transformation
+- Professional Scrum
 - Agile Project Management
 - Scrum Team
-- Agile Transformation
 - Software Development
 - Sociotechnical Systems
 - Agile Leadership

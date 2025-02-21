@@ -23,9 +23,9 @@ duration: 32
 isShort: true
 tags:
 - People and Process
-- Agile Project Management
-- Team Motivation
 - Employee Engagement
+- Team Motivation
+- Agile Project Management
 - Software Development
 - Agile Product Management
 sitemap:

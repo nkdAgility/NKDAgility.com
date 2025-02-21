@@ -24,13 +24,13 @@ tags:
 - Coaching
 - People and Process
 - Discovery and Learning
-- Team Performance
 - Continuous Learning
-- Customer Feedback Loops
+- Team Performance
 - Organisational Agility
 - Team Collaboration
-- Software Developers
-- Agile Project Management
+- Customer Feedback Loops
+- Empirical Process Control
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

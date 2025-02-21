@@ -25,11 +25,11 @@ duration: 369
 isShort: false
 tags:
 - Professional Scrum
-- Software Development
 - People and Process
+- Software Development
 - Agile Frameworks
-- Agile Project Management
 - Agile Transformation
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

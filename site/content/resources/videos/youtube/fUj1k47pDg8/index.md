@@ -24,14 +24,14 @@ isShort: false
 tags:
 - Discovery and Learning
 - Experimentation
-- Empirical Process Control
-- Product Validation
 - People and Process
+- Empirical Process Control
 - Product Discovery
-- Product Delivery
-- Agile Product Management
+- Product Validation
 - Continuous Learning
+- Agile Product Management
 - Hypothesis Driven Development
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

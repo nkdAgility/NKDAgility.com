@@ -29,13 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Frameworks
 - Team Collaboration
+- Agile Frameworks
 - Agile Project Management
-- Remote Working
 - Practical Techniques and Tooling
-- Software Development
+- Remote Working
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
-- Software Development
 - Personal
+- Software Development
 - Professional Scrum
 resourceTypes:
 - video

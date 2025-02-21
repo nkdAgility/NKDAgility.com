@@ -32,14 +32,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Frameworks
-- Scrum Master
-- Empirical Process Control
 - Agile Values and Principles
-- Software Development
-- Software Developers
-- Agile Project Management
+- Empirical Process Control
+- Scrum Master
+- Pragmatic Thinking
 - Personal
+- Software Developers
 - Agile Philosophy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

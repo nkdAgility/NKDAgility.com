@@ -26,13 +26,13 @@ tags:
 - People and Process
 - Value Delivery
 - Product Delivery
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Sociotechnical Systems
 - Team Performance
 - Software Developers
+- Operational Practices
 - Agile Product Operating Model
-- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

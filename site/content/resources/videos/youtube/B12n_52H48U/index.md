@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Decision Theory
-- People and Process
 - Agile Product Management
+- People and Process
+- Decision Theory
 - Decision Making
-- Agile Project Management
 - Pragmatic Thinking
+- Agile Project Management
 - Scrum Product Development
-- Accountability
 - Agile Strategy
+- Accountability
 resourceTypes:
 - video
 categories:

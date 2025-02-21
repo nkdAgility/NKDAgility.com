@@ -23,16 +23,16 @@ preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 496
 isShort: false
 tags:
+- Agile Product Management
 - Agile Project Management
 - Agile Product Operating Model
-- Agile Product Management
-- Agile Values and Principles
-- Change Management
 - Resilience and Change
 - People and Process
-- Market Adaptability
-- Agile Planning
-- Agile Strategy
+- Agile Values and Principles
+- Change Management
+- Product Delivery
+- Pragmatic Thinking
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

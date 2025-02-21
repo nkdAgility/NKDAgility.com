@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Transparency
 - Agile Product Management
+- People and Process
 - Agile Project Management
 - Empirical Process Control
-- Transparency
 - Scrum Product Development
 - Sprint Review
-- Agile Frameworks
-- Professional Scrum
+- Transparency and Accountability
 - Software Development
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

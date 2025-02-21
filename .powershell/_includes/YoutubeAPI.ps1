@@ -37,7 +37,7 @@ function Get-YoutubeChannelVideos {
     # Step 2: Retrieve all videos from the uploads playlist
     do {
         try {
-            $playlistApiUrl = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&playlistId=$uploadsPlaylistId&maxResults=$maxResults&pageToken=$nextPageToken"
+            $playlistApiUrl = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails,status&playlistId=$uploadsPlaylistId&maxResults=$maxResults&pageToken=$nextPageToken"
             $headers = @{ Authorization = "Bearer $token" }
         
             $playlistResponse = Invoke-RestMethod -Uri $playlistApiUrl -Headers $headers -Method Get

@@ -23,14 +23,14 @@ duration: 181
 isShort: false
 tags:
 - Agile Leadership
-- Continuous Learning
 - People and Process
+- Continuous Learning
 - Agile Transformation
-- Organisational Change
 - Organisational Agility
+- Organisational Change
+- Pragmatic Thinking
 - Personal
 - Mentoring
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -22,16 +22,16 @@ preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
+- Strategy
 - Forecasting
 - Throughput
-- Strategy
-- Metrics and Learning
 - Value Delivery
+- Metrics and Learning
 - Cycle Time
-- Pragmatic Thinking
-- Practical Techniques and Tooling
-- Software Development
 - Flow Efficiency
+- Software Development
+- Practical Techniques and Tooling
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

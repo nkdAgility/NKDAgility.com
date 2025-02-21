@@ -26,13 +26,13 @@ tags:
 - Agile Product Operating Model
 - Agile Product Management
 - Agile Values and Principles
-- Agile Planning
-- Value Delivery
-- Agile Frameworks
-- Agile Strategy
 - Software Developers
-- Software Development
 - People and Process
+- Value Delivery
+- Agile Strategy
+- Software Development
+- Agile Frameworks
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

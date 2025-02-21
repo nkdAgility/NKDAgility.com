@@ -31,8 +31,8 @@ tags:
 - Estimation
 - People and Process
 - Agile Project Management
-- Software Development
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -24,15 +24,15 @@ duration: 169
 isShort: false
 tags:
 - Technical Leadership
-- Engineering Practices
-- Software Development
-- Product Delivery
-- Software Developers
-- Agile Philosophy
 - People and Process
 - Agile Project Management
+- Engineering Practices
+- Software Developers
+- Agile Philosophy
+- Product Delivery
+- Software Development
+- Pragmatic Thinking
 - Value Delivery
-- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

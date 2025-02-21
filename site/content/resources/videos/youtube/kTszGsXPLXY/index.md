@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Cycle Time
 - Practical Techniques and Tooling
 - Agile Frameworks
-- Agile Project Management
 - Operational Practices
+- Agile Project Management
 - Pragmatic Thinking
-- Software Development
 - Flow Efficiency
+- Throughput
 resourceTypes:
 - video
 categories:

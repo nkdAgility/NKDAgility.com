@@ -27,13 +27,13 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
-- Metrics and Learning
-- Value Delivery
 - People and Process
-- Practical Techniques and Tooling
+- Value Delivery
+- Metrics and Learning
 - Flow Efficiency
+- Practical Techniques and Tooling
+- Pragmatic Thinking
 - Agile Frameworks
-- Software Development
 - Lean
 - Lean Thinking
 resourceTypes:

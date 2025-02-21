@@ -40,7 +40,7 @@ resourceTypes:
 categories:
 - Scrum
 - Product Management
-- Leadership
+- Social Technologies
 
 ---
 **Why do you think that 4 half days is a better format than 2 full days?**

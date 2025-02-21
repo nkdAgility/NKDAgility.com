@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Transparency and Accountability
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Agile Frameworks
-- Agile Project Management
 - Operational Practices
-- Lean
+- Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

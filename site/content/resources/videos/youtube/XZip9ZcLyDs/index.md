@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Agile Frameworks
 - People and Process
+- Agile Frameworks
 - Agile Project Management
 - Agile Leadership
 - Scrum Team

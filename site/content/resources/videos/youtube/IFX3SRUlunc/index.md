@@ -25,14 +25,14 @@ isShort: false
 tags:
 - Lean
 - Lean Product Development
+- Value Delivery
 - Events and Presentations
 - Lean Principles
-- Value Delivery
 - Lean Thinking
 - Product Owner
-- Product Discovery
 - Discovery and Learning
 - Decision Making
+- Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

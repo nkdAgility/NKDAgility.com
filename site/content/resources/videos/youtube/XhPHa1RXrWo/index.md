@@ -31,13 +31,13 @@ tags:
 - Agile Values and Principles
 - People and Process
 - Agile Frameworks
-- Software Development
-- Agile Strategy
 - Software Developers
-- Complexity Thinking
+- Agile Strategy
 - Agile Philosophy
 - Agile Transformation
-- Organisational Agility
+- Complexity Thinking
+- Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

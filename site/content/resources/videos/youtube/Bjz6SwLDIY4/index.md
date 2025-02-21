@@ -28,22 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Change
 - People and Process
-- Business Agility
 - Organisational Agility
+- Organisational Change
+- Business Agility
 - Resilience and Change
+- Enterprise Agility
 - Change Management
 - Market Adaptability
-- Enterprise Agility
-- Agile Philosophy
 - Beta Codex
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
 - Social Technologies
+- Leadership
 
 ---
 In today's fast-paced world, both individuals and businesses must constantly adapt to their surroundings. Whether it's a shift in the market, unforeseen circumstances, or technological advancements, those who thrive are the ones who can effectively readjust to the changes around them.

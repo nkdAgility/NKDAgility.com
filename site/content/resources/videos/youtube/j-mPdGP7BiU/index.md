@@ -33,9 +33,9 @@ tags:
 - Discovery and Learning
 - Product Validation
 - Continuous Learning
-- Product Discovery
 - Hypothesis Driven Development
 - Decision Making
+- Product Discovery
 - Lean Startup
 - Evidence Based Management
 resourceTypes:

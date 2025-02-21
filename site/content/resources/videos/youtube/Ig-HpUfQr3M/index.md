@@ -30,8 +30,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
 - Product Management
+- Engineering Excellence
 
 ---
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.
