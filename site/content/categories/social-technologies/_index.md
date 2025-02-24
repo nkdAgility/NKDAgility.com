@@ -26,4 +26,6 @@ headline:
   subtitle: Empowering teams to enhance collaboration, optimise processes, and adapt swiftly in complex environments through innovative frameworks and practices.
   content: Social technologies encompass frameworks and practices that enhance team collaboration, streamline workflows, and facilitate rapid adaptation in dynamic environments. Posts should explore iterative development, visual management, waste reduction, and evidence-based decision-making, drawing on insights from thought leaders to foster continuous improvement and innovation.
   updated: 2025-02-17T13:02:54Z
+
 ---
+
