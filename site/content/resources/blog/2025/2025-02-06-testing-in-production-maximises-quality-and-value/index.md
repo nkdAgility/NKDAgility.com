@@ -25,14 +25,14 @@ aliasesFor404:
 tags:
 - Deployment Strategies
 - Software Development
-- Value Delivery
-- Azure DevOps
 - Continuous Delivery
+- Azure DevOps
 - Product Delivery
-- Technical Mastery
-- Practical Techniques and Tooling
+- Value Delivery
 - Software Developers
-- Frequent Releases
+- Technical Excellence
+- Technical Mastery
+- Operational Practices
 categories:
 - DevOps
 - Engineering Excellence

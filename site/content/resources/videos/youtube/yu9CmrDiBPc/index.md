@@ -38,8 +38,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
-- People and Process
 - Organisational Culture
+- People and Process
 - Sociotechnical Systems
 - Enterprise Agility
 - Team Collaboration
@@ -50,8 +50,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
+- DevOps
 - Product Management
 canonicalUrl: https://www.youtube.com/watch?v=yu9CmrDiBPc
 

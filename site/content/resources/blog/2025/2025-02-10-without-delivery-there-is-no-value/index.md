@@ -23,15 +23,15 @@ aliasesFor404:
 - /blog/without-delivery--there-is-no-value
 tags:
 - Increment
-- Product Delivery
 - Value Delivery
 - Agile Product Management
+- Product Delivery
 - Transparency
-- Deployment Frequency
 - Software Development
-- Working Software
-- Frequent Releases
+- Deployment Frequency
 - People and Process
+- Customer Feedback Loops
+- Frequent Releases
 categories:
 - Product Management
 preview: 2025-02-10-without-delivery-no-value.jpg

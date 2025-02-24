@@ -8,31 +8,31 @@ date: 2025-02-24T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: John McFadyen
-    external: https://www.linkedin.com/in/johnmcfadyen/
-  - name: Rich Visotcky
-    external: https://www.linkedin.com/in/richvisotcky/
+- name: John McFadyen
+  external: https://www.linkedin.com/in/johnmcfadyen/
+- name: Rich Visotcky
+  external: https://www.linkedin.com/in/richvisotcky/
 layout: blog
 resourceTypes: blog
 slug: stop-hiding-behind-complexity-deliver-continuously
 aliases:
-  - /resources/7hEAycZIn8w
+- /resources/7hEAycZIn8w
 aliasesFor404:
-  - /stop-hiding-behind-complexity-deliver-continuously
-  - /blog/stop-hiding-behind-complexity-deliver-continuously
-  - /stop-hiding-behind-complexity-and-start-delivering-continuously
-  - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
+- /stop-hiding-behind-complexity-deliver-continuously
+- /blog/stop-hiding-behind-complexity-deliver-continuously
+- /stop-hiding-behind-complexity-and-start-delivering-continuously
+- /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
-  - Value Delivery
-  - Software Development
-  - Continuous Delivery
-  - Product Delivery
-  - Frequent Releases
+- Continuous Delivery
+- Software Development
+- Product Delivery
+- Value Delivery
+- Frequent Releases
 categories:
-  - DevOps
+- DevOps
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
----
 
+---
 Every organisation says their software is 'too complex' for continuous delivery. That's nonsense. Complexity is an excuse, not a blocker. Azure DevOps, Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.
 
 Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.

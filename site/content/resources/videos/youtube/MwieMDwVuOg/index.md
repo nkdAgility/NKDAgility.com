@@ -31,13 +31,13 @@ duration: 263
 isShort: false
 tags:
 - Agile Strategy
-- Agile Philosophy
-- Scaled Agile
-- Agile Transformation
 - Scaling Agility
-- Pragmatic Thinking
+- Scaled Agile
+- Agile Philosophy
+- Agile Transformation
 - Enterprise Agility
 - Strategy
+- Pragmatic Thinking
 - Organisational Agility
 - Business Agility
 sitemap:

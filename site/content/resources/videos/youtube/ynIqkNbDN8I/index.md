@@ -36,16 +36,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
-- Agile Product Management
-- Value Delivery
 - Business Agility
 - Agile Product Operating Model
+- Value Delivery
+- Agile Product Management
 - Deployment Frequency
-- Ability to Innovate
-- Product Validation
-- Metrics and Learning
-- Frequent Releases
 - Evidence Based Management
+- Discovery and Learning
+- Hypothesis Driven Development
+- Metrics and Learning
+- Agile Strategy
 resourceTypes:
 - video
 categories:
