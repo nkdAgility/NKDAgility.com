@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 tags:
-- System Configuration
 - Install and Configuration
+- System Configuration
 - Practical Techniques and Tooling
 - Software Development
 - Azure DevOps

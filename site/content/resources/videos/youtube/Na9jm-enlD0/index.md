@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Product Owner
 - Products and Books
 - Decision Making
-- Agile Product Management
+- Product Owner
 - Team Collaboration
 - Decision Theory
+- Agile Product Management
 - Agile Project Management
+- Sensemaking
 - Pragmatic Thinking
-- Entrepreneurship
 resourceTypes:
 - video
 categories:

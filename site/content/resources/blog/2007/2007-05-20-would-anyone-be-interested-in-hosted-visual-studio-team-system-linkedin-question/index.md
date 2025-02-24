@@ -27,12 +27,12 @@ aliasesFor404:
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
 - Modern Source Control
-- Software Development
 - Products and Books
-- News and Reviews
-- Practical Techniques and Tooling
+- Software Development
 - System Configuration
-- Application Lifecycle Management
+- Practical Techniques and Tooling
+- News and Reviews
+- Software Developers
 - Collaboration Tools
 - Azure DevOps
 - Technical Mastery

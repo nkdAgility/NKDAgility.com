@@ -23,19 +23,19 @@ aliasesFor404:
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
 - Continuous Delivery
-- Software Developers
-- Value Delivery
 - Working Software
-- Operational Practices
-- Software Development
-- Technical Excellence
-- Product Delivery
+- Value Delivery
+- Software Developers
+- Deployment Frequency
 - Business Agility
+- Operational Practices
+- Product Delivery
+- Technical Excellence
 - Deployment Strategies
 categories:
-- Engineering Excellence
-- DevOps
 - Social Technologies
+- DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

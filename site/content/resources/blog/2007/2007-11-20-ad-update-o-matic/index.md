@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Windows
 - Software Development
+- System Configuration
 - Technical Mastery
 - Working Software
-- System Configuration
 - Operational Practices
 categories: []
 preview: metro-sharepoint-128-link-1-1.png

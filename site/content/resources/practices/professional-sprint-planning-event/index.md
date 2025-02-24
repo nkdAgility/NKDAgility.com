@@ -40,15 +40,15 @@ categories:
 - Social Technologies
 tags:
 - Scrum Product Development
-- People and Process
 - Scrum Team
+- People and Process
+- Team Collaboration
 - Professional Scrum
 - Agile Planning
-- Team Collaboration
 - Agile Product Management
 - Product Delivery
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.

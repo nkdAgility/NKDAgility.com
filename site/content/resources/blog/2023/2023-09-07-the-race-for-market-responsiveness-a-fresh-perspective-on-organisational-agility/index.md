@@ -28,19 +28,19 @@ aliasesFor404:
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags:
 - Organisational Agility
-- Organisational Change
-- Business Agility
-- Market Adaptability
 - Enterprise Agility
+- Business Agility
+- Organisational Change
 - Resilience and Change
+- Market Adaptability
 - Agile Strategy
-- Strategic Goals
 - Strategy
-- Agile Philosophy
+- Pragmatic Thinking
+- Strategic Goals
 categories:
-- Leadership
 - Product Management
 - Social Technologies
+- Leadership
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

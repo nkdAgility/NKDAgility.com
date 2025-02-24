@@ -29,10 +29,10 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - AI and Automation in Agility
-- Automated Testing
-- People and Process
-- Technical Debt
+- Code and Complexity
 - Azure DevOps
+- Test Automation
+- Technical Debt
 resourceTypes:
 - video
 sitemap:

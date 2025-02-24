@@ -32,12 +32,12 @@ tags:
 - Operational Practices
 - Flow Efficiency
 - Practical Techniques and Tooling
+- Throughput
+- Software Development
 - Pragmatic Thinking
 - Agile Frameworks
 - Lean Thinking
 - Agile Project Management
-- Throughput
-- Software Development
 resourceTypes:
 - video
 categories:

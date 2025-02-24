@@ -23,11 +23,11 @@ categories:
 tags:
 - Professional Scrum
 - Discovery and Learning
-- Events and Presentations
 - Continuous Learning
+- Events and Presentations
 - People and Process
-- Agile Frameworks
 - Pragmatic Thinking
+- Agile Frameworks
 - Agile Project Management
 
 ---

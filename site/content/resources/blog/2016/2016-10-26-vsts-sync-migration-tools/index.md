@@ -26,8 +26,8 @@ tags:
 - Azure DevOps
 - Software Development
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: image_thumb-1-1.png
 
 ---

@@ -24,8 +24,8 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 
 ---
 Description of Scrum Framework.

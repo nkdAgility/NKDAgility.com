@@ -23,11 +23,11 @@ duration: 554
 isShort: false
 tags:
 - Pragmatic Thinking
-- People and Process
 - Organisational Change
+- People and Process
+- Organisational Physics
 - Organisational Agility
 - Change Management
-- Organisational Physics
 - Sociotechnical Systems
 - Resilience and Change
 - Transparency and Accountability

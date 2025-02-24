@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - Flow Efficiency
 - Transparency
-- Azure DevOps
 - Azure Boards
+- Azure DevOps
 - Software Development
 - Practical Techniques and Tooling
+- Pragmatic Thinking
 - Agile Frameworks
 - Lean
-- Agile Project Management
-- Pragmatic Thinking
+- Operational Practices
 categories:
 - Kanban
 - Social Technologies

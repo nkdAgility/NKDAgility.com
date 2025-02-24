@@ -31,13 +31,13 @@ tags:
 - Agile Product Management
 - Strategy
 - Ability to Innovate
-- Metrics and Learning
-- Agile Strategy
-- Product Strategy
-- Agile Product Operating Model
-- People and Process
 - Product Delivery
+- Product Strategy
+- People and Process
+- Agile Product Operating Model
 - Strategic Goals
+- Value Delivery
+- Agile Strategy
 resourceTypes:
 - video
 categories:

@@ -28,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - Agile Strategy
+- Agile Frameworks
 - Business Agility
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
+- Technical Leadership
+- Software Development
 - Pragmatic Thinking
-- People and Process
-- Practical Techniques and Tooling
 - Organisational Agility
 - Coaching
 resourceTypes:

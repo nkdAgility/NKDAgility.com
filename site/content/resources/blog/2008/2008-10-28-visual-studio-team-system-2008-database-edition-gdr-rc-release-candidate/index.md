@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 tags:
-- News and Reviews
 - Install and Configuration
+- News and Reviews
 - Release Management
 categories: []
 

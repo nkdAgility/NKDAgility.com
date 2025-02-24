@@ -38,7 +38,7 @@ tags:
 - Technical Excellence
 categories:
 - Scrum
-- Engineering Excellence
+- Social Technologies
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 

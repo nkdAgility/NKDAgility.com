@@ -26,13 +26,13 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Operational Practices
-- Agile Product Operating Model
-- Business Agility
-- People and Process
 - Agile Product Management
-- Organisational Agility
-- Agile Philosophy
-- Ability to Innovate
+- People and Process
+- Business Agility
+- Agile Product Operating Model
+- Evidence Based Leadership
+- Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

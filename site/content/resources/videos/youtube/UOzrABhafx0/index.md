@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Product Backlog
-- Product Owner
+- Agile Product Management
 - Scrum Product Development
 - Products and Books
+- Product Owner
 - Agile Project Management
-- Agile Frameworks
-- Agile Planning
 - Professional Scrum
 - Software Development
+- Agile Frameworks
+- Agile Planning
 resourceTypes:
 - video
 categories:

@@ -25,10 +25,10 @@ tags:
 - People and Process
 - Resilience and Change
 - Organisational Agility
-- Change Management
 - Organisational Change
-- Pragmatic Thinking
+- Change Management
 - Sensemaking
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Decision Making
 - Business Agility

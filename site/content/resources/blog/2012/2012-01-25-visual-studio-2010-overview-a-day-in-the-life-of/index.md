@@ -35,14 +35,14 @@ tags:
 - Events and Presentations
 - Agile Planning
 - Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
+- Application Lifecycle Management
 - Product Delivery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- Engineering Excellence
-- DevOps
+- Scrum
 - Social Technologies
+- DevOps
 
 ---
 This session shows the Day in the Life of a project using TFS from the context of a Developer, Tester, and Program Manager. The purpose of this session is to give a clear picture of how someone in the role of the Developer, the Tester and Program Manager would use TFS in his/her role.

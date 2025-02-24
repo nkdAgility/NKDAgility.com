@@ -22,10 +22,10 @@ preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- People and Process
 - Employee Engagement
-- Team Motivation
+- People and Process
 - Agile Project Management
+- Team Motivation
 - Software Development
 - Agile Product Management
 sitemap:

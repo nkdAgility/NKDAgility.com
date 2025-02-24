@@ -31,13 +31,13 @@ tags:
 - Transparency
 - Strategy
 - Transparency and Accountability
-- Value Delivery
+- Empirical Process Control
 - Flow Efficiency
+- Value Delivery
 - Practical Techniques and Tooling
 - Value Stream Management
-- Empirical Process Control
-- Lean Thinking
-- Lean
+- Agile Frameworks
+- Operational Practices
 resourceTypes:
 - video
 categories:

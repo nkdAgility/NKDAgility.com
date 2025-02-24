@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
-- Software Development
 - Platform Engineering
+- Software Development
 - Practical Techniques and Tooling
-- Azure DevOps
 - Software Developers
+- Azure DevOps
 - Pragmatic Thinking
 - Operational Practices
 - Digital Transformation

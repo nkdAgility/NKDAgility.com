@@ -25,8 +25,8 @@ aliasesFor404:
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
 tags:
 - Software Development
-- Test Automation
 - Automated Testing
+- Test Automation
 - Technical Excellence
 categories:
 - Engineering Excellence

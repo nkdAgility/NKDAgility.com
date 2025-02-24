@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Self Organisation
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 

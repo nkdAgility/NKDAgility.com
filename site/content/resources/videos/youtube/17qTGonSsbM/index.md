@@ -27,12 +27,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Strategy
 - Organisational Agility
 - Resilience and Change
+- Product Strategy
 - Decision Making
-- Pragmatic Thinking
 - Sensemaking
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

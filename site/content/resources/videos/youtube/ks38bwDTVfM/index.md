@@ -23,16 +23,16 @@ preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
 tags:
-- Pragmatic Thinking
 - Scrum Product Development
+- Pragmatic Thinking
 - Software Development
 - Software Developers
+- Scrum Team
 - Backlog Refinement
 - Product Backlog
-- Scrum Team
-- Agile Product Management
-- People and Process
-- Team Collaboration
+- Professional Scrum
+- Scrum Master
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

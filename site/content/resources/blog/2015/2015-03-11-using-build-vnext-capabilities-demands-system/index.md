@@ -29,9 +29,9 @@ tags:
 - Windows
 - Install and Configuration
 - Azure DevOps
-- Practical Techniques and Tooling
 - System Configuration
 - Azure Pipelines
+- Practical Techniques and Tooling
 - Software Development
 - Continuous Integration
 categories:

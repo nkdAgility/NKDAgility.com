@@ -26,11 +26,11 @@ tags:
 - Software Development
 - Software Developers
 - Events and Presentations
-- Agile Project Management
 - Agile Product Management
 - Product Delivery
-- Agile Planning Tools
+- Agile Project Management
 - Practical Techniques and Tooling
+- Agile Planning Tools
 - Agile Frameworks
 categories:
 - Scrum

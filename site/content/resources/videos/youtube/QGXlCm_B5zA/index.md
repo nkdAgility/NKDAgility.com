@@ -24,8 +24,8 @@ duration: 280
 isShort: false
 tags:
 - People and Process
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Scrum Master
 sitemap:
   filename: sitemap.xml

@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Metrics and Learning
+- People and Process
 - Agile Project Management
 - Organisational Agility
-- Agile Philosophy
 - Psychological Safety
-- Pragmatic Thinking
+- Agile Philosophy
 - Software Development
-- Agile Product Management
+- Pragmatic Thinking
 - Transparency and Accountability
+- Agile Product Management
 resourceTypes:
 - video
 categories:

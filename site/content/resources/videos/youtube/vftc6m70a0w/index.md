@@ -27,10 +27,10 @@ tags:
 - Agile Transformation
 - Agile Strategy
 - Organisational Agility
-- Agile Philosophy
-- Change Management
 - Business Agility
 - Agile Leadership
+- Agile Philosophy
+- Change Management
 - Organisational Culture
 sitemap:
   filename: sitemap.xml

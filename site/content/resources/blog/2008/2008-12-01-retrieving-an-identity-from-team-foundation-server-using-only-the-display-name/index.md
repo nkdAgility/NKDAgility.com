@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
-- Technical Mastery
-- Troubleshooting
-- System Configuration
 - Pragmatic Thinking
+- System Configuration
+- Troubleshooting
+- Technical Mastery
 - Windows
 categories:
 - Engineering Excellence

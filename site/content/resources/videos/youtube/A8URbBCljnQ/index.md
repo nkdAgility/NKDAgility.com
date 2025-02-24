@@ -26,12 +26,12 @@ tags:
 - Team Collaboration
 - Pragmatic Thinking
 - Scrum Product Development
-- Events and Presentations
-- Remote Working
 - Product Delivery
+- Remote Working
 - Scrum Team
-- Software Development
 - Agile Product Management
+- Events and Presentations
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

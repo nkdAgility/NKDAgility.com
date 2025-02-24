@@ -27,12 +27,12 @@ tags:
 - Software Development
 - Agile Transformation
 - People and Process
-- Agile Project Management
 - Agile Philosophy
+- Agile Project Management
 - Organisational Agility
 - Pragmatic Thinking
-- Agile Frameworks
 - Agile Strategy
+- Software Developers
 categories:
 - Social Technologies
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg

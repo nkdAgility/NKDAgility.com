@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/how-to-rename-a-team-project-in-tfs-2015
 - /resources/blog/how-to-rename-a-team-project-in-tfs-2015
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 categories: []

@@ -26,8 +26,8 @@ tags:
 - Product Delivery
 categories:
 - Scrum
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

@@ -30,14 +30,14 @@ sitemap:
 tags:
 - People and Process
 - Scrum Product Development
-- Product Owner
-- Agile Product Management
 - Professional Scrum
-- Value Delivery
 - Agile Project Management
+- Product Owner
 - Product Delivery
-- Team Collaboration
+- Agile Product Management
+- Value Delivery
 - Software Development
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

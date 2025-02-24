@@ -24,14 +24,14 @@ aliasesFor404:
 tags:
 - Events and Presentations
 - Product Delivery
-- Application Lifecycle Management
+- Practical Techniques and Tooling
 - Azure Pipelines
 - Release Management
 - Azure DevOps
-- Practical Techniques and Tooling
+- Application Lifecycle Management
+- Software Development
 - News and Reviews
 - Software Developers
-- Software Development
 categories:
 - DevOps
 - Engineering Excellence

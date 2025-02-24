@@ -24,11 +24,11 @@ isShort: false
 tags:
 - People and Process
 - Team Collaboration
-- Practical Techniques and Tooling
 - Operational Practices
+- Practical Techniques and Tooling
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Software Development
 - Transparency
 - Pragmatic Thinking
 - Flow Efficiency

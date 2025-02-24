@@ -29,10 +29,10 @@ tags:
 - Windows
 - Software Development
 - Software Developers
-- Events and Presentations
 - Products and Books
-- News and Reviews
+- Events and Presentations
 - Practical Techniques and Tooling
+- News and Reviews
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

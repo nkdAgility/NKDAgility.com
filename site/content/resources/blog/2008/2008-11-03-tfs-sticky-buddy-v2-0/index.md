@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - Code and Complexity
 - Working Software
-- Application Lifecycle Management
 - Software Development
-- Technical Mastery
 - Technical Excellence
+- Technical Mastery
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-2-1.png
 categories: []
 

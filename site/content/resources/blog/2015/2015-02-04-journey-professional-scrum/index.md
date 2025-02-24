@@ -29,13 +29,13 @@ tags:
 - Scrum Product Development
 - Strategy
 - People and Process
-- Agile Project Management
-- Organisational Culture
 - Software Development
 - Business Agility
-- Value Delivery
 - Organisational Change
-- Product Delivery
+- Scaling Scrum
+- Organisational Culture
+- Agile Product Management
+- Professional Scrum
 categories:
 - Scrum
 - Social Technologies

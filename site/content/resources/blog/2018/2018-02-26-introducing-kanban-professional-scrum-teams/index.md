@@ -29,13 +29,13 @@ tags:
 - Throughput
 - Metrics and Learning
 - Agile Project Management
-- Agile Frameworks
-- Events and Presentations
+- Products and Books
 - Software Development
 - Software Developers
-- Products and Books
-- News and Reviews
-- Practical Techniques and Tooling
+- Events and Presentations
+- Agile Frameworks
+- Flow Efficiency
+- Operational Practices
 categories:
 - Social Technologies
 preview: nkdagility-scrum-and-kanban-1900-2-1.png

@@ -37,8 +37,8 @@ tags:
 - Value Delivery
 - Scrum Product Development
 - Technical Leadership
-- Agile Leadership
 - Agile Product Management
+- Agile Leadership
 - Product Delivery
 - Sociotechnical Systems
 categories:

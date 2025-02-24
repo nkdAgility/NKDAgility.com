@@ -34,9 +34,9 @@ tags:
 - Team Motivation
 - Organisational Culture
 - Agile Project Management
-- Metrics and Learning
 - Team Performance
-- Decision Making
+- Metrics and Learning
+- Agile Leadership
 resourceTypes:
 - video
 layout: video

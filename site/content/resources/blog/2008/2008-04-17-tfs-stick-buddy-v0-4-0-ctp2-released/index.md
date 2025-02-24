@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
 tags:
 - Products and Books
-- News and Reviews
 - Practical Techniques and Tooling
+- News and Reviews
 - Frequent Releases
 - Windows
 - Software Development

@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/blog/managing-the-vsts-developers-linkedin-group
 tags:
-- People and Process
 - Team Collaboration
+- People and Process
 - News and Reviews
 - Miscellaneous
 categories: []

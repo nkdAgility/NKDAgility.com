@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - Organisational Agility
 - Experimentation
-- People and Process
 - Agile Project Management
-- Agile Leadership
+- People and Process
 - Business Agility
-- Agile Transformation
+- Discovery and Learning
 - Resilience and Change
-- Continuous Learning
+- Agile Leadership
 - Digital Transformation
+- Agile Values and Principles
 categories:
 - Leadership
 - Social Technologies

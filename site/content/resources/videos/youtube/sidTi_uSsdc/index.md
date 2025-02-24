@@ -26,16 +26,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - People and Process
 - Team Motivation
 - Agile Philosophy
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 **Discipline versus motivation?**

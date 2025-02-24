@@ -31,8 +31,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 In my experience, the term "project manager" often feels like an oxymoron when we talk about agility. It’s a bit of a paradox, isn’t it? While we can certainly sprinkle some agile principles into project management, the reality is that unless a project manager is willing to let go of their traditional mindset—specifically the belief that they have all the answers and can control every aspect of a project—they will continue to face the same challenges that have plagued project management for years.

@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Decision Making
 - Change Management
 - Agile Philosophy
+- Decision Making
 - Transparency and Accountability
-- Pragmatic Thinking
-- Sociotechnical Systems
 - Organisational Change
-- Organisational Agility
+- Sociotechnical Systems
 - Beta Codex
+- Organisational Agility
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

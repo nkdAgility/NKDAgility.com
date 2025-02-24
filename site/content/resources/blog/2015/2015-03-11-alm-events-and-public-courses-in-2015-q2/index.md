@@ -25,8 +25,8 @@ tags:
 - Events and Presentations
 - News and Reviews
 categories:
-- DevOps
 - Scrum
+- DevOps
 - Social Technologies
 preview: metro-event-icon-1-1.png
 

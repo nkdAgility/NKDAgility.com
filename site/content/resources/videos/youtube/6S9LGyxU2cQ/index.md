@@ -30,7 +30,7 @@ tags:
 - Team Collaboration
 - Customer Feedback Loops
 - Empirical Process Control
-- Agile Frameworks
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

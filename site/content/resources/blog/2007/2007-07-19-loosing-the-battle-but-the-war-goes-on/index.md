@@ -32,14 +32,14 @@ aliasesFor404:
 tags:
 - Release Management
 - People and Process
-- Application Lifecycle Management
-- Software Development
-- Software Developers
 - Modern Source Control
 - Products and Books
+- Software Development
+- Software Developers
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 - Collaboration Tools
-- Personal
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

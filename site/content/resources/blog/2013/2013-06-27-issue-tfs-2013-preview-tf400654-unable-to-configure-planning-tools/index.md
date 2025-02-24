@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - System Configuration

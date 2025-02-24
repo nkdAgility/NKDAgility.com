@@ -24,14 +24,14 @@ aliasesFor404:
 tags:
 - People and Process
 - Increment
-- Agile Values and Principles
 - Software Developers
+- Enterprise Agility
 - Scrum Product Development
+- Empirical Process Control
 - Agile Product Operating Model
-- Large Scale Agility
 - Software Development
-- Resilience and Change
-- Business Agility
+- Large Scale Agility
+- Working Software
 categories:
 - Scrum
 - Social Technologies

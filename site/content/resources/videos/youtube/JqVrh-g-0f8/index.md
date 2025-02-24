@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Product Backlog
+- Scrum Product Development
 - Agile Product Management
 - Product Owner
-- Scrum Product Development
 - Agile Project Management
 resourceTypes:
 - video

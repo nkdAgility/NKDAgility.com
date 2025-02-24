@@ -30,12 +30,12 @@ tags:
 - Metrics and Learning
 - Transparency
 - Throughput
-- Flow Efficiency
 - Transparency and Accountability
-- Agile Product Operating Model
-- Product Delivery
+- Flow Efficiency
 - Cycle Time
+- Value Delivery
 - Practical Techniques and Tooling
+- Agile Product Operating Model
 - Team Performance
 
 ---

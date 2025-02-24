@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Values and Principles
 - Increment
 - Agile Product Management
-- Agile Values and Principles
 - Agile Project Management
-- Empirical Process Control
 - Decision Making
-- Agile Product Operating Model
-- Product Delivery
+- Empirical Process Control
+- People and Process
 - Business Agility
+- Product Delivery
 - Value Delivery
 resourceTypes:
 - video

@@ -28,10 +28,10 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Scrum Team
-- Software Development
-- Team Performance
-- People and Process
 - Team Collaboration
+- Team Performance
+- Software Development
+- People and Process
 - Agile Product Management
 - Agile Project Management
 - Accountability

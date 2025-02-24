@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- Troubleshooting
 - System Configuration
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-9-9.png
 categories: []
 

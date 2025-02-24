@@ -31,9 +31,9 @@ categories: []
 tags:
 - Products and Books
 - Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
 - Miscellaneous
+- Application Lifecycle Management
 
 ---
 what-would-you-like-to-see-

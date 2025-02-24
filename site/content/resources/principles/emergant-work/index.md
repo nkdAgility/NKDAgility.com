@@ -24,14 +24,14 @@ categories:
 - Product Management
 tags:
 - Customer Feedback Loops
-- Product Validation
-- Customer Satisfaction
-- Customer Retention
 - Lean Startup
-- Market Adaptability
 - Lean Product Development
-- Deployment Frequency
-- Value Delivery
+- Customer Satisfaction
+- Product Validation
+- Discovery and Learning
+- Organisational Agility
+- Product Discovery
+- Market Adaptability
 - Working Software
 
 ---

@@ -24,11 +24,11 @@ aliasesFor404:
 tags:
 - Windows
 - Software Development
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
+- Practical Techniques and Tooling
 - Technical Excellence
 - System Configuration
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

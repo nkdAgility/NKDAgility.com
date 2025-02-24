@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - Coaching
 - Scrum Product Development
-- Professional Scrum
-- Scrum Team
-- Events and Presentations
-- Software Development
-- Team Performance
-- Technical Mastery
 - Scrum Master
-- Technical Leadership
+- Team Performance
+- Software Development
+- Events and Presentations
+- Scrum Team
+- Technical Mastery
+- Professional Scrum
+- People and Process
 categories:
 - Scrum
 preview: 1029723898-1-1.jpg

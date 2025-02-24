@@ -34,8 +34,8 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Release Management
-- Technical Mastery
 - Personal
+- Technical Mastery
 - Operational Practices
 categories:
 - DevOps

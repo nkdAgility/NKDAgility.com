@@ -28,12 +28,12 @@ aliasesFor404:
 tags:
 - People and Process
 - Scrum Product Development
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
 - Professional Scrum
 - Scrum Team
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 - Agile Transformation
 - Transparency
 categories:

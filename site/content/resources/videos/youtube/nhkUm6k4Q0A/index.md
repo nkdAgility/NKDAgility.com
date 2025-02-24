@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Mentoring
 - Coaching
+- Mentoring
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences—mine happens to be Scrum—it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.

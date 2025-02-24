@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/access-to-team-foundation-server
 - /resources/blog/access-to-team-foundation-server
 tags:
-- Application Lifecycle Management
-- Software Development
 - Continuous Learning
-- Technical Mastery
+- Software Development
 - Troubleshooting
+- Technical Mastery
 - Miscellaneous
+- Application Lifecycle Management
 categories: []
 
 ---

@@ -23,16 +23,16 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
-- People and Process
 - Decision Making
-- Team Motivation
-- Transparency and Accountability
-- Discovery and Learning
-- Team Collaboration
-- Value Delivery
-- Business Agility
+- People and Process
 - Metrics and Learning
-- Change Management
+- Organisational Culture
+- Continuous Learning
+- Team Performance
+- Team Motivation
+- Business Agility
+- Decision Theory
+- Transparency and Accountability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

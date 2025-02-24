@@ -28,11 +28,11 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

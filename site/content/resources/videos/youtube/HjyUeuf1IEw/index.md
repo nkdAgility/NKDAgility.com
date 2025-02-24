@@ -23,10 +23,10 @@ preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
 tags:
-- People and Process
 - Events and Presentations
-- Software Developers
+- People and Process
 - Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -34,8 +34,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
+- DevOps
 - Social Technologies
 
 ---

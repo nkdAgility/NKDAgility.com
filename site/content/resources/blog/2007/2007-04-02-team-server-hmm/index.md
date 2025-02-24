@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/team-server-hmm
 tags:
 - Modern Source Control
-- Application Lifecycle Management
-- Software Development
 - Products and Books
-- Practical Techniques and Tooling
+- Software Development
 - Install and Configuration
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Windows
+- System Configuration
 - Troubleshooting
 - Miscellaneous
-- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

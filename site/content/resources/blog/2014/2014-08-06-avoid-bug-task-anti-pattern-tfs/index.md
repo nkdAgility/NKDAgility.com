@@ -28,14 +28,14 @@ aliasesFor404:
 - /resources/blog/
 tags:
 - People and Process
-- Product Owner
 - Product Delivery
-- Agile Product Management
-- Azure DevOps
-- Test First Development
 - Software Development
+- Agile Product Management
+- Test First Development
+- Azure DevOps
 - Practical Techniques and Tooling
-- Software Developers
+- Product Owner
+- Azure Boards
 - Team Performance
 categories:
 - DevOps

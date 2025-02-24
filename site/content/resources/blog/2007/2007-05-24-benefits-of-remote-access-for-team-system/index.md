@@ -24,16 +24,16 @@ aliasesFor404:
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
-- Remote Working
-- People and Process
 - Team Collaboration
+- People and Process
+- Remote Working
 - Practical Techniques and Tooling
-- Application Lifecycle Management
-- Collaboration Tools
-- Software Development
-- Azure DevOps
 - Azure Boards
-- Miscellaneous
+- Software Development
+- Collaboration Tools
+- Azure DevOps
+- Pragmatic Thinking
+- Sociotechnical Systems
 
 ---
 Remote access for Team Server is about disparate teams. This means that you can use those cheep contractors in eastern Europe without needing to give them a small project because of the difficulties in integrating their work.

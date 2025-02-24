@@ -22,8 +22,8 @@ duration: 3386
 isShort: false
 tags:
 - Events and Presentations
-- Operational Practices
 - Software Development
+- Operational Practices
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

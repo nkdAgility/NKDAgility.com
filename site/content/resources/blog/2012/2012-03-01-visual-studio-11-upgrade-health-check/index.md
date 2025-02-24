@@ -22,16 +22,16 @@ aliasesFor404:
 - /blog/visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
 tags:
-- Events and Presentations
-- Team Performance
-- People and Process
 - Team Collaboration
 - Products and Books
-- News and Reviews
-- Practical Techniques and Tooling
+- Team Performance
 - Install and Configuration
-- Agile Frameworks
+- Events and Presentations
+- People and Process
+- Practical Techniques and Tooling
+- News and Reviews
 - Software Development
+- Azure DevOps
 categories:
 - Scrum
 - Social Technologies

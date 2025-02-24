@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags:
 - Application Lifecycle Management
-- Events and Presentations
 - Products and Books
+- Events and Presentations
 - Practical Techniques and Tooling
 categories:
 - Engineering Excellence

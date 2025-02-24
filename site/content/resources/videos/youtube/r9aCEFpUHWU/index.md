@@ -26,12 +26,12 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Scrum Team
-- Agile Product Management
-- People and Process
-- Product Delivery
 - Team Performance
 - Software Development
-- Pragmatic Thinking
+- People and Process
+- Agile Product Management
+- Product Delivery
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

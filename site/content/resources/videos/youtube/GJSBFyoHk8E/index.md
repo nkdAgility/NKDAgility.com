@@ -30,14 +30,14 @@ sitemap:
 tags:
 - Scrum Product Development
 - Scrum Team
-- Agile Product Management
-- People and Process
 - Professional Scrum
-- Value Delivery
+- People and Process
+- Agile Product Management
+- Software Development
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
-- Software Development
+- Value Delivery
 resourceTypes:
 - video
 categories:

@@ -32,12 +32,12 @@ tags:
 - Discovery and Learning
 - People and Process
 - Change Management
-- Pragmatic Thinking
 - Value Delivery
-- Ability to Innovate
-- Evidence Based Management
 - Continuous Learning
-- Mentoring
+- Evidence Based Management
+- Pragmatic Thinking
+- Ability to Innovate
+- Coaching
 resourceTypes:
 - video
 categories:

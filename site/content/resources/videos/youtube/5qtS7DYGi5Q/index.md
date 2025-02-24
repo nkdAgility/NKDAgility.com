@@ -28,8 +28,8 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Leadership
-- Value Delivery
 - Evidence Based Management
+- Value Delivery
 - Pragmatic Thinking
 - Metrics and Learning
 - Decision Making

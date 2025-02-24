@@ -28,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Scrum Master
-- People and Process
-- Metrics and Learning
 - Scrum Product Development
-- Product Delivery
-- Agile Product Management
+- People and Process
+- Scrum Team
+- Metrics and Learning
+- Scrum Master
 - Ability to Innovate
+- Team Performance
+- Agile Product Management
 - Practical Techniques and Tooling
 - Operational Practices
 resourceTypes:

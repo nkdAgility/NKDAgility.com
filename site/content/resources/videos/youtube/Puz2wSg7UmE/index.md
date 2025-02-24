@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Metrics and Learning
 - Ability to Innovate
-- Value Delivery
 - Evidence Based Management
+- Value Delivery
 - Evidence Based Leadership
 - Decision Making
 resourceTypes:

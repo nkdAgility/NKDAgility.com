@@ -28,10 +28,10 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Test Automation
-- Engineering Practices
-- Azure DevOps
-- Technical Mastery
 - Software Developers
+- Technical Excellence
+- Azure DevOps
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

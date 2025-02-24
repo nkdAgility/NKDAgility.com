@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 tags:
-- System Configuration
 - Install and Configuration
+- System Configuration
 - Technical Mastery
 - Practical Techniques and Tooling
 - Windows
 - Software Development
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
 categories:
 - DevOps
 

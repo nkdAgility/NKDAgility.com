@@ -27,19 +27,19 @@ aliasesFor404:
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
 - Automated Testing
-- Practical Techniques and Tooling
 - Modern Source Control
+- Practical Techniques and Tooling
+- Engineering Practices
+- Application Lifecycle Management
+- Software Development
+- Continuous Integration
+- Technical Excellence
 - Technical Mastery
 - Operational Practices
-- Engineering Practices
-- Continuous Integration
-- Software Development
-- Azure Pipelines
-- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

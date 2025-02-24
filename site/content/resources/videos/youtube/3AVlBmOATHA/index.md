@@ -30,10 +30,10 @@ tags:
 - People and Process
 - Agile Leadership
 - Agile Strategy
-- Change Management
-- Organisational Change
 - Business Agility
+- Organisational Change
 - Agile Transformation
+- Change Management
 - Pragmatic Thinking
 - Organisational Agility
 - Sociotechnical Systems

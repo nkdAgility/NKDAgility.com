@@ -26,12 +26,12 @@ tags:
 - Throughput
 - Agile Product Management
 - Agile Project Management
-- Value Delivery
 - Metrics and Learning
+- Value Delivery
+- Team Performance
 - Decision Making
 - Flow Efficiency
-- Team Performance
-- Evidence Based Leadership
+- Pragmatic Thinking
 - Operational Practices
 categories:
 - Social Technologies

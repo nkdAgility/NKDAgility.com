@@ -29,14 +29,14 @@ sitemap:
 tags:
 - Agile Product Management
 - Agile Values and Principles
-- People and Process
+- Agile Product Operating Model
 - Value Delivery
 - Agile Project Management
+- People and Process
 - Product Delivery
 - Cycle Time
-- Agile Product Operating Model
 - Lead Time
-- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

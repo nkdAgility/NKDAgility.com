@@ -30,19 +30,19 @@ sitemap:
 tags:
 - Accountability
 - Scrum Team
-- Agile Product Management
-- People and Process
-- Transparency and Accountability
-- Product Owner
 - Scrum Product Development
-- Professional Scrum
+- Agile Product Management
+- Transparency and Accountability
+- People and Process
+- Product Owner
 - Agile Project Management
+- Professional Scrum
 - Team Collaboration
 resourceTypes:
 - video
 categories:
-- Leadership
 - Scrum
+- Leadership
 - Product Management
 
 ---

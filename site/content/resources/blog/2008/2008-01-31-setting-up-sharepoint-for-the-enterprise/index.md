@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Deployment Strategies
 - Install and Configuration
-- Technical Mastery
 - System Configuration
+- Technical Mastery
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

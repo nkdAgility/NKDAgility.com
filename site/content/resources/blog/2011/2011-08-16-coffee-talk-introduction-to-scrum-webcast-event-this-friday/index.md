@@ -29,12 +29,12 @@ tags:
 - People and Process
 - Scrum Product Development
 - Professional Scrum
-- Agile Frameworks
-- Events and Presentations
 - Software Development
-- Agile Project Management
-- Agile Product Management
+- Events and Presentations
+- Agile Frameworks
 - Scrum Team
+- Agile Product Management
+- Agile Project Management
 - Agile Transformation
 categories:
 - Scrum

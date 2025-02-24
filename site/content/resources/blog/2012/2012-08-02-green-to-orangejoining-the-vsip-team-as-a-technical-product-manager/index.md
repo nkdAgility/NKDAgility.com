@@ -30,7 +30,7 @@ tags:
 categories:
 - Scrum
 - Product Management
-- Engineering Excellence
+- Social Technologies
 
 ---
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

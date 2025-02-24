@@ -24,8 +24,8 @@ duration: 245
 isShort: false
 tags:
 - Agile Leadership
-- People and Process
 - Organisational Agility
+- People and Process
 - Business Agility
 - Agile Transformation
 - Organisational Change

@@ -22,14 +22,14 @@ aliasesFor404:
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
-- Events and Presentations
-- Application Lifecycle Management
-- Software Development
 - Modern Source Control
-- News and Reviews
+- Software Development
+- Events and Presentations
 - Practical Techniques and Tooling
-- Azure DevOps
+- News and Reviews
+- Application Lifecycle Management
 - Technical Excellence
+- Azure DevOps
 - Working Software
 - Operational Practices
 categories:

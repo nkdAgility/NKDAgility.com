@@ -29,8 +29,8 @@ tags:
 - Release Management
 - Automated Testing
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

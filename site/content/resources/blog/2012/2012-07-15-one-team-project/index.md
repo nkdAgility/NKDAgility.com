@@ -35,7 +35,7 @@ tags:
 - Azure DevOps
 - Pragmatic Thinking
 - Azure Boards
-- Large Scale Agility
+- People and Process
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-8-8.png

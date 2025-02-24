@@ -25,8 +25,8 @@ aliasesFor404:
 tags:
 - Test First Development
 - Software Development
-- Engineering Practices
 - Technical Excellence
+- Engineering Practices
 categories:
 - Engineering Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg

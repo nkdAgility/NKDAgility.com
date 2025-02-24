@@ -30,14 +30,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
-- Agile Project Management
-- Agile Strategy
-- Agile Philosophy
-- Change Management
 - Agile Transformation
-- Discovery and Learning
-- Organisational Change
+- Agile Project Management
+- Agile Philosophy
 - Market Adaptability
+- Organisational Change
+- Business Agility
+- Agile Strategy
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

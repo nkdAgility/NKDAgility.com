@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-prototype-configuration-demystified
 tags:
 - Windows
-- System Configuration
 - Install and Configuration
+- System Configuration
 - Practical Techniques and Tooling
 - Software Development
 - Azure DevOps

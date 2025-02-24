@@ -31,13 +31,13 @@ tags:
 - Mentoring
 - People and Process
 - Discovery and Learning
-- Continuous Learning
 - Value Delivery
+- Continuous Learning
 - Agile Philosophy
-- Agile Frameworks
 - Pragmatic Thinking
-- Team Collaboration
 - Coaching
+- Team Collaboration
+- Agile Project Management
 resourceTypes:
 - video
 categories:

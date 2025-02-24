@@ -24,9 +24,9 @@ duration: 891
 isShort: false
 tags:
 - Professional Scrum
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

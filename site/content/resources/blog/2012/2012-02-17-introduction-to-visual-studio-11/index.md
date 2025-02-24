@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
-- Events and Presentations
 - Team Collaboration
 - Products and Books
-- News and Reviews
-- Practical Techniques and Tooling
 - Install and Configuration
+- Events and Presentations
+- Practical Techniques and Tooling
+- News and Reviews
 - Software Development
 - Azure DevOps
 categories: []

@@ -36,8 +36,8 @@ tags:
 - Agile Project Management
 - Strategy
 - Team Motivation
-- Self Organisation
 - Accountability
+- Software Development
 resourceTypes:
 - video
 categories:

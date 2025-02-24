@@ -25,12 +25,12 @@ tags:
 - Coaching
 - Agile Planning Tools
 - Agile Planning
-- Agile Project Management
 - Agile Transformation
-- Events and Presentations
-- Agile Frameworks
-- People and Process
+- Agile Project Management
 - Agile Product Management
+- People and Process
+- Agile Frameworks
+- Events and Presentations
 - Product Delivery
 sitemap:
   filename: sitemap.xml

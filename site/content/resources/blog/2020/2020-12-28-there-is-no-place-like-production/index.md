@@ -25,14 +25,14 @@ aliasesFor404:
 tags:
 - Increment
 - Business Agility
-- Product Validation
-- Agile Product Management
 - Release Management
-- Metrics and Learning
-- Discovery and Learning
+- Agile Product Management
+- Product Validation
+- Product Discovery
 - Agile Product Operating Model
+- Value Delivery
+- Lean Product Development
 - Ability to Innovate
-- Working Software
 categories:
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg

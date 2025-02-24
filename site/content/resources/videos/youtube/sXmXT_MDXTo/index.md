@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
+- Software Development
+- Software Developers
 - People and Process
 - Value Delivery
-- Software Developers
 - Product Delivery
-- Software Development
-- Practical Techniques and Tooling
 - Deployment Frequency
 - Deployment Strategies
-- Operational Practices
+- Practical Techniques and Tooling
+- Technical Excellence
 resourceTypes:
 - video
 categories:

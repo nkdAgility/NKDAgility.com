@@ -26,8 +26,8 @@ aliasesFor404:
 - /blog/how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags:
-- Professional Scrum
 - Scrum Product Development
+- Professional Scrum
 - Agile Project Management
 categories:
 - Scrum

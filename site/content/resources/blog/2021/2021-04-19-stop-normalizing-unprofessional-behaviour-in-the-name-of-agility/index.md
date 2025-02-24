@@ -27,11 +27,11 @@ tags:
 - People and Process
 - Agile Product Management
 - Agile Values and Principles
-- Agile Frameworks
-- Software Development
 - Team Performance
+- Software Development
 - Software Developers
-- Agile Project Management
+- Organisational Agility
+- Agile Frameworks
 - Agile Philosophy
 categories:
 - Scrum

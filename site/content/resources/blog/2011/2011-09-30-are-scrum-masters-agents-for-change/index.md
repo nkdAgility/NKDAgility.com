@@ -32,10 +32,10 @@ tags:
 - Events and Presentations
 - Organisational Change
 - Agile Project Management
-- Agile Frameworks
 - Software Development
-- Agile Transformation
 - Pragmatic Thinking
+- Agile Frameworks
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

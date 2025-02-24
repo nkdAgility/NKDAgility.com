@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 tags:
 - Agile Project Management
-- Scrum Team
-- Professional Scrum
-- People and Process
 - Scrum Product Development
-- Team Collaboration
-- Events and Presentations
+- Professional Scrum
+- Scrum Team
+- People and Process
 - Software Development
+- Events and Presentations
+- Team Collaboration
 - Team Performance
-- Software Developers
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

@@ -30,12 +30,12 @@ sitemap:
 tags:
 - Scrum Master
 - People and Process
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Software Development
 - Scrum Team
-- Team Performance
 - Professional Scrum
+- Team Performance
 resourceTypes:
 - video
 categories:

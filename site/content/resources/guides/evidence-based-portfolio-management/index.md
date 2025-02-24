@@ -23,12 +23,12 @@ categories:
 tags:
 - Portfolio Management
 - Business Agility
+- Enterprise Agility
+- Agile Strategy
+- Agile Transformation
+- Organisational Agility
 - Organisational Change
 - Agile Philosophy
-- Organisational Agility
-- Enterprise Agility
-- Agile Transformation
-- Agile Strategy
 - Evidence Based Management
 - Market Adaptability
 

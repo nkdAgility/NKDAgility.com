@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/tfs-gotcha-exception-handling
 tags:
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 categories:
 - Engineering Excellence
 

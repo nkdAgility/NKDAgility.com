@@ -27,13 +27,13 @@ aliasesFor404:
 - /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 tags:
 - Software Development
-- People and Process
 - Products and Books
+- People and Process
 - Events and Presentations
-- Application Lifecycle Management
-- Value Delivery
 - Working Software
+- Value Delivery
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 - Azure DevOps
 - Product Delivery
 categories:

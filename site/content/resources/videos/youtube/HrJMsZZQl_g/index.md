@@ -33,10 +33,10 @@ tags:
 - People and Process
 - Discovery and Learning
 - Team Collaboration
-- Team Performance
 - Continuous Learning
-- Pragmatic Thinking
+- Team Performance
 - Agile Frameworks
+- Pragmatic Thinking
 - Empirical Process Control
 - Metrics and Learning
 - Scrum Team

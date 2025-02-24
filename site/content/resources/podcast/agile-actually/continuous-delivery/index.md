@@ -6,8 +6,8 @@ ResourceImport: false
 ResourceType: podcast
 date: 2023-11-23
 categories:
-- DevOps
 - Scrum
+- DevOps
 - Social Technologies
 author: MrHinsh
 resourceTypes: podcast

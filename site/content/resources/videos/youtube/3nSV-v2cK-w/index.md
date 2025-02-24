@@ -26,9 +26,9 @@ tags:
 - People and Process
 - Agile Values and Principles
 - Team Motivation
+- Software Development
 - Organisational Agility
 - Agile Philosophy
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

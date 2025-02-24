@@ -22,15 +22,15 @@ preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
-- Agile Product Management
 - Agile Planning
+- Agile Product Management
 - Agile Project Management
-- People and Process
-- Agile Frameworks
-- Software Developers
-- Product Delivery
-- Agile Philosophy
 - Scrum Product Development
+- Software Developers
+- Agile Frameworks
+- People and Process
+- Agile Philosophy
+- Product Delivery
 - Agile Transformation
 sitemap:
   filename: sitemap.xml
@@ -39,8 +39,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 A common practice I observe among agile teams is the reliance on burndown charts to gauge progress throughout a Sprint. However, I must confess, I view burndowns as a form of agile banditry. The premise of a burndown chart is that for it to move smoothly from the top left to the bottom right, you must have meticulously planned the entire Sprint upfront. But let’s be honest—when we’re developing products that don’t yet exist, this approach is fundamentally flawed.

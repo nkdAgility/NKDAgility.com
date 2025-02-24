@@ -29,8 +29,8 @@ tags:
 - Agile Project Management
 - Practical Techniques and Tooling
 - Asynchronous Development
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

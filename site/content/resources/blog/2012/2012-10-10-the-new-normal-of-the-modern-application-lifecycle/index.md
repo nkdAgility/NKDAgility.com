@@ -24,13 +24,13 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - People and Process
+- Business Agility
 - Software Development
 - Software Developers
-- Business Agility
-- News and Reviews
 - Market Adaptability
 - Events and Presentations
 - Organisational Agility
+- News and Reviews
 - Digital Transformation
 categories:
 - DevOps

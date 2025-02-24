@@ -26,15 +26,15 @@ categories:
 - Social Technologies
 tags:
 - People and Process
-- Value Delivery
 - Scrum Product Development
-- Events and Presentations
 - Flow Efficiency
-- Team Performance
+- Value Delivery
+- Events and Presentations
 - Practical Techniques and Tooling
-- Lean Principles
+- Team Performance
+- Agile Project Management
 - Throughput
-- Lean
+- Product Delivery
 
 ---
 ## Duration

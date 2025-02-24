@@ -31,9 +31,9 @@ tags:
 - Experimentation
 - Metrics and Learning
 - Discovery and Learning
-- Product Validation
 - Continuous Learning
 - Hypothesis Driven Development
+- Product Validation
 - Decision Making
 - Product Discovery
 - Lean Startup

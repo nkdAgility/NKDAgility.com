@@ -26,9 +26,9 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Transparency
-- Practical Techniques and Tooling
 - Continuous Learning
 - Discovery and Learning
+- Practical Techniques and Tooling
 - Lean Principles
 sitemap:
   filename: sitemap.xml

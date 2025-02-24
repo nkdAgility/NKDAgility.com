@@ -29,8 +29,8 @@ tags:
 - Windows
 - System Configuration
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

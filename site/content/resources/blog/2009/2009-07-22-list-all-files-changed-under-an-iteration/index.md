@@ -24,11 +24,11 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Software Development
-- Azure Repos
 - Azure DevOps
+- Azure Repos
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

@@ -23,12 +23,12 @@ preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
 duration: 2127
 isShort: false
 tags:
-- People and Process
 - Events and Presentations
-- Agile Frameworks
-- Software Developers
-- Agile Project Management
+- People and Process
 - Software Development
+- Software Developers
+- Agile Frameworks
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -36,8 +36,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
+- DevOps
 - Social Technologies
 
 ---

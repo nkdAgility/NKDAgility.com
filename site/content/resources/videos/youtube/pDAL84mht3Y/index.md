@@ -24,8 +24,8 @@ isShort: true
 tags:
 - People and Process
 - Organisational Agility
-- Agile Philosophy
 - Business Agility
+- Agile Philosophy
 - Agile Values and Principles
 sitemap:
   filename: sitemap.xml

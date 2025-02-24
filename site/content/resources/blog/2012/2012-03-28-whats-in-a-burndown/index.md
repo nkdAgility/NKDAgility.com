@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/whats-in-a-burndown
 tags:
 - Scrum Product Development
-- Product Delivery
-- Scrum Team
-- Software Development
 - Practical Techniques and Tooling
-- Team Performance
-- Professional Scrum
-- Software Developers
-- Agile Planning
+- Product Delivery
+- Software Development
+- Scrum Team
 - Agile Project Management
+- Team Performance
+- Agile Product Management
+- Professional Scrum
+- Agile Planning
 categories:
 - Scrum
 - Social Technologies

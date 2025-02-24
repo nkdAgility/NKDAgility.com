@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
 tags:
 - Windows
-- System Configuration
 - Install and Configuration
+- System Configuration
 - Troubleshooting
 preview: nakedalm-logo-128-link-5-5.png
 categories: []

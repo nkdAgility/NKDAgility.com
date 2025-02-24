@@ -22,11 +22,11 @@ preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- People and Process
 - Scrum Master
 - Scrum Team
-- Agile Project Management
+- People and Process
 - Technical Leadership
+- Agile Project Management
 - Agile Leadership
 sitemap:
   filename: sitemap.xml
@@ -35,8 +35,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Scrum
+- Leadership
 - Social Technologies
 
 ---

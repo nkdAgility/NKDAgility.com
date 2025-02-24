@@ -30,16 +30,16 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags:
-- Professional Scrum
-- Events and Presentations
-- People and Process
 - Scrum Product Development
-- Agile Frameworks
+- Professional Scrum
+- People and Process
+- Events and Presentations
+- Team Collaboration
 - Agile Transformation
 - Agile Project Management
-- Discovery and Learning
+- Team Performance
 - Software Developers
-- Team Collaboration
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

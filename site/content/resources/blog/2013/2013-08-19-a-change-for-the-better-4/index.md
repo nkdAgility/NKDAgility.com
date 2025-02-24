@@ -28,16 +28,16 @@ aliasesFor404:
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
 tags:
-- Coaching
 - Mentoring
+- Coaching
 - Application Lifecycle Management
-- Agile Planning
 - Agile Project Management
-- Agile Leadership
-- Agile Strategy
+- Agile Planning
 - People and Process
+- Agile Strategy
 - Agile Frameworks
-- Agile Transformation
+- Practical Techniques and Tooling
+- Agile Leadership
 categories:
 - Social Technologies
 preview: nakedalm-logo-128-link-4-4.png

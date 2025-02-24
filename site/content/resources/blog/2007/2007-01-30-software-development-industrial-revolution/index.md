@@ -23,18 +23,18 @@ aliasesFor404:
 - /resources/blog/software-development-industrial-revolution
 tags:
 - Pragmatic Thinking
-- Working Software
-- Software Development
 - Application Lifecycle Management
+- Software Development
+- Working Software
+- Team Collaboration
+- Software Developers
+- Release Management
+- Products and Books
 - Product Delivery
 - News and Reviews
-- People and Process
-- Team Collaboration
-- Products and Books
-- Release Management
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

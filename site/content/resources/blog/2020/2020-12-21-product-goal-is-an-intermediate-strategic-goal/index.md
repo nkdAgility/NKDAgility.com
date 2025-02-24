@@ -25,13 +25,13 @@ aliasesFor404:
 tags:
 - Experimentation
 - Agile Product Operating Model
-- Agile Product Management
 - Agile Project Management
-- Strategic Goals
+- Agile Product Management
 - Value Delivery
-- People and Process
 - Resilience and Change
-- Evidence Based Leadership
+- Discovery and Learning
+- Product Delivery
+- People and Process
 - Evidence Based Management
 categories:
 - Product Management

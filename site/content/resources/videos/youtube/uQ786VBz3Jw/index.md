@@ -23,15 +23,15 @@ duration: 246
 isShort: false
 tags:
 - Transparency
-- Product Owner
 - Agile Planning Tools
-- Agile Planning
+- Product Owner
+- Agile Product Management
 - Transparency and Accountability
 - People and Process
-- Agile Product Management
+- Agile Planning
+- Team Collaboration
 - Agile Frameworks
-- Scrum Team
-- Agile Project Management
+- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

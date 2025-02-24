@@ -29,11 +29,11 @@ slug: what-makes-the-psm-immersive-learning-experience-so-unique
 layout: video
 tags:
 - Agile Project Management
-- Scrum Master
-- People and Process
-- Professional Scrum
 - Discovery and Learning
+- Professional Scrum
+- Scrum Master
 - Continuous Learning
+- People and Process
 - Pragmatic Thinking
 - Team Collaboration
 - Events and Presentations

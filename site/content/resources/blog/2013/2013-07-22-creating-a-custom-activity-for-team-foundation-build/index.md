@@ -25,15 +25,15 @@ tags:
 - Install and Configuration
 - Software Development
 - Practical Techniques and Tooling
-- Azure DevOps
-- Technical Mastery
 - Technical Excellence
-- Continuous Integration
+- Azure DevOps
 - Azure Pipelines
+- Technical Mastery
 - Operational Practices
+- Continuous Integration
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

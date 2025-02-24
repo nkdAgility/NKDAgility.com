@@ -34,8 +34,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
  *Unlocking Agile Success: Beyond Tools and Techniques*

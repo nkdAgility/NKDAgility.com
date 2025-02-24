@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Scrum Master
 categories:
-- Leadership
 - Scrum
+- Leadership
 - Social Technologies
 preview: Wide-screen-scrum-master-3-3.jpg
 

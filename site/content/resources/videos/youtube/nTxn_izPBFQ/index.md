@@ -34,16 +34,16 @@ tags:
 - Product Owner
 - People and Process
 - Agile Project Management
-- Agile Product Operating Model
 - Scrum Product Development
 - Agile Leadership
+- Agile Product Operating Model
 - Products and Books
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Leadership
 - Scrum
+- Leadership
 - Product Management
 
 ---

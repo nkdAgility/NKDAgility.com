@@ -27,12 +27,12 @@ tags:
 - Scrum Master
 - Discovery and Learning
 - Continuous Learning
-- Agile Product Management
-- People and Process
-- Team Collaboration
-- Value Delivery
-- Agile Frameworks
+- Products and Books
 - Team Performance
+- Software Development
+- Events and Presentations
+- Pragmatic Thinking
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -33,9 +33,9 @@ sitemap:
 tags:
 - People and Process
 - Professional Scrum
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Software Development
 - Empirical Process Control
 - Pragmatic Thinking
 - Scrum Product Development

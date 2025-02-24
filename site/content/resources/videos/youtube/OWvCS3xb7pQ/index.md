@@ -23,8 +23,8 @@ duration: 181
 isShort: false
 tags:
 - Agile Leadership
-- People and Process
 - Continuous Learning
+- People and Process
 - Agile Transformation
 - Organisational Agility
 - Organisational Change

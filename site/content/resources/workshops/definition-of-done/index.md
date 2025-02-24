@@ -24,8 +24,8 @@ card:
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 tags:
 - Definition of Done
 

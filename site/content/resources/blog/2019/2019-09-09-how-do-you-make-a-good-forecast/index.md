@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - Throughput
 - People and Process
-- Metrics and Learning
-- Professional Scrum
 - Scrum Product Development
 - Agile Product Operating Model
-- Agile Product Management
+- Professional Scrum
 - Agile Project Management
 - Product Delivery
-- Agile Strategy
+- Agile Product Management
+- Metrics and Learning
+- Cycle Time
 categories:
 - Scrum
 - Product Management

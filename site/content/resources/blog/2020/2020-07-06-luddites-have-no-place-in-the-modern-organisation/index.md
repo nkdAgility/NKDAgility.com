@@ -25,13 +25,13 @@ tags:
 - Agile Leadership
 - Organisational Culture
 - People and Process
-- Resilience and Change
-- Organisational Agility
-- Organisational Change
 - Business Agility
+- Resilience and Change
+- Organisational Change
+- Organisational Agility
+- Market Adaptability
 - Change Management
 - Enterprise Agility
-- Market Adaptability
 categories:
 - Leadership
 - Social Technologies

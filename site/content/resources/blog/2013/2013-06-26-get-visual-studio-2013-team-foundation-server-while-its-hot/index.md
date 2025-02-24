@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - Agile Product Management
 - Team Collaboration
-- Product Delivery
-- Agile Project Management
-- Product Backlog
-- Portfolio Management
 - Agile Planning Tools
+- Agile Project Management
+- Product Delivery
+- Product Backlog
 - Collaboration Tools
-- Application Lifecycle Management
-- Azure Boards
+- Portfolio Management
+- Products and Books
+- Agile Strategy
 categories:
 - Social Technologies
 - Scrum

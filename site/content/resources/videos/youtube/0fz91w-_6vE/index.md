@@ -23,14 +23,14 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - People and Process
-- Value Delivery
 - Product Delivery
-- Operational Practices
-- Market Adaptability
+- Value Delivery
 - Software Development
-- Flow Efficiency
+- Market Adaptability
+- Operational Practices
 - Value Stream Management
 - Discovery and Learning
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

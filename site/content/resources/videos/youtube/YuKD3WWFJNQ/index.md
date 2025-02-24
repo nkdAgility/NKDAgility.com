@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
+- Decision Making
 - Agile Product Management
 - People and Process
 - Sprint Review
-- Decision Making
-- Value Delivery
-- Agile Transformation
+- Organisational Culture
+- Team Performance
+- Scrum Product Development
 - Team Motivation
-- Agile Frameworks
 - Agile Planning
 resourceTypes:
 - video

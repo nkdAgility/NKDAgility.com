@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Install and Configuration
-- Troubleshooting
+- Practical Techniques and Tooling
 - System Configuration
+- Troubleshooting
 - Pragmatic Thinking
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 I encountered a bit of a red herring today when I was trying to rename a Work Item Type Definition (WITD) and received the message that you can't use WITADMIN on versions older than TFS 2010. However the server was TFS 2010.

@@ -25,14 +25,14 @@ categories:
 tags:
 - Customer Feedback Loops
 - Market Adaptability
-- Customer Satisfaction
-- Lean Startup
 - Lean Product Development
-- Value Delivery
+- Customer Satisfaction
+- Product Validation
+- Discovery and Learning
+- Organisational Agility
 - Business Agility
 - Lead Time
-- Empirical Process Control
-- Working Software
+- Agile Values and Principles
 
 ---
 Update the work based on user feedback on timelines shorter than one month

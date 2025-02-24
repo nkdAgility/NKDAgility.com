@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Management
-- Agile Planning
 - Scrum Product Development
+- Agile Planning
+- Agile Product Management
 - Agile Project Management
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 ## Is Your Sprint Goal Hitting the Mark?

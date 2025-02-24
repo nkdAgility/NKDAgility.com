@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Business Agility
-- Organisational Culture
 - Strategic Goals
+- Organisational Culture
+- People and Process
 - Organisational Agility
-- Resilience and Change
-- Systems Thinking
-- Value Delivery
+- Business Agility
 - Agile Strategy
+- Value Delivery
+- Operational Practices
 - Enterprise Agility
+- Organisational Physics
 resourceTypes:
 - video
 categories:

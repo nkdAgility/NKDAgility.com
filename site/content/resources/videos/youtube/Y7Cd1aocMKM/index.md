@@ -32,10 +32,10 @@ tags:
 - Team Collaboration
 - Agile Frameworks
 - Agile Project Management
-- Practical Techniques and Tooling
 - Remote Working
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

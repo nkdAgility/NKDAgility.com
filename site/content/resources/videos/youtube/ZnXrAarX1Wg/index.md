@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - Software Development
 resourceTypes:
 - video

@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2013
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - Troubleshooting

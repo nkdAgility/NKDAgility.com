@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- Agile Product Management
-- People and Process
-- Agile Values and Principles
 - Agile Project Management
-- Agile Transformation
+- Agile Values and Principles
+- People and Process
+- Agile Product Management
+- Agile Product Operating Model
 - Business Agility
-- Agile Philosophy
 - Organisational Agility
+- Agile Frameworks
+- Agile Philosophy
 - Product Delivery
 resourceTypes:
 - video

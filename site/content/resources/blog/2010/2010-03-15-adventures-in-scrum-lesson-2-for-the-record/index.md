@@ -26,16 +26,16 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
-- People and Process
-- Scrum Product Development
 - Scrum Team
-- Team Collaboration
+- Scrum Product Development
+- People and Process
+- Professional Scrum
 - Scrum Master
-- Software Developers
-- Agile Product Management
-- Agile Planning
 - Software Development
-- Product Delivery
+- Software Developers
+- Agile Planning
+- Agile Product Management
+- Team Collaboration
 categories:
 - Scrum
 - Social Technologies

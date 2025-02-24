@@ -29,14 +29,14 @@ aliasesFor404:
 tags:
 - Pragmatic Thinking
 - Strategy
-- Agile Product Management
-- Agile Project Management
 - Increment
-- Working Software
-- Product Delivery
-- Agile Philosophy
-- Agile Values and Principles
+- Agile Project Management
+- Agile Product Management
 - Agile Strategy
+- Software Development
+- Working Software
+- Agile Values and Principles
+- Product Delivery
 categories:
 - Social Technologies
 - Product Management

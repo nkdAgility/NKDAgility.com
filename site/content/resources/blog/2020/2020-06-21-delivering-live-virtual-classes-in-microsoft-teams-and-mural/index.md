@@ -29,11 +29,11 @@ tags:
 - Team Collaboration
 - People and Process
 - Agile Values and Principles
-- Professional Scrum
 - Scrum Product Development
+- Professional Scrum
+- Collaboration Tools
 - Events and Presentations
 - Discovery and Learning
-- Collaboration Tools
 - Scrum Team
 - Scrum Values
 

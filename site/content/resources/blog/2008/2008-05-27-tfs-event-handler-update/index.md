@@ -24,13 +24,13 @@ aliasesFor404:
 tags:
 - Release Management
 - Working Software
-- News and Reviews
 - Practical Techniques and Tooling
-- Application Lifecycle Management
+- News and Reviews
 - Software Development
 - Azure DevOps
 - Troubleshooting
 - Frequent Releases
+- Application Lifecycle Management
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

@@ -31,21 +31,21 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
-- People and Process
 - Scrum Master
 - Scrum Team
+- People and Process
 - Team Performance
 - Agile Frameworks
-- Mentoring
 - Agile Project Management
-- Pragmatic Thinking
+- Mentoring
 - Team Collaboration
+- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 

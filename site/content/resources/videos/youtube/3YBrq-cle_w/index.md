@@ -21,15 +21,15 @@ preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
 tags:
-- People and Process
 - Scrum Master
 - Scrum Team
+- People and Process
 - Professional Scrum
 - Technical Leadership
-- Agile Frameworks
-- Agile Transformation
-- Agile Project Management
 - Software Development
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
 - Self Organisation
 sitemap:
   filename: sitemap.xml

@@ -26,12 +26,12 @@ aliasesFor404:
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
 tags:
-- Application Lifecycle Management
 - People and Process
+- Application Lifecycle Management
 - Software Developers
 - Agile Project Management
-- Software Development
 - Continuous Learning
+- Software Development
 - Personal
 - Mentoring
 - Product Delivery

@@ -22,16 +22,16 @@ preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false
 tags:
-- People and Process
-- Agile Values and Principles
 - Agile Project Management
-- Change Management
-- Team Performance
+- Agile Values and Principles
+- People and Process
 - Software Developers
 - Organisational Culture
 - Agile Transformation
-- Team Collaboration
+- Change Management
 - Agile Philosophy
+- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

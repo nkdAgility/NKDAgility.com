@@ -22,14 +22,14 @@ categories:
 - Product Management
 - Social Technologies
 tags:
-- Agile Project Management
 - Agile Product Management
-- Professional Scrum
+- Agile Project Management
 - Scrum Product Development
+- Professional Scrum
 - Product Backlog
-- Product Owner
 - Agile Frameworks
 - Agile Planning
+- Product Owner
 - Agile Planning Tools
 - Software Development
 

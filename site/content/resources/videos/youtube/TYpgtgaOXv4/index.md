@@ -35,9 +35,9 @@ tags:
 - Product Delivery
 - Product Owner
 - Agile Planning Tools
-- Value Delivery
 - Software Development
-- Agile Planning
+- Value Delivery
+- Scrum Product Development
 resourceTypes:
 - video
 categories:
