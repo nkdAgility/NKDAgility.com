@@ -23,8 +23,8 @@ duration: 39
 isShort: true
 tags:
 - Team Collaboration
-- People and Process
 - Collaboration Tools
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

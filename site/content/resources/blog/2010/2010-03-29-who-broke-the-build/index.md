@@ -29,17 +29,17 @@ tags:
 - Windows
 - Code and Complexity
 - Install and Configuration
-- Application Lifecycle Management
-- System Configuration
-- Practical Techniques and Tooling
-- Software Developers
 - Modern Source Control
-- Technical Excellence
+- Practical Techniques and Tooling
+- System Configuration
+- Application Lifecycle Management
+- Software Developers
 - Continuous Delivery
+- Operational Practices
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

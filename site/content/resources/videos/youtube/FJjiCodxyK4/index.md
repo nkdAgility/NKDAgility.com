@@ -36,8 +36,8 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Agile Transformation
-- Pragmatic Thinking
 - Organisational Culture
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

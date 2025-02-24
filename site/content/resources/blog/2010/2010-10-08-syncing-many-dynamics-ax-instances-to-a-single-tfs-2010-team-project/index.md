@@ -24,14 +24,14 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
-- Application Lifecycle Management
+- Practical Techniques and Tooling
 - Software Development
-- Azure DevOps
-- Technical Mastery
 - Technical Excellence
+- Azure DevOps
+- Pragmatic Thinking
 - Troubleshooting
+- Technical Mastery
 categories:
 - Engineering Excellence
 

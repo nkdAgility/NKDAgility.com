@@ -31,8 +31,8 @@ tags:
 - Software Development
 - Troubleshooting
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: naked-alm-git-2-2.png
 
 ---

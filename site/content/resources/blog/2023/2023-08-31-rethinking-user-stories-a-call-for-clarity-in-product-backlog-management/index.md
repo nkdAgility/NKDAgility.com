@@ -29,14 +29,14 @@ aliasesFor404:
 tags:
 - Transparency
 - Scrum Product Development
-- People and Process
 - Product Backlog
-- Agile Product Management
+- People and Process
 - Transparency and Accountability
-- Product Owner
+- Agile Product Management
 - Software Development
-- Agile Project Management
+- Pragmatic Thinking
 - Product Delivery
+- Product Owner
 categories:
 - Product Management
 - Social Technologies

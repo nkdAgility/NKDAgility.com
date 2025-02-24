@@ -25,12 +25,12 @@ tags:
 - People and Process
 - Agile Values and Principles
 - Organisational Agility
-- Agile Leadership
-- Organisational Change
-- Agile Transformation
-- Agile Philosophy
 - Agile Strategy
+- Organisational Culture
+- Employee Engagement
 - Organisational Psychology
+- Agile Leadership
+- Agile Philosophy
 - Value Delivery
 sitemap:
   filename: sitemap.xml

@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 - Discovery and Learning
 - Team Collaboration
 - Continuous Learning
-- Agile Project Management
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Agile Frameworks
+- Agile Project Management
 - Scrum Team
 resourceTypes:
 - video

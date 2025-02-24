@@ -29,10 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Systems Thinking
 - Organisational Physics
-- Change Management
+- Systems Thinking
 - Organisational Change
+- Change Management
 - Pragmatic Thinking
 - Sociotechnical Systems
 resourceTypes:

@@ -23,15 +23,15 @@ duration: 498
 isShort: false
 tags:
 - People and Process
-- Agile Values and Principles
 - Increment
+- Agile Values and Principles
 - Empirical Process Control
-- Agile Product Management
-- Working Software
 - Agile Project Management
-- Team Performance
-- Team Collaboration
-- Value Delivery
+- Working Software
+- Agile Product Management
+- Product Delivery
+- Product Validation
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -22,14 +22,14 @@ preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false
 tags:
-- Discovery and Learning
 - Experimentation
-- People and Process
+- Discovery and Learning
 - Empirical Process Control
-- Product Discovery
 - Product Validation
-- Continuous Learning
+- People and Process
+- Product Discovery
 - Agile Product Management
+- Continuous Learning
 - Hypothesis Driven Development
 - Product Delivery
 sitemap:

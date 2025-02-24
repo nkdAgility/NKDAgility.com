@@ -32,10 +32,10 @@ tags:
 - Experimentation
 - Product Discovery
 - People and Process
+- Value Delivery
 - Hypothesis Driven Development
 - Product Validation
 - Pragmatic Thinking
-- Value Delivery
 - Continuous Learning
 - Team Collaboration
 resourceTypes:

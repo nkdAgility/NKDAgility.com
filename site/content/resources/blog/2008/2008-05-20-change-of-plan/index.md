@@ -24,10 +24,10 @@ aliasesFor404:
 tags:
 - Code and Complexity
 - Software Development
+- Pragmatic Thinking
+- Troubleshooting
 - Technical Mastery
 - Working Software
-- Troubleshooting
-- Pragmatic Thinking
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

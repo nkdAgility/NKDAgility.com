@@ -33,9 +33,9 @@ tags:
 - Software Developers
 - Agile Product Management
 - Practical Techniques and Tooling
-- Agile Frameworks
-- Agile Planning
+- Azure Boards
 - Azure DevOps
+- Pragmatic Thinking
 categories:
 - Social Technologies
 - Scrum

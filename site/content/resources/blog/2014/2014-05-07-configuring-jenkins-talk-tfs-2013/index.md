@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
 - Technical Excellence
+- Technical Mastery
 - Continuous Integration
 - Operational Practices
 - Modern Source Control

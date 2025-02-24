@@ -27,14 +27,14 @@ aliasesFor404:
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 tags:
 - Coaching
-- Professional Scrum
 - Scrum Product Development
-- Events and Presentations
-- Scrum Team
+- Professional Scrum
 - Scrum Master
 - People and Process
-- Agile Project Management
-- Team Collaboration
+- Scrum Team
+- Events and Presentations
+- Team Performance
+- Software Development
 - Team Motivation
 categories:
 - Scrum

@@ -32,8 +32,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
  When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create. 

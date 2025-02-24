@@ -23,8 +23,8 @@ duration: 57
 isShort: true
 tags:
 - Practical Techniques and Tooling
-- Operational Practices
 - Software Development
+- Operational Practices
 - Lean Principles
 - Pragmatic Thinking
 - Agile Frameworks

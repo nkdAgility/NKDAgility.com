@@ -22,20 +22,20 @@ aliasesFor404:
 - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 - /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 tags:
-- System Configuration
 - Install and Configuration
+- System Configuration
 - Software Development
 - Practical Techniques and Tooling
-- Application Lifecycle Management
-- Technical Mastery
-- Troubleshooting
 - Pragmatic Thinking
-- Release Management
+- Troubleshooting
+- Technical Mastery
+- Application Lifecycle Management
 - Deployment Strategies
+- Release Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 Visual Studio Team Foundation Server 2010 RC was released yesterday on MSDN. I am happy to report that today we successfully completed upgrading our production TFS 2010 Beta 2 server, to the new TFS 2010 RC. wow.

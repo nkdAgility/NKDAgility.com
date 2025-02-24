@@ -35,8 +35,8 @@ tags:
 - Pragmatic Thinking
 - Agile Frameworks
 - Lean
-- Operational Practices
 - Lean Thinking
+- Operational Practices
 - Lean Principles
 resourceTypes:
 - video

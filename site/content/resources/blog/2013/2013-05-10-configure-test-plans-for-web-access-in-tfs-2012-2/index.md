@@ -23,14 +23,14 @@ aliasesFor404:
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
-- Application Lifecycle Management
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - Troubleshooting
-- Technical Mastery
+- Application Lifecycle Management
 - Pragmatic Thinking
+- Technical Mastery
 categories:
 - Engineering Excellence
 

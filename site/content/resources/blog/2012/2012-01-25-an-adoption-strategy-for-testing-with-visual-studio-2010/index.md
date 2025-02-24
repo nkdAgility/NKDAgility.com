@@ -22,13 +22,13 @@ aliasesFor404:
 - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
-- Events and Presentations
 - Products and Books
+- Events and Presentations
 - Practical Techniques and Tooling
 - Software Development
+- Team Collaboration
 - Software Developers
 - People and Process
-- Team Collaboration
 categories:
 - Scrum
 - Social Technologies

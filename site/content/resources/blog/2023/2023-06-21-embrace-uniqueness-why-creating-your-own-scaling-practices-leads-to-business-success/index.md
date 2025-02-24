@@ -30,13 +30,13 @@ tags:
 - Business Agility
 - Agile Strategy
 - Organisational Culture
-- People and Process
 - Enterprise Agility
 - Organisational Agility
+- People and Process
 - Strategy
 - Pragmatic Thinking
-- Market Adaptability
 - Scaling Agility
+- Discovery and Learning
 categories:
 - Leadership
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg

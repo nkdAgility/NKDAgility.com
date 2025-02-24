@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/bug-in-observablecollection
 tags:
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

@@ -30,11 +30,11 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Technical Excellence
-- Continuous Integration
-- Troubleshooting
-- System Configuration
 - Pragmatic Thinking
+- System Configuration
+- Troubleshooting
 - Operational Practices
+- Continuous Integration
 - Release Management
 categories:
 - DevOps

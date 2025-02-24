@@ -31,12 +31,12 @@ tags:
 - Sensemaking
 - Agile Product Management
 - Agile Project Management
-- Product Backlog
-- Scrum Product Development
-- Discovery and Learning
-- Agile Product Operating Model
 - Agile Strategy
+- Scrum Product Development
 - Resilience and Change
+- Product Backlog
+- Discovery and Learning
+- People and Process
 categories:
 - Product Management
 - Social Technologies

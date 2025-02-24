@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Install and Configuration
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

@@ -26,11 +26,11 @@ tags:
 - Operational Practices
 - Software Development
 - Install and Configuration
-- Application Lifecycle Management
 - Practical Techniques and Tooling
-- Azure DevOps
-- Technical Mastery
+- Application Lifecycle Management
 - Technical Excellence
+- Azure DevOps
+- Pragmatic Thinking
 - Troubleshooting
 categories:
 - Scrum

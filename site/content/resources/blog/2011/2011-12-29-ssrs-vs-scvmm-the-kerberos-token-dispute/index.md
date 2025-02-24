@@ -31,9 +31,9 @@ tags:
 - Windows
 - Software Development
 - Azure DevOps
-- Technical Mastery
-- Troubleshooting
 - Pragmatic Thinking
+- Troubleshooting
+- Technical Mastery
 categories:
 - DevOps
 

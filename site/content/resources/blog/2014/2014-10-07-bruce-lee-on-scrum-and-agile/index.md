@@ -28,8 +28,8 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Organisational Agility
 - Pragmatic Thinking
+- Organisational Agility
 categories:
 - Social Technologies
 preview: nakedalm-experts-professional-scrum-2-2.png

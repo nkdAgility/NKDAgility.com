@@ -30,15 +30,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
 - Scrum Product Development
-- Product Backlog
-- People and Process
+- Agile Planning
 - Backlog Refinement
+- People and Process
+- Product Backlog
 - Team Performance
+- Agile Product Management
 - Scrum Team
 - Product Delivery
-- Agile Product Management
 - Agile Planning Tools
 resourceTypes:
 - video

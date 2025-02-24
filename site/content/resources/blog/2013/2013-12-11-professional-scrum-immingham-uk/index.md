@@ -31,15 +31,15 @@ aliasesFor404:
 - /resources/blog/professional-scrum-immingham-uk
 tags:
 - Scrum Product Development
-- Professional Scrum
-- Software Development
-- Value Delivery
-- Product Delivery
 - Scrum Team
+- Professional Scrum
+- Value Delivery
+- Software Development
+- Product Delivery
 - Cross Functional Teams
-- People and Process
-- Events and Presentations
+- Team Collaboration
 - Agile Product Management
+- Team Performance
 categories:
 - Scrum
 - Social Technologies

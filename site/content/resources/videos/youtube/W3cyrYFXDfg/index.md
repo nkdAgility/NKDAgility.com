@@ -31,12 +31,12 @@ tags:
 - Agile Leadership
 - People and Process
 - Metrics and Learning
-- Decision Making
 - Organisational Agility
 - Evidence Based Leadership
+- Decision Making
 - Agile Strategy
 - Agile Project Management
-- Evidence Based Management
+- Business Agility
 - Technical Leadership
 resourceTypes:
 - video

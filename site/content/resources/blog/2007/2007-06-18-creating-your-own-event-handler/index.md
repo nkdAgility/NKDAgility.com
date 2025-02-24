@@ -24,9 +24,9 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Software Development
+- Technical Excellence
 - Azure DevOps
 - Technical Mastery
-- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

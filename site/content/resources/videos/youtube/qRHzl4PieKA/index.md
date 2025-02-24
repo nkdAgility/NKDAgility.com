@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- Agile Product Management
 - People and Process
 - Agile Values and Principles
+- Agile Product Management
+- Agile Product Operating Model
 - Value Delivery
 - Market Adaptability
 - Agile Philosophy
 - Agile Project Management
-- Business Agility
 - Organisational Agility
+- Business Agility
 resourceTypes:
 - video
 categories:

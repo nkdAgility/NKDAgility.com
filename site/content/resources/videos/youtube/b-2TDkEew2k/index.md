@@ -24,14 +24,14 @@ isShort: true
 tags:
 - Agile Values and Principles
 - Agile Planning
-- Agile Product Management
 - Agile Frameworks
+- Agile Product Management
 - Agile Philosophy
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
+- Software Development
 - Pragmatic Thinking
 - Organisational Agility
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

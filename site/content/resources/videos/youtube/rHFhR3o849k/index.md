@@ -23,11 +23,11 @@ preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- People and Process
 - Scrum Master
+- People and Process
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Software Development
 - Coaching
 sitemap:
   filename: sitemap.xml

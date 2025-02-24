@@ -24,8 +24,8 @@ card:
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 - Product Management
 tags:
 - Transparency and Accountability
@@ -35,8 +35,8 @@ tags:
 - Product Delivery
 - Working Agreements
 - Professional Scrum
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 - Agile Planning
 
 ---

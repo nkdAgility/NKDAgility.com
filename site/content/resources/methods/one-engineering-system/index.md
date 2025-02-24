@@ -34,8 +34,8 @@ tags:
 - Software Development
 - Azure DevOps
 - Team Collaboration
-- Practical Techniques and Tooling
 - Operational Practices
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Collaboration Tools
 - Software Developers

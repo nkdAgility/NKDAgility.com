@@ -23,8 +23,8 @@ tags:
 - People and Process
 - Events and Presentations
 - Continuous Learning
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 

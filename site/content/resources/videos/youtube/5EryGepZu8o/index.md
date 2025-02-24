@@ -31,8 +31,8 @@ tags:
 - Complexity Thinking
 - Agile Frameworks
 - Agile Philosophy
-- Empirical Process Control
 - Agile Project Management
+- Empirical Process Control
 - Pragmatic Thinking
 - Agile Values and Principles
 - Sensemaking

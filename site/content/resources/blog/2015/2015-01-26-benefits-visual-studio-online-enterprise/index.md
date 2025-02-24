@@ -27,11 +27,11 @@ aliasesFor404:
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
 - Application Lifecycle Management
-- Software Development
-- Release Management
-- Azure DevOps
-- Business Agility
 - Products and Books
+- Software Development
+- Azure DevOps
+- Release Management
+- Business Agility
 - Organisational Agility
 - Practical Techniques and Tooling
 - Digital Transformation

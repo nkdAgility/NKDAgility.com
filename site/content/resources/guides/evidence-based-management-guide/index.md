@@ -38,8 +38,8 @@ tags:
 - Evidence Based Management
 - Ability to Innovate
 - Value Delivery
-- Metrics and Learning
 - Evidence Based Leadership
+- Metrics and Learning
 - Experimentation
 - Decision Making
 

@@ -31,7 +31,7 @@ tags:
 - Operational Practices
 - Agile Project Management
 - Strategy
-- Decision Making
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,8 +39,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
+- Kanban
 
 ---
 One of the most pivotal aspects of a Caman strategy is the continuous improvement of our systems and workflows. After defining our workflow and documenting how we intend to operate, the next step is to actively monitor our ongoing work. This is where the magic happens; as we observe, we begin to identify patterns that can inform our decision-making.

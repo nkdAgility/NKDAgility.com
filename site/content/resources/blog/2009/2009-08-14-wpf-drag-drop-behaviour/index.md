@@ -28,8 +28,8 @@ aliasesFor404:
 tags:
 - Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
 - Technical Excellence
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-5-1.png

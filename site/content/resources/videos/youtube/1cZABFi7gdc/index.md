@@ -27,15 +27,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - Agile Strategy
-- Agile Transformation
-- Agile Project Management
+- Agile Frameworks
 - Agile Leadership
-- Pragmatic Thinking
-- People and Process
-- Mentoring
+- Agile Project Management
+- Agile Transformation
+- Technical Leadership
+- Software Development
 - Enterprise Agility
+- Pragmatic Thinking
 - Organisational Agility
 resourceTypes:
 - video

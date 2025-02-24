@@ -32,12 +32,12 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Scrum Product Development
-- Product Owner
 - Professional Scrum
-- Product Backlog
 - Scrum Team
+- Product Owner
 - Scaling Scrum
-- Team Performance
+- Product Backlog
+- Events and Presentations
 - Agile Product Management
 - Large Scale Agility
 categories:

@@ -28,16 +28,16 @@ aliasesFor404:
 tags:
 - Products and Books
 - Software Development
-- News and Reviews
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
+- Practical Techniques and Tooling
+- News and Reviews
 - Technical Excellence
-- Release Management
+- Technical Mastery
 - Deployment Strategies
+- Release Management
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 What a mouthful! Has there ever been any products with names as long as the Team System toolset ;), Maybe thats why it is just called [Data Dude](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en).

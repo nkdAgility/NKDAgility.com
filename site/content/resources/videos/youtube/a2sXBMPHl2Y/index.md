@@ -31,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Pragmatic Thinking
 - Continuous Learning
-- Personal
+- Pragmatic Thinking
 - Organisational Culture
 - Coaching
+- Personal
 resourceTypes:
 - video
 categories:

@@ -27,12 +27,12 @@ tags:
 - MVP
 - Lean Product Development
 - Ability to Innovate
-- Product Validation
-- Product Discovery
+- Pragmatic Thinking
 - Metrics and Learning
-- Value Delivery
-- Product Delivery
 - Lean Startup
+- Discovery and Learning
+- Product Validation
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

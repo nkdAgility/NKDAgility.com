@@ -22,11 +22,11 @@ aliasesFor404:
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
+- Azure Boards
 - Software Development
 - Azure DevOps
-- Azure Boards
 categories: []
 
 ---

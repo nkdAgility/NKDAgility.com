@@ -27,13 +27,13 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
 tags:
 - Code and Complexity
-- Application Lifecycle Management
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Software Development
+- Technical Excellence
 - Azure DevOps
 - Technical Mastery
-- Technical Excellence
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

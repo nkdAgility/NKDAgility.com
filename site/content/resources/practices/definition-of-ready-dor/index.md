@@ -30,12 +30,12 @@ tags:
 - Product Backlog
 - Scrum Product Development
 - Software Developers
-- Backlog Refinement
-- People and Process
-- Agile Product Management
 - Scrum Team
+- People and Process
+- Backlog Refinement
+- Agile Product Management
 - Professional Scrum
-- Agile Frameworks
+- Software Development
 
 ---
 From the perspective of Scrum, the idea of Ready, as applied to a Backlog Item, represents everyone's (Developers, Product Owner, & Stakeholders) understanding of what is needed to implement that Backlog Item. Since this is subjective and not objective, having a definition of what constitutes ready is not possible.

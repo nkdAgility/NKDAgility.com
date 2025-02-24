@@ -23,12 +23,12 @@ isShort: false
 tags:
 - Personal
 - Agile Project Management
-- People and Process
 - Software Development
-- Pragmatic Thinking
-- Agile Frameworks
+- People and Process
 - Software Developers
+- Pragmatic Thinking
 - Organisational Agility
+- Agile Frameworks
 - Agile Philosophy
 - Agile Transformation
 sitemap:

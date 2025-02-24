@@ -31,13 +31,13 @@ tags:
 - Strategy
 - People and Process
 - Cycle Time
-- Agile Frameworks
 - Metrics and Learning
+- Agile Frameworks
 - Flow Efficiency
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Operational Practices
 - Throughput
+- Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

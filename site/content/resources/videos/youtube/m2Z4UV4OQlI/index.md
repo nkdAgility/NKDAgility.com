@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Metrics and Learning
 - Evidence Based Leadership
 - People and Process
-- Discovery and Learning
+- Metrics and Learning
+- Transparency and Accountability
+- Ability to Innovate
 - Evidence Based Management
 - Empirical Process Control
-- Transparency and Accountability
+- Discovery and Learning
 - Pragmatic Thinking
-- Ability to Innovate
 resourceTypes:
 - video
 categories:

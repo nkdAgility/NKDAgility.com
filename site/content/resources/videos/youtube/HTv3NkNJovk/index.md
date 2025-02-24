@@ -31,13 +31,13 @@ tags:
 - Agile Leadership
 - Agile Values and Principles
 - People and Process
-- Agile Product Management
-- Empirical Process Control
-- Evidence Based Leadership
 - Metrics and Learning
+- Empirical Process Control
 - Business Agility
-- Scaling Agility
-- Product Delivery
+- Agile Product Management
+- Evidence Based Leadership
+- Pragmatic Thinking
+- Hypothesis Driven Development
 resourceTypes:
 - video
 categories:

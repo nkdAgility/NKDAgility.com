@@ -26,11 +26,11 @@ tags:
 - Scrum Master
 - People and Process
 - Agile Leadership
-- Agile Project Management
 - Scrum Team
+- Agile Project Management
+- Products and Books
 - Professional Scrum
 - Technical Leadership
-- Products and Books
 - Team Motivation
 categories:
 - Leadership

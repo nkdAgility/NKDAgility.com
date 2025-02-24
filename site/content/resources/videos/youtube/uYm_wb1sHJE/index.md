@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Events and Presentations
-- Agile Product Management
 - Sprint Review
-- People and Process
-- Agile Project Management
+- Agile Product Management
+- Events and Presentations
 - Scrum Product Development
+- Agile Project Management
 - Product Delivery
+- People and Process
 - Software Development
-- Agile Frameworks
-- Pragmatic Thinking
+- Professional Scrum
+- Scrum Master
 resourceTypes:
 - video
 categories:

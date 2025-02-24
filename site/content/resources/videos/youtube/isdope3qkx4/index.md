@@ -24,12 +24,12 @@ duration: 2351
 isShort: false
 tags:
 - Azure DevOps
+- Events and Presentations
 - People and Process
 - News and Reviews
-- Events and Presentations
+- Software Development
 - Software Developers
 - Agile Project Management
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -37,8 +37,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
+- DevOps
 - Social Technologies
 
 ---

@@ -29,13 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
-- People and Process
 - Professional Scrum
+- People and Process
+- Scrum Master
 - Agile Frameworks
 - Agile Transformation
-- Scrum Master
-- Empirical Process Control
 - Software Development
+- Empirical Process Control
 - Pragmatic Thinking
 - Agile Values and Principles
 resourceTypes:

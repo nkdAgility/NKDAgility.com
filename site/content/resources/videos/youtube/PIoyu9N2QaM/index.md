@@ -35,8 +35,8 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Scrum Team
-- People and Process
 - Agile Frameworks
+- People and Process
 - Agile Project Management
 - Software Development
 - Accountability

@@ -31,16 +31,16 @@ tags:
 - Agile Planning Tools
 - Agile Product Management
 - Scrum Product Development
-- Agile Planning
 - Agile Product Operating Model
-- Product Backlog
 - Agile Project Management
+- Product Backlog
+- Agile Planning
+- Backlog Refinement
+- Practical Techniques and Tooling
 - Software Development
-- Product Delivery
-- Azure Boards
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 preview: metro-problem-icon-8-8.png
 
 ---

@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/reformat-your-css-on-the-fly
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
 - Technical Excellence
 - Troubleshooting
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-1.png

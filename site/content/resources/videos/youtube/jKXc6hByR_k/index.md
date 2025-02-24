@@ -24,8 +24,8 @@ duration: 172
 isShort: false
 tags:
 - People and Process
-- Value Delivery
 - Product Delivery
+- Value Delivery
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

@@ -30,12 +30,12 @@ tags:
 - Professional Scrum
 - Scaling Scrum
 - Scrum Values
-- Agile Frameworks
 - Software Development
 - Software Developers
+- Agile Frameworks
 - People and Process
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

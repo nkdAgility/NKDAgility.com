@@ -26,8 +26,8 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Windows
-- Troubleshooting
 - System Configuration
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-10-10.png
 categories:
 - DevOps

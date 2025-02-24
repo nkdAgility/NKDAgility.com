@@ -31,13 +31,13 @@ tags:
 - Pragmatic Thinking
 - Resilience and Change
 - Complexity Thinking
-- Discovery and Learning
-- Azure DevOps
-- Continuous Learning
 - People and Process
+- Continuous Learning
+- Discovery and Learning
 - Metrics and Learning
-- Frequent Releases
-- Sociotechnical Systems
+- Azure DevOps
+- Product Delivery
+- Engineering Practices
 resourceTypes:
 - video
 categories:

@@ -21,14 +21,14 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Excellence
-- Value Delivery
-- Engineering Practices
-- Continuous Integration
 - Continuous Delivery
-- Release Management
 - Software Developers
-- Product Delivery
-- Deployment Frequency
+- Release Management
+- Value Delivery
+- Continuous Integration
+- Engineering Practices
+- Modern Source Control
+- Deployment Strategies
 categories:
 - DevOps
 - Engineering Excellence

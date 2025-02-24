@@ -29,11 +29,11 @@ tags:
 - Product Owner
 - Accountability
 - Scrum Product Development
-- People and Process
 - Product Backlog
-- Agile Project Management
-- Agile Product Management
 - Scrum Team
+- People and Process
+- Agile Product Management
+- Agile Project Management
 - Professional Scrum
 - Software Development
 categories:

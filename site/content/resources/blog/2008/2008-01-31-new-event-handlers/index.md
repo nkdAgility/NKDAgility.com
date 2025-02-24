@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/new-event-handlers
 - /resources/blog/new-event-handlers
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
-- Technical Mastery
 - System Configuration
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png

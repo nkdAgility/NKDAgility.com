@@ -25,13 +25,13 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Scrum Team
-- Product Owner
 - Professional Scrum
 - Agile Product Management
 - Product Delivery
-- Agile Frameworks
+- Product Owner
 - Software Development
-- Agile Planning
+- Strategy
+- Agile Frameworks
 categories:
 - Scrum
 - Product Management

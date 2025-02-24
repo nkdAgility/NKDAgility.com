@@ -29,8 +29,8 @@ tags:
 - Install and Configuration
 - Windows
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

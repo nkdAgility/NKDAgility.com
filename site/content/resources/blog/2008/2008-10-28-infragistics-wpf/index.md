@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/infragistics-wpf
 tags:
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Technical Mastery
 categories: []
 
 ---

@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Agile Project Management
 - Scrum Product Development
+- Agile Project Management
 - Agile Product Management
 - Product Owner
-- Scrum Team
 - People and Process
-- Team Performance
+- Scrum Team
 - Software Development
+- Team Performance
 - Agile Frameworks
 resourceTypes:
 - video

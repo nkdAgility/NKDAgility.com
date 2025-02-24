@@ -26,13 +26,13 @@ tags:
 - Transparency
 - Increment
 - Agile Product Operating Model
-- Agile Product Management
 - Agile Values and Principles
+- Agile Product Management
+- Agile Planning
 - Agile Strategy
-- Agile Frameworks
 - Scrum Product Development
 - People and Process
-- Agile Planning
+- Agile Frameworks
 categories:
 - Product Management
 - Social Technologies

@@ -30,12 +30,12 @@ tags:
 - Agile Project Management
 - Scrum Product Development
 - People and Process
-- Scrum Team
 - Scrum Master
 - Software Development
-- Agile Product Management
+- Scrum Team
+- Events and Presentations
 - Professional Scrum
-- Product Delivery
+- Software Developers
 categories:
 - Scrum
 - Social Technologies

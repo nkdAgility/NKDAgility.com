@@ -29,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Professional Scrum
 - Scrum Master
+- People and Process
 - Pragmatic Thinking
 - Agile Frameworks
 - Agile Project Management
 - Personal
-- Practical Techniques and Tooling
 - Scrum Team
+- Practical Techniques and Tooling
 - Team Performance
 resourceTypes:
 - video

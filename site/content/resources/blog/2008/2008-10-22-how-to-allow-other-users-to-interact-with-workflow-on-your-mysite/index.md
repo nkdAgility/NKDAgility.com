@@ -26,9 +26,9 @@ aliasesFor404:
 - /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 tags:
-- Practical Techniques and Tooling
-- System Configuration
 - Install and Configuration
+- System Configuration
+- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-15-15.png
 categories:
 - Social Technologies

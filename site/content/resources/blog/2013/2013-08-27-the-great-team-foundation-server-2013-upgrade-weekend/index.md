@@ -23,8 +23,8 @@ aliasesFor404:
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
 - Install and Configuration
-- Events and Presentations
 - Products and Books
+- Events and Presentations
 - News and Reviews
 categories:
 - Engineering Excellence

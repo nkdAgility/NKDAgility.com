@@ -29,7 +29,7 @@ tags:
 - Install and Configuration
 categories:
 - Scrum
-- Engineering Excellence
+- Social Technologies
 - DevOps
 
 ---

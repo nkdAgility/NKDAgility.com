@@ -27,15 +27,15 @@ aliasesFor404:
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Transformation
-- People and Process
-- Software Development
-- Agile Values and Principles
-- Software Developers
 - Team Collaboration
+- Agile Values and Principles
 - Agile Leadership
 - Resilience and Change
-- Team Performance
-- Product Delivery
+- Software Developers
+- People and Process
+- Software Development
+- Business Agility
+- Organisational Agility
 categories:
 - Leadership
 - Social Technologies

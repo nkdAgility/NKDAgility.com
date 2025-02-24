@@ -29,8 +29,8 @@ aliasesFor404:
 - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 tags:
 - Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
+- Application Lifecycle Management
 - Test Automation
 - Events and Presentations
 - Technical Excellence

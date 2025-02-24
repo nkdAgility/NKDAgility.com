@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/live-framework
 - /resources/blog/live-framework
 tags:
-- Collaboration Tools
 - Team Collaboration
+- Collaboration Tools
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development

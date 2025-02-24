@@ -29,12 +29,12 @@ sitemap:
   priority: 0.6
 tags:
 - Flow Efficiency
-- Agile Frameworks
-- Operational Practices
-- Lean Thinking
-- Agile Project Management
 - Throughput
 - Software Development
+- Agile Frameworks
+- Lean Thinking
+- Operational Practices
+- Agile Project Management
 resourceTypes:
 - video
 categories:

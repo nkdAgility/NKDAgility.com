@@ -31,12 +31,12 @@ tags:
 - People and Process
 - Empirical Process Control
 - Scrum Product Development
-- Software Development
-- Agile Product Management
 - Value Delivery
+- Software Development
 - Product Delivery
-- Agile Frameworks
+- Agile Product Management
 - Agile Project Management
+- Agile Frameworks
 - Pragmatic Thinking
 resourceTypes:
 - video

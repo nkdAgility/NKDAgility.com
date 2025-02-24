@@ -27,9 +27,9 @@ tags:
 - Engineering Practices
 - Technical Mastery
 - Software Development
-- People and Process
-- Technical Debt
 - Technical Leadership
+- Technical Debt
+- People and Process
 - Value Delivery
 - Pragmatic Thinking
 sitemap:

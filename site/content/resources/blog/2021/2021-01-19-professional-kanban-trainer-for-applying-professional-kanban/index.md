@@ -25,8 +25,8 @@ aliasesFor404:
 tags:
 - Products and Books
 - Practical Techniques and Tooling
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 - Agile Project Management
 - Operational Practices
 categories:

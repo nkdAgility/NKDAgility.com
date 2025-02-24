@@ -32,11 +32,11 @@ tags:
 - Transparency
 - Metrics and Learning
 - Transparency and Accountability
-- Flow Efficiency
 - Agile Strategy
-- Practical Techniques and Tooling
-- Agile Project Management
 - Software Development
+- Flow Efficiency
+- Agile Project Management
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 resourceTypes:
 - video

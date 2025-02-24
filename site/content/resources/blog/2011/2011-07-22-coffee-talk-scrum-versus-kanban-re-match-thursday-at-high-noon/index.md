@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 tags:
 - Software Development
-- Agile Frameworks
 - Events and Presentations
+- Agile Frameworks
 - Agile Project Management
 categories:
 - Social Technologies

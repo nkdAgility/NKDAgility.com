@@ -33,11 +33,11 @@ tags:
 - People and Process
 - Team Collaboration
 - Practical Techniques and Tooling
+- Software Development
 - Pragmatic Thinking
 - Agile Frameworks
 - Lean Thinking
 - Agile Project Management
-- Software Development
 resourceTypes:
 - video
 categories:

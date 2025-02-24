@@ -30,9 +30,9 @@ tags:
 - Personal
 - People and Process
 categories:
-- Leadership
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
+- Leadership
 preview: metro-SSWLogo-128-link-3-1.png
 
 ---

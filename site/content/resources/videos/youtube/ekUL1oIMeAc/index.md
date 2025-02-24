@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Agile Product Management
-- People and Process
 - Scrum Team
+- People and Process
+- Agile Product Management
 - Personal
 - Agile Project Management
 resourceTypes:

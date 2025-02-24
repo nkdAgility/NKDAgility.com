@@ -26,9 +26,9 @@ tags:
 - Azure DevOps
 - Software Development
 categories:
-- Engineering Excellence
-- DevOps
 - Social Technologies
+- DevOps
+- Engineering Excellence
 preview: metro-binary-vb-128-link-3-3.png
 
 ---

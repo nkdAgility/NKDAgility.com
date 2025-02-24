@@ -35,9 +35,9 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Personal
-- Pragmatic Thinking
+- Software Development
 - Software Developers
-- Sociotechnical Systems
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

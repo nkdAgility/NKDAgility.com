@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Organisational Agility
-- Organisational Change
 - Business Agility
+- Organisational Change
+- People and Process
 - Resilience and Change
 - Enterprise Agility
-- Change Management
 - Market Adaptability
-- Beta Codex
+- Change Management
 - Agile Philosophy
+- Beta Codex
 resourceTypes:
 - video
 categories:

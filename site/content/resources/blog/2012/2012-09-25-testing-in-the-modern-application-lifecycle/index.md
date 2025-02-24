@@ -25,13 +25,13 @@ tags:
 - Windows
 - Application Lifecycle Management
 - Software Development
-- Product Delivery
 - Value Delivery
 - Working Software
-- Products and Books
+- Product Delivery
 - Team Collaboration
-- Engineering Practices
+- Products and Books
 - Practical Techniques and Tooling
+- Engineering Practices
 categories:
 - Engineering Excellence
 preview: metro-test-icon-7-7.png

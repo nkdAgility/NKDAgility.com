@@ -33,8 +33,8 @@ tags:
 - People and Process
 - Agile Project Management
 - Personal
-- Agile Transformation
 - Software Development
+- Agile Transformation
 resourceTypes:
 - video
 categories:

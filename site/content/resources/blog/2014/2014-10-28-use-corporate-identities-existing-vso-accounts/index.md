@@ -29,8 +29,8 @@ tags:
 - Windows
 - Install and Configuration
 - Azure DevOps
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 - Troubleshooting
 categories:
 - DevOps

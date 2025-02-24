@@ -22,8 +22,8 @@ categories:
 tags:
 - Agile Project Management
 - Events and Presentations
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 - Agile Transformation
 
 ---

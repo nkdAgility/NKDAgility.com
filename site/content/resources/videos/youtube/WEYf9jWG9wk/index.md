@@ -22,16 +22,16 @@ preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
-- Value Delivery
 - Hypothesis Driven Development
 - Discovery and Learning
+- Value Delivery
+- Continuous Learning
 - Pragmatic Thinking
 - Experimentation
-- Continuous Learning
 - Lean Product Development
 - Product Validation
 - Product Discovery
-- Organisational Agility
+- Lean Startup
 sitemap:
   filename: sitemap.xml
   priority: 0.6

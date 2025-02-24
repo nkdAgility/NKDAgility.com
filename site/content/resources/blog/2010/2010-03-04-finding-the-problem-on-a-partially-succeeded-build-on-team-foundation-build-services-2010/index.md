@@ -27,11 +27,11 @@ tags:
 - Software Development
 - Software Developers
 - Code and Complexity
-- Application Lifecycle Management
 - Working Software
 - Practical Techniques and Tooling
+- Application Lifecycle Management
+- Technical Excellence
 - Azure DevOps
-- Technical Mastery
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum

@@ -26,15 +26,15 @@ aliasesFor404:
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/blog/create-standard-environment-release-management-azure
 tags:
-- Application Lifecycle Management
 - Release Management
-- Events and Presentations
-- Azure DevOps
-- Technical Mastery
-- Technical Excellence
+- Application Lifecycle Management
 - Deployment Strategies
-- Practical Techniques and Tooling
+- Technical Excellence
 - Install and Configuration
+- Azure DevOps
+- Events and Presentations
+- Technical Mastery
+- Practical Techniques and Tooling
 - Software Development
 categories:
 - DevOps

@@ -25,13 +25,13 @@ tags:
 - Operational Practices
 - Acceptance Test Driven Development
 - Definition of Done
-- Product Delivery
 - Value Delivery
-- Software Developers
-- Software Development
 - Working Software
-- Metrics and Learning
+- Software Development
+- Software Developers
+- Product Delivery
 - Continuous Delivery
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 - DevOps

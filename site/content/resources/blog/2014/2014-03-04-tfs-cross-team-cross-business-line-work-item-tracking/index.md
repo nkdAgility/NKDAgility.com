@@ -29,7 +29,7 @@ tags:
 - Software Development
 categories:
 - Product Management
-- Engineering Excellence
+- Social Technologies
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 

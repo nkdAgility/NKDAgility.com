@@ -22,18 +22,18 @@ aliasesFor404:
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
-- Azure DevOps
-- Technical Mastery
 - Software Developers
 - Technical Excellence
-- System Configuration
+- Azure DevOps
 - Pragmatic Thinking
+- System Configuration
+- Technical Mastery
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

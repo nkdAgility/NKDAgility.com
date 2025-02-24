@@ -26,8 +26,8 @@ tags:
 - People and Process
 - Software Development
 - Agile Frameworks
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

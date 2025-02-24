@@ -26,16 +26,16 @@ tags:
 - Install and Configuration
 - Software Development
 - Practical Techniques and Tooling
-- Azure DevOps
-- Technical Mastery
 - Technical Excellence
-- Continuous Integration
+- Azure DevOps
+- Pragmatic Thinking
 - System Configuration
 - Azure Pipelines
+- Technical Mastery
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 ![vs2010alm](images/e6d297adc9ef_12485-vs2010alm_-4-8.png)At SSW we use gated check-in for all of our projects. The benefits are based on the number of developers you have working on your project.

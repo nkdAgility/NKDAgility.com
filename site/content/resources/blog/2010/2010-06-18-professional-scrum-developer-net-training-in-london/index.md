@@ -29,8 +29,8 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - Software Development
-- Agile Frameworks
 - Events and Presentations
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

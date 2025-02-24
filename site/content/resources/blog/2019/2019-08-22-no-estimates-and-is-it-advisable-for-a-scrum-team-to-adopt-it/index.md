@@ -26,16 +26,16 @@ aliasesFor404:
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 tags:
-- Estimation
 - Throughput
+- Estimation
 - Metrics and Learning
 - People and Process
 - Agile Planning
+- Scrum Team
+- Software Development
 - Cycle Time
 - Scrum Product Development
-- Software Development
-- Scrum Team
-- Software Developers
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

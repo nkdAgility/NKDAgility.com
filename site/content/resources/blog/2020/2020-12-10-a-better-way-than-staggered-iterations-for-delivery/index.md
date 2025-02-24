@@ -25,13 +25,13 @@ aliasesFor404:
 tags:
 - Test First Development
 - Increment
-- Business Agility
-- Scrum Product Development
-- Cycle Time
-- People and Process
 - Software Development
-- Value Delivery
 - Empirical Process Control
+- Scrum Product Development
+- Software Developers
+- Business Agility
+- Scrum Team
+- People and Process
 - Working Software
 categories:
 - Scrum

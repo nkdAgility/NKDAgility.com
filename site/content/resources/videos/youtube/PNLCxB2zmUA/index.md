@@ -40,9 +40,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
+- Software Development
 - Agile Frameworks
 - Agile Project Management
-- Software Development
 resourceTypes:
 - video
 categories: []

@@ -30,8 +30,8 @@ sitemap:
 tags:
 - People and Process
 - Product Owner
-- Agile Product Management
 - Products and Books
+- Agile Product Management
 resourceTypes:
 - video
 categories:

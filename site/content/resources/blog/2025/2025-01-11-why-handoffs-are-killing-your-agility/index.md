@@ -20,14 +20,14 @@ aliasesFor404:
 tags:
 - Software Development
 - Operational Practices
-- Agile Project Management
-- Value Delivery
-- Organisational Agility
 - Team Collaboration
 - Software Developers
-- Product Delivery
-- Cross Functional Teams
+- Organisational Agility
 - Business Agility
+- Cross Functional Teams
+- Product Delivery
+- Agile Project Management
+- Value Delivery
 categories:
 - DevOps
 - Engineering Excellence

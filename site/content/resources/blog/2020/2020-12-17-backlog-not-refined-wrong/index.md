@@ -28,8 +28,8 @@ aliasesFor404:
 - /resources/blog/backlog-not-refined-wrong
 tags:
 - Scrum Product Development
-- Backlog Refinement
 - Product Backlog
+- Backlog Refinement
 - Professional Scrum
 - Software Development
 - Agile Project Management

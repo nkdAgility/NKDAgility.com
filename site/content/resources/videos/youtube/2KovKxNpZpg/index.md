@@ -24,10 +24,10 @@ tags:
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
-- Agile Transformation
 - Agile Project Management
-- Empirical Process Control
+- Agile Transformation
 - Software Development
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

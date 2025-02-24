@@ -28,14 +28,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
 - Customer Satisfaction
+- Agile Values and Principles
 - Organisational Culture
 - Agile Philosophy
 - Employee Engagement
 - Team Motivation
-- Organisational Psychology
 - Agile Leadership
+- Organisational Psychology
 resourceTypes:
 - video
 layout: video

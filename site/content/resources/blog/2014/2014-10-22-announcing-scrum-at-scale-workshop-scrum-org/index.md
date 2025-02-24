@@ -26,16 +26,16 @@ aliasesFor404:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- Metrics and Learning
-- Organisational Agility
-- Software Development
-- Evidence Based Management
 - Change Management
-- Scaling Agility
-- People and Process
 - Organisational Culture
-- Resilience and Change
+- Evidence Based Management
+- Scaling Agility
+- Agile Project Management
+- Large Scale Agility
 - Enterprise Agility
+- Resilience and Change
+- Scaling Scrum
+- People and Process
 categories:
 - Scrum
 - Social Technologies

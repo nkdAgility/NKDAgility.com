@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 tags:
 - Install and Configuration
-- Troubleshooting
 - Software Development
+- Troubleshooting
 categories: []
 preview: metro-problem-icon-2-2.png
 

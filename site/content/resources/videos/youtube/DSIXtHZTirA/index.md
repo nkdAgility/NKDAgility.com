@@ -25,14 +25,14 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Continuous Delivery
-- Azure DevOps
-- Product Delivery
 - Working Software
+- Product Delivery
+- Azure DevOps
 - People and Process
-- Value Delivery
-- Deployment Strategies
+- Deployment Frequency
+- Technical Excellence
+- Engineering Practices
 - Software Development
-- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

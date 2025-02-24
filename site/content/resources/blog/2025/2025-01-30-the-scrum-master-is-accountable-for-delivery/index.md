@@ -29,14 +29,14 @@ aliasesFor404:
 tags:
 - Accountability
 - Scrum Team
-- Product Delivery
 - Scrum Product Development
-- Increment
 - Scrum Master
+- Increment
 - Software Development
-- Agile Frameworks
-- Agile Project Management
+- Product Delivery
 - Professional Scrum
+- Agile Project Management
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

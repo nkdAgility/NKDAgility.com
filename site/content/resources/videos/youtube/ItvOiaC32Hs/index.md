@@ -22,9 +22,9 @@ preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- People and Process
 - Agile Strategy
 - Strategic Goals
+- People and Process
 - Strategy
 - Sociotechnical Systems
 - Team Motivation

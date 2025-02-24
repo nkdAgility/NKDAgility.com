@@ -29,10 +29,10 @@ aliasesFor404:
 tags:
 - Transparency
 - Definition of Done
-- Professional Scrum
 - Scrum Product Development
-- Product Delivery
+- Professional Scrum
 - Transparency and Accountability
+- Product Delivery
 - Working Software
 - Software Development
 - Agile Project Management

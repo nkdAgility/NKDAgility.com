@@ -31,12 +31,12 @@ categories:
 - Engineering Excellence
 tags:
 - Software Development
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 - Technical Excellence
 - Modern Source Control
-- Continuous Integration
 - Operational Practices
+- Continuous Integration
 - Events and Presentations
 - Technical Mastery
 

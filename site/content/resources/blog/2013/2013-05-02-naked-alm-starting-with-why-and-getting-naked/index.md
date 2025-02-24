@@ -27,13 +27,13 @@ aliasesFor404:
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Application Lifecycle Management
-- Discovery and Learning
 - Working Software
+- Discovery and Learning
 - People and Process
+- Customer Feedback Loops
 - Products and Books
-- Agile Strategy
 - Agile Transformation
-- Business Agility
+- Agile Strategy
 - Product Delivery
 - Agile Philosophy
 categories:

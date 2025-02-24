@@ -24,8 +24,8 @@ isShort: true
 tags:
 - Organisational Change
 - People and Process
-- Organisational Psychology
 - Change Management
+- Organisational Psychology
 - Employee Engagement
 - Team Motivation
 sitemap:

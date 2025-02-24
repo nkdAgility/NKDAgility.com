@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- Troubleshooting
 - System Configuration
+- Troubleshooting
 categories: []
 
 ---

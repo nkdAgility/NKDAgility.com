@@ -31,12 +31,12 @@ tags:
 - People and Process
 - Agile Product Operating Model
 - Team Motivation
-- Product Strategy
-- Organisational Culture
 - Employee Engagement
+- Organisational Culture
 - Strategic Goals
-- Organisational Psychology
+- Product Strategy
 - Agile Strategy
+- Organisational Physics
 - Sociotechnical Systems
 resourceTypes:
 - video

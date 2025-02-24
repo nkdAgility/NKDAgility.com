@@ -23,8 +23,8 @@ tags:
 - Product Owner
 - Agile Product Management
 - Strategy
-- Value Delivery
 - People and Process
+- Value Delivery
 - Product Strategy
 
 ---

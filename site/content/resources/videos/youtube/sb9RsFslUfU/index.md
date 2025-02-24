@@ -33,8 +33,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
+- DevOps
 - Social Technologies
 
 ---

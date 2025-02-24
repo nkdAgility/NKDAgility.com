@@ -24,14 +24,14 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Modern Source Control
+- Install and Configuration
+- System Configuration
 - Working Software
 - Practical Techniques and Tooling
-- System Configuration
-- Install and Configuration
-- Application Lifecycle Management
+- Azure Boards
 - Software Development
-- Release Management
 - Azure DevOps
+- Release Management
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

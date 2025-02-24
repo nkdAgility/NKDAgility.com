@@ -23,10 +23,10 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-sharepoint-integration
 tags:
 - Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
 - Azure DevOps
 - Pragmatic Thinking
+- Application Lifecycle Management
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

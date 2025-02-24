@@ -22,12 +22,12 @@ aliasesFor404:
 - /blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Windows
-- Technical Mastery
-- Troubleshooting
 - System Configuration
+- Troubleshooting
+- Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
-- Continuous Integration
-- Troubleshooting
-- Azure Pipelines
 - Pragmatic Thinking
+- Azure Pipelines
+- Troubleshooting
+- Continuous Integration
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-7-7.png

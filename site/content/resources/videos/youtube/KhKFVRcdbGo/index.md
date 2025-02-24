@@ -35,10 +35,10 @@ tags:
 - Operational Practices
 - Transparency
 - Technical Leadership
-- People and Process
 - Value Stream Management
 - Evidence Based Leadership
 - Business Agility
+- People and Process
 - Decision Making
 
 ---

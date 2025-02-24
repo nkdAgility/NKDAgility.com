@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Decision Making
+- Agile Leadership
 - People and Process
 - Decision Theory
-- Agile Leadership
-- Team Collaboration
-- Organisational Psychology
+- Employee Engagement
 - Agile Strategy
+- Sensemaking
+- Team Performance
 - Organisational Culture
-- Systems Thinking
-- Agile Philosophy
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

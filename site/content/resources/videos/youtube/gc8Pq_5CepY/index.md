@@ -24,10 +24,10 @@ duration: 1686
 isShort: false
 tags:
 - Professional Scrum
-- People and Process
 - Events and Presentations
-- Software Developers
+- People and Process
 - Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -35,8 +35,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
+- DevOps
 - Social Technologies
 
 ---

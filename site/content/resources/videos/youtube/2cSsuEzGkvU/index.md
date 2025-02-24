@@ -25,9 +25,9 @@ tags:
 - Agile Values and Principles
 - Team Collaboration
 - Team Motivation
-- Personal
 - Team Performance
 - Coaching
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

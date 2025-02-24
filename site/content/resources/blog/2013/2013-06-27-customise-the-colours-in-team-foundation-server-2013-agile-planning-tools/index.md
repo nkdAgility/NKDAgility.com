@@ -24,8 +24,8 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Azure Boards
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 categories: []

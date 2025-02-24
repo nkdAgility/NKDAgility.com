@@ -40,8 +40,8 @@ sitemap:
 tags:
 - Lean Principles
 - Organisational Agility
-- Lean Thinking
 - Business Agility
+- Lean Thinking
 - Pragmatic Thinking
 - Operational Practices
 - Lean

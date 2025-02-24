@@ -28,15 +28,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Technical Leadership
-- Organisational Change
 - Change Management
-- Organisational Culture
+- Technical Leadership
 - Continuous Learning
-- Organisational Agility
-- Pragmatic Thinking
+- Organisational Culture
+- Organisational Change
 - Team Performance
-- Sociotechnical Systems
+- Pragmatic Thinking
+- Organisational Agility
+- Strategy
 resourceTypes:
 - video
 layout: video

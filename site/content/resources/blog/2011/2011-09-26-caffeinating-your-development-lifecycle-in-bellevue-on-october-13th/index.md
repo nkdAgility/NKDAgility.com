@@ -25,7 +25,7 @@ tags:
 - Events and Presentations
 categories:
 - Product Management
-- Engineering Excellence
+- Social Technologies
 - DevOps
 preview: metro-nwc-128-link-3-3.png
 

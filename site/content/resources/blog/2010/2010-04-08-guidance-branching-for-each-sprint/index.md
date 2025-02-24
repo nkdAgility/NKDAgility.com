@@ -34,13 +34,13 @@ tags:
 - Scrum Product Development
 - Software Development
 - Software Developers
-- Professional Scrum
 - Modern Source Control
+- Professional Scrum
 - Product Delivery
-- Practical Techniques and Tooling
 - Operational Practices
-- Agile Frameworks
+- Practical Techniques and Tooling
 - Technical Excellence
+- Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

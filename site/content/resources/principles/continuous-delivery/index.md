@@ -21,16 +21,16 @@ card:
   title: Continuous Delivery
 categories:
 - Product Management
-- Engineering Excellence
+- Social Technologies
 - DevOps
 tags:
 - Continuous Delivery
-- Value Delivery
 - Product Delivery
-- Product Validation
+- Value Delivery
 - Customer Feedback Loops
-- Agile Product Management
+- Product Validation
 - Discovery and Learning
+- Agile Product Management
 - Software Development
 - Working Software
 - Frequent Releases

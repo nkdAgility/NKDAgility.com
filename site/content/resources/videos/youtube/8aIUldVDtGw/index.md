@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Lean
-- People and Process
 - Throughput
+- People and Process
 - Strategy
 - Cycle Time
-- Agile Product Management
-- Lean Thinking
 - Scrum Product Development
 - Lean Product Development
-- Value Delivery
+- Lean Thinking
+- Agile Product Management
+- Lean Principles
 resourceTypes:
 - video
 categories:

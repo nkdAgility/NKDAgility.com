@@ -31,11 +31,11 @@ tags:
 - Coaching
 - People and Process
 - Team Performance
-- Agile Frameworks
-- Empirical Process Control
-- Agile Transformation
-- Agile Project Management
 - Software Development
+- Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Empirical Process Control
 - Pragmatic Thinking
 - Scrum Product Development
 resourceTypes:

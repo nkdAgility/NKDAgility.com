@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Transparency
 - Agile Product Management
-- Product Delivery
 - Change Management
+- Software Developers
 - Scrum Product Development
-- Events and Presentations
+- Professional Scrum
+- Value Delivery
+- Agile Project Management
 - Resilience and Change
-- Organisational Agility
-- Organisational Change
 categories:
 - Scrum
 - Social Technologies

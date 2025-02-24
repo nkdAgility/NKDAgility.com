@@ -29,20 +29,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Scrum Master
+- People and Process
 - Agile Leadership
 - Agile Project Management
-- Agile Frameworks
 - Technical Leadership
+- Agile Frameworks
 - Scrum Team
 - Mentoring
 resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
 - Scrum
+- Leadership
 - Social Technologies
 
 ---

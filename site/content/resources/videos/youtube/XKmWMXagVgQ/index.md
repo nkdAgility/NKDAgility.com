@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Product Owner
 - Discovery and Learning
+- Product Owner
 - Agile Product Management
 - Products and Books
 resourceTypes:

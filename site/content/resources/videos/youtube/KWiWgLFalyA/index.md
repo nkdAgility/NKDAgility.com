@@ -36,8 +36,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
-- Pragmatic Thinking
 - Strategy
+- Pragmatic Thinking
 - Operational Practices
 - People and Process
 - Systems Thinking

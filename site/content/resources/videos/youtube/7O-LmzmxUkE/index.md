@@ -30,12 +30,12 @@ tags:
 - Scrum Product Development
 - Transparency
 - Empirical Process Control
-- Daily Scrum
-- Scrum Team
 - Transparency and Accountability
 - People and Process
+- Scrum Team
+- Daily Scrum
 - Team Collaboration
-- Software Developers
+- Professional Scrum
 - Scrum Master
 resourceTypes:
 - video

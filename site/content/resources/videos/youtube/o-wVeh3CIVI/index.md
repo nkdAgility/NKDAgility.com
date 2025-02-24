@@ -32,8 +32,8 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 - Complexity Thinking
 resourceTypes:
 - video

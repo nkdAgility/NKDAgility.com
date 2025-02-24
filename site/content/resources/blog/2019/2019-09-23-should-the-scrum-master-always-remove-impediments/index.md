@@ -29,13 +29,13 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Scrum Team
-- Scrum Product Development
-- Events and Presentations
-- Team Performance
-- People and Process
 - Team Collaboration
+- Scrum Product Development
+- Team Performance
+- Events and Presentations
 - Pragmatic Thinking
-- Agile Frameworks
+- People and Process
+- Software Development
 categories:
 - Scrum
 - Social Technologies

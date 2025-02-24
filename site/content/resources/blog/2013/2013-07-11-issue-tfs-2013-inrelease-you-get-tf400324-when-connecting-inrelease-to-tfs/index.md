@@ -27,16 +27,16 @@ aliasesFor404:
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
-- Technical Mastery
-- System Configuration
 - Pragmatic Thinking
+- System Configuration
+- Technical Mastery
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

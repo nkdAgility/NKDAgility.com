@@ -23,8 +23,8 @@ isShort: false
 tags:
 - Professional Scrum
 - Scrum Master
-- Agile Frameworks
 - Events and Presentations
+- Agile Frameworks
 - Agile Project Management
 - Software Development
 - People and Process

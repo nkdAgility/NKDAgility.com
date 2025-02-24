@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Strategy
+- People and Process
 - Agile Product Management
 - Agile Project Management
-- Strategic Goals
-- Product Owner
-- Agile Transformation
 - Change Management
 - Agile Product Operating Model
-- Organisational Culture
+- Agile Transformation
+- Strategic Goals
+- Product Owner
+- Digital Transformation
 resourceTypes:
 - video
 categories:

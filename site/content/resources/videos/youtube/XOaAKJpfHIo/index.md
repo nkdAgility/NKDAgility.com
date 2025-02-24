@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Value Delivery
-- Product Delivery
 - Software Development
+- Value Delivery
+- People and Process
+- Product Delivery
 - Software Developers
 - Pragmatic Thinking
 - Market Adaptability
 - Working Software
+- Agile Philosophy
 - Organisational Agility
-- Customer Satisfaction
 resourceTypes:
 - video
 categories:

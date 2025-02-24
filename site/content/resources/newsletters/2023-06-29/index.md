@@ -20,13 +20,13 @@ categories:
 - Social Technologies
 tags:
 - Continuous Learning
-- Agile Transformation
 - Discovery and Learning
-- Agile Frameworks
+- Agile Transformation
 - Events and Presentations
+- Organisational Agility
+- Agile Frameworks
 - People and Process
 - Agile Project Management
-- Organisational Agility
 - Agile Strategy
 - Software Development
 

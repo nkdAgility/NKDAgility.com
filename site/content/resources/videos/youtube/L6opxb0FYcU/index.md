@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Scrum Master
-- People and Process
-- Agile Frameworks
+- Agile Values and Principles
 - Team Performance
+- Agile Frameworks
+- People and Process
 - Agile Philosophy
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
+- Software Development
 - Pragmatic Thinking
-- Agile Product Management
 resourceTypes:
 - video
 categories:

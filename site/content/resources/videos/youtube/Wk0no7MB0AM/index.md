@@ -23,9 +23,9 @@ duration: 59
 isShort: true
 tags:
 - Scrum Master
-- People and Process
 - Team Collaboration
 - Team Performance
+- People and Process
 - Agile Project Management
 - Software Development
 - Scrum Team

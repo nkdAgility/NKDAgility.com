@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Organisational Agility
-- Agile Product Management
 - People and Process
 - Agile Project Management
+- Agile Product Management
 - Empirical Process Control
 - Agile Values and Principles
-- Resilience and Change
 - Continuous Learning
-- Business Agility
 - Hypothesis Driven Development
+- Business Agility
+- Resilience and Change
 resourceTypes:
 - video
 categories:

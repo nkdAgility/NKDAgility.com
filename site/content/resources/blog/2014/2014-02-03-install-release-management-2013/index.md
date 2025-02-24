@@ -22,8 +22,8 @@ aliasesFor404:
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
 tags:
-- Release Management
 - Install and Configuration
+- Release Management
 - Practical Techniques and Tooling
 - System Configuration
 categories:

@@ -1375,5 +1375,23 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details related to data migration and integration, with no clear discussion on leadership practices.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:24:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the TFS Integration Platform, which is a component of an Internal Developer Platform, but the primary focus is on migrating data rather than on the broader concepts of IDPs.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:24:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the technical process of migrating data from FogBugz to TFS 2012, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
   }
 }

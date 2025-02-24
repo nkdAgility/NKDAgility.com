@@ -27,8 +27,8 @@ aliasesFor404:
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
 - Install and Configuration
-- Release Management
 - Azure DevOps
+- Release Management
 - Azure Pipelines
 - Software Development
 - Product Delivery

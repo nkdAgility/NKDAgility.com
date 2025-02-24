@@ -24,8 +24,8 @@ isShort: false
 tags:
 - People and Process
 - Agile Values and Principles
-- Value Delivery
 - Agile Philosophy
+- Value Delivery
 - Pragmatic Thinking
 - Personal
 - Miscellaneous

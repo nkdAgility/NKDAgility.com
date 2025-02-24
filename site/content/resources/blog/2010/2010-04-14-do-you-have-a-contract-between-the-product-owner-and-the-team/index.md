@@ -28,14 +28,14 @@ aliasesFor404:
 tags:
 - Agile Product Management
 - Agile Project Management
-- Product Owner
 - Scrum Product Development
+- Product Owner
 - Scrum Team
 - Agile Planning
+- Professional Scrum
+- Agile Frameworks
 - Team Collaboration
 - People and Process
-- Professional Scrum
-- Product Delivery
 categories:
 - Scrum
 - Social Technologies
