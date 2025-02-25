@@ -12,11 +12,15 @@ slug: navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projec
 layout: video
 aliases:
 - /resources/Wk0no7MB0AM
+- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
+- /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
 aliasesArchive:
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
 - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
+- navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true

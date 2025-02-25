@@ -11,10 +11,14 @@ url: /resources/videos/:slug
 slug: unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
 aliases:
 - /resources/6SSgETsq8IQ
+- /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
+- /resources/videos/professional-scrum-product-owner-pspo-discover-product-management-skills-practices
 aliasesArchive:
 - /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
 - /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 - /resources/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
+- /resources/videos/professional-scrum-product-owner-pspo-discover-product-management-skills-practices
+- unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
 preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
 duration: 137
 isShort: false

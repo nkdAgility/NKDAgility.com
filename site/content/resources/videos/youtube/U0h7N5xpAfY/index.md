@@ -16,11 +16,15 @@ duration: 233
 isShort: false
 aliases:
 - /resources/U0h7N5xpAfY
+- /resources/videos/understanding-the-true-role-of-a-scrum-master
+- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
 aliasesArchive:
 - /resources/videos/understanding-the-true-role-of-a-scrum-master
 - /resources/understanding-the-true-role-of-a-scrum-master
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
 - /resources/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
+- /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
+- understanding-the-true-role-of-a-scrum-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

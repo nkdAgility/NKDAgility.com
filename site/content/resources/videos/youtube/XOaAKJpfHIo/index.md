@@ -16,11 +16,13 @@ duration: 186
 isShort: false
 aliases:
 - /resources/XOaAKJpfHIo
+- /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
 aliasesArchive:
 - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
 - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers
 - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
+- how-important-is-devops-in-continuous-delivery-of-value-to-customers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

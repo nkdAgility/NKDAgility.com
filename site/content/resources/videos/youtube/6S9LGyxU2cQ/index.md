@@ -11,10 +11,14 @@ url: /resources/videos/:slug
 slug: unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 aliases:
 - /resources/6S9LGyxU2cQ
+- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
+- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
 aliasesArchive:
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+- unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: false

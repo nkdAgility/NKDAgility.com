@@ -16,11 +16,13 @@ duration: 231
 isShort: false
 aliases:
 - /resources/8nQ0VJ1CdqU
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
 aliasesArchive:
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
+- why-did-so-many-of-the-early-agile-transformations-fail
 sitemap:
   filename: sitemap.xml
   priority: 0.6

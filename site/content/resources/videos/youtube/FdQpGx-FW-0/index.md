@@ -16,12 +16,16 @@ duration: 535
 isShort: false
 aliases:
 - /resources/FdQpGx-FW-0
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/judgement-7-harbingers-agile-apocalypse
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-judgement
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
 - /resources/7-harbingers-of-the-agile-apocalypse-judgement
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse
 - /resources/judgement!-7-harbingers-agile-apocalypse
+- /resources/videos/judgement-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-judgement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

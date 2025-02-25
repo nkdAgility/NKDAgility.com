@@ -12,10 +12,15 @@ slug: devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-tru
 layout: video
 aliases:
 - /resources/BhGThHrOc8Y
+- /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+- /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 - /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools-
+- devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+- /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false

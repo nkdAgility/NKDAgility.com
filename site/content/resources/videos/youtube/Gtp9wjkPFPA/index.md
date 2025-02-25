@@ -16,12 +16,13 @@ duration: 51
 isShort: true
 aliases:
 - /resources/Gtp9wjkPFPA
-- /resources/videos/how-do-devops-and-agile-integrate
+- /resources/videos/how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 aliasesArchive:
 - /resources/videos/how-do-devops-and-agile-integrate
 - /resources/how-do-devops-and-agile-integrate
 - /resources/videos/how-do-devops-and-agile-integrate-
 - /resources/how-do-devops-and-agile-integrate-
+- how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -13,10 +13,14 @@ slug: maximising-roi-in-software-development-unlocking-value-through-quality-and
 layout: video
 aliases:
 - /resources/jKXc6hByR_k
+- /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
+- /resources/videos/your-partner-in-on-time-on-budget-delivery
 aliasesArchive:
 - /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
 - /resources/videos/your-partner-in-on-time,-on-budget-delivery
 - /resources/your-partner-in-on-time,-on-budget-delivery
+- /resources/videos/your-partner-in-on-time-on-budget-delivery
+- maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 isShort: false

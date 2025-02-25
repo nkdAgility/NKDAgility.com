@@ -12,10 +12,13 @@ slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 layout: video
 aliases:
 - /resources/yCyjGBNaRqI
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+- /resources/videos/nkd-agility-mission-and-purpose
 aliasesArchive:
 - /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 - /resources/videos/nkd-agility-mission-and-purpose
 - /resources/nkd-agility-mission-and-purpose
+- unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false

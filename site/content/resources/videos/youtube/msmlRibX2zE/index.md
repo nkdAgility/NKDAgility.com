@@ -13,10 +13,11 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=msmlRibX2zE
 aliases:
 - /resources/msmlRibX2zE
-- /resources/videos/harris-beach-sds-ultrabook-unbox
+- /resources/videos/harris-beach-sds-ultrabook-unbox-msmlRibX2zE
 aliasesArchive:
 - /resources/videos/harris-beach-sds-ultrabook-unbox
 - /resources/harris-beach-sds-ultrabook-unbox
+- harris-beach-sds-ultrabook-unbox-msmlRibX2zE
 preview: https://i.ytimg.com/vi/msmlRibX2zE/maxresdefault.jpg
 duration: 19
 isShort: true

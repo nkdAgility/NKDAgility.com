@@ -13,10 +13,11 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Bi4ToMME8Xs
 aliases:
 - /resources/Bi4ToMME8Xs
-- /resources/videos/advanced-psm-ii-immersive-learning-classes
+- /resources/videos/advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
 aliasesArchive:
 - /resources/videos/advanced-psm-ii-immersive-learning-classes
 - /resources/advanced-psm-ii-immersive-learning-classes
+- advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
 preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true

@@ -12,11 +12,15 @@ slug: combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-
 layout: video
 aliases:
 - /resources/k4F9DSE99Ok
+- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
 - /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
+- /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
 aliasesArchive:
 - /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
 - /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
+- combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true

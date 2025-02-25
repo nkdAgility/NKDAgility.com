@@ -12,11 +12,14 @@ slug: unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-pr
 layout: video
 aliases:
 - /resources/Qko_93YAV70
+- /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
+- /resources/videos/kanban-vs-scrum
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
 - /resources/videos/kanban-vs-scrum
 - /resources/kanban-vs-scrum
+- unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true

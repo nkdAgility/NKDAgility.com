@@ -13,10 +13,12 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=y2TObrUi3m0
 aliases:
 - /resources/y2TObrUi3m0
+- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 aliasesArchive:
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 - /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
+- what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 isShort: false

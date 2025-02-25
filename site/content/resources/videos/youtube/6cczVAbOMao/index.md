@@ -15,11 +15,13 @@ duration: 192
 isShort: false
 aliases:
 - /resources/6cczVAbOMao
+- /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 aliasesArchive:
 - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
+- how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6

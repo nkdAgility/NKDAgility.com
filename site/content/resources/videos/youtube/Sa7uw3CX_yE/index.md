@@ -12,10 +12,13 @@ slug: beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 layout: video
 aliases:
 - /resources/Sa7uw3CX_yE
+- /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
+- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 - /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
+- beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg
 duration: 4809
 isShort: false

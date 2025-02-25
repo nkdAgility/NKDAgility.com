@@ -13,10 +13,12 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
 aliases:
 - /resources/TabMnJpXFVA
+- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 aliasesArchive:
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/why-are-you-going-the-immersive-scrum-training-route-
+- why-are-you-going-the-immersive-scrum-training-route
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false

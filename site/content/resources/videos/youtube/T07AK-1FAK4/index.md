@@ -12,11 +12,14 @@ slug: beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalyps
 layout: video
 aliases:
 - /resources/T07AK-1FAK4
+- /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse-T07AK-1FAK4
 - /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
+- /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 aliasesArchive:
 - /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
 - /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 - /resources/7-signs-of-the-agile-apocalypse-the-antichrist
+- beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse-T07AK-1FAK4
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
 isShort: true

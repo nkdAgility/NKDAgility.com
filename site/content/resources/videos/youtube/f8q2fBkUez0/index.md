@@ -12,10 +12,14 @@ slug: empowering-employees-the-crucial-link-between-financial-awareness-and-moti
 layout: video
 aliases:
 - /resources/f8q2fBkUez0
+- /resources/videos/empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
+- /resources/videos/should-companies-take-money-off-the-table-with-martin-michael-rijon
 aliasesArchive:
 - /resources/videos/empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
 - /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 - /resources/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
+- /resources/videos/should-companies-take-money-off-the-table-with-martin-michael-rijon
+- empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
 preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
 duration: 4859
 isShort: false

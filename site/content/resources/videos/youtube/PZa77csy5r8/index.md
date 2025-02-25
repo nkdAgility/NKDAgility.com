@@ -13,10 +13,13 @@ slug: mastering-technical-debt-strategies-to-transform-challenges-into-opportuni
 layout: video
 aliases:
 - /resources/PZa77csy5r8
+- /resources/videos/mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
+- /resources/videos/technical-debt-management-for-long-term-quality
 aliasesArchive:
 - /resources/videos/mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
 - /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/technical-debt-management-for-long-term-quality
+- mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
 preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
 duration: 459
 isShort: false

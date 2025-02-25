@@ -15,12 +15,16 @@ duration: 412
 isShort: false
 aliases:
 - /resources/2ASLFX2i9_g
+- /resources/videos/7-deadly-sins-of-agile-gluttony
+- /resources/videos/gluttony-7-deadly-sins-of-agile
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-gluttony
 - /resources/videos/7-deadly-sins-of-agile-gluttony
 - /resources/7-deadly-sins-of-agile-gluttony
 - /resources/videos/gluttony!-7-deadly-sins-of-agile
 - /resources/gluttony!-7-deadly-sins-of-agile
+- /resources/videos/gluttony-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-gluttony
 sitemap:
   filename: sitemap.xml
   priority: 0.6

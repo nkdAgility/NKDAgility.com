@@ -12,11 +12,14 @@ slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-succ
 layout: video
 aliases:
 - /resources/V44iUwv0Jcg
+- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
 - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
+- /resources/videos/continuous-improvement-with-kanban
 aliasesArchive:
 - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
 - /resources/videos/continuous-improvement-with-kanban
 - /resources/continuous-improvement-with-kanban
+- embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: true

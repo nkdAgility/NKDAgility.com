@@ -12,11 +12,15 @@ slug: who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-
 layout: video
 aliases:
 - /resources/n6Suj-swl88
+- /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
+- /resources/videos/who-should-lead-the-sprint-review
 aliasesArchive:
 - /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
 - /resources/videos/who-should-lead-the-sprint-review-
 - /resources/who-should-lead-the-sprint-review-why-how
 - /resources/who-should-lead-the-sprint-review-
+- /resources/videos/who-should-lead-the-sprint-review
+- who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false

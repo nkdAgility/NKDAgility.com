@@ -16,12 +16,15 @@ duration: 56
 isShort: true
 aliases:
 - /resources/pVPzgsemxEY
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
 - /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 aliasesArchive:
 - /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 - /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 - /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 - /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+- the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,12 +16,15 @@ duration: 35
 isShort: true
 aliases:
 - /resources/BmlTZwGAcMU
+- /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
 - /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 aliasesArchive:
 - /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 - /resources/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
+- immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

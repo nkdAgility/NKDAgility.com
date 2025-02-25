@@ -12,11 +12,14 @@ slug: mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-t
 layout: video
 aliases:
 - /resources/XEtys2DOkKU
+- /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition
+- /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
 aliasesArchive:
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition
 - /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
 - /resources/considerations-for-your-azure-devops-migration-excerpt-1
+- mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
 preview: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
 duration: 36
 isShort: true

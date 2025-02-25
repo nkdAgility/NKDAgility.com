@@ -16,11 +16,14 @@ duration: 433
 isShort: false
 aliases:
 - /resources/beR21RHTUvo
+- /resources/videos/story-points-a-ghost-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-story-points
 aliasesArchive:
 - /resources/videos/story-points-a-ghost-of-agile-past
 - /resources/story-points-a-ghost-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-story-points
 - /resources/5-ghosts-of-agile-past-story-points
+- story-points-a-ghost-of-agile-past
 sitemap:
   filename: sitemap.xml
   priority: 0.6

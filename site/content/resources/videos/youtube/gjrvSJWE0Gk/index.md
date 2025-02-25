@@ -9,17 +9,20 @@ ResourceImportSource: Youtube
 videoId: gjrvSJWE0Gk
 source: internal
 url: /resources/videos/:slug
-slug: overview-of-applying-metrics-for-predictability-kanban-course-
+slug: overview-of-applying-metrics-for-predictability-kanban-course
 layout: video
 preview: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
 duration: 124
 isShort: false
 aliases:
 - /resources/gjrvSJWE0Gk
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 aliasesArchive:
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
 - /resources/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
+- overview-of-applying-metrics-for-predictability-kanban-course-
+- overview-of-applying-metrics-for-predictability-kanban-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

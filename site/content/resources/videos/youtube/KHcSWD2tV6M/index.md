@@ -12,10 +12,14 @@ slug: breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 layout: video
 aliases:
 - /resources/KHcSWD2tV6M
+- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
 aliasesArchive:
 - /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 - /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
+- breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: false

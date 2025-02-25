@@ -16,10 +16,11 @@ duration: 36
 isShort: true
 aliases:
 - /resources/Fg90Nit7Q9Q
-- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
+- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
 aliasesArchive:
 - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
 - /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
+- can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -13,12 +13,13 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xuNNZnCNVWs
 aliases:
 - /resources/xuNNZnCNVWs
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
 aliasesArchive:
 - /resources/videos/-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
+- 1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true

@@ -12,10 +12,13 @@ slug: transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agili
 layout: video
 aliases:
 - /resources/vY0hXTm-wgk
+- /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
+- /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 aliasesArchive:
 - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 - /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 - /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
+- transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: false

@@ -13,11 +13,15 @@ slug: transforming-technical-debt-unlocking-innovation-and-value-through-quality
 layout: video
 aliases:
 - /resources/FFrTLuRhyVo
+- /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
 - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
+- /resources/videos/missed-opportunities-the-hidden-cost-of-technical-debt
 aliasesArchive:
 - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
 - /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
 - /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
+- /resources/videos/missed-opportunities-the-hidden-cost-of-technical-debt
+- transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
 preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true

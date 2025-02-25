@@ -12,11 +12,14 @@ slug: overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL
 layout: video
 aliases:
 - /resources/pDAL84mht3Y
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
 - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
+- /resources/videos/7-signs-of-the-agile-apocalypse-plague
 aliasesArchive:
 - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague
+- overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
 preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true

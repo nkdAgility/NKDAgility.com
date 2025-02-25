@@ -13,10 +13,13 @@ slug: code-reviews-for-quality-assurance
 layout: video
 aliases:
 - /resources/s4h2K62V_d0
+- /resources/videos/code-reviews-for-quality-assurance
+- /resources/videos/shifting-left-quality-from-the-start
 aliasesArchive:
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/videos/shifting-left-quality-from-the-start
 - /resources/shifting-left-quality-from-the-start
+- code-reviews-for-quality-assurance
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false

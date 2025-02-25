@@ -16,11 +16,13 @@ duration: 213
 isShort: false
 aliases:
 - /resources/FJjiCodxyK4
+- /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching
 aliasesArchive:
 - /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching
 - /resources/why-do-you-prefer-agile-consulting-over-agile-coaching
 - /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
 - /resources/why-do-you-prefer-agile-consulting-over-agile-coaching-
+- why-do-you-prefer-agile-consulting-over-agile-coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

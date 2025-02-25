@@ -16,12 +16,16 @@ duration: 313
 isShort: false
 aliases:
 - /resources/B12n_52H48U
+- /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
+- /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
 aliasesArchive:
 - /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
 - /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 - /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+- /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
+- how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 sitemap:
   filename: sitemap.xml
   priority: 0.6

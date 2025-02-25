@@ -16,11 +16,15 @@ duration: 352
 isShort: false
 aliases:
 - /resources/syzFdEP1Eso
+- /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
+- /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
 aliasesArchive:
 - /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
 - /resources/why-definition-of-done-is-crucial-for-success-in-scrum
 - /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 - /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
+- /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
+- why-definition-of-done-is-crucial-for-success-in-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

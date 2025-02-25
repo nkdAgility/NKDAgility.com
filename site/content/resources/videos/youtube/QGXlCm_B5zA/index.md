@@ -13,10 +13,12 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=QGXlCm_B5zA
 aliases:
 - /resources/QGXlCm_B5zA
+- /resources/videos/what-will-you-learn-on-the-psm-ii-course
 aliasesArchive:
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course-
 - /resources/what-will-you-learn-on-the-psm-ii-course-
+- what-will-you-learn-on-the-psm-ii-course
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false

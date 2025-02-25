@@ -16,11 +16,14 @@ duration: 114
 isShort: false
 aliases:
 - /resources/UOzrABhafx0
+- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 aliasesArchive:
 - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

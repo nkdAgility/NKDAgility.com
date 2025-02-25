@@ -16,11 +16,14 @@ duration: 540
 isShort: false
 aliases:
 - /resources/TCs2IxB118c
+- /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
+- /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
 aliasesArchive:
 - /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
 - /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
 - /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
 - /resources/the-power-of-engaged-teams-through-mentorship-programs
+- boosting-team-morale-and-engagement-through-effective-mentorship-programs
 sitemap:
   filename: sitemap.xml
   priority: 0.6

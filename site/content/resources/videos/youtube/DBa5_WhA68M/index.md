@@ -16,11 +16,14 @@ duration: 330
 isShort: false
 aliases:
 - /resources/DBa5_WhA68M
+- /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 aliasesArchive:
 - /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
 - /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
+- the-art-of-negotiation-for-product-owners-essential-skills-to-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -9,18 +9,22 @@ ResourceImportSource: Youtube
 videoId: 7O-LmzmxUkE
 source: internal
 url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesnt-work-myth-1-
+slug: scrum-is-like-communism-it-doesnt-work-myth-1
 preview: https://i.ytimg.com/vi/7O-LmzmxUkE/maxresdefault.jpg
 duration: 255
 isShort: false
 aliases:
 - /resources/7O-LmzmxUkE
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1-
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-1
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
+- scrum-is-like-communism-it-doesnt-work-myth-1-
+- scrum-is-like-communism-it-doesnt-work-myth-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6

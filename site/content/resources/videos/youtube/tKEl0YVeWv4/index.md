@@ -13,10 +13,14 @@ slug: unlocking-the-future-of-software-development-why-automation-is-your-key-to
 layout: video
 aliases:
 - /resources/tKEl0YVeWv4
+- /resources/videos/unlocking-the-future-of-software-development-why-automation-is-your-key-to-success
+- /resources/videos/automate-everything-building-reliable-fast-and-scalable-products
 aliasesArchive:
 - /resources/videos/unlocking-the-future-of-software-development-why-automation-is-your-key-to-success
 - /resources/videos/automate-everything-building-reliable,-fast,-and-scalable-products
 - /resources/automate-everything-building-reliable,-fast,-and-scalable-products
+- /resources/videos/automate-everything-building-reliable-fast-and-scalable-products
+- unlocking-the-future-of-software-development-why-automation-is-your-key-to-success
 preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLA3dRTcLKc5KZt_uc_-QOOambvXxw
 duration: 477
 isShort: false

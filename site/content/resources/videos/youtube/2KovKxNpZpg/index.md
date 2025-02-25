@@ -11,11 +11,14 @@ url: /resources/videos/:slug
 slug: beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success-2KovKxNpZpg
 aliases:
 - /resources/2KovKxNpZpg
+- /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success-2KovKxNpZpg
 - /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
+- /resources/videos/pet-peeve-in-scrum
 aliasesArchive:
 - /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
 - /resources/videos/pet-peeve-in-scrum
 - /resources/pet-peeve-in-scrum
+- beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success-2KovKxNpZpg
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: true

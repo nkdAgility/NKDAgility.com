@@ -16,11 +16,14 @@ duration: 355
 isShort: false
 aliases:
 - /resources/ucTJ1fe1CvQ
+- /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+- /resources/videos/ppdv-course-overview
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 - /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview
+- unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 sitemap:
   filename: sitemap.xml
   priority: 0.6

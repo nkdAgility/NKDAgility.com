@@ -16,12 +16,13 @@ duration: 53
 isShort: true
 aliases:
 - /resources/ZnXrAarX1Wg
-- /resources/videos/no-go-zone-for-agile-consultants
+- /resources/videos/no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 aliasesArchive:
 - /resources/videos/no-go-zone-for-agile-consultants
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-
 - /resources/no-go-zone-for-agile-consultants-
+- no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 sitemap:
   filename: sitemap.xml
   priority: 0.6

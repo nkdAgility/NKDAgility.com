@@ -16,13 +16,17 @@ duration: 56
 isShort: true
 aliases:
 - /resources/hB8oQPpderI
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
 - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
+- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
 aliasesArchive:
 - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
 - /resources/one-limitation-of-reading-a-book-vs-attending-a-course
 - /resources/one-limitation-of-a-book-versus-a-scrum-course
 - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
 - /resources/one-limitation-of-a-book-versus-a-scrum-course-
+- one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

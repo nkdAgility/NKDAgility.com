@@ -16,11 +16,13 @@ duration: 264
 isShort: false
 aliases:
 - /resources/AwkxZ9RS_0g
+- /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment
 aliasesArchive:
 - /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment
 - /resources/how-does-your-consulting-experience-manifest-in-the-training-environment
 - /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
 - /resources/how-does-your-consulting-experience-manifest-in-the-training-environment-
+- how-does-your-consulting-experience-manifest-in-the-training-environment
 sitemap:
   filename: sitemap.xml
   priority: 0.6

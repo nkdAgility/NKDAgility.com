@@ -13,10 +13,12 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
 aliases:
 - /resources/vWfebO_pwIU
+- /resources/videos/why-most-scrum-masters-only-have-psmi
 aliasesArchive:
 - /resources/videos/why-most-scrum-masters-only-have-psmi
 - /resources/videos/why-most-scrum-masters-only-have-psmi!
 - /resources/why-most-scrum-masters-only-have-psmi!
+- why-most-scrum-masters-only-have-psmi
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false

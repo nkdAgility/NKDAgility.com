@@ -12,10 +12,13 @@ slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutio
 layout: video
 aliases:
 - /resources/XMLdLH6f4N8
+- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
+- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
+- transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
 preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 isShort: false

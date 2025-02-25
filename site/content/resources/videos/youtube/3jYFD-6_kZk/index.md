@@ -15,11 +15,14 @@ duration: 1055
 isShort: false
 aliases:
 - /resources/3jYFD-6_kZk
+- /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
+- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 aliasesArchive:
 - /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
 - /resources/navigating-the-complex-world-of-azure-devops-data-migration
 - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+- navigating-the-complex-world-of-azure-devops-data-migration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

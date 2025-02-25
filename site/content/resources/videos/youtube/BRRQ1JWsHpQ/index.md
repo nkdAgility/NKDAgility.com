@@ -13,11 +13,14 @@ slug: transforming-agile-training-into-action-experimentation-and-engagement-in-
 layout: video
 aliases:
 - /resources/BRRQ1JWsHpQ
+- /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
+- /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
 aliasesArchive:
 - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
 - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
+- transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
 preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false

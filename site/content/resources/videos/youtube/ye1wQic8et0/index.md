@@ -12,10 +12,14 @@ slug: cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-tim
 layout: video
 aliases:
 - /resources/ye1wQic8et0
+- /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
+- /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
 aliasesArchive:
 - /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+- /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
+- cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false

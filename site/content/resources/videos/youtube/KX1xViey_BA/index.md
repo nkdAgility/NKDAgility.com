@@ -16,12 +16,16 @@ duration: 48
 isShort: true
 aliases:
 - /resources/KX1xViey_BA
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
 - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
 aliasesArchive:
 - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 - /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 - /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 - /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
+- quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

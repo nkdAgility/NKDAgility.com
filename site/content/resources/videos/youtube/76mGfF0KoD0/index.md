@@ -11,10 +11,14 @@ url: /resources/videos/:slug
 slug: is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 aliases:
 - /resources/76mGfF0KoD0
+- /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
+- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
 aliasesArchive:
 - /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
+- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
+- is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false

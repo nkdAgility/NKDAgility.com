@@ -12,13 +12,16 @@ slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-neve
 layout: video
 aliases:
 - /resources/BR9vIRsQfGI
+- /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
 - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 aliasesArchive:
 - /resources/videos/shorts-things-you-would-teach-a-productowner-apprentice-part-
 - /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
+- mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
 preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true

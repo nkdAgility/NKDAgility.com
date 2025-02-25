@@ -16,11 +16,15 @@ duration: 293
 isShort: false
 aliases:
 - /resources/EfogGslFkBQ
+- /resources/videos/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+- /resources/videos/5-kinds-of-agile-bandits-story-points-velocity
 aliasesArchive:
 - /resources/videos/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
 - /resources/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
 - /resources/videos/5-kinds-of-agile-bandits-story-points-&-velocity
 - /resources/5-kinds-of-agile-bandits-story-points-&-velocity
+- /resources/videos/5-kinds-of-agile-bandits-story-points-velocity
+- avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
 sitemap:
   filename: sitemap.xml
   priority: 0.6

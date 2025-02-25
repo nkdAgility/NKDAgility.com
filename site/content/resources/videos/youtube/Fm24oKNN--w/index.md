@@ -12,10 +12,13 @@ slug: transforming-scrum-training-how-real-world-insights-empower-agile-teams-at
 layout: video
 aliases:
 - /resources/Fm24oKNN--w
+- /resources/videos/transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
+- /resources/videos/nkdagility-healthgrades-interview-cjsingh
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-cjsingh
 - /resources/nkdagility-healthgrades-interview-cjsingh
 - /resources/videos/transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
+- transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
 preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: false

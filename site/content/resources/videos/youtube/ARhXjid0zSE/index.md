@@ -12,11 +12,14 @@ slug: combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and
 layout: video
 aliases:
 - /resources/ARhXjid0zSE
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
 - /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
+- /resources/videos/7-signs-of-the-agile-apocalypse-famine
 aliasesArchive:
 - /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
 - /resources/videos/7-signs-of-the-agile-apocalypse-famine
 - /resources/7-signs-of-the-agile-apocalypse-famine
+- combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true

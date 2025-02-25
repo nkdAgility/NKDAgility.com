@@ -16,11 +16,14 @@ duration: 1714
 isShort: false
 aliases:
 - /resources/S0h_7ayLpsE
+- /resources/videos/mastering-evidence-based-management-for-agile-success
+- /resources/videos/evidence-based-management-gathering-and-analyzing-data
 aliasesArchive:
 - /resources/videos/mastering-evidence-based-management-for-agile-success
 - /resources/mastering-evidence-based-management-for-agile-success
 - /resources/videos/evidence-based-management-gathering-and-analyzing-data
 - /resources/evidence-based-management-gathering-and-analyzing-data
+- mastering-evidence-based-management-for-agile-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6

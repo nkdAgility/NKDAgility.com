@@ -12,10 +12,14 @@ slug: how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-
 layout: video
 aliases:
 - /resources/fcOSewXez3I
+- /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
+- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
 aliasesArchive:
 - /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
+- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
+- how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false

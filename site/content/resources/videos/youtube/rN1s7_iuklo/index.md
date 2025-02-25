@@ -16,12 +16,16 @@ duration: 56
 isShort: true
 aliases:
 - /resources/rN1s7_iuklo
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
 - /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
 aliasesArchive:
 - /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
+- empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

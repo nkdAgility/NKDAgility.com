@@ -16,10 +16,11 @@ duration: 39
 isShort: true
 aliases:
 - /resources/agPLmBdXdbk
-- /resources/videos/must-have-trait-in-an-agile-consultant
+- /resources/videos/must-have-trait-in-an-agile-consultant-agPLmBdXdbk
 aliasesArchive:
 - /resources/videos/must-have-trait-in-an-agile-consultant
 - /resources/must-have-trait-in-an-agile-consultant
+- must-have-trait-in-an-agile-consultant-agPLmBdXdbk
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,7 +16,9 @@ duration: 39
 isShort: true
 aliases:
 - /resources/eykcZoUdVO8
+- /resources/videos/part-2-most-influential-people-in-agile-eykcZoUdVO8
 - /resources/videos/part-2-most-influential-people-in-agile
+- /resources/videos/most-influential-person-in-agile-for-you-personally
 aliasesArchive:
 - /resources/videos/part-most-influential-people-in-agile
 - /resources/videos/part-2-most-influential-people-in-agile
@@ -24,6 +26,8 @@ aliasesArchive:
 - /resources/most-influential-person-in-agile-for-you-personally
 - /resources/videos/most-influential-person-in-agile-for-you-personally-
 - /resources/most-influential-person-in-agile-for-you-personally-
+- /resources/videos/most-influential-person-in-agile-for-you-personally
+- part-2-most-influential-people-in-agile-eykcZoUdVO8
 sitemap:
   filename: sitemap.xml
   priority: 0.6

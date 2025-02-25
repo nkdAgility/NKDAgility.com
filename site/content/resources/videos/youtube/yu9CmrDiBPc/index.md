@@ -16,6 +16,8 @@ duration: 97
 isShort: false
 aliases:
 - /resources/yu9CmrDiBPc
+- /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
+- /resources/videos/tech-can-scale-but-can-your-culture
 aliasesArchive:
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
@@ -23,6 +25,8 @@ aliasesArchive:
 - "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 - "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 - /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
+- /resources/videos/tech-can-scale-but-can-your-culture
+- is-your-engineering-culture-ready-to-scale-with-your-technology
 sitemap:
   filename: sitemap.xml
   priority: 0.6

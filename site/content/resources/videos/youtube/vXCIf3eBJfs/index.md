@@ -16,12 +16,15 @@ duration: 35
 isShort: true
 aliases:
 - /resources/vXCIf3eBJfs
+- /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
 - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
 aliasesArchive:
 - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
 - /resources/how-to-choose-the-right-agile-coach-for-your-business-success
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
+- how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
 sitemap:
   filename: sitemap.xml
   priority: 0.6

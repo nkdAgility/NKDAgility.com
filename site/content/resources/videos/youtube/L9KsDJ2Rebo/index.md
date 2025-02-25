@@ -12,10 +12,14 @@ slug: unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 layout: video
 aliases:
 - /resources/L9KsDJ2Rebo
+- /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
+- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
 aliasesArchive:
 - /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
+- unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false

@@ -12,11 +12,14 @@ slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC3
 layout: video
 aliases:
 - /resources/ItvOiaC32Hs
+- /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
 - /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
+- /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 aliasesArchive:
 - /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
 - /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 - /resources/7-signs-of-the-agile-apocalypse-chaos
+- taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
 preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true

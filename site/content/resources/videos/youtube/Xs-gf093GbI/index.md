@@ -16,11 +16,13 @@ duration: 141
 isShort: false
 aliases:
 - /resources/Xs-gf093GbI
+- /resources/videos/what-is-a-product-vision-and-why-does-it-matter
 aliasesArchive:
 - /resources/videos/what-is-a-product-vision-and-why-does-it-matter
 - /resources/what-is-a-product-vision-and-why-does-it-matter
 - /resources/videos/what-is-a-product-vision-and-why-does-it-matter-
 - /resources/what-is-a-product-vision-and-why-does-it-matter-
+- what-is-a-product-vision-and-why-does-it-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6

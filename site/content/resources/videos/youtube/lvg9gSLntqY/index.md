@@ -16,12 +16,13 @@ duration: 53
 isShort: true
 aliases:
 - /resources/lvg9gSLntqY
-- /resources/videos/why-does-project-management-not-work-in-complex-environments
+- /resources/videos/why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
 aliasesArchive:
 - /resources/videos/why-does-project-management-not-work-in-complex-environments
 - /resources/why-does-project-management-not-work-in-complex-environments
 - /resources/videos/why-does-project-management-not-work-in-complex-environments-
 - /resources/why-does-project-management-not-work-in-complex-environments-
+- why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

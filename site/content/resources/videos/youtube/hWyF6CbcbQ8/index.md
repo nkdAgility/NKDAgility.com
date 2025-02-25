@@ -12,10 +12,13 @@ slug: mastering-data-integrity-the-key-to-successful-devops-migrations
 layout: video
 aliases:
 - /resources/hWyF6CbcbQ8
+- /resources/videos/mastering-data-integrity-the-key-to-successful-devops-migrations
+- /resources/videos/devops-migration-data-integrity-issues
 aliasesArchive:
 - /resources/videos/mastering-data-integrity-the-key-to-successful-devops-migrations
 - /resources/videos/devops-migration-data-integrity-issues
 - /resources/devops-migration-data-integrity-issues
+- mastering-data-integrity-the-key-to-successful-devops-migrations
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false

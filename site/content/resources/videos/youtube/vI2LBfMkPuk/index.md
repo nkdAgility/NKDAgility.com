@@ -12,11 +12,14 @@ slug: embrace-the-chaos-transforming-scrum-learning-through-experience-and-minec
 layout: video
 aliases:
 - /resources/vI2LBfMkPuk
+- /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
+- /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
 aliasesArchive:
 - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
 - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
+- embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false

@@ -12,11 +12,14 @@ slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to
 layout: video
 aliases:
 - /resources/ZxDktQae10M
+- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+- /resources/videos/2018-vsts-sync-migration-tools-overview
 aliasesArchive:
 - /resources/videos/-vsts-sync-migration-tools-overview
 - /resources/videos/2018-vsts-sync-migration-tools-overview
 - /resources/2018-vsts-sync-migration-tools-overview
 - /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+- mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 isShort: false

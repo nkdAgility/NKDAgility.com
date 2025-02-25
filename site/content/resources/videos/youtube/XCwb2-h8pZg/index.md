@@ -12,10 +12,13 @@ slug: unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-ag
 layout: video
 aliases:
 - /resources/XCwb2-h8pZg
+- /resources/videos/unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
+- /resources/videos/kanban-with-team-foundation-service
 aliasesArchive:
 - /resources/videos/kanban-with-team-foundation-service
 - /resources/kanban-with-team-foundation-service
 - /resources/videos/unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
+- unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
 preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
 isShort: false

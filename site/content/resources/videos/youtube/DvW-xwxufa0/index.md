@@ -16,11 +16,15 @@ duration: 339
 isShort: false
 aliases:
 - /resources/DvW-xwxufa0
+- /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
+- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
 aliasesArchive:
 - /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
 - /resources/the-limits-of-self-taught-learning-why-external-perspectives-matter
 - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 - /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
+- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
+- the-limits-of-self-taught-learning-why-external-perspectives-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6

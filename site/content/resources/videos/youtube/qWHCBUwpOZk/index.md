@@ -9,18 +9,21 @@ ResourceImportSource: Youtube
 videoId: qWHCBUwpOZk
 source: internal
 url: /resources/videos/:slug
-slug: 3-core-practices-of-kanban-improving-a-workflow-
+slug: 3-core-practices-of-kanban-improving-a-workflow
 layout: video
 preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
 duration: 307
 isShort: false
 aliases:
 - /resources/qWHCBUwpOZk
+- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
 aliasesArchive:
 - /resources/videos/-core-practices-of-kanban-improving-a-workflow-
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
 - /resources/3-core-practices-of-kanban-improving-a-workflow
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+- 3-core-practices-of-kanban-improving-a-workflow-
+- 3-core-practices-of-kanban-improving-a-workflow
 sitemap:
   filename: sitemap.xml
   priority: 0.6

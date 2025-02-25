@@ -16,11 +16,15 @@ duration: 323
 isShort: false
 aliases:
 - /resources/VkTnZmJGf98
+- /resources/videos/evidence-based-management-the-key-to-agile-success
+- /resources/videos/why-evidence-based-management-how-has-it-improved-agile
 aliasesArchive:
 - /resources/videos/evidence-based-management-the-key-to-agile-success
 - /resources/evidence-based-management-the-key-to-agile-success
 - /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
 - /resources/why-evidence-based-management-how-has-it-improved-agile-
+- /resources/videos/why-evidence-based-management-how-has-it-improved-agile
+- evidence-based-management-the-key-to-agile-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -12,11 +12,14 @@ slug: engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkC
 layout: video
 aliases:
 - /resources/OMlLiLkCmMY
+- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
+- /resources/videos/-shorts-7-virtues-of-agile-chastity
 aliasesArchive:
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity
+- engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true

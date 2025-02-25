@@ -16,12 +16,16 @@ duration: 525
 isShort: false
 aliases:
 - /resources/vhBsAXev014
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
+- /resources/videos/chaos-7-harbingers-agile-apocalypse
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-chaos
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
 - /resources/7-harbingers-of-the-agile-apocalypse-chaos
 - /resources/videos/chaos!-7-harbingers-agile-apocalypse
 - /resources/chaos!-7-harbingers-agile-apocalypse
+- /resources/videos/chaos-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-chaos
 sitemap:
   filename: sitemap.xml
   priority: 0.6

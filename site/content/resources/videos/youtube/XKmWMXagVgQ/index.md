@@ -16,11 +16,14 @@ duration: 267
 isShort: false
 aliases:
 - /resources/XKmWMXagVgQ
+- /resources/videos/the-power-of-continuous-learning-for-product-owners
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 aliasesArchive:
 - /resources/videos/the-power-of-continuous-learning-for-product-owners
 - /resources/the-power-of-continuous-learning-for-product-owners
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
+- the-power-of-continuous-learning-for-product-owners
 sitemap:
   filename: sitemap.xml
   priority: 0.6

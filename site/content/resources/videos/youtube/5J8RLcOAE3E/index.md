@@ -13,10 +13,14 @@ slug: rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-en
 layout: video
 aliases:
 - /resources/5J8RLcOAE3E
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
 aliasesArchive:
 - /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+- rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false

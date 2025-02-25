@@ -16,12 +16,15 @@ duration: 50
 isShort: true
 aliases:
 - /resources/GfB3nB_PMyY
+- /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
 - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 aliasesArchive:
 - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
 - /resources/the-power-of-immersive-learning-bridging-theory-and-experience
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+- the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

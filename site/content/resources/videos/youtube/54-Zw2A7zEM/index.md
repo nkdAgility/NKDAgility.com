@@ -15,12 +15,13 @@ duration: 55
 isShort: true
 aliases:
 - /resources/54-Zw2A7zEM
-- /resources/videos/scrum-master-versus-seasoned-agile-coach
+- /resources/videos/scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
 aliasesArchive:
 - /resources/videos/scrum-master-versus-seasoned-agile-coach
 - /resources/scrum-master-versus-seasoned-agile-coach
 - /resources/videos/scrum-master-versus-seasoned-agile-coach-
 - /resources/scrum-master-versus-seasoned-agile-coach-
+- scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,13 +16,14 @@ duration: 48
 isShort: true
 aliases:
 - /resources/HcoTwjPnLC0
-- /resources/videos/is-a-product-owner-an-agile-project-manager
+- /resources/videos/is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
 aliasesArchive:
 - /resources/videos/is-a-product-owner-an-agile-project-manager
 - /resources/is-a-scrum-master-an-agile-project-manager
 - /resources/is-a-product-owner-an-agile-project-manager
 - /resources/videos/is-a-product-owner-an-agile-project-manager-
 - /resources/is-a-product-owner-an-agile-project-manager-
+- is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
 sitemap:
   filename: sitemap.xml
   priority: 0.6

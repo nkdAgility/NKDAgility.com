@@ -16,13 +16,17 @@ duration: 57
 isShort: true
 aliases:
 - /resources/L6opxb0FYcU
+- /resources/videos/worst-agile-advice-youve-ever-heard-L6opxb0FYcU
 - /resources/videos/worst-agile-advice-youve-ever-heard
+- /resources/videos/worst-agile-advice-heard
 aliasesArchive:
 - /resources/videos/worst-agile-advice-youve-ever-heard
 - /resources/worst-agile-advice-youve-ever-heard
 - /resources/worst-agile-advice-heard
 - /resources/videos/worst-agile-advice-heard-
 - /resources/worst-agile-advice-heard-
+- /resources/videos/worst-agile-advice-heard
+- worst-agile-advice-youve-ever-heard-L6opxb0FYcU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

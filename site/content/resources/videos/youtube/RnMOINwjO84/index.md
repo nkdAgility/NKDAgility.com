@@ -12,10 +12,13 @@ slug: navigating-complexity-how-to-foster-agility-and-innovation-in-business-dec
 layout: video
 aliases:
 - /resources/RnMOINwjO84
+- /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
+- /resources/videos/making-data-driven-decisions-decision-making-frameworks
 aliasesArchive:
 - /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 - /resources/videos/making-data-driven-decisions-decision-making-frameworks
 - /resources/making-data-driven-decisions-decision-making-frameworks
+- navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false

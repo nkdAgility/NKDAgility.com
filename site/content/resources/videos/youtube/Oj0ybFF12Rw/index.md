@@ -16,12 +16,13 @@ duration: 50
 isShort: true
 aliases:
 - /resources/Oj0ybFF12Rw
-- /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
+- /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
 aliasesArchive:
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
 - /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
 - /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 - /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
+- quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
 sitemap:
   filename: sitemap.xml
   priority: 0.6

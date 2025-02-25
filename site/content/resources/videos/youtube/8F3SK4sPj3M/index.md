@@ -16,12 +16,13 @@ duration: 43
 isShort: true
 aliases:
 - /resources/8F3SK4sPj3M
-- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
 aliasesArchive:
 - /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 - /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 - /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
 - /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
+- why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
 sitemap:
   filename: sitemap.xml
   priority: 0.6

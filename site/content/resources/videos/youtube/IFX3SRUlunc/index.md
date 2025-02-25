@@ -13,10 +13,13 @@ slug: unlocking-success-how-lean-product-development-transforms-decision-making-
 layout: video
 aliases:
 - /resources/IFX3SRUlunc
+- /resources/videos/unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 aliasesArchive:
 - /resources/videos/unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
 - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 - /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
+- unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
 preview: https://i.ytimg.com/vi/IFX3SRUlunc/maxresdefault.jpg
 duration: 115
 isShort: false

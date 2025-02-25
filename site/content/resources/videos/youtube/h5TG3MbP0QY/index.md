@@ -16,7 +16,7 @@ duration: 56
 isShort: true
 aliases:
 - /resources/h5TG3MbP0QY
-- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
 aliasesArchive:
 - /resources/videos/most-common-thing-you-hear-in-a-psm-course
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/most-common-thing-you-hear-in-a-psm-1-course
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-
+- most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

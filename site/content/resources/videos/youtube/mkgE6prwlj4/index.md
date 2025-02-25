@@ -16,13 +16,17 @@ duration: 55
 isShort: true
 aliases:
 - /resources/mkgE6prwlj4
+- /resources/videos/what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
 - /resources/videos/what-is-the-best-application-of-scrum-in-the-world
+- /resources/videos/best-application-of-scrum-in-the-world
 aliasesArchive:
 - /resources/videos/what-is-the-best-application-of-scrum-in-the-world
 - /resources/what-is-the-best-application-of-scrum-in-the-world
 - /resources/best-application-of-scrum-in-the-world
 - /resources/videos/best-application-of-scrum-in-the-world-
 - /resources/best-application-of-scrum-in-the-world-
+- /resources/videos/best-application-of-scrum-in-the-world
+- what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -12,12 +12,15 @@ slug: unlocking-product-value-why-real-user-feedback-is-your-best-asset
 layout: video
 aliases:
 - /resources/rbEQRJrs4NY
+- /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
+- /resources/videos/from-assumption-to-real-value-user-test
 aliasesArchive:
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/videos/from-assumption-to-real-value-user-test
 - /resources/from-assumption-to-real-value-user-test
 - /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
+- unlocking-product-value-why-real-user-feedback-is-your-best-asset
 preview: https://i.ytimg.com/vi/rbEQRJrs4NY/maxresdefault.jpg
 duration: 62
 isShort: false

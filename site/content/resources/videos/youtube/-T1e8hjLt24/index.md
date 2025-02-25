@@ -11,12 +11,15 @@ url: /resources/videos/:slug
 slug: stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
 aliases:
 - /resources/-T1e8hjLt24
+- /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
 - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
+- /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 aliasesArchive:
 - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-
 - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
 - /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 - /resources/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
+- stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true

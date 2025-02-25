@@ -16,12 +16,16 @@ duration: 46
 isShort: true
 aliases:
 - /resources/cGOa0rg_L-8
+- /resources/videos/is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
 - /resources/videos/is-your-project-ecosystem-truly-agile
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
 aliasesArchive:
 - /resources/videos/is-your-project-ecosystem-truly-agile
 - /resources/is-your-project-ecosystem-truly-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
+- is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
 sitemap:
   filename: sitemap.xml
   priority: 0.6

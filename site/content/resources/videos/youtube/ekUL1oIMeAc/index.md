@@ -16,12 +16,13 @@ duration: 48
 isShort: true
 aliases:
 - /resources/ekUL1oIMeAc
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
 aliasesArchive:
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of-
+- worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

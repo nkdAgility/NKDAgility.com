@@ -16,12 +16,15 @@ duration: 57
 isShort: true
 aliases:
 - /resources/Psc6nDD7Q9g
+- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 - /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 aliasesArchive:
 - /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 - "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
 - /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 - /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+- maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 sitemap:
   filename: sitemap.xml
   priority: 0.6

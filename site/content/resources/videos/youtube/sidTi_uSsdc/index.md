@@ -16,10 +16,11 @@ duration: 28
 isShort: true
 aliases:
 - /resources/sidTi_uSsdc
-- /resources/videos/discipline-versus-motivation
+- /resources/videos/discipline-versus-motivation-sidTi_uSsdc
 aliasesArchive:
 - /resources/videos/discipline-versus-motivation
 - /resources/discipline-versus-motivation
+- discipline-versus-motivation-sidTi_uSsdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

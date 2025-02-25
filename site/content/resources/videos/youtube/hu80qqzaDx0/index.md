@@ -12,11 +12,14 @@ slug: unlocking-team-potential-how-measurement-influences-engagement-and-collabo
 layout: video
 aliases:
 - /resources/hu80qqzaDx0
+- /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
 - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
+- /resources/videos/introduction-to-evidence-based-management-excerpt-1
 aliasesArchive:
 - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
 - /resources/videos/introduction-to-evidence-based-management-excerpt-1
 - /resources/introduction-to-evidence-based-management-excerpt-1
+- unlocking-team-potential-how-measurement-influences-engagement-and-collaboration-hu80qqzaDx0
 preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
 isShort: true

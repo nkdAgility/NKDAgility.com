@@ -12,11 +12,15 @@ slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-man
 layout: video
 aliases:
 - /resources/WIVDWzps4aY
+- /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
 - /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
+- /resources/videos/favourite-scrum-course-to-teach-and-why
 aliasesArchive:
 - /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
 - /resources/videos/favourite-scrum-course-to-teach-and-why-
 - /resources/favourite-scrum-course-to-teach-and-why-
+- /resources/videos/favourite-scrum-course-to-teach-and-why
+- mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
 isShort: true

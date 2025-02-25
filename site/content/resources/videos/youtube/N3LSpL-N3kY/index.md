@@ -16,11 +16,12 @@ duration: 52
 isShort: true
 aliases:
 - /resources/N3LSpL-N3kY
-- /resources/videos/2-day-pspo-versus-8-week-pspo
+- /resources/videos/2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 aliasesArchive:
 - /resources/videos/-day-pspo-versus-week-pspo
 - /resources/videos/2-day-pspo-versus-8-week-pspo
 - /resources/2-day-pspo-versus-8-week-pspo
+- 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,13 +16,14 @@ duration: 51
 isShort: true
 aliases:
 - /resources/o-wVeh3CIVI
-- /resources/videos/what-is-scrum
+- /resources/videos/what-is-scrum-o-wVeh3CIVI
 aliasesArchive:
 - /resources/videos/what-is-scrum
 - /resources/what-is-scrum-3
 - /resources/what-is-scrum-2
 - /resources/videos/what-is-scrum-
 - /resources/what-is-scrum-
+- what-is-scrum-o-wVeh3CIVI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

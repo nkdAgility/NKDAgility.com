@@ -16,11 +16,13 @@ duration: 553
 isShort: false
 aliases:
 - /resources/LMmKDlcIvWs
+- /resources/videos/what-is-kanban
 aliasesArchive:
 - /resources/videos/what-is-kanban
 - /resources/what-is-kanban
 - /resources/videos/what-is-kanban-
 - /resources/what-is-kanban-
+- what-is-kanban
 sitemap:
   filename: sitemap.xml
   priority: 0.6

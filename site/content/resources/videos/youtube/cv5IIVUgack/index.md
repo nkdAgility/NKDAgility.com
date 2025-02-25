@@ -16,12 +16,13 @@ duration: 50
 isShort: true
 aliases:
 - /resources/cv5IIVUgack
-- /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
+- /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
 aliasesArchive:
 - /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 - /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 - /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
 - /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
+- how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
 sitemap:
   filename: sitemap.xml
   priority: 0.6

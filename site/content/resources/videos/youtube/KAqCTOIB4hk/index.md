@@ -16,11 +16,15 @@ duration: 574
 isShort: false
 aliases:
 - /resources/KAqCTOIB4hk
+- /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
+- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
 - /resources/unlocking-the-power-of-immersive-learning-for-product-management
 - /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
 - /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
+- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams
+- unlocking-the-power-of-immersive-learning-for-product-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

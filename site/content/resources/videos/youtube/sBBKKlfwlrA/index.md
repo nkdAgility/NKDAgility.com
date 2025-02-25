@@ -12,11 +12,14 @@ slug: mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-s
 layout: video
 aliases:
 - /resources/sBBKKlfwlrA
+- /resources/videos/mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
+- /resources/videos/professional-scrum-with-nexus-sps-with-certification-learn-skills-to-overcome-scaling-challenges
 aliasesArchive:
 - /resources/videos/professional-scrum-with-nexus-sps-with-certification-learn-skills-to-overcome-scaling-challenges
 - /resources/videos/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
 - /resources/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
 - /resources/videos/mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
+- mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
 preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false

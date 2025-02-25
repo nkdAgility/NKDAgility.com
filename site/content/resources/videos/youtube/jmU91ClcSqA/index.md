@@ -16,12 +16,13 @@ duration: 52
 isShort: true
 aliases:
 - /resources/jmU91ClcSqA
-- /resources/videos/what-is-project-management
+- /resources/videos/what-is-project-management-jmU91ClcSqA
 aliasesArchive:
 - /resources/videos/what-is-project-management
 - /resources/what-is-project-management
 - /resources/videos/what-is-project-management-
 - /resources/what-is-project-management-
+- what-is-project-management-jmU91ClcSqA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

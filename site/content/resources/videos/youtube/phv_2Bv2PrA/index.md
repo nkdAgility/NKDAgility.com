@@ -12,11 +12,14 @@ slug: navigating-complexity-why-agile-practices-are-essential-for-modern-product
 layout: video
 aliases:
 - /resources/phv_2Bv2PrA
+- /resources/videos/navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
+- /resources/videos/what-is-agile
 aliasesArchive:
 - /resources/videos/what-is-agile
 - /resources/videos/what-is-agile-
 - /resources/what-is-agile-
 - /resources/videos/navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
+- navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
 isShort: false

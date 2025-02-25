@@ -16,10 +16,11 @@ duration: 57
 isShort: true
 aliases:
 - /resources/utI-1HVpeSU
-- /resources/videos/quotes-dictatorship-vs-democracy
+- /resources/videos/quotes-dictatorship-vs-democracy-utI-1HVpeSU
 aliasesArchive:
 - /resources/videos/quotes-dictatorship-vs-democracy
 - /resources/quotes-dictatorship-vs-democracy
+- quotes-dictatorship-vs-democracy-utI-1HVpeSU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

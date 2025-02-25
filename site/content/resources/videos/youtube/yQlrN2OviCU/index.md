@@ -16,12 +16,15 @@ duration: 47
 isShort: true
 aliases:
 - /resources/yQlrN2OviCU
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
 - /resources/videos/the-power-of-peer-feedback-in-immersive-learning
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 aliasesArchive:
 - /resources/videos/the-power-of-peer-feedback-in-immersive-learning
 - /resources/the-power-of-peer-feedback-in-immersive-learning
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+- the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

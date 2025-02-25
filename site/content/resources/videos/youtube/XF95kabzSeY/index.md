@@ -12,12 +12,15 @@ slug: filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-
 layout: video
 aliases:
 - /resources/XF95kabzSeY
+- /resources/videos/filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 aliasesArchive:
 - /resources/videos/shorts-things-you-would-teach-a-productowner-apprentice-part-
 - /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/videos/filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
+- filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
 preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false

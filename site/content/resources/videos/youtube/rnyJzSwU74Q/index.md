@@ -12,11 +12,14 @@ slug: unlocking-agile-success-how-empirical-models-transform-project-outcomes
 layout: video
 aliases:
 - /resources/rnyJzSwU74Q
+- /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
+- /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
 aliasesArchive:
 - /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
 - /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
+- unlocking-agile-success-how-empirical-models-transform-project-outcomes
 preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
 isShort: false

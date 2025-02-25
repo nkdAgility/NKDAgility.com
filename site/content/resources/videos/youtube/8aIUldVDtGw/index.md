@@ -16,11 +16,15 @@ duration: 496
 isShort: false
 aliases:
 - /resources/8aIUldVDtGw
+- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/videos/stop-starting-and-start-finishing
 aliasesArchive:
 - /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
 - /resources/stop-starting-and-start-finishing-the-key-to-team-success
 - /resources/videos/stop-starting-and-start-finishing!
 - /resources/stop-starting-and-start-finishing!
+- /resources/videos/stop-starting-and-start-finishing
+- stop-starting-and-start-finishing-the-key-to-team-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6

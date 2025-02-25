@@ -16,11 +16,12 @@ duration: 43
 isShort: true
 aliases:
 - /resources/ypVIcgSEvMc
-- /resources/videos/30-discount-for-existing-alumni-overview
+- /resources/videos/30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 aliasesArchive:
 - /resources/videos/-discount-for-existing-alumni-overview
 - /resources/videos/30-discount-for-existing-alumni-overview
 - /resources/30-discount-for-existing-alumni-overview
+- 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

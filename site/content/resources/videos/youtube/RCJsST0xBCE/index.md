@@ -12,10 +12,13 @@ slug: mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-mig
 layout: video
 aliases:
 - /resources/RCJsST0xBCE
+- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+- mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: false

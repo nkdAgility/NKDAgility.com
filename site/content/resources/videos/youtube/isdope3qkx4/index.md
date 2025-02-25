@@ -12,11 +12,14 @@ slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-
 layout: video
 aliases:
 - /resources/isdope3qkx4
+- /resources/videos/mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
+- /resources/videos/11th-april-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/11th-april-2020-office-hours-ask-me-anything
 - /resources/11th-april-2020-office-hours-ask-me-anything
 - /resources/videos/mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
+- mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
 preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: false

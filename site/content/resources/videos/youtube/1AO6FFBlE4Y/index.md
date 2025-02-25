@@ -11,10 +11,14 @@ source: internal
 url: /resources/videos/:slug
 aliases:
 - /resources/1AO6FFBlE4Y
+- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+- /resources/videos/the-high-cost-of-poor-quality-code
 aliasesArchive:
 - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 - /resources/videos/the-high-cost-of-poor-quality-code-
 - /resources/the-high-cost-of-poor-quality-code-
+- the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+- /resources/videos/the-high-cost-of-poor-quality-code
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false

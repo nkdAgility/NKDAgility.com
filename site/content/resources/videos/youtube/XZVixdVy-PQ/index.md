@@ -16,11 +16,15 @@ duration: 223
 isShort: false
 aliases:
 - /resources/XZVixdVy-PQ
+- /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
 aliasesArchive:
 - /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 - /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
+- redefining-agiles-core-beyond-rituals-and-procedures
 sitemap:
   filename: sitemap.xml
   priority: 0.6

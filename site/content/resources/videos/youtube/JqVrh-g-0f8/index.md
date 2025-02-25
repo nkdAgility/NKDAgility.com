@@ -16,12 +16,13 @@ duration: 42
 isShort: true
 aliases:
 - /resources/JqVrh-g-0f8
-- /resources/videos/what-does-a-poor-product-backlog-look-like
+- /resources/videos/what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
 aliasesArchive:
 - /resources/videos/what-does-a-poor-product-backlog-look-like
 - /resources/what-does-a-poor-product-backlog-look-like
 - /resources/videos/what-does-a-poor-product-backlog-look-like-
 - /resources/what-does-a-poor-product-backlog-look-like-
+- what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
 sitemap:
   filename: sitemap.xml
   priority: 0.6

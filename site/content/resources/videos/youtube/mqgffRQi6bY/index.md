@@ -16,11 +16,12 @@ duration: 51
 isShort: true
 aliases:
 - /resources/mqgffRQi6bY
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
 aliasesArchive:
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -14,11 +14,13 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gImXmxjn_1g
 aliases:
 - /resources/gImXmxjn_1g
+- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
 aliasesArchive:
 - /resources/videos/what-are-top-tips-for-a-new-agile-consultant
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
 - /resources/what-are-3-top-tips-for-a-new-agile-consultant-
+- what-are-3-top-tips-for-a-new-agile-consultant
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false

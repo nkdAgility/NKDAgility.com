@@ -15,11 +15,13 @@ duration: 263
 isShort: false
 aliases:
 - /resources/1ePkQeCVAlY
+- /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
 aliasesArchive:
 - /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
 - /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
 - /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
 - /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
+- what-is-the-difference-between-resource-efficiency-and-flow-efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

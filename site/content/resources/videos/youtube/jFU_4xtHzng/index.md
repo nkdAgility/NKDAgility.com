@@ -16,12 +16,14 @@ duration: 197
 isShort: false
 aliases:
 - /resources/jFU_4xtHzng
+- /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 aliasesArchive:
 - /resources/videos/why-do-you-think-that-half-days-is-a-better-format-than-full-days
 - /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 - /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 - /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
 - /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
+- why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 sitemap:
   filename: sitemap.xml
   priority: 0.6

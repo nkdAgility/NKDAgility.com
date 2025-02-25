@@ -29,14 +29,17 @@ function Get-UrlSafeString {
     )
 
     $string = $string.trim()
-    $title = $title -replace '\. ', ' - ' -replace '[#".]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
+    $string = $string -replace '\. ', ' - ' -replace '[#".]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
 
-    $title = ($title -replace '[^0-9a-zA-Z -]', '' -replace '\s+', '-').ToLower()
+    $string = ($string -replace '[^0-9a-zA-Z -]', '' -replace '\s+', '-').ToLower()
 
     # Remove consecutive dashes
-    $title = $title -replace '-+', '-'
+    $string = $string -replace '-+', '-'
 
-    return $title.ToLower()
+    # Remove trailing dashes
+    $string = $string -replace '-$', ''
+
+    return $string.ToLower()
 }
 
 # Function to generate or update Hugo markdown content for a video
@@ -106,13 +109,21 @@ function Update-YoutubeMarkdownFiles {
 
             $urlSafeTitle = Get-UrlSafeString -string $title
             $urlSafeTitleVideo = Get-UrlSafeString -string $videoSnippet.title
+            $slug = $urlSafeTitle
+            if ($isShort -eq $true) {
+                $slug = "$urlSafeTitle-$videoId"
+            }
 
 
             $aliases = @("/resources/$videoId")
-            $aliases += @("/resources/videos/$urlSafeTitleVideo")
-            $aliases += @("/resources/videos/$urlSafeTitle")
+            $aliases += @("/resources/videos/$slug")
+            if ($urlSafeTitle -ne $urlSafeTitleVideo) {
+                $aliases += @("/resources/videos/$urlSafeTitle")
+                $aliases += @("/resources/videos/$urlSafeTitleVideo")
+            }
 
-            $aliasesArchive = @("/resources/videos/$urlSafeTitle", "/resources/videos/$urlSafeTitleVideo")
+
+            $aliasesArchive = @("/resources/videos/$urlSafeTitle", "/resources/videos/$urlSafeTitleVideo", $slug)
            
 
             # Use Update-Field from HugoHelpers.ps1 to update or add each field
@@ -155,16 +166,7 @@ function Update-YoutubeMarkdownFiles {
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Youtube" -addAfter 'ResourceImport'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug" -Overwrite
-            if ($isShort) {
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue  "$urlSafeTitle-$videoId" -Overwrite
-            }
-            else {
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue  "$urlSafeTitle" -Overwrite
-            }
-            
-            if ($videoData.status.privacyStatus -eq "unlisted") {
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'draft' -fieldValue $true -addAfter "slug" -Overwrite
-            }
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue  $slug -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "video" -addAfter "slug"
             if ($source -eq "youtube") {
                 $externalUrl = "https://www.youtube.com/watch?v=$videoId"

@@ -16,12 +16,16 @@ duration: 262
 isShort: false
 aliases:
 - /resources/U18nA0YFgu0
+- /resources/videos/7-deadly-sins-of-agile-wrath
+- /resources/videos/wrath-7-deadly-sins-of-agile
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-wrath
 - /resources/videos/7-deadly-sins-of-agile-wrath
 - /resources/7-deadly-sins-of-agile-wrath
 - /resources/videos/wrath!-7-deadly-sins-of-agile
 - /resources/wrath!-7-deadly-sins-of-agile
+- /resources/videos/wrath-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-wrath
 sitemap:
   filename: sitemap.xml
   priority: 0.6

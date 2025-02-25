@@ -16,13 +16,17 @@ duration: 56
 isShort: true
 aliases:
 - /resources/TZKvdhDPMjg
+- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
 - /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 aliasesArchive:
 - /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 - /resources/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
+- one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

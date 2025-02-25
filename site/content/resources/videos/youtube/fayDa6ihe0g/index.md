@@ -13,11 +13,13 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=fayDa6ihe0g
 aliases:
 - /resources/fayDa6ihe0g
+- /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes
 aliasesArchive:
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-minutes
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
 - /resources/live-virtual-professional-scrum-product-owner-in-5-minutes!
+- live-virtual-professional-scrum-product-owner-in-5-minutes
 preview: https://i.ytimg.com/vi/fayDa6ihe0g/maxresdefault.jpg
 duration: 301
 isShort: false

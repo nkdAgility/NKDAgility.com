@@ -11,10 +11,14 @@ url: /resources/videos/:slug
 slug: unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 aliases:
 - /resources/5ZRMBfV9zpI
+- /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
+- /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
 aliasesArchive:
 - /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 - /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
 - /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
+- /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
+- unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 isShort: false

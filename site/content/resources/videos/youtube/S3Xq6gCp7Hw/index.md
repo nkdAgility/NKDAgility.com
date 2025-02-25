@@ -16,11 +16,13 @@ duration: 353
 isShort: false
 aliases:
 - /resources/S3Xq6gCp7Hw
+- /resources/videos/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliasesArchive:
 - /resources/videos/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 - /resources/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 - /resources/videos/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
 - /resources/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
+- how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 sitemap:
   filename: sitemap.xml
   priority: 0.6

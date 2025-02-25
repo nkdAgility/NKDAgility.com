@@ -13,10 +13,14 @@ slug: why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scru
 layout: video
 aliases:
 - /resources/J3Z2xU5ditc
+- /resources/videos/why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-4
 aliasesArchive:
 - /resources/videos/why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-4
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-4
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-4
+- why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
 preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
 duration: 436
 isShort: false

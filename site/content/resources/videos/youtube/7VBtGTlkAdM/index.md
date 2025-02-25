@@ -15,13 +15,14 @@ duration: 55
 isShort: true
 aliases:
 - /resources/7VBtGTlkAdM
-- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 aliasesArchive:
 - /resources/videos/-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
+- 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

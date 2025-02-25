@@ -16,11 +16,12 @@ duration: 50
 isShort: true
 aliases:
 - /resources/o9Qc_NLmtok
-- /resources/videos/8-week-immersive-learning-course-in-60-seconds
+- /resources/videos/8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 aliasesArchive:
 - /resources/videos/-week-immersive-learning-course-in-seconds
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds
 - /resources/8-week-immersive-learning-course-in-60-seconds
+- 8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 sitemap:
   filename: sitemap.xml
   priority: 0.6

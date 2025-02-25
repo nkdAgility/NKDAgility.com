@@ -12,10 +12,14 @@ slug: unlocking-business-value-the-power-of-evidence-based-management-for-effect
 layout: video
 aliases:
 - /resources/MCkSBdzRK_c
+- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
+- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
 aliasesArchive:
 - /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
+- unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: false

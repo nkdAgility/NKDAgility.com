@@ -12,10 +12,13 @@ slug: mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-
 layout: video
 aliases:
 - /resources/tzmbqdEULUY
+- /resources/videos/mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
+- /resources/videos/devops-migration-downtime
 aliasesArchive:
 - /resources/videos/mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
 - /resources/videos/devops-migration-downtime
 - /resources/devops-migration-downtime
+- mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false

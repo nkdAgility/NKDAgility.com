@@ -16,11 +16,13 @@ duration: 389
 isShort: false
 aliases:
 - /resources/zSQSQPFsy-o
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 aliasesArchive:
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

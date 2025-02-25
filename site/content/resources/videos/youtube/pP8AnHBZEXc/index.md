@@ -12,11 +12,14 @@ slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-c
 layout: video
 aliases:
 - /resources/pP8AnHBZEXc
+- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+- /resources/videos/27th-may-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/27th-may-2020-office-hours-ask-me-anything
 - /resources/27th-may-2020-office-hours-ask-me-anything
 - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+- unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
 duration: 1906
 isShort: false

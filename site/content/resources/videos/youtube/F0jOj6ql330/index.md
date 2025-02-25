@@ -16,12 +16,13 @@ duration: 46
 isShort: true
 aliases:
 - /resources/F0jOj6ql330
-- /resources/videos/most-rewarding-part-of-being-a-scrum-developer
+- /resources/videos/most-rewarding-part-of-being-a-scrum-developer-F0jOj6ql330
 aliasesArchive:
 - /resources/videos/most-rewarding-part-of-being-a-scrum-developer
 - /resources/most-rewarding-part-of-being-a-scrum-developer
 - /resources/videos/most-rewarding-part-of-being-a-scrum-developer-
 - /resources/most-rewarding-part-of-being-a-scrum-developer-
+- most-rewarding-part-of-being-a-scrum-developer-F0jOj6ql330
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -15,11 +15,14 @@ duration: 252
 isShort: false
 aliases:
 - /resources/4nhKXAgutZw
+- /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
+- /resources/videos/7-virtues-of-agile-kindness
 aliasesArchive:
 - /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
 - /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
 - /resources/videos/7-virtues-of-agile-kindness
 - /resources/7-virtues-of-agile-kindness
+- the-power-of-kindness-in-agile-a-core-virtue-for-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6

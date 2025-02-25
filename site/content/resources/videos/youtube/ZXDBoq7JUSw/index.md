@@ -16,12 +16,13 @@ duration: 37
 isShort: true
 aliases:
 - /resources/ZXDBoq7JUSw
-- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
+- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
 aliasesArchive:
 - /resources/videos/-reasons-why-you-should-level-up-your-knowledge-and-skills
 - /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 - /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills-2
 - /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills
+- 3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
 sitemap:
   filename: sitemap.xml
   priority: 0.6

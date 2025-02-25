@@ -11,10 +11,14 @@ url: /resources/videos/:slug
 slug: maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
 aliases:
 - /resources/5IBKxYLA494
+- /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+- /resources/videos/scrum-with-azure-devops
 aliasesArchive:
 - /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
 - /resources/videos/scrum-with-azure-devops!
 - /resources/scrum-with-azure-devops!
+- /resources/videos/scrum-with-azure-devops
+- maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: false

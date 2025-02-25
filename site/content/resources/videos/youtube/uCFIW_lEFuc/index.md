@@ -12,11 +12,16 @@ slug: conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
 layout: video
 aliases:
 - /resources/uCFIW_lEFuc
+- /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+- /resources/videos/sloth-7-deadly-sins-of-agile
 aliasesArchive:
 - /resources/videos/conquering-sloth-in-agile-signs-your-team-might-be-stalling
 - /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
 - /resources/videos/sloth!-7-deadly-sins-of-agile-
 - /resources/sloth!-7-deadly-sins-of-agile-
+- /resources/videos/sloth-7-deadly-sins-of-agile-
+- conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+- /resources/videos/sloth-7-deadly-sins-of-agile
 preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: false

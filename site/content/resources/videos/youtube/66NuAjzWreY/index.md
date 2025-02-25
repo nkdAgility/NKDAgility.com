@@ -15,11 +15,14 @@ duration: 414
 isShort: false
 aliases:
 - /resources/66NuAjzWreY
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/videos/introduction-to-evidence-based-management
 aliasesArchive:
 - /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/videos/introduction-to-evidence-based-management
 - /resources/introduction-to-evidence-based-management
+- mastering-evidence-based-management-in-agile-inform-dont-control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

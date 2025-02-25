@@ -16,11 +16,14 @@ duration: 299
 isShort: false
 aliases:
 - /resources/JzAbvkFxVzs
+- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-dogma
 aliasesArchive:
 - /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-dogma
 - /resources/5-ghosts-of-agile-past-dogma
+- the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,11 +16,13 @@ duration: 356
 isShort: false
 aliases:
 - /resources/QQA9coiM4fk
+- /resources/videos/devops-consulting-overview
 aliasesArchive:
 - /resources/videos/devops-consulting-overview
 - /resources/devops-consulting-overview
 - /resources/videos/devops-consulting-overview-
 - /resources/devops-consulting-overview-
+- devops-consulting-overview
 sitemap:
   filename: sitemap.xml
   priority: 0.6

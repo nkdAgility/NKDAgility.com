@@ -16,12 +16,16 @@ duration: 304
 isShort: false
 aliases:
 - /resources/rPxverzgPz0
+- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
+- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
 aliasesArchive:
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
+- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
+- would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
 sitemap:
   filename: sitemap.xml
   priority: 0.6

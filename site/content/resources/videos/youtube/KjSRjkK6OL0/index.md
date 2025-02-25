@@ -16,12 +16,13 @@ duration: 45
 isShort: true
 aliases:
 - /resources/KjSRjkK6OL0
-- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
+- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
 aliasesArchive:
 - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
 - /resources/what-does-an-ineffective-scrum-master's-day-look-like-
+- what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
 sitemap:
   filename: sitemap.xml
   priority: 0.6

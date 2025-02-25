@@ -13,10 +13,13 @@ slug: cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-en
 layout: video
 aliases:
 - /resources/HmAIUiR8QSo
+- /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
+- /resources/videos/building-a-culture-of-quality
 aliasesArchive:
 - /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 - /resources/videos/building-a-culture-of-quality
 - /resources/building-a-culture-of-quality
+- cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false

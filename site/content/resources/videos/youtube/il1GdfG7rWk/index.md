@@ -16,11 +16,14 @@ duration: 387
 isShort: false
 aliases:
 - /resources/il1GdfG7rWk
+- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
 aliasesArchive:
 - /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
 - /resources/mastering-product-backlog-management-essential-skills-for-product-owners
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
+- mastering-product-backlog-management-essential-skills-for-product-owners
 sitemap:
   filename: sitemap.xml
   priority: 0.6

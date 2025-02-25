@@ -16,6 +16,8 @@ duration: 497
 isShort: false
 aliases:
 - /resources/yvIanYh3bcQ
+- /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
+- /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 aliasesArchive:
 - /resources/videos/best-scrum-advice-you-ever-received
 - /resources/best-scrum-advice-you-ever-received-2
@@ -25,6 +27,7 @@ aliasesArchive:
 - /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 - /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 - /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
+- navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

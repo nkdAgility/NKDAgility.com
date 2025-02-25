@@ -15,12 +15,13 @@ duration: 47
 isShort: true
 aliases:
 - /resources/5s9vi8PiFM4
-- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
 aliasesArchive:
 - /resources/videos/-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+- 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

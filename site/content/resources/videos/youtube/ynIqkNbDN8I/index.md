@@ -16,10 +16,13 @@ duration: 527
 isShort: false
 aliases:
 - /resources/ynIqkNbDN8I
+- /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
+- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
 aliasesArchive:
 - /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
 - /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
 - /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
+- unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

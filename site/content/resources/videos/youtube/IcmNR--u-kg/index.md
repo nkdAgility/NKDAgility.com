@@ -13,10 +13,14 @@ slug: transform-your-teams-skills-the-power-of-immersive-learning-in-the-workpla
 layout: video
 aliases:
 - /resources/IcmNR--u-kg
+- /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
 aliasesArchive:
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
+- transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false

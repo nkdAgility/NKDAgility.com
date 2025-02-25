@@ -16,12 +16,16 @@ duration: 505
 isShort: false
 aliases:
 - /resources/JVZzJZ5q0Hw
+- /resources/videos/what-is-a-sprint-goal
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
 aliasesArchive:
 - /resources/videos/what-is-a-sprint-goal
 - /resources/what-is-the-most-common-mistake-in-sprint-planning
 - /resources/what-is-a-sprint-goal
 - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/what-is-the-most-common-mistake-in-sprint-planning-
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+- what-is-a-sprint-goal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

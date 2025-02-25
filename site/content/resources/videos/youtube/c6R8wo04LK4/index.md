@@ -16,10 +16,11 @@ duration: 36
 isShort: true
 aliases:
 - /resources/c6R8wo04LK4
-- /resources/videos/hardest-part-of-adopting-scrum
+- /resources/videos/hardest-part-of-adopting-scrum-c6R8wo04LK4
 aliasesArchive:
 - /resources/videos/hardest-part-of-adopting-scrum
 - /resources/hardest-part-of-adopting-scrum
+- hardest-part-of-adopting-scrum-c6R8wo04LK4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

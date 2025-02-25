@@ -12,10 +12,14 @@ slug: unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agil
 layout: video
 aliases:
 - /resources/vQBYdfLwJ3g
+- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
 aliasesArchive:
 - /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
 - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 - /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
+- unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 isShort: false

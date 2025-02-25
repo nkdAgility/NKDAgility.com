@@ -12,11 +12,15 @@ slug: the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-
 layout: video
 aliases:
 - /resources/XZ1Swam_Cx0
+- /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
 - /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
+- /resources/videos/antichrist-7-harbingers-agile-apocalypse-but-shorter
 aliasesArchive:
 - /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/antichrist-7-harbingers-agile-apocalypse-but-shorter
+- the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true

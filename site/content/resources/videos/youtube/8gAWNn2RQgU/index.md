@@ -16,12 +16,15 @@ duration: 45
 isShort: true
 aliases:
 - /resources/8gAWNn2RQgU
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
 aliasesArchive:
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+- why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

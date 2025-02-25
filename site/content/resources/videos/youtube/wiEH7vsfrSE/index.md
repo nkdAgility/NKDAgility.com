@@ -16,11 +16,15 @@ duration: 1046
 isShort: false
 aliases:
 - /resources/wiEH7vsfrSE
+- /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
+- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness-not-cost-cutting
 aliasesArchive:
 - /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
 - /resources/why-cost-cutting-during-recessions-is-counterproductive
 - /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
 - /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
+- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness-not-cost-cutting
+- why-cost-cutting-during-recessions-is-counterproductive
 sitemap:
   filename: sitemap.xml
   priority: 0.6

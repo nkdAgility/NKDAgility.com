@@ -16,7 +16,9 @@ duration: 48
 isShort: true
 aliases:
 - /resources/PNLCxB2zmUA
+- /resources/videos/embracing-change-how-architectural-adaptation-fuels-software-development-success-PNLCxB2zmUA
 - /resources/videos/embracing-change-how-architectural-adaptation-fuels-software-development-success
+- /resources/videos/the-necessity-of-architectural-adaptation
 aliasesArchive:
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 - /resources/transform-your-software-team-with-expert-product-development-mentoring
@@ -27,6 +29,7 @@ aliasesArchive:
 - /resources/videos/the-necessity-of-architectural-adaptation
 - /resources/the-necessity-of-architectural-adaptation
 - /resources/videos/embracing-change-how-architectural-adaptation-fuels-software-development-success
+- embracing-change-how-architectural-adaptation-fuels-software-development-success-PNLCxB2zmUA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

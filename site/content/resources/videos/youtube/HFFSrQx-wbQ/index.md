@@ -12,10 +12,14 @@ slug: breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and
 layout: video
 aliases:
 - /resources/HFFSrQx-wbQ
+- /resources/videos/breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
+- /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter
 aliasesArchive:
 - /resources/videos/breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
 - /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/plague-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter
+- breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
 preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false

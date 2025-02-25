@@ -16,11 +16,14 @@ duration: 430
 isShort: false
 aliases:
 - /resources/VOUmfpB-d88
+- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
+- /resources/videos/nkd-agility-training-approach
 aliasesArchive:
 - /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
 - /resources/transforming-training-the-power-of-immersive-learning-in-scrum
 - /resources/videos/nkd-agility-training-approach
 - /resources/nkd-agility-training-approach
+- transforming-training-the-power-of-immersive-learning-in-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -11,11 +11,14 @@ url: /resources/videos/:slug
 slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
 aliases:
 - /resources/1M2_AVqoRbs
+- /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
 - /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
+- /resources/videos/technical-debt-costs-you-more-than-you-think
 aliasesArchive:
 - /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
 - /resources/videos/technical-debt-costs-you-more-than-you-think
 - /resources/technical-debt-costs-you-more-than-you-think
+- transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true

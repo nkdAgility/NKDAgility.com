@@ -13,10 +13,12 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=wjYFdWaWfOA
 aliases:
 - /resources/wjYFdWaWfOA
+- /resources/videos/what-is-a-scrum-master-why-are-they-essential
 aliasesArchive:
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential-
 - /resources/what-is-a-scrum-master-why-are-they-essential-
+- what-is-a-scrum-master-why-are-they-essential
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false

@@ -12,11 +12,14 @@ slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-dat
 layout: video
 aliases:
 - /resources/Q46T5DYVKqQ
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
 - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/what-is-empiricism
 aliasesArchive:
 - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
 - /resources/videos/what-is-empiricism
 - /resources/what-is-empiricism
+- harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true

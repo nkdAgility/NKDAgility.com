@@ -9,18 +9,25 @@ ResourceImportSource: Youtube
 videoId: NeGch-lQkPA
 source: internal
 url: /resources/videos/:slug
-slug: overview-of-applying-flow-metrics-for-scrum-course-
+slug: overview-of-applying-flow-metrics-for-scrum-course
 layout: video
 preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
 duration: 125
 isShort: false
 aliases:
 - /resources/NeGch-lQkPA
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
 aliasesArchive:
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
 - /resources/overview-of-applying-flow-metrics-for-scrum-course
 - /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 - /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course-
+- overview-of-applying-flow-metrics-for-scrum-course-
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+- overview-of-applying-flow-metrics-for-scrum-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

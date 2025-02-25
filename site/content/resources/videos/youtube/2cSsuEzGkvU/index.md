@@ -11,11 +11,14 @@ url: /resources/videos/:slug
 slug: empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
 aliases:
 - /resources/2cSsuEzGkvU
+- /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
 - /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success
+- /resources/videos/-shorts-7-virtues-of-agile-humility
 aliasesArchive:
 - /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success
 - /resources/videos/-shorts-7-virtues-of-agile-humility
 - /resources/-shorts-7-virtues-of-agile-humility
+- empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true

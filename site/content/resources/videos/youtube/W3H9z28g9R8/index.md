@@ -16,12 +16,16 @@ duration: 448
 isShort: false
 aliases:
 - /resources/W3H9z28g9R8
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-famine
+- /resources/videos/famine-7-harbingers-agile-apocalypse
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-famine
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-famine
 - /resources/7-harbingers-of-the-agile-apocalypse-famine
 - /resources/videos/famine!-7-harbingers-agile-apocalypse
 - /resources/famine!-7-harbingers-agile-apocalypse
+- /resources/videos/famine-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-famine
 sitemap:
   filename: sitemap.xml
   priority: 0.6

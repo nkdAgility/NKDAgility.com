@@ -12,11 +12,14 @@ slug: ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-fo
 layout: video
 aliases:
 - /resources/UFCwbq00CEQ
+- /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
 - /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
 aliasesArchive:
 - /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
+- ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success-UFCwbq00CEQ
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true

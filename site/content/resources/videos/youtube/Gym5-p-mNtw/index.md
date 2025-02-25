@@ -13,10 +13,13 @@ slug: transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 layout: video
 aliases:
 - /resources/Gym5-p-mNtw
+- /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
+- /resources/videos/agile-your-secret-weapon-for-cost-control
 aliasesArchive:
 - /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 - /resources/videos/agile-your-secret-weapon-for-cost-control
 - /resources/agile-your-secret-weapon-for-cost-control
+- transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAYflUb0emeyDkvO71n8DlDn3Kg5Q
 duration: 525
 isShort: false

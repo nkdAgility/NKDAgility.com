@@ -16,11 +16,14 @@ duration: 197
 isShort: false
 aliases:
 - /resources/EoInrPvjBHo
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 aliasesArchive:
 - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/5-kinds-of-agile-bandits-product-owner-bandits
+- how-to-overcome-agile-banditry-a-product-owners-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6

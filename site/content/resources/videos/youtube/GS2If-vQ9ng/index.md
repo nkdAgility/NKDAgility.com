@@ -16,10 +16,11 @@ duration: 49
 isShort: true
 aliases:
 - /resources/GS2If-vQ9ng
-- /resources/videos/agile-training-versus-agile-consulting
+- /resources/videos/agile-training-versus-agile-consulting-GS2If-vQ9ng
 aliasesArchive:
 - /resources/videos/agile-training-versus-agile-consulting
 - /resources/agile-training-versus-agile-consulting
+- agile-training-versus-agile-consulting-GS2If-vQ9ng
 sitemap:
   filename: sitemap.xml
   priority: 0.6

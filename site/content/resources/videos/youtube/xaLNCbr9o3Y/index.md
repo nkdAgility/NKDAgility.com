@@ -12,11 +12,14 @@ slug: navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 layout: video
 aliases:
 - /resources/xaLNCbr9o3Y
+- /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+- /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 aliasesArchive:
 - /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+- navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
 isShort: false

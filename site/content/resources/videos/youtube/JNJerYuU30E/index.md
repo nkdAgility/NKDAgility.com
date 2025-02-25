@@ -13,11 +13,12 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=JNJerYuU30E
 aliases:
 - /resources/JNJerYuU30E
-- /resources/videos/most-influential-person-in-agile-jernimo-palacios
+- /resources/videos/most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
 aliasesArchive:
 - /resources/videos/most-influential-person-in-agile-jernimo-palacios
 - /resources/videos/most-influential-person-in-agile-jerónimo-palacios
 - /resources/most-influential-person-in-agile-jerónimo-palacios
+- most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 isShort: true

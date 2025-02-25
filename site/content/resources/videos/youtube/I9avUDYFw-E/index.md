@@ -16,11 +16,14 @@ duration: 112
 isShort: false
 aliases:
 - /resources/I9avUDYFw-E
+- /resources/videos/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
+- /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 aliasesArchive:
 - /resources/videos/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
 - /resources/the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
 - /resources/videos/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
 - /resources/why-does-this-matter-why-is-it-critical-that-we-invest-in-competence-now
+- the-importance-of-competence-in-organizations-building-a-culture-of-learning-and-growth
 sitemap:
   filename: sitemap.xml
   priority: 0.6

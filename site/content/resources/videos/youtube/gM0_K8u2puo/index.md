@@ -16,7 +16,9 @@ duration: 34
 isShort: true
 aliases:
 - /resources/gM0_K8u2puo
+- /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
 - /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases
+- /resources/videos/be-a-market-leader-not-a-follower
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
@@ -25,6 +27,8 @@ aliasesArchive:
 - /resources/videos/be-a-market-leader,-not-a-follower
 - /resources/be-a-market-leader,-not-a-follower
 - /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases
+- /resources/videos/be-a-market-leader-not-a-follower
+- mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

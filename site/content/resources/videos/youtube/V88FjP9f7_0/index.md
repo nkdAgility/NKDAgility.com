@@ -16,12 +16,13 @@ duration: 37
 isShort: true
 aliases:
 - /resources/V88FjP9f7_0
-- /resources/videos/quotes-less-is-more-true-or-false
+- /resources/videos/quotes-less-is-more-true-or-false-V88FjP9f7_0
 aliasesArchive:
 - /resources/videos/quotes-less-is-more-true-or-false
 - /resources/quotes-less-is-more-true-or-false
 - /resources/videos/quotes-less-is-more-true-or-false-
 - /resources/quotes-less-is-more-true-or-false-
+- quotes-less-is-more-true-or-false-V88FjP9f7_0
 sitemap:
   filename: sitemap.xml
   priority: 0.6

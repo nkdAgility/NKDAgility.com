@@ -16,12 +16,15 @@ duration: 37
 isShort: true
 aliases:
 - /resources/BFDB04_JIhg
+- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
 - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+- /resources/videos/introduction-to-kanban
 aliasesArchive:
 - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 - /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 - /resources/videos/introduction-to-kanban
 - /resources/introduction-to-kanban
+- understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
 sitemap:
   filename: sitemap.xml
   priority: 0.6

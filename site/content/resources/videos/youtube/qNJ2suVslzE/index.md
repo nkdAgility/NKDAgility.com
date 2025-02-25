@@ -13,10 +13,13 @@ slug: transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in
 layout: video
 aliases:
 - /resources/qNJ2suVslzE
+- /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
+- /resources/videos/taming-scope-creep-with-agile
 aliasesArchive:
 - /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 - /resources/videos/taming-scope-creep-with-agile
 - /resources/taming-scope-creep-with-agile
+- transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBAuNIUpdN0JKx8msFH_ZzcrnsvLw
 duration: 259
 isShort: false

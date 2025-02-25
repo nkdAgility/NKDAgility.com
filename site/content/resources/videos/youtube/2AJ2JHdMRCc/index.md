@@ -15,10 +15,11 @@ duration: 35
 isShort: true
 aliases:
 - /resources/2AJ2JHdMRCc
-- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
+- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering-2AJ2JHdMRCc
 aliasesArchive:
 - /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
 - /resources/why-is-devops-such-a-critical-element-of-software-engineering
+- why-is-devops-such-a-critical-element-of-software-engineering-2AJ2JHdMRCc
 sitemap:
   filename: sitemap.xml
   priority: 0.6

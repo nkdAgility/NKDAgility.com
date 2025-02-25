@@ -15,12 +15,14 @@ duration: 182
 isShort: false
 aliases:
 - /resources/2I3S32Sk8-c
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 aliasesArchive:
 - /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-weeks
 - /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 - /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
+- what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

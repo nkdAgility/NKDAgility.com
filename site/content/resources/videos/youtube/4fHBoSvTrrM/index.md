@@ -15,12 +15,16 @@ duration: 383
 isShort: false
 aliases:
 - /resources/4fHBoSvTrrM
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
 aliasesArchive:
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
 - /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+- how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 sitemap:
   filename: sitemap.xml
   priority: 0.6

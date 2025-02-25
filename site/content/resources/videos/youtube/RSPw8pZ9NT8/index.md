@@ -12,10 +12,14 @@ slug: unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-ins
 layout: video
 aliases:
 - /resources/RSPw8pZ9NT8
+- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 - /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+- unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false

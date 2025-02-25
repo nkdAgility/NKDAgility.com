@@ -13,10 +13,13 @@ slug: mastering-product-development-costs-empower-your-team-for-financial-succes
 layout: video
 aliases:
 - /resources/UgFVn4Sp1rw
+- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
 aliasesArchive:
 - /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
 - /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
 - /resources/measuring-and-monitoring-costs-for-continuous-improvement
+- mastering-product-development-costs-empower-your-team-for-financial-success
 preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
 duration: 675
 isShort: false

@@ -16,12 +16,16 @@ duration: 158
 isShort: false
 aliases:
 - /resources/uYm_wb1sHJE
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
 aliasesArchive:
 - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
 - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
+- what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 sitemap:
   filename: sitemap.xml
   priority: 0.6

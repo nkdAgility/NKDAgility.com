@@ -13,10 +13,12 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=rHFhR3o849k
 aliases:
 - /resources/rHFhR3o849k
+- /resources/videos/what-makes-a-truly-great-scrum-master
 aliasesArchive:
 - /resources/videos/what-makes-a-truly-great-scrum-master
 - /resources/videos/what-makes-a-truly-great-scrum-master-
 - /resources/what-makes-a-truly-great-scrum-master-
+- what-makes-a-truly-great-scrum-master
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false

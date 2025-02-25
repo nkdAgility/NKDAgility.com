@@ -16,12 +16,16 @@ duration: 298
 isShort: false
 aliases:
 - /resources/YUlpnyN2IeI
+- /resources/videos/best-scrum-advice-you-ever-received
+- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
 aliasesArchive:
 - /resources/videos/best-scrum-advice-you-ever-received
 - /resources/best-scrum-advice-you-ever-received-2
 - /resources/best-scrum-advice-you-ever-received
 - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
+- best-scrum-advice-you-ever-received
 sitemap:
   filename: sitemap.xml
   priority: 0.6

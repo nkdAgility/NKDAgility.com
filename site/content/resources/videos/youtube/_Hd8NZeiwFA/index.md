@@ -11,6 +11,8 @@ url: /resources/videos/:slug
 slug: why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
 aliases:
 - /resources/_Hd8NZeiwFA
+- /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+- /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
 aliasesArchive:
 - /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
 - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
@@ -20,6 +22,8 @@ aliasesArchive:
 - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+- /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
+- why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
 preview: https://i.ytimg.com/vi/_Hd8NZeiwFA/maxresdefault.jpg
 duration: 618
 isShort: false

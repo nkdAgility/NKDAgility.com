@@ -16,11 +16,13 @@ duration: 296
 isShort: false
 aliases:
 - /resources/T-K7HC-ZGjM
+- /resources/videos/what-is-a-sprint-backlog
 aliasesArchive:
 - /resources/videos/what-is-a-sprint-backlog
 - /resources/what-is-a-sprint-backlog
 - /resources/videos/what-is-a-sprint-backlog-
 - /resources/what-is-a-sprint-backlog-
+- what-is-a-sprint-backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6

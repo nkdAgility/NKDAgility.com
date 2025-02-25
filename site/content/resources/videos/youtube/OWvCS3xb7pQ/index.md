@@ -12,10 +12,14 @@ slug: transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 layout: video
 aliases:
 - /resources/OWvCS3xb7pQ
+- /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
+- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
 aliasesArchive:
 - /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
+- transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
 isShort: false

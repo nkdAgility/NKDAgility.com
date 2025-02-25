@@ -12,11 +12,14 @@ slug: streamline-your-release-management-setup-a-step-by-step-guide-to-simplifyi
 layout: video
 aliases:
 - /resources/NG9Y1_qQjvg
+- /resources/videos/streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
+- /resources/videos/install-tfs-2013-release-management
 aliasesArchive:
 - /resources/videos/install-tfs-release-management
 - /resources/videos/install-tfs-2013-release-management
 - /resources/install-tfs-2013-release-management
 - /resources/videos/streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
+- streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 isShort: false

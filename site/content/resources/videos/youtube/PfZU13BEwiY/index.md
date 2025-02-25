@@ -12,11 +12,15 @@ slug: scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
 layout: video
 aliases:
 - /resources/PfZU13BEwiY
+- /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
+- /resources/videos/technical-debt-the-silent-scalability-killer
 aliasesArchive:
 - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague
 - /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
+- /resources/videos/technical-debt-the-silent-scalability-killer
+- scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
 preview: https://i.ytimg.com/vi/PfZU13BEwiY/maxresdefault.jpg
 duration: 61
 isShort: false

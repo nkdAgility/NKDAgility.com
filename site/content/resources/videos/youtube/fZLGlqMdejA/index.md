@@ -16,12 +16,16 @@ duration: 380
 isShort: false
 aliases:
 - /resources/fZLGlqMdejA
+- /resources/videos/7-deadly-sins-of-agile-greed
+- /resources/videos/greed-7-deadly-sins-of-agile
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-greed
 - /resources/videos/7-deadly-sins-of-agile-greed
 - /resources/7-deadly-sins-of-agile-greed
 - /resources/videos/greed!-7-deadly-sins-of-agile
 - /resources/greed!-7-deadly-sins-of-agile
+- /resources/videos/greed-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-greed
 sitemap:
   filename: sitemap.xml
   priority: 0.6

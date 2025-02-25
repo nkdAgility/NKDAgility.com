@@ -11,11 +11,15 @@ url: /resources/videos/:slug
 slug: debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
 aliases:
 - /resources/4YixczaREUw
+- /resources/videos/debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
+- /resources/videos/many-folks-say-scrum-is-like-communism-it-does-not-work-are-they-right
 aliasesArchive:
 - /resources/videos/debunking-the-top-myths-about-scrum-unlocking-agile-success-in-your-organisation
 - /resources/videos/debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
 - /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 - /resources/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
+- /resources/videos/many-folks-say-scrum-is-like-communism-it-does-not-work-are-they-right
+- debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
 preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 isShort: false

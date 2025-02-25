@@ -15,11 +15,14 @@ duration: 656
 isShort: false
 aliases:
 - /resources/_FtFqnZHCjk
+- /resources/videos/the-evolution-of-product-management-in-the-agile-era
+- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
 aliasesArchive:
 - /resources/videos/the-evolution-of-product-management-in-the-agile-era
 - /resources/the-evolution-of-product-management-in-the-agile-era
 - /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
 - /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
+- the-evolution-of-product-management-in-the-agile-era
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -12,10 +12,14 @@ slug: unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-qu
 layout: video
 aliases:
 - /resources/APZNdMokZVo
+- /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
+- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important
 aliasesArchive:
 - /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
 - /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
 - /resources/what-is-a-definition-of-done-why-is-it-so-important-
+- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important
+- unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
 preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false

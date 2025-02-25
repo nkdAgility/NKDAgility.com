@@ -13,11 +13,15 @@ slug: confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technica
 layout: video
 aliases:
 - /resources/FquWl26Uc8Y
+- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
 - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
+- /resources/videos/bad-code-isnt-technical-debt-its-incompetence
 aliasesArchive:
 - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
 - /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
 - /resources/bad-code-isn't-technical-debt-it's-incompetence
+- /resources/videos/bad-code-isnt-technical-debt-its-incompetence
+- confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
 preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 isShort: true

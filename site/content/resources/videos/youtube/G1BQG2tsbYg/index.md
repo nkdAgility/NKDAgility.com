@@ -16,11 +16,14 @@ duration: 1259
 isShort: false
 aliases:
 - /resources/G1BQG2tsbYg
+- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
+- /resources/videos/outcome-increased-business-predictability
 aliasesArchive:
 - /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
 - /resources/how-to-achieve-predictability-in-business-through-agile-principles
 - /resources/videos/outcome-increased-business-predictability
 - /resources/outcome-increased-business-predictability
+- how-to-achieve-predictability-in-business-through-agile-principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

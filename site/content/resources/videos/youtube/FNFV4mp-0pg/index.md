@@ -16,10 +16,11 @@ duration: 41
 isShort: true
 aliases:
 - /resources/FNFV4mp-0pg
-- /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/videos/is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
 aliasesArchive:
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
 - /resources/is-a-scrum-master-an-agile-micromanager
+- is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
 sitemap:
   filename: sitemap.xml
   priority: 0.6

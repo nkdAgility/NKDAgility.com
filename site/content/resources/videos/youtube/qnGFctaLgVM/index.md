@@ -16,11 +16,12 @@ duration: 48
 isShort: true
 aliases:
 - /resources/qnGFctaLgVM
-- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
 aliasesArchive:
 - /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+- why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

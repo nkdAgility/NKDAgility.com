@@ -15,12 +15,16 @@ duration: 241
 isShort: false
 aliases:
 - /resources/56hWAHhbrvs
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
+- /resources/videos/antichrist-7-harbingers-agile-apocalypse
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-organizational-structure
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
 - /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse
 - /resources/antichrist!-7-harbingers-agile-apocalypse
+- /resources/videos/antichrist-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-organizational-structure
 sitemap:
   filename: sitemap.xml
   priority: 0.6

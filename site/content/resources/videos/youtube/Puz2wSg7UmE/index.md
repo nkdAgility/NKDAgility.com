@@ -16,12 +16,15 @@ duration: 54
 isShort: true
 aliases:
 - /resources/Puz2wSg7UmE
+- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 aliasesArchive:
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+- how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
 sitemap:
   filename: sitemap.xml
   priority: 0.6

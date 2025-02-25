@@ -13,10 +13,13 @@ slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-f
 layout: video
 aliases:
 - /resources/npnQtdLEwQY
+- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+- /resources/videos/managing-technical-debt-to-minimize-costs
 aliasesArchive:
 - /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 - /resources/videos/managing-technical-debt-to-minimize-costs
 - /resources/managing-technical-debt-to-minimize-costs
+- navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
 duration: 668
 isShort: false

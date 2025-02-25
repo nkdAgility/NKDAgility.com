@@ -12,12 +12,15 @@ slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-w
 layout: video
 aliases:
 - /resources/bvCU_N6iY_4
+- /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
+- /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
 aliasesArchive:
 - /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
 - /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
+- unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: true

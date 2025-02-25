@@ -16,12 +16,15 @@ duration: 38
 isShort: true
 aliases:
 - /resources/OyeZgnqESKE
+- /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
 - /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
 aliasesArchive:
 - /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged
 - /resources/why-immersive-learning-keeps-scrum-students-excited-and-engaged
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
+- why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
 sitemap:
   filename: sitemap.xml
   priority: 0.6

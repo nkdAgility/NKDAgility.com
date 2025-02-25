@@ -16,11 +16,15 @@ duration: 331
 isShort: false
 aliases:
 - /resources/jXk1_Iiam_M
+- /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning
 aliasesArchive:
 - /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 - /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 - /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
+- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning
+- the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 sitemap:
   filename: sitemap.xml
   priority: 0.6

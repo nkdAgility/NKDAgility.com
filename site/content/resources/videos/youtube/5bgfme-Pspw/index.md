@@ -15,11 +15,12 @@ duration: 59
 isShort: true
 aliases:
 - /resources/5bgfme-Pspw
-- /resources/videos/momentum
+- /resources/videos/momentum-5bgfme-Pspw
 aliasesArchive:
 - /resources/videos/momentum
 - /resources/momentum-2
 - /resources/momentum
+- momentum-5bgfme-Pspw
 sitemap:
   filename: sitemap.xml
   priority: 0.6

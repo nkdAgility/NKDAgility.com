@@ -15,11 +15,13 @@ duration: 219
 isShort: false
 aliases:
 - /resources/3NtGxZfuBnU
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 aliasesArchive:
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
+- do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 sitemap:
   filename: sitemap.xml
   priority: 0.6

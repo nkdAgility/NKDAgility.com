@@ -16,12 +16,16 @@ duration: 50
 isShort: true
 aliases:
 - /resources/PaUciBmqCsU
+- /resources/videos/understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
 - /resources/videos/understanding-the-power-of-kanban-in-scrum
+- /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
 aliasesArchive:
 - /resources/videos/understanding-the-power-of-kanban-in-scrum
 - /resources/understanding-the-power-of-kanban-in-scrum
 - /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
 - /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
+- /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
+- understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

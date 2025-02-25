@@ -16,6 +16,8 @@ duration: 537
 isShort: false
 aliases:
 - /resources/Dl5v4j1f-WE
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
 aliasesArchive:
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-things-matter-most-to-you
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
@@ -23,6 +25,8 @@ aliasesArchive:
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
+- how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
 sitemap:
   filename: sitemap.xml
   priority: 0.6

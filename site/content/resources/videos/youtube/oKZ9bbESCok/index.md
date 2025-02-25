@@ -16,11 +16,15 @@ duration: 411
 isShort: false
 aliases:
 - /resources/oKZ9bbESCok
+- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
 aliasesArchive:
 - /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
 - /resources/5-kinds-of-agile-bandits-say-do-metrics
+- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+- say-do-metrics-avoiding-agile-banditry-in-your-organization
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,11 +16,12 @@ duration: 43
 isShort: true
 aliases:
 - /resources/Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
+- /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
 aliasesArchive:
 - /resources/videos/-tools-that-scrum-masters-love-part-
 - /resources/videos/5-tools-that-scrum-masters-love-part-1
 - /resources/5-tools-that-scrum-masters-love-part-1
+- 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

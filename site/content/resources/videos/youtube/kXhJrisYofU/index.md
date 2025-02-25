@@ -13,10 +13,13 @@ slug: rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-ma
 layout: video
 aliases:
 - /resources/kXhJrisYofU
+- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+- /resources/videos/agile-budgeting-for-predictable-costs
 aliasesArchive:
 - /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 - /resources/videos/agile-budgeting-for-predictable-costs
 - /resources/agile-budgeting-for-predictable-costs
+- rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
 duration: 496
 isShort: false

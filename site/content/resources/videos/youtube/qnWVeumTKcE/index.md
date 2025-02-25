@@ -13,9 +13,11 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=qnWVeumTKcE
 aliases:
 - /resources/qnWVeumTKcE
+- /resources/videos/a-view-into-the-psm-training-from-scrum-org
 aliasesArchive:
 - /resources/videos/a-view-into-the-psm-training-from-scrum-org
 - /resources/a-view-into-the-psm-training-from-scrum-org
+- a-view-into-the-psm-training-from-scrum-org
 preview: https://i.ytimg.com/vi/qnWVeumTKcE/maxresdefault.jpg
 duration: 622
 isShort: false

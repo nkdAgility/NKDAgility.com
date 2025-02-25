@@ -16,7 +16,9 @@ duration: 37
 isShort: true
 aliases:
 - /resources/WTd-8mOlFfQ
+- /resources/videos/part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
 - /resources/videos/part-2-common-mistakes-that-scrum-masters-make
+- /resources/videos/common-mistakes-that-scrum-masters-make-part-2
 aliasesArchive:
 - /resources/videos/part-common-mistakes-that-scrum-masters-make
 - /resources/videos/part-2-common-mistakes-that-scrum-masters-make
@@ -25,6 +27,8 @@ aliasesArchive:
 - /resources/common-mistakes-that-scrum-masters-make-part-2
 - /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
 - /resources/common-mistakes-that-scrum-masters-make-part-2-
+- part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
+- /resources/videos/common-mistakes-that-scrum-masters-make-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6

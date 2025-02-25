@@ -16,12 +16,16 @@ duration: 251
 isShort: false
 aliases:
 - /resources/BDFrmCV_c68
+- /resources/videos/7-deadly-sins-of-agile-pride
+- /resources/videos/pride-7-deadly-sins-of-agile
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-pride
 - /resources/videos/7-deadly-sins-of-agile-pride
 - /resources/7-deadly-sins-of-agile-pride
 - /resources/videos/pride!-7-deadly-sins-of-agile
 - /resources/pride!-7-deadly-sins-of-agile
+- /resources/videos/pride-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-pride
 sitemap:
   filename: sitemap.xml
   priority: 0.6

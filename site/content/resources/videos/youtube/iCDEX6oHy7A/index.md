@@ -12,11 +12,14 @@ slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-qual
 layout: video
 aliases:
 - /resources/iCDEX6oHy7A
+- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 aliasesArchive:
 - /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+- empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false

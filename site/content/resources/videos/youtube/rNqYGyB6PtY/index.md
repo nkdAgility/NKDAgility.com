@@ -16,11 +16,15 @@ duration: 386
 isShort: false
 aliases:
 - /resources/rNqYGyB6PtY
+- /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
+- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
 aliasesArchive:
 - /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
 - /resources/what-should-a-product-owner-do-with-an-incompetent-team
 - /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
 - /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
+- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
+- what-should-a-product-owner-do-with-an-incompetent-team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

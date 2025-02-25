@@ -16,10 +16,12 @@ duration: 133
 isShort: false
 aliases:
 - /resources/pU57BrP94-8
+- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 aliasesArchive:
 - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+- how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 sitemap:
   filename: sitemap.xml
   priority: 0.6

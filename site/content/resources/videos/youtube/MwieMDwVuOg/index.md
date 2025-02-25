@@ -12,6 +12,8 @@ slug: scaling-smart-how-to-build-sustainable-growth-without-the-chaos
 layout: video
 aliases:
 - /resources/MwieMDwVuOg
+- /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
 aliasesArchive:
 - /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
@@ -19,6 +21,7 @@ aliasesArchive:
 - /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
 - /resources/the-key-to-scaling-successfully-agile-as-an-enabler
 - /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+- scaling-smart-how-to-build-sustainable-growth-without-the-chaos
 preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
 duration: 114
 isShort: false

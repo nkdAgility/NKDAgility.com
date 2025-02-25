@@ -12,10 +12,13 @@ slug: how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 layout: video
 aliases:
 - /resources/JGQ5zW6F6Uc
+- /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
+- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 aliasesArchive:
 - /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+- how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 isShort: false

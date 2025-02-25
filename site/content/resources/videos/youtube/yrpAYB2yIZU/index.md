@@ -12,12 +12,15 @@ slug: mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-act
 layout: video
 aliases:
 - /resources/yrpAYB2yIZU
+- /resources/videos/mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
+- /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
 aliasesArchive:
 - /resources/videos/install-configure-move-your-active-directory-domain-to-another-server
 - /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/videos/mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
+- mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
 preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
 isShort: false

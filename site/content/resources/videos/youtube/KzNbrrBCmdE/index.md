@@ -12,11 +12,14 @@ slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-p
 layout: video
 aliases:
 - /resources/KzNbrrBCmdE
+- /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
 - /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
+- /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 aliasesArchive:
 - /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
 - /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
+- mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true

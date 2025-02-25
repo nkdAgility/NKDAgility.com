@@ -12,10 +12,14 @@ slug: unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-s
 layout: video
 aliases:
 - /resources/xJsuDbsFzlw
+- /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
+- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations
+- unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: false

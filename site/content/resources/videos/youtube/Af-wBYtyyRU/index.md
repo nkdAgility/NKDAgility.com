@@ -16,11 +16,15 @@ duration: 178
 isShort: false
 aliases:
 - /resources/Af-wBYtyyRU
+- /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+- /resources/videos/evidence-based-management-for-product-owners-why-is-this-a-great-option
 aliasesArchive:
 - /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 - /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 - /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 - /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
+- /resources/videos/evidence-based-management-for-product-owners-why-is-this-a-great-option
+- mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

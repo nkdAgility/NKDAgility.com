@@ -9,18 +9,23 @@ ResourceImportSource: Youtube
 videoId: ZQu2uSt1xxk
 source: internal
 url: /resources/videos/:slug
-slug: overview-of-applying-professional-kanban-course-
+slug: overview-of-applying-professional-kanban-course
 layout: video
 preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
 duration: 104
 isShort: false
 aliases:
 - /resources/ZQu2uSt1xxk
+- /resources/videos/overview-of-applying-professional-kanban-course
+- /resources/videos/overview-of-applying-professional-kanban-course-1
 aliasesArchive:
 - /resources/videos/overview-of-applying-professional-kanban-course-
 - /resources/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
 - /resources/overview-of-applying-professional-kanban-course-1
+- overview-of-applying-professional-kanban-course-
+- /resources/videos/overview-of-applying-professional-kanban-course
+- overview-of-applying-professional-kanban-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

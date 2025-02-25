@@ -12,11 +12,14 @@ slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-s
 layout: video
 aliases:
 - /resources/MO7O6kTmufc
+- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
 - /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
+- /resources/videos/introduction-to-evidence-based-management-excerpt-2
 aliasesArchive:
 - /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
 - /resources/videos/introduction-to-evidence-based-management-excerpt-2
 - /resources/introduction-to-evidence-based-management-excerpt-2
+- mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true

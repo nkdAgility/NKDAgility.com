@@ -16,12 +16,13 @@ duration: 41
 isShort: true
 aliases:
 - /resources/oiIf2vdqgg0
-- /resources/videos/what-is-a-product-vision
+- /resources/videos/what-is-a-product-vision-oiIf2vdqgg0
 aliasesArchive:
 - /resources/videos/what-is-a-product-vision
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-
 - /resources/what-is-a-product-vision-
+- what-is-a-product-vision-oiIf2vdqgg0
 sitemap:
   filename: sitemap.xml
   priority: 0.6

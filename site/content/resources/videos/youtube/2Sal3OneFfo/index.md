@@ -11,11 +11,14 @@ url: /resources/videos/:slug
 slug: seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
 aliases:
 - /resources/2Sal3OneFfo
+- /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
 - /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
+- /resources/videos/azure-devops-migration-services-part-1
 aliasesArchive:
 - /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
 - /resources/videos/azure-devops-migration-services-part-1
 - /resources/azure-devops-migration-services-part-1
+- seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 isShort: true

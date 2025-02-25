@@ -16,11 +16,15 @@ duration: 319
 isShort: false
 aliases:
 - /resources/XdzGxK1Yzyc
+- /resources/videos/what-is-a-product-owner-why-are-they-essential
+- /resources/videos/why-have-a-product-owner
 aliasesArchive:
 - /resources/videos/what-is-a-product-owner-why-are-they-essential
 - /resources/what-is-a-product-owner-why-are-they-essential
 - /resources/videos/why-have-a-product-owner-
 - /resources/why-have-a-product-owner-
+- /resources/videos/why-have-a-product-owner
+- what-is-a-product-owner-why-are-they-essential
 sitemap:
   filename: sitemap.xml
   priority: 0.6

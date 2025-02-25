@@ -12,10 +12,13 @@ slug: unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essential
 layout: video
 aliases:
 - /resources/gEJhbET3nqs
+- /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
+- /resources/videos/professional-agile-leadership-essentials-overview
 aliasesArchive:
 - /resources/videos/professional-agile-leadership-essentials-overview
 - /resources/professional-agile-leadership-essentials-overview
 - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
+- unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false

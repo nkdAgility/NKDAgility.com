@@ -12,10 +12,13 @@ slug: bridging-the-gap-how-to-align-your-organisation-for-successful-agile-produ
 layout: video
 aliases:
 - /resources/ZcMcVL7mNGU
+- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+- /resources/videos/product-management-mentor-program-final
 aliasesArchive:
 - /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 - /resources/videos/product-management-mentor-program-final
 - /resources/product-management-mentor-program-final
+- bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false

@@ -16,12 +16,15 @@ duration: 46
 isShort: true
 aliases:
 - /resources/P2UnYGAqJMI
+- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
 - /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
 aliasesArchive:
 - /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
+- the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

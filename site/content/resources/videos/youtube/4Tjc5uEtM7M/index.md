@@ -11,10 +11,13 @@ url: /resources/videos/:slug
 slug: mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 aliases:
 - /resources/4Tjc5uEtM7M
+- /resources/videos/mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
+- /resources/videos/devops-migration-lack-of-expertise
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 - /resources/videos/devops-migration-lack-of-expertise
 - /resources/devops-migration-lack-of-expertise
+- mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false

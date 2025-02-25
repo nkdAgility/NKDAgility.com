@@ -12,10 +12,13 @@ slug: empowering-teams-for-success-the-key-to-thriving-product-development
 layout: video
 aliases:
 - /resources/EyqLSLHk_Ik
+- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
+- /resources/videos/product-development-mentoring-program
 aliasesArchive:
 - /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
 - /resources/videos/product-development-mentoring-program
 - /resources/product-development-mentoring-program
+- empowering-teams-for-success-the-key-to-thriving-product-development
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false

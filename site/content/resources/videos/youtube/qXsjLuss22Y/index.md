@@ -16,13 +16,17 @@ duration: 45
 isShort: true
 aliases:
 - /resources/qXsjLuss22Y
+- /resources/videos/what-is-a-sprint-goal-qXsjLuss22Y
 - /resources/videos/what-is-a-sprint-goal
+- /resources/videos/what-is-a-product-goal
 aliasesArchive:
 - /resources/videos/what-is-a-sprint-goal
 - /resources/what-is-a-sprint-goal
 - /resources/what-is-a-product-goal
 - /resources/videos/what-is-a-product-goal-
 - /resources/what-is-a-product-goal-
+- /resources/videos/what-is-a-product-goal
+- what-is-a-sprint-goal-qXsjLuss22Y
 sitemap:
   filename: sitemap.xml
   priority: 0.6

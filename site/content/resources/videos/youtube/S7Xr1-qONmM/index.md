@@ -16,11 +16,13 @@ duration: 294
 isShort: false
 aliases:
 - /resources/S7Xr1-qONmM
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 aliasesArchive:
 - /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 - /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
+- why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

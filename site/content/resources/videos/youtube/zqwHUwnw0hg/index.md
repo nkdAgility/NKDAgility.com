@@ -16,11 +16,13 @@ duration: 326
 isShort: false
 aliases:
 - /resources/zqwHUwnw0hg
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
 aliasesArchive:
 - /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course
 - /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course-
+- what-will-you-learn-on-the-professional-scrum-master-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

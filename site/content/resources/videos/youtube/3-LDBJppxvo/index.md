@@ -15,12 +15,16 @@ duration: 56
 isShort: true
 aliases:
 - /resources/3-LDBJppxvo
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 - /resources/videos/the-importance-of-delivering-working-software-every-iteration
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
 aliasesArchive:
 - /resources/videos/the-importance-of-delivering-working-software-every-iteration
 - /resources/the-importance-of-delivering-working-software-every-iteration
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+- the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

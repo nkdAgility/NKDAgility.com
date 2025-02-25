@@ -16,11 +16,14 @@ duration: 69
 isShort: false
 aliases:
 - /resources/ZQZeM20TO4c
+- /resources/videos/agile-leader-versus-traditional-manager
+- /resources/videos/agile-leader-vs-traditional-manager
 aliasesArchive:
 - /resources/videos/agile-leader-versus-traditional-manager
 - /resources/agile-leader-versus-traditional-manager
 - /resources/agile-leader-vs-traditional-manager
 - /resources/videos/agile-leader-vs-traditional-manager
+- agile-leader-versus-traditional-manager
 sitemap:
   filename: sitemap.xml
   priority: 0.6

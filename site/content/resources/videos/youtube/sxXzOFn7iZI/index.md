@@ -16,12 +16,15 @@ duration: 40
 isShort: true
 aliases:
 - /resources/sxXzOFn7iZI
+- /resources/videos/hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
 - /resources/videos/hiring-an-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
 aliasesArchive:
 - /resources/videos/hiring-an-agile-coach-what-you-need-to-know
 - /resources/hiring-an-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
+- hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

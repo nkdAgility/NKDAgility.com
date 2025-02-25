@@ -11,6 +11,8 @@ url: /resources/videos/:slug
 slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 aliases:
 - /resources/_gyzx59-AJk
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 aliasesArchive:
 - /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
 - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
@@ -19,6 +21,7 @@ aliasesArchive:
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+- transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
 duration: 358
 isShort: false
