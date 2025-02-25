@@ -1,6 +1,6 @@
 ---
-title: Most Influential Person in Agile - Jerónimo Palacios
-description: 'Discover how Jerónimo Palacios, a key figure in Agile, has influenced careers in this insightful short by Martin Hinshelwood. #Agile #Scrum #Leadership'
+title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
+description: Discover how Geronimo Pascualo, a pioneer in the agile community, inspires growth through mentorship, collaboration, and knowledge sharing. Join the journey!
 date: 2023-05-04T07:00:07Z
 ResourceId: JNJerYuU30E
 ResourceType: videos
@@ -8,17 +8,20 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JNJerYuU30E
 url: /resources/videos/:slug
-slug: most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
+slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=JNJerYuU30E
 aliases:
 - /resources/JNJerYuU30E
-- /resources/videos/most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
+- /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
+- /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
+- /resources/videos/most-influential-person-in-agile-jernimo-palacios
 aliasesArchive:
 - /resources/videos/most-influential-person-in-agile-jernimo-palacios
 - /resources/videos/most-influential-person-in-agile-jerónimo-palacios
 - /resources/most-influential-person-in-agile-jerónimo-palacios
 - most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
+- /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
+- celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -26,7 +29,7 @@ tags:
 - People and Process
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -36,21 +39,34 @@ categories:
 - Leadership
 
 ---
- #shorts As we progress in our #agile career, we are often privileged to meet people who shape the trajectory of our career and experiences in meaningful, powerful ways. People who take the time to teach, coach, and mentor us in our journey to #agile and #scrum mastery.
+When I reflect on my journey in the agile community, one name stands out prominently: Jernimo Palacios. As a Spanish Professional Scrum Trainer (PST), Geronimo has been a beacon of inspiration and knowledge for many of us navigating the complexities of agile practices. His influence on my understanding of Scrum and the broader agile landscape cannot be overstated.
 
-In this short video, Martin Hinshelwood talks about one of his 5 most influential people in #agile, Jerónimo Palacios, a #PST and #agileexpert based in Spain.
+### A Pioneer in Agile
 
-About NKD Agility
+Jernimo was the first individual in Spain to embrace the scrum.org framework, and he didn’t just stop there. He took it upon himself to build a thriving business and consulting network, sharing his insights and experiences with others. This spirit of generosity and collaboration is what truly sets him apart.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+- **Sharing Knowledge**: Jernimo has always been committed to sharing his learnings. He opened the doors to his experiences, allowing others to learn from both his successes and challenges. This kind of openness is essential in our field, where the landscape is constantly evolving.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Building Community**: He has fostered a sense of community among PSTs, encouraging us to support one another in our professional journeys. His approach has created a network where knowledge flows freely, and everyone is invested in each other's growth.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+### The Importance of Mentorship
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+In my own experience, having a mentor like Jernimo has been invaluable. Here’s why mentorship is crucial in the agile community:
 
-We would love to work with you. 
+- **Guidance**: A mentor provides direction, helping you navigate the often turbulent waters of agile implementation. Geronimo’s insights have guided me through various challenges, allowing me to make informed decisions.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=JNJerYuU30E)
+- **Encouragement**: The journey can be daunting, and having someone who believes in your potential can make all the difference. Geronimo’s unwavering support has motivated me to push my boundaries and strive for excellence.
+
+- **Learning from Experience**: There’s no substitute for real-world experience. Geronimo’s stories of his own trials and triumphs have taught me lessons that no textbook could convey.
+
+### Looking Forward
+
+As I continue to grow in my role, I carry forward the lessons I’ve learned from Jernimo. His vision for the future of agile is one that resonates deeply with me. It’s about continuous improvement, not just for ourselves but for the entire community.
+
+- **Embracing Change**: Agile is all about adaptability. Jernimo embodies this principle, always looking for ways to improve and innovate. This mindset is something I strive to adopt in my own practice.
+
+- **Fostering Collaboration**: The agile community thrives on collaboration. By sharing our knowledge and experiences, we can elevate the entire field. I encourage everyone to take a page from Geronimo’s book and contribute to this culture of sharing.
+
+### Conclusion
+
+In conclusion, Jernimo Palacios has been a significant influence in my agile journey. His commitment to sharing knowledge, building community, and fostering mentorship has shaped not only my understanding of Scrum but also my approach to agile as a whole. As we move forward, let’s remember the importance of supporting one another and embracing the spirit of collaboration that Geronimo exemplifies. Together, we can continue to evolve and improve, ensuring that the agile community remains vibrant and effective for years to come.
