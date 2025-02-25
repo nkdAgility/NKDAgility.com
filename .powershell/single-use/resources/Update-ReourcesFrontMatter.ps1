@@ -159,22 +159,23 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
     }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
-    # =================Add 404 aliases===================
-    $404aliases = @()
-    $404aliases += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
+    # =================Add aliasesArchive===================
+    $aliasesArchive = @()
+    $aliasesArchive += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
+    $aliasesArchive += $hugoMarkdown.FrontMatter.aliasesFor404 | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
     switch ($ResourceType) {
         "blog" { 
             if ($hugoMarkdown.FrontMatter.Contains("slug")) {
                 $slug = $hugoMarkdown.FrontMatter.slug
-                $404aliases += "/$slug"
-                $404aliases += "/blog/$slug"
+                $aliasesArchive += "/$slug"
+                $aliasesArchive += "/blog/$slug"
             }
             if ($hugoMarkdown.FrontMatter.Contains("title")) {
                 $slug = $hugoMarkdown.FrontMatter.slug
                 $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-').ToLower()
                 if ($urlSafeTitle -ne $slug) {
-                    $404aliases += "/$urlSafeTitle"
-                    $404aliases += "/blog/$urlSafeTitle"
+                    $aliasesArchive += "/$urlSafeTitle"
+                    $aliasesArchive += "/blog/$urlSafeTitle"
                 }           
             }
         }
@@ -188,8 +189,8 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
                 
         }
     }
-    if ($404aliases -is [array] -and $404aliases.Count -gt 0) {
-        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
+    if ($aliasesArchive -is [array] -and $aliasesArchive.Count -gt 0) {
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter 'aliases'
     }
     #================Themes, Categories, & TAGS==========================
     $BodyContent = $hugoMarkdown.BodyContent

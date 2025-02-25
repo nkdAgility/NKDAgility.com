@@ -2,7 +2,7 @@
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
 
-$outputDir = "site\content\resources\videos\youtube"
+$outputDir = "site\content\resources\videos\youtube\"
 # $excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
 
 # Function to use OpenAI to update the description if needed
@@ -28,7 +28,7 @@ function Update-YoutubeMarkdownFiles {
     param ()
 
     # Iterate through each video folder
-    Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
+    Get-ChildItem -Path $outputDir -Directory -Filter "56hWAHhbrvs" | ForEach-Object {
         $videoDir = $_.FullName
         $markdownFile = Join-Path $videoDir "index.md"
         $jsonFilePath = Join-Path $videoDir "data.json"
@@ -41,7 +41,7 @@ function Update-YoutubeMarkdownFiles {
             # Load existing markdown or create a new HugoMarkdown object
             if (Test-Path $markdownFile) {
                 $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
-                if ($hugoMarkdown.FrontMatter.Contains("canonicalUrl")) {
+                if ($hugoMarkdown.FrontMatter.Contains("canonicalUrl")) { 
                     $source = "youtube"
                 }
                 else {
@@ -79,25 +79,23 @@ function Update-YoutubeMarkdownFiles {
             }
 
             # Format the title to be URL-safe and remove invalid characters
-            $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
+            $title = $videoSnippet.title -replace '. ', ' - ' -replace '[#".]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
 
-            
 
-            $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '-' -replace '\s+', '-').ToLower()
+            $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '' -replace '\s+', '-').ToLower()
+            if ($isShort) {
+                $urlSafeTitle += "-$videoId"  # Append video ID to short video titles
+            }
 
             # Remove consecutive dashes
             $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
 
-            $aliases = @("/resources/$videoId", "/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
+            $aliases = @("/resources/$videoId")
+            $aliasesArchive = @("/resources/videos/$urlSafeTitle")
            
-            # # Get the tags from the snippet and filter out excluded tags
-            # $tags = @()
-            # if ($videoSnippet.tags) {
-            #     $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
-            # }
 
             # Use Update-Field from HugoHelpers.ps1 to update or add each field
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'title' -fieldValue $title 
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'title' -fieldValue $title
             if (-not $hugoMarkdown.FrontMatter.Contains("description")) {
                 # Update description using OpenAI if needed
                 $fullDescription = Get-UpdatedDescription -videoData $videoData
@@ -136,7 +134,11 @@ function Update-YoutubeMarkdownFiles {
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Youtube" -addAfter 'ResourceImport'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug"
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $urlSafeTitle
+            Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug'
+            if ($isShort) {
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue ("/resources/videos/:slug-" + "$videoId") -Overwrite
+            }
+            
             if ($videoData.status.privacyStatus -eq "unlisted") {
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'draft' -fieldValue $true -addAfter "slug" -Overwrite
             }
@@ -145,7 +147,8 @@ function Update-YoutubeMarkdownFiles {
                 $externalUrl = "https://www.youtube.com/watch?v=$videoId"
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl' -fieldValue $externalUrl
             }           
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -Overwrite
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter "aliases"
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl 
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort
