@@ -1,6 +1,6 @@
 ---
-title: Professional Scrum Training from naked Agility with Martin Hinshelwood
-description: Join Martin Hinshelwood for professional Scrum training with naked Agility. Experience interactive learning, coaching, and a people-first culture for success!
+title: 'Transform Your Team with Flipped Learning: Unlocking Agility at Naked Agility Limited'
+description: Unlock your team's potential with Naked Agility's innovative flipped learning approach. Discover engaging training that fosters growth and collaboration!
 date: 2022-09-09T14:17:04Z
 ResourceId: vY0hXTm-wgk
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: vY0hXTm-wgk
 url: /resources/videos/:slug
 slug: professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=vY0hXTm-wgk
 aliases:
 - /resources/vY0hXTm-wgk
 aliasesArchive:
@@ -28,7 +27,7 @@ tags:
 - Agile Frameworks
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -36,21 +35,31 @@ categories:
 - Social Technologies
 
 ---
- naked Agility Limited is a professional company that offers training, coaching, mentoring, and facilitation to help people and teams evolve, integrate, and continuously improve.
+At Naked Agility Limited, we are passionate about fostering an environment where individuals and teams can evolve, integrate, and continuously improve. Our approach to training is designed to reflect this ethos, and I want to share how we do it.
 
-To allow us to focus on reflecting and practising in the classroom, our training courses leverage a flipped learning approach that delivers some or all of the theory as self-study.
+### Embracing Flipped Learning
 
-The course content is divided into learning blocks, each with presentations and lectures in the form of videos, reading material, and writing activities that are provided for self-study [pop training/mural video]  complemented by 1/2 day live virtual sessions delivered online using Microsoft Teams and Mural. 
+One of the key elements of our training courses is the **flipped learning approach**. This method allows us to focus on reflection and practice during our classroom sessions. Here’s how it works:
 
-These live interactive workshops create a dynamic and interactive environment where we dive into the core concepts through group activities, interactions, and sharing experiences, all with the guidance of an expert Professional Scrum Trainer, Professional Kanban Trainer, or Microsoft MVP.
+- **Self-Study Materials**: We provide a wealth of resources, including videos, reading materials, and writing activities, all organised into **Learning Blocks**. This enables participants to engage with the theory at their own pace before coming to class.
+- **Interactive Workshops**: Our half-day virtual sessions, conducted via Microsoft Teams, create a dynamic environment. Here, we dive deep into core concepts through group activities and shared experiences, all guided by expert professionals, including **Professional Kanban Trainers** and **Microsoft MVPs**.
 
-Obtaining new knowledge through self-study materials and having an in-depth, rich engagement in a class allows students to enjoy learning that sticks. Students will complete the course ready to take the globally recognised certification exam included in the course fee.
+### The Power of Engagement
 
-As part of our learning experience for every participant, we provide a 30-minute learning review, a 60-minute coaching session, and access to future courses at a 30% discount on future classes.
+The combination of self-study and interactive workshops ensures that our students not only gain new knowledge but also engage in meaningful discussions that enhance their learning experience. This method has proven to be effective, as it allows for:
 
-We recognise the positive impact that a happy AND motivated workforce that has purpose has on client experience. We help change mindsets towards a people-first culture where everyone encourages others to learn and grow. The resulting divergent thinking leads to many ideas and opportunities for the organisation's success.
+- **In-Depth Understanding**: Participants leave the course equipped to tackle the globally recognised certification exam included in the course fee.
+- **Personalised Support**: Each participant receives a **30-minute learning review** and a **60-minute coaching session**, ensuring that they have the support they need to succeed.
 
-All participants gain complimentary access to the premium "Professional Scrum" space in our public community "The League of Extraordinary Lean-Agile Practitioners". 
+### Building a People-First Culture
 
-I hope to see you there; click the link below to find out more… 
- [Watch on Youtube](https://www.youtube.com/watch?v=vY0hXTm-wgk)
+At Naked Agility, we believe in the transformative power of a happy and motivated workforce. Our training is designed to shift mindsets towards a **people-first culture**. Here’s what this looks like in practice:
+
+- **Encouragement to Learn and Grow**: We foster an environment where everyone is encouraged to support one another in their learning journeys. This collaborative spirit leads to **divergent thinking**, generating a wealth of ideas and opportunities for organisational success.
+- **Community Access**: All participants gain complimentary access to the premium **Professional Scrum space** within our public community, the **League of Extraordinary Agile Practitioners**. This community is a fantastic resource for ongoing learning and networking.
+
+### Join Us on This Journey
+
+I invite you to explore our training offerings and see how we can help you or your team thrive. The journey towards agility is one of continuous improvement, and I hope to see you there. Click the link below to find out more about our courses and how we can support your growth.
+
+In conclusion, at Naked Agility Limited, we are committed to creating a learning experience that not only imparts knowledge but also inspires a culture of collaboration and growth. Together, we can unlock the potential within your teams and drive success in your organisation.

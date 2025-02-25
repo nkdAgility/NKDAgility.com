@@ -1,6 +1,6 @@
 ---
-title: Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood [mktng]
-description: Join Martin Hinshelwood for Business Agility Raw! on 27th August. Engage in a Lean Coffee format and discuss your pressing questions on agility!
+title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
+description: Join our Business Agility Raw sessions for dynamic discussions, actionable insights, and a vibrant community. Mark your calendar for the fourth Wednesday!
 date: 2022-07-27T18:45:14Z
 ResourceId: bvCU_N6iY_4
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: bvCU_N6iY_4
 url: /resources/videos/:slug
 slug: business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng-bvCU_N6iY_4
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=bvCU_N6iY_4
 aliases:
 - /resources/bvCU_N6iY_4
 - /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
@@ -28,7 +27,7 @@ tags:
 - People and Process
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -37,17 +36,30 @@ categories:
 - Social Technologies
 
 ---
- Join me monthy one the 4th Wednesday for Business Agility Raw. Come and discuss what matters most to you today with our lean coffee format. Check out the se3ssion Mural for this month's questions and add your own to the mix!
+As I sit down to write this post, I’m reminded of the vibrant discussions that take place during our monthly Business Agility Raw sessions. If you haven’t joined us yet, I highly encourage you to mark your calendars for the fourth Wednesday of every month. It’s a fantastic opportunity to engage with like-minded individuals and explore the pressing topics that matter most to us in the realm of business agility.
 
-The next "Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood" is on the 27th of August 2022!
+### What is Business Agility Raw?
 
-Topics from the last session:
+Business Agility Raw is not just another meeting; it’s a dynamic forum where we embrace the Lean Coffee format. This means that the agenda is driven by you—the participants. Each session is a melting pot of ideas, questions, and insights, allowing us to delve into the challenges and opportunities we face in our respective organisations.
 
-♦ What is the rationale behind the length of the timeboxes is scrum?
-♦ Best way to intro the delivery goal priority vs the 9-5 waterfall ways
-♦ What do you think about the immutability rule in Scrum?
-♦ When do you split a Scrum team? When do you merge Scrum teams?
-♦ Any advice on how to write good PBIs?
+### How It Works
 
-RSVP, Join the Community,  and add your questions: https://community.nkdagility.com/events/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood?instance_index=20220727T170000Z 
- [Watch on Youtube](https://www.youtube.com/watch?v=bvCU_N6iY_4)
+- **Lean Coffee Format**: We kick off the session by gathering questions and topics from everyone present. This ensures that the conversation is relevant and tailored to the interests of the group.
+- **Mural Collaboration**: We use a session mural to visually capture our discussions. This is where you can see the questions for the month and add your own. It’s a collaborative space that fosters creativity and engagement.
+- **Open Discussion**: Once we have our topics, we prioritise them and dive into discussions. Each topic is time-boxed, ensuring that we cover as much ground as possible while allowing for deep dives into the most pressing issues.
+
+### Why You Should Join
+
+1. **Community Engagement**: There’s something incredibly powerful about connecting with others who share your passion for agility. The insights and experiences shared during these sessions can be invaluable.
+   
+2. **Real-World Relevance**: The topics we discuss are not theoretical; they are grounded in the realities of our work environments. This means you’ll leave with actionable insights that you can apply immediately.
+
+3. **Diverse Perspectives**: Each participant brings their unique experiences and viewpoints, enriching our discussions. You’ll gain new perspectives that can challenge your thinking and inspire innovative solutions.
+
+4. **Continuous Learning**: In the ever-evolving landscape of business agility, staying informed is crucial. Our sessions provide a platform for continuous learning and growth.
+
+### Join Us!
+
+I invite you to check out the session mural for this month’s questions and contribute your own. Whether you’re a seasoned agile practitioner or just starting your journey, your voice matters. Together, we can explore the nuances of business agility and support one another in our quests for improvement.
+
+In conclusion, Business Agility Raw is more than just a meeting; it’s a community of passionate individuals committed to fostering agility in our organisations. I look forward to seeing you there and hearing your thoughts on the topics that matter most to you. Let’s continue to learn, grow, and challenge the status quo together!

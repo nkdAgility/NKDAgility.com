@@ -162,7 +162,6 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     # =================Add aliasesArchive===================
     $aliasesArchive = @()
     $aliasesArchive += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
-    $aliasesArchive += $hugoMarkdown.FrontMatter.aliasesFor404 | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
     switch ($ResourceType) {
         "blog" { 
             if ($hugoMarkdown.FrontMatter.Contains("slug")) {
@@ -189,7 +188,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
                 
         }
     }
-    if ($aliasesArchive -is [array] -and $aliasesArchive.Count -gt 0) {
+    if ($null -ne $aliasesArchive -and $aliasesArchive -is [array] -and $aliasesArchive.Count -gt 0) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter 'aliases'
     }
 

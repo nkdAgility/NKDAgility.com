@@ -1,6 +1,6 @@
 ---
-title: Scrum doesn't solve problems, it reveals them. How, and why is that valuable?
-description: "Discover how Scrum reveals organisational challenges and enhances progress. Join Martin as he explores its true value in this insightful video! \U0001F680\U0001FA9E"
+title: Is Your Engineering Culture Ready to Scale with Your Technology?
+description: Is your tech culture ready to scale? Discover how to foster collaboration, embrace continuous learning, and ensure your culture evolves with your growth.
 date: 2025-02-20T07:33:26Z
 ResourceId: yu9CmrDiBPc
 ResourceType: videos
@@ -24,7 +24,7 @@ aliasesArchive:
 - "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 tags:
 - People and Process
 - Organisational Culture
@@ -41,27 +41,38 @@ categories:
 - Scrum
 - DevOps
 - Product Management
-canonicalUrl: https://www.youtube.com/watch?v=yu9CmrDiBPc
 
 ---
- 🚀 *Tech Can Scale, But Can Your Culture?* 🚀  
+Hex stacks can scale, but can your culture? This is a question that resonates deeply with me, and I believe it’s one of the most critical challenges we face in today’s fast-paced tech landscape. Scaling technology is often seen as the straightforward part of the equation. You simply add more servers, more clusters, and more automation, and voilà, you’re done. However, if your engineering culture doesn’t evolve alongside your technology, you’re setting yourself up for a fall.
 
-Scaling technology is *the easy part*—add more servers, clusters, and automation, and you're done. *But if your engineering culture doesn’t scale with it, you’re setting yourself up for failure.* And the worst part? You won’t see it coming until it’s too late.  
+### The Hidden Dangers of Ignoring Culture
 
-When teams grow and complexity increases, *culture becomes your greatest asset—or your biggest liability.*  
-🔸 Collaboration *starts to break down*  
-🔸 DevOps *becomes a buzzword instead of an enabler*  
-🔸 Continuous learning *turns into an afterthought*  
+The harsh reality is that many organisations don’t recognise the impending issues until it’s too late. As your teams expand, complexity increases, and the pressure to deliver faster mounts, your culture can either become your greatest asset or your most significant liability. Here are some signs that your culture might be struggling to keep pace:
 
-Too many organizations think they can *throw tools at the problem*—more JIRA, more dashboards, more standups, more scrums. But *culture isn’t a tool problem—it’s an ethos problem.* If you don’t build a culture designed to scale, *all the tools in the world won’t save you.*  
+- **Collaboration Breakdowns**: As teams grow, the natural flow of communication can falter. When collaboration becomes a chore rather than a natural part of your workflow, you’re in trouble.
+  
+- **DevOps as a Buzzword**: If DevOps is merely a term thrown around in meetings rather than a genuine enabler of efficiency and innovation, it’s time to reassess your approach.
 
-At *Naked Agility*, we help companies *not just grow, but grow right.* We help build *cultures that scale*—where collaboration isn’t forced, DevOps isn’t just automation, and learning isn’t a checkbox—it’s just how you operate.  
+- **Continuous Learning as an Afterthought**: When learning is relegated to a one-off training session rather than an ongoing practice, you risk stagnation.
 
-Because the companies that win?  
-They’re not the ones with the *best tech*.  
-They’re the ones with the *best culture.*  
+### The Tool Trap
 
-So… is yours ready to scale?  
+I’ve seen it time and again: organisations believe that throwing more tools at the problem will solve their cultural issues. More JIRA, more dashboards, more standups, more daily scrums—these are not the answers. Culture isn’t a tool problem; it’s an ethos problem, a philosophical challenge that requires a fundamental shift in how we operate.
 
-#Agile #ScalingAgile #EngineeringCulture #DevOps #NakedAgility #BusinessAgility #productdevelopment #projectmanagement #productmanagement #projectmanager #CTO #CIO #CEO #scrummaster #productowner #productmanager 
- [Watch on Youtube](https://www.youtube.com/watch?v=yu9CmrDiBPc)
+If you don’t cultivate a culture designed to scale, all the tools in the world won’t save you. You might find yourself in a cycle of frustration, where the very tools meant to enhance productivity become sources of confusion and inefficiency.
+
+### Building a Culture that Scales
+
+At Nak Agility, we focus on helping companies not just grow, but grow right. Here’s how we approach building a culture that scales:
+
+- **Foster Genuine Collaboration**: Create an environment where collaboration is organic and encouraged, rather than forced. This means breaking down silos and promoting open communication across teams.
+
+- **Reframe DevOps**: Shift the perception of DevOps from mere automation to a holistic approach that integrates development and operations seamlessly. It should be about enhancing workflows and fostering a culture of shared responsibility.
+
+- **Embrace Continuous Learning**: Make learning an integral part of your daily operations. Encourage teams to share knowledge, learn from failures, and celebrate successes together.
+
+### The Winning Formula
+
+Ultimately, the companies that thrive are not necessarily those with the most advanced technology; they are the ones with the strongest culture. A culture that supports collaboration, innovation, and continuous improvement is what sets successful organisations apart.
+
+So, I ask you: is your culture ready to scale? If you’re unsure, it might be time to take a step back and evaluate how your culture aligns with your growth ambitions. Remember, technology may be the engine, but culture is the fuel that drives sustainable success. Let’s ensure that as we scale our tech, we also nurture a culture that can keep up.

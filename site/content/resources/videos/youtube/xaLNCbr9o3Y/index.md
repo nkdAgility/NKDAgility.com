@@ -1,6 +1,6 @@
 ---
-title: Ep 003 - Daniel Vacanti on live online PSK in Edinburgh
-description: Join Daniel Vacanti for a live chat about the Professional Scrum with Kanban course in Edinburgh on 18th May 2020. Get insights and ask your questions!
+title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Times'
+description: Join us for insights on adapting Scrum with Kanban in a virtual world. Discover flexibility, flow, and community support in uncertain times!
 date: 2020-04-01T16:26:05Z
 ResourceId: xaLNCbr9o3Y
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: xaLNCbr9o3Y
 url: /resources/videos/:slug
 slug: ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=xaLNCbr9o3Y
 aliases:
 - /resources/xaLNCbr9o3Y
 aliasesArchive:
@@ -24,7 +23,7 @@ tags:
 - Events and Presentations
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -33,5 +32,32 @@ categories:
 - Social Technologies
 
 ---
- Daniel Vacanti will be joining me for a Live chat about the upcoming Professional Scrum with Kanban running in Edinburgh on 18th May 2020. We will discuss how we plan to approach the class and will take questions from anyone interested in comming along. 
- [Watch on Youtube](https://www.youtube.com/watch?v=xaLNCbr9o3Y)
+As I sit down to write this post, I can't help but reflect on the current state of our world. With the ongoing pandemic, many of us find ourselves confined to our homes, grappling with the challenges of remote work and social distancing. It's a strange time, but it also presents an opportunity for growth and learning. Recently, I had the pleasure of chatting with Daniel Vacanti, a prominent figure in the Kanban community, about our upcoming Professional Scrum with Kanban class. I wanted to share some insights from our conversation and how they relate to the broader context of agile practices.
+
+### Embracing Change in Uncertain Times
+
+During our discussion, Daniel and I touched on how the current situation has forced us to adapt our teaching methods. With in-person classes on hold, we are transitioning to a virtual format. This shift has its challenges, but it also opens up new avenues for engagement and interaction. Here are a few key takeaways from our conversation:
+
+- **Flexibility is Key**: Just as we encourage teams to be flexible in their processes, we too must be willing to adapt our teaching styles. The tools we use, such as Zoom for video conferencing and Mural for collaborative whiteboarding, are essential in creating an interactive learning environment.
+
+- **Focus on Flow**: One of the core concepts we will explore in our class is the idea of flow. Many Scrum teams struggle with estimating work and managing their capacity. By introducing flow management principles, we can help teams overcome these common hurdles. This is particularly relevant now, as teams are often juggling multiple priorities while working remotely.
+
+- **Gamification Enhances Learning**: We discussed the importance of gamification in teaching agile concepts. Tools like the Get Kanban game and the Whip Game (Twig) provide engaging ways for participants to grasp complex ideas. These simulations not only make learning fun but also foster a deeper understanding of Kanban principles.
+
+### The Importance of Community
+
+As we navigate these uncertain times, the value of community becomes even more apparent. Daniel and I are committed to creating a supportive environment for our class participants. We encourage open communication and collaboration, and we are eager to learn from each other. Here are some ways we plan to foster this sense of community:
+
+- **Interactive Sessions**: Our class will be designed to be highly interactive, allowing participants to engage with the material and with each other. We want to create a space where everyone feels comfortable sharing their experiences and asking questions.
+
+- **Feedback Loops**: We are keen to gather feedback from participants on what works and what doesn’t in the virtual format. This iterative approach mirrors the agile mindset we advocate for in our teaching.
+
+- **Discounts for Individuals**: In light of the current economic climate, we are offering discounts for unemployed individuals and those self-funding their participation. We believe in supporting our community, especially during challenging times.
+
+### Looking Ahead
+
+As we prepare for our Professional Scrum with Kanban class on the 18th and 19th of May, I am filled with anticipation. This is not just a class; it’s an opportunity for all of us to learn, grow, and adapt together. I encourage anyone interested in enhancing their Scrum skills to join us. 
+
+In closing, I want to remind everyone that while we may be physically distanced, we are not alone. The agile community is resilient, and together, we can navigate these challenges and emerge stronger. If you have any questions or thoughts, feel free to reach out to me or Daniel on Twitter. Let’s keep the conversation going!
+
+Thank you for reading, and I look forward to seeing you in class!

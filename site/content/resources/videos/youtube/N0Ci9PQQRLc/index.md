@@ -1,6 +1,6 @@
 ---
-title: How does your real world experience translate into your training style?
-description: "Discover how Martin Hinshelwood's real-world experience shapes his unique #Scrum training style, making complex concepts accessible and impactful."
+title: 'From Software Engineer to Scrum Trainer: How My Journey Shapes Effective DevOps Training'
+description: Discover how my journey from software engineer to DevOps consultant shapes my training style, inspiring growth and resilience in the ever-evolving tech landscape.
 date: 2023-01-20T07:00:08Z
 ResourceId: N0Ci9PQQRLc
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: N0Ci9PQQRLc
 url: /resources/videos/:slug
 slug: how-does-your-real-world-experience-translate-into-your-training-style
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=N0Ci9PQQRLc
 aliases:
 - /resources/N0Ci9PQQRLc
 aliasesArchive:
@@ -29,7 +28,7 @@ tags:
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -37,27 +36,18 @@ categories:
 - Social Technologies
 
 ---
- #scrum is defined as easy to understand, yet incredibly difficult to master by the co-creators of #scrum. The #scrumguide is less than 20 pages long and so you could move through the theory in a couple of hours, at most.
+When I reflect on how my real-world experience shapes my training style, I realise just how pivotal my journey has been. I began my career as a software engineer, diving into the world of coding just before .NET emerged. My first year was spent with ASP, but once .NET came along, I found my sweet spot. This foundation has been instrumental in my understanding of software development and the intricacies of the industry.
 
-So, if it's incredibly easy to understand and you're able to flick through the guide in less than 60 minutes, why do we have intensive #scrummaster, #productowner, and #agilecoach training? Why does it take people years to master #scrum and become an effective #agilecoach or #agileconsultant?
+In 2008, I was honoured to be recognised as a Microsoft MVP for my work with Team Foundation Server (TFS). This accolade opened doors to a wealth of resources and connections, particularly the annual MVP Summit in Redmond, Washington. Imagine three and a half thousand MVPs from around the globe converging in one place! It was an incredible opportunity to network and learn from some of the brightest minds in technology.
 
-Because it's hard. Because each application of #scrum is unique, and the context of every application comes with it's own series of challenges and opportunities.
+During my time as an MVP, I was part of a tight-knit group of 80 to 90 professionals focused on DevOps and Application Lifecycle Management (ALM). This was a transformative period as DevOps was just beginning to gain traction. I absorbed knowledge from my peers, which not only enhanced my skills but also allowed me to impress others in the field. 
 
-It's one thing to read a guide to a classroom of people, and it's an entirely different kettle of fish to actively transform people and deeply embed the learning experience through professional, certified #scrumtraining.
+My journey took me to Australia, where I worked remotely for a year with Adam Cogan, before moving to Seattle as a DevOps consultant. Over three years, I had the privilege of working with various clients across the United States, spanning 15 different states and numerous industries—from aerospace to healthcare and even finance. One particularly memorable project involved a finance company that managed the finances for Hollywood stars. Their building was mostly empty, save for one floor dedicated to their operations. 
 
-In this short video, Martin Hinshelwood explains how his years of experience as a software engineer, DevOps consultant, and #agile practitioner have informed his training style at NKD Agility.
+This diverse experience has equipped me with a treasure trove of stories. I’ve encountered organisations facing challenges that often seem insurmountable, yet I’ve always found that there’s a silver lining. When I share these stories during training sessions, it resonates with participants. Knowing that others have faced even greater dysfunction can be a powerful motivator. It instils hope and encourages individuals to believe that improvement is possible.
 
-About NKD Agility
+In my training, I emphasise the importance of learning from both successes and failures. I often recount instances where certain strategies didn’t pan out, highlighting the lessons learned. This approach not only fosters a culture of openness but also encourages participants to engage more deeply with the material. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+As a Professional Scrum Trainer (PST), my background as a software engineer lends me credibility when working with teams. I’ve been in their shoes, and I understand the challenges they face. My years as a DevOps consultant have provided me with a broader perspective on the processes surrounding software development, particularly the journey towards continuous delivery. I firmly believe that there is no software on this planet that cannot move towards continuous delivery. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
-
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
-
-We would love to work with you. 
-
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=N0Ci9PQQRLc)
+Ultimately, my experiences form the bedrock of my training and consulting efforts. They inform the classes I develop and the insights I share, aiming to empower others to embrace change and enhance their practices. My hope is that through sharing my journey and the lessons learned along the way, I can inspire others to embark on their own paths of growth and improvement in the ever-evolving world of software development.

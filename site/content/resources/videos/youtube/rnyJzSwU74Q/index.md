@@ -1,6 +1,6 @@
 ---
-title: Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
-description: "Explore the clash of Agile vs Waterfall! Discover how empirical models boost project success with visibility, adaptability, and continuous value delivery. \U0001F680"
+title: 'Unlocking Agile Success: How Empirical Models Transform Project Outcomes'
+description: Unlock the transformative power of Agile! Discover how visibility, flexibility, and incremental value can boost your project's success. Dive in now!
 date: 2022-10-12T17:08:59Z
 ResourceId: rnyJzSwU74Q
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: rnyJzSwU74Q
 url: /resources/videos/:slug
 slug: traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=rnyJzSwU74Q
 aliases:
 - /resources/rnyJzSwU74Q
 aliasesArchive:
@@ -29,7 +28,7 @@ tags:
 - Market Adaptability
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -38,20 +37,38 @@ categories:
 - Social Technologies
 
 ---
- Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.
+In the world of Agile, the statistics speak volumes. According to the Standish Group's Chaos Report, small projects with fewer than 50 participants are 30% more likely to succeed when employing Agile practices. Even more striking, larger projects with over 50 people see a staggering 200% increase in their chances of success. This data underscores the transformative power of Agile methodologies, and today, I want to delve into the key differences that make this possible.
 
-Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
+As a Professional Scrum Trainer with Scrum.org and a Professional Kanban Trainer with Pro Kanban, I’ve spent over 14 years as a Microsoft MVP in DevOps. My journey has taught me that understanding the nuances between traditional and empirical models is crucial for maximising project success. Let’s explore this through the lenses of visibility, change, operational risk, and realised value.
 
-Hello, I'm Martin Hinshelwood, and today, I'm pondering the transformative power of agile philosophies in project management. 🤔💡 Whether you're tackling small projects with less than 50 people or navigating the complexities of larger teams, the empirical model provides a fascinating lens through which we can view success. Join me as we explore the subtle nuances that make agile practices a beacon for project success. Don't be shy to share your thoughts and experiences in the comments below! Let's engage in a thoughtful exchange on how these philosophies can reshape our approach to project management. 🚀👥
+### Visibility: The Light and Dark of Project Cycles
 
-Key Takeaways:
-00:00:00 The Catalyst for Agile Success
-00:00:53 Visibility Across the Product Lifecycle
-00:03:06 Navigating Change with Agility
-00:05:55 Mitigating Operational Risk through Agile
-00:07:55 Realizing Value Sooner with Empirical Processes
+In a traditional model, visibility is high at the beginning and end of a product lifecycle. We start with extensive documentation and customer engagement, ensuring everyone is aligned on what’s to come. However, as we progress, we often go dark. Touchpoints may dwindle, and stakeholders are left in the dark about the project's status until the final delivery. This can lead to misalignment and unmet expectations.
 
-According to the Chaos Report from the Standish Group small projects of under 50 participants are 30% more likely to be successful, and large projects of more than 50 people are over 200% more likely to be successful.
+Conversely, in an empirical model, we maintain high visibility throughout. While we may experience low visibility during the development phases, we provide stakeholders with a usable working product at the end of every iteration. This regular cadence of delivery allows for ongoing feedback and adjustments, ensuring that the project remains aligned with customer needs.
 
-Hopefully, this short video will help you identify the key differences that make this posible! 
- [Watch on Youtube](https://www.youtube.com/watch?v=rnyJzSwU74Q)
+### Change: Embracing Flexibility
+
+The ability to change is another critical factor. In traditional models, we start with a high capacity for change, but as we build, that capacity diminishes. Each new feature or piece of documentation adds complexity, making changes increasingly difficult. By the end of the project, our ability to adapt is severely limited.
+
+In contrast, the empirical model allows for greater flexibility throughout the lifecycle. While our capacity to change does decrease as we build, it remains significantly higher than in traditional approaches. By delivering in vertical slices, we can pivot based on customer feedback without incurring massive costs or delays.
+
+### Operational Risk: A Gradual Alleviation
+
+Operational risk is another area where the two models diverge. In a traditional approach, we start with high operational risk, which only drops to zero at the end of the project when we deliver the final product. This means that for much of the project, the customer is left with no alleviation of risk.
+
+In an empirical model, we begin with high operational risk, but with each sprint, we deliver usable products that gradually reduce that risk. This continuous delivery not only alleviates risk but also builds trust with stakeholders, as they see tangible progress throughout the project.
+
+### Realised Value: Delivering Incrementally
+
+Finally, let’s discuss realised value. In a traditional model, value is delivered only at the end of the project, often resulting in a situation where the customer finds that only a fraction of the features they requested are actually used. This can lead to disappointment and wasted resources.
+
+With an empirical approach, we can deliver value incrementally. By providing usable products at the end of each sprint, we allow customers to start realising value much sooner. This not only enhances satisfaction but also enables us to pivot based on what the customer truly needs, rather than what they initially requested.
+
+### Conclusion: The Superpowers of Agile
+
+The superpowers of Agile methodologies are evident, even within traditional organisations. By maximising visibility, embracing change, minimising operational risk, and delivering value incrementally, we can transform the way we approach projects. 
+
+If you’re interested in diving deeper into the principles of Agile, I highly recommend reading "The New New Product Development Game," a classic article from the Harvard Business Review, and Stephen Denning's "The Age of Agile." 
+
+For those looking to enhance their Agile journey, I invite you to connect with me for a free 30-minute consultation. Together, we can explore how to make your projects more successful and aligned with the needs of your customers. Thank you for joining me on this exploration of Agile practices!

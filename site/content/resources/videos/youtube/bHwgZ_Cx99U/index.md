@@ -1,6 +1,6 @@
 ---
-title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
-description: Discover the true essence of DevOps beyond tools. Learn how to leverage its principles for enhanced collaboration and product quality in software development.
+title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectively"
+description: Discover why adding more teams can slow down delivery. Learn how to scale effectively by minimising friction and enhancing team collaboration for better outcomes.
 date: 2025-02-21T07:59:43Z
 ResourceId: bHwgZ_Cx99U
 ResourceType: videos
@@ -31,7 +31,7 @@ tags:
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -39,31 +39,29 @@ categories:
 - DevOps
 - Engineering Excellence
 - Social Technologies
-canonicalUrl: https://www.youtube.com/watch?v=bHwgZ_Cx99U
 
 ---
- 🚀 Scaling Teams Without Losing Speed or Quality 🚀  
+In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.
 
-More teams don’t always mean faster delivery. If you’ve seen a company scale up—more teams, more developers, more features—only to watch everything slow down, you’re not alone.  
+### The Reality of Scaling Teams
 
-🔸 Dependencies pile up
-🔸 Teams get out of sync  
-🔸 Technical debt explodes
+When organisations rush to expand their teams, they often overlook a critical factor: how these teams are working together. Here are some of the pitfalls I’ve observed:
 
-The issue isn’t the number of teams. It’s how they work together.  
+- **Increased Dependencies**: More teams can lead to more dependencies, which complicates coordination and slows down progress.
+- **Out of Sync**: Teams that aren’t aligned in their goals and processes can find themselves working at cross purposes, leading to confusion and delays.
+- **Technical Debt**: As teams scramble to deliver features, they may cut corners, resulting in a build-up of technical debt that can haunt them later.
+- **Coordination Overhead**: Instead of focusing on delivering value, teams spend excessive time coordinating with one another, which detracts from their productivity.
 
-When teams aren’t aligned, they spend more time coordinating than delivering. Handoffs, rework, and endless meetings replace shipping value.  
+### The Naked Agility Approach
 
-At Naked Agility, we take a different approach.  
-Scaling isn’t about adding more teams—it’s about removing friction.  
+At Naked Agility, we believe that scaling should not merely be about increasing the number of teams. Instead, it’s about **eliminating friction** within the organisation. Here’s how we approach scaling:
 
-✔️ Eliminate dependencies 
-✔️ Preserve high quality  
-✔️ Speed up delivery with the right patterns & guardrails  
+- **Structure for Success**: We help organisations design their teams in a way that minimises dependencies. This means that teams can operate more independently, reducing the need for constant coordination.
+- **Quality Over Quantity**: By focusing on maintaining high quality in deliverables, we ensure that teams are not just churning out features but are delivering real value.
+- **Right Patterns and Guardrails**: We implement the right patterns and just enough structure to keep teams moving forward without overwhelming them with bureaucracy.
 
-Because scaling should mean better outcomes, not just bigger teams.  
+### The Goal of Scaling
 
-If your organization is struggling with this, let’s talk. We can help you scale—without the chaos. Visit https://www.nkdagility.com 
+Ultimately, scaling should lead to **better outcomes**, not just larger teams. It’s about creating an environment where teams can thrive, innovate, and deliver value efficiently. If your organisation is struggling with the chaos that often accompanies scaling, I encourage you to reach out. 
 
-#Agile #ScalingAgile #ProductDevelopment #SoftwareTeams #NakedAgility #BusinessAgility 
- [Watch on Youtube](https://www.youtube.com/watch?v=bHwgZ_Cx99U)
+Let’s have a conversation about how we can help you scale effectively, without the headaches. Remember, it’s not about how many teams you have; it’s about how well they work together.

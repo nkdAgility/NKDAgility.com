@@ -1,6 +1,6 @@
 ---
-title: 11th April 2020 - Office Hours \ Ask Me Anything
-description: Join Martin, a Scrum Trainer and Azure DevOps MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
+title: 'Mastering Agile in a Distributed World: Tools and Strategies for Effective Team Management'
+description: Discover effective strategies for managing distributed teams in Agile and DevOps. Explore essential tools and tips to enhance collaboration and continuous improvement!
 date: 2020-04-10T18:35:30Z
 ResourceId: isdope3qkx4
 ResourceType: videos
@@ -10,7 +10,6 @@ videoId: isdope3qkx4
 url: /resources/videos/:slug
 slug: 11th-april-2020-office-hours-ask-me-anything
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=isdope3qkx4
 aliases:
 - /resources/isdope3qkx4
 aliasesArchive:
@@ -30,7 +29,7 @@ tags:
 - Software Developers
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -40,7 +39,44 @@ categories:
 - Social Technologies
 
 ---
- Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!
+Hello, I’m Martin Hinshelwood, and today I want to share some insights from my recent experiences in the world of Agile and DevOps. Over the past few weeks, I’ve been engaging in live sessions, and it’s been fascinating to see how many of you are actively inspecting and adapting your practices. This is a testament to the Agile mindset, and I’m excited to continue these discussions regularly.
 
-If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask 
- [Watch on Youtube](https://www.youtube.com/watch?v=isdope3qkx4)
+### Embracing Distributed Teams
+
+One question that has come up frequently is about managing distributed teams and how to effectively use boards to track work. While the Scrum Guide and the Agile Manifesto suggest that co-located teams have advantages, they do not mandate it. The reality is that many of us are working in distributed environments, and that’s perfectly acceptable. Here are a few key points to consider:
+
+- **Communication**: While face-to-face interaction can enhance communication, it’s not the only way to achieve effective collaboration. We can still implement Scrum, Kanban, and other Agile practices remotely.
+- **Tools**: There are numerous tools available that can help manage backlogs and track progress, even when teams are not in the same room.
+
+### Tools for Agile Management
+
+I’ve had the opportunity to work with several tools that cater to different needs in Agile management. Here are three that I find particularly useful:
+
+1. **GitHub**:
+   - **Pros**: Great for open-source projects, straightforward issue tracking, and project management capabilities.
+   - **Cons**: Limited in terms of Agile management features; primarily focused on issues rather than comprehensive project tracking.
+   - **Use Case**: Ideal for teams already familiar with GitHub, especially for open-source initiatives.
+
+2. **Microsoft Planner**:
+   - **Pros**: Integrated with Office 365, user-friendly interface, and good mobile access.
+   - **Cons**: More suited for non-engineering tasks; lacks some advanced features found in dedicated Agile tools.
+   - **Use Case**: A solid choice for teams that need a simple task management tool that integrates well with other Microsoft products.
+
+3. **Azure DevOps**:
+   - **Pros**: Comprehensive toolset for Agile project management, supports multiple teams, and offers robust reporting and analytics.
+   - **Cons**: Not always free; can be complex for new users.
+   - **Use Case**: My personal favourite for managing Agile projects, especially when working with multiple teams on a single product.
+
+### The Importance of Adaptation
+
+As we navigate these tools and practices, it’s crucial to remember that Agile is not a one-size-fits-all approach. Each team has unique needs and workflows, and it’s essential to adapt our practices accordingly. Here are some recommendations:
+
+- **Experiment**: Don’t be afraid to try different tools and processes. What works for one team may not work for another.
+- **Feedback Loops**: Establish regular feedback loops to assess what’s working and what isn’t. This is a core principle of Agile.
+- **Continuous Learning**: Stay curious and open to learning from others. Engage in discussions, attend workshops, and share your experiences.
+
+### Conclusion
+
+In conclusion, whether you’re managing a distributed team or looking to enhance your Agile practices, there are tools and strategies available to support your journey. Remember, the goal is to foster collaboration, transparency, and continuous improvement. If you have questions or want to dive deeper into any of these topics, feel free to reach out or leave a comment. 
+
+And as always, if you’re looking for DevOps and Agile training or consultancy, don’t hesitate to contact us for a free consultation. Let’s continue to grow and adapt together in this ever-evolving landscape of Agile and DevOps. Thank you for joining me today!
