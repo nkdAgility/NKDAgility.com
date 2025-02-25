@@ -9,10 +9,10 @@ ResourceImportSource: Youtube
 videoId: yvIanYh3bcQ
 source: internal
 url: /resources/videos/:slug
-slug: best-scrum-advice-you-ever-received
+slug: navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
 layout: video
-preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
-duration: 298
+preview: https://i.ytimg.com/vi/yvIanYh3bcQ/maxresdefault.jpg
+duration: 497
 isShort: false
 aliases:
 - /resources/yvIanYh3bcQ
@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 - /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
+- /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

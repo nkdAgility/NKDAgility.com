@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XyprV8F_es4
 url: /resources/videos/:slug
-slug: 1-critical-skill-for-a-scrum-master-and-why
+slug: empowering-leadership-driving-cultural-change-for-agile-success
 layout: video
 aliases:
 - /resources/XyprV8F_es4
@@ -19,9 +19,10 @@ aliasesArchive:
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
 - /resources/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
-preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
-duration: 45
-isShort: true
+- /resources/videos/empowering-leadership-driving-cultural-change-for-agile-success
+preview: https://i.ytimg.com/vi/XyprV8F_es4/maxresdefault.jpg
+duration: 398
+isShort: false
 tags:
 - Continuous Learning
 - Resilience and Change

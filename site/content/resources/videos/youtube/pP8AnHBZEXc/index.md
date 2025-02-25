@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pP8AnHBZEXc
 url: /resources/videos/:slug
-slug: 27th-may-2020-office-hours-ask-me-anything
+slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 layout: video
 aliases:
 - /resources/pP8AnHBZEXc
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/27th-may-2020-office-hours-ask-me-anything
 - /resources/27th-may-2020-office-hours-ask-me-anything
+- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
 duration: 1906
 isShort: false

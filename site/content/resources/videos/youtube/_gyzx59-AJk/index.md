@@ -20,7 +20,7 @@ aliasesArchive:
 - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
-duration: 289
+duration: 358
 isShort: false
 tags:
 - Deployment Frequency

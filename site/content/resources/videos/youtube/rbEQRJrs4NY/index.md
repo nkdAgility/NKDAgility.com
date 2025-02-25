@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Product Value: Why Real User Feedback is Your Best Asset"
+title: 'Unlocking Product Value: Why Real User Feedback is Your Best Asset'
 description: Unlock the secret to successful product development! Discover why engaging real users early is key to validating your ideas and creating genuine value.
 date: 2025-02-07T07:52:12Z
 ResourceId: rbEQRJrs4NY
@@ -8,34 +8,35 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rbEQRJrs4NY
 url: /resources/videos/:slug
-slug: how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+slug: unlocking-product-value-why-real-user-feedback-is-your-best-asset
 layout: video
 aliases:
-  - /resources/rbEQRJrs4NY
+- /resources/rbEQRJrs4NY
 aliasesArchive:
-  - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-  - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-  - /resources/videos/from-assumption-to-real-value-user-test
-  - /resources/from-assumption-to-real-value-user-test
-preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
-duration: 466
+- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/videos/from-assumption-to-real-value-user-test
+- /resources/from-assumption-to-real-value-user-test
+- /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
+preview: https://i.ytimg.com/vi/rbEQRJrs4NY/maxresdefault.jpg
+duration: 62
 isShort: false
 tags:
-  - People and Process
-  - Agile Project Management
-  - Software Development
-  - Experimentation
-  - Agile Transformation
-  - Product Validation
+- People and Process
+- Agile Project Management
+- Software Development
+- Experimentation
+- Agile Transformation
+- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
-  - video
+- video
 categories: []
----
 
+---
 In my journey through the world of product development, I've come to realise a fundamental truth: **value only happens when you get it in front of real users**. Everything that precedes this moment is merely an assumption. We can spend countless hours validating our ideas, trying to weed out the bad assumptions and features that seem promising on paper but may not resonate in reality. However, the crux of the matter is this: until we present something we believe will provide value to actual users, we remain in the dark about its true worth.
 
 ### The Renovation Analogy

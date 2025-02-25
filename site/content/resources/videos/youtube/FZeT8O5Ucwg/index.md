@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug
-slug: the-tyranny-of-taylorism-how-to-detect-agile-bs
+slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 layout: video
 aliases:
 - /resources/FZeT8O5Ucwg
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
 - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 - /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false

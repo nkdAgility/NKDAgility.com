@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug
-slug: the-scrum-framework
+slug: unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
 layout: video
 aliases:
 - /resources/Q2Fo3sM6BVo
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/the-scrum-framework
 - /resources/videos/the-scrum-framework!
 - /resources/the-scrum-framework!
+- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false

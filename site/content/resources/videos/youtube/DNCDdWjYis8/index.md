@@ -9,15 +9,16 @@ ResourceImportSource: Youtube
 videoId: DNCDdWjYis8
 source: youtube
 url: /resources/videos/:slug
-slug: worst-trait-in-unskilled-scrum-masters-DNCDdWjYis8
+slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
 layout: video
 aliases:
 - /resources/DNCDdWjYis8
-- /resources/videos/worst-trait-in-unskilled-scrum-masters
+- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
 aliasesArchive:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-
+- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
 preview: https://i.ytimg.com/vi/DNCDdWjYis8/maxresdefault.jpg
 duration: 51
 isShort: true

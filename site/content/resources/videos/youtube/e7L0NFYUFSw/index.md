@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: e7L0NFYUFSw
 url: /resources/videos/:slug
-slug: does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
+slug: debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
 layout: video
 aliases:
 - /resources/e7L0NFYUFSw
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
+- /resources/videos/debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false

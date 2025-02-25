@@ -9,7 +9,7 @@ ResourceImportSource: Youtube
 videoId: BRRQ1JWsHpQ
 source: youtube
 url: /resources/videos/:slug
-slug: the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
+slug: transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
 layout: video
 aliases:
 - /resources/BRRQ1JWsHpQ
@@ -17,6 +17,7 @@ aliasesArchive:
 - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
 - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
+- /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
 preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false

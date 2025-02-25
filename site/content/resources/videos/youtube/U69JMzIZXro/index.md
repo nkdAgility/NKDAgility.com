@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: U69JMzIZXro
 url: /resources/videos/:slug
-slug: installing-tfs-2013-standard
+slug: mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
 layout: video
 aliases:
 - /resources/U69JMzIZXro
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/installing-tfs-standard
 - /resources/videos/installing-tfs-2013-standard
 - /resources/installing-tfs-2013-standard
+- /resources/videos/mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
 preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: false

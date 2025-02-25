@@ -8,14 +8,15 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kOgKt8w_hWY
 url: /resources/videos/:slug
-slug: live-event-an-enterprise-evolution-that-shows-that-you-can-too-kOgKt8w_hWY
+slug: transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY
 layout: video
 aliases:
 - /resources/kOgKt8w_hWY
-- /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
+- /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
 aliasesArchive:
 - /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 - /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
+- /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
 preview: https://i.ytimg.com/vi/kOgKt8w_hWY/maxresdefault.jpg
 duration: 35
 isShort: true

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: gc8Pq_5CepY
 url: /resources/videos/:slug
-slug: 3rd-june-2020-office-hours-ask-me-anything
+slug: mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
 layout: video
 aliases:
 - /resources/gc8Pq_5CepY
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/rd-june-office-hours-ask-me-anything
 - /resources/videos/3rd-june-2020-office-hours-ask-me-anything
 - /resources/3rd-june-2020-office-hours-ask-me-anything
+- /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
 preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
 duration: 1686
 isShort: false

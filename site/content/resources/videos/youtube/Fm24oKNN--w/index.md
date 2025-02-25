@@ -8,13 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Fm24oKNN--w
 url: /resources/videos/:slug
-slug: nkdagility-healthgrades-interview-cjsingh
+slug: transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
 layout: video
 aliases:
 - /resources/Fm24oKNN--w
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-cjsingh
 - /resources/nkdagility-healthgrades-interview-cjsingh
+- /resources/videos/transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
 preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: false

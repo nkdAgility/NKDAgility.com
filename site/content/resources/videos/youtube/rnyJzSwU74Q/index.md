@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rnyJzSwU74Q
 url: /resources/videos/:slug
-slug: traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
+slug: unlocking-agile-success-how-empirical-models-transform-project-outcomes
 layout: video
 aliases:
 - /resources/rnyJzSwU74Q
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
 - /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+- /resources/videos/unlocking-agile-success-how-empirical-models-transform-project-outcomes
 preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
 isShort: false

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MwieMDwVuOg
 url: /resources/videos/:slug
-slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+slug: scaling-smart-how-to-build-sustainable-growth-without-the-chaos
 layout: video
 aliases:
 - /resources/MwieMDwVuOg
@@ -18,8 +18,9 @@ aliasesArchive:
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
 - /resources/the-key-to-scaling-successfully-agile-as-an-enabler
-preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
-duration: 263
+- /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
+duration: 114
 isShort: false
 tags:
 - Scaled Agile

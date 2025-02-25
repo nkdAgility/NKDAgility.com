@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: p9OhFJ5Ojy4
 url: /resources/videos/:slug
-slug: agile-in-nigeria-2020-the-inevitability-of-change
+slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
 layout: video
 aliases:
 - /resources/p9OhFJ5Ojy4
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/agile-in-nigeria-the-inevitability-of-change
 - /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
 - /resources/agile-in-nigeria-2020-the-inevitability-of-change
+- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false

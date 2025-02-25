@@ -23,6 +23,22 @@ function Get-UpdatedDescription {
     }
 }
 
+function Get-UrlSafeString {
+    param (
+        [string]$string
+    )
+
+    $string = $string.trim()
+    $title = $title -replace '\. ', ' - ' -replace '[#".]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
+
+    $title = ($title -replace '[^0-9a-zA-Z -]', '' -replace '\s+', '-').ToLower()
+
+    # Remove consecutive dashes
+    $title = $title -replace '-+', '-'
+
+    return $title.ToLower()
+}
+
 # Function to generate or update Hugo markdown content for a video
 function Update-YoutubeMarkdownFiles {
     param ()
@@ -86,26 +102,17 @@ function Update-YoutubeMarkdownFiles {
             else {
                 $title = $videoSnippet.title.trim()
             }
-            $title = $title -replace '\. ', ' - ' -replace '[#".]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
 
-            if ($title -match '\.') {
-                Write-Host "The string contains a period."
-            }
-            else {
-                Write-Host "The string does not contain a period."
-            }
 
-            $urlSafeTitle = ($title -replace '[^0-9a-zA-Z -]', '' -replace '\s+', '-').ToLower()
+            $urlSafeTitle = Get-UrlSafeString -string $title
+            $urlSafeTitleVideo = Get-UrlSafeString -string $videoSnippet.title
 
-            # Remove consecutive dashes
-            $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
 
             $aliases = @("/resources/$videoId")
-            if ($isShort) {
-                $aliases += @("/resources/videos/$urlSafeTitle")
-            }
+            $aliases += @("/resources/videos/$urlSafeTitleVideo")
+            $aliases += @("/resources/videos/$urlSafeTitle")
 
-            $aliasesArchive = @("/resources/videos/$urlSafeTitle")
+            $aliasesArchive = @("/resources/videos/$urlSafeTitle", "/resources/videos/$urlSafeTitleVideo")
            
 
             # Use Update-Field from HugoHelpers.ps1 to update or add each field

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sBBKKlfwlrA
 url: /resources/videos/:slug
-slug: professional-scrum-with-nexus-sps-with-certification-learn-skills-to-overcome-scaling-challenges
+slug: mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
 layout: video
 aliases:
 - /resources/sBBKKlfwlrA
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/professional-scrum-with-nexus-sps-with-certification-learn-skills-to-overcome-scaling-challenges
 - /resources/videos/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
 - /resources/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
+- /resources/videos/mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
 preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vI2LBfMkPuk
 url: /resources/videos/:slug
-slug: what-is-your-favourite-agile-course-to-deliver-and-why
+slug: embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
 layout: video
 aliases:
 - /resources/vI2LBfMkPuk
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
 - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
+- /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false

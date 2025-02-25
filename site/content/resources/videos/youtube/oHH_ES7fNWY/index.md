@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: oHH_ES7fNWY
 url: /resources/videos/:slug
-slug: sending-email-from-office-365-for-tfs-2013
+slug: mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
 layout: video
 aliases:
 - /resources/oHH_ES7fNWY
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/sending-email-from-office-for-tfs-
 - /resources/videos/sending-email-from-office-365-for-tfs-2013
 - /resources/sending-email-from-office-365-for-tfs-2013
+- /resources/videos/mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
 preview: https://i.ytimg.com/vi/oHH_ES7fNWY/maxresdefault.jpg
 duration: 145
 isShort: false

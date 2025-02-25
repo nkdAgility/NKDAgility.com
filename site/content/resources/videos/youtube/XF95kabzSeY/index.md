@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XF95kabzSeY
 url: /resources/videos/:slug
-slug: shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
+slug: filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
 layout: video
 aliases:
 - /resources/XF95kabzSeY
@@ -17,6 +17,7 @@ aliasesArchive:
 - /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
+- /resources/videos/filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
 preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false

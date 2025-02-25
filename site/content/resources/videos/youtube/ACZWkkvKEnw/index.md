@@ -11,9 +11,9 @@ source: internal
 url: /resources/videos/:slug
 slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
 layout: video
-preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
-duration: 194
-isShort: false
+preview: https://i.ytimg.com/vi/ACZWkkvKEnw/maxresdefault.jpg
+duration: 45
+isShort: true
 aliases:
 - /resources/ACZWkkvKEnw
 - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success

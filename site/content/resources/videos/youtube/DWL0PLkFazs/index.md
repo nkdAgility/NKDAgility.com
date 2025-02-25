@@ -8,13 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DWL0PLkFazs
 url: /resources/videos/:slug
-slug: why-did-healthgrades-choose-martin-hinshelwood
+slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 layout: video
 aliases:
 - /resources/DWL0PLkFazs
 aliasesArchive:
 - /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 - /resources/why-did-healthgrades-choose-martin-hinshelwood
+- /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 isShort: false

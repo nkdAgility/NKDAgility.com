@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: bHwgZ_Cx99U
 url: /resources/videos/:slug
-slug: devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+slug: why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
 layout: video
 aliases:
 - /resources/bHwgZ_Cx99U
@@ -16,8 +16,9 @@ aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 - /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
-preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
-duration: 243
+- /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
+duration: 76
 isShort: false
 tags:
 - Value Delivery

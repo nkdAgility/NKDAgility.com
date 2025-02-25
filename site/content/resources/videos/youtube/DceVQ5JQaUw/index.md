@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DceVQ5JQaUw
 url: /resources/videos/:slug
-slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant
+slug: unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 layout: video
 aliases:
 - /resources/DceVQ5JQaUw
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
 - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+- /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 isShort: false

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jCqRHt8LLgw
 url: /resources/videos/:slug
-slug: 12th-may-2020-office-hours-ask-me-anything
+slug: rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
 layout: video
 aliases:
 - /resources/jCqRHt8LLgw
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/12th-may-2020-office-hours-ask-me-anything
 - /resources/12th-may-2020-office-hours-ask-me-anything
+- /resources/videos/rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
 preview: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg
 duration: 1756
 isShort: false

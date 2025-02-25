@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: yrpAYB2yIZU
 url: /resources/videos/:slug
-slug: install-configure-301-move-your-active-directory-domain-to-another-server
+slug: mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
 layout: video
 aliases:
 - /resources/yrpAYB2yIZU
@@ -17,6 +17,7 @@ aliasesArchive:
 - /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server
+- /resources/videos/mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
 preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
 isShort: false

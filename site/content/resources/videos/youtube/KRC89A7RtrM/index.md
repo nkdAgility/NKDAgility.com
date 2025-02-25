@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KRC89A7RtrM
 url: /resources/videos/:slug
-slug: some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
+slug: unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 layout: video
 aliases:
 - /resources/KRC89A7RtrM
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 - /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
+- /resources/videos/unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
 isShort: false

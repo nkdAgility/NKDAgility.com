@@ -9,10 +9,10 @@ ResourceImportSource: Youtube
 videoId: yu9CmrDiBPc
 source: internal
 url: /resources/videos/:slug
-slug: scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+slug: is-your-engineering-culture-ready-to-scale-with-your-technology
 layout: video
-preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
-duration: 584
+preview: https://i.ytimg.com/vi/yu9CmrDiBPc/maxresdefault.jpg
+duration: 97
 isShort: false
 aliases:
 - /resources/yu9CmrDiBPc
@@ -22,6 +22,7 @@ aliasesArchive:
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 - "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
 sitemap:
   filename: sitemap.xml
   priority: 0.6

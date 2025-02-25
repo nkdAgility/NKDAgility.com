@@ -9,14 +9,14 @@ ResourceImportSource: Youtube
 videoId: gM0_K8u2puo
 source: internal
 url: /resources/videos/:slug
-slug: how-does-a-scrum-team-create-a-sprint-goal-gM0_K8u2puo
+slug: mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
 layout: video
-preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
-duration: 53
+preview: https://i.ytimg.com/vi/gM0_K8u2puo/maxresdefault.jpg
+duration: 34
 isShort: true
 aliases:
 - /resources/gM0_K8u2puo
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
+- /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/videos/be-a-market-leader,-not-a-follower
 - /resources/be-a-market-leader,-not-a-follower
+- /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases
 sitemap:
   filename: sitemap.xml
   priority: 0.6

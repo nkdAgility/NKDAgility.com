@@ -9,41 +9,42 @@ ResourceImportSource: Youtube
 videoId: KWiWgLFalyA
 source: internal
 url: /resources/videos/:slug
-slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+slug: mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
 layout: video
 preview: https://i.ytimg.com/vi/KWiWgLFalyA/maxresdefault.jpg
-duration: 591
+duration: 103
 isShort: false
 aliases:
-  - /resources/KWiWgLFalyA
+- /resources/KWiWgLFalyA
 aliasesArchive:
-  - /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-  - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-  - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-  - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-  - /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
-  - /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+- /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+- /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-  - Strategy
-  - Pragmatic Thinking
-  - Operational Practices
-  - People and Process
-  - Systems Thinking
-  - Sociotechnical Systems
-  - Business Agility
-  - Agile Strategy
-  - Organisational Agility
+- Strategy
+- Pragmatic Thinking
+- Operational Practices
+- People and Process
+- Systems Thinking
+- Sociotechnical Systems
+- Business Agility
+- Agile Strategy
+- Organisational Agility
 resourceTypes:
-  - video
+- video
 categories:
-  - Product Management
-  - Engineering Excellence
-  - Social Technologies
----
+- Product Management
+- Engineering Excellence
+- Social Technologies
 
+---
 Scaling product development sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.
 
 ### The Reality of Scaling

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: N0Ci9PQQRLc
 url: /resources/videos/:slug
-slug: how-does-your-real-world-experience-translate-into-your-training-style
+slug: from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
 layout: video
 aliases:
 - /resources/N0Ci9PQQRLc
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
 - /resources/how-does-your-real-world-experience-translate-into-your-training-style-
+- /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false

@@ -8,13 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Sa7uw3CX_yE
 url: /resources/videos/:slug
-slug: the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
+slug: beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 layout: video
 aliases:
 - /resources/Sa7uw3CX_yE
 aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
+- /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg
 duration: 4809
 isShort: false

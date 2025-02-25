@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: p3D5RjM5grA
 url: /resources/videos/:slug
-slug: ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+slug: transforming-management-into-agile-leadership-the-power-of-virtual-training
 layout: video
 aliases:
 - /resources/p3D5RjM5grA
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+- /resources/videos/transforming-management-into-agile-leadership-the-power-of-virtual-training
 preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
 duration: 2961
 isShort: false

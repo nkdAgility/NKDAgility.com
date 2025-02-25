@@ -8,13 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RCJsST0xBCE
 url: /resources/videos/:slug
-slug: mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+slug: mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
 layout: video
 aliases:
 - /resources/RCJsST0xBCE
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: false

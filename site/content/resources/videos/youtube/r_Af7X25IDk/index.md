@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: r_Af7X25IDk
 url: /resources/videos/:slug
-slug: ep005-leading-agile-change
+slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
 layout: video
 aliases:
 - /resources/r_Af7X25IDk
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/ep-leading-agile-change
 - /resources/videos/ep005-leading-agile-change
 - /resources/ep005-leading-agile-change
+- /resources/videos/navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: NG9Y1_qQjvg
 url: /resources/videos/:slug
-slug: install-tfs-2013-release-management
+slug: streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
 layout: video
 aliases:
 - /resources/NG9Y1_qQjvg
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/install-tfs-release-management
 - /resources/videos/install-tfs-2013-release-management
 - /resources/install-tfs-2013-release-management
+- /resources/videos/streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 isShort: false

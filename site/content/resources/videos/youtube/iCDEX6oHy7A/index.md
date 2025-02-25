@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: iCDEX6oHy7A
 url: /resources/videos/:slug
-slug: ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
 layout: video
 aliases:
 - /resources/iCDEX6oHy7A
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false

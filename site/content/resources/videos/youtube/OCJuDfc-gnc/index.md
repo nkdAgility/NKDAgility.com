@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OCJuDfc-gnc
 url: /resources/videos/:slug
-slug: 25th-march-2020-office-hours-ask-me-anything
+slug: scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 layout: video
 aliases:
 - /resources/OCJuDfc-gnc
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/th-march-office-hours-ask-me-anything
 - /resources/videos/25th-march-2020-office-hours-ask-me-anything
 - /resources/25th-march-2020-office-hours-ask-me-anything
+- /resources/videos/scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 isShort: false

@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy"
+title: 'Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy'
 description: Unlock the potential of your product by understanding unrealised value. Discover how market insights and hypothesis-driven development can enhance your strategy!
 date: 2025-02-11T06:00:40Z
 ResourceId: ynIqkNbDN8I
@@ -9,36 +9,37 @@ ResourceImportSource: Youtube
 videoId: ynIqkNbDN8I
 source: internal
 url: /resources/videos/:slug
-slug: unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+slug: unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 layout: video
-preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
-duration: 419
+preview: https://i.ytimg.com/vi/ynIqkNbDN8I/maxresdefault.jpg
+duration: 527
 isShort: false
 aliases:
-  - /resources/ynIqkNbDN8I
+- /resources/ynIqkNbDN8I
 aliasesArchive:
-  - /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
-  - /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+- /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+- /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-  - Agile Product Operating Model
-  - Business Agility
-  - Agile Product Management
-  - Value Delivery
-  - Deployment Frequency
-  - Frequent Releases
-  - Ability to Innovate
-  - Market Adaptability
-  - Product Discovery
-  - Hypothesis Driven Development
+- Agile Product Operating Model
+- Business Agility
+- Agile Product Management
+- Value Delivery
+- Deployment Frequency
+- Frequent Releases
+- Ability to Innovate
+- Market Adaptability
+- Product Discovery
+- Hypothesis Driven Development
 resourceTypes:
-  - video
+- video
 categories:
-  - Product Management
----
+- Product Management
 
+---
 In the realm of evidence-based management, we often discuss various areas of focus, but one key value area that frequently slips under the radar is unrealised value. This aspect is just as crucial as the others, yet it tends to be overlooked by many organisations and teams. Today, I want to delve into what unrealised value means and why it’s essential for your product development strategy.
 
 ### Understanding Unrealised Value

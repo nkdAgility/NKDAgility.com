@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug
-slug: what-is-agile
+slug: navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
 layout: video
 aliases:
 - /resources/phv_2Bv2PrA
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/what-is-agile
 - /resources/videos/what-is-agile-
 - /resources/what-is-agile-
+- /resources/videos/navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
 isShort: false

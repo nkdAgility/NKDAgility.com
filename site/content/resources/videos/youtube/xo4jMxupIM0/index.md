@@ -10,7 +10,7 @@ videoId: xo4jMxupIM0
 source: youtube
 url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xo4jMxupIM0/maxresdefault.jpg
-duration: 240
+duration: 233
 isShort: false
 sitemap:
   filename: sitemap.xml

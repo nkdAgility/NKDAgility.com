@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZPRvjlp9i0A
 url: /resources/videos/:slug
-slug: 14th-april-2020-office-hours-ask-me-anything
+slug: navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
 layout: video
 aliases:
 - /resources/ZPRvjlp9i0A
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/14th-april-2020-office-hours-ask-me-anything
 - /resources/14th-april-2020-office-hours-ask-me-anything
+- /resources/videos/navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
 preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
 duration: 2112
 isShort: false

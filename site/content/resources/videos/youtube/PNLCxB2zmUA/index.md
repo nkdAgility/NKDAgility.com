@@ -9,14 +9,14 @@ ResourceImportSource: Youtube
 videoId: PNLCxB2zmUA
 source: internal
 url: /resources/videos/:slug
-slug: what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-PNLCxB2zmUA
+slug: embracing-change-how-architectural-adaptation-fuels-software-development-success-PNLCxB2zmUA
 layout: video
-preview: https://i.ytimg.com/vi/PIoyu9N2QaM/maxresdefault.jpg
-duration: 363
-isShort: false
+preview: https://i.ytimg.com/vi/PNLCxB2zmUA/maxresdefault.jpg
+duration: 48
+isShort: true
 aliases:
 - /resources/PNLCxB2zmUA
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- /resources/videos/embracing-change-how-architectural-adaptation-fuels-software-development-success
 aliasesArchive:
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 - /resources/transform-your-software-team-with-expert-product-development-mentoring
@@ -26,6 +26,7 @@ aliasesArchive:
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 - /resources/videos/the-necessity-of-architectural-adaptation
 - /resources/the-necessity-of-architectural-adaptation
+- /resources/videos/embracing-change-how-architectural-adaptation-fuels-software-development-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: isdope3qkx4
 url: /resources/videos/:slug
-slug: 11th-april-2020-office-hours-ask-me-anything
+slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
 layout: video
 aliases:
 - /resources/isdope3qkx4
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/11th-april-2020-office-hours-ask-me-anything
 - /resources/11th-april-2020-office-hours-ask-me-anything
+- /resources/videos/mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
 preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: false

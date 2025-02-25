@@ -8,15 +8,16 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: bvCU_N6iY_4
 url: /resources/videos/:slug
-slug: business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng-bvCU_N6iY_4
+slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
 layout: video
 aliases:
 - /resources/bvCU_N6iY_4
-- /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
+- /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 aliasesArchive:
 - /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
 - /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
+- /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: true

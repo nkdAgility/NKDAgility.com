@@ -8,13 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: F8a6gtXxLe0
 url: /resources/videos/:slug
-slug: nkdagility-healthgrades-interview-dave-frisch
+slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 layout: video
 aliases:
 - /resources/F8a6gtXxLe0
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 - /resources/nkdagility-healthgrades-interview-dave-frisch
+- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 isShort: false

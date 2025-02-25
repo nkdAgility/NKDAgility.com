@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZxDktQae10M
 url: /resources/videos/:slug
-slug: 2018-vsts-sync-migration-tools-overview
+slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 layout: video
 aliases:
 - /resources/ZxDktQae10M
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/-vsts-sync-migration-tools-overview
 - /resources/videos/2018-vsts-sync-migration-tools-overview
 - /resources/2018-vsts-sync-migration-tools-overview
+- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 isShort: false

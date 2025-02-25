@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
-slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
+slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
 layout: video
 aliases:
 - /resources/i_DglXgaePM
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 - /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+- /resources/videos/mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
 preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
 duration: 5631
 isShort: false

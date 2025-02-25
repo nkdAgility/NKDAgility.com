@@ -8,13 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vY0hXTm-wgk
 url: /resources/videos/:slug
-slug: professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+slug: transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
 layout: video
 aliases:
 - /resources/vY0hXTm-wgk
 aliasesArchive:
 - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 - /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+- /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: false

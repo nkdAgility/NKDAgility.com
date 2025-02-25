@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HjyUeuf1IEw
 url: /resources/videos/:slug
-slug: 20th-may-2020-office-hours-ask-me-anything
+slug: unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
 layout: video
 aliases:
 - /resources/HjyUeuf1IEw
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/20th-may-2020-office-hours-ask-me-anything
 - /resources/20th-may-2020-office-hours-ask-me-anything
+- /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false

@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _Hd8NZeiwFA
 url: /resources/videos/:slug
-slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+slug: why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
 aliases:
 - /resources/_Hd8NZeiwFA
 aliasesArchive:
@@ -19,8 +19,9 @@ aliasesArchive:
 - /resources/videos/_gyzx59-AJk
 - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
-duration: 289
+- /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+preview: https://i.ytimg.com/vi/_Hd8NZeiwFA/maxresdefault.jpg
+duration: 618
 isShort: false
 tags:
 - Scrum Master

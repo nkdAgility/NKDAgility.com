@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: U7wIQk1pus0
 url: /resources/videos/:slug
-slug: install-tfs-2013-basic
+slug: a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
 layout: video
 aliases:
 - /resources/U7wIQk1pus0
@@ -16,6 +16,7 @@ aliasesArchive:
 - /resources/videos/install-tfs-basic
 - /resources/videos/install-tfs-2013-basic
 - /resources/install-tfs-2013-basic
+- /resources/videos/a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg
 duration: 722
 isShort: false

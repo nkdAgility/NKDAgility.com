@@ -9,10 +9,10 @@ ResourceImportSource: Youtube
 videoId: ZVZEO1Ggihs
 source: internal
 url: /resources/videos/:slug
-slug: why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+slug: unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
 layout: video
-preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg
-duration: 389
+preview: https://i.ytimg.com/vi/ZVZEO1Ggihs/maxresdefault.jpg
+duration: 77
 isShort: false
 aliases:
 - /resources/ZVZEO1Ggihs
@@ -21,6 +21,7 @@ aliasesArchive:
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- /resources/videos/unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
 sitemap:
   filename: sitemap.xml
   priority: 0.6
