@@ -2,6 +2,7 @@
 title: 'Transforming Agile Training into Action: Experimentation and Engagement in the Workplace'
 description: Unlock the secrets of agile training! Discover how to transform classroom insights into actionable strategies for your team with effective engagement tools.
 date: 2023-04-24T07:00:03Z
+weight: 1000
 ResourceId: BRRQ1JWsHpQ
 ResourceType: videos
 ResourceImport: true

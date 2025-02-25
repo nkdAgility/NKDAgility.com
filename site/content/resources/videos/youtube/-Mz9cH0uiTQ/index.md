@@ -2,6 +2,7 @@
 title: 'Navigating Client Needs: How Agile Consultants Can Uncover True Value Beyond Initial Requests'
 description: Unlock the secrets to effective agile consulting! Discover how to guide clients towards true value and sustainable growth in your projects.
 date: 2023-03-01T07:00:00Z
+weight: 770
 ResourceId: -Mz9cH0uiTQ
 ResourceType: videos
 ResourceImport: true

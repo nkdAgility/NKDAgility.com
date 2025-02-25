@@ -8,6 +8,7 @@ ResourceImportId: 11081
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog

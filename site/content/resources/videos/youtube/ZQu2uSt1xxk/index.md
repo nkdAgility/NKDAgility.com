@@ -2,6 +2,7 @@
 title: Overview of Applying Professional Kanban course.
 description: Unlock your team's potential with our "Applying Professional Kanban" course! Learn key principles, tools, and techniques for continuous improvement.
 date: 2024-02-21T07:00:11Z
+weight: 1000
 ResourceId: ZQu2uSt1xxk
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'Transform Your Career: How to Become a Confident Scrum Master Through Real-World Learning and Community Support'
 description: Transform your career as a Scrum Master with hands-on training that builds confidence, fosters community, and applies Agile principles in real-time. Join us!
 date: 2023-07-13T07:41:01Z
+weight: 775
 ResourceId: cb6JpfomYRU
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'Stay Ahead of the Curve: How Continuous Learning Keeps You in the Top 10%'
 description: Unlock your potential and stay in the top 10%! Discover the power of continuous learning and practical tips to enhance your skills and opportunities.
 date: 2023-12-19T11:00:00Z
+weight: 1000
 ResourceId: -T1e8hjLt24
 ResourceType: videos
 ResourceImport: true

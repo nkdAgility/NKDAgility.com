@@ -5,6 +5,7 @@ ResourceId: dKyRYit_4xO
 ResourceImport: false
 ResourceType: podcast
 date: 2023-04-27
+weight: 1000
 categories:
 - Product Management
 author: MrHinsh

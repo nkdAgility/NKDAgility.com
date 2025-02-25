@@ -2,6 +2,7 @@
 title: 'Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World'
 description: Discover how to enhance remote work, integrate UX in Agile, and boost team dynamics. Join Martin Hinshelwood for insights that drive collaboration and value!
 date: 2020-04-10T18:30:42Z
+weight: 540
 ResourceId: A8URbBCljnQ
 ResourceType: videos
 ResourceImport: true

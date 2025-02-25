@@ -2,6 +2,7 @@
 title: 'Unmasking Agile: How to Spot Genuine Practices Amidst the Myths'
 description: Discover the truth behind agile practices! Uncover why most teams struggle with genuine agility and learn how to foster a culture of innovation and responsiveness.
 date: 2020-03-18T13:56:05Z
+weight: 1000
 ResourceId: FZeT8O5Ucwg
 ResourceType: videos
 ResourceImport: true

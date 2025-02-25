@@ -2,6 +2,7 @@
 title: 'Embrace the Chaos: Transforming Scrum Learning Through Experience and Minecraft'
 description: Unlock the power of Scrum in our Applying Professional Scrum class! Experience chaos, learn through action, and transform your agile approach today.
 date: 2023-01-09T12:36:53Z
+weight: 1000
 ResourceId: vI2LBfMkPuk
 ResourceType: videos
 ResourceImport: true

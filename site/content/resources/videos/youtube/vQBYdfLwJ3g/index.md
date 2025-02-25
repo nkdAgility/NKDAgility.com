@@ -2,6 +2,7 @@
 title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
 description: Unlock the potential of the Product Owner role! Discover how immersive learning bridges theory and practice, empowering you to drive real change in your organisation.
 date: 2023-06-09T07:00:27Z
+weight: 770
 ResourceId: vQBYdfLwJ3g
 ResourceType: videos
 ResourceImport: true

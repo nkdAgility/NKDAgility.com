@@ -2,6 +2,7 @@
 title: 'Navigating the Agile Landscape: Understanding the Key Differences Between Product Owners and Project Managers'
 description: Discover the key differences between Product Owners and Project Managers in Scrum, and learn how to enhance your organisation's agility and value delivery.
 date: 2020-04-14T19:09:07Z
+weight: 1000
 ResourceId: ZPRvjlp9i0A
 ResourceType: videos
 ResourceImport: true

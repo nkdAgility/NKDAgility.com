@@ -2,6 +2,7 @@
 title: 'Maximise Your Scrum Process: Leveraging Azure DevOps for Agile Success'
 description: Unlock the potential of Azure DevOps to supercharge your Scrum process! Discover custom setups, backlog management, and agile practices for success.
 date: 2024-04-03T17:21:43Z
+weight: 770
 ResourceId: 5IBKxYLA494
 ResourceType: videos
 ResourceImport: true

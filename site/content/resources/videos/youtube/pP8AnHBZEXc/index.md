@@ -2,6 +2,7 @@
 title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
 description: Unlock your Agile potential with insights on the Professional Scrum Foundations class and PSM I assessment. Learn practical Scrum skills and boost your career!
 date: 2020-05-28T05:34:33Z
+weight: 1000
 ResourceId: pP8AnHBZEXc
 ResourceType: videos
 ResourceImport: true

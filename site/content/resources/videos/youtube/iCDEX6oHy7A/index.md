@@ -2,6 +2,7 @@
 title: 'Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality'
 description: Unlock the secrets to fostering an agile mindset in your development teams! Discover strategies to enhance quality, ownership, and customer focus.
 date: 2020-04-07T20:33:45Z
+weight: 1000
 ResourceId: iCDEX6oHy7A
 ResourceType: videos
 ResourceImport: true

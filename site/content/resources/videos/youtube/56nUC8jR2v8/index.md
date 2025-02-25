@@ -2,6 +2,7 @@
 title: 'Challenging the Tyranny of Taylorism: Embracing True Agility in the Workplace'
 description: Explore the tyranny of Taylorism and uncover agile BS in our latest session. Join the conversation on fostering creativity and true agility in the workplace!
 date: 2020-06-24T17:48:17Z
+weight: 1000
 ResourceId: 56nUC8jR2v8
 ResourceType: videos
 ResourceImport: true

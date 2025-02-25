@@ -2,6 +2,7 @@
 title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
 description: Transform your organisation's culture with Naked Agility. Discover how to optimise systems for maximum value and achieve engineering excellence today!
 date: 2024-12-21T06:00:00Z
+weight: 305
 ResourceId: KhKFVRcdbGo
 ResourceType: videos
 ResourceImport: true

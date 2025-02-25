@@ -2,6 +2,7 @@
 title: 'Unlocking the Superpower of Software Development: How Shifting Left Transforms Quality Assurance'
 description: Unlock the superpower of software development with the shift-left approach! Discover how early QA integration boosts quality, speed, and team morale.
 date: 2024-11-22T14:04:14Z
+weight: 635
 ResourceId: whKX9Mn1eb8
 ResourceType: videos
 ResourceImport: true

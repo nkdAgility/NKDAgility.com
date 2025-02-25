@@ -2,6 +2,7 @@
 title: In what circumstances is agile consulting appropriate?
 description: Discover when to engage an agile consultant to enhance your team's collaboration and creativity in this insightful video with Martin Hinshelwood.
 date: 2023-01-06T04:52:40Z
+weight: 635
 ResourceId: rX258aqTf_w
 ResourceType: videos
 ResourceImport: true

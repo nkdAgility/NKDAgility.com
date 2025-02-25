@@ -2,6 +2,7 @@
 title: 'Scaling Smart: How to Tackle Technical Debt for Sustainable Growth'
 description: Avoid the pitfalls of technical debt! Discover how to scale effectively with sustainable practices and automation for a robust, innovative future.
 date: 2025-02-25T06:00:28Z
+weight: 410
 ResourceId: PfZU13BEwiY
 ResourceType: videos
 ResourceImport: true

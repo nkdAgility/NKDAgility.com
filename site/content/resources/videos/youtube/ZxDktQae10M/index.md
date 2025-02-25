@@ -2,6 +2,7 @@
 title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
 description: Unlock the secrets of seamless TFS to VSTS migration! Discover flexible tools and expert tips to streamline your digital transformation journey.
 date: 2017-12-30T18:57:40Z
+weight: 1000
 ResourceId: ZxDktQae10M
 ResourceType: videos
 ResourceImport: true

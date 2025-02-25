@@ -5,6 +5,7 @@ ResourceId: hWrztsvRPAi
 ResourceImport: false
 ResourceType: podcast
 date: 2023-10-26
+weight: 1000
 categories:
 - Scrum
 - Social Technologies

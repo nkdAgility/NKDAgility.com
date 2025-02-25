@@ -2,6 +2,7 @@
 title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectively"
 description: Discover why adding more teams can slow down delivery. Learn how to scale effectively by minimising friction and enhancing team collaboration for better outcomes.
 date: 2025-02-21T07:59:43Z
+weight: 545
 ResourceId: bHwgZ_Cx99U
 ResourceType: videos
 ResourceImport: true

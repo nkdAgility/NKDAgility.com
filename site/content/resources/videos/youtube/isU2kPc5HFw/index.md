@@ -2,6 +2,7 @@
 title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
 description: Explore Azure DevOps through the eyes of a seasoned consultant. Gain insights on migration, tools, and real-world applications to enhance your team's productivity!
 date: 2024-07-31T09:21:03Z
+weight: 770
 ResourceId: isU2kPc5HFw
 ResourceType: videos
 ResourceImport: true

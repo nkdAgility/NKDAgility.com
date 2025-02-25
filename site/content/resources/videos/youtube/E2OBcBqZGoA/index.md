@@ -2,6 +2,7 @@
 title: 'Unlocking Agility: How Decentralisation Empowers Teams to Maximise Value in Any Organisation'
 description: Unlock your organisation's potential! Discover how decentralisation and team engagement can drive innovation and agility, maximising value in any business.
 date: 2023-09-28T11:09:12Z
+weight: 1000
 ResourceId: E2OBcBqZGoA
 ResourceType: videos
 ResourceImport: true

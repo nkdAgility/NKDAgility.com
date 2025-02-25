@@ -2,6 +2,7 @@
 title: 'Mastering Kanban: Creating a Pull-Based System for Workflow Efficiency'
 description: Unlock your team's potential with Kanban! Discover how pull-based principles enhance workflow efficiency, reduce waste, and boost productivity in this insightful video.
 date: 2024-03-05T07:00:18Z
+weight: 990
 ResourceId: hXieCawt-XE
 ResourceType: videos
 ResourceImport: true

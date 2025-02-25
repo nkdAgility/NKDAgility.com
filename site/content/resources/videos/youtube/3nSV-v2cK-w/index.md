@@ -2,6 +2,7 @@
 title: 'Unlocking the True Power of Agile: Embracing Change and Collaboration for Team Success'
 description: Discover the essence of Agile and Scrum! Learn how collaboration, adaptability, and value delivery can transform your team's success. Join the journey!
 date: 2023-07-13T07:38:00Z
+weight: 1000
 ResourceId: 3nSV-v2cK-w
 ResourceType: videos
 ResourceImport: true

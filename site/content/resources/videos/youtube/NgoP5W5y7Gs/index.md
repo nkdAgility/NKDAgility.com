@@ -2,6 +2,7 @@
 title: Security by Design Building Secure Software
 description: Learn to embed security from the start in software development. Join Martin Hinshelwood as he explores shifting left for resilient, secure software.
 date: 2024-11-26T13:35:33Z
+weight: 415
 ResourceId: NgoP5W5y7Gs
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'Mastering Agile in a Distributed World: Tools and Strategies for Effective Team Management'
 description: Discover effective strategies for managing distributed teams in Agile and DevOps. Explore essential tools and tips to enhance collaboration and continuous improvement!
 date: 2020-04-10T18:35:30Z
+weight: 1000
 ResourceId: isdope3qkx4
 ResourceType: videos
 ResourceImport: true

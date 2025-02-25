@@ -2,6 +2,7 @@
 title: 7 Harbingers of the Agile apocalypse - Silence
 description: "Uncover the silence in agile teams! Join Martin as he explores stakeholder engagement and communication strategies for effective Sprint reviews. \U0001F5E3️\U0001F91D"
 date: 2023-10-23T11:00:23Z
+weight: 685
 ResourceId: YuKD3WWFJNQ
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: Agile Training versus Agile Consulting
 description: "Discover the key differences between agile training and coaching with Martin Hinshelwood. Elevate your team's performance with Naked Agility! #Agile #Scrum #Shorts"
 date: 2023-09-07T07:00:08Z
+weight: 1000
 ResourceId: GS2If-vQ9ng
 ResourceType: videos
 ResourceImport: true

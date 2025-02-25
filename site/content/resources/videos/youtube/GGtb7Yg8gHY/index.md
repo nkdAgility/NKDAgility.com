@@ -2,6 +2,7 @@
 title: 'Navigating Team Conflict: From Healthy Disagreement to Agile Harmony'
 description: Discover how to identify and de-escalate team conflict in Agile. Learn strategies to transform disagreements into opportunities for collaboration and innovation.
 date: 2023-11-07T11:30:07Z
+weight: 775
 ResourceId: GGtb7Yg8gHY
 ResourceType: videos
 ResourceImport: true

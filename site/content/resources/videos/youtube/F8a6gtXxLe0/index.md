@@ -2,6 +2,7 @@
 title: "Embracing Process Improvement: How Understanding Scrum Transformed a Developer's Mindset"
 description: Discover how embracing Scrum can transform your team's workflow. Learn from Dave Fresh's journey and unlock the power of process awareness for better collaboration!
 date: 2017-07-27T19:14:11Z
+weight: 1000
 ResourceId: F8a6gtXxLe0
 ResourceType: videos
 ResourceImport: true

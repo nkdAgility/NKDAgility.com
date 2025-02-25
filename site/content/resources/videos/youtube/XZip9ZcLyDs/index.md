@@ -2,6 +2,7 @@
 title: Why is becoming a Scrum Master a great career option?
 description: "Unlock your leadership potential! Discover why becoming a Scrum Master is a transformative career move for aspiring leaders in this insightful video. \U0001F31F\U0001F680"
 date: 2023-03-30T07:00:10Z
+weight: 765
 ResourceId: XZip9ZcLyDs
 ResourceType: videos
 ResourceImport: true

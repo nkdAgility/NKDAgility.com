@@ -2,6 +2,7 @@
 title: Why is Kanban becoming increasingly popular in creative industries?
 description: Explore why Kanban is gaining traction in creative industries! Discover its adaptability, core principles, and how it enhances workflow efficiency.
 date: 2024-02-13T07:00:14Z
+weight: 995
 ResourceId: MDpthtdJgNk
 ResourceType: videos
 ResourceImport: true

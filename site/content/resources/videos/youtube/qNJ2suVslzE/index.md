@@ -2,6 +2,7 @@
 title: 'Transforming Scope Creep into Success: Embrace Agility and Deliver Value in a Changing Market'
 description: Struggling with scope creep? Discover how embracing Agile principles can help you adapt to change, prioritise value, and enhance your product delivery.
 date: 2024-12-04T06:00:00Z
+weight: 775
 ResourceId: qNJ2suVslzE
 ResourceType: videos
 ResourceImport: true

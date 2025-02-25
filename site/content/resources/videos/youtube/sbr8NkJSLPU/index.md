@@ -2,6 +2,7 @@
 title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
 description: Unlock your team's potential by mastering Kanban! Discover how defining and visualising your workflow can boost clarity, alignment, and efficiency.
 date: 2024-02-27T07:00:31Z
+weight: 1000
 ResourceId: sbr8NkJSLPU
 ResourceType: videos
 ResourceImport: true

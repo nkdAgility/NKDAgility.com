@@ -2,6 +2,7 @@
 title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Success'
 description: Unlock your team's potential by ensuring they grasp the product vision and strategic goals. Discover practical steps to foster alignment and agility!
 date: 2024-07-03T06:45:00Z
+weight: 770
 ResourceId: 2tlzlsgovy0
 ResourceType: videos
 ResourceImport: true

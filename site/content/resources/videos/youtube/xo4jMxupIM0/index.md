@@ -2,6 +2,7 @@
 title: 'Unlocking the Power of Double-Loop Learning: Transform Your Scrum Master Journey with Immersive Training'
 description: Unlock your Scrum potential with immersive learning! Discover double-loop learning, diverse perspectives, and collaborative solutions in our PSM class.
 date: 2023-11-20T07:51:59Z
+weight: 775
 ResourceId: xo4jMxupIM0
 ResourceType: videos
 ResourceImport: true

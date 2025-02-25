@@ -2,6 +2,7 @@
 title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
 description: Navigate the complexities of software development with insights on technical leadership and Agile principles. Discover how to turn challenges into opportunities!
 date: 2024-12-02T06:00:00Z
+weight: 265
 ResourceId: h3J11t10A0g
 ResourceType: videos
 ResourceImport: true

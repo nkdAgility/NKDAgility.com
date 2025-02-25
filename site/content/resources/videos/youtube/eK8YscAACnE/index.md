@@ -2,6 +2,7 @@
 title: "Ditching Agile Banditry: Why Story Points and Velocity Metrics Are Undermining Your Team's Success"
 description: Ditch the agile banditry! Discover how to replace story points and velocity with objective metrics that empower teams and enhance collaboration.
 date: 2024-01-08T11:00:37Z
+weight: 770
 ResourceId: eK8YscAACnE
 ResourceType: videos
 ResourceImport: true

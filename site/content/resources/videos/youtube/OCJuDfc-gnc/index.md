@@ -2,6 +2,7 @@
 title: 'Scaling Agility: Navigating the Dragons of Change in the Future of Work'
 description: Join me tonight at the Future of Work meetup to explore "Scaling Dragons" in agility. Discover key practices, metrics, and insights for large-scale teams!
 date: 2020-03-25T16:17:15Z
+weight: 1000
 ResourceId: OCJuDfc-gnc
 ResourceType: videos
 ResourceImport: true

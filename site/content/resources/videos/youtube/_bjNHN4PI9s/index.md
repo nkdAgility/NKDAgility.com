@@ -2,6 +2,7 @@
 title: 'Maximise Your Virtual Classroom Experience: Essential Tech Tips for Scrum Training'
 description: Unlock the secrets to effective virtual classrooms! Discover how Microsoft Teams and Mural can enhance your learning experience in my latest blog post.
 date: 2020-05-02T16:34:05Z
+weight: 1000
 ResourceId: _bjNHN4PI9s
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
 description: Join our Business Agility Raw sessions for dynamic discussions, actionable insights, and a vibrant community. Mark your calendar for the fourth Wednesday!
 date: 2022-07-27T18:45:14Z
+weight: 775
 ResourceId: bvCU_N6iY_4
 ResourceType: videos
 ResourceImport: true

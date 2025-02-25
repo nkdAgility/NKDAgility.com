@@ -2,6 +2,7 @@
 title: How did you come to be a preferred Scrum training supplier for Microsoft?
 description: Discover how Martin Hinshelwood became the preferred Scrum training supplier for Microsoft, empowering their agile journey in product development.
 date: 2023-05-10T07:00:17Z
+weight: 1000
 ResourceId: tUC5TainG2E
 ResourceType: videos
 ResourceImport: true

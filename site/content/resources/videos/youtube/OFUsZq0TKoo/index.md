@@ -2,6 +2,7 @@
 title: 'Transform Your Product Development: Unlock User Value, Reduce Waste, and Enhance Collaboration with Structured Learning'
 description: Transform your product development journey with structured learning! Discover how to enhance user value, reduce waste, and boost collaboration in this insightful course.
 date: 2024-08-27T07:07:18Z
+weight: 1000
 ResourceId: OFUsZq0TKoo
 ResourceType: videos
 ResourceImport: true

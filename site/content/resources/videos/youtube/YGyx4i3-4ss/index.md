@@ -2,6 +2,7 @@
 title: 'Unlocking User Insights: The Key to Meaningful Software Development'
 description: Unlock the secrets to truly understanding your users! Discover how to differentiate between user feedback and real needs for impactful software development.
 date: 2024-08-09T05:39:57Z
+weight: 1000
 ResourceId: YGyx4i3-4ss
 ResourceType: videos
 ResourceImport: true
