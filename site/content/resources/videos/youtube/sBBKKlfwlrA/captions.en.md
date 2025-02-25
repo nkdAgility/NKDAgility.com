@@ -1,0 +1,11 @@
+The scaled professional scrum is a hands-on activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling scrum. Even after achieving success with scrum, teams are still limited by the amount of work they can do and the value they can create. They need to expand or scale to groups of scrum teams working together on the same product.
+
+With doing so, they encounter common challenges with cross-team dependencies, self-management, transparency, and accountability. When introducing heavyweight scaling methodologies, teams often find that the added overhead slows them down and distracts them from the essence and benefits of scrum. The scaled professional scrum with nexus class builds on the nexus framework by introducing complementary practices and techniques proven to help teams at scale.
+
+The course also includes a free attempt at the globally recognized scaled professional scrum certification exam. Our training is delivered as an interactive activity-based course over half-day sessions using Microsoft Teams and Mural. Students work together in a nexus to organise and simulate a scaled product development project.
+
+Throughout this case study-based class, common challenges in scaling are presented and more than 50 practices for overcoming them are revealed. Students will develop an understanding of how to launch, structure, organise, and manage a large agile project using scrum. They will leave the class with a toolbox of techniques for identifying and overcoming common scaling challenges.
+
+Between each of the daily sessions, we provide additional reading, writing, and watching activities to maximise the learning opportunity and complement the classroom experience. After the conclusion of the class, we provide access to a community of peers and continued access to the trainer through office hours, quarterly catch-ups, and constant engagement to maximise validated learning.
+
+All students are provided with a password to take the SPS assessment, and if they take it within 14 days and are unsuccessful, they will be granted a second attempt as part of our validated learning experience. We provide a 30-minute learning review, a one-hour coaching session, and access to future courses at a 30% discount.

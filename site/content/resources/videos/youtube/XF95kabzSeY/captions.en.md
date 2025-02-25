@@ -1,0 +1,5 @@
+What you need to do is you need to fill that vacuum and as a new product owner this is the key part for you to understand as well as for you to be able to engage and communicate to other people in the organization up up down sideways whatever it is.
+
+Do you understand the vision of your product? Do you understand what it's trying to achieve? If you don't, that's step number one. Figure out what the value is in your product. What's the vision? Right? What is it you're trying to achieve? Where are you going? What's your North Star?
+
+Once you've figured out that, once you've figured out that and you can communicate it, right, you have to learn to speak in front of people and engage people in that story because you need to engage them in that story. Then you need to think about the value that you're going to deliver. Are the things that you're delivering in the product actually serving that vision? Are they working towards that vision? What is it that you're trying to achieve?

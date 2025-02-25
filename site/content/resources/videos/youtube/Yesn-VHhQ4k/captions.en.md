@@ -1,0 +1,29 @@
+But why does agile focus on values and principles instead of a predefined set of steps? 
+
+Um, because there's no predefined set of steps that will get the same outcome every time in an agile space. So that's where we start having that conversation about the difference between, and however people want to phrase it, right? Because there's different stories about how you would articulate this. But the way I articulate it is that you've got complicated work, right? So this is about the work that we're doing. We've got complicated work, and if we apply best practices or good practices, we can turn this into something simple, right? 
+
+So that's like, um, whenever you go, let's say you want to do some DIY in the house, uh, DIY, do it yourself in the house, uh, you want to do some home improvements, and you don't know how to safely remove the u-bend in the sink. You don't know how to do that. I guarantee you, you can go to YouTube and type in "remove u-bend in sink," hit enter, and you'll find 20 YouTube videos. You'll watch three of them, and now it's a simple problem. It's not a complex, a complicated problem at all anymore, right? Because you know how to do it. You could probably even find a video that has the exact same fixings as you have on your sink, right, if you watched a few of those videos. 
+
+These are not hard tasks if you know how to do them. They're only hard because you don't know how to do them. You don't have the knowledge. You've got this complicated work that when you apply knowledge, it becomes simple, right? But then you've got this other type of work, which is any time you're building stuff that doesn't exist yet. 
+
+Right? If you're building something that doesn't exist yet, there's no predefined set of rules yet. Somebody has to design the thing, and then we create a predefined set of rules. Like if you wanted to design a brand new car platform, um, you're not gonna, it's not complicated, it's complex because you don't know what the outcome is going to be. 
+
+Um, but once you've built it, you can then create a production line and serve out lots of them. That's you turning that complex problem of designing the new product. Okay, now we've got the complicated problem of building the new product. We create the production line, and then we generate lots of lots of things off it. 
+
+But in the complex space, every single thing we do is complex. Every single thing we do is something that we've not done before. So if you're, um, writing code, right, you don't go write code that you've written before because there would be no point. It's been written before. So you would package it up in a little framework, and you would reuse that little framework on a constant basis. So then that's not complex work, but everything you're doing to wire up that thing is complex work. 
+
+Everything we do in software is brand new. Anytime you're developing a product that doesn't exist yet, there are no best practices. There are only emergent practices. Like what's the right thing just now for what we understand just now? Tomorrow it might be different. In fact, in a couple of hours, it might be different, right? Because it's changing so much. 
+
+And the thing that happens in this space, you can't make this complicated, right? You can't make it complicated. There's no change between that. And what happens in this space is we get lots of surprises, right? And some of them are positive surprises that we want to go grab and take advantage of, and some of them are negative surprises that we want to make sure that we don't get, you know, don't get messed up by that particular surprise. 
+
+Loads of those types of things in the software world, but in almost any industry, when you're building brand new products, you're going to have surprises, right? Things aren't like you expect them to be for whatever reason, or something happens, the impacts on what it is that you're doing. 
+
+So the reason that agile focuses on those values and principles is that you and your team and your company need the tools to be able to adapt to any circumstance. Whereas as soon as you write down a way to do things, like here's a step-by-step guide on how to do it, and then the world changes, right? Your world of how it's going to work changes. It's actually harder to adapt to this because you're like, but I'm following this set of steps, right? I want to follow this, and this one's failing. Why is this failing now? 
+
+Well, it's because the world's changed. And when we enshrine things in, here's a way of doing something, here's one way that you should do this, we suddenly hit that problem of we want to keep doing it that way, and it's harder to change. Whereas, so we focus on values and principles so we don't enshrine. If the word I normally use for these enshrined things is bureaucracy, right? The way we work, you don't enshrine them in the bureaucracy, and you keep yourself nimble and adaptable. 
+
+And then hopefully what you'll learn is to document and create processes for the things that you can move into that complicated space, i.e., we've built something, we need a process for resetting users' passwords. We've built a system, here's the process to interact with the system. But if we're adding new things to this system, we don't need the bureaucracy in order to handle how we're doing that because we want to be dynamic and adaptable. 
+
+But then over here in using the thing, we can have the documentation, and we can have the processes and the rules on how to do that. 
+
+So that's why we focus on values and principles and not just a set of rules.
