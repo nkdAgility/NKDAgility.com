@@ -8,6 +8,7 @@ ResourceImportId: 9075
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-02
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,7 +27,7 @@ tags:
 categories:
 - Scrum
 - Product Management
-- Social Technologies
+- DevOps
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

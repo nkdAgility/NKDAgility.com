@@ -8,6 +8,7 @@ ResourceImportId: 4116
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-18
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,11 +31,11 @@ tags:
 - Scrum Product Development
 - Agile Product Management
 - Agile Project Management
-- Professional Scrum
 - Scrum Team
+- Professional Scrum
 - Software Development
-- Agile Frameworks
 - Agile Transformation
+- Agile Frameworks
 - Transparency
 categories:
 - Scrum

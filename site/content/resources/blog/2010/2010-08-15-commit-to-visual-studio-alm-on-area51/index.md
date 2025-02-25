@@ -8,6 +8,7 @@ ResourceImportId: 31
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-08-15
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,11 +25,11 @@ aliasesFor404:
 tags:
 - Team Collaboration
 - News and Reviews
-- Modern Source Control
-- Software Development
-- Azure DevOps
-- Miscellaneous
 - Application Lifecycle Management
+- Miscellaneous
+- Software Development
+- Modern Source Control
+- Azure DevOps
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

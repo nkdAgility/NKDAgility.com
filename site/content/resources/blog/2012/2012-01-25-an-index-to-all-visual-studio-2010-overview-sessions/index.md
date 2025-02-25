@@ -8,6 +8,7 @@ ResourceImportId: 4128
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,9 +27,9 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview-webcasts
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
-- Software Development
-- Events and Presentations
 - Application Lifecycle Management
+- Events and Presentations
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - DevOps

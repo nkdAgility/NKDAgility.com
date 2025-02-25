@@ -24,6 +24,7 @@ videos:
 - title: 'Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps'
   embed: https://www.youtube.com/embed/5bgcpPqcGlw
 date: 2024-09-17
+weight: 430
 creator: Martin Hinshelwood
 card:
   button:

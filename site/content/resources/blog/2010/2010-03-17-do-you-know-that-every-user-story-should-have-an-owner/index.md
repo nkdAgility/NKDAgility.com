@@ -8,6 +8,7 @@ ResourceImportId: 61
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-17
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,11 +29,11 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Scrum Team
-- Team Collaboration
-- Team Performance
-- Software Development
 - People and Process
+- Team Performance
 - Agile Product Management
+- Software Development
+- Team Collaboration
 - Agile Project Management
 - Accountability
 - Pragmatic Thinking

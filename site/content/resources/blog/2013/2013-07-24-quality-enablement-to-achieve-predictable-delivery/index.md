@@ -8,6 +8,7 @@ ResourceImportId: 9737
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-24
+weight: 415
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,13 +26,13 @@ tags:
 - Operational Practices
 - Acceptance Test Driven Development
 - Definition of Done
-- Value Delivery
 - Working Software
-- Software Development
-- Software Developers
 - Product Delivery
+- Software Developers
+- Software Development
+- Value Delivery
+- Evidence Based Management
 - Continuous Delivery
-- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 - DevOps

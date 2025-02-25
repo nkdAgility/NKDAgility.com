@@ -8,6 +8,7 @@ ResourceImportId: 3736
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-25
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,10 +27,10 @@ aliasesFor404:
 - /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
+- Install and Configuration
 - Troubleshooting
+- Software Development
 categories: []
 
 ---

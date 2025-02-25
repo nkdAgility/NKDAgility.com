@@ -8,6 +8,7 @@ ResourceImportId: 3279
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-30
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,12 +26,12 @@ tags:
 - System Configuration
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---

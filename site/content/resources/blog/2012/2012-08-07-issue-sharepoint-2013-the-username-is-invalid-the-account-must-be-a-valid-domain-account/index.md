@@ -8,6 +8,7 @@ ResourceImportId: 7015
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-07
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Troubleshooting
 categories: []
 preview: metro-problem-icon-5-5.png

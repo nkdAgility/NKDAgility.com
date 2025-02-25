@@ -8,6 +8,7 @@ ResourceImportId: 7744
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-28
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,13 +29,13 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 tags:
-- Modern Source Control
-- Software Development
-- Install and Configuration
-- System Configuration
 - Troubleshooting
-- Technical Mastery
 - Practical Techniques and Tooling
+- Technical Mastery
+- Install and Configuration
+- Software Development
+- Modern Source Control
+- System Configuration
 categories: []
 preview: metro-problem-icon-4-4.png
 

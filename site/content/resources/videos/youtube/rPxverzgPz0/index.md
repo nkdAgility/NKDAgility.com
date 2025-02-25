@@ -2,6 +2,7 @@
 title: Would you recommend the APS course to a newbie scrum team, and Why?
 description: 'Discover how the APS course can empower your newbie Scrum team to create value and thrive in an Agile environment. Watch now! #Scrum #Agile #Training'
 date: 2023-03-23T07:00:15Z
+weight: 775
 ResourceId: rPxverzgPz0
 ResourceType: videos
 ResourceImport: true
@@ -30,15 +31,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Change
-- Scrum Team
 - Organisational Agility
-- Team Collaboration
-- Agile Transformation
-- Agile Project Management
+- Scrum Team
+- Organisational Change
 - People and Process
-- Change Management
+- Agile Transformation
+- Team Collaboration
 - Agile Frameworks
+- Agile Project Management
+- Scrum Product Development
 - Products and Books
 resourceTypes:
 - video

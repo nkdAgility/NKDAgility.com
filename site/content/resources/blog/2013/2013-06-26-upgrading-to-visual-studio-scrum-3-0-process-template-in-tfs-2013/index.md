@@ -8,6 +8,7 @@ ResourceImportId: 9913
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,13 +26,13 @@ tags:
 - Agile Project Management
 - Install and Configuration
 - Products and Books
+- Practical Techniques and Tooling
 - System Configuration
 - Agile Frameworks
-- Practical Techniques and Tooling
+- Operational Practices
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Azure DevOps
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

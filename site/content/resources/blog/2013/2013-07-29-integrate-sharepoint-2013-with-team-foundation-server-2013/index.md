@@ -8,6 +8,7 @@ ResourceImportId: 9916
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-29
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,11 +24,11 @@ aliasesFor404:
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2013
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Troubleshooting
 - Software Development
 - Azure DevOps
-- Troubleshooting
 - Windows
 - Application Lifecycle Management
 categories:

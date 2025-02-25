@@ -2,6 +2,7 @@
 title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 description: "Discover how to avoid rigid product ownership in Agile! Join Martin as he shares insights on fostering team engagement and achieving true Agile success. \U0001F680"
 date: 2024-01-10T07:00:11Z
+weight: 1000
 ResourceId: EoInrPvjBHo
 ResourceType: videos
 ResourceImport: true
@@ -29,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Management
-- Product Owner
-- Agile Project Management
 - Agile Product Operating Model
+- Agile Product Management
+- Agile Project Management
+- Product Owner
 - Team Motivation
 - Employee Engagement
 - Personal

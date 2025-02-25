@@ -8,6 +8,7 @@ ResourceImportId: 9714
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-24
+weight: 270
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ tags:
 - Product Delivery
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

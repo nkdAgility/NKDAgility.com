@@ -8,6 +8,7 @@ ResourceImportId: 10334
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-20
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +25,8 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: metro-server-instances_thumb-2-2.png
 

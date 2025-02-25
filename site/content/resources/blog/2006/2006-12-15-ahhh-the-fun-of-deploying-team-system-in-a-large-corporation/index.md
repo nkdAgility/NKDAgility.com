@@ -8,6 +8,7 @@ ResourceImportId: 447
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-12-15
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,11 +34,11 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - DevOps
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
+- Software Development
 
 ---
 I can see that this project is going to be fun. I need to deploy team system within the investment bank that I work for. The DBA's will not let me access their servers! And the TFS installation needs to be run on them.

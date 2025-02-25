@@ -8,6 +8,7 @@ ResourceImportId: 3361
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,13 +26,13 @@ tags:
 - Software Development
 - Install and Configuration
 - System Configuration
+- Practical Techniques and Tooling
 - Platform Engineering
 - Internal Developer Platform
-- Practical Techniques and Tooling
+- Technical Mastery
+- Operational Practices
 - Windows
 - Technical Excellence
-- Azure DevOps
-- Technical Mastery
 categories:
 - DevOps
 

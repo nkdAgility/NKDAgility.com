@@ -2,6 +2,7 @@
 title: 'Transforming Technical Debt: Unlocking Innovation and Value Through Quality Product Delivery'
 description: Unlock the potential of your team by tackling technical debt! Discover how prioritising quality can drive innovation and enhance value delivery.
 date: 2024-11-21T17:01:52Z
+weight: 455
 ResourceId: FFrTLuRhyVo
 ResourceType: videos
 ResourceImport: true

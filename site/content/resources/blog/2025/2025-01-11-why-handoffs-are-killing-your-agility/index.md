@@ -5,6 +5,7 @@ ResourceId: pDvDdIEi9sj
 ResourceType: blog
 ResourceImport: false
 date: 2025-01-13
+weight: 220
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -20,13 +21,13 @@ aliasesFor404:
 tags:
 - Software Development
 - Operational Practices
+- Business Agility
+- Agile Project Management
 - Team Collaboration
 - Software Developers
-- Organisational Agility
-- Business Agility
 - Cross Functional Teams
 - Product Delivery
-- Agile Project Management
+- Organisational Agility
 - Value Delivery
 categories:
 - DevOps

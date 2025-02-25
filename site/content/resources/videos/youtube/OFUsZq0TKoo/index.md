@@ -2,6 +2,7 @@
 title: 'Transform Your Product Development: Unlock User Value, Reduce Waste, and Enhance Collaboration with Structured Learning'
 description: Transform your product development journey with structured learning! Discover how to enhance user value, reduce waste, and boost collaboration in this insightful course.
 date: 2024-08-27T07:07:18Z
+weight: 1000
 ResourceId: OFUsZq0TKoo
 ResourceType: videos
 ResourceImport: true
@@ -22,16 +23,16 @@ preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 isShort: false
 tags:
-- Discovery and Learning
 - People and Process
-- Product Discovery
+- Discovery and Learning
 - Lean Product Development
-- Evidence Based Leadership
-- Hypothesis Driven Development
-- Product Validation
-- Value Delivery
+- Product Discovery
 - Pragmatic Thinking
-- Continuous Learning
+- Hypothesis Driven Development
+- Value Delivery
+- Product Validation
+- Evidence Based Leadership
+- Experimentation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

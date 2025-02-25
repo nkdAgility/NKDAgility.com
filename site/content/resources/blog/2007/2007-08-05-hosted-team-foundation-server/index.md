@@ -8,6 +8,7 @@ ResourceImportId: 342
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-05
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,14 +24,14 @@ aliasesFor404:
 - /resources/blog/hosted-team-foundation-server
 tags:
 - Products and Books
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - News and Reviews
-- Modern Source Control
-- Software Developers
-- Azure DevOps
 - Troubleshooting
 - Application Lifecycle Management
+- Software Developers
+- Modern Source Control
+- Azure DevOps
 categories: []
 
 ---

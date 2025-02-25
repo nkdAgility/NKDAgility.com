@@ -2,6 +2,7 @@
 title: 'Training: A Bridge to Knowledge and Growth'
 description: "Unlock your team's potential! Discover 3 key strategies for agile leaders to uplift underperforming teams in this insightful video. \U0001F331\U0001F680"
 date: 2023-10-27T07:00:14Z
+weight: 405
 ResourceId: _2ZH7vbKu7Y
 ResourceType: videos
 ResourceImport: true
@@ -32,14 +33,14 @@ sitemap:
 tags:
 - People and Process
 - Personal
-- Continuous Learning
 - Discovery and Learning
+- Continuous Learning
 - Resilience and Change
-- Team Motivation
 - Pragmatic Thinking
 - Agile Leadership
 - Organisational Change
-- Technical Leadership
+- Team Collaboration
+- Team Motivation
 categories:
 - Leadership
 

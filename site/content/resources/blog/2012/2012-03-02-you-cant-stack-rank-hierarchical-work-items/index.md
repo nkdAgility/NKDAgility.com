@@ -8,6 +8,7 @@ ResourceImportId: 4773
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-02
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +30,13 @@ tags:
 - Scrum Product Development
 - Software Development
 - Product Backlog
-- Professional Scrum
-- Software Developers
 - Agile Product Management
 - Practical Techniques and Tooling
-- Azure Boards
-- Azure DevOps
+- Software Developers
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
+- Azure Boards
 categories:
 - Social Technologies
 - Scrum

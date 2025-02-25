@@ -25,6 +25,7 @@ references:
 recommendedContent: 
 videos: 
 date: 2024-09-17
+weight: 545
 creator: Martin Hinshelwood
 card:
   button:
@@ -38,10 +39,10 @@ tags:
 - Evidence Based Management
 - Ability to Innovate
 - Value Delivery
-- Evidence Based Leadership
 - Metrics and Learning
-- Experimentation
 - Decision Making
+- Experimentation
+- Evidence Based Leadership
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

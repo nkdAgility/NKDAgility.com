@@ -8,6 +8,7 @@ ResourceImportId: 224
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-20
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,11 +24,11 @@ aliasesFor404:
 - /resources/blog/change-of-plan
 tags:
 - Code and Complexity
-- Software Development
-- Pragmatic Thinking
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
 - Working Software
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

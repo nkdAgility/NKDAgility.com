@@ -8,6 +8,7 @@ ResourceImportId: 50083
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-27
+weight: 685
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,12 +31,12 @@ tags:
 - Transparency
 - Definition of Done
 - Scrum Product Development
-- Professional Scrum
-- Transparency and Accountability
 - Product Delivery
+- Transparency and Accountability
+- Professional Scrum
 - Working Software
-- Software Development
 - Agile Project Management
+- Software Development
 - Increment
 categories:
 - Scrum

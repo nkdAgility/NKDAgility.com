@@ -2,6 +2,7 @@
 title: 'Taming the Chaos Factor: How to Align Your Agile Teams for Success'
 description: Discover how to combat chaos in Agile teams! Learn key strategies to align goals, enhance communication, and boost morale for a more productive environment.
 date: 2023-11-09T10:45:01Z
+weight: 775
 ResourceId: ItvOiaC32Hs
 ResourceType: videos
 ResourceImport: true
@@ -22,9 +23,9 @@ preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Agile Strategy
-- Strategic Goals
 - People and Process
+- Strategic Goals
+- Agile Strategy
 - Strategy
 - Sociotechnical Systems
 - Team Motivation

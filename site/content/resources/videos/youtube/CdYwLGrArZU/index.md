@@ -2,6 +2,7 @@
 title: Most Common Thing You Hear in a PSPO Course?
 description: 'Discover the most common insights from Martin Hinshelwood in a PSPO course! Join us for a quick dive into agile excellence. #PSPO #Agile #Scrum #Shorts'
 date: 2023-06-29T11:00:18Z
+weight: 775
 ResourceId: CdYwLGrArZU
 ResourceType: videos
 ResourceImport: true
@@ -33,9 +34,9 @@ tags:
 - People and Process
 - Agile Product Management
 - Product Owner
+- Agile Project Management
 - Pragmatic Thinking
 - Personal
-- Agile Project Management
 resourceTypes:
 - video
 categories:

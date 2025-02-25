@@ -2,6 +2,7 @@
 title: 'Unlocking Code Quality: The Transformative Power of Frequent Deployments'
 description: Unlock the secret to better code quality! Discover how frequent deployments enhance user feedback, reduce technical debt, and boost team confidence.
 date: 2025-01-13T06:45:00Z
+weight: 360
 ResourceId: D1wz-J1jklQ
 ResourceType: videos
 ResourceImport: true

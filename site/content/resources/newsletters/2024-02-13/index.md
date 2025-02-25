@@ -5,6 +5,7 @@ ResourceId: hz-iCoxHxxa
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-02-13
+weight: 775
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -21,13 +22,13 @@ categories:
 - Social Technologies
 tags:
 - Agile Project Management
+- People and Process
 - Products and Books
 - Events and Presentations
-- People and Process
 - Software Development
 - Agile Product Management
-- Agile Transformation
 - Practical Techniques and Tooling
+- Agile Transformation
 - Pragmatic Thinking
 
 ---

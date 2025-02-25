@@ -2,6 +2,7 @@
 title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 description: Discover the pitfalls of self-taught learning and the power of diverse insights in consulting. Embrace continuous learning for better solutions!
 date: 2024-08-22T07:00:08Z
+weight: 550
 ResourceId: DvW-xwxufa0
 ResourceType: videos
 ResourceImport: true
@@ -36,8 +37,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 In today’s fast-paced digital landscape, the concept of self-taught learning is more prevalent than ever. However, as we dive deeper into the realms of software development, DevOps, and organizational transformation, it's crucial to recognize the limitations that come with learning in isolation. While self-taught knowledge has its merits, there are significant benefits to bringing in external expertise. This post explores the importance of diverse knowledge and how it can help organizations break through the barriers that self-taught learning often creates.

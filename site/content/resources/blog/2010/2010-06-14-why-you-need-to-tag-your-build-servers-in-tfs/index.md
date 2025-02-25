@@ -8,6 +8,7 @@ ResourceImportId: 40
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-14
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,16 +23,16 @@ aliasesFor404:
 - /blog/why-you-need-to-tag-your-build-servers-in-tfs
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
-- Software Developers
 - Install and Configuration
-- Software Development
+- Software Developers
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
-- Azure Pipelines
+- Software Development
 - Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
+- Continuous Integration
+- Technical Excellence
+- System Configuration
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - DevOps

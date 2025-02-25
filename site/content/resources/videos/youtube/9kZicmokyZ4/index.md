@@ -2,6 +2,7 @@
 title: The Importance of Evidence-Based Management in Agile Environments
 description: 'Discover 5 compelling reasons to adopt Evidence-Based Management in your Agile environment. Transform your approach and drive measurable success! #EBM #Agile #Shorts'
 date: 2024-01-22T11:00:07Z
+weight: 775
 ResourceId: 9kZicmokyZ4
 ResourceType: videos
 ResourceImport: true
@@ -29,14 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Evidence Based Management
 - Metrics and Learning
+- Evidence Based Management
 - Value Delivery
-- Evidence Based Leadership
-- Pragmatic Thinking
-- Operational Practices
-- Decision Making
 - Empirical Process Control
+- Decision Making
+- Operational Practices
+- Pragmatic Thinking
+- Evidence Based Leadership
 - Ability to Innovate
 resourceTypes:
 - video

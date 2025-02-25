@@ -8,6 +8,7 @@ ResourceImportId: 45309
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-21
+weight: 770
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,15 +25,15 @@ aliasesFor404:
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags:
 - Experimentation
-- Agile Product Operating Model
 - Agile Project Management
 - Agile Product Management
-- Value Delivery
-- Resilience and Change
+- Agile Product Operating Model
+- Evidence Based Leadership
+- Ability to Innovate
 - Discovery and Learning
-- Product Delivery
 - People and Process
-- Evidence Based Management
+- Value Delivery
+- Change Management
 categories:
 - Product Management
 - Leadership

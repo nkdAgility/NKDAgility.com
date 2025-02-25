@@ -2,6 +2,7 @@
 title: '7 deadly sins of Agile: Wrath'
 description: "Explore the impact of wrath in agile teams! Discover how blame deflection and lack of accountability disrupt productivity. Watch now! \U0001F680\U0001F4CA"
 date: 2023-10-16T11:00:31Z
+weight: 775
 ResourceId: U18nA0YFgu0
 ResourceType: videos
 ResourceImport: true
@@ -32,12 +33,12 @@ tags:
 - People and Process
 - Organisational Culture
 - Transparency and Accountability
-- Agile Philosophy
 - Agile Project Management
+- Agile Philosophy
 - Personal
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

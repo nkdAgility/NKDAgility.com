@@ -8,6 +8,7 @@ ResourceImportId: 188
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-13
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/blog/sync-extension-for-listscollections-or-whatever
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

@@ -2,6 +2,7 @@
 title: 7 Harbingers of the Agile Apocalypse. Plague.
 description: "Explore the parallels between ancient myths and today's agile challenges as Martin tackles the plague of incompetent coaches. Join the journey! \U0001F32C️\U0001F412"
 date: 2023-10-20T07:00:23Z
+weight: 770
 ResourceId: UeisJt8U2_0
 ResourceType: videos
 ResourceImport: true
@@ -28,11 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - Software Development
 - Personal
 - Professional Scrum

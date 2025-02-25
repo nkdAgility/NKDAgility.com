@@ -1,4 +1,7 @@
 {{- $resources := .Site.GetPage "section" "resources" }}
+{{- $sortedPages := sort $resources.Pages ".Pages" "desc" }}
+
+
 <li class="nav-item dropdown dropdown-mega position-static">
   <a class="nav-link dropdown-toggle nkda-main-menu-top-item p-3" href="{{- $resources.Permalink }}" data-bs-toggle="dropdown" data-bs-auto-close="outside">{{- $resources.Title }}</a>
   <div class="dropdown-menu shadow">
@@ -8,30 +11,62 @@
           <div class="col-md-2">
             <h5>{{- $resources.Title }}</h5>
             <p>{{- $resources.Description }}</p>
+            <ul class="list-group">
+              {{- range $sortedPages }}
+                <li class="list-group-item">
+                  <a href="{{- .Permalink }}">{{- .Params.shorttitle }}</a>
+                </li>
+              {{- end }}
+            </ul>
           </div>
           <div class="col-md-10">
+            <h6>Recent</h6>
             <div class="row">
-              {{- $sortedPages := sort $resources.Pages ".Pages" "desc" }}
-              {{- range $sortedPages }}
-                {{- if and (not .Draft) (gt (len .Pages) 0) }}
+              {{ range first 10 (sort (where .Site.RegularPages "Type" "resources") "Date" "desc") }}
+                <div class="col-md-4">
+                  {{ if eq .Params.ResourceType "videos" }}
+                    <i class="fa-solid fa-video"></i>
+                  {{ else if eq .Params.ResourceType "blog" }}
+                    <i class="fa-solid fa-newspaper"></i>
+                  {{ else }}
+                    {{ .Params.ResourceType }}
+                  {{ end }}
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </div>
+              {{ end }}
+            </div>
+            <h6>Important</h6>
+            <div class="row">
+              {{ range first 10 (where .Site.RegularPages.ByWeight "Type" "resources") }}
+                <div class="col-md-4">
+                  {{ if eq .Params.ResourceType "videos" }}
+                    <i class="fa-solid fa-video"></i>
+                  {{ else if eq .Params.ResourceType "blog" }}
+                    <i class="fa-solid fa-newspaper"></i>
+                  {{ else }}
+                    {{ .Params.ResourceType }}
+                  {{ end }}
+                  <a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Weight }})</a>
+                </div>
+              {{ end }}
+            </div>
+            <div class="m-1">
+              <h6>Categories</h6>
+              <div class="row">
+                {{ range $category, $pages := .Site.Taxonomies.categories }}
                   <div class="col-md-4">
-                    <h6>{{- .Title }}</h6>
-                    <ul class="list-group">
-                      <li class="list-group-item">
-                        <a href="{{- .Permalink }}">Overview</a>
-                      </li>
-                      {{- range first 5 .Pages }}
-                        {{- if not .Draft }}
-                          <li class="list-group-item">
-                            <a href="{{- .Permalink }}">{{- with .Params.card }}{{- .title }}{{- else }}{{- .Title }}{{- end }}</a>
-                          </li>
-                        {{- end }}
-                      {{- end }}
-                    </ul>
+                    <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ len $pages }})</a>
                   </div>
-                {{- end }}
-
-              {{- end }}
+                {{ end }}
+              </div>
+            </div>
+            <h6>Tags</h6>
+            <div class="row">
+              {{ range $category, $pages := .Site.Taxonomies.tags }}
+                <div class="col-md-4">
+                  <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ len $pages }})</a>
+                </div>
+              {{ end }}
             </div>
           </div>
         </div>

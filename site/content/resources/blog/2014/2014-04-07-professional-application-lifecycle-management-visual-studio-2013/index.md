@@ -8,6 +8,7 @@ ResourceImportId: 10482
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-07
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +29,9 @@ aliasesFor404:
 tags:
 - Products and Books
 categories:
-- Social Technologies
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

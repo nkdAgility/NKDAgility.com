@@ -2,6 +2,7 @@
 title: '7 deadly sins of Agile: Pride'
 description: "Explore the dual nature of pride in Agile! Learn to harness it wisely while avoiding costly pitfalls. Join Martin for insights on data-driven success. \U0001F4CA\U0001F6AB"
 date: 2023-10-13T07:00:05Z
+weight: 1000
 ResourceId: BDFrmCV_c68
 ResourceType: videos
 ResourceImport: true
@@ -34,10 +35,10 @@ tags:
 - Agile Product Management
 - Product Owner
 - Value Delivery
-- Evidence Based Leadership
+- Decision Making
 - Hypothesis Driven Development
 - Experimentation
-- Decision Making
+- Evidence Based Leadership
 resourceTypes:
 - video
 categories:

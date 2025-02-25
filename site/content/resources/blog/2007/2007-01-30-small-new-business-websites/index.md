@@ -8,6 +8,7 @@ ResourceImportId: 441
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +28,9 @@ aliasesFor404:
 - /resources/blog/small-new-business-websites
 tags:
 - Estimation
-- Software Development
 - Troubleshooting
 - Entrepreneurship
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

@@ -8,6 +8,7 @@ ResourceImportId: 10094
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-04
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,15 +31,15 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 tags:
-- Scrum Product Development
-- Professional Scrum
-- Software Development
 - People and Process
+- Scrum Product Development
+- Software Development
+- Professional Scrum
 - Products and Books
 - Events and Presentations
-- Agile Frameworks
 - Agile Project Management
 - Agile Transformation
+- Agile Frameworks
 - Software Developers
 categories:
 - Scrum

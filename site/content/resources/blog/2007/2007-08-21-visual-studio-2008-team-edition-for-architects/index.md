@@ -8,6 +8,7 @@ ResourceImportId: 324
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-21
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/visual-studio-2008-team-edition-for-architects
 - /resources/blog/visual-studio-2008-team-edition-for-architects
 tags:
-- Software Development
 - Application Lifecycle Management
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

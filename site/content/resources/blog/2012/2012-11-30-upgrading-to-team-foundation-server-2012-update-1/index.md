@@ -8,6 +8,7 @@ ResourceImportId: 9161
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-30
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,10 +25,10 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Products and Books
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
+- System Configuration
 - Release Management
+- Software Development
 - Windows
 - Azure DevOps
 categories: []

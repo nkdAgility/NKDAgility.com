@@ -2,6 +2,7 @@
 title: 'Unlocking Success: The Essential Role of Product Ownership in Lean Product Delivery'
 description: Discover the evolving role of product ownership in lean delivery. Learn how to align goals, enhance collaboration, and adapt to change for success!
 date: 2023-09-28T09:01:38Z
+weight: 1000
 ResourceId: UW26aDoBVbQ
 ResourceType: videos
 ResourceImport: true
@@ -23,8 +24,8 @@ duration: 31
 isShort: true
 tags:
 - Lean Product Development
-- Product Delivery
 - Product Owner
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

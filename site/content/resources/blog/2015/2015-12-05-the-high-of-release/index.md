@@ -8,6 +8,7 @@ ResourceImportId: 11398
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-12-05
+weight: 410
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,14 +25,14 @@ aliasesFor404:
 tags:
 - Events and Presentations
 - Product Delivery
-- Practical Techniques and Tooling
 - Azure Pipelines
 - Release Management
-- Azure DevOps
+- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
+- Azure DevOps
 - News and Reviews
 - Software Developers
+- Software Development
 categories:
 - DevOps
 - Engineering Excellence

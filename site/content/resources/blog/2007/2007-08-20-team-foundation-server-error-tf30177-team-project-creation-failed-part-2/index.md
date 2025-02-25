@@ -8,6 +8,7 @@ ResourceImportId: 327
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-20
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,10 +31,10 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
+- Install and Configuration
 - Pragmatic Thinking
+- Software Development
 - System Configuration
 categories: []
 preview: metro-sharepoint-128-link-1-1.png

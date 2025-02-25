@@ -6,6 +6,7 @@ ResourceImport: false
 ResourceType: principles
 recommendedContent: 
 date: 2024-09-17
+weight: 1000
 creator: Martin Hinshelwood
 resourceTypes: principles
 layout: principles
@@ -23,16 +24,16 @@ card:
 categories:
 - Product Management
 tags:
-- Customer Feedback Loops
 - Market Adaptability
-- Lean Product Development
-- Customer Satisfaction
-- Product Validation
-- Discovery and Learning
-- Organisational Agility
+- Customer Feedback Loops
 - Business Agility
-- Lead Time
 - Agile Values and Principles
+- Frequent Releases
+- Deployment Frequency
+- Working Software
+- Lean Product Development
+- Product Validation
+- Lean Startup
 
 ---
 Update the work based on user feedback on timelines shorter than one month

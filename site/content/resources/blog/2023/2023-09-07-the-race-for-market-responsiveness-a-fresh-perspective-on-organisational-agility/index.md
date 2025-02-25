@@ -8,6 +8,7 @@ ResourceImportId: 49732
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-07
+weight: 1000
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,15 +29,15 @@ aliasesFor404:
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags:
 - Organisational Agility
-- Enterprise Agility
 - Business Agility
+- Market Adaptability
 - Organisational Change
 - Resilience and Change
-- Market Adaptability
+- Enterprise Agility
+- Strategic Goals
 - Agile Strategy
 - Strategy
 - Pragmatic Thinking
-- Strategic Goals
 categories:
 - Product Management
 - Social Technologies

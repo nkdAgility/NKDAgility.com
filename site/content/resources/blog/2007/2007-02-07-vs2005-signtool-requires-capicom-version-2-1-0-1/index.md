@@ -8,6 +8,7 @@ ResourceImportId: 435
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-02-07
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,8 +32,8 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

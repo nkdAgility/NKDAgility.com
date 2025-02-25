@@ -8,6 +8,7 @@ ResourceImportId: 10301
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-12-11
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,14 +32,14 @@ aliasesFor404:
 - /resources/blog/professional-scrum-immingham-uk
 tags:
 - Scrum Product Development
-- Scrum Team
-- Professional Scrum
 - Value Delivery
-- Software Development
+- Professional Scrum
+- Scrum Team
 - Product Delivery
 - Cross Functional Teams
+- Software Development
+- Events and Presentations
 - Team Collaboration
-- Agile Product Management
 - Team Performance
 categories:
 - Scrum

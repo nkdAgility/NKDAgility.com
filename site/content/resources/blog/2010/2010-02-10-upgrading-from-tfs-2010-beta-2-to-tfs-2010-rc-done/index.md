@@ -8,6 +8,7 @@ ResourceImportId: 70
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-02-10
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,14 +25,14 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
-- Software Development
 - Practical Techniques and Tooling
-- Pragmatic Thinking
+- Software Development
 - Troubleshooting
-- Technical Mastery
 - Application Lifecycle Management
-- Deployment Strategies
+- Technical Mastery
+- Pragmatic Thinking
 - Release Management
+- Deployment Strategies
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
 - DevOps

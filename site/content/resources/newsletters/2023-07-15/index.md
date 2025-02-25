@@ -5,6 +5,7 @@ ResourceId: x0sJSqJhVRG
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-07-15
+weight: 995
 preview: nkdagility-agile-2023-Scotland-Experiance.png
 author: MrHinsh
 resourceTypes: newsletter

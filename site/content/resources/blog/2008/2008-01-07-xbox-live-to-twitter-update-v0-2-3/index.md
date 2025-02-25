@@ -8,6 +8,7 @@ ResourceImportId: 267
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-07
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,10 +30,10 @@ aliasesFor404:
 - /resources/blog/xbox-live-to-twitter-update-v0-2-3
 tags:
 - Discovery and Learning
-- Software Development
 - Technical Mastery
-- Working Software
 - Frequent Releases
+- Working Software
+- Software Development
 categories: []
 preview: metro-xbox-360-link-1-1.png
 

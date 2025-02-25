@@ -8,6 +8,7 @@ ResourceImportId: 9469
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-07
+weight: 370
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,8 +26,8 @@ aliasesFor404:
 tags:
 - Test First Development
 - Software Development
-- Technical Excellence
 - Engineering Practices
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg

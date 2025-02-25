@@ -8,6 +8,7 @@ ResourceImportId: 3976
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-10-25
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,11 +27,11 @@ aliasesFor404:
 - /blog/scrum-with-visual-studio-11---creating-a-new-team-project
 - /resources/blog/scrum-with-dev11-creating-a-new-team-project
 tags:
-- Agile Project Management
 - Practical Techniques and Tooling
-- Asynchronous Development
+- Agile Project Management
 - Software Development
 - Agile Frameworks
+- Asynchronous Development
 categories:
 - Scrum
 - Social Technologies

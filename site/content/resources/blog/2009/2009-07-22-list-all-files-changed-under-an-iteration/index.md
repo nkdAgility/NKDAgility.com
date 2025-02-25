@@ -8,6 +8,7 @@ ResourceImportId: 99
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-22
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +24,9 @@ aliasesFor404:
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
 - Practical Techniques and Tooling
+- Azure Repos
 - Software Development
 - Azure DevOps
-- Azure Repos
 categories:
 - DevOps
 - Engineering Excellence

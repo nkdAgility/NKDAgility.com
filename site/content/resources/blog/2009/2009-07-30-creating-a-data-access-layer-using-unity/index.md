@@ -8,6 +8,7 @@ ResourceImportId: 95
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-30
+weight: 730
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +25,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
 - Technical Mastery
+- Technical Excellence
 - System Configuration
 categories:
 - Engineering Excellence

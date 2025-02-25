@@ -8,6 +8,7 @@ ResourceImportId: 62
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-15
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,15 +27,15 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
-- Scrum Team
-- Scrum Product Development
 - People and Process
-- Professional Scrum
-- Scrum Master
-- Software Development
-- Software Developers
-- Agile Planning
+- Scrum Product Development
+- Scrum Team
 - Agile Product Management
+- Scrum Master
+- Software Developers
+- Software Development
+- Product Delivery
+- Professional Scrum
 - Team Collaboration
 categories:
 - Scrum

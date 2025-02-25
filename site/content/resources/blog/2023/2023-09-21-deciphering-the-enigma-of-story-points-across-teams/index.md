@@ -8,6 +8,7 @@ ResourceImportId: 49888
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-21
+weight: 545
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,14 +26,14 @@ aliasesFor404:
 tags:
 - Throughput
 - Agile Product Management
-- Agile Project Management
-- Metrics and Learning
 - Value Delivery
+- Metrics and Learning
+- Agile Project Management
 - Team Performance
 - Decision Making
 - Flow Efficiency
+- Evidence Based Leadership
 - Pragmatic Thinking
-- Operational Practices
 categories:
 - Social Technologies
 - Product Management

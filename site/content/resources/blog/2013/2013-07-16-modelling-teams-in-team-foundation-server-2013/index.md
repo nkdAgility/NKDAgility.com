@@ -8,6 +8,7 @@ ResourceImportId: 9777
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-16
+weight: 865
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,16 +25,16 @@ aliasesFor404:
 tags:
 - Software Development
 - Application Lifecycle Management
-- Modern Source Control
 - Install and Configuration
+- Modern Source Control
 - Practical Techniques and Tooling
-- Azure DevOps
 - Operational Practices
+- Azure DevOps
 - System Configuration
 - Software Developers
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

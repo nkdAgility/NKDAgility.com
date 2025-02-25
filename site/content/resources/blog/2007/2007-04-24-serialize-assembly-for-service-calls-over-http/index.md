@@ -8,6 +8,7 @@ ResourceImportId: 415
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-24
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,9 +23,9 @@ aliasesFor404:
 - /blog/serialize-assembly-for-service-calls-over-http
 - /resources/blog/serialize-assembly-for-service-calls-over-http
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

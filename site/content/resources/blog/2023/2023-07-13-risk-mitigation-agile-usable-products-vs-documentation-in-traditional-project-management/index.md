@@ -8,6 +8,7 @@ ResourceImportId: 49495
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-07-13
+weight: 540
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,14 +30,14 @@ aliasesFor404:
 tags:
 - Pragmatic Thinking
 - Strategy
-- Increment
-- Agile Project Management
 - Agile Product Management
-- Agile Strategy
-- Software Development
+- Agile Project Management
+- Increment
 - Working Software
-- Agile Values and Principles
 - Product Delivery
+- Agile Values and Principles
+- Agile Strategy
+- Agile Philosophy
 categories:
 - Social Technologies
 - Product Management

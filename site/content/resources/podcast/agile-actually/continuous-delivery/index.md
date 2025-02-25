@@ -5,6 +5,7 @@ ResourceId: pGqagcI_q5y
 ResourceImport: false
 ResourceType: podcast
 date: 2023-11-23
+weight: 1000
 categories:
 - Scrum
 - DevOps

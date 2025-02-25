@@ -8,6 +8,7 @@ ResourceImportId: 9487
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-15
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
-- Software Development
 - Working Software
+- Software Development
 - Application Lifecycle Management
 - Engineering Practices
 categories:

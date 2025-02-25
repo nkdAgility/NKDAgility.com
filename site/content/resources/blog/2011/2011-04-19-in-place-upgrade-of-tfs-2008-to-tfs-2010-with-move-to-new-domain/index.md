@@ -8,6 +8,7 @@ ResourceImportId: 5
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-04-19
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,8 +26,8 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
+- Software Development
 preview: metro-visual-studio-2010-128-link-24-24.png
 categories:
 - DevOps

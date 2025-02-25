@@ -8,6 +8,7 @@ ResourceImportId: 10002
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-24
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 tags:
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

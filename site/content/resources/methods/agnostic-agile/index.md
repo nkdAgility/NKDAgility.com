@@ -4,7 +4,7 @@ description: 'Agnostic Agile: A flexible approach to agile methodologies, promot
 ResourceId: kfsLvZzGPDZ
 ResourceImport: false
 ResourceType: methods
-weight: 1
+weight: 1000
 draft: true
 url: 
 resourceTypes: method

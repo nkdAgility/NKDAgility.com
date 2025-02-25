@@ -8,6 +8,7 @@ ResourceImportId: 11317
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-04-30
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/how-to-rename-a-team-project-in-tfs-2015
 - /resources/blog/how-to-rename-a-team-project-in-tfs-2015
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - Azure DevOps
 categories: []

@@ -8,6 +8,7 @@ ResourceImportId: 39853
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-16
+weight: 685
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +27,16 @@ aliasesFor404:
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags:
-- Scrum Product Development
 - Professional Scrum
-- Product Owner
+- Scrum Team
+- Scrum Product Development
 - Agile Product Management
 - Product Backlog
-- Scrum Team
-- Product Delivery
+- Product Owner
+- Agile Product Operating Model
 - Events and Presentations
-- People and Process
-- Value Delivery
+- Agile Project Management
+- Product Delivery
 categories:
 - Scrum
 - Product Management

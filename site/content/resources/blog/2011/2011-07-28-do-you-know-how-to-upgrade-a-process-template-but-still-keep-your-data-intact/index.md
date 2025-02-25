@@ -8,6 +8,7 @@ ResourceImportId: 3717
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-07-28
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,12 +29,12 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
 - Operational Practices
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Azure DevOps
 - Technical Mastery
 categories:
 - Engineering Excellence

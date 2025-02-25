@@ -2,6 +2,7 @@
 title: 'Mastering Evidence-Based Management (EBM) for Product Owners: Maximizing Value Delivery'
 description: Unlock product success with the PAL EBM course! Discover how evidence-based management empowers product owners to make informed decisions and maximise value.
 date: 2024-01-29T07:00:07Z
+weight: 1000
 ResourceId: Af-wBYtyyRU
 ResourceType: videos
 ResourceImport: true
@@ -30,14 +31,14 @@ sitemap:
 tags:
 - Value Delivery
 - Throughput
-- Ability to Innovate
 - Metrics and Learning
-- Agile Product Management
 - Product Delivery
-- Product Owner
-- People and Process
+- Agile Product Management
+- Ability to Innovate
+- Agile Project Management
 - Decision Making
 - Evidence Based Management
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

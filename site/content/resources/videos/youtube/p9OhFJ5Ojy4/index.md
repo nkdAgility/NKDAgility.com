@@ -2,6 +2,7 @@
 title: Agile in Nigeria 2020 - The Inevitability of change
 description: "Explore the essence of agility in Nigeria 2020: it's an evolution, not a transformation. Embrace continuous change for lasting organisational growth."
 date: 2020-07-22T10:08:06Z
+weight: 995
 ResourceId: p9OhFJ5Ojy4
 ResourceType: videos
 ResourceImport: true

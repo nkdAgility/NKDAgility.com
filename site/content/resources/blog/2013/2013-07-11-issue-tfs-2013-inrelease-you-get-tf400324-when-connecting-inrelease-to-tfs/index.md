@@ -8,6 +8,7 @@ ResourceImportId: 9749
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,13 +28,13 @@ aliasesFor404:
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 tags:
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

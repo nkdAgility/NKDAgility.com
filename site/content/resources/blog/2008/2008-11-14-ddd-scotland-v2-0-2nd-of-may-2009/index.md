@@ -8,6 +8,7 @@ ResourceImportId: 169
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-14
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +30,8 @@ categories: []
 preview: nakedalm-logo-128-link-2-2.png
 tags:
 - Personal
-- Events and Presentations
 - Miscellaneous
+- Events and Presentations
 
 ---
 It seams that the event of the year is back! [Developer Day Scotland](http://developerdayscotland.com/) returns for a second year as [posted](http://idunno.org/archive/2008/11/12/hoots-mon-ddd-scotland-isnae-deed.aspx) by [Barry Dorrans](http://twitter.com/blowdart) in Glaswegien :)

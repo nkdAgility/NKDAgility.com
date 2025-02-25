@@ -8,6 +8,7 @@ ResourceImportId: 211
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-12
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +24,8 @@ aliasesFor404:
 - /resources/blog/updating-to-visual-studio-2008-sp1
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

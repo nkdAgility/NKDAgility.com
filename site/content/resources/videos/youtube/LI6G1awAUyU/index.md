@@ -2,6 +2,7 @@
 title: What are the most common challenges you are contracted to solve in a DevOps consulting gig?
 description: Join Martin Hinshelwood as he uncovers common challenges faced in DevOps consulting, bridging the gap between Agile and effective product development.
 date: 2023-04-21T07:00:06Z
+weight: 775
 ResourceId: LI6G1awAUyU
 ResourceType: videos
 ResourceImport: true

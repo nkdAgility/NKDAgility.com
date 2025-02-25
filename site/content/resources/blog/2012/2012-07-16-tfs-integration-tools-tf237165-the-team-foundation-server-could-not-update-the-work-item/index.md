@@ -8,6 +8,7 @@ ResourceImportId: 6179
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-16
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +29,8 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Software Development
 categories: []
 preview: metro-problem-icon-2-2.png

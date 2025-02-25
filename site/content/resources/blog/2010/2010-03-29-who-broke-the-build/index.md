@@ -8,6 +8,7 @@ ResourceImportId: 59
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-29
+weight: 415
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +30,13 @@ tags:
 - Windows
 - Code and Complexity
 - Install and Configuration
-- Modern Source Control
 - Practical Techniques and Tooling
-- System Configuration
 - Application Lifecycle Management
+- System Configuration
+- Modern Source Control
 - Software Developers
-- Continuous Delivery
-- Operational Practices
+- Troubleshooting
+- Technical Mastery
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - DevOps

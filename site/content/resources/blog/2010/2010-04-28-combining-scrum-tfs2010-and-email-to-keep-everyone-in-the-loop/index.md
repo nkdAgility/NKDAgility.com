@@ -8,6 +8,7 @@ ResourceImportId: 48
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,11 +32,11 @@ aliasesFor404:
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
 - People and Process
-- Team Collaboration
-- Agile Project Management
 - Practical Techniques and Tooling
-- Software Development
+- Agile Project Management
+- Team Collaboration
 - Pragmatic Thinking
+- Software Development
 - Agile Frameworks
 - Team Performance
 - Scrum Product Development

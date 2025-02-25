@@ -8,6 +8,7 @@ ResourceImportId: 10489
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-10
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
 - Agile Product Operating Model
-- Agile Project Management
 - Agile Product Management
-- Product Owner
+- Agile Project Management
 - Product Delivery
-- Organisational Agility
-- Team Collaboration
-- Scrum Team
+- Product Owner
 - Agile Strategy
+- Team Collaboration
+- Agile Transformation
 - Business Agility
+- Organisational Agility
 categories:
 - Product Management
 - Scrum

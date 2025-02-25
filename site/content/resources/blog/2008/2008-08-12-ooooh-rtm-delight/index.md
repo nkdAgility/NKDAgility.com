@@ -8,6 +8,7 @@ ResourceImportId: 212
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-12
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,8 +32,8 @@ aliasesFor404:
 - /resources/blog/ooooh-rtm-delight
 tags:
 - News and Reviews
-- Release Management
 - Software Development
+- Release Management
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence

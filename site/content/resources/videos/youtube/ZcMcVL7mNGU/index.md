@@ -2,6 +2,7 @@
 title: 'Bridging the Gap: How to Align Your Organisation for Successful Agile Product Management'
 description: Transform your product management approach! Discover how to align teams, embrace agile, and maximise value delivery in software development.
 date: 2024-05-06T13:29:40Z
+weight: 545
 ResourceId: ZcMcVL7mNGU
 ResourceType: videos
 ResourceImport: true
@@ -23,14 +24,14 @@ duration: 256
 isShort: false
 tags:
 - People and Process
-- Software Development
 - Agile Product Operating Model
 - Agile Product Management
+- Software Development
+- Product Strategy
+- Value Delivery
+- Metrics and Learning
 - Product Delivery
 - Hypothesis Driven Development
-- Value Delivery
-- Product Strategy
-- Metrics and Learning
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

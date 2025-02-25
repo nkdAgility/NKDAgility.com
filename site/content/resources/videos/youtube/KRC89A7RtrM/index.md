@@ -2,6 +2,7 @@
 title: Some of the features of Team Web Access are not available to you in TFS 2013
 description: Discover why some Team Web Access features are missing in TFS 2013 and learn how to unlock them in this informative video!
 date: 2014-01-15T14:55:37Z
+weight: 1000
 ResourceId: KRC89A7RtrM
 ResourceType: videos
 ResourceImport: true

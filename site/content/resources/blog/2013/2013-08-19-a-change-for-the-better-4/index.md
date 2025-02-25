@@ -8,6 +8,7 @@ ResourceImportId: 9951
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-19
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +29,16 @@ aliasesFor404:
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
 tags:
-- Mentoring
 - Coaching
+- Mentoring
 - Application Lifecycle Management
-- Agile Project Management
 - Agile Planning
-- People and Process
-- Agile Strategy
-- Agile Frameworks
-- Practical Techniques and Tooling
+- Agile Project Management
 - Agile Leadership
+- Practical Techniques and Tooling
+- Agile Strategy
+- People and Process
+- Agile Frameworks
 categories:
 - Social Technologies
 preview: nakedalm-logo-128-link-4-4.png

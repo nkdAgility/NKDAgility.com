@@ -8,6 +8,7 @@ ResourceImportId: 10824
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-22
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +27,16 @@ aliasesFor404:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- Change Management
-- Organisational Culture
-- Evidence Based Management
-- Scaling Agility
-- Agile Project Management
-- Large Scale Agility
-- Enterprise Agility
-- Resilience and Change
-- Scaling Scrum
 - People and Process
+- Organisational Change
+- Enterprise Agility
+- Metrics and Learning
+- Change Management
+- Large Scale Agility
+- Agile Project Management
+- Scaling Scrum
+- Scaling Agility
+- Software Development
 categories:
 - Scrum
 - Social Technologies

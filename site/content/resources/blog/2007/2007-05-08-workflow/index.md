@@ -8,6 +8,7 @@ ResourceImportId: 401
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-08
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,11 +24,11 @@ aliasesFor404:
 - /resources/blog/workflow
 tags:
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
 - Technical Mastery
 - Miscellaneous
 - Operational Practices
+- Software Development
+- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

@@ -2,6 +2,7 @@
 title: 'Empowering Employees: The Crucial Link Between Financial Awareness and Motivation'
 description: Unlock the secret to boosting employee motivation through financial awareness! Discover how understanding costs can drive innovation and engagement in your organisation.
 date: 2024-09-03T03:33:58Z
+weight: 995
 ResourceId: f8q2fBkUez0
 ResourceType: videos
 ResourceImport: true
@@ -25,8 +26,8 @@ tags:
 - People and Process
 - Decision Making
 - Organisational Change
-- Organisational Physics
 - Sociotechnical Systems
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6

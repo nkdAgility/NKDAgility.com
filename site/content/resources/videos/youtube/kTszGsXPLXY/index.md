@@ -2,6 +2,7 @@
 title: Getting started with Kanban.
 description: Discover how to effortlessly launch a Kanban pilot in your organisation, tackle common challenges, and leverage metrics for workflow improvement!
 date: 2024-02-14T07:00:19Z
+weight: 1000
 ResourceId: kTszGsXPLXY
 ResourceType: videos
 ResourceImport: true
@@ -28,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Cycle Time
 - Practical Techniques and Tooling
-- Agile Frameworks
-- Operational Practices
 - Agile Project Management
+- Operational Practices
+- Agile Frameworks
 - Pragmatic Thinking
-- Throughput
 - Software Development
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

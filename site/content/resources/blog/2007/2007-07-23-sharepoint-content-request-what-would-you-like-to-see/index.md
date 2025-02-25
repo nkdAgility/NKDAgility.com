@@ -8,6 +8,7 @@ ResourceImportId: 361
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
+weight: 995
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,9 +32,9 @@ categories: []
 tags:
 - Products and Books
 - Practical Techniques and Tooling
-- Software Development
-- Miscellaneous
 - Application Lifecycle Management
+- Miscellaneous
+- Software Development
 
 ---
 what-would-you-like-to-see-

@@ -8,6 +8,7 @@ ResourceImportId: 11465
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-03-02
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +28,9 @@ aliasesFor404:
 - /resources/blog/migrating-codeplex-github
 tags:
 - Install and Configuration
-- Modern Source Control
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
+- Modern Source Control
 categories:
 - DevOps
 preview: clip_image001-1-1.png

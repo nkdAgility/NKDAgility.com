@@ -8,6 +8,7 @@ ResourceImportId: 45310
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-11
+weight: 775
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,14 +25,14 @@ aliasesFor404:
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 tags:
 - Scrum Product Development
-- Product Owner
 - People and Process
 - Agile Product Management
+- Product Owner
+- Pragmatic Thinking
 - Professional Scrum
+- Agile Project Management
 - Value Delivery
 - Hypothesis Driven Development
-- Agile Project Management
-- Pragmatic Thinking
 - Product Delivery
 categories:
 - Scrum

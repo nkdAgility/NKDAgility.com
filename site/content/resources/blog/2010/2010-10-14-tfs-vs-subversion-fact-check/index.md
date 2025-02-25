@@ -8,6 +8,7 @@ ResourceImportId: 22
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-14
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/tfs-vs--subversion-fact-check
 - /resources/blog/tfs-vs-subversion-fact-check
 tags:
-- Modern Source Control
 - Install and Configuration
+- Modern Source Control
 - Software Development
 - Troubleshooting
 categories:

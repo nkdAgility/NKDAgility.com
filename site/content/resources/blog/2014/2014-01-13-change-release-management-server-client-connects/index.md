@@ -8,6 +8,7 @@ ResourceImportId: 10329
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-13
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,12 +27,12 @@ aliasesFor404:
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
 tags:
-- Install and Configuration
 - Release Management
+- Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 - Troubleshooting
+- Azure DevOps
 - Pragmatic Thinking
 categories:
 - DevOps

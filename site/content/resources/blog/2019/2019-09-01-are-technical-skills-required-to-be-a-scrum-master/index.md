@@ -8,6 +8,7 @@ ResourceImportId: 39894
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-01
+weight: 405
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Coaching
 - Scrum Product Development
-- Scrum Master
 - Team Performance
-- Software Development
-- Events and Presentations
-- Scrum Team
-- Technical Mastery
 - Professional Scrum
-- People and Process
+- Scrum Team
+- Events and Presentations
+- Technical Mastery
+- Scrum Master
+- Software Development
+- Agile Product Management
 categories:
 - Scrum
 preview: 1029723898-1-1.jpg

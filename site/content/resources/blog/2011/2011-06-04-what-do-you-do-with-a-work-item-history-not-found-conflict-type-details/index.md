@@ -8,6 +8,7 @@ ResourceImportId: 3460
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-04
+weight: 860
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,15 +24,15 @@ aliasesFor404:
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
 - Troubleshooting
-- Modern Source Control
-- Install and Configuration
-- System Configuration
-- Working Software
 - Practical Techniques and Tooling
-- Azure Boards
-- Software Development
-- Azure DevOps
+- Install and Configuration
+- Working Software
+- Modern Source Control
+- System Configuration
 - Release Management
+- Application Lifecycle Management
+- Pragmatic Thinking
+- Software Development
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

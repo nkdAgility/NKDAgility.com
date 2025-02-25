@@ -8,6 +8,7 @@ ResourceImportId: 388
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-07
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

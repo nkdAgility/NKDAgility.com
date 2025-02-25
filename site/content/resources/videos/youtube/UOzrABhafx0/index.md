@@ -2,6 +2,7 @@
 title: 'Mastering Product Backlog Management: Insights from the New Scrum.org Course'
 description: Discover Scrum.org's new Product Backlog Management course with Martin Hinshelwood and learn to master backlog refinement for effective product goals!
 date: 2023-11-30T07:00:11Z
+weight: 1000
 ResourceId: UOzrABhafx0
 ResourceType: videos
 ResourceImport: true
@@ -28,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
 - Agile Product Management
-- Scrum Product Development
+- Product Backlog
 - Products and Books
-- Product Owner
+- Scrum Product Development
 - Agile Project Management
-- Professional Scrum
+- Product Owner
 - Software Development
-- Agile Frameworks
+- Agile Planning Tools
+- Professional Scrum
 - Agile Planning
 resourceTypes:
 - video

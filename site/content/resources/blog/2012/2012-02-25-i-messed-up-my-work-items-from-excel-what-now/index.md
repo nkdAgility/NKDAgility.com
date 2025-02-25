@@ -8,6 +8,7 @@ ResourceImportId: 4609
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-25
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +29,10 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Practical Techniques and Tooling
-- Azure Boards
-- Software Development
-- Azure DevOps
 - Pragmatic Thinking
+- Software Development
+- Azure Boards
+- Azure DevOps
 categories: []
 preview: metro-visual-studio-2010-128-link-4-4.png
 

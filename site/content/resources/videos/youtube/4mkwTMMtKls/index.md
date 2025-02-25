@@ -2,6 +2,7 @@
 title: '7 deadly sins of Agile: Envy'
 description: "Explore the dangers of envy in Agile! Discover why copying others, like the Spotify model, can hinder your unique path to success. \U0001F6AB\U0001F4CB"
 date: 2023-10-09T11:17:10Z
+weight: 1000
 ResourceId: 4mkwTMMtKls
 ResourceType: videos
 ResourceImport: true

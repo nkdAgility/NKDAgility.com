@@ -2,6 +2,7 @@
 title: 'Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights'
 description: Unlock the power of Kanban! Discover how to optimise workflows, enhance delivery speed, and engage stakeholders with data-driven insights.
 date: 2023-08-23T07:00:10Z
+weight: 760
 ResourceId: RSPw8pZ9NT8
 ResourceType: videos
 ResourceImport: true
@@ -25,13 +26,13 @@ tags:
 - Throughput
 - Forecasting
 - Strategy
-- Value Delivery
 - Metrics and Learning
 - Cycle Time
-- Pragmatic Thinking
+- Value Delivery
 - Flow Efficiency
-- Practical Techniques and Tooling
+- Pragmatic Thinking
 - Software Development
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

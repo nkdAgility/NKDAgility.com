@@ -8,6 +8,7 @@ ResourceImportId: 9909
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-25
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,11 +31,11 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-2-2.png
 

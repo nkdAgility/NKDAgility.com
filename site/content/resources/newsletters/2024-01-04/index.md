@@ -5,6 +5,7 @@ ResourceId: Knb7n17SqYe
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-01-04
+weight: 770
 preview: naked-agility-technically-agile-1280×720-January2024.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -21,15 +22,15 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Professional Scrum
 - Continuous Learning
+- Professional Scrum
 - Agile Frameworks
-- Products and Books
 - People and Process
+- Products and Books
 - Agile Project Management
 - Software Development
-- Scrum Master
 - Practical Techniques and Tooling
+- Scrum Master
 - Events and Presentations
 
 ---

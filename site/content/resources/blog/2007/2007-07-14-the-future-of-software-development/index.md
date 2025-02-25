@@ -8,6 +8,7 @@ ResourceImportId: 371
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-14
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,10 +24,10 @@ aliasesFor404:
 - /resources/blog/the-future-of-software-development
 tags:
 - Software Development
-- Pragmatic Thinking
 - People and Process
-- Product Delivery
 - Practical Techniques and Tooling
+- Pragmatic Thinking
+- Product Delivery
 - Strategy
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png

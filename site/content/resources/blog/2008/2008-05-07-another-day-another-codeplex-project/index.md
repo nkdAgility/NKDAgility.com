@@ -8,6 +8,7 @@ ResourceImportId: 232
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-07
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,10 +24,10 @@ aliasesFor404:
 - /resources/blog/another-day-another-codeplex-project
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
 - Technical Mastery
 - Working Software
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-2-2.png
 

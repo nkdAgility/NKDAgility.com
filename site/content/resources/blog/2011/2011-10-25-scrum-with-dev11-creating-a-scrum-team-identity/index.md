@@ -8,6 +8,7 @@ ResourceImportId: 3831
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-10-25
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 tags:
 - Scrum Team
-- Team Collaboration
 - People and Process
 - Practical Techniques and Tooling
+- Team Collaboration
 - News and Reviews
+- Agile Project Management
 - Software Development
 - Software Developers
-- Agile Frameworks
-- Agile Project Management
 - Agile Transformation
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

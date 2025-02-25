@@ -8,6 +8,7 @@ ResourceImportId: 10526
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-05-07
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +28,12 @@ aliasesFor404:
 - /resources/blog/configuring-jenkins-talk-tfs-2013
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
+- System Configuration
 - Technical Mastery
+- Software Development
 - Continuous Integration
+- Technical Excellence
 - Operational Practices
 - Modern Source Control
 - Pragmatic Thinking

@@ -8,6 +8,7 @@ ResourceImportId: 4474
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-21
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

@@ -8,6 +8,7 @@ ResourceImportId: 44511
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
+weight: 410
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Organisational Agility
 - Experimentation
-- Agile Project Management
 - People and Process
+- Agile Project Management
+- Change Management
 - Business Agility
-- Discovery and Learning
-- Resilience and Change
-- Agile Leadership
-- Digital Transformation
 - Agile Values and Principles
+- Resilience and Change
+- Digital Transformation
+- Agile Transformation
 categories:
 - Leadership
 - Social Technologies

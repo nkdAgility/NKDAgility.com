@@ -8,6 +8,7 @@ ResourceImportId: 9494
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-21
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,12 +23,12 @@ aliasesFor404:
 - /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 - /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Install and Configuration
 - Software Development
-- Azure DevOps
 - System Configuration
+- Azure DevOps
 categories: []
 
 ---

@@ -2,6 +2,7 @@
 title: 'Mastering Your Kanban Board: A Practical Guide to Visualising and Optimising Your Workflow'
 description: Transform your workflow with a Kanban board! Discover how to visualise tasks, adapt processes, and boost team efficiency in our latest blog post.
 date: 2024-08-16T07:04:15Z
+weight: 1000
 ResourceId: r1wvCUxeWcE
 ResourceType: videos
 ResourceImport: true
@@ -23,14 +24,14 @@ duration: 57
 isShort: true
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Operational Practices
+- Software Development
 - Lean Principles
+- Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
 - Flow Efficiency
 - Lean Thinking
-- Agile Project Management
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

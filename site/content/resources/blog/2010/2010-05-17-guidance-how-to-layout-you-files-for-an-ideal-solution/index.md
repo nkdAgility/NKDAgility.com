@@ -8,6 +8,7 @@ ResourceImportId: 42
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-17
+weight: 415
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags:
 - Software Development
-- Modern Source Control
 - Software Developers
+- Modern Source Control
 - Release Management
-- Product Delivery
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Technical Excellence
-- Pragmatic Thinking
+- Product Delivery
 - Technical Mastery
+- Agile Project Management
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-11-11.png

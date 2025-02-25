@@ -5,6 +5,7 @@ ResourceId: yMnia2DLI6q
 ResourceType: blog
 ResourceImport: false
 date: 2025-01-30
+weight: 235
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -31,9 +32,9 @@ tags:
 - Scrum Team
 - Scrum Product Development
 - Scrum Master
+- Product Delivery
 - Increment
 - Software Development
-- Product Delivery
 - Professional Scrum
 - Agile Project Management
 - Agile Frameworks

@@ -8,6 +8,7 @@ ResourceImportId: 74
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-28
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,11 +29,11 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
+- System Configuration
 - Troubleshooting
 - Technical Mastery
+- Software Development
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

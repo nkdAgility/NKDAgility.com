@@ -8,6 +8,7 @@ ResourceImportId: 10226
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-11-11
+weight: 455
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,13 +33,13 @@ aliasesFor404:
 tags:
 - Coaching
 - Application Lifecycle Management
-- Software Development
 - People and Process
-- Product Delivery
+- Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
-- Pragmatic Thinking
+- Product Delivery
 - Operational Practices
+- Pragmatic Thinking
+- Technical Excellence
 - Agile Project Management
 categories:
 - Social Technologies

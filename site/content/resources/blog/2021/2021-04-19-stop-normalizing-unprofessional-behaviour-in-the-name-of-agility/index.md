@@ -8,6 +8,7 @@ ResourceImportId: 46108
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-04-19
+weight: 550
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,11 +29,11 @@ tags:
 - Agile Product Management
 - Agile Values and Principles
 - Team Performance
+- Agile Project Management
 - Software Development
 - Software Developers
+- Agile Transformation
 - Organisational Agility
-- Agile Frameworks
-- Agile Philosophy
 categories:
 - Scrum
 - Social Technologies

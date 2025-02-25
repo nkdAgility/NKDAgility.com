@@ -8,6 +8,7 @@ ResourceImportId: 10204
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-05-01
+weight: 415
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,18 +25,18 @@ aliasesFor404:
 tags:
 - People and Process
 - Increment
-- Software Developers
-- Enterprise Agility
-- Scrum Product Development
 - Empirical Process Control
-- Agile Product Operating Model
-- Software Development
-- Large Scale Agility
 - Working Software
+- Large Scale Agility
+- Agile Product Operating Model
+- Business Agility
+- Enterprise Agility
+- Agile Values and Principles
+- Software Development
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

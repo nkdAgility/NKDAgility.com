@@ -8,6 +8,7 @@ ResourceImportId: 11158
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-26
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - Products and Books
+- Business Agility
+- Release Management
 - Software Development
 - Azure DevOps
-- Release Management
-- Business Agility
-- Organisational Agility
 - Practical Techniques and Tooling
-- Digital Transformation
+- Organisational Agility
 - Market Adaptability
+- Digital Transformation
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

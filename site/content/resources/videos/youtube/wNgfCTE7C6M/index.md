@@ -2,6 +2,7 @@
 title: How does the PSU course help teams make more effective product development decisions?
 description: Discover how the PSU course enhances collaboration between design and engineering, empowering teams to make smarter product development decisions!
 date: 2023-04-10T07:00:18Z
+weight: 770
 ResourceId: wNgfCTE7C6M
 ResourceType: videos
 ResourceImport: true

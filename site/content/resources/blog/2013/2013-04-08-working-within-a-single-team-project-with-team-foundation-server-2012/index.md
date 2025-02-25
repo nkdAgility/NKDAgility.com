@@ -8,6 +8,7 @@ ResourceImportId: 9431
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-08
+weight: 545
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,19 +24,19 @@ aliasesFor404:
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
 - People and Process
-- Team Collaboration
-- Software Development
-- Software Developers
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Azure DevOps
-- Pragmatic Thinking
+- Software Development
+- Team Collaboration
+- Software Developers
 - Operational Practices
-- Agile Planning
+- Pragmatic Thinking
+- Azure DevOps
+- Working Software
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

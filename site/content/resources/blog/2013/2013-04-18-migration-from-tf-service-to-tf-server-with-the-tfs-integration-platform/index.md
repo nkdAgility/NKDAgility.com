@@ -8,6 +8,7 @@ ResourceImportId: 9443
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,12 +24,12 @@ aliasesFor404:
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 tags:
 - Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Troubleshooting
+- Pragmatic Thinking
+- Software Development
+- System Configuration
 - Technical Mastery
 categories:
 - DevOps

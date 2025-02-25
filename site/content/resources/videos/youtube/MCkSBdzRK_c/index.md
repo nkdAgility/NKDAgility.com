@@ -2,6 +2,7 @@
 title: 'Unlocking Business Value: The Power of Evidence-Based Management for Effective Leadership'
 description: Unlock your organisation's potential with evidence-based management. Discover how data-driven decisions can drive real business value and innovation.
 date: 2024-01-25T07:00:13Z
+weight: 1000
 ResourceId: MCkSBdzRK_c
 ResourceType: videos
 ResourceImport: true

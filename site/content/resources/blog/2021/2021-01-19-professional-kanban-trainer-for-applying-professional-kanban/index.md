@@ -8,6 +8,7 @@ ResourceImportId: 45694
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-19
+weight: 1000
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,9 +26,9 @@ aliasesFor404:
 tags:
 - Products and Books
 - Practical Techniques and Tooling
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Operational Practices
 categories:
 - Kanban

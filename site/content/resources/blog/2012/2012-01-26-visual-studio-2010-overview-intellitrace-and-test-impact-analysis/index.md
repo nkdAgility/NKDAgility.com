@@ -8,6 +8,7 @@ ResourceImportId: 4140
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-26
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,12 +30,12 @@ aliasesFor404:
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
 - Automated Testing
-- Events and Presentations
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
+- Events and Presentations
 - Troubleshooting
 - Application Lifecycle Management
+- Software Development
+- Technical Excellence
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:

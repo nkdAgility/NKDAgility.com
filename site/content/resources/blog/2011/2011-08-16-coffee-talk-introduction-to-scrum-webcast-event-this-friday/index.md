@@ -8,6 +8,7 @@ ResourceImportId: 3728
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-16
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - People and Process
 - Scrum Product Development
-- Professional Scrum
-- Software Development
-- Events and Presentations
-- Agile Frameworks
-- Scrum Team
 - Agile Product Management
+- Events and Presentations
 - Agile Project Management
+- Software Development
 - Agile Transformation
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

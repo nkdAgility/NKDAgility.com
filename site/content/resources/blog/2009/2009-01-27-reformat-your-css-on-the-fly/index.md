@@ -8,6 +8,7 @@ ResourceImportId: 142
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-27
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,12 +23,12 @@ aliasesFor404:
 - /blog/reformat-your-css-on-the-fly
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
+- Software Development
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-1.png

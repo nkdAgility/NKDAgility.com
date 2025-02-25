@@ -3,6 +3,7 @@ title: Definition of Done (DoD)
 description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
 ResourceId: mAZrKmLwc3L
 ResourceImport: false
+weight: 405
 ResourceType: practices
 subtitle: Getting Started with the Definition of Done (DoD)
 creator: Martin Hinshelwood
@@ -42,8 +43,8 @@ tags:
 - Definition of Done
 - Increment
 - Scrum Product Development
-- Software Development
 - Working Software
+- Software Development
 - Professional Scrum
 
 ---

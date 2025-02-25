@@ -8,6 +8,7 @@ ResourceImportId: 390
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-31
+weight: 995
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
 - /resources/blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 categories: []
 

@@ -8,6 +8,7 @@ ResourceImportId: 6938
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-02
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
 - /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - System Configuration
 preview: nakedalm-windows-logo-7-7.png

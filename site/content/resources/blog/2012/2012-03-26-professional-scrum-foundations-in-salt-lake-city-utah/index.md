@@ -8,6 +8,7 @@ ResourceImportId: 4980
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-26
+weight: 545
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,16 +31,16 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags:
-- Scrum Product Development
-- Professional Scrum
 - People and Process
+- Professional Scrum
+- Scrum Product Development
 - Events and Presentations
-- Team Collaboration
+- Discovery and Learning
 - Agile Transformation
-- Agile Project Management
-- Team Performance
-- Software Developers
 - Agile Frameworks
+- Team Collaboration
+- Software Developers
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

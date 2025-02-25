@@ -2,6 +2,7 @@
 title: 'Unpacking the Scrum Master Role: Moving Beyond Misconceptions to True Accountability'
 description: Uncover the true role of a Scrum Master! Explore common misconceptions, key accountabilities, and how to foster genuine agility in your team.
 date: 2024-10-25T07:02:17Z
+weight: 775
 ResourceId: Cia3d_y9akQ
 ResourceType: videos
 ResourceImport: true

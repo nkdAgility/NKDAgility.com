@@ -8,6 +8,7 @@ ResourceImportId: 9495
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-13
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,11 +29,11 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
+- Install and Configuration
 - Troubleshooting
+- Pragmatic Thinking
+- Software Development
 categories: []
 preview: puzzle-issue-problem-128-link-2-2.png
 

@@ -8,6 +8,7 @@ ResourceImportId: 55
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-09
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,13 +26,13 @@ tags:
 - Scrum Product Development
 - Software Development
 - Software Developers
-- Events and Presentations
 - Agile Product Management
-- Product Delivery
-- Agile Project Management
 - Practical Techniques and Tooling
+- Events and Presentations
+- Agile Project Management
 - Agile Planning Tools
-- Agile Frameworks
+- Product Delivery
+- Agile Planning
 categories:
 - Scrum
 - Social Technologies

@@ -8,6 +8,7 @@ ResourceImportId: 10558
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-11
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,14 +25,14 @@ aliasesFor404:
 tags:
 - System Configuration
 - Operational Practices
-- Software Development
 - Install and Configuration
+- Software Development
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
 - Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
+- Technical Excellence
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

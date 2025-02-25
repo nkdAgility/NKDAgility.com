@@ -2,6 +2,7 @@
 title: Does scrum really allow you to do twice the work in half the time?
 description: 'Explore if Scrum truly enables you to achieve twice the work in half the time, as Martin Hinshelwood unpacks its real value proposition. #Scrum #Agile'
 date: 2023-02-02T07:00:13Z
+weight: 1000
 ResourceId: e7L0NFYUFSw
 ResourceType: videos
 ResourceImport: true
@@ -23,8 +24,8 @@ preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
 tags:
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - People and Process
 - Software Development
 sitemap:

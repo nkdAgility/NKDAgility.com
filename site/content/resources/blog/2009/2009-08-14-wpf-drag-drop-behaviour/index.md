@@ -8,6 +8,7 @@ ResourceImportId: 92
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-14
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +28,9 @@ aliasesFor404:
 - /resources/blog/wpf-drag-drop-behaviour
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-5-1.png

@@ -8,6 +8,7 @@ ResourceImportId: 3487
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-21
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,13 +28,13 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
 tags:
 - Code and Complexity
-- System Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- System Configuration
+- Technical Mastery
 - Software Development
 - Technical Excellence
 - Azure DevOps
-- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

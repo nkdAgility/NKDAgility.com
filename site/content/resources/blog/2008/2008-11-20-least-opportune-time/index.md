@@ -8,6 +8,7 @@ ResourceImportId: 163
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-20
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,13 +28,13 @@ aliasesFor404:
 - /resources/blog/least-opportune-time
 tags:
 - Products and Books
-- Modern Source Control
-- Software Development
-- Software Developers
 - Release Management
-- Personal
 - Troubleshooting
 - Miscellaneous
+- Software Development
+- Software Developers
+- Modern Source Control
+- Personal
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 

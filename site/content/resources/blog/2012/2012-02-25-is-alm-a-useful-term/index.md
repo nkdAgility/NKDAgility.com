@@ -8,6 +8,7 @@ ResourceImportId: 4576
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-25
+weight: 450
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +28,12 @@ aliasesFor404:
 - /resources/blog/is-alm-a-useful-term
 tags:
 - Software Developers
-- Software Development
 - People and Process
 - Application Lifecycle Management
-- Organisational Agility
+- Software Development
 - Market Adaptability
 - Product Delivery
+- Organisational Agility
 - Agile Strategy
 - Business Agility
 - Pragmatic Thinking

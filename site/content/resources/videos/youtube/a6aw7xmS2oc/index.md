@@ -2,6 +2,7 @@
 title: 'Harnessing Your Entrepreneurial Spirit: Key Strategies for Product Owners to Drive Team Success'
 description: Unlock your potential as a product owner! Discover how to connect your team to value and make evidence-based decisions for product success.
 date: 2023-09-20T07:00:00Z
+weight: 1000
 ResourceId: a6aw7xmS2oc
 ResourceType: videos
 ResourceImport: true
@@ -22,16 +23,16 @@ preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- Ability to Innovate
 - People and Process
 - Product Owner
-- Value Delivery
+- Ability to Innovate
 - Decision Making
-- Product Delivery
 - Evidence Based Management
-- Agile Product Management
 - Evidence Based Leadership
-- Scrum Product Development
+- Agile Product Operating Model
+- Product Delivery
+- Metrics and Learning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

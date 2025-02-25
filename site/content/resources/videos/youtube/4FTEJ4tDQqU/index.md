@@ -2,6 +2,7 @@
 title: 'From Developer to Agile Advocate: How My Journey Unveiled the Power of Scrum and DevOps'
 description: Discover how my journey from developer to Agile advocate transformed my approach to project management. Explore the liberating power of Agile and Scrum!
 date: 2023-03-02T07:00:01Z
+weight: 540
 ResourceId: 4FTEJ4tDQqU
 ResourceType: videos
 ResourceImport: true
@@ -23,14 +24,14 @@ isShort: false
 tags:
 - Personal
 - Agile Project Management
-- Software Development
 - People and Process
-- Software Developers
+- Software Development
 - Pragmatic Thinking
+- Software Developers
+- Agile Transformation
 - Organisational Agility
 - Agile Frameworks
 - Agile Philosophy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

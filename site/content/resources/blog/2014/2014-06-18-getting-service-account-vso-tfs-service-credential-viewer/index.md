@@ -8,6 +8,7 @@ ResourceImportId: 10596
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-18
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +29,8 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Azure DevOps
 - Practical Techniques and Tooling
+- Azure DevOps
 - Software Development
 - Windows
 - System Configuration

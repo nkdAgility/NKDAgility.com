@@ -2,6 +2,7 @@
 title: What should have been way more popular in Agile than it currently is?
 description: "Unlock the secret to Agile success! Discover why principles, not just tools, are key to effective practices in this insightful video with Martin. \U0001F31F"
 date: 2023-05-03T07:00:33Z
+weight: 1000
 ResourceId: y2TObrUi3m0
 ResourceType: videos
 ResourceImport: true
@@ -24,8 +25,8 @@ duration: 117
 isShort: false
 tags:
 - Agile Values and Principles
-- Agile Philosophy
 - Agile Transformation
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.4

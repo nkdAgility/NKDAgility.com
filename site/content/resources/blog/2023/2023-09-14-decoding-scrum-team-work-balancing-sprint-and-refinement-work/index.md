@@ -8,6 +8,7 @@ ResourceImportId: 49783
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-14
+weight: 775
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,15 +29,15 @@ aliasesFor404:
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 tags:
 - Scrum Product Development
-- Practical Techniques and Tooling
-- Agile Project Management
-- Product Delivery
-- Agile Product Management
-- Backlog Refinement
 - People and Process
+- Agile Product Management
+- Practical Techniques and Tooling
 - Scrum Team
+- Agile Project Management
+- Backlog Refinement
+- Product Delivery
+- Professional Scrum
 - Team Collaboration
-- Team Performance
 categories:
 - Scrum
 - Social Technologies

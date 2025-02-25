@@ -8,6 +8,7 @@ ResourceImportId: 266
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-08
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +24,9 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-revisited
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
 - Application Lifecycle Management
+- Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

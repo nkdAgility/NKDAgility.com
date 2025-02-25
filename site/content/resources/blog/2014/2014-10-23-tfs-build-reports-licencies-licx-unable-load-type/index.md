@@ -8,6 +8,7 @@ ResourceImportId: 10730
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-23
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,13 +29,13 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
 - Operational Practices
+- Pragmatic Thinking
+- Software Development
 - Continuous Integration
+- Technical Excellence
+- System Configuration
 - Release Management
 categories:
 - DevOps

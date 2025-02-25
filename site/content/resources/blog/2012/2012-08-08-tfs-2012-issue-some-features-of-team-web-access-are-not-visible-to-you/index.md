@@ -8,6 +8,7 @@ ResourceImportId: 7094
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-08
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,9 +27,9 @@ aliasesFor404:
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Troubleshooting
 categories: []
 preview: metro-problem-icon-5-5.png

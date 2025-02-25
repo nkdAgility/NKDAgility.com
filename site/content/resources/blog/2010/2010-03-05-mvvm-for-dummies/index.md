@@ -8,6 +8,7 @@ ResourceImportId: 65
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-05
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/mvvm-for-dummies
 - /resources/blog/mvvm-for-dummies
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

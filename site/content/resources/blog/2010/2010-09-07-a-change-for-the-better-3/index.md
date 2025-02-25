@@ -8,6 +8,7 @@ ResourceImportId: 28
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-07
+weight: 455
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - People and Process
 - Application Lifecycle Management
-- Software Developers
 - Agile Project Management
-- Continuous Learning
+- Software Developers
 - Software Development
-- Personal
+- Continuous Learning
 - Mentoring
+- Personal
 - Product Delivery
-- Engineering Practices
+- Practical Techniques and Tooling
 categories:
 - Social Technologies
 - Scrum

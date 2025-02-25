@@ -8,6 +8,7 @@ ResourceImportId: 129
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-30
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,9 +23,9 @@ aliasesFor404:
 - /blog/get-analysis-services-last-processed-date
 - /resources/blog/get-analysis-services-last-processed-date
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

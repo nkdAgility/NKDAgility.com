@@ -2,6 +2,7 @@
 title: 'Beware the Fake Agilists: How to Protect Your Team from the Agile Apocalypse'
 description: Uncover the dangers of fake agilists in Agile methodologies. Learn how to prioritise genuine expertise and foster a culture of continuous improvement.
 date: 2023-11-07T07:36:21Z
+weight: 1000
 ResourceId: T07AK-1FAK4
 ResourceType: videos
 ResourceImport: true

@@ -8,6 +8,7 @@ ResourceImportId: 8868
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-25
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,8 +26,8 @@ aliasesFor404:
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
 tags:
 - Software Development
-- Automated Testing
 - Test Automation
+- Automated Testing
 - Technical Excellence
 categories:
 - Engineering Excellence

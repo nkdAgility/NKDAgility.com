@@ -2,6 +2,7 @@
 title: Most Common Thing You Hear in a PSM 1 Course?
 description: 'Discover the most common insights from delegates in a PSM 1 course with Martin Hinshelwood. Join us for a quick dive into Scrum training! #shorts #agile'
 date: 2023-06-28T11:00:24Z
+weight: 1000
 ResourceId: h5TG3MbP0QY
 ResourceType: videos
 ResourceImport: true
@@ -31,13 +32,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Customer Satisfaction
-- Transparency and Accountability
 - Agile Values and Principles
+- Transparency and Accountability
+- Customer Satisfaction
+- Miscellaneous
 - Accountability
 - Pragmatic Thinking
 - Personal
-- Miscellaneous
 - Agile Philosophy
 resourceTypes:
 - video

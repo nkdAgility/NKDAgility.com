@@ -8,6 +8,7 @@ ResourceImportId: 40168
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-14
+weight: 405
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Transparency
 - Definition of Done
-- Increment
 - Scrum Product Development
+- Increment
 - Scrum Team
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
+- Value Delivery
 - Team Performance
-- Software Development
-- Professional Scrum
+- Scrum Master
 categories:
 - Scrum
 - Engineering Excellence

@@ -8,6 +8,7 @@ ResourceImportId: 9904
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-19
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +30,13 @@ aliasesFor404:
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 tags:
 - Windows
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
+- Troubleshooting
+- Pragmatic Thinking
 - Software Development
 - Azure DevOps
-- Pragmatic Thinking
-- Troubleshooting
 - Technical Mastery
 categories:
 - DevOps

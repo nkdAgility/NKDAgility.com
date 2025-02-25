@@ -2,6 +2,7 @@
 title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
 description: Unlock the power of Kaizen in Kanban! Discover how continuous improvement can elevate your workflows and drive optimal results. Embrace the journey!
 date: 2024-08-25T22:00:34Z
+weight: 595
 ResourceId: pVPzgsemxEY
 ResourceType: videos
 ResourceImport: true
@@ -28,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Lean Principles
 - Operational Practices
+- Lean Principles
 resourceTypes:
 - video
 categories:

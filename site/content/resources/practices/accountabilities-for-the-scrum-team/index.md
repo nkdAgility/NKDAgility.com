@@ -15,6 +15,7 @@ aliasesFor404:
 - /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
 recommendedContent: 
 date: 2024-09-17
+weight: 1000
 creator: Martin Hinshelwood
 card:
   button:
@@ -26,8 +27,8 @@ categories:
 - Social Technologies
 tags:
 - Scrum Team
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 
 ---
 While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.

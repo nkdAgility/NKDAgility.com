@@ -8,6 +8,7 @@ ResourceImportId: 10546
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-04
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 - System Configuration
 - Pragmatic Thinking
 categories: []

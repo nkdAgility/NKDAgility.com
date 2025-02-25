@@ -8,6 +8,7 @@ ResourceImportId: 60
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-18
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
 - Automated Testing
-- Modern Source Control
 - Practical Techniques and Tooling
+- Modern Source Control
 - Engineering Practices
+- Azure Pipelines
 - Application Lifecycle Management
 - Software Development
-- Continuous Integration
-- Technical Excellence
 - Technical Mastery
-- Operational Practices
+- Technical Excellence
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - DevOps

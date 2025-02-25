@@ -8,6 +8,7 @@ ResourceImportId: 22774
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-03
+weight: 285
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
 tags:
-- Software Development
 - Working Software
+- Software Development
 categories:
 - Scrum
 - Social Technologies

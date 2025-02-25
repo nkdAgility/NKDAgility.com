@@ -2,6 +2,7 @@
 title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
 date: 2025-02-09T22:00:37Z
+weight: 775
 ResourceId: YUlpnyN2IeI
 ResourceType: videos
 ResourceImport: true
@@ -38,12 +39,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
-- Lean Principles
-- Organisational Agility
 - Business Agility
+- Lean Principles
 - Lean Thinking
-- Pragmatic Thinking
+- Organisational Agility
 - Operational Practices
+- Pragmatic Thinking
 - Lean
 - People and Process
 - Market Adaptability
@@ -51,8 +52,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 - Leadership
 canonicalUrl: https://www.youtube.com/watch?v=yvIanYh3bcQ
 

@@ -2,6 +2,7 @@
 title: 'Unlocking Team Potential: Why Every Scrum Master Needs a Quality Camera for Effective Engagement'
 description: Unlock the secret to effective team engagement! Discover how a good camera can transform your Scrum Master interactions and foster deeper connections.
 date: 2023-09-21T07:00:14Z
+weight: 1000
 ResourceId: gWTCvlUzSZo
 ResourceType: videos
 ResourceImport: true

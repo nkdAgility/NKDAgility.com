@@ -8,6 +8,7 @@ ResourceImportId: 37
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-18
+weight: 405
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
 - Scrum Product Development
-- Professional Scrum
 - Software Development
+- Professional Scrum
 - Events and Presentations
 - Agile Frameworks
 categories:

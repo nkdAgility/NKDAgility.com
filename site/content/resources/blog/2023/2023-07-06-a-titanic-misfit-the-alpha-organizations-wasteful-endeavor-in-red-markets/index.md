@@ -8,6 +8,7 @@ ResourceImportId: 49490
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-07-06
+weight: 1000
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,13 +29,13 @@ aliasesFor404:
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 tags:
 - Beta Codex
-- Enterprise Agility
-- Organisational Physics
-- Organisational Agility
+- Complexity Thinking
 - Business Agility
 - Lean
-- Complexity Thinking
 - Lean Thinking
+- Organisational Agility
+- Enterprise Agility
+- Organisational Physics
 - Organisational Change
 categories:
 - Social Technologies

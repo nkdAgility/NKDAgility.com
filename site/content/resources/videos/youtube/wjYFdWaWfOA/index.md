@@ -2,6 +2,7 @@
 title: What is a scrum master? Why are they essential?
 description: "Discover the vital role of a Scrum Master in Agile leadership! Learn how they enhance team efficiency and drive value delivery in this insightful video. \U0001F680"
 date: 2023-05-22T14:00:41Z
+weight: 775
 ResourceId: wjYFdWaWfOA
 ResourceType: videos
 ResourceImport: true
@@ -23,14 +24,14 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
-- Scrum Master
-- Scrum Team
 - Agile Product Management
+- Scrum Master
 - Agile Project Management
+- Scrum Team
+- People and Process
 - Team Performance
 - Software Development
 - Agile Frameworks
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4

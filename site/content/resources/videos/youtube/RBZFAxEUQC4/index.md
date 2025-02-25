@@ -2,6 +2,7 @@
 title: '7 deadly sins of Agile: Lust'
 description: "Discover why 'lust' for quick agile solutions can hinder transformation. Learn to tailor agile practices to your unique needs! \U0001F680\U0001F504 #Agile #Transformation"
 date: 2023-10-12T07:00:12Z
+weight: 1000
 ResourceId: RBZFAxEUQC4
 ResourceType: videos
 ResourceImport: true

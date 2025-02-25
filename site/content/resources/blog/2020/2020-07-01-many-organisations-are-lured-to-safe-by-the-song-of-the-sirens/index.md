@@ -8,6 +8,7 @@ ResourceImportId: 44502
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-01
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,13 +26,13 @@ tags:
 - Business Agility
 - Scaled Agile
 - Agile Transformation
+- People and Process
+- Change Management
+- Large Scale Agility
+- Organisational Change
 - Agile Strategy
-- Enterprise Agility
 - Organisational Agility
 - Agile Frameworks
-- Organisational Change
-- People and Process
-- Agile Philosophy
 categories:
 - Social Technologies
 - Leadership

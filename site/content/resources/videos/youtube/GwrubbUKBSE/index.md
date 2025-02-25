@@ -2,6 +2,7 @@
 title: 30th March 2020 - Office Hours \ Ask Me Anything
 description: Join Martin, a Scrum Trainer and Microsoft MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-04-10T18:32:34Z
+weight: 1000
 ResourceId: GwrubbUKBSE
 ResourceType: videos
 ResourceImport: true
@@ -23,12 +24,12 @@ preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
 duration: 2127
 isShort: false
 tags:
-- Events and Presentations
 - People and Process
+- Events and Presentations
+- Agile Project Management
 - Software Development
 - Software Developers
 - Agile Frameworks
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

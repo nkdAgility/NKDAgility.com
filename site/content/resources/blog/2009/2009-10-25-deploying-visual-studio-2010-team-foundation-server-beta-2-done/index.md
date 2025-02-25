@@ -8,6 +8,7 @@ ResourceImportId: 81
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-25
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 - Deployment Strategies

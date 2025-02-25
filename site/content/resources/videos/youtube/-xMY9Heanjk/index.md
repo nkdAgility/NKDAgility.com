@@ -2,6 +2,7 @@
 title: What is the hardest part of working with a brand-new scrum team?
 description: Discover the toughest challenges of joining a new Scrum team and how to transition from novice to mastery in Agile practices with Martin Hinshelwood.
 date: 2023-02-03T07:00:00Z
+weight: 460
 ResourceId: -xMY9Heanjk
 ResourceType: videos
 ResourceImport: true
@@ -30,13 +31,13 @@ tags:
 - People and Process
 - Empirical Process Control
 - Agile Planning
-- Team Collaboration
-- Customer Feedback Loops
-- Evidence Based Leadership
-- Scrum Product Development
-- Professional Scrum
 - Metrics and Learning
 - Team Performance
+- Agile Product Management
+- Agile Project Management
+- Evidence Based Management
+- Customer Feedback Loops
+- Scrum Product Development
 resourceTypes:
 - video
 layout: video

@@ -2,6 +2,7 @@
 title: Why do you trust Russell to deliver the PSPO course for NKD Agility?
 description: "Discover why Martin Hinshelwood trusts Russell as a top Professional Scrum Trainer for NKD Agility's PSPO course. #Agile #Scrum #Training"
 date: 2023-08-24T07:00:31Z
+weight: 1000
 ResourceId: qnGFctaLgVM
 ResourceType: videos
 ResourceImport: true
@@ -31,11 +32,11 @@ tags:
 - Product Owner
 - People and Process
 - Agile Product Management
-- Professional Scrum
+- Miscellaneous
 - Pragmatic Thinking
 - Coaching
+- Professional Scrum
 - Personal
-- Miscellaneous
 resourceTypes:
 - video
 categories:

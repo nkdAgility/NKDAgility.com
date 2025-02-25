@@ -5,6 +5,7 @@ ResourceId: _ncZFfeCrnS
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-13T09:00:00
+weight: 240
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -23,15 +24,15 @@ aliasesFor404:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Deployment Strategies
 - Software Development
-- Continuous Delivery
-- Azure DevOps
+- Deployment Strategies
 - Product Delivery
+- Azure DevOps
+- Continuous Delivery
 - Value Delivery
-- Software Developers
-- Technical Excellence
+- Practical Techniques and Tooling
 - Technical Mastery
+- Frequent Releases
 - Operational Practices
 categories:
 - DevOps

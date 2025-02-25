@@ -8,6 +8,7 @@ ResourceImportId: 4189
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-31
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +30,8 @@ aliasesFor404:
 - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Application Lifecycle Management
+- Software Development
 - Test Automation
 - Events and Presentations
 - Technical Excellence

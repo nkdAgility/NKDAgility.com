@@ -8,6 +8,7 @@ ResourceImportId: 10970
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-04
+weight: 410
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +28,12 @@ aliasesFor404:
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
 - Install and Configuration
-- Azure DevOps
 - Release Management
+- Azure DevOps
 - Azure Pipelines
+- Practical Techniques and Tooling
 - Software Development
 - Product Delivery
-- Practical Techniques and Tooling
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-46-46.png

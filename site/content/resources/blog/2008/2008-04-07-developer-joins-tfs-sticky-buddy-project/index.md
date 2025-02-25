@@ -8,6 +8,7 @@ ResourceImportId: 242
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-07
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/developer-joins-tfs-sticky-buddy-project
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
 tags:
-- Software Development
 - People and Process
+- Software Development
 - News and Reviews
 - Team Collaboration
 categories: []

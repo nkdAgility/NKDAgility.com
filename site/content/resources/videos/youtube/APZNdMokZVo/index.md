@@ -2,6 +2,7 @@
 title: 'Unlocking Success in Agile: Why Your Definition of Done is Essential for Quality Delivery'
 description: Unlock the power of the Definition of Done in Agile! Discover how this key concept enhances quality, transparency, and team effectiveness.
 date: 2023-11-13T06:56:47Z
+weight: 550
 ResourceId: APZNdMokZVo
 ResourceType: videos
 ResourceImport: true

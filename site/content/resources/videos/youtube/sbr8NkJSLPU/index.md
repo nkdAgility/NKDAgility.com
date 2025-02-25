@@ -2,6 +2,7 @@
 title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
 description: Unlock your team's potential by mastering Kanban! Discover how defining and visualising your workflow can boost clarity, alignment, and efficiency.
 date: 2024-02-27T07:00:31Z
+weight: 1000
 ResourceId: sbr8NkJSLPU
 ResourceType: videos
 ResourceImport: true
@@ -23,13 +24,13 @@ duration: 218
 isShort: false
 tags:
 - People and Process
-- Team Collaboration
-- Operational Practices
 - Practical Techniques and Tooling
-- Software Development
-- Agile Frameworks
+- Operational Practices
+- Team Collaboration
 - Agile Project Management
 - Transparency
+- Software Development
+- Agile Frameworks
 - Pragmatic Thinking
 - Flow Efficiency
 sitemap:

@@ -8,6 +8,7 @@ ResourceImportId: 380
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-18
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,15 +27,15 @@ aliasesFor404:
 - /blog/tfs-event-handler--prototype-released
 - /resources/blog/tfs-event-handler-prototype-released
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - Working Software
-- Practical Techniques and Tooling
 - News and Reviews
-- Software Development
 - Release Management
-- System Configuration
 - Technical Mastery
 - Frequent Releases
+- Software Development
+- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

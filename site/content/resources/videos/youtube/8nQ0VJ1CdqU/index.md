@@ -2,6 +2,7 @@
 title: Why did so many of the early agile transformations fail?
 description: Discover why many early agile transformations failed and learn how to achieve success in your organisation with insights from Martin Hinshelwood.
 date: 2023-02-06T07:00:02Z
+weight: 770
 ResourceId: 8nQ0VJ1CdqU
 ResourceType: videos
 ResourceImport: true
@@ -31,13 +32,13 @@ tags:
 - People and Process
 - Decision Making
 - Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Agile Project Management
-- Beta Codex
-- Agile Philosophy
 - Sociotechnical Systems
-- Organisational Agility
+- Agile Philosophy
+- Beta Codex
+- Agile Transformation
+- Agile Strategy
+- Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

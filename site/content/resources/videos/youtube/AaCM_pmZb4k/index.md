@@ -2,6 +2,7 @@
 title: What are the hierarchies of competence vs control?  Why does this matter?
 description: Explore the contrast between empowering coaching and micromanagement in hierarchies of competence vs control with Martin Hinshelwood.
 date: 2023-04-13T14:25:06Z
+weight: 1000
 ResourceId: AaCM_pmZb4k
 ResourceType: videos
 ResourceImport: true
@@ -34,11 +35,11 @@ tags:
 - Organisational Culture
 - Organisational Physics
 - Sociotechnical Systems
-- Organisational Change
 - Decision Making
+- Organisational Change
 - Market Adaptability
-- Enterprise Agility
 - Business Agility
+- Enterprise Agility
 resourceTypes:
 - video
 categories:

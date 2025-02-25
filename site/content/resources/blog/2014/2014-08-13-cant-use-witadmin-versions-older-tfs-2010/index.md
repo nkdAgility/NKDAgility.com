@@ -8,6 +8,7 @@ ResourceImportId: 10667
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-13
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,11 +27,11 @@ aliasesFor404:
 - /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 tags:
-- Software Development
-- Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
+- Install and Configuration
+- Software Development
 - Troubleshooting
+- System Configuration
 - Pragmatic Thinking
 categories:
 - DevOps

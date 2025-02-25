@@ -8,6 +8,7 @@ ResourceImportId: 411
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/tfs-eventhandler--message-queuing
 - /resources/blog/tfs-eventhandler-message-queuing
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

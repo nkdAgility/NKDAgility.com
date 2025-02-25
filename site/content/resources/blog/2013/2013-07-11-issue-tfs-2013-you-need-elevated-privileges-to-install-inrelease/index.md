@@ -8,6 +8,7 @@ ResourceImportId: 9753
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +29,9 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Troubleshooting
 - Windows
 - System Configuration
-- Troubleshooting
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 

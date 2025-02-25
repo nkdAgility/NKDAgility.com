@@ -8,6 +8,7 @@ ResourceImportId: 9716
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-10
+weight: 410
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Transformation
-- Team Collaboration
-- Agile Values and Principles
-- Agile Leadership
-- Resilience and Change
-- Software Developers
 - People and Process
 - Software Development
-- Business Agility
-- Organisational Agility
+- Agile Leadership
+- Resilience and Change
+- Team Collaboration
+- Agile Values and Principles
+- Software Developers
+- Value Delivery
+- Organisational Culture
 categories:
 - Leadership
 - Social Technologies

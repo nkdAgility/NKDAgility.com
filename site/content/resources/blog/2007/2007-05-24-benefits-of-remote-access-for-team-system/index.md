@@ -8,6 +8,7 @@ ResourceImportId: 398
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-24
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,16 +25,16 @@ aliasesFor404:
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
-- Team Collaboration
 - People and Process
-- Remote Working
 - Practical Techniques and Tooling
-- Azure Boards
+- Team Collaboration
+- Remote Working
+- Application Lifecycle Management
+- Miscellaneous
+- Pragmatic Thinking
 - Software Development
 - Collaboration Tools
-- Azure DevOps
-- Pragmatic Thinking
-- Sociotechnical Systems
+- Azure Boards
 
 ---
 Remote access for Team Server is about disparate teams. This means that you can use those cheep contractors in eastern Europe without needing to give them a small project because of the difficulties in integrating their work.

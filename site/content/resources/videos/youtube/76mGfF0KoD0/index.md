@@ -2,6 +2,7 @@
 title: Is Your Scrum Master Struggling? Discover When to Choose an Agile Process Simulation Workshop
 description: Is your Scrum Master struggling with team dynamics? Discover how an Agile Process Simulation workshop can empower your team and enhance collaboration.
 date: 2023-04-05T07:00:03Z
+weight: 775
 ResourceId: 76mGfF0KoD0
 ResourceType: videos
 ResourceImport: true
@@ -23,13 +24,13 @@ isShort: false
 tags:
 - Agile Project Management
 - Coaching
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
-- Team Collaboration
-- Agile Frameworks
 - Agile Product Management
+- Team Collaboration
 - Agile Transformation
+- Agile Frameworks
 - Software Development
 sitemap:
   filename: sitemap.xml

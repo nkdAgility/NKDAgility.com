@@ -5,6 +5,7 @@ ResourceId: GdoDhtTM-Rn
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-09-28
+weight: 1000
 preview: NKDAgility-Webinar.jpg
 author: MrHinsh
 resourceTypes: newsletter

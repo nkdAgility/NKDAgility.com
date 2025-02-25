@@ -2,6 +2,7 @@
 title: 'Mastering Outcomes: How Evidence-Based Management Transforms Your Project Success'
 description: Unlock the power of evidence-based management! Discover how to define outcomes and choose metrics that drive success in your projects.
 date: 2024-09-12T13:46:15Z
+weight: 1000
 ResourceId: MO7O6kTmufc
 ResourceType: videos
 ResourceImport: true
@@ -22,11 +23,11 @@ preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Evidence Based Management
 - Metrics and Learning
-- Evidence Based Leadership
-- Pragmatic Thinking
+- Evidence Based Management
 - Decision Making
+- Pragmatic Thinking
+- Evidence Based Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

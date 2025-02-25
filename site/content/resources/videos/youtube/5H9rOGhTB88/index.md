@@ -2,6 +2,7 @@
 title: 'Empowering Teams to Tailor Their Processes: A Path to True Agility'
 description: Empower your teams to adapt processes for greater value! Discover how to break down silos and foster innovation in this Agile reality check.
 date: 2024-07-26T06:45:00Z
+weight: 405
 ResourceId: 5H9rOGhTB88
 ResourceType: videos
 ResourceImport: true
@@ -28,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Business Agility
-- Agile Product Operating Model
-- Value Delivery
 - Agile Values and Principles
-- Agile Leadership
 - Agile Product Management
+- Value Delivery
+- Business Agility
+- Agile Leadership
+- Agile Product Operating Model
+- Change Management
+- Operational Practices
 - Technical Leadership
-- Discovery and Learning
-- Team Motivation
 resourceTypes:
 - video
 layout: video

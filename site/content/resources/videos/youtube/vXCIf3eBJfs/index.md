@@ -2,6 +2,7 @@
 title: How to Choose the Right Agile Coach for Your Business Success
 description: 'Discover 5 essential tips from Martin Hinshelwood on hiring the right #AgileCoach in this insightful video. Elevate your #Agile journey today!'
 date: 2023-11-24T11:00:52Z
+weight: 775
 ResourceId: vXCIf3eBJfs
 ResourceType: videos
 ResourceImport: true
@@ -28,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
-- Agile Frameworks
 - Business Agility
+- Agile Strategy
 - Agile Project Management
 - Agile Transformation
+- Agile Frameworks
+- People and Process
 - Technical Leadership
-- Software Development
+- Decision Making
+- Practical Techniques and Tooling
 - Pragmatic Thinking
-- Organisational Agility
-- Coaching
 resourceTypes:
 - video
 categories:

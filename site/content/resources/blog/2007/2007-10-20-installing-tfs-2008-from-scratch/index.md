@@ -8,6 +8,7 @@ ResourceImportId: 297
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-20
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +26,9 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 

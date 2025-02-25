@@ -2,6 +2,7 @@
 title: 25th March 2020 - Office Hours \ Ask me Anything
 description: Join Martin, a Scrum Trainer and Microsoft MVP, for an engaging Q&A on DevOps and Agility. Ask anything and get expert insights!
 date: 2020-03-25T16:17:15Z
+weight: 1000
 ResourceId: OCJuDfc-gnc
 ResourceType: videos
 ResourceImport: true

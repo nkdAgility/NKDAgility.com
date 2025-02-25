@@ -8,6 +8,7 @@ ResourceImportId: 9164
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-03
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,13 +32,13 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Operational Practices
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Azure DevOps
+- Operational Practices
 - Release Management
 - Troubleshooting
+- Technical Mastery
+- Software Development
+- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence

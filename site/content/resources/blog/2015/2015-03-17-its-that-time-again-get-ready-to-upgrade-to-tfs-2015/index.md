@@ -8,6 +8,7 @@ ResourceImportId: 11241
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-17
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
-- Install and Configuration
 - Release Management
+- Install and Configuration
 - News and Reviews
 - System Configuration
 - Software Development

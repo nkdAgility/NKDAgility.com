@@ -8,6 +8,7 @@ ResourceImportId: 9149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-27
+weight: 410
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,20 +23,20 @@ aliasesFor404:
 - /blog/continuous-value-delivery-with-modern-business-applications
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
-- Continuous Delivery
-- Working Software
 - Value Delivery
 - Software Developers
-- Deployment Frequency
+- Working Software
+- Continuous Delivery
+- Deployment Strategies
+- Product Delivery
+- News and Reviews
+- Technical Excellence
 - Business Agility
 - Operational Practices
-- Product Delivery
-- Technical Excellence
-- Deployment Strategies
 categories:
-- Social Technologies
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

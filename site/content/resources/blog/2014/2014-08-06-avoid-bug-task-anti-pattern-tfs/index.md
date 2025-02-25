@@ -8,6 +8,7 @@ ResourceImportId: 10662
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-06
+weight: 455
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +29,15 @@ aliasesFor404:
 - /resources/blog/
 tags:
 - People and Process
-- Product Delivery
-- Software Development
 - Agile Product Management
-- Test First Development
-- Azure DevOps
 - Practical Techniques and Tooling
+- Product Delivery
+- Test First Development
 - Product Owner
-- Azure Boards
+- Software Development
+- Azure DevOps
 - Team Performance
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

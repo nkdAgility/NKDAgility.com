@@ -2,6 +2,7 @@
 title: "Signs You're Failing as a Product Owner: How to Take Control and Deliver Real Value"
 description: Discover the key signs of a failing product owner and learn how to take ownership for delivering real value. Are you truly owning your product?
 date: 2023-09-22T07:00:32Z
+weight: 1000
 ResourceId: uvU_ATou6QY
 ResourceType: videos
 ResourceImport: true
@@ -25,8 +26,8 @@ tags:
 - People and Process
 - Product Owner
 - Agile Product Management
-- Accountability
 - Agile Project Management
+- Accountability
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

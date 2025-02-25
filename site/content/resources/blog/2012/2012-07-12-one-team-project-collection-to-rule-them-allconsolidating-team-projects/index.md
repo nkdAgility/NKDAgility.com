@@ -8,6 +8,7 @@ ResourceImportId: 6109
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-12
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,8 +32,8 @@ tags:
 - Troubleshooting
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

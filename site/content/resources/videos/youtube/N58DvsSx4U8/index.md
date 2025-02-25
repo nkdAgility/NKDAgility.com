@@ -2,6 +2,7 @@
 title: What is your favourite DevOps consulting outcome?
 description: Join Martin Hinshelwood as he shares his favourite DevOps consulting outcome, highlighting the transformative power of agile practices in diverse industries.
 date: 2023-04-18T07:00:08Z
+weight: 545
 ResourceId: N58DvsSx4U8
 ResourceType: videos
 ResourceImport: true
@@ -28,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- One Engineering System (1ES)
 - People and Process
+- One Engineering System (1ES)
 - Azure DevOps
-- Software Development
-- Software Developers
 - Digital Transformation
 - Practical Techniques and Tooling
+- Software Development
+- Software Developers
+- Operational Practices
 - Pragmatic Thinking
 - Personal
-- Operational Practices
 resourceTypes:
 - video
 categories:

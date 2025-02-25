@@ -2,6 +2,7 @@
 title: 'Transform Your Leadership: The Power of Evidence-Based Management in Agile'
 description: Unlock the power of evidence-based management in Agile! Discover how data-driven decisions and continuous improvement can transform your leadership journey.
 date: 2023-11-29T11:00:03Z
+weight: 775
 ResourceId: 2-AyrLPg-8Y
 ResourceType: videos
 ResourceImport: true

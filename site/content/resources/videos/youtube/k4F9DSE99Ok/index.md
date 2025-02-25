@@ -2,6 +2,7 @@
 title: 'Combatting Famine in Agile: How to Foster Stakeholder Engagement and Boost Team Morale'
 description: Combat Agile famine by boosting stakeholder engagement! Discover strategies to enhance feedback and align your team with business goals for better outcomes.
 date: 2023-10-31T07:00:18Z
+weight: 775
 ResourceId: k4F9DSE99Ok
 ResourceType: videos
 ResourceImport: true

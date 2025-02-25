@@ -8,6 +8,7 @@ ResourceImportId: 6136
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-12
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +28,12 @@ aliasesFor404:
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- System Configuration
 - Windows
 categories: []
 preview: metro-problem-icon-3-3.png

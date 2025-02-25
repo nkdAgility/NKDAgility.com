@@ -8,6 +8,7 @@ ResourceImportId: 11642
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-10-27
+weight: 545
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,10 +25,10 @@ aliasesFor404:
 tags:
 - Agile Values and Principles
 - Scrum Values
+- People and Process
+- Events and Presentations
 - Software Development
 - Software Developers
-- Events and Presentations
-- People and Process
 - Agile Philosophy
 - Organisational Culture
 categories:

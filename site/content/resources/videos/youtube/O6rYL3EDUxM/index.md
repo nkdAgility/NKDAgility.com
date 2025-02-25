@@ -2,6 +2,7 @@
 title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 description: "Is your company truly Agile? \U0001F914 Discover a 6-question test inspired by the U.S. Department of Defense to assess and enhance your Agile practices!"
 date: 2024-06-28T06:45:01Z
+weight: 540
 ResourceId: O6rYL3EDUxM
 ResourceType: videos
 ResourceImport: true
@@ -30,14 +31,14 @@ sitemap:
 tags:
 - Increment
 - People and Process
-- Working Software
 - Agile Values and Principles
+- Working Software
 - Product Delivery
-- Agile Leadership
+- Business Agility
 - Agile Product Management
 - Agile Product Operating Model
-- Business Agility
-- Enterprise Agility
+- Agile Leadership
+- Change Management
 resourceTypes:
 - video
 categories:

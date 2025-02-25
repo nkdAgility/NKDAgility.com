@@ -8,6 +8,7 @@ ResourceImportId: 8031
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-30
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +30,9 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
+- Troubleshooting
 - Software Development
 - Azure DevOps
-- Troubleshooting
 categories:
 - DevOps
 

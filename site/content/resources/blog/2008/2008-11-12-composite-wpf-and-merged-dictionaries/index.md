@@ -8,6 +8,7 @@ ResourceImportId: 170
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-12
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/composite-wpf-and-merged-dictionaries
 - /resources/blog/composite-wpf-and-merged-dictionaries
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Troubleshooting
 categories: []
 preview: metro-binary-vb-128-link-2-2.png

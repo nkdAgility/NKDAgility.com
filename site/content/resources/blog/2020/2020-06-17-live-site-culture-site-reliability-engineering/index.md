@@ -8,6 +8,7 @@ ResourceImportId: 44414
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-06-17
+weight: 455
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,14 +31,14 @@ categories:
 - Engineering Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
-- Deployment Frequency
-- Frequent Releases
-- Market Adaptability
 - Business Agility
+- Market Adaptability
 - Events and Presentations
-- Pragmatic Thinking
-- Organisational Agility
+- Frequent Releases
+- Deployment Frequency
 - Enterprise Agility
+- Organisational Agility
+- Pragmatic Thinking
 - Software Development
 - Continuous Learning
 

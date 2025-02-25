@@ -8,6 +8,7 @@ ResourceImportId: 30
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-08-25
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,12 +23,12 @@ aliasesFor404:
 - /blog/rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
-- Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Modern Source Control
 - Products and Books
-- Technical Mastery
 - Application Lifecycle Management
+- Technical Mastery
 - Software Development
 categories:
 - DevOps

@@ -2,6 +2,7 @@
 title: nkdAgility Healthgrades Interview CJSingh
 description: Join Martin Hinshelwood as he transforms Healthgrades with Scrum training, uniting teams and igniting a journey towards enhanced business agility!
 date: 2017-07-27T18:16:30Z
+weight: 775
 ResourceId: Fm24oKNN--w
 ResourceType: videos
 ResourceImport: true
@@ -23,13 +24,13 @@ preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: false
 tags:
-- Organisational Change
 - People and Process
+- Organisational Change
 - Organisational Agility
-- Pragmatic Thinking
-- Agile Frameworks
 - Agile Project Management
+- Pragmatic Thinking
 - Agile Transformation
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4

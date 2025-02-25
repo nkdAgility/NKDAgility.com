@@ -2,6 +2,7 @@
 title: How does the APS course help people apply scrum effectively?
 description: Discover how the APS course transforms Scrum learning into a hands-on experience, empowering teams to tackle complex challenges effectively.
 date: 2023-01-18T08:57:16Z
+weight: 770
 ResourceId: grJFd9-R5Pw
 ResourceType: videos
 ResourceImport: true

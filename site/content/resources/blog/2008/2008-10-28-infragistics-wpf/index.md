@@ -8,6 +8,7 @@ ResourceImportId: 179
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-28
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,9 +23,9 @@ aliasesFor404:
 - /blog/infragistics-wpf
 - /resources/blog/infragistics-wpf
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories: []
 
 ---

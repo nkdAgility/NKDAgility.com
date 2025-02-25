@@ -2,6 +2,7 @@
 title: What are the barriers that prevent developers from fully accepting a Product Owner as the final decision maker?
 description: Explore the barriers hindering developers from accepting product owners' decisions. Discover the importance of respect and accountability in agile teams!
 date: 2023-10-03T07:00:08Z
+weight: 770
 ResourceId: A0Y-zySHXyc
 ResourceType: videos
 ResourceImport: true
@@ -29,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Accountability
-- Scrum Team
+- People and Process
 - Scrum Product Development
 - Agile Product Management
+- Scrum Team
 - Transparency and Accountability
-- People and Process
 - Product Owner
+- Team Collaboration
 - Agile Project Management
 - Professional Scrum
-- Team Collaboration
 resourceTypes:
 - video
 categories:

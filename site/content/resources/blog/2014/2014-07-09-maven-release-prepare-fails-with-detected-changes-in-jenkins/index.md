@@ -8,6 +8,7 @@ ResourceImportId: 10579
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-09
+weight: 685
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,14 +25,14 @@ aliasesFor404:
 tags:
 - Windows
 - Modern Source Control
-- Install and Configuration
 - Release Management
 - Practical Techniques and Tooling
+- Install and Configuration
 - Continuous Integration
-- Software Development
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
+- Software Development
 categories:
 - DevOps
 - Engineering Excellence

@@ -8,6 +8,7 @@ ResourceImportId: 4071
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-22
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,11 +27,11 @@ aliasesFor404:
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/blog/always-prompted-for-credentials-in-tfs-2010
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Troubleshooting
 - Windows
 - System Configuration
-- Troubleshooting
 preview: metro-visual-studio-2005-128-link-6-6.png
 categories: []
 

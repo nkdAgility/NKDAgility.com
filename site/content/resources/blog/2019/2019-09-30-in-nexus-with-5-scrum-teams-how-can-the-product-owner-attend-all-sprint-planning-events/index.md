@@ -8,6 +8,7 @@ ResourceImportId: 39855
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-30
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,13 +34,13 @@ tags:
 - Agile Project Management
 - Scrum Product Development
 - Professional Scrum
-- Scrum Team
-- Product Owner
 - Scaling Scrum
+- Scrum Team
 - Product Backlog
+- Product Owner
 - Events and Presentations
-- Agile Product Management
-- Large Scale Agility
+- Scaling Agility
+- Software Development
 categories:
 - Scrum
 preview: 146713119-1-1.jpg

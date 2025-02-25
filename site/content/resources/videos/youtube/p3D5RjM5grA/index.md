@@ -2,6 +2,7 @@
 title: Ep 006 - Live Virtual Retrospective On PAL-e with Russell Miller
 description: Join Russell Miller and me as we discuss our experience co-teaching a Professional Agile Leadership class online, exploring tech choices and future improvements!
 date: 2020-04-25T02:29:57Z
+weight: 770
 ResourceId: p3D5RjM5grA
 ResourceType: videos
 ResourceImport: true

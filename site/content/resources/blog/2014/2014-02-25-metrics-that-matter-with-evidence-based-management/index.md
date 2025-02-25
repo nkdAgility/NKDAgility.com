@@ -8,6 +8,7 @@ ResourceImportId: 10367
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-25
+weight: 405
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,13 +23,13 @@ aliasesFor404:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
-- Evidence Based Leadership
-- Evidence Based Management
 - Metrics and Learning
+- Evidence Based Management
+- Evidence Based Leadership
 categories:
 - Product Management
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-agility-index-24-24.png
 
 ---

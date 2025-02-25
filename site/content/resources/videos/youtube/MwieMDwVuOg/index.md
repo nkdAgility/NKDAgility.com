@@ -2,6 +2,7 @@
 title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
 description: Unlock the secret to client satisfaction! Discover why focusing on real needs, not just the SoW, is key to delivering lasting value in consulting.
 date: 2025-02-19T07:25:02Z
+weight: 775
 ResourceId: MutnPwNzyXM
 ResourceType: videos
 ResourceImport: true
@@ -30,16 +31,16 @@ preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
-- Agile Strategy
-- Scaling Agility
 - Scaled Agile
-- Agile Philosophy
+- Agile Strategy
 - Agile Transformation
-- Enterprise Agility
+- Agile Philosophy
+- Scaling Agility
+- Business Agility
 - Strategy
 - Pragmatic Thinking
 - Organisational Agility
-- Business Agility
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4

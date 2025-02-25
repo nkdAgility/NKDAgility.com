@@ -2,6 +2,7 @@
 title: 'Continuous Adaptation: The Key to Success in a Dynamic Market'
 description: "Discover how adapting to change drives business success in our fast-paced world. Join us to learn key strategies for thriving amidst constant evolution! \U0001F30D✨"
 date: 2024-01-19T06:08:37Z
+weight: 1000
 ResourceId: Bjz6SwLDIY4
 ResourceType: videos
 ResourceImport: true
@@ -28,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
+- People and Process
 - Business Agility
 - Organisational Change
-- People and Process
 - Resilience and Change
-- Enterprise Agility
-- Market Adaptability
+- Organisational Agility
 - Change Management
-- Agile Philosophy
+- Market Adaptability
+- Enterprise Agility
 - Beta Codex
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

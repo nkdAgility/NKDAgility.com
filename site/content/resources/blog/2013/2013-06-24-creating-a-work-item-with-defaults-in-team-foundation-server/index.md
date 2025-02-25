@@ -8,6 +8,7 @@ ResourceImportId: 9686
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-24
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,10 +23,10 @@ aliasesFor404:
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Azure Boards
+- Install and Configuration
 - Software Development
+- Azure Boards
 - Azure DevOps
 categories: []
 

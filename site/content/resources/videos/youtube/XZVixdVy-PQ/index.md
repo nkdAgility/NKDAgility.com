@@ -2,6 +2,7 @@
 title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
 description: "Discover the true essence of Agile with Ken Schwaber! Learn how to innovate software development beyond rituals for better results. \U0001F31F"
 date: 2024-01-22T07:00:11Z
+weight: 775
 ResourceId: XZVixdVy-PQ
 ResourceType: videos
 ResourceImport: true
@@ -30,13 +31,13 @@ sitemap:
 tags:
 - People and Process
 - Agile Values and Principles
+- Agile Product Operating Model
 - Agile Strategy
 - Software Development
+- Agile Transformation
 - Organisational Agility
 - Agile Frameworks
 - Agile Philosophy
-- Agile Transformation
-- Agile Product Operating Model
 - Pragmatic Thinking
 resourceTypes:
 - video

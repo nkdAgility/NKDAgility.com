@@ -8,6 +8,7 @@ ResourceImportId: 3776
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-07
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +25,8 @@ aliasesFor404:
 tags:
 - Application Lifecycle Management
 - Products and Books
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
 categories:
 - Engineering Excellence
 

@@ -8,6 +8,7 @@ ResourceImportId: 44432
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-06-21
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +27,16 @@ categories:
 - Social Technologies
 preview: class-colage-2-8-8.jpg
 tags:
-- Team Collaboration
 - People and Process
+- Team Collaboration
 - Agile Values and Principles
-- Scrum Product Development
-- Professional Scrum
-- Collaboration Tools
-- Events and Presentations
-- Discovery and Learning
 - Scrum Team
+- Collaboration Tools
 - Scrum Values
+- Discovery and Learning
+- Professional Scrum
+- Scrum Product Development
+- Events and Presentations
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

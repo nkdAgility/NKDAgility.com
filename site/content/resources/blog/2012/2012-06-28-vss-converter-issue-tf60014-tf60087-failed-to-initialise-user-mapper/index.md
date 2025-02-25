@@ -8,6 +8,7 @@ ResourceImportId: 6124
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-28
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 tags:
 - Install and Configuration
-- Software Development
 - Troubleshooting
+- Software Development
 categories: []
 preview: metro-problem-icon-2-2.png
 

@@ -5,6 +5,7 @@ ResourceId: A1Gq5rHDvzC
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-06-29
+weight: 550
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -19,16 +20,16 @@ aliasesFor404:
 categories:
 - Social Technologies
 tags:
+- Agile Transformation
 - Continuous Learning
 - Discovery and Learning
-- Agile Transformation
+- People and Process
 - Events and Presentations
+- Agile Project Management
 - Organisational Agility
 - Agile Frameworks
-- People and Process
-- Agile Project Management
 - Agile Strategy
-- Software Development
+- Pragmatic Thinking
 
 ---
 Dear NKD Agilists!

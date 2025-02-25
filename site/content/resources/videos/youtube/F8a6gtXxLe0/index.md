@@ -2,6 +2,7 @@
 title: nkdAgility Healthgrades Interview Dave Frisch
 description: Join Dave Frisch as he shares his journey from resistance to acceptance in training at Healthgrades, revealing insights from his unique dinner strategy!
 date: 2017-07-27T19:14:11Z
+weight: 1000
 ResourceId: F8a6gtXxLe0
 ResourceType: videos
 ResourceImport: true

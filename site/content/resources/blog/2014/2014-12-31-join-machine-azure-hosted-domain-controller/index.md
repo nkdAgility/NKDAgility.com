@@ -8,6 +8,7 @@ ResourceImportId: 10892
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-31
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/join-machine-azure-hosted-domain-controller
 tags:
 - System Configuration
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Windows
 - Troubleshooting
 categories: []

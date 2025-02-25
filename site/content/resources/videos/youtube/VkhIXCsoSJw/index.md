@@ -2,6 +2,7 @@
 title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
 description: Unlock the secrets of successful product development! Discover how automation transforms testing, deployment, and quality assurance for engineering teams.
 date: 2025-01-14T06:45:00Z
+weight: 355
 ResourceId: VkhIXCsoSJw
 ResourceType: videos
 ResourceImport: true
@@ -24,15 +25,15 @@ duration: 529
 isShort: false
 tags:
 - Continuous Delivery
-- Practical Techniques and Tooling
 - Technical Excellence
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Operational Practices
 - AI and Automation in Agility
-- Code and Complexity
-- Azure DevOps
 - Test Automation
+- Code and Complexity
 - Technical Debt
+- Azure DevOps
 resourceTypes:
 - video
 sitemap:

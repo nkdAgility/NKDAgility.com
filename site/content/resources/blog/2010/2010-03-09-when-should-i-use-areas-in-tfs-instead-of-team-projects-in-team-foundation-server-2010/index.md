@@ -8,6 +8,7 @@ ResourceImportId: 64
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-09
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,18 +26,18 @@ tags:
 - Application Lifecycle Management
 - Modern Source Control
 - System Configuration
-- Software Development
 - Practical Techniques and Tooling
-- Azure DevOps
-- Pragmatic Thinking
+- Software Development
 - Operational Practices
+- Pragmatic Thinking
+- Azure DevOps
 - Agile Frameworks
 - Agile Project Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 
 ---
 Well, it depends… If you are a small company that creates a finite number of internal projects then you will find it easier to create a single project for each of your products and have TFS do the heavy lifting with reporting, SharePoint sites and Version Control.

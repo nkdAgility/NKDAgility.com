@@ -8,6 +8,7 @@ ResourceImportId: 10899
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-11
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,12 +30,12 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
+- Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
 - Software Development
 - Technical Excellence
 - Azure DevOps
-- Pragmatic Thinking
-- Troubleshooting
-- Technical Mastery
 - Working Software
 categories:
 - Engineering Excellence

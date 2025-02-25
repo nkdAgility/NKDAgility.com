@@ -8,6 +8,7 @@ ResourceImportId: 376
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-20
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +25,9 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
+- Software Development
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories:

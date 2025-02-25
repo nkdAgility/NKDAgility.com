@@ -2,6 +2,7 @@
 title: 'The Power of Community: Becoming an Awesome Agile Coach'
 description: 'Discover the fourth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-16T11:00:37Z
+weight: 775
 ResourceId: hij5_aP_YN4
 ResourceType: videos
 ResourceImport: true
@@ -30,8 +31,8 @@ sitemap:
 tags:
 - People and Process
 - Coaching
-- Personal
 - Mentoring
+- Personal
 resourceTypes:
 - video
 categories:

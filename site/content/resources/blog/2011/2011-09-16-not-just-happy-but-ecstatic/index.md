@@ -8,6 +8,7 @@ ResourceImportId: 3783
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-16
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,9 +35,9 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Release Management
-- Personal
 - Technical Mastery
 - Operational Practices
+- Personal
 categories:
 - DevOps
 

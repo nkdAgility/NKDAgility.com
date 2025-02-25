@@ -2,6 +2,7 @@
 title: The Tyranny of Taylorism and how to spot agile lies for The Future of Work in Scotland
 description: Explore the pitfalls of Taylorism and uncover the truths behind agile methodologies in Scotland's evolving work landscape. Join the conversation!
 date: 2020-07-21T18:00:53Z
+weight: 1000
 ResourceId: Sa7uw3CX_yE
 ResourceType: videos
 ResourceImport: true

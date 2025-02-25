@@ -8,6 +8,7 @@ ResourceImportId: 9452
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +24,8 @@ aliasesFor404:
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 - Troubleshooting

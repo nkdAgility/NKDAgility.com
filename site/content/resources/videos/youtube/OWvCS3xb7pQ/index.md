@@ -2,6 +2,7 @@
 title: 'Transforming Leadership: Embrace the Immersive Journey to Agile Mastery'
 description: Transform your leadership style with our immersive Agile Leadership Essentials course. Discover effective training that empowers teams and fosters growth!
 date: 2023-07-13T12:06:17Z
+weight: 770
 ResourceId: OWvCS3xb7pQ
 ResourceType: videos
 ResourceImport: true
@@ -23,14 +24,14 @@ duration: 181
 isShort: false
 tags:
 - Agile Leadership
-- Continuous Learning
 - People and Process
 - Agile Transformation
-- Organisational Agility
+- Continuous Learning
 - Organisational Change
+- Organisational Agility
+- Mentoring
 - Pragmatic Thinking
 - Personal
-- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

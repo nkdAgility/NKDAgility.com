@@ -2,6 +2,7 @@
 title: What is Project Management?
 description: 'Discover the essence of project management in this short video! Learn how it evolved from manufacturing to enhance teamwork and efficiency. #agile #scrum'
 date: 2023-05-22T07:00:14Z
+weight: 1000
 ResourceId: jmU91ClcSqA
 ResourceType: videos
 ResourceImport: true

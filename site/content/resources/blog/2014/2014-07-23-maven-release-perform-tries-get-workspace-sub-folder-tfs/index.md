@@ -8,6 +8,7 @@ ResourceImportId: 10620
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-23
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +28,12 @@ aliasesFor404:
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Practical Techniques and Tooling
-- Pragmatic Thinking
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
 - Release Management
 - Operational Practices
 categories:

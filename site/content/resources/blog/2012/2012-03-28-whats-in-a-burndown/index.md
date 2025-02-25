@@ -8,6 +8,7 @@ ResourceImportId: 5002
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-28
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/whats-in-a-burndown
 tags:
 - Scrum Product Development
+- Scrum Team
 - Practical Techniques and Tooling
 - Product Delivery
 - Software Development
-- Scrum Team
 - Agile Project Management
-- Team Performance
+- Software Developers
 - Agile Product Management
-- Professional Scrum
 - Agile Planning
+- Metrics and Learning
 categories:
 - Scrum
 - Social Technologies

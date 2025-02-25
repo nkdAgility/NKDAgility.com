@@ -8,6 +8,7 @@ ResourceImportId: 10732
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-16
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +29,8 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - DevOps
 - Engineering Excellence

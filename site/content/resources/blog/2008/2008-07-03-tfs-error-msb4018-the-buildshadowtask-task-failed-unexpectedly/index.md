@@ -8,6 +8,7 @@ ResourceImportId: 219
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-07-03
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +29,8 @@ aliasesFor404:
 tags:
 - Windows
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
+- Software Development
 - Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:

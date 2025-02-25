@@ -8,6 +8,7 @@ ResourceImportId: 51
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags:
 - Scrum Team
-- Team Collaboration
-- Scrum Product Development
-- Professional Scrum
-- Team Performance
 - People and Process
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
+- Team Performance
+- Scrum Product Development
+- Team Collaboration
+- Professional Scrum
 - Agile Product Management
+- Agile Project Management
+- Pragmatic Thinking
+- Software Development
 categories:
 - Scrum
 - Social Technologies

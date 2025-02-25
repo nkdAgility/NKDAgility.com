@@ -2,6 +2,7 @@
 title: 'Unlocking Continuous Delivery: How Feature Flags Transform Software Development'
 description: Unlock the power of feature flags for seamless software delivery! Discover how incremental releases and user feedback can transform your development process.
 date: 2025-01-16T06:45:00Z
+weight: 410
 ResourceId: YVrGU0oZmc0
 ResourceType: videos
 ResourceImport: true

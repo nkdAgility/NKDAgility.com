@@ -8,6 +8,7 @@ ResourceImportId: 185
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-22
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,9 +27,9 @@ aliasesFor404:
 - /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-15-15.png
 categories:
 - Social Technologies

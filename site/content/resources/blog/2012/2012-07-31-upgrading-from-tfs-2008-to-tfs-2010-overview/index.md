@@ -8,6 +8,7 @@ ResourceImportId: 6905
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-31
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,10 +24,10 @@ aliasesFor404:
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
+- System Configuration
 - Technical Mastery
+- Software Development
 - Troubleshooting
 categories:
 - Engineering Excellence

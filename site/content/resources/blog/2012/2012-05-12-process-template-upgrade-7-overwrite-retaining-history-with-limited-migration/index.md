@@ -8,6 +8,7 @@ ResourceImportId: 5277
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-05-12
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +30,8 @@ tags:
 - Install and Configuration
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 
 ---
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved. Although the original list had only #6 options lets look at the #7 option…

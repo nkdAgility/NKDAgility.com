@@ -8,6 +8,7 @@ ResourceImportId: 248
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-11
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
 tags:
-- Install and Configuration
 - Release Management
+- Install and Configuration
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

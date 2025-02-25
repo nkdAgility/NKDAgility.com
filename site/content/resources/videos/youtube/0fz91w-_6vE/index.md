@@ -2,6 +2,7 @@
 title: 'Unlocking Value in DevOps: My Role as a Consultant in Driving Change and Overcoming Bottlenecks'
 description: 'Discover the core of DevOps consulting: identifying bottlenecks, optimising workflows, and fostering a culture of continuous improvement. Join the conversation!'
 date: 2023-05-02T07:00:00Z
+weight: 545
 ResourceId: 0fz91w-_6vE
 ResourceType: videos
 ResourceImport: true
@@ -25,12 +26,12 @@ tags:
 - People and Process
 - Product Delivery
 - Value Delivery
-- Software Development
 - Market Adaptability
 - Operational Practices
+- Software Development
+- Flow Efficiency
 - Value Stream Management
 - Discovery and Learning
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

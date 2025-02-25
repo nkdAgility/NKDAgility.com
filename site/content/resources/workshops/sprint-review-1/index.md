@@ -34,6 +34,7 @@ videos:
 - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
   embed: https://www.youtube.com/embed/1-W64WdSbF4
 date: 2024-09-17
+weight: 775
 card:
   button:
     content: Learn More

@@ -5,6 +5,7 @@ ResourceId: bvPDNFJju4h
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-08-29
+weight: 995
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -22,13 +23,13 @@ categories:
 tags:
 - Discovery and Learning
 - Products and Books
-- Product Validation
 - Agile Product Management
+- Product Validation
 - Product Discovery
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - Practical Techniques and Tooling
-- Customer Satisfaction
+- Product Owner
 - Product Delivery
 
 ---

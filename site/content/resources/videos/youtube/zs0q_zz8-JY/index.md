@@ -2,6 +2,7 @@
 title: 'Unpacking the Scrum Master Myth: Why Servant Leadership is Key to Team Success'
 description: Discover the true essence of a Scrum Master as a servant leader. Uncover common misconceptions and learn how to empower your team for success!
 date: 2023-06-21T11:00:52Z
+weight: 640
 ResourceId: zs0q_zz8-JY
 ResourceType: videos
 ResourceImport: true
@@ -22,9 +23,9 @@ preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Technical Leadership
 - Agile Project Management
 - Agile Leadership

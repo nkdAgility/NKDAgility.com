@@ -8,6 +8,7 @@ ResourceImportId: 49726
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-08-31
+weight: 1000
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,13 +30,13 @@ aliasesFor404:
 tags:
 - Transparency
 - Scrum Product Development
-- Product Backlog
 - People and Process
-- Transparency and Accountability
 - Agile Product Management
-- Software Development
+- Product Backlog
+- Transparency and Accountability
+- Agile Project Management
 - Pragmatic Thinking
-- Product Delivery
+- Software Development
 - Product Owner
 categories:
 - Product Management

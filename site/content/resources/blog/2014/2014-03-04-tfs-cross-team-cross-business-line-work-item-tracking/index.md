@@ -8,6 +8,7 @@ ResourceImportId: 10378
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-03-04
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +30,8 @@ tags:
 - Software Development
 categories:
 - Product Management
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

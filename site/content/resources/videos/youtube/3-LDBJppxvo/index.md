@@ -2,6 +2,7 @@
 title: The Importance of Delivering Working Software Every Iteration
 description: 'Discover 6 surprising insights about Agile Product Management that can transform your approach! Watch now for essential tips. #agile #productmanagement'
 date: 2024-06-26T06:45:00Z
+weight: 550
 ResourceId: 3-LDBJppxvo
 ResourceType: videos
 ResourceImport: true
@@ -28,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Customer Feedback Loops
-- Working Software
-- Agile Values and Principles
 - Agile Product Management
-- Agile Transformation
-- Software Development
-- Product Validation
+- Agile Values and Principles
+- Working Software
 - Software Developers
-- Product Delivery
-- Discovery and Learning
+- Value Delivery
+- Agile Philosophy
+- Scrum Product Development
+- Product Validation
+- Agile Project Management
 resourceTypes:
 - video
 layout: video

@@ -8,6 +8,7 @@ ResourceImportId: 243
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-03-04
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/what-the-0x80072020-
 - /resources/blog/what-the-0x80072020
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

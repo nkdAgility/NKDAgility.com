@@ -2,6 +2,7 @@
 title: Does 'starting with why' - Simon Sinek - really matter?
 description: Explore the essence of motivation beyond money! Discover how 'starting with why' fuels intrinsic drive and purpose in the workplace.
 date: 2023-10-19T08:22:23Z
+weight: 1000
 ResourceId: sAKCLQ38GzA
 ResourceType: videos
 ResourceImport: true
@@ -29,14 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Operating Model
 - Team Motivation
+- Agile Product Operating Model
+- Product Strategy
 - Employee Engagement
 - Organisational Culture
 - Strategic Goals
-- Product Strategy
+- Organisational Psychology
 - Agile Strategy
-- Organisational Physics
 - Sociotechnical Systems
 resourceTypes:
 - video

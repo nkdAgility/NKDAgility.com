@@ -2,6 +2,7 @@
 title: Professional Scrum with Nexus (SPS) with Certification - Learn skills to overcome scaling challenges
 description: Master scaling Scrum with the Scaled Professional Scrum course! Overcome challenges and enhance collaboration across teams for greater value creation.
 date: 2022-08-23T16:53:08Z
+weight: 775
 ResourceId: sBBKKlfwlrA
 ResourceType: videos
 ResourceImport: true
@@ -23,16 +24,16 @@ preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false
 tags:
-- Professional Scrum
 - Scaling Scrum
-- Scaling Agility
+- Professional Scrum
 - People and Process
 - Scaled Agile
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
+- Scaling Agility
 - Large Scale Agility
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4

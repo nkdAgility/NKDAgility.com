@@ -8,6 +8,7 @@ ResourceImportId: 17
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-14
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,7 +33,7 @@ tags:
 categories:
 - Scrum
 - Leadership
-- Social Technologies
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

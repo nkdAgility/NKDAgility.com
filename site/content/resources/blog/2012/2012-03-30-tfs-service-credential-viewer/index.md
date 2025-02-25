@@ -8,6 +8,7 @@ ResourceImportId: 5032
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-30
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - Products and Books
 - Practical Techniques and Tooling

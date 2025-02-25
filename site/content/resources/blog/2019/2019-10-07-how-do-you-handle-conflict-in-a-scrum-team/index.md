@@ -8,6 +8,7 @@ ResourceImportId: 39851
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-07
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 tags:
 - Coaching
-- Scrum Product Development
-- Professional Scrum
-- Scrum Master
 - People and Process
 - Scrum Team
+- Scrum Product Development
 - Events and Presentations
+- Scrum Master
+- Professional Scrum
 - Team Performance
-- Software Development
 - Team Motivation
+- Agile Product Management
 categories:
 - Scrum
 - Social Technologies

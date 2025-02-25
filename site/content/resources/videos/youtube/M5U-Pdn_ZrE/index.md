@@ -2,6 +2,7 @@
 title: 'Mastering the Art of Understanding: Essential Skills for Product Owners to Foster Team Clarity'
 description: Unlock the secrets to effective product ownership! Discover how to read the room, tailor communication, and foster understanding within your team.
 date: 2023-12-18T11:00:15Z
+weight: 1000
 ResourceId: M5U-Pdn_ZrE
 ResourceType: videos
 ResourceImport: true

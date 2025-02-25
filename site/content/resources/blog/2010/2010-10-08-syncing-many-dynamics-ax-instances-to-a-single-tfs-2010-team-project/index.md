@@ -8,6 +8,7 @@ ResourceImportId: 23
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-08
+weight: 660
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,16 +23,16 @@ aliasesFor404:
 - /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 tags:
-- Modern Source Control
 - Install and Configuration
-- System Configuration
+- Modern Source Control
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
+- System Configuration
 - Troubleshooting
+- Application Lifecycle Management
 - Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
 categories:
 - Engineering Excellence
 

@@ -8,6 +8,7 @@ ResourceImportId: 3909
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-10-18
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +30,13 @@ tags:
 - Product Owner
 - Accountability
 - Scrum Product Development
-- Product Backlog
-- Scrum Team
 - People and Process
 - Agile Product Management
 - Agile Project Management
-- Professional Scrum
+- Product Backlog
+- Scrum Team
 - Software Development
+- Product Delivery
 categories:
 - Scrum
 - Product Management

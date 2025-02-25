@@ -8,6 +8,7 @@ ResourceImportId: 121
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +24,8 @@ aliasesFor404:
 - /resources/blog/visual-studio-team-system-2010-beta-1-ships
 tags:
 - Products and Books
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - News and Reviews
 - Technical Mastery
 categories:

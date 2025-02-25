@@ -8,6 +8,7 @@ ResourceImportId: 9338
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-23
+weight: 270
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,16 +23,16 @@ aliasesFor404:
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
-- Scrum Product Development
-- Scrum Master
-- Software Development
-- Agile Frameworks
-- Technical Debt
-- Scrum Team
-- Professional Scrum
 - People and Process
-- Engineering Practices
+- Technical Debt
+- Scrum Product Development
 - Agile Product Management
+- Agile Frameworks
+- Agile Project Management
+- Scrum Master
+- Agile Planning
+- Working Software
+- Software Development
 categories:
 - Scrum
 - Engineering Excellence

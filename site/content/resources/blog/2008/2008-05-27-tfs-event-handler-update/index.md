@@ -8,6 +8,7 @@ ResourceImportId: 221
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-27
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,14 +24,14 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-update
 tags:
 - Release Management
-- Working Software
 - Practical Techniques and Tooling
+- Working Software
 - News and Reviews
+- Troubleshooting
+- Application Lifecycle Management
+- Frequent Releases
 - Software Development
 - Azure DevOps
-- Troubleshooting
-- Frequent Releases
-- Application Lifecycle Management
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

@@ -2,6 +2,7 @@
 title: worst trait in unskilled scrum masters?
 description: "Uncover the truth about Scrum Masters! Join Martin as he dispels myths and shares strategies for effective team collaboration. \U0001F680 #Scrum #Agile"
 date: 2023-04-28T07:00:08Z
+weight: 770
 ResourceId: DNCDdWjYis8
 ResourceType: videos
 ResourceImport: true
@@ -33,8 +34,8 @@ categories:
 - Social Technologies
 tags:
 - Scrum Master
-- Scrum Team
 - Agile Project Management
+- Scrum Team
 - People and Process
 - Professional Scrum
 - Software Development

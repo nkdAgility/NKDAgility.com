@@ -2,6 +2,7 @@
 title: 'Rethinking Budgeting: How to Break Free from Traditional Constraints and Maximise Value'
 description: Break free from traditional budgeting! Discover how Beyond Budgeting fosters agility, maximises value, and seizes opportunities in a dynamic market.
 date: 2024-12-09T06:30:00Z
+weight: 1000
 ResourceId: kXhJrisYofU
 ResourceType: videos
 ResourceImport: true
@@ -24,15 +25,15 @@ duration: 496
 isShort: false
 tags:
 - Agile Product Operating Model
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
 - People and Process
+- Change Management
 - Agile Values and Principles
 - Resilience and Change
-- Change Management
-- Agile Planning
-- Portfolio Management
+- Agile Strategy
 - Business Agility
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -8,6 +8,7 @@ ResourceImportId: 51730
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2024-09-05
+weight: 245
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -31,16 +32,16 @@ aliasesFor404:
 tags:
 - Agile Project Management
 - Scrum Master
-- Agile Frameworks
 - Scrum Team
-- Professional Scrum
+- Agile Frameworks
+- People and Process
 - Team Performance
 - Software Development
-- People and Process
+- Professional Scrum
 categories:
 - Scrum
 - Engineering Excellence
-- Social Technologies
+- DevOps
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

@@ -8,6 +8,7 @@ ResourceImportId: 9103
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-02
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,11 +27,11 @@ aliasesFor404:
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
+- Install and Configuration
 - Troubleshooting
+- Pragmatic Thinking
+- Software Development
 categories:
 - Social Technologies
 preview: metro-problem-icon-3-3.png

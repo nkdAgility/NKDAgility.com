@@ -2,6 +2,7 @@
 title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD and Pair Programming'
 description: Unlock the secrets of software excellence! Discover how test-driven development and pair programming can elevate your code quality and architecture.
 date: 2024-11-19T16:55:41Z
+weight: 410
 ResourceId: CWxkBJJduCE
 ResourceType: videos
 ResourceImport: true
@@ -24,10 +25,10 @@ isShort: true
 tags:
 - Software Development
 - Engineering Practices
-- Technical Excellence
 - Technical Mastery
-- Software Developers
+- Technical Excellence
 - Code and Complexity
+- Software Developers
 - Test Driven Development
 sitemap:
   filename: sitemap.xml

@@ -8,6 +8,7 @@ ResourceImportId: 9759
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
+weight: 995
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,15 +27,15 @@ aliasesFor404:
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
-- Install and Configuration
-- Technical Mastery
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
+- Technical Mastery
+- Install and Configuration
 - Troubleshooting
 - Operational Practices
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Azure DevOps
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-5-5.png

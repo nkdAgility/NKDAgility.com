@@ -8,6 +8,7 @@ ResourceImportId: 88
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-25
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +28,9 @@ aliasesFor404:
 - /resources/blog/wpf-ninject-dojo-the-data-provider
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-1-1.png

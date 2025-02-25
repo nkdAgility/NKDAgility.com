@@ -8,6 +8,7 @@ ResourceImportId: 240
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-14
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,9 +27,9 @@ aliasesFor404:
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

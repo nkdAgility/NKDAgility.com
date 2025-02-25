@@ -2,6 +2,7 @@
 title: Why Embracing Automation is Essential for Reducing Human Error in Software Development
 description: Discover how automation transforms software development by minimising human error and enhancing efficiency. Learn why embracing automation is essential for success!
 date: 2024-12-18T06:45:00Z
+weight: 640
 ResourceId: sdIPSpbeA9w
 ResourceType: videos
 ResourceImport: true
@@ -24,15 +25,15 @@ duration: 613
 isShort: false
 tags:
 - Software Development
+- Test Automation
 - Azure DevOps
 - Automated Testing
-- Test Automation
-- Pragmatic Thinking
 - Practical Techniques and Tooling
-- Technical Excellence
-- Engineering Practices
-- Flow Efficiency
+- Pragmatic Thinking
 - Technical Mastery
+- Operational Practices
+- Engineering Practices
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

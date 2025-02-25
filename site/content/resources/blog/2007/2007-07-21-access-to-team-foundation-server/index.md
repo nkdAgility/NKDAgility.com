@@ -8,6 +8,7 @@ ResourceImportId: 366
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-21
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,12 +23,12 @@ aliasesFor404:
 - /blog/access-to-team-foundation-server
 - /resources/blog/access-to-team-foundation-server
 tags:
-- Continuous Learning
-- Software Development
 - Troubleshooting
+- Application Lifecycle Management
 - Technical Mastery
 - Miscellaneous
-- Application Lifecycle Management
+- Software Development
+- Continuous Learning
 categories: []
 
 ---

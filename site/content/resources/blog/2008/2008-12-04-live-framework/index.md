@@ -8,6 +8,7 @@ ResourceImportId: 156
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-04
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,13 +23,13 @@ aliasesFor404:
 - /blog/live-framework
 - /resources/blog/live-framework
 tags:
-- Team Collaboration
 - Collaboration Tools
+- Team Collaboration
 - System Configuration
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Azure DevOps
-- Technical Mastery
 preview: metro-cloud-azure-link-2-2.png
 categories: []
 

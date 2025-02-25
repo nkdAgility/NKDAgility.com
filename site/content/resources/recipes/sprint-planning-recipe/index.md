@@ -9,6 +9,7 @@ layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
 date: 2024-09-17
+weight: 775
 aliases:
 - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
 - /resources/D1dSEM9ni3C

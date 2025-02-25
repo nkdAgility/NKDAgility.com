@@ -8,6 +8,7 @@ ResourceImportId: 3373
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-05-31
+weight: 680
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,14 +25,14 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
+- Practical Techniques and Tooling
+- Technical Mastery
 - Platform Engineering
 - Software Development
 - Technical Excellence
-- Technical Mastery
 - Internal Developer Platform
-- Practical Techniques and Tooling
-- Azure DevOps
 - Operational Practices
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories:
 - DevOps

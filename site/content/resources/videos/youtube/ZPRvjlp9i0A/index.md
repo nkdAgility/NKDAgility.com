@@ -2,6 +2,7 @@
 title: 14th April 2020 - Office Hours \ Ask me Anything
 description: Join Martin, a Scrum Trainer and Microsoft MVP, for an engaging Q&A on DevOps and Agility. Ask anything or submit sensitive queries privately!
 date: 2020-04-14T19:09:07Z
+weight: 1000
 ResourceId: ZPRvjlp9i0A
 ResourceType: videos
 ResourceImport: true
@@ -23,8 +24,8 @@ preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
 duration: 2112
 isShort: false
 tags:
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - Software Development
 - Software Developers
 sitemap:

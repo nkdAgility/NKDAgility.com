@@ -8,6 +8,7 @@ ResourceImportId: 359
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-25
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/social-and-business-networking
 - /resources/blog/social-and-business-networking
 tags:
-- Software Development
 - Entrepreneurship
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

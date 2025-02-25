@@ -8,6 +8,7 @@ ResourceImportId: 10878
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-26
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +24,8 @@ aliasesFor404:
 - /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 categories: []
 preview: nakedalm-windows-logo-4-4.png
 

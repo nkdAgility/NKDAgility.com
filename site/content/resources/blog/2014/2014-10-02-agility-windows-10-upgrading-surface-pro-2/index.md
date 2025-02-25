@@ -8,6 +8,7 @@ ResourceImportId: 10746
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-02
+weight: 995
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +29,8 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: nakedalm-windows-logo-12-12.png
 
 ---

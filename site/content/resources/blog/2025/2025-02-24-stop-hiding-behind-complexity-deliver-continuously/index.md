@@ -5,6 +5,7 @@ ResourceId: 7hEAycZIn8w
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-24T09:00:00
+weight: 270
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -23,11 +24,11 @@ aliasesFor404:
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
-- Continuous Delivery
+- Frequent Releases
 - Software Development
 - Product Delivery
+- Continuous Delivery
 - Value Delivery
-- Frequent Releases
 categories:
 - DevOps
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg

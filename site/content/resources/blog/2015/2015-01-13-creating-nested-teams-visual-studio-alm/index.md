@@ -8,6 +8,7 @@ ResourceImportId: 11068
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-13
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,12 +29,12 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
-- Azure Boards
-- Software Development
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Azure DevOps
+- Software Development
+- Azure Boards
 - Pragmatic Thinking
+- Azure DevOps
 categories:
 - Kanban
 - Social Technologies

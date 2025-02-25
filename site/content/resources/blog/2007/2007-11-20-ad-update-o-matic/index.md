@@ -8,6 +8,7 @@ ResourceImportId: 290
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-20
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,12 +23,12 @@ aliasesFor404:
 - /blog/ad-update-o-matic
 - /resources/blog/ad-update-o-matic
 tags:
+- Technical Mastery
+- Operational Practices
 - Windows
+- Working Software
 - Software Development
 - System Configuration
-- Technical Mastery
-- Working Software
-- Operational Practices
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

@@ -8,6 +8,7 @@ ResourceImportId: 11072
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-15
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,11 +26,11 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- System Configuration
-- Azure Pipelines
 - Troubleshooting
+- Software Development
+- System Configuration
+- Azure DevOps
+- Azure Pipelines
 categories:
 - DevOps
 

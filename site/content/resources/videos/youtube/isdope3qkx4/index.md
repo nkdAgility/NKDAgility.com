@@ -2,6 +2,7 @@
 title: 11th April 2020 - Office Hours \ Ask Me Anything
 description: Join Martin, a Scrum Trainer and Azure DevOps MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-04-10T18:35:30Z
+weight: 1000
 ResourceId: isdope3qkx4
 ResourceType: videos
 ResourceImport: true
@@ -24,12 +25,12 @@ duration: 2351
 isShort: false
 tags:
 - Azure DevOps
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - News and Reviews
+- Agile Project Management
 - Software Development
 - Software Developers
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

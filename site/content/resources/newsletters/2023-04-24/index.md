@@ -5,6 +5,7 @@ ResourceId: 6h1D_YPjPuU
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-04-24
+weight: 550
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -23,10 +24,10 @@ tags:
 - People and Process
 - Events and Presentations
 - Continuous Learning
-- Software Development
-- Agile Frameworks
 - Agile Project Management
+- Software Development
 - Agile Transformation
+- Agile Frameworks
 
 ---
 The world is spinning faster than ever, with more players than ever.

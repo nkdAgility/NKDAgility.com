@@ -8,6 +8,7 @@ ResourceImportId: 49502
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-07-27
+weight: 545
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -26,13 +27,13 @@ tags:
 - Transparency
 - Increment
 - Agile Product Operating Model
-- Agile Values and Principles
 - Agile Product Management
-- Agile Planning
-- Agile Strategy
-- Scrum Product Development
-- People and Process
-- Agile Frameworks
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Transformation
+- Product Delivery
+- Agile Project Management
+- Working Software
 categories:
 - Product Management
 - Social Technologies

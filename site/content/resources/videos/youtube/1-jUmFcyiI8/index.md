@@ -2,6 +2,7 @@
 title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success'
 description: Unlock the secrets to efficient software delivery! Discover how deployment frequency, stability, and learning time can transform your team's success.
 date: 2025-01-22T14:16:54Z
+weight: 410
 ResourceId: 1-jUmFcyiI8
 ResourceType: videos
 ResourceImport: true

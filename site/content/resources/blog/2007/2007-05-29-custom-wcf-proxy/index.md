@@ -8,6 +8,7 @@ ResourceImportId: 394
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-29
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/custom-wcf-proxy
 - /resources/blog/custom-wcf-proxy
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 preview: metro-merilllynch-128-link-1-1.png
 categories:
 - Engineering Excellence

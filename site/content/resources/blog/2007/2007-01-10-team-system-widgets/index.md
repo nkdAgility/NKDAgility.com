@@ -8,6 +8,7 @@ ResourceImportId: 445
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-10
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +25,9 @@ aliasesFor404:
 tags:
 - Products and Books
 - Practical Techniques and Tooling
-- Software Development
-- Miscellaneous
 - Application Lifecycle Management
+- Miscellaneous
+- Software Development
 categories: []
 
 ---

@@ -2,6 +2,7 @@
 title: 'Illuminate Your Workflow: Harnessing Candan Strategies for Continuous Improvement and Transparency'
 description: Unlock the power of Candan strategies! Discover how flow metrics enhance transparency and drive continuous improvement in your workflows.
 date: 2024-03-08T07:00:31Z
+weight: 550
 ResourceId: pw_8gbaWZC4
 ResourceType: videos
 ResourceImport: true
@@ -24,14 +25,14 @@ isShort: false
 tags:
 - Transparency
 - Metrics and Learning
-- Flow Efficiency
 - Practical Techniques and Tooling
+- Flow Efficiency
+- Agile Project Management
+- Operational Practices
 - Pragmatic Thinking
 - Agile Frameworks
-- Operational Practices
-- Agile Project Management
 - Strategy
-- Software Development
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,8 +40,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Kanban
+- Social Technologies
 
 ---
 One of the most pivotal aspects of a Caman strategy is the continuous improvement of our systems and workflows. After defining our workflow and documenting how we intend to operate, the next step is to actively monitor our ongoing work. This is where the magic happens; as we observe, we begin to identify patterns that can inform our decision-making.

@@ -2,6 +2,7 @@
 title: 'Unlocking Organisational Value: The Transformative Power of Engagement in Agile Teams'
 description: Unlock your team's potential! Discover how decentralisation and engagement can transform your organisation, driving innovation and value creation.
 date: 2023-09-28T10:27:47Z
+weight: 775
 ResourceId: tPX-wc6pG7M
 ResourceType: videos
 ResourceImport: true
@@ -24,14 +25,14 @@ isShort: false
 tags:
 - People and Process
 - Agile Values and Principles
-- Organisational Agility
-- Agile Strategy
-- Organisational Culture
 - Employee Engagement
+- Organisational Culture
+- Agile Strategy
+- Organisational Change
 - Organisational Psychology
 - Agile Leadership
-- Agile Philosophy
-- Value Delivery
+- Agile Transformation
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

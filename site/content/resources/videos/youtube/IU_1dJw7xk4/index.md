@@ -2,6 +2,7 @@
 title: How long does it take to transition from project management to Kanban?
 description: Transform your project management approach! Discover how to seamlessly transition to Kanban, optimise workflows, and embrace agile methodologies.
 date: 2024-02-16T07:00:10Z
+weight: 1000
 ResourceId: IU_1dJw7xk4
 ResourceType: videos
 ResourceImport: true
@@ -32,12 +33,12 @@ tags:
 - People and Process
 - Cycle Time
 - Metrics and Learning
-- Agile Frameworks
-- Flow Efficiency
 - Practical Techniques and Tooling
-- Throughput
-- Software Development
+- Flow Efficiency
+- Agile Frameworks
+- Operational Practices
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

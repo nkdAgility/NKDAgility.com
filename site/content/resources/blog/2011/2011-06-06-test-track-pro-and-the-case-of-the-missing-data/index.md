@@ -8,6 +8,7 @@ ResourceImportId: 3596
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-06
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,10 +26,10 @@ tags:
 - Troubleshooting
 - Code and Complexity
 - Practical Techniques and Tooling
+- Technical Mastery
+- Pragmatic Thinking
 - Software Development
 - Technical Excellence
-- Pragmatic Thinking
-- Technical Mastery
 - Operational Practices
 categories:
 - Engineering Excellence

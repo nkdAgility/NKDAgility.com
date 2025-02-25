@@ -8,6 +8,7 @@ ResourceImportId: 198
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-04
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/found-gdr-bug--at-least-i-think-it-is-
 - /resources/blog/found-gdr-bug-at-least-i-think-it-is
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 preview: metro-aggreko-128-link-1-1.png
 categories: []
 

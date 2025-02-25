@@ -8,6 +8,7 @@ ResourceImportId: 427
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-19
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,11 +30,11 @@ preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
 
 ---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

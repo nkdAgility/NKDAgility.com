@@ -8,6 +8,7 @@ ResourceImportId: 4393
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-17
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,11 +23,11 @@ aliasesFor404:
 - /blog/introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
-- Team Collaboration
 - Products and Books
-- Install and Configuration
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
+- Install and Configuration
+- Team Collaboration
 - News and Reviews
 - Software Development
 - Azure DevOps

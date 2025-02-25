@@ -8,6 +8,7 @@ ResourceImportId: 152
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-15
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +31,9 @@ tags:
 - Software Developers
 - Test First Development
 - Test Driven Development
-- Technical Excellence
-- Engineering Practices
 - Technical Mastery
+- Engineering Practices
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

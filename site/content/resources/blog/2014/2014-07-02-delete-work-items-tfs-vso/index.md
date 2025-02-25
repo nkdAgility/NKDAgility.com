@@ -8,6 +8,7 @@ ResourceImportId: 10597
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-02
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,12 +27,12 @@ aliasesFor404:
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Azure Boards
-- Software Development
-- Azure DevOps
+- Install and Configuration
 - Troubleshooting
+- Software Development
+- Azure Boards
+- Azure DevOps
 - Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png

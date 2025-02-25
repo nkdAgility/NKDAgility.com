@@ -2,6 +2,7 @@
 title: Znaczenie znajomości terenu
 description: "Discover how understanding terrain enhances agility through Poland's unique mushroom foraging sport. Join us in exploring agile principles! \U0001F344✨"
 date: 2023-08-10T14:45:00Z
+weight: 1000
 ResourceId: IqWvURjrJVs
 ResourceType: videos
 ResourceImport: true
@@ -27,11 +28,11 @@ tags:
 - People and Process
 - Business Agility
 - Organisational Agility
-- Agile Strategy
-- Scrum Product Development
-- Professional Scrum
 - Team Performance
-- Software Development
+- Scrum Product Development
+- Market Adaptability
+- Agile Product Management
+- Agile Strategy
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

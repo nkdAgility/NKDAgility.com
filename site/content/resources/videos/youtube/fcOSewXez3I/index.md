@@ -2,6 +2,7 @@
 title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
 description: Discover how AI is revolutionising the workplace! Learn to enhance creativity, boost productivity, and stay ahead in your career with these powerful tools.
 date: 2023-07-05T14:49:20Z
+weight: 995
 ResourceId: fcOSewXez3I
 ResourceType: videos
 ResourceImport: true

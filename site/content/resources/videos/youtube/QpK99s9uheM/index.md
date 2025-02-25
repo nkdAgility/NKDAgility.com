@@ -2,6 +2,7 @@
 title: 'From Control to Collaboration: How Project Managers Can Embrace Agility and Thrive'
 description: Unlock the secrets to agile project management! Discover how to shift your mindset, embrace uncertainty, and empower your team for success.
 date: 2023-05-24T07:00:23Z
+weight: 1000
 ResourceId: QpK99s9uheM
 ResourceType: videos
 ResourceImport: true

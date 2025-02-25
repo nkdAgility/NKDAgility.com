@@ -8,6 +8,7 @@ ResourceImportId: 4406
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-17
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,9 +27,9 @@ aliasesFor404:
 - /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 tags:
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

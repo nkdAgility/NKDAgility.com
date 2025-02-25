@@ -8,6 +8,7 @@ ResourceImportId: 4104
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-12-29
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,12 +29,12 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
-- Windows
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
 - Troubleshooting
 - Technical Mastery
+- Windows
+- Pragmatic Thinking
+- Software Development
+- Azure DevOps
 categories:
 - DevOps
 

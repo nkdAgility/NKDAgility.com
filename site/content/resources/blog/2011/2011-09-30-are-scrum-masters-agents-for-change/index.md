@@ -8,6 +8,7 @@ ResourceImportId: 3823
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-30
+weight: 685
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +27,16 @@ aliasesFor404:
 - /blog/are-scrum-masters-agents-for-change-
 - /resources/blog/are-scrum-masters-agents-for-change
 tags:
-- Professional Scrum
-- Scrum Master
 - People and Process
-- Events and Presentations
+- Scrum Master
+- Professional Scrum
 - Organisational Change
+- Events and Presentations
 - Agile Project Management
-- Software Development
 - Pragmatic Thinking
-- Agile Frameworks
+- Software Development
 - Agile Transformation
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

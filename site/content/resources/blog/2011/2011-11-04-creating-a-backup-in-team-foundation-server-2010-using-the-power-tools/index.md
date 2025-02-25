@@ -8,6 +8,7 @@ ResourceImportId: 4025
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-04
+weight: 995
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,12 +25,12 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
-- Technical Mastery
 - Practical Techniques and Tooling
-- Windows
-- Software Development
-- Pragmatic Thinking
+- Technical Mastery
 - Troubleshooting
+- Windows
+- Pragmatic Thinking
+- Software Development
 categories:
 - DevOps
 

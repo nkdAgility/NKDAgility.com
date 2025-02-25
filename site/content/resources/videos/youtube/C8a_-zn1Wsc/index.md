@@ -2,6 +2,7 @@
 title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive Bias'
 description: "Discover 5 ways immersive learning enhances your skills as a Scrum practitioner. Elevate your practice with NKD Agility's expert insights! #Scrum #Agile"
 date: 2024-02-05T07:00:03Z
+weight: 1000
 ResourceId: C8a_-zn1Wsc
 ResourceType: videos
 ResourceImport: true

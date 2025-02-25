@@ -8,6 +8,7 @@ ResourceImportId: 3692
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-07-22
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +29,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Events and Presentations
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 categories:
 - Social Technologies
 preview: metro-nwc-128-link-2-2.png

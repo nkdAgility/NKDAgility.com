@@ -8,6 +8,7 @@ ResourceImportId: 147
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-09
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +25,8 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2005-128-link-9-9.png
 categories: []
 

@@ -2,6 +2,7 @@
 title: 'The Power of Metrics: Why PAL-EBM is Essential for Your Organization'
 description: "Unlock organisational success with the PAL EBM course! Discover the power of evidence-based management and effective metrics in this insightful video. \U0001F31F"
 date: 2024-01-27T07:00:19Z
+weight: 450
 ResourceId: m2Z4UV4OQlI
 ResourceType: videos
 ResourceImport: true
@@ -32,12 +33,12 @@ tags:
 - Evidence Based Leadership
 - People and Process
 - Metrics and Learning
-- Transparency and Accountability
-- Ability to Innovate
-- Evidence Based Management
 - Empirical Process Control
 - Discovery and Learning
+- Transparency and Accountability
+- Evidence Based Management
 - Pragmatic Thinking
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

@@ -8,6 +8,7 @@ ResourceImportId: 284
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-11-28
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +25,8 @@ aliasesFor404:
 tags:
 - Personal
 - News and Reviews
-- Software Development
 - Miscellaneous
+- Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

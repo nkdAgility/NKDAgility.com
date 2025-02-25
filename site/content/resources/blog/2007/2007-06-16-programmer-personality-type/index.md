@@ -8,6 +8,7 @@ ResourceImportId: 382
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-16
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,12 +26,12 @@ categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Personal
-- Team Performance
 - People and Process
-- Team Collaboration
-- Miscellaneous
+- Team Performance
 - Team Motivation
 - Organisational Psychology
+- Miscellaneous
+- Team Collaboration
 
 ---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

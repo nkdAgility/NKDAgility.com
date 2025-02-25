@@ -8,6 +8,7 @@ ResourceImportId: 10874
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-19
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,10 +27,10 @@ aliasesFor404:
 - /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/blog/move-azure-vm-virtual-network
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
+- Install and Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - DevOps
 preview: nakedalm-windows-logo-8-8.png

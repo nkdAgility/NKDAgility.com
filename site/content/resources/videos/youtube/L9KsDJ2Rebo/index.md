@@ -2,6 +2,7 @@
 title: 'Unlocking Agile Mastery: Why Spaced Learning Outshines Traditional Courses'
 description: Discover why spaced learning in Agile and Scrum courses enhances retention and real-world application. Transform your learning experience today!
 date: 2023-07-13T07:45:48Z
+weight: 1000
 ResourceId: L9KsDJ2Rebo
 ResourceType: videos
 ResourceImport: true

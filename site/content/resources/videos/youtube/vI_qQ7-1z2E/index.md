@@ -2,6 +2,7 @@
 title: Is a PSM II certification validation of your skills, or does it develop your skill and capability as a Scrum Master?
 description: Discover if the PSM II certification validates your skills or enhances your capabilities as a Scrum Master. Join Martin Hinshelwood for insights!
 date: 2023-04-17T07:00:17Z
+weight: 775
 ResourceId: vI_qQ7-1z2E
 ResourceType: videos
 ResourceImport: true
@@ -30,13 +31,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Scrum Master
 - Discovery and Learning
-- Continuous Learning
-- Agile Frameworks
+- Professional Scrum
 - People and Process
 - Agile Project Management
+- Continuous Learning
+- Agile Frameworks
 - Pragmatic Thinking
 - Coaching
 - Accountability

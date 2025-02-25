@@ -8,6 +8,7 @@ ResourceImportId: 261
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-24
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/tfs-event-handler-ctp1-released
 - /resources/blog/tfs-event-handler-ctp1-released
 tags:
-- Software Development
 - Frequent Releases
+- Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-4-1.png
 

@@ -2,6 +2,7 @@
 title: 'Harnessing the Power of Empiricism: Transform Your Decision-Making with Data-Driven Insights'
 description: Unlock the power of empiricism! Discover how data-driven decisions can transform your agile approach and foster continuous improvement in your work.
 date: 2023-08-17T07:00:09Z
+weight: 1000
 ResourceId: Q46T5DYVKqQ
 ResourceType: videos
 ResourceImport: true
@@ -24,8 +25,8 @@ isShort: true
 tags:
 - Metrics and Learning
 - Discovery and Learning
-- Experimentation
 - Decision Making
+- Experimentation
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

@@ -8,6 +8,7 @@ ResourceImportId: 220
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-06-11
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +24,8 @@ aliasesFor404:
 - /resources/blog/outsync-with-proxy-servers
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: nakedalm-logo-128-link-2-1.png
 

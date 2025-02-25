@@ -2,6 +2,7 @@
 title: Live Event - An Enterprise Evolution that Shows that You Can Too
 description: Join us for a transformative live event showcasing enterprise evolution and inspiring you to embrace change in your own journey. Don't miss out!
 date: 2020-06-16T12:16:52Z
+weight: 1000
 ResourceId: kOgKt8w_hWY
 ResourceType: videos
 ResourceImport: true

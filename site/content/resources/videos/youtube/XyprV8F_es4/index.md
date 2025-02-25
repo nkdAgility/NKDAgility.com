@@ -2,6 +2,7 @@
 title: 1 critical skill for a scrum master and why?
 description: 'Discover the one essential skill every Scrum Master must master for success in Agile! Join Martin Hinshelwood in this quick #YouTubeShorts.'
 date: 2025-02-07T06:00:27Z
+weight: 445
 ResourceId: xuNNZnCNVWs
 ResourceType: videos
 ResourceImport: true
@@ -31,16 +32,16 @@ preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true
 tags:
-- Continuous Delivery
 - Continuous Learning
 - Resilience and Change
-- Enterprise Agility
+- Continuous Delivery
+- Change Management
 - Organisational Agility
 - Business Agility
-- Change Management
 - Organisational Culture
-- People and Process
-- Sociotechnical Systems
+- Organisational Change
+- Enterprise Agility
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4

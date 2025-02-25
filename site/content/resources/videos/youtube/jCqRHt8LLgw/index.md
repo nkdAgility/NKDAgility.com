@@ -2,6 +2,7 @@
 title: 12th May 2020 - Office Hours \ Ask Me Anything
 description: Join Martin, a Scrum Trainer and Azure DevOps MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-05-13T05:03:57Z
+weight: 1000
 ResourceId: jCqRHt8LLgw
 ResourceType: videos
 ResourceImport: true

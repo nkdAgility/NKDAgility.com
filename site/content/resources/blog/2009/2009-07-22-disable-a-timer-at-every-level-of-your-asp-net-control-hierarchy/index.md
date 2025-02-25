@@ -8,6 +8,7 @@ ResourceImportId: 98
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-22
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,9 +23,9 @@ aliasesFor404:
 - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

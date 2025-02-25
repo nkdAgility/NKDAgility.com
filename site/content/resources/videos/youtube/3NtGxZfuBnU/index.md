@@ -2,6 +2,7 @@
 title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle?
 description: "Explore Agile's journey from disillusionment to enlightenment with Martin as he uncovers truths, debunks myths, and sets realistic expectations. \U0001F680\U0001F4A1"
 date: 2023-07-07T07:00:03Z
+weight: 1000
 ResourceId: 3NtGxZfuBnU
 ResourceType: videos
 ResourceImport: true

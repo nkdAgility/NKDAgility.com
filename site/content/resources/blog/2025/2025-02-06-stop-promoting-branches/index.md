@@ -5,6 +5,7 @@ ResourceId: x7ra7pQCDX5
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-06T09:00:00
+weight: 240
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -21,13 +22,13 @@ aliasesFor404:
 tags:
 - Software Development
 - Technical Excellence
-- Continuous Delivery
 - Software Developers
-- Release Management
-- Value Delivery
 - Continuous Integration
+- Continuous Delivery
+- Release Management
 - Engineering Practices
-- Modern Source Control
+- Value Delivery
+- Operational Practices
 - Deployment Strategies
 categories:
 - DevOps

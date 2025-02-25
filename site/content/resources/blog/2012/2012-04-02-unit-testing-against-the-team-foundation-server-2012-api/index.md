@@ -8,6 +8,7 @@ ResourceImportId: 5112
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-04-02
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,12 +26,12 @@ tags:
 - Test Driven Development
 - Test First Development
 - Automated Testing
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Test Automation
-- Software Developers
-- Technical Excellence
-- Azure DevOps
+- Troubleshooting
+- Technical Mastery
+- Engineering Practices
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

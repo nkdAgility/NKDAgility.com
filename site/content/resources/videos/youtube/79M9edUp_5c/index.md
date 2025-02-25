@@ -2,6 +2,7 @@
 title: 'Embracing Asynchronous Communication: Transform Your Collaboration and Boost Productivity'
 description: Discover how asynchronous communication can revolutionise your collaboration. Embrace flexibility, reduce pressure, and enhance productivity in your team today!
 date: 2023-09-26T07:00:02Z
+weight: 1000
 ResourceId: 79M9edUp_5c
 ResourceType: videos
 ResourceImport: true
@@ -22,8 +23,8 @@ duration: 46
 isShort: true
 tags:
 - People and Process
-- Asynchronous Development
 - Team Collaboration
+- Asynchronous Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

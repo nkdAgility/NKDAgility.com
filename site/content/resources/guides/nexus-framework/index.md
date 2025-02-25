@@ -29,6 +29,7 @@ videos:
 - title: Overview of The Scrum Framework with Martin Hinshelwood
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 date: 2024-09-17
+weight: 770
 creator: Martin Hinshelwood
 card:
   button:
@@ -42,13 +43,13 @@ tags:
 - Scaling Scrum
 - Scaled Agile
 - Scrum Product Development
-- Scrum Team
-- Product Delivery
 - Large Scale Agility
-- Scaling Agility
-- Professional Scrum
+- Product Delivery
+- Scrum Team
 - Software Development
-- Agile Frameworks
+- Professional Scrum
+- Scaling Agility
+- Agile Project Management
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

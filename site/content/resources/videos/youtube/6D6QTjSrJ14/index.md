@@ -2,6 +2,7 @@
 title: What has the initial response been to the immersive learning experiences, how do you see that evolving?
 description: Discover the buzz around our new immersive learning experiences for Scrum! Join Martin Hinshelwood as he shares initial feedback and future insights.
 date: 2023-08-28T07:00:05Z
+weight: 1000
 ResourceId: 6D6QTjSrJ14
 ResourceType: videos
 ResourceImport: true
@@ -29,14 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Continuous Learning
 - Discovery and Learning
-- People and Process
 - Customer Feedback Loops
 - Coaching
 - Value Delivery
-- Customer Satisfaction
 - Personal
+- Customer Satisfaction
 resourceTypes:
 - video
 layout: video

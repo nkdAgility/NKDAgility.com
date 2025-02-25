@@ -8,6 +8,7 @@ ResourceImportId: 6950
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-03
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,10 +31,10 @@ aliasesFor404:
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags:
-- Software Development
-- Value Delivery
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Software Development
+- Value Delivery
 - Windows
 - Working Software
 - Product Delivery

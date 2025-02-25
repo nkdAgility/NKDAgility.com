@@ -2,6 +2,7 @@
 title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direction'
 description: Unlock your team's potential! Discover how a shared vision and clear goals drive organisational success and empower informed decision-making. Watch now!
 date: 2024-08-08T06:45:00Z
+weight: 760
 ResourceId: KvZbBwzxSu4
 ResourceType: videos
 ResourceImport: true
@@ -29,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Evidence Based Leadership
 - Evidence Based Management
-- Value Delivery
-- Decision Making
+- Evidence Based Leadership
 - Agile Product Management
+- Value Delivery
 - Agile Product Operating Model
-- Decision Theory
-- Product Strategy
+- Decision Making
 - Strategic Goals
+- Decision Theory
+- Change Management
 resourceTypes:
 - video
 categories:

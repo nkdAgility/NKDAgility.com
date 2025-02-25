@@ -8,6 +8,7 @@ ResourceImportId: 420
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-02
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - Products and Books
-- Software Development
-- Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Windows
-- System Configuration
+- Install and Configuration
+- Software Development
 - Troubleshooting
 - Miscellaneous
+- Windows
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

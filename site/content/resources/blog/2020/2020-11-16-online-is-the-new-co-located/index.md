@@ -8,6 +8,7 @@ ResourceImportId: 44487
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-11-16
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ tags:
 - People and Process
 - Events and Presentations
 - Transparency and Accountability
-- Team Collaboration
 - Pragmatic Thinking
+- Team Collaboration
 - Remote Working
 - Team Performance
 - Collaboration Tools

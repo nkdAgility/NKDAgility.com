@@ -5,6 +5,7 @@ ResourceId: _MbvqRG_XNM
 ResourceImport: false
 ResourceType: principles
 date: 2024-09-17
+weight: 1000
 resourceTypes: principles
 layout: principles
 creator: Martin Hinshelwood
@@ -21,11 +22,11 @@ card:
   title: Emergant Practices
 categories: []
 tags:
-- Discovery and Learning
 - People and Process
-- Pragmatic Thinking
+- Discovery and Learning
 - Complexity Thinking
 - Miscellaneous
+- Pragmatic Thinking
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

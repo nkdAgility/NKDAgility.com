@@ -8,6 +8,7 @@ ResourceImportId: 4089
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-26
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +27,16 @@ aliasesFor404:
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
 tags:
-- Forecasting
 - Transparency
+- Forecasting
 - Scrum Product Development
 - Agile Planning
-- Agile Values and Principles
-- Software Development
-- Product Delivery
 - Agile Product Management
-- Transparency and Accountability
+- Agile Values and Principles
 - Scrum Team
+- Transparency and Accountability
+- Product Delivery
+- Software Development
 categories:
 - Scrum
 - Social Technologies

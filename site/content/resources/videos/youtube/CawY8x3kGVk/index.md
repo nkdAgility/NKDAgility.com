@@ -2,6 +2,7 @@
 title: Scrum is like communism, it doesn't work. Myth 3.
 description: "Uncover the truth behind Scrum myths! Join Martin as he debunks misconceptions about micromanagement and developer autonomy. \U0001F4A1\U0001F3C3 #Scrum #Agile"
 date: 2023-10-25T07:00:09Z
+weight: 410
 ResourceId: CawY8x3kGVk
 ResourceType: videos
 ResourceImport: true
@@ -29,14 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Team
+- People and Process
 - Professional Scrum
 - Technical Leadership
 - Agile Product Management
-- Software Developers
 - Agile Project Management
-- People and Process
+- Software Developers
 - Agile Frameworks
-- Self Organisation
+- Pragmatic Thinking
 - Software Development
 resourceTypes:
 - video

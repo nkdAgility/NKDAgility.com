@@ -8,6 +8,7 @@ ResourceImportId: 10923
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-04
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Release Management
 - Application Lifecycle Management
-- Deployment Strategies
-- Technical Excellence
-- Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
 - Events and Presentations
 - Technical Mastery
-- Practical Techniques and Tooling
-- Software Development
+- Install and Configuration
+- Technical Excellence
+- Deployment Strategies
+- Azure DevOps
+- Operational Practices
 categories:
 - DevOps
 preview: nakedalm-windows-logo-16-16.png

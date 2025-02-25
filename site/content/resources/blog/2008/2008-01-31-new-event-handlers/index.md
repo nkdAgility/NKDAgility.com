@@ -8,6 +8,7 @@ ResourceImportId: 258
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,12 +23,12 @@ aliasesFor404:
 - /blog/new-event-handlers
 - /resources/blog/new-event-handlers
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- System Configuration
+- Install and Configuration
 - Technical Mastery
+- Software Development
+- System Configuration
+- Azure DevOps
 categories:
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png

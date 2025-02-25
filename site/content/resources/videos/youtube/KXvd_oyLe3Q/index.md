@@ -2,6 +2,7 @@
 title: 'The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps'
 description: Discover how DevOps consulting tackles technical debt and complex architectures, leading to improved efficiency and streamlined integration for clients.
 date: 2024-08-21T07:00:19Z
+weight: 270
 ResourceId: KXvd_oyLe3Q
 ResourceType: videos
 ResourceImport: true
@@ -29,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Resilience and Change
-- Complexity Thinking
 - People and Process
-- Continuous Learning
+- Complexity Thinking
 - Discovery and Learning
 - Metrics and Learning
 - Azure DevOps
-- Product Delivery
-- Engineering Practices
+- Continuous Learning
+- Resilience and Change
+- Frequent Releases
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

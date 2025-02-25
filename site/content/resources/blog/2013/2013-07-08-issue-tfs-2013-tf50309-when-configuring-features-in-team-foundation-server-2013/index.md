@@ -8,6 +8,7 @@ ResourceImportId: 9724
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-08
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,11 +31,11 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Pragmatic Thinking
 - Software Development
 - Azure DevOps
-- Pragmatic Thinking
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-5-5.png

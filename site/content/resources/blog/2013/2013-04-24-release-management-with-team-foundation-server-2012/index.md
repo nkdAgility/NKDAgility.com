@@ -8,6 +8,7 @@ ResourceImportId: 9468
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-24
+weight: 385
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
 tags:
-- Software Development
 - Release Management
+- Software Development
 - Product Delivery
 categories:
 - DevOps

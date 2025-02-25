@@ -8,6 +8,7 @@ ResourceImportId: 428
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-03-15
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +30,8 @@ preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Troubleshooting
 
 ---

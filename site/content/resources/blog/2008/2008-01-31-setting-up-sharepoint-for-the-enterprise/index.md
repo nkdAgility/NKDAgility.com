@@ -8,6 +8,7 @@ ResourceImportId: 252
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,10 +23,10 @@ aliasesFor404:
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /resources/blog/setting-up-sharepoint-for-the-enterprise
 tags:
-- Deployment Strategies
 - Install and Configuration
-- System Configuration
+- Deployment Strategies
 - Technical Mastery
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

@@ -8,6 +8,7 @@ ResourceImportId: 9229
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-01-31
+weight: 710
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,13 +32,13 @@ aliasesFor404:
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
-- Azure DevOps
+- System Configuration
 - Technical Mastery
 - Frequent Releases
+- Software Development
+- Azure DevOps
 - Platform Engineering
 - Product Delivery
 categories:

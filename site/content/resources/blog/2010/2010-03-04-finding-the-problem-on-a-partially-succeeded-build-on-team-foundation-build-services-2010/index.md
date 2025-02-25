@@ -8,6 +8,7 @@ ResourceImportId: 66
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
+weight: 505
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,19 +25,19 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Scrum Product Development
+- Code and Complexity
 - Software Development
 - Software Developers
-- Code and Complexity
-- Working Software
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Technical Excellence
-- Azure DevOps
+- Working Software
+- Technical Mastery
+- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 Now that I have the Build failing because of a genuine bug and not just because of a test framework failure, lets see if we can trace through to finding why the first test in our new application failed. Lets look at the build and see if we can see why there is a red cross on it.

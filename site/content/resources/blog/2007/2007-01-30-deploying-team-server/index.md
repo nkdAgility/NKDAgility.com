@@ -8,6 +8,7 @@ ResourceImportId: 440
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,9 +23,9 @@ aliasesFor404:
 - /blog/deploying-team-server
 - /resources/blog/deploying-team-server
 tags:
-- Software Development
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
+- Software Development
 - Application Lifecycle Management
 - Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png

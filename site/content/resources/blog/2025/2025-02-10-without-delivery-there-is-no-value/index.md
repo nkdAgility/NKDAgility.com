@@ -5,6 +5,7 @@ ResourceId: UfdnQrxv5iF
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-10T09:00:00
+weight: 230
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,14 +25,14 @@ aliasesFor404:
 tags:
 - Increment
 - Value Delivery
-- Agile Product Management
 - Product Delivery
+- Agile Product Management
 - Transparency
 - Software Development
 - Deployment Frequency
-- People and Process
-- Customer Feedback Loops
 - Frequent Releases
+- Scrum Product Development
+- People and Process
 categories:
 - Product Management
 preview: 2025-02-10-without-delivery-no-value.jpg

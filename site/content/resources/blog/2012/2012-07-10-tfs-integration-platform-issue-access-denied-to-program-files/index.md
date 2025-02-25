@@ -8,6 +8,7 @@ ResourceImportId: 6113
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-10
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,11 +28,11 @@ aliasesFor404:
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 tags:
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
 categories:
 - DevOps
 preview: metro-problem-icon-1-1.png

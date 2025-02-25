@@ -8,6 +8,7 @@ ResourceImportId: 213
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-06
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/net-service-manager
 tags:
 - Release Management
-- Software Development
 - Technical Mastery
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

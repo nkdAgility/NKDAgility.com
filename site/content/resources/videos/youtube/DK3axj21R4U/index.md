@@ -2,6 +2,7 @@
 title: fortnite
 description: Join the battle in Fortnite! Discover epic gameplay, strategies, and thrilling moments as players compete to be the last one standing.
 date: 2020-10-23T21:26:57Z
+weight: 1000
 ResourceId: DK3axj21R4U
 ResourceType: videos
 ResourceImport: true

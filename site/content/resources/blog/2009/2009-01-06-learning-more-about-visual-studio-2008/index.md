@@ -8,6 +8,7 @@ ResourceImportId: 150
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-01-06
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +25,8 @@ aliasesFor404:
 tags:
 - Discovery and Learning
 - Products and Books
-- Continuous Learning
 - News and Reviews
+- Continuous Learning
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

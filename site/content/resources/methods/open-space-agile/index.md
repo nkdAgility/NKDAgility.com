@@ -5,6 +5,7 @@ ResourceId: U-6FN9nj1fM
 ResourceImport: false
 ResourceType: methods
 date: 2024-09-17
+weight: 1000
 creator: Martin Hinshelwood
 draft: true
 resourceTypes: method
@@ -24,8 +25,8 @@ card:
   content: Harness the power of Open Space Agile to enable dynamic self-organization. Facilitate meaningful discussions and collaborative decision-making across your team.
 categories: []
 tags:
-- Software Development
 - People and Process
+- Software Development
 - Scrum Values
 
 ---

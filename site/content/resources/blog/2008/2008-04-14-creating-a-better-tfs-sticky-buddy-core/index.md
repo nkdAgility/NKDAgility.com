@@ -8,6 +8,7 @@ ResourceImportId: 241
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-14
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/creating-a-better-tfs-sticky-buddy-(core)
 - /resources/blog/creating-a-better-tfs-sticky-buddy-core
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Technical Excellence
 categories:
 - Engineering Excellence

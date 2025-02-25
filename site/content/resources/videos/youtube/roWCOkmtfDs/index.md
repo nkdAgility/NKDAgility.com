@@ -2,6 +2,7 @@
 title: 'The Importance of Validation in Product Development: A Strategic Approach'
 description: Discover the importance of product validation! Learn how to ensure features deliver real value, reduce waste, and enhance user satisfaction.
 date: 2024-09-02T15:30:15Z
+weight: 770
 ResourceId: roWCOkmtfDs
 ResourceType: videos
 ResourceImport: true

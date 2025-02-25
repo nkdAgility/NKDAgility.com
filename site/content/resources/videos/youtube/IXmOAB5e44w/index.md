@@ -2,6 +2,7 @@
 title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!'
 description: Unlock a £20 discount for friends and earn rewards with our new Referral Program! Join us in fostering a collaborative learning community today!
 date: 2023-06-15T07:00:06Z
+weight: 1000
 ResourceId: IXmOAB5e44w
 ResourceType: videos
 ResourceImport: true
@@ -24,14 +25,14 @@ isShort: false
 tags:
 - People and Process
 - Discovery and Learning
-- Team Collaboration
-- Employee Engagement
-- Continuous Learning
-- Software Development
-- Miscellaneous
-- Agile Project Management
-- Customer Retention
 - Team Motivation
+- Employee Engagement
+- Agile Project Management
+- Miscellaneous
+- Customer Retention
+- Software Development
+- Team Collaboration
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

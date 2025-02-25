@@ -2,6 +2,7 @@
 title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
 description: Discover the hidden costs of poor-quality code with Martin Hinshelwood. Learn how investing in quality boosts productivity and protects your brand.
 date: 2024-11-19T09:58:28Z
+weight: 360
 ResourceId: 1AO6FFBlE4Y
 ResourceType: videos
 ResourceImport: true
@@ -21,16 +22,16 @@ preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Code and Complexity
 - Technical Debt
+- Code and Complexity
 - Engineering Practices
-- Technical Excellence
 - Technical Mastery
-- Product Delivery
-- Working Software
 - Operational Practices
+- Working Software
+- Technical Excellence
+- Product Delivery
+- Pragmatic Thinking
 - Software Development
-- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

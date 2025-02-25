@@ -5,6 +5,7 @@ ResourceId: jBIyK6NW3ZB
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-03T09:00:00
+weight: 230
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -25,19 +26,19 @@ aliasesFor404:
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
-- Increment
 - Product Delivery
+- Increment
 - Software Development
 - Agile Project Management
-- Continuous Delivery
-- Scrum Product Development
-- Value Delivery
-- Working Software
-- Scrum Team
 - People and Process
+- Scrum Team
+- Continuous Delivery
+- Working Software
+- Engineering Practices
+- Value Delivery
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

@@ -5,6 +5,7 @@ ResourceId: SOXXjw2lnAK
 ResourceImport: false
 ResourceType: podcast
 date: 2024-01-25
+weight: 1000
 categories:
 - Scrum
 - DevOps

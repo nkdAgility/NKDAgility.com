@@ -8,6 +8,7 @@ ResourceImportId: 10975
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-12
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +30,13 @@ tags:
 - Windows
 - Release Management
 - Application Lifecycle Management
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
 - Software Development
 - Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
-- Azure Pipelines
 categories:
 - DevOps
 - Engineering Excellence

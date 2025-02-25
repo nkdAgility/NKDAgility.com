@@ -8,6 +8,7 @@ ResourceImportId: 233
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-30
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/major-deadline
 - /resources/blog/major-deadline
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 - Pragmatic Thinking
 - Digital Transformation
 - Technical Mastery

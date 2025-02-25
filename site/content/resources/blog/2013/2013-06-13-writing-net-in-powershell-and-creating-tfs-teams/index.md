@@ -8,6 +8,7 @@ ResourceImportId: 9903
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-13
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +28,9 @@ aliasesFor404:
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Azure DevOps
-- Technical Mastery
 categories: []
 preview: image11-1-1.png
 

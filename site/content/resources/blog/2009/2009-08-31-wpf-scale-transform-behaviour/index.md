@@ -8,6 +8,7 @@ ResourceImportId: 87
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-31
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +24,9 @@ aliasesFor404:
 - /resources/blog/wpf-scale-transform-behaviour
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
 - Windows
 categories: []
 preview: metro-binary-vb-128-link-1-1.png

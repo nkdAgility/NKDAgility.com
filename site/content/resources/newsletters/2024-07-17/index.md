@@ -5,6 +5,7 @@ ResourceId: w5rxdL8YHNa
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-07-17
+weight: 770
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -21,14 +22,14 @@ categories:
 - Social Technologies
 tags:
 - Discovery and Learning
+- Product Validation
 - Team Collaboration
 - Agile Product Management
 - Product Discovery
-- Product Validation
-- Products and Books
 - Agile Product Operating Model
-- Events and Presentations
+- Products and Books
 - Customer Satisfaction
+- Events and Presentations
 - Agile Project Management
 
 ---

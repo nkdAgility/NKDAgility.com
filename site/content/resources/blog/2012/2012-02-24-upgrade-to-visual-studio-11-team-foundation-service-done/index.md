@@ -8,6 +8,7 @@ ResourceImportId: 4573
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-24
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,14 +30,14 @@ aliasesFor404:
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
 - Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
+- Install and Configuration
 - Digital Transformation
+- Operational Practices
+- Software Development
 - Azure DevOps
 - Personal
-- Operational Practices
 - Pragmatic Thinking
 categories:
 - DevOps

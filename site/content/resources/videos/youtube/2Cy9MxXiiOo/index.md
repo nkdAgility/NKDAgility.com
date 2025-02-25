@@ -2,6 +2,7 @@
 title: What is a sprint goal?
 description: 'Discover the importance of a sprint goal in Scrum! Join Martin Hinshelwood as he shares tips on crafting effective goals for your team. #Agile #Scrum #Shorts'
 date: 2023-05-31T11:00:01Z
+weight: 1000
 ResourceId: 2Cy9MxXiiOo
 ResourceType: videos
 ResourceImport: true

@@ -8,6 +8,7 @@ ResourceImportId: 182
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-24
+weight: 660
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,15 +31,15 @@ aliasesFor404:
 - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 tags:
-- Automated Testing
 - Practical Techniques and Tooling
 - Test Automation
+- Automated Testing
+- Troubleshooting
+- Technical Mastery
 - Software Development
 - Technical Excellence
 - System Configuration
-- Troubleshooting
-- Technical Mastery
-- Engineering Practices
+- Application Lifecycle Management
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories:

@@ -8,6 +8,7 @@ ResourceImportId: 8998
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-25
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,8 +26,8 @@ tags:
 - Install and Configuration
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: metro-sharepoint-128-link-25-25.png
 
 ---

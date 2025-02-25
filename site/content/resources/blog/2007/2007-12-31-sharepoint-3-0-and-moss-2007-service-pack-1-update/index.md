@@ -8,6 +8,7 @@ ResourceImportId: 272
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-12-31
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,8 +26,8 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

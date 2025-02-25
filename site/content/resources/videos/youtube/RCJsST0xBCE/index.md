@@ -2,6 +2,7 @@
 title: Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
 description: "Master Azure DevOps migration with NKDAgility! Discover tools, tips, and best practices in this comprehensive guide. Unlock your potential today! \U0001F680"
 date: 2019-10-17T19:16:03Z
+weight: 1000
 ResourceId: RCJsST0xBCE
 ResourceType: videos
 ResourceImport: true

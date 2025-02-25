@@ -8,6 +8,7 @@ ResourceImportId: 162
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-26
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,14 +28,14 @@ aliasesFor404:
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
 - Products and Books
-- Software Development
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Software Development
 - News and Reviews
-- Technical Excellence
 - Technical Mastery
-- Deployment Strategies
+- Technical Excellence
 - Release Management
+- Deployment Strategies
 categories:
 - DevOps
 - Engineering Excellence

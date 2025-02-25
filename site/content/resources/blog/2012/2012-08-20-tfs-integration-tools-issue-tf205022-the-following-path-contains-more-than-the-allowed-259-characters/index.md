@@ -8,6 +8,7 @@ ResourceImportId: 7255
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-20
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 - /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
-- Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Modern Source Control
+- Troubleshooting
 - Windows
 - Software Development
-- Azure DevOps
 - System Configuration
-- Troubleshooting
+- Azure DevOps
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

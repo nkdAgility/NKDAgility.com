@@ -7,6 +7,7 @@ ResourceType: guides
 resourceTypes: guide
 layout: guide
 date: 2024-09-17
+weight: 1000
 creator: Martin Hinshelwood
 aliases:
 - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
@@ -21,14 +22,14 @@ card:
 categories:
 - Social Technologies
 tags:
-- Portfolio Management
 - Business Agility
-- Enterprise Agility
-- Agile Strategy
+- Portfolio Management
 - Agile Transformation
-- Organisational Agility
+- Enterprise Agility
 - Organisational Change
+- Organisational Agility
 - Agile Philosophy
+- Agile Strategy
 - Evidence Based Management
 - Market Adaptability
 

@@ -5,6 +5,7 @@ ResourceId: TJDLWyX3cZt
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-08-28
+weight: 1000
 preview: naked-agility-technically-agile-1280×720-September-2023.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -22,16 +23,16 @@ categories:
 - Product Management
 - Social Technologies
 tags:
-- Discovery and Learning
-- Professional Scrum
 - Agile Product Management
+- Professional Scrum
+- Discovery and Learning
 - Scrum Team
-- News and Reviews
-- Scrum Master
 - Continuous Learning
-- Events and Presentations
-- Products and Books
+- News and Reviews
+- Product Owner
 - Agile Frameworks
+- Agile Project Management
+- Scrum Master
 
 ---
 Greetings,

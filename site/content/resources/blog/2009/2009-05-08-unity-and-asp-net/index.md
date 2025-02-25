@@ -8,6 +8,7 @@ ResourceImportId: 122
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-08
+weight: 685
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +24,9 @@ aliasesFor404:
 - /resources/blog/unity-and-asp-net
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

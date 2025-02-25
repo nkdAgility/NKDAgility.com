@@ -8,6 +8,7 @@ ResourceImportId: 7149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-15
+weight: 685
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +30,8 @@ tags:
 - Install and Configuration
 - News and Reviews
 - Products and Books
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - System Configuration
 - Release Management
 - Troubleshooting

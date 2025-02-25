@@ -8,6 +8,7 @@ ResourceImportId: 379
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-18
+weight: 820
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,9 +27,9 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Azure DevOps
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

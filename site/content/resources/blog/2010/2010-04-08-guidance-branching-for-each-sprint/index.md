@@ -8,6 +8,7 @@ ResourceImportId: 56
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-08
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,12 +35,12 @@ tags:
 - Scrum Product Development
 - Software Development
 - Software Developers
-- Modern Source Control
-- Professional Scrum
-- Product Delivery
-- Operational Practices
 - Practical Techniques and Tooling
-- Technical Excellence
+- Operational Practices
+- Modern Source Control
+- Product Delivery
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 

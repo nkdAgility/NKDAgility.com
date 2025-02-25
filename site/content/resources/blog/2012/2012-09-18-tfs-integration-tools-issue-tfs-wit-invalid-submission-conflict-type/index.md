@@ -8,6 +8,7 @@ ResourceImportId: 8781
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-18
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,10 +30,10 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
+- System Configuration
 - Troubleshooting
+- Software Development
 categories:
 - DevOps
 preview: metro-problem-icon-2-2.png

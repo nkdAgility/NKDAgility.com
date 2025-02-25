@@ -8,6 +8,7 @@ ResourceImportId: 10479
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-03
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,10 +32,10 @@ tags:
 - System Configuration
 - Products and Books
 - Practical Techniques and Tooling
-- News and Reviews
-- Agile Planning Tools
 - Application Lifecycle Management
-- Modern Source Control
+- Agile Planning Tools
+- News and Reviews
+- Frequent Releases
 - Software Development
 categories:
 - DevOps

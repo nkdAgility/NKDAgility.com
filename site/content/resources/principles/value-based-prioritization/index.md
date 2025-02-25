@@ -6,6 +6,7 @@ ResourceImport: false
 ResourceType: principles
 recommendedContent: 
 date: 2024-09-17
+weight: 1000
 creator: Martin Hinshelwood
 resourceTypes: principles
 layout: principles
@@ -27,12 +28,12 @@ categories:
 tags:
 - Scrum Product Development
 - Product Backlog
+- Agile Product Operating Model
 - Agile Product Management
 - Product Owner
 - Value Delivery
-- Agile Product Operating Model
-- Agile Planning
 - Agile Project Management
+- Agile Planning
 - Product Delivery
 
 ---

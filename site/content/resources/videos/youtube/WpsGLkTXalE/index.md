@@ -2,6 +2,7 @@
 title: 'Breaking the Silence: How to Combat the Hidden Dangers in Agile Teams'
 description: Silence in Agile can spell disaster. Discover how to break the silence, foster communication, and enhance team trust for better value delivery.
 date: 2023-11-10T06:45:01Z
+weight: 1000
 ResourceId: WpsGLkTXalE
 ResourceType: videos
 ResourceImport: true

@@ -8,6 +8,7 @@ ResourceImportId: 108
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-26
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/connecting-vs2008-to-any-tfs2010-project-collection
 - /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 preview: metro-visual-studio-2005-128-link-3-3.png

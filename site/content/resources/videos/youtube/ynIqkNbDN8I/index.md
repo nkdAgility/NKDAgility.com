@@ -2,6 +2,7 @@
 title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
 description: "Uncover the truth behind burndown charts in Agile! Join Martin from NKDAgility as he debunks myths and explores better alternatives. \U0001F4CA\U0001F4A1"
 date: 2025-02-11T06:00:40Z
+weight: 775
 ResourceId: ymKlRonlUX0
 ResourceType: videos
 ResourceImport: true
@@ -36,16 +37,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
-- Business Agility
 - Agile Product Operating Model
-- Value Delivery
+- Business Agility
 - Agile Product Management
+- Value Delivery
 - Deployment Frequency
-- Evidence Based Management
-- Discovery and Learning
+- Frequent Releases
+- Ability to Innovate
+- Market Adaptability
+- Product Discovery
 - Hypothesis Driven Development
-- Metrics and Learning
-- Agile Strategy
 resourceTypes:
 - video
 categories:

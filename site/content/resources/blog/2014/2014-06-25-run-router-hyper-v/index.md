@@ -8,6 +8,7 @@ ResourceImportId: 10617
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-25
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +28,12 @@ aliasesFor404:
 - /resources/blog/run-router-hyper-v
 tags:
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
+- System Configuration
 categories: []
 preview: naked-alm-hyper-v-17-17.png
 

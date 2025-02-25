@@ -2,6 +2,7 @@
 title: My journey with Kanban and why I actively recommend it to clients.
 description: Discover my Kanban journey and why I recommend it to clients! Learn how it enhances workflow, transparency, and predictability across all industries.
 date: 2024-02-23T07:00:12Z
+weight: 1000
 ResourceId: ZisAuhrOhcY
 ResourceType: videos
 ResourceImport: true
@@ -28,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
 - Transparency
+- Strategy
 - Metrics and Learning
 - Transparency and Accountability
+- Practical Techniques and Tooling
 - Agile Strategy
+- Agile Project Management
 - Software Development
 - Flow Efficiency
-- Agile Project Management
-- Practical Techniques and Tooling
-- Pragmatic Thinking
+- Operational Practices
 resourceTypes:
 - video
 categories:

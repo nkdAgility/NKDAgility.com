@@ -8,6 +8,7 @@ ResourceImportId: 52
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,13 +30,13 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Scrum Product Development
-- Product Owner
 - Scrum Team
-- Agile Planning
-- Professional Scrum
-- Agile Frameworks
+- Product Owner
 - Team Collaboration
+- Agile Frameworks
+- Agile Planning
 - People and Process
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

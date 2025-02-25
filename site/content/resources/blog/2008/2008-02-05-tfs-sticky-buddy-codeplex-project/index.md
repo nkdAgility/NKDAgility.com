@@ -8,6 +8,7 @@ ResourceImportId: 250
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-05
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,16 +23,16 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-codeplex-project
 - /resources/blog/tfs-sticky-buddy-codeplex-project
 tags:
-- Team Collaboration
-- Software Development
 - Practical Techniques and Tooling
-- Collaboration Tools
+- Software Development
+- Team Collaboration
 - Operational Practices
 - Transparency
+- Collaboration Tools
 - Application Lifecycle Management
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

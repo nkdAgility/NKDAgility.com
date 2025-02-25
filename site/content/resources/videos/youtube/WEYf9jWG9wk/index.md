@@ -2,6 +2,7 @@
 title: 'Unlocking Success: How Small Experiments Transformed Feature Delivery from 25 to 150 in Software Development'
 description: Discover how embracing smaller features and a culture of experimentation can transform your software development process, boosting delivery from 25 to 150 features annually!
 date: 2024-11-20T08:02:36Z
+weight: 775
 ResourceId: WEYf9jWG9wk
 ResourceType: videos
 ResourceImport: true
@@ -25,13 +26,13 @@ tags:
 - Hypothesis Driven Development
 - Discovery and Learning
 - Value Delivery
-- Continuous Learning
 - Pragmatic Thinking
 - Experimentation
+- Continuous Learning
 - Lean Product Development
 - Product Validation
 - Product Discovery
-- Lean Startup
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,8 +41,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 In my journey through the world of software development, I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?

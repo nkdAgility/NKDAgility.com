@@ -8,6 +8,7 @@ ResourceImportId: 8967
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-23
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +24,8 @@ aliasesFor404:
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 tags:
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Products and Books
 - Application Lifecycle Management
 categories:

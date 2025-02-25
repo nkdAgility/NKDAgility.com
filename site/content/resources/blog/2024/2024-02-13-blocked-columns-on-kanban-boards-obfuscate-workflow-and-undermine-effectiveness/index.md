@@ -8,6 +8,7 @@ ResourceImportId: 51208
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2024-02-13
+weight: 1000
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -30,12 +31,12 @@ tags:
 - Transparency
 - Azure Boards
 - Azure DevOps
-- Software Development
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Agile Frameworks
+- Software Development
 - Lean
+- Agile Project Management
 - Operational Practices
+- Pragmatic Thinking
 categories:
 - Kanban
 - Social Technologies

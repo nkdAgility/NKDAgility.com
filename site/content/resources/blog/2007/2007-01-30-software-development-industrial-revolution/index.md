@@ -8,6 +8,7 @@ ResourceImportId: 416
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,15 +24,15 @@ aliasesFor404:
 - /resources/blog/software-development-industrial-revolution
 tags:
 - Pragmatic Thinking
-- Application Lifecycle Management
-- Software Development
 - Working Software
-- Team Collaboration
-- Software Developers
-- Release Management
+- Software Development
+- Application Lifecycle Management
 - Products and Books
+- Practical Techniques and Tooling
+- People and Process
+- Release Management
+- Software Developers
 - Product Delivery
-- News and Reviews
 categories:
 - DevOps
 - Engineering Excellence

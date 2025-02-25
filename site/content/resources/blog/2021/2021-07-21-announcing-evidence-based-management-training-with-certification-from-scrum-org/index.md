@@ -8,6 +8,7 @@ ResourceImportId: 46257
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-07-21
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,14 +31,14 @@ aliasesFor404:
 tags:
 - Evidence Based Leadership
 - Evidence Based Management
-- Events and Presentations
-- Agile Project Management
-- Agile Leadership
-- Metrics and Learning
 - People and Process
 - Ability to Innovate
-- Agile Frameworks
+- Agile Leadership
+- Events and Presentations
+- Agile Project Management
+- Metrics and Learning
 - News and Reviews
+- Value Delivery
 categories:
 - Leadership
 - Social Technologies

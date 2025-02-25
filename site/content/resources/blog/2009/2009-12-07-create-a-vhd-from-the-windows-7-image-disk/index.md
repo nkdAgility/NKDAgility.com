@@ -8,6 +8,7 @@ ResourceImportId: 77
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-07
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +26,9 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Troubleshooting
 - Technical Mastery
+- System Configuration
 - Software Development
 preview: metro-SSWLogo-128-link-16-16.png
 categories: []

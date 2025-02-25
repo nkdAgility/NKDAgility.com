@@ -8,6 +8,7 @@ ResourceImportId: 9682
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-27
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +24,9 @@ aliasesFor404:
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure Boards
 - System Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 categories: []

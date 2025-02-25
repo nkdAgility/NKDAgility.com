@@ -2,6 +2,7 @@
 title: Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
 description: Explore why Scrum.org is the preferred choice for Scrum training over Scrum Alliance. Uncover insights from an insider's journey to effective certification!
 date: 2023-02-24T07:00:14Z
+weight: 1000
 ResourceId: jhpy9Hy8uEw
 ResourceType: videos
 ResourceImport: true
@@ -30,9 +31,9 @@ sitemap:
 tags:
 - Personal
 - People and Process
+- Agile Project Management
 - Continuous Learning
 - Agile Frameworks
-- Agile Project Management
 - Agile Values and Principles
 resourceTypes:
 - video

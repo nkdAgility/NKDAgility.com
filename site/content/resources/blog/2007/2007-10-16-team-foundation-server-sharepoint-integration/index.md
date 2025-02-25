@@ -8,6 +8,7 @@ ResourceImportId: 300
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-10-16
+weight: 995
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,10 +24,10 @@ aliasesFor404:
 - /resources/blog/team-foundation-server-sharepoint-integration
 tags:
 - Practical Techniques and Tooling
+- Application Lifecycle Management
+- Pragmatic Thinking
 - Software Development
 - Azure DevOps
-- Pragmatic Thinking
-- Application Lifecycle Management
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

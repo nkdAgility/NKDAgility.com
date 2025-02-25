@@ -2,6 +2,7 @@
 title: 'Rethinking Sprint Planning: Why Burndown Charts Are Agile Banditry and What to Do Instead'
 description: Rethink your Sprint planning! Discover why burndown charts may hinder progress and learn to embrace a flexible, just-in-time approach for agile success.
 date: 2024-01-09T07:00:05Z
+weight: 775
 ResourceId: BtHASX2lgGo
 ResourceType: videos
 ResourceImport: true
@@ -22,16 +23,16 @@ preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
-- Agile Planning
 - Agile Product Management
 - Agile Project Management
+- Agile Planning
+- People and Process
 - Scrum Product Development
 - Software Developers
-- Agile Frameworks
-- People and Process
-- Agile Philosophy
-- Product Delivery
 - Agile Transformation
+- Product Delivery
+- Agile Frameworks
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

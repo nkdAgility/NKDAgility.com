@@ -8,6 +8,7 @@ ResourceImportId: 159
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-01
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,14 +23,14 @@ aliasesFor404:
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Azure DevOps
 - Windows
 categories:
 - Engineering Excellence

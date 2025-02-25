@@ -8,6 +8,7 @@ ResourceImportId: 11115
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-02-04
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +27,16 @@ aliasesFor404:
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
 tags:
+- People and Process
 - Scrum Product Development
 - Strategy
-- People and Process
-- Software Development
+- Agile Project Management
 - Business Agility
-- Organisational Change
-- Scaling Scrum
-- Organisational Culture
 - Agile Product Management
-- Professional Scrum
+- Organisational Culture
+- Organisational Change
+- Scaling Agility
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

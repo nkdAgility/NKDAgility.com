@@ -2,6 +2,7 @@
 title: A view into the PSM Training from Scrum.org
 description: Explore the PSM Training from Scrum.org in this insightful video, showcasing key concepts and practices to enhance your Scrum mastery.
 date: 2021-07-24T07:58:47Z
+weight: 1000
 ResourceId: qnWVeumTKcE
 ResourceType: videos
 ResourceImport: true

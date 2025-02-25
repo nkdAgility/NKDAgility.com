@@ -2,6 +2,7 @@
 title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
 date: 2023-06-05T07:00:20Z
+weight: 775
 ResourceId: YUlpnyN2IeI
 ResourceType: videos
 ResourceImport: true
@@ -31,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Empirical Process Control
+- Agile Values and Principles
 - Scrum Master
 - Agile Frameworks
-- Agile Values and Principles
-- Empirical Process Control
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
-- Personal
-- Agile Philosophy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

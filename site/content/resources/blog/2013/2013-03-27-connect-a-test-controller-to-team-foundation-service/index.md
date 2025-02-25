@@ -8,6 +8,7 @@ ResourceImportId: 9348
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-27
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,12 +24,12 @@ aliasesFor404:
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
 - Install and Configuration
-- System Configuration
-- Technical Mastery
 - Practical Techniques and Tooling
+- Technical Mastery
+- System Configuration
+- Troubleshooting
 - Software Development
 - Azure DevOps
-- Troubleshooting
 categories:
 - DevOps
 - Engineering Excellence

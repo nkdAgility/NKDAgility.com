@@ -8,6 +8,7 @@ ResourceImportId: 466
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-06-22
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ aliasesFor404:
 - /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
 tags:
 - Windows
-- Software Development
 - Technical Mastery
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

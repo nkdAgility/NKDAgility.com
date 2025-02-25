@@ -8,6 +8,7 @@ ResourceImportId: 10778
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-14
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,11 +27,11 @@ aliasesFor404:
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/blog/move-azure-storage-blob-another-store
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Technical Mastery
 - Software Development
 - System Configuration
-- Technical Mastery
 categories: []
 preview: nakedalm-windows-logo-4-4.png
 

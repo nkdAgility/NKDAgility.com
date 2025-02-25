@@ -8,6 +8,7 @@ ResourceImportId: 10058
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-01
+weight: 415
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - Transparency
-- Empirical Process Control
 - People and Process
+- Empirical Process Control
 - Agile Product Management
-- Agile Project Management
-- Organisational Agility
 - Agile Values and Principles
 - Scaling Agility
-- Organisational Change
 - Team Collaboration
+- Change Management
+- Organisational Change
+- Agile Project Management
 categories:
 - Social Technologies
 - Leadership

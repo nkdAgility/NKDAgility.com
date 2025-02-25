@@ -2,6 +2,7 @@
 title: ' shorts 5 things you would teach a productowner apprentice. Part 2'
 description: 'Join Martin Hinshelwood in Part 2 as he shares 5 essential lessons for aspiring product owners. Elevate your skills in agile and scrum! #shorts'
 date: 2023-12-14T11:00:22Z
+weight: 1000
 ResourceId: XF95kabzSeY
 ResourceType: videos
 ResourceImport: true
@@ -23,16 +24,16 @@ preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
-- Scrum Product Development
-- Professional Scrum
-- Software Development
-- Agile Frameworks
-- Scrum Team
 - People and Process
+- Scrum Product Development
 - Agile Product Management
-- Product Delivery
-- Product Owner
 - Agile Project Management
+- Mentoring
+- Software Development
+- Product Owner
+- Agile Transformation
+- Product Delivery
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.4

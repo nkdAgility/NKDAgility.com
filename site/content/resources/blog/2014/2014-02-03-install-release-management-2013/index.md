@@ -8,6 +8,7 @@ ResourceImportId: 10353
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-03
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,8 +23,8 @@ aliasesFor404:
 - /blog/install-release-management-2013
 - /resources/blog/install-release-management-2013
 tags:
-- Install and Configuration
 - Release Management
+- Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
 categories:

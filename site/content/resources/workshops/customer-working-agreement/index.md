@@ -16,6 +16,7 @@ aliasesFor404:
 - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
 - /learn/agile-delivery-kit/workshops/customer-working-agreement/
 date: 2024-09-17
+weight: 775
 creator: Martin Hinshelwood
 draft: true
 card:
@@ -29,15 +30,15 @@ categories:
 - Product Management
 tags:
 - Transparency and Accountability
-- Scrum Product Development
 - People and Process
+- Scrum Product Development
 - Agile Product Management
-- Product Delivery
 - Working Agreements
-- Professional Scrum
+- Product Delivery
+- Agile Project Management
+- Transparency
 - Software Development
-- Agile Frameworks
-- Agile Planning
+- Professional Scrum
 
 ---
 ## Customer Working Agreement

@@ -8,6 +8,7 @@ ResourceImportId: 133
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-01
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,8 +26,8 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Pragmatic Thinking
-- Software Development
 - Troubleshooting
+- Software Development
 - Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:

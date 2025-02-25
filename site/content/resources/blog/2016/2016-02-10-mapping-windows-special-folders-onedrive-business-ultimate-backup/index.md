@@ -8,6 +8,7 @@ ResourceImportId: 11430
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-02-10
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +30,9 @@ aliasesFor404:
 - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 tags:
 - Windows
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 categories: []
 preview: clip_image001-1-1.png
 

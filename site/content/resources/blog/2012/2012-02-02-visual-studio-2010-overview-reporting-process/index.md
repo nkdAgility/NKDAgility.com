@@ -8,6 +8,7 @@ ResourceImportId: 4138
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-02
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,8 +35,8 @@ tags:
 - Operational Practices
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 The Process Template governs nearly all aspects of how the team interacts with Visual Studio and TFS (e.g., the structure and flow of work items). Whether a team has a well-established development process or needs to define one, proper template selection and practice are critical.

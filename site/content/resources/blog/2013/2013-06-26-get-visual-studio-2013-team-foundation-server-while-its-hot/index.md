@@ -8,6 +8,7 @@ ResourceImportId: 9677
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
+weight: 680
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Agile Product Management
 - Team Collaboration
-- Agile Planning Tools
-- Agile Project Management
-- Product Delivery
-- Product Backlog
 - Collaboration Tools
 - Portfolio Management
-- Products and Books
-- Agile Strategy
+- Agile Planning Tools
+- Product Backlog
+- Agile Project Management
+- Product Delivery
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 categories:
 - Social Technologies
 - Scrum

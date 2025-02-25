@@ -2,6 +2,7 @@
 title: 'Mastering Product Backlog Management: Key Strategies for Agile Success'
 description: Master your product backlog with key strategies for prioritisation, WIP limits, and stakeholder engagement. Discover how to maximise value in Agile!
 date: 2023-11-30T11:00:31Z
+weight: 1000
 ResourceId: R8Ris5quXb8
 ResourceType: videos
 ResourceImport: true
@@ -22,14 +23,14 @@ preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 isShort: true
 tags:
-- Product Backlog
 - Agile Product Management
-- Agile Planning
-- Product Delivery
-- Product Owner
+- Product Backlog
 - Agile Project Management
-- Value Delivery
+- Product Owner
 - Agile Planning Tools
+- Product Delivery
+- Agile Planning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

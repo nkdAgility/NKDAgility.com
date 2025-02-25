@@ -2,6 +2,7 @@
 title: 10th April 2020 - Office Hours \ Ask me Anything
 description: Join Martin, a Scrum Trainer and Microsoft MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
 date: 2020-04-10T18:41:06Z
+weight: 1000
 ResourceId: 5UG3FF0n0C8
 ResourceType: videos
 ResourceImport: true
@@ -23,8 +24,8 @@ duration: 41
 isShort: true
 tags:
 - Events and Presentations
-- Software Developers
 - Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.4

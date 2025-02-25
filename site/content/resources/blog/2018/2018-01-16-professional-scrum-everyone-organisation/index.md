@@ -8,6 +8,7 @@ ResourceImportId: 38287
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-16
+weight: 410
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,13 +31,13 @@ tags:
 - People and Process
 - Transparency
 - Agile Product Management
-- Change Management
-- Software Developers
-- Scrum Product Development
-- Professional Scrum
 - Value Delivery
-- Agile Project Management
+- Product Delivery
+- Change Management
 - Resilience and Change
+- Scrum Product Development
+- Transparency and Accountability
+- Events and Presentations
 categories:
 - Scrum
 - Social Technologies

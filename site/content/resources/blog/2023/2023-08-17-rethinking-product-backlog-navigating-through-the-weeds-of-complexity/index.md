@@ -8,6 +8,7 @@ ResourceImportId: 49515
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-08-17
+weight: 775
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -31,12 +32,12 @@ tags:
 - Sensemaking
 - Agile Product Management
 - Agile Project Management
-- Agile Strategy
+- People and Process
+- Agile Product Operating Model
 - Scrum Product Development
+- Discovery and Learning
 - Resilience and Change
 - Product Backlog
-- Discovery and Learning
-- People and Process
 categories:
 - Product Management
 - Social Technologies

@@ -2,6 +2,7 @@
 title: Why did Healthgrades choose Martin Hinshelwood
 description: Discover why Healthgrades selected Martin Hinshelwood as their trainer. Explore the importance of finding the perfect fit for your organisation!
 date: 2017-07-28T12:40:03Z
+weight: 1000
 ResourceId: DWL0PLkFazs
 ResourceType: videos
 ResourceImport: true
@@ -23,9 +24,9 @@ preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 isShort: false
 tags:
-- Coaching
 - People and Process
 - Miscellaneous
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.4

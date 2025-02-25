@@ -8,6 +8,7 @@ ResourceImportId: 8829
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-25
+weight: 410
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,14 +25,14 @@ aliasesFor404:
 tags:
 - Windows
 - Application Lifecycle Management
-- Software Development
-- Value Delivery
-- Working Software
 - Product Delivery
+- Software Development
+- Working Software
+- Value Delivery
 - Team Collaboration
-- Products and Books
 - Practical Techniques and Tooling
 - Engineering Practices
+- Products and Books
 categories:
 - Engineering Excellence
 preview: metro-test-icon-7-7.png

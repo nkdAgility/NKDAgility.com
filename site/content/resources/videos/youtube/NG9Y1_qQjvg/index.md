@@ -2,6 +2,7 @@
 title: Install TFS 2013 Release Management
 description: Learn to install and configure TFS 2013 Release Management in under 10 minutes with Martin. Streamline your deployment process effortlessly!
 date: 2014-01-21T16:36:55Z
+weight: 1000
 ResourceId: NG9Y1_qQjvg
 ResourceType: videos
 ResourceImport: true
@@ -23,8 +24,8 @@ preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 isShort: false
 tags:
-- Install and Configuration
 - Release Management
+- Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
 sitemap:

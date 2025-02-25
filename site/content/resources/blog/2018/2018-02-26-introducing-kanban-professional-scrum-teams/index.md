@@ -8,6 +8,7 @@ ResourceImportId: 38334
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-02-26
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,12 +31,12 @@ tags:
 - Metrics and Learning
 - Agile Project Management
 - Products and Books
+- Practical Techniques and Tooling
+- Events and Presentations
+- Operational Practices
 - Software Development
 - Software Developers
-- Events and Presentations
-- Agile Frameworks
-- Flow Efficiency
-- Operational Practices
+- News and Reviews
 categories:
 - Social Technologies
 preview: nkdagility-scrum-and-kanban-1900-2-1.png

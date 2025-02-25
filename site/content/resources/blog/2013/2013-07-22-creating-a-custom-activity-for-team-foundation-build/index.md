@@ -8,6 +8,7 @@ ResourceImportId: 9769
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-22
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,14 +24,14 @@ aliasesFor404:
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
 - Install and Configuration
-- Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
-- Azure Pipelines
+- Software Development
 - Technical Mastery
 - Operational Practices
 - Continuous Integration
+- Technical Excellence
+- Azure DevOps
+- Azure Pipelines
 categories:
 - DevOps
 - Engineering Excellence

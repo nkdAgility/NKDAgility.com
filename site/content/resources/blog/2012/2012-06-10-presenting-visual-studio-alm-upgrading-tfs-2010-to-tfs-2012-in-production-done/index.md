@@ -8,6 +8,7 @@ ResourceImportId: 5432
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-10
+weight: 460
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +28,15 @@ aliasesFor404:
 - /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 tags:
 - Software Development
-- Products and Books
 - People and Process
+- Products and Books
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Events and Presentations
 - Working Software
 - Value Delivery
-- Practical Techniques and Tooling
-- Application Lifecycle Management
-- Azure DevOps
 - Product Delivery
+- Azure DevOps
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png

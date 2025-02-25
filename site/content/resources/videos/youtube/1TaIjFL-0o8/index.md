@@ -2,6 +2,7 @@
 title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibilities for Agile Success"
 description: Unlock the true potential of your Scrum Master role! Discover how to broaden your impact and foster agility within your organisation.
 date: 2023-04-27T07:00:00Z
+weight: 775
 ResourceId: 1TaIjFL-0o8
 ResourceType: videos
 ResourceImport: true
@@ -21,13 +22,13 @@ preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
 tags:
-- Scrum Master
 - People and Process
-- Professional Scrum
-- Agile Frameworks
-- Scrum Team
+- Scrum Master
 - Agile Project Management
 - Agile Transformation
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
 - Software Development
 - Sociotechnical Systems
 - Agile Leadership

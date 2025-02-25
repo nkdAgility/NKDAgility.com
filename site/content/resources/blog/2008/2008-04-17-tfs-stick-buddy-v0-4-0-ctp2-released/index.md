@@ -8,6 +8,7 @@ ResourceImportId: 238
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-17
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +28,8 @@ tags:
 - News and Reviews
 - Frequent Releases
 - Windows
-- Software Development
 - Working Software
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

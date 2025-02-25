@@ -8,6 +8,7 @@ ResourceImportId: 9876
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +25,8 @@ aliasesFor404:
 tags:
 - Scrum Product Development
 - Software Development
-- Professional Scrum
 - Agile Project Management
+- Professional Scrum
 categories:
 - Scrum
 - Social Technologies

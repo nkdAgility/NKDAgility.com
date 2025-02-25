@@ -8,6 +8,7 @@ ResourceImportId: 45521
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-25
+weight: 410
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,8 +30,8 @@ aliasesFor404:
 tags:
 - Technical Debt
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 - Product Management
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 

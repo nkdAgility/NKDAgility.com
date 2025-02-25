@@ -8,6 +8,7 @@ ResourceImportId: 11944
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-06-21
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +29,9 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Products and Books
-- Azure DevOps
 - Practical Techniques and Tooling
 - News and Reviews
+- Azure DevOps
 - Software Development
 categories:
 - DevOps

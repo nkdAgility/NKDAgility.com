@@ -8,6 +8,7 @@ ResourceImportId: 393
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-30
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,11 +25,11 @@ aliasesFor404:
 tags:
 - Windows
 - Software Development
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Technical Mastery
 - Technical Excellence
 - System Configuration
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

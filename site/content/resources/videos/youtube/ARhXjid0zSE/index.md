@@ -2,6 +2,7 @@
 title: 'Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement'
 description: Combat the "famine" in Agile with essential feedback strategies! Discover how engagement boosts team morale and product success in this insightful guide.
 date: 2023-11-08T06:45:00Z
+weight: 1000
 ResourceId: ARhXjid0zSE
 ResourceType: videos
 ResourceImport: true
@@ -22,10 +23,10 @@ preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- Employee Engagement
 - People and Process
-- Agile Project Management
 - Team Motivation
+- Employee Engagement
+- Agile Project Management
 - Software Development
 - Agile Product Management
 sitemap:

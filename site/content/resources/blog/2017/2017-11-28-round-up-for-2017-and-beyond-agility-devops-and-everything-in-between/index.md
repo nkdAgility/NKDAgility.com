@@ -8,6 +8,7 @@ ResourceImportId: 12146
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-11-28
+weight: 535
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -35,8 +36,8 @@ preview: -1-1.jpg
 tags:
 - Events and Presentations
 - News and Reviews
-- Software Development
 - People and Process
+- Software Development
 - Personal
 
 ---

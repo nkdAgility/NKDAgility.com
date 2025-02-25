@@ -2,6 +2,7 @@
 title: 'Detecting Agile BS: Lessons from the Department of Defense'
 description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
 date: 2024-08-02T06:45:02Z
+weight: 430
 ResourceId: kVt5KP9dg8Q
 ResourceType: videos
 ResourceImport: true
@@ -29,13 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Philosophy
-- Value Delivery
 - Operational Practices
-- Product Delivery
-- Software Development
-- Agile Strategy
 - Business Agility
+- Agile Strategy
+- Value Delivery
+- Software Development
+- Product Delivery
+- Agile Philosophy
 - Software Developers
 - Pragmatic Thinking
 resourceTypes:

@@ -2,6 +2,7 @@
 title: Worst trait in unskilled scrum masters?
 description: "Discover the worst trait in unskilled Scrum Masters! Martin Hinshelwood reveals why it's a critical no-go zone for effective Agile teams. #Scrum #Agile"
 date: 2023-04-26T07:00:00Z
+weight: 775
 ResourceId: -pW6YDYEO20
 ResourceType: videos
 ResourceImport: true
@@ -27,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Team Performance
-- Self Organisation
-- Coaching
-- Agile Frameworks
 - Agile Project Management
+- Coaching
+- Self Organisation
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

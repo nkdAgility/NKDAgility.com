@@ -8,6 +8,7 @@ ResourceImportId: 392
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-30
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,9 +27,9 @@ aliasesFor404:
 - /blog/tfs-gotcha-(exception-handling)
 - /resources/blog/tfs-gotcha-exception-handling
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 

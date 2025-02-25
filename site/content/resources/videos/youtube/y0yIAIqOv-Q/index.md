@@ -2,6 +2,7 @@
 title: When should an organisation consider a professional agile consultant?
 description: Discover when to engage an agile consultant for your organisation. Martin Hinshelwood shares insights on navigating the shift to agile product development.
 date: 2023-03-28T07:00:21Z
+weight: 770
 ResourceId: y0yIAIqOv-Q
 ResourceType: videos
 ResourceImport: true
@@ -32,8 +33,8 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Agile Transformation
 resourceTypes:
 - video

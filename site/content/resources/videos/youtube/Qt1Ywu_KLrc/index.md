@@ -2,6 +2,7 @@
 title: 'Mastering Azure DevOps Migration: A Step-by-Step Guide for Seamless Project Transfers'
 description: Master Azure DevOps migration with our step-by-step guide! Learn essential tools, setup tips, and common pitfalls to ensure a smooth transition.
 date: 2023-11-16T12:47:09Z
+weight: 1000
 ResourceId: Qt1Ywu_KLrc
 ResourceType: videos
 ResourceImport: true

@@ -8,6 +8,7 @@ ResourceImportId: 8700
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-09
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +27,16 @@ aliasesFor404:
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
+- Application Lifecycle Management
 - Agile Project Management
 - Agile Planning Tools
-- Application Lifecycle Management
 - Products and Books
-- Software Development
-- Agile Planning
-- Product Delivery
 - Practical Techniques and Tooling
+- Software Development
+- Product Delivery
+- Agile Planning
+- Pragmatic Thinking
 - Technical Excellence
-- Azure DevOps
 categories:
 - Product Management
 preview: metro-requirements-icon-14-14.png

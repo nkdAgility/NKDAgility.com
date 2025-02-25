@@ -2,6 +2,7 @@
 title: Scrum is like communism, it doesn't work. Myth 1.
 description: "Uncover the truth behind Scrum myths! Join Martin as he reveals the real purpose of Scrum events and why they matter in agile. \U0001F3A5\U0001F680 #Scrum #Agile"
 date: 2023-10-24T06:50:42Z
+weight: 775
 ResourceId: 7O-LmzmxUkE
 ResourceType: videos
 ResourceImport: true
@@ -30,13 +31,13 @@ tags:
 - Scrum Product Development
 - Transparency
 - Empirical Process Control
-- Transparency and Accountability
 - People and Process
-- Scrum Team
 - Daily Scrum
-- Team Collaboration
-- Professional Scrum
+- Scrum Team
+- Transparency and Accountability
 - Scrum Master
+- Product Delivery
+- Software Developers
 resourceTypes:
 - video
 layout: video

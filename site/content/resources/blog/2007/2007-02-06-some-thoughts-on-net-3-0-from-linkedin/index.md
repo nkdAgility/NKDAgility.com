@@ -8,6 +8,7 @@ ResourceImportId: 436
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-02-06
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +27,8 @@ aliasesFor404:
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

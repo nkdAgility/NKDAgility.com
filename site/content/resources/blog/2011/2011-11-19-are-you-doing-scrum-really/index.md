@@ -8,6 +8,7 @@ ResourceImportId: 4049
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-19
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Increment
 - Agile Project Management
-- Scrum Product Development
 - People and Process
-- Scrum Master
-- Software Development
+- Scrum Product Development
 - Scrum Team
-- Events and Presentations
+- Software Development
+- Scrum Master
+- News and Reviews
 - Professional Scrum
-- Software Developers
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

@@ -8,6 +8,7 @@ ResourceImportId: 25
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-16
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,15 +23,15 @@ aliasesFor404:
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Technical Mastery
+- Pragmatic Thinking
 - Software Development
 - Software Developers
 - Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
 - System Configuration
-- Technical Mastery
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

@@ -2,6 +2,7 @@
 title: What makes a truly great scrum master?
 description: Discover the key traits of an exceptional Scrum Master in this insightful video by Martin Hinshelwood, highlighting the power of influence over authority.
 date: 2023-03-13T07:00:19Z
+weight: 775
 ResourceId: rHFhR3o849k
 ResourceType: videos
 ResourceImport: true
@@ -23,11 +24,11 @@ preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Coaching
 sitemap:
   filename: sitemap.xml

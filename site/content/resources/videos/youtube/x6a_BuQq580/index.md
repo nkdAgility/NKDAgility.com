@@ -2,6 +2,7 @@
 title: 'Mastering Cloud Migration: Overcoming the Fear of Incomplete Data Transfers'
 description: Worried about incomplete cloud migrations? Discover essential tips for a smooth transition to Azure DevOps and ensure your data stays intact!
 date: 2024-11-07T05:45:02Z
+weight: 1000
 ResourceId: x6a_BuQq580
 ResourceType: videos
 ResourceImport: true

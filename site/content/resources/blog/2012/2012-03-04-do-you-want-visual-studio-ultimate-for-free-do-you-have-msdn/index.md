@@ -8,6 +8,7 @@ ResourceImportId: 4828
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-04
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +31,8 @@ tags:
 - Software Development
 - Software Developers
 - Products and Books
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
 - News and Reviews
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

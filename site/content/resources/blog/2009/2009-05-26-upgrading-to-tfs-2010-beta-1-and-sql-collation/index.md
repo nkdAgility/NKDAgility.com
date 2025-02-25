@@ -8,6 +8,7 @@ ResourceImportId: 109
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-26
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +24,9 @@ aliasesFor404:
 - /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 tags:
 - Install and Configuration
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
 - Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:

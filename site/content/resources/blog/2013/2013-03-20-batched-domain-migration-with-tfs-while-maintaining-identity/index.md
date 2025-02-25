@@ -8,6 +8,7 @@ ResourceImportId: 9324
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-20
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,15 +24,15 @@ aliasesFor404:
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
 - Pragmatic Thinking
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Azure DevOps
-- System Configuration
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
 - Operational Practices
+- Software Development
+- Technical Excellence
+- System Configuration
+- Azure DevOps
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png

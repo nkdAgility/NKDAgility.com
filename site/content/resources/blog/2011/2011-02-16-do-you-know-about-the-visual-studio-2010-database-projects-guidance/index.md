@@ -8,6 +8,7 @@ ResourceImportId: 9896
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-02-16
+weight: 770
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +28,9 @@ aliasesFor404:
 - /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 tags:
 - Products and Books
-- Software Development
-- Technical Mastery
 - Practical Techniques and Tooling
+- Technical Mastery
+- Software Development
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:

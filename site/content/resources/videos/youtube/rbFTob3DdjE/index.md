@@ -2,6 +2,7 @@
 title: 'Unlocking Team Potential: The Essential Role of Digital Whiteboards in Agile Collaboration'
 description: Unlock the power of digital whiteboards! Discover how these tools enhance collaboration, engagement, and creativity in your team’s agile journey.
 date: 2023-09-19T07:00:21Z
+weight: 1000
 ResourceId: rbFTob3DdjE
 ResourceType: videos
 ResourceImport: true

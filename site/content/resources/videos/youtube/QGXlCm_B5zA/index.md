@@ -2,6 +2,7 @@
 title: What will you learn on the PSM II course?
 description: Unlock your potential as a Scrum Master! Discover key skills and insights from the PSM II course to elevate your career and enhance team performance.
 date: 2023-03-06T07:00:14Z
+weight: 775
 ResourceId: QGXlCm_B5zA
 ResourceType: videos
 ResourceImport: true
@@ -24,8 +25,8 @@ duration: 280
 isShort: false
 tags:
 - People and Process
-- Software Development
 - Agile Project Management
+- Software Development
 - Scrum Master
 sitemap:
   filename: sitemap.xml

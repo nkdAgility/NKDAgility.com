@@ -2,6 +2,7 @@
 title: 'Turning User Feedback into Actionable Work: A Guide to Maximizing Product Value'
 description: Unlock the secrets of Agile Product Management! Discover how short feedback loops can enhance product value and customer satisfaction in under a month.
 date: 2024-07-10T06:45:01Z
+weight: 1000
 ResourceId: OZt-5iszx-I
 ResourceType: videos
 ResourceImport: true
@@ -29,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Customer Feedback Loops
-- Product Validation
 - Discovery and Learning
-- Agile Product Operating Model
-- Value Delivery
-- Agile Product Management
 - Product Delivery
+- Product Validation
 - Product Owner
-- Agile Planning
-- Agile Project Management
+- Agile Product Management
+- Value Delivery
+- Agile Product Operating Model
+- Organisational Agility
+- Market Adaptability
 resourceTypes:
 - video
 categories:

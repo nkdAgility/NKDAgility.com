@@ -8,6 +8,7 @@ ResourceImportId: 8885
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-10
+weight: 545
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,15 +23,15 @@ aliasesFor404:
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
-- Application Lifecycle Management
 - People and Process
-- Business Agility
-- Software Development
+- Application Lifecycle Management
 - Software Developers
+- Software Development
+- Business Agility
+- News and Reviews
+- Organisational Agility
 - Market Adaptability
 - Events and Presentations
-- Organisational Agility
-- News and Reviews
 - Digital Transformation
 categories:
 - DevOps

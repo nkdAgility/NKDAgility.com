@@ -2,6 +2,7 @@
 title: 'Transform Your Product Development: Unleash the Power of Experimentation and Collaboration'
 description: Unlock your product development potential! Discover strategies to enhance user value, reduce waste, and foster collaboration in our transformative PPDV course.
 date: 2024-08-11T22:00:33Z
+weight: 775
 ResourceId: m4KNGw5p4Go
 ResourceType: videos
 ResourceImport: true
@@ -30,12 +31,12 @@ sitemap:
 tags:
 - Discovery and Learning
 - Experimentation
-- Product Discovery
 - People and Process
-- Value Delivery
-- Hypothesis Driven Development
-- Product Validation
+- Product Discovery
 - Pragmatic Thinking
+- Product Validation
+- Hypothesis Driven Development
+- Value Delivery
 - Continuous Learning
 - Team Collaboration
 resourceTypes:

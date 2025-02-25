@@ -2,6 +2,7 @@
 title: Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
 description: "Explore the clash of Agile vs Waterfall! Discover how empirical models boost project success with visibility, adaptability, and continuous value delivery. \U0001F680"
 date: 2022-10-12T17:08:59Z
+weight: 1000
 ResourceId: rnyJzSwU74Q
 ResourceType: videos
 ResourceImport: true
@@ -24,8 +25,8 @@ duration: 866
 isShort: false
 tags:
 - Agile Project Management
-- Agile Philosophy
 - Empirical Process Control
+- Agile Philosophy
 - Software Development
 - Value Delivery
 - Market Adaptability

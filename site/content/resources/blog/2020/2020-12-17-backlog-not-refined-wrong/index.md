@@ -8,6 +8,7 @@ ResourceImportId: 38243
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-17
+weight: 550
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,8 +31,8 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Backlog Refinement
-- Professional Scrum
 - Software Development
+- Professional Scrum
 - Agile Project Management
 categories:
 - Scrum

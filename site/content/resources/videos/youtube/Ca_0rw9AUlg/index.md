@@ -2,6 +2,7 @@
 title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus on the System, Not the Culture'
 description: Uncover the truth about Agile and culture transformation with Michael Sahota. Discover why changing culture is more complex than it seems!
 date: 2024-01-21T07:00:06Z
+weight: 1000
 ResourceId: Ca_0rw9AUlg
 ResourceType: videos
 ResourceImport: true
@@ -28,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Organisational Culture
 - Organisational Change
-- People and Process
-- Organisational Physics
 - Change Management
+- Organisational Physics
 - Systems Thinking
 - Sociotechnical Systems
-- Pragmatic Thinking
 - Complexity Thinking
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

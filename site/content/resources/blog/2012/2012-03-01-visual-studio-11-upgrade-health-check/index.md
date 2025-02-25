@@ -8,6 +8,7 @@ ResourceImportId: 4747
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-01
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -22,16 +23,16 @@ aliasesFor404:
 - /blog/visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
 tags:
-- Team Collaboration
-- Products and Books
-- Team Performance
-- Install and Configuration
-- Events and Presentations
 - People and Process
+- Team Performance
+- Products and Books
 - Practical Techniques and Tooling
+- Events and Presentations
+- Install and Configuration
+- Team Collaboration
 - News and Reviews
-- Software Development
-- Azure DevOps
+- Troubleshooting
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

@@ -2,6 +2,7 @@
 title: What was your worst day as an agile consultant?
 description: 'Join Martin Hinshelwood as he shares his toughest day as an agile consultant, revealing the challenges behind empowering teams in #agile and #scrum.'
 date: 2023-04-04T07:00:16Z
+weight: 1000
 ResourceId: sKYVNHcf1jg
 ResourceType: videos
 ResourceImport: true
@@ -24,15 +25,15 @@ duration: 280
 isShort: false
 tags:
 - Coaching
-- Agile Transformation
-- Team Motivation
-- Agile Frameworks
-- Business Agility
-- Scrum Team
-- Agile Philosophy
+- Agile Leadership
+- Agile Project Management
 - Team Performance
 - Agile Product Management
-- Agile Leadership
+- Agile Philosophy
+- Organisational Agility
+- Team Motivation
+- Agile Transformation
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.4

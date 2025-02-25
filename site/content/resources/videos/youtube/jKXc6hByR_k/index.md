@@ -2,6 +2,7 @@
 title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
 description: Maximise your software investment with Naked Agility! Discover how to ensure quality, foster expertise, and boost ROI in your development process.
 date: 2024-12-13T06:30:00Z
+weight: 535
 ResourceId: jKXc6hByR_k
 ResourceType: videos
 ResourceImport: true

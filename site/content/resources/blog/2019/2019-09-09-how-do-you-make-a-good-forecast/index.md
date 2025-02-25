@@ -8,6 +8,7 @@ ResourceImportId: 39852
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-09
+weight: 550
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +27,16 @@ aliasesFor404:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
-- Throughput
 - People and Process
-- Scrum Product Development
-- Agile Product Operating Model
+- Throughput
 - Professional Scrum
-- Agile Project Management
-- Product Delivery
-- Agile Product Management
 - Metrics and Learning
-- Cycle Time
+- Agile Product Operating Model
+- Scrum Product Development
+- Agile Product Management
+- Product Delivery
+- Agile Project Management
+- Value Delivery
 categories:
 - Scrum
 - Product Management

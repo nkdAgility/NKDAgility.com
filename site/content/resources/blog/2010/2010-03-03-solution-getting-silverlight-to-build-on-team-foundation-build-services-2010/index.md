@@ -8,6 +8,7 @@ ResourceImportId: 69
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-03
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +29,14 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
 - Technical Mastery
 - Operational Practices
+- Pragmatic Thinking
+- Continuous Integration
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
