@@ -38,7 +38,7 @@ $captionsText
 
     Write-InfoLog "Token count: $tokenCount"
 
-    if ($tokenCount -gt 10000) {
+    if ($tokenCount -gt 1000000) {
         Write-InfoLog "Token count exceeds 10000 Skipping OpenAI request."
         return
     }
@@ -51,12 +51,11 @@ $captionsText
 # Function to generate or update Hugo markdown content for a video
 function Update-YoutubeTranscriptMarkdown {
     param ()
-
+    $skipped = 0
     # Iterate through each video folder
     Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
         $videoDir = $_.FullName
         $videoId = $_.Name
-
         # Loop through files matching the format
         Get-ChildItem -Path $videoDir -File -Filter "data.captions.*.srt" | ForEach-Object {
             # Extract the part that matches the * in the pattern
@@ -81,7 +80,10 @@ function Update-YoutubeTranscriptMarkdown {
                             if ($captionsText) {
                                 Set-Content -Path $markdownFile -Value $captionsText -Encoding UTF8NoBOM -NoNewline
                                 Write-InfoLog "Markdown created or updated for video: $videoId"
-                            }                
+                            }
+                            else {
+                                $skipped++
+                            }             
                         }  
                         else {
                             Write-InfoLog "Markdown exists: $videoId"
@@ -103,7 +105,7 @@ function Update-YoutubeTranscriptMarkdown {
         
     }
 
-    Write-InfoLog "All markdown files processed."
+    Write-InfoLog "All markdown files processed. $skipped skipped."
 }
 
 Update-YoutubeTranscriptMarkdown  # Call this to update markdown files from existing data.captions.en.srt files

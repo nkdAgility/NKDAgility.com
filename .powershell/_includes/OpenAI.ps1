@@ -162,7 +162,7 @@ function Get-OpenAIResponse {
 
     # Estimate tokens for the prompt
     $tokenEstimate = Get-TokenEstimate $prompt
-    $maxTokensPerChunk = 100000  # Leave room for model response
+    $maxTokensPerChunk = 50000  # Leave room for model response
 
     # Split the prompt into chunks if it exceeds the max token size
     if ($tokenEstimate -gt $maxTokensPerChunk) {
