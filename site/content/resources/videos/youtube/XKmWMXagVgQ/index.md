@@ -18,6 +18,9 @@ aliases:
 - /resources/XKmWMXagVgQ
 aliasesArchive:
 - /resources/videos/the-power-of-continuous-learning-for-product-owners
+- /resources/the-power-of-continuous-learning-for-product-owners
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 aliasesFor404:
 - /resources/the-power-of-continuous-learning-for-product-owners
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
@@ -26,9 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Owner
 - Continuous Learning
 - Discovery and Learning
-- Product Owner
 - Agile Product Management
 - Products and Books
 resourceTypes:

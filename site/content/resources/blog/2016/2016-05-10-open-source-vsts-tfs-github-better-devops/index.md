@@ -19,6 +19,12 @@ aliases:
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/LWHiaHn3CWF
 - /resources/blog/open-source-vsts-tfs-github-better-devops
+aliasesArchive:
+- /blog/open-source-vsts-tfs-github-better-devops
+- /open-source-vsts-tfs-github-better-devops
+- /open-source-with-vsts-or-tfs-and-github-for-better-devops
+- /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
+- /resources/blog/open-source-vsts-tfs-github-better-devops
 aliasesFor404:
 - /open-source-vsts-tfs-github-better-devops
 - /blog/open-source-vsts-tfs-github-better-devops
@@ -26,15 +32,15 @@ aliasesFor404:
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
 tags:
-- Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Continuous Integration
-- Modern Source Control
+- System Configuration
+- Operational Practices
 - Software Development
 - Software Developers
+- Modern Source Control
 - Azure DevOps
-- Operational Practices
 - Pragmatic Thinking
 categories:
 - DevOps

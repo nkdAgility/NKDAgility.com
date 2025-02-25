@@ -21,6 +21,14 @@ aliases:
 - /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+aliasesArchive:
+- /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+- /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+- /the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
+- /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
+- /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliasesFor404:
 - /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
@@ -31,13 +39,13 @@ aliasesFor404:
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
-- Azure DevOps
+- System Configuration
 - Technical Mastery
 - Frequent Releases
+- Software Development
+- Azure DevOps
 - Platform Engineering
 - Product Delivery
 categories:

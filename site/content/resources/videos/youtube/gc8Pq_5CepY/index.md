@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/rd-june-office-hours-ask-me-anything
 - /resources/videos/3rd-june-2020-office-hours-ask-me-anything
+- /resources/3rd-june-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/3rd-june-2020-office-hours-ask-me-anything
 - /resources/3rd-june-2020-office-hours-ask-me-anything
@@ -24,8 +25,8 @@ duration: 1686
 isShort: false
 tags:
 - Professional Scrum
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - Software Development
 - Software Developers
 sitemap:

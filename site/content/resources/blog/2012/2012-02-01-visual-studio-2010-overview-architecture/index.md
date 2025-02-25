@@ -20,6 +20,13 @@ aliases:
 - /blog/visual-studio-2010-overview---architecture
 - /resources/zV3uLqE0b0K
 - /resources/blog/visual-studio-2010-overview-architecture
+aliasesArchive:
+- /blog/visual-studio-2010-overview-architecture
+- /visual-studio-2010-overview-architecture
+- /visual-studio-2010-overview
+- /visual-studio-2010-overview---architecture
+- /blog/visual-studio-2010-overview---architecture
+- /resources/blog/visual-studio-2010-overview-architecture
 aliasesFor404:
 - /visual-studio-2010-overview-architecture
 - /blog/visual-studio-2010-overview-architecture

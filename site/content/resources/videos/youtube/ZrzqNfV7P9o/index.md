@@ -18,6 +18,10 @@ aliases:
 - /resources/ZrzqNfV7P9o
 aliasesArchive:
 - /resources/videos/learn-scrum-with-minecraft-education-edition
+- /resources/why-does-minecraft-make-the-aps-course-so-awesome
+- /resources/learn-scrum-with-minecraft
+- /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
+- /resources/why-does-minecraft-make-the-aps-course-so-awesome-
 aliasesFor404:
 - /resources/why-does-minecraft-make-the-aps-course-so-awesome
 - /resources/learn-scrum-with-minecraft

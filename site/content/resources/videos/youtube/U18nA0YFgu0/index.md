@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-wrath
 - /resources/videos/7-deadly-sins-of-agile-wrath
+- /resources/7-deadly-sins-of-agile-wrath
+- /resources/videos/wrath!-7-deadly-sins-of-agile
+- /resources/wrath!-7-deadly-sins-of-agile
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-wrath
 - /resources/videos/wrath!-7-deadly-sins-of-agile
@@ -31,12 +34,12 @@ tags:
 - People and Process
 - Organisational Culture
 - Transparency and Accountability
-- Agile Philosophy
 - Agile Project Management
+- Agile Philosophy
 - Personal
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -18,6 +18,9 @@ aliases:
 - /resources/oBnvr7vOkg8
 aliasesArchive:
 - /resources/videos/how-does-someone-become-an-agile-consultant
+- /resources/how-does-someone-become-an-agile-consultant
+- /resources/videos/how-does-someone-become-an-agile-consultant-
+- /resources/how-does-someone-become-an-agile-consultant-
 aliasesFor404:
 - /resources/how-does-someone-become-an-agile-consultant
 - /resources/videos/how-does-someone-become-an-agile-consultant-

@@ -18,6 +18,9 @@ aliases:
 - /resources/sT44RQgin5A
 aliasesArchive:
 - /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
+- /resources/evidence-based-management-the-four-key-value-areas-in-scrum
+- /resources/videos/the-four-key-value-areas-of-ebm
+- /resources/the-four-key-value-areas-of-ebm
 aliasesFor404:
 - /resources/evidence-based-management-the-four-key-value-areas-in-scrum
 - /resources/videos/the-four-key-value-areas-of-ebm
@@ -29,8 +32,8 @@ tags:
 - Metrics and Learning
 - Ability to Innovate
 - Decision Making
-- Evidence Based Leadership
 - Evidence Based Management
+- Evidence Based Leadership
 - Value Delivery
 resourceTypes:
 - video

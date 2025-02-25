@@ -13,6 +13,8 @@ aliases:
 - /resources/0fz91w-_6vE
 aliasesArchive:
 - /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
+- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
+- /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
 aliasesFor404:
 - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
@@ -24,12 +26,12 @@ tags:
 - People and Process
 - Product Delivery
 - Value Delivery
-- Software Development
 - Market Adaptability
 - Operational Practices
+- Software Development
+- Flow Efficiency
 - Value Stream Management
 - Discovery and Learning
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

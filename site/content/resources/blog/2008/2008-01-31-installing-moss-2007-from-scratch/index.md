@@ -17,6 +17,10 @@ aliases:
 - /installing-moss-2007-from-scratch
 - /resources/JkKTE2p0wpo
 - /resources/blog/installing-moss-2007-from-scratch
+aliasesArchive:
+- /blog/installing-moss-2007-from-scratch
+- /installing-moss-2007-from-scratch
+- /resources/blog/installing-moss-2007-from-scratch
 aliasesFor404:
 - /installing-moss-2007-from-scratch
 - /blog/installing-moss-2007-from-scratch

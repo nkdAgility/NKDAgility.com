@@ -13,6 +13,8 @@ draft: true
 aliases:
 - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
 - /resources/HzW0lKldLP9
+aliasesArchive:
+- /learn/agile-delivery-kit/first-principals/value-based-prioritization/
 aliasesFor404:
 - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
 card:
@@ -27,12 +29,12 @@ categories:
 tags:
 - Scrum Product Development
 - Product Backlog
+- Agile Product Operating Model
 - Agile Product Management
 - Product Owner
 - Value Delivery
-- Agile Product Operating Model
-- Agile Planning
 - Agile Project Management
+- Agile Planning
 - Product Delivery
 
 ---

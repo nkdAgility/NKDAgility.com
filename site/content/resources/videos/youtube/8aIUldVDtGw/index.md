@@ -18,6 +18,9 @@ aliases:
 - /resources/8aIUldVDtGw
 aliasesArchive:
 - /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/videos/stop-starting-and-start-finishing!
+- /resources/stop-starting-and-start-finishing!
 aliasesFor404:
 - /resources/stop-starting-and-start-finishing-the-key-to-team-success
 - /resources/videos/stop-starting-and-start-finishing!
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Lean
-- Throughput
 - People and Process
+- Throughput
 - Strategy
-- Cycle Time
-- Scrum Product Development
-- Lean Product Development
 - Lean Thinking
+- Scrum Product Development
 - Agile Product Management
-- Lean Principles
+- Lean Product Development
+- Cycle Time
+- Team Performance
 resourceTypes:
 - video
 categories:

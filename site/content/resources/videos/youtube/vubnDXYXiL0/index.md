@@ -18,6 +18,9 @@ aliases:
 - /resources/vubnDXYXiL0
 aliasesArchive:
 - /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
+- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 aliasesFor404:
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 - /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Scaling Scrum
 - Practical Techniques and Tooling
-- Scaling Agility
-- Scaled Agile
+- Scaling Scrum
 - Large Scale Agility
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
+- Scaled Agile
+- Scaling Agility
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

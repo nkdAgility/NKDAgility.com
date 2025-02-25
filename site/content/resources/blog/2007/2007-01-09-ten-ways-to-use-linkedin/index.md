@@ -17,6 +17,10 @@ aliases:
 - /ten-ways-to-use-linkedin
 - /resources/f_wB3o4HlXs
 - /resources/blog/ten-ways-to-use-linkedin
+aliasesArchive:
+- /blog/ten-ways-to-use-linkedin
+- /ten-ways-to-use-linkedin
+- /resources/blog/ten-ways-to-use-linkedin
 aliasesFor404:
 - /ten-ways-to-use-linkedin
 - /blog/ten-ways-to-use-linkedin

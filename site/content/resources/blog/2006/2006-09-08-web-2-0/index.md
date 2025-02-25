@@ -17,6 +17,10 @@ aliases:
 - /web-2-0
 - /resources/phKPK_P0xjA
 - /resources/blog/web-2-0
+aliasesArchive:
+- /blog/web-2-0
+- /web-2-0
+- /resources/blog/web-2-0
 aliasesFor404:
 - /web-2-0
 - /blog/web-2-0

@@ -21,6 +21,14 @@ aliases:
 - /ooooh--rtm-delight
 - /blog/ooooh--rtm-delight
 - /resources/blog/ooooh-rtm-delight
+aliasesArchive:
+- /blog/ooooh-rtm-delight
+- /ooooh-rtm-delight
+- /ooooh,-rtm-delight
+- /blog/ooooh,-rtm-delight
+- /ooooh--rtm-delight
+- /blog/ooooh--rtm-delight
+- /resources/blog/ooooh-rtm-delight
 aliasesFor404:
 - /ooooh-rtm-delight
 - /blog/ooooh-rtm-delight
@@ -31,8 +39,8 @@ aliasesFor404:
 - /resources/blog/ooooh-rtm-delight
 tags:
 - News and Reviews
-- Release Management
 - Software Development
+- Release Management
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence

@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
+- /resources/scrum-is-like-communism-it-doesnt-work-myth-5
+- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
 aliasesFor404:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
@@ -27,10 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Agile Frameworks
 - People and Process
 - Agile Project Management
+- Software Development
+- Agile Frameworks
 - Pragmatic Thinking
 resourceTypes:
 - video

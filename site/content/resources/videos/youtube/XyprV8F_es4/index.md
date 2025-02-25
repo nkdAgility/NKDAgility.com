@@ -16,6 +16,10 @@ aliases:
 aliasesArchive:
 - /resources/videos/-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
+- /resources/1-critical-skill-for-a-scrum-master-and-why-
+- /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
+- /resources/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
 aliasesFor404:
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
@@ -27,16 +31,16 @@ preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true
 tags:
-- Continuous Delivery
 - Continuous Learning
 - Resilience and Change
-- Enterprise Agility
+- Continuous Delivery
+- Change Management
 - Organisational Agility
 - Business Agility
-- Change Management
 - Organisational Culture
-- People and Process
-- Sociotechnical Systems
+- Organisational Change
+- Enterprise Agility
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.4

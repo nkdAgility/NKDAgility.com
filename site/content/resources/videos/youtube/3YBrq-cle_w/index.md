@@ -13,6 +13,8 @@ aliases:
 - /resources/3YBrq-cle_w
 aliasesArchive:
 - /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 aliasesFor404:
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
@@ -20,16 +22,16 @@ preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
-- Professional Scrum
 - Technical Leadership
-- Software Development
-- Agile Frameworks
+- Professional Scrum
 - Agile Project Management
+- Software Development
 - Agile Transformation
-- Self Organisation
+- Agile Frameworks
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

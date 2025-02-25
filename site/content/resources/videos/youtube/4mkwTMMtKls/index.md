@@ -18,6 +18,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-envy
 - /resources/videos/7-deadly-sins-of-agile-envy
+- /resources/7-deadly-sins-of-agile-envy
+- /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
+- /resources/envy!-one-of-the-7-deadly-sins-of-agile
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-envy
 - /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile

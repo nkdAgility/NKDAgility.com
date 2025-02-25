@@ -18,6 +18,9 @@ aliases:
 - /resources/TYpgtgaOXv4
 aliasesArchive:
 - /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
+- /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
+- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
+- /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
 aliasesFor404:
 - /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
@@ -28,11 +31,11 @@ sitemap:
 tags:
 - Transparency
 - Agile Product Management
-- Product Backlog
 - Agile Project Management
-- Product Delivery
+- Product Backlog
 - Product Owner
 - Agile Planning Tools
+- Product Delivery
 - Software Development
 - Value Delivery
 - Scrum Product Development

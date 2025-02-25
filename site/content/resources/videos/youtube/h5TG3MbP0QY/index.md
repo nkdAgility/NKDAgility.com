@@ -20,6 +20,10 @@ aliases:
 aliasesArchive:
 - /resources/videos/most-common-thing-you-hear-in-a-psm-course
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
+- /resources/most-common-thing-you-hear-in-a-psm-1-course-2
+- /resources/most-common-thing-you-hear-in-a-psm-1-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
+- /resources/most-common-thing-you-hear-in-a-psm-1-course-
 aliasesFor404:
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-2
 - /resources/most-common-thing-you-hear-in-a-psm-1-course
@@ -30,13 +34,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Customer Satisfaction
-- Transparency and Accountability
 - Agile Values and Principles
+- Transparency and Accountability
+- Customer Satisfaction
+- Miscellaneous
 - Accountability
 - Pragmatic Thinking
 - Personal
-- Miscellaneous
 - Agile Philosophy
 resourceTypes:
 - video

@@ -19,6 +19,12 @@ aliases:
 - /blog/removing-acl's-for-dead-ad-accounts
 - /resources/l3dnUvBZV8r
 - /resources/blog/removing-acls-for-dead-ad-accounts
+aliasesArchive:
+- /blog/removing-acls-for-dead-ad-accounts
+- /removing-acls-for-dead-ad-accounts
+- /removing-acl's-for-dead-ad-accounts
+- /blog/removing-acl's-for-dead-ad-accounts
+- /resources/blog/removing-acls-for-dead-ad-accounts
 aliasesFor404:
 - /removing-acls-for-dead-ad-accounts
 - /blog/removing-acls-for-dead-ad-accounts
@@ -28,9 +34,9 @@ aliasesFor404:
 tags:
 - Windows
 - System Configuration
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

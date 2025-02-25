@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 aliasesArchive:
 - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+- /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
 aliasesFor404:
 - /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1

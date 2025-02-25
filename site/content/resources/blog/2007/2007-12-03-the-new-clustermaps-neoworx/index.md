@@ -19,6 +19,12 @@ aliases:
 - /blog/the-new-clustermaps--neoworx
 - /resources/_tT2jcz-s4u
 - /resources/blog/the-new-clustermaps-neoworx
+aliasesArchive:
+- /blog/the-new-clustermaps-neoworx
+- /the-new-clustermaps-neoworx
+- /the-new-clustermaps--neoworx
+- /blog/the-new-clustermaps--neoworx
+- /resources/blog/the-new-clustermaps-neoworx
 aliasesFor404:
 - /the-new-clustermaps-neoworx
 - /blog/the-new-clustermaps-neoworx

@@ -14,6 +14,8 @@ aliases:
 - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
 aliasesArchive:
 - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
+- /resources/videos/-shorts-7-virtues-of-agile-diligence
+- /resources/-shorts-7-virtues-of-agile-diligence
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-diligence
 - /resources/-shorts-7-virtues-of-agile-diligence
@@ -22,15 +24,15 @@ duration: 25
 isShort: true
 tags:
 - Agile Values and Principles
-- Technical Leadership
 - People and Process
+- Technical Leadership
 - Agile Project Management
 - Agile Transformation
 - Team Performance
-- Software Development
 - Organisational Culture
 - Pragmatic Thinking
-- Organisational Agility
+- Working Software
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

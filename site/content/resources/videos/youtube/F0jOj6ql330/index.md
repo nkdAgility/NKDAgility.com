@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/most-rewarding-part-of-being-a-scrum-developer
 aliasesArchive:
 - /resources/videos/most-rewarding-part-of-being-a-scrum-developer
+- /resources/most-rewarding-part-of-being-a-scrum-developer
+- /resources/videos/most-rewarding-part-of-being-a-scrum-developer-
+- /resources/most-rewarding-part-of-being-a-scrum-developer-
 aliasesFor404:
 - /resources/most-rewarding-part-of-being-a-scrum-developer
 - /resources/videos/most-rewarding-part-of-being-a-scrum-developer-

@@ -19,6 +19,12 @@ aliases:
 - /blog/what-is-dyslexia-
 - /resources/97Evnsuws6e
 - /resources/blog/what-is-dyslexia
+aliasesArchive:
+- /blog/what-is-dyslexia
+- /what-is-dyslexia
+- /what-is-dyslexia-
+- /blog/what-is-dyslexia-
+- /resources/blog/what-is-dyslexia
 aliasesFor404:
 - /what-is-dyslexia
 - /blog/what-is-dyslexia

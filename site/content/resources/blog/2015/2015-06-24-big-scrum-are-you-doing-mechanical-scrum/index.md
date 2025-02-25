@@ -19,6 +19,12 @@ aliases:
 - /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/8wFtoutYII0
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
+aliasesArchive:
+- /blog/big-scrum-are-you-doing-mechanical-scrum
+- /big-scrum-are-you-doing-mechanical-scrum
+- /big-scrum--are-you-doing-mechanical-scrum
+- /blog/big-scrum--are-you-doing-mechanical-scrum
+- /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 aliasesFor404:
 - /big-scrum-are-you-doing-mechanical-scrum
 - /blog/big-scrum-are-you-doing-mechanical-scrum
@@ -27,15 +33,15 @@ aliasesFor404:
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 tags:
 - Agile Values and Principles
-- Professional Scrum
-- Scaling Scrum
 - Scrum Values
-- Software Development
-- Software Developers
-- Agile Frameworks
+- Scaling Scrum
+- Professional Scrum
 - People and Process
 - Agile Product Management
 - Agile Project Management
+- Software Development
+- Software Developers
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

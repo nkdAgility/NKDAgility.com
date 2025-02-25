@@ -18,6 +18,9 @@ aliases:
 - /resources/ucTJ1fe1CvQ
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+- /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+- /resources/videos/ppdv-course-overview
+- /resources/ppdv-course-overview
 aliasesFor404:
 - /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 - /resources/videos/ppdv-course-overview
@@ -26,13 +29,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Experimentation
-- Product Validation
+- Discovery and Learning
 - People and Process
+- Product Validation
 - Product Discovery
-- Continuous Learning
 - Hypothesis Driven Development
+- Continuous Learning
 - Pragmatic Thinking
 - Products and Books
 - Agile Product Management

@@ -17,6 +17,10 @@ aliases:
 - /interview-with-scottish-developers
 - /resources/-9zhZou8GwO
 - /resources/blog/interview-with-scottish-developers
+aliasesArchive:
+- /blog/interview-with-scottish-developers
+- /interview-with-scottish-developers
+- /resources/blog/interview-with-scottish-developers
 aliasesFor404:
 - /interview-with-scottish-developers
 - /blog/interview-with-scottish-developers

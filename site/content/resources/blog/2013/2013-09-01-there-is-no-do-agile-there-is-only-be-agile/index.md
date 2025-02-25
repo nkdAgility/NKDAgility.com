@@ -19,6 +19,12 @@ aliases:
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/QIFsyx_OqLG
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
+aliasesArchive:
+- /blog/there-is-no-do-agile-there-is-only-be-agile
+- /there-is-no-do-agile-there-is-only-be-agile
+- /there-is-no--do-agile--there-is-only--be-agile-
+- /blog/there-is-no--do-agile--there-is-only--be-agile-
+- /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 aliasesFor404:
 - /there-is-no-do-agile-there-is-only-be-agile
 - /blog/there-is-no-do-agile-there-is-only-be-agile
@@ -27,15 +33,15 @@ aliasesFor404:
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - Transparency
-- Empirical Process Control
 - People and Process
+- Empirical Process Control
 - Agile Product Management
-- Agile Project Management
-- Organisational Agility
 - Agile Values and Principles
 - Scaling Agility
-- Organisational Change
 - Team Collaboration
+- Change Management
+- Organisational Change
+- Agile Project Management
 categories:
 - Social Technologies
 - Leadership

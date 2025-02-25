@@ -19,6 +19,12 @@ aliases:
 - /blog/teams-without-areas-using-a-team-field-in-tfs
 - /resources/5IipWQTVLEo
 - /resources/blog/team-foundation-server-2012-teams-without-areas
+aliasesArchive:
+- /blog/team-foundation-server-2012-teams-without-areas
+- /team-foundation-server-2012-teams-without-areas
+- /teams-without-areas-using-a-team-field-in-tfs
+- /blog/teams-without-areas-using-a-team-field-in-tfs
+- /resources/blog/team-foundation-server-2012-teams-without-areas
 aliasesFor404:
 - /team-foundation-server-2012-teams-without-areas
 - /blog/team-foundation-server-2012-teams-without-areas
@@ -26,20 +32,20 @@ aliasesFor404:
 - /blog/teams-without-areas-using-a-team-field-in-tfs
 - /resources/blog/team-foundation-server-2012-teams-without-areas
 tags:
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Install and Configuration
 - Azure Boards
 - System Configuration
-- Azure DevOps
-- Pragmatic Thinking
 - Operational Practices
+- Pragmatic Thinking
+- Azure DevOps
 - Application Lifecycle Management
 - Technical Excellence
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

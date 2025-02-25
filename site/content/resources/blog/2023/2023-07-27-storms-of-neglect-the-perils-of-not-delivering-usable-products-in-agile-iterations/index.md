@@ -18,6 +18,10 @@ aliases:
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/G1N1dQ6DNEV
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+aliasesArchive:
+- /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+- /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+- /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 aliasesFor404:
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
@@ -26,13 +30,13 @@ tags:
 - Transparency
 - Increment
 - Agile Product Operating Model
-- Agile Values and Principles
 - Agile Product Management
-- Agile Planning
-- Agile Strategy
-- Scrum Product Development
-- People and Process
-- Agile Frameworks
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Transformation
+- Product Delivery
+- Agile Project Management
+- Working Software
 categories:
 - Product Management
 - Social Technologies

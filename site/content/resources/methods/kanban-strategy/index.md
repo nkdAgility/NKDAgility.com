@@ -14,6 +14,9 @@ aliases:
 - /methods/kanban-strategy/
 - /learn/agile-delivery-kit/strategies/kanban-strategy/
 - /resources/_O7H5eH902L
+aliasesArchive:
+- /methods/kanban-strategy/
+- /learn/agile-delivery-kit/strategies/kanban-strategy/
 aliasesFor404:
 - /methods/kanban-strategy/
 - /learn/agile-delivery-kit/strategies/kanban-strategy/

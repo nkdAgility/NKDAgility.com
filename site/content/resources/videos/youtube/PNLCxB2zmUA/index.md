@@ -19,6 +19,13 @@ aliases:
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 aliasesArchive:
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- /resources/transform-your-software-team-with-expert-product-development-mentoring
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+- /resources/videos/the-necessity-of-architectural-adaptation
+- /resources/the-necessity-of-architectural-adaptation
 aliasesFor404:
 - /resources/transform-your-software-team-with-expert-product-development-mentoring
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
@@ -33,9 +40,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 resourceTypes:
 - video
 categories: []

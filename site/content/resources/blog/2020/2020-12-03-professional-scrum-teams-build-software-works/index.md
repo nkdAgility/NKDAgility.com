@@ -19,6 +19,12 @@ aliases:
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/vCeqzJIgF1F
 - /resources/blog/professional-scrum-teams-build-software-works
+aliasesArchive:
+- /blog/professional-scrum-teams-build-software-works
+- /professional-scrum-teams-build-software-works
+- /professional-scrum-teams-build-software-that-works
+- /blog/professional-scrum-teams-build-software-that-works
+- /resources/blog/professional-scrum-teams-build-software-works
 aliasesFor404:
 - /professional-scrum-teams-build-software-works
 - /blog/professional-scrum-teams-build-software-works
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
 tags:
-- Software Development
 - Working Software
+- Software Development
 categories:
 - Scrum
 - Social Technologies

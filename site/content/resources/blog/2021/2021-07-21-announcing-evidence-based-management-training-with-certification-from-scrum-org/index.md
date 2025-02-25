@@ -19,6 +19,14 @@ aliases:
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /resources/XuePm2RAZa0
 - /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+aliasesArchive:
+- /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+- /announcing-evidence-based-management-training-with-certification-from-scrum-org
+- /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
+- /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+- /announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
+- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
 aliasesFor404:
 - /announcing-evidence-based-management-training-with-certification-from-scrum-org
 - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
@@ -30,14 +38,14 @@ aliasesFor404:
 tags:
 - Evidence Based Leadership
 - Evidence Based Management
-- Events and Presentations
-- Agile Project Management
-- Agile Leadership
-- Metrics and Learning
 - People and Process
 - Ability to Innovate
-- Agile Frameworks
+- Agile Leadership
+- Events and Presentations
+- Agile Project Management
+- Metrics and Learning
 - News and Reviews
+- Value Delivery
 categories:
 - Leadership
 - Social Technologies

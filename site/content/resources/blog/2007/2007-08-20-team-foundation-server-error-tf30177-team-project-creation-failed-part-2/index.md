@@ -19,6 +19,14 @@ aliases:
 - /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
 - /resources/-H--7dlWeGE
 - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+aliasesArchive:
+- /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+- /team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+- /team-foundation-server-error-tf30177--team-project-creation-failed---part-2
+- /blog/team-foundation-server-error-tf30177--team-project-creation-failed---part-2
+- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+- /team-foundation-server-error-tf30177--team-project-creation-failed----part-2
+- /blog/team-foundation-server-error-tf30177--team-project-creation-failed----part-2
 aliasesFor404:
 - /team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 - /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
@@ -30,10 +38,10 @@ aliasesFor404:
 tags:
 - Windows
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
+- Install and Configuration
 - Pragmatic Thinking
+- Software Development
 - System Configuration
 categories: []
 preview: metro-sharepoint-128-link-1-1.png

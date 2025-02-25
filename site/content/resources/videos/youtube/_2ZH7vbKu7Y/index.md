@@ -20,6 +20,9 @@ aliases:
 - /resources/_2ZH7vbKu7Y
 aliasesArchive:
 - /resources/videos/training-a-bridge-to-knowledge-and-growth
+- /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
+- /resources/training-a-bridge-to-knowledge-and-growth
+- /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 aliasesFor404:
 - /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 - /resources/training-a-bridge-to-knowledge-and-growth
@@ -30,14 +33,14 @@ sitemap:
 tags:
 - People and Process
 - Personal
-- Continuous Learning
 - Discovery and Learning
+- Continuous Learning
 - Resilience and Change
-- Team Motivation
 - Pragmatic Thinking
 - Agile Leadership
 - Organisational Change
-- Technical Leadership
+- Team Collaboration
+- Team Motivation
 categories:
 - Leadership
 

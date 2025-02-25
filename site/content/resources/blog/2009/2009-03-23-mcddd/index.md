@@ -17,6 +17,10 @@ aliases:
 - /mcddd
 - /resources/6pw2YiuYEJ1
 - /resources/blog/mcddd
+aliasesArchive:
+- /blog/mcddd
+- /mcddd
+- /resources/blog/mcddd
 aliasesFor404:
 - /mcddd
 - /blog/mcddd

@@ -19,6 +19,12 @@ aliases:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/ycDsUu_-hNR
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
+aliasesArchive:
+- /blog/adventures-in-scrum-lesson-2-for-the-record
+- /adventures-in-scrum-lesson-2-for-the-record
+- /adventures-in-scrum--lesson-2---for-the-record
+- /blog/adventures-in-scrum--lesson-2---for-the-record
+- /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 aliasesFor404:
 - /adventures-in-scrum-lesson-2-for-the-record
 - /blog/adventures-in-scrum-lesson-2-for-the-record
@@ -26,15 +32,15 @@ aliasesFor404:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
-- Scrum Team
-- Scrum Product Development
 - People and Process
-- Professional Scrum
-- Scrum Master
-- Software Development
-- Software Developers
-- Agile Planning
+- Scrum Product Development
+- Scrum Team
 - Agile Product Management
+- Scrum Master
+- Software Developers
+- Software Development
+- Product Delivery
+- Professional Scrum
 - Team Collaboration
 categories:
 - Scrum

@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful
 aliasesArchive:
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful
+- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful-
 aliasesFor404:
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful

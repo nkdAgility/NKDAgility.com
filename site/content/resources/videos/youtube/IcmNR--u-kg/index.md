@@ -15,6 +15,8 @@ aliases:
 - /resources/IcmNR--u-kg
 aliasesArchive:
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
+- /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 aliasesFor404:
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-

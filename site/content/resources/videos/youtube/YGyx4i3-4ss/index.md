@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
 aliasesArchive:
 - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
+- /resources/videos/ppdv-course-overview
+- /resources/ppdv-course-overview
 aliasesFor404:
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview

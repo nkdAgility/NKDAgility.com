@@ -19,6 +19,12 @@ aliases:
 - /blog/are-you-doing-scrum--really-
 - /resources/X1Hm4PJt0CV
 - /resources/blog/are-you-doing-scrum-really
+aliasesArchive:
+- /blog/are-you-doing-scrum-really
+- /are-you-doing-scrum-really
+- /are-you-doing-scrum--really-
+- /blog/are-you-doing-scrum--really-
+- /resources/blog/are-you-doing-scrum-really
 aliasesFor404:
 - /are-you-doing-scrum-really
 - /blog/are-you-doing-scrum-really
@@ -28,14 +34,14 @@ aliasesFor404:
 tags:
 - Increment
 - Agile Project Management
-- Scrum Product Development
 - People and Process
-- Scrum Master
-- Software Development
+- Scrum Product Development
 - Scrum Team
-- Events and Presentations
+- Software Development
+- Scrum Master
+- News and Reviews
 - Professional Scrum
-- Software Developers
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

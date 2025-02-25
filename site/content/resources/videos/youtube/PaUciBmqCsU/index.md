@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/understanding-the-power-of-kanban-in-scrum
 aliasesArchive:
 - /resources/videos/understanding-the-power-of-kanban-in-scrum
+- /resources/understanding-the-power-of-kanban-in-scrum
+- /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
+- /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
 aliasesFor404:
 - /resources/understanding-the-power-of-kanban-in-scrum
 - /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
@@ -27,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
 - Strategy
+- Transparency
 - Transparency and Accountability
 - Empirical Process Control
+- Value Stream Management
 - Flow Efficiency
 - Value Delivery
 - Practical Techniques and Tooling
-- Value Stream Management
-- Agile Frameworks
-- Operational Practices
+- Agile Transformation
+- Throughput
 resourceTypes:
 - video
 categories:

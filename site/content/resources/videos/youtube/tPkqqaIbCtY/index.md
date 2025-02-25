@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/empowering-users-transforming-products-from-burdens-to-essential-tools
 aliasesArchive:
 - /resources/videos/empowering-users-transforming-products-from-burdens-to-essential-tools
+- /resources/videos/-shorts-7-virtues-of-agile-kindness
+- /resources/-shorts-7-virtues-of-agile-kindness
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-kindness
 - /resources/-shorts-7-virtues-of-agile-kindness
@@ -22,16 +24,16 @@ preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
+- Product Strategy
+- People and Process
 - Product Validation
 - Discovery and Learning
-- People and Process
 - Product Discovery
-- Product Strategy
-- Customer Feedback Loops
-- Customer Satisfaction
-- Personal
 - Miscellaneous
-- Value Delivery
+- Customer Retention
+- Customer Feedback Loops
+- Personal
+- Customer Satisfaction
 sitemap:
   filename: sitemap.xml
   priority: 0.6

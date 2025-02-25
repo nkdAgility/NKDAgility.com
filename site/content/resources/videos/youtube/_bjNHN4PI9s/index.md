@@ -13,6 +13,8 @@ aliases:
 - /resources/_bjNHN4PI9s
 aliasesArchive:
 - /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
+- /resources/videos/ep-007-running-a-live-virtual-classroom
+- /resources/ep-007-running-a-live-virtual-classroom
 aliasesFor404:
 - /resources/videos/ep-007-running-a-live-virtual-classroom
 - /resources/ep-007-running-a-live-virtual-classroom
@@ -22,11 +24,11 @@ isShort: false
 tags:
 - Events and Presentations
 - Install and Configuration
+- Practical Techniques and Tooling
 - Collaboration Tools
 - Remote Working
-- Practical Techniques and Tooling
-- Team Collaboration
 - Products and Books
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

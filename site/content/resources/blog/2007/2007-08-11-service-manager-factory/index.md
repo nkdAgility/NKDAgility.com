@@ -17,6 +17,10 @@ aliases:
 - /service-manager-factory
 - /resources/2LUs5HFK_O5
 - /resources/blog/service-manager-factory
+aliasesArchive:
+- /blog/service-manager-factory
+- /service-manager-factory
+- /resources/blog/service-manager-factory
 aliasesFor404:
 - /service-manager-factory
 - /blog/service-manager-factory

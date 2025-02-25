@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
 aliasesArchive:
 - /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
+- /resources/videos/7-signs-of-the-agile-apocalypse-silence
+- /resources/7-signs-of-the-agile-apocalypse-silence
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-silence
 - /resources/7-signs-of-the-agile-apocalypse-silence

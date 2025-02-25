@@ -18,6 +18,9 @@ aliases:
 - /resources/j-mPdGP7BiU
 aliasesArchive:
 - /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
+- /resources/mastering-product-development-from-assumptions-to-hypotheses
+- /resources/videos/ppdv-learning-outcomes
+- /resources/ppdv-learning-outcomes
 aliasesFor404:
 - /resources/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/videos/ppdv-learning-outcomes
@@ -29,10 +32,10 @@ tags:
 - Experimentation
 - Metrics and Learning
 - Discovery and Learning
-- Continuous Learning
+- Decision Making
 - Hypothesis Driven Development
 - Product Validation
-- Decision Making
+- Continuous Learning
 - Product Discovery
 - Lean Startup
 - Evidence Based Management

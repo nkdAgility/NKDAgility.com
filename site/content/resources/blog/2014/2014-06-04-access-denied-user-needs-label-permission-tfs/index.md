@@ -19,6 +19,12 @@ aliases:
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/jdpPpvEHzGa
 - /resources/blog/access-denied-user-needs-label-permission-tfs
+aliasesArchive:
+- /blog/access-denied-user-needs-label-permission-tfs
+- /access-denied-user-needs-label-permission-tfs
+- /access-denied-user-needs-label-permission-in-tfs
+- /blog/access-denied-user-needs-label-permission-in-tfs
+- /resources/blog/access-denied-user-needs-label-permission-tfs
 aliasesFor404:
 - /access-denied-user-needs-label-permission-tfs
 - /blog/access-denied-user-needs-label-permission-tfs
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 - System Configuration
 - Pragmatic Thinking
 categories: []

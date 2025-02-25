@@ -18,6 +18,9 @@ aliases:
 - /resources/wiEH7vsfrSE
 aliasesArchive:
 - /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
+- /resources/why-cost-cutting-during-recessions-is-counterproductive
+- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
+- /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
 aliasesFor404:
 - /resources/why-cost-cutting-during-recessions-is-counterproductive
 - /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategic Goals
-- Organisational Culture
 - People and Process
-- Organisational Agility
 - Business Agility
-- Agile Strategy
-- Value Delivery
-- Operational Practices
-- Enterprise Agility
+- Organisational Culture
+- Strategic Goals
+- Organisational Agility
 - Organisational Physics
+- Market Adaptability
+- Organisational Change
+- Agile Strategy
+- Operational Practices
 resourceTypes:
 - video
 categories:

@@ -17,6 +17,10 @@ aliases:
 - /scottish-visual-studio-2010-launch-event-with-jason-zander
 - /resources/6uW7o7pk9WZ
 - /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
+aliasesArchive:
+- /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
+- /scottish-visual-studio-2010-launch-event-with-jason-zander
+- /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 aliasesFor404:
 - /scottish-visual-studio-2010-launch-event-with-jason-zander
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander

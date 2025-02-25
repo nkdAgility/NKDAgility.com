@@ -17,17 +17,21 @@ aliases:
 - /change-of-plan
 - /resources/KfLCHLNio90
 - /resources/blog/change-of-plan
+aliasesArchive:
+- /blog/change-of-plan
+- /change-of-plan
+- /resources/blog/change-of-plan
 aliasesFor404:
 - /change-of-plan
 - /blog/change-of-plan
 - /resources/blog/change-of-plan
 tags:
 - Code and Complexity
-- Software Development
-- Pragmatic Thinking
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
 - Working Software
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

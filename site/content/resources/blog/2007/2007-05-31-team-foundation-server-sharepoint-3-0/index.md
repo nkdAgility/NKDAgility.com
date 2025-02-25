@@ -19,6 +19,12 @@ aliases:
 - /blog/team-foundation-server-&-sharepoint-3-0
 - /resources/vIsHKPxOtz-
 - /resources/blog/team-foundation-server-sharepoint-3-0
+aliasesArchive:
+- /blog/team-foundation-server-sharepoint-3-0
+- /team-foundation-server-sharepoint-3-0
+- /team-foundation-server-&-sharepoint-3-0
+- /blog/team-foundation-server-&-sharepoint-3-0
+- /resources/blog/team-foundation-server-sharepoint-3-0
 aliasesFor404:
 - /team-foundation-server-sharepoint-3-0
 - /blog/team-foundation-server-sharepoint-3-0

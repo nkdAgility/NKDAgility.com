@@ -19,6 +19,12 @@ aliases:
 - /resources/2iThCwSc5Qx
 - /loss-of-my-user-name-is-not-that-bad
 - /resources/blog/loss-of-my-user-name-is-not-that-bad
+aliasesArchive:
+- /blog/loss-of-my-user-name-is-not-that-bad
+- /loss-of-my-user-name-is-not-that-bad---
+- /blog/loss-of-my-user-name-is-not-that-bad---
+- /loss-of-my-user-name-is-not-that-bad
+- /resources/blog/loss-of-my-user-name-is-not-that-bad
 aliasesFor404:
 - /loss-of-my-user-name-is-not-that-bad
 - /blog/loss-of-my-user-name-is-not-that-bad

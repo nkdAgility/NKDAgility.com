@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-event-handler--ctp1-imminent
 - /resources/VWTrf8PCadG
 - /resources/blog/tfs-event-handler-ctp1-imminent
+aliasesArchive:
+- /blog/tfs-event-handler-ctp1-imminent
+- /tfs-event-handler-ctp1-imminent
+- /tfs-event-handler--ctp1-imminent
+- /blog/tfs-event-handler--ctp1-imminent
+- /resources/blog/tfs-event-handler-ctp1-imminent
 aliasesFor404:
 - /tfs-event-handler-ctp1-imminent
 - /blog/tfs-event-handler-ctp1-imminent

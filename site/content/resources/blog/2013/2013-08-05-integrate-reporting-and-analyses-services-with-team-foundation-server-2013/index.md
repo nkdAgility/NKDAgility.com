@@ -17,6 +17,10 @@ aliases:
 - /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /resources/nNxCVaaSYOS
 - /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+aliasesArchive:
+- /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+- /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+- /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 aliasesFor404:
 - /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013

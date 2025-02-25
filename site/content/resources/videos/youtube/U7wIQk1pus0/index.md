@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/install-tfs-basic
 - /resources/videos/install-tfs-2013-basic
+- /resources/install-tfs-2013-basic
 aliasesFor404:
 - /resources/videos/install-tfs-2013-basic
 - /resources/install-tfs-2013-basic

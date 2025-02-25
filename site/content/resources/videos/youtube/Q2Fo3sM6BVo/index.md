@@ -15,6 +15,8 @@ aliases:
 - /resources/Q2Fo3sM6BVo
 aliasesArchive:
 - /resources/videos/the-scrum-framework
+- /resources/videos/the-scrum-framework!
+- /resources/the-scrum-framework!
 aliasesFor404:
 - /resources/videos/the-scrum-framework!
 - /resources/the-scrum-framework!
@@ -23,9 +25,9 @@ duration: 891
 isShort: false
 tags:
 - Professional Scrum
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

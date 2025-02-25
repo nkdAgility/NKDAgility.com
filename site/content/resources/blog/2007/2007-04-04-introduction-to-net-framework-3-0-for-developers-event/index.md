@@ -19,6 +19,12 @@ aliases:
 - /blog/introduction-to--net-framework-3-0-for-developers-event
 - /resources/gdc1V-o308o
 - /resources/blog/introduction-to-net-framework-3-0-for-developers-event
+aliasesArchive:
+- /blog/introduction-to-net-framework-3-0-for-developers-event
+- /introduction-to-net-framework-3-0-for-developers-event
+- /introduction-to--net-framework-3-0-for-developers-event
+- /blog/introduction-to--net-framework-3-0-for-developers-event
+- /resources/blog/introduction-to-net-framework-3-0-for-developers-event
 aliasesFor404:
 - /introduction-to-net-framework-3-0-for-developers-event
 - /blog/introduction-to-net-framework-3-0-for-developers-event

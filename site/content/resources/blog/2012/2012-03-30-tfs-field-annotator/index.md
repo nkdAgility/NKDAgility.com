@@ -17,6 +17,10 @@ aliases:
 - /tfs-field-annotator
 - /resources/Nb7mmrBQDyM
 - /resources/blog/tfs-field-annotator
+aliasesArchive:
+- /blog/tfs-field-annotator
+- /tfs-field-annotator
+- /resources/blog/tfs-field-annotator
 aliasesFor404:
 - /tfs-field-annotator
 - /blog/tfs-field-annotator

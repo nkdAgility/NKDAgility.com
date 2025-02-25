@@ -19,6 +19,12 @@ aliases:
 - /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /resources/OqcEk7HmSwT
 - /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
+aliasesArchive:
+- /blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
+- /dealing-with-invalid-subversion-ssl-certificates-and-migrations
+- /subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
+- /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
+- /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
 aliasesFor404:
 - /dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
@@ -26,10 +32,10 @@ aliasesFor404:
 - /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
+- Install and Configuration
 - Troubleshooting
+- Software Development
 categories: []
 
 ---

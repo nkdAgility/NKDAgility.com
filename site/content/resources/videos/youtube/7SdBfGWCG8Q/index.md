@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
 aliasesArchive:
 - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
+- /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 aliasesFor404:
 - /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2

@@ -18,6 +18,10 @@ aliases:
 - /resources/uYm_wb1sHJE
 aliasesArchive:
 - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
+- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 aliasesFor404:
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
@@ -27,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
 - Agile Product Management
+- Sprint Review
 - Events and Presentations
+- People and Process
 - Scrum Product Development
 - Agile Project Management
 - Product Delivery
-- People and Process
 - Software Development
-- Professional Scrum
-- Scrum Master
+- Pragmatic Thinking
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

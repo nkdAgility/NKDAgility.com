@@ -15,6 +15,8 @@ aliases:
 - /resources/i_DglXgaePM
 aliasesArchive:
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
+- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+- /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 aliasesFor404:
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 - /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows

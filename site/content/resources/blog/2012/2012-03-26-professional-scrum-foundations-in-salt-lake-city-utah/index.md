@@ -21,6 +21,14 @@ aliases:
 - /professional-scrum-foundations-in-salt-lake-city--utah
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
+aliasesArchive:
+- /blog/professional-scrum-foundations-in-salt-lake-city-utah
+- /professional-scrum-foundations-in-salt-lake-city-utah
+- /professional-scrum-foundations-in-salt-lake-city,-utah
+- /blog/professional-scrum-foundations-in-salt-lake-city,-utah
+- /professional-scrum-foundations-in-salt-lake-city--utah
+- /blog/professional-scrum-foundations-in-salt-lake-city--utah
+- /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 aliasesFor404:
 - /professional-scrum-foundations-in-salt-lake-city-utah
 - /blog/professional-scrum-foundations-in-salt-lake-city-utah
@@ -30,16 +38,16 @@ aliasesFor404:
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags:
-- Scrum Product Development
-- Professional Scrum
 - People and Process
+- Professional Scrum
+- Scrum Product Development
 - Events and Presentations
-- Team Collaboration
+- Discovery and Learning
 - Agile Transformation
-- Agile Project Management
-- Team Performance
-- Software Developers
 - Agile Frameworks
+- Team Collaboration
+- Software Developers
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

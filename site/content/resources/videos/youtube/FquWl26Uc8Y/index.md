@@ -16,6 +16,8 @@ aliases:
 - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
 aliasesArchive:
 - /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
+- /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
+- /resources/bad-code-isn't-technical-debt-it's-incompetence
 aliasesFor404:
 - /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
 - /resources/bad-code-isn't-technical-debt-it's-incompetence

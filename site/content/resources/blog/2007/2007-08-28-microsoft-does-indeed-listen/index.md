@@ -17,6 +17,10 @@ aliases:
 - /microsoft-does-indeed-listen
 - /resources/vZZ_DZ3emxB
 - /resources/blog/microsoft-does-indeed-listen
+aliasesArchive:
+- /blog/microsoft-does-indeed-listen
+- /microsoft-does-indeed-listen
+- /resources/blog/microsoft-does-indeed-listen
 aliasesFor404:
 - /microsoft-does-indeed-listen
 - /blog/microsoft-does-indeed-listen

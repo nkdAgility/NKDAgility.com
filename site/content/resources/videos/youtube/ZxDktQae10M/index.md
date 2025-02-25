@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/-vsts-sync-migration-tools-overview
 - /resources/videos/2018-vsts-sync-migration-tools-overview
+- /resources/2018-vsts-sync-migration-tools-overview
 aliasesFor404:
 - /resources/videos/2018-vsts-sync-migration-tools-overview
 - /resources/2018-vsts-sync-migration-tools-overview
@@ -24,8 +25,8 @@ duration: 1977
 isShort: false
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

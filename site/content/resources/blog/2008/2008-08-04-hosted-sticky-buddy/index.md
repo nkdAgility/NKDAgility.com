@@ -17,6 +17,10 @@ aliases:
 - /hosted-sticky-buddy
 - /resources/4r5fzbQPMir
 - /resources/blog/hosted-sticky-buddy
+aliasesArchive:
+- /blog/hosted-sticky-buddy
+- /hosted-sticky-buddy
+- /resources/blog/hosted-sticky-buddy
 aliasesFor404:
 - /hosted-sticky-buddy
 - /blog/hosted-sticky-buddy

@@ -18,6 +18,9 @@ aliases:
 - /resources/rX258aqTf_w
 aliasesArchive:
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
+- /resources/in-what-circumstances-is-agile-consulting-appropriate
+- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
+- /resources/in-what-circumstances-is-agile-consulting-appropriate-
 aliasesFor404:
 - /resources/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
@@ -28,12 +31,12 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
-- Agile Strategy
+- Technical Leadership
 - Organisational Agility
 - Agile Transformation
-- Technical Leadership
-- Pragmatic Thinking
+- Agile Strategy
 - Software Development
+- Pragmatic Thinking
 - Agile Leadership
 - Organisational Change
 resourceTypes:

@@ -17,6 +17,10 @@ aliases:
 - /creating-a-data-access-layer-using-unity
 - /resources/ChjJ40t-403
 - /resources/blog/creating-a-data-access-layer-using-unity
+aliasesArchive:
+- /blog/creating-a-data-access-layer-using-unity
+- /creating-a-data-access-layer-using-unity
+- /resources/blog/creating-a-data-access-layer-using-unity
 aliasesFor404:
 - /creating-a-data-access-layer-using-unity
 - /blog/creating-a-data-access-layer-using-unity
@@ -24,8 +28,8 @@ aliasesFor404:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
 - Technical Mastery
+- Technical Excellence
 - System Configuration
 categories:
 - Engineering Excellence

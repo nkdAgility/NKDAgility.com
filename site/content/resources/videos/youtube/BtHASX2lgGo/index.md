@@ -14,6 +14,8 @@ aliases:
 - /resources/BtHASX2lgGo
 aliasesArchive:
 - /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
+- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
+- /resources/5-kinds-of-agile-bandits-planning-bandits
 aliasesFor404:
 - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 - /resources/5-kinds-of-agile-bandits-planning-bandits
@@ -21,16 +23,16 @@ preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
-- Agile Planning
 - Agile Product Management
 - Agile Project Management
+- Agile Planning
+- People and Process
 - Scrum Product Development
 - Software Developers
-- Agile Frameworks
-- People and Process
-- Agile Philosophy
-- Product Delivery
 - Agile Transformation
+- Product Delivery
+- Agile Frameworks
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,6 +16,8 @@ aliases:
 - /resources/AjUC6FPYCQM
 aliasesArchive:
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
+- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
+- /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 aliasesFor404:
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
@@ -24,11 +26,11 @@ duration: 369
 isShort: false
 tags:
 - Professional Scrum
-- Software Development
 - People and Process
-- Agile Frameworks
+- Software Development
 - Agile Project Management
 - Agile Transformation
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4

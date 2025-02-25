@@ -20,6 +20,12 @@ aliases:
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/ICuFIMyhnwj
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+aliasesArchive:
+- /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+- /story-points-velocity-are-a-sign-of-an-unsuccessful-team
+- /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
+- /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
+- /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliasesFor404:
 - /story-points-velocity-are-a-sign-of-an-unsuccessful-team
 - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
@@ -27,16 +33,16 @@ aliasesFor404:
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
-- Increment
 - Estimation
 - Transparency
-- Agile Project Management
-- Agile Product Management
+- Increment
 - Metrics and Learning
+- Agile Product Management
+- Agile Project Management
 - Scrum Team
-- Agile Planning
 - Cycle Time
-- Value Delivery
+- Transparency and Accountability
+- Agile Planning
 categories:
 - Scrum
 - Social Technologies

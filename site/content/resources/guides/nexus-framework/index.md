@@ -11,6 +11,10 @@ aliases:
 - guides/Nexus-Framework.html
 - /learn/agile-delivery-kit/guides/nexus-framework
 - /resources/iC8MlA3TE7S
+aliasesArchive:
+- guides/Nexus-Framework/
+- guides/Nexus-Framework.html
+- /learn/agile-delivery-kit/guides/nexus-framework
 aliasesFor404:
 - guides/Nexus-Framework/
 - guides/Nexus-Framework.html
@@ -42,13 +46,13 @@ tags:
 - Scaling Scrum
 - Scaled Agile
 - Scrum Product Development
-- Scrum Team
-- Product Delivery
 - Large Scale Agility
-- Scaling Agility
-- Professional Scrum
+- Product Delivery
+- Scrum Team
 - Software Development
-- Agile Frameworks
+- Professional Scrum
+- Scaling Agility
+- Agile Project Management
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

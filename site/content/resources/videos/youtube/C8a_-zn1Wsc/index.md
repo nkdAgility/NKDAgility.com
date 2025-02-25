@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
+- /resources/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 aliasesFor404:
 - /resources/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1

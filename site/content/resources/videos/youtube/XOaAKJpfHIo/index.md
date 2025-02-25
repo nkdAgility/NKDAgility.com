@@ -18,6 +18,9 @@ aliases:
 - /resources/XOaAKJpfHIo
 aliasesArchive:
 - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
+- /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers
+- /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
+- /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 aliasesFor404:
 - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers
 - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
@@ -26,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Value Delivery
 - People and Process
 - Product Delivery
+- Software Development
+- Value Delivery
 - Software Developers
 - Pragmatic Thinking
 - Market Adaptability
 - Working Software
-- Agile Philosophy
+- Agile Strategy
 - Organisational Agility
 resourceTypes:
 - video

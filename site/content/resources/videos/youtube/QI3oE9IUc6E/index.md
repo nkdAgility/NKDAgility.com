@@ -18,6 +18,11 @@ aliases:
 - /resources/QI3oE9IUc6E
 aliasesArchive:
 - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
+- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 aliasesFor404:
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum

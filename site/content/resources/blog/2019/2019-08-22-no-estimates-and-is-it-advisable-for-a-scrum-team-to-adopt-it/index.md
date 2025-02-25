@@ -19,6 +19,12 @@ aliases:
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/Lv1CLfk5cPM
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+aliasesArchive:
+- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
+- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
+- /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliasesFor404:
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
@@ -30,12 +36,12 @@ tags:
 - Estimation
 - Metrics and Learning
 - People and Process
-- Agile Planning
 - Scrum Team
-- Software Development
-- Cycle Time
 - Scrum Product Development
-- Agile Transformation
+- Software Development
+- Agile Planning
+- Cycle Time
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

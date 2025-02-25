@@ -18,6 +18,9 @@ aliases:
 - /resources/G1BQG2tsbYg
 aliasesArchive:
 - /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
+- /resources/how-to-achieve-predictability-in-business-through-agile-principles
+- /resources/videos/outcome-increased-business-predictability
+- /resources/outcome-increased-business-predictability
 aliasesFor404:
 - /resources/how-to-achieve-predictability-in-business-through-agile-principles
 - /resources/videos/outcome-increased-business-predictability
@@ -26,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
 - Enterprise Agility
 - Business Agility
+- Agile Strategy
 - Strategy
-- Agile Values and Principles
 - Agile Product Management
-- Agile Planning
-- Agile Frameworks
-- People and Process
+- Agile Values and Principles
+- Market Adaptability
+- Change Management
+- Operational Practices
 - Resilience and Change
 resourceTypes:
 - video

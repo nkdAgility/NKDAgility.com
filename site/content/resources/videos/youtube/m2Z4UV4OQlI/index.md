@@ -18,6 +18,9 @@ aliases:
 - /resources/m2Z4UV4OQlI
 aliasesArchive:
 - /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+- /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+- /resources/videos/why-do-you-recommend-the-pal-ebm-course-
+- /resources/why-do-you-recommend-the-pal-ebm-course-
 aliasesFor404:
 - /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 - /resources/videos/why-do-you-recommend-the-pal-ebm-course-
@@ -30,12 +33,12 @@ tags:
 - Evidence Based Leadership
 - People and Process
 - Metrics and Learning
-- Transparency and Accountability
-- Ability to Innovate
-- Evidence Based Management
 - Empirical Process Control
 - Discovery and Learning
+- Transparency and Accountability
+- Evidence Based Management
 - Pragmatic Thinking
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

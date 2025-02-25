@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
 aliasesArchive:
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
+- /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
+- /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 aliasesFor404:
 - /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
@@ -23,11 +25,11 @@ duration: 57
 isShort: true
 tags:
 - Practical Techniques and Tooling
-- Throughput
+- Agile Project Management
+- Operational Practices
 - Pragmatic Thinking
 - Lean Thinking
-- Operational Practices
-- Agile Project Management
+- Throughput
 - Flow Efficiency
 - Software Development
 sitemap:

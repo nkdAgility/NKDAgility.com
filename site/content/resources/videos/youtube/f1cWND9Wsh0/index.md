@@ -20,6 +20,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
 aliasesFor404:
 - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
@@ -27,12 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
 - People and Process
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
 - Agile Transformation
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

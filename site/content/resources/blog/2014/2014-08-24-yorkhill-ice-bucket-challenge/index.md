@@ -17,6 +17,10 @@ aliases:
 - /yorkhill-ice-bucket-challenge
 - /resources/dALLwF2kL-U
 - /resources/blog/yorkhill-ice-bucket-challenge
+aliasesArchive:
+- /blog/yorkhill-ice-bucket-challenge
+- /yorkhill-ice-bucket-challenge
+- /resources/blog/yorkhill-ice-bucket-challenge
 aliasesFor404:
 - /yorkhill-ice-bucket-challenge
 - /blog/yorkhill-ice-bucket-challenge

@@ -18,6 +18,9 @@ aliases:
 - /resources/UOzrABhafx0
 aliasesArchive:
 - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+- /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 aliasesFor404:
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
@@ -26,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
 - Agile Product Management
-- Scrum Product Development
+- Product Backlog
 - Products and Books
-- Product Owner
+- Scrum Product Development
 - Agile Project Management
-- Professional Scrum
+- Product Owner
 - Software Development
-- Agile Frameworks
+- Agile Planning Tools
+- Professional Scrum
 - Agile Planning
 resourceTypes:
 - video

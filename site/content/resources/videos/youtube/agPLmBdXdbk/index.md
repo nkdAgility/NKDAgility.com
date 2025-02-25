@@ -19,6 +19,7 @@ aliases:
 - /resources/videos/must-have-trait-in-an-agile-consultant
 aliasesArchive:
 - /resources/videos/must-have-trait-in-an-agile-consultant
+- /resources/must-have-trait-in-an-agile-consultant
 aliasesFor404:
 - /resources/must-have-trait-in-an-agile-consultant
 - /resources/videos/must-have-trait-in-an-agile-consultant
@@ -29,13 +30,13 @@ tags:
 - Coaching
 - Agile Values and Principles
 - Resilience and Change
-- Agile Leadership
+- Agile Strategy
+- Agile Philosophy
+- Agile Project Management
+- Agile Transformation
 - Change Management
 - Agile Frameworks
-- Agile Project Management
-- Organisational Change
-- Agile Transformation
-- Agile Strategy
+- People and Process
 resourceTypes:
 - video
 categories:

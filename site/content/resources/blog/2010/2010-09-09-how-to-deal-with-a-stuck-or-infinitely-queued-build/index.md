@@ -17,6 +17,10 @@ aliases:
 - /how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /resources/gfvOPIZKbEI
 - /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
+aliasesArchive:
+- /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
+- /how-to-deal-with-a-stuck-or-infinitely-queued-build
+- /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 aliasesFor404:
 - /how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build

@@ -15,6 +15,8 @@ aliases:
 - /resources/npnQtdLEwQY
 aliasesArchive:
 - /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+- /resources/videos/managing-technical-debt-to-minimize-costs
+- /resources/managing-technical-debt-to-minimize-costs
 aliasesFor404:
 - /resources/videos/managing-technical-debt-to-minimize-costs
 - /resources/managing-technical-debt-to-minimize-costs

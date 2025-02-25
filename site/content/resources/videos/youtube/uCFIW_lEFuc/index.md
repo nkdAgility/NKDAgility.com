@@ -15,6 +15,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/conquering-sloth-in-agile-signs-your-team-might-be-stalling
 - /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+- /resources/videos/sloth!-7-deadly-sins-of-agile-
+- /resources/sloth!-7-deadly-sins-of-agile-
 aliasesFor404:
 - /resources/videos/sloth!-7-deadly-sins-of-agile-
 - /resources/sloth!-7-deadly-sins-of-agile-
@@ -25,13 +27,13 @@ tags:
 - People and Process
 - Increment
 - Agile Values and Principles
+- Working Software
 - Empirical Process Control
 - Agile Project Management
-- Working Software
 - Agile Product Management
-- Product Delivery
 - Product Validation
-- Customer Feedback Loops
+- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

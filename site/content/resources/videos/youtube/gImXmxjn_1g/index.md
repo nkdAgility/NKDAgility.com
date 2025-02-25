@@ -17,6 +17,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/what-are-top-tips-for-a-new-agile-consultant
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
+- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
+- /resources/what-are-3-top-tips-for-a-new-agile-consultant-
 aliasesFor404:
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
 - /resources/what-are-3-top-tips-for-a-new-agile-consultant-
@@ -25,15 +27,15 @@ duration: 376
 isShort: false
 tags:
 - Coaching
-- Agile Strategy
-- Organisational Agility
-- Agile Frameworks
-- Business Agility
 - People and Process
+- Business Agility
 - Agile Product Management
+- Agile Strategy
 - Agile Project Management
 - Agile Transformation
-- Team Collaboration
+- Organisational Agility
+- Agile Frameworks
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 aliasesArchive:
 - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+- /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 aliasesFor404:
 - /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
@@ -28,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
-- Agile Product Management
 - Agile Product Operating Model
-- Value Delivery
-- Market Adaptability
+- Agile Product Management
+- Agile Values and Principles
 - Agile Philosophy
 - Agile Project Management
-- Organisational Agility
+- Value Delivery
+- Market Adaptability
 - Business Agility
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

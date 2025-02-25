@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
 aliasesArchive:
 - /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
+- /resources/videos/7-signs-of-the-agile-apocalypse-chaos
+- /resources/7-signs-of-the-agile-apocalypse-chaos
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 - /resources/7-signs-of-the-agile-apocalypse-chaos
@@ -22,9 +24,9 @@ preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Agile Strategy
-- Strategic Goals
 - People and Process
+- Strategic Goals
+- Agile Strategy
 - Strategy
 - Sociotechnical Systems
 - Team Motivation

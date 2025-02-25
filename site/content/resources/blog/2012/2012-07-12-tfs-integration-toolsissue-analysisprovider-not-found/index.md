@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-integration-tools–issue--analysisprovider-not-found
 - /resources/8A-nFDUhe2o
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
+aliasesArchive:
+- /blog/tfs-integration-toolsissue-analysisprovider-not-found
+- /tfs-integration-toolsissue-analysisprovider-not-found
+- /tfs-integration-tools–issue--analysisprovider-not-found
+- /blog/tfs-integration-tools–issue--analysisprovider-not-found
+- /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 aliasesFor404:
 - /tfs-integration-toolsissue-analysisprovider-not-found
 - /blog/tfs-integration-toolsissue-analysisprovider-not-found
@@ -27,12 +33,12 @@ aliasesFor404:
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- System Configuration
 - Windows
 categories: []
 preview: metro-problem-icon-3-3.png

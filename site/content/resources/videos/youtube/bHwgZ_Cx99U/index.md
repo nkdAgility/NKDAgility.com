@@ -14,6 +14,8 @@ aliases:
 - /resources/bHwgZ_Cx99U
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+- /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
+- /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 aliasesFor404:
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 - /resources/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
@@ -21,9 +23,14 @@ preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false
 tags:
-- Software Development
-- Software Developers
+- Value Delivery
+- Scaling Agility
+- Team Collaboration
+- Organisational Agility
 - People and Process
+- Team Performance
+- Scaled Agile
+- Operational Practices
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
@@ -33,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Engineering Excellence
+- Social Technologies
 canonicalUrl: https://www.youtube.com/watch?v=bHwgZ_Cx99U
 
 ---

@@ -18,6 +18,9 @@ aliases:
 - /resources/TzhiftXOJdw
 aliasesArchive:
 - /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
+- /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
+- /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
+- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 aliasesFor404:
 - /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
 - /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Strategy
-- Agile Philosophy
-- Market Adaptability
-- Organisational Change
-- Agile Transformation
-- Business Agility
-- Organisational Agility
 - Change Management
+- Business Agility
+- Market Adaptability
 - Enterprise Agility
+- Agile Philosophy
+- Organisational Change
+- Organisational Agility
+- Agile Strategy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

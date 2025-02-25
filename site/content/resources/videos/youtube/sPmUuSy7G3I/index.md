@@ -15,6 +15,8 @@ aliases:
 - /resources/sPmUuSy7G3I
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
+- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
+- /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 aliasesFor404:
 - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 - /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
@@ -24,14 +26,14 @@ isShort: false
 tags:
 - People and Process
 - Scrum Team
-- Team Collaboration
-- Scrum Product Development
 - Team Performance
+- Scrum Product Development
 - Agile Project Management
-- Software Development
-- Agile Frameworks
-- Agile Planning
+- Team Collaboration
 - Agile Product Management
+- Software Development
+- Product Delivery
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.4

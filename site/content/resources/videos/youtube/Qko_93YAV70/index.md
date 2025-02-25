@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
+- /resources/videos/kanban-vs-scrum
+- /resources/kanban-vs-scrum
 aliasesFor404:
 - /resources/videos/kanban-vs-scrum
 - /resources/kanban-vs-scrum

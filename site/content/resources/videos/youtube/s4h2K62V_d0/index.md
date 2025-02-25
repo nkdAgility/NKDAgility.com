@@ -15,6 +15,8 @@ aliases:
 - /resources/s4h2K62V_d0
 aliasesArchive:
 - /resources/videos/code-reviews-for-quality-assurance
+- /resources/videos/shifting-left-quality-from-the-start
+- /resources/shifting-left-quality-from-the-start
 aliasesFor404:
 - /resources/videos/shifting-left-quality-from-the-start
 - /resources/shifting-left-quality-from-the-start

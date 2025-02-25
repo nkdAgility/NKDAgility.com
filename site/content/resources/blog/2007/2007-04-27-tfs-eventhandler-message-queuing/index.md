@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-eventhandler--message-queuing
 - /resources/SLkPRSid1iJ
 - /resources/blog/tfs-eventhandler-message-queuing
+aliasesArchive:
+- /blog/tfs-eventhandler-message-queuing
+- /tfs-eventhandler-message-queuing
+- /tfs-eventhandler--message-queuing
+- /blog/tfs-eventhandler--message-queuing
+- /resources/blog/tfs-eventhandler-message-queuing
 aliasesFor404:
 - /tfs-eventhandler-message-queuing
 - /blog/tfs-eventhandler-message-queuing
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/tfs-eventhandler--message-queuing
 - /resources/blog/tfs-eventhandler-message-queuing
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

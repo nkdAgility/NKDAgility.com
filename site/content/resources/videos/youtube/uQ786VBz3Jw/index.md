@@ -14,6 +14,8 @@ aliases:
 - /resources/uQ786VBz3Jw
 aliasesArchive:
 - /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
+- /resources/what-is-your-1-tip-for-effective-sprint-planning-
 aliasesFor404:
 - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/what-is-your-1-tip-for-effective-sprint-planning-
@@ -22,14 +24,14 @@ duration: 246
 isShort: false
 tags:
 - Transparency
+- People and Process
+- Transparency and Accountability
+- Agile Product Management
 - Agile Planning Tools
 - Product Owner
-- Agile Product Management
-- Transparency and Accountability
-- People and Process
 - Agile Planning
-- Team Collaboration
 - Agile Frameworks
+- Team Performance
 - Scrum Product Development
 sitemap:
   filename: sitemap.xml

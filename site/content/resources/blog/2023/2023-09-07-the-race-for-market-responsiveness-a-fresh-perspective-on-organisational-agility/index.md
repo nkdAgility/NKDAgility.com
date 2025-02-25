@@ -20,6 +20,12 @@ aliases:
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/Jz5uZMzPiRx
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+aliasesArchive:
+- /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+- /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+- /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+- /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
+- /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliasesFor404:
 - /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
@@ -28,15 +34,15 @@ aliasesFor404:
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags:
 - Organisational Agility
-- Enterprise Agility
 - Business Agility
+- Market Adaptability
 - Organisational Change
 - Resilience and Change
-- Market Adaptability
+- Enterprise Agility
+- Strategic Goals
 - Agile Strategy
 - Strategy
 - Pragmatic Thinking
-- Strategic Goals
 categories:
 - Product Management
 - Social Technologies

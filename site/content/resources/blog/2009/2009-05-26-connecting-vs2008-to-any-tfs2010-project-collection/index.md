@@ -17,13 +17,17 @@ aliases:
 - /connecting-vs2008-to-any-tfs2010-project-collection
 - /resources/f6DE_mA4Fk1
 - /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
+aliasesArchive:
+- /blog/connecting-vs2008-to-any-tfs2010-project-collection
+- /connecting-vs2008-to-any-tfs2010-project-collection
+- /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
 aliasesFor404:
 - /connecting-vs2008-to-any-tfs2010-project-collection
 - /blog/connecting-vs2008-to-any-tfs2010-project-collection
 - /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 preview: metro-visual-studio-2005-128-link-3-3.png

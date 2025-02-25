@@ -17,6 +17,9 @@ aliases:
 - /resources/2_CowcUpzAA
 aliasesArchive:
 - /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
+- /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
+- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+- /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
 aliasesFor404:
 - /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
 - /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey

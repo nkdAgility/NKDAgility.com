@@ -14,6 +14,10 @@ aliases:
 - /resources/rbEQRJrs4NY
 aliasesArchive:
 - /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
+- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/videos/from-assumption-to-real-value-user-test
+- /resources/from-assumption-to-real-value-user-test
 aliasesFor404:
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
@@ -25,12 +29,12 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Software Development
-- Product Validation
 - People and Process
-- Experimentation
 - Agile Project Management
+- Software Development
+- Experimentation
 - Agile Transformation
+- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.4

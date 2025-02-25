@@ -18,6 +18,9 @@ aliases:
 - /resources/T-K7HC-ZGjM
 aliasesArchive:
 - /resources/videos/what-is-a-sprint-backlog
+- /resources/what-is-a-sprint-backlog
+- /resources/videos/what-is-a-sprint-backlog-
+- /resources/what-is-a-sprint-backlog-
 aliasesFor404:
 - /resources/what-is-a-sprint-backlog
 - /resources/videos/what-is-a-sprint-backlog-
@@ -26,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - People and Process
-- Professional Scrum
+- Scrum Product Development
 - Agile Product Management
 - Product Delivery
+- Professional Scrum
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
-- Agile Frameworks
 - Agile Planning
 resourceTypes:
 - video

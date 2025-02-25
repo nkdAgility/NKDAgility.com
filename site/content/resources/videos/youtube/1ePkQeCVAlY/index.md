@@ -17,6 +17,9 @@ aliases:
 - /resources/1ePkQeCVAlY
 aliasesArchive:
 - /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
+- /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
+- /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
+- /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
 aliasesFor404:
 - /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
 - /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
@@ -29,19 +32,19 @@ tags:
 - Flow Efficiency
 - Value Stream Management
 - Value Delivery
-- Lean Principles
-- Organisational Physics
-- Pragmatic Thinking
-- Systems Thinking
-- Lean
 - Complexity Thinking
+- Lean
+- Operational Practices
+- Pragmatic Thinking
+- Lean Principles
+- Lean Thinking
 resourceTypes:
 - video
 layout: video
 categories:
 - Engineering Excellence
+- Kanban
 - Product Management
-- Social Technologies
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

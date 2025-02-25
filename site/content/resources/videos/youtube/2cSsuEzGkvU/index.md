@@ -14,6 +14,8 @@ aliases:
 - /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success
 aliasesArchive:
 - /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success
+- /resources/videos/-shorts-7-virtues-of-agile-humility
+- /resources/-shorts-7-virtues-of-agile-humility
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-humility
 - /resources/-shorts-7-virtues-of-agile-humility
@@ -23,8 +25,8 @@ isShort: true
 tags:
 - People and Process
 - Agile Values and Principles
-- Team Collaboration
 - Team Motivation
+- Team Collaboration
 - Team Performance
 - Coaching
 - Personal

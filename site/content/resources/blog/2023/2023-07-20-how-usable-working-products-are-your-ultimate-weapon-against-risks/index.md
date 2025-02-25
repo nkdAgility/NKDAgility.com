@@ -18,21 +18,25 @@ aliases:
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/UnSs37BlBV7
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+aliasesArchive:
+- /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+- /how-usable-working-products-are-your-ultimate-weapon-against-risks
+- /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliasesFor404:
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
 - Increment
-- Agile Strategy
 - Working Software
-- Customer Feedback Loops
-- Software Development
-- Software Developers
 - Agile Product Operating Model
 - Agile Product Management
+- Software Developers
+- Agile Strategy
+- Software Development
+- Customer Feedback Loops
 - Engineering Practices
-- Agile Planning
+- Market Adaptability
 categories:
 - Engineering Excellence
 - Social Technologies

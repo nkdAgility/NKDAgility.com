@@ -18,6 +18,9 @@ aliases:
 - /resources/XF-yQmPdUME
 aliasesArchive:
 - /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/videos/the-product-owner's-role-in-maximizing-value
+- /resources/the-product-owner's-role-in-maximizing-value
 aliasesFor404:
 - /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
 - /resources/videos/the-product-owner's-role-in-maximizing-value

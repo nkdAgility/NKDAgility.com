@@ -33,6 +33,10 @@ aliases:
 - /hiring-a-professional-product-owner
 - /resources/Stln5As7Fof
 - /resources/blog/hiring-a-professional-product-owner
+aliasesArchive:
+- /blog/hiring-a-professional-product-owner
+- /hiring-a-professional-product-owner
+- /resources/blog/hiring-a-professional-product-owner
 aliasesFor404:
 - /hiring-a-professional-product-owner
 - /blog/hiring-a-professional-product-owner

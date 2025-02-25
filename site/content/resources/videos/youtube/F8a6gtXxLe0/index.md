@@ -15,6 +15,7 @@ aliases:
 - /resources/F8a6gtXxLe0
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
+- /resources/nkdagility-healthgrades-interview-dave-frisch
 aliasesFor404:
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 - /resources/nkdagility-healthgrades-interview-dave-frisch

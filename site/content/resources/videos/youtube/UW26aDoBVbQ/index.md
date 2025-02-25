@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
 aliasesArchive:
 - /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
+- /resources/5-october-2023-product-ownership-and-lean-product-development-webinar
 aliasesFor404:
 - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
 - /resources/5-october-2023-product-ownership-and-lean-product-development-webinar
@@ -23,8 +25,8 @@ duration: 31
 isShort: true
 tags:
 - Lean Product Development
-- Product Delivery
 - Product Owner
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -15,6 +15,8 @@ aliases:
 - /resources/sBBKKlfwlrA
 aliasesArchive:
 - /resources/videos/professional-scrum-with-nexus-sps-with-certification-learn-skills-to-overcome-scaling-challenges
+- /resources/videos/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
+- /resources/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
 aliasesFor404:
 - /resources/videos/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
 - /resources/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
@@ -22,16 +24,16 @@ preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false
 tags:
-- Professional Scrum
 - Scaling Scrum
-- Scaling Agility
+- Professional Scrum
 - People and Process
 - Scaled Agile
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
+- Scaling Agility
 - Large Scale Agility
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4

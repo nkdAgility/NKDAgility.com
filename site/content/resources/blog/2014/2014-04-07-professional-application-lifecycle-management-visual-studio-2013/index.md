@@ -19,6 +19,12 @@ aliases:
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 - /resources/xeEpDhzecta
 - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
+aliasesArchive:
+- /blog/professional-application-lifecycle-management-visual-studio-2013
+- /professional-application-lifecycle-management-visual-studio-2013
+- /professional-application-lifecycle-management-with-visual-studio-2013
+- /blog/professional-application-lifecycle-management-with-visual-studio-2013
+- /resources/blog/professional-application-lifecycle-management-visual-studio-2013
 aliasesFor404:
 - /professional-application-lifecycle-management-visual-studio-2013
 - /blog/professional-application-lifecycle-management-visual-studio-2013
@@ -28,9 +34,9 @@ aliasesFor404:
 tags:
 - Products and Books
 categories:
-- Social Technologies
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

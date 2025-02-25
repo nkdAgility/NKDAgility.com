@@ -18,6 +18,9 @@ aliases:
 - /resources/m4KNGw5p4Go
 aliasesArchive:
 - /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+- /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 aliasesFor404:
 - /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 - /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
@@ -28,12 +31,12 @@ sitemap:
 tags:
 - Discovery and Learning
 - Experimentation
-- Product Discovery
 - People and Process
-- Value Delivery
-- Hypothesis Driven Development
-- Product Validation
+- Product Discovery
 - Pragmatic Thinking
+- Product Validation
+- Hypothesis Driven Development
+- Value Delivery
 - Continuous Learning
 - Team Collaboration
 resourceTypes:

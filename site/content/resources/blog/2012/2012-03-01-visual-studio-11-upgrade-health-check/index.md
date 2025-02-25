@@ -17,21 +17,25 @@ aliases:
 - /visual-studio-11-upgrade-health-check
 - /resources/A8N6LXr-4Ql
 - /resources/blog/visual-studio-11-upgrade-health-check
+aliasesArchive:
+- /blog/visual-studio-11-upgrade-health-check
+- /visual-studio-11-upgrade-health-check
+- /resources/blog/visual-studio-11-upgrade-health-check
 aliasesFor404:
 - /visual-studio-11-upgrade-health-check
 - /blog/visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
 tags:
-- Team Collaboration
-- Products and Books
-- Team Performance
-- Install and Configuration
-- Events and Presentations
 - People and Process
+- Team Performance
+- Products and Books
 - Practical Techniques and Tooling
+- Events and Presentations
+- Install and Configuration
+- Team Collaboration
 - News and Reviews
-- Software Development
-- Azure DevOps
+- Troubleshooting
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

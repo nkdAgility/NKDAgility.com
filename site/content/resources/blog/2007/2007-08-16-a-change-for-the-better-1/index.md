@@ -19,6 +19,12 @@ aliases:
 - /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
 - /resources/_UxrL9mWMdL
 - /resources/blog/a-change-for-the-better-1
+aliasesArchive:
+- /blog/a-change-for-the-better-1
+- /a-change-for-the-better-1
+- /a-change-for-the-better--1---merrill-lynch-to-aggreko
+- /blog/a-change-for-the-better--1---merrill-lynch-to-aggreko
+- /resources/blog/a-change-for-the-better-1
 aliasesFor404:
 - /a-change-for-the-better-1
 - /blog/a-change-for-the-better-1

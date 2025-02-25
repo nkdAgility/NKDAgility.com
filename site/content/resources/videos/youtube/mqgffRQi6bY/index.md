@@ -20,6 +20,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 aliasesFor404:
 - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2

@@ -19,6 +19,7 @@ aliases:
 - /resources/videos/hardest-part-of-adopting-scrum
 aliasesArchive:
 - /resources/videos/hardest-part-of-adopting-scrum
+- /resources/hardest-part-of-adopting-scrum
 aliasesFor404:
 - /resources/hardest-part-of-adopting-scrum
 - /resources/videos/hardest-part-of-adopting-scrum
@@ -27,8 +28,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

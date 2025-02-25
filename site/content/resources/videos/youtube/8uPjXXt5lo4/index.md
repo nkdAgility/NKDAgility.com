@@ -18,6 +18,9 @@ aliases:
 - /resources/8uPjXXt5lo4
 aliasesArchive:
 - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
+- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
+- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
+- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 aliasesFor404:
 - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
 - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-

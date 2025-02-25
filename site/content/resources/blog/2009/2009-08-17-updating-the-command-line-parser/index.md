@@ -17,6 +17,10 @@ aliases:
 - /updating-the-command-line-parser
 - /resources/ZMPPpD1TIuP
 - /resources/blog/updating-the-command-line-parser
+aliasesArchive:
+- /blog/updating-the-command-line-parser
+- /updating-the-command-line-parser
+- /resources/blog/updating-the-command-line-parser
 aliasesFor404:
 - /updating-the-command-line-parser
 - /blog/updating-the-command-line-parser

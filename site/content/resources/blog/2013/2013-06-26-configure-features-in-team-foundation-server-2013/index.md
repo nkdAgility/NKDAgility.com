@@ -17,14 +17,18 @@ aliases:
 - /configure-features-in-team-foundation-server-2013
 - /resources/MbkXNCfuEU2
 - /resources/blog/configure-features-in-team-foundation-server-2013
+aliasesArchive:
+- /blog/configure-features-in-team-foundation-server-2013
+- /configure-features-in-team-foundation-server-2013
+- /resources/blog/configure-features-in-team-foundation-server-2013
 aliasesFor404:
 - /configure-features-in-team-foundation-server-2013
 - /blog/configure-features-in-team-foundation-server-2013
 - /resources/blog/configure-features-in-team-foundation-server-2013
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Software Development
 - Azure DevOps
 categories:

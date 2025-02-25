@@ -19,6 +19,12 @@ aliases:
 - /blog/finding-features--conversations
 - /resources/hqtW-w7ZTE1
 - /resources/blog/finding-features-conversations
+aliasesArchive:
+- /blog/finding-features-conversations
+- /finding-features-conversations
+- /finding-features--conversations
+- /blog/finding-features--conversations
+- /resources/blog/finding-features-conversations
 aliasesFor404:
 - /finding-features-conversations
 - /blog/finding-features-conversations

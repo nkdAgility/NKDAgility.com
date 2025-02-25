@@ -18,6 +18,9 @@ aliases:
 - /resources/Cgy1ccX7e7Y
 aliasesArchive:
 - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
+- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
 aliasesFor404:
 - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
@@ -31,11 +34,11 @@ tags:
 - Organisational Change
 - Agile Project Management
 - Business Agility
-- Agile Leadership
 - Market Adaptability
+- Agile Leadership
+- Agile Strategy
 - Pragmatic Thinking
-- Change Management
-- Software Development
+- Complexity Thinking
 resourceTypes:
 - video
 categories:

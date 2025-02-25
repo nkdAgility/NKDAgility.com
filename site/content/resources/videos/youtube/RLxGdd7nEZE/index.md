@@ -18,6 +18,9 @@ aliases:
 - /resources/RLxGdd7nEZE
 aliasesArchive:
 - /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
+- /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
+- /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
+- /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
 aliasesFor404:
 - /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 - /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
@@ -27,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Organisational Physics
 - Systems Thinking
-- Organisational Change
+- Organisational Physics
 - Change Management
+- Organisational Change
 - Pragmatic Thinking
 - Sociotechnical Systems
 resourceTypes:

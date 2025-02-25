@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/hiring-an-agile-coach-what-you-need-to-know
 aliasesArchive:
 - /resources/videos/hiring-an-agile-coach-what-you-need-to-know
+- /resources/hiring-an-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
 aliasesFor404:
 - /resources/hiring-an-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3

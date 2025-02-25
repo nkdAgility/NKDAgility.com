@@ -17,6 +17,10 @@ aliases:
 - /upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 - /resources/dg9tlise6Bd
 - /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+aliasesArchive:
+- /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+- /upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+- /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 aliasesFor404:
 - /upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
@@ -24,14 +28,14 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
-- Software Development
 - Practical Techniques and Tooling
-- Pragmatic Thinking
+- Software Development
 - Troubleshooting
-- Technical Mastery
 - Application Lifecycle Management
-- Deployment Strategies
+- Technical Mastery
+- Pragmatic Thinking
 - Release Management
+- Deployment Strategies
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
 - DevOps

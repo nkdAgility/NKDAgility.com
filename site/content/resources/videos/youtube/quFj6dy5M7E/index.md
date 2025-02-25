@@ -15,6 +15,8 @@ aliases:
 - /resources/quFj6dy5M7E
 aliasesArchive:
 - /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
+- /resources/videos/building-a-high-performance-delivery-engine
+- /resources/building-a-high-performance-delivery-engine
 aliasesFor404:
 - /resources/videos/building-a-high-performance-delivery-engine
 - /resources/building-a-high-performance-delivery-engine
@@ -23,15 +25,15 @@ duration: 266
 isShort: false
 tags:
 - People and Process
-- Product Delivery
 - Value Delivery
-- Software Development
+- Product Delivery
 - Pragmatic Thinking
+- Software Development
 - Sociotechnical Systems
 - Team Performance
 - Software Developers
 - Agile Product Operating Model
-- Business Agility
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

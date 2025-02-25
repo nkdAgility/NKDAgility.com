@@ -19,6 +19,12 @@ aliases:
 - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /resources/ThIUwJr1ff_
 - /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
+aliasesArchive:
+- /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
+- /coffee-talk-introduction-to-scrum-webcast-event-this-friday
+- /coffee-talk--introduction-to-scrum---webcast-event-this-friday-
+- /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
+- /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 aliasesFor404:
 - /coffee-talk-introduction-to-scrum-webcast-event-this-friday
 - /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
@@ -28,14 +34,14 @@ aliasesFor404:
 tags:
 - People and Process
 - Scrum Product Development
-- Professional Scrum
-- Software Development
-- Events and Presentations
-- Agile Frameworks
-- Scrum Team
 - Agile Product Management
+- Events and Presentations
 - Agile Project Management
+- Software Development
 - Agile Transformation
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

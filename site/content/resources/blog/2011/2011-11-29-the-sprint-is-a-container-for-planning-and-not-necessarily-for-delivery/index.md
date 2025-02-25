@@ -17,25 +17,29 @@ aliases:
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/6USQKO75YgH
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+aliasesArchive:
+- /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+- /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+- /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 aliasesFor404:
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
 - Definition of Done
-- Continuous Delivery
-- Software Development
 - Value Delivery
 - Technical Debt
+- Continuous Delivery
 - Product Delivery
 - Agile Product Management
-- Deployment Strategies
+- Software Development
+- Agile Frameworks
 - Technical Leadership
-- Software Developers
+- Practical Techniques and Tooling
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

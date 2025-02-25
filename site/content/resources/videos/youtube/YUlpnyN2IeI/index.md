@@ -18,6 +18,10 @@ aliases:
 - /resources/YUlpnyN2IeI
 aliasesArchive:
 - /resources/videos/best-scrum-advice-you-ever-received
+- /resources/best-scrum-advice-you-ever-received-2
+- /resources/best-scrum-advice-you-ever-received
+- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 aliasesFor404:
 - /resources/best-scrum-advice-you-ever-received-2
 - /resources/best-scrum-advice-you-ever-received
@@ -28,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Empirical Process Control
+- Agile Values and Principles
 - Scrum Master
 - Agile Frameworks
-- Agile Values and Principles
-- Empirical Process Control
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
-- Personal
-- Agile Philosophy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

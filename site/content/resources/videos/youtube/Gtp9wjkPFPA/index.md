@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/how-do-devops-and-agile-integrate
 aliasesArchive:
 - /resources/videos/how-do-devops-and-agile-integrate
+- /resources/how-do-devops-and-agile-integrate
+- /resources/videos/how-do-devops-and-agile-integrate-
+- /resources/how-do-devops-and-agile-integrate-
 aliasesFor404:
 - /resources/how-do-devops-and-agile-integrate
 - /resources/videos/how-do-devops-and-agile-integrate-
@@ -33,7 +36,7 @@ resourceTypes:
 categories:
 - DevOps
 - Leadership
-- Social Technologies
+- Engineering Excellence
 
 ---
 ## DevOps & Agile: Two Sides of the Same Coin 🪙

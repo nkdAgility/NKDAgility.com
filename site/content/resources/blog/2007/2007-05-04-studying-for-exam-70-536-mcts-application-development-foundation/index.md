@@ -19,6 +19,12 @@ aliases:
 - /blog/studying-for-exam-70-536--mcts-application-development-foundation
 - /resources/pVQvZ2ZSyk-
 - /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
+aliasesArchive:
+- /blog/studying-for-exam-70-536-mcts-application-development-foundation
+- /studying-for-exam-70-536-mcts-application-development-foundation
+- /studying-for-exam-70-536--mcts-application-development-foundation
+- /blog/studying-for-exam-70-536--mcts-application-development-foundation
+- /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
 aliasesFor404:
 - /studying-for-exam-70-536-mcts-application-development-foundation
 - /blog/studying-for-exam-70-536-mcts-application-development-foundation

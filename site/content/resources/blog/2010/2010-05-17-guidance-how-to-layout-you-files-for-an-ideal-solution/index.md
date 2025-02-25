@@ -19,6 +19,12 @@ aliases:
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/qHU7H_raZge
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
+aliasesArchive:
+- /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
+- /guidance-how-to-layout-you-files-for-an-ideal-solution
+- /guidance--how-to-layout-you-files-for-an-ideal-solution
+- /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
+- /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 aliasesFor404:
 - /guidance-how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
@@ -27,15 +33,15 @@ aliasesFor404:
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags:
 - Software Development
-- Modern Source Control
 - Software Developers
+- Modern Source Control
 - Release Management
-- Product Delivery
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Technical Excellence
-- Pragmatic Thinking
+- Product Delivery
 - Technical Mastery
+- Agile Project Management
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-11-11.png

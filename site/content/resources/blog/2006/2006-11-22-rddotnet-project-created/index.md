@@ -17,6 +17,10 @@ aliases:
 - /rddotnet-project-created
 - /resources/cD1LS3C3pX0
 - /resources/blog/rddotnet-project-created
+aliasesArchive:
+- /blog/rddotnet-project-created
+- /rddotnet-project-created
+- /resources/blog/rddotnet-project-created
 aliasesFor404:
 - /rddotnet-project-created
 - /blog/rddotnet-project-created

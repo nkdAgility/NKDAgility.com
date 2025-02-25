@@ -17,13 +17,17 @@ aliases:
 - /tfs-event-handler-progress
 - /resources/MY8gn3hmXhh
 - /resources/blog/tfs-event-handler-progress
+aliasesArchive:
+- /blog/tfs-event-handler-progress
+- /tfs-event-handler-progress
+- /resources/blog/tfs-event-handler-progress
 aliasesFor404:
 - /tfs-event-handler-progress
 - /blog/tfs-event-handler-progress
 - /resources/blog/tfs-event-handler-progress
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

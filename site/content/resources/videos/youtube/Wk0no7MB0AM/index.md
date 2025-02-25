@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
 aliasesArchive:
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
+- /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 aliasesFor404:
 - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
@@ -23,10 +25,10 @@ duration: 59
 isShort: true
 tags:
 - Scrum Master
-- Team Collaboration
-- Team Performance
 - People and Process
+- Team Performance
 - Agile Project Management
+- Team Collaboration
 - Software Development
 - Scrum Team
 sitemap:

@@ -18,6 +18,9 @@ aliases:
 - /resources/ArVDYRCKpOE
 aliasesArchive:
 - /resources/videos/quotes-fake-it-until-you-make-it
+- /resources/quotes-fake-it-until-you-make-it
+- /resources/videos/quotes,-fake-it-until-you-make-it
+- /resources/quotes,-fake-it-until-you-make-it
 aliasesFor404:
 - /resources/quotes-fake-it-until-you-make-it
 - /resources/videos/quotes,-fake-it-until-you-make-it

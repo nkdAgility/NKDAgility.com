@@ -19,6 +19,11 @@ aliases:
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
+- /resources/how-does-a-scrum-team-create-a-sprint-goal
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
+- /resources/how-does-a-scrum-team-create-a-sprint-goal-
+- /resources/videos/be-a-market-leader,-not-a-follower
+- /resources/be-a-market-leader,-not-a-follower
 aliasesFor404:
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
@@ -31,9 +36,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
+- Agile Project Management
 - Software Development
 - Product Delivery
-- Agile Project Management
 resourceTypes:
 - video
 categories:

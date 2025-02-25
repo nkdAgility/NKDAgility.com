@@ -15,6 +15,8 @@ aliases:
 - /resources/uetzybp7bf4
 aliasesArchive:
 - /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
+- /resources/videos/building-a-culture-of-continuous-improvement
+- /resources/building-a-culture-of-continuous-improvement
 aliasesFor404:
 - /resources/videos/building-a-culture-of-continuous-improvement
 - /resources/building-a-culture-of-continuous-improvement
@@ -22,16 +24,16 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
-- Decision Making
 - People and Process
-- Metrics and Learning
-- Organisational Culture
-- Continuous Learning
-- Team Performance
-- Team Motivation
+- Decision Making
 - Business Agility
-- Decision Theory
+- Continuous Learning
 - Transparency and Accountability
+- Team Collaboration
+- Organisational Culture
+- Value Delivery
+- Discovery and Learning
+- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

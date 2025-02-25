@@ -15,6 +15,8 @@ aliases:
 - /resources/Tz784ysJX7Q
 aliasesArchive:
 - /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
+- /resources/videos/balancing-speed-and-stability-in-delivery
+- /resources/balancing-speed-and-stability-in-delivery
 aliasesFor404:
 - /resources/videos/balancing-speed-and-stability-in-delivery
 - /resources/balancing-speed-and-stability-in-delivery
@@ -25,8 +27,8 @@ tags:
 - People and Process
 - Product Delivery
 - Decision Making
-- Pragmatic Thinking
 - Complexity Thinking
+- Pragmatic Thinking
 - Sociotechnical Systems
 resourceTypes:
 - video

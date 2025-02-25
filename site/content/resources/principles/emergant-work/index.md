@@ -13,6 +13,8 @@ draft: true
 aliases:
 - /learn/agile-delivery-kit/first-principals/emergant-work/
 - /resources/g4M_sdh5Fg2
+aliasesArchive:
+- /learn/agile-delivery-kit/first-principals/emergant-work/
 aliasesFor404:
 - /learn/agile-delivery-kit/first-principals/emergant-work/
 card:
@@ -24,15 +26,15 @@ categories:
 - Product Management
 tags:
 - Customer Feedback Loops
-- Lean Startup
-- Lean Product Development
-- Customer Satisfaction
-- Product Validation
-- Discovery and Learning
-- Organisational Agility
-- Product Discovery
+- Scrum Product Development
 - Market Adaptability
+- Customer Retention
+- Frequent Releases
+- Deployment Frequency
 - Working Software
+- Value Delivery
+- Lean Product Development
+- Product Delivery
 
 ---
 Update the work based on user feedback on timelines shorter than one month

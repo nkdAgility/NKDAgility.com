@@ -18,6 +18,9 @@ aliases:
 - /resources/HTv3NkNJovk
 aliasesArchive:
 - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
+- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
+- /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
+- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 aliasesFor404:
 - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
@@ -31,11 +34,11 @@ tags:
 - People and Process
 - Metrics and Learning
 - Empirical Process Control
+- Evidence Based Leadership
 - Business Agility
 - Agile Product Management
-- Evidence Based Leadership
-- Pragmatic Thinking
-- Hypothesis Driven Development
+- Value Delivery
+- Technical Leadership
 resourceTypes:
 - video
 categories:

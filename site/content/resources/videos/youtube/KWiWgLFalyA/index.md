@@ -18,6 +18,11 @@ aliases:
 - /resources/KWiWgLFalyA
 aliasesArchive:
 - /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+- /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
 aliasesFor404:
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
@@ -36,15 +41,15 @@ tags:
 - People and Process
 - Systems Thinking
 - Sociotechnical Systems
+- Business Agility
 - Agile Strategy
 - Organisational Agility
-- Business Agility
 resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 canonicalUrl: https://www.youtube.com/watch?v=KWiWgLFalyA
 
 ---

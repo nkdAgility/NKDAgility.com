@@ -17,6 +17,10 @@ aliases:
 - /developing-peer-to-peer-applications-with-wcf
 - /resources/SlusLOwCCkg
 - /resources/blog/developing-peer-to-peer-applications-with-wcf
+aliasesArchive:
+- /blog/developing-peer-to-peer-applications-with-wcf
+- /developing-peer-to-peer-applications-with-wcf
+- /resources/blog/developing-peer-to-peer-applications-with-wcf
 aliasesFor404:
 - /developing-peer-to-peer-applications-with-wcf
 - /blog/developing-peer-to-peer-applications-with-wcf

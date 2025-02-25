@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 aliasesArchive:
 - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+- /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+- /resources/videos/introduction-to-kanban
+- /resources/introduction-to-kanban
 aliasesFor404:
 - /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 - /resources/videos/introduction-to-kanban

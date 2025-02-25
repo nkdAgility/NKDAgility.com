@@ -15,6 +15,7 @@ aliases:
 - /resources/XMLdLH6f4N8
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
+- /resources/nkdagility-healthgrades-interview-katherine-maddox
 aliasesFor404:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/nkdagility-healthgrades-interview-katherine-maddox

@@ -19,6 +19,12 @@ aliases:
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/AcwMGmMo7iU
 - /resources/blog/what-is-your-perspective-on-collocation
+aliasesArchive:
+- /blog/what-is-your-perspective-on-collocation
+- /what-is-your-perspective-on-collocation
+- /what-is-your-perspective-on-collocation-
+- /blog/what-is-your-perspective-on-collocation-
+- /resources/blog/what-is-your-perspective-on-collocation
 aliasesFor404:
 - /what-is-your-perspective-on-collocation
 - /blog/what-is-your-perspective-on-collocation
@@ -26,16 +32,16 @@ aliasesFor404:
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/blog/what-is-your-perspective-on-collocation
 tags:
-- Scrum Team
 - Organisational Culture
-- Software Development
-- Agile Frameworks
+- Scrum Team
+- Team Collaboration
+- Agile Project Management
 - Events and Presentations
+- Software Development
+- Team Motivation
 - Team Performance
 - People and Process
-- Agile Project Management
-- Team Collaboration
-- Team Motivation
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

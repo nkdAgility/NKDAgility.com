@@ -19,6 +19,12 @@ aliases:
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/uvzKTaweOnW
 - /resources/blog/can-you-really-commit-to-delivering-work
+aliasesArchive:
+- /blog/can-you-really-commit-to-delivering-work
+- /can-you-really-commit-to-delivering-work
+- /can-you-really-commit-to-delivering-work-
+- /blog/can-you-really-commit-to-delivering-work-
+- /resources/blog/can-you-really-commit-to-delivering-work
 aliasesFor404:
 - /can-you-really-commit-to-delivering-work
 - /blog/can-you-really-commit-to-delivering-work
@@ -26,16 +32,16 @@ aliasesFor404:
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
 tags:
-- Forecasting
 - Transparency
+- Forecasting
 - Scrum Product Development
 - Agile Planning
-- Agile Values and Principles
-- Software Development
-- Product Delivery
 - Agile Product Management
-- Transparency and Accountability
+- Agile Values and Principles
 - Scrum Team
+- Transparency and Accountability
+- Product Delivery
+- Software Development
 categories:
 - Scrum
 - Social Technologies

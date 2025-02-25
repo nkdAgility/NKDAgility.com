@@ -18,6 +18,9 @@ aliases:
 - /resources/M4ap4uNzptg
 aliasesArchive:
 - /resources/videos/unlocking-agiles-core-questioning-to-create-value
+- /resources/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations!
+- /resources/agile-is-failing-organizations!
 aliasesFor404:
 - /resources/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations!
@@ -28,14 +31,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
-- Agile Transformation
-- Agile Project Management
-- Agile Philosophy
-- Market Adaptability
-- Organisational Change
+- Change Management
 - Business Agility
-- Agile Strategy
+- Market Adaptability
+- Agile Philosophy
 - Discovery and Learning
+- Organisational Change
+- Agile Strategy
+- Agile Project Management
 resourceTypes:
 - video
 categories:

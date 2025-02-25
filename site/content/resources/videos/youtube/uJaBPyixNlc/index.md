@@ -18,6 +18,10 @@ aliases:
 - /resources/uJaBPyixNlc
 aliasesArchive:
 - /resources/videos/how-does-naked-agility-select-associate-scrum-trainers
+- /resources/how-does-naked-agility-select-associate-scrum-trainers
+- /resources/how-does-naked-agility-select-scrum-trainers
+- /resources/videos/how-does-naked-agility-select-scrum-trainers-
+- /resources/how-does-naked-agility-select-scrum-trainers-
 aliasesFor404:
 - /resources/how-does-naked-agility-select-associate-scrum-trainers
 - /resources/how-does-naked-agility-select-scrum-trainers
@@ -32,8 +36,8 @@ tags:
 - Pragmatic Thinking
 - Agile Project Management
 - Software Development
-- Agile Frameworks
 - Agile Transformation
+- Agile Frameworks
 - Mentoring
 - Discovery and Learning
 resourceTypes:

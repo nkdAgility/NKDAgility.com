@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
 aliasesArchive:
 - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/what-is-empiricism
+- /resources/what-is-empiricism
 aliasesFor404:
 - /resources/videos/what-is-empiricism
 - /resources/what-is-empiricism
@@ -24,8 +26,8 @@ isShort: true
 tags:
 - Metrics and Learning
 - Discovery and Learning
-- Experimentation
 - Decision Making
+- Experimentation
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

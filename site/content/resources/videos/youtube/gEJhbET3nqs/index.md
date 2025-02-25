@@ -15,6 +15,7 @@ aliases:
 - /resources/gEJhbET3nqs
 aliasesArchive:
 - /resources/videos/professional-agile-leadership-essentials-overview
+- /resources/professional-agile-leadership-essentials-overview
 aliasesFor404:
 - /resources/videos/professional-agile-leadership-essentials-overview
 - /resources/professional-agile-leadership-essentials-overview
@@ -23,8 +24,8 @@ duration: 245
 isShort: false
 tags:
 - Agile Leadership
-- Organisational Agility
 - People and Process
+- Organisational Agility
 - Business Agility
 - Agile Transformation
 - Organisational Change

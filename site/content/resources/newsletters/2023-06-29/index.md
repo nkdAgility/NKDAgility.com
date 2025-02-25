@@ -13,22 +13,25 @@ aliases:
 - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 - /resources/A1Gq5rHDvzC
+aliasesArchive:
+- /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+- /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 aliasesFor404:
 - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 categories:
 - Social Technologies
 tags:
+- Agile Transformation
 - Continuous Learning
 - Discovery and Learning
-- Agile Transformation
+- People and Process
 - Events and Presentations
+- Agile Project Management
 - Organisational Agility
 - Agile Frameworks
-- People and Process
-- Agile Project Management
 - Agile Strategy
-- Software Development
+- Pragmatic Thinking
 
 ---
 Dear NKD Agilists!

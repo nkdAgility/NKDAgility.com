@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/is-a-product-owner-an-agile-project-manager
 aliasesArchive:
 - /resources/videos/is-a-product-owner-an-agile-project-manager
+- /resources/is-a-scrum-master-an-agile-project-manager
+- /resources/is-a-product-owner-an-agile-project-manager
+- /resources/videos/is-a-product-owner-an-agile-project-manager-
+- /resources/is-a-product-owner-an-agile-project-manager-
 aliasesFor404:
 - /resources/is-a-scrum-master-an-agile-project-manager
 - /resources/is-a-product-owner-an-agile-project-manager

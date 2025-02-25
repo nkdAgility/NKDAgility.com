@@ -18,6 +18,9 @@ aliases:
 - /resources/EoInrPvjBHo
 aliasesArchive:
 - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+- /resources/5-kinds-of-agile-bandits-product-owner-bandits
 aliasesFor404:
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
@@ -27,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Management
-- Product Owner
-- Agile Project Management
 - Agile Product Operating Model
+- Agile Product Management
+- Agile Project Management
+- Product Owner
 - Team Motivation
 - Employee Engagement
 - Personal

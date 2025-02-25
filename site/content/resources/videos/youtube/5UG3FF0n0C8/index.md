@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/10th-april-2020-office-hours-ask-me-anything
+- /resources/10th-april-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/10th-april-2020-office-hours-ask-me-anything
 - /resources/10th-april-2020-office-hours-ask-me-anything
@@ -24,8 +25,8 @@ duration: 41
 isShort: true
 tags:
 - Events and Presentations
-- Software Developers
 - Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.4

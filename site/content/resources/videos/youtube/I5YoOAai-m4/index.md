@@ -19,6 +19,8 @@ aliases:
 - /resources/videos/agile-coach-versus-professional-coach
 aliasesArchive:
 - /resources/videos/agile-coach-versus-professional-coach
+- /resources/agile-coach-versus-professional-coach-2
+- /resources/agile-coach-versus-professional-coach
 aliasesFor404:
 - /resources/agile-coach-versus-professional-coach-2
 - /resources/agile-coach-versus-professional-coach

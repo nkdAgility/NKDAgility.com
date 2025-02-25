@@ -18,25 +18,29 @@ aliases:
 - /a-better-way-than-staggered-iterations-for-delivery
 - /resources/DOMFzBBMzfq
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
+aliasesArchive:
+- /blog/a-better-way-than-staggered-iterations-for-delivery
+- /a-better-way-than-staggered-iterations-for-delivery
+- /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 aliasesFor404:
 - /a-better-way-than-staggered-iterations-for-delivery
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
-- Test First Development
 - Increment
-- Software Development
-- Empirical Process Control
-- Scrum Product Development
-- Software Developers
+- Test First Development
+- Value Delivery
 - Business Agility
+- Scrum Product Development
+- Working Software
+- Empirical Process Control
+- Software Development
 - Scrum Team
 - People and Process
-- Working Software
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

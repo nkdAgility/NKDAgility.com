@@ -15,6 +15,8 @@ aliases:
 - /resources/KhKFVRcdbGo
 aliasesArchive:
 - /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
+- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
+- /resources/nkd-agility-your-partner-in-cost-effective-software-development
 aliasesFor404:
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development
@@ -34,11 +36,11 @@ tags:
 - Operational Practices
 - Transparency
 - Technical Leadership
+- People and Process
+- Business Agility
+- Decision Making
 - Value Stream Management
 - Evidence Based Leadership
-- Business Agility
-- People and Process
-- Decision Making
 
 ---
 Creating a culture of engineering excellence within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

@@ -18,6 +18,9 @@ aliases:
 - /resources/nhkUm6k4Q0A
 aliasesArchive:
 - /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+- /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 aliasesFor404:
 - /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
@@ -27,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Coaching
 - Mentoring
+- Coaching
 resourceTypes:
 - video
 categories:

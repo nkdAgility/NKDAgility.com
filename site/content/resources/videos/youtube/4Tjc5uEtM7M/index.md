@@ -13,6 +13,8 @@ aliases:
 - /resources/4Tjc5uEtM7M
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
+- /resources/videos/devops-migration-lack-of-expertise
+- /resources/devops-migration-lack-of-expertise
 aliasesFor404:
 - /resources/videos/devops-migration-lack-of-expertise
 - /resources/devops-migration-lack-of-expertise
@@ -21,8 +23,8 @@ duration: 262
 isShort: false
 tags:
 - Azure DevOps
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
 - Practical Techniques and Tooling
 - Software Development
 sitemap:

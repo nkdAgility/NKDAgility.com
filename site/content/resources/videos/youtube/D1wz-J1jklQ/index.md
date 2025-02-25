@@ -15,6 +15,8 @@ aliases:
 - /resources/D1wz-J1jklQ
 aliasesArchive:
 - /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
+- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
+- /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 aliasesFor404:
 - /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 - /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products

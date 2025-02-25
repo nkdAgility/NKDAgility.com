@@ -15,6 +15,8 @@ aliases:
 - /resources/y2TObrUi3m0
 aliasesArchive:
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
+- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
+- /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 aliasesFor404:
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 - /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
@@ -23,8 +25,8 @@ duration: 117
 isShort: false
 tags:
 - Agile Values and Principles
-- Agile Philosophy
 - Agile Transformation
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -18,6 +18,11 @@ aliases:
 - /resources/ynIqkNbDN8I
 aliasesArchive:
 - /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+- /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+- /resources/videos/5-ghosts-of-agile-past-burndown-charts
+- /resources/5-ghosts-of-agile-past-burndown-charts
+- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+- /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
 aliasesFor404:
 - /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 - /resources/videos/5-ghosts-of-agile-past-burndown-charts
@@ -30,16 +35,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
-- Business Agility
 - Agile Product Operating Model
-- Value Delivery
+- Business Agility
 - Agile Product Management
+- Value Delivery
 - Deployment Frequency
-- Evidence Based Management
-- Discovery and Learning
+- Frequent Releases
+- Ability to Innovate
+- Market Adaptability
+- Product Discovery
 - Hypothesis Driven Development
-- Metrics and Learning
-- Agile Strategy
 resourceTypes:
 - video
 categories:

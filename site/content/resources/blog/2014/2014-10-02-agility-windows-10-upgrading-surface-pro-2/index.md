@@ -19,6 +19,12 @@ aliases:
 - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 - /resources/yn8SQ53TMaP
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
+aliasesArchive:
+- /blog/agility-windows-10-upgrading-surface-pro-2
+- /agility-windows-10-upgrading-surface-pro-2
+- /agility-and-windows-10--upgrading-my-surface-pro-2
+- /blog/agility-and-windows-10--upgrading-my-surface-pro-2
+- /resources/blog/agility-windows-10-upgrading-surface-pro-2
 aliasesFor404:
 - /agility-windows-10-upgrading-surface-pro-2
 - /blog/agility-windows-10-upgrading-surface-pro-2
@@ -28,8 +34,8 @@ aliasesFor404:
 tags:
 - Windows
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: nakedalm-windows-logo-12-12.png
 
 ---

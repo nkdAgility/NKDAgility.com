@@ -18,6 +18,9 @@ aliases:
 - /resources/S7Xr1-qONmM
 aliasesArchive:
 - /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
+- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 aliasesFor404:
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 - /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
@@ -29,13 +32,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Professional Scrum
-- Agile Project Management
-- Product Owner
 - Product Delivery
-- Agile Product Management
+- Product Owner
 - Value Delivery
-- Software Development
+- Agile Product Management
+- Agile Project Management
 - Agile Frameworks
+- Team Collaboration
 resourceTypes:
 - video
 categories:

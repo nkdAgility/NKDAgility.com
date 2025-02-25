@@ -19,6 +19,12 @@ aliases:
 - /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /resources/JUQrPR1RNmh
 - /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+aliasesArchive:
+- /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+- /how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
+- /how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
+- /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
+- /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 aliasesFor404:
 - /how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 - /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
@@ -26,9 +32,9 @@ aliasesFor404:
 - /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 preview: metro-sharepoint-128-link-15-15.png
 categories:
 - Social Technologies

@@ -20,6 +20,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
 - /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
+- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
+- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
 aliasesFor404:
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
@@ -30,12 +32,12 @@ sitemap:
 tags:
 - Scrum Master
 - People and Process
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Scrum Team
-- Professional Scrum
 - Team Performance
+- Professional Scrum
 resourceTypes:
 - video
 categories:

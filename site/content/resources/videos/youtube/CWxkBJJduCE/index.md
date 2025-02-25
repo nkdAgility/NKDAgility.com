@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 aliasesArchive:
 - /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
+- /resources/videos/redefining-test-driven-development
+- /resources/redefining-test-driven-development
 aliasesFor404:
 - /resources/videos/redefining-test-driven-development
 - /resources/redefining-test-driven-development
@@ -24,10 +26,10 @@ isShort: true
 tags:
 - Software Development
 - Engineering Practices
-- Technical Excellence
 - Technical Mastery
-- Software Developers
+- Technical Excellence
 - Code and Complexity
+- Software Developers
 - Test Driven Development
 sitemap:
   filename: sitemap.xml

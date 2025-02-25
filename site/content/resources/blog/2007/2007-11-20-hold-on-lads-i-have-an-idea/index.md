@@ -21,6 +21,14 @@ aliases:
 - /hold-on-lads--i-have-an-idea-
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
+aliasesArchive:
+- /blog/hold-on-lads-i-have-an-idea
+- /hold-on-lads-i-have-an-idea
+- /hold-on-lads,-i-have-an-idea-
+- /blog/hold-on-lads,-i-have-an-idea-
+- /hold-on-lads--i-have-an-idea-
+- /blog/hold-on-lads--i-have-an-idea-
+- /resources/blog/hold-on-lads-i-have-an-idea
 aliasesFor404:
 - /hold-on-lads-i-have-an-idea
 - /blog/hold-on-lads-i-have-an-idea
@@ -30,11 +38,11 @@ aliasesFor404:
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
 tags:
-- Organisational Physics
+- People and Process
 - Business Agility
 - Ability to Innovate
-- People and Process
 - Sociotechnical Systems
+- Organisational Physics
 - Digital Transformation
 - Miscellaneous
 categories: []

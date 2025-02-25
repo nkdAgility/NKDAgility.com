@@ -18,6 +18,9 @@ aliases:
 - /resources/Qzw3FSl6hy4
 aliasesArchive:
 - /resources/videos/understanding-product-discovery-why-it-matters-more-than-ever
+- /resources/understanding-product-discovery-why-it-matters-more-than-ever
+- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
+- /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 aliasesFor404:
 - /resources/understanding-product-discovery-why-it-matters-more-than-ever
 - /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-

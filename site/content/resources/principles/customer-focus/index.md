@@ -13,6 +13,8 @@ slug: customer-focus
 aliases:
 - /principles/customer-focus/
 - /resources/p1bdjnIJDmW
+aliasesArchive:
+- /principles/customer-focus/
 aliasesFor404:
 - /principles/customer-focus/
 card:

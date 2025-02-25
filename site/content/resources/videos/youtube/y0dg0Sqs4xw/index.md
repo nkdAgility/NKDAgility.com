@@ -18,6 +18,9 @@ aliases:
 - /resources/y0dg0Sqs4xw
 aliasesArchive:
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
+- /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
+- /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
+- /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 aliasesFor404:
 - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
@@ -29,11 +32,11 @@ tags:
 - Coaching
 - People and Process
 - Team Performance
-- Software Development
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
 - Empirical Process Control
+- Agile Project Management
+- Software Development
+- Agile Transformation
+- Agile Frameworks
 - Pragmatic Thinking
 - Scrum Product Development
 resourceTypes:

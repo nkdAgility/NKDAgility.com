@@ -18,6 +18,9 @@ aliases:
 - /resources/hXieCawt-XE
 aliasesArchive:
 - /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+- /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+- /resources/videos/work-less,-do-more-with-pull-in-kanban
+- /resources/work-less,-do-more-with-pull-in-kanban
 aliasesFor404:
 - /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/videos/work-less,-do-more-with-pull-in-kanban
@@ -28,14 +31,14 @@ sitemap:
 tags:
 - Operational Practices
 - Flow Efficiency
-- Software Development
-- Pragmatic Thinking
-- Lean Thinking
 - Practical Techniques and Tooling
-- Throughput
-- Lean Principles
-- Agile Frameworks
+- Pragmatic Thinking
+- Software Development
+- Lean Thinking
 - Lean
+- Agile Project Management
+- Lean Principles
+- Throughput
 resourceTypes:
 - video
 categories:

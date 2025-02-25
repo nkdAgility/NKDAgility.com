@@ -16,6 +16,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
 - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+- /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
 aliasesFor404:
 - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
 - /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
@@ -30,9 +32,9 @@ tags:
 - Scrum Team
 - Backlog Refinement
 - Product Backlog
-- Professional Scrum
-- Scrum Master
+- Agile Planning
 - Team Performance
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

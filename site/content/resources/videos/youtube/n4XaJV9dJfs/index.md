@@ -14,6 +14,8 @@ aliases:
 - /resources/n4XaJV9dJfs
 aliasesArchive:
 - /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
+- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+- /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 aliasesFor404:
 - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 - /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
@@ -22,15 +24,15 @@ duration: 219
 isShort: false
 tags:
 - Transparency
-- Scrum Product Development
-- Agile Planning
 - People and Process
+- Scrum Product Development
 - Agile Product Management
-- Professional Scrum
-- Agile Frameworks
+- Agile Planning
 - Complexity Thinking
-- Transparency and Accountability
 - Agile Project Management
+- Agile Transformation
+- Transparency and Accountability
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

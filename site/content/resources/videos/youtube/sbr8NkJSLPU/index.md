@@ -14,6 +14,8 @@ aliases:
 - /resources/sbr8NkJSLPU
 aliasesArchive:
 - /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
+- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 aliasesFor404:
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
@@ -22,13 +24,13 @@ duration: 218
 isShort: false
 tags:
 - People and Process
-- Team Collaboration
-- Operational Practices
 - Practical Techniques and Tooling
-- Software Development
-- Agile Frameworks
+- Operational Practices
+- Team Collaboration
 - Agile Project Management
 - Transparency
+- Software Development
+- Agile Frameworks
 - Pragmatic Thinking
 - Flow Efficiency
 sitemap:

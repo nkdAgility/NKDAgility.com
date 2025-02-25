@@ -17,20 +17,24 @@ aliases:
 - /creating-a-custom-activity-for-team-foundation-build
 - /resources/mgwL4ERT1N3
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
+aliasesArchive:
+- /blog/creating-a-custom-activity-for-team-foundation-build
+- /creating-a-custom-activity-for-team-foundation-build
+- /resources/blog/creating-a-custom-activity-for-team-foundation-build
 aliasesFor404:
 - /creating-a-custom-activity-for-team-foundation-build
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
 - Install and Configuration
-- Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
-- Azure Pipelines
+- Software Development
 - Technical Mastery
 - Operational Practices
 - Continuous Integration
+- Technical Excellence
+- Azure DevOps
+- Azure Pipelines
 categories:
 - DevOps
 - Engineering Excellence

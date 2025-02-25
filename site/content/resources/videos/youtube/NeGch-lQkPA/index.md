@@ -18,6 +18,9 @@ aliases:
 - /resources/NeGch-lQkPA
 aliasesArchive:
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
+- /resources/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+- /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 aliasesFor404:
 - /resources/overview-of-applying-flow-metrics-for-scrum-course
 - /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
@@ -26,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - Value Delivery
+- Metrics and Learning
 - Product Delivery
-- Practical Techniques and Tooling
 - Team Performance
-- Pragmatic Thinking
-- Agile Project Management
+- Practical Techniques and Tooling
 - Operational Practices
 - Software Development
+- Pragmatic Thinking
+- Agile Project Management
 - Agile Frameworks
 resourceTypes:
 - video

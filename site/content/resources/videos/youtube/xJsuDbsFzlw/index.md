@@ -14,6 +14,8 @@ aliases:
 - /resources/xJsuDbsFzlw
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
+- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+- /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 aliasesFor404:
 - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
@@ -24,13 +26,13 @@ tags:
 - Coaching
 - Agile Planning Tools
 - Agile Planning
+- People and Process
 - Agile Transformation
 - Agile Project Management
-- Agile Product Management
-- People and Process
 - Agile Frameworks
+- Agile Product Management
 - Events and Presentations
-- Product Delivery
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

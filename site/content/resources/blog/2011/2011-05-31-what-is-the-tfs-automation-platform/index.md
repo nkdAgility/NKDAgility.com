@@ -17,6 +17,10 @@ aliases:
 - /what-is-the-tfs-automation-platform
 - /resources/AavdFKxGJg9
 - /resources/blog/what-is-the-tfs-automation-platform
+aliasesArchive:
+- /blog/what-is-the-tfs-automation-platform
+- /what-is-the-tfs-automation-platform
+- /resources/blog/what-is-the-tfs-automation-platform
 aliasesFor404:
 - /what-is-the-tfs-automation-platform
 - /blog/what-is-the-tfs-automation-platform
@@ -24,14 +28,14 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
+- Practical Techniques and Tooling
+- Technical Mastery
 - Platform Engineering
 - Software Development
 - Technical Excellence
-- Technical Mastery
 - Internal Developer Platform
-- Practical Techniques and Tooling
-- Azure DevOps
 - Operational Practices
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories:
 - DevOps

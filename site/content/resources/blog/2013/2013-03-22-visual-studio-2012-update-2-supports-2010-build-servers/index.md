@@ -17,6 +17,10 @@ aliases:
 - /visual-studio-2012-update-2-supports-2010-build-servers
 - /resources/wOYxXY4OsUH
 - /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
+aliasesArchive:
+- /blog/visual-studio-2012-update-2-supports-2010-build-servers
+- /visual-studio-2012-update-2-supports-2010-build-servers
+- /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
 aliasesFor404:
 - /visual-studio-2012-update-2-supports-2010-build-servers
 - /blog/visual-studio-2012-update-2-supports-2010-build-servers

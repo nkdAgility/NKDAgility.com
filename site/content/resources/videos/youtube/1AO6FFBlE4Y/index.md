@@ -13,6 +13,8 @@ aliases:
 - /resources/1AO6FFBlE4Y
 aliasesArchive:
 - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+- /resources/videos/the-high-cost-of-poor-quality-code-
+- /resources/the-high-cost-of-poor-quality-code-
 aliasesFor404:
 - /resources/videos/the-high-cost-of-poor-quality-code-
 - /resources/the-high-cost-of-poor-quality-code-
@@ -20,16 +22,16 @@ preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
-- Code and Complexity
 - Technical Debt
+- Code and Complexity
 - Engineering Practices
-- Technical Excellence
 - Technical Mastery
-- Product Delivery
-- Working Software
 - Operational Practices
+- Working Software
+- Technical Excellence
+- Product Delivery
+- Pragmatic Thinking
 - Software Development
-- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

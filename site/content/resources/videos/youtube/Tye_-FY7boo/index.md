@@ -18,6 +18,9 @@ aliases:
 - /resources/Tye_-FY7boo
 aliasesArchive:
 - /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
+- /resources/vision-value-and-validation-the-keys-to-successful-product-management
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
 aliasesFor404:
 - /resources/vision-value-and-validation-the-keys-to-successful-product-management
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
@@ -27,14 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Value Delivery
+- Product Delivery
 - Product Validation
 - Product Owner
-- Product Delivery
 - Agile Product Management
-- Agile Product Operating Model
-- Product Discovery
+- Value Delivery
 - Product Strategy
+- Product Discovery
+- Agile Product Operating Model
 - Pragmatic Thinking
 resourceTypes:
 - video

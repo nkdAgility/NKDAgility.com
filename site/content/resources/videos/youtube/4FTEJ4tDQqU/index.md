@@ -13,6 +13,8 @@ aliases:
 - /resources/4FTEJ4tDQqU
 aliasesArchive:
 - /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
+- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
+- /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 aliasesFor404:
 - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 - /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
@@ -22,14 +24,14 @@ isShort: false
 tags:
 - Personal
 - Agile Project Management
-- Software Development
 - People and Process
-- Software Developers
+- Software Development
 - Pragmatic Thinking
+- Software Developers
+- Agile Transformation
 - Organisational Agility
 - Agile Frameworks
 - Agile Philosophy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

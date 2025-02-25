@@ -17,6 +17,10 @@ aliases:
 - /tfs-event-handler-gets-3-stars-from-accentient
 - /resources/CfR2sFbofzG
 - /resources/blog/tfs-event-handler-gets-3-stars-from-accentient
+aliasesArchive:
+- /blog/tfs-event-handler-gets-3-stars-from-accentient
+- /tfs-event-handler-gets-3-stars-from-accentient
+- /resources/blog/tfs-event-handler-gets-3-stars-from-accentient
 aliasesFor404:
 - /tfs-event-handler-gets-3-stars-from-accentient
 - /blog/tfs-event-handler-gets-3-stars-from-accentient
@@ -24,8 +28,8 @@ aliasesFor404:
 tags:
 - Personal
 - News and Reviews
-- Software Development
 - Miscellaneous
+- Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

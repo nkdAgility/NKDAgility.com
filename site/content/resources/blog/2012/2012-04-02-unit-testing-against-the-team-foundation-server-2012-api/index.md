@@ -17,6 +17,10 @@ aliases:
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /resources/eizpccdEtUL
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
+aliasesArchive:
+- /blog/unit-testing-against-the-team-foundation-server-2012-api
+- /unit-testing-against-the-team-foundation-server-2012-api
+- /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 aliasesFor404:
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /blog/unit-testing-against-the-team-foundation-server-2012-api
@@ -25,12 +29,12 @@ tags:
 - Test Driven Development
 - Test First Development
 - Automated Testing
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Test Automation
-- Software Developers
-- Technical Excellence
-- Azure DevOps
+- Troubleshooting
+- Technical Mastery
+- Engineering Practices
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

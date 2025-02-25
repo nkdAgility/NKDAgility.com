@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
 aliasesArchive:
 - /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 aliasesFor404:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3

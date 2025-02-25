@@ -14,6 +14,8 @@ aliases:
 - /resources/9TbjaO1_Nz8
 aliasesArchive:
 - /resources/videos/unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
+- /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
+- /resources/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 aliasesFor404:
 - /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 - /resources/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
@@ -25,9 +27,9 @@ tags:
 - Entrepreneurship
 - People and Process
 - Product Owner
+- Product Strategy
 - Value Delivery
 - Product Discovery
-- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

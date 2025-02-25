@@ -18,6 +18,10 @@ aliases:
 - /resources/B12n_52H48U
 aliasesArchive:
 - /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
+- /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
+- /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
+- /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+- /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 aliasesFor404:
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
@@ -28,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Decision Theory
 - People and Process
-- Agile Product Management
 - Decision Making
-- Pragmatic Thinking
+- Agile Product Management
+- Decision Theory
 - Agile Project Management
+- Pragmatic Thinking
 - Scrum Product Development
+- Market Adaptability
 - Agile Strategy
-- Sensemaking
 resourceTypes:
 - video
 categories:

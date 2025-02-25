@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/the-power-of-immersive-learning-in-scrum-training
 aliasesArchive:
 - /resources/videos/the-power-of-immersive-learning-in-scrum-training
+- /resources/the-power-of-immersive-learning-in-scrum-training
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
+- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
 aliasesFor404:
 - /resources/the-power-of-immersive-learning-in-scrum-training
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
@@ -27,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

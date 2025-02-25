@@ -18,6 +18,9 @@ aliases:
 - /resources/EMJyUOy2gP4
 aliasesArchive:
 - /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+- /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+- /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 aliasesFor404:
 - /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 - /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - People and Process
-- Scrum Team
 - Metrics and Learning
+- Scrum Product Development
 - Scrum Master
-- Ability to Innovate
-- Team Performance
-- Agile Product Management
-- Practical Techniques and Tooling
+- Scrum Team
+- Professional Scrum
+- Product Delivery
 - Operational Practices
+- Ability to Innovate
+- Agile Product Management
 resourceTypes:
 - video
 categories:

@@ -15,6 +15,8 @@ aliases:
 - /resources/wjYFdWaWfOA
 aliasesArchive:
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential
+- /resources/videos/what-is-a-scrum-master-why-are-they-essential-
+- /resources/what-is-a-scrum-master-why-are-they-essential-
 aliasesFor404:
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential-
 - /resources/what-is-a-scrum-master-why-are-they-essential-
@@ -22,14 +24,14 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
-- Scrum Master
-- Scrum Team
 - Agile Product Management
+- Scrum Master
 - Agile Project Management
+- Scrum Team
+- People and Process
 - Team Performance
 - Software Development
 - Agile Frameworks
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4

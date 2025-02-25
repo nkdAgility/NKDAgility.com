@@ -18,6 +18,9 @@ aliases:
 - /resources/XhPHa1RXrWo
 aliasesArchive:
 - /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/videos/the-intention-of-agile-and-scrum
+- /resources/the-intention-of-agile-and-scrum
 aliasesFor404:
 - /resources/agile-is-not-new-a-journey-back-to-the-basics
 - /resources/videos/the-intention-of-agile-and-scrum
@@ -28,13 +31,13 @@ sitemap:
 tags:
 - Agile Values and Principles
 - People and Process
+- Complexity Thinking
 - Agile Strategy
 - Software Development
 - Software Developers
-- Agile Frameworks
-- Complexity Thinking
-- Agile Philosophy
 - Agile Transformation
+- Agile Frameworks
+- Agile Philosophy
 - Pragmatic Thinking
 resourceTypes:
 - video

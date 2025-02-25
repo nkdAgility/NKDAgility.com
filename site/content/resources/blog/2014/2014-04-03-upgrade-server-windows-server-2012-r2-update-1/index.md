@@ -19,6 +19,12 @@ aliases:
 - /blog/upgrade-your-server-to-windows-server-2012-r2-update-1
 - /resources/KyDt7UnJIhX
 - /resources/blog/upgrade-server-windows-server-2012-r2-update-1
+aliasesArchive:
+- /blog/upgrade-server-windows-server-2012-r2-update-1
+- /upgrade-server-windows-server-2012-r2-update-1
+- /upgrade-your-server-to-windows-server-2012-r2-update-1
+- /blog/upgrade-your-server-to-windows-server-2012-r2-update-1
+- /resources/blog/upgrade-server-windows-server-2012-r2-update-1
 aliasesFor404:
 - /upgrade-server-windows-server-2012-r2-update-1
 - /blog/upgrade-server-windows-server-2012-r2-update-1

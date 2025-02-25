@@ -19,6 +19,12 @@ aliases:
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/hDlrQdNzLp1
 - /resources/blog/sync-extension-for-listscollections-or-whatever
+aliasesArchive:
+- /blog/sync-extension-for-listscollections-or-whatever
+- /sync-extension-for-listscollections-or-whatever
+- /sync-extension-for-lists-collections-or-whatever
+- /blog/sync-extension-for-lists-collections-or-whatever
+- /resources/blog/sync-extension-for-listscollections-or-whatever
 aliasesFor404:
 - /sync-extension-for-listscollections-or-whatever
 - /blog/sync-extension-for-listscollections-or-whatever
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/blog/sync-extension-for-listscollections-or-whatever
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

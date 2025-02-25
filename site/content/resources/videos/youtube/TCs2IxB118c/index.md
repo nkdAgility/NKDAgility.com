@@ -18,6 +18,9 @@ aliases:
 - /resources/TCs2IxB118c
 aliasesArchive:
 - /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
+- /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
+- /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
+- /resources/the-power-of-engaged-teams-through-mentorship-programs
 aliasesFor404:
 - /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
 - /resources/videos/the-power-of-engaged-teams-through-mentorship-programs

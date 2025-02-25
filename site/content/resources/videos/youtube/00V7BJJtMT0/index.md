@@ -17,6 +17,9 @@ aliases:
 - /resources/00V7BJJtMT0
 aliasesArchive:
 - /resources/videos/what-is-devops-and-how-is-it-different-to-agile
+- /resources/what-is-devops-and-how-is-it-different-to-agile
+- /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
+- /resources/what-is-devops-and-how-is-it-different-to-agile-
 aliasesFor404:
 - /resources/what-is-devops-and-how-is-it-different-to-agile
 - /resources/videos/what-is-devops-and-how-is-it-different-to-agile-

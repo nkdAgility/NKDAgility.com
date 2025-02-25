@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
 aliasesArchive:
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
+- /resources/videos/kanban-boards
+- /resources/kanban-boards
 aliasesFor404:
 - /resources/videos/kanban-boards
 - /resources/kanban-boards
@@ -23,14 +25,14 @@ duration: 57
 isShort: true
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Operational Practices
+- Software Development
 - Lean Principles
+- Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
 - Flow Efficiency
 - Lean Thinking
-- Agile Project Management
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

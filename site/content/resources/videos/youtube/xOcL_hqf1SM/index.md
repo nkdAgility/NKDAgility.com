@@ -14,6 +14,8 @@ aliases:
 - /resources/xOcL_hqf1SM
 aliasesArchive:
 - /resources/videos/unlocking-agile-success-the-essential-knowledge-every-coach-needs
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 aliasesFor404:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3

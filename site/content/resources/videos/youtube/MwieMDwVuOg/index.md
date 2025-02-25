@@ -14,6 +14,10 @@ aliases:
 - /resources/MwieMDwVuOg
 aliasesArchive:
 - /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
+- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
+- /resources/the-key-to-scaling-successfully-agile-as-an-enabler
 aliasesFor404:
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
@@ -25,16 +29,16 @@ preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
-- Agile Strategy
-- Scaling Agility
 - Scaled Agile
-- Agile Philosophy
+- Agile Strategy
 - Agile Transformation
-- Enterprise Agility
+- Agile Philosophy
+- Scaling Agility
+- Business Agility
 - Strategy
 - Pragmatic Thinking
 - Organisational Agility
-- Business Agility
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4

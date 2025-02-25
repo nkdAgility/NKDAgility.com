@@ -18,6 +18,9 @@ aliases:
 - /resources/ZQZeM20TO4c
 aliasesArchive:
 - /resources/videos/agile-leader-versus-traditional-manager
+- /resources/agile-leader-versus-traditional-manager
+- /resources/agile-leader-vs-traditional-manager
+- /resources/videos/agile-leader-vs-traditional-manager
 aliasesFor404:
 - /resources/agile-leader-versus-traditional-manager
 - /resources/agile-leader-vs-traditional-manager
@@ -33,8 +36,8 @@ tags:
 - Resilience and Change
 - Business Agility
 - Market Adaptability
-- Agile Philosophy
 - Agile Transformation
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

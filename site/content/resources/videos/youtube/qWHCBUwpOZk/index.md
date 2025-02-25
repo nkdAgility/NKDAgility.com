@@ -19,6 +19,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/-core-practices-of-kanban-improving-a-workflow-
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
+- /resources/3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
 aliasesFor404:
 - /resources/3-core-practices-of-kanban-improving-a-workflow
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
@@ -27,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
+- Practical Techniques and Tooling
 - Flow Efficiency
 - Value Delivery
-- Practical Techniques and Tooling
-- Throughput
-- Software Development
+- Lean
+- Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:

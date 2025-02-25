@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
+- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+- /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
 aliasesFor404:
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
@@ -29,8 +32,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Agile Philosophy
 - Pragmatic Thinking
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video

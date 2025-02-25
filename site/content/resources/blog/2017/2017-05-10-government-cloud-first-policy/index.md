@@ -17,6 +17,10 @@ aliases:
 - /government-cloud-first-policy
 - /resources/6VDaSknKBPu
 - /resources/blog/government-cloud-first-policy
+aliasesArchive:
+- /blog/government-cloud-first-policy
+- /government-cloud-first-policy
+- /resources/blog/government-cloud-first-policy
 aliasesFor404:
 - /government-cloud-first-policy
 - /blog/government-cloud-first-policy

@@ -17,6 +17,10 @@ aliases:
 - /installing-internet-explorer-8-beta-2
 - /resources/JYf3i9TAak5
 - /resources/blog/installing-internet-explorer-8-beta-2
+aliasesArchive:
+- /blog/installing-internet-explorer-8-beta-2
+- /installing-internet-explorer-8-beta-2
+- /resources/blog/installing-internet-explorer-8-beta-2
 aliasesFor404:
 - /installing-internet-explorer-8-beta-2
 - /blog/installing-internet-explorer-8-beta-2

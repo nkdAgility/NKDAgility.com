@@ -18,6 +18,10 @@ aliases:
 - /resources/vI_qQ7-1z2E
 aliasesArchive:
 - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
+- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 aliasesFor404:
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
@@ -27,13 +31,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Scrum Master
 - Discovery and Learning
-- Continuous Learning
-- Agile Frameworks
+- Professional Scrum
 - People and Process
 - Agile Project Management
+- Continuous Learning
+- Agile Frameworks
 - Pragmatic Thinking
 - Coaching
 - Accountability

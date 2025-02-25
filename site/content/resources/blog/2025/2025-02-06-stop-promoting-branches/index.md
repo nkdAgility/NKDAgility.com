@@ -15,19 +15,22 @@ resourceTypes: blog
 slug: stop-promoting-branches
 aliases:
 - /resources/x7ra7pQCDX5
+aliasesArchive:
+- /stop-promoting-branches
+- /blog/stop-promoting-branches
 aliasesFor404:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
 - Software Development
 - Technical Excellence
-- Continuous Delivery
 - Software Developers
-- Release Management
-- Value Delivery
 - Continuous Integration
+- Continuous Delivery
+- Release Management
 - Engineering Practices
-- Modern Source Control
+- Value Delivery
+- Operational Practices
 - Deployment Strategies
 categories:
 - DevOps

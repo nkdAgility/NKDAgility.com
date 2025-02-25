@@ -14,6 +14,8 @@ aliases:
 - /resources/f8q2fBkUez0
 aliasesArchive:
 - /resources/videos/empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
+- /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
+- /resources/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 aliasesFor404:
 - /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 - /resources/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
@@ -24,8 +26,8 @@ tags:
 - People and Process
 - Decision Making
 - Organisational Change
-- Organisational Physics
 - Sociotechnical Systems
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6

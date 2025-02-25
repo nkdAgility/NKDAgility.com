@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
 aliasesArchive:
 - /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
+- /resources/videos/05-october-2023-agile-leadership-webinar
+- /resources/05-october-2023-agile-leadership-webinar
 aliasesFor404:
 - /resources/videos/05-october-2023-agile-leadership-webinar
 - /resources/05-october-2023-agile-leadership-webinar
@@ -25,13 +27,13 @@ tags:
 - People and Process
 - Business Agility
 - Value Delivery
-- Organisational Agility
 - Organisational Change
 - Beta Codex
+- Organisational Agility
+- Team Motivation
 - Agile Strategy
-- Enterprise Agility
+- Agile Leadership
 - Pragmatic Thinking
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

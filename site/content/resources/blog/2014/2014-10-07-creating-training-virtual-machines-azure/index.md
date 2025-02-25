@@ -19,6 +19,12 @@ aliases:
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/93Qe5n6ux9U
 - /resources/blog/creating-training-virtual-machines-azure
+aliasesArchive:
+- /blog/creating-training-virtual-machines-azure
+- /creating-training-virtual-machines-azure
+- /creating-training-virtual-machines-in-azure
+- /blog/creating-training-virtual-machines-in-azure
+- /resources/blog/creating-training-virtual-machines-azure
 aliasesFor404:
 - /creating-training-virtual-machines-azure
 - /blog/creating-training-virtual-machines-azure

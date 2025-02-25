@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
 aliasesArchive:
 - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
+- /resources/videos/7-signs-of-the-agile-apocalypse-plague
+- /resources/7-signs-of-the-agile-apocalypse-plague
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague
@@ -23,8 +25,8 @@ duration: 47
 isShort: true
 tags:
 - People and Process
-- Organisational Agility
 - Business Agility
+- Organisational Agility
 - Agile Philosophy
 - Agile Values and Principles
 sitemap:

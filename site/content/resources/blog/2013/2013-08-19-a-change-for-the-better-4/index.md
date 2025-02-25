@@ -20,6 +20,13 @@ aliases:
 - /blog/a-change-for-the-better--4---homecoming
 - /resources/yryUrqeINBG
 - /resources/blog/a-change-for-the-better-4
+aliasesArchive:
+- /blog/a-change-for-the-better-4
+- /a-change-for-the-better-4
+- /a-change-for-the-better--4
+- /a-change-for-the-better--4---homecoming
+- /blog/a-change-for-the-better--4---homecoming
+- /resources/blog/a-change-for-the-better-4
 aliasesFor404:
 - /a-change-for-the-better-4
 - /blog/a-change-for-the-better-4
@@ -28,16 +35,16 @@ aliasesFor404:
 - /a-change-for-the-better--4
 - /resources/blog/a-change-for-the-better-4
 tags:
-- Mentoring
 - Coaching
+- Mentoring
 - Application Lifecycle Management
-- Agile Project Management
 - Agile Planning
-- People and Process
-- Agile Strategy
-- Agile Frameworks
-- Practical Techniques and Tooling
+- Agile Project Management
 - Agile Leadership
+- Practical Techniques and Tooling
+- Agile Strategy
+- People and Process
+- Agile Frameworks
 categories:
 - Social Technologies
 preview: nakedalm-logo-128-link-4-4.png

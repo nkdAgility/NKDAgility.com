@@ -17,6 +17,10 @@ aliases:
 - /the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/vBfV--PVVr7
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
+aliasesArchive:
+- /blog/the-great-team-foundation-server-2013-upgrade-weekend
+- /the-great-team-foundation-server-2013-upgrade-weekend
+- /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 aliasesFor404:
 - /the-great-team-foundation-server-2013-upgrade-weekend
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend

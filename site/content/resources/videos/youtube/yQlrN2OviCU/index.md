@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/the-power-of-peer-feedback-in-immersive-learning
 aliasesArchive:
 - /resources/videos/the-power-of-peer-feedback-in-immersive-learning
+- /resources/the-power-of-peer-feedback-in-immersive-learning
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 aliasesFor404:
 - /resources/the-power-of-peer-feedback-in-immersive-learning
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
@@ -27,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 - Continuous Learning
 resourceTypes:
 - video

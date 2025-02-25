@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/why-i-love-heirarchies-of-competence
 aliasesArchive:
 - /resources/videos/why-i-love-heirarchies-of-competence
+- /resources/why-i-love-heirarchies-of-competence
+- /resources/why-i-love-hierarchies-of-competence-2
+- /resources/videos/why-i-love-hierarchies-of-competence
+- /resources/why-i-love-hierarchies-of-competence
 aliasesFor404:
 - /resources/why-i-love-heirarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence-2
@@ -29,15 +33,15 @@ sitemap:
   priority: 0.6
 tags:
 - Decision Making
-- Agile Leadership
 - People and Process
 - Decision Theory
-- Employee Engagement
-- Agile Strategy
-- Sensemaking
+- Agile Leadership
 - Team Performance
+- Team Motivation
+- Employee Engagement
+- Business Agility
 - Organisational Culture
-- Pragmatic Thinking
+- Organisational Change
 resourceTypes:
 - video
 categories:

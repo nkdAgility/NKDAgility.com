@@ -19,6 +19,12 @@ aliases:
 - /blog/experts-exchange-hell---the-slowest-site-in-the-world-
 - /resources/994E1GchH-N
 - /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world
+aliasesArchive:
+- /blog/experts-exchange-hell-the-slowest-site-in-the-world
+- /experts-exchange-hell-the-slowest-site-in-the-world
+- /experts-exchange-hell---the-slowest-site-in-the-world-
+- /blog/experts-exchange-hell---the-slowest-site-in-the-world-
+- /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world
 aliasesFor404:
 - /experts-exchange-hell-the-slowest-site-in-the-world
 - /blog/experts-exchange-hell-the-slowest-site-in-the-world

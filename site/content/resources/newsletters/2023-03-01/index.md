@@ -14,6 +14,9 @@ aliases:
 - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 - /resources/Y8ySIcajwoP
+aliasesArchive:
+- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 aliasesFor404:
 - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
@@ -21,11 +24,11 @@ categories:
 - Social Technologies
 - Scrum
 tags:
-- Professional Scrum
 - Discovery and Learning
-- Continuous Learning
-- Events and Presentations
+- Professional Scrum
 - People and Process
+- Events and Presentations
+- Continuous Learning
 - Pragmatic Thinking
 - Agile Frameworks
 - Agile Project Management

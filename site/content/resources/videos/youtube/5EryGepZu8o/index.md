@@ -17,6 +17,9 @@ aliases:
 - /resources/5EryGepZu8o
 aliasesArchive:
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+- /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+- /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+- /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 aliasesFor404:
 - /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
@@ -27,14 +30,14 @@ sitemap:
 tags:
 - People and Process
 - Complexity Thinking
+- Empirical Process Control
+- Agile Project Management
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
-- Empirical Process Control
 - Pragmatic Thinking
 - Agile Values and Principles
-- Sensemaking
 - Software Development
+- Sensemaking
 resourceTypes:
 - video
 layout: video

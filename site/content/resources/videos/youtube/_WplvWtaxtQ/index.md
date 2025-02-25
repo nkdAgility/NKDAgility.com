@@ -17,6 +17,9 @@ aliases:
 - /resources/_WplvWtaxtQ
 aliasesArchive:
 - /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
+- /resources/why-every-scrum-master-needs-an-immersive-training-experience
+- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
+- /resources/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 aliasesFor404:
 - /resources/why-every-scrum-master-needs-an-immersive-training-experience
 - /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
@@ -25,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 - Scrum Team
 - Agile Project Management
 resourceTypes:

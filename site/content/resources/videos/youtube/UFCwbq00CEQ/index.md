@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
 aliasesArchive:
 - /resources/videos/ditch-the-agile-bandit-mentality-how-to-prioritise-value-over-estimates-for-team-success
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind
 aliasesFor404:
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-2nd-kind

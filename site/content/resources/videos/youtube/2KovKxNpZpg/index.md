@@ -14,6 +14,8 @@ aliases:
 - /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
 aliasesArchive:
 - /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
+- /resources/videos/pet-peeve-in-scrum
+- /resources/pet-peeve-in-scrum
 aliasesFor404:
 - /resources/videos/pet-peeve-in-scrum
 - /resources/pet-peeve-in-scrum
@@ -22,12 +24,12 @@ duration: 32
 isShort: true
 tags:
 - Agile Values and Principles
-- Agile Frameworks
-- Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Software Development
+- Agile Frameworks
+- Agile Philosophy
 - Empirical Process Control
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

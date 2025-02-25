@@ -14,6 +14,8 @@ aliases:
 - /resources/fUj1k47pDg8
 aliasesArchive:
 - /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
+- /resources/ppdv-course-overview-with-dr-joanna-plaskonka
 aliasesFor404:
 - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/ppdv-course-overview-with-dr-joanna-plaskonka
@@ -21,16 +23,16 @@ preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false
 tags:
-- Experimentation
 - Discovery and Learning
-- Empirical Process Control
-- Product Validation
-- People and Process
+- Experimentation
 - Product Discovery
-- Agile Product Management
-- Continuous Learning
+- People and Process
+- Product Validation
+- Empirical Process Control
 - Hypothesis Driven Development
+- Continuous Learning
 - Product Delivery
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

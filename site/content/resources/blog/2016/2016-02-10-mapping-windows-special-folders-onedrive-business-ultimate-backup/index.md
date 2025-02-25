@@ -20,6 +20,13 @@ aliases:
 - /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /resources/mKq16PgA7Ks
 - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+aliasesArchive:
+- /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+- /mapping-windows-special-folders-onedrive-business-ultimate-backup
+- /mapping-your-windows-special-folders-to-onedrive-for-business
+- /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
+- /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
+- /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 aliasesFor404:
 - /mapping-windows-special-folders-onedrive-business-ultimate-backup
 - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
@@ -29,9 +36,9 @@ aliasesFor404:
 - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 tags:
 - Windows
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 categories: []
 preview: clip_image001-1-1.png
 

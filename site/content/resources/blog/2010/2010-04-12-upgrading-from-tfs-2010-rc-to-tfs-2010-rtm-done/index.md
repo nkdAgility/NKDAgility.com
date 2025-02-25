@@ -17,6 +17,10 @@ aliases:
 - /upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 - /resources/wGdSgbWfpEB
 - /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
+aliasesArchive:
+- /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
+- /upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
+- /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 aliasesFor404:
 - /upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 - /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done

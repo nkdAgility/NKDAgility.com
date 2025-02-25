@@ -17,6 +17,10 @@ aliases:
 - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /resources/vuVjEWsY5Av
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+aliasesArchive:
+- /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+- /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+- /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 aliasesFor404:
 - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012

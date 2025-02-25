@@ -9,6 +9,8 @@ layout: practice
 aliases:
 - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 - /resources/K0i7PIZARDw
+aliasesArchive:
+- /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 aliasesFor404:
 - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 references:

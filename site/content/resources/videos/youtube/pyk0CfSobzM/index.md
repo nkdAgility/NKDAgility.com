@@ -18,6 +18,9 @@ aliases:
 - /resources/pyk0CfSobzM
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
+- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 aliasesFor404:
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
@@ -29,13 +32,13 @@ tags:
 - Estimation
 - Scrum Product Development
 - Scrum Team
-- Professional Scrum
-- Scrum Master
 - People and Process
 - Agile Product Management
-- Software Development
+- Scrum Master
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -18,6 +18,9 @@ aliases:
 - /resources/ZVZEO1Ggihs
 aliasesArchive:
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 aliasesFor404:
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
@@ -26,21 +29,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
-- Scrum Product Development
-- Empirical Process Control
-- Agile Project Management
-- Agile Product Management
-- Transparency
 - People and Process
-- Sprint Review
-- Agile Philosophy
-- Professional Scrum
-- Agile Transformation
+- Technical Leadership
+- Large Scale Agility
+- Agile Leadership
+- Scaling Agility
+- Business Agility
+- Organisational Culture
+- Scaled Agile
+- Organisational Agility
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Leadership
 canonicalUrl: https://www.youtube.com/watch?v=ZVZEO1Ggihs
 
 ---

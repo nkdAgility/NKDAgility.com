@@ -17,6 +17,10 @@ aliases:
 - /upgrading-to-team-foundation-server-2012-update-1
 - /resources/vKHJlHHjnpC
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1
+aliasesArchive:
+- /blog/upgrading-to-team-foundation-server-2012-update-1
+- /upgrading-to-team-foundation-server-2012-update-1
+- /resources/blog/upgrading-to-team-foundation-server-2012-update-1
 aliasesFor404:
 - /upgrading-to-team-foundation-server-2012-update-1
 - /blog/upgrading-to-team-foundation-server-2012-update-1
@@ -24,10 +28,10 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Products and Books
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
+- System Configuration
 - Release Management
+- Software Development
 - Windows
 - Azure DevOps
 categories: []

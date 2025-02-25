@@ -14,6 +14,8 @@ aliases:
 - /resources/MutnPwNzyXM
 aliasesArchive:
 - /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
 aliasesFor404:
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
@@ -25,9 +27,9 @@ tags:
 - Agile Values and Principles
 - Agile Philosophy
 - Value Delivery
+- Miscellaneous
 - Pragmatic Thinking
 - Personal
-- Miscellaneous
 - Customer Satisfaction
 sitemap:
   filename: sitemap.xml

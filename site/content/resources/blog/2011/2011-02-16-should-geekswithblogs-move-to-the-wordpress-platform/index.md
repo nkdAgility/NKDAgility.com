@@ -19,6 +19,12 @@ aliases:
 - /blog/should-geekswithblogs-move-to-the-wordpress-platform-
 - /resources/INzImndgeUG
 - /resources/blog/should-geekswithblogs-move-to-the-wordpress-platform
+aliasesArchive:
+- /blog/should-geekswithblogs-move-to-the-wordpress-platform
+- /should-geekswithblogs-move-to-the-wordpress-platform
+- /should-geekswithblogs-move-to-the-wordpress-platform-
+- /blog/should-geekswithblogs-move-to-the-wordpress-platform-
+- /resources/blog/should-geekswithblogs-move-to-the-wordpress-platform
 aliasesFor404:
 - /should-geekswithblogs-move-to-the-wordpress-platform
 - /blog/should-geekswithblogs-move-to-the-wordpress-platform

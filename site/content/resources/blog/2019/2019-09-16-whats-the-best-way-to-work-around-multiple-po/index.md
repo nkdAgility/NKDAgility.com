@@ -19,6 +19,12 @@ aliases:
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/KIG3LzjF3zK
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
+aliasesArchive:
+- /blog/whats-the-best-way-to-work-around-multiple-po
+- /whats-the-best-way-to-work-around-multiple-po
+- /what's-the-best-way-to-work-around-multiple-po-
+- /blog/what's-the-best-way-to-work-around-multiple-po-
+- /resources/blog/whats-the-best-way-to-work-around-multiple-po
 aliasesFor404:
 - /whats-the-best-way-to-work-around-multiple-po
 - /blog/whats-the-best-way-to-work-around-multiple-po
@@ -26,16 +32,16 @@ aliasesFor404:
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags:
-- Scrum Product Development
 - Professional Scrum
-- Product Owner
+- Scrum Team
+- Scrum Product Development
 - Agile Product Management
 - Product Backlog
-- Scrum Team
-- Product Delivery
+- Product Owner
+- Agile Product Operating Model
 - Events and Presentations
-- People and Process
-- Value Delivery
+- Agile Project Management
+- Product Delivery
 categories:
 - Scrum
 - Product Management

@@ -15,6 +15,8 @@ aliases:
 - /resources/YVrGU0oZmc0
 aliasesArchive:
 - /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
+- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+- /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 aliasesFor404:
 - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments

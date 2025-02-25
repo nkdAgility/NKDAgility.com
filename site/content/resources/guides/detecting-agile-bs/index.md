@@ -34,6 +34,9 @@ aliases:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
 - /resources/Tt8SPr3xJER
+aliasesArchive:
+- /Guides/Detecting-Agile-BS.html
+- /learn/agile-delivery-kit/guides/detecting-agile-bs
 aliasesFor404:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs

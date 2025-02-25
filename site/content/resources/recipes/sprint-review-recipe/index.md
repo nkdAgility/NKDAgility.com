@@ -11,6 +11,8 @@ image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 aliases:
 - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 - /resources/K4kkSAG3R7m
+aliasesArchive:
+- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 aliasesFor404:
 - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 creator: Martin Hinshelwood

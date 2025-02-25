@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/14th-april-2020-office-hours-ask-me-anything
+- /resources/14th-april-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/14th-april-2020-office-hours-ask-me-anything
 - /resources/14th-april-2020-office-hours-ask-me-anything
@@ -23,8 +24,8 @@ preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
 duration: 2112
 isShort: false
 tags:
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - Software Development
 - Software Developers
 sitemap:

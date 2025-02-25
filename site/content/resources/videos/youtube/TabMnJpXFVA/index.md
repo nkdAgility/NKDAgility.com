@@ -15,6 +15,8 @@ aliases:
 - /resources/TabMnJpXFVA
 aliasesArchive:
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route
+- /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
+- /resources/why-are-you-going-the-immersive-scrum-training-route-
 aliasesFor404:
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/why-are-you-going-the-immersive-scrum-training-route-
@@ -23,10 +25,10 @@ duration: 287
 isShort: false
 tags:
 - People and Process
-- Software Development
-- Agile Frameworks
 - Agile Project Management
+- Software Development
 - Agile Transformation
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4

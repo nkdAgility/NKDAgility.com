@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/agile-scotland-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
+- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 aliasesFor404:
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-

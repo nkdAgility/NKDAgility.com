@@ -18,6 +18,10 @@ aliases:
 - /resources/JVZzJZ5q0Hw
 aliasesArchive:
 - /resources/videos/what-is-a-sprint-goal
+- /resources/what-is-the-most-common-mistake-in-sprint-planning
+- /resources/what-is-a-sprint-goal
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
+- /resources/what-is-the-most-common-mistake-in-sprint-planning-
 aliasesFor404:
 - /resources/what-is-the-most-common-mistake-in-sprint-planning
 - /resources/what-is-a-sprint-goal
@@ -29,13 +33,13 @@ sitemap:
 tags:
 - Scrum Product Development
 - Agile Planning
-- Backlog Refinement
 - People and Process
+- Backlog Refinement
 - Product Backlog
-- Team Performance
+- Product Delivery
 - Agile Product Management
 - Scrum Team
-- Product Delivery
+- Team Performance
 - Agile Planning Tools
 resourceTypes:
 - video

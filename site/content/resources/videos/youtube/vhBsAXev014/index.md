@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-chaos
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
+- /resources/7-harbingers-of-the-agile-apocalypse-chaos
+- /resources/videos/chaos!-7-harbingers-agile-apocalypse
+- /resources/chaos!-7-harbingers-agile-apocalypse
 aliasesFor404:
 - /resources/7-harbingers-of-the-agile-apocalypse-chaos
 - /resources/videos/chaos!-7-harbingers-agile-apocalypse
@@ -27,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
 - People and Process
+- Agile Strategy
 - Agile Product Management
 - Agile Project Management
 - Change Management
-- Agile Product Operating Model
 - Agile Transformation
+- Organisational Change
+- Agile Product Operating Model
 - Strategic Goals
-- Product Owner
-- Digital Transformation
+- Organisational Culture
 resourceTypes:
 - video
 categories:

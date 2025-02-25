@@ -17,6 +17,9 @@ aliases:
 - /resources/66NuAjzWreY
 aliasesArchive:
 - /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/videos/introduction-to-evidence-based-management
+- /resources/introduction-to-evidence-based-management
 aliasesFor404:
 - /resources/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/videos/introduction-to-evidence-based-management
@@ -26,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Management
-- Evidence Based Leadership
 - Decision Making
+- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video

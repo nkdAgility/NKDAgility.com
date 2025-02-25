@@ -15,6 +15,8 @@ aliases:
 - /resources/Jkw4sMe6h-w
 aliasesArchive:
 - /resources/videos/how-is-agile-leadership-different-to-traditional-management
+- /resources/videos/how-is-agile-leadership-different-to-traditional-management-
+- /resources/how-is-agile-leadership-different-to-traditional-management-
 aliasesFor404:
 - /resources/videos/how-is-agile-leadership-different-to-traditional-management-
 - /resources/how-is-agile-leadership-different-to-traditional-management-

@@ -18,6 +18,9 @@ aliases:
 - /resources/Wvdh1lJfcLM
 aliasesArchive:
 - /resources/videos/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
+- /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
+- /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
+- /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
 aliasesFor404:
 - /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 - /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
@@ -27,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - Azure DevOps
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 resourceTypes:
 - video

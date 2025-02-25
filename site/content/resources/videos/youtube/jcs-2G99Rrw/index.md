@@ -14,6 +14,8 @@ aliases:
 - /resources/jcs-2G99Rrw
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+- /resources/videos/top-4-rookie-mistakes-in-azure-devops
+- /resources/top-4-rookie-mistakes-in-azure-devops
 aliasesFor404:
 - /resources/videos/top-4-rookie-mistakes-in-azure-devops
 - /resources/top-4-rookie-mistakes-in-azure-devops
@@ -22,14 +24,14 @@ duration: 2034
 isShort: false
 tags:
 - One Engineering System (1ES)
-- Azure DevOps
 - Product Delivery
-- Azure Boards
+- Azure DevOps
 - Practical Techniques and Tooling
+- Azure Boards
+- Troubleshooting
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
-- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

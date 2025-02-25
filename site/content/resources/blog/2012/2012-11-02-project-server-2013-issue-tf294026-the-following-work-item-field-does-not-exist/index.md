@@ -19,6 +19,12 @@ aliases:
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/zTaVoXPnTVP
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+aliasesArchive:
+- /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+- /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+- /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
+- /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
+- /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 aliasesFor404:
 - /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 - /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
@@ -26,11 +32,11 @@ aliasesFor404:
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
+- Install and Configuration
 - Troubleshooting
+- Pragmatic Thinking
+- Software Development
 categories:
 - Social Technologies
 preview: metro-problem-icon-3-3.png

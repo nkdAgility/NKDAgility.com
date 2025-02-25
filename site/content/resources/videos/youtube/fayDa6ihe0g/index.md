@@ -16,6 +16,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-minutes
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes
+- /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
+- /resources/live-virtual-professional-scrum-product-owner-in-5-minutes!
 aliasesFor404:
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
 - /resources/live-virtual-professional-scrum-product-owner-in-5-minutes!

@@ -20,6 +20,10 @@ aliases:
 aliasesArchive:
 - /resources/videos/-tip-for-a-new-scrum-master
 - /resources/videos/-1-tip-for-a-new-scrum-master
+- /resources/1-tip-for-a-new-scrum-master
+- /resources/1-tip-for-a-scrum-master
+- /resources/videos/-1-tip-for-a-scrum-master
+- /resources/-1-tip-for-a-scrum-master
 aliasesFor404:
 - /resources/1-tip-for-a-new-scrum-master
 - /resources/1-tip-for-a-scrum-master
@@ -31,12 +35,12 @@ sitemap:
 tags:
 - Scrum Master
 - Scrum Team
-- Professional Scrum
-- Software Development
-- Agile Frameworks
 - People and Process
 - Agile Project Management
+- Software Development
 - Agile Transformation
+- Professional Scrum
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

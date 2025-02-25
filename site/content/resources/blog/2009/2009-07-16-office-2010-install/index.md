@@ -17,6 +17,10 @@ aliases:
 - /office-2010-install
 - /resources/Jsol6FUVR7d
 - /resources/blog/office-2010-install
+aliasesArchive:
+- /blog/office-2010-install
+- /office-2010-install
+- /resources/blog/office-2010-install
 aliasesFor404:
 - /office-2010-install
 - /blog/office-2010-install

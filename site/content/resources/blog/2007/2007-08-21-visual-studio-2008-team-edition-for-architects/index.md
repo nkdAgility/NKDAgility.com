@@ -17,13 +17,17 @@ aliases:
 - /visual-studio-2008-team-edition-for-architects
 - /resources/wPAkb39sRlH
 - /resources/blog/visual-studio-2008-team-edition-for-architects
+aliasesArchive:
+- /blog/visual-studio-2008-team-edition-for-architects
+- /visual-studio-2008-team-edition-for-architects
+- /resources/blog/visual-studio-2008-team-edition-for-architects
 aliasesFor404:
 - /visual-studio-2008-team-edition-for-architects
 - /blog/visual-studio-2008-team-edition-for-architects
 - /resources/blog/visual-studio-2008-team-edition-for-architects
 tags:
-- Software Development
 - Application Lifecycle Management
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

@@ -19,6 +19,12 @@ aliases:
 - /blog/solution---seo-permanent-redirects-for-old-url’s-
 - /resources/2x0w1Oay2UF
 - /resources/blog/solution-seo-permanent-redirects-for-old-urls
+aliasesArchive:
+- /blog/solution-seo-permanent-redirects-for-old-urls
+- /solution-seo-permanent-redirects-for-old-urls
+- /solution---seo-permanent-redirects-for-old-url’s-
+- /blog/solution---seo-permanent-redirects-for-old-url’s-
+- /resources/blog/solution-seo-permanent-redirects-for-old-urls
 aliasesFor404:
 - /solution-seo-permanent-redirects-for-old-urls
 - /blog/solution-seo-permanent-redirects-for-old-urls

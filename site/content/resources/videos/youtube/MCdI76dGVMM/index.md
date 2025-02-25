@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/hardest-part-of-becoming-a-professional-scrum-master
 aliasesArchive:
 - /resources/videos/hardest-part-of-becoming-a-professional-scrum-master
+- /resources/hardest-part-of-becoming-a-professional-scrum-master
+- /resources/hardest-part-of-becoming-a-professional-scrummaster
+- /resources/videos/hardest-part-of-becoming-a-professional-scrummaster-
+- /resources/hardest-part-of-becoming-a-professional-scrummaster-
 aliasesFor404:
 - /resources/hardest-part-of-becoming-a-professional-scrum-master
 - /resources/hardest-part-of-becoming-a-professional-scrummaster
@@ -28,8 +32,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 resourceTypes:
 - video
 categories:

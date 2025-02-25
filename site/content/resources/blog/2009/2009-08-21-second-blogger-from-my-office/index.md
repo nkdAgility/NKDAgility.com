@@ -17,6 +17,10 @@ aliases:
 - /second-blogger-from-my-office
 - /resources/uzDvrUVCXdK
 - /resources/blog/second-blogger-from-my-office
+aliasesArchive:
+- /blog/second-blogger-from-my-office
+- /second-blogger-from-my-office
+- /resources/blog/second-blogger-from-my-office
 aliasesFor404:
 - /second-blogger-from-my-office
 - /blog/second-blogger-from-my-office

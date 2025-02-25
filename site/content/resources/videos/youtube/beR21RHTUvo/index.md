@@ -18,6 +18,9 @@ aliases:
 - /resources/beR21RHTUvo
 aliasesArchive:
 - /resources/videos/story-points-a-ghost-of-agile-past
+- /resources/story-points-a-ghost-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-story-points
+- /resources/5-ghosts-of-agile-past-story-points
 aliasesFor404:
 - /resources/story-points-a-ghost-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-story-points
@@ -29,8 +32,8 @@ tags:
 - Estimation
 - People and Process
 - Agile Project Management
-- Software Development
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

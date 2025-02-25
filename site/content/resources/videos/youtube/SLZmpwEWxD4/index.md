@@ -18,6 +18,9 @@ aliases:
 - /resources/SLZmpwEWxD4
 aliasesArchive:
 - /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+- /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+- /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
+- /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 aliasesFor404:
 - /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
 - /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
@@ -29,13 +32,13 @@ tags:
 - Strategy
 - Operational Practices
 - People and Process
-- Team Collaboration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Lean Thinking
+- Team Collaboration
 - Agile Project Management
+- Transparency
+- Pragmatic Thinking
+- Software Development
+- Lean Thinking
 resourceTypes:
 - video
 categories:

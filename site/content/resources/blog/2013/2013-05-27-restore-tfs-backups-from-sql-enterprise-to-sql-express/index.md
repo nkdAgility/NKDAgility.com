@@ -17,6 +17,10 @@ aliases:
 - /restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /resources/Rtjw5m2qP3t
 - /resources/blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
+aliasesArchive:
+- /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
+- /restore-tfs-backups-from-sql-enterprise-to-sql-express
+- /resources/blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 aliasesFor404:
 - /restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express

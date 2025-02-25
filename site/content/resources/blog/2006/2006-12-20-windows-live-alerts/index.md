@@ -17,6 +17,10 @@ aliases:
 - /windows-live-alerts
 - /resources/kr2gucSHKSd
 - /resources/blog/windows-live-alerts
+aliasesArchive:
+- /blog/windows-live-alerts
+- /windows-live-alerts
+- /resources/blog/windows-live-alerts
 aliasesFor404:
 - /windows-live-alerts
 - /blog/windows-live-alerts

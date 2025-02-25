@@ -20,6 +20,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/-discount-for-existing-alumni-overview
 - /resources/videos/30-discount-for-existing-alumni-overview
+- /resources/30-discount-for-existing-alumni-overview
 aliasesFor404:
 - /resources/30-discount-for-existing-alumni-overview
 - /resources/videos/30-discount-for-existing-alumni-overview
@@ -30,9 +31,9 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - Employee Engagement
-- Coaching
-- Customer Retention
 - Mentoring
+- Customer Retention
+- Coaching
 resourceTypes:
 - video
 categories: []

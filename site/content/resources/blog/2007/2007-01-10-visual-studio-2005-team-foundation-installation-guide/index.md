@@ -17,6 +17,10 @@ aliases:
 - /visual-studio-2005-team-foundation-installation-guide
 - /resources/hoZ59uz-zBG
 - /resources/blog/visual-studio-2005-team-foundation-installation-guide
+aliasesArchive:
+- /blog/visual-studio-2005-team-foundation-installation-guide
+- /visual-studio-2005-team-foundation-installation-guide
+- /resources/blog/visual-studio-2005-team-foundation-installation-guide
 aliasesFor404:
 - /visual-studio-2005-team-foundation-installation-guide
 - /blog/visual-studio-2005-team-foundation-installation-guide

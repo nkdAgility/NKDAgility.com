@@ -14,6 +14,9 @@ aliases:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
 - /resources/-D7_0lz9GU6
+aliasesArchive:
+- /newsletters/january-2023/
+- /resources/newsletters/january-2023/
 aliasesFor404:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/

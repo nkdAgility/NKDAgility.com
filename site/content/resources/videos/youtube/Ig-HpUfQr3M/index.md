@@ -15,6 +15,8 @@ aliases:
 - /resources/Ig-HpUfQr3M
 aliasesArchive:
 - /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
+- /resources/videos/monitoring-and-measuring-for-success
+- /resources/monitoring-and-measuring-for-success
 aliasesFor404:
 - /resources/videos/monitoring-and-measuring-for-success
 - /resources/monitoring-and-measuring-for-success

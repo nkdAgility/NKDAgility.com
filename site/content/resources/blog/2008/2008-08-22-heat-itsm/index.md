@@ -17,6 +17,10 @@ aliases:
 - /heat-itsm
 - /resources/YKQN4PBqwk2
 - /resources/blog/heat-itsm
+aliasesArchive:
+- /blog/heat-itsm
+- /heat-itsm
+- /resources/blog/heat-itsm
 aliasesFor404:
 - /heat-itsm
 - /blog/heat-itsm

@@ -19,6 +19,12 @@ aliases:
 - /blog/visual-studio-sp1-and-team-system-sp1-are-released-
 - /resources/t2k1Rx5nmd9
 - /resources/blog/visual-studio-sp1-and-team-system-sp1-are-released
+aliasesArchive:
+- /blog/visual-studio-sp1-and-team-system-sp1-are-released
+- /visual-studio-sp1-and-team-system-sp1-are-released
+- /visual-studio-sp1-and-team-system-sp1-are-released-
+- /blog/visual-studio-sp1-and-team-system-sp1-are-released-
+- /resources/blog/visual-studio-sp1-and-team-system-sp1-are-released
 aliasesFor404:
 - /visual-studio-sp1-and-team-system-sp1-are-released
 - /blog/visual-studio-sp1-and-team-system-sp1-are-released

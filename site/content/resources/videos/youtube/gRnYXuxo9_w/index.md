@@ -15,6 +15,8 @@ aliases:
 - /resources/gRnYXuxo9_w
 aliasesArchive:
 - /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
+- /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+- /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 aliasesFor404:
 - /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
@@ -23,13 +25,13 @@ duration: 171
 isShort: false
 tags:
 - Transparency
-- Professional Scrum
-- Transparency and Accountability
 - Agile Project Management
+- Transparency and Accountability
 - Scrum Values
-- Team Collaboration
-- Team Performance
+- Professional Scrum
 - People and Process
+- Team Performance
+- Team Collaboration
 - Software Development
 - Agile Frameworks
 sitemap:

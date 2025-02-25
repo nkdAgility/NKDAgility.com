@@ -18,6 +18,9 @@ aliases:
 - /resources/o0VJuVhm0pQ
 aliasesArchive:
 - /resources/videos/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
+- /resources/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
+- /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
+- /resources/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
 aliasesFor404:
 - /resources/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 - /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
@@ -29,9 +32,9 @@ tags:
 - People and Process
 - Empirical Process Control
 - Scrum Product Development
-- Value Delivery
-- Software Development
 - Product Delivery
+- Software Development
+- Value Delivery
 - Agile Product Management
 - Agile Project Management
 - Agile Frameworks

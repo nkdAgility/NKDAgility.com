@@ -13,6 +13,8 @@ aliases:
 - /resources/6SSgETsq8IQ
 aliasesArchive:
 - /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
+- /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
+- /resources/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 aliasesFor404:
 - /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 - /resources/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
@@ -22,12 +24,12 @@ isShort: false
 tags:
 - Agile Product Management
 - Scrum Product Development
-- Professional Scrum
-- Product Owner
 - Agile Project Management
+- Product Owner
+- Professional Scrum
+- People and Process
 - Products and Books
 - Agile Frameworks
-- People and Process
 - Value Delivery
 - Agile Transformation
 sitemap:

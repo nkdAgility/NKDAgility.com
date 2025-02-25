@@ -19,6 +19,7 @@ aliases:
 - /resources/videos/discipline-versus-motivation
 aliasesArchive:
 - /resources/videos/discipline-versus-motivation
+- /resources/discipline-versus-motivation
 aliasesFor404:
 - /resources/discipline-versus-motivation
 - /resources/videos/discipline-versus-motivation

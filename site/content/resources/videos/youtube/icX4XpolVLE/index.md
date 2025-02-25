@@ -14,6 +14,8 @@ aliases:
 - /resources/icX4XpolVLE
 aliasesArchive:
 - /resources/videos/from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome
+- /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
+- /resources/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
 aliasesFor404:
 - /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
 - /resources/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-

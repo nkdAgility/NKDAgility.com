@@ -15,6 +15,8 @@ aliases:
 - /resources/VkhIXCsoSJw
 aliasesArchive:
 - /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
+- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
 aliasesFor404:
 - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
 - /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
@@ -23,15 +25,15 @@ duration: 529
 isShort: false
 tags:
 - Continuous Delivery
-- Practical Techniques and Tooling
 - Technical Excellence
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Operational Practices
 - AI and Automation in Agility
-- Code and Complexity
-- Azure DevOps
 - Test Automation
+- Code and Complexity
 - Technical Debt
+- Azure DevOps
 resourceTypes:
 - video
 sitemap:

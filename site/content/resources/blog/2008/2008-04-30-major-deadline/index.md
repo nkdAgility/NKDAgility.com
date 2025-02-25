@@ -17,13 +17,17 @@ aliases:
 - /major-deadline
 - /resources/qNeovUSRj-o
 - /resources/blog/major-deadline
+aliasesArchive:
+- /blog/major-deadline
+- /major-deadline
+- /resources/blog/major-deadline
 aliasesFor404:
 - /major-deadline
 - /blog/major-deadline
 - /resources/blog/major-deadline
 tags:
-- Software Development
 - Troubleshooting
+- Software Development
 - Pragmatic Thinking
 - Digital Transformation
 - Technical Mastery

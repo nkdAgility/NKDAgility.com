@@ -14,6 +14,8 @@ aliases:
 - /resources/6L2r8YrehWc
 aliasesArchive:
 - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
+- /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
+- /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 aliasesFor404:
 - /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
@@ -22,15 +24,15 @@ duration: 237
 isShort: false
 tags:
 - Accountability
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Pragmatic Thinking
-- Team Performance
 - Agile Product Management
+- Team Collaboration
 - Professional Scrum
 - Technical Leadership
-- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

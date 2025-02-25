@@ -19,6 +19,12 @@ aliases:
 - /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
 - /resources/MHeGFYrasBx
 - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
+aliasesArchive:
+- /blog/how-do-you-incorporate-a-design-sprint-in-scrum
+- /how-do-you-incorporate-a-design-sprint-in-scrum
+- /how-do-you-incorporate-a-design-sprint-in-scrum-
+- /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
+- /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 aliasesFor404:
 - /how-do-you-incorporate-a-design-sprint-in-scrum
 - /blog/how-do-you-incorporate-a-design-sprint-in-scrum
@@ -27,15 +33,15 @@ aliasesFor404:
 - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 tags:
 - Agile Project Management
-- Scrum Product Development
-- Professional Scrum
-- Scrum Team
 - People and Process
-- Software Development
+- Professional Scrum
+- Scrum Product Development
+- Scrum Team
 - Events and Presentations
-- Team Collaboration
 - Team Performance
-- Product Delivery
+- Team Collaboration
+- Software Development
+- Software Developers
 categories:
 - Scrum
 - Social Technologies

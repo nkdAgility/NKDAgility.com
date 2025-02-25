@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
 aliasesArchive:
 - /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
+- /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
+- /resources/7-signs-of-the-agile-apocalypse-the-antichrist
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 - /resources/7-signs-of-the-agile-apocalypse-the-antichrist

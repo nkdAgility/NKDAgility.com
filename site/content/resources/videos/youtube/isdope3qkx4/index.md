@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/11th-april-2020-office-hours-ask-me-anything
+- /resources/11th-april-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/11th-april-2020-office-hours-ask-me-anything
 - /resources/11th-april-2020-office-hours-ask-me-anything
@@ -24,12 +25,12 @@ duration: 2351
 isShort: false
 tags:
 - Azure DevOps
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - News and Reviews
+- Agile Project Management
 - Software Development
 - Software Developers
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

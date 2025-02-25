@@ -17,16 +17,20 @@ aliases:
 - /team-foundation-server-sharepoint-integration
 - /resources/Dn2_7F_mhyC
 - /resources/blog/team-foundation-server-sharepoint-integration
+aliasesArchive:
+- /blog/team-foundation-server-sharepoint-integration
+- /team-foundation-server-sharepoint-integration
+- /resources/blog/team-foundation-server-sharepoint-integration
 aliasesFor404:
 - /team-foundation-server-sharepoint-integration
 - /blog/team-foundation-server-sharepoint-integration
 - /resources/blog/team-foundation-server-sharepoint-integration
 tags:
 - Practical Techniques and Tooling
+- Application Lifecycle Management
+- Pragmatic Thinking
 - Software Development
 - Azure DevOps
-- Pragmatic Thinking
-- Application Lifecycle Management
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

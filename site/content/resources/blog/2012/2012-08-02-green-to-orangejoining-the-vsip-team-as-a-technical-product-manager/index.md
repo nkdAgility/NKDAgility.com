@@ -19,6 +19,12 @@ aliases:
 - /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /resources/P0ESCmC9VhB
 - /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+aliasesArchive:
+- /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+- /green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+- /green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
+- /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
+- /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 aliasesFor404:
 - /green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 - /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
@@ -30,7 +36,7 @@ tags:
 categories:
 - Scrum
 - Product Management
-- Social Technologies
+- Engineering Excellence
 
 ---
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

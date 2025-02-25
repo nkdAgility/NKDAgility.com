@@ -18,6 +18,9 @@ aliases:
 - /resources/Ir8QiX7eAHU
 aliasesArchive:
 - /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
+- /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
+- /resources/videos/wip-limits!-what-critical-factors-affect-them-
+- /resources/wip-limits!-what-critical-factors-affect-them-
 aliasesFor404:
 - /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
 - /resources/videos/wip-limits!-what-critical-factors-affect-them-
@@ -28,14 +31,14 @@ sitemap:
 tags:
 - Strategy
 - Operational Practices
-- Flow Efficiency
 - Practical Techniques and Tooling
-- Throughput
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Lean Thinking
+- Flow Efficiency
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Lean Thinking
+- Throughput
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

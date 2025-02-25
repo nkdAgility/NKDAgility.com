@@ -17,6 +17,10 @@ aliases:
 - /microsoft-answer-for-the-end-user
 - /resources/KIMZ-rpIxds
 - /resources/blog/microsoft-answer-for-the-end-user
+aliasesArchive:
+- /blog/microsoft-answer-for-the-end-user
+- /microsoft-answer-for-the-end-user
+- /resources/blog/microsoft-answer-for-the-end-user
 aliasesFor404:
 - /microsoft-answer-for-the-end-user
 - /blog/microsoft-answer-for-the-end-user

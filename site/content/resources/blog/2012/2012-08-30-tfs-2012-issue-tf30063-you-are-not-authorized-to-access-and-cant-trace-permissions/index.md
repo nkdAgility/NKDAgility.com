@@ -20,6 +20,13 @@ aliases:
 - /blog/tfs-2012---issue--tf30063--you-are-not-authorized-to-access-and-can’t-trace-permissions
 - /resources/-k6KiGvRFB7
 - /resources/blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
+aliasesArchive:
+- /blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
+- /tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
+- /tfs-2012
+- /tfs-2012---issue--tf30063--you-are-not-authorized-to-access-and-can’t-trace-permissions
+- /blog/tfs-2012---issue--tf30063--you-are-not-authorized-to-access-and-can’t-trace-permissions
+- /resources/blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 aliasesFor404:
 - /tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 - /blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions

@@ -16,6 +16,8 @@ aliases:
 - /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance
 aliasesArchive:
 - /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance
+- /resources/videos/the-superpower-of-quality-engineering
+- /resources/the-superpower-of-quality-engineering
 aliasesFor404:
 - /resources/videos/the-superpower-of-quality-engineering
 - /resources/the-superpower-of-quality-engineering
@@ -25,8 +27,8 @@ isShort: true
 tags:
 - Software Development
 - Engineering Practices
-- Technical Excellence
 - Technical Mastery
+- Technical Excellence
 - Value Delivery
 - Working Software
 sitemap:

@@ -15,6 +15,12 @@ aliasesArchive:
 - /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
 - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
 - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
+- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
+- /resources/_gyzx59-AJk
+- /resources/videos/_gyzx59-AJk
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 aliasesFor404:
 - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!
@@ -26,8 +32,16 @@ preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
 duration: 289
 isShort: false
 tags:
-- Deployment Frequency
-- Frequent Releases
+- Scrum Master
+- Scrum Team
+- People and Process
+- Team Performance
+- Scrum Product Development
+- Agile Project Management
+- Agile Transformation
+- Professional Scrum
+- Agile Frameworks
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -36,9 +50,8 @@ layout: video
 resourceTypes:
 - video
 categories:
-- DevOps
-- Engineering Excellence
-- Product Management
+- Scrum
+- Social Technologies
 canonicalUrl: https://www.youtube.com/watch?v=_Hd8NZeiwFA
 
 ---

@@ -18,6 +18,8 @@ aliases:
 - /resources/pU57BrP94-8
 aliasesArchive:
 - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+- /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
+- /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 aliasesFor404:
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
@@ -26,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 - Continuous Learning
 - Team Collaboration
 - Coaching
 - Metrics and Learning
-- Pragmatic Thinking
 - Empirical Process Control
 - Mentoring
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

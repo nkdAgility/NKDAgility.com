@@ -15,6 +15,8 @@ aliases:
 - /resources/rHFhR3o849k
 aliasesArchive:
 - /resources/videos/what-makes-a-truly-great-scrum-master
+- /resources/videos/what-makes-a-truly-great-scrum-master-
+- /resources/what-makes-a-truly-great-scrum-master-
 aliasesFor404:
 - /resources/videos/what-makes-a-truly-great-scrum-master-
 - /resources/what-makes-a-truly-great-scrum-master-
@@ -22,11 +24,11 @@ preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Coaching
 sitemap:
   filename: sitemap.xml

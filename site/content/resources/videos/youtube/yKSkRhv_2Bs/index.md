@@ -20,6 +20,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/reasons-to-do-an-aps-course-in-seconds
 - /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
+- /resources/reasons-to-do-an-aps-course-in-60-seconds-2
+- /resources/reasons-to-do-an-aps-course-in-60-seconds
 aliasesFor404:
 - /resources/reasons-to-do-an-aps-course-in-60-seconds-2
 - /resources/reasons-to-do-an-aps-course-in-60-seconds
@@ -29,8 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

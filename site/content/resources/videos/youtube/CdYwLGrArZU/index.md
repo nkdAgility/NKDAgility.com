@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course
 aliasesArchive:
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course
+- /resources/most-common-thing-you-hear-in-a-pspo-course-2
+- /resources/most-common-thing-you-hear-in-a-pspo-course
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
+- /resources/most-common-thing-you-hear-in-a-pspo-course-
 aliasesFor404:
 - /resources/most-common-thing-you-hear-in-a-pspo-course-2
 - /resources/most-common-thing-you-hear-in-a-pspo-course
@@ -31,9 +35,9 @@ tags:
 - People and Process
 - Agile Product Management
 - Product Owner
+- Agile Project Management
 - Pragmatic Thinking
 - Personal
-- Agile Project Management
 resourceTypes:
 - video
 categories:

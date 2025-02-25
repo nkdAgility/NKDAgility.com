@@ -17,6 +17,10 @@ aliases:
 - /team-system-mvp
 - /resources/-4be4NdCc9K
 - /resources/blog/team-system-mvp
+aliasesArchive:
+- /blog/team-system-mvp
+- /team-system-mvp
+- /resources/blog/team-system-mvp
 aliasesFor404:
 - /team-system-mvp
 - /blog/team-system-mvp

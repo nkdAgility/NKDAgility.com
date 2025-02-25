@@ -20,6 +20,13 @@ aliases:
 - /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
 - /resources/-IOLGjKhnje
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
+aliasesArchive:
+- /blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
+- /tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
+- /tfs-2012-update-1
+- /tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
+- /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
+- /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 aliasesFor404:
 - /tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 - /blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
@@ -31,13 +38,13 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Operational Practices
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Azure DevOps
+- Operational Practices
 - Release Management
 - Troubleshooting
+- Technical Mastery
+- Software Development
+- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence

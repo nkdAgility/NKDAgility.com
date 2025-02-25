@@ -18,6 +18,11 @@ aliases:
 - /automated-testing-in-a-modern-application-lifecycle
 - /resources/IOUOjgnp-hB
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
+aliasesArchive:
+- /blog/automated-testing-in-a-modern-application-lifecycle
+- /automated-testing-in-a-modern-application-lifecycle/
+- /automated-testing-in-a-modern-application-lifecycle
+- /resources/blog/automated-testing-in-a-modern-application-lifecycle
 aliasesFor404:
 - /automated-testing-in-a-modern-application-lifecycle
 - /blog/automated-testing-in-a-modern-application-lifecycle
@@ -25,8 +30,8 @@ aliasesFor404:
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
 tags:
 - Software Development
-- Automated Testing
 - Test Automation
+- Automated Testing
 - Technical Excellence
 categories:
 - Engineering Excellence

@@ -13,6 +13,9 @@ aliases:
 - /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
 - /resources/newsletters/exclusive-webcast-2-agile
 - /resources/9YRzr3RR2Da
+aliasesArchive:
+- /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
+- /resources/newsletters/exclusive-webcast-2-agile
 aliasesFor404:
 - /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
 - /resources/newsletters/exclusive-webcast-2-agile

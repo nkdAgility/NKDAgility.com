@@ -18,6 +18,10 @@ aliases:
 - /resources/LpiLOBG7WgI
 aliasesArchive:
 - /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
 aliasesFor404:
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
@@ -27,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
 - Scrum Team
-- Scrum Product Development
 - Product Owner
+- Scrum Product Development
+- Sprint Review
 - Customer Feedback Loops
-- Agile Product Management
+- Professional Scrum
 - Pragmatic Thinking
 - Product Delivery
 - People and Process
-- Scrum Master
+- Agile Product Management
 resourceTypes:
 - video
 categories:

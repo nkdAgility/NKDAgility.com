@@ -18,6 +18,9 @@ aliases:
 - /resources/XdzGxK1Yzyc
 aliasesArchive:
 - /resources/videos/what-is-a-product-owner-why-are-they-essential
+- /resources/what-is-a-product-owner-why-are-they-essential
+- /resources/videos/why-have-a-product-owner-
+- /resources/why-have-a-product-owner-
 aliasesFor404:
 - /resources/what-is-a-product-owner-why-are-they-essential
 - /resources/videos/why-have-a-product-owner-

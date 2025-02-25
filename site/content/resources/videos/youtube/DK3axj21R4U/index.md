@@ -18,6 +18,7 @@ aliases:
 - /resources/videos/fortnite
 aliasesArchive:
 - /resources/videos/fortnite
+- /resources/fortnite
 aliasesFor404:
 - /resources/videos/fortnite
 - /resources/fortnite
@@ -33,5 +34,4 @@ categories: []
 tags: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=DK3axj21R4U)

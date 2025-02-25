@@ -15,6 +15,8 @@ aliases:
 - /resources/vWfebO_pwIU
 aliasesArchive:
 - /resources/videos/why-most-scrum-masters-only-have-psmi
+- /resources/videos/why-most-scrum-masters-only-have-psmi!
+- /resources/why-most-scrum-masters-only-have-psmi!
 aliasesFor404:
 - /resources/videos/why-most-scrum-masters-only-have-psmi!
 - /resources/why-most-scrum-masters-only-have-psmi!

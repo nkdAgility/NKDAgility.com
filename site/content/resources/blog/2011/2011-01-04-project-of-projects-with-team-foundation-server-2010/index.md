@@ -17,21 +17,25 @@ aliases:
 - /project-of-projects-with-team-foundation-server-2010
 - /resources/qiY3IH2aMYV
 - /resources/blog/project-of-projects-with-team-foundation-server-2010
+aliasesArchive:
+- /blog/project-of-projects-with-team-foundation-server-2010
+- /project-of-projects-with-team-foundation-server-2010
+- /resources/blog/project-of-projects-with-team-foundation-server-2010
 aliasesFor404:
 - /project-of-projects-with-team-foundation-server-2010
 - /blog/project-of-projects-with-team-foundation-server-2010
 - /resources/blog/project-of-projects-with-team-foundation-server-2010
 tags:
-- Software Development
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Azure DevOps
-- Pragmatic Thinking
+- Software Development
 - Operational Practices
+- Pragmatic Thinking
+- Azure DevOps
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-8-8.png
 
 ---

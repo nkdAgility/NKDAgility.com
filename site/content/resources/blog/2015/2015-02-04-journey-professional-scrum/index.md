@@ -19,6 +19,12 @@ aliases:
 - /blog/my-journey-into-professional-scrum
 - /resources/PqEhZ1JIcDe
 - /resources/blog/journey-professional-scrum
+aliasesArchive:
+- /blog/journey-professional-scrum
+- /journey-professional-scrum
+- /my-journey-into-professional-scrum
+- /blog/my-journey-into-professional-scrum
+- /resources/blog/journey-professional-scrum
 aliasesFor404:
 - /journey-professional-scrum
 - /blog/journey-professional-scrum
@@ -26,16 +32,16 @@ aliasesFor404:
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
 tags:
+- People and Process
 - Scrum Product Development
 - Strategy
-- People and Process
-- Software Development
+- Agile Project Management
 - Business Agility
-- Organisational Change
-- Scaling Scrum
-- Organisational Culture
 - Agile Product Management
-- Professional Scrum
+- Organisational Culture
+- Organisational Change
+- Scaling Agility
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

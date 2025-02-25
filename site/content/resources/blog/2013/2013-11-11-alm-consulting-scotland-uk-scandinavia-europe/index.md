@@ -21,6 +21,14 @@ aliases:
 - /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
+aliasesArchive:
+- /blog/alm-consulting-scotland-uk-scandinavia-europe
+- /alm-consulting-scotland-uk-scandinavia-europe
+- /alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
+- /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
+- /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
+- /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
+- /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 aliasesFor404:
 - /alm-consulting-scotland-uk-scandinavia-europe
 - /blog/alm-consulting-scotland-uk-scandinavia-europe
@@ -32,13 +40,13 @@ aliasesFor404:
 tags:
 - Coaching
 - Application Lifecycle Management
-- Software Development
 - People and Process
-- Product Delivery
+- Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
-- Pragmatic Thinking
+- Product Delivery
 - Operational Practices
+- Pragmatic Thinking
+- Technical Excellence
 - Agile Project Management
 categories:
 - Social Technologies

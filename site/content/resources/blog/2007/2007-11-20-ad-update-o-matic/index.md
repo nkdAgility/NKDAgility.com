@@ -17,17 +17,21 @@ aliases:
 - /ad-update-o-matic
 - /resources/PxQXixHg3e3
 - /resources/blog/ad-update-o-matic
+aliasesArchive:
+- /blog/ad-update-o-matic
+- /ad-update-o-matic
+- /resources/blog/ad-update-o-matic
 aliasesFor404:
 - /ad-update-o-matic
 - /blog/ad-update-o-matic
 - /resources/blog/ad-update-o-matic
 tags:
+- Technical Mastery
+- Operational Practices
 - Windows
+- Working Software
 - Software Development
 - System Configuration
-- Technical Mastery
-- Working Software
-- Operational Practices
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

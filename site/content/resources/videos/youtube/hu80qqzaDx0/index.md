@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
 aliasesArchive:
 - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
+- /resources/videos/introduction-to-evidence-based-management-excerpt-1
+- /resources/introduction-to-evidence-based-management-excerpt-1
 aliasesFor404:
 - /resources/videos/introduction-to-evidence-based-management-excerpt-1
 - /resources/introduction-to-evidence-based-management-excerpt-1

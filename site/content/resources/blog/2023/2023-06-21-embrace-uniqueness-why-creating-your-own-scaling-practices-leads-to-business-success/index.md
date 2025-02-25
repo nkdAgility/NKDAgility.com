@@ -20,6 +20,12 @@ aliases:
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /resources/rMAdB_yEwWb
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+aliasesArchive:
+- /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+- /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
+- /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+- /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
+- /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliasesFor404:
 - /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
@@ -28,14 +34,14 @@ aliasesFor404:
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
 - Business Agility
-- Agile Strategy
-- Organisational Culture
-- Enterprise Agility
-- Organisational Agility
 - People and Process
+- Organisational Culture
+- Agile Strategy
+- Organisational Agility
+- Enterprise Agility
 - Strategy
 - Pragmatic Thinking
-- Scaling Agility
+- Market Adaptability
 - Discovery and Learning
 categories:
 - Leadership

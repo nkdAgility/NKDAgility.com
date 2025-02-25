@@ -13,6 +13,8 @@ aliases:
 - /resources/1TaIjFL-0o8
 aliasesArchive:
 - /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
+- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 aliasesFor404:
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 - /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
@@ -20,13 +22,13 @@ preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
 tags:
-- Scrum Master
 - People and Process
-- Professional Scrum
-- Agile Frameworks
-- Scrum Team
+- Scrum Master
 - Agile Project Management
 - Agile Transformation
+- Scrum Team
+- Professional Scrum
+- Agile Frameworks
 - Software Development
 - Sociotechnical Systems
 - Agile Leadership

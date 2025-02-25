@@ -17,15 +17,19 @@ aliases:
 - /unity-and-asp-net
 - /resources/ga9A29v5JJk
 - /resources/blog/unity-and-asp-net
+aliasesArchive:
+- /blog/unity-and-asp-net
+- /unity-and-asp-net
+- /resources/blog/unity-and-asp-net
 aliasesFor404:
 - /unity-and-asp-net
 - /blog/unity-and-asp-net
 - /resources/blog/unity-and-asp-net
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

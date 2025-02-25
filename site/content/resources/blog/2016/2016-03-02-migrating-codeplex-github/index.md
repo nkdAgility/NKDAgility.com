@@ -19,6 +19,12 @@ aliases:
 - /blog/migrating-from-codeplex-to-github
 - /resources/kgtNo8tGkjS
 - /resources/blog/migrating-codeplex-github
+aliasesArchive:
+- /blog/migrating-codeplex-github
+- /migrating-codeplex-github
+- /migrating-from-codeplex-to-github
+- /blog/migrating-from-codeplex-to-github
+- /resources/blog/migrating-codeplex-github
 aliasesFor404:
 - /migrating-codeplex-github
 - /blog/migrating-codeplex-github
@@ -27,9 +33,9 @@ aliasesFor404:
 - /resources/blog/migrating-codeplex-github
 tags:
 - Install and Configuration
-- Modern Source Control
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
+- Modern Source Control
 categories:
 - DevOps
 preview: clip_image001-1-1.png

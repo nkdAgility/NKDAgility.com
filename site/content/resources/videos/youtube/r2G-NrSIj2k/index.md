@@ -15,6 +15,7 @@ aliases:
 - /resources/r2G-NrSIj2k
 aliasesArchive:
 - /resources/videos/code-reviews-for-quality-assurance
+- /resources/code-reviews-for-quality-assurance
 aliasesFor404:
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/code-reviews-for-quality-assurance
@@ -25,10 +26,10 @@ tags:
 - Code and Complexity
 - Practical Techniques and Tooling
 - Engineering Practices
-- Modern Source Control
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
+- Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
 sitemap:

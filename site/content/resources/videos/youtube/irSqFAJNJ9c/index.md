@@ -18,6 +18,9 @@ aliases:
 - /resources/irSqFAJNJ9c
 aliasesArchive:
 - /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
+- /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
+- /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
+- /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 aliasesFor404:
 - /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
@@ -28,14 +31,14 @@ sitemap:
 tags:
 - Transparency
 - Scrum Product Development
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
 - Product Owner
-- People and Process
 - Scrum Team
-- Software Development
+- People and Process
+- Team Collaboration
 - Team Performance
-- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:

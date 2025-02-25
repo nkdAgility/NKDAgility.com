@@ -19,6 +19,12 @@ aliases:
 - /blog/issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 - /resources/nckpcFbyvfv
 - /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
+aliasesArchive:
+- /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
+- /issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
+- /issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
+- /blog/issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
+- /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 aliasesFor404:
 - /issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 - /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
@@ -27,8 +33,8 @@ aliasesFor404:
 - /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Troubleshooting
 categories: []
 preview: metro-problem-icon-5-5.png

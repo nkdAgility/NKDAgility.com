@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-judgement
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/judgement!-7-harbingers-agile-apocalypse
+- /resources/judgement!-7-harbingers-agile-apocalypse
 aliasesFor404:
 - /resources/7-harbingers-of-the-agile-apocalypse-judgement
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse
@@ -30,12 +33,12 @@ tags:
 - People and Process
 - Transparency
 - Agile Values and Principles
+- Business Agility
+- Agile Frameworks
+- Organisational Agility
 - Agile Project Management
 - Agile Leadership
-- Organisational Agility
-- Agile Frameworks
-- Business Agility
-- Self Organisation
+- Decision Making
 - Organisational Culture
 resourceTypes:
 - video

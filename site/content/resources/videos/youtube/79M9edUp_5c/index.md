@@ -14,6 +14,8 @@ aliases:
 - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
 aliasesArchive:
 - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
+- /resources/videos/5-tools-that-scrum-masters-love-part-4
+- /resources/5-tools-that-scrum-masters-love-part-4
 aliasesFor404:
 - /resources/videos/5-tools-that-scrum-masters-love-part-4
 - /resources/5-tools-that-scrum-masters-love-part-4
@@ -22,8 +24,8 @@ duration: 46
 isShort: true
 tags:
 - People and Process
-- Asynchronous Development
 - Team Collaboration
+- Asynchronous Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

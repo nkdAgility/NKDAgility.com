@@ -17,6 +17,10 @@ aliases:
 - /team-system-web-access-finally-released
 - /resources/8tIDL2NtDSj
 - /resources/blog/team-system-web-access-finally-released
+aliasesArchive:
+- /blog/team-system-web-access-finally-released
+- /team-system-web-access-finally-released
+- /resources/blog/team-system-web-access-finally-released
 aliasesFor404:
 - /team-system-web-access-finally-released
 - /blog/team-system-web-access-finally-released

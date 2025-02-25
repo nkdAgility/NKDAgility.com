@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-greed
 - /resources/videos/7-deadly-sins-of-agile-greed
+- /resources/7-deadly-sins-of-agile-greed
+- /resources/videos/greed!-7-deadly-sins-of-agile
+- /resources/greed!-7-deadly-sins-of-agile
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-greed
 - /resources/videos/greed!-7-deadly-sins-of-agile
@@ -27,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Product Delivery
+- Flow Efficiency
 - Agile Values and Principles
 - Agile Product Management
-- Flow Efficiency
-- People and Process
-- Agile Product Operating Model
-- Product Delivery
 - Value Delivery
-- Team Performance
+- Agile Product Operating Model
+- Agile Project Management
+- Agile Frameworks
 - Pragmatic Thinking
-- Agile Strategy
 resourceTypes:
 - video
 categories:

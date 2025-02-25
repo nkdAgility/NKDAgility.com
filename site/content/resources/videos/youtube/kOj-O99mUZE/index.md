@@ -18,6 +18,9 @@ aliases:
 - /resources/kOj-O99mUZE
 aliasesArchive:
 - /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
+- /resources/overview-of-the-scaling-with-portfolio-kanban-course
+- /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
+- /resources/overview-of-scaling-with-portfolio-kanban-course-
 aliasesFor404:
 - /resources/overview-of-the-scaling-with-portfolio-kanban-course
 - /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
@@ -28,13 +31,13 @@ sitemap:
 tags:
 - Agile Product Operating Model
 - Value Delivery
+- Scaled Agile
 - Agile Project Management
 - Product Delivery
-- Scaled Agile
+- People and Process
+- Scaling Kanban
 - Portfolio Management
 - Agile Strategy
-- Scaling Agility
-- Scaling Kanban
 - Agile Frameworks
 resourceTypes:
 - video

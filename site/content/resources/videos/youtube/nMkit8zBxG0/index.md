@@ -18,6 +18,9 @@ aliases:
 - /resources/nMkit8zBxG0
 aliasesArchive:
 - /resources/videos/what-is-sprint-planning
+- /resources/what-is-sprint-planning
+- /resources/videos/what-is-sprint-planning-
+- /resources/what-is-sprint-planning-
 aliasesFor404:
 - /resources/what-is-sprint-planning
 - /resources/videos/what-is-sprint-planning-
@@ -29,8 +32,8 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - Agile Planning
-- Software Development
 - Agile Project Management
+- Software Development
 resourceTypes:
 - video
 categories:

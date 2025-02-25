@@ -17,6 +17,10 @@ aliases:
 - /windows-live-id-and-openid
 - /resources/OsETJoX5w_V
 - /resources/blog/windows-live-id-and-openid
+aliasesArchive:
+- /blog/windows-live-id-and-openid
+- /windows-live-id-and-openid
+- /resources/blog/windows-live-id-and-openid
 aliasesFor404:
 - /windows-live-id-and-openid
 - /blog/windows-live-id-and-openid

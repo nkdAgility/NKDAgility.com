@@ -17,6 +17,10 @@ aliases:
 - /the-cause-of-dyslexia
 - /resources/W_2y81Yg8QB
 - /resources/blog/the-cause-of-dyslexia
+aliasesArchive:
+- /blog/the-cause-of-dyslexia
+- /the-cause-of-dyslexia
+- /resources/blog/the-cause-of-dyslexia
 aliasesFor404:
 - /the-cause-of-dyslexia
 - /blog/the-cause-of-dyslexia

@@ -15,6 +15,8 @@ aliases:
 - /resources/QGXlCm_B5zA
 aliasesArchive:
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course
+- /resources/videos/what-will-you-learn-on-the-psm-ii-course-
+- /resources/what-will-you-learn-on-the-psm-ii-course-
 aliasesFor404:
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course-
 - /resources/what-will-you-learn-on-the-psm-ii-course-
@@ -23,8 +25,8 @@ duration: 280
 isShort: false
 tags:
 - People and Process
-- Software Development
 - Agile Project Management
+- Software Development
 - Scrum Master
 sitemap:
   filename: sitemap.xml

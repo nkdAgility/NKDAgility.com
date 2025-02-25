@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/12th-may-2020-office-hours-ask-me-anything
+- /resources/12th-may-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/12th-may-2020-office-hours-ask-me-anything
 - /resources/12th-may-2020-office-hours-ask-me-anything

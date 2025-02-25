@@ -18,6 +18,9 @@ aliases:
 - /resources/Y7Cd1aocMKM
 aliasesArchive:
 - /resources/videos/how-effective-is-scrum-training-via-digital-delivery
+- /resources/how-effective-is-scrum-training-via-digital-delivery
+- /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
+- /resources/how-effective-is-scrum-training-via-digital-delivery-
 aliasesFor404:
 - /resources/how-effective-is-scrum-training-via-digital-delivery
 - /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
@@ -27,13 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Project Management
 - Team Collaboration
 - Agile Frameworks
-- Agile Project Management
-- Remote Working
 - Practical Techniques and Tooling
-- Software Development
+- Remote Working
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

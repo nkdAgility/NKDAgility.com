@@ -18,6 +18,9 @@ aliases:
 - /resources/grJFd9-R5Pw
 aliasesArchive:
 - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
+- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
+- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
+- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
 aliasesFor404:
 - /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
 - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-

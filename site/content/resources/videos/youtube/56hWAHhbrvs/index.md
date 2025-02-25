@@ -18,6 +18,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-organizational-structure
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
+- /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
+- /resources/videos/antichrist!-7-harbingers-agile-apocalypse
+- /resources/antichrist!-7-harbingers-agile-apocalypse
 aliasesFor404:
 - /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
 - People and Process
+- Agile Strategy
 - Agile Philosophy
 - Agile Transformation
-- Organisational Agility
 - Scaling Agility
+- Business Agility
 - Organisational Culture
-- Enterprise Agility
-- Organisational Physics
 - Organisational Change
+- Organisational Physics
+- Beta Codex
 resourceTypes:
 - video
 layout: video

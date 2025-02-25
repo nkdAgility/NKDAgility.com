@@ -18,6 +18,9 @@ aliases:
 - /resources/FJjiCodxyK4
 aliasesArchive:
 - /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching
+- /resources/why-do-you-prefer-agile-consulting-over-agile-coaching
+- /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
+- /resources/why-do-you-prefer-agile-consulting-over-agile-coaching-
 aliasesFor404:
 - /resources/why-do-you-prefer-agile-consulting-over-agile-coaching
 - /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
@@ -31,9 +34,9 @@ tags:
 - Agile Leadership
 - Business Agility
 - Resilience and Change
-- Organisational Agility
 - Organisational Change
 - Agile Transformation
+- Organisational Agility
 - Organisational Culture
 - Pragmatic Thinking
 resourceTypes:

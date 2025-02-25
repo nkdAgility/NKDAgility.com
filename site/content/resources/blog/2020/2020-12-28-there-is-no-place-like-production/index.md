@@ -18,21 +18,25 @@ aliases:
 - /there-is-no-place-like-production
 - /resources/KUJ7jHOGqP7
 - /resources/blog/there-is-no-place-like-production
+aliasesArchive:
+- /blog/there-is-no-place-like-production
+- /there-is-no-place-like-production
+- /resources/blog/there-is-no-place-like-production
 aliasesFor404:
 - /there-is-no-place-like-production
 - /blog/there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Increment
+- Product Validation
 - Business Agility
 - Release Management
 - Agile Product Management
-- Product Validation
-- Product Discovery
+- Discovery and Learning
+- Metrics and Learning
 - Agile Product Operating Model
-- Value Delivery
+- Product Discovery
 - Lean Product Development
-- Ability to Innovate
 categories:
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg

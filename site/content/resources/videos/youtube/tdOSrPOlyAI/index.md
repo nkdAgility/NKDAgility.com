@@ -15,6 +15,8 @@ aliases:
 - /resources/tdOSrPOlyAI
 aliasesArchive:
 - /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
+- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
+- /resources/nkd-agility-your-partner-in-engineering-excellence
 aliasesFor404:
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 - /resources/nkd-agility-your-partner-in-engineering-excellence
@@ -23,12 +25,12 @@ duration: 127
 isShort: false
 tags:
 - Technical Excellence
-- Engineering Practices
 - Technical Mastery
+- Engineering Practices
 - Software Development
-- Technical Leadership
-- Technical Debt
 - People and Process
+- Technical Debt
+- Technical Leadership
 - Value Delivery
 - Pragmatic Thinking
 sitemap:

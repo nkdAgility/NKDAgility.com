@@ -15,6 +15,8 @@ aliases:
 - /resources/LWRAX3OyO28
 aliasesArchive:
 - /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+- /resources/videos/the-power-of-continuous-delivery
+- /resources/the-power-of-continuous-delivery
 aliasesFor404:
 - /resources/videos/the-power-of-continuous-delivery
 - /resources/the-power-of-continuous-delivery

@@ -18,6 +18,9 @@ aliases:
 - /resources/XZVixdVy-PQ
 aliasesArchive:
 - /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 aliasesFor404:
 - /resources/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
@@ -28,13 +31,13 @@ sitemap:
 tags:
 - People and Process
 - Agile Values and Principles
+- Agile Product Operating Model
 - Agile Strategy
 - Software Development
+- Agile Transformation
 - Organisational Agility
 - Agile Frameworks
 - Agile Philosophy
-- Agile Transformation
-- Agile Product Operating Model
 - Pragmatic Thinking
 resourceTypes:
 - video

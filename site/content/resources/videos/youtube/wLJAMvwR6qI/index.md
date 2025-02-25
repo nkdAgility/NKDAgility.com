@@ -14,6 +14,8 @@ aliases:
 - /resources/wLJAMvwR6qI
 aliasesArchive:
 - /resources/videos/mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
+- /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
+- /resources/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 aliasesFor404:
 - /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 - /resources/ppdv-learning-outcomes-with-dr-joanna-plaskonka

@@ -15,6 +15,8 @@ aliases:
 - /resources/N0Ci9PQQRLc
 aliasesArchive:
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
+- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
+- /resources/how-does-your-real-world-experience-translate-into-your-training-style-
 aliasesFor404:
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
 - /resources/how-does-your-real-world-experience-translate-into-your-training-style-
@@ -24,9 +26,9 @@ isShort: false
 tags:
 - People and Process
 - Software Development
-- Agile Frameworks
 - Agile Project Management
 - Agile Transformation
+- Agile Frameworks
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

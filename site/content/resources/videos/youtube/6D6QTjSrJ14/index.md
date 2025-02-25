@@ -17,6 +17,10 @@ aliases:
 - /resources/6D6QTjSrJ14
 aliasesArchive:
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
+- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
+- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
+- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 aliasesFor404:
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
@@ -26,14 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Continuous Learning
 - Discovery and Learning
-- People and Process
 - Customer Feedback Loops
 - Coaching
 - Value Delivery
-- Customer Satisfaction
 - Personal
+- Customer Satisfaction
 resourceTypes:
 - video
 layout: video

@@ -17,13 +17,17 @@ aliases:
 - /migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /resources/tiIa1A7zPP-
 - /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
+aliasesArchive:
+- /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
+- /migrating-source-code-with-history-to-tfs-2012-with-git-tf
+- /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 aliasesFor404:
 - /migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 tags:
-- Modern Source Control
 - Install and Configuration
+- Modern Source Control
 - Practical Techniques and Tooling
 - Software Development
 - Technical Mastery

@@ -18,6 +18,8 @@ aliases:
 - /resources/Juonckoiyx0
 aliasesArchive:
 - /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
+- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 aliasesFor404:
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
@@ -26,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
-- Scrum Product Development
 - People and Process
+- Scrum Product Development
+- Sprint Review
 - Scrum Team
-- Scrum Master
-- Team Collaboration
-- Team Performance
-- Professional Scrum
 - Transparency and Accountability
+- Team Collaboration
+- Professional Scrum
 - Product Owner
+- Agile Planning
+- Team Performance
 resourceTypes:
 - video
 categories:

@@ -19,6 +19,7 @@ aliases:
 - /resources/videos/quotes-dictatorship-vs-democracy
 aliasesArchive:
 - /resources/videos/quotes-dictatorship-vs-democracy
+- /resources/quotes-dictatorship-vs-democracy
 aliasesFor404:
 - /resources/quotes-dictatorship-vs-democracy
 - /resources/videos/quotes-dictatorship-vs-democracy

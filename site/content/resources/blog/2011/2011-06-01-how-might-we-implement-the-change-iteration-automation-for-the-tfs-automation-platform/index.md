@@ -17,18 +17,22 @@ aliases:
 - /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /resources/sE7yYXG4Th_
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+aliasesArchive:
+- /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+- /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+- /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 aliasesFor404:
 - /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
+- Practical Techniques and Tooling
 - Platform Engineering
 - Software Development
-- Practical Techniques and Tooling
+- Operational Practices
+- Pragmatic Thinking
 - Software Developers
 - Azure DevOps
-- Pragmatic Thinking
-- Operational Practices
 - Digital Transformation
 - System Configuration
 preview: metro-visual-studio-2010-128-link-4-4.png

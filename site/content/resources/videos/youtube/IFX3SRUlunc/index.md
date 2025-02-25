@@ -15,6 +15,8 @@ aliases:
 - /resources/IFX3SRUlunc
 aliasesArchive:
 - /resources/videos/unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
+- /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 aliasesFor404:
 - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 - /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
@@ -24,13 +26,13 @@ isShort: false
 tags:
 - Lean
 - Lean Product Development
-- Lean Principles
 - Events and Presentations
+- Lean Principles
 - Lean Thinking
 - Value Delivery
-- Discovery and Learning
 - Decision Making
 - Product Owner
+- Discovery and Learning
 - Product Discovery
 sitemap:
   filename: sitemap.xml

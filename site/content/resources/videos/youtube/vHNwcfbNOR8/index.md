@@ -18,6 +18,9 @@ aliases:
 - /resources/vHNwcfbNOR8
 aliasesArchive:
 - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
+- /resources/what-is-your-feeling-on-creating-agile-apprenticeships
+- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
+- /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
 aliasesFor404:
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships
 - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Mentoring
+- People and Process
 - Continuous Learning
 - Discovery and Learning
-- People and Process
 - Team Collaboration
 - Coaching
 - Personal
 - Agile Leadership
-- Agile Philosophy
 - Agile Transformation
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

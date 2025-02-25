@@ -17,6 +17,9 @@ aliases:
 - /resources/3AVlBmOATHA
 aliasesArchive:
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
+- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 aliasesFor404:
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
@@ -27,11 +30,11 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
-- Agile Strategy
+- Change Management
 - Business Agility
 - Organisational Change
+- Agile Strategy
 - Agile Transformation
-- Change Management
 - Pragmatic Thinking
 - Organisational Agility
 - Sociotechnical Systems

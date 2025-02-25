@@ -19,6 +19,12 @@ aliases:
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/wu1tvjyyrZU
 - /resources/blog/creating-nested-teams-visual-studio-alm
+aliasesArchive:
+- /blog/creating-nested-teams-visual-studio-alm
+- /creating-nested-teams-visual-studio-alm
+- /creating-nested-teams-in-visual-studio-alm
+- /blog/creating-nested-teams-in-visual-studio-alm
+- /resources/blog/creating-nested-teams-visual-studio-alm
 aliasesFor404:
 - /creating-nested-teams-visual-studio-alm
 - /blog/creating-nested-teams-visual-studio-alm
@@ -28,12 +34,12 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - System Configuration
-- Azure Boards
-- Software Development
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Azure DevOps
+- Software Development
+- Azure Boards
 - Pragmatic Thinking
+- Azure DevOps
 categories:
 - Kanban
 - Social Technologies

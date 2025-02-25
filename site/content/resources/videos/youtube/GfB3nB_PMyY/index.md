@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
 aliasesArchive:
 - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
+- /resources/the-power-of-immersive-learning-bridging-theory-and-experience
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 aliasesFor404:
 - /resources/the-power-of-immersive-learning-bridging-theory-and-experience
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5

@@ -17,6 +17,10 @@ aliases:
 - /install-tfs-2015-today
 - /resources/v-m2PYvEaWx
 - /resources/blog/install-tfs-2015-today
+aliasesArchive:
+- /blog/install-tfs-2015-today
+- /install-tfs-2015-today
+- /resources/blog/install-tfs-2015-today
 aliasesFor404:
 - /install-tfs-2015-today
 - /blog/install-tfs-2015-today

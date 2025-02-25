@@ -19,6 +19,12 @@ aliases:
 - /blog/scrum-with-visual-studio-11--creating-a-scrum-team-identity
 - /resources/lcqmvIZfw-_
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
+aliasesArchive:
+- /blog/scrum-with-dev11-creating-a-scrum-team-identity
+- /scrum-with-dev11-creating-a-scrum-team-identity
+- /scrum-with-visual-studio-11--creating-a-scrum-team-identity
+- /blog/scrum-with-visual-studio-11--creating-a-scrum-team-identity
+- /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 aliasesFor404:
 - /scrum-with-dev11-creating-a-scrum-team-identity
 - /blog/scrum-with-dev11-creating-a-scrum-team-identity
@@ -27,15 +33,15 @@ aliasesFor404:
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 tags:
 - Scrum Team
-- Team Collaboration
 - People and Process
 - Practical Techniques and Tooling
+- Team Collaboration
 - News and Reviews
+- Agile Project Management
 - Software Development
 - Software Developers
-- Agile Frameworks
-- Agile Project Management
 - Agile Transformation
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

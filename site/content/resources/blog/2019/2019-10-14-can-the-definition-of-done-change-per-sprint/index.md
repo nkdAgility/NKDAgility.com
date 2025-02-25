@@ -19,6 +19,12 @@ aliases:
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/LdmZbBlwgM-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
+aliasesArchive:
+- /blog/can-the-definition-of-done-change-per-sprint
+- /can-the-definition-of-done-change-per-sprint
+- /can-the-definition-of-done-change-per-sprint-
+- /blog/can-the-definition-of-done-change-per-sprint-
+- /resources/blog/can-the-definition-of-done-change-per-sprint
 aliasesFor404:
 - /can-the-definition-of-done-change-per-sprint
 - /blog/can-the-definition-of-done-change-per-sprint
@@ -28,14 +34,14 @@ aliasesFor404:
 tags:
 - Transparency
 - Definition of Done
-- Increment
 - Scrum Product Development
+- Increment
 - Scrum Team
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
+- Value Delivery
 - Team Performance
-- Software Development
-- Professional Scrum
+- Scrum Master
 categories:
 - Scrum
 - Engineering Excellence

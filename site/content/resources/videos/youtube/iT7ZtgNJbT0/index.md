@@ -18,6 +18,10 @@ aliases:
 - /resources/iT7ZtgNJbT0
 aliasesArchive:
 - /resources/videos/what-was-your-best-day-as-an-agile-consultant
+- /resources/what-was-your-best-day-as-an-agile-consultant-2
+- /resources/what-was-your-best-day-as-an-agile-consultant
+- /resources/videos/what-was-your-best-day-as-an-agile-consultant-
+- /resources/what-was-your-best-day-as-an-agile-consultant-
 aliasesFor404:
 - /resources/what-was-your-best-day-as-an-agile-consultant-2
 - /resources/what-was-your-best-day-as-an-agile-consultant

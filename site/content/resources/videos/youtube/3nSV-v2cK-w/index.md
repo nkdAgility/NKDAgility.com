@@ -14,6 +14,8 @@ aliases:
 - /resources/3nSV-v2cK-w
 aliasesArchive:
 - /resources/videos/unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
+- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
+- /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
 aliasesFor404:
 - /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
 - /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
@@ -23,8 +25,8 @@ isShort: false
 tags:
 - Team Collaboration
 - People and Process
-- Agile Values and Principles
 - Team Motivation
+- Agile Values and Principles
 - Software Development
 - Organisational Agility
 - Agile Philosophy

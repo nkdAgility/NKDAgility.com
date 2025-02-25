@@ -17,6 +17,10 @@ aliases:
 - /no-love-between-mcafee-enterprise-and-moss-2007
 - /resources/uprMOboloWH
 - /resources/blog/no-love-between-mcafee-enterprise-and-moss-2007
+aliasesArchive:
+- /blog/no-love-between-mcafee-enterprise-and-moss-2007
+- /no-love-between-mcafee-enterprise-and-moss-2007
+- /resources/blog/no-love-between-mcafee-enterprise-and-moss-2007
 aliasesFor404:
 - /no-love-between-mcafee-enterprise-and-moss-2007
 - /blog/no-love-between-mcafee-enterprise-and-moss-2007

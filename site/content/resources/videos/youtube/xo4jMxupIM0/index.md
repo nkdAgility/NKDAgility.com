@@ -19,6 +19,8 @@ aliases:
 - /resources/xo4jMxupIM0
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
+- /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
+- /resources/what-makes-the-psm-immersive-learning-experience-so-unique
 aliasesFor404:
 - /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/what-makes-the-psm-immersive-learning-experience-so-unique
@@ -28,15 +30,15 @@ slug: unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-jo
 layout: video
 tags:
 - Agile Project Management
-- Discovery and Learning
+- People and Process
 - Professional Scrum
+- Discovery and Learning
 - Scrum Master
 - Continuous Learning
-- People and Process
+- Events and Presentations
 - Pragmatic Thinking
 - Team Collaboration
-- Events and Presentations
-- Coaching
+- Team Performance
 categories:
 - Scrum
 - Social Technologies

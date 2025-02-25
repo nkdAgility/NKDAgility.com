@@ -19,6 +19,7 @@ aliases:
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
 aliasesArchive:
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/is-a-scrum-master-an-agile-micromanager
 aliasesFor404:
 - /resources/is-a-scrum-master-an-agile-micromanager
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
@@ -26,16 +27,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
 - Scrum Master
-- Scrum Team
-- Agile Leadership
 - Agile Project Management
-- Professional Scrum
-- Technical Leadership
-- Team Performance
-- Agile Frameworks
+- Agile Leadership
+- Team Collaboration
+- Scrum Team
 - People and Process
+- Team Performance
+- Team Motivation
+- Technical Leadership
+- Agile Transformation
 resourceTypes:
 - video
 categories:

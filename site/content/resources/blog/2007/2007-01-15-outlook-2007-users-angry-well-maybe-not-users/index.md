@@ -19,6 +19,12 @@ aliases:
 - /blog/outlook-2007-users-angry--well-maybe-not-users-
 - /resources/JdM99GWW5Pw
 - /resources/blog/outlook-2007-users-angry-well-maybe-not-users
+aliasesArchive:
+- /blog/outlook-2007-users-angry-well-maybe-not-users
+- /outlook-2007-users-angry-well-maybe-not-users
+- /outlook-2007-users-angry--well-maybe-not-users-
+- /blog/outlook-2007-users-angry--well-maybe-not-users-
+- /resources/blog/outlook-2007-users-angry-well-maybe-not-users
 aliasesFor404:
 - /outlook-2007-users-angry-well-maybe-not-users
 - /blog/outlook-2007-users-angry-well-maybe-not-users

@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 aliasesArchive:
 - /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
+- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
 aliasesFor404:
 - /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 - /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-

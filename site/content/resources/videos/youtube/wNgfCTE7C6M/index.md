@@ -15,6 +15,8 @@ aliases:
 - /resources/wNgfCTE7C6M
 aliasesArchive:
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
+- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+- /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 aliasesFor404:
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 - /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-

@@ -21,6 +21,14 @@ aliases:
 - /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
+aliasesArchive:
+- /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
+- /deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
+- /deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
+- /blog/deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
+- /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
+- /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
+- /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 aliasesFor404:
 - /deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 - /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
@@ -30,10 +38,10 @@ aliasesFor404:
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags:
-- Software Development
-- Value Delivery
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Software Development
+- Value Delivery
 - Windows
 - Working Software
 - Product Delivery

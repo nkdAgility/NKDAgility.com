@@ -15,6 +15,8 @@ aliases:
 - /resources/vbY6LUq81uY
 aliasesArchive:
 - /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+- /resources/maximizing-value-with-minimum-viable-products-mvps
 aliasesFor404:
 - /resources/videos/maximizing-value-with-minimum-viable-products-mvps
 - /resources/maximizing-value-with-minimum-viable-products-mvps
@@ -24,14 +26,14 @@ isShort: false
 tags:
 - Entrepreneurship
 - MVP
-- Lean Product Development
 - Ability to Innovate
-- Pragmatic Thinking
+- Lean Product Development
+- Product Discovery
 - Metrics and Learning
-- Lean Startup
-- Discovery and Learning
-- Product Validation
 - Business Agility
+- Value Delivery
+- Pragmatic Thinking
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

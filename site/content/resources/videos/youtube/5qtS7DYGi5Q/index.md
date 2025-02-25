@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
 aliasesArchive:
 - /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 aliasesFor404:
 - /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
@@ -29,9 +32,9 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Value Delivery
-- Pragmatic Thinking
 - Metrics and Learning
 - Decision Making
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

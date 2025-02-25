@@ -14,6 +14,8 @@ aliases:
 - /resources/ZBb8OZ0I6qA
 aliasesArchive:
 - /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
+- /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+- /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 aliasesFor404:
 - /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 - /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
@@ -23,14 +25,14 @@ isShort: false
 tags:
 - Agile Product Management
 - Agile Project Management
-- Scrum Product Development
-- Azure DevOps
-- Product Backlog
 - People and Process
 - Agile Product Operating Model
+- Scrum Product Development
 - Practical Techniques and Tooling
-- Azure Boards
+- Product Backlog
+- Azure DevOps
 - Pragmatic Thinking
+- Azure Boards
 sitemap:
   filename: sitemap.xml
   priority: 0.6

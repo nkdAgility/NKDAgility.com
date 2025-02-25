@@ -17,6 +17,10 @@ aliases:
 - /vote-for-your-feature
 - /resources/0gvfwOdoE6v
 - /resources/blog/vote-for-your-feature
+aliasesArchive:
+- /blog/vote-for-your-feature
+- /vote-for-your-feature
+- /resources/blog/vote-for-your-feature
 aliasesFor404:
 - /vote-for-your-feature
 - /blog/vote-for-your-feature

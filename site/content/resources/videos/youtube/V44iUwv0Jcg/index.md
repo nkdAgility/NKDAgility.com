@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
 aliasesArchive:
 - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
+- /resources/videos/continuous-improvement-with-kanban
+- /resources/continuous-improvement-with-kanban
 aliasesFor404:
 - /resources/videos/continuous-improvement-with-kanban
 - /resources/continuous-improvement-with-kanban
@@ -22,8 +24,8 @@ preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
-- Lean Thinking
 - Operational Practices
+- Lean Thinking
 - Discovery and Learning
 sitemap:
   filename: sitemap.xml

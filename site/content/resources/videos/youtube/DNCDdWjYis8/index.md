@@ -17,6 +17,8 @@ aliases:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters
 aliasesArchive:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters
+- /resources/videos/worst-trait-in-unskilled-scrum-masters-
+- /resources/worst-trait-in-unskilled-scrum-masters-
 aliasesFor404:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-
@@ -33,8 +35,8 @@ categories:
 - Social Technologies
 tags:
 - Scrum Master
-- Scrum Team
 - Agile Project Management
+- Scrum Team
 - People and Process
 - Professional Scrum
 - Software Development

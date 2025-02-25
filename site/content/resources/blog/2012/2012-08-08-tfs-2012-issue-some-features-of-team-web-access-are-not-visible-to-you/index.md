@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/bqwr6oBwO6C
 - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+aliasesArchive:
+- /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+- /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
+- /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
+- /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
+- /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 aliasesFor404:
 - /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 - /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
@@ -26,9 +32,9 @@ aliasesFor404:
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Troubleshooting
 categories: []
 preview: metro-problem-icon-5-5.png

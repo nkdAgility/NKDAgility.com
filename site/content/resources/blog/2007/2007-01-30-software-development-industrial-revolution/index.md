@@ -17,21 +17,25 @@ aliases:
 - /software-development-industrial-revolution
 - /resources/3YR-l0WfbLK
 - /resources/blog/software-development-industrial-revolution
+aliasesArchive:
+- /blog/software-development-industrial-revolution
+- /software-development-industrial-revolution
+- /resources/blog/software-development-industrial-revolution
 aliasesFor404:
 - /software-development-industrial-revolution
 - /blog/software-development-industrial-revolution
 - /resources/blog/software-development-industrial-revolution
 tags:
 - Pragmatic Thinking
-- Application Lifecycle Management
-- Software Development
 - Working Software
-- Team Collaboration
-- Software Developers
-- Release Management
+- Software Development
+- Application Lifecycle Management
 - Products and Books
+- Practical Techniques and Tooling
+- People and Process
+- Release Management
+- Software Developers
 - Product Delivery
-- News and Reviews
 categories:
 - DevOps
 - Engineering Excellence

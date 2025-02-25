@@ -20,6 +20,11 @@ aliases:
 aliasesArchive:
 - /resources/videos/part-common-mistakes-that-scrum-masters-make
 - /resources/videos/part-2-common-mistakes-that-scrum-masters-make
+- /resources/part-2-common-mistakes-that-scrum-masters-make-2
+- /resources/part-2-common-mistakes-that-scrum-masters-make
+- /resources/common-mistakes-that-scrum-masters-make-part-2
+- /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
+- /resources/common-mistakes-that-scrum-masters-make-part-2-
 aliasesFor404:
 - /resources/part-2-common-mistakes-that-scrum-masters-make-2
 - /resources/part-2-common-mistakes-that-scrum-masters-make

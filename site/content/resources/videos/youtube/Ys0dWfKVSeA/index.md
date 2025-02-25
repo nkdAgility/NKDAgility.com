@@ -18,6 +18,10 @@ aliases:
 - /resources/Ys0dWfKVSeA
 aliasesArchive:
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
+- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 aliasesFor404:
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
@@ -29,13 +33,13 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
+- Agile Frameworks
+- Organisational Agility
+- Agile Transformation
 - Team Collaboration
+- Software Development
 - Value Delivery
 - Agile Project Management
-- Software Development
-- Agile Transformation
-- Organisational Agility
-- Agile Frameworks
 - Pragmatic Thinking
 resourceTypes:
 - video

@@ -17,6 +17,10 @@ aliases:
 - /simplify
 - /resources/CEZVS03cb-9
 - /resources/blog/simplify
+aliasesArchive:
+- /blog/simplify
+- /simplify
+- /resources/blog/simplify
 aliasesFor404:
 - /simplify
 - /blog/simplify

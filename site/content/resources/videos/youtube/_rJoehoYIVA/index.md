@@ -17,6 +17,9 @@ aliases:
 - /resources/_rJoehoYIVA
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
+- /resources/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
+- /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
+- /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 aliasesFor404:
 - /resources/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
 - /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
@@ -27,8 +30,8 @@ sitemap:
 tags:
 - Azure DevOps
 - Practical Techniques and Tooling
-- Software Development
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 layout: video

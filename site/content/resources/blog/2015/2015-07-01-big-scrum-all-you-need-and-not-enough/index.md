@@ -19,6 +19,12 @@ aliases:
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/yCJ5ERuJHUU
 - /resources/blog/big-scrum-all-you-need-and-not-enough
+aliasesArchive:
+- /blog/big-scrum-all-you-need-and-not-enough
+- /big-scrum-all-you-need-and-not-enough
+- /big-scrum--all-you-need-and-not-enough
+- /blog/big-scrum--all-you-need-and-not-enough
+- /resources/blog/big-scrum-all-you-need-and-not-enough
 aliasesFor404:
 - /big-scrum-all-you-need-and-not-enough
 - /blog/big-scrum-all-you-need-and-not-enough
@@ -27,15 +33,15 @@ aliasesFor404:
 - /resources/blog/big-scrum-all-you-need-and-not-enough
 tags:
 - Large Scale Agility
-- Events and Presentations
-- Scaling Agility
+- People and Process
 - Professional Scrum
 - Scaling Scrum
-- People and Process
-- Scaled Agile
-- Agile Frameworks
+- Events and Presentations
+- Scaling Agility
 - Organisational Agility
-- Value Delivery
+- Agile Frameworks
+- Team Performance
+- Scrum Product Development
 categories:
 - Scrum
 - Social Technologies

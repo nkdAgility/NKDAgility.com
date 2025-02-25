@@ -17,15 +17,19 @@ aliases:
 - /upgrading-to-tfs-2010-beta-1-and-sql-collation
 - /resources/NdEr9LWJ2ti
 - /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
+aliasesArchive:
+- /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
+- /upgrading-to-tfs-2010-beta-1-and-sql-collation
+- /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 aliasesFor404:
 - /upgrading-to-tfs-2010-beta-1-and-sql-collation
 - /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 - /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 tags:
 - Install and Configuration
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
 - Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:

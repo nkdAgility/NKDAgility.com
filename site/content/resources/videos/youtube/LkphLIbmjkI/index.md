@@ -18,6 +18,9 @@ aliases:
 - /resources/LkphLIbmjkI
 aliasesArchive:
 - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+- /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+- /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
+- /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
 aliasesFor404:
 - /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
@@ -32,10 +35,10 @@ tags:
 - Software Development
 - Agile Frameworks
 - Pragmatic Thinking
-- Software Developers
 - Mentoring
-- Continuous Learning
+- Software Developers
 - Practical Techniques and Tooling
+- Continuous Learning
 resourceTypes:
 - video
 categories:

@@ -14,6 +14,9 @@ aliases:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/
 - /resources/Kn3i3yGquon
+aliasesArchive:
+- /newsletters/newsletter-2022/
+- /resources/newsletters/newsletter-2022/
 aliasesFor404:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/

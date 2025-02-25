@@ -17,21 +17,25 @@ aliases:
 - /team-foundation-server-2013-is-production-ready
 - /resources/HxDL5HRMiX4
 - /resources/blog/team-foundation-server-2013-is-production-ready
+aliasesArchive:
+- /blog/team-foundation-server-2013-is-production-ready
+- /team-foundation-server-2013-is-production-ready
+- /resources/blog/team-foundation-server-2013-is-production-ready
 aliasesFor404:
 - /team-foundation-server-2013-is-production-ready
 - /blog/team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
-- Products and Books
 - Technical Debt
+- Products and Books
 - Software Development
 - News and Reviews
-- Agile Project Management
 - Application Lifecycle Management
+- Agile Project Management
 - Working Software
+- People and Process
 - Agile Strategy
 - Software Developers
-- Organisational Agility
 categories:
 - Engineering Excellence
 

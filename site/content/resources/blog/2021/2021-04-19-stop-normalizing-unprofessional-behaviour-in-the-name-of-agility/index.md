@@ -18,6 +18,10 @@ aliases:
 - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/mqbD3iIhRg4
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+aliasesArchive:
+- /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+- /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+- /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliasesFor404:
 - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
@@ -28,11 +32,11 @@ tags:
 - Agile Product Management
 - Agile Values and Principles
 - Team Performance
+- Agile Project Management
 - Software Development
 - Software Developers
+- Agile Transformation
 - Organisational Agility
-- Agile Frameworks
-- Agile Philosophy
 categories:
 - Scrum
 - Social Technologies

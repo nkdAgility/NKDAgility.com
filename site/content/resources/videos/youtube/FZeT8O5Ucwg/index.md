@@ -15,6 +15,8 @@ aliases:
 - /resources/FZeT8O5Ucwg
 aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
+- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 aliasesFor404:
 - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 - /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!

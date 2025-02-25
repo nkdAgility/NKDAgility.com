@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
 aliasesArchive:
 - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
+- /resources/how-to-choose-the-right-agile-coach-for-your-business-success
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
 aliasesFor404:
 - /resources/how-to-choose-the-right-agile-coach-for-your-business-success
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
@@ -27,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
-- Agile Frameworks
 - Business Agility
+- Agile Strategy
 - Agile Project Management
 - Agile Transformation
+- Agile Frameworks
+- People and Process
 - Technical Leadership
-- Software Development
+- Decision Making
+- Practical Techniques and Tooling
 - Pragmatic Thinking
-- Organisational Agility
-- Coaching
 resourceTypes:
 - video
 categories:

@@ -15,6 +15,8 @@ aliases:
 - /resources/rnyJzSwU74Q
 aliasesArchive:
 - /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
+- /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+- /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 aliasesFor404:
 - /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
@@ -23,8 +25,8 @@ duration: 866
 isShort: false
 tags:
 - Agile Project Management
-- Agile Philosophy
 - Empirical Process Control
+- Agile Philosophy
 - Software Development
 - Value Delivery
 - Market Adaptability

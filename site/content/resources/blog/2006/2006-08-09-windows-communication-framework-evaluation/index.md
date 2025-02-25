@@ -17,6 +17,10 @@ aliases:
 - /windows-communication-framework-evaluation
 - /resources/piNenAHpFYq
 - /resources/blog/windows-communication-framework-evaluation
+aliasesArchive:
+- /blog/windows-communication-framework-evaluation
+- /windows-communication-framework-evaluation
+- /resources/blog/windows-communication-framework-evaluation
 aliasesFor404:
 - /windows-communication-framework-evaluation
 - /blog/windows-communication-framework-evaluation

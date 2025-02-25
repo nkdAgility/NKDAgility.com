@@ -17,17 +17,22 @@ resourceTypes: blog
 slug: stop-hiding-behind-complexity-deliver-continuously
 aliases:
 - /resources/7hEAycZIn8w
+aliasesArchive:
+- /stop-hiding-behind-complexity-deliver-continuously
+- /blog/stop-hiding-behind-complexity-deliver-continuously
+- /stop-hiding-behind-complexity-and-start-delivering-continuously
+- /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 aliasesFor404:
 - /stop-hiding-behind-complexity-deliver-continuously
 - /blog/stop-hiding-behind-complexity-deliver-continuously
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
-- Continuous Delivery
+- Frequent Releases
 - Software Development
 - Product Delivery
+- Continuous Delivery
 - Value Delivery
-- Frequent Releases
 categories:
 - DevOps
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg

@@ -19,6 +19,12 @@ aliases:
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /resources/7gr-fTIcGUp
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+aliasesArchive:
+- /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+- /its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+- /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+- /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+- /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliasesFor404:
 - /its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
-- Install and Configuration
 - Release Management
+- Install and Configuration
 - News and Reviews
 - System Configuration
 - Software Development

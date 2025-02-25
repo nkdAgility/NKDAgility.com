@@ -10,6 +10,9 @@ aliases:
 - /practices/Accountabilities-for-the-Scrum-Team.html
 - /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
 - /resources/D4IlRdnMoRB
+aliasesArchive:
+- /practices/Accountabilities-for-the-Scrum-Team.html
+- /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
 aliasesFor404:
 - /practices/Accountabilities-for-the-Scrum-Team.html
 - /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
@@ -26,8 +29,8 @@ categories:
 - Social Technologies
 tags:
 - Scrum Team
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 
 ---
 While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.

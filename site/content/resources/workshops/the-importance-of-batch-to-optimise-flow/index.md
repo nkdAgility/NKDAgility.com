@@ -11,6 +11,10 @@ aliases:
 - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
 - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
 - /resources/kwS9oPiz-Ny
+aliasesArchive:
+- workshops/The-Importance-of-Batch-to-Optimise-Flow.html
+- /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
+- /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
 aliasesFor404:
 - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
 - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
@@ -26,14 +30,14 @@ categories:
 - Social Technologies
 tags:
 - People and Process
-- Scrum Product Development
 - Flow Efficiency
-- Value Delivery
 - Events and Presentations
 - Practical Techniques and Tooling
+- Value Delivery
+- Scrum Product Development
 - Team Performance
-- Agile Project Management
 - Throughput
+- Lean Principles
 - Product Delivery
 
 ---

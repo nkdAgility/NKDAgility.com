@@ -18,6 +18,9 @@ aliases:
 - /resources/c0ncdBixyfo
 aliasesArchive:
 - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
+- /resources/what-is-the-one-thing-that-no-agile-team-can-survive
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
+- /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
 aliasesFor404:
 - /resources/what-is-the-one-thing-that-no-agile-team-can-survive
 - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-

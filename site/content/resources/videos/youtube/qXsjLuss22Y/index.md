@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/what-is-a-sprint-goal
 aliasesArchive:
 - /resources/videos/what-is-a-sprint-goal
+- /resources/what-is-a-sprint-goal
+- /resources/what-is-a-product-goal
+- /resources/videos/what-is-a-product-goal-
+- /resources/what-is-a-product-goal-
 aliasesFor404:
 - /resources/what-is-a-sprint-goal
 - /resources/what-is-a-product-goal
@@ -30,8 +34,8 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Strategy
 - Agile Project Management
+- Strategy
 resourceTypes:
 - video
 categories:

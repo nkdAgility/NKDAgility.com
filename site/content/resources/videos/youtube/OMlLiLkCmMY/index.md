@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
 aliasesArchive:
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
+- /resources/videos/-shorts-7-virtues-of-agile-chastity
+- /resources/-shorts-7-virtues-of-agile-chastity
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity
@@ -26,8 +28,8 @@ tags:
 - People and Process
 - Change Management
 - Organisational Psychology
-- Employee Engagement
 - Team Motivation
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

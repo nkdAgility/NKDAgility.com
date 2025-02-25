@@ -15,6 +15,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/unlock-rewards-join-our-exciting-referral-program-for-collaborative-learning
 - /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
+- /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
 aliasesFor404:
 - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
@@ -24,14 +26,14 @@ isShort: false
 tags:
 - People and Process
 - Discovery and Learning
-- Team Collaboration
-- Employee Engagement
-- Continuous Learning
-- Software Development
-- Miscellaneous
-- Agile Project Management
-- Customer Retention
 - Team Motivation
+- Employee Engagement
+- Agile Project Management
+- Miscellaneous
+- Customer Retention
+- Software Development
+- Team Collaboration
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

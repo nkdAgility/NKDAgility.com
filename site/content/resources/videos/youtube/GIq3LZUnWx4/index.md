@@ -18,6 +18,9 @@ aliases:
 - /resources/GIq3LZUnWx4
 aliasesArchive:
 - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
+- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
 aliasesFor404:
 - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-

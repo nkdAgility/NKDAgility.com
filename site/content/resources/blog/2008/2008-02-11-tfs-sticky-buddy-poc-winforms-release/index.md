@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/FSoIFwapvMt
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
+aliasesArchive:
+- /blog/tfs-sticky-buddy-poc-winforms-release
+- /tfs-sticky-buddy-poc-winforms-release
+- /tfs-sticky-buddy-poc-(winforms)-release
+- /blog/tfs-sticky-buddy-poc-(winforms)-release
+- /resources/blog/tfs-sticky-buddy-poc-winforms-release
 aliasesFor404:
 - /tfs-sticky-buddy-poc-winforms-release
 - /blog/tfs-sticky-buddy-poc-winforms-release
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
 tags:
-- Install and Configuration
 - Release Management
+- Install and Configuration
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

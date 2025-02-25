@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 aliasesArchive:
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
+- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+- /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 aliasesFor404:
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
@@ -25,9 +27,9 @@ tags:
 - Metrics and Learning
 - Operational Practices
 - Transparency
+- Practical Techniques and Tooling
 - Continuous Learning
 - Discovery and Learning
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

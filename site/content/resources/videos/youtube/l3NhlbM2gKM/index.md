@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2-
+- /resources/scrum-is-like-communism-it-doesnt-work-myth-2
+- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-2
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-2
 aliasesFor404:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-2
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-2
@@ -29,10 +32,10 @@ sitemap:
 tags:
 - Backlog Refinement
 - People and Process
-- Software Development
 - Estimation
-- Agile Frameworks
 - Agile Project Management
+- Software Development
+- Agile Frameworks
 - Software Developers
 - Pragmatic Thinking
 resourceTypes:

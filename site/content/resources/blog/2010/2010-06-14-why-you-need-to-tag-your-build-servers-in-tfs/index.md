@@ -17,21 +17,25 @@ aliases:
 - /why-you-need-to-tag-your-build-servers-in-tfs
 - /resources/TCVlqzWwtNc
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
+aliasesArchive:
+- /blog/why-you-need-to-tag-your-build-servers-in-tfs
+- /why-you-need-to-tag-your-build-servers-in-tfs
+- /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 aliasesFor404:
 - /why-you-need-to-tag-your-build-servers-in-tfs
 - /blog/why-you-need-to-tag-your-build-servers-in-tfs
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
-- Software Developers
 - Install and Configuration
-- Software Development
+- Software Developers
 - Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
-- Azure Pipelines
+- Software Development
 - Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
+- Continuous Integration
+- Technical Excellence
+- System Configuration
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - DevOps

@@ -14,6 +14,8 @@ aliases:
 - /resources/L9KsDJ2Rebo
 aliasesArchive:
 - /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
+- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+- /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 aliasesFor404:
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-

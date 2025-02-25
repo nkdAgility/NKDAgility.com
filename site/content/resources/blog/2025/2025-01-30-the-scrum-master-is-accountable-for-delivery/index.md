@@ -23,6 +23,9 @@ aliases:
 - /resources/yMnia2DLI6q
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
+aliasesArchive:
+- /the-scrum-master-is-accountable-for-delivery
+- /blog/the-scrum-master-is-accountable-for-delivery
 aliasesFor404:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
@@ -31,9 +34,9 @@ tags:
 - Scrum Team
 - Scrum Product Development
 - Scrum Master
+- Product Delivery
 - Increment
 - Software Development
-- Product Delivery
 - Professional Scrum
 - Agile Project Management
 - Agile Frameworks

@@ -19,6 +19,12 @@ aliases:
 - /blog/working-from-a-mobile-again-
 - /resources/xI-FYcMl1lT
 - /resources/blog/working-from-a-mobile-again
+aliasesArchive:
+- /blog/working-from-a-mobile-again
+- /working-from-a-mobile-again
+- /working-from-a-mobile-again-
+- /blog/working-from-a-mobile-again-
+- /resources/blog/working-from-a-mobile-again
 aliasesFor404:
 - /working-from-a-mobile-again
 - /blog/working-from-a-mobile-again

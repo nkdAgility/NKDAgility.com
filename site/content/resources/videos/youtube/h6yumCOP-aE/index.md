@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
 - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
+- /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
+- /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 aliasesFor404:
 - /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
@@ -28,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Team Collaboration
 - Team Performance
+- Team Collaboration
 - Working Agreements
-- Pragmatic Thinking
 - Agile Project Management
+- Pragmatic Thinking
 - Strategy
 - Team Motivation
+- Operational Practices
 - Accountability
-- Software Development
 resourceTypes:
 - video
 categories:

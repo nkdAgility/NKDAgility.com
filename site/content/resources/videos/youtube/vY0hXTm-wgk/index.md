@@ -15,6 +15,7 @@ aliases:
 - /resources/vY0hXTm-wgk
 aliasesArchive:
 - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+- /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 aliasesFor404:
 - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 - /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
@@ -22,8 +23,8 @@ preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: false
 tags:
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - Continuous Learning
 - Coaching
 - Discovery and Learning

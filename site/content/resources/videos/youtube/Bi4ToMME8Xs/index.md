@@ -16,6 +16,7 @@ aliases:
 - /resources/videos/advanced-psm-ii-immersive-learning-classes
 aliasesArchive:
 - /resources/videos/advanced-psm-ii-immersive-learning-classes
+- /resources/advanced-psm-ii-immersive-learning-classes
 aliasesFor404:
 - /resources/videos/advanced-psm-ii-immersive-learning-classes
 - /resources/advanced-psm-ii-immersive-learning-classes
@@ -27,12 +28,12 @@ tags:
 - Scrum Master
 - Discovery and Learning
 - Continuous Learning
-- Products and Books
 - Team Performance
-- Software Development
+- Products and Books
+- Agile Product Management
 - Events and Presentations
-- Pragmatic Thinking
-- Coaching
+- Agile Project Management
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -17,6 +17,10 @@ aliases:
 - /log-elmah-errors-in-team-foundation-server
 - /resources/FGTZV3eWHR9
 - /resources/blog/log-elmah-errors-in-team-foundation-server
+aliasesArchive:
+- /blog/log-elmah-errors-in-team-foundation-server
+- /log-elmah-errors-in-team-foundation-server
+- /resources/blog/log-elmah-errors-in-team-foundation-server
 aliasesFor404:
 - /log-elmah-errors-in-team-foundation-server
 - /blog/log-elmah-errors-in-team-foundation-server

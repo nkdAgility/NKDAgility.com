@@ -17,6 +17,10 @@ aliases:
 - /move-your-active-directory-domain-to-another-server
 - /resources/koQQ-rllpsw
 - /resources/blog/move-your-active-directory-domain-to-another-server
+aliasesArchive:
+- /blog/move-your-active-directory-domain-to-another-server
+- /move-your-active-directory-domain-to-another-server
+- /resources/blog/move-your-active-directory-domain-to-another-server
 aliasesFor404:
 - /move-your-active-directory-domain-to-another-server
 - /blog/move-your-active-directory-domain-to-another-server
@@ -24,8 +28,8 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: metro-server-instances_thumb-2-2.png
 

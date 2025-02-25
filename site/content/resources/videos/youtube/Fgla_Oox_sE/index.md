@@ -18,6 +18,9 @@ aliases:
 - /resources/Fgla_Oox_sE
 aliasesArchive:
 - /resources/videos/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
+- /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
+- /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 aliasesFor404:
 - /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
@@ -30,8 +33,8 @@ tags:
 - Product Owner
 - Agile Product Management
 - Scrum Product Development
-- Value Delivery
 - Product Strategy
+- Value Delivery
 - Agile Strategy
 - Agile Project Management
 resourceTypes:

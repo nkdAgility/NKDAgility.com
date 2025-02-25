@@ -18,6 +18,11 @@ aliases:
 - /resources/PIoyu9N2QaM
 aliasesArchive:
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- /resources/transform-your-software-team-with-expert-product-development-mentoring
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 aliasesFor404:
 - /resources/transform-your-software-team-with-expert-product-development-mentoring
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
@@ -28,12 +33,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Scrum Master
 - Scrum Team
-- Agile Frameworks
+- Professional Scrum
 - People and Process
 - Agile Project Management
+- Agile Frameworks
 - Software Development
 - Accountability
 resourceTypes:

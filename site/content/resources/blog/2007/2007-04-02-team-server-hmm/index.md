@@ -19,6 +19,12 @@ aliases:
 - /blog/team-server-hmm-
 - /resources/_HIn465Bu9n
 - /resources/blog/team-server-hmm
+aliasesArchive:
+- /blog/team-server-hmm
+- /team-server-hmm
+- /team-server-hmm-
+- /blog/team-server-hmm-
+- /resources/blog/team-server-hmm
 aliasesFor404:
 - /team-server-hmm
 - /blog/team-server-hmm
@@ -28,14 +34,14 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - Products and Books
-- Software Development
-- Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Windows
-- System Configuration
+- Install and Configuration
+- Software Development
 - Troubleshooting
 - Miscellaneous
+- Windows
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

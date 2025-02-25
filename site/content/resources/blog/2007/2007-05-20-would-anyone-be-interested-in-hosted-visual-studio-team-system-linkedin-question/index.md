@@ -19,6 +19,12 @@ aliases:
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /resources/aGh8Dn3evEi
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+aliasesArchive:
+- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+- /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+- /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
+- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
+- /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliasesFor404:
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
@@ -28,14 +34,14 @@ aliasesFor404:
 tags:
 - Modern Source Control
 - Products and Books
+- Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Practical Techniques and Tooling
 - News and Reviews
-- Software Developers
-- Collaboration Tools
-- Azure DevOps
+- Application Lifecycle Management
 - Technical Mastery
+- Working Software
+- Collaboration Tools
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - DevOps

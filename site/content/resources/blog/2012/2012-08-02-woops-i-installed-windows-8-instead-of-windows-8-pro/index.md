@@ -19,6 +19,12 @@ aliases:
 - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
 - /resources/smxSz0q9Dlk
 - /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
+aliasesArchive:
+- /blog/woops-i-installed-windows-8-instead-of-windows-8-pro
+- /woops-i-installed-windows-8-instead-of-windows-8-pro
+- /woops-i-installed-windows-8-instead-of-windows-8-pro-
+- /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
+- /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
 aliasesFor404:
 - /woops-i-installed-windows-8-instead-of-windows-8-pro
 - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
 - /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - System Configuration
 preview: nakedalm-windows-logo-7-7.png

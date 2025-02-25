@@ -18,6 +18,8 @@ aliases:
 - /resources/gjrvSJWE0Gk
 aliasesArchive:
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
+- /resources/overview-of-applying-metrics-for-predictability-kanban-course
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 aliasesFor404:
 - /resources/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
@@ -27,12 +29,12 @@ sitemap:
 tags:
 - Metrics and Learning
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Operational Practices
+- Pragmatic Thinking
 - Forecasting
 - Value Delivery
-- Estimation
 - Decision Making
+- Estimation
 resourceTypes:
 - video
 categories:

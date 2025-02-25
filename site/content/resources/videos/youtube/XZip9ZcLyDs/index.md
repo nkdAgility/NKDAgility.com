@@ -18,6 +18,9 @@ aliases:
 - /resources/XZip9ZcLyDs
 aliasesArchive:
 - /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option
+- /resources/why-is-becoming-a-scrum-master-a-great-career-option
+- /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
+- /resources/why-is-becoming-a-scrum-master-a-great-career-option-
 aliasesFor404:
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option
 - /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
@@ -27,9 +30,9 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Agile Frameworks
 - People and Process
 - Agile Project Management
+- Agile Frameworks
 - Agile Leadership
 - Scrum Team
 resourceTypes:

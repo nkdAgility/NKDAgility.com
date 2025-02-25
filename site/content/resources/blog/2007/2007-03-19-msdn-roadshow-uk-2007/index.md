@@ -17,6 +17,10 @@ aliases:
 - /msdn-roadshow-uk-2007
 - /resources/gm2PHIhIPbi
 - /resources/blog/msdn-roadshow-uk-2007
+aliasesArchive:
+- /blog/msdn-roadshow-uk-2007
+- /msdn-roadshow-uk-2007
+- /resources/blog/msdn-roadshow-uk-2007
 aliasesFor404:
 - /msdn-roadshow-uk-2007
 - /blog/msdn-roadshow-uk-2007

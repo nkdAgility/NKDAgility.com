@@ -19,6 +19,12 @@ aliases:
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum-
 - /resources/iHdkPl8gwwm
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
+aliasesArchive:
+- /blog/do-you-know-when-to-send-a-done-email-in-scrum
+- /do-you-know-when-to-send-a-done-email-in-scrum
+- /do-you-know-when-to-send-a-done-email-in-scrum-
+- /blog/do-you-know-when-to-send-a-done-email-in-scrum-
+- /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 aliasesFor404:
 - /do-you-know-when-to-send-a-done-email-in-scrum
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum
@@ -27,15 +33,15 @@ aliasesFor404:
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags:
 - Scrum Team
-- Team Collaboration
-- Scrum Product Development
-- Professional Scrum
-- Team Performance
 - People and Process
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
+- Team Performance
+- Scrum Product Development
+- Team Collaboration
+- Professional Scrum
 - Agile Product Management
+- Agile Project Management
+- Pragmatic Thinking
+- Software Development
 categories:
 - Scrum
 - Social Technologies

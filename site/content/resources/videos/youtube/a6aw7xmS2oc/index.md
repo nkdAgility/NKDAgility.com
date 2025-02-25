@@ -14,6 +14,8 @@ aliases:
 - /resources/a6aw7xmS2oc
 aliasesArchive:
 - /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
+- /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+- /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 aliasesFor404:
 - /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 - /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
@@ -21,16 +23,16 @@ preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- Ability to Innovate
 - People and Process
 - Product Owner
-- Value Delivery
+- Ability to Innovate
 - Decision Making
-- Product Delivery
 - Evidence Based Management
-- Agile Product Management
 - Evidence Based Leadership
-- Scrum Product Development
+- Agile Product Operating Model
+- Product Delivery
+- Metrics and Learning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

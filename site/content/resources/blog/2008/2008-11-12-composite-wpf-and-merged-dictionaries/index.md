@@ -17,13 +17,17 @@ aliases:
 - /composite-wpf-and-merged-dictionaries
 - /resources/rVJ3HWMCFYD
 - /resources/blog/composite-wpf-and-merged-dictionaries
+aliasesArchive:
+- /blog/composite-wpf-and-merged-dictionaries
+- /composite-wpf-and-merged-dictionaries
+- /resources/blog/composite-wpf-and-merged-dictionaries
 aliasesFor404:
 - /composite-wpf-and-merged-dictionaries
 - /blog/composite-wpf-and-merged-dictionaries
 - /resources/blog/composite-wpf-and-merged-dictionaries
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Troubleshooting
 categories: []
 preview: metro-binary-vb-128-link-2-2.png

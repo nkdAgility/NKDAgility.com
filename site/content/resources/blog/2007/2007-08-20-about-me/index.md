@@ -17,6 +17,10 @@ aliases:
 - /about-me
 - /resources/sLyEoCihMuc
 - /resources/blog/about-me
+aliasesArchive:
+- /blog/about-me
+- /about-me
+- /resources/blog/about-me
 aliasesFor404:
 - /about-me
 - /blog/about-me

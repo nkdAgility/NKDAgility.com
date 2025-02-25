@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-silence
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
+- /resources/7-harbingers-of-the-agile-apocalypse-silence
+- /resources/videos/silence!-7-harbingers-agile-apocalypse-
+- /resources/silence!-7-harbingers-agile-apocalypse-
 aliasesFor404:
 - /resources/7-harbingers-of-the-agile-apocalypse-silence
 - /resources/videos/silence!-7-harbingers-agile-apocalypse-
@@ -27,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
+- People and Process
 - Decision Making
 - Agile Product Management
-- People and Process
 - Sprint Review
+- Product Owner
+- Employee Engagement
 - Organisational Culture
-- Team Performance
-- Scrum Product Development
+- Agile Project Management
 - Team Motivation
-- Agile Planning
+- Team Performance
 resourceTypes:
 - video
 categories:

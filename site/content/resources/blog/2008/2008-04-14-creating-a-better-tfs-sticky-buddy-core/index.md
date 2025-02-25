@@ -19,6 +19,12 @@ aliases:
 - /blog/creating-a-better-tfs-sticky-buddy-(core)
 - /resources/NNnyeihSpHg
 - /resources/blog/creating-a-better-tfs-sticky-buddy-core
+aliasesArchive:
+- /blog/creating-a-better-tfs-sticky-buddy-core
+- /creating-a-better-tfs-sticky-buddy-core
+- /creating-a-better-tfs-sticky-buddy-(core)
+- /blog/creating-a-better-tfs-sticky-buddy-(core)
+- /resources/blog/creating-a-better-tfs-sticky-buddy-core
 aliasesFor404:
 - /creating-a-better-tfs-sticky-buddy-core
 - /blog/creating-a-better-tfs-sticky-buddy-core
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/creating-a-better-tfs-sticky-buddy-(core)
 - /resources/blog/creating-a-better-tfs-sticky-buddy-core
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Technical Excellence
 categories:
 - Engineering Excellence

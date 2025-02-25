@@ -17,17 +17,21 @@ aliases:
 - /enable-feedback-support-for-users-in-team-foundation-server-2012
 - /resources/7WxWYWI5PI2
 - /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
+aliasesArchive:
+- /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
+- /enable-feedback-support-for-users-in-team-foundation-server-2012
+- /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 aliasesFor404:
 - /enable-feedback-support-for-users-in-team-foundation-server-2012
 - /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 - /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
+- Install and Configuration
 - Software Development
-- Azure DevOps
 - System Configuration
+- Azure DevOps
 categories: []
 
 ---

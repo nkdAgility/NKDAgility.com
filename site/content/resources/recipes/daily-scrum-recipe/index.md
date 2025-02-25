@@ -12,6 +12,9 @@ aliases:
 - /recipes/Daily-Scrum-Recipe.html
 - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
 - /resources/M4qDhvrXwp-
+aliasesArchive:
+- /recipes/Daily-Scrum-Recipe.html
+- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
 aliasesFor404:
 - /recipes/Daily-Scrum-Recipe.html
 - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
@@ -44,8 +47,8 @@ categories:
 tags:
 - Scrum Product Development
 - Daily Scrum
-- Professional Scrum
 - Software Development
+- Professional Scrum
 - Agile Project Management
 
 ---

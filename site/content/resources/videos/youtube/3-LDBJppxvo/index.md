@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/the-importance-of-delivering-working-software-every-iteration
 aliasesArchive:
 - /resources/videos/the-importance-of-delivering-working-software-every-iteration
+- /resources/the-importance-of-delivering-working-software-every-iteration
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 aliasesFor404:
 - /resources/the-importance-of-delivering-working-software-every-iteration
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Customer Feedback Loops
-- Working Software
-- Agile Values and Principles
 - Agile Product Management
-- Agile Transformation
-- Software Development
-- Product Validation
+- Agile Values and Principles
+- Working Software
 - Software Developers
-- Product Delivery
-- Discovery and Learning
+- Value Delivery
+- Agile Philosophy
+- Scrum Product Development
+- Product Validation
+- Agile Project Management
 resourceTypes:
 - video
 layout: video

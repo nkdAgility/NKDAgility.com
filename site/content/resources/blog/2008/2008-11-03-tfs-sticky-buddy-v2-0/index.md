@@ -17,6 +17,10 @@ aliases:
 - /tfs-sticky-buddy-v2-0
 - /resources/fxUFeDoOsrZ
 - /resources/blog/tfs-sticky-buddy-v2-0
+aliasesArchive:
+- /blog/tfs-sticky-buddy-v2-0
+- /tfs-sticky-buddy-v2-0
+- /resources/blog/tfs-sticky-buddy-v2-0
 aliasesFor404:
 - /tfs-sticky-buddy-v2-0
 - /blog/tfs-sticky-buddy-v2-0
@@ -24,10 +28,10 @@ aliasesFor404:
 tags:
 - Code and Complexity
 - Working Software
+- Application Lifecycle Management
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
-- Application Lifecycle Management
 preview: nakedalm-logo-128-link-2-1.png
 categories: []
 

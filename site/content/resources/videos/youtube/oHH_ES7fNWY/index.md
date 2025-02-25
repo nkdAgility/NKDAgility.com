@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/sending-email-from-office-for-tfs-
 - /resources/videos/sending-email-from-office-365-for-tfs-2013
+- /resources/sending-email-from-office-365-for-tfs-2013
 aliasesFor404:
 - /resources/videos/sending-email-from-office-365-for-tfs-2013
 - /resources/sending-email-from-office-365-for-tfs-2013

@@ -19,6 +19,12 @@ aliases:
 - /resources/QJ6lF5ONMCD
 - /my-first-extension-method
 - /resources/blog/my-first-extension-method
+aliasesArchive:
+- /blog/my-first-extension-method
+- /my-first-extension-method---
+- /blog/my-first-extension-method---
+- /my-first-extension-method
+- /resources/blog/my-first-extension-method
 aliasesFor404:
 - /my-first-extension-method
 - /blog/my-first-extension-method
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/my-first-extension-method---
 - /resources/blog/my-first-extension-method
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

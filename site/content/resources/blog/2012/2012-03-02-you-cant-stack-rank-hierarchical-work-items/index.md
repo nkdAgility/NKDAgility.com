@@ -19,6 +19,12 @@ aliases:
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/u9Eh1rXDhGE
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
+aliasesArchive:
+- /blog/you-cant-stack-rank-hierarchical-work-items
+- /you-cant-stack-rank-hierarchical-work-items
+- /you-can't-stack-rank-hierarchical-work-items-
+- /blog/you-can't-stack-rank-hierarchical-work-items-
+- /resources/blog/you-cant-stack-rank-hierarchical-work-items
 aliasesFor404:
 - /you-cant-stack-rank-hierarchical-work-items
 - /blog/you-cant-stack-rank-hierarchical-work-items
@@ -29,13 +35,13 @@ tags:
 - Scrum Product Development
 - Software Development
 - Product Backlog
-- Professional Scrum
-- Software Developers
 - Agile Product Management
 - Practical Techniques and Tooling
-- Azure Boards
-- Azure DevOps
+- Software Developers
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
+- Azure Boards
 categories:
 - Social Technologies
 - Scrum

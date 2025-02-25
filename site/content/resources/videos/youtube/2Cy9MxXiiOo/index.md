@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/what-is-a-sprint-goal
 aliasesArchive:
 - /resources/videos/what-is-a-sprint-goal
+- /resources/what-is-a-sprint-goal-2
+- /resources/videos/what-is-a-sprint-goal-
+- /resources/what-is-a-sprint-goal-
 aliasesFor404:
 - /resources/what-is-a-sprint-goal-2
 - /resources/videos/what-is-a-sprint-goal-

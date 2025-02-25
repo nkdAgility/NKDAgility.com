@@ -15,6 +15,8 @@ aliases:
 - /resources/kXhJrisYofU
 aliasesArchive:
 - /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+- /resources/videos/agile-budgeting-for-predictable-costs
+- /resources/agile-budgeting-for-predictable-costs
 aliasesFor404:
 - /resources/videos/agile-budgeting-for-predictable-costs
 - /resources/agile-budgeting-for-predictable-costs
@@ -23,15 +25,15 @@ duration: 496
 isShort: false
 tags:
 - Agile Product Operating Model
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
 - People and Process
+- Change Management
 - Agile Values and Principles
 - Resilience and Change
-- Change Management
-- Agile Planning
-- Portfolio Management
+- Agile Strategy
 - Business Agility
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

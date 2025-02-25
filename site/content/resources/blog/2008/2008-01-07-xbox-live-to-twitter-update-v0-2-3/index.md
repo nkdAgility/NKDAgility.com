@@ -19,6 +19,14 @@ aliases:
 - /blog/xbox-live-to-twitter-update-(v0-2-3)
 - /resources/4kh61B4o7T1
 - /resources/blog/xbox-live-to-twitter-update-v0-2-3
+aliasesArchive:
+- /blog/xbox-live-to-twitter-update-v0-2-3
+- /xbox-live-to-twitter-update-v0-2-3
+- /xbox-live-to-twitter-update-(v0-2-3)
+- /blog/xbox-live-to-twitter-update-(v0-2-3)
+- /resources/blog/xbox-live-to-twitter-update-v0-2-3
+- /xbox--live-to-twitter-update-(v0-2-3)
+- /blog/xbox--live-to-twitter-update-(v0-2-3)
 aliasesFor404:
 - /xbox-live-to-twitter-update-v0-2-3
 - /blog/xbox-live-to-twitter-update-v0-2-3
@@ -29,10 +37,10 @@ aliasesFor404:
 - /resources/blog/xbox-live-to-twitter-update-v0-2-3
 tags:
 - Discovery and Learning
-- Software Development
 - Technical Mastery
-- Working Software
 - Frequent Releases
+- Working Software
+- Software Development
 categories: []
 preview: metro-xbox-360-link-1-1.png
 

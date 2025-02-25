@@ -18,6 +18,9 @@ aliases:
 - /resources/QQA9coiM4fk
 aliasesArchive:
 - /resources/videos/devops-consulting-overview
+- /resources/devops-consulting-overview
+- /resources/videos/devops-consulting-overview-
+- /resources/devops-consulting-overview-
 aliasesFor404:
 - /resources/devops-consulting-overview
 - /resources/videos/devops-consulting-overview-
@@ -28,8 +31,8 @@ sitemap:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Azure DevOps
 - People and Process
+- Azure DevOps
 - Pragmatic Thinking
 resourceTypes:
 - video

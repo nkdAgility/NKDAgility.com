@@ -13,6 +13,9 @@ aliases:
 - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 - /resources/6h1D_YPjPuU
+aliasesArchive:
+- /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+- /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 aliasesFor404:
 - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
@@ -23,10 +26,10 @@ tags:
 - People and Process
 - Events and Presentations
 - Continuous Learning
-- Software Development
-- Agile Frameworks
 - Agile Project Management
+- Software Development
 - Agile Transformation
+- Agile Frameworks
 
 ---
 The world is spinning faster than ever, with more players than ever.

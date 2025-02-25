@@ -19,6 +19,7 @@ aliases:
 - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
 aliasesArchive:
 - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
+- /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
 aliasesFor404:
 - /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
 - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
@@ -26,12 +27,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Working Software
 - Software Development
 - Software Developers
-- Working Software
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
-- Agile Project Management
 - People and Process
 - Value Delivery
 resourceTypes:

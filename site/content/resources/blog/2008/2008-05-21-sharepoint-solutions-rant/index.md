@@ -17,6 +17,10 @@ aliases:
 - /sharepoint-solutions-rant
 - /resources/z6JKvHvhWuI
 - /resources/blog/sharepoint-solutions-rant
+aliasesArchive:
+- /blog/sharepoint-solutions-rant
+- /sharepoint-solutions-rant
+- /resources/blog/sharepoint-solutions-rant
 aliasesFor404:
 - /sharepoint-solutions-rant
 - /blog/sharepoint-solutions-rant

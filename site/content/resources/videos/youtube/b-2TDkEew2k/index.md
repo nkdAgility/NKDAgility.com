@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 aliasesArchive:
 - /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
+- /resources/videos/-shorts-7-virtues-of-agile-temperance
+- /resources/-shorts-7-virtues-of-agile-temperance
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-temperance
 - /resources/-shorts-7-virtues-of-agile-temperance
@@ -24,13 +26,13 @@ isShort: true
 tags:
 - Agile Values and Principles
 - Agile Planning
-- Agile Frameworks
 - Agile Product Management
-- Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Software Development
+- Agile Frameworks
+- Agile Philosophy
 - Pragmatic Thinking
+- Software Development
 - Organisational Agility
 sitemap:
   filename: sitemap.xml

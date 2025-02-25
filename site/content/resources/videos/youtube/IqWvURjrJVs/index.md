@@ -15,6 +15,8 @@ aliases:
 - /resources/IqWvURjrJVs
 aliasesArchive:
 - /resources/videos/znaczenie-znajomoci-terenu
+- /resources/videos/znaczenie-znajomości-terenu
+- /resources/znaczenie-znajomości-terenu
 aliasesFor404:
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu
@@ -26,11 +28,11 @@ tags:
 - People and Process
 - Business Agility
 - Organisational Agility
-- Agile Strategy
-- Scrum Product Development
-- Professional Scrum
 - Team Performance
-- Software Development
+- Scrum Product Development
+- Market Adaptability
+- Agile Product Management
+- Agile Strategy
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

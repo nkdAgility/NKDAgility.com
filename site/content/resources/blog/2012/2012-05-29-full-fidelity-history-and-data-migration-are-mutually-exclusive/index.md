@@ -17,18 +17,22 @@ aliases:
 - /full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/V6qWqBrh4kv
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
+aliasesArchive:
+- /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
+- /full-fidelity-history-and-data-migration-are-mutually-exclusive
+- /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 aliasesFor404:
 - /full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
 - Application Lifecycle Management
-- Software Development
 - Practical Techniques and Tooling
-- Azure DevOps
-- Pragmatic Thinking
-- Technical Mastery
+- Software Development
 - Decision Making
+- Technical Mastery
+- Pragmatic Thinking
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

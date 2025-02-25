@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-famine
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-famine
+- /resources/7-harbingers-of-the-agile-apocalypse-famine
+- /resources/videos/famine!-7-harbingers-agile-apocalypse
+- /resources/famine!-7-harbingers-agile-apocalypse
 aliasesFor404:
 - /resources/7-harbingers-of-the-agile-apocalypse-famine
 - /resources/videos/famine!-7-harbingers-agile-apocalypse
@@ -32,11 +35,11 @@ tags:
 - Agile Philosophy
 - Decision Making
 - Transparency and Accountability
-- Organisational Change
 - Sociotechnical Systems
-- Beta Codex
 - Organisational Agility
+- Beta Codex
 - Pragmatic Thinking
+- Organisational Physics
 resourceTypes:
 - video
 categories:

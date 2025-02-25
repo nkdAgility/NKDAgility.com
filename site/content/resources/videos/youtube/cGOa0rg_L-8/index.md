@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/is-your-project-ecosystem-truly-agile
 aliasesArchive:
 - /resources/videos/is-your-project-ecosystem-truly-agile
+- /resources/is-your-project-ecosystem-truly-agile
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 aliasesFor404:
 - /resources/is-your-project-ecosystem-truly-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
@@ -30,19 +33,19 @@ tags:
 - Value Delivery
 - Organisational Agility
 - Agile Philosophy
-- Software Development
-- Pragmatic Thinking
 - Business Agility
 - Market Adaptability
-- Product Delivery
 - Operational Practices
 - Deployment Frequency
+- Pragmatic Thinking
+- Software Development
+- Product Delivery
 resourceTypes:
 - video
 categories:
-- Product Management
-- Social Technologies
 - DevOps
+- Product Management
+- Engineering Excellence
 
 ---
 In today’s fast-paced world, organizations are embracing Agile practices to remain competitive and deliver value to their customers. But here’s the catch—having Agile programming teams is only part of the equation. If these Agile teams are followed by linear, bureaucratic deployment processes, then the ecosystem is far from truly Agile. This gap can lead to delays, inefficiencies, and ultimately, a failure to deliver the value that your stakeholders expect. So, how can we ensure that our entire project ecosystem is genuinely Agile from end to end?

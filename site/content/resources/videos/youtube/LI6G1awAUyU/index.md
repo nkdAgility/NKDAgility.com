@@ -15,6 +15,8 @@ aliases:
 - /resources/LI6G1awAUyU
 aliasesArchive:
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
+- /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
+- /resources/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 aliasesFor404:
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 - /resources/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-

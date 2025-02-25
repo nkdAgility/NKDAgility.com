@@ -17,6 +17,10 @@ aliases:
 - /resources/4fHBoSvTrrM
 aliasesArchive:
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
+- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 aliasesFor404:
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
@@ -26,15 +30,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Scrum Master
 - People and Process
+- Scrum Master
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
-- Agile Project Management
 - Personal
-- Scrum Team
 - Practical Techniques and Tooling
+- Scrum Team
 - Team Performance
 resourceTypes:
 - video

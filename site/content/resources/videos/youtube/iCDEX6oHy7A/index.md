@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 aliasesFor404:
 - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities

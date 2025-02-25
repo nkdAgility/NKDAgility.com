@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/installing-tfs-standard
 - /resources/videos/installing-tfs-2013-standard
+- /resources/installing-tfs-2013-standard
 aliasesFor404:
 - /resources/videos/installing-tfs-2013-standard
 - /resources/installing-tfs-2013-standard

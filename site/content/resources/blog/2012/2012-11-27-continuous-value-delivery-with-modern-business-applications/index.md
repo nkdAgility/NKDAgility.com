@@ -17,25 +17,29 @@ aliases:
 - /continuous-value-delivery-with-modern-business-applications
 - /resources/Bqw3QI4cP_9
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
+aliasesArchive:
+- /blog/continuous-value-delivery-with-modern-business-applications
+- /continuous-value-delivery-with-modern-business-applications
+- /resources/blog/continuous-value-delivery-with-modern-business-applications
 aliasesFor404:
 - /continuous-value-delivery-with-modern-business-applications
 - /blog/continuous-value-delivery-with-modern-business-applications
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
-- Continuous Delivery
-- Working Software
 - Value Delivery
 - Software Developers
-- Deployment Frequency
+- Working Software
+- Continuous Delivery
+- Deployment Strategies
+- Product Delivery
+- News and Reviews
+- Technical Excellence
 - Business Agility
 - Operational Practices
-- Product Delivery
-- Technical Excellence
-- Deployment Strategies
 categories:
-- Social Technologies
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

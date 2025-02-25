@@ -14,6 +14,8 @@ aliases:
 - /resources/RSPw8pZ9NT8
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 aliasesFor404:
 - /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
@@ -24,13 +26,13 @@ tags:
 - Throughput
 - Forecasting
 - Strategy
-- Value Delivery
 - Metrics and Learning
 - Cycle Time
-- Pragmatic Thinking
+- Value Delivery
 - Flow Efficiency
-- Practical Techniques and Tooling
+- Pragmatic Thinking
 - Software Development
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

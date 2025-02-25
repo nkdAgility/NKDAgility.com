@@ -18,6 +18,9 @@ aliases:
 - /resources/bpBhREVX85o
 aliasesArchive:
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
+- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 aliasesFor404:
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
@@ -28,9 +31,9 @@ sitemap:
 tags:
 - People and Process
 - Software Development
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
-- Agile Project Management
 - Value Delivery
 - Decision Making
 - Agile Strategy

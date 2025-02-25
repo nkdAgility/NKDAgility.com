@@ -17,20 +17,24 @@ aliases:
 - /the-new-normal-of-the-modern-application-lifecycle
 - /resources/4xvg8avKMPA
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
+aliasesArchive:
+- /blog/the-new-normal-of-the-modern-application-lifecycle
+- /the-new-normal-of-the-modern-application-lifecycle
+- /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 aliasesFor404:
 - /the-new-normal-of-the-modern-application-lifecycle
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
-- Application Lifecycle Management
 - People and Process
-- Business Agility
-- Software Development
+- Application Lifecycle Management
 - Software Developers
+- Software Development
+- Business Agility
+- News and Reviews
+- Organisational Agility
 - Market Adaptability
 - Events and Presentations
-- Organisational Agility
-- News and Reviews
 - Digital Transformation
 categories:
 - DevOps

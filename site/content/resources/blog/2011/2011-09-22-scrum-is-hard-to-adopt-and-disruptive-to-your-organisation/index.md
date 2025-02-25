@@ -17,21 +17,25 @@ aliases:
 - /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /resources/TRgmAScsBJs
 - /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
+aliasesArchive:
+- /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
+- /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
+- /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 aliasesFor404:
 - /scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 - /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 tags:
 - Mentoring
-- Scrum Product Development
-- Agile Project Management
-- Agile Product Management
 - People and Process
+- Scrum Product Development
+- Agile Product Management
+- Agile Project Management
 - Change Management
-- Agile Frameworks
-- Professional Scrum
+- Value Delivery
 - Team Performance
-- Software Development
+- Organisational Change
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

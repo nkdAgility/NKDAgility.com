@@ -18,6 +18,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-gluttony
 - /resources/videos/7-deadly-sins-of-agile-gluttony
+- /resources/7-deadly-sins-of-agile-gluttony
+- /resources/videos/gluttony!-7-deadly-sins-of-agile
+- /resources/gluttony!-7-deadly-sins-of-agile
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-gluttony
 - /resources/videos/gluttony!-7-deadly-sins-of-agile
@@ -28,14 +31,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Scrum Product Development
 - Team Performance
 - Metrics and Learning
-- Agile Planning
+- Scrum Product Development
 - Agile Project Management
+- Agile Planning
 - Value Delivery
-- Software Development
-- Software Developers
+- Operational Practices
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

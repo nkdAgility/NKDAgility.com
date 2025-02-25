@@ -17,6 +17,10 @@ aliases:
 - /wpf-threading
 - /resources/-LV_xYUDcK4
 - /resources/blog/wpf-threading
+aliasesArchive:
+- /blog/wpf-threading
+- /wpf-threading
+- /resources/blog/wpf-threading
 aliasesFor404:
 - /wpf-threading
 - /blog/wpf-threading

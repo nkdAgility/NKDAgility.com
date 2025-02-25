@@ -17,6 +17,10 @@ aliases:
 - /studying-for-the-new-job
 - /resources/Vt_AB1py8ZH
 - /resources/blog/studying-for-the-new-job
+aliasesArchive:
+- /blog/studying-for-the-new-job
+- /studying-for-the-new-job
+- /resources/blog/studying-for-the-new-job
 aliasesFor404:
 - /studying-for-the-new-job
 - /blog/studying-for-the-new-job

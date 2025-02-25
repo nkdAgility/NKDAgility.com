@@ -15,6 +15,8 @@ aliases:
 - /resources/e7L0NFYUFSw
 aliasesArchive:
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
+- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
+- /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 aliasesFor404:
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
@@ -22,8 +24,8 @@ preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
 tags:
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - People and Process
 - Software Development
 sitemap:

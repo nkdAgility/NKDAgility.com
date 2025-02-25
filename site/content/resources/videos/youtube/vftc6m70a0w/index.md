@@ -14,6 +14,8 @@ aliases:
 - /resources/vftc6m70a0w
 aliasesArchive:
 - /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
+- /resources/videos/7-virtues-of-agile-chastity
+- /resources/7-virtues-of-agile-chastity
 aliasesFor404:
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity
@@ -24,12 +26,12 @@ tags:
 - People and Process
 - Agile Values and Principles
 - Agile Transformation
-- Agile Strategy
-- Organisational Agility
-- Business Agility
-- Agile Leadership
-- Agile Philosophy
 - Change Management
+- Business Agility
+- Agile Strategy
+- Agile Leadership
+- Organisational Agility
+- Agile Philosophy
 - Organisational Culture
 sitemap:
   filename: sitemap.xml

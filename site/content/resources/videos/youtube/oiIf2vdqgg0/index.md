@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/what-is-a-product-vision
 aliasesArchive:
 - /resources/videos/what-is-a-product-vision
+- /resources/what-is-a-product-vision
+- /resources/videos/what-is-a-product-vision-
+- /resources/what-is-a-product-vision-
 aliasesFor404:
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-

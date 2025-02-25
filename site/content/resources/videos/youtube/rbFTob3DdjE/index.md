@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
 aliasesArchive:
 - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
+- /resources/videos/5-tools-that-scrum-masters-love-part-2
+- /resources/5-tools-that-scrum-masters-love-part-2
 aliasesFor404:
 - /resources/videos/5-tools-that-scrum-masters-love-part-2
 - /resources/5-tools-that-scrum-masters-love-part-2

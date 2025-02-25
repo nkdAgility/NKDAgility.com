@@ -18,6 +18,9 @@ aliases:
 - /resources/Nw0bXiOqu0Q
 aliasesArchive:
 - /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
+- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
+- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
+- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 aliasesFor404:
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 - /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
@@ -28,14 +31,14 @@ sitemap:
 tags:
 - Organisational Agility
 - People and Process
+- Empirical Process Control
 - Agile Project Management
 - Agile Product Management
-- Empirical Process Control
-- Agile Values and Principles
-- Continuous Learning
-- Hypothesis Driven Development
 - Business Agility
-- Resilience and Change
+- Change Management
+- Discovery and Learning
+- Agile Values and Principles
+- Hypothesis Driven Development
 resourceTypes:
 - video
 categories:

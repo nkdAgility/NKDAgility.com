@@ -18,6 +18,9 @@ aliases:
 - /resources/s_kWkDCbp9Y
 aliasesArchive:
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+- /resources/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 aliasesFor404:
 - /resources/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
@@ -28,8 +31,8 @@ sitemap:
 tags:
 - People and Process
 - Coaching
-- Pragmatic Thinking
 - Mentoring
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

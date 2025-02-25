@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/the-importance-of-evidence-based-management-in-agile-environments
 aliasesArchive:
 - /resources/videos/the-importance-of-evidence-based-management-in-agile-environments
+- /resources/the-importance-of-evidence-based-management-in-agile-environments
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
 aliasesFor404:
 - /resources/the-importance-of-evidence-based-management-in-agile-environments
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
@@ -28,14 +31,14 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Evidence Based Management
 - Metrics and Learning
+- Evidence Based Management
 - Value Delivery
-- Evidence Based Leadership
-- Pragmatic Thinking
-- Operational Practices
-- Decision Making
 - Empirical Process Control
+- Decision Making
+- Operational Practices
+- Pragmatic Thinking
+- Evidence Based Leadership
 - Ability to Innovate
 resourceTypes:
 - video

@@ -18,6 +18,10 @@ aliases:
 - /resources/y0yIAIqOv-Q
 aliasesArchive:
 - /resources/videos/when-should-an-organisation-consider-a-professional-agile-consultant
+- /resources/when-should-an-organisation-consider-a-professional-agile-consultant
+- /resources/when-should-an-organization-consider-a-professional-agile-consultant
+- /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant-
+- /resources/when-should-an-organization-consider-a-professional-agile-consultant-
 aliasesFor404:
 - /resources/when-should-an-organisation-consider-a-professional-agile-consultant
 - /resources/when-should-an-organization-consider-a-professional-agile-consultant
@@ -29,8 +33,8 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Agile Transformation
 resourceTypes:
 - video

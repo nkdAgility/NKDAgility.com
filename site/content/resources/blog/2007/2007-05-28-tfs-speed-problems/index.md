@@ -17,6 +17,10 @@ aliases:
 - /tfs-speed-problems
 - /resources/OeHyC7ftjHo
 - /resources/blog/tfs-speed-problems
+aliasesArchive:
+- /blog/tfs-speed-problems
+- /tfs-speed-problems
+- /resources/blog/tfs-speed-problems
 aliasesFor404:
 - /tfs-speed-problems
 - /blog/tfs-speed-problems

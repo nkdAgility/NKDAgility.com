@@ -17,17 +17,21 @@ aliases:
 - /luddites-have-no-place-in-the-modern-organisation
 - /resources/dyxqF7lrHmn
 - /resources/blog/luddites-have-no-place-in-the-modern-organisation
+aliasesArchive:
+- /blog/luddites-have-no-place-in-the-modern-organisation
+- /luddites-have-no-place-in-the-modern-organisation
+- /resources/blog/luddites-have-no-place-in-the-modern-organisation
 aliasesFor404:
 - /luddites-have-no-place-in-the-modern-organisation
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /resources/blog/luddites-have-no-place-in-the-modern-organisation
 tags:
-- Agile Leadership
-- Organisational Culture
 - People and Process
+- Organisational Culture
+- Agile Leadership
 - Business Agility
-- Resilience and Change
 - Organisational Change
+- Resilience and Change
 - Organisational Agility
 - Market Adaptability
 - Change Management

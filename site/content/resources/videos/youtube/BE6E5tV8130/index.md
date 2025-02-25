@@ -18,6 +18,9 @@ aliases:
 - /resources/BE6E5tV8130
 aliasesArchive:
 - /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
+- /resources/how-is-agile-product-development-different-to-waterfall-project-management
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
+- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
 aliasesFor404:
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management
 - /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Increment
-- Agile Product Management
 - Agile Project Management
-- Decision Making
-- Empirical Process Control
+- Agile Values and Principles
+- Agile Product Management
 - People and Process
-- Business Agility
 - Product Delivery
 - Value Delivery
+- Business Agility
+- Decision Making
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

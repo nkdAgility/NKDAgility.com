@@ -18,6 +18,12 @@ aliases:
 - /resources/yvIanYh3bcQ
 aliasesArchive:
 - /resources/videos/best-scrum-advice-you-ever-received
+- /resources/best-scrum-advice-you-ever-received-2
+- /resources/best-scrum-advice-you-ever-received
+- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
+- /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 aliasesFor404:
 - /resources/best-scrum-advice-you-ever-received-2
 - /resources/best-scrum-advice-you-ever-received
@@ -31,12 +37,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.4
 tags:
-- Lean Principles
-- Organisational Agility
 - Business Agility
+- Lean Principles
 - Lean Thinking
-- Pragmatic Thinking
+- Organisational Agility
 - Operational Practices
+- Pragmatic Thinking
 - Lean
 - People and Process
 - Market Adaptability
@@ -44,8 +50,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 - Leadership
 canonicalUrl: https://www.youtube.com/watch?v=yvIanYh3bcQ
 

@@ -18,6 +18,9 @@ aliases:
 - /resources/VOUmfpB-d88
 aliasesArchive:
 - /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
+- /resources/transforming-training-the-power-of-immersive-learning-in-scrum
+- /resources/videos/nkd-agility-training-approach
+- /resources/nkd-agility-training-approach
 aliasesFor404:
 - /resources/transforming-training-the-power-of-immersive-learning-in-scrum
 - /resources/videos/nkd-agility-training-approach
@@ -29,13 +32,13 @@ tags:
 - Mentoring
 - People and Process
 - Discovery and Learning
-- Value Delivery
-- Continuous Learning
 - Agile Philosophy
-- Pragmatic Thinking
-- Coaching
-- Team Collaboration
+- Continuous Learning
+- Value Delivery
 - Agile Project Management
+- Agile Frameworks
+- Team Collaboration
+- Agile Transformation
 resourceTypes:
 - video
 categories:

@@ -17,6 +17,10 @@ aliases:
 - /mozy-update
 - /resources/Tb5vwyZh7DY
 - /resources/blog/mozy-update
+aliasesArchive:
+- /blog/mozy-update
+- /mozy-update
+- /resources/blog/mozy-update
 aliasesFor404:
 - /mozy-update
 - /blog/mozy-update

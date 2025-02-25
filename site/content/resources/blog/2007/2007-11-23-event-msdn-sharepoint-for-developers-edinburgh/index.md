@@ -19,6 +19,12 @@ aliases:
 - /blog/event--msdn--sharepoint-for-developers-(edinburgh)
 - /resources/Z3OPR0BDfsD
 - /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
+aliasesArchive:
+- /blog/event-msdn-sharepoint-for-developers-edinburgh
+- /event-msdn-sharepoint-for-developers-edinburgh
+- /event--msdn--sharepoint-for-developers-(edinburgh)
+- /blog/event--msdn--sharepoint-for-developers-(edinburgh)
+- /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
 aliasesFor404:
 - /event-msdn-sharepoint-for-developers-edinburgh
 - /blog/event-msdn-sharepoint-for-developers-edinburgh

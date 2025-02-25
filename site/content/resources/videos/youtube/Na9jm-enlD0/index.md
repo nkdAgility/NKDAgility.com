@@ -18,6 +18,10 @@ aliases:
 - /resources/Na9jm-enlD0
 aliasesArchive:
 - /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
+- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
+- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 aliasesFor404:
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
@@ -31,11 +35,11 @@ tags:
 - Products and Books
 - Decision Making
 - Product Owner
-- Team Collaboration
-- Decision Theory
 - Agile Product Management
 - Agile Project Management
-- Sensemaking
+- Decision Theory
+- Team Collaboration
+- Entrepreneurship
 - Pragmatic Thinking
 resourceTypes:
 - video

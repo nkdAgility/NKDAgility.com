@@ -17,6 +17,10 @@ aliases:
 - /windows-cardspace-gets-firefox-support
 - /resources/S4ZOLBDIh7u
 - /resources/blog/windows-cardspace-gets-firefox-support
+aliasesArchive:
+- /blog/windows-cardspace-gets-firefox-support
+- /windows-cardspace-gets-firefox-support
+- /resources/blog/windows-cardspace-gets-firefox-support
 aliasesFor404:
 - /windows-cardspace-gets-firefox-support
 - /blog/windows-cardspace-gets-firefox-support

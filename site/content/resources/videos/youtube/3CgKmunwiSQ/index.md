@@ -17,6 +17,9 @@ aliases:
 - /resources/3CgKmunwiSQ
 aliasesArchive:
 - /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/traditional-management-vs-evidence-based-management
+- /resources/traditional-management-vs-evidence-based-management
 aliasesFor404:
 - /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management
@@ -27,9 +30,9 @@ sitemap:
 tags:
 - Decision Making
 - Evidence Based Management
-- Evidence Based Leadership
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
+- Evidence Based Leadership
 - Decision Theory
 - Pragmatic Thinking
 resourceTypes:

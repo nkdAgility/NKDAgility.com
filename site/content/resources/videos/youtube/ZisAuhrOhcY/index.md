@@ -18,6 +18,9 @@ aliases:
 - /resources/ZisAuhrOhcY
 aliasesArchive:
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
+- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 aliasesFor404:
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
 - Transparency
+- Strategy
 - Metrics and Learning
 - Transparency and Accountability
+- Practical Techniques and Tooling
 - Agile Strategy
+- Agile Project Management
 - Software Development
 - Flow Efficiency
-- Agile Project Management
-- Practical Techniques and Tooling
-- Pragmatic Thinking
+- Operational Practices
 resourceTypes:
 - video
 categories:

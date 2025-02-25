@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/what-is-scrum
 aliasesArchive:
 - /resources/videos/what-is-scrum
+- /resources/what-is-scrum-3
+- /resources/what-is-scrum-2
+- /resources/videos/what-is-scrum-
+- /resources/what-is-scrum-
 aliasesFor404:
 - /resources/what-is-scrum-3
 - /resources/what-is-scrum-2

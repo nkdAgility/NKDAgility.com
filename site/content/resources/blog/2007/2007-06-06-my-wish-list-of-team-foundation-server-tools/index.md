@@ -17,6 +17,10 @@ aliases:
 - /my-wish-list-of-team-foundation-server-tools
 - /resources/ew4cQCgRYB0
 - /resources/blog/my-wish-list-of-team-foundation-server-tools
+aliasesArchive:
+- /blog/my-wish-list-of-team-foundation-server-tools
+- /my-wish-list-of-team-foundation-server-tools
+- /resources/blog/my-wish-list-of-team-foundation-server-tools
 aliasesFor404:
 - /my-wish-list-of-team-foundation-server-tools
 - /blog/my-wish-list-of-team-foundation-server-tools

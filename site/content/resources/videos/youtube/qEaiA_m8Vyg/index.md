@@ -18,6 +18,7 @@ aliases:
 - /resources/qEaiA_m8Vyg
 aliasesArchive:
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
+- /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 aliasesFor404:
 - /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
@@ -26,11 +27,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Metrics and Learning
+- Empirical Process Control
 - Customer Feedback Loops
 - Continuous Learning
-- Metrics and Learning
 - Discovery and Learning
-- Empirical Process Control
 - Personal
 - Team Collaboration
 - Coaching

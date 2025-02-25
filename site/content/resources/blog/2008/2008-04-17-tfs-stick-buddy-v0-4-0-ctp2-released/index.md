@@ -17,6 +17,10 @@ aliases:
 - /tfs-stick-buddy-v0-4-0-ctp2-released
 - /resources/G2LTuEadTg9
 - /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
+aliasesArchive:
+- /blog/tfs-stick-buddy-v0-4-0-ctp2-released
+- /tfs-stick-buddy-v0-4-0-ctp2-released
+- /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
 aliasesFor404:
 - /tfs-stick-buddy-v0-4-0-ctp2-released
 - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
@@ -27,8 +31,8 @@ tags:
 - News and Reviews
 - Frequent Releases
 - Windows
-- Software Development
 - Working Software
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

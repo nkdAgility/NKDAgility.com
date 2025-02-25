@@ -17,6 +17,10 @@ aliases:
 - /back-to-the-grind
 - /resources/dcAyw0f562g
 - /resources/blog/back-to-the-grind
+aliasesArchive:
+- /blog/back-to-the-grind
+- /back-to-the-grind
+- /resources/blog/back-to-the-grind
 aliasesFor404:
 - /back-to-the-grind
 - /blog/back-to-the-grind

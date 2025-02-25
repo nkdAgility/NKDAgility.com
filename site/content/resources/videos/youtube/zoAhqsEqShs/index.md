@@ -18,6 +18,9 @@ aliases:
 - /resources/zoAhqsEqShs
 aliasesArchive:
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
+- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 aliasesFor404:
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Transformation
-- Agile Project Management
-- Software Development
-- Agile Product Management
 - People and Process
 - Change Management
-- Organisational Agility
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Software Development
 - Agile Strategy
-- Team Motivation
-- Enterprise Agility
+- Organisational Change
+- Organisational Agility
+- Team Collaboration
 resourceTypes:
 - video
 categories:

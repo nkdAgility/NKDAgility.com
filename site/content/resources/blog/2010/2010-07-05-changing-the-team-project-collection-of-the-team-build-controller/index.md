@@ -17,21 +17,25 @@ aliases:
 - /changing-the-team-project-collection-of-the-team-build-controller
 - /resources/n7Y4Ij-CPvp
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
+aliasesArchive:
+- /blog/changing-the-team-project-collection-of-the-team-build-controller
+- /changing-the-team-project-collection-of-the-team-build-controller
+- /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 aliasesFor404:
 - /changing-the-team-project-collection-of-the-team-build-controller
 - /blog/changing-the-team-project-collection-of-the-team-build-controller
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
+- System Configuration
 - Troubleshooting
 - Technical Mastery
 - Operational Practices
+- Software Development
 - Continuous Integration
-- Azure Pipelines
+- Azure DevOps
+- Application Lifecycle Management
 preview: metro-SSWLogo-128-link-6-6.png
 categories:
 - DevOps

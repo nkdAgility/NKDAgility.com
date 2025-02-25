@@ -17,21 +17,25 @@ aliases:
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /resources/n9OhtpbJs0-
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
+aliasesArchive:
+- /blog/the-insufficiency-of-scrum-is-a-fallacy
+- /the-insufficiency-of-scrum-is-a-fallacy
+- /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 aliasesFor404:
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
-- Scrum Product Development
-- Scrum Master
-- Software Development
-- Agile Frameworks
-- Technical Debt
-- Scrum Team
-- Professional Scrum
 - People and Process
-- Engineering Practices
+- Technical Debt
+- Scrum Product Development
 - Agile Product Management
+- Agile Frameworks
+- Agile Project Management
+- Scrum Master
+- Agile Planning
+- Working Software
+- Software Development
 categories:
 - Scrum
 - Engineering Excellence

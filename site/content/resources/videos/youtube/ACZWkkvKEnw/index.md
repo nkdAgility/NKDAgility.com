@@ -19,6 +19,12 @@ aliases:
 - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 aliasesArchive:
 - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
+- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
+- /resources/what-does-your-dream-agile-consulting-week-look-like
+- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
+- /resources/what-does-your-dream-agile-consulting-week-look-like-
+- /resources/videos/the-cog-conundrum
+- /resources/the-cog-conundrum
 aliasesFor404:
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/what-does-your-dream-agile-consulting-week-look-like

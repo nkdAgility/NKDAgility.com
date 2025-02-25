@@ -18,6 +18,9 @@ aliases:
 - /resources/sAKCLQ38GzA
 aliasesArchive:
 - /resources/videos/does-starting-with-why-simon-sinek-really-matter
+- /resources/does-starting-with-why-simon-sinek-really-matter
+- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
+- /resources/does-'starting-with-why'-simon-sinek-really-matter-
 aliasesFor404:
 - /resources/does-starting-with-why-simon-sinek-really-matter
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
@@ -27,14 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Operating Model
 - Team Motivation
+- Agile Product Operating Model
+- Product Strategy
 - Employee Engagement
 - Organisational Culture
 - Strategic Goals
-- Product Strategy
+- Organisational Psychology
 - Agile Strategy
-- Organisational Physics
 - Sociotechnical Systems
 resourceTypes:
 - video

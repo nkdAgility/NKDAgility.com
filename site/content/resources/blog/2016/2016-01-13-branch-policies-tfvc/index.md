@@ -19,6 +19,12 @@ aliases:
 - /blog/branch-policies-for-tfvc
 - /resources/_26VFOA-vCe
 - /resources/blog/branch-policies-tfvc
+aliasesArchive:
+- /blog/branch-policies-tfvc
+- /branch-policies-tfvc
+- /branch-policies-for-tfvc
+- /blog/branch-policies-for-tfvc
+- /resources/blog/branch-policies-tfvc
 aliasesFor404:
 - /branch-policies-tfvc
 - /blog/branch-policies-tfvc
@@ -30,10 +36,10 @@ tags:
 - Azure Repos
 - Modern Source Control
 - Practical Techniques and Tooling
+- Operational Practices
 - Software Development
 - Technical Excellence
 - Azure DevOps
-- Operational Practices
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

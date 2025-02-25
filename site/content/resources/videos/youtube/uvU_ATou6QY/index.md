@@ -14,6 +14,8 @@ aliases:
 - /resources/uvU_ATou6QY
 aliasesArchive:
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+- /resources/videos/what-does-failure-look-like-as-a-product-owner-
+- /resources/what-does-failure-look-like-as-a-product-owner-
 aliasesFor404:
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-
 - /resources/what-does-failure-look-like-as-a-product-owner-
@@ -24,8 +26,8 @@ tags:
 - People and Process
 - Product Owner
 - Agile Product Management
-- Accountability
 - Agile Project Management
+- Accountability
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

@@ -17,21 +17,25 @@ aliases:
 - /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /resources/W5oq_99ThZi
 - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+aliasesArchive:
+- /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+- /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+- /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 aliasesFor404:
 - /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - Working Software
-- Practical Techniques and Tooling
+- Troubleshooting
+- Application Lifecycle Management
+- Technical Mastery
+- Operational Practices
 - Software Development
 - Software Developers
 - Technical Excellence
-- Azure DevOps
-- System Configuration
-- Troubleshooting
-- Technical Mastery
 categories:
 - Engineering Excellence
 

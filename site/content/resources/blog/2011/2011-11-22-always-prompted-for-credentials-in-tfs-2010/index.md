@@ -19,6 +19,12 @@ aliases:
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/fESk_RDaaIB
 - /resources/blog/always-prompted-for-credentials-in-tfs-2010
+aliasesArchive:
+- /blog/always-prompted-for-credentials-in-tfs-2010
+- /always-prompted-for-credentials-in-tfs-2010
+- /always-prompted-for-credentials-in-tfs-2010-
+- /blog/always-prompted-for-credentials-in-tfs-2010-
+- /resources/blog/always-prompted-for-credentials-in-tfs-2010
 aliasesFor404:
 - /always-prompted-for-credentials-in-tfs-2010
 - /blog/always-prompted-for-credentials-in-tfs-2010
@@ -26,11 +32,11 @@ aliasesFor404:
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/blog/always-prompted-for-credentials-in-tfs-2010
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Troubleshooting
 - Windows
 - System Configuration
-- Troubleshooting
 preview: metro-visual-studio-2005-128-link-6-6.png
 categories: []
 

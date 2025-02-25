@@ -17,6 +17,10 @@ aliases:
 - /merry-christmas
 - /resources/MUY1jFEETH6
 - /resources/blog/merry-christmas
+aliasesArchive:
+- /blog/merry-christmas
+- /merry-christmas
+- /resources/blog/merry-christmas
 aliasesFor404:
 - /merry-christmas
 - /blog/merry-christmas

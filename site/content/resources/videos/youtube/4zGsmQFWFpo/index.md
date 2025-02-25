@@ -17,6 +17,9 @@ aliases:
 - /resources/4zGsmQFWFpo
 aliasesArchive:
 - /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
+- /resources/focusing-beyond-agile-building-true-capability-in-organizations
+- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
+- /resources/where-are-we-now-and-where-do-we-need-to-go-next
 aliasesFor404:
 - /resources/focusing-beyond-agile-building-true-capability-in-organizations
 - /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
@@ -28,12 +31,12 @@ tags:
 - People and Process
 - Change Management
 - Technical Leadership
-- Continuous Learning
 - Organisational Culture
 - Organisational Change
+- Continuous Learning
 - Team Performance
-- Pragmatic Thinking
 - Organisational Agility
+- Pragmatic Thinking
 - Strategy
 resourceTypes:
 - video

@@ -9,6 +9,8 @@ layout: guide
 aliases:
 - /learn/agile-delivery-kit/guides/evidence-based-management-guide
 - /resources/ltc7lzhy14U
+aliasesArchive:
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide
 aliasesFor404:
 - /learn/agile-delivery-kit/guides/evidence-based-management-guide
 references:
@@ -38,10 +40,10 @@ tags:
 - Evidence Based Management
 - Ability to Innovate
 - Value Delivery
-- Evidence Based Leadership
 - Metrics and Learning
-- Experimentation
 - Decision Making
+- Experimentation
+- Evidence Based Leadership
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

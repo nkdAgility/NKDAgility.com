@@ -15,6 +15,8 @@ aliases:
 - /resources/zqMzD1PXq4s
 aliasesArchive:
 - /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+- /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 aliasesFor404:
 - /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 - /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
@@ -22,16 +24,16 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
+- People and Process
 - Technical Leadership
 - Technical Excellence
 - Azure DevOps
-- People and Process
-- Software Development
 - Technical Debt
-- Engineering Practices
 - Technical Mastery
+- Engineering Practices
+- Software Development
 - Value Delivery
-- Pragmatic Thinking
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

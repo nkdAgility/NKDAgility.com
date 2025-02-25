@@ -15,6 +15,8 @@ aliases:
 - /resources/1-jUmFcyiI8
 aliasesArchive:
 - /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
+- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
+- /resources/accelerating-time-to-market-with-a-tight-feedback-loop
 aliasesFor404:
 - /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/accelerating-time-to-market-with-a-tight-feedback-loop

@@ -14,6 +14,8 @@ aliases:
 - /resources/PfZU13BEwiY
 aliasesArchive:
 - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
+- /resources/videos/7-signs-of-the-agile-apocalypse-plague
+- /resources/7-signs-of-the-agile-apocalypse-plague
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague
@@ -21,11 +23,13 @@ preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true
 tags:
-- People and Process
-- Organisational Agility
-- Business Agility
-- Agile Philosophy
-- Agile Values and Principles
+- Technical Debt
+- Pragmatic Thinking
+- Software Development
+- Practical Techniques and Tooling
+- Technical Mastery
+- Operational Practices
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -33,8 +37,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
-- Leadership
+- Engineering Excellence
+- DevOps
 canonicalUrl: https://www.youtube.com/watch?v=PfZU13BEwiY
 
 ---

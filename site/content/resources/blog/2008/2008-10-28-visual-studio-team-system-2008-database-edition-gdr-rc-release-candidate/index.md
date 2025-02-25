@@ -19,6 +19,12 @@ aliases:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
 - /resources/Y1_0V9iVxYc
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
+aliasesArchive:
+- /blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
+- /visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
+- /visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
+- /blog/visual-studio-team-system-2008-database-edition-gdr-rc-(release-candidate)
+- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 aliasesFor404:
 - /visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate

@@ -18,6 +18,10 @@ aliases:
 - /resources/ItnQxg3Q4Fc
 aliasesArchive:
 - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
+- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 aliasesFor404:
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
@@ -27,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
 - People and Process
+- Agile Leadership
 - Agile Philosophy
 - Market Adaptability
-- Organisational Change
 - Value Delivery
-- Agile Project Management
 - Agile Transformation
-- Business Agility
-- Change Management
+- Agile Strategy
+- Organisational Change
+- Agile Project Management
+- Technical Leadership
 resourceTypes:
 - video
 categories:

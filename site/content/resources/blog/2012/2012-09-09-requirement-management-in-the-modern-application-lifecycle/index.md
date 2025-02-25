@@ -19,6 +19,12 @@ aliases:
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/xCKZmk2o5Me
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
+aliasesArchive:
+- /blog/requirement-management-in-the-modern-application-lifecycle
+- /requirement-management-in-the-modern-application-lifecycle
+- /requirement-management-in-the-modern-application-lifecycle-with-tfs
+- /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
+- /resources/blog/requirement-management-in-the-modern-application-lifecycle
 aliasesFor404:
 - /requirement-management-in-the-modern-application-lifecycle
 - /blog/requirement-management-in-the-modern-application-lifecycle
@@ -26,16 +32,16 @@ aliasesFor404:
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
+- Application Lifecycle Management
 - Agile Project Management
 - Agile Planning Tools
-- Application Lifecycle Management
 - Products and Books
-- Software Development
-- Agile Planning
-- Product Delivery
 - Practical Techniques and Tooling
+- Software Development
+- Product Delivery
+- Agile Planning
+- Pragmatic Thinking
 - Technical Excellence
-- Azure DevOps
 categories:
 - Product Management
 preview: metro-requirements-icon-14-14.png

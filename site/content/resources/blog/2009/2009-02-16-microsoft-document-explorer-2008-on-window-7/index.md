@@ -17,6 +17,10 @@ aliases:
 - /microsoft-document-explorer-2008-on-window-7
 - /resources/kCaERZgxgy3
 - /resources/blog/microsoft-document-explorer-2008-on-window-7
+aliasesArchive:
+- /blog/microsoft-document-explorer-2008-on-window-7
+- /microsoft-document-explorer-2008-on-window-7
+- /resources/blog/microsoft-document-explorer-2008-on-window-7
 aliasesFor404:
 - /microsoft-document-explorer-2008-on-window-7
 - /blog/microsoft-document-explorer-2008-on-window-7

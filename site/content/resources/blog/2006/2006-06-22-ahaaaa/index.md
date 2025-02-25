@@ -19,6 +19,12 @@ aliases:
 - /blog/ahaaaa-
 - /resources/E3cUOS0i5ul
 - /resources/blog/ahaaaa
+aliasesArchive:
+- /blog/ahaaaa
+- /ahaaaa
+- /ahaaaa-
+- /blog/ahaaaa-
+- /resources/blog/ahaaaa
 aliasesFor404:
 - /ahaaaa
 - /blog/ahaaaa

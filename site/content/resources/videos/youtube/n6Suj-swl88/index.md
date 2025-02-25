@@ -14,6 +14,9 @@ aliases:
 - /resources/n6Suj-swl88
 aliasesArchive:
 - /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
+- /resources/videos/who-should-lead-the-sprint-review-
+- /resources/who-should-lead-the-sprint-review-why-how
+- /resources/who-should-lead-the-sprint-review-
 aliasesFor404:
 - /resources/videos/who-should-lead-the-sprint-review-
 - /resources/who-should-lead-the-sprint-review-why-how

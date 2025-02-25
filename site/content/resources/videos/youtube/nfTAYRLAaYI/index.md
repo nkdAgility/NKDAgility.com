@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
 aliasesArchive:
 - /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/videos/kanban-principles
+- /resources/kanban-principles
 aliasesFor404:
 - /resources/mastering-kanban-a-simple-guide-to-its-core-principles
 - /resources/videos/kanban-principles
@@ -27,10 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Lean Thinking
-- Operational Practices
 - Agile Project Management
+- Operational Practices
+- Lean Thinking
+- Agile Frameworks
 - Lean Principles
 - Software Development
 resourceTypes:

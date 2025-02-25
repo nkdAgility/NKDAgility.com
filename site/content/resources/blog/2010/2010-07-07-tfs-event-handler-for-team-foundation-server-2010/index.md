@@ -17,18 +17,22 @@ aliases:
 - /tfs-event-handler-for-team-foundation-server-2010
 - /resources/_WmwS96RyDS
 - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
+aliasesArchive:
+- /blog/tfs-event-handler-for-team-foundation-server-2010
+- /tfs-event-handler-for-team-foundation-server-2010
+- /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 aliasesFor404:
 - /tfs-event-handler-for-team-foundation-server-2010
 - /blog/tfs-event-handler-for-team-foundation-server-2010
 - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 tags:
 - Practical Techniques and Tooling
-- Azure DevOps
 - Software Development
+- Azure DevOps
 categories:
-- Social Technologies
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: metro-binary-vb-128-link-3-3.png
 
 ---

@@ -19,6 +19,7 @@ aliases:
 - /resources/videos/agile-training-versus-agile-consulting
 aliasesArchive:
 - /resources/videos/agile-training-versus-agile-consulting
+- /resources/agile-training-versus-agile-consulting
 aliasesFor404:
 - /resources/agile-training-versus-agile-consulting
 - /resources/videos/agile-training-versus-agile-consulting
@@ -26,16 +27,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
 - People and Process
+- Agile Strategy
 - Agile Project Management
 - Agile Transformation
-- Software Development
-- Pragmatic Thinking
-- Organisational Agility
 - Business Agility
 - Organisational Change
 - Miscellaneous
+- Pragmatic Thinking
+- Software Development
+- Product Delivery
 resourceTypes:
 - video
 categories:

@@ -19,6 +19,12 @@ aliases:
 - /blog/getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 - /resources/i10guK3jvON
 - /resources/blog/getting-service-account-vso-tfs-service-credential-viewer
+aliasesArchive:
+- /blog/getting-service-account-vso-tfs-service-credential-viewer
+- /getting-service-account-vso-tfs-service-credential-viewer
+- /getting-a-service-account-for-vso-with-tfs-service-credential-viewer
+- /blog/getting-a-service-account-for-vso-with-tfs-service-credential-viewer
+- /resources/blog/getting-service-account-vso-tfs-service-credential-viewer
 aliasesFor404:
 - /getting-service-account-vso-tfs-service-credential-viewer
 - /blog/getting-service-account-vso-tfs-service-credential-viewer
@@ -28,8 +34,8 @@ aliasesFor404:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Azure DevOps
 - Practical Techniques and Tooling
+- Azure DevOps
 - Software Development
 - Windows
 - System Configuration

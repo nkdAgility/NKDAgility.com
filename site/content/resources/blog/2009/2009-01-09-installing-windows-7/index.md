@@ -17,6 +17,10 @@ aliases:
 - /installing-windows-7
 - /resources/il4oYdn6wqL
 - /resources/blog/installing-windows-7
+aliasesArchive:
+- /blog/installing-windows-7
+- /installing-windows-7
+- /resources/blog/installing-windows-7
 aliasesFor404:
 - /installing-windows-7
 - /blog/installing-windows-7

@@ -17,6 +17,10 @@ aliases:
 - /hiring-a-professional-scrum-master
 - /resources/1EEAZ-ldcTz
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+aliasesArchive:
+- /blog/hiring-a-professional-scrum-master
+- /hiring-a-professional-scrum-master
+- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliasesFor404:
 - /hiring-a-professional-scrum-master
 - /blog/hiring-a-professional-scrum-master

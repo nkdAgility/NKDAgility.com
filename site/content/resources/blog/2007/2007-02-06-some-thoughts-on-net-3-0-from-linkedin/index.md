@@ -19,6 +19,12 @@ aliases:
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/L_rhObh8cmE
 - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
+aliasesArchive:
+- /blog/some-thoughts-on-net-3-0-from-linkedin
+- /some-thoughts-on-net-3-0-from-linkedin
+- /some-thoughts-on--net-3-0-from-linkedin
+- /blog/some-thoughts-on--net-3-0-from-linkedin
+- /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 aliasesFor404:
 - /some-thoughts-on-net-3-0-from-linkedin
 - /blog/some-thoughts-on-net-3-0-from-linkedin
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

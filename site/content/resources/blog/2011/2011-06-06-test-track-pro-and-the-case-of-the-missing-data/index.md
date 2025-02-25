@@ -17,6 +17,10 @@ aliases:
 - /test-track-pro-and-the-case-of-the-missing-data
 - /resources/h4j0yIumt7h
 - /resources/blog/test-track-pro-and-the-case-of-the-missing-data
+aliasesArchive:
+- /blog/test-track-pro-and-the-case-of-the-missing-data
+- /test-track-pro-and-the-case-of-the-missing-data
+- /resources/blog/test-track-pro-and-the-case-of-the-missing-data
 aliasesFor404:
 - /test-track-pro-and-the-case-of-the-missing-data
 - /blog/test-track-pro-and-the-case-of-the-missing-data
@@ -25,10 +29,10 @@ tags:
 - Troubleshooting
 - Code and Complexity
 - Practical Techniques and Tooling
+- Technical Mastery
+- Pragmatic Thinking
 - Software Development
 - Technical Excellence
-- Pragmatic Thinking
-- Technical Mastery
 - Operational Practices
 categories:
 - Engineering Excellence

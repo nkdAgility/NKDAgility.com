@@ -17,6 +17,10 @@ aliases:
 - /linked-in-vsts-group
 - /resources/HSVy1vwtnsH
 - /resources/blog/linked-in-vsts-group
+aliasesArchive:
+- /blog/linked-in-vsts-group
+- /linked-in-vsts-group
+- /resources/blog/linked-in-vsts-group
 aliasesFor404:
 - /linked-in-vsts-group
 - /blog/linked-in-vsts-group

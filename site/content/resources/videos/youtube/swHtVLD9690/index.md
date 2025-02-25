@@ -18,6 +18,9 @@ aliases:
 - /resources/swHtVLD9690
 aliasesArchive:
 - /resources/videos/the-common-challenges-of-adopting-devops-practices
+- /resources/the-common-challenges-of-adopting-devops-practices
+- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
+- /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 aliasesFor404:
 - /resources/the-common-challenges-of-adopting-devops-practices
 - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
@@ -27,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Software Development
-- Software Developers
 - Market Adaptability
 - Operational Practices
+- Software Development
+- Software Developers
 - Pragmatic Thinking
 - Resilience and Change
 - Product Delivery

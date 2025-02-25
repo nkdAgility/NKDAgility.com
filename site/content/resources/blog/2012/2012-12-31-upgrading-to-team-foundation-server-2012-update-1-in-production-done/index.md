@@ -19,6 +19,12 @@ aliases:
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
 - /resources/-X57bQlULtp
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
+aliasesArchive:
+- /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
+- /upgrading-to-team-foundation-server-2012-update-1-in-production-done
+- /upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
+- /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-–-done
+- /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 aliasesFor404:
 - /upgrading-to-team-foundation-server-2012-update-1-in-production-done
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done

@@ -18,6 +18,9 @@ aliases:
 - /resources/O6rYL3EDUxM
 aliasesArchive:
 - /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
+- /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
+- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
+- /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 aliasesFor404:
 - /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
 - /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
@@ -28,14 +31,14 @@ sitemap:
 tags:
 - Increment
 - People and Process
-- Working Software
 - Agile Values and Principles
+- Working Software
 - Product Delivery
-- Agile Leadership
+- Business Agility
 - Agile Product Management
 - Agile Product Operating Model
-- Business Agility
-- Enterprise Agility
+- Agile Leadership
+- Change Management
 resourceTypes:
 - video
 categories:

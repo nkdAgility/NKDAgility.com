@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/l6LGPY2BGU5
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
+aliasesArchive:
+- /blog/tfs-cross-team-cross-business-line-work-item-tracking
+- /tfs-cross-team-cross-business-line-work-item-tracking
+- /tfs-for-cross-team-and-cross-business-line-work-item-tracking
+- /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
+- /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 aliasesFor404:
 - /tfs-cross-team-cross-business-line-work-item-tracking
 - /blog/tfs-cross-team-cross-business-line-work-item-tracking
@@ -29,8 +35,8 @@ tags:
 - Software Development
 categories:
 - Product Management
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

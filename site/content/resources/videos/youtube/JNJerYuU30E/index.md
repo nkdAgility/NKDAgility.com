@@ -16,6 +16,8 @@ aliases:
 - /resources/videos/most-influential-person-in-agile-jernimo-palacios
 aliasesArchive:
 - /resources/videos/most-influential-person-in-agile-jernimo-palacios
+- /resources/videos/most-influential-person-in-agile-jerónimo-palacios
+- /resources/most-influential-person-in-agile-jerónimo-palacios
 aliasesFor404:
 - /resources/videos/most-influential-person-in-agile-jerónimo-palacios
 - /resources/most-influential-person-in-agile-jerónimo-palacios

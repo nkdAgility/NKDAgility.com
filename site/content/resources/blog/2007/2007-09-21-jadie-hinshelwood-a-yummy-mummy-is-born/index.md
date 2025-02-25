@@ -19,6 +19,12 @@ aliases:
 - /blog/jadie-hinshelwood--a-yummy-mummy-is-born-
 - /resources/zcpMYmgu_vJ
 - /resources/blog/jadie-hinshelwood-a-yummy-mummy-is-born
+aliasesArchive:
+- /blog/jadie-hinshelwood-a-yummy-mummy-is-born
+- /jadie-hinshelwood-a-yummy-mummy-is-born
+- /jadie-hinshelwood--a-yummy-mummy-is-born-
+- /blog/jadie-hinshelwood--a-yummy-mummy-is-born-
+- /resources/blog/jadie-hinshelwood-a-yummy-mummy-is-born
 aliasesFor404:
 - /jadie-hinshelwood-a-yummy-mummy-is-born
 - /blog/jadie-hinshelwood-a-yummy-mummy-is-born

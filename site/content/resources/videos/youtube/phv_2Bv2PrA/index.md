@@ -15,6 +15,8 @@ aliases:
 - /resources/phv_2Bv2PrA
 aliasesArchive:
 - /resources/videos/what-is-agile
+- /resources/videos/what-is-agile-
+- /resources/what-is-agile-
 aliasesFor404:
 - /resources/videos/what-is-agile-
 - /resources/what-is-agile-

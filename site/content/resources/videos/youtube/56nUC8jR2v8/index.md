@@ -14,6 +14,8 @@ aliases:
 - /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
 aliasesArchive:
 - /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
+- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
+- /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 aliasesFor404:
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies

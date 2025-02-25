@@ -13,6 +13,8 @@ slug: innovation
 aliases:
 - /principles/innovation/
 - /resources/31Zki4xCtFO
+aliasesArchive:
+- /principles/innovation/
 aliasesFor404:
 - /principles/innovation/
 card:

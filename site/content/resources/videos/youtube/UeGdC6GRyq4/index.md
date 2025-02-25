@@ -19,6 +19,10 @@ aliases:
 aliasesArchive:
 - /resources/videos/under-employed-upfront-balance-when-you-are-employed
 - /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
+- /resources/under-employed-30-upfront-balance-when-you-are-employed
+- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
+- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
+- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 aliasesFor404:
 - /resources/under-employed-30-upfront-balance-when-you-are-employed
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed

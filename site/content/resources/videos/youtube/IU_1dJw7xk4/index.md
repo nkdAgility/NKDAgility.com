@@ -18,6 +18,9 @@ aliases:
 - /resources/IU_1dJw7xk4
 aliasesArchive:
 - /resources/videos/how-long-does-it-take-to-transition-from-project-management-to-kanban
+- /resources/how-long-does-it-take-to-transition-from-project-management-to-kanban
+- /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
+- /resources/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
 aliasesFor404:
 - /resources/how-long-does-it-take-to-transition-from-project-management-to-kanban
 - /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
@@ -30,12 +33,12 @@ tags:
 - People and Process
 - Cycle Time
 - Metrics and Learning
-- Agile Frameworks
-- Flow Efficiency
 - Practical Techniques and Tooling
-- Throughput
-- Software Development
+- Flow Efficiency
+- Agile Frameworks
+- Operational Practices
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -17,6 +17,10 @@ aliases:
 - /configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /resources/gzuPSzbixBn
 - /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
+aliasesArchive:
+- /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
+- /configuring-a-powershell-adapter-for-the-tfs-integration-platform
+- /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 aliasesFor404:
 - /configuring-a-powershell-adapter-for-the-tfs-integration-platform
 - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform

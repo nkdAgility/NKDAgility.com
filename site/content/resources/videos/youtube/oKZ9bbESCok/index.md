@@ -18,6 +18,9 @@ aliases:
 - /resources/oKZ9bbESCok
 aliasesArchive:
 - /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
+- /resources/5-kinds-of-agile-bandits-say-do-metrics
 aliasesFor404:
 - /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Agile Project Management
-- Organisational Agility
 - Psychological Safety
+- Organisational Agility
 - Agile Philosophy
-- Software Development
 - Pragmatic Thinking
-- Transparency and Accountability
+- Software Development
 - Agile Product Management
+- Transparency and Accountability
 resourceTypes:
 - video
 categories:

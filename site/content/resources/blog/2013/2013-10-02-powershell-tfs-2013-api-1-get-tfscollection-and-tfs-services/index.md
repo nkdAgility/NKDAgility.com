@@ -20,6 +20,13 @@ aliases:
 - /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
 - /resources/kaEC07NAXT7
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+aliasesArchive:
+- /blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+- /powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+- /powershell-tfs-2013-api--1
+- /powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
+- /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
+- /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 aliasesFor404:
 - /powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 - /blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services

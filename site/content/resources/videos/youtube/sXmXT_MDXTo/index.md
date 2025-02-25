@@ -18,6 +18,9 @@ aliases:
 - /resources/sXmXT_MDXTo
 aliasesArchive:
 - /resources/videos/devops-elevating-your-organizations-performance-through-bespoke-solutions
+- /resources/devops-elevating-your-organizations-performance-through-bespoke-solutions
+- /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
+- /resources/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 aliasesFor404:
 - /resources/devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Software Development
-- Software Developers
 - People and Process
-- Value Delivery
 - Product Delivery
-- Deployment Frequency
-- Deployment Strategies
+- Software Developers
+- Software Development
+- Value Delivery
 - Practical Techniques and Tooling
-- Technical Excellence
+- Deployment Strategies
+- Deployment Frequency
+- Operational Practices
 resourceTypes:
 - video
 categories:

@@ -14,6 +14,8 @@ aliases:
 - /resources/r9aCEFpUHWU
 aliasesArchive:
 - /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
+- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 aliasesFor404:
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
@@ -22,13 +24,13 @@ duration: 466
 isShort: false
 tags:
 - Scrum Product Development
-- Professional Scrum
 - Scrum Master
 - Scrum Team
-- Team Performance
-- Software Development
+- Professional Scrum
 - People and Process
+- Team Performance
 - Agile Product Management
+- Software Development
 - Product Delivery
 - Technical Leadership
 sitemap:

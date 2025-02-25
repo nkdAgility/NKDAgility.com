@@ -15,6 +15,8 @@ aliases:
 - /resources/HmAIUiR8QSo
 aliasesArchive:
 - /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
+- /resources/videos/building-a-culture-of-quality
+- /resources/building-a-culture-of-quality
 aliasesFor404:
 - /resources/videos/building-a-culture-of-quality
 - /resources/building-a-culture-of-quality
@@ -22,8 +24,8 @@ preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
 tags:
-- Technical Leadership
 - People and Process
+- Technical Leadership
 - Organisational Culture
 - Technical Mastery
 - Pragmatic Thinking

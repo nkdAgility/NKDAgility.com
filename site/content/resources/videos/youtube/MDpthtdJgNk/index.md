@@ -18,6 +18,9 @@ aliases:
 - /resources/MDpthtdJgNk
 aliasesArchive:
 - /resources/videos/why-is-kanban-becoming-increasingly-popular-in-creative-industries
+- /resources/why-is-kanban-becoming-increasingly-popular-in-creative-industries
+- /resources/videos/why-is-kanban-becoming-popular-with-creative-industries-
+- /resources/why-is-kanban-becoming-popular-with-creative-industries-
 aliasesFor404:
 - /resources/why-is-kanban-becoming-increasingly-popular-in-creative-industries
 - /resources/videos/why-is-kanban-becoming-popular-with-creative-industries-
@@ -28,9 +31,9 @@ sitemap:
 tags:
 - People and Process
 - Practical Techniques and Tooling
+- Operational Practices
 - Pragmatic Thinking
 - Agile Frameworks
-- Operational Practices
 resourceTypes:
 - video
 categories:

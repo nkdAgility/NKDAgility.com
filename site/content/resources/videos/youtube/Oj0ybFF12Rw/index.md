@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
 aliasesArchive:
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
+- /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
+- /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
+- /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 aliasesFor404:
 - /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
 - /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
@@ -29,9 +32,9 @@ sitemap:
 tags:
 - Scaling Scrum
 - Scaling Agility
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Professional Scrum
 - Scaled Agile
 resourceTypes:

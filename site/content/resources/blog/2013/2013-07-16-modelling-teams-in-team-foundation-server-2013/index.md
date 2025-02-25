@@ -17,6 +17,10 @@ aliases:
 - /modelling-teams-in-team-foundation-server-2013
 - /resources/Km0aNB0A6C1
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
+aliasesArchive:
+- /blog/modelling-teams-in-team-foundation-server-2013
+- /modelling-teams-in-team-foundation-server-2013
+- /resources/blog/modelling-teams-in-team-foundation-server-2013
 aliasesFor404:
 - /modelling-teams-in-team-foundation-server-2013
 - /blog/modelling-teams-in-team-foundation-server-2013
@@ -24,16 +28,16 @@ aliasesFor404:
 tags:
 - Software Development
 - Application Lifecycle Management
-- Modern Source Control
 - Install and Configuration
+- Modern Source Control
 - Practical Techniques and Tooling
-- Azure DevOps
 - Operational Practices
+- Azure DevOps
 - System Configuration
 - Software Developers
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

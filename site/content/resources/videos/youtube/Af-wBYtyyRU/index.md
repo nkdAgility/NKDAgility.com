@@ -18,6 +18,9 @@ aliases:
 - /resources/Af-wBYtyyRU
 aliasesArchive:
 - /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+- /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+- /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
+- /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 aliasesFor404:
 - /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 - /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
@@ -28,14 +31,14 @@ sitemap:
 tags:
 - Value Delivery
 - Throughput
-- Ability to Innovate
 - Metrics and Learning
-- Agile Product Management
 - Product Delivery
-- Product Owner
-- People and Process
+- Agile Product Management
+- Ability to Innovate
+- Agile Project Management
 - Decision Making
 - Evidence Based Management
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

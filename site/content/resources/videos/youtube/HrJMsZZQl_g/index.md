@@ -18,6 +18,10 @@ aliases:
 - /resources/HrJMsZZQl_g
 aliasesArchive:
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
+- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
+- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
+- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
+- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
 aliasesFor404:
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
@@ -29,14 +33,14 @@ sitemap:
 tags:
 - People and Process
 - Discovery and Learning
+- Team Performance
 - Team Collaboration
 - Continuous Learning
-- Team Performance
-- Agile Frameworks
 - Pragmatic Thinking
+- Agile Frameworks
 - Empirical Process Control
-- Metrics and Learning
 - Scrum Team
+- Customer Feedback Loops
 resourceTypes:
 - video
 categories:

@@ -19,6 +19,12 @@ aliases:
 - /blog/what's-in-a-burndown-
 - /resources/SdYtGr9X2KV
 - /resources/blog/whats-in-a-burndown
+aliasesArchive:
+- /blog/whats-in-a-burndown
+- /whats-in-a-burndown
+- /what's-in-a-burndown-
+- /blog/what's-in-a-burndown-
+- /resources/blog/whats-in-a-burndown
 aliasesFor404:
 - /whats-in-a-burndown
 - /blog/whats-in-a-burndown
@@ -27,15 +33,15 @@ aliasesFor404:
 - /resources/blog/whats-in-a-burndown
 tags:
 - Scrum Product Development
+- Scrum Team
 - Practical Techniques and Tooling
 - Product Delivery
 - Software Development
-- Scrum Team
 - Agile Project Management
-- Team Performance
+- Software Developers
 - Agile Product Management
-- Professional Scrum
 - Agile Planning
+- Metrics and Learning
 categories:
 - Scrum
 - Social Technologies

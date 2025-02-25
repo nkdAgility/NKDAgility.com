@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
 aliasesArchive:
 - /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
+- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 aliasesFor404:
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
@@ -22,14 +24,14 @@ preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 isShort: true
 tags:
-- Product Backlog
 - Agile Product Management
-- Agile Planning
-- Product Delivery
-- Product Owner
+- Product Backlog
 - Agile Project Management
-- Value Delivery
+- Product Owner
 - Agile Planning Tools
+- Product Delivery
+- Agile Planning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

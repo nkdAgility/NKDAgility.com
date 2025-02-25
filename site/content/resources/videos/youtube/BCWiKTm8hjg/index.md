@@ -18,6 +18,9 @@ aliases:
 - /resources/BCWiKTm8hjg
 aliasesArchive:
 - /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+- /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+- /resources/videos/7-virtues-of-agile-charity
+- /resources/7-virtues-of-agile-charity
 aliasesFor404:
 - /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 - /resources/videos/7-virtues-of-agile-charity
@@ -28,9 +31,9 @@ sitemap:
 tags:
 - People and Process
 - Agile Values and Principles
+- Team Motivation
 - Team Collaboration
 - Agile Philosophy
-- Team Motivation
 - Personal
 resourceTypes:
 - video

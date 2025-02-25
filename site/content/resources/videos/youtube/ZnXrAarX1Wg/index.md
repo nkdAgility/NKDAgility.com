@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/no-go-zone-for-agile-consultants
 aliasesArchive:
 - /resources/videos/no-go-zone-for-agile-consultants
+- /resources/no-go-zone-for-agile-consultants
+- /resources/videos/no-go-zone-for-agile-consultants-
+- /resources/no-go-zone-for-agile-consultants-
 aliasesFor404:
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-

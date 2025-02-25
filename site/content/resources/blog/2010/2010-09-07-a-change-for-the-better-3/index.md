@@ -19,6 +19,12 @@ aliases:
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/a_PdCAmRAp9
 - /resources/blog/a-change-for-the-better-3
+aliasesArchive:
+- /blog/a-change-for-the-better-3
+- /a-change-for-the-better-3
+- /a-change-for-the-better--3---ssw-to-northwest-cadence
+- /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
+- /resources/blog/a-change-for-the-better-3
 aliasesFor404:
 - /a-change-for-the-better-3
 - /blog/a-change-for-the-better-3
@@ -28,14 +34,14 @@ aliasesFor404:
 tags:
 - People and Process
 - Application Lifecycle Management
-- Software Developers
 - Agile Project Management
-- Continuous Learning
+- Software Developers
 - Software Development
-- Personal
+- Continuous Learning
 - Mentoring
+- Personal
 - Product Delivery
-- Engineering Practices
+- Practical Techniques and Tooling
 categories:
 - Social Technologies
 - Scrum

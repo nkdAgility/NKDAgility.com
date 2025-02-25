@@ -17,13 +17,17 @@ aliases:
 - /advanced-email-content-addendum
 - /resources/MmuYvqDCRX7
 - /resources/blog/advanced-email-content-addendum
+aliasesArchive:
+- /blog/advanced-email-content-addendum
+- /advanced-email-content-addendum
+- /resources/blog/advanced-email-content-addendum
 aliasesFor404:
 - /advanced-email-content-addendum
 - /blog/advanced-email-content-addendum
 - /resources/blog/advanced-email-content-addendum
 tags:
-- Windows
 - Troubleshooting
+- Windows
 categories: []
 preview: metro-merilllynch-128-link-1-1.png
 

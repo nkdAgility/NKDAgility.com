@@ -18,6 +18,9 @@ aliases:
 - /resources/96iDY11yOjc
 aliasesArchive:
 - /resources/videos/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
+- /resources/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
+- /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
+- /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 aliasesFor404:
 - /resources/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
 - /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
@@ -26,22 +29,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 - Continuous Learning
 - Employee Engagement
-- Software Developers
 - Pragmatic Thinking
+- Software Developers
 - Personal
+- Mentoring
 - Software Development
 - Coaching
-- Mentoring
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

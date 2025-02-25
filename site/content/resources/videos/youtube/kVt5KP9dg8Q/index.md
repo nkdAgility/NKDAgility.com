@@ -18,6 +18,9 @@ aliases:
 - /resources/kVt5KP9dg8Q
 aliasesArchive:
 - /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 aliasesFor404:
 - /resources/detecting-agile-bs-lessons-from-the-department-of-defense
 - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
@@ -27,13 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Philosophy
-- Value Delivery
 - Operational Practices
-- Product Delivery
-- Software Development
-- Agile Strategy
 - Business Agility
+- Agile Strategy
+- Value Delivery
+- Software Development
+- Product Delivery
+- Agile Philosophy
 - Software Developers
 - Pragmatic Thinking
 resourceTypes:

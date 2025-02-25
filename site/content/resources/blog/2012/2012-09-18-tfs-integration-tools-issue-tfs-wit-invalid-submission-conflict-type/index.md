@@ -20,6 +20,13 @@ aliases:
 - /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /resources/vrpjXVvhpYA
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
+aliasesArchive:
+- /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
+- /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
+- /tfs-integration-tools
+- /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
+- /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
+- /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 aliasesFor404:
 - /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 - /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
@@ -29,10 +36,10 @@ aliasesFor404:
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
+- System Configuration
 - Troubleshooting
+- Software Development
 categories:
 - DevOps
 preview: metro-problem-icon-2-2.png

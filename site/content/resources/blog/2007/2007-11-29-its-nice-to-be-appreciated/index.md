@@ -19,6 +19,12 @@ aliases:
 - /blog/it's-nice-to-be-appreciated-
 - /resources/Kmtwkw7RD0K
 - /resources/blog/its-nice-to-be-appreciated
+aliasesArchive:
+- /blog/its-nice-to-be-appreciated
+- /its-nice-to-be-appreciated
+- /it's-nice-to-be-appreciated-
+- /blog/it's-nice-to-be-appreciated-
+- /resources/blog/its-nice-to-be-appreciated
 aliasesFor404:
 - /its-nice-to-be-appreciated
 - /blog/its-nice-to-be-appreciated

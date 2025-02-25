@@ -15,6 +15,8 @@ aliases:
 - /resources/qNJ2suVslzE
 aliasesArchive:
 - /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
+- /resources/videos/taming-scope-creep-with-agile
+- /resources/taming-scope-creep-with-agile
 aliasesFor404:
 - /resources/videos/taming-scope-creep-with-agile
 - /resources/taming-scope-creep-with-agile
@@ -23,15 +25,15 @@ duration: 259
 isShort: false
 tags:
 - Agile Product Operating Model
-- Agile Values and Principles
 - Agile Product Management
-- Agile Planning
-- Software Development
-- Software Developers
+- Agile Values and Principles
+- Value Delivery
 - Market Adaptability
-- People and Process
-- Agile Frameworks
-- Product Delivery
+- Agile Strategy
+- Agile Philosophy
+- Software Development
+- Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

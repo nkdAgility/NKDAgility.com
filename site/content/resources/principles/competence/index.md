@@ -13,6 +13,8 @@ slug: competence
 aliases:
 - /principles/competence/
 - /resources/I3eGjbYOnzu
+aliasesArchive:
+- /principles/competence/
 aliasesFor404:
 - /principles/competence/
 card:

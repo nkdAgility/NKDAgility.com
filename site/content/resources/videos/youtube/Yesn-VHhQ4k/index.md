@@ -18,6 +18,9 @@ aliases:
 - /resources/Yesn-VHhQ4k
 aliasesArchive:
 - /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
+- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 aliasesFor404:
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 - /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Empirical Process Control
 - People and Process
-- Discovery and Learning
+- Empirical Process Control
 - Scrum Values
-- Agile Strategy
+- Discovery and Learning
 - Organisational Agility
-- Software Development
 - Agile Frameworks
+- Agile Transformation
 - Agile Philosophy
+- Software Development
 resourceTypes:
 - video
 categories:

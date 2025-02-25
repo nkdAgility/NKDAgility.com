@@ -14,6 +14,8 @@ aliases:
 - /resources/8vu-AXJwwYk
 aliasesArchive:
 - /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
+- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
+- /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 aliasesFor404:
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
@@ -22,11 +24,11 @@ duration: 554
 isShort: false
 tags:
 - Pragmatic Thinking
-- Organisational Change
 - People and Process
-- Organisational Physics
-- Organisational Agility
+- Organisational Change
 - Change Management
+- Organisational Agility
+- Organisational Physics
 - Sociotechnical Systems
 - Resilience and Change
 - Transparency and Accountability

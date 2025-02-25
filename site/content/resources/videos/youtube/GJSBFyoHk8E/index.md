@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
+- /resources/how-does-a-scrum-team-create-a-sprint-goal
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
+- /resources/how-does-a-scrum-team-create-a-sprint-goal-
 aliasesFor404:
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
@@ -29,13 +32,13 @@ sitemap:
 tags:
 - Scrum Product Development
 - Scrum Team
-- Professional Scrum
 - People and Process
 - Agile Product Management
-- Software Development
-- Agile Frameworks
-- Agile Planning
+- Professional Scrum
 - Agile Project Management
+- Software Development
+- Agile Planning
+- Agile Frameworks
 - Value Delivery
 resourceTypes:
 - video

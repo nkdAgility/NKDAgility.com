@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
+- /resources/3-best-ways-to-wreck-kanban-use-vanity-metrics
+- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
+- /resources/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
 aliasesFor404:
 - /resources/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
@@ -29,14 +32,14 @@ sitemap:
 tags:
 - Transparency
 - Metrics and Learning
-- Transparency and Accountability
 - Cycle Time
-- Evidence Based Leadership
+- Transparency and Accountability
+- Empirical Process Control
+- Practical Techniques and Tooling
 - Evidence Based Management
 - Flow Efficiency
-- Practical Techniques and Tooling
-- Empirical Process Control
-- Throughput
+- Evidence Based Leadership
+- Decision Making
 resourceTypes:
 - video
 categories:

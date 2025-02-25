@@ -15,6 +15,7 @@ aliases:
 - /resources/RCJsST0xBCE
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 aliasesFor404:
 - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility

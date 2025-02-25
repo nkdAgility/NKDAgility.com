@@ -18,6 +18,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1-
+- /resources/scrum-is-like-communism-it-doesnt-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-1
 aliasesFor404:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-1
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
@@ -29,13 +32,13 @@ tags:
 - Scrum Product Development
 - Transparency
 - Empirical Process Control
-- Transparency and Accountability
 - People and Process
-- Scrum Team
 - Daily Scrum
-- Team Collaboration
-- Professional Scrum
+- Scrum Team
+- Transparency and Accountability
 - Scrum Master
+- Product Delivery
+- Software Developers
 resourceTypes:
 - video
 layout: video

@@ -17,17 +17,21 @@ aliases:
 - /reformat-your-css-on-the-fly
 - /resources/elcSY_VSAVs
 - /resources/blog/reformat-your-css-on-the-fly
+aliasesArchive:
+- /blog/reformat-your-css-on-the-fly
+- /reformat-your-css-on-the-fly
+- /resources/blog/reformat-your-css-on-the-fly
 aliasesFor404:
 - /reformat-your-css-on-the-fly
 - /blog/reformat-your-css-on-the-fly
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
+- Software Development
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-1.png

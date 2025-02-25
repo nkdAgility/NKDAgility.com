@@ -14,6 +14,8 @@ aliases:
 - /resources/LxM_F_JJLeg
 aliasesArchive:
 - /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
+- /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
+- /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 aliasesFor404:
 - /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 - /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
@@ -21,16 +23,16 @@ preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false
 tags:
-- Agile Project Management
-- Agile Values and Principles
 - People and Process
-- Software Developers
-- Organisational Culture
-- Agile Transformation
-- Change Management
-- Agile Philosophy
+- Agile Values and Principles
+- Agile Project Management
 - Team Collaboration
+- Change Management
+- Agile Transformation
+- Software Developers
+- Agile Philosophy
 - Team Performance
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

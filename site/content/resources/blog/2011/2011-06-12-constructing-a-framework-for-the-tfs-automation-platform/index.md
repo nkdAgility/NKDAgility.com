@@ -17,20 +17,24 @@ aliases:
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /resources/w6AaB_5-1gr
 - /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
+aliasesArchive:
+- /blog/constructing-a-framework-for-the-tfs-automation-platform
+- /constructing-a-framework-for-the-tfs-automation-platform
+- /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
 aliasesFor404:
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /blog/constructing-a-framework-for-the-tfs-automation-platform
 - /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - Internal Developer Platform
-- Practical Techniques and Tooling
 - Platform Engineering
 - Software Development
-- Technical Excellence
 - Technical Mastery
-- Software Developers
+- Technical Excellence
 - Pragmatic Thinking
+- Software Developers
 - System Configuration
 categories:
 - DevOps

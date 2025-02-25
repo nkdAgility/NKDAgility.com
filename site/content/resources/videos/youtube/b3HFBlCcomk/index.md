@@ -18,6 +18,9 @@ aliases:
 - /resources/b3HFBlCcomk
 aliasesArchive:
 - /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+- /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+- /resources/videos/debunking-the-myth-agile-is-not-about-speed
+- /resources/debunking-the-myth-agile-is-not-about-speed
 aliasesFor404:
 - /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 - /resources/videos/debunking-the-myth-agile-is-not-about-speed
@@ -26,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Agile Values and Principles
 - People and Process
+- Agile Values and Principles
 - Agile Product Management
+- Agile Project Management
 - Agile Product Operating Model
+- Value Delivery
 - Business Agility
-- Organisational Agility
 - Agile Frameworks
-- Agile Philosophy
+- Organisational Agility
 - Product Delivery
 resourceTypes:
 - video

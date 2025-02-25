@@ -17,6 +17,10 @@ aliases:
 - /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 - /resources/YVhqKOWo2QQ
 - /resources/blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
+aliasesArchive:
+- /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
+- /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
+- /resources/blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 aliasesFor404:
 - /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 - /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade

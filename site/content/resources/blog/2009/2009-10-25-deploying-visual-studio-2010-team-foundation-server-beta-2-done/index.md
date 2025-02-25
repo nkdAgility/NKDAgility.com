@@ -19,6 +19,12 @@ aliases:
 - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /resources/n3zK02HdExl
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
+aliasesArchive:
+- /blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
+- /deploying-visual-studio-2010-team-foundation-server-beta-2-done
+- /deploying-visual-studio-2010-team-foundation-server-beta-2---done
+- /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
+- /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 aliasesFor404:
 - /deploying-visual-studio-2010-team-foundation-server-beta-2-done
 - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 - Deployment Strategies

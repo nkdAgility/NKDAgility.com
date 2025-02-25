@@ -18,6 +18,9 @@ aliases:
 - /resources/9VHasQBlQc8
 aliasesArchive:
 - /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
+- /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
+- /resources/videos/7-virtues-of-agile-patience
+- /resources/7-virtues-of-agile-patience
 aliasesFor404:
 - /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
 - /resources/videos/7-virtues-of-agile-patience
@@ -31,9 +34,9 @@ tags:
 - Agile Philosophy
 - Agile Leadership
 - Agile Values and Principles
-- Team Collaboration
 - Team Performance
 - Team Motivation
+- Team Collaboration
 - Personal
 resourceTypes:
 - video

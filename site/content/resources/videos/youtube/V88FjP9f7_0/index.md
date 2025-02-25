@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/quotes-less-is-more-true-or-false
 aliasesArchive:
 - /resources/videos/quotes-less-is-more-true-or-false
+- /resources/quotes-less-is-more-true-or-false
+- /resources/videos/quotes-less-is-more-true-or-false-
+- /resources/quotes-less-is-more-true-or-false-
 aliasesFor404:
 - /resources/quotes-less-is-more-true-or-false
 - /resources/videos/quotes-less-is-more-true-or-false-
@@ -28,8 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Agile Philosophy
 - Agile Project Management
+- Agile Philosophy
 - Agile Frameworks
 resourceTypes:
 - video

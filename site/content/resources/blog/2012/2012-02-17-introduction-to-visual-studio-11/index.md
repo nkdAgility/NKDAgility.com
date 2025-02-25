@@ -17,16 +17,20 @@ aliases:
 - /introduction-to-visual-studio-11
 - /resources/jo0zeQr1paY
 - /resources/blog/introduction-to-visual-studio-11
+aliasesArchive:
+- /blog/introduction-to-visual-studio-11
+- /introduction-to-visual-studio-11
+- /resources/blog/introduction-to-visual-studio-11
 aliasesFor404:
 - /introduction-to-visual-studio-11
 - /blog/introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
-- Team Collaboration
 - Products and Books
-- Install and Configuration
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
+- Install and Configuration
+- Team Collaboration
 - News and Reviews
 - Software Development
 - Azure DevOps

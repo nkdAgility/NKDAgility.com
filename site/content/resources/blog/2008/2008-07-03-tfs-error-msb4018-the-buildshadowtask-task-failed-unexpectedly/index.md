@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
 - /resources/xi_wQ8zFW_U
 - /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
+aliasesArchive:
+- /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
+- /tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
+- /tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
+- /blog/tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
+- /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 aliasesFor404:
 - /tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 - /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
@@ -28,8 +34,8 @@ aliasesFor404:
 tags:
 - Windows
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
+- Software Development
 - Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:

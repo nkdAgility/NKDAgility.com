@@ -18,6 +18,9 @@ aliases:
 - /resources/kTszGsXPLXY
 aliasesArchive:
 - /resources/videos/getting-started-with-kanban-
+- /resources/getting-started-with-kanban
+- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
+- /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 aliasesFor404:
 - /resources/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Cycle Time
 - Practical Techniques and Tooling
-- Agile Frameworks
-- Operational Practices
 - Agile Project Management
+- Operational Practices
+- Agile Frameworks
 - Pragmatic Thinking
-- Throughput
 - Software Development
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

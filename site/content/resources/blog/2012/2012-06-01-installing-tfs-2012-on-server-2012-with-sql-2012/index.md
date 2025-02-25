@@ -17,6 +17,10 @@ aliases:
 - /installing-tfs-2012-on-server-2012-with-sql-2012
 - /resources/krqWTY5WW0r
 - /resources/blog/installing-tfs-2012-on-server-2012-with-sql-2012
+aliasesArchive:
+- /blog/installing-tfs-2012-on-server-2012-with-sql-2012
+- /installing-tfs-2012-on-server-2012-with-sql-2012
+- /resources/blog/installing-tfs-2012-on-server-2012-with-sql-2012
 aliasesFor404:
 - /installing-tfs-2012-on-server-2012-with-sql-2012
 - /blog/installing-tfs-2012-on-server-2012-with-sql-2012

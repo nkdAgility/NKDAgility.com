@@ -19,6 +19,12 @@ aliases:
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/WvUOpSMqawD
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
+aliasesArchive:
+- /blog/evolution-not-transformation-this-is-the-inevitability-of-change
+- /evolution-not-transformation-this-is-the-inevitability-of-change
+- /evolution-not-transformation--this-is-the-inevitability-of-change
+- /blog/evolution-not-transformation--this-is-the-inevitability-of-change
+- /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 aliasesFor404:
 - /evolution-not-transformation-this-is-the-inevitability-of-change
 - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
@@ -28,14 +34,14 @@ aliasesFor404:
 tags:
 - Organisational Agility
 - Experimentation
-- Agile Project Management
 - People and Process
+- Agile Project Management
+- Change Management
 - Business Agility
-- Discovery and Learning
-- Resilience and Change
-- Agile Leadership
-- Digital Transformation
 - Agile Values and Principles
+- Resilience and Change
+- Digital Transformation
+- Agile Transformation
 categories:
 - Leadership
 - Social Technologies

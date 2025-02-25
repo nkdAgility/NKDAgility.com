@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
 aliasesArchive:
 - /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
+- /resources/the-power-of-community-becoming-an-awesome-agile-coach
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 aliasesFor404:
 - /resources/the-power-of-community-becoming-an-awesome-agile-coach
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
@@ -29,8 +32,8 @@ sitemap:
 tags:
 - People and Process
 - Coaching
-- Personal
 - Mentoring
+- Personal
 resourceTypes:
 - video
 categories:

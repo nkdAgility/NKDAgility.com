@@ -18,6 +18,9 @@ aliases:
 - /resources/SMgKAk-qPMM
 aliasesArchive:
 - /resources/videos/temperance-in-agile-why-less-is-more
+- /resources/temperance-in-agile-why-less-is-more
+- /resources/videos/7-virtues-of-agile-temperance
+- /resources/7-virtues-of-agile-temperance
 aliasesFor404:
 - /resources/temperance-in-agile-why-less-is-more
 - /resources/videos/7-virtues-of-agile-temperance
@@ -27,13 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Agile Frameworks
 - Agile Product Management
-- Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Software Development
+- Agile Frameworks
+- Agile Philosophy
 - Pragmatic Thinking
+- Software Development
 - Agile Planning
 - Software Developers
 resourceTypes:

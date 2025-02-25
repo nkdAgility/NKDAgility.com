@@ -14,6 +14,8 @@ aliases:
 - /resources/tPX-wc6pG7M
 aliasesArchive:
 - /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
+- /resources/videos/5-october-2023-agile-leader-webinar
+- /resources/5-october-2023-agile-leader-webinar
 aliasesFor404:
 - /resources/videos/5-october-2023-agile-leader-webinar
 - /resources/5-october-2023-agile-leader-webinar
@@ -23,14 +25,14 @@ isShort: false
 tags:
 - People and Process
 - Agile Values and Principles
-- Organisational Agility
-- Agile Strategy
-- Organisational Culture
 - Employee Engagement
+- Organisational Culture
+- Agile Strategy
+- Organisational Change
 - Organisational Psychology
 - Agile Leadership
-- Agile Philosophy
-- Value Delivery
+- Agile Transformation
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

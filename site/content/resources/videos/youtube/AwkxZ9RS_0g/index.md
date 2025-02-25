@@ -18,6 +18,9 @@ aliases:
 - /resources/AwkxZ9RS_0g
 aliasesArchive:
 - /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment
+- /resources/how-does-your-consulting-experience-manifest-in-the-training-environment
+- /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
+- /resources/how-does-your-consulting-experience-manifest-in-the-training-environment-
 aliasesFor404:
 - /resources/how-does-your-consulting-experience-manifest-in-the-training-environment
 - /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-

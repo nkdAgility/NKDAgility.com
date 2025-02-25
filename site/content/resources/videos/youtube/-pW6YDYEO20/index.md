@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters
 aliasesArchive:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters
+- /resources/worst-trait-in-unskilled-scrum-masters
+- /resources/videos/worst-trait-in-unskilled-scrum-masters-
+- /resources/worst-trait-in-unskilled-scrum-masters-
 aliasesFor404:
 - /resources/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
@@ -26,14 +29,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Team Performance
-- Self Organisation
-- Coaching
-- Agile Frameworks
 - Agile Project Management
+- Coaching
+- Self Organisation
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

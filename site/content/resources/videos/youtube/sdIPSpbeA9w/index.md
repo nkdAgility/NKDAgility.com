@@ -15,6 +15,8 @@ aliases:
 - /resources/sdIPSpbeA9w
 aliasesArchive:
 - /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
+- /resources/videos/the-cost-saving-power-of-automation
+- /resources/the-cost-saving-power-of-automation
 aliasesFor404:
 - /resources/videos/the-cost-saving-power-of-automation
 - /resources/the-cost-saving-power-of-automation
@@ -23,15 +25,15 @@ duration: 613
 isShort: false
 tags:
 - Software Development
+- Test Automation
 - Azure DevOps
 - Automated Testing
-- Test Automation
-- Pragmatic Thinking
 - Practical Techniques and Tooling
-- Technical Excellence
-- Engineering Practices
-- Flow Efficiency
+- Pragmatic Thinking
 - Technical Mastery
+- Operational Practices
+- Engineering Practices
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

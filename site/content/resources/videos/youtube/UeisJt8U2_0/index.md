@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-plague
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-plague
+- /resources/7-harbingers-of-the-agile-apocalypse-plague
+- /resources/videos/plague!-7-harbingers-agile-apocalypse
+- /resources/plague!-7-harbingers-agile-apocalypse
 aliasesFor404:
 - /resources/7-harbingers-of-the-agile-apocalypse-plague
 - /resources/videos/plague!-7-harbingers-agile-apocalypse
@@ -27,11 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - Software Development
 - Personal
 - Professional Scrum

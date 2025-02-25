@@ -14,6 +14,8 @@ aliases:
 - /resources/ZcMcVL7mNGU
 aliasesArchive:
 - /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+- /resources/videos/product-management-mentor-program-final
+- /resources/product-management-mentor-program-final
 aliasesFor404:
 - /resources/videos/product-management-mentor-program-final
 - /resources/product-management-mentor-program-final
@@ -22,14 +24,14 @@ duration: 256
 isShort: false
 tags:
 - People and Process
-- Software Development
 - Agile Product Operating Model
 - Agile Product Management
+- Software Development
+- Product Strategy
+- Value Delivery
+- Metrics and Learning
 - Product Delivery
 - Hypothesis Driven Development
-- Value Delivery
-- Product Strategy
-- Metrics and Learning
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

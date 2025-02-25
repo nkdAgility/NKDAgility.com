@@ -18,6 +18,9 @@ aliases:
 - /resources/9HxMS_fg6Kw
 aliasesArchive:
 - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
+- /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
+- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
+- /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 aliasesFor404:
 - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
 - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-

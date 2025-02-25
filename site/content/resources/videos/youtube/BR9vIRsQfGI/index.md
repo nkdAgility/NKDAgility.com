@@ -17,6 +17,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/shorts-things-you-would-teach-a-productowner-apprentice-part-
 - /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
+- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 aliasesFor404:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
@@ -24,16 +26,16 @@ preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
-- Scrum Product Development
-- Professional Scrum
-- Software Development
-- Agile Frameworks
-- Scrum Team
 - People and Process
+- Scrum Product Development
 - Agile Product Management
-- Product Delivery
-- Product Owner
 - Agile Project Management
+- Mentoring
+- Software Development
+- Product Owner
+- Agile Transformation
+- Product Delivery
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.4

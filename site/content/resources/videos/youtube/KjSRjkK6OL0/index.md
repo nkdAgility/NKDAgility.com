@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
 aliasesArchive:
 - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
+- /resources/what-does-an-ineffective-scrum-masters-day-look-like
+- /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
+- /resources/what-does-an-ineffective-scrum-master's-day-look-like-
 aliasesFor404:
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-

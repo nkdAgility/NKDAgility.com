@@ -19,6 +19,12 @@ aliases:
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /resources/8d4KN3bxVfX
 - /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
+aliasesArchive:
+- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
+- /do-you-have-a-contract-between-the-product-owner-and-the-team
+- /do-you-have-a-contract-between-the-product-owner-and-the-team-
+- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
+- /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 aliasesFor404:
 - /do-you-have-a-contract-between-the-product-owner-and-the-team
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
@@ -29,13 +35,13 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Scrum Product Development
-- Product Owner
 - Scrum Team
-- Agile Planning
-- Professional Scrum
-- Agile Frameworks
+- Product Owner
 - Team Collaboration
+- Agile Frameworks
+- Agile Planning
 - People and Process
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

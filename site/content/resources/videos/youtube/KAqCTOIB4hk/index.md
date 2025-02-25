@@ -18,6 +18,9 @@ aliases:
 - /resources/KAqCTOIB4hk
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-immersive-learning-for-product-management
+- /resources/unlocking-the-power-of-immersive-learning-for-product-management
+- /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
+- /resources/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
 aliasesFor404:
 - /resources/unlocking-the-power-of-immersive-learning-for-product-management
 - /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Discovery and Learning
 - People and Process
 - Change Management
+- Discovery and Learning
 - Value Delivery
 - Continuous Learning
 - Evidence Based Management
-- Pragmatic Thinking
 - Ability to Innovate
-- Coaching
+- Pragmatic Thinking
+- Decision Making
 resourceTypes:
 - video
 categories:

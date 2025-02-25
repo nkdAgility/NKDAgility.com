@@ -18,6 +18,9 @@ aliases:
 - /resources/YGBrayIqm7k
 aliasesArchive:
 - /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
+- /resources/the-synergy-between-product-management-and-product-development-in-agile-environments
+- /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
+- /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 aliasesFor404:
 - /resources/the-synergy-between-product-management-and-product-development-in-agile-environments
 - /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
@@ -29,13 +32,13 @@ tags:
 - Agile Product Management
 - Strategy
 - Ability to Innovate
-- Product Delivery
 - Product Strategy
-- People and Process
-- Agile Product Operating Model
 - Strategic Goals
+- Agile Product Operating Model
 - Value Delivery
-- Agile Strategy
+- People and Process
+- Agile Project Management
+- Product Delivery
 resourceTypes:
 - video
 categories:

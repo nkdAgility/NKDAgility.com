@@ -15,6 +15,10 @@ aliasesArchive:
 - /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
 - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
 - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
+- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 aliasesFor404:
 - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!

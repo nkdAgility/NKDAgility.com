@@ -14,6 +14,8 @@ aliases:
 - /resources/qpo4Ru1VVZE
 aliasesArchive:
 - /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
+- /resources/videos/devops-migration-compatibility-problems
+- /resources/devops-migration-compatibility-problems
 aliasesFor404:
 - /resources/videos/devops-migration-compatibility-problems
 - /resources/devops-migration-compatibility-problems

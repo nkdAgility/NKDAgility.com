@@ -14,6 +14,9 @@ aliases:
 - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 - /resources/Knb7n17SqYe
+aliasesArchive:
+- /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
+- /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 aliasesFor404:
 - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
@@ -21,15 +24,15 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Professional Scrum
 - Continuous Learning
+- Professional Scrum
 - Agile Frameworks
-- Products and Books
 - People and Process
+- Products and Books
 - Agile Project Management
 - Software Development
-- Scrum Master
 - Practical Techniques and Tooling
+- Scrum Master
 - Events and Presentations
 
 ---

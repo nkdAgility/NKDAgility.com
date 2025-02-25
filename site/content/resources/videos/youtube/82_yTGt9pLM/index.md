@@ -13,6 +13,8 @@ aliases:
 - /resources/82_yTGt9pLM
 aliasesArchive:
 - /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
+- /resources/videos/agile-consulting-services-overview
+- /resources/agile-consulting-services-overview
 aliasesFor404:
 - /resources/videos/agile-consulting-services-overview
 - /resources/agile-consulting-services-overview
@@ -21,14 +23,14 @@ duration: 370
 isShort: false
 tags:
 - People and Process
-- Agile Strategy
 - Agile Philosophy
+- Agile Frameworks
+- Agile Strategy
 - Agile Transformation
 - Organisational Agility
-- Agile Frameworks
 - Organisational Change
 - Pragmatic Thinking
-- Business Agility
+- Discovery and Learning
 - Continuous Learning
 sitemap:
   filename: sitemap.xml

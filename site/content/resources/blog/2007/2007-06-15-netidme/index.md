@@ -17,6 +17,10 @@ aliases:
 - /netidme
 - /resources/QY3BJhuGqTa
 - /resources/blog/netidme
+aliasesArchive:
+- /blog/netidme
+- /netidme
+- /resources/blog/netidme
 aliasesFor404:
 - /netidme
 - /blog/netidme

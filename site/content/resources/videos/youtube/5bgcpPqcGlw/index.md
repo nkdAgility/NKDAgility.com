@@ -13,6 +13,8 @@ aliases:
 - /resources/5bgcpPqcGlw
 aliasesArchive:
 - /resources/videos/mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
+- /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
+- /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 aliasesFor404:
 - /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 - /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
@@ -21,8 +23,8 @@ duration: 3386
 isShort: false
 tags:
 - Events and Presentations
-- Software Development
 - Operational Practices
+- Software Development
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

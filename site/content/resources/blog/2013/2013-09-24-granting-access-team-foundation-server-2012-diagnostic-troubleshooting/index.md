@@ -19,6 +19,12 @@ aliases:
 - /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /resources/8N31NtGZFyB
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+aliasesArchive:
+- /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+- /granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+- /granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
+- /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
+- /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 aliasesFor404:
 - /granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 - /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
@@ -27,8 +33,8 @@ aliasesFor404:
 - /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 tags:
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

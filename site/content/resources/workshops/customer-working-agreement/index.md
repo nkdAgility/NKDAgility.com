@@ -11,6 +11,10 @@ aliases:
 - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
 - /learn/agile-delivery-kit/workshops/customer-working-agreement/
 - /resources/hjlKdneL4t8
+aliasesArchive:
+- workshops/Customer-Working-Agreement.html
+- /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+- /learn/agile-delivery-kit/workshops/customer-working-agreement/
 aliasesFor404:
 - workshops/Customer-Working-Agreement.html
 - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
@@ -29,15 +33,15 @@ categories:
 - Product Management
 tags:
 - Transparency and Accountability
-- Scrum Product Development
 - People and Process
+- Scrum Product Development
 - Agile Product Management
-- Product Delivery
 - Working Agreements
-- Professional Scrum
+- Product Delivery
+- Agile Project Management
+- Transparency
 - Software Development
-- Agile Frameworks
-- Agile Planning
+- Professional Scrum
 
 ---
 ## Customer Working Agreement

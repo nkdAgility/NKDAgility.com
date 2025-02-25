@@ -17,6 +17,10 @@ aliases:
 - /quality-enablement-to-achieve-predictable-delivery
 - /resources/Qvzmat4E5NB
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
+aliasesArchive:
+- /blog/quality-enablement-to-achieve-predictable-delivery
+- /quality-enablement-to-achieve-predictable-delivery
+- /resources/blog/quality-enablement-to-achieve-predictable-delivery
 aliasesFor404:
 - /quality-enablement-to-achieve-predictable-delivery
 - /blog/quality-enablement-to-achieve-predictable-delivery
@@ -25,13 +29,13 @@ tags:
 - Operational Practices
 - Acceptance Test Driven Development
 - Definition of Done
-- Value Delivery
 - Working Software
-- Software Development
-- Software Developers
 - Product Delivery
+- Software Developers
+- Software Development
+- Value Delivery
+- Evidence Based Management
 - Continuous Delivery
-- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 - DevOps

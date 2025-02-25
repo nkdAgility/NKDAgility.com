@@ -14,6 +14,9 @@ aliases:
 - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 - /resources/Tx-0zZJ1biI
+aliasesArchive:
+- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 aliasesFor404:
 - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/

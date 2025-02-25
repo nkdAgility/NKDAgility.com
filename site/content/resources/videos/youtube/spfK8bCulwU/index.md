@@ -15,6 +15,8 @@ aliases:
 - /resources/spfK8bCulwU
 aliasesArchive:
 - /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs
+- /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
+- /resources/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 aliasesFor404:
 - /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 - /resources/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-

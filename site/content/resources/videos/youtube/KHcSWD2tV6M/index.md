@@ -14,6 +14,8 @@ aliases:
 - /resources/KHcSWD2tV6M
 aliasesArchive:
 - /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+- /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 aliasesFor404:
 - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 - /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
@@ -23,8 +25,8 @@ isShort: false
 tags:
 - People and Process
 - Transparency and Accountability
-- Team Collaboration
 - Team Performance
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

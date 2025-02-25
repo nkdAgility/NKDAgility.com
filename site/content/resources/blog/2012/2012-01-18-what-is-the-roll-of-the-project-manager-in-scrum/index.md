@@ -19,6 +19,12 @@ aliases:
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
 - /resources/nEmEarH66B7
 - /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
+aliasesArchive:
+- /blog/what-is-the-roll-of-the-project-manager-in-scrum
+- /what-is-the-roll-of-the-project-manager-in-scrum
+- /what-is-the-roll-of-the-project-manager-in-scrum-
+- /blog/what-is-the-roll-of-the-project-manager-in-scrum-
+- /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
 aliasesFor404:
 - /what-is-the-roll-of-the-project-manager-in-scrum
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum
@@ -30,11 +36,11 @@ tags:
 - Scrum Product Development
 - Agile Product Management
 - Agile Project Management
-- Professional Scrum
 - Scrum Team
+- Professional Scrum
 - Software Development
-- Agile Frameworks
 - Agile Transformation
+- Agile Frameworks
 - Transparency
 categories:
 - Scrum

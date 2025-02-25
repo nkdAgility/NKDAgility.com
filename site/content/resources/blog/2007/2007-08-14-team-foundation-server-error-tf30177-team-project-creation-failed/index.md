@@ -19,6 +19,12 @@ aliases:
 - /blog/team-foundation-server-error-tf30177---team-project-creation-failed
 - /resources/ovERk0hj1XD
 - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
+aliasesArchive:
+- /blog/team-foundation-server-error-tf30177-team-project-creation-failed
+- /team-foundation-server-error-tf30177-team-project-creation-failed
+- /team-foundation-server-error-tf30177---team-project-creation-failed
+- /blog/team-foundation-server-error-tf30177---team-project-creation-failed
+- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
 aliasesFor404:
 - /team-foundation-server-error-tf30177-team-project-creation-failed
 - /blog/team-foundation-server-error-tf30177-team-project-creation-failed

@@ -18,6 +18,8 @@ aliases:
 - /resources/videos/momentum
 aliasesArchive:
 - /resources/videos/momentum
+- /resources/momentum-2
+- /resources/momentum
 aliasesFor404:
 - /resources/momentum-2
 - /resources/videos/momentum

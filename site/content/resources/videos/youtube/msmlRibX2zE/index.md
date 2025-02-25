@@ -16,6 +16,7 @@ aliases:
 - /resources/videos/harris-beach-sds-ultrabook-unbox
 aliasesArchive:
 - /resources/videos/harris-beach-sds-ultrabook-unbox
+- /resources/harris-beach-sds-ultrabook-unbox
 aliasesFor404:
 - /resources/videos/harris-beach-sds-ultrabook-unbox
 - /resources/harris-beach-sds-ultrabook-unbox

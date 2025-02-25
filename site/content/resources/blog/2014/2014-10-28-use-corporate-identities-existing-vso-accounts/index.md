@@ -19,6 +19,12 @@ aliases:
 - /blog/use-corporate-identities-with-existing-vso-accounts
 - /resources/yIJgOpFCdJE
 - /resources/blog/use-corporate-identities-existing-vso-accounts
+aliasesArchive:
+- /blog/use-corporate-identities-existing-vso-accounts
+- /use-corporate-identities-existing-vso-accounts
+- /use-corporate-identities-with-existing-vso-accounts
+- /blog/use-corporate-identities-with-existing-vso-accounts
+- /resources/blog/use-corporate-identities-existing-vso-accounts
 aliasesFor404:
 - /use-corporate-identities-existing-vso-accounts
 - /blog/use-corporate-identities-existing-vso-accounts
@@ -28,9 +34,9 @@ aliasesFor404:
 tags:
 - Windows
 - Install and Configuration
-- Azure DevOps
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Azure DevOps
 - Troubleshooting
 categories:
 - DevOps

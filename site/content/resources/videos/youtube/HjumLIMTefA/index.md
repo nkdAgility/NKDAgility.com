@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/the-power-of-immersive-learning-in-agile-training
 aliasesArchive:
 - /resources/videos/the-power-of-immersive-learning-in-agile-training
+- /resources/the-power-of-immersive-learning-in-agile-training
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 aliasesFor404:
 - /resources/the-power-of-immersive-learning-in-agile-training
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5

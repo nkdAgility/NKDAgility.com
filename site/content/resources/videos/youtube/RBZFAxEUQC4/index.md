@@ -19,6 +19,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-lust
 - /resources/videos/7-deadly-sins-of-agile-lust
+- /resources/7-deadly-sins-of-agile-lust
+- /resources/videos/lust!-7-deadly-sins-of-agile
+- /resources/lust!-7-deadly-sins-of-agile
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-lust
 - /resources/videos/lust!-7-deadly-sins-of-agile

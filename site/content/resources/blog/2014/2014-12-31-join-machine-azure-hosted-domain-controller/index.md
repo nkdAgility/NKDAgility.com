@@ -19,6 +19,12 @@ aliases:
 - /blog/join-a-machine-to-your-azure-hosted-domain-controller
 - /resources/7RVNi9gLHYY
 - /resources/blog/join-machine-azure-hosted-domain-controller
+aliasesArchive:
+- /blog/join-machine-azure-hosted-domain-controller
+- /join-machine-azure-hosted-domain-controller
+- /join-a-machine-to-your-azure-hosted-domain-controller
+- /blog/join-a-machine-to-your-azure-hosted-domain-controller
+- /resources/blog/join-machine-azure-hosted-domain-controller
 aliasesFor404:
 - /join-machine-azure-hosted-domain-controller
 - /blog/join-machine-azure-hosted-domain-controller
@@ -27,8 +33,8 @@ aliasesFor404:
 - /resources/blog/join-machine-azure-hosted-domain-controller
 tags:
 - System Configuration
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Windows
 - Troubleshooting
 categories: []

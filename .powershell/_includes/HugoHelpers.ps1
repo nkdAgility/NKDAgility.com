@@ -200,9 +200,7 @@ function Update-StringList {
     }
 }
 
-
-
-# Function to save updated HugoMarkdown to a file
+# Function to save updated HugoMarkdown to a file only if the content differs
 function Save-HugoMarkdown {
     param (
         [Parameter(Mandatory = $true)]
@@ -211,11 +209,27 @@ function Save-HugoMarkdown {
         [string]$Path
     )
 
+    # Generate the updated content
     $updatedContent = "---`n$(ConvertTo-Yaml $hugoMarkdown.FrontMatter)`n---`n$($hugoMarkdown.BodyContent.TrimEnd())"
     $updatedContent = $updatedContent -replace "`r`n", "`n"  # Normalize line endings
     $updatedContent += "`n"
-    Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
+
+    # Check if the file exists and read its current content
+    if (Test-Path $Path) {
+        $currentContent = Get-Content -Path $Path -Raw -Encoding UTF8
+        $currentContent = $currentContent -replace "`r`n", "`n"  # Normalize line endings
+
+        # Only save if the content differs
+        if ($currentContent -ne $updatedContent) {
+            Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
+        }
+    }
+    else {
+        # If the file doesn't exist, create it
+        Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
+    }
 }
+
 
 function Get-HugoMarkdownList {
     param (

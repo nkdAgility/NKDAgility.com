@@ -17,6 +17,10 @@ aliases:
 - /vista-mobile-device-center
 - /resources/Lqpn7ILc1mg
 - /resources/blog/vista-mobile-device-center
+aliasesArchive:
+- /blog/vista-mobile-device-center
+- /vista-mobile-device-center
+- /resources/blog/vista-mobile-device-center
 aliasesFor404:
 - /vista-mobile-device-center
 - /blog/vista-mobile-device-center

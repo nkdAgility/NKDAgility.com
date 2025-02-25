@@ -20,6 +20,12 @@ aliases:
 - /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/vkqr5T9YVsf
 - /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
+aliasesArchive:
+- /blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
+- /risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
+- /risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
+- /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
+- /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 aliasesFor404:
 - /risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 - /blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
@@ -29,14 +35,14 @@ aliasesFor404:
 tags:
 - Pragmatic Thinking
 - Strategy
-- Increment
-- Agile Project Management
 - Agile Product Management
-- Agile Strategy
-- Software Development
+- Agile Project Management
+- Increment
 - Working Software
-- Agile Values and Principles
 - Product Delivery
+- Agile Values and Principles
+- Agile Strategy
+- Agile Philosophy
 categories:
 - Social Technologies
 - Product Management

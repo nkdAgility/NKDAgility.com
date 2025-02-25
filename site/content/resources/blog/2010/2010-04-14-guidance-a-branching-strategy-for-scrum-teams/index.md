@@ -19,6 +19,12 @@ aliases:
 - /blog/guidance--a-branching-strategy-for-scrum-teams
 - /resources/kxyZ3s8u340
 - /resources/blog/guidance-a-branching-strategy-for-scrum-teams
+aliasesArchive:
+- /blog/guidance-a-branching-strategy-for-scrum-teams
+- /guidance-a-branching-strategy-for-scrum-teams
+- /guidance--a-branching-strategy-for-scrum-teams
+- /blog/guidance--a-branching-strategy-for-scrum-teams
+- /resources/blog/guidance-a-branching-strategy-for-scrum-teams
 aliasesFor404:
 - /guidance-a-branching-strategy-for-scrum-teams
 - /blog/guidance-a-branching-strategy-for-scrum-teams

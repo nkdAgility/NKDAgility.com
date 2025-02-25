@@ -19,6 +19,12 @@ aliases:
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
 - /resources/Jpm_MxV4e3G
 - /resources/blog/execute-tests-release-management-visual-studio-2013
+aliasesArchive:
+- /blog/execute-tests-release-management-visual-studio-2013
+- /execute-tests-release-management-visual-studio-2013
+- /execute-tests-with-release-management-for-visual-studio-2013
+- /blog/execute-tests-with-release-management-for-visual-studio-2013
+- /resources/blog/execute-tests-release-management-visual-studio-2013
 aliasesFor404:
 - /execute-tests-release-management-visual-studio-2013
 - /blog/execute-tests-release-management-visual-studio-2013

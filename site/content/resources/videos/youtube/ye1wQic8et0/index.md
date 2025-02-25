@@ -14,6 +14,8 @@ aliases:
 - /resources/ye1wQic8et0
 aliasesArchive:
 - /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
+- /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+- /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 aliasesFor404:
 - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
@@ -22,15 +24,15 @@ duration: 408
 isShort: false
 tags:
 - People and Process
-- Agile Strategy
 - Business Agility
-- Lead Time
 - Market Adaptability
-- Agile Philosophy
 - Decision Making
-- Enterprise Agility
+- Agile Strategy
+- Lead Time
+- Agile Philosophy
+- Operational Practices
 - Pragmatic Thinking
-- Organisational Agility
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

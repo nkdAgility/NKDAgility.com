@@ -18,6 +18,9 @@ aliases:
 - /resources/JzAbvkFxVzs
 aliasesArchive:
 - /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-dogma
+- /resources/5-ghosts-of-agile-past-dogma
 aliasesFor404:
 - /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-dogma
@@ -26,12 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
 - Software Development
 - Personal
 - Agile Values and Principles

@@ -19,6 +19,12 @@ aliases:
 - /resources/BonYegnhwPu
 - /becoming-a-better-developer
 - /resources/blog/becoming-a-better-developer
+aliasesArchive:
+- /blog/becoming-a-better-developer
+- /becoming-a-better-developer---
+- /blog/becoming-a-better-developer---
+- /becoming-a-better-developer
+- /resources/blog/becoming-a-better-developer
 aliasesFor404:
 - /becoming-a-better-developer
 - /blog/becoming-a-better-developer

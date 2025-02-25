@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
 aliasesArchive:
 - /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
+- /resources/videos/biggest-misconception-about-a-scrum-master
+- /resources/biggest-misconception-about-a-scrum-master
 aliasesFor404:
 - /resources/videos/biggest-misconception-about-a-scrum-master
 - /resources/biggest-misconception-about-a-scrum-master
@@ -22,9 +24,9 @@ preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Technical Leadership
 - Agile Project Management
 - Agile Leadership

@@ -19,6 +19,12 @@ aliases:
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
 - /resources/X_Bw0WdCwEc
 - /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
+aliasesArchive:
+- /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
+- /do-you-know-about-the-visual-studio-alm-rangers-guidance
+- /do-you-know-about-the-visual-studio-alm-rangers-guidance-
+- /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
+- /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 aliasesFor404:
 - /do-you-know-about-the-visual-studio-alm-rangers-guidance
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance

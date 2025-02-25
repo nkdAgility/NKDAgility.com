@@ -19,6 +19,8 @@ aliases:
 - /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 aliasesArchive:
 - /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
+- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 aliasesFor404:
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
@@ -30,11 +32,11 @@ tags:
 - Product Owner
 - People and Process
 - Agile Product Management
-- Professional Scrum
+- Miscellaneous
 - Pragmatic Thinking
 - Coaching
+- Professional Scrum
 - Personal
-- Miscellaneous
 resourceTypes:
 - video
 categories:

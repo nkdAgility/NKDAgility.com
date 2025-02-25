@@ -13,6 +13,8 @@ aliases:
 - /resources/5IBKxYLA494
 aliasesArchive:
 - /resources/videos/maximise-your-scrum-process-leveraging-azure-devops-for-agile-success
+- /resources/videos/scrum-with-azure-devops!
+- /resources/scrum-with-azure-devops!
 aliasesFor404:
 - /resources/videos/scrum-with-azure-devops!
 - /resources/scrum-with-azure-devops!

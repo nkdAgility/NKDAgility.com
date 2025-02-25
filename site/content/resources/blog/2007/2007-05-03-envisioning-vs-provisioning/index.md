@@ -17,6 +17,10 @@ aliases:
 - /envisioning-vs-provisioning
 - /resources/klxWFYrDmai
 - /resources/blog/envisioning-vs-provisioning
+aliasesArchive:
+- /blog/envisioning-vs-provisioning
+- /envisioning-vs-provisioning
+- /resources/blog/envisioning-vs-provisioning
 aliasesFor404:
 - /envisioning-vs-provisioning
 - /blog/envisioning-vs-provisioning

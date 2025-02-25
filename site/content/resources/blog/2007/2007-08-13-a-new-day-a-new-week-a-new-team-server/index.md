@@ -21,6 +21,14 @@ aliases:
 - /a-new-day--a-new-week--a-new-team-server
 - /blog/a-new-day--a-new-week--a-new-team-server
 - /resources/blog/a-new-day-a-new-week-a-new-team-server
+aliasesArchive:
+- /blog/a-new-day-a-new-week-a-new-team-server
+- /a-new-day-a-new-week-a-new-team-server
+- /a-new-day,-a-new-week,-a-new-team-server
+- /blog/a-new-day,-a-new-week,-a-new-team-server
+- /a-new-day--a-new-week--a-new-team-server
+- /blog/a-new-day--a-new-week--a-new-team-server
+- /resources/blog/a-new-day-a-new-week-a-new-team-server
 aliasesFor404:
 - /a-new-day-a-new-week-a-new-team-server
 - /blog/a-new-day-a-new-week-a-new-team-server

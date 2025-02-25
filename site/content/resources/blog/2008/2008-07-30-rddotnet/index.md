@@ -17,13 +17,17 @@ aliases:
 - /rddotnet
 - /resources/gihU6AH59yn
 - /resources/blog/rddotnet
+aliasesArchive:
+- /blog/rddotnet
+- /rddotnet
+- /resources/blog/rddotnet
 aliasesFor404:
 - /rddotnet
 - /blog/rddotnet
 - /resources/blog/rddotnet
 tags:
-- Software Development
 - Miscellaneous
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

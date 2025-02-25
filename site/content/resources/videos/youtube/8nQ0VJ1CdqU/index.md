@@ -18,6 +18,9 @@ aliases:
 - /resources/8nQ0VJ1CdqU
 aliasesArchive:
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+- /resources/why-did-so-many-of-the-early-agile-transformations-fail
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
+- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
 aliasesFor404:
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
@@ -29,13 +32,13 @@ tags:
 - People and Process
 - Decision Making
 - Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Agile Project Management
-- Beta Codex
-- Agile Philosophy
 - Sociotechnical Systems
-- Organisational Agility
+- Agile Philosophy
+- Beta Codex
+- Agile Transformation
+- Agile Strategy
+- Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

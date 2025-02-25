@@ -18,6 +18,9 @@ aliases:
 - /resources/isU2kPc5HFw
 aliasesArchive:
 - /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+- /resources/videos/talk-us-through-your-experience-with-azure-devops
+- /resources/talk-us-through-your-experience-with-azure-devops
 aliasesFor404:
 - /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 - /resources/videos/talk-us-through-your-experience-with-azure-devops
@@ -28,9 +31,9 @@ sitemap:
 tags:
 - Personal
 - Azure DevOps
+- Practical Techniques and Tooling
 - Software Development
 - Software Developers
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 resourceTypes:
 - video

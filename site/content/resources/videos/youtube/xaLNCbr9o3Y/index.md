@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
+- /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 aliasesFor404:
 - /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh

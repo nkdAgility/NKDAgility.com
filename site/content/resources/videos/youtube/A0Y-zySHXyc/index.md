@@ -18,6 +18,9 @@ aliases:
 - /resources/A0Y-zySHXyc
 aliasesArchive:
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 aliasesFor404:
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Accountability
-- Scrum Team
+- People and Process
 - Scrum Product Development
 - Agile Product Management
+- Scrum Team
 - Transparency and Accountability
-- People and Process
 - Product Owner
+- Team Collaboration
 - Agile Project Management
 - Professional Scrum
-- Team Collaboration
 resourceTypes:
 - video
 categories:

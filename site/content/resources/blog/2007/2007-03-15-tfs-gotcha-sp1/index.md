@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-gotcha-(sp1)
 - /resources/ZlJuM9fduW9
 - /resources/blog/tfs-gotcha-sp1
+aliasesArchive:
+- /blog/tfs-gotcha-sp1
+- /tfs-gotcha-sp1
+- /tfs-gotcha-(sp1)
+- /blog/tfs-gotcha-(sp1)
+- /resources/blog/tfs-gotcha-sp1
 aliasesFor404:
 - /tfs-gotcha-sp1
 - /blog/tfs-gotcha-sp1
@@ -29,8 +35,8 @@ preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Troubleshooting
 
 ---

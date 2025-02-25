@@ -19,6 +19,10 @@ aliases:
 - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
 aliasesArchive:
 - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
+- /resources/one-limitation-of-reading-a-book-vs-attending-a-course
+- /resources/one-limitation-of-a-book-versus-a-scrum-course
+- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
+- /resources/one-limitation-of-a-book-versus-a-scrum-course-
 aliasesFor404:
 - /resources/one-limitation-of-reading-a-book-vs-attending-a-course
 - /resources/one-limitation-of-a-book-versus-a-scrum-course
@@ -28,10 +32,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Continuous Learning
 - People and Process
 - Agile Project Management
+- Team Collaboration
+- Continuous Learning
 - Discovery and Learning
 resourceTypes:
 - video

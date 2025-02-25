@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 aliasesArchive:
 - /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
 aliasesFor404:
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
@@ -23,12 +25,12 @@ duration: 41
 isShort: true
 tags:
 - Agile Product Management
-- Product Delivery
-- Working Software
 - Agile Project Management
+- Working Software
 - Agile Transformation
-- Software Development
+- Product Delivery
 - Pragmatic Thinking
+- Software Development
 - Agile Planning
 sitemap:
   filename: sitemap.xml

@@ -18,6 +18,9 @@ aliases:
 - /resources/LMmKDlcIvWs
 aliasesArchive:
 - /resources/videos/what-is-kanban
+- /resources/what-is-kanban
+- /resources/videos/what-is-kanban-
+- /resources/what-is-kanban-
 aliasesFor404:
 - /resources/what-is-kanban
 - /resources/videos/what-is-kanban-
@@ -28,13 +31,13 @@ sitemap:
 tags:
 - Strategy
 - Metrics and Learning
-- Flow Efficiency
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Agile Frameworks
+- Flow Efficiency
 - Lean
-- Lean Thinking
 - Operational Practices
+- Pragmatic Thinking
+- Lean Thinking
+- Agile Frameworks
 - Lean Principles
 resourceTypes:
 - video

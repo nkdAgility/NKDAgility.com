@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
 aliasesArchive:
 - /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
+- "/resources/why-limiting-work-in-progress-is-key-to-success-in-kanban-\U0001F680"
+- /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
+- /resources/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
 aliasesFor404:
 - "/resources/why-limiting-work-in-progress-is-key-to-success-in-kanban-\U0001F680"
 - /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
@@ -28,12 +31,12 @@ sitemap:
   priority: 0.6
 tags:
 - Flow Efficiency
-- Throughput
-- Software Development
-- Agile Frameworks
-- Lean Thinking
-- Operational Practices
 - Agile Project Management
+- Operational Practices
+- Software Development
+- Lean Thinking
+- Throughput
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

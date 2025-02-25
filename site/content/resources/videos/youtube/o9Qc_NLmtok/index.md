@@ -20,6 +20,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/-week-immersive-learning-course-in-seconds
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds
+- /resources/8-week-immersive-learning-course-in-60-seconds
 aliasesFor404:
 - /resources/8-week-immersive-learning-course-in-60-seconds
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds
@@ -27,10 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
-- Agile Frameworks
+- Discovery and Learning
 - Agile Project Management
+- Agile Frameworks
 - Pragmatic Thinking
 resourceTypes:
 - video

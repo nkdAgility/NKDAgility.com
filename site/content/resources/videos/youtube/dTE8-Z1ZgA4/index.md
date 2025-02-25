@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
 aliasesArchive:
 - /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
+- /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
+- /resources/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 aliasesFor404:
 - /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 - /resources/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility

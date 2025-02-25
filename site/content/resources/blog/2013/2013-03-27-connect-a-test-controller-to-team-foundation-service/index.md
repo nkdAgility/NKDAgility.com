@@ -17,18 +17,22 @@ aliases:
 - /connect-a-test-controller-to-team-foundation-service
 - /resources/D5NhnVpHAwD
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
+aliasesArchive:
+- /blog/connect-a-test-controller-to-team-foundation-service
+- /connect-a-test-controller-to-team-foundation-service
+- /resources/blog/connect-a-test-controller-to-team-foundation-service
 aliasesFor404:
 - /connect-a-test-controller-to-team-foundation-service
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
 - Install and Configuration
-- System Configuration
-- Technical Mastery
 - Practical Techniques and Tooling
+- Technical Mastery
+- System Configuration
+- Troubleshooting
 - Software Development
 - Azure DevOps
-- Troubleshooting
 categories:
 - DevOps
 - Engineering Excellence

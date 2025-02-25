@@ -12,6 +12,11 @@ aliases:
 - /learn/agile-delivery-kit/guides/scrum-guide
 - /resources/guides/_guides/scrum-guide.md
 - /resources/59gcHh1fYtC
+aliasesArchive:
+- /guides/Scrum-Guide/
+- /guides/Scrum-Guide.html
+- /learn/agile-delivery-kit/guides/scrum-guide
+- /resources/guides/_guides/scrum-guide.md
 aliasesFor404:
 - /guides/Scrum-Guide/
 - /guides/Scrum-Guide.html

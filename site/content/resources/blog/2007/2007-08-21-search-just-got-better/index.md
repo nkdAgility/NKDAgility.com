@@ -17,6 +17,10 @@ aliases:
 - /search-just-got-better
 - /resources/TUpvQFU0NSg
 - /resources/blog/search-just-got-better
+aliasesArchive:
+- /blog/search-just-got-better
+- /search-just-got-better
+- /resources/blog/search-just-got-better
 aliasesFor404:
 - /search-just-got-better
 - /blog/search-just-got-better

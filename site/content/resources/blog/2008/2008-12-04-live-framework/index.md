@@ -17,18 +17,22 @@ aliases:
 - /live-framework
 - /resources/Z0HJqKyl85C
 - /resources/blog/live-framework
+aliasesArchive:
+- /blog/live-framework
+- /live-framework
+- /resources/blog/live-framework
 aliasesFor404:
 - /live-framework
 - /blog/live-framework
 - /resources/blog/live-framework
 tags:
-- Team Collaboration
 - Collaboration Tools
+- Team Collaboration
 - System Configuration
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Azure DevOps
-- Technical Mastery
 preview: metro-cloud-azure-link-2-2.png
 categories: []
 

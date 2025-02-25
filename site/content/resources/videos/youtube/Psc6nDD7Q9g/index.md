@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 aliasesArchive:
 - /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
+- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+- /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 aliasesFor404:
 - "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
 - /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
@@ -28,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Transparency and Accountability
-- Software Development
 - Practical Techniques and Tooling
-- Agile Frameworks
-- Operational Practices
+- Software Development
 - Agile Project Management
-- Pragmatic Thinking
+- Operational Practices
+- Agile Frameworks
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

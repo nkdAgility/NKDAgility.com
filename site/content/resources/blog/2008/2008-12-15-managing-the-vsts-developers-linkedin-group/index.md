@@ -19,6 +19,12 @@ aliases:
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/FNNPsRLDXlu
 - /resources/blog/managing-the-vsts-developers-linkedin-group
+aliasesArchive:
+- /blog/managing-the-vsts-developers-linkedin-group
+- /managing-the-vsts-developers-linkedin-group
+- /managing-the-“vsts-developers”-linkedin-group-
+- /blog/managing-the-“vsts-developers”-linkedin-group-
+- /resources/blog/managing-the-vsts-developers-linkedin-group
 aliasesFor404:
 - /managing-the-vsts-developers-linkedin-group
 - /blog/managing-the-vsts-developers-linkedin-group
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/blog/managing-the-vsts-developers-linkedin-group
 tags:
-- Team Collaboration
 - People and Process
+- Team Collaboration
 - News and Reviews
 - Miscellaneous
 categories: []

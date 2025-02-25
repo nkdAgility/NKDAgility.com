@@ -18,6 +18,9 @@ aliases:
 - /resources/JTYCRehkN5U
 aliasesArchive:
 - /resources/videos/the-power-of-technical-excellence-in-agile-development
+- /resources/the-power-of-technical-excellence-in-agile-development
+- /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
+- /resources/the-critical-role-of-technical-excellence-in-agile-software-development
 aliasesFor404:
 - /resources/the-power-of-technical-excellence-in-agile-development
 - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development

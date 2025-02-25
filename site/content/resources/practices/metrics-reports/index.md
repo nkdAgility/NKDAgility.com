@@ -9,6 +9,8 @@ layout: practice
 aliases:
 - /learn/agile-delivery-kit/practices/metrics-reports
 - /resources/26FWeqJuu0P
+aliasesArchive:
+- /learn/agile-delivery-kit/practices/metrics-reports
 aliasesFor404:
 - /learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
@@ -32,10 +34,10 @@ tags:
 - Throughput
 - Transparency and Accountability
 - Flow Efficiency
-- Cycle Time
-- Value Delivery
+- Operational Practices
 - Practical Techniques and Tooling
 - Agile Product Operating Model
+- Product Delivery
 - Team Performance
 
 ---

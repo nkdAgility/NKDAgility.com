@@ -16,6 +16,8 @@ aliases:
 - /resources/Fo49oedF34g
 aliasesArchive:
 - /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
+- /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
+- /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 aliasesFor404:
 - /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 - /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
@@ -24,15 +26,15 @@ duration: 268
 isShort: false
 tags:
 - Coaching
-- Organisational Agility
 - People and Process
-- Team Collaboration
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Product Delivery
+- Organisational Agility
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Team Collaboration
 - Agile Transformation
+- Product Delivery
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4

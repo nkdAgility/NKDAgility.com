@@ -22,6 +22,14 @@ aliases:
 - /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+aliasesArchive:
+- /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+- /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+- /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+- /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
+- /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+- /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
+- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliasesFor404:
 - /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
@@ -35,8 +43,8 @@ tags:
 - Agile Project Management
 - Agile Frameworks
 - Value Delivery
-- Scrum Product Development
 - Technical Leadership
+- Scrum Product Development
 - Agile Product Management
 - Agile Leadership
 - Product Delivery

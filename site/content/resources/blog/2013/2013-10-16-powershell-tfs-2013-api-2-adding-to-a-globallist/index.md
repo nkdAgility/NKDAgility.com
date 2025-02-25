@@ -20,6 +20,13 @@ aliases:
 - /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
 - /resources/Y2XTGIaY_Os
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
+aliasesArchive:
+- /blog/powershell-tfs-2013-api-2-adding-to-a-globallist
+- /powershell-tfs-2013-api-2-adding-to-a-globallist
+- /powershell-tfs-2013-api--2
+- /powershell-tfs-2013-api--2---adding-to-a-globallist
+- /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
+- /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 aliasesFor404:
 - /powershell-tfs-2013-api-2-adding-to-a-globallist
 - /blog/powershell-tfs-2013-api-2-adding-to-a-globallist
@@ -29,8 +36,8 @@ aliasesFor404:
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 tags:
 - Technical Mastery
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - Technical Excellence
 - System Configuration

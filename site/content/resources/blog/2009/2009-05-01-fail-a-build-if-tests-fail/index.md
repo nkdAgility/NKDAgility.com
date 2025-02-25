@@ -17,21 +17,25 @@ aliases:
 - /fail-a-build-if-tests-fail
 - /resources/VuY5udPg1uD
 - /resources/blog/fail-a-build-if-tests-fail
+aliasesArchive:
+- /blog/fail-a-build-if-tests-fail
+- /fail-a-build-if-tests-fail
+- /resources/blog/fail-a-build-if-tests-fail
 aliasesFor404:
 - /fail-a-build-if-tests-fail
 - /blog/fail-a-build-if-tests-fail
 - /resources/blog/fail-a-build-if-tests-fail
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Azure DevOps
-- Azure Pipelines
-- Engineering Practices
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
-- Automated Testing
+- Operational Practices
+- Engineering Practices
+- Software Development
+- Continuous Integration
+- Technical Excellence
+- Azure DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence

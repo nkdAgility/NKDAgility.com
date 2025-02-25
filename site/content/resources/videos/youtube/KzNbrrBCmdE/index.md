@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
 aliasesArchive:
 - /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
+- /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
+- /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 aliasesFor404:
 - /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2

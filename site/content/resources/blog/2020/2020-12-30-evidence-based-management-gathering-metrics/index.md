@@ -20,6 +20,12 @@ aliases:
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/mK5twHwVcIg
 - /resources/blog/evidence-based-management-gathering-metrics
+aliasesArchive:
+- /blog/evidence-based-management-gathering-metrics
+- /evidence-based-management-gathering-metrics
+- /evidence-based-management--gathering-the-metrics
+- /blog/evidence-based-management--gathering-the-metrics
+- /resources/blog/evidence-based-management-gathering-metrics
 aliasesFor404:
 - /evidence-based-management-gathering-metrics
 - /blog/evidence-based-management-gathering-metrics

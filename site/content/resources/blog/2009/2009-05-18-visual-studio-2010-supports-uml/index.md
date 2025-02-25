@@ -17,6 +17,10 @@ aliases:
 - /visual-studio-2010-supports-uml
 - /resources/KVyRCUy-XJW
 - /resources/blog/visual-studio-2010-supports-uml
+aliasesArchive:
+- /blog/visual-studio-2010-supports-uml
+- /visual-studio-2010-supports-uml
+- /resources/blog/visual-studio-2010-supports-uml
 aliasesFor404:
 - /visual-studio-2010-supports-uml
 - /blog/visual-studio-2010-supports-uml
@@ -24,8 +28,8 @@ aliasesFor404:
 tags:
 - Products and Books
 - News and Reviews
-- Software Development
 - Technical Mastery
+- Software Development
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

@@ -18,6 +18,9 @@ aliases:
 - /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know
 aliasesArchive:
 - /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know
+- /resources/hiring-the-right-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
 aliasesFor404:
 - /resources/hiring-the-right-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Strategy
-- Agile Frameworks
-- Agile Leadership
 - Agile Project Management
+- Agile Leadership
 - Agile Transformation
+- Agile Frameworks
+- People and Process
 - Technical Leadership
-- Software Development
-- Enterprise Agility
-- Pragmatic Thinking
-- Organisational Agility
+- Business Agility
+- Market Adaptability
+- Organisational Change
 resourceTypes:
 - video
 layout: video

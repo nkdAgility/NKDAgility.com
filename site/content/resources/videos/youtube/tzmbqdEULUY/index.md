@@ -14,6 +14,8 @@ aliases:
 - /resources/tzmbqdEULUY
 aliasesArchive:
 - /resources/videos/mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
+- /resources/videos/devops-migration-downtime
+- /resources/devops-migration-downtime
 aliasesFor404:
 - /resources/videos/devops-migration-downtime
 - /resources/devops-migration-downtime

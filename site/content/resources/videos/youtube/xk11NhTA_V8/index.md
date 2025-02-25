@@ -14,6 +14,8 @@ aliases:
 - /resources/xk11NhTA_V8
 aliasesArchive:
 - /resources/videos/navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
+- /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/judgement!-7-harbingers-agile-apocalypse-but-shorter!
 aliasesFor404:
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/judgement!-7-harbingers-agile-apocalypse-but-shorter!

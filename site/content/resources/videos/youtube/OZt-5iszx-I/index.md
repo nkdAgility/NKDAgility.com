@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 aliasesArchive:
 - /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+- /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 aliasesFor404:
 - /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
@@ -28,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Customer Feedback Loops
-- Product Validation
 - Discovery and Learning
-- Agile Product Operating Model
-- Value Delivery
-- Agile Product Management
 - Product Delivery
+- Product Validation
 - Product Owner
-- Agile Planning
-- Agile Project Management
+- Agile Product Management
+- Value Delivery
+- Agile Product Operating Model
+- Organisational Agility
+- Market Adaptability
 resourceTypes:
 - video
 categories:

@@ -14,6 +14,8 @@ aliases:
 - /resources/JGQ5zW6F6Uc
 aliasesArchive:
 - /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
+- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+- /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 aliasesFor404:
 - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
@@ -23,14 +25,14 @@ isShort: false
 tags:
 - People and Process
 - Scrum Product Development
+- Agile Product Management
 - Scrum Master
 - Scrum Team
-- Agile Product Management
-- Team Collaboration
-- Professional Scrum
 - Team Performance
+- Agile Project Management
 - Software Development
-- Agile Frameworks
+- Team Collaboration
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

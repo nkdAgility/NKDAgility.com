@@ -14,6 +14,8 @@ aliases:
 - /resources/x6a_BuQq580
 aliasesArchive:
 - /resources/videos/mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
+- /resources/videos/devops-migration-incomplete-migrations
+- /resources/devops-migration-incomplete-migrations
 aliasesFor404:
 - /resources/videos/devops-migration-incomplete-migrations
 - /resources/devops-migration-incomplete-migrations

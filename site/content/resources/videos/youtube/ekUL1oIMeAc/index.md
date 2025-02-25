@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
 aliasesArchive:
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
+- /resources/worst-contribution-from-a-product-owner-that-you-know-of
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
+- /resources/worst-contribution-from-a-product-owner-that-you-know-of-
 aliasesFor404:
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
@@ -28,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Scrum Team
 - People and Process
 - Agile Product Management
-- Personal
+- Scrum Team
 - Agile Project Management
+- Personal
 resourceTypes:
 - video
 categories:

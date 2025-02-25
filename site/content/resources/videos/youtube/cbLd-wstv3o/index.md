@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/how-to-discover-unrealized-value-in-your-product
 aliasesArchive:
 - /resources/videos/how-to-discover-unrealized-value-in-your-product
+- /resources/how-to-discover-unrealized-value-in-your-product
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 aliasesFor404:
 - /resources/how-to-discover-unrealized-value-in-your-product
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
@@ -28,12 +31,12 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Evidence Based Management
 - Metrics and Learning
+- Evidence Based Management
 - Value Delivery
-- Evidence Based Leadership
-- Pragmatic Thinking
 - Decision Making
+- Pragmatic Thinking
+- Evidence Based Leadership
 - Ability to Innovate
 - Product Owner
 resourceTypes:

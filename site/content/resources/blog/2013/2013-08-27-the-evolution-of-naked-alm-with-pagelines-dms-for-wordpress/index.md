@@ -17,6 +17,10 @@ aliases:
 - /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /resources/csMYp4a7yBd
 - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+aliasesArchive:
+- /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+- /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+- /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 aliasesFor404:
 - /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
@@ -24,8 +28,8 @@ aliasesFor404:
 tags:
 - Install and Configuration
 - Products and Books
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Technical Mastery
 categories: []
 preview: metro-pagelines-11-11.png

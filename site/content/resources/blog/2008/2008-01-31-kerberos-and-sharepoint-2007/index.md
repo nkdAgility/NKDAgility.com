@@ -17,15 +17,19 @@ aliases:
 - /kerberos-and-sharepoint-2007
 - /resources/REHiKbbVOD8
 - /resources/blog/kerberos-and-sharepoint-2007
+aliasesArchive:
+- /blog/kerberos-and-sharepoint-2007
+- /kerberos-and-sharepoint-2007
+- /resources/blog/kerberos-and-sharepoint-2007
 aliasesFor404:
 - /kerberos-and-sharepoint-2007
 - /blog/kerberos-and-sharepoint-2007
 - /resources/blog/kerberos-and-sharepoint-2007
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
 - Technical Mastery
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

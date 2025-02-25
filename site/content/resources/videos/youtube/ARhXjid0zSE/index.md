@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
 aliasesArchive:
 - /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
+- /resources/videos/7-signs-of-the-agile-apocalypse-famine
+- /resources/7-signs-of-the-agile-apocalypse-famine
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-famine
 - /resources/7-signs-of-the-agile-apocalypse-famine
@@ -22,10 +24,10 @@ preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- Employee Engagement
 - People and Process
-- Agile Project Management
 - Team Motivation
+- Employee Engagement
+- Agile Project Management
 - Software Development
 - Agile Product Management
 sitemap:

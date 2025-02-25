@@ -15,6 +15,8 @@ aliases:
 - /resources/jKXc6hByR_k
 aliasesArchive:
 - /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
+- /resources/videos/your-partner-in-on-time,-on-budget-delivery
+- /resources/your-partner-in-on-time,-on-budget-delivery
 aliasesFor404:
 - /resources/videos/your-partner-in-on-time,-on-budget-delivery
 - /resources/your-partner-in-on-time,-on-budget-delivery

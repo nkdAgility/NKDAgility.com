@@ -16,6 +16,8 @@ aliases:
 - /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
 aliasesArchive:
 - /resources/videos/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood-mktng
+- /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
+- /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 aliasesFor404:
 - /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
@@ -24,8 +26,8 @@ duration: 21
 isShort: true
 tags:
 - Events and Presentations
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - People and Process
 sitemap:
   filename: sitemap.xml

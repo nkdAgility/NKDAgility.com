@@ -18,6 +18,10 @@ aliases:
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/mzVDd2JFtHO
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+aliasesArchive:
+- /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+- /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+- /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliasesFor404:
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
@@ -27,12 +31,12 @@ tags:
 - Software Development
 - Agile Transformation
 - People and Process
-- Agile Philosophy
 - Agile Project Management
+- Agile Philosophy
 - Organisational Agility
 - Pragmatic Thinking
+- Agile Product Management
 - Agile Strategy
-- Software Developers
 categories:
 - Social Technologies
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg

@@ -19,6 +19,12 @@ aliases:
 - /blog/the-most-usefull--net-tool-on-the-face-of-the-planet-
 - /resources/5AaOgf__tP8
 - /resources/blog/the-most-usefull-net-tool-on-the-face-of-the-planet
+aliasesArchive:
+- /blog/the-most-usefull-net-tool-on-the-face-of-the-planet
+- /the-most-usefull-net-tool-on-the-face-of-the-planet
+- /the-most-usefull--net-tool-on-the-face-of-the-planet-
+- /blog/the-most-usefull--net-tool-on-the-face-of-the-planet-
+- /resources/blog/the-most-usefull-net-tool-on-the-face-of-the-planet
 aliasesFor404:
 - /the-most-usefull-net-tool-on-the-face-of-the-planet
 - /blog/the-most-usefull-net-tool-on-the-face-of-the-planet

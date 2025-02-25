@@ -14,6 +14,9 @@ aliases:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/2G_gVI5phMC
+aliasesArchive:
+- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 aliasesFor404:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
@@ -25,12 +28,12 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Scrum Product Development
-- Professional Scrum
 - Product Backlog
-- Agile Frameworks
-- Agile Planning
+- Professional Scrum
 - Product Owner
 - Agile Planning Tools
+- Agile Planning
+- Agile Frameworks
 - Software Development
 
 ---

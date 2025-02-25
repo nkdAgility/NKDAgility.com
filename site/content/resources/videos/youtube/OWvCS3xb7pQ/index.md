@@ -14,6 +14,8 @@ aliases:
 - /resources/OWvCS3xb7pQ
 aliasesArchive:
 - /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
+- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+- /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 aliasesFor404:
 - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
@@ -22,14 +24,14 @@ duration: 181
 isShort: false
 tags:
 - Agile Leadership
-- Continuous Learning
 - People and Process
 - Agile Transformation
-- Organisational Agility
+- Continuous Learning
 - Organisational Change
+- Organisational Agility
+- Mentoring
 - Pragmatic Thinking
 - Personal
-- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

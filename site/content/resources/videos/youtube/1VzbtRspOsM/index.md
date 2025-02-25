@@ -17,6 +17,9 @@ aliases:
 - /resources/1VzbtRspOsM
 aliasesArchive:
 - /resources/videos/how-immersive-learning-transforms-aspiring-agile-leaders
+- /resources/how-immersive-learning-transforms-aspiring-agile-leaders
+- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
+- /resources/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 aliasesFor404:
 - /resources/how-immersive-learning-transforms-aspiring-agile-leaders
 - /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
@@ -25,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 - Agile Leadership
 - Organisational Culture
-- Continuous Learning
 - Organisational Change
+- Continuous Learning
+- Team Motivation
+- Mentoring
 - Team Collaboration
-- Organisational Agility
 - Coaching
-- Personal
 resourceTypes:
 - video
 layout: video

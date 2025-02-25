@@ -19,6 +19,8 @@ aliases:
 - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
 aliasesArchive:
 - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
+- /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
+- /resources/dogma-versus-empiricism-in-a-consulting-engagement
 aliasesFor404:
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement

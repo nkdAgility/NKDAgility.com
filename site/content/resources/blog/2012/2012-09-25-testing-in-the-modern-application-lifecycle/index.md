@@ -17,6 +17,10 @@ aliases:
 - /testing-in-the-modern-application-lifecycle
 - /resources/o-EY2NAQQSe
 - /resources/blog/testing-in-the-modern-application-lifecycle
+aliasesArchive:
+- /blog/testing-in-the-modern-application-lifecycle
+- /testing-in-the-modern-application-lifecycle
+- /resources/blog/testing-in-the-modern-application-lifecycle
 aliasesFor404:
 - /testing-in-the-modern-application-lifecycle
 - /blog/testing-in-the-modern-application-lifecycle
@@ -24,14 +28,14 @@ aliasesFor404:
 tags:
 - Windows
 - Application Lifecycle Management
-- Software Development
-- Value Delivery
-- Working Software
 - Product Delivery
+- Software Development
+- Working Software
+- Value Delivery
 - Team Collaboration
-- Products and Books
 - Practical Techniques and Tooling
 - Engineering Practices
+- Products and Books
 categories:
 - Engineering Excellence
 preview: metro-test-icon-7-7.png

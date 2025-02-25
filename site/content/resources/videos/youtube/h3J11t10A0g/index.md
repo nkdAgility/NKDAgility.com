@@ -15,6 +15,8 @@ aliases:
 - /resources/h3J11t10A0g
 aliasesArchive:
 - /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+- /resources/videos/escaping-the-deadline-death-spiral
+- /resources/escaping-the-deadline-death-spiral
 aliasesFor404:
 - /resources/videos/escaping-the-deadline-death-spiral
 - /resources/escaping-the-deadline-death-spiral
@@ -23,15 +25,15 @@ duration: 169
 isShort: false
 tags:
 - Technical Leadership
-- Agile Project Management
-- Software Development
-- Software Developers
 - People and Process
-- Engineering Practices
-- Agile Philosophy
 - Product Delivery
-- Market Adaptability
+- Software Developers
+- Software Development
+- Agile Philosophy
+- Agile Project Management
+- Engineering Practices
 - Value Delivery
+- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

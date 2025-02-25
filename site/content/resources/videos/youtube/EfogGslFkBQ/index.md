@@ -18,6 +18,9 @@ aliases:
 - /resources/EfogGslFkBQ
 aliasesArchive:
 - /resources/videos/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+- /resources/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+- /resources/videos/5-kinds-of-agile-bandits-story-points-&-velocity
+- /resources/5-kinds-of-agile-bandits-story-points-&-velocity
 aliasesFor404:
 - /resources/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
 - /resources/videos/5-kinds-of-agile-bandits-story-points-&-velocity
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Throughput
 - Estimation
-- Metrics and Learning
+- Throughput
 - People and Process
+- Metrics and Learning
 - Agile Product Management
-- Software Developers
-- Flow Efficiency
 - Agile Project Management
 - Cycle Time
-- Software Development
+- Software Developers
+- Flow Efficiency
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

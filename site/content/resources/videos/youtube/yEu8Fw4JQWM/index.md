@@ -18,6 +18,9 @@ aliases:
 - /resources/yEu8Fw4JQWM
 aliasesArchive:
 - /resources/videos/in-wip-less-is-more-why
+- /resources/in-wip-less-is-more-why
+- /resources/videos/in-wip,-less-is-more,-why-
+- /resources/in-wip,-less-is-more,-why-
 aliasesFor404:
 - /resources/in-wip-less-is-more-why
 - /resources/videos/in-wip,-less-is-more,-why-
@@ -26,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - People and Process
 - Agile Project Management
 - Agile Transformation
-- Throughput
-- Software Development
+- Agile Frameworks
+- Operational Practices
 - Pragmatic Thinking
+- Software Development
 - Flow Efficiency
 - Lean Thinking
-- Operational Practices
+- Throughput
 resourceTypes:
 - video
 categories:

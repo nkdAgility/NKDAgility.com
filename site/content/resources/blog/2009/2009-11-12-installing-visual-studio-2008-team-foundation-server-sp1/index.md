@@ -17,17 +17,21 @@ aliases:
 - /installing-visual-studio-2008-team-foundation-server-sp1
 - /resources/DLfCYd5JcOQ
 - /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
+aliasesArchive:
+- /blog/installing-visual-studio-2008-team-foundation-server-sp1
+- /installing-visual-studio-2008-team-foundation-server-sp1
+- /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
 aliasesFor404:
 - /installing-visual-studio-2008-team-foundation-server-sp1
 - /blog/installing-visual-studio-2008-team-foundation-server-sp1
 - /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
 tags:
 - Install and Configuration
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
+- Troubleshooting
 - Windows
 - System Configuration
-- Troubleshooting
 preview: metro-visual-studio-2005-128-link-10-10.png
 categories:
 - DevOps

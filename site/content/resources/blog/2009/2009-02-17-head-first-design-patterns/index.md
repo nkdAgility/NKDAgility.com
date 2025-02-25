@@ -17,6 +17,10 @@ aliases:
 - /head-first-design-patterns
 - /resources/EFWY-8yQI--
 - /resources/blog/head-first-design-patterns
+aliasesArchive:
+- /blog/head-first-design-patterns
+- /head-first-design-patterns
+- /resources/blog/head-first-design-patterns
 aliasesFor404:
 - /head-first-design-patterns
 - /blog/head-first-design-patterns

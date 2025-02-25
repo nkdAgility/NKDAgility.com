@@ -18,6 +18,9 @@ aliases:
 - /resources/KXvd_oyLe3Q
 aliasesArchive:
 - /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+- /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+- /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
 aliasesFor404:
 - /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 - /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
@@ -27,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Resilience and Change
-- Complexity Thinking
 - People and Process
-- Continuous Learning
+- Complexity Thinking
 - Discovery and Learning
 - Metrics and Learning
 - Azure DevOps
-- Product Delivery
-- Engineering Practices
+- Continuous Learning
+- Resilience and Change
+- Frequent Releases
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

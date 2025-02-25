@@ -17,6 +17,10 @@ aliases:
 - /calculating-the-rank-of-your-blog-posts-or-pages
 - /resources/DrHRcRNSIRX
 - /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
+aliasesArchive:
+- /blog/calculating-the-rank-of-your-blog-posts-or-pages
+- /calculating-the-rank-of-your-blog-posts-or-pages
+- /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
 aliasesFor404:
 - /calculating-the-rank-of-your-blog-posts-or-pages
 - /blog/calculating-the-rank-of-your-blog-posts-or-pages

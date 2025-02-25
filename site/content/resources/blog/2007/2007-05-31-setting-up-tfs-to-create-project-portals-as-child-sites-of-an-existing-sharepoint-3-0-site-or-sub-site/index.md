@@ -19,6 +19,12 @@ aliases:
 - /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
 - /resources/jFAz7uP6k-J
 - /resources/blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
+aliasesArchive:
+- /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
+- /setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
+- /setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
+- /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
+- /resources/blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
 aliasesFor404:
 - /setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
 - /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
@@ -26,8 +32,8 @@ aliasesFor404:
 - /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-(or-sub-site)
 - /resources/blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 categories: []
 

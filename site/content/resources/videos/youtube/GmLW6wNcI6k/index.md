@@ -18,6 +18,10 @@ aliases:
 - /resources/GmLW6wNcI6k
 aliasesArchive:
 - /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+- /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
+- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
+- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 aliasesFor404:
 - /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
@@ -27,14 +31,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
-- Pragmatic Thinking
+- Discovery and Learning
 - Complexity Thinking
+- Pragmatic Thinking
 - Business Agility
-- Sensemaking
-- Organisational Agility
+- Empirical Process Control
 - Market Adaptability
+- Organisational Agility
 - Personal
 - Agile Philosophy
 resourceTypes:

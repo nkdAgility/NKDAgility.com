@@ -13,6 +13,8 @@ aliases:
 - /resources/76mGfF0KoD0
 aliasesArchive:
 - /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
+- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
+- /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 aliasesFor404:
 - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
@@ -22,13 +24,13 @@ isShort: false
 tags:
 - Agile Project Management
 - Coaching
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
-- Team Collaboration
-- Agile Frameworks
 - Agile Product Management
+- Team Collaboration
 - Agile Transformation
+- Agile Frameworks
 - Software Development
 sitemap:
   filename: sitemap.xml

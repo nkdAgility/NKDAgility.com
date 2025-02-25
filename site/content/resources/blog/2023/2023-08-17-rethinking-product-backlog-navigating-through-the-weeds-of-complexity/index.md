@@ -20,6 +20,12 @@ aliases:
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/PmLDnMEBzBQ
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+aliasesArchive:
+- /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+- /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+- /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
+- /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
+- /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliasesFor404:
 - /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
@@ -31,12 +37,12 @@ tags:
 - Sensemaking
 - Agile Product Management
 - Agile Project Management
-- Agile Strategy
+- People and Process
+- Agile Product Operating Model
 - Scrum Product Development
+- Discovery and Learning
 - Resilience and Change
 - Product Backlog
-- Discovery and Learning
-- People and Process
 categories:
 - Product Management
 - Social Technologies

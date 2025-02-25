@@ -16,6 +16,7 @@ aliases:
 - /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 aliasesArchive:
 - /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
+- /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 aliasesFor404:
 - /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 - /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
@@ -33,5 +34,4 @@ resourceTypes:
 categories: []
 
 ---
-  
  [Watch on Youtube](https://www.youtube.com/watch?v=kOgKt8w_hWY)

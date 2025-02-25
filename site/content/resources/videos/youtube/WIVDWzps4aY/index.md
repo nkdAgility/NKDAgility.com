@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
 aliasesArchive:
 - /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
+- /resources/videos/favourite-scrum-course-to-teach-and-why-
+- /resources/favourite-scrum-course-to-teach-and-why-
 aliasesFor404:
 - /resources/videos/favourite-scrum-course-to-teach-and-why-
 - /resources/favourite-scrum-course-to-teach-and-why-

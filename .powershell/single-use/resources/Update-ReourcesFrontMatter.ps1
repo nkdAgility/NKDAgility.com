@@ -192,6 +192,9 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if ($aliasesArchive -is [array] -and $aliasesArchive.Count -gt 0) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter 'aliases'
     }
+
+    #Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404'
+
     #================Themes, Categories, & TAGS==========================
     $BodyContent = $hugoMarkdown.BodyContent
     If ($hugoMarkdown.FrontMatter.ResourceType -eq "videos") {

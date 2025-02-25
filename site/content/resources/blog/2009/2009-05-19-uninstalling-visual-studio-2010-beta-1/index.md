@@ -17,6 +17,10 @@ aliases:
 - /uninstalling-visual-studio-2010-beta-1
 - /resources/2ZvRKJUmrD9
 - /resources/blog/uninstalling-visual-studio-2010-beta-1
+aliasesArchive:
+- /blog/uninstalling-visual-studio-2010-beta-1
+- /uninstalling-visual-studio-2010-beta-1
+- /resources/blog/uninstalling-visual-studio-2010-beta-1
 aliasesFor404:
 - /uninstalling-visual-studio-2010-beta-1
 - /blog/uninstalling-visual-studio-2010-beta-1

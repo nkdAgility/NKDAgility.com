@@ -17,6 +17,10 @@ aliases:
 - /visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 - /resources/nsaShwBHR0g
 - /resources/blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
+aliasesArchive:
+- /blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
+- /visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
+- /resources/blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 aliasesFor404:
 - /visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 - /blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle

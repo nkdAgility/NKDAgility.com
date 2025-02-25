@@ -15,6 +15,7 @@ aliases:
 - /resources/NgoP5W5y7Gs
 aliasesArchive:
 - /resources/videos/security-by-design-building-secure-software
+- /resources/security-by-design-building-secure-software
 aliasesFor404:
 - /resources/videos/security-by-design-building-secure-software
 - /resources/security-by-design-building-secure-software
@@ -24,12 +25,12 @@ isShort: false
 tags:
 - Software Developers
 - Azure DevOps
-- Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
-- Pragmatic Thinking
-- Engineering Practices
+- Software Development
 - Technical Mastery
+- Engineering Practices
+- Pragmatic Thinking
+- Technical Excellence
 - Operational Practices
 sitemap:
   filename: sitemap.xml

@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal
 aliasesArchive:
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal
+- /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
+- /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
+- /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 aliasesFor404:
 - /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
@@ -29,9 +32,9 @@ sitemap:
 tags:
 - People and Process
 - Scrum Product Development
-- Agile Planning
 - Agile Product Management
 - Agile Project Management
+- Agile Planning
 resourceTypes:
 - video
 categories:

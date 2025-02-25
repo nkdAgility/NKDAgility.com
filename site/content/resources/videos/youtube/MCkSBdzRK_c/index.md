@@ -14,6 +14,8 @@ aliases:
 - /resources/MCkSBdzRK_c
 aliasesArchive:
 - /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
+- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+- /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 aliasesFor404:
 - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-

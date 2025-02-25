@@ -20,6 +20,12 @@ aliases:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/Ax5c4JFICyO
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
+aliasesArchive:
+- /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
+- /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
+- /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
+- /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
+- /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 aliasesFor404:
 - /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
@@ -27,16 +33,16 @@ aliasesFor404:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
-- Continuous Learning
-- Discovery and Learning
 - People and Process
 - Change Management
+- Continuous Learning
+- Discovery and Learning
 - Products and Books
 - Events and Presentations
 - Agile Frameworks
 - Pragmatic Thinking
 - Coaching
-- Value Delivery
+- Agile Transformation
 categories:
 - Social Technologies
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg

@@ -17,6 +17,10 @@ aliases:
 - /vb-9
 - /resources/vaweB_aRVhL
 - /resources/blog/vb-9
+aliasesArchive:
+- /blog/vb-9
+- /vb-9
+- /resources/blog/vb-9
 aliasesFor404:
 - /vb-9
 - /blog/vb-9

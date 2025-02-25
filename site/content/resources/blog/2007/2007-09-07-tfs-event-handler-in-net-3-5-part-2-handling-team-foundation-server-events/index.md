@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-event-handler-in--net-3-5-part-2---handling-team-foundation-server-events
 - /resources/8LCPn1m44qL
 - /resources/blog/tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
+aliasesArchive:
+- /blog/tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
+- /tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
+- /tfs-event-handler-in--net-3-5-part-2---handling-team-foundation-server-events
+- /blog/tfs-event-handler-in--net-3-5-part-2---handling-team-foundation-server-events
+- /resources/blog/tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
 aliasesFor404:
 - /tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
 - /blog/tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events

@@ -18,6 +18,9 @@ aliases:
 - /resources/L2u9Qojrvb8
 aliasesArchive:
 - /resources/videos/navigating-devops-crafting-unique-solutions-for-unique-organizations
+- /resources/navigating-devops-crafting-unique-solutions-for-unique-organizations
+- /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
+- /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 aliasesFor404:
 - /resources/navigating-devops-crafting-unique-solutions-for-unique-organizations
 - /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization

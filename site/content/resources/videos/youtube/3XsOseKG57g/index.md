@@ -18,6 +18,9 @@ aliases:
 aliasesArchive:
 - /resources/videos/what-do-people-love-most-about-the-day-training-format
 - /resources/videos/what-do-people-love-most-about-the-4-day-training-format
+- /resources/what-do-people-love-most-about-the-4-day-training-format
+- /resources/videos/what-do-people-love-most-about-the-4-day-training-format-
+- /resources/what-do-people-love-most-about-the-4-day-training-format-
 aliasesFor404:
 - /resources/what-do-people-love-most-about-the-4-day-training-format
 - /resources/videos/what-do-people-love-most-about-the-4-day-training-format-

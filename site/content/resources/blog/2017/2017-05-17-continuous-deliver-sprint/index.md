@@ -21,6 +21,14 @@ aliases:
 - /i-do-continuous-deliver--why-should-i-sprint-
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
 - /resources/blog/continuous-deliver-sprint
+aliasesArchive:
+- /blog/continuous-deliver-sprint
+- /continuous-deliver-sprint
+- /i-do-continuous-deliver,-why-should-i-sprint-
+- /blog/i-do-continuous-deliver,-why-should-i-sprint-
+- /i-do-continuous-deliver--why-should-i-sprint-
+- /blog/i-do-continuous-deliver--why-should-i-sprint-
+- /resources/blog/continuous-deliver-sprint
 aliasesFor404:
 - /continuous-deliver-sprint
 - /blog/continuous-deliver-sprint

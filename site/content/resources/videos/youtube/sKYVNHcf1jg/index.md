@@ -15,6 +15,8 @@ aliases:
 - /resources/sKYVNHcf1jg
 aliasesArchive:
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant
+- /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
+- /resources/what-was-your-worst-day-as-an-agile-consultant-
 aliasesFor404:
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
 - /resources/what-was-your-worst-day-as-an-agile-consultant-
@@ -23,15 +25,15 @@ duration: 280
 isShort: false
 tags:
 - Coaching
-- Agile Transformation
-- Team Motivation
-- Agile Frameworks
-- Business Agility
-- Scrum Team
-- Agile Philosophy
+- Agile Leadership
+- Agile Project Management
 - Team Performance
 - Agile Product Management
-- Agile Leadership
+- Agile Philosophy
+- Organisational Agility
+- Team Motivation
+- Agile Transformation
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.4

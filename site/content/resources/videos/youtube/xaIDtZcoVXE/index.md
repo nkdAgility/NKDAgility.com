@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
 aliasesArchive:
 - /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
+- /resources/how-do-you-know-how-long-it-takes-to-deliver-value
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 aliasesFor404:
 - /resources/how-do-you-know-how-long-it-takes-to-deliver-value
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
@@ -29,14 +32,14 @@ sitemap:
 tags:
 - Decision Making
 - Value Stream Management
-- Evidence Based Management
 - Metrics and Learning
 - Ability to Innovate
+- Evidence Based Management
 - Value Delivery
-- Evidence Based Leadership
-- Throughput
+- Operational Practices
 - Pragmatic Thinking
 - Flow Efficiency
+- Product Delivery
 resourceTypes:
 - video
 categories:

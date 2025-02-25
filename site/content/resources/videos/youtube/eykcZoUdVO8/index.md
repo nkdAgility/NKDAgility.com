@@ -20,6 +20,10 @@ aliases:
 aliasesArchive:
 - /resources/videos/part-most-influential-people-in-agile
 - /resources/videos/part-2-most-influential-people-in-agile
+- /resources/part-2-most-influential-people-in-agile-3
+- /resources/most-influential-person-in-agile-for-you-personally
+- /resources/videos/most-influential-person-in-agile-for-you-personally-
+- /resources/most-influential-person-in-agile-for-you-personally-
 aliasesFor404:
 - /resources/part-2-most-influential-people-in-agile-3
 - /resources/most-influential-person-in-agile-for-you-personally

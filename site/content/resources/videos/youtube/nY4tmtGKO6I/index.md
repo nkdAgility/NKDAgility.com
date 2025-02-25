@@ -15,6 +15,8 @@ aliases:
 - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
 aliasesArchive:
 - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
+- /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
+- /resources/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
 aliasesFor404:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
 - /resources/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
@@ -25,10 +27,10 @@ tags:
 - Scrum Master
 - Scrum Team
 - Professional Scrum
-- Software Development
-- Agile Frameworks
 - People and Process
 - Agile Project Management
+- Software Development
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

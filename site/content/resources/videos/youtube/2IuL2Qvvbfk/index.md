@@ -17,6 +17,9 @@ aliases:
 - /resources/2IuL2Qvvbfk
 aliasesArchive:
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
+- /resources/biggest-contribution-from-a-product-owner-that-you-know-of
+- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
+- /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
 aliasesFor404:
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
@@ -27,12 +30,12 @@ sitemap:
 tags:
 - Agile Product Management
 - People and Process
-- Agile Project Management
-- Product Owner
-- Product Delivery
-- Agile Leadership
 - Azure DevOps
-- Pragmatic Thinking
+- Product Delivery
+- Product Owner
+- Agile Leadership
+- Agile Project Management
+- Agile Strategy
 - Technical Leadership
 - Value Delivery
 resourceTypes:

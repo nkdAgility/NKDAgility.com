@@ -15,6 +15,8 @@ aliases:
 - /resources/omsEiYqX-Dk
 aliasesArchive:
 - /resources/videos/unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
+- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
+- /resources/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
 aliasesFor404:
 - /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
 - /resources/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-

@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-event-handler--coverage-&-comments
 - /resources/PEksFd3ugtL
 - /resources/blog/tfs-event-handler-coverage-comments
+aliasesArchive:
+- /blog/tfs-event-handler-coverage-comments
+- /tfs-event-handler-coverage-comments
+- /tfs-event-handler--coverage-&-comments
+- /blog/tfs-event-handler--coverage-&-comments
+- /resources/blog/tfs-event-handler-coverage-comments
 aliasesFor404:
 - /tfs-event-handler-coverage-comments
 - /blog/tfs-event-handler-coverage-comments
@@ -27,8 +33,8 @@ aliasesFor404:
 - /resources/blog/tfs-event-handler-coverage-comments
 tags:
 - Customer Feedback Loops
-- Software Development
 - Troubleshooting
+- Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

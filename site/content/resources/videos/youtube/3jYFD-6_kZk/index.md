@@ -17,6 +17,9 @@ aliases:
 - /resources/3jYFD-6_kZk
 aliasesArchive:
 - /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
+- /resources/navigating-the-complex-world-of-azure-devops-data-migration
+- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+- /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 aliasesFor404:
 - /resources/navigating-the-complex-world-of-azure-devops-data-migration
 - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
@@ -27,12 +30,12 @@ sitemap:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Azure DevOps
 - System Configuration
+- Azure DevOps
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 layout: video

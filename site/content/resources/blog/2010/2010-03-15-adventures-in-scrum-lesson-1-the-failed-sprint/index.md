@@ -19,6 +19,12 @@ aliases:
 - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /resources/OG5mmVtH9nU
 - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
+aliasesArchive:
+- /blog/adventures-in-scrum-lesson-1-the-failed-sprint
+- /adventures-in-scrum-lesson-1-the-failed-sprint
+- /adventures-in-scrum--lesson-1-–-the-failed-sprint
+- /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
+- /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
 aliasesFor404:
 - /adventures-in-scrum-lesson-1-the-failed-sprint
 - /blog/adventures-in-scrum-lesson-1-the-failed-sprint

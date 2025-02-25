@@ -18,6 +18,10 @@ aliases:
 - /resources/yu9CmrDiBPc
 aliasesArchive:
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
+- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+- "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 aliasesFor404:
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
@@ -28,20 +32,20 @@ sitemap:
   priority: 0.4
 tags:
 - People and Process
-- Agile Product Management
+- Organisational Culture
+- Sociotechnical Systems
+- Enterprise Agility
 - Team Collaboration
-- Value Delivery
-- Agile Project Management
-- Software Development
-- Agile Transformation
-- Organisational Agility
-- Agile Frameworks
+- Scaling Agility
 - Pragmatic Thinking
+- Organisational Agility
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- DevOps
+- Product Management
 canonicalUrl: https://www.youtube.com/watch?v=yu9CmrDiBPc
 
 ---

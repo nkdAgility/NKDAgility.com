@@ -21,6 +21,14 @@ aliases:
 - /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
+aliasesArchive:
+- /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
+- /combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
+- /combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
+- /blog/combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
+- /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
+- /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
+- /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 aliasesFor404:
 - /combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 - /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
@@ -31,11 +39,11 @@ aliasesFor404:
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
 - People and Process
-- Team Collaboration
-- Agile Project Management
 - Practical Techniques and Tooling
-- Software Development
+- Agile Project Management
+- Team Collaboration
 - Pragmatic Thinking
+- Software Development
 - Agile Frameworks
 - Team Performance
 - Scrum Product Development

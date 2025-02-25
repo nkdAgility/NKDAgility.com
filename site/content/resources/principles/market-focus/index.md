@@ -13,6 +13,8 @@ draft: true
 aliases:
 - /learn/agile-delivery-kit/first-principals/market-focus/
 - /resources/T6DrE9pN0ds
+aliasesArchive:
+- /learn/agile-delivery-kit/first-principals/market-focus/
 aliasesFor404:
 - /learn/agile-delivery-kit/first-principals/market-focus/
 card:
@@ -23,16 +25,16 @@ card:
 categories:
 - Product Management
 tags:
-- Customer Feedback Loops
 - Market Adaptability
-- Lean Product Development
-- Customer Satisfaction
-- Product Validation
-- Discovery and Learning
-- Organisational Agility
+- Customer Feedback Loops
 - Business Agility
-- Lead Time
 - Agile Values and Principles
+- Frequent Releases
+- Deployment Frequency
+- Working Software
+- Lean Product Development
+- Product Validation
+- Lean Startup
 
 ---
 Update the work based on user feedback on timelines shorter than one month

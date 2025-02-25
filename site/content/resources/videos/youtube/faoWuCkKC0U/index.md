@@ -20,6 +20,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-seconds
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
+- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
+- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
 aliasesFor404:
 - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
 - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds

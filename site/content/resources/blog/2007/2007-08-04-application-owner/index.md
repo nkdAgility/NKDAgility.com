@@ -17,6 +17,10 @@ aliases:
 - /application-owner
 - /resources/JqwdfuCbOrt
 - /resources/blog/application-owner
+aliasesArchive:
+- /blog/application-owner
+- /application-owner
+- /resources/blog/application-owner
 aliasesFor404:
 - /application-owner
 - /blog/application-owner

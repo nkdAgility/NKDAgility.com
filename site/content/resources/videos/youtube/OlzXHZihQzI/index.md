@@ -19,6 +19,9 @@ aliases:
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
+- /resources/unlocking-the-power-of-immersive-learning-in-agile
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 aliasesFor404:
 - /resources/unlocking-the-power-of-immersive-learning-in-agile
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
@@ -28,8 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Continuous Learning
 - People and Process
+- Continuous Learning
 - Organisational Agility
 resourceTypes:
 - video

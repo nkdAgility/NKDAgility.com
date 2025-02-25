@@ -17,6 +17,10 @@ aliases:
 - /messenger-united
 - /resources/RvQ6ePytMFh
 - /resources/blog/messenger-united
+aliasesArchive:
+- /blog/messenger-united
+- /messenger-united
+- /resources/blog/messenger-united
 aliasesFor404:
 - /messenger-united
 - /blog/messenger-united

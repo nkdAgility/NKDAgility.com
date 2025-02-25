@@ -15,6 +15,8 @@ aliases:
 - /resources/UgFVn4Sp1rw
 aliasesArchive:
 - /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
+- /resources/measuring-and-monitoring-costs-for-continuous-improvement
 aliasesFor404:
 - /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
 - /resources/measuring-and-monitoring-costs-for-continuous-improvement
@@ -24,14 +26,14 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Ability to Innovate
+- People and Process
+- Metrics and Learning
 - Scrum Product Development
 - Decision Making
-- Metrics and Learning
-- People and Process
 - Agile Product Management
-- Product Delivery
 - Agile Product Operating Model
-- Evidence Based Management
+- Practical Techniques and Tooling
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

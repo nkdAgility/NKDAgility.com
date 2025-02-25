@@ -17,6 +17,10 @@ aliases:
 - /kerberos-problems
 - /resources/0Of8b0Njxtf
 - /resources/blog/kerberos-problems
+aliasesArchive:
+- /blog/kerberos-problems
+- /kerberos-problems
+- /resources/blog/kerberos-problems
 aliasesFor404:
 - /kerberos-problems
 - /blog/kerberos-problems

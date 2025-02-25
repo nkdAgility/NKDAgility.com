@@ -17,14 +17,18 @@ aliases:
 - /installing-visual-studio-2008-beta-2-on-xp
 - /resources/QyRk0KkQYbz
 - /resources/blog/installing-visual-studio-2008-beta-2-on-xp
+aliasesArchive:
+- /blog/installing-visual-studio-2008-beta-2-on-xp
+- /installing-visual-studio-2008-beta-2-on-xp
+- /resources/blog/installing-visual-studio-2008-beta-2-on-xp
 aliasesFor404:
 - /installing-visual-studio-2008-beta-2-on-xp
 - /blog/installing-visual-studio-2008-beta-2-on-xp
 - /resources/blog/installing-visual-studio-2008-beta-2-on-xp
 tags:
 - Install and Configuration
-- Troubleshooting
 - Miscellaneous
+- Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

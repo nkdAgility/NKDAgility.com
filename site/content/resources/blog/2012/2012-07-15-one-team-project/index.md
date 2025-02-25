@@ -19,6 +19,12 @@ aliases:
 - /blog/one-team-project-to-rule-them-all
 - /resources/8AfjJ-2eCEV
 - /resources/blog/one-team-project
+aliasesArchive:
+- /blog/one-team-project
+- /one-team-project
+- /one-team-project-to-rule-them-all
+- /blog/one-team-project-to-rule-them-all
+- /resources/blog/one-team-project
 aliasesFor404:
 - /one-team-project
 - /blog/one-team-project
@@ -27,13 +33,13 @@ aliasesFor404:
 - /resources/blog/one-team-project
 tags:
 - Agile Planning Tools
-- Agile Planning
-- Agile Project Management
 - Practical Techniques and Tooling
+- Agile Project Management
+- Agile Planning
 - Software Development
 - Software Developers
-- Azure DevOps
 - Pragmatic Thinking
+- Azure DevOps
 - Azure Boards
 - People and Process
 categories:

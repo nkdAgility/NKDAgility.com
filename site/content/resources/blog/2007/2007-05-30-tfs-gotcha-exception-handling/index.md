@@ -19,6 +19,12 @@ aliases:
 - /blog/tfs-gotcha-(exception-handling)
 - /resources/OMGmyApgm0G
 - /resources/blog/tfs-gotcha-exception-handling
+aliasesArchive:
+- /blog/tfs-gotcha-exception-handling
+- /tfs-gotcha-exception-handling
+- /tfs-gotcha-(exception-handling)
+- /blog/tfs-gotcha-(exception-handling)
+- /resources/blog/tfs-gotcha-exception-handling
 aliasesFor404:
 - /tfs-gotcha-exception-handling
 - /blog/tfs-gotcha-exception-handling
@@ -26,9 +32,9 @@ aliasesFor404:
 - /blog/tfs-gotcha-(exception-handling)
 - /resources/blog/tfs-gotcha-exception-handling
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 

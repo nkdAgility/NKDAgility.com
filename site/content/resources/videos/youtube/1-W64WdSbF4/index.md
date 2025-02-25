@@ -18,6 +18,10 @@ aliases:
 aliasesArchive:
 - /resources/videos/free-workshop-introduction-to-sprint-reviews-review-retrospective
 - /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+- /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
+- /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+- /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 aliasesFor404:
 - /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
 - /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
@@ -28,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Product Development
-- Professional Scrum
 - Sprint Review
+- Professional Scrum
 - Increment
 - People and Process
-- Scrum Master
-- Events and Presentations
-- Scrum Team
 - Agile Product Management
-- Product Delivery
+- Events and Presentations
+- Scrum Master
+- Agile Project Management
+- Product Owner
 resourceTypes:
 - video
 layout: video

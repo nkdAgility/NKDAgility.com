@@ -17,20 +17,24 @@ aliases:
 - /team-foundation-server-2010-event-handling-with-subscribers
 - /resources/FzwWmNio6fH
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
+aliasesArchive:
+- /blog/team-foundation-server-2010-event-handling-with-subscribers
+- /team-foundation-server-2010-event-handling-with-subscribers
+- /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 aliasesFor404:
 - /team-foundation-server-2010-event-handling-with-subscribers
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Technical Mastery
+- Pragmatic Thinking
 - Software Development
 - Software Developers
 - Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
 - System Configuration
-- Technical Mastery
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

@@ -19,6 +19,12 @@ aliases:
 - /blog/does-test-driven-development-speed-up-development-
 - /resources/ASBKRFatUhc
 - /resources/blog/does-test-driven-development-speed-up-development
+aliasesArchive:
+- /blog/does-test-driven-development-speed-up-development
+- /does-test-driven-development-speed-up-development
+- /does-test-driven-development-speed-up-development-
+- /blog/does-test-driven-development-speed-up-development-
+- /resources/blog/does-test-driven-development-speed-up-development
 aliasesFor404:
 - /does-test-driven-development-speed-up-development
 - /blog/does-test-driven-development-speed-up-development
@@ -30,9 +36,9 @@ tags:
 - Software Developers
 - Test First Development
 - Test Driven Development
-- Technical Excellence
-- Engineering Practices
 - Technical Mastery
+- Engineering Practices
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

@@ -18,6 +18,10 @@ aliases:
 - /deciphering-the-enigma-of-story-points-across-teams
 - /resources/LKp5S7_4Kbw
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
+aliasesArchive:
+- /blog/deciphering-the-enigma-of-story-points-across-teams
+- /deciphering-the-enigma-of-story-points-across-teams
+- /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 aliasesFor404:
 - /deciphering-the-enigma-of-story-points-across-teams
 - /blog/deciphering-the-enigma-of-story-points-across-teams
@@ -25,14 +29,14 @@ aliasesFor404:
 tags:
 - Throughput
 - Agile Product Management
-- Agile Project Management
-- Metrics and Learning
 - Value Delivery
+- Metrics and Learning
+- Agile Project Management
 - Team Performance
 - Decision Making
 - Flow Efficiency
+- Evidence Based Leadership
 - Pragmatic Thinking
-- Operational Practices
 categories:
 - Social Technologies
 - Product Management

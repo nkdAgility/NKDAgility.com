@@ -15,6 +15,8 @@ aliases:
 - /resources/DSIXtHZTirA
 aliasesArchive:
 - /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
+- /resources/videos/performance-engineering-for-optimal-user-experience
+- /resources/performance-engineering-for-optimal-user-experience
 aliasesFor404:
 - /resources/videos/performance-engineering-for-optimal-user-experience
 - /resources/performance-engineering-for-optimal-user-experience
@@ -23,15 +25,15 @@ duration: 704
 isShort: false
 tags:
 - Pragmatic Thinking
-- Continuous Delivery
-- Working Software
-- Product Delivery
-- Azure DevOps
 - People and Process
-- Deployment Frequency
-- Technical Excellence
+- Continuous Delivery
+- Azure DevOps
+- Product Delivery
+- Working Software
+- Practical Techniques and Tooling
+- Value Delivery
 - Engineering Practices
-- Software Development
+- Deployment Frequency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -13,6 +13,8 @@ aliases:
 - /resources/6S9LGyxU2cQ
 aliasesArchive:
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
+- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+- /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 aliasesFor404:
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
@@ -22,14 +24,14 @@ isShort: false
 tags:
 - Coaching
 - People and Process
+- Team Performance
 - Discovery and Learning
 - Continuous Learning
-- Team Performance
 - Organisational Agility
 - Team Collaboration
 - Customer Feedback Loops
+- Agile Frameworks
 - Empirical Process Control
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

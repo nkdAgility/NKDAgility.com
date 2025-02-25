@@ -19,6 +19,12 @@ aliases:
 - /blog/visual-studio-2010-overview-webcasts
 - /resources/_EPy7wea5xE
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
+aliasesArchive:
+- /blog/an-index-to-all-visual-studio-2010-overview-sessions
+- /an-index-to-all-visual-studio-2010-overview-sessions
+- /visual-studio-2010-overview-webcasts
+- /blog/visual-studio-2010-overview-webcasts
+- /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 aliasesFor404:
 - /an-index-to-all-visual-studio-2010-overview-sessions
 - /blog/an-index-to-all-visual-studio-2010-overview-sessions
@@ -26,9 +32,9 @@ aliasesFor404:
 - /blog/visual-studio-2010-overview-webcasts
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
-- Software Development
-- Events and Presentations
 - Application Lifecycle Management
+- Events and Presentations
+- Software Development
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - DevOps

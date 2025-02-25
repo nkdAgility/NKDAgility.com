@@ -19,6 +19,10 @@ aliases:
 aliasesArchive:
 - /resources/videos/what-are-the-top-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 - /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
+- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 aliasesFor404:
 - /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
@@ -29,15 +33,15 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Team Performance
-- Agile Frameworks
 - Agile Project Management
 - Mentoring
+- Agile Frameworks
+- Pragmatic Thinking
 - Team Collaboration
-- Professional Scrum
 resourceTypes:
 - video
 categories:

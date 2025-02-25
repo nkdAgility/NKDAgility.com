@@ -17,6 +17,9 @@ aliases:
 - /resources/4nhKXAgutZw
 aliasesArchive:
 - /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
+- /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
+- /resources/videos/7-virtues-of-agile-kindness
+- /resources/7-virtues-of-agile-kindness
 aliasesFor404:
 - /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
 - /resources/videos/7-virtues-of-agile-kindness
@@ -26,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Customer Satisfaction
 - Agile Values and Principles
+- Customer Satisfaction
 - Organisational Culture
 - Agile Philosophy
-- Employee Engagement
 - Team Motivation
-- Agile Leadership
+- Employee Engagement
 - Organisational Psychology
+- Agile Leadership
 resourceTypes:
 - video
 layout: video

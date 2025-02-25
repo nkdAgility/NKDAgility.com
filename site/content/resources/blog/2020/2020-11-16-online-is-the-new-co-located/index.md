@@ -17,6 +17,10 @@ aliases:
 - /online-is-the-new-co-located
 - /resources/QnZVgaG90q_
 - /resources/blog/online-is-the-new-co-located
+aliasesArchive:
+- /blog/online-is-the-new-co-located
+- /online-is-the-new-co-located
+- /resources/blog/online-is-the-new-co-located
 aliasesFor404:
 - /online-is-the-new-co-located
 - /blog/online-is-the-new-co-located
@@ -26,8 +30,8 @@ tags:
 - People and Process
 - Events and Presentations
 - Transparency and Accountability
-- Team Collaboration
 - Pragmatic Thinking
+- Team Collaboration
 - Remote Working
 - Team Performance
 - Collaboration Tools

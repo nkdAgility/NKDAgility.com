@@ -17,6 +17,10 @@ aliases:
 - /allow-user-to-change-the-region-for-windows-live-id-billing
 - /resources/v_DNTz1r6-H
 - /resources/blog/allow-user-to-change-the-region-for-windows-live-id-billing
+aliasesArchive:
+- /blog/allow-user-to-change-the-region-for-windows-live-id-billing
+- /allow-user-to-change-the-region-for-windows-live-id-billing
+- /resources/blog/allow-user-to-change-the-region-for-windows-live-id-billing
 aliasesFor404:
 - /allow-user-to-change-the-region-for-windows-live-id-billing
 - /blog/allow-user-to-change-the-region-for-windows-live-id-billing

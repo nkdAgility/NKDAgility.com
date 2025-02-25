@@ -16,6 +16,7 @@ aliases:
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/20th-may-2020-office-hours-ask-me-anything
+- /resources/20th-may-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/20th-may-2020-office-hours-ask-me-anything
 - /resources/20th-may-2020-office-hours-ask-me-anything
@@ -23,8 +24,8 @@ preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
 tags:
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - Software Development
 - Software Developers
 sitemap:

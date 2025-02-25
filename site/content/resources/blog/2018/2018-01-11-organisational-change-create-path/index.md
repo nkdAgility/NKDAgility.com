@@ -19,6 +19,12 @@ aliases:
 - /blog/create-your-own-path-to-organisational-agility
 - /resources/RdwxVidD26i
 - /resources/blog/organisational-change-create-path
+aliasesArchive:
+- /blog/organisational-change-create-path
+- /organisational-change-create-path
+- /create-your-own-path-to-organisational-agility
+- /blog/create-your-own-path-to-organisational-agility
+- /resources/blog/organisational-change-create-path
 aliasesFor404:
 - /organisational-change-create-path
 - /blog/organisational-change-create-path

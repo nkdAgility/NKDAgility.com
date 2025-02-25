@@ -19,6 +19,12 @@ aliases:
 - /blog/installing-release-management-server-for-tfs-2013
 - /resources/9xXIHbs9zmA
 - /resources/blog/installing-release-management-server-tfs-2013
+aliasesArchive:
+- /blog/installing-release-management-server-tfs-2013
+- /installing-release-management-server-tfs-2013
+- /installing-release-management-server-for-tfs-2013
+- /blog/installing-release-management-server-for-tfs-2013
+- /resources/blog/installing-release-management-server-tfs-2013
 aliasesFor404:
 - /installing-release-management-server-tfs-2013
 - /blog/installing-release-management-server-tfs-2013

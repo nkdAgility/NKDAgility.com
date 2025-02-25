@@ -17,6 +17,10 @@ aliases:
 - /cafemsn-prize
 - /resources/lDSK1w8_5AB
 - /resources/blog/cafemsn-prize
+aliasesArchive:
+- /blog/cafemsn-prize
+- /cafemsn-prize
+- /resources/blog/cafemsn-prize
 aliasesFor404:
 - /cafemsn-prize
 - /blog/cafemsn-prize
