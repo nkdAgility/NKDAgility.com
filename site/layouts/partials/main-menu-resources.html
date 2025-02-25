@@ -20,53 +20,69 @@
             </ul>
           </div>
           <div class="col-md-10">
-            <h6>Recent</h6>
-            <div class="row">
-              {{ range first 10 (sort (where .Site.RegularPages "Type" "resources") "Date" "desc") }}
-                <div class="col-md-4">
-                  {{ if eq .Params.ResourceType "videos" }}
-                    <i class="fa-solid fa-video"></i>
-                  {{ else if eq .Params.ResourceType "blog" }}
-                    <i class="fa-solid fa-newspaper"></i>
-                  {{ else }}
-                    {{ .Params.ResourceType }}
-                  {{ end }}
-                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </div>
-              {{ end }}
-            </div>
-            <h6>Important</h6>
-            <div class="row">
-              {{ range first 10 (where .Site.RegularPages.ByWeight "Type" "resources") }}
-                <div class="col-md-4">
-                  {{ if eq .Params.ResourceType "videos" }}
-                    <i class="fa-solid fa-video"></i>
-                  {{ else if eq .Params.ResourceType "blog" }}
-                    <i class="fa-solid fa-newspaper"></i>
-                  {{ else }}
-                    {{ .Params.ResourceType }}
-                  {{ end }}
-                  <a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Weight }})</a>
-                </div>
-              {{ end }}
-            </div>
             <div class="m-1">
-              <h6>Categories</h6>
+              <h5>Recent</h5>
               <div class="row">
-                {{ range $category, $pages := .Site.Taxonomies.categories }}
-                  <div class="col-md-4">
-                    <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ len $pages }})</a>
+                {{ range first 10 (sort (where .Site.RegularPages "Type" "resources") "Date" "desc") }}
+                  <div class="col-md-6 text-truncate d-inline-block" title="{{ .Title }}">
+                    {{ if eq .Params.ResourceType "videos" }}
+                      <i class="fa-solid fa-video"></i>
+                    {{ else if eq .Params.ResourceType "blog" }}
+                      <i class="fa-solid fa-newspaper"></i>
+                    {{ else }}
+                      {{ .Params.ResourceType }}
+                    {{ end }}
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                   </div>
                 {{ end }}
               </div>
+              <hr />
             </div>
-            <h6>Tags</h6>
-            <div class="row">
-              {{ range $category, $pages := .Site.Taxonomies.tags }}
-                <div class="col-md-4">
-                  <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ len $pages }})</a>
-                </div>
-              {{ end }}
+            <div class="m-1">
+              <h5>Important</h5>
+              <div class="row">
+                {{ range first 10 (where .Site.RegularPages.ByWeight "Type" "resources") }}
+                  <div class="col-md-6 text-truncate d-inline-block" title="{{ .Title }}">
+                    {{ if eq .Params.ResourceType "videos" }}
+                      <i class="fa-solid fa-video"></i>
+                    {{ else if eq .Params.ResourceType "blog" }}
+                      <i class="fa-solid fa-newspaper"></i>
+                    {{ else }}
+                      {{ .Params.ResourceType }}
+                    {{ end }}
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  </div>
+                {{ end }}
+              </div>
+              <hr />
+            </div>
+            <div class="m-1">
+              <h5>Categories</h5>
+              <div class="row">
+                {{ range $category, $pages := .Site.Taxonomies.categories }}
+                  <div class="col-md-3 d-flex align-items-center">
+                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
+                      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                    </span>
+                    <span class="ms-1">({{ len $pages }})</span>
+                  </div>
+                {{ end }}
+              </div>
+              <hr />
+            </div>
+            <div class="m-1">
+              <h6>Tags</h6>
+              <div class="row">
+                {{ range $category, $pages := .Site.Taxonomies.tags }}
+                  <div class="col-md-3 d-flex align-items-center">
+                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
+                      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                    </span>
+                    <span class="ms-1">({{ len $pages }})</span>
+                  </div>
+                {{ end }}
+              </div>
+              <hr />
             </div>
           </div>
         </div>
