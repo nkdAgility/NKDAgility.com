@@ -194,7 +194,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     #================Themes, Categories, & TAGS==========================
     $BodyContent = $hugoMarkdown.BodyContent
     If ($hugoMarkdown.FrontMatter.ResourceType -eq "videos") {
-        $captionsPath = Join-Path $hugoMarkdown.FolderPath "index.captions.en.md"
+        $captionsPath = Join-Path $hugoMarkdown.FolderPath "captions.en.md"
         if (Test-Path ($captionsPath )) {
             $BodyContent = Get-Content $captionsPath -Raw
         }
@@ -234,8 +234,8 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         }
         "videos" { 
             if ($hugoMarkdown.FrontMatter.Contains('canonicalURL')) {
-                if ( (Test-Path (Join-Path $hugoMarkdown.FolderPath "index.captions.en.md" ))) {
-                    $transcript = Get-Content -Path (Join-Path $hugoMarkdown.FolderPath "index.captions.en.md" ) -Raw
+                if ( (Test-Path (Join-Path $hugoMarkdown.FolderPath "captions.en.md" ))) {
+                    $transcript = Get-Content -Path (Join-Path $hugoMarkdown.FolderPath "captions.en.md" ) -Raw
                     $content = Get-NewPostBasedOnTranscript -ResourceTranscript $transcript
                     $newTitle = Get-NewTitleBasedOnContent -Content $content
                     $newDescription = Get-NewDescriptionBasedOnContent -Content $content

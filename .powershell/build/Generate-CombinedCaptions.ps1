@@ -94,7 +94,7 @@ function Generate-CombinedCaptions {
             return
         }
 
-        $captionsFile = "$videoDir\index.captions.en.md"
+        $captionsFile = "$videoDir\captions.en.md"
         if (Test-Path $captionsFile) {
             $videoCaptions = Get-Content -Path $captionsFile -Raw
             Write-Host "Loaded captions for $videoId"
