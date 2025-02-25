@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RSPw8pZ9NT8
 url: /resources/videos/:slug
-slug: can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+slug: unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 layout: video
 aliases:
-- /resources/videos/RSPw8pZ9NT8
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
-- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/RSPw8pZ9NT8
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 aliasesFor404:
 - /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations

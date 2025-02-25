@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
-slug: kanban-with-azure-devops
+slug: mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 layout: video
 aliases:
-- /resources/videos/jCrXzgjxcEA
-- /resources/videos/kanban-with-azure-devops
-- /resources/kanban-with-azure-devops
 - /resources/jCrXzgjxcEA
+aliasesArchive:
+- /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 aliasesFor404:
 - /resources/videos/kanban-with-azure-devops
 - /resources/kanban-with-azure-devops

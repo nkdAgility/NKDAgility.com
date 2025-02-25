@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LxM_F_JJLeg
 url: /resources/videos/:slug
-slug: don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
+slug: transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
 layout: video
 aliases:
-- /resources/videos/LxM_F_JJLeg
-- /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
-- /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 - /resources/LxM_F_JJLeg
+aliasesArchive:
+- /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
 aliasesFor404:
 - /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 - /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence

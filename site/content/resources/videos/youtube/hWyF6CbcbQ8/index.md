@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hWyF6CbcbQ8
 url: /resources/videos/:slug
-slug: devops-migration-data-integrity-issues
+slug: mastering-data-integrity-the-key-to-successful-devops-migrations
 layout: video
 aliases:
-- /resources/videos/hWyF6CbcbQ8
-- /resources/videos/devops-migration-data-integrity-issues
-- /resources/devops-migration-data-integrity-issues
 - /resources/hWyF6CbcbQ8
+aliasesArchive:
+- /resources/videos/mastering-data-integrity-the-key-to-successful-devops-migrations
 aliasesFor404:
 - /resources/videos/devops-migration-data-integrity-issues
 - /resources/devops-migration-data-integrity-issues

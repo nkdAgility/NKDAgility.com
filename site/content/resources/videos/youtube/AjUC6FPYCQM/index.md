@@ -9,14 +9,13 @@ ResourceImportSource: Youtube
 videoId: AjUC6FPYCQM
 source: youtube
 url: /resources/videos/:slug
-slug: do-teams-really-understand-the-power-of-applying-scrum-professionally-
+slug: do-teams-really-understand-the-power-of-applying-scrum-professionally
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=AjUC6FPYCQM
 aliases:
-- /resources/videos/AjUC6FPYCQM
-- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
-- /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/AjUC6FPYCQM
+aliasesArchive:
+- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
 aliasesFor404:
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-

@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: BFDB04_JIhg
 source: internal
 url: /resources/videos/:slug
-slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
 layout: video
 preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
-- /resources/videos/introduction-to-kanban
-- /resources/videos/BFDB04_JIhg
-- /resources/introduction-to-kanban
 - /resources/BFDB04_JIhg
+- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
+aliasesArchive:
+- /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 aliasesFor404:
 - /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 - /resources/videos/introduction-to-kanban

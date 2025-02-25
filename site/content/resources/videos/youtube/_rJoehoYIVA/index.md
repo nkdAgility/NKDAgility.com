@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/_rJoehoYIVA/maxresdefault.jpg
 duration: 293
 isShort: false
 aliases:
-- /resources/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
-- /resources/videos/_rJoehoYIVA
-- /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
-- /resources/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 - /resources/_rJoehoYIVA
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
 aliasesFor404:
 - /resources/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
 - /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
 duration: 505
 isShort: false
 aliases:
-- /resources/what-is-the-one-thing-that-no-agile-team-can-survive
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
-- /resources/videos/c0ncdBixyfo
-- /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
 - /resources/c0ncdBixyfo
+aliasesArchive:
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
 aliasesFor404:
 - /resources/what-is-the-one-thing-that-no-agile-team-can-survive
 - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-

@@ -12,10 +12,9 @@ slug: why-did-healthgrades-choose-martin-hinshelwood
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=DWL0PLkFazs
 aliases:
-- /resources/videos/DWL0PLkFazs
-- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
-- /resources/why-did-healthgrades-choose-martin-hinshelwood
 - /resources/DWL0PLkFazs
+aliasesArchive:
+- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 aliasesFor404:
 - /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 - /resources/why-did-healthgrades-choose-martin-hinshelwood

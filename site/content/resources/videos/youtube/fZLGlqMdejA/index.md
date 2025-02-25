@@ -15,11 +15,10 @@ preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
 duration: 380
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-greed
-- /resources/videos/greed!-7-deadly-sins-of-agile
-- /resources/videos/fZLGlqMdejA
-- /resources/greed!-7-deadly-sins-of-agile
 - /resources/fZLGlqMdejA
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-greed
+- /resources/videos/7-deadly-sins-of-agile-greed
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-greed
 - /resources/videos/greed!-7-deadly-sins-of-agile

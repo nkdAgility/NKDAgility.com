@@ -8,14 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XF95kabzSeY
 url: /resources/videos/:slug
-slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
+slug: shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=XF95kabzSeY
 aliases:
-- /resources/videos/XF95kabzSeY
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/XF95kabzSeY
+aliasesArchive:
+- /resources/videos/shorts-things-you-would-teach-a-productowner-apprentice-part-
+- /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 aliasesFor404:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2

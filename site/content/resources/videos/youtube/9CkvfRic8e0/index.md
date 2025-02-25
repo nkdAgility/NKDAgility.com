@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9CkvfRic8e0
 url: /resources/videos/:slug
-slug: connecting-release-manageer-to-tfs-2013
+slug: mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
 layout: video
 aliases:
-- /resources/videos/9CkvfRic8e0
-- /resources/videos/connecting-release-manageer-to-tfs-2013
-- /resources/connecting-release-manageer-to-tfs-2013
 - /resources/9CkvfRic8e0
+aliasesArchive:
+- /resources/videos/mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
 aliasesFor404:
 - /resources/videos/connecting-release-manageer-to-tfs-2013
 - /resources/connecting-release-manageer-to-tfs-2013

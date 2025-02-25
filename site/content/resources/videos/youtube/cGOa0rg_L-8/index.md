@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: cGOa0rg_L-8
 source: internal
 url: /resources/videos/:slug
-slug: is-your-project-ecosystem-truly-agile
+slug: is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
 layout: video
 preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
 duration: 46
 isShort: true
 aliases:
-- /resources/is-your-project-ecosystem-truly-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
-- /resources/videos/cGOa0rg_L-8
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 - /resources/cGOa0rg_L-8
+- /resources/videos/is-your-project-ecosystem-truly-agile
+aliasesArchive:
+- /resources/videos/is-your-project-ecosystem-truly-agile
 aliasesFor404:
 - /resources/is-your-project-ecosystem-truly-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6

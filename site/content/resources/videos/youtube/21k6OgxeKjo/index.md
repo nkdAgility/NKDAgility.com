@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 21k6OgxeKjo
 url: /resources/videos/:slug
-slug: -shorts-5-kinds-of-agile-bandits-5th-kind
+slug: the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
 aliases:
-- /resources/videos/21k6OgxeKjo
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
 - /resources/21k6OgxeKjo
+- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
+aliasesArchive:
+- /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
 aliasesFor404:
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-5th-kind

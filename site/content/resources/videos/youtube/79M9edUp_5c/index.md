@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 79M9edUp_5c
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-4
+slug: embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
 aliases:
-- /resources/videos/79M9edUp_5c
-- /resources/videos/5-tools-that-scrum-masters-love-part-4
-- /resources/5-tools-that-scrum-masters-love-part-4
 - /resources/79M9edUp_5c
+- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
+aliasesArchive:
+- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
 aliasesFor404:
 - /resources/videos/5-tools-that-scrum-masters-love-part-4
 - /resources/5-tools-that-scrum-masters-love-part-4

@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/:slug
-slug: professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
+slug: unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 aliases:
-- /resources/videos/5ZRMBfV9zpI
-- /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
-- /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
 - /resources/5ZRMBfV9zpI
+aliasesArchive:
+- /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 aliasesFor404:
 - /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
 - /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]

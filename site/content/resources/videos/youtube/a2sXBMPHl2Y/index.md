@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg
 duration: 212
 isShort: false
 aliases:
-- /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
-- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
-- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
-- /resources/videos/a2sXBMPHl2Y
-- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 - /resources/a2sXBMPHl2Y
+aliasesArchive:
+- /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 aliasesFor404:
 - /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course

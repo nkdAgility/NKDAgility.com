@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug
-slug: silence-7-signs-of-the-agile-apocalypse-but-shorter!
+slug: breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 layout: video
 aliases:
-- /resources/videos/KHcSWD2tV6M
-- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
-- /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 - /resources/KHcSWD2tV6M
+aliasesArchive:
+- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 aliasesFor404:
 - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 - /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!

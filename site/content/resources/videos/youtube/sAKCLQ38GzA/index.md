@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg
 duration: 602
 isShort: false
 aliases:
-- /resources/does-starting-with-why-simon-sinek-really-matter
-- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
-- /resources/videos/sAKCLQ38GzA
-- /resources/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/sAKCLQ38GzA
+aliasesArchive:
+- /resources/videos/does-starting-with-why-simon-sinek-really-matter
 aliasesFor404:
 - /resources/does-starting-with-why-simon-sinek-really-matter
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-

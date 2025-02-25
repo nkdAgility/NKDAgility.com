@@ -12,10 +12,9 @@ slug: why-i-love-hierarchies-of-competence
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=kT9sB1jIz0U
 aliases:
-- /resources/videos/kT9sB1jIz0U
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence
 - /resources/kT9sB1jIz0U
+aliasesArchive:
+- /resources/videos/why-i-love-hierarchies-of-competence
 aliasesFor404:
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence

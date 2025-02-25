@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
 duration: 240
 isShort: false
 aliases:
-- /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
-- /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
-- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
-- /resources/videos/TzhiftXOJdw
 - /resources/TzhiftXOJdw
+aliasesArchive:
+- /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
 aliasesFor404:
 - /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
 - /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile

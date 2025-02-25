@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
 duration: 152
 isShort: false
 aliases:
-- /resources/how-does-a-scrum-team-decide-on-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
-- /resources/videos/Srwxg7Etnr0
-- /resources/how-does-a-scrum-team-decide-on-a-sprint-goal-
 - /resources/Srwxg7Etnr0
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
 aliasesFor404:
 - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-

@@ -12,10 +12,9 @@ slug: professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vY0hXTm-wgk
 aliases:
-- /resources/videos/vY0hXTm-wgk
-- /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
-- /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 - /resources/vY0hXTm-wgk
+aliasesArchive:
+- /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 aliasesFor404:
 - /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 - /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood

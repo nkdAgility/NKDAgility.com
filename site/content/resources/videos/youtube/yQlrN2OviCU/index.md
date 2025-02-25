@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: yQlrN2OviCU
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-peer-feedback-in-immersive-learning
+slug: the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
 layout: video
 preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg
 duration: 47
 isShort: true
 aliases:
-- /resources/the-power-of-peer-feedback-in-immersive-learning
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
-- /resources/videos/yQlrN2OviCU
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - /resources/yQlrN2OviCU
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning
+aliasesArchive:
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning
 aliasesFor404:
 - /resources/the-power-of-peer-feedback-in-immersive-learning
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3

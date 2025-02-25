@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Tye_-FY7boo/maxresdefault.jpg
 duration: 293
 isShort: false
 aliases:
-- /resources/vision-value-and-validation-the-keys-to-successful-product-management
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
-- /resources/videos/Tye_-FY7boo
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/Tye_-FY7boo
+aliasesArchive:
+- /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
 aliasesFor404:
 - /resources/vision-value-and-validation-the-keys-to-successful-product-management
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2

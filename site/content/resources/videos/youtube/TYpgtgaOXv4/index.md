@@ -9,17 +9,15 @@ ResourceImportSource: Youtube
 videoId: TYpgtgaOXv4
 source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-product-backlog-management-in-today-s-agile-landscape
+slug: the-importance-of-product-backlog-management-in-todays-agile-landscape
 layout: video
 preview: https://i.ytimg.com/vi/TYpgtgaOXv4/maxresdefault.jpg
 duration: 75
 isShort: false
 aliases:
-- /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
-- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
-- /resources/videos/TYpgtgaOXv4
-- /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
 - /resources/TYpgtgaOXv4
+aliasesArchive:
+- /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
 aliasesFor404:
 - /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now

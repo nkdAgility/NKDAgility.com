@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: R8Ris5quXb8
 url: /resources/videos/:slug
-slug: talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+slug: mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
 layout: video
 aliases:
-- /resources/videos/R8Ris5quXb8
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/R8Ris5quXb8
+- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
+aliasesArchive:
+- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
 aliasesFor404:
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org

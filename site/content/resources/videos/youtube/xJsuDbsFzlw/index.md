@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug
-slug: what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+slug: unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 layout: video
 aliases:
-- /resources/videos/xJsuDbsFzlw
-- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
-- /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/xJsuDbsFzlw
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 aliasesFor404:
 - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-

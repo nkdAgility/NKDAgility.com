@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2tlzlsgovy0
 url: /resources/videos/:slug
-slug: 6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
+slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
 aliases:
-- /resources/videos/2tlzlsgovy0
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 - /resources/2tlzlsgovy0
+- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
+aliasesArchive:
+- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
 aliasesFor404:
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2

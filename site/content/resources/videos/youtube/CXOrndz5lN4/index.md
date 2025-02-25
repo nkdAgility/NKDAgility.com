@@ -9,13 +9,13 @@ ResourceImportSource: Youtube
 videoId: CXOrndz5lN4
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-culture-of-engineering-excellence
+slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
 layout: video
 aliases:
-- /resources/videos/CXOrndz5lN4
-- /resources/videos/building-a-culture-of-engineering-excellence
-- /resources/building-a-culture-of-engineering-excellence
 - /resources/CXOrndz5lN4
+- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
+aliasesArchive:
+- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
 aliasesFor404:
 - /resources/videos/building-a-culture-of-engineering-excellence
 - /resources/building-a-culture-of-engineering-excellence

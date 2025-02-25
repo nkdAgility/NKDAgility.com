@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: r9aCEFpUHWU
 url: /resources/videos/:slug
-slug: how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+slug: the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
 layout: video
 aliases:
-- /resources/videos/r9aCEFpUHWU
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/r9aCEFpUHWU
+aliasesArchive:
+- /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
 aliasesFor404:
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations

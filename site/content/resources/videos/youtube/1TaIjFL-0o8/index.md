@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1TaIjFL-0o8
 url: /resources/videos/:slug
-slug: what-is-the-most-common-epiphany-in-a-psm-ii-course-
+slug: unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 aliases:
-- /resources/videos/1TaIjFL-0o8
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
-- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 - /resources/1TaIjFL-0o8
+aliasesArchive:
+- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 aliasesFor404:
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 - /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-

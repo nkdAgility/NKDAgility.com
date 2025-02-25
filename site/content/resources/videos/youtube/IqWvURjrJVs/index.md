@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
-slug: znaczenie-znajomości-terenu
+slug: znaczenie-znajomoci-terenu
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
-- /resources/videos/IqWvURjrJVs
-- /resources/videos/znaczenie-znajomości-terenu
-- /resources/znaczenie-znajomości-terenu
 - /resources/IqWvURjrJVs
+aliasesArchive:
+- /resources/videos/znaczenie-znajomoci-terenu
 aliasesFor404:
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu

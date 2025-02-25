@@ -9,12 +9,11 @@ ResourceImportSource: Youtube
 videoId: 6L2r8YrehWc
 source: youtube
 url: /resources/videos/:slug
-slug: why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
+slug: why-the-scrum-masters-true-power-lies-in-influence-not-authority
 aliases:
-- /resources/videos/6L2r8YrehWc
-- /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
-- /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/6L2r8YrehWc
+aliasesArchive:
+- /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
 aliasesFor404:
 - /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-

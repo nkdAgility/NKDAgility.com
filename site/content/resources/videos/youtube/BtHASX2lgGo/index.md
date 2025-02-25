@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
-slug: 5-kinds-of-agile-bandits-planning-bandits
+slug: rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 layout: video
 aliases:
-- /resources/videos/BtHASX2lgGo
-- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
-- /resources/5-kinds-of-agile-bandits-planning-bandits
 - /resources/BtHASX2lgGo
+aliasesArchive:
+- /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 aliasesFor404:
 - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 - /resources/5-kinds-of-agile-bandits-planning-bandits

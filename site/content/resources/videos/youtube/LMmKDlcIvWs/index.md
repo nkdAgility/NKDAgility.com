@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
 duration: 553
 isShort: false
 aliases:
-- /resources/what-is-kanban
-- /resources/videos/what-is-kanban-
-- /resources/videos/LMmKDlcIvWs
-- /resources/what-is-kanban-
 - /resources/LMmKDlcIvWs
+aliasesArchive:
+- /resources/videos/what-is-kanban
 aliasesFor404:
 - /resources/what-is-kanban
 - /resources/videos/what-is-kanban-

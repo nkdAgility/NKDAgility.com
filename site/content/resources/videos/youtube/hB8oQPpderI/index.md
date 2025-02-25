@@ -9,18 +9,16 @@ ResourceImportSource: Youtube
 videoId: hB8oQPpderI
 source: internal
 url: /resources/videos/:slug
-slug: one-limitation-of-reading-a-book-vs-attending-a-course
+slug: one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
 layout: video
 preview: https://i.ytimg.com/vi/hB8oQPpderI/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/one-limitation-of-reading-a-book-vs-attending-a-course
-- /resources/one-limitation-of-a-book-versus-a-scrum-course
-- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
-- /resources/videos/hB8oQPpderI
-- /resources/one-limitation-of-a-book-versus-a-scrum-course-
 - /resources/hB8oQPpderI
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
+aliasesArchive:
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
 aliasesFor404:
 - /resources/one-limitation-of-reading-a-book-vs-attending-a-course
 - /resources/one-limitation-of-a-book-versus-a-scrum-course

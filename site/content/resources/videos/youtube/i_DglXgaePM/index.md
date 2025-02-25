@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
-slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
+slug: slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=i_DglXgaePM
 aliases:
-- /resources/videos/i_DglXgaePM
-- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
-- /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 - /resources/i_DglXgaePM
+aliasesArchive:
+- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
 aliasesFor404:
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 - /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows

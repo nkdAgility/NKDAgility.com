@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: nfTAYRLAaYI
 source: internal
 url: /resources/videos/:slug
-slug: mastering-kanban-a-simple-guide-to-its-core-principles
+slug: mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
 layout: video
 preview: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg
 duration: 49
 isShort: true
 aliases:
-- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/videos/kanban-principles
-- /resources/videos/nfTAYRLAaYI
-- /resources/kanban-principles
 - /resources/nfTAYRLAaYI
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
+aliasesArchive:
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
 aliasesFor404:
 - /resources/mastering-kanban-a-simple-guide-to-its-core-principles
 - /resources/videos/kanban-principles

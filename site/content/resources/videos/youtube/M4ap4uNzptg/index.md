@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
 duration: 241
 isShort: false
 aliases:
-- /resources/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations!
-- /resources/videos/M4ap4uNzptg
-- /resources/agile-is-failing-organizations!
 - /resources/M4ap4uNzptg
+aliasesArchive:
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
 aliasesFor404:
 - /resources/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations!

@@ -2,29 +2,23 @@
 title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
 description: Avoid the pitfalls of local optimisation! Discover how to align governance with organisational goals for true efficiency and success in your team.
 date: 2025-02-08T07:49:38Z
-ResourceId: aathsp3IMfg
+ResourceId: ACZWkkvKEnw
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: aathsp3IMfg
+videoId: ACZWkkvKEnw
 source: internal
 url: /resources/videos/:slug
-slug: when-is-an-aps-course-appropriate-for-a-scrum-team
+slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
 layout: video
 preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
 duration: 194
 isShort: false
 aliases:
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/what-does-your-dream-agile-consulting-week-look-like
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/videos/aathsp3IMfg
-- /resources/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/aathsp3IMfg
 - /resources/ACZWkkvKEnw
-- /resources/videos/ACZWkkvKEnw
-- /resources/videos/the-cog-conundrum
-- /resources/the-cog-conundrum
+- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
+aliasesArchive:
+- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 aliasesFor404:
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/what-does-your-dream-agile-consulting-week-look-like

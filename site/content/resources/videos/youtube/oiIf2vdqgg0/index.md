@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: oiIf2vdqgg0
 source: internal
 url: /resources/videos/:slug
-slug: what-is-a-product-vision
+slug: what-is-a-product-vision-oiIf2vdqgg0
 layout: video
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
 duration: 41
 isShort: true
 aliases:
-- /resources/what-is-a-product-vision
-- /resources/videos/what-is-a-product-vision-
-- /resources/videos/oiIf2vdqgg0
-- /resources/what-is-a-product-vision-
 - /resources/oiIf2vdqgg0
+- /resources/videos/what-is-a-product-vision
+aliasesArchive:
+- /resources/videos/what-is-a-product-vision
 aliasesFor404:
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-

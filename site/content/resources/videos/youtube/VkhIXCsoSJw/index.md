@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: VkhIXCsoSJw
 source: youtube
 url: /resources/videos/:slug
-slug: automate-everything-boosting-engineering-excellence-and-building-confidence
+slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 layout: video
 aliases:
-- /resources/videos/VkhIXCsoSJw
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
-- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
 - /resources/VkhIXCsoSJw
+aliasesArchive:
+- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 aliasesFor404:
 - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
 - /resources/automate-everything-boosting-engineering-excellence-and-building-confidence

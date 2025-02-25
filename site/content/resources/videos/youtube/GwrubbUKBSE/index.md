@@ -12,10 +12,10 @@ slug: 30th-march-2020-office-hours-ask-me-anything
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=GwrubbUKBSE
 aliases:
-- /resources/videos/GwrubbUKBSE
-- /resources/videos/30th-march-2020-office-hours-ask-me-anything
-- /resources/30th-march-2020-office-hours-ask-me-anything
 - /resources/GwrubbUKBSE
+aliasesArchive:
+- /resources/videos/th-march-office-hours-ask-me-anything
+- /resources/videos/30th-march-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/30th-march-2020-office-hours-ask-me-anything
 - /resources/30th-march-2020-office-hours-ask-me-anything

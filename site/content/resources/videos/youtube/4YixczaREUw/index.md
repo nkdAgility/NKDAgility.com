@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4YixczaREUw
 url: /resources/videos/:slug
-slug: many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
+slug: debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
 aliases:
-- /resources/videos/4YixczaREUw
-- /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
-- /resources/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 - /resources/4YixczaREUw
+aliasesArchive:
+- /resources/videos/debunking-the-top-myths-about-scrum-unlocking-agile-success-in-your-organisation
+- /resources/videos/debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
 aliasesFor404:
 - /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 - /resources/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-

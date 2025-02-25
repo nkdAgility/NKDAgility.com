@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-temperance
+slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
 layout: video
 aliases:
-- /resources/videos/b-2TDkEew2k
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
-- /resources/-shorts-7-virtues-of-agile-temperance
 - /resources/b-2TDkEew2k
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
+aliasesArchive:
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-temperance
 - /resources/-shorts-7-virtues-of-agile-temperance

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/AwkxZ9RS_0g/maxresdefault.jpg
 duration: 264
 isShort: false
 aliases:
-- /resources/how-does-your-consulting-experience-manifest-in-the-training-environment
-- /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
-- /resources/videos/AwkxZ9RS_0g
-- /resources/how-does-your-consulting-experience-manifest-in-the-training-environment-
 - /resources/AwkxZ9RS_0g
+aliasesArchive:
+- /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment
 aliasesFor404:
 - /resources/how-does-your-consulting-experience-manifest-in-the-training-environment
 - /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-

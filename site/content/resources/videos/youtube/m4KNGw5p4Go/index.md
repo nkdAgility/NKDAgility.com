@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
 duration: 269
 isShort: false
 aliases:
-- /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
-- /resources/videos/m4KNGw5p4Go
-- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 - /resources/m4KNGw5p4Go
+aliasesArchive:
+- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 aliasesFor404:
 - /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 - /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course

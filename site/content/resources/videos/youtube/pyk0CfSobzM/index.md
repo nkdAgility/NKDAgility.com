@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
 duration: 244
 isShort: false
 aliases:
-- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
-- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
-- /resources/videos/pyk0CfSobzM
-- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - /resources/pyk0CfSobzM
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 aliasesFor404:
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-

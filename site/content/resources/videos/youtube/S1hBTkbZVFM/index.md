@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: S1hBTkbZVFM
 source: internal
 url: /resources/videos/:slug
-slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
 layout: video
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
-- /resources/videos/S1hBTkbZVFM
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - /resources/S1hBTkbZVFM
+- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+aliasesArchive:
+- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 aliasesFor404:
 - /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1

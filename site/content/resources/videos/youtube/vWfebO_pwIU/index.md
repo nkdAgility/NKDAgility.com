@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vWfebO_pwIU
 url: /resources/videos/:slug
-slug: why-most-scrum-masters-only-have-psmi!
+slug: why-most-scrum-masters-only-have-psmi
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
 aliases:
-- /resources/videos/vWfebO_pwIU
-- /resources/videos/why-most-scrum-masters-only-have-psmi!
-- /resources/why-most-scrum-masters-only-have-psmi!
 - /resources/vWfebO_pwIU
+aliasesArchive:
+- /resources/videos/why-most-scrum-masters-only-have-psmi
 aliasesFor404:
 - /resources/videos/why-most-scrum-masters-only-have-psmi!
 - /resources/why-most-scrum-masters-only-have-psmi!

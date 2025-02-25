@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/s_kWkDCbp9Y/maxresdefault.jpg
 duration: 69
 isShort: false
 aliases:
-- /resources/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
-- /resources/videos/s_kWkDCbp9Y
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 - /resources/s_kWkDCbp9Y
+aliasesArchive:
+- /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 aliasesFor404:
 - /resources/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5

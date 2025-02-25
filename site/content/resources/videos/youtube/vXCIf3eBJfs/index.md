@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: vXCIf3eBJfs
 source: internal
 url: /resources/videos/:slug
-slug: how-to-choose-the-right-agile-coach-for-your-business-success
+slug: how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
 layout: video
 preview: https://i.ytimg.com/vi/vXCIf3eBJfs/maxresdefault.jpg
 duration: 35
 isShort: true
 aliases:
-- /resources/how-to-choose-the-right-agile-coach-for-your-business-success
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
-- /resources/videos/vXCIf3eBJfs
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
 - /resources/vXCIf3eBJfs
+- /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
+aliasesArchive:
+- /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success
 aliasesFor404:
 - /resources/how-to-choose-the-right-agile-coach-for-your-business-success
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5

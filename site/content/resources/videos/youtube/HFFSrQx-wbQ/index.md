@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HFFSrQx-wbQ
 url: /resources/videos/:slug
-slug: plague-7-harbingers-agile-apocalypse-but-shorter!
+slug: breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
 layout: video
 aliases:
-- /resources/videos/HFFSrQx-wbQ
-- /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/plague-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/HFFSrQx-wbQ
+aliasesArchive:
+- /resources/videos/breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
 aliasesFor404:
 - /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/plague-7-harbingers-agile-apocalypse-but-shorter!

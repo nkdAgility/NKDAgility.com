@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
 duration: 464
 isShort: false
 aliases:
-- /resources/what-is-sprint-planning
-- /resources/videos/what-is-sprint-planning-
-- /resources/videos/nMkit8zBxG0
-- /resources/what-is-sprint-planning-
 - /resources/nMkit8zBxG0
+aliasesArchive:
+- /resources/videos/what-is-sprint-planning
 aliasesFor404:
 - /resources/what-is-sprint-planning
 - /resources/videos/what-is-sprint-planning-

@@ -9,13 +9,13 @@ ResourceImportSource: Youtube
 videoId: whKX9Mn1eb8
 source: youtube
 url: /resources/videos/:slug
-slug: the-superpower-of-quality-engineering
+slug: unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance-whKX9Mn1eb8
 layout: video
 aliases:
-- /resources/videos/whKX9Mn1eb8
-- /resources/videos/the-superpower-of-quality-engineering
-- /resources/the-superpower-of-quality-engineering
 - /resources/whKX9Mn1eb8
+- /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance
+aliasesArchive:
+- /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance
 aliasesFor404:
 - /resources/videos/the-superpower-of-quality-engineering
 - /resources/the-superpower-of-quality-engineering

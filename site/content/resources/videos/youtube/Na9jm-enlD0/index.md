@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg
 duration: 777
 isShort: false
 aliases:
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
-- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
-- /resources/videos/Na9jm-enlD0
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 - /resources/Na9jm-enlD0
+aliasesArchive:
+- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 aliasesFor404:
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development

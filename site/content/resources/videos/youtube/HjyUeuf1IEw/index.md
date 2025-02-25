@@ -12,10 +12,10 @@ slug: 20th-may-2020-office-hours-ask-me-anything
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=HjyUeuf1IEw
 aliases:
-- /resources/videos/HjyUeuf1IEw
-- /resources/videos/20th-may-2020-office-hours-ask-me-anything
-- /resources/20th-may-2020-office-hours-ask-me-anything
 - /resources/HjyUeuf1IEw
+aliasesArchive:
+- /resources/videos/th-may-office-hours-ask-me-anything
+- /resources/videos/20th-may-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/20th-may-2020-office-hours-ask-me-anything
 - /resources/20th-may-2020-office-hours-ask-me-anything

@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug
-slug: 3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+slug: mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 layout: video
 aliases:
-- /resources/videos/sbr8NkJSLPU
-- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/sbr8NkJSLPU
+aliasesArchive:
+- /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 aliasesFor404:
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow

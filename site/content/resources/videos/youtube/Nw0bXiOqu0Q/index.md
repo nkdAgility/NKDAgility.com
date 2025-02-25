@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Nw0bXiOqu0Q/maxresdefault.jpg
 duration: 246
 isShort: false
 aliases:
-- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
-- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
-- /resources/videos/Nw0bXiOqu0Q
-- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 - /resources/Nw0bXiOqu0Q
+aliasesArchive:
+- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 aliasesFor404:
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 - /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-

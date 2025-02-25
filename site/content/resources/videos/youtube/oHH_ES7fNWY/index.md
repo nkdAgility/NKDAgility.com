@@ -12,10 +12,10 @@ slug: sending-email-from-office-365-for-tfs-2013
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=oHH_ES7fNWY
 aliases:
-- /resources/videos/oHH_ES7fNWY
-- /resources/videos/sending-email-from-office-365-for-tfs-2013
-- /resources/sending-email-from-office-365-for-tfs-2013
 - /resources/oHH_ES7fNWY
+aliasesArchive:
+- /resources/videos/sending-email-from-office-for-tfs-
+- /resources/videos/sending-email-from-office-365-for-tfs-2013
 aliasesFor404:
 - /resources/videos/sending-email-from-office-365-for-tfs-2013
 - /resources/sending-email-from-office-365-for-tfs-2013

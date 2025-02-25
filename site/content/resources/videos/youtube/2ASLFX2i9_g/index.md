@@ -14,11 +14,10 @@ preview: https://i.ytimg.com/vi/2ASLFX2i9_g/maxresdefault.jpg
 duration: 412
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-gluttony
-- /resources/videos/gluttony!-7-deadly-sins-of-agile
-- /resources/videos/2ASLFX2i9_g
-- /resources/gluttony!-7-deadly-sins-of-agile
 - /resources/2ASLFX2i9_g
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-gluttony
+- /resources/videos/7-deadly-sins-of-agile-gluttony
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-gluttony
 - /resources/videos/gluttony!-7-deadly-sins-of-agile

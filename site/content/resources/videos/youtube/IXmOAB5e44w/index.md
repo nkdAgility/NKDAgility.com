@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IXmOAB5e44w
 url: /resources/videos/:slug
-slug: referral-program-20-of-the-course-fee-credited-to-your-account-
+slug: unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 layout: video
 aliases:
-- /resources/videos/IXmOAB5e44w
-- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
-- /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/IXmOAB5e44w
+aliasesArchive:
+- /resources/videos/unlock-rewards-join-our-exciting-referral-program-for-collaborative-learning
+- /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 aliasesFor404:
 - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/referral-program-20-of-the-course-fee-credited-to-your-account-

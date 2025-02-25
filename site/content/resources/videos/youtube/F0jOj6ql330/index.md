@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: F0jOj6ql330
 source: internal
 url: /resources/videos/:slug
-slug: most-rewarding-part-of-being-a-scrum-developer
+slug: most-rewarding-part-of-being-a-scrum-developer-F0jOj6ql330
 layout: video
 preview: https://i.ytimg.com/vi/F0jOj6ql330/maxresdefault.jpg
 duration: 46
 isShort: true
 aliases:
-- /resources/most-rewarding-part-of-being-a-scrum-developer
-- /resources/videos/most-rewarding-part-of-being-a-scrum-developer-
-- /resources/videos/F0jOj6ql330
-- /resources/most-rewarding-part-of-being-a-scrum-developer-
 - /resources/F0jOj6ql330
+- /resources/videos/most-rewarding-part-of-being-a-scrum-developer
+aliasesArchive:
+- /resources/videos/most-rewarding-part-of-being-a-scrum-developer
 aliasesFor404:
 - /resources/most-rewarding-part-of-being-a-scrum-developer
 - /resources/videos/most-rewarding-part-of-being-a-scrum-developer-

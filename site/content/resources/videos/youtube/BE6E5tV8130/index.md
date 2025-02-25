@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg
 duration: 385
 isShort: false
 aliases:
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
-- /resources/videos/BE6E5tV8130
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
 - /resources/BE6E5tV8130
+aliasesArchive:
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
 aliasesFor404:
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management
 - /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-

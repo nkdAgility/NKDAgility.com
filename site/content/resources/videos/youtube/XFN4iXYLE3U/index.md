@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: XFN4iXYLE3U
 source: internal
 url: /resources/videos/:slug
-slug: why-limiting-work-in-progress-is-key-to-success-in-kanban
+slug: why-limiting-work-in-progress-is-key-to-success-in-kanban-XFN4iXYLE3U
 layout: video
 preview: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg
 duration: 54
 isShort: true
 aliases:
-- "/resources/why-limiting-work-in-progress-is-key-to-success-in-kanban-\U0001F680"
-- /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
-- /resources/videos/XFN4iXYLE3U
-- /resources/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
 - /resources/XFN4iXYLE3U
+- /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
+aliasesArchive:
+- /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
 aliasesFor404:
 - "/resources/why-limiting-work-in-progress-is-key-to-success-in-kanban-\U0001F680"
 - /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
 duration: 69
 isShort: false
 aliases:
-- /resources/agile-leader-versus-traditional-manager
-- /resources/agile-leader-vs-traditional-manager
-- /resources/videos/agile-leader-vs-traditional-manager
-- /resources/videos/ZQZeM20TO4c
 - /resources/ZQZeM20TO4c
+aliasesArchive:
+- /resources/videos/agile-leader-versus-traditional-manager
 aliasesFor404:
 - /resources/agile-leader-versus-traditional-manager
 - /resources/agile-leader-vs-traditional-manager

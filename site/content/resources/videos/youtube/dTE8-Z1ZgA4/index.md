@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: dTE8-Z1ZgA4
 url: /resources/videos/:slug
-slug: why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
+slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
 layout: video
 aliases:
-- /resources/videos/dTE8-Z1ZgA4
-- /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
-- /resources/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 - /resources/dTE8-Z1ZgA4
+- /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
+aliasesArchive:
+- /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
 aliasesFor404:
 - /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 - /resources/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility

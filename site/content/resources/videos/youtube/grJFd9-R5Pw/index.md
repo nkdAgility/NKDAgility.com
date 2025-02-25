@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg
 duration: 416
 isShort: false
 aliases:
-- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
-- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
-- /resources/videos/grJFd9-R5Pw
-- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
 - /resources/grJFd9-R5Pw
+aliasesArchive:
+- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
 aliasesFor404:
 - /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
 - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-

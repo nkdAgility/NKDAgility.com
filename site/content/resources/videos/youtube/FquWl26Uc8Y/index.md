@@ -9,13 +9,13 @@ ResourceImportSource: Youtube
 videoId: FquWl26Uc8Y
 source: youtube
 url: /resources/videos/:slug
-slug: bad-code-isn't-technical-debt-it's-incompetence
+slug: confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
 layout: video
 aliases:
-- /resources/videos/FquWl26Uc8Y
-- /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
-- /resources/bad-code-isn't-technical-debt-it's-incompetence
 - /resources/FquWl26Uc8Y
+- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
+aliasesArchive:
+- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
 aliasesFor404:
 - /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
 - /resources/bad-code-isn't-technical-debt-it's-incompetence

@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: L9KsDJ2Rebo
 url: /resources/videos/:slug
-slug: what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+slug: unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 layout: video
 aliases:
-- /resources/videos/L9KsDJ2Rebo
-- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
-- /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/L9KsDJ2Rebo
+aliasesArchive:
+- /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 aliasesFor404:
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg
 duration: 155
 isShort: false
 aliases:
-- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
-- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-- /resources/videos/Juonckoiyx0
 - /resources/Juonckoiyx0
+aliasesArchive:
+- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 aliasesFor404:
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review

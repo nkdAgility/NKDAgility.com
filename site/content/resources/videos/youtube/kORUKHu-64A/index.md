@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: kORUKHu-64A
 source: internal
 url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesn-t-work-myth-5
+slug: scrum-is-like-communism-it-doesnt-work-myth-5-
 layout: video
 preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
 duration: 235
 isShort: false
 aliases:
-- /resources/scrum-is-like-communism-it-doesnt-work-myth-5
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
-- /resources/videos/kORUKHu-64A
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
 - /resources/kORUKHu-64A
+aliasesArchive:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
 aliasesFor404:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance

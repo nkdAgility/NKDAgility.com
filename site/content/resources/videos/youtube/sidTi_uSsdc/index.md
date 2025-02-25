@@ -9,16 +9,16 @@ ResourceImportSource: Youtube
 videoId: sidTi_uSsdc
 source: internal
 url: /resources/videos/:slug
-slug: discipline-versus-motivation
+slug: discipline-versus-motivation-sidTi_uSsdc
 layout: video
 preview: https://i.ytimg.com/vi/sidTi_uSsdc/maxresdefault.jpg
 duration: 28
 isShort: true
 aliases:
-- /resources/discipline-versus-motivation
-- /resources/videos/discipline-versus-motivation
-- /resources/videos/sidTi_uSsdc
 - /resources/sidTi_uSsdc
+- /resources/videos/discipline-versus-motivation
+aliasesArchive:
+- /resources/videos/discipline-versus-motivation
 aliasesFor404:
 - /resources/discipline-versus-motivation
 - /resources/videos/discipline-versus-motivation

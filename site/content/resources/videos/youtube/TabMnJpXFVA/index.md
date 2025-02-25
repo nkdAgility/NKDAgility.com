@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
-slug: why-are-you-going-the-immersive-scrum-training-route-
+slug: why-are-you-going-the-immersive-scrum-training-route
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
 aliases:
-- /resources/videos/TabMnJpXFVA
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
-- /resources/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/TabMnJpXFVA
+aliasesArchive:
+- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 aliasesFor404:
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/why-are-you-going-the-immersive-scrum-training-route-

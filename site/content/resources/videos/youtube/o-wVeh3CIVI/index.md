@@ -9,18 +9,16 @@ ResourceImportSource: Youtube
 videoId: o-wVeh3CIVI
 source: internal
 url: /resources/videos/:slug
-slug: what-is-scrum
+slug: what-is-scrum-o-wVeh3CIVI
 layout: video
 preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
 duration: 51
 isShort: true
 aliases:
-- /resources/what-is-scrum-3
-- /resources/what-is-scrum-2
-- /resources/videos/what-is-scrum-
-- /resources/videos/o-wVeh3CIVI
-- /resources/what-is-scrum-
 - /resources/o-wVeh3CIVI
+- /resources/videos/what-is-scrum
+aliasesArchive:
+- /resources/videos/what-is-scrum
 aliasesFor404:
 - /resources/what-is-scrum-3
 - /resources/what-is-scrum-2

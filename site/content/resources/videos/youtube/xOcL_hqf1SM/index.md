@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xOcL_hqf1SM
 url: /resources/videos/:slug
-slug: what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
+slug: unlocking-agile-success-the-essential-knowledge-every-coach-needs
 layout: video
 aliases:
-- /resources/videos/xOcL_hqf1SM
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - /resources/xOcL_hqf1SM
+aliasesArchive:
+- /resources/videos/unlocking-agile-success-the-essential-knowledge-every-coach-needs
 aliasesFor404:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3

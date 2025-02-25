@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ye1wQic8et0
 url: /resources/videos/:slug
-slug: it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+slug: cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 layout: video
 aliases:
-- /resources/videos/ye1wQic8et0
-- /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
-- /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/ye1wQic8et0
+aliasesArchive:
+- /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 aliasesFor404:
 - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-

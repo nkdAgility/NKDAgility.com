@@ -12,10 +12,10 @@ slug: 3rd-june-2020-office-hours-ask-me-anything
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gc8Pq_5CepY
 aliases:
-- /resources/videos/gc8Pq_5CepY
-- /resources/videos/3rd-june-2020-office-hours-ask-me-anything
-- /resources/3rd-june-2020-office-hours-ask-me-anything
 - /resources/gc8Pq_5CepY
+aliasesArchive:
+- /resources/videos/rd-june-office-hours-ask-me-anything
+- /resources/videos/3rd-june-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/3rd-june-2020-office-hours-ask-me-anything
 - /resources/3rd-june-2020-office-hours-ask-me-anything

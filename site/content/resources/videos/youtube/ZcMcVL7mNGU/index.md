@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
-slug: product-management-mentor-program-final
+slug: bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 layout: video
 aliases:
-- /resources/videos/ZcMcVL7mNGU
-- /resources/videos/product-management-mentor-program-final
-- /resources/product-management-mentor-program-final
 - /resources/ZcMcVL7mNGU
+aliasesArchive:
+- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 aliasesFor404:
 - /resources/videos/product-management-mentor-program-final
 - /resources/product-management-mentor-program-final

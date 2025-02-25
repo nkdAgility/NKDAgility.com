@@ -9,17 +9,17 @@ ResourceImportSource: Youtube
 videoId: dT1_zHfzto0
 source: internal
 url: /resources/videos/:slug
-slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
 layout: video
 preview: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg
 duration: 38
 isShort: true
 aliases:
-- /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
-- /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
-- /resources/videos/dT1_zHfzto0
-- /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/dT1_zHfzto0
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+aliasesArchive:
+- /resources/videos/quotes-i-estimate-that-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 aliasesFor404:
 - /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber

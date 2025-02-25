@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sIhG2i7frpE
 url: /resources/videos/:slug
-slug: improving-workflow-with-kanban
+slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
 layout: video
 aliases:
-- /resources/videos/sIhG2i7frpE
-- /resources/videos/improving-workflow-with-kanban
-- /resources/improving-workflow-with-kanban
 - /resources/sIhG2i7frpE
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
+aliasesArchive:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
 aliasesFor404:
 - /resources/videos/improving-workflow-with-kanban
 - /resources/improving-workflow-with-kanban

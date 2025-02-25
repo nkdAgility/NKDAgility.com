@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MutnPwNzyXM
 url: /resources/videos/:slug
-slug: most-valuable-lesson-you-learned-as-an-agile-consultant
+slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 layout: video
 aliases:
-- /resources/videos/MutnPwNzyXM
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/MutnPwNzyXM
+aliasesArchive:
+- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 aliasesFor404:
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant

@@ -12,10 +12,9 @@ url: /resources/videos/:slug
 slug: nkd-agility-your-partner-in-developing-engineering-excellence
 layout: video
 aliases:
-- /resources/videos/DSIXtHZTirA
-- /resources/videos/performance-engineering-for-optimal-user-experience
-- /resources/performance-engineering-for-optimal-user-experience
 - /resources/DSIXtHZTirA
+aliasesArchive:
+- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
 aliasesFor404:
 - /resources/videos/performance-engineering-for-optimal-user-experience
 - /resources/performance-engineering-for-optimal-user-experience

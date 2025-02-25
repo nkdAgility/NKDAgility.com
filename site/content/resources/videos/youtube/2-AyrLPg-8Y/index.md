@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2-AyrLPg-8Y
 url: /resources/videos/:slug
-slug: why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
+slug: transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
 aliases:
-- /resources/videos/2-AyrLPg-8Y
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 - /resources/2-AyrLPg-8Y
+- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
+aliasesArchive:
+- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
 aliasesFor404:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-

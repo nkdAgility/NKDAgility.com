@@ -15,11 +15,10 @@ preview: https://i.ytimg.com/vi/BDFrmCV_c68/maxresdefault.jpg
 duration: 251
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-pride
-- /resources/videos/pride!-7-deadly-sins-of-agile
-- /resources/videos/BDFrmCV_c68
-- /resources/pride!-7-deadly-sins-of-agile
 - /resources/BDFrmCV_c68
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-pride
+- /resources/videos/7-deadly-sins-of-agile-pride
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-pride
 - /resources/videos/pride!-7-deadly-sins-of-agile

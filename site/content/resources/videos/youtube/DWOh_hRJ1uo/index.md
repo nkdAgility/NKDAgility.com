@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/DWOh_hRJ1uo/maxresdefault.jpg
 duration: 202
 isShort: false
 aliases:
-- /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
-- /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering
-- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
-- /resources/videos/DWOh_hRJ1uo
-- /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
 - /resources/DWOh_hRJ1uo
+aliasesArchive:
+- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
 aliasesFor404:
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering

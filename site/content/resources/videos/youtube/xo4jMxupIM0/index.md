@@ -8,7 +8,7 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xo4jMxupIM0
 source: youtube
-url: /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xo4jMxupIM0/maxresdefault.jpg
 duration: 240
 isShort: false
@@ -16,16 +16,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 aliases:
-- /resources/videos/xo4jMxupIM0
-- /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
-- /resources/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/xo4jMxupIM0
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 aliasesFor404:
 - /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/what-makes-the-psm-immersive-learning-experience-so-unique
 resourceTypes:
 - video
-slug: what-makes-the-psm-immersive-learning-experience-so-unique
+slug: unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 layout: video
 tags:
 - Agile Project Management

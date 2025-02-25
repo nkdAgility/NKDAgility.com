@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: IFX3SRUlunc
 source: youtube
 url: /resources/videos/:slug
-slug: 5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
+slug: unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
 layout: video
 aliases:
-- /resources/videos/IFX3SRUlunc
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
-- /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 - /resources/IFX3SRUlunc
+aliasesArchive:
+- /resources/videos/unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
 aliasesFor404:
 - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna
 - /resources/5-october-2023-product-ownership-and-lean-product-development-workshop-with-martin-and-joanna

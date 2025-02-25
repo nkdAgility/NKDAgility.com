@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
 duration: 302
 isShort: false
 aliases:
-- /resources/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
-- /resources/videos/j-mPdGP7BiU
-- /resources/ppdv-learning-outcomes
 - /resources/j-mPdGP7BiU
+aliasesArchive:
+- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
 aliasesFor404:
 - /resources/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/videos/ppdv-learning-outcomes

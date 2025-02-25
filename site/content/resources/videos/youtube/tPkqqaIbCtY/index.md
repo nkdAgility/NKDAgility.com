@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tPkqqaIbCtY
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-kindness
+slug: empowering-users-transforming-products-from-burdens-to-essential-tools-tPkqqaIbCtY
 layout: video
 aliases:
-- /resources/videos/tPkqqaIbCtY
-- /resources/videos/-shorts-7-virtues-of-agile-kindness
-- /resources/-shorts-7-virtues-of-agile-kindness
 - /resources/tPkqqaIbCtY
+- /resources/videos/empowering-users-transforming-products-from-burdens-to-essential-tools
+aliasesArchive:
+- /resources/videos/empowering-users-transforming-products-from-burdens-to-essential-tools
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-kindness
 - /resources/-shorts-7-virtues-of-agile-kindness

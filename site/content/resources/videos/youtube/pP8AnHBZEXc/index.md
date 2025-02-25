@@ -12,10 +12,10 @@ slug: 27th-may-2020-office-hours-ask-me-anything
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=pP8AnHBZEXc
 aliases:
-- /resources/videos/pP8AnHBZEXc
-- /resources/videos/27th-may-2020-office-hours-ask-me-anything
-- /resources/27th-may-2020-office-hours-ask-me-anything
 - /resources/pP8AnHBZEXc
+aliasesArchive:
+- /resources/videos/th-may-office-hours-ask-me-anything
+- /resources/videos/27th-may-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/27th-may-2020-office-hours-ask-me-anything
 - /resources/27th-may-2020-office-hours-ask-me-anything

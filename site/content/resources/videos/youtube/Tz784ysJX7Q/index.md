@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: Tz784ysJX7Q
 source: youtube
 url: /resources/videos/:slug
-slug: balancing-speed-and-stability-in-delivery
+slug: balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 layout: video
 aliases:
-- /resources/videos/Tz784ysJX7Q
-- /resources/videos/balancing-speed-and-stability-in-delivery
-- /resources/balancing-speed-and-stability-in-delivery
 - /resources/Tz784ysJX7Q
+aliasesArchive:
+- /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 aliasesFor404:
 - /resources/videos/balancing-speed-and-stability-in-delivery
 - /resources/balancing-speed-and-stability-in-delivery

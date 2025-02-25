@@ -12,10 +12,10 @@ slug: 14th-april-2020-office-hours-ask-me-anything
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ZPRvjlp9i0A
 aliases:
-- /resources/videos/ZPRvjlp9i0A
-- /resources/videos/14th-april-2020-office-hours-ask-me-anything
-- /resources/14th-april-2020-office-hours-ask-me-anything
 - /resources/ZPRvjlp9i0A
+aliasesArchive:
+- /resources/videos/th-april-office-hours-ask-me-anything
+- /resources/videos/14th-april-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/14th-april-2020-office-hours-ask-me-anything
 - /resources/14th-april-2020-office-hours-ask-me-anything

@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KzNbrrBCmdE
 url: /resources/videos/:slug
-slug: compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
+slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
 layout: video
 aliases:
-- /resources/videos/KzNbrrBCmdE
-- /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
-- /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/KzNbrrBCmdE
+- /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
+aliasesArchive:
+- /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
 aliasesFor404:
 - /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2

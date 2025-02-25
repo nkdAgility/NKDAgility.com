@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fUj1k47pDg8
 url: /resources/videos/:slug
-slug: ppdv-course-overview-with-dr-joanna-plaskonka
+slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 layout: video
 aliases:
-- /resources/videos/fUj1k47pDg8
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
-- /resources/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/fUj1k47pDg8
+aliasesArchive:
+- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 aliasesFor404:
 - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/ppdv-course-overview-with-dr-joanna-plaskonka

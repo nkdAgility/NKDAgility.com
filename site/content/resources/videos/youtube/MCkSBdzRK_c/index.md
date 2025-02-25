@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MCkSBdzRK_c
 url: /resources/videos/:slug
-slug: making-business-decisions-with-evidence!-what-is-evidence-based-management-
+slug: unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 layout: video
 aliases:
-- /resources/videos/MCkSBdzRK_c
-- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
-- /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/MCkSBdzRK_c
+aliasesArchive:
+- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 aliasesFor404:
 - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-

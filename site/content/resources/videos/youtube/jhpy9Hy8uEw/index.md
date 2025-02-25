@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/jhpy9Hy8uEw/maxresdefault.jpg
 duration: 303
 isShort: false
 aliases:
-- /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/videos/choosing-scrum-org-over-scrum-alliance!
-- /resources/videos/jhpy9Hy8uEw
-- /resources/choosing-scrum-org-over-scrum-alliance!
 - /resources/jhpy9Hy8uEw
+aliasesArchive:
+- /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 aliasesFor404:
 - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/videos/choosing-scrum-org-over-scrum-alliance!

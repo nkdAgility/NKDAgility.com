@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5bgcpPqcGlw
 url: /resources/videos/:slug
-slug: agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
+slug: mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 aliases:
-- /resources/videos/5bgcpPqcGlw
-- /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
-- /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 - /resources/5bgcpPqcGlw
+aliasesArchive:
+- /resources/videos/mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 aliasesFor404:
 - /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 - /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg
 duration: 389
 isShort: false
 aliases:
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
-- /resources/videos/zSQSQPFsy-o
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/zSQSQPFsy-o
+aliasesArchive:
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 aliasesFor404:
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-

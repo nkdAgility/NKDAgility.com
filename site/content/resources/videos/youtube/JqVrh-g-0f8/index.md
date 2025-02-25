@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: JqVrh-g-0f8
 source: internal
 url: /resources/videos/:slug
-slug: what-does-a-poor-product-backlog-look-like
+slug: what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
 layout: video
 preview: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg
 duration: 42
 isShort: true
 aliases:
-- /resources/what-does-a-poor-product-backlog-look-like
-- /resources/videos/what-does-a-poor-product-backlog-look-like-
-- /resources/videos/JqVrh-g-0f8
-- /resources/what-does-a-poor-product-backlog-look-like-
 - /resources/JqVrh-g-0f8
+- /resources/videos/what-does-a-poor-product-backlog-look-like
+aliasesArchive:
+- /resources/videos/what-does-a-poor-product-backlog-look-like
 aliasesFor404:
 - /resources/what-does-a-poor-product-backlog-look-like
 - /resources/videos/what-does-a-poor-product-backlog-look-like-

@@ -9,16 +9,16 @@ ResourceImportSource: Youtube
 videoId: LiKE3zHuOuY
 source: internal
 url: /resources/videos/:slug
-slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
 layout: video
 preview: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg
 duration: 29
 isShort: true
 aliases:
-- /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- /resources/videos/LiKE3zHuOuY
 - /resources/LiKE3zHuOuY
+- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+aliasesArchive:
+- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 aliasesFor404:
 - /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 - /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment

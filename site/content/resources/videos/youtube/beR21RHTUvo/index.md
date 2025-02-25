@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
 isShort: false
 aliases:
-- /resources/story-points-a-ghost-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-story-points
-- /resources/videos/beR21RHTUvo
-- /resources/5-ghosts-of-agile-past-story-points
 - /resources/beR21RHTUvo
+aliasesArchive:
+- /resources/videos/story-points-a-ghost-of-agile-past
 aliasesFor404:
 - /resources/story-points-a-ghost-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-story-points

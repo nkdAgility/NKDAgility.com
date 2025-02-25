@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg
 duration: 584
 isShort: false
 aliases:
-- /resources/devops-elevating-your-organizations-performance-through-bespoke-solutions
-- /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
-- /resources/videos/sXmXT_MDXTo
-- /resources/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 - /resources/sXmXT_MDXTo
+aliasesArchive:
+- /resources/videos/devops-elevating-your-organizations-performance-through-bespoke-solutions
 aliasesFor404:
 - /resources/devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most

@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
-slug: continuous-improvement-with-kanban
+slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
 layout: video
 aliases:
-- /resources/videos/V44iUwv0Jcg
-- /resources/videos/continuous-improvement-with-kanban
-- /resources/continuous-improvement-with-kanban
 - /resources/V44iUwv0Jcg
+- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
+aliasesArchive:
+- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
 aliasesFor404:
 - /resources/videos/continuous-improvement-with-kanban
 - /resources/continuous-improvement-with-kanban

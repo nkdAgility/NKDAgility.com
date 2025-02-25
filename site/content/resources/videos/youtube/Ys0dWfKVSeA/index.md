@@ -9,18 +9,15 @@ ResourceImportSource: Youtube
 videoId: Ys0dWfKVSeA
 source: internal
 url: /resources/videos/:slug
-slug: scrum-doesn-t-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+slug: scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 layout: video
 preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
 duration: 584
 isShort: false
 aliases:
-- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
-- /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-- "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
-- /resources/videos/Ys0dWfKVSeA
-- "/resources/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
 - /resources/Ys0dWfKVSeA
+aliasesArchive:
+- /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 aliasesFor404:
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable

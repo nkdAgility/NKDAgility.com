@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
 duration: 389
 isShort: false
 aliases:
-- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
-- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
-- /resources/videos/Cgy1ccX7e7Y
-- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
 - /resources/Cgy1ccX7e7Y
+aliasesArchive:
+- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 aliasesFor404:
 - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-

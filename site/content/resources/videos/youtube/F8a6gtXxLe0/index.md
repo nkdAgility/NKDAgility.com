@@ -12,10 +12,9 @@ slug: nkdagility-healthgrades-interview-dave-frisch
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=F8a6gtXxLe0
 aliases:
-- /resources/videos/F8a6gtXxLe0
-- /resources/videos/nkdagility-healthgrades-interview-dave-frisch
-- /resources/nkdagility-healthgrades-interview-dave-frisch
 - /resources/F8a6gtXxLe0
+aliasesArchive:
+- /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 aliasesFor404:
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 - /resources/nkdagility-healthgrades-interview-dave-frisch

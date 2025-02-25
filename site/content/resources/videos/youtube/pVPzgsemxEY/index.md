@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: pVPzgsemxEY
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
 layout: video
 preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
-- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
-- /resources/videos/pVPzgsemxEY
-- /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 - /resources/pVPzgsemxEY
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+aliasesArchive:
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 aliasesFor404:
 - /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 - /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results

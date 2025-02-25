@@ -10,10 +10,9 @@ videoId: 1AO6FFBlE4Y
 source: internal
 url: /resources/videos/:slug
 aliases:
-- /resources/videos/1AO6FFBlE4Y
-- /resources/videos/the-high-cost-of-poor-quality-code-
-- /resources/the-high-cost-of-poor-quality-code-
 - /resources/1AO6FFBlE4Y
+aliasesArchive:
+- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 aliasesFor404:
 - /resources/videos/the-high-cost-of-poor-quality-code-
 - /resources/the-high-cost-of-poor-quality-code-
@@ -34,7 +33,7 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-slug: the-high-cost-of-poor-quality-code-
+slug: the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 layout: video
 resourceTypes:
 - video

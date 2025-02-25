@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
 isShort: false
 aliases:
-- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
-- /resources/videos/isU2kPc5HFw
-- /resources/talk-us-through-your-experience-with-azure-devops
 - /resources/isU2kPc5HFw
+aliasesArchive:
+- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 aliasesFor404:
 - /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 - /resources/videos/talk-us-through-your-experience-with-azure-devops

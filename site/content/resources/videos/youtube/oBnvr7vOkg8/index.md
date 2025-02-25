@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg
 duration: 400
 isShort: false
 aliases:
-- /resources/how-does-someone-become-an-agile-consultant
-- /resources/videos/how-does-someone-become-an-agile-consultant-
-- /resources/videos/oBnvr7vOkg8
-- /resources/how-does-someone-become-an-agile-consultant-
 - /resources/oBnvr7vOkg8
+aliasesArchive:
+- /resources/videos/how-does-someone-become-an-agile-consultant
 aliasesFor404:
 - /resources/how-does-someone-become-an-agile-consultant
 - /resources/videos/how-does-someone-become-an-agile-consultant-

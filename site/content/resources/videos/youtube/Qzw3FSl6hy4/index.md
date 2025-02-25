@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg
 duration: 711
 isShort: false
 aliases:
-- /resources/understanding-product-discovery-why-it-matters-more-than-ever
-- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
-- /resources/videos/Qzw3FSl6hy4
-- /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 - /resources/Qzw3FSl6hy4
+aliasesArchive:
+- /resources/videos/understanding-product-discovery-why-it-matters-more-than-ever
 aliasesFor404:
 - /resources/understanding-product-discovery-why-it-matters-more-than-ever
 - /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-

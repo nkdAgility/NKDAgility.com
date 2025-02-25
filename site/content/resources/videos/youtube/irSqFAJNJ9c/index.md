@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg
 duration: 390
 isShort: false
 aliases:
-- /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
-- /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
-- /resources/videos/irSqFAJNJ9c
-- /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - /resources/irSqFAJNJ9c
+aliasesArchive:
+- /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
 aliasesFor404:
 - /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-

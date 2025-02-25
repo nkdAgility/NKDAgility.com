@@ -9,18 +9,17 @@ ResourceImportSource: Youtube
 videoId: cR4D4qQe9ps
 source: internal
 url: /resources/videos/:slug
-slug: 1-tip-for-a-new-scrum-master
+slug: -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
 layout: video
 preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
 duration: 35
 isShort: true
 aliases:
-- /resources/1-tip-for-a-new-scrum-master
-- /resources/1-tip-for-a-scrum-master
-- /resources/videos/-1-tip-for-a-scrum-master
-- /resources/videos/cR4D4qQe9ps
-- /resources/-1-tip-for-a-scrum-master
 - /resources/cR4D4qQe9ps
+- /resources/videos/-1-tip-for-a-new-scrum-master
+aliasesArchive:
+- /resources/videos/-tip-for-a-new-scrum-master
+- /resources/videos/-1-tip-for-a-new-scrum-master
 aliasesFor404:
 - /resources/1-tip-for-a-new-scrum-master
 - /resources/1-tip-for-a-scrum-master

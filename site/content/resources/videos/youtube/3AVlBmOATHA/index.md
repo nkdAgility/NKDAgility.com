@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
 duration: 371
 isShort: false
 aliases:
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-- /resources/videos/3AVlBmOATHA
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/3AVlBmOATHA
+aliasesArchive:
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 aliasesFor404:
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-

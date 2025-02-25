@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 82_yTGt9pLM
 url: /resources/videos/:slug
-slug: agile-consulting-services-overview
+slug: unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 aliases:
-- /resources/videos/82_yTGt9pLM
-- /resources/videos/agile-consulting-services-overview
-- /resources/agile-consulting-services-overview
 - /resources/82_yTGt9pLM
+aliasesArchive:
+- /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 aliasesFor404:
 - /resources/videos/agile-consulting-services-overview
 - /resources/agile-consulting-services-overview

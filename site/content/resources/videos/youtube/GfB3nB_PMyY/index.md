@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: GfB3nB_PMyY
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-bridging-theory-and-experience
+slug: the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
 layout: video
 preview: https://i.ytimg.com/vi/GfB3nB_PMyY/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/the-power-of-immersive-learning-bridging-theory-and-experience
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
-- /resources/videos/GfB3nB_PMyY
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - /resources/GfB3nB_PMyY
+- /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
+aliasesArchive:
+- /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience
 aliasesFor404:
 - /resources/the-power-of-immersive-learning-bridging-theory-and-experience
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5

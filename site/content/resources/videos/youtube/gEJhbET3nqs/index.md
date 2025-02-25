@@ -12,10 +12,9 @@ slug: professional-agile-leadership-essentials-overview
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gEJhbET3nqs
 aliases:
-- /resources/videos/gEJhbET3nqs
-- /resources/videos/professional-agile-leadership-essentials-overview
-- /resources/professional-agile-leadership-essentials-overview
 - /resources/gEJhbET3nqs
+aliasesArchive:
+- /resources/videos/professional-agile-leadership-essentials-overview
 aliasesFor404:
 - /resources/videos/professional-agile-leadership-essentials-overview
 - /resources/professional-agile-leadership-essentials-overview

@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _ghSntAkoKI
 url: /resources/videos/:slug
-slug: live-virtual-professional-agile-leadership-in-5-minutes!
+slug: live-virtual-professional-agile-leadership-in-5-minutes
 canonicalUrl: https://www.youtube.com/watch?v=_ghSntAkoKI
 aliases:
-- /resources/videos/_ghSntAkoKI
-- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/_ghSntAkoKI
+aliasesArchive:
+- /resources/videos/live-virtual-professional-agile-leadership-in-minutes
+- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes
 aliasesFor404:
 - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!

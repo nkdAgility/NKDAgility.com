@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg
 duration: 318
 isShort: false
 aliases:
-- /resources/in-what-circumstances-is-agile-consulting-appropriate
-- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
-- /resources/videos/rX258aqTf_w
-- /resources/in-what-circumstances-is-agile-consulting-appropriate-
 - /resources/rX258aqTf_w
+aliasesArchive:
+- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
 aliasesFor404:
 - /resources/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-

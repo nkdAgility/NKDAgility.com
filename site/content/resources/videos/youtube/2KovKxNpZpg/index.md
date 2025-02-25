@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2KovKxNpZpg
 url: /resources/videos/:slug
-slug: pet-peeve-in-scrum
+slug: beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success-2KovKxNpZpg
 aliases:
-- /resources/videos/2KovKxNpZpg
-- /resources/videos/pet-peeve-in-scrum
-- /resources/pet-peeve-in-scrum
 - /resources/2KovKxNpZpg
+- /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
+aliasesArchive:
+- /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
 aliasesFor404:
 - /resources/videos/pet-peeve-in-scrum
 - /resources/pet-peeve-in-scrum

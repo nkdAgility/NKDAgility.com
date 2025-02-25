@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg
 duration: 540
 isShort: false
 aliases:
-- /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
-- /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
-- /resources/videos/TCs2IxB118c
-- /resources/the-power-of-engaged-teams-through-mentorship-programs
 - /resources/TCs2IxB118c
+aliasesArchive:
+- /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
 aliasesFor404:
 - /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
 - /resources/videos/the-power-of-engaged-teams-through-mentorship-programs

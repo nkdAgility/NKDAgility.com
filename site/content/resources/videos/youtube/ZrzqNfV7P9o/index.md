@@ -9,18 +9,15 @@ ResourceImportSource: Youtube
 videoId: ZrzqNfV7P9o
 source: internal
 url: /resources/videos/:slug
-slug: why-does-minecraft-make-the-aps-course-so-awesome
+slug: learn-scrum-with-minecraft-education-edition
 layout: video
 preview: https://i.ytimg.com/vi/ZrzqNfV7P9o/maxresdefault.jpg
 duration: 261
 isShort: false
 aliases:
-- /resources/why-does-minecraft-make-the-aps-course-so-awesome
-- /resources/learn-scrum-with-minecraft
-- /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
-- /resources/videos/ZrzqNfV7P9o
-- /resources/why-does-minecraft-make-the-aps-course-so-awesome-
 - /resources/ZrzqNfV7P9o
+aliasesArchive:
+- /resources/videos/learn-scrum-with-minecraft-education-edition
 aliasesFor404:
 - /resources/why-does-minecraft-make-the-aps-course-so-awesome
 - /resources/learn-scrum-with-minecraft

@@ -12,10 +12,9 @@ slug: mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=RCJsST0xBCE
 aliases:
-- /resources/videos/RCJsST0xBCE
-- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/RCJsST0xBCE
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 aliasesFor404:
 - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility

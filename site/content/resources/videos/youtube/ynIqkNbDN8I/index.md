@@ -2,11 +2,11 @@
 title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
 description: "Uncover the truth behind burndown charts in Agile! Join Martin from NKDAgility as he debunks myths and explores better alternatives. \U0001F4CA\U0001F4A1"
 date: 2025-02-11T06:00:40Z
-ResourceId: ymKlRonlUX0
+ResourceId: ynIqkNbDN8I
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: ymKlRonlUX0
+videoId: ynIqkNbDN8I
 source: internal
 url: /resources/videos/:slug
 slug: the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
@@ -15,15 +15,9 @@ preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
 duration: 419
 isShort: false
 aliases:
-- /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
-- /resources/videos/5-ghosts-of-agile-past-burndown-charts
-- /resources/videos/ymKlRonlUX0
-- /resources/5-ghosts-of-agile-past-burndown-charts
-- /resources/ymKlRonlUX0
 - /resources/ynIqkNbDN8I
-- /resources/videos/ynIqkNbDN8I
-- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
-- /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+aliasesArchive:
+- /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 aliasesFor404:
 - /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 - /resources/videos/5-ghosts-of-agile-past-burndown-charts

@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: f8q2fBkUez0
 url: /resources/videos/:slug
-slug: should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
+slug: empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
 layout: video
 aliases:
-- /resources/videos/f8q2fBkUez0
-- /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
-- /resources/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 - /resources/f8q2fBkUez0
+aliasesArchive:
+- /resources/videos/empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
 aliasesFor404:
 - /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 - /resources/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon

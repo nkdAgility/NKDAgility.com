@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: uetzybp7bf4
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-culture-of-continuous-improvement
+slug: empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 layout: video
 aliases:
-- /resources/videos/uetzybp7bf4
-- /resources/videos/building-a-culture-of-continuous-improvement
-- /resources/building-a-culture-of-continuous-improvement
 - /resources/uetzybp7bf4
+aliasesArchive:
+- /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 aliasesFor404:
 - /resources/videos/building-a-culture-of-continuous-improvement
 - /resources/building-a-culture-of-continuous-improvement

@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: eK8YscAACnE
 url: /resources/videos/:slug
-slug: -shorts-5-kinds-of-agile-bandits-3rd-kind
+slug: ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
 layout: video
 aliases:
-- /resources/videos/eK8YscAACnE
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/eK8YscAACnE
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
+aliasesArchive:
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
 aliasesFor404:
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind

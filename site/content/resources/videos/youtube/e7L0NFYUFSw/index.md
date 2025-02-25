@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: e7L0NFYUFSw
 url: /resources/videos/:slug
-slug: does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
+slug: does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=e7L0NFYUFSw
 aliases:
-- /resources/videos/e7L0NFYUFSw
-- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
-- /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/e7L0NFYUFSw
+aliasesArchive:
+- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
 aliasesFor404:
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-

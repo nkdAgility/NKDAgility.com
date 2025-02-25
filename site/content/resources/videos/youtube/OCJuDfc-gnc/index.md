@@ -12,10 +12,10 @@ slug: 25th-march-2020-office-hours-ask-me-anything
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=OCJuDfc-gnc
 aliases:
-- /resources/videos/OCJuDfc-gnc
-- /resources/videos/25th-march-2020-office-hours-ask-me-anything
-- /resources/25th-march-2020-office-hours-ask-me-anything
 - /resources/OCJuDfc-gnc
+aliasesArchive:
+- /resources/videos/th-march-office-hours-ask-me-anything
+- /resources/videos/25th-march-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/25th-march-2020-office-hours-ask-me-anything
 - /resources/25th-march-2020-office-hours-ask-me-anything

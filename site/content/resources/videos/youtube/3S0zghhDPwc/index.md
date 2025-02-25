@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/3S0zghhDPwc/maxresdefault.jpg
 duration: 119
 isShort: false
 aliases:
-- /resources/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
-- /resources/videos/3S0zghhDPwc
-- /resources/7-virtues-of-agile-diligence
 - /resources/3S0zghhDPwc
+aliasesArchive:
+- /resources/videos/the-overlooked-virtue-of-agility-diligence
 aliasesFor404:
 - /resources/the-overlooked-virtue-of-agility-diligence
 - /resources/videos/7-virtues-of-agile-diligence

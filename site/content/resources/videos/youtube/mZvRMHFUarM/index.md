@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: mZvRMHFUarM
 source: youtube
 url: /resources/videos/:slug
-slug: estimating-with-confidence
+slug: rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
 layout: video
 aliases:
-- /resources/videos/mZvRMHFUarM
-- /resources/videos/estimating-with-confidence
-- /resources/estimating-with-confidence
 - /resources/mZvRMHFUarM
+aliasesArchive:
+- /resources/videos/rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
 aliasesFor404:
 - /resources/videos/estimating-with-confidence
 - /resources/estimating-with-confidence

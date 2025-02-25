@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
 duration: 659
 isShort: false
 aliases:
-- /resources/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
-- /resources/videos/XhPHa1RXrWo
-- /resources/the-intention-of-agile-and-scrum
 - /resources/XhPHa1RXrWo
+aliasesArchive:
+- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
 aliasesFor404:
 - /resources/agile-is-not-new-a-journey-back-to-the-basics
 - /resources/videos/the-intention-of-agile-and-scrum

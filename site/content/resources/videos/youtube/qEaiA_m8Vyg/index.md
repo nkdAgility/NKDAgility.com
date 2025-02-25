@@ -15,10 +15,9 @@ preview: https://i.ytimg.com/vi/qEaiA_m8Vyg/maxresdefault.jpg
 duration: 345
 isShort: false
 aliases:
-- /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
-- /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
-- /resources/videos/qEaiA_m8Vyg
 - /resources/qEaiA_m8Vyg
+aliasesArchive:
+- /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 aliasesFor404:
 - /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences

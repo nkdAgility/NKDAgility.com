@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: T07AK-1FAK4
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-the-antichrist
+slug: beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse-T07AK-1FAK4
 layout: video
 aliases:
-- /resources/videos/T07AK-1FAK4
-- /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
-- /resources/7-signs-of-the-agile-apocalypse-the-antichrist
 - /resources/T07AK-1FAK4
+- /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
+aliasesArchive:
+- /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 - /resources/7-signs-of-the-agile-apocalypse-the-antichrist

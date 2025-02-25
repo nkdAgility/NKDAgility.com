@@ -14,37 +14,36 @@ preview: https://i.ytimg.com/vi/56hWAHhbrvs/maxresdefault.jpg
 duration: 241
 isShort: false
 aliases:
-  - /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
-  - /resources/videos/antichrist!-7-harbingers-agile-apocalypse
-  - /resources/videos/56hWAHhbrvs
-  - /resources/antichrist!-7-harbingers-agile-apocalypse
-  - /resources/56hWAHhbrvs
+- /resources/56hWAHhbrvs
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-organizational-structure
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
 aliasesFor404:
-  - /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
-  - /resources/videos/antichrist!-7-harbingers-agile-apocalypse
-  - /resources/antichrist!-7-harbingers-agile-apocalypse
+- /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
+- /resources/videos/antichrist!-7-harbingers-agile-apocalypse
+- /resources/antichrist!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-  - Agile Strategy
-  - People and Process
-  - Agile Philosophy
-  - Agile Transformation
-  - Organisational Agility
-  - Scaling Agility
-  - Organisational Culture
-  - Enterprise Agility
-  - Organisational Physics
-  - Organisational Change
+- Agile Strategy
+- People and Process
+- Agile Philosophy
+- Agile Transformation
+- Organisational Agility
+- Scaling Agility
+- Organisational Culture
+- Enterprise Agility
+- Organisational Physics
+- Organisational Change
 resourceTypes:
-  - video
+- video
 layout: video
 categories:
-  - Product Management
-  - Social Technologies
----
+- Product Management
+- Social Technologies
 
+---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure
 
 In the quest for agility within organizations, one formidable adversary stands out, often referred to as the "Antichrist of Agile." This adversary is none other than the Alpha organizational structure—the traditional, hierarchical management framework that stifles the very essence of agility. This piece delves into the challenges posed by such structures and outlines strategies for overcoming them, marking the first in a series dedicated to navigating the harbingers of the agile apocalypse.

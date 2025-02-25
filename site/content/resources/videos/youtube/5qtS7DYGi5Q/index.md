@@ -9,16 +9,15 @@ ResourceImportSource: Youtube
 videoId: 5qtS7DYGi5Q
 source: internal
 url: /resources/videos/:slug
-slug: how-do-you-know-the-value-currently-delivered-in-your-organization
+slug: how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
 preview: https://i.ytimg.com/vi/5qtS7DYGi5Q/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-- /resources/videos/5qtS7DYGi5Q
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 - /resources/5qtS7DYGi5Q
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+aliasesArchive:
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
 aliasesFor404:
 - /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2

@@ -12,10 +12,9 @@ url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
 layout: video
 aliases:
-- /resources/videos/s4h2K62V_d0
-- /resources/videos/shifting-left-quality-from-the-start
-- /resources/shifting-left-quality-from-the-start
 - /resources/s4h2K62V_d0
+aliasesArchive:
+- /resources/videos/code-reviews-for-quality-assurance
 aliasesFor404:
 - /resources/videos/shifting-left-quality-from-the-start
 - /resources/shifting-left-quality-from-the-start

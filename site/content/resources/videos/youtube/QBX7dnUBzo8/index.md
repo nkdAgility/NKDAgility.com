@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
 duration: 349
 isShort: false
 aliases:
-- /resources/addressing-systemic-issues-in-agile-organizations
-- /resources/videos/agile-techniques-that-boost-startups!
-- /resources/videos/QBX7dnUBzo8
-- /resources/agile-techniques-that-boost-startups!
 - /resources/QBX7dnUBzo8
+aliasesArchive:
+- /resources/videos/addressing-systemic-issues-in-agile-organizations
 aliasesFor404:
 - /resources/addressing-systemic-issues-in-agile-organizations
 - /resources/videos/agile-techniques-that-boost-startups!

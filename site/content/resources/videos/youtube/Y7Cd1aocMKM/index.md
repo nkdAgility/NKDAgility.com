@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Y7Cd1aocMKM/maxresdefault.jpg
 duration: 384
 isShort: false
 aliases:
-- /resources/how-effective-is-scrum-training-via-digital-delivery
-- /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
-- /resources/videos/Y7Cd1aocMKM
-- /resources/how-effective-is-scrum-training-via-digital-delivery-
 - /resources/Y7Cd1aocMKM
+aliasesArchive:
+- /resources/videos/how-effective-is-scrum-training-via-digital-delivery
 aliasesFor404:
 - /resources/how-effective-is-scrum-training-via-digital-delivery
 - /resources/videos/how-effective-is-scrum-training-via-digital-delivery-

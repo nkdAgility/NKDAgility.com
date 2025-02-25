@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 0fz91w-_6vE
 url: /resources/videos/:slug
-slug: what-is-your-primary-role-in-a-devops-consulting-gig-
+slug: unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 aliases:
-- /resources/videos/0fz91w-_6vE
-- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
-- /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/0fz91w-_6vE
+aliasesArchive:
+- /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 aliasesFor404:
 - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/what-is-your-primary-role-in-a-devops-consulting-gig-

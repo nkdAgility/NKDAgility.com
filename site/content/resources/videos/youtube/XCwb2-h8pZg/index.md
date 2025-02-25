@@ -12,10 +12,9 @@ slug: kanban-with-team-foundation-service
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=XCwb2-h8pZg
 aliases:
-- /resources/videos/XCwb2-h8pZg
-- /resources/videos/kanban-with-team-foundation-service
-- /resources/kanban-with-team-foundation-service
 - /resources/XCwb2-h8pZg
+aliasesArchive:
+- /resources/videos/kanban-with-team-foundation-service
 aliasesFor404:
 - /resources/videos/kanban-with-team-foundation-service
 - /resources/kanban-with-team-foundation-service
@@ -34,4 +33,5 @@ resourceTypes:
 categories: []
 
 ---
+  
  [Watch on Youtube](https://www.youtube.com/watch?v=XCwb2-h8pZg)

@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: E2OBcBqZGoA
 url: /resources/videos/:slug
-slug: 05-october-2023-agile-leadership-webinar
+slug: unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
 layout: video
 aliases:
-- /resources/videos/E2OBcBqZGoA
-- /resources/videos/05-october-2023-agile-leadership-webinar
-- /resources/05-october-2023-agile-leadership-webinar
 - /resources/E2OBcBqZGoA
+- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
+aliasesArchive:
+- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
 aliasesFor404:
 - /resources/videos/05-october-2023-agile-leadership-webinar
 - /resources/05-october-2023-agile-leadership-webinar

@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: qNJ2suVslzE
 source: youtube
 url: /resources/videos/:slug
-slug: taming-scope-creep-with-agile
+slug: transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 layout: video
 aliases:
-- /resources/videos/qNJ2suVslzE
-- /resources/videos/taming-scope-creep-with-agile
-- /resources/taming-scope-creep-with-agile
 - /resources/qNJ2suVslzE
+aliasesArchive:
+- /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 aliasesFor404:
 - /resources/videos/taming-scope-creep-with-agile
 - /resources/taming-scope-creep-with-agile

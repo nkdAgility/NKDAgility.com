@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: sdIPSpbeA9w
 source: youtube
 url: /resources/videos/:slug
-slug: the-cost-saving-power-of-automation
+slug: why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 layout: video
 aliases:
-- /resources/videos/sdIPSpbeA9w
-- /resources/videos/the-cost-saving-power-of-automation
-- /resources/the-cost-saving-power-of-automation
 - /resources/sdIPSpbeA9w
+aliasesArchive:
+- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 aliasesFor404:
 - /resources/videos/the-cost-saving-power-of-automation
 - /resources/the-cost-saving-power-of-automation

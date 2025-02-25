@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
 isShort: false
 aliases:
-- /resources/overcoming-the-ghost-of-agile-certifications
-- /resources/videos/5-ghosts-of-agile-past-3-questions
-- /resources/videos/eLkJ_YEhMB0
-- /resources/5-ghosts-of-agile-past-3-questions
 - /resources/eLkJ_YEhMB0
+aliasesArchive:
+- /resources/videos/overcoming-the-ghost-of-agile-certifications
 aliasesFor404:
 - /resources/overcoming-the-ghost-of-agile-certifications
 - /resources/videos/5-ghosts-of-agile-past-3-questions

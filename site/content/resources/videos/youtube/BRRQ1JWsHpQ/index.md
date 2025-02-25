@@ -9,14 +9,13 @@ ResourceImportSource: Youtube
 videoId: BRRQ1JWsHpQ
 source: youtube
 url: /resources/videos/:slug
-slug: the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
+slug: the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=BRRQ1JWsHpQ
 aliases:
-- /resources/videos/BRRQ1JWsHpQ
-- /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
-- /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/BRRQ1JWsHpQ
+aliasesArchive:
+- /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
 aliasesFor404:
 - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-

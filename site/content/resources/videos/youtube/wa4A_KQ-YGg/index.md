@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
 duration: 367
 isShort: false
 aliases:
-- /resources/what-are-immersive-training-courses
-- /resources/what-are-immersive-training-scrum-courses
-- /resources/videos/what-are-immersive-training-scrum-courses-
-- /resources/videos/wa4A_KQ-YGg
-- /resources/what-are-immersive-training-scrum-courses-
 - /resources/wa4A_KQ-YGg
+aliasesArchive:
+- /resources/videos/what-are-immersive-training-courses
 aliasesFor404:
 - /resources/what-are-immersive-training-courses
 - /resources/what-are-immersive-training-scrum-courses

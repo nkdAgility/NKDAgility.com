@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sKYVNHcf1jg
 url: /resources/videos/:slug
-slug: what-was-your-worst-day-as-an-agile-consultant-
+slug: what-was-your-worst-day-as-an-agile-consultant
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sKYVNHcf1jg
 aliases:
-- /resources/videos/sKYVNHcf1jg
-- /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
-- /resources/what-was-your-worst-day-as-an-agile-consultant-
 - /resources/sKYVNHcf1jg
+aliasesArchive:
+- /resources/videos/what-was-your-worst-day-as-an-agile-consultant
 aliasesFor404:
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
 - /resources/what-was-your-worst-day-as-an-agile-consultant-

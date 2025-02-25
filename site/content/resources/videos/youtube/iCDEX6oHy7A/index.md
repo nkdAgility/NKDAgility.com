@@ -12,10 +12,10 @@ slug: ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=iCDEX6oHy7A
 aliases:
-- /resources/videos/iCDEX6oHy7A
-- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/iCDEX6oHy7A
+aliasesArchive:
+- /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 aliasesFor404:
 - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities

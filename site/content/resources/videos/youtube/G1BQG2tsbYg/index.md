@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
 duration: 1259
 isShort: false
 aliases:
-- /resources/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/videos/outcome-increased-business-predictability
-- /resources/videos/G1BQG2tsbYg
-- /resources/outcome-increased-business-predictability
 - /resources/G1BQG2tsbYg
+aliasesArchive:
+- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
 aliasesFor404:
 - /resources/how-to-achieve-predictability-in-business-through-agile-principles
 - /resources/videos/outcome-increased-business-predictability

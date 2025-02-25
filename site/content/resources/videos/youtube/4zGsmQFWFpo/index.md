@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/4zGsmQFWFpo/maxresdefault.jpg
 duration: 547
 isShort: false
 aliases:
-- /resources/focusing-beyond-agile-building-true-capability-in-organizations
-- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
-- /resources/videos/4zGsmQFWFpo
-- /resources/where-are-we-now-and-where-do-we-need-to-go-next
 - /resources/4zGsmQFWFpo
+aliasesArchive:
+- /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
 aliasesFor404:
 - /resources/focusing-beyond-agile-building-true-capability-in-organizations
 - /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next

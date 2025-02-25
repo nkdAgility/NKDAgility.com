@@ -9,18 +9,16 @@ ResourceImportSource: Youtube
 videoId: WVNiLx3QHLg
 source: internal
 url: /resources/videos/:slug
-slug: why-i-love-heirarchies-of-competence
+slug: why-i-love-heirarchies-of-competence-WVNiLx3QHLg
 layout: video
 preview: https://i.ytimg.com/vi/WVNiLx3QHLg/maxresdefault.jpg
 duration: 57
 isShort: true
 aliases:
-- /resources/why-i-love-heirarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence-2
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/videos/WVNiLx3QHLg
-- /resources/why-i-love-hierarchies-of-competence
 - /resources/WVNiLx3QHLg
+- /resources/videos/why-i-love-heirarchies-of-competence
+aliasesArchive:
+- /resources/videos/why-i-love-heirarchies-of-competence
 aliasesFor404:
 - /resources/why-i-love-heirarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence-2

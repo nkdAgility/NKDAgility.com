@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: ypVIcgSEvMc
 source: internal
 url: /resources/videos/:slug
-slug: 30-discount-for-existing-alumni-overview
+slug: 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 layout: video
 preview: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/30-discount-for-existing-alumni-overview
-- /resources/videos/30-discount-for-existing-alumni-overview
-- /resources/videos/ypVIcgSEvMc
 - /resources/ypVIcgSEvMc
+- /resources/videos/30-discount-for-existing-alumni-overview
+aliasesArchive:
+- /resources/videos/-discount-for-existing-alumni-overview
+- /resources/videos/30-discount-for-existing-alumni-overview
 aliasesFor404:
 - /resources/30-discount-for-existing-alumni-overview
 - /resources/videos/30-discount-for-existing-alumni-overview

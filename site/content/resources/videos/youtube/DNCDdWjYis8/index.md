@@ -9,14 +9,14 @@ ResourceImportSource: Youtube
 videoId: DNCDdWjYis8
 source: youtube
 url: /resources/videos/:slug
-slug: worst-trait-in-unskilled-scrum-masters-
+slug: worst-trait-in-unskilled-scrum-masters-DNCDdWjYis8
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=DNCDdWjYis8
 aliases:
-- /resources/videos/DNCDdWjYis8
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/worst-trait-in-unskilled-scrum-masters-
 - /resources/DNCDdWjYis8
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
+aliasesArchive:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
 aliasesFor404:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-

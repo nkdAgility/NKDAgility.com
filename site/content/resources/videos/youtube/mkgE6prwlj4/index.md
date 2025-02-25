@@ -9,18 +9,16 @@ ResourceImportSource: Youtube
 videoId: mkgE6prwlj4
 source: internal
 url: /resources/videos/:slug
-slug: what-is-the-best-application-of-scrum-in-the-world
+slug: what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
 layout: video
 preview: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg
 duration: 55
 isShort: true
 aliases:
-- /resources/what-is-the-best-application-of-scrum-in-the-world
-- /resources/best-application-of-scrum-in-the-world
-- /resources/videos/best-application-of-scrum-in-the-world-
-- /resources/videos/mkgE6prwlj4
-- /resources/best-application-of-scrum-in-the-world-
 - /resources/mkgE6prwlj4
+- /resources/videos/what-is-the-best-application-of-scrum-in-the-world
+aliasesArchive:
+- /resources/videos/what-is-the-best-application-of-scrum-in-the-world
 aliasesFor404:
 - /resources/what-is-the-best-application-of-scrum-in-the-world
 - /resources/best-application-of-scrum-in-the-world

@@ -9,18 +9,16 @@ ResourceImportSource: Youtube
 videoId: qXsjLuss22Y
 source: internal
 url: /resources/videos/:slug
-slug: what-is-a-sprint-goal
+slug: what-is-a-sprint-goal-qXsjLuss22Y
 layout: video
 preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
 duration: 45
 isShort: true
 aliases:
-- /resources/what-is-a-sprint-goal
-- /resources/what-is-a-product-goal
-- /resources/videos/what-is-a-product-goal-
-- /resources/videos/qXsjLuss22Y
-- /resources/what-is-a-product-goal-
 - /resources/qXsjLuss22Y
+- /resources/videos/what-is-a-sprint-goal
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-goal
 aliasesFor404:
 - /resources/what-is-a-sprint-goal
 - /resources/what-is-a-product-goal

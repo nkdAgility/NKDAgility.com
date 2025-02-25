@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DceVQ5JQaUw
 url: /resources/videos/:slug
-slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=DceVQ5JQaUw
 aliases:
-- /resources/videos/DceVQ5JQaUw
-- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
-- /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/DceVQ5JQaUw
+aliasesArchive:
+- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
 aliasesFor404:
 - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-

@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: o9Qc_NLmtok
 source: internal
 url: /resources/videos/:slug
-slug: 8-week-immersive-learning-course-in-60-seconds
+slug: 8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 layout: video
 preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/8-week-immersive-learning-course-in-60-seconds
-- /resources/videos/8-week-immersive-learning-course-in-60-seconds
-- /resources/videos/o9Qc_NLmtok
 - /resources/o9Qc_NLmtok
+- /resources/videos/8-week-immersive-learning-course-in-60-seconds
+aliasesArchive:
+- /resources/videos/-week-immersive-learning-course-in-seconds
+- /resources/videos/8-week-immersive-learning-course-in-60-seconds
 aliasesFor404:
 - /resources/8-week-immersive-learning-course-in-60-seconds
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds

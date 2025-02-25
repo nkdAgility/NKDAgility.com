@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: I5YoOAai-m4
 source: internal
 url: /resources/videos/:slug
-slug: agile-coach-versus-professional-coach
+slug: agile-coach-versus-professional-coach-I5YoOAai-m4
 layout: video
 preview: https://i.ytimg.com/vi/I5YoOAai-m4/maxresdefault.jpg
 duration: 57
 isShort: true
 aliases:
-- /resources/agile-coach-versus-professional-coach-2
-- /resources/agile-coach-versus-professional-coach
-- /resources/videos/agile-coach-versus-professional-coach
-- /resources/videos/I5YoOAai-m4
 - /resources/I5YoOAai-m4
+- /resources/videos/agile-coach-versus-professional-coach
+aliasesArchive:
+- /resources/videos/agile-coach-versus-professional-coach
 aliasesFor404:
 - /resources/agile-coach-versus-professional-coach-2
 - /resources/agile-coach-versus-professional-coach

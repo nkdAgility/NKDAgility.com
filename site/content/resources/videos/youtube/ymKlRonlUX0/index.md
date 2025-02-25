@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
 duration: 419
 isShort: false
 aliases:
-- /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
-- /resources/videos/5-ghosts-of-agile-past-burndown-charts
-- /resources/videos/ymKlRonlUX0
-- /resources/5-ghosts-of-agile-past-burndown-charts
 - /resources/ymKlRonlUX0
+aliasesArchive:
+- /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 aliasesFor404:
 - /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 - /resources/videos/5-ghosts-of-agile-past-burndown-charts

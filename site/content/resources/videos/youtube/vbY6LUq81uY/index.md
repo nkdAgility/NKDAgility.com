@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: vbY6LUq81uY
 source: youtube
 url: /resources/videos/:slug
-slug: maximizing-value-with-minimum-viable-products-mvps
+slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 layout: video
 aliases:
-- /resources/videos/vbY6LUq81uY
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
-- /resources/maximizing-value-with-minimum-viable-products-mvps
 - /resources/vbY6LUq81uY
+aliasesArchive:
+- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 aliasesFor404:
 - /resources/videos/maximizing-value-with-minimum-viable-products-mvps
 - /resources/maximizing-value-with-minimum-viable-products-mvps

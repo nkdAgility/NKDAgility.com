@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZBb8OZ0I6qA
 url: /resources/videos/:slug
-slug: why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+slug: rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 layout: video
 aliases:
-- /resources/videos/ZBb8OZ0I6qA
-- /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
-- /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 - /resources/ZBb8OZ0I6qA
+aliasesArchive:
+- /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 aliasesFor404:
 - /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 - /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!

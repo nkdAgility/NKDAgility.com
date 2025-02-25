@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 220tyMrhSFE
 url: /resources/videos/:slug
-slug: kanban-principles
+slug: transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
 aliases:
-- /resources/videos/220tyMrhSFE
-- /resources/videos/kanban-principles
-- /resources/kanban-principles
 - /resources/220tyMrhSFE
+- /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
+aliasesArchive:
+- /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
 aliasesFor404:
 - /resources/videos/kanban-principles
 - /resources/kanban-principles

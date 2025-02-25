@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: KhKFVRcdbGo
 source: youtube
 url: /resources/videos/:slug
-slug: nkd-agility-your-partner-in-cost-effective-software-development
+slug: transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 layout: video
 aliases:
-- /resources/videos/KhKFVRcdbGo
-- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
-- /resources/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/KhKFVRcdbGo
+aliasesArchive:
+- /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 aliasesFor404:
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development

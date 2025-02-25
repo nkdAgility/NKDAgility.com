@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/wHYYfvAGFow/maxresdefault.jpg
 duration: 483
 isShort: false
 aliases:
-- /resources/what-is-taylorism-and-how-did-it-influence-project-management
-- /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-
-- /resources/videos/wHYYfvAGFow
-- /resources/what-is-taylorism-and-how-did-it-influence-project-management-
 - /resources/wHYYfvAGFow
+aliasesArchive:
+- /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management
 aliasesFor404:
 - /resources/what-is-taylorism-and-how-did-it-influence-project-management
 - /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-

@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: Gym5-p-mNtw
 source: youtube
 url: /resources/videos/:slug
-slug: agile-your-secret-weapon-for-cost-control
+slug: transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 layout: video
 aliases:
-- /resources/videos/Gym5-p-mNtw
-- /resources/videos/agile-your-secret-weapon-for-cost-control
-- /resources/agile-your-secret-weapon-for-cost-control
 - /resources/Gym5-p-mNtw
+aliasesArchive:
+- /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 aliasesFor404:
 - /resources/videos/agile-your-secret-weapon-for-cost-control
 - /resources/agile-your-secret-weapon-for-cost-control

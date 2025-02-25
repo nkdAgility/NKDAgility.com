@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: OZt-5iszx-I
 source: internal
 url: /resources/videos/:slug
-slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
 layout: video
 preview: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
-- /resources/videos/OZt-5iszx-I
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 - /resources/OZt-5iszx-I
+- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+aliasesArchive:
+- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 aliasesFor404:
 - /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3

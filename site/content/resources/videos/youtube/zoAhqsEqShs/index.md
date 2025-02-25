@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg
 duration: 558
 isShort: false
 aliases:
-- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
-- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
-- /resources/videos/zoAhqsEqShs
-- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 - /resources/zoAhqsEqShs
+aliasesArchive:
+- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 aliasesFor404:
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-

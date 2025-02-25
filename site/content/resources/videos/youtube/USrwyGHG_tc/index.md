@@ -9,18 +9,16 @@ ResourceImportSource: Youtube
 videoId: USrwyGHG_tc
 source: internal
 url: /resources/videos/:slug
-slug: is-a-scrum-master-an-agile-micromanager
+slug: is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
 layout: video
 preview: https://i.ytimg.com/vi/USrwyGHG_tc/maxresdefault.jpg
 duration: 45
 isShort: true
 aliases:
-- /resources/is-a-scrum-master-an-agile-micromanager-2
-- /resources/is-a-scrum-master-an-agile-micro-manager
-- /resources/videos/is-a-scrum-master-an-agile-micro-manager-
-- /resources/videos/USrwyGHG_tc
-- /resources/is-a-scrum-master-an-agile-micro-manager-
 - /resources/USrwyGHG_tc
+- /resources/videos/is-a-scrum-master-an-agile-micromanager
+aliasesArchive:
+- /resources/videos/is-a-scrum-master-an-agile-micromanager
 aliasesFor404:
 - /resources/is-a-scrum-master-an-agile-micromanager-2
 - /resources/is-a-scrum-master-an-agile-micro-manager

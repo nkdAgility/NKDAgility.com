@@ -15,12 +15,10 @@ preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg
 duration: 164
 isShort: false
 aliases:
-- /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
-- /resources/videos/v1sMbKpQndU
-- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 - /resources/v1sMbKpQndU
+aliasesArchive:
+- /resources/videos/what-are-the-top-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 aliasesFor404:
 - /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance

@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: CWxkBJJduCE
 url: /resources/videos/:slug
-slug: redefining-test-driven-development
+slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
 layout: video
 aliases:
-- /resources/videos/CWxkBJJduCE
-- /resources/videos/redefining-test-driven-development
-- /resources/redefining-test-driven-development
 - /resources/CWxkBJJduCE
+- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
+aliasesArchive:
+- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 aliasesFor404:
 - /resources/videos/redefining-test-driven-development
 - /resources/redefining-test-driven-development

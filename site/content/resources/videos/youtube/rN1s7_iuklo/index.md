@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: rN1s7_iuklo
 source: internal
 url: /resources/videos/:slug
-slug: empowering-teams-to-maximize-value-and-return-on-investment
+slug: empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
 layout: video
 preview: https://i.ytimg.com/vi/rN1s7_iuklo/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/empowering-teams-to-maximize-value-and-return-on-investment
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
-- /resources/videos/rN1s7_iuklo
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/rN1s7_iuklo
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
+aliasesArchive:
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
 aliasesFor404:
 - /resources/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5

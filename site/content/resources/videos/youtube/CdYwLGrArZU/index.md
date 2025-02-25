@@ -9,18 +9,16 @@ ResourceImportSource: Youtube
 videoId: CdYwLGrArZU
 source: internal
 url: /resources/videos/:slug
-slug: most-common-thing-you-hear-in-a-pspo-course
+slug: most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
 layout: video
 preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/most-common-thing-you-hear-in-a-pspo-course-2
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
-- /resources/videos/CdYwLGrArZU
-- /resources/most-common-thing-you-hear-in-a-pspo-course-
 - /resources/CdYwLGrArZU
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
 aliasesFor404:
 - /resources/most-common-thing-you-hear-in-a-pspo-course-2
 - /resources/most-common-thing-you-hear-in-a-pspo-course

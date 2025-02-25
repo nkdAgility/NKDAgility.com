@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg
 duration: 156
 isShort: false
 aliases:
-- /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
-- /resources/videos/7-virtues-of-agile-patience
-- /resources/videos/9VHasQBlQc8
-- /resources/7-virtues-of-agile-patience
 - /resources/9VHasQBlQc8
+aliasesArchive:
+- /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
 aliasesFor404:
 - /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
 - /resources/videos/7-virtues-of-agile-patience

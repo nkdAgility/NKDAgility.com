@@ -15,11 +15,10 @@ preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
 duration: 229
 isShort: false
 aliases:
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
-- /resources/videos/QgPlMxGNIzs
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/QgPlMxGNIzs
+aliasesArchive:
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 aliasesFor404:
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-

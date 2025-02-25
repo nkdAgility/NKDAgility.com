@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg
 duration: 452
 isShort: false
 aliases:
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
-- /resources/videos/2IuL2Qvvbfk
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
 - /resources/2IuL2Qvvbfk
+aliasesArchive:
+- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
 aliasesFor404:
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-

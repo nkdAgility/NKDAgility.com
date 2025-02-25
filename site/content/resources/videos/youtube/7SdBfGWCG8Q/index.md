@@ -9,16 +9,15 @@ ResourceImportSource: Youtube
 videoId: 7SdBfGWCG8Q
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-building-relationships-through-immersive-learning-in-scrum
+slug: the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
 preview: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg
 duration: 38
 isShort: true
 aliases:
-- /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
-- /resources/videos/7SdBfGWCG8Q
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 - /resources/7SdBfGWCG8Q
+- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
+aliasesArchive:
+- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
 aliasesFor404:
 - /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2

@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _bjNHN4PI9s
 url: /resources/videos/:slug
-slug: ep-007-running-a-live-virtual-classroom
+slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 aliases:
-- /resources/videos/_bjNHN4PI9s
-- /resources/videos/ep-007-running-a-live-virtual-classroom
-- /resources/ep-007-running-a-live-virtual-classroom
 - /resources/_bjNHN4PI9s
+aliasesArchive:
+- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 aliasesFor404:
 - /resources/videos/ep-007-running-a-live-virtual-classroom
 - /resources/ep-007-running-a-live-virtual-classroom

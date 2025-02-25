@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XEtys2DOkKU
 url: /resources/videos/:slug
-slug: considerations-for-your-azure-devops-migration-excerpt-1
+slug: mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
 layout: video
 aliases:
-- /resources/videos/XEtys2DOkKU
-- /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
-- /resources/considerations-for-your-azure-devops-migration-excerpt-1
 - /resources/XEtys2DOkKU
+- /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition
+aliasesArchive:
+- /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition
 aliasesFor404:
 - /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
 - /resources/considerations-for-your-azure-devops-migration-excerpt-1

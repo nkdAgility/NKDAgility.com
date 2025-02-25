@@ -9,16 +9,15 @@ ResourceImportSource: Youtube
 videoId: 54-Zw2A7zEM
 source: internal
 url: /resources/videos/:slug
-slug: scrum-master-versus-seasoned-agile-coach
+slug: scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
 preview: https://i.ytimg.com/vi/54-Zw2A7zEM/maxresdefault.jpg
 duration: 55
 isShort: true
 aliases:
-- /resources/scrum-master-versus-seasoned-agile-coach
-- /resources/videos/scrum-master-versus-seasoned-agile-coach-
-- /resources/videos/54-Zw2A7zEM
-- /resources/scrum-master-versus-seasoned-agile-coach-
 - /resources/54-Zw2A7zEM
+- /resources/videos/scrum-master-versus-seasoned-agile-coach
+aliasesArchive:
+- /resources/videos/scrum-master-versus-seasoned-agile-coach
 aliasesFor404:
 - /resources/scrum-master-versus-seasoned-agile-coach
 - /resources/videos/scrum-master-versus-seasoned-agile-coach-

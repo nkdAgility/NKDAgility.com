@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
-slug: what-makes-a-truly-great-scrum-master-
+slug: what-makes-a-truly-great-scrum-master
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=rHFhR3o849k
 aliases:
-- /resources/videos/rHFhR3o849k
-- /resources/videos/what-makes-a-truly-great-scrum-master-
-- /resources/what-makes-a-truly-great-scrum-master-
 - /resources/rHFhR3o849k
+aliasesArchive:
+- /resources/videos/what-makes-a-truly-great-scrum-master
 aliasesFor404:
 - /resources/videos/what-makes-a-truly-great-scrum-master-
 - /resources/what-makes-a-truly-great-scrum-master-

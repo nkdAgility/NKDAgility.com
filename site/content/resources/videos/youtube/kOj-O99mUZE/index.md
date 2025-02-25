@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/kOj-O99mUZE/maxresdefault.jpg
 duration: 146
 isShort: false
 aliases:
-- /resources/overview-of-the-scaling-with-portfolio-kanban-course
-- /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
-- /resources/videos/kOj-O99mUZE
-- /resources/overview-of-scaling-with-portfolio-kanban-course-
 - /resources/kOj-O99mUZE
+aliasesArchive:
+- /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
 aliasesFor404:
 - /resources/overview-of-the-scaling-with-portfolio-kanban-course
 - /resources/videos/overview-of-scaling-with-portfolio-kanban-course-

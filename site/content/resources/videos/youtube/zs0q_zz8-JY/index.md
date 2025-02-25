@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
-slug: biggest-misconception-about-a-scrum-master
+slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
 layout: video
 aliases:
-- /resources/videos/zs0q_zz8-JY
-- /resources/videos/biggest-misconception-about-a-scrum-master
-- /resources/biggest-misconception-about-a-scrum-master
 - /resources/zs0q_zz8-JY
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
+aliasesArchive:
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
 aliasesFor404:
 - /resources/videos/biggest-misconception-about-a-scrum-master
 - /resources/biggest-misconception-about-a-scrum-master

@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: YVrGU0oZmc0
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+slug: unlocking-continuous-delivery-how-feature-flags-transform-software-development
 layout: video
 aliases:
-- /resources/videos/YVrGU0oZmc0
-- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
-- /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/YVrGU0oZmc0
+aliasesArchive:
+- /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
 aliasesFor404:
 - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments

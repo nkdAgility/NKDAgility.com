@@ -2,11 +2,11 @@
 title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direction'
 description: Unlock your team's potential! Discover how a shared vision and clear goals drive organisational success and empower informed decision-making. Watch now!
 date: 2025-02-18T07:08:05Z
-ResourceId: KvZbBwzxSu4
+ResourceId: KWiWgLFalyA
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: KvZbBwzxSu4
+videoId: KWiWgLFalyA
 source: internal
 url: /resources/videos/:slug
 slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
@@ -15,15 +15,9 @@ preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 isShort: false
 aliases:
-- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/videos/KvZbBwzxSu4
-- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/KvZbBwzxSu4
 - /resources/KWiWgLFalyA
-- /resources/videos/KWiWgLFalyA
-- /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
-- /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+aliasesArchive:
+- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 aliasesFor404:
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals

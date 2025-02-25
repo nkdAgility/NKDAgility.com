@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg
 duration: 1219
 isShort: false
 aliases:
-- /resources/the-power-of-technical-excellence-in-agile-development
-- /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
-- /resources/videos/JTYCRehkN5U
-- /resources/the-critical-role-of-technical-excellence-in-agile-software-development
 - /resources/JTYCRehkN5U
+aliasesArchive:
+- /resources/videos/the-power-of-technical-excellence-in-agile-development
 aliasesFor404:
 - /resources/the-power-of-technical-excellence-in-agile-development
 - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development

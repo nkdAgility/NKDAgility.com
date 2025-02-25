@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: ekUL1oIMeAc
 source: internal
 url: /resources/videos/:slug
-slug: worst-contribution-from-a-product-owner-that-you-know-of
+slug: worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
 layout: video
 preview: https://i.ytimg.com/vi/ekUL1oIMeAc/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
-- /resources/videos/ekUL1oIMeAc
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of-
 - /resources/ekUL1oIMeAc
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
+aliasesArchive:
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
 aliasesFor404:
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-

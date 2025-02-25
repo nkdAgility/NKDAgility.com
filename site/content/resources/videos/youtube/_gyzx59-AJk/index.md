@@ -2,22 +2,19 @@
 title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
 description: Unlock your organisation's potential with continuous delivery! Discover how to shorten feedback loops and stay ahead in a fast-paced market.
 date: 2025-02-06T10:20:34Z
-ResourceId: _ghSntAkoKI
+ResourceId: _gyzx59-AJk
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: _ghSntAkoKI
+videoId: _gyzx59-AJk
 url: /resources/videos/:slug
-slug: live-virtual-professional-agile-leadership-in-5-minutes!
+slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 aliases:
-- /resources/videos/_ghSntAkoKI
-- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/_ghSntAkoKI
 - /resources/_gyzx59-AJk
-- /resources/videos/_gyzx59-AJk
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+aliasesArchive:
+- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 aliasesFor404:
 - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!

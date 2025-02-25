@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: cv5IIVUgack
 source: internal
 url: /resources/videos/:slug
-slug: how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
+slug: how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
 layout: video
 preview: https://i.ytimg.com/vi/cv5IIVUgack/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
-- /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
-- /resources/videos/cv5IIVUgack
-- /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
 - /resources/cv5IIVUgack
+- /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
+aliasesArchive:
+- /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 aliasesFor404:
 - /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 - /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-

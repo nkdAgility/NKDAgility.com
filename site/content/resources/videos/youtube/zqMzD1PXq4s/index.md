@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: zqMzD1PXq4s
 source: youtube
 url: /resources/videos/:slug
-slug: the-cost-of-chaos-the-impact-of-poor-technical-leadership
+slug: transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
 layout: video
 aliases:
-- /resources/videos/zqMzD1PXq4s
-- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
-- /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 - /resources/zqMzD1PXq4s
+aliasesArchive:
+- /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
 aliasesFor404:
 - /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 - /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/RLxGdd7nEZE/maxresdefault.jpg
 duration: 134
 isShort: false
 aliases:
-- /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
-- /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
-- /resources/videos/RLxGdd7nEZE
-- /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
 - /resources/RLxGdd7nEZE
+aliasesArchive:
+- /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 aliasesFor404:
 - /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 - /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-

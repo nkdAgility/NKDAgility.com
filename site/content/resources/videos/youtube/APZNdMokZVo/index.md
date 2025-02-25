@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: APZNdMokZVo
 url: /resources/videos/:slug
-slug: what-is-a-definition-of-done-why-is-it-so-important-
+slug: unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
 layout: video
 aliases:
-- /resources/videos/APZNdMokZVo
-- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
-- /resources/what-is-a-definition-of-done-why-is-it-so-important-
 - /resources/APZNdMokZVo
+aliasesArchive:
+- /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
 aliasesFor404:
 - /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
 - /resources/what-is-a-definition-of-done-why-is-it-so-important-

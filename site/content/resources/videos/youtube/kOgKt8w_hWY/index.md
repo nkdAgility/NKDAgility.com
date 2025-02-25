@@ -8,14 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kOgKt8w_hWY
 url: /resources/videos/:slug
-slug: live-event-an-enterprise-evolution-that-shows-that-you-can-too
+slug: live-event-an-enterprise-evolution-that-shows-that-you-can-too-kOgKt8w_hWY
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=kOgKt8w_hWY
 aliases:
-- /resources/videos/kOgKt8w_hWY
-- /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
-- /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 - /resources/kOgKt8w_hWY
+- /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
+aliasesArchive:
+- /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 aliasesFor404:
 - /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 - /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
@@ -33,4 +33,5 @@ resourceTypes:
 categories: []
 
 ---
+  
  [Watch on Youtube](https://www.youtube.com/watch?v=kOgKt8w_hWY)

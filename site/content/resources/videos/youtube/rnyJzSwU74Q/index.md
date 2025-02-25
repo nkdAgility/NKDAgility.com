@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rnyJzSwU74Q
 url: /resources/videos/:slug
-slug: traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+slug: traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=rnyJzSwU74Q
 aliases:
-- /resources/videos/rnyJzSwU74Q
-- /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-- /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/rnyJzSwU74Q
+aliasesArchive:
+- /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
 aliasesFor404:
 - /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!

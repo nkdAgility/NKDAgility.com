@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/LpiLOBG7WgI/maxresdefault.jpg
 duration: 224
 isShort: false
 aliases:
-- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
-- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
-- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
-- /resources/videos/LpiLOBG7WgI
-- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
 - /resources/LpiLOBG7WgI
+aliasesArchive:
+- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
 aliasesFor404:
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback

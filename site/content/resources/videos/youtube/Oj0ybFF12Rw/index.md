@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: Oj0ybFF12Rw
 source: internal
 url: /resources/videos/:slug
-slug: quotes-don-t-scale-scrum-pragmatic-or-defeatist
+slug: quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
 layout: video
 preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
-- /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
-- /resources/videos/Oj0ybFF12Rw
-- /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 - /resources/Oj0ybFF12Rw
+- /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
+aliasesArchive:
+- /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
 aliasesFor404:
 - /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
 - /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-

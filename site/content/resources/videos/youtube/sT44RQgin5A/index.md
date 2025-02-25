@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/sT44RQgin5A/maxresdefault.jpg
 duration: 1652
 isShort: false
 aliases:
-- /resources/evidence-based-management-the-four-key-value-areas-in-scrum
-- /resources/videos/the-four-key-value-areas-of-ebm
-- /resources/videos/sT44RQgin5A
-- /resources/the-four-key-value-areas-of-ebm
 - /resources/sT44RQgin5A
+aliasesArchive:
+- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
 aliasesFor404:
 - /resources/evidence-based-management-the-four-key-value-areas-in-scrum
 - /resources/videos/the-four-key-value-areas-of-ebm

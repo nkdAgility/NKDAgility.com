@@ -9,16 +9,16 @@ ResourceImportSource: Youtube
 videoId: GS2If-vQ9ng
 source: internal
 url: /resources/videos/:slug
-slug: agile-training-versus-agile-consulting
+slug: agile-training-versus-agile-consulting-GS2If-vQ9ng
 layout: video
 preview: https://i.ytimg.com/vi/GS2If-vQ9ng/maxresdefault.jpg
 duration: 49
 isShort: true
 aliases:
-- /resources/agile-training-versus-agile-consulting
-- /resources/videos/agile-training-versus-agile-consulting
-- /resources/videos/GS2If-vQ9ng
 - /resources/GS2If-vQ9ng
+- /resources/videos/agile-training-versus-agile-consulting
+aliasesArchive:
+- /resources/videos/agile-training-versus-agile-consulting
 aliasesFor404:
 - /resources/agile-training-versus-agile-consulting
 - /resources/videos/agile-training-versus-agile-consulting

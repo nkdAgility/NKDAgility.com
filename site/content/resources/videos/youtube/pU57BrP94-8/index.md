@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg
 duration: 133
 isShort: false
 aliases:
-- /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
-- /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
-- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
-- /resources/videos/pU57BrP94-8
 - /resources/pU57BrP94-8
+aliasesArchive:
+- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 aliasesFor404:
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job

@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: kXhJrisYofU
 source: youtube
 url: /resources/videos/:slug
-slug: agile-budgeting-for-predictable-costs
+slug: rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 layout: video
 aliases:
-- /resources/videos/kXhJrisYofU
-- /resources/videos/agile-budgeting-for-predictable-costs
-- /resources/agile-budgeting-for-predictable-costs
 - /resources/kXhJrisYofU
+aliasesArchive:
+- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 aliasesFor404:
 - /resources/videos/agile-budgeting-for-predictable-costs
 - /resources/agile-budgeting-for-predictable-costs

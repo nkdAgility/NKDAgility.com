@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: Ce5pFwG5IAY
 source: internal
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-1
+slug: 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
 layout: video
 preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/5-tools-that-scrum-masters-love-part-1
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
-- /resources/videos/Ce5pFwG5IAY
 - /resources/Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love-part-1
+aliasesArchive:
+- /resources/videos/-tools-that-scrum-masters-love-part-
+- /resources/videos/5-tools-that-scrum-masters-love-part-1
 aliasesFor404:
 - /resources/5-tools-that-scrum-masters-love-part-1
 - /resources/videos/5-tools-that-scrum-masters-love-part-1

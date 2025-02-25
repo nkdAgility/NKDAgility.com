@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: phv_2Bv2PrA
 url: /resources/videos/:slug
-slug: what-is-agile-
+slug: what-is-agile
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=phv_2Bv2PrA
 aliases:
-- /resources/videos/phv_2Bv2PrA
-- /resources/videos/what-is-agile-
-- /resources/what-is-agile-
 - /resources/phv_2Bv2PrA
+aliasesArchive:
+- /resources/videos/what-is-agile
 aliasesFor404:
 - /resources/videos/what-is-agile-
 - /resources/what-is-agile-

@@ -9,18 +9,17 @@ ResourceImportSource: Youtube
 videoId: eykcZoUdVO8
 source: internal
 url: /resources/videos/:slug
-slug: part-2-most-influential-people-in-agile
+slug: part-2-most-influential-people-in-agile-eykcZoUdVO8
 layout: video
 preview: https://i.ytimg.com/vi/eykcZoUdVO8/maxresdefault.jpg
 duration: 39
 isShort: true
 aliases:
-- /resources/part-2-most-influential-people-in-agile-3
-- /resources/most-influential-person-in-agile-for-you-personally
-- /resources/videos/most-influential-person-in-agile-for-you-personally-
-- /resources/videos/eykcZoUdVO8
-- /resources/most-influential-person-in-agile-for-you-personally-
 - /resources/eykcZoUdVO8
+- /resources/videos/part-2-most-influential-people-in-agile
+aliasesArchive:
+- /resources/videos/part-most-influential-people-in-agile
+- /resources/videos/part-2-most-influential-people-in-agile
 aliasesFor404:
 - /resources/part-2-most-influential-people-in-agile-3
 - /resources/most-influential-person-in-agile-for-you-personally

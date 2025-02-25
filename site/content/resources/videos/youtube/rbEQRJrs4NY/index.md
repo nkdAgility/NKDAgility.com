@@ -2,23 +2,18 @@
 title: 'The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Team Success'
 description: Unlock the true potential of your Scrum Master! Discover how deep knowledge and competence can transform teams and drive impactful product delivery.
 date: 2025-02-07T07:52:12Z
-ResourceId: r9aCEFpUHWU
+ResourceId: rbEQRJrs4NY
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: r9aCEFpUHWU
+videoId: rbEQRJrs4NY
 url: /resources/videos/:slug
-slug: how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
+slug: the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
 layout: video
 aliases:
-- /resources/videos/r9aCEFpUHWU
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/r9aCEFpUHWU
 - /resources/rbEQRJrs4NY
-- /resources/videos/rbEQRJrs4NY
-- /resources/videos/from-assumption-to-real-value-user-test
-- /resources/from-assumption-to-real-value-user-test
+aliasesArchive:
+- /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
 aliasesFor404:
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations

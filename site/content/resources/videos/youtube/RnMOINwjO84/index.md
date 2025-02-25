@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RnMOINwjO84
 url: /resources/videos/:slug
-slug: making-data-driven-decisions-decision-making-frameworks
+slug: navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 layout: video
 aliases:
-- /resources/videos/RnMOINwjO84
-- /resources/videos/making-data-driven-decisions-decision-making-frameworks
-- /resources/making-data-driven-decisions-decision-making-frameworks
 - /resources/RnMOINwjO84
+aliasesArchive:
+- /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 aliasesFor404:
 - /resources/videos/making-data-driven-decisions-decision-making-frameworks
 - /resources/making-data-driven-decisions-decision-making-frameworks

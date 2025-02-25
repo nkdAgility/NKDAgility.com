@@ -9,13 +9,13 @@ ResourceImportSource: Youtube
 videoId: FFrTLuRhyVo
 source: youtube
 url: /resources/videos/:slug
-slug: missed-opportunities,-the-hidden-cost-of-technical-debt
+slug: transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
 layout: video
 aliases:
-- /resources/videos/FFrTLuRhyVo
-- /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
-- /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
 - /resources/FFrTLuRhyVo
+- /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
+aliasesArchive:
+- /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
 aliasesFor404:
 - /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
 - /resources/missed-opportunities,-the-hidden-cost-of-technical-debt

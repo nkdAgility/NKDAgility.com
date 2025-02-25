@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: gWTCvlUzSZo
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-3
+slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
 layout: video
 aliases:
-- /resources/videos/gWTCvlUzSZo
-- /resources/videos/5-tools-that-scrum-masters-love-part-3
-- /resources/5-tools-that-scrum-masters-love-part-3
 - /resources/gWTCvlUzSZo
+- /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
+aliasesArchive:
+- /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
 aliasesFor404:
 - /resources/videos/5-tools-that-scrum-masters-love-part-3
 - /resources/5-tools-that-scrum-masters-love-part-3

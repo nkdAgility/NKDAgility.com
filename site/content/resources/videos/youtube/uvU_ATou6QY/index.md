@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug
-slug: what-does-failure-look-like-as-a-product-owner-
+slug: signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 layout: video
 aliases:
-- /resources/videos/uvU_ATou6QY
-- /resources/videos/what-does-failure-look-like-as-a-product-owner-
-- /resources/what-does-failure-look-like-as-a-product-owner-
 - /resources/uvU_ATou6QY
+aliasesArchive:
+- /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliasesFor404:
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-
 - /resources/what-does-failure-look-like-as-a-product-owner-

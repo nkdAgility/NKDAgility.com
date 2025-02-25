@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: spfK8bCulwU
 url: /resources/videos/:slug
-slug: why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
+slug: why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=spfK8bCulwU
 aliases:
-- /resources/videos/spfK8bCulwU
-- /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
-- /resources/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 - /resources/spfK8bCulwU
+aliasesArchive:
+- /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs
 aliasesFor404:
 - /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 - /resources/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-

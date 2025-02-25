@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XZ1Swam_Cx0
 url: /resources/videos/:slug
-slug: antichrist!-7-harbingers-agile-apocalypse-but-shorter!
+slug: the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
 layout: video
 aliases:
-- /resources/videos/XZ1Swam_Cx0
-- /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/XZ1Swam_Cx0
+- /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
+aliasesArchive:
+- /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
 aliasesFor404:
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!

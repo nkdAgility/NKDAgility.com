@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9TbjaO1_Nz8
 url: /resources/videos/:slug
-slug: would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
+slug: unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
 layout: video
 aliases:
-- /resources/videos/9TbjaO1_Nz8
-- /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
-- /resources/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 - /resources/9TbjaO1_Nz8
+aliasesArchive:
+- /resources/videos/unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
 aliasesFor404:
 - /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 - /resources/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-

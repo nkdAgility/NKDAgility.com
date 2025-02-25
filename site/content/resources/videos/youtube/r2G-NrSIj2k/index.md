@@ -12,10 +12,9 @@ url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
 layout: video
 aliases:
-- /resources/videos/r2G-NrSIj2k
-- /resources/videos/code-reviews-for-quality-assurance
-- /resources/code-reviews-for-quality-assurance
 - /resources/r2G-NrSIj2k
+aliasesArchive:
+- /resources/videos/code-reviews-for-quality-assurance
 aliasesFor404:
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/code-reviews-for-quality-assurance

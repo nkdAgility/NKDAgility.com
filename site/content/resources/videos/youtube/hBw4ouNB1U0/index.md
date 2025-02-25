@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hBw4ouNB1U0
 url: /resources/videos/:slug
-slug: the-kanban-key-how-continuous-improvement-transforms-your-workflow
+slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
 layout: video
 aliases:
-- /resources/videos/hBw4ouNB1U0
-- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-- /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/hBw4ouNB1U0
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
+aliasesArchive:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 aliasesFor404:
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow

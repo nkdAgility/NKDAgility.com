@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/:slug
-slug: the-scrum-framework!
+slug: the-scrum-framework
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Q2Fo3sM6BVo
 aliases:
-- /resources/videos/Q2Fo3sM6BVo
-- /resources/videos/the-scrum-framework!
-- /resources/the-scrum-framework!
 - /resources/Q2Fo3sM6BVo
+aliasesArchive:
+- /resources/videos/the-scrum-framework
 aliasesFor404:
 - /resources/videos/the-scrum-framework!
 - /resources/the-scrum-framework!

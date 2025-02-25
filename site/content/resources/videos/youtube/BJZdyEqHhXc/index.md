@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BJZdyEqHhXc
 url: /resources/videos/:slug
-slug: nkd-agility-consulting-approach
+slug: empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 layout: video
 aliases:
-- /resources/videos/BJZdyEqHhXc
-- /resources/videos/nkd-agility-consulting-approach
-- /resources/nkd-agility-consulting-approach
 - /resources/BJZdyEqHhXc
+aliasesArchive:
+- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 aliasesFor404:
 - /resources/videos/nkd-agility-consulting-approach
 - /resources/nkd-agility-consulting-approach

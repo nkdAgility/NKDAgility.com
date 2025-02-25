@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
 isShort: false
 aliases:
-- /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
-- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
-- /resources/videos/nTxn_izPBFQ
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/nTxn_izPBFQ
+aliasesArchive:
+- /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 aliasesFor404:
 - /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction

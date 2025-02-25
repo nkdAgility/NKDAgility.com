@@ -14,12 +14,9 @@ preview: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg
 duration: 222
 isShort: false
 aliases:
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
-- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
-- /resources/videos/6D6QTjSrJ14
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/6D6QTjSrJ14
+aliasesArchive:
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 aliasesFor404:
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences

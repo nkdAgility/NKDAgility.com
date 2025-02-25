@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: quFj6dy5M7E
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-high-performance-delivery-engine
+slug: building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 layout: video
 aliases:
-- /resources/videos/quFj6dy5M7E
-- /resources/videos/building-a-high-performance-delivery-engine
-- /resources/building-a-high-performance-delivery-engine
 - /resources/quFj6dy5M7E
+aliasesArchive:
+- /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 aliasesFor404:
 - /resources/videos/building-a-high-performance-delivery-engine
 - /resources/building-a-high-performance-delivery-engine

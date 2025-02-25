@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Af-wBYtyyRU/maxresdefault.jpg
 duration: 178
 isShort: false
 aliases:
-- /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
-- /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
-- /resources/videos/Af-wBYtyyRU
-- /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 - /resources/Af-wBYtyyRU
+aliasesArchive:
+- /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 aliasesFor404:
 - /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 - /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-

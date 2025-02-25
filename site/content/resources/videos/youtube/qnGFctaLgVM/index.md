@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: qnGFctaLgVM
 source: internal
 url: /resources/videos/:slug
-slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
 layout: video
 preview: https://i.ytimg.com/vi/qnGFctaLgVM/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
-- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/videos/qnGFctaLgVM
 - /resources/qnGFctaLgVM
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+aliasesArchive:
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 aliasesFor404:
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility

@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
 duration: 313
 isShort: false
 aliases:
-- /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
-- /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
-- /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
-- /resources/videos/B12n_52H48U
-- /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 - /resources/B12n_52H48U
+aliasesArchive:
+- /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 aliasesFor404:
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course

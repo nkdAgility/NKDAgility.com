@@ -9,17 +9,15 @@ ResourceImportSource: Youtube
 videoId: ZisAuhrOhcY
 source: internal
 url: /resources/videos/:slug
-slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
 layout: video
 preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
 duration: 321
 isShort: false
 aliases:
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-- /resources/videos/ZisAuhrOhcY
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 - /resources/ZisAuhrOhcY
+aliasesArchive:
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
 aliasesFor404:
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-

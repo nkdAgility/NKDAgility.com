@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OMlLiLkCmMY
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-chastity
+slug: engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
 layout: video
 aliases:
-- /resources/videos/OMlLiLkCmMY
-- /resources/videos/-shorts-7-virtues-of-agile-chastity
-- /resources/-shorts-7-virtues-of-agile-chastity
 - /resources/OMlLiLkCmMY
+- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
+aliasesArchive:
+- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity

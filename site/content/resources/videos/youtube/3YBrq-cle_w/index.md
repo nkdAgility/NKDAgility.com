@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3YBrq-cle_w
 url: /resources/videos/:slug
-slug: how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+slug: redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
 aliases:
-- /resources/videos/3YBrq-cle_w
-- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
-- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 - /resources/3YBrq-cle_w
+aliasesArchive:
+- /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
 aliasesFor404:
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-

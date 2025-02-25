@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
-slug: scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+slug: scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gRnYXuxo9_w
 aliases:
-- /resources/videos/gRnYXuxo9_w
-- /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
-- /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - /resources/gRnYXuxo9_w
+aliasesArchive:
+- /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 aliasesFor404:
 - /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-

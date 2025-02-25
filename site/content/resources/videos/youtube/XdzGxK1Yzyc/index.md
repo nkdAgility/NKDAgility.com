@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg
 duration: 319
 isShort: false
 aliases:
-- /resources/what-is-a-product-owner-why-are-they-essential
-- /resources/videos/why-have-a-product-owner-
-- /resources/videos/XdzGxK1Yzyc
-- /resources/why-have-a-product-owner-
 - /resources/XdzGxK1Yzyc
+aliasesArchive:
+- /resources/videos/what-is-a-product-owner-why-are-they-essential
 aliasesFor404:
 - /resources/what-is-a-product-owner-why-are-they-essential
 - /resources/videos/why-have-a-product-owner-

@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2k1726k9zvg
 url: /resources/videos/:slug
-slug: what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
+slug: the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
 aliases:
-- /resources/videos/2k1726k9zvg
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
-- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 - /resources/2k1726k9zvg
+aliasesArchive:
+- /resources/videos/the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
 aliasesFor404:
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-

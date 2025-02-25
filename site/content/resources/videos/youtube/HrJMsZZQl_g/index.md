@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/HrJMsZZQl_g/maxresdefault.jpg
 duration: 234
 isShort: false
 aliases:
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
-- /resources/videos/HrJMsZZQl_g
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
 - /resources/HrJMsZZQl_g
+aliasesArchive:
+- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
 aliasesFor404:
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team

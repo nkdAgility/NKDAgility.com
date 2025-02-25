@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
 duration: 373
 isShort: false
 aliases:
-- /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
-- /resources/videos/why-do-you-recommend-the-pal-ebm-course-
-- /resources/videos/m2Z4UV4OQlI
-- /resources/why-do-you-recommend-the-pal-ebm-course-
 - /resources/m2Z4UV4OQlI
+aliasesArchive:
+- /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 aliasesFor404:
 - /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 - /resources/videos/why-do-you-recommend-the-pal-ebm-course-

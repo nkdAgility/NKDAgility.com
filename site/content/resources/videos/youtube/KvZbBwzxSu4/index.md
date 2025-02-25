@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 isShort: false
 aliases:
-- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/videos/KvZbBwzxSu4
-- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/KvZbBwzxSu4
+aliasesArchive:
+- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 aliasesFor404:
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals

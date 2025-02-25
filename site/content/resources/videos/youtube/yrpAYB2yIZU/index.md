@@ -8,14 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: yrpAYB2yIZU
 url: /resources/videos/:slug
-slug: install-&-configure-301-move-your-active-directory-domain-to-another-server
+slug: install-configure-301-move-your-active-directory-domain-to-another-server
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=yrpAYB2yIZU
 aliases:
-- /resources/videos/yrpAYB2yIZU
-- /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
-- /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/yrpAYB2yIZU
+aliasesArchive:
+- /resources/videos/install-configure-move-your-active-directory-domain-to-another-server
+- /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
 aliasesFor404:
 - /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server

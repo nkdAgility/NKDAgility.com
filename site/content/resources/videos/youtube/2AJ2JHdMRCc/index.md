@@ -9,15 +9,15 @@ ResourceImportSource: Youtube
 videoId: 2AJ2JHdMRCc
 source: internal
 url: /resources/videos/:slug
-slug: why-is-devops-such-a-critical-element-of-software-engineering
+slug: why-is-devops-such-a-critical-element-of-software-engineering-2AJ2JHdMRCc
 preview: https://i.ytimg.com/vi/2AJ2JHdMRCc/maxresdefault.jpg
 duration: 35
 isShort: true
 aliases:
-- /resources/why-is-devops-such-a-critical-element-of-software-engineering
-- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
-- /resources/videos/2AJ2JHdMRCc
 - /resources/2AJ2JHdMRCc
+- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
+aliasesArchive:
+- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
 aliasesFor404:
 - /resources/why-is-devops-such-a-critical-element-of-software-engineering
 - /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering

@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: h3J11t10A0g
 source: youtube
 url: /resources/videos/:slug
-slug: escaping-the-deadline-death-spiral
+slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 layout: video
 aliases:
-- /resources/videos/h3J11t10A0g
-- /resources/videos/escaping-the-deadline-death-spiral
-- /resources/escaping-the-deadline-death-spiral
 - /resources/h3J11t10A0g
+aliasesArchive:
+- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 aliasesFor404:
 - /resources/videos/escaping-the-deadline-death-spiral
 - /resources/escaping-the-deadline-death-spiral

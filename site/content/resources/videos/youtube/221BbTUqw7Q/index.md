@@ -14,13 +14,10 @@ preview: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg
 duration: 241
 isShort: false
 aliases:
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course-2
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
-- /resources/videos/221BbTUqw7Q
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 - /resources/221BbTUqw7Q
+aliasesArchive:
+- /resources/videos/what-are-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 aliasesFor404:
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course-2
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course

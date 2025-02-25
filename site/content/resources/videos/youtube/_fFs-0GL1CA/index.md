@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _fFs-0GL1CA
 url: /resources/videos/:slug
-slug: why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
+slug: why-pursuing-agile-certifications-is-your-key-to-career-advancement
 aliases:
-- /resources/videos/_fFs-0GL1CA
-- /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
-- /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/_fFs-0GL1CA
+aliasesArchive:
+- /resources/videos/why-pursuing-agile-certifications-is-your-key-to-career-advancement
 aliasesFor404:
 - /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-

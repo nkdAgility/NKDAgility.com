@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-diligence
+slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
 aliases:
-- /resources/videos/2QojN_k3JZ4
-- /resources/videos/-shorts-7-virtues-of-agile-diligence
-- /resources/-shorts-7-virtues-of-agile-diligence
 - /resources/2QojN_k3JZ4
+- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
+aliasesArchive:
+- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-diligence
 - /resources/-shorts-7-virtues-of-agile-diligence

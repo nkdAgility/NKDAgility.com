@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
 duration: 267
 isShort: false
 aliases:
-- /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
-- /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
-- /resources/videos/SLZmpwEWxD4
-- /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 - /resources/SLZmpwEWxD4
+aliasesArchive:
+- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
 aliasesFor404:
 - /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
 - /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!

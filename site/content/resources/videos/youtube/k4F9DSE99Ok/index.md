@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
-slug: famine!-7-harbingers-agile-apocalypse-but-shorter!
+slug: combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
 layout: video
 aliases:
-- /resources/videos/k4F9DSE99Ok
-- /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/k4F9DSE99Ok
+- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
+aliasesArchive:
+- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
 aliasesFor404:
 - /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!

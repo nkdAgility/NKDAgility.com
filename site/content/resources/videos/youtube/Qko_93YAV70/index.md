@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Qko_93YAV70
 url: /resources/videos/:slug
-slug: kanban-vs-scrum
+slug: unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
 layout: video
 aliases:
-- /resources/videos/Qko_93YAV70
-- /resources/videos/kanban-vs-scrum
-- /resources/kanban-vs-scrum
 - /resources/Qko_93YAV70
+- /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
 aliasesFor404:
 - /resources/videos/kanban-vs-scrum
 - /resources/kanban-vs-scrum

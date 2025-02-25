@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: S4zWfPiLAmc
 source: internal
 url: /resources/videos/:slug
-slug: 3-best-ways-to-wreck-kanban-use-vanity-metrics
+slug: 3-best-ways-to-wreck-kanban-use-vanity-metrics-
 layout: video
 preview: https://i.ytimg.com/vi/S4zWfPiLAmc/maxresdefault.jpg
 duration: 226
 isShort: false
 aliases:
-- /resources/3-best-ways-to-wreck-kanban-use-vanity-metrics
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
-- /resources/videos/S4zWfPiLAmc
-- /resources/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
 - /resources/S4zWfPiLAmc
+aliasesArchive:
+- /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
+- /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
 aliasesFor404:
 - /resources/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-

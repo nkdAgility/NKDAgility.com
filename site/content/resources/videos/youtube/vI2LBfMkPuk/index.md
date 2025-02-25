@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vI2LBfMkPuk
 url: /resources/videos/:slug
-slug: what-is-your-favourite-agile-course-to-deliver-and-why-
+slug: what-is-your-favourite-agile-course-to-deliver-and-why
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=vI2LBfMkPuk
 aliases:
-- /resources/videos/vI2LBfMkPuk
-- /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
-- /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/vI2LBfMkPuk
+aliasesArchive:
+- /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
 aliasesFor404:
 - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/what-is-your-favourite-agile-course-to-deliver-and-why-

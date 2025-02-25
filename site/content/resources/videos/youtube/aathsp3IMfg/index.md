@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
 duration: 194
 isShort: false
 aliases:
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/what-does-your-dream-agile-consulting-week-look-like
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/videos/aathsp3IMfg
-- /resources/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/aathsp3IMfg
+aliasesArchive:
+- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
 aliasesFor404:
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/what-does-your-dream-agile-consulting-week-look-like

@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LI6G1awAUyU
 url: /resources/videos/:slug
-slug: what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
+slug: what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=LI6G1awAUyU
 aliases:
-- /resources/videos/LI6G1awAUyU
-- /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
-- /resources/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 - /resources/LI6G1awAUyU
+aliasesArchive:
+- /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
 aliasesFor404:
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 - /resources/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-

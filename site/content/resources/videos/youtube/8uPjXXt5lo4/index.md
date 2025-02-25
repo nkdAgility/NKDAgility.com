@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg
 duration: 166
 isShort: false
 aliases:
-- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
-- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
-- /resources/videos/8uPjXXt5lo4
-- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 - /resources/8uPjXXt5lo4
+aliasesArchive:
+- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
 aliasesFor404:
 - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
 - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-

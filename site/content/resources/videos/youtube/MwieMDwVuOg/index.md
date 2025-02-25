@@ -2,23 +2,18 @@
 title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
 description: Unlock the secret to client satisfaction! Discover why focusing on real needs, not just the SoW, is key to delivering lasting value in consulting.
 date: 2025-02-19T07:25:02Z
-ResourceId: MutnPwNzyXM
+ResourceId: MwieMDwVuOg
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: MutnPwNzyXM
+videoId: MwieMDwVuOg
 url: /resources/videos/:slug
-slug: most-valuable-lesson-you-learned-as-an-agile-consultant
+slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 layout: video
 aliases:
-- /resources/videos/MutnPwNzyXM
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/MutnPwNzyXM
 - /resources/MwieMDwVuOg
-- /resources/videos/MwieMDwVuOg
-- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
-- /resources/the-key-to-scaling-successfully-agile-as-an-enabler
+aliasesArchive:
+- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 aliasesFor404:
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant

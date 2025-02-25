@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/MDpthtdJgNk/maxresdefault.jpg
 duration: 581
 isShort: false
 aliases:
-- /resources/why-is-kanban-becoming-increasingly-popular-in-creative-industries
-- /resources/videos/why-is-kanban-becoming-popular-with-creative-industries-
-- /resources/videos/MDpthtdJgNk
-- /resources/why-is-kanban-becoming-popular-with-creative-industries-
 - /resources/MDpthtdJgNk
+aliasesArchive:
+- /resources/videos/why-is-kanban-becoming-increasingly-popular-in-creative-industries
 aliasesFor404:
 - /resources/why-is-kanban-becoming-increasingly-popular-in-creative-industries
 - /resources/videos/why-is-kanban-becoming-popular-with-creative-industries-

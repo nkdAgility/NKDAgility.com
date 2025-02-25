@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: El__Y7CTcrY
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
 layout: video
 preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
-- /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
-- /resources/videos/El__Y7CTcrY
-- /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 - /resources/El__Y7CTcrY
+- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+aliasesArchive:
+- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
 aliasesFor404:
 - /resources/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
 - /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1

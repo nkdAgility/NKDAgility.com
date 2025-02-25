@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
 duration: 346
 isShort: false
 aliases:
-- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/videos/kVt5KP9dg8Q
-- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 - /resources/kVt5KP9dg8Q
+aliasesArchive:
+- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
 aliasesFor404:
 - /resources/detecting-agile-bs-lessons-from-the-department-of-defense
 - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]

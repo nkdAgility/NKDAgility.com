@@ -12,10 +12,9 @@ slug: the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Sa7uw3CX_yE
 aliases:
-- /resources/videos/Sa7uw3CX_yE
-- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
-- /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 - /resources/Sa7uw3CX_yE
+aliasesArchive:
+- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 aliasesFor404:
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
@@ -32,4 +31,5 @@ resourceTypes:
 categories: []
 
 ---
+  
  [Watch on Youtube](https://www.youtube.com/watch?v=Sa7uw3CX_yE)

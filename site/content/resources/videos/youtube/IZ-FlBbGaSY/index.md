@@ -12,10 +12,9 @@ url: /resources/videos/:slug
 slug: building-a-culture-of-quality
 layout: video
 aliases:
-- /resources/videos/IZ-FlBbGaSY
-- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-- /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/IZ-FlBbGaSY
+aliasesArchive:
+- /resources/videos/building-a-culture-of-quality
 aliasesFor404:
 - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality

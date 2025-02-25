@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: GJSBFyoHk8E
 source: internal
 url: /resources/videos/:slug
-slug: how-does-a-scrum-team-create-a-sprint-goal
+slug: how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 layout: video
 preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
-- /resources/videos/GJSBFyoHk8E
-- /resources/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/GJSBFyoHk8E
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 aliasesFor404:
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-

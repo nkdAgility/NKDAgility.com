@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: cbLd-wstv3o
 source: internal
 url: /resources/videos/:slug
-slug: how-to-discover-unrealized-value-in-your-product
+slug: how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
 layout: video
 preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/how-to-discover-unrealized-value-in-your-product
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
-- /resources/videos/cbLd-wstv3o
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 - /resources/cbLd-wstv3o
+- /resources/videos/how-to-discover-unrealized-value-in-your-product
+aliasesArchive:
+- /resources/videos/how-to-discover-unrealized-value-in-your-product
 aliasesFor404:
 - /resources/how-to-discover-unrealized-value-in-your-product
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3

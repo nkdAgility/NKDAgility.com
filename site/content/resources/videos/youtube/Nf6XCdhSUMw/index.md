@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug
-slug: introduction-to-evidence-based-management
+slug: harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 layout: video
 aliases:
-- /resources/videos/Nf6XCdhSUMw
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/introduction-to-evidence-based-management
 - /resources/Nf6XCdhSUMw
+aliasesArchive:
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 aliasesFor404:
 - /resources/videos/introduction-to-evidence-based-management
 - /resources/introduction-to-evidence-based-management

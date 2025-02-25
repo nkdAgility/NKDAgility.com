@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
 duration: 494
 isShort: false
 aliases:
-- /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
-- /resources/videos/debunking-the-myth-agile-is-not-about-speed
-- /resources/videos/b3HFBlCcomk
-- /resources/debunking-the-myth-agile-is-not-about-speed
 - /resources/b3HFBlCcomk
+aliasesArchive:
+- /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 aliasesFor404:
 - /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 - /resources/videos/debunking-the-myth-agile-is-not-about-speed

@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg
 duration: 158
 isShort: false
 aliases:
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
-- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
-- /resources/videos/uYm_wb1sHJE
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 - /resources/uYm_wb1sHJE
+aliasesArchive:
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 aliasesFor404:
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations

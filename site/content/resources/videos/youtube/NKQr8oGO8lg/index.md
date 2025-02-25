@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: NKQr8oGO8lg
 url: /resources/videos/:slug
-slug: how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
+slug: unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 layout: video
 aliases:
-- /resources/videos/NKQr8oGO8lg
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
-- /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 - /resources/NKQr8oGO8lg
+aliasesArchive:
+- /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 aliasesFor404:
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-

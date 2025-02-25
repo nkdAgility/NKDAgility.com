@@ -12,10 +12,10 @@ slug: some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-20
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=KRC89A7RtrM
 aliases:
-- /resources/videos/KRC89A7RtrM
-- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
-- /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 - /resources/KRC89A7RtrM
+aliasesArchive:
+- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-
+- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 aliasesFor404:
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 - /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013

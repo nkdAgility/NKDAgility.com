@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/EMJyUOy2gP4/maxresdefault.jpg
 duration: 491
 isShort: false
 aliases:
-- /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
-- /resources/videos/EMJyUOy2gP4
-- /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 - /resources/EMJyUOy2gP4
+aliasesArchive:
+- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 aliasesFor404:
 - /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 - /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters

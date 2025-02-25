@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wjYFdWaWfOA
 url: /resources/videos/:slug
-slug: what-is-a-scrum-master-why-are-they-essential-
+slug: what-is-a-scrum-master-why-are-they-essential
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=wjYFdWaWfOA
 aliases:
-- /resources/videos/wjYFdWaWfOA
-- /resources/videos/what-is-a-scrum-master-why-are-they-essential-
-- /resources/what-is-a-scrum-master-why-are-they-essential-
 - /resources/wjYFdWaWfOA
+aliasesArchive:
+- /resources/videos/what-is-a-scrum-master-why-are-they-essential
 aliasesFor404:
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential-
 - /resources/what-is-a-scrum-master-why-are-they-essential-

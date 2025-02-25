@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: 9z9BgSi2zeA
 source: internal
 url: /resources/videos/:slug
-slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
+slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement-9z9BgSi2zeA
 layout: video
 preview: https://i.ytimg.com/vi/9z9BgSi2zeA/maxresdefault.jpg
 duration: 47
 isShort: true
 aliases:
-- /resources/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-2
-- /resources/videos/9z9BgSi2zeA
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-2
 - /resources/9z9BgSi2zeA
+- /resources/videos/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
+aliasesArchive:
+- /resources/videos/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
 aliasesFor404:
 - /resources/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-2

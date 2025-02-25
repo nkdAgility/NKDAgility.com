@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
 duration: 328
 isShort: false
 aliases:
-- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
-- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
-- /resources/videos/vubnDXYXiL0
-- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 - /resources/vubnDXYXiL0
+aliasesArchive:
+- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 aliasesFor404:
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 - /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-

@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tPX-wc6pG7M
 url: /resources/videos/:slug
-slug: 5-october-2023-agile-leader-webinar
+slug: unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
 layout: video
 aliases:
-- /resources/videos/tPX-wc6pG7M
-- /resources/videos/5-october-2023-agile-leader-webinar
-- /resources/5-october-2023-agile-leader-webinar
 - /resources/tPX-wc6pG7M
+aliasesArchive:
+- /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
 aliasesFor404:
 - /resources/videos/5-october-2023-agile-leader-webinar
 - /resources/5-october-2023-agile-leader-webinar

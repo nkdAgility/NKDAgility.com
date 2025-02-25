@@ -15,11 +15,10 @@ preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
 duration: 177
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-lust
-- /resources/videos/lust!-7-deadly-sins-of-agile
-- /resources/videos/RBZFAxEUQC4
-- /resources/lust!-7-deadly-sins-of-agile
 - /resources/RBZFAxEUQC4
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-lust
+- /resources/videos/7-deadly-sins-of-agile-lust
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-lust
 - /resources/videos/lust!-7-deadly-sins-of-agile

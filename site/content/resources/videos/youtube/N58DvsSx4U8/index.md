@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
 duration: 497
 isShort: false
 aliases:
-- /resources/what-is-your-favourite-devops-consulting-outcome
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome-
-- /resources/videos/N58DvsSx4U8
-- /resources/what-is-your-favourite-devops-consulting-outcome-
 - /resources/N58DvsSx4U8
+aliasesArchive:
+- /resources/videos/what-is-your-favourite-devops-consulting-outcome
 aliasesFor404:
 - /resources/what-is-your-favourite-devops-consulting-outcome
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome-

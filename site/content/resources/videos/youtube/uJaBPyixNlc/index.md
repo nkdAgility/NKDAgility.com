@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/uJaBPyixNlc/maxresdefault.jpg
 duration: 270
 isShort: false
 aliases:
-- /resources/how-does-naked-agility-select-associate-scrum-trainers
-- /resources/how-does-naked-agility-select-scrum-trainers
-- /resources/videos/how-does-naked-agility-select-scrum-trainers-
-- /resources/videos/uJaBPyixNlc
-- /resources/how-does-naked-agility-select-scrum-trainers-
 - /resources/uJaBPyixNlc
+aliasesArchive:
+- /resources/videos/how-does-naked-agility-select-associate-scrum-trainers
 aliasesFor404:
 - /resources/how-does-naked-agility-select-associate-scrum-trainers
 - /resources/how-does-naked-agility-select-scrum-trainers

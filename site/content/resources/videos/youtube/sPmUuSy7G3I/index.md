@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sPmUuSy7G3I
 url: /resources/videos/:slug
-slug: how-does-a-scrum-team-plan-and-prioritize-work-effectively-
+slug: how-does-a-scrum-team-plan-and-prioritize-work-effectively
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sPmUuSy7G3I
 aliases:
-- /resources/videos/sPmUuSy7G3I
-- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
-- /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 - /resources/sPmUuSy7G3I
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
 aliasesFor404:
 - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 - /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-

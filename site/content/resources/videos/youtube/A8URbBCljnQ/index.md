@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: A8URbBCljnQ
 url: /resources/videos/:slug
-slug: 27th-march-2020-office-hours-ask-me-anything
+slug: mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 layout: video
 aliases:
-- /resources/videos/A8URbBCljnQ
-- /resources/videos/27th-march-2020-office-hours-ask-me-anything
-- /resources/27th-march-2020-office-hours-ask-me-anything
 - /resources/A8URbBCljnQ
+aliasesArchive:
+- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 aliasesFor404:
 - /resources/videos/27th-march-2020-office-hours-ask-me-anything
 - /resources/27th-march-2020-office-hours-ask-me-anything

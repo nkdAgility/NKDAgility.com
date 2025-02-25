@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: N0Ci9PQQRLc
 url: /resources/videos/:slug
-slug: how-does-your-real-world-experience-translate-into-your-training-style-
+slug: how-does-your-real-world-experience-translate-into-your-training-style
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=N0Ci9PQQRLc
 aliases:
-- /resources/videos/N0Ci9PQQRLc
-- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
-- /resources/how-does-your-real-world-experience-translate-into-your-training-style-
 - /resources/N0Ci9PQQRLc
+aliasesArchive:
+- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
 aliasesFor404:
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
 - /resources/how-does-your-real-world-experience-translate-into-your-training-style-

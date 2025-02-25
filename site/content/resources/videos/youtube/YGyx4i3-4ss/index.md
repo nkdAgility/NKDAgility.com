@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YGyx4i3-4ss
 url: /resources/videos/:slug
-slug: ppdv-course-overview
+slug: unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
 layout: video
 aliases:
-- /resources/videos/YGyx4i3-4ss
-- /resources/videos/ppdv-course-overview
-- /resources/ppdv-course-overview
 - /resources/YGyx4i3-4ss
+- /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
+aliasesArchive:
+- /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
 aliasesFor404:
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview

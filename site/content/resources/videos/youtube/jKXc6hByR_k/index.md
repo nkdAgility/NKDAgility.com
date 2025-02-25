@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: jKXc6hByR_k
 source: youtube
 url: /resources/videos/:slug
-slug: your-partner-in-on-time,-on-budget-delivery
+slug: maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
 layout: video
 aliases:
-- /resources/videos/jKXc6hByR_k
-- /resources/videos/your-partner-in-on-time,-on-budget-delivery
-- /resources/your-partner-in-on-time,-on-budget-delivery
 - /resources/jKXc6hByR_k
+aliasesArchive:
+- /resources/videos/maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
 aliasesFor404:
 - /resources/videos/your-partner-in-on-time,-on-budget-delivery
 - /resources/your-partner-in-on-time,-on-budget-delivery

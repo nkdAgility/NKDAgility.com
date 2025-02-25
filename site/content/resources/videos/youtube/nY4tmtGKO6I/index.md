@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: nY4tmtGKO6I
 url: /resources/videos/:slug
-slug: why-is-training-such-a-critical-element-in-a-scrummaster-journey-
+slug: mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey-nY4tmtGKO6I
 layout: video
 aliases:
-- /resources/videos/nY4tmtGKO6I
-- /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
-- /resources/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
 - /resources/nY4tmtGKO6I
+- /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
+aliasesArchive:
+- /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
 aliasesFor404:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
 - /resources/why-is-training-such-a-critical-element-in-a-scrummaster-journey-

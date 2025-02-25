@@ -8,14 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fayDa6ihe0g
 url: /resources/videos/:slug
-slug: live-virtual-professional-scrum-product-owner-in-5-minutes!
+slug: live-virtual-professional-scrum-product-owner-in-5-minutes
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=fayDa6ihe0g
 aliases:
-- /resources/videos/fayDa6ihe0g
-- /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
-- /resources/live-virtual-professional-scrum-product-owner-in-5-minutes!
 - /resources/fayDa6ihe0g
+aliasesArchive:
+- /resources/videos/live-virtual-professional-scrum-product-owner-in-minutes
+- /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes
 aliasesFor404:
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
 - /resources/live-virtual-professional-scrum-product-owner-in-5-minutes!

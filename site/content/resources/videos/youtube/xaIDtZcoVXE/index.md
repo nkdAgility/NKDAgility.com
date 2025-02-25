@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: xaIDtZcoVXE
 source: internal
 url: /resources/videos/:slug
-slug: how-do-you-know-how-long-it-takes-to-deliver-value
+slug: how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
 layout: video
 preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
 duration: 33
 isShort: true
 aliases:
-- /resources/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-- /resources/videos/xaIDtZcoVXE
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 - /resources/xaIDtZcoVXE
+- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
+aliasesArchive:
+- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
 aliasesFor404:
 - /resources/how-do-you-know-how-long-it-takes-to-deliver-value
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5

@@ -9,18 +9,15 @@ ResourceImportSource: Youtube
 videoId: aS9TRDoC62o
 source: internal
 url: /resources/videos/:slug
-slug: if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+slug: if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 layout: video
 preview: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg
 duration: 198
 isShort: false
 aliases:
-- /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-- /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
-- /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
-- /resources/videos/aS9TRDoC62o
-- /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 - /resources/aS9TRDoC62o
+aliasesArchive:
+- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 aliasesFor404:
 - /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 - /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should

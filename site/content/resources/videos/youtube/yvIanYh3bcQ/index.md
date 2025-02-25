@@ -2,11 +2,11 @@
 title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
 date: 2025-02-09T22:00:37Z
-ResourceId: YUlpnyN2IeI
+ResourceId: yvIanYh3bcQ
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: YUlpnyN2IeI
+videoId: yvIanYh3bcQ
 source: internal
 url: /resources/videos/:slug
 slug: best-scrum-advice-you-ever-received
@@ -15,16 +15,9 @@ preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 isShort: false
 aliases:
-- /resources/best-scrum-advice-you-ever-received-2
-- /resources/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/videos/YUlpnyN2IeI
-- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/YUlpnyN2IeI
 - /resources/yvIanYh3bcQ
-- /resources/videos/yvIanYh3bcQ
-- /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
-- /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
+aliasesArchive:
+- /resources/videos/best-scrum-advice-you-ever-received
 aliasesFor404:
 - /resources/best-scrum-advice-you-ever-received-2
 - /resources/best-scrum-advice-you-ever-received

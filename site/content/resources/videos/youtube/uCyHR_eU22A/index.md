@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/uCyHR_eU22A/maxresdefault.jpg
 duration: 152
 isShort: false
 aliases:
-- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
-- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
-- /resources/videos/uCyHR_eU22A
-- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 - /resources/uCyHR_eU22A
+aliasesArchive:
+- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 aliasesFor404:
 - /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 - /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-

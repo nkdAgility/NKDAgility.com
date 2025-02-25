@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2Sal3OneFfo
 url: /resources/videos/:slug
-slug: azure-devops-migration-services-part-1
+slug: seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
 aliases:
-- /resources/videos/2Sal3OneFfo
-- /resources/videos/azure-devops-migration-services-part-1
-- /resources/azure-devops-migration-services-part-1
 - /resources/2Sal3OneFfo
+- /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
+aliasesArchive:
+- /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
 aliasesFor404:
 - /resources/videos/azure-devops-migration-services-part-1
 - /resources/azure-devops-migration-services-part-1

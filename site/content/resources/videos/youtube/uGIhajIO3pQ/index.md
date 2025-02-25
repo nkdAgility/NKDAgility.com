@@ -15,11 +15,10 @@ preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
 duration: 121
 isShort: false
 aliases:
-- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
-- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
-- /resources/videos/uGIhajIO3pQ
-- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 - /resources/uGIhajIO3pQ
+aliasesArchive:
+- /resources/videos/agile-scotland-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 aliasesFor404:
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-

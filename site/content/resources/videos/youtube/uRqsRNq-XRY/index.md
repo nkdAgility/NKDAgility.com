@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-judgement
+slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
 layout: video
 aliases:
-- /resources/videos/uRqsRNq-XRY
-- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
-- /resources/7-signs-of-the-agile-apocalypse-judgement
 - /resources/uRqsRNq-XRY
+- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
+aliasesArchive:
+- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 - /resources/7-signs-of-the-agile-apocalypse-judgement

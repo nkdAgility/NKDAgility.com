@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
 isShort: false
 aliases:
-- /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-- /resources/videos/7-virtues-of-agile-charity
-- /resources/videos/BCWiKTm8hjg
-- /resources/7-virtues-of-agile-charity
 - /resources/BCWiKTm8hjg
+aliasesArchive:
+- /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 aliasesFor404:
 - /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 - /resources/videos/7-virtues-of-agile-charity

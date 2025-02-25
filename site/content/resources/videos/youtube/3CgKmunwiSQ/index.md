@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/3CgKmunwiSQ/maxresdefault.jpg
 duration: 395
 isShort: false
 aliases:
-- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
-- /resources/videos/traditional-management-vs-evidence-based-management
-- /resources/videos/3CgKmunwiSQ
-- /resources/traditional-management-vs-evidence-based-management
 - /resources/3CgKmunwiSQ
+aliasesArchive:
+- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
 aliasesFor404:
 - /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management

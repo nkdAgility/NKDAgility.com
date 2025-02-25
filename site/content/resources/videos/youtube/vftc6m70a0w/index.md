@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
-slug: 7-virtues-of-agile-chastity
+slug: embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 layout: video
 aliases:
-- /resources/videos/vftc6m70a0w
-- /resources/videos/7-virtues-of-agile-chastity
-- /resources/7-virtues-of-agile-chastity
 - /resources/vftc6m70a0w
+aliasesArchive:
+- /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 aliasesFor404:
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity

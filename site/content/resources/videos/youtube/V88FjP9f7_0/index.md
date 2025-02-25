@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: V88FjP9f7_0
 source: internal
 url: /resources/videos/:slug
-slug: quotes-less-is-more-true-or-false
+slug: quotes-less-is-more-true-or-false-V88FjP9f7_0
 layout: video
 preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/quotes-less-is-more-true-or-false
-- /resources/videos/quotes-less-is-more-true-or-false-
-- /resources/videos/V88FjP9f7_0
-- /resources/quotes-less-is-more-true-or-false-
 - /resources/V88FjP9f7_0
+- /resources/videos/quotes-less-is-more-true-or-false
+aliasesArchive:
+- /resources/videos/quotes-less-is-more-true-or-false
 aliasesFor404:
 - /resources/quotes-less-is-more-true-or-false
 - /resources/videos/quotes-less-is-more-true-or-false-

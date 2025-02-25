@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Ir8QiX7eAHU/maxresdefault.jpg
 duration: 464
 isShort: false
 aliases:
-- /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
-- /resources/videos/wip-limits!-what-critical-factors-affect-them-
-- /resources/videos/Ir8QiX7eAHU
-- /resources/wip-limits!-what-critical-factors-affect-them-
 - /resources/Ir8QiX7eAHU
+aliasesArchive:
+- /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
 aliasesFor404:
 - /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
 - /resources/videos/wip-limits!-what-critical-factors-affect-them-

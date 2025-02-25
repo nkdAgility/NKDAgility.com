@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Q46T5DYVKqQ
 url: /resources/videos/:slug
-slug: what-is-empiricism
+slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
 layout: video
 aliases:
-- /resources/videos/Q46T5DYVKqQ
-- /resources/videos/what-is-empiricism
-- /resources/what-is-empiricism
 - /resources/Q46T5DYVKqQ
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
+aliasesArchive:
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
 aliasesFor404:
 - /resources/videos/what-is-empiricism
 - /resources/what-is-empiricism

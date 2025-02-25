@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/nhkUm6k4Q0A/maxresdefault.jpg
 duration: 61
 isShort: false
 aliases:
-- /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
-- /resources/videos/nhkUm6k4Q0A
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 - /resources/nhkUm6k4Q0A
+aliasesArchive:
+- /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
 aliasesFor404:
 - /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2

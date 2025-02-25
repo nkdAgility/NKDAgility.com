@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WIVDWzps4aY
 url: /resources/videos/:slug
-slug: favourite-scrum-course-to-teach-and-why-
+slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
 layout: video
 aliases:
-- /resources/videos/WIVDWzps4aY
-- /resources/videos/favourite-scrum-course-to-teach-and-why-
-- /resources/favourite-scrum-course-to-teach-and-why-
 - /resources/WIVDWzps4aY
+- /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
+aliasesArchive:
+- /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
 aliasesFor404:
 - /resources/videos/favourite-scrum-course-to-teach-and-why-
 - /resources/favourite-scrum-course-to-teach-and-why-

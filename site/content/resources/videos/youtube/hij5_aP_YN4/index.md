@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: hij5_aP_YN4
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-community-becoming-an-awesome-agile-coach
+slug: the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
 layout: video
 preview: https://i.ytimg.com/vi/hij5_aP_YN4/maxresdefault.jpg
 duration: 55
 isShort: true
 aliases:
-- /resources/the-power-of-community-becoming-an-awesome-agile-coach
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
-- /resources/videos/hij5_aP_YN4
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 - /resources/hij5_aP_YN4
+- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
+aliasesArchive:
+- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
 aliasesFor404:
 - /resources/the-power-of-community-becoming-an-awesome-agile-coach
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4

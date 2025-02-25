@@ -9,16 +9,16 @@ ResourceImportSource: Youtube
 videoId: agPLmBdXdbk
 source: internal
 url: /resources/videos/:slug
-slug: must-have-trait-in-an-agile-consultant
+slug: must-have-trait-in-an-agile-consultant-agPLmBdXdbk
 layout: video
 preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
 duration: 39
 isShort: true
 aliases:
-- /resources/must-have-trait-in-an-agile-consultant
-- /resources/videos/must-have-trait-in-an-agile-consultant
-- /resources/videos/agPLmBdXdbk
 - /resources/agPLmBdXdbk
+- /resources/videos/must-have-trait-in-an-agile-consultant
+aliasesArchive:
+- /resources/videos/must-have-trait-in-an-agile-consultant
 aliasesFor404:
 - /resources/must-have-trait-in-an-agile-consultant
 - /resources/videos/must-have-trait-in-an-agile-consultant

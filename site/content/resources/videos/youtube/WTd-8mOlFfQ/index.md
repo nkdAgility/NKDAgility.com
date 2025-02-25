@@ -9,19 +9,17 @@ ResourceImportSource: Youtube
 videoId: WTd-8mOlFfQ
 source: internal
 url: /resources/videos/:slug
-slug: part-2-common-mistakes-that-scrum-masters-make
+slug: part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
 layout: video
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/part-2-common-mistakes-that-scrum-masters-make-2
-- /resources/part-2-common-mistakes-that-scrum-masters-make
-- /resources/common-mistakes-that-scrum-masters-make-part-2
-- /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
-- /resources/videos/WTd-8mOlFfQ
-- /resources/common-mistakes-that-scrum-masters-make-part-2-
 - /resources/WTd-8mOlFfQ
+- /resources/videos/part-2-common-mistakes-that-scrum-masters-make
+aliasesArchive:
+- /resources/videos/part-common-mistakes-that-scrum-masters-make
+- /resources/videos/part-2-common-mistakes-that-scrum-masters-make
 aliasesFor404:
 - /resources/part-2-common-mistakes-that-scrum-masters-make-2
 - /resources/part-2-common-mistakes-that-scrum-masters-make

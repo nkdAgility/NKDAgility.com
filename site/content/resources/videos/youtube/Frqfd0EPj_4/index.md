@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg
 duration: 134
 isShort: false
 aliases:
-- /resources/the-future-of-scrum-training-immersive-learning-for-lasting-change
-- /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
-- /resources/videos/Frqfd0EPj_4
-- /resources/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
 - /resources/Frqfd0EPj_4
+aliasesArchive:
+- /resources/videos/the-future-of-scrum-training-immersive-learning-for-lasting-change
 aliasesFor404:
 - /resources/the-future-of-scrum-training-immersive-learning-for-lasting-change
 - /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-

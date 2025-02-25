@@ -12,10 +12,10 @@ slug: ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=xaLNCbr9o3Y
 aliases:
-- /resources/videos/xaLNCbr9o3Y
-- /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
-- /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/xaLNCbr9o3Y
+aliasesArchive:
+- /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
+- /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 aliasesFor404:
 - /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh

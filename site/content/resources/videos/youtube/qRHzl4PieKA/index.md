@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: qRHzl4PieKA
 source: internal
 url: /resources/videos/:slug
-slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
 layout: video
 preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg
 duration: 59
 isShort: true
 aliases:
-- /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
-- /resources/videos/qRHzl4PieKA
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 - /resources/qRHzl4PieKA
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+aliasesArchive:
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 aliasesFor404:
 - /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4

@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 isShort: false
 aliases:
-- /resources/best-scrum-advice-you-ever-received-2
-- /resources/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/videos/YUlpnyN2IeI
-- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/YUlpnyN2IeI
+aliasesArchive:
+- /resources/videos/best-scrum-advice-you-ever-received
 aliasesFor404:
 - /resources/best-scrum-advice-you-ever-received-2
 - /resources/best-scrum-advice-you-ever-received

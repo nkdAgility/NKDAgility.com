@@ -9,18 +9,17 @@ ResourceImportSource: Youtube
 videoId: h5TG3MbP0QY
 source: internal
 url: /resources/videos/:slug
-slug: most-common-thing-you-hear-in-a-psm-1-course
+slug: most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
 layout: video
 preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/most-common-thing-you-hear-in-a-psm-1-course-2
-- /resources/most-common-thing-you-hear-in-a-psm-1-course
-- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
-- /resources/videos/h5TG3MbP0QY
-- /resources/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/h5TG3MbP0QY
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-psm-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
 aliasesFor404:
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-2
 - /resources/most-common-thing-you-hear-in-a-psm-1-course

@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pw_8gbaWZC4
 url: /resources/videos/:slug
-slug: how-top-teams-use-pull-systems!
+slug: illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 layout: video
 aliases:
-- /resources/videos/pw_8gbaWZC4
-- /resources/videos/how-top-teams-use-pull-systems!
-- /resources/how-top-teams-use-pull-systems!
 - /resources/pw_8gbaWZC4
+aliasesArchive:
+- /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 aliasesFor404:
 - /resources/videos/how-top-teams-use-pull-systems!
 - /resources/how-top-teams-use-pull-systems!

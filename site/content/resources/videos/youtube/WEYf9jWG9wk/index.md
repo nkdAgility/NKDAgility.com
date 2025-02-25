@@ -8,13 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug
-slug: unleash-your-team's-full-potential
+slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
 layout: video
 aliases:
-- /resources/videos/WEYf9jWG9wk
-- /resources/videos/unleash-your-team's-full-potential
-- /resources/unleash-your-team's-full-potential
 - /resources/WEYf9jWG9wk
+- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
+aliasesArchive:
+- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-to-in-software-development
+- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
 aliasesFor404:
 - /resources/videos/unleash-your-team's-full-potential
 - /resources/unleash-your-team's-full-potential

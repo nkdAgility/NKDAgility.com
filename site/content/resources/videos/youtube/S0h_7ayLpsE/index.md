@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg
 duration: 1714
 isShort: false
 aliases:
-- /resources/mastering-evidence-based-management-for-agile-success
-- /resources/videos/evidence-based-management-gathering-and-analyzing-data
-- /resources/videos/S0h_7ayLpsE
-- /resources/evidence-based-management-gathering-and-analyzing-data
 - /resources/S0h_7ayLpsE
+aliasesArchive:
+- /resources/videos/mastering-evidence-based-management-for-agile-success
 aliasesFor404:
 - /resources/mastering-evidence-based-management-for-agile-success
 - /resources/videos/evidence-based-management-gathering-and-analyzing-data

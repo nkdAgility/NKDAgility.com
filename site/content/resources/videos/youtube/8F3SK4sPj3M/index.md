@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: 8F3SK4sPj3M
 source: internal
 url: /resources/videos/:slug
-slug: why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+slug: why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
 layout: video
 preview: https://i.ytimg.com/vi/8F3SK4sPj3M/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
-- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
-- /resources/videos/8F3SK4sPj3M
-- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
 - /resources/8F3SK4sPj3M
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+aliasesArchive:
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 aliasesFor404:
 - /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 - /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-

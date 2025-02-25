@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OFUsZq0TKoo
 url: /resources/videos/:slug
-slug: what-you-will-be-able-to-do-after-the-ppdv-course
+slug: transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
 layout: video
 aliases:
-- /resources/videos/OFUsZq0TKoo
-- /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
-- /resources/what-you-will-be-able-to-do-after-the-ppdv-course
 - /resources/OFUsZq0TKoo
+aliasesArchive:
+- /resources/videos/transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
 aliasesFor404:
 - /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
 - /resources/what-you-will-be-able-to-do-after-the-ppdv-course

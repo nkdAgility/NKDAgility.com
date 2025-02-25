@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: HjumLIMTefA
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-in-agile-training
+slug: the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
 layout: video
 preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/the-power-of-immersive-learning-in-agile-training
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
-- /resources/videos/HjumLIMTefA
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 - /resources/HjumLIMTefA
+- /resources/videos/the-power-of-immersive-learning-in-agile-training
+aliasesArchive:
+- /resources/videos/the-power-of-immersive-learning-in-agile-training
 aliasesFor404:
 - /resources/the-power-of-immersive-learning-in-agile-training
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5

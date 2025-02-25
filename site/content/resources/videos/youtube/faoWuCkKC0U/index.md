@@ -9,17 +9,17 @@ ResourceImportSource: Youtube
 videoId: faoWuCkKC0U
 source: internal
 url: /resources/videos/:slug
-slug: reasons-to-do-a-pspo-a-course-in-60-seconds
+slug: reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
 layout: video
 preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg
 duration: 46
 isShort: true
 aliases:
-- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
-- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
-- /resources/videos/faoWuCkKC0U
 - /resources/faoWuCkKC0U
+- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
+aliasesArchive:
+- /resources/videos/reasons-to-do-a-pspo-a-course-in-seconds
+- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
 aliasesFor404:
 - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
 - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds

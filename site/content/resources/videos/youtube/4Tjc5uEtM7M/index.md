@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4Tjc5uEtM7M
 url: /resources/videos/:slug
-slug: devops-migration-lack-of-expertise
+slug: mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 aliases:
-- /resources/videos/4Tjc5uEtM7M
-- /resources/videos/devops-migration-lack-of-expertise
-- /resources/devops-migration-lack-of-expertise
 - /resources/4Tjc5uEtM7M
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 aliasesFor404:
 - /resources/videos/devops-migration-lack-of-expertise
 - /resources/devops-migration-lack-of-expertise

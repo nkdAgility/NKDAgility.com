@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
 duration: 263
 isShort: false
 aliases:
-- /resources/in-wip-less-is-more-why
-- /resources/videos/in-wip,-less-is-more,-why-
-- /resources/videos/yEu8Fw4JQWM
-- /resources/in-wip,-less-is-more,-why-
 - /resources/yEu8Fw4JQWM
+aliasesArchive:
+- /resources/videos/in-wip-less-is-more-why
 aliasesFor404:
 - /resources/in-wip-less-is-more-why
 - /resources/videos/in-wip,-less-is-more,-why-

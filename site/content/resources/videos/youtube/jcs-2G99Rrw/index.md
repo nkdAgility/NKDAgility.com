@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jcs-2G99Rrw
 url: /resources/videos/:slug
-slug: top-4-rookie-mistakes-in-azure-devops
+slug: mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 layout: video
 aliases:
-- /resources/videos/jcs-2G99Rrw
-- /resources/videos/top-4-rookie-mistakes-in-azure-devops
-- /resources/top-4-rookie-mistakes-in-azure-devops
 - /resources/jcs-2G99Rrw
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 aliasesFor404:
 - /resources/videos/top-4-rookie-mistakes-in-azure-devops
 - /resources/top-4-rookie-mistakes-in-azure-devops

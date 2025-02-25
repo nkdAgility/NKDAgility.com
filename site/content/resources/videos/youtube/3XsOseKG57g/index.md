@@ -14,11 +14,10 @@ preview: https://i.ytimg.com/vi/3XsOseKG57g/maxresdefault.jpg
 duration: 121
 isShort: false
 aliases:
-- /resources/what-do-people-love-most-about-the-4-day-training-format
-- /resources/videos/what-do-people-love-most-about-the-4-day-training-format-
-- /resources/videos/3XsOseKG57g
-- /resources/what-do-people-love-most-about-the-4-day-training-format-
 - /resources/3XsOseKG57g
+aliasesArchive:
+- /resources/videos/what-do-people-love-most-about-the-day-training-format
+- /resources/videos/what-do-people-love-most-about-the-4-day-training-format
 aliasesFor404:
 - /resources/what-do-people-love-most-about-the-4-day-training-format
 - /resources/videos/what-do-people-love-most-about-the-4-day-training-format-

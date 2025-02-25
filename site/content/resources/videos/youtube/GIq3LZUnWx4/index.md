@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg
 duration: 116
 isShort: false
 aliases:
-- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
-- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
-- /resources/videos/GIq3LZUnWx4
-- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
 - /resources/GIq3LZUnWx4
+aliasesArchive:
+- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 aliasesFor404:
 - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-

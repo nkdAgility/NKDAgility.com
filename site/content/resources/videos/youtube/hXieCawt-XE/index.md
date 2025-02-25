@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
 duration: 599
 isShort: false
 aliases:
-- /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-- /resources/videos/work-less,-do-more-with-pull-in-kanban
-- /resources/videos/hXieCawt-XE
-- /resources/work-less,-do-more-with-pull-in-kanban
 - /resources/hXieCawt-XE
+aliasesArchive:
+- /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 aliasesFor404:
 - /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/videos/work-less,-do-more-with-pull-in-kanban

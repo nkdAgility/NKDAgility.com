@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug
-slug: war!-7-harbingers-agile-apocalypse-but-shorter!
+slug: navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
 layout: video
 aliases:
-- /resources/videos/Wk0no7MB0AM
-- /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/Wk0no7MB0AM
+- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
+aliasesArchive:
+- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
 aliasesFor404:
 - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!

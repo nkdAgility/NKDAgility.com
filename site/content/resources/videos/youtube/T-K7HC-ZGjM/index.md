@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
 duration: 296
 isShort: false
 aliases:
-- /resources/what-is-a-sprint-backlog
-- /resources/videos/what-is-a-sprint-backlog-
-- /resources/videos/T-K7HC-ZGjM
-- /resources/what-is-a-sprint-backlog-
 - /resources/T-K7HC-ZGjM
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-backlog
 aliasesFor404:
 - /resources/what-is-a-sprint-backlog
 - /resources/videos/what-is-a-sprint-backlog-

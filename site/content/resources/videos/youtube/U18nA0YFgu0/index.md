@@ -15,11 +15,10 @@ preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
 duration: 262
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-wrath
-- /resources/videos/wrath!-7-deadly-sins-of-agile
-- /resources/videos/U18nA0YFgu0
-- /resources/wrath!-7-deadly-sins-of-agile
 - /resources/U18nA0YFgu0
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-wrath
+- /resources/videos/7-deadly-sins-of-agile-wrath
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-wrath
 - /resources/videos/wrath!-7-deadly-sins-of-agile

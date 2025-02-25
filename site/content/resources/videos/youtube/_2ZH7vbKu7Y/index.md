@@ -17,11 +17,9 @@ preview: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg
 duration: 412
 isShort: false
 aliases:
-- /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
-- /resources/training-a-bridge-to-knowledge-and-growth
-- /resources/videos/_2ZH7vbKu7Y
-- /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 - /resources/_2ZH7vbKu7Y
+aliasesArchive:
+- /resources/videos/training-a-bridge-to-knowledge-and-growth
 aliasesFor404:
 - /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 - /resources/training-a-bridge-to-knowledge-and-growth

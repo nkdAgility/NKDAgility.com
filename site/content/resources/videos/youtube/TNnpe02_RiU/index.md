@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: TNnpe02_RiU
 source: internal
 url: /resources/videos/:slug
-slug: what-is-your-peeve-in-devops
+slug: what-is-your-peeve-in-devops-TNnpe02_RiU
 layout: video
 preview: https://i.ytimg.com/vi/TNnpe02_RiU/maxresdefault.jpg
 duration: 31
 isShort: true
 aliases:
-- /resources/what-is-your-peeve-in-devops
-- /resources/pet-peeve-in-devops
-- /resources/videos/pet-peeve-in-devops
-- /resources/videos/TNnpe02_RiU
 - /resources/TNnpe02_RiU
+- /resources/videos/what-is-your-peeve-in-devops
+aliasesArchive:
+- /resources/videos/what-is-your-peeve-in-devops
 aliasesFor404:
 - /resources/what-is-your-peeve-in-devops
 - /resources/pet-peeve-in-devops

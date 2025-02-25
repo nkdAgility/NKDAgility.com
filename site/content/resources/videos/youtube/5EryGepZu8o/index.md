@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg
 duration: 204
 isShort: false
 aliases:
-- /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
-- /resources/videos/5EryGepZu8o
-- /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 - /resources/5EryGepZu8o
+aliasesArchive:
+- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 aliasesFor404:
 - /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-

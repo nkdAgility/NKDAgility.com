@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/o0VJuVhm0pQ/maxresdefault.jpg
 duration: 407
 isShort: false
 aliases:
-- /resources/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
-- /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
-- /resources/videos/o0VJuVhm0pQ
-- /resources/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
 - /resources/o0VJuVhm0pQ
+aliasesArchive:
+- /resources/videos/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 aliasesFor404:
 - /resources/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 - /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-

@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: KjSRjkK6OL0
 source: internal
 url: /resources/videos/:slug
-slug: what-does-an-ineffective-scrum-master-s-day-look-like
+slug: what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
 layout: video
 preview: https://i.ytimg.com/vi/KjSRjkK6OL0/maxresdefault.jpg
 duration: 45
 isShort: true
 aliases:
-- /resources/what-does-an-ineffective-scrum-masters-day-look-like
-- /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
-- /resources/videos/KjSRjkK6OL0
-- /resources/what-does-an-ineffective-scrum-master's-day-look-like-
 - /resources/KjSRjkK6OL0
+- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
+aliasesArchive:
+- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
 aliasesFor404:
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-

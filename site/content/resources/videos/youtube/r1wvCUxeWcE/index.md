@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: r1wvCUxeWcE
 url: /resources/videos/:slug
-slug: kanban-boards
+slug: mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
 layout: video
 aliases:
-- /resources/videos/r1wvCUxeWcE
-- /resources/videos/kanban-boards
-- /resources/kanban-boards
 - /resources/r1wvCUxeWcE
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
+aliasesArchive:
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
 aliasesFor404:
 - /resources/videos/kanban-boards
 - /resources/kanban-boards

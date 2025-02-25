@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg
 duration: 114
 isShort: false
 aliases:
-- /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
-- /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
-- /resources/videos/y0dg0Sqs4xw
-- /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 - /resources/y0dg0Sqs4xw
+aliasesArchive:
+- /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
 aliasesFor404:
 - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-

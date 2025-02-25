@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug
-slug: the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+slug: the-tyranny-of-taylorism-how-to-detect-agile-bs
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=FZeT8O5Ucwg
 aliases:
-- /resources/videos/FZeT8O5Ucwg
-- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 - /resources/FZeT8O5Ucwg
+aliasesArchive:
+- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
 aliasesFor404:
 - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 - /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!

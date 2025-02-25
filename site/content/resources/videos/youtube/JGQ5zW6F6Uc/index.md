@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/:slug
-slug: 3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+slug: how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 layout: video
 aliases:
-- /resources/videos/JGQ5zW6F6Uc
-- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
-- /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/JGQ5zW6F6Uc
+aliasesArchive:
+- /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 aliasesFor404:
 - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent

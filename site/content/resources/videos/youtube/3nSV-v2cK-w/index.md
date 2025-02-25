@@ -9,12 +9,11 @@ ResourceImportSource: Youtube
 videoId: 3nSV-v2cK-w
 source: youtube
 url: /resources/videos/:slug
-slug: if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
+slug: unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
 aliases:
-- /resources/videos/3nSV-v2cK-w
-- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
-- /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
 - /resources/3nSV-v2cK-w
+aliasesArchive:
+- /resources/videos/unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
 aliasesFor404:
 - /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-
 - /resources/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-

@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: npnQtdLEwQY
 source: youtube
 url: /resources/videos/:slug
-slug: managing-technical-debt-to-minimize-costs
+slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 layout: video
 aliases:
-- /resources/videos/npnQtdLEwQY
-- /resources/videos/managing-technical-debt-to-minimize-costs
-- /resources/managing-technical-debt-to-minimize-costs
 - /resources/npnQtdLEwQY
+aliasesArchive:
+- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 aliasesFor404:
 - /resources/videos/managing-technical-debt-to-minimize-costs
 - /resources/managing-technical-debt-to-minimize-costs

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg
 duration: 227
 isShort: false
 aliases:
-- /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
-- /resources/videos/Fgla_Oox_sE
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/Fgla_Oox_sE
+aliasesArchive:
+- /resources/videos/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
 aliasesFor404:
 - /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3

@@ -12,10 +12,10 @@ slug: install-tfs-2013-release-management
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=NG9Y1_qQjvg
 aliases:
-- /resources/videos/NG9Y1_qQjvg
-- /resources/videos/install-tfs-2013-release-management
-- /resources/install-tfs-2013-release-management
 - /resources/NG9Y1_qQjvg
+aliasesArchive:
+- /resources/videos/install-tfs-release-management
+- /resources/videos/install-tfs-2013-release-management
 aliasesFor404:
 - /resources/videos/install-tfs-2013-release-management
 - /resources/install-tfs-2013-release-management

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg
 duration: 331
 isShort: false
 aliases:
-- /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
-- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
-- /resources/videos/jXk1_Iiam_M
-- /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/jXk1_Iiam_M
+aliasesArchive:
+- /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 aliasesFor404:
 - /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 - /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-

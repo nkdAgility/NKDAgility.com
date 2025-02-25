@@ -9,13 +9,13 @@ ResourceImportSource: Youtube
 videoId: ks38bwDTVfM
 source: youtube
 url: /resources/videos/:slug
-slug: what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+slug: mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
 layout: video
 aliases:
-- /resources/videos/ks38bwDTVfM
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
-- /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
 - /resources/ks38bwDTVfM
+aliasesArchive:
+- /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
+- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
 aliasesFor404:
 - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
 - /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
 duration: 411
 isShort: false
 aliases:
-- /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
-- /resources/videos/oKZ9bbESCok
-- /resources/5-kinds-of-agile-bandits-say-do-metrics
 - /resources/oKZ9bbESCok
+aliasesArchive:
+- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
 aliasesFor404:
 - /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/videos/5-kinds-of-agile-bandits-say-do-metrics

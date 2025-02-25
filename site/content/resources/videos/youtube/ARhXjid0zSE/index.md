@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ARhXjid0zSE
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-famine
+slug: combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
 layout: video
 aliases:
-- /resources/videos/ARhXjid0zSE
-- /resources/videos/7-signs-of-the-agile-apocalypse-famine
-- /resources/7-signs-of-the-agile-apocalypse-famine
 - /resources/ARhXjid0zSE
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
+aliasesArchive:
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-famine
 - /resources/7-signs-of-the-agile-apocalypse-famine

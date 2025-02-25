@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg
 duration: 251
 isShort: false
 aliases:
-- /resources/what-is-your-feeling-on-creating-agile-apprenticeships
-- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
-- /resources/videos/vHNwcfbNOR8
-- /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
 - /resources/vHNwcfbNOR8
+aliasesArchive:
+- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
 aliasesFor404:
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships
 - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-

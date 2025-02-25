@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
 duration: 1055
 isShort: false
 aliases:
-- /resources/navigating-the-complex-world-of-azure-devops-data-migration
-- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
-- /resources/videos/3jYFD-6_kZk
-- /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/3jYFD-6_kZk
+aliasesArchive:
+- /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
 aliasesFor404:
 - /resources/navigating-the-complex-world-of-azure-devops-data-migration
 - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops

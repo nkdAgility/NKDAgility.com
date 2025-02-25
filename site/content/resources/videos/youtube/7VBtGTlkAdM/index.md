@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: 7VBtGTlkAdM
 source: internal
 url: /resources/videos/:slug
-slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg
 duration: 55
 isShort: true
 aliases:
-- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
-- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/7VBtGTlkAdM
-- /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
 - /resources/7VBtGTlkAdM
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+aliasesArchive:
+- /resources/videos/-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 aliasesFor404:
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction

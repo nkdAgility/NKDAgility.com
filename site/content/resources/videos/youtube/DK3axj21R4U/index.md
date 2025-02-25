@@ -9,15 +9,15 @@ ResourceImportSource: Youtube
 videoId: DK3axj21R4U
 source: youtube
 url: /resources/videos/:slug
-slug: fortnite
+slug: fortnite-DK3axj21R4U
 layout: video
 draft: true
 canonicalUrl: https://www.youtube.com/watch?v=DK3axj21R4U
 aliases:
-- /resources/videos/DK3axj21R4U
-- /resources/videos/fortnite
-- /resources/fortnite
 - /resources/DK3axj21R4U
+- /resources/videos/fortnite
+aliasesArchive:
+- /resources/videos/fortnite
 aliasesFor404:
 - /resources/videos/fortnite
 - /resources/fortnite
@@ -33,4 +33,5 @@ categories: []
 tags: []
 
 ---
+  
  [Watch on Youtube](https://www.youtube.com/watch?v=DK3axj21R4U)

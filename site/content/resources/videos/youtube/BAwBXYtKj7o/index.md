@@ -12,10 +12,9 @@ url: /resources/videos/:slug
 slug: technical-debt-management-for-long-term-quality
 layout: video
 aliases:
-- /resources/videos/BAwBXYtKj7o
-- /resources/videos/the-power-of-automated-testing
-- /resources/the-power-of-automated-testing
 - /resources/BAwBXYtKj7o
+aliasesArchive:
+- /resources/videos/technical-debt-management-for-long-term-quality
 aliasesFor404:
 - /resources/videos/the-power-of-automated-testing
 - /resources/the-power-of-automated-testing

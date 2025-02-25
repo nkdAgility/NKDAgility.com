@@ -8,14 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: y2TObrUi3m0
 url: /resources/videos/:slug
-slug: what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
+slug: what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=y2TObrUi3m0
 aliases:
-- /resources/videos/y2TObrUi3m0
-- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
-- /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 - /resources/y2TObrUi3m0
+aliasesArchive:
+- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 aliasesFor404:
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 - /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-

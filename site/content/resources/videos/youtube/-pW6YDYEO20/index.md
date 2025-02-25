@@ -9,16 +9,15 @@ ResourceImportSource: Youtube
 videoId: -pW6YDYEO20
 source: internal
 url: /resources/videos/:slug
-slug: worst-trait-in-unskilled-scrum-masters
+slug: worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
 duration: 54
 isShort: true
 aliases:
-- /resources/worst-trait-in-unskilled-scrum-masters
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/videos/-pW6YDYEO20
-- /resources/worst-trait-in-unskilled-scrum-masters-
 - /resources/-pW6YDYEO20
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
+aliasesArchive:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
 aliasesFor404:
 - /resources/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-

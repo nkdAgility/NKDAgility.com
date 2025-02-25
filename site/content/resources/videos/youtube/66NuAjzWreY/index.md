@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/66NuAjzWreY/maxresdefault.jpg
 duration: 414
 isShort: false
 aliases:
-- /resources/mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/videos/66NuAjzWreY
-- /resources/introduction-to-evidence-based-management
 - /resources/66NuAjzWreY
+aliasesArchive:
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
 aliasesFor404:
 - /resources/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/videos/introduction-to-evidence-based-management

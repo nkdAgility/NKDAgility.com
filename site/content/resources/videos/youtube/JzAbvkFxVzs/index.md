@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
 duration: 299
 isShort: false
 aliases:
-- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-dogma
-- /resources/videos/JzAbvkFxVzs
-- /resources/5-ghosts-of-agile-past-dogma
 - /resources/JzAbvkFxVzs
+aliasesArchive:
+- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 aliasesFor404:
 - /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-dogma

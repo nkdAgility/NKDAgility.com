@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg
 duration: 343
 isShort: false
 aliases:
-- /resources/does-kanban-integrate-into-a-scrum-environment
-- /resources/videos/does-kanban-integrate-with-a-scrum-environment-
-- /resources/videos/zltmMb2EbDE
-- /resources/does-kanban-integrate-with-a-scrum-environment-
 - /resources/zltmMb2EbDE
+aliasesArchive:
+- /resources/videos/does-kanban-integrate-into-a-scrum-environment
 aliasesFor404:
 - /resources/does-kanban-integrate-into-a-scrum-environment
 - /resources/videos/does-kanban-integrate-with-a-scrum-environment-

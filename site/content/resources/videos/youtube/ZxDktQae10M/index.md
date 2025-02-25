@@ -12,10 +12,10 @@ slug: 2018-vsts-sync-migration-tools-overview
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=ZxDktQae10M
 aliases:
-- /resources/videos/ZxDktQae10M
-- /resources/videos/2018-vsts-sync-migration-tools-overview
-- /resources/2018-vsts-sync-migration-tools-overview
 - /resources/ZxDktQae10M
+aliasesArchive:
+- /resources/videos/-vsts-sync-migration-tools-overview
+- /resources/videos/2018-vsts-sync-migration-tools-overview
 aliasesFor404:
 - /resources/videos/2018-vsts-sync-migration-tools-overview
 - /resources/2018-vsts-sync-migration-tools-overview

@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cFVvgI3Girg
 url: /resources/videos/:slug
-slug: why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+slug: from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
 layout: video
 aliases:
-- /resources/videos/cFVvgI3Girg
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 - /resources/cFVvgI3Girg
+aliasesArchive:
+- /resources/videos/from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
 aliasesFor404:
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner

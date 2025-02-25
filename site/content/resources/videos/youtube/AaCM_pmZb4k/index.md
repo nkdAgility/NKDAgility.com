@@ -15,12 +15,9 @@ preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
 duration: 567
 isShort: false
 aliases:
-- /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
-- /resources/what-are-hierarchies-of-competence-vs-control
-- /resources/videos/what-are-hierarchies-of-competence-vs-control-
-- /resources/videos/AaCM_pmZb4k
-- /resources/what-are-hierarchies-of-competence-vs-control-
 - /resources/AaCM_pmZb4k
+aliasesArchive:
+- /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 aliasesFor404:
 - /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 - /resources/what-are-hierarchies-of-competence-vs-control

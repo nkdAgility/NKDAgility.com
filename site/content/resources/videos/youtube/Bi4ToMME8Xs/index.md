@@ -8,14 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Bi4ToMME8Xs
 url: /resources/videos/:slug
-slug: advanced-psm-ii-immersive-learning-classes
+slug: advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Bi4ToMME8Xs
 aliases:
-- /resources/videos/Bi4ToMME8Xs
-- /resources/videos/advanced-psm-ii-immersive-learning-classes
-- /resources/advanced-psm-ii-immersive-learning-classes
 - /resources/Bi4ToMME8Xs
+- /resources/videos/advanced-psm-ii-immersive-learning-classes
+aliasesArchive:
+- /resources/videos/advanced-psm-ii-immersive-learning-classes
 aliasesFor404:
 - /resources/videos/advanced-psm-ii-immersive-learning-classes
 - /resources/advanced-psm-ii-immersive-learning-classes

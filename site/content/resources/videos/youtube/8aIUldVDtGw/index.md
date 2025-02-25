@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
 duration: 496
 isShort: false
 aliases:
-- /resources/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/videos/stop-starting-and-start-finishing!
-- /resources/videos/8aIUldVDtGw
-- /resources/stop-starting-and-start-finishing!
 - /resources/8aIUldVDtGw
+aliasesArchive:
+- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
 aliasesFor404:
 - /resources/stop-starting-and-start-finishing-the-key-to-team-success
 - /resources/videos/stop-starting-and-start-finishing!

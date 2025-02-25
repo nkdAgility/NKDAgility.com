@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xLUsgKWzkUM
 url: /resources/videos/:slug
-slug: why-is-training-such-a-critical-element-in-a-productowner-journey
+slug: mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
 layout: video
 aliases:
-- /resources/videos/xLUsgKWzkUM
-- /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
-- /resources/why-is-training-such-a-critical-element-in-a-productowner-journey
 - /resources/xLUsgKWzkUM
+- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
+aliasesArchive:
+- /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
 aliasesFor404:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
 - /resources/why-is-training-such-a-critical-element-in-a-productowner-journey

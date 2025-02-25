@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: icX4XpolVLE
 url: /resources/videos/:slug
-slug: my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
+slug: from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome
 layout: video
 aliases:
-- /resources/videos/icX4XpolVLE
-- /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
-- /resources/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
 - /resources/icX4XpolVLE
+aliasesArchive:
+- /resources/videos/from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome
 aliasesFor404:
 - /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
 - /resources/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-

@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
-slug: overview-of-the-8-week-immersive-learning-experience
+slug: transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 layout: video
 aliases:
-- /resources/videos/qrEqX_5FWM8
-- /resources/videos/overview-of-the-8-week-immersive-learning-experience
-- /resources/overview-of-the-8-week-immersive-learning-experience
 - /resources/qrEqX_5FWM8
+aliasesArchive:
+- /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 aliasesFor404:
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience
 - /resources/overview-of-the-8-week-immersive-learning-experience

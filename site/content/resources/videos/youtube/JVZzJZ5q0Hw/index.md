@@ -9,18 +9,15 @@ ResourceImportSource: Youtube
 videoId: JVZzJZ5q0Hw
 source: internal
 url: /resources/videos/:slug
-slug: what-is-the-most-common-mistake-in-sprint-planning
+slug: what-is-a-sprint-goal
 layout: video
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
 isShort: false
 aliases:
-- /resources/what-is-the-most-common-mistake-in-sprint-planning
-- /resources/what-is-a-sprint-goal
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
-- /resources/videos/JVZzJZ5q0Hw
-- /resources/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/JVZzJZ5q0Hw
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-goal
 aliasesFor404:
 - /resources/what-is-the-most-common-mistake-in-sprint-planning
 - /resources/what-is-a-sprint-goal

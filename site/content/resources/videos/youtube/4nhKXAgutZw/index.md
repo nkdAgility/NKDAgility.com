@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/4nhKXAgutZw/maxresdefault.jpg
 duration: 252
 isShort: false
 aliases:
-- /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-kindness
-- /resources/videos/4nhKXAgutZw
-- /resources/7-virtues-of-agile-kindness
 - /resources/4nhKXAgutZw
+aliasesArchive:
+- /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
 aliasesFor404:
 - /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
 - /resources/videos/7-virtues-of-agile-kindness

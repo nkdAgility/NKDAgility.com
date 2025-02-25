@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/IU_1dJw7xk4/maxresdefault.jpg
 duration: 438
 isShort: false
 aliases:
-- /resources/how-long-does-it-take-to-transition-from-project-management-to-kanban
-- /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
-- /resources/videos/IU_1dJw7xk4
-- /resources/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
 - /resources/IU_1dJw7xk4
+aliasesArchive:
+- /resources/videos/how-long-does-it-take-to-transition-from-project-management-to-kanban
 aliasesFor404:
 - /resources/how-long-does-it-take-to-transition-from-project-management-to-kanban
 - /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-

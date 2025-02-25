@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: HmAIUiR8QSo
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-culture-of-quality
+slug: cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 layout: video
 aliases:
-- /resources/videos/HmAIUiR8QSo
-- /resources/videos/building-a-culture-of-quality
-- /resources/building-a-culture-of-quality
 - /resources/HmAIUiR8QSo
+aliasesArchive:
+- /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 aliasesFor404:
 - /resources/videos/building-a-culture-of-quality
 - /resources/building-a-culture-of-quality

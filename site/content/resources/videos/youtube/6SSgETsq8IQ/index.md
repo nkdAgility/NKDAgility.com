@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6SSgETsq8IQ
 url: /resources/videos/:slug
-slug: professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
+slug: unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
 aliases:
-- /resources/videos/6SSgETsq8IQ
-- /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
-- /resources/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 - /resources/6SSgETsq8IQ
+aliasesArchive:
+- /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
 aliasesFor404:
 - /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 - /resources/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices

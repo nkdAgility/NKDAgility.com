@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pDAL84mht3Y
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-plague
+slug: overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
 layout: video
 aliases:
-- /resources/videos/pDAL84mht3Y
-- /resources/videos/7-signs-of-the-agile-apocalypse-plague
-- /resources/7-signs-of-the-agile-apocalypse-plague
 - /resources/pDAL84mht3Y
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
+aliasesArchive:
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague

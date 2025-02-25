@@ -12,10 +12,10 @@ slug: ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=p3D5RjM5grA
 aliases:
-- /resources/videos/p3D5RjM5grA
-- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-- /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/p3D5RjM5grA
+aliasesArchive:
+- /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
+- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 aliasesFor404:
 - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller

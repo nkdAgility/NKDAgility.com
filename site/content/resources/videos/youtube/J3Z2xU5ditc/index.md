@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: J3Z2xU5ditc
 source: youtube
 url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesn't-work-myth-4
+slug: why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
 layout: video
 aliases:
-- /resources/videos/J3Z2xU5ditc
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-4
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-4
 - /resources/J3Z2xU5ditc
+aliasesArchive:
+- /resources/videos/why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
 aliasesFor404:
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-4
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-4

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
 duration: 438
 isShort: false
 aliases:
-- /resources/the-common-challenges-of-adopting-devops-practices
-- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
-- /resources/videos/swHtVLD9690
-- /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 - /resources/swHtVLD9690
+aliasesArchive:
+- /resources/videos/the-common-challenges-of-adopting-devops-practices
 aliasesFor404:
 - /resources/the-common-challenges-of-adopting-devops-practices
 - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-

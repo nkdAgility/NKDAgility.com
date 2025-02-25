@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zro-li2QIMM
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-charity
+slug: unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
 layout: video
 aliases:
-- /resources/videos/zro-li2QIMM
-- /resources/videos/-shorts-7-virtues-of-agile-charity
-- /resources/-shorts-7-virtues-of-agile-charity
 - /resources/zro-li2QIMM
+- /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
+aliasesArchive:
+- /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-charity
 - /resources/-shorts-7-virtues-of-agile-charity

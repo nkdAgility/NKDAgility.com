@@ -8,12 +8,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6S9LGyxU2cQ
 url: /resources/videos/:slug
-slug: is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+slug: unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 aliases:
-- /resources/videos/6S9LGyxU2cQ
-- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
-- /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/6S9LGyxU2cQ
+aliasesArchive:
+- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 aliasesFor404:
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-

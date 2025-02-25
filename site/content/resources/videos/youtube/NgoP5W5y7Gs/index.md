@@ -12,10 +12,9 @@ url: /resources/videos/:slug
 slug: security-by-design-building-secure-software
 layout: video
 aliases:
-- /resources/videos/NgoP5W5y7Gs
-- /resources/videos/security-by-design-building-secure-software
-- /resources/security-by-design-building-secure-software
 - /resources/NgoP5W5y7Gs
+aliasesArchive:
+- /resources/videos/security-by-design-building-secure-software
 aliasesFor404:
 - /resources/videos/security-by-design-building-secure-software
 - /resources/security-by-design-building-secure-software

@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: Ig-HpUfQr3M
 source: youtube
 url: /resources/videos/:slug
-slug: monitoring-and-measuring-for-success
+slug: maximising-product-value-the-power-of-hypothesis-driven-engineering
 layout: video
 aliases:
-- /resources/videos/Ig-HpUfQr3M
-- /resources/videos/monitoring-and-measuring-for-success
-- /resources/monitoring-and-measuring-for-success
 - /resources/Ig-HpUfQr3M
+aliasesArchive:
+- /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
 aliasesFor404:
 - /resources/videos/monitoring-and-measuring-for-success
 - /resources/monitoring-and-measuring-for-success

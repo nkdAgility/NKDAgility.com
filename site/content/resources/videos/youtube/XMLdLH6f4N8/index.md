@@ -12,10 +12,9 @@ slug: nkdagility-healthgrades-interview-katherine-maddox
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=XMLdLH6f4N8
 aliases:
-- /resources/videos/XMLdLH6f4N8
-- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
-- /resources/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/XMLdLH6f4N8
+aliasesArchive:
+- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 aliasesFor404:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/nkdagility-healthgrades-interview-katherine-maddox

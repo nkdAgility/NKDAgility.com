@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uCFIW_lEFuc
 url: /resources/videos/:slug
-slug: sloth!-7-deadly-sins-of-agile-
+slug: conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
 layout: video
 aliases:
-- /resources/videos/uCFIW_lEFuc
-- /resources/videos/sloth!-7-deadly-sins-of-agile-
-- /resources/sloth!-7-deadly-sins-of-agile-
 - /resources/uCFIW_lEFuc
+aliasesArchive:
+- /resources/videos/conquering-sloth-in-agile-signs-your-team-might-be-stalling
+- /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
 aliasesFor404:
 - /resources/videos/sloth!-7-deadly-sins-of-agile-
 - /resources/sloth!-7-deadly-sins-of-agile-

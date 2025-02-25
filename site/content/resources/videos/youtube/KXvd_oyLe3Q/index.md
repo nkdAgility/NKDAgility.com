@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg
 duration: 832
 isShort: false
 aliases:
-- /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
-- /resources/videos/KXvd_oyLe3Q
-- /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
 - /resources/KXvd_oyLe3Q
+aliasesArchive:
+- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 aliasesFor404:
 - /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 - /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service

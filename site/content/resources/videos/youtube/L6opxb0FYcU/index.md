@@ -9,18 +9,16 @@ ResourceImportSource: Youtube
 videoId: L6opxb0FYcU
 source: internal
 url: /resources/videos/:slug
-slug: worst-agile-advice-you-ve-ever-heard
+slug: worst-agile-advice-youve-ever-heard-L6opxb0FYcU
 layout: video
 preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
 duration: 57
 isShort: true
 aliases:
-- /resources/worst-agile-advice-youve-ever-heard
-- /resources/worst-agile-advice-heard
-- /resources/videos/worst-agile-advice-heard-
-- /resources/videos/L6opxb0FYcU
-- /resources/worst-agile-advice-heard-
 - /resources/L6opxb0FYcU
+- /resources/videos/worst-agile-advice-youve-ever-heard
+aliasesArchive:
+- /resources/videos/worst-agile-advice-youve-ever-heard
 aliasesFor404:
 - /resources/worst-agile-advice-youve-ever-heard
 - /resources/worst-agile-advice-heard

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/UOzrABhafx0/maxresdefault.jpg
 duration: 114
 isShort: false
 aliases:
-- /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/videos/UOzrABhafx0
-- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/UOzrABhafx0
+aliasesArchive:
+- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 aliasesFor404:
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org

@@ -12,10 +12,9 @@ slug: nkdagility-healthgrades-interview-cjsingh
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Fm24oKNN--w
 aliases:
-- /resources/videos/Fm24oKNN--w
-- /resources/videos/nkdagility-healthgrades-interview-cjsingh
-- /resources/nkdagility-healthgrades-interview-cjsingh
 - /resources/Fm24oKNN--w
+aliasesArchive:
+- /resources/videos/nkdagility-healthgrades-interview-cjsingh
 aliasesFor404:
 - /resources/videos/nkdagility-healthgrades-interview-cjsingh
 - /resources/nkdagility-healthgrades-interview-cjsingh

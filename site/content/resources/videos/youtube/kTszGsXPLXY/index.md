@@ -9,17 +9,15 @@ ResourceImportSource: Youtube
 videoId: kTszGsXPLXY
 source: internal
 url: /resources/videos/:slug
-slug: getting-started-with-kanban
+slug: getting-started-with-kanban-
 layout: video
 preview: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
 duration: 331
 isShort: false
 aliases:
-- /resources/getting-started-with-kanban
-- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
-- /resources/videos/kTszGsXPLXY
-- /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 - /resources/kTszGsXPLXY
+aliasesArchive:
+- /resources/videos/getting-started-with-kanban-
 aliasesFor404:
 - /resources/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-

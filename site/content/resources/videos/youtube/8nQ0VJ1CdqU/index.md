@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
 duration: 231
 isShort: false
 aliases:
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
-- /resources/videos/8nQ0VJ1CdqU
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/8nQ0VJ1CdqU
+aliasesArchive:
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
 aliasesFor404:
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-

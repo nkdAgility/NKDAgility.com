@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: M5U-Pdn_ZrE
 url: /resources/videos/:slug
-slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
+slug: mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
 layout: video
 aliases:
-- /resources/videos/M5U-Pdn_ZrE
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/M5U-Pdn_ZrE
+- /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity
+aliasesArchive:
+- /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity
 aliasesFor404:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4

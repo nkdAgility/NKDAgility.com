@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: 5J8RLcOAE3E
 source: youtube
 url: /resources/videos/:slug
-slug: continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+slug: rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 layout: video
 aliases:
-- /resources/videos/5J8RLcOAE3E
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
-- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/5J8RLcOAE3E
+aliasesArchive:
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 aliasesFor404:
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems

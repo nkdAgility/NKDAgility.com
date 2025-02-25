@@ -9,16 +9,15 @@ ResourceImportSource: Youtube
 videoId: 5bgfme-Pspw
 source: internal
 url: /resources/videos/:slug
-slug: momentum
+slug: momentum-5bgfme-Pspw
 preview: https://i.ytimg.com/vi/5bgfme-Pspw/maxresdefault.jpg
 duration: 59
 isShort: true
 aliases:
-- /resources/momentum-2
-- /resources/videos/momentum
-- /resources/videos/5bgfme-Pspw
-- /resources/momentum
 - /resources/5bgfme-Pspw
+- /resources/videos/momentum
+aliasesArchive:
+- /resources/videos/momentum
 aliasesFor404:
 - /resources/momentum-2
 - /resources/videos/momentum

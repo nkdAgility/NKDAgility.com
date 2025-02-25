@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: tdOSrPOlyAI
 source: youtube
 url: /resources/videos/:slug
-slug: nkd-agility-your-partner-in-engineering-excellence
+slug: transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 layout: video
 aliases:
-- /resources/videos/tdOSrPOlyAI
-- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
-- /resources/nkd-agility-your-partner-in-engineering-excellence
 - /resources/tdOSrPOlyAI
+aliasesArchive:
+- /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 aliasesFor404:
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 - /resources/nkd-agility-your-partner-in-engineering-excellence

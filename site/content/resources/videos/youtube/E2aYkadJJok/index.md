@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: E2aYkadJJok
 url: /resources/videos/:slug
-slug: kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
+slug: mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
 layout: video
 aliases:
-- /resources/videos/E2aYkadJJok
-- /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
-- /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/E2aYkadJJok
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
+aliasesArchive:
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
 aliasesFor404:
 - /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow

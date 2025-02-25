@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/txN41c6znbE/maxresdefault.jpg
 duration: 1604
 isShort: false
 aliases:
-- /resources/where-agile-went-wrong-understanding-the-competence-crisis
-- /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
-- /resources/videos/txN41c6znbE
-- /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 - /resources/txN41c6znbE
+aliasesArchive:
+- /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
 aliasesFor404:
 - /resources/where-agile-went-wrong-understanding-the-competence-crisis
 - /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey

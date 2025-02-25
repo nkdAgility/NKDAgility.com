@@ -14,11 +14,9 @@ preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
 duration: 312
 isShort: false
 aliases:
-- /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
-- /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
-- /resources/videos/17qTGonSsbM
-- /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/17qTGonSsbM
+aliasesArchive:
+- /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
 aliasesFor404:
 - /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
 - /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu

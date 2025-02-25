@@ -8,14 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: n6Suj-swl88
 url: /resources/videos/:slug
-slug: who-should-lead-the-sprint-review-
+slug: who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
 layout: video
 aliases:
-- /resources/videos/n6Suj-swl88
-- /resources/videos/who-should-lead-the-sprint-review-
-- /resources/who-should-lead-the-sprint-review-why-how
-- /resources/who-should-lead-the-sprint-review-
 - /resources/n6Suj-swl88
+aliasesArchive:
+- /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
 aliasesFor404:
 - /resources/videos/who-should-lead-the-sprint-review-
 - /resources/who-should-lead-the-sprint-review-why-how

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
 duration: 195
 isShort: false
 aliases:
-- /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
-- /resources/videos/Ca_0rw9AUlg
-- /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 - /resources/Ca_0rw9AUlg
+aliasesArchive:
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 aliasesFor404:
 - /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota

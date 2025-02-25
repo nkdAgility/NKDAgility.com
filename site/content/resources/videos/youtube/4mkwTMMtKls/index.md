@@ -14,11 +14,10 @@ preview: https://i.ytimg.com/vi/4mkwTMMtKls/maxresdefault.jpg
 duration: 407
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-envy
-- /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
-- /resources/videos/4mkwTMMtKls
-- /resources/envy!-one-of-the-7-deadly-sins-of-agile
 - /resources/4mkwTMMtKls
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-envy
+- /resources/videos/7-deadly-sins-of-agile-envy
 aliasesFor404:
 - /resources/7-deadly-sins-of-agile-envy
 - /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile

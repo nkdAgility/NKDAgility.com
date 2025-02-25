@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: UgFVn4Sp1rw
 source: youtube
 url: /resources/videos/:slug
-slug: measuring-and-monitoring-costs-for-continuous-improvement
+slug: mastering-product-development-costs-empower-your-team-for-financial-success
 layout: video
 aliases:
-- /resources/videos/UgFVn4Sp1rw
-- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
-- /resources/measuring-and-monitoring-costs-for-continuous-improvement
 - /resources/UgFVn4Sp1rw
+aliasesArchive:
+- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
 aliasesFor404:
 - /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
 - /resources/measuring-and-monitoring-costs-for-continuous-improvement

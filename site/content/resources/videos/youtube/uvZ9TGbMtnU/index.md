@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
-slug: -shorts-5-kinds-of-agile-bandits-1st-kind
+slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
 layout: video
 aliases:
-- /resources/videos/uvZ9TGbMtnU
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
 - /resources/uvZ9TGbMtnU
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
+aliasesArchive:
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 aliasesFor404:
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-1st-kind

@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/QQA9coiM4fk/maxresdefault.jpg
 duration: 356
 isShort: false
 aliases:
-- /resources/devops-consulting-overview
-- /resources/videos/devops-consulting-overview-
-- /resources/videos/QQA9coiM4fk
-- /resources/devops-consulting-overview-
 - /resources/QQA9coiM4fk
+aliasesArchive:
+- /resources/videos/devops-consulting-overview
 aliasesFor404:
 - /resources/devops-consulting-overview
 - /resources/videos/devops-consulting-overview-

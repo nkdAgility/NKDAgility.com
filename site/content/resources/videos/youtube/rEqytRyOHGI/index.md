@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
 duration: 291
 isShort: false
 aliases:
-- /resources/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
-- /resources/videos/rEqytRyOHGI
-- /resources/5-kinds-of-agile-bandits-special-sprints
 - /resources/rEqytRyOHGI
+aliasesArchive:
+- /resources/videos/special-sprints-agile-banditry-or-risk-management
 aliasesFor404:
 - /resources/special-sprints-agile-banditry-or-risk-management
 - /resources/videos/5-kinds-of-agile-bandits-special-sprints

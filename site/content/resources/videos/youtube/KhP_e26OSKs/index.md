@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KhP_e26OSKs
 url: /resources/videos/:slug
-slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
 layout: video
 aliases:
-- /resources/videos/KhP_e26OSKs
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/KhP_e26OSKs
+- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
+aliasesArchive:
+- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
 aliasesFor404:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3

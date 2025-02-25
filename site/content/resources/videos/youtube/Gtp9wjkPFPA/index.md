@@ -9,17 +9,16 @@ ResourceImportSource: Youtube
 videoId: Gtp9wjkPFPA
 source: internal
 url: /resources/videos/:slug
-slug: how-do-devops-and-agile-integrate
+slug: how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 layout: video
 preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
 duration: 51
 isShort: true
 aliases:
-- /resources/how-do-devops-and-agile-integrate
-- /resources/videos/how-do-devops-and-agile-integrate-
-- /resources/videos/Gtp9wjkPFPA
-- /resources/how-do-devops-and-agile-integrate-
 - /resources/Gtp9wjkPFPA
+- /resources/videos/how-do-devops-and-agile-integrate
+aliasesArchive:
+- /resources/videos/how-do-devops-and-agile-integrate
 aliasesFor404:
 - /resources/how-do-devops-and-agile-integrate
 - /resources/videos/how-do-devops-and-agile-integrate-

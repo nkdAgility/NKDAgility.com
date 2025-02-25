@@ -8,12 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4p5xeJZXvcE
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-patience
+slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
 aliases:
-- /resources/videos/4p5xeJZXvcE
-- /resources/videos/-shorts-7-virtues-of-agile-patience
-- /resources/-shorts-7-virtues-of-agile-patience
 - /resources/4p5xeJZXvcE
+- /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
+aliasesArchive:
+- /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
 aliasesFor404:
 - /resources/videos/-shorts-7-virtues-of-agile-patience
 - /resources/-shorts-7-virtues-of-agile-patience

@@ -12,10 +12,10 @@ slug: install-tfs-2013-basic
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=U7wIQk1pus0
 aliases:
-- /resources/videos/U7wIQk1pus0
-- /resources/videos/install-tfs-2013-basic
-- /resources/install-tfs-2013-basic
 - /resources/U7wIQk1pus0
+aliasesArchive:
+- /resources/videos/install-tfs-basic
+- /resources/videos/install-tfs-2013-basic
 aliasesFor404:
 - /resources/videos/install-tfs-2013-basic
 - /resources/install-tfs-2013-basic

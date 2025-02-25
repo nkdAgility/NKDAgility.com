@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
-slug: nkd-agility-mission-and-purpose
+slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 layout: video
 aliases:
-- /resources/videos/yCyjGBNaRqI
-- /resources/videos/nkd-agility-mission-and-purpose
-- /resources/nkd-agility-mission-and-purpose
 - /resources/yCyjGBNaRqI
+aliasesArchive:
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 aliasesFor404:
 - /resources/videos/nkd-agility-mission-and-purpose
 - /resources/nkd-agility-mission-and-purpose

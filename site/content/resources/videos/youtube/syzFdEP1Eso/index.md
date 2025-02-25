@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg
 duration: 352
 isShort: false
 aliases:
-- /resources/why-definition-of-done-is-crucial-for-success-in-scrum
-- /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
-- /resources/videos/syzFdEP1Eso
-- /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 - /resources/syzFdEP1Eso
+aliasesArchive:
+- /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
 aliasesFor404:
 - /resources/why-definition-of-done-is-crucial-for-success-in-scrum
 - /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-

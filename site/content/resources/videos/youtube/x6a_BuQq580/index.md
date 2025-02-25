@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: x6a_BuQq580
 url: /resources/videos/:slug
-slug: devops-migration-incomplete-migrations
+slug: mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
 layout: video
 aliases:
-- /resources/videos/x6a_BuQq580
-- /resources/videos/devops-migration-incomplete-migrations
-- /resources/devops-migration-incomplete-migrations
 - /resources/x6a_BuQq580
+aliasesArchive:
+- /resources/videos/mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
 aliasesFor404:
 - /resources/videos/devops-migration-incomplete-migrations
 - /resources/devops-migration-incomplete-migrations

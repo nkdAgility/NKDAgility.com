@@ -8,13 +8,13 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ItvOiaC32Hs
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-chaos
+slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
 layout: video
 aliases:
-- /resources/videos/ItvOiaC32Hs
-- /resources/videos/7-signs-of-the-agile-apocalypse-chaos
-- /resources/7-signs-of-the-agile-apocalypse-chaos
 - /resources/ItvOiaC32Hs
+- /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
+aliasesArchive:
+- /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
 aliasesFor404:
 - /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 - /resources/7-signs-of-the-agile-apocalypse-chaos

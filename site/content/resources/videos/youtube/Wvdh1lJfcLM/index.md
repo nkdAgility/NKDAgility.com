@@ -15,11 +15,9 @@ preview: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
 duration: 188
 isShort: false
 aliases:
-- /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
-- /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
-- /resources/videos/Wvdh1lJfcLM
-- /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - /resources/Wvdh1lJfcLM
+aliasesArchive:
+- /resources/videos/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 aliasesFor404:
 - /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 - /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops

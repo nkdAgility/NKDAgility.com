@@ -12,10 +12,10 @@ slug: ep005-leading-agile-change
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=r_Af7X25IDk
 aliases:
-- /resources/videos/r_Af7X25IDk
-- /resources/videos/ep005-leading-agile-change
-- /resources/ep005-leading-agile-change
 - /resources/r_Af7X25IDk
+aliasesArchive:
+- /resources/videos/ep-leading-agile-change
+- /resources/videos/ep005-leading-agile-change
 aliasesFor404:
 - /resources/videos/ep005-leading-agile-change
 - /resources/ep005-leading-agile-change

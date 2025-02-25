@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: EyqLSLHk_Ik
 url: /resources/videos/:slug
-slug: product-development-mentoring-program
+slug: empowering-teams-for-success-the-key-to-thriving-product-development
 layout: video
 aliases:
-- /resources/videos/EyqLSLHk_Ik
-- /resources/videos/product-development-mentoring-program
-- /resources/product-development-mentoring-program
 - /resources/EyqLSLHk_Ik
+aliasesArchive:
+- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
 aliasesFor404:
 - /resources/videos/product-development-mentoring-program
 - /resources/product-development-mentoring-program

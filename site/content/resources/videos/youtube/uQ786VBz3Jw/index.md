@@ -8,13 +8,12 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug
-slug: what-is-your-1-tip-for-effective-sprint-planning-
+slug: mastering-sprint-planning-key-principles-for-agile-success
 layout: video
 aliases:
-- /resources/videos/uQ786VBz3Jw
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
-- /resources/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/uQ786VBz3Jw
+aliasesArchive:
+- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
 aliasesFor404:
 - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/what-is-your-1-tip-for-effective-sprint-planning-

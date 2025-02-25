@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: tKEl0YVeWv4
 source: youtube
 url: /resources/videos/:slug
-slug: automate-everything-building-reliable,-fast,-and-scalable-products
+slug: unlocking-the-future-of-software-development-why-automation-is-your-key-to-success
 layout: video
 aliases:
-- /resources/videos/tKEl0YVeWv4
-- /resources/videos/automate-everything-building-reliable,-fast,-and-scalable-products
-- /resources/automate-everything-building-reliable,-fast,-and-scalable-products
 - /resources/tKEl0YVeWv4
+aliasesArchive:
+- /resources/videos/unlocking-the-future-of-software-development-why-automation-is-your-key-to-success
 aliasesFor404:
 - /resources/videos/automate-everything-building-reliable,-fast,-and-scalable-products
 - /resources/automate-everything-building-reliable,-fast,-and-scalable-products

@@ -9,13 +9,12 @@ ResourceImportSource: Youtube
 videoId: 1-jUmFcyiI8
 source: youtube
 url: /resources/videos/:slug
-slug: accelerating-time-to-market-with-a-tight-feedback-loop
+slug: maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
 layout: video
 aliases:
-- /resources/videos/1-jUmFcyiI8
-- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
-- /resources/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/1-jUmFcyiI8
+aliasesArchive:
+- /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
 aliasesFor404:
 - /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/accelerating-time-to-market-with-a-tight-feedback-loop

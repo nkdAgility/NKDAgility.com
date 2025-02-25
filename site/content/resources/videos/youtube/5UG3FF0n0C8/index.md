@@ -8,13 +8,14 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5UG3FF0n0C8
 url: /resources/videos/:slug
-slug: 10th-april-2020-office-hours-ask-me-anything
+slug: 10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
 canonicalUrl: https://www.youtube.com/watch?v=5UG3FF0n0C8
 aliases:
-- /resources/videos/5UG3FF0n0C8
-- /resources/videos/10th-april-2020-office-hours-ask-me-anything
-- /resources/10th-april-2020-office-hours-ask-me-anything
 - /resources/5UG3FF0n0C8
+- /resources/videos/10th-april-2020-office-hours-ask-me-anything
+aliasesArchive:
+- /resources/videos/th-april-office-hours-ask-me-anything
+- /resources/videos/10th-april-2020-office-hours-ask-me-anything
 aliasesFor404:
 - /resources/videos/10th-april-2020-office-hours-ask-me-anything
 - /resources/10th-april-2020-office-hours-ask-me-anything

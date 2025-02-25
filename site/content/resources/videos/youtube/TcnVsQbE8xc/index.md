@@ -9,17 +9,17 @@ ResourceImportSource: Youtube
 videoId: TcnVsQbE8xc
 source: internal
 url: /resources/videos/:slug
-slug: reasons-to-do-a-psm-ii-course-in-60-seconds
+slug: reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 layout: video
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/videos/TcnVsQbE8xc
 - /resources/TcnVsQbE8xc
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
+aliasesArchive:
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 aliasesFor404:
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
