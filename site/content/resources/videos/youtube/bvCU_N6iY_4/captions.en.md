@@ -1,0 +1,1 @@
+Join me monthly every fourth Wednesday for Business Agility Raw. Come and discuss what matters most to you today with our Lean Coffee format. Check out the session mural for this month's questions and add your own to the mix.

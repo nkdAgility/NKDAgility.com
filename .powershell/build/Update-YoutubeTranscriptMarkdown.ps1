@@ -13,7 +13,22 @@ function Get-CaptionsText {
     # Check if the description needs updating
    
     # Generate a new or enhanced description using OpenAI
-    $prompt = "Turn this youtube transcript into readable markdown using only the original words of the transcript in the language of the transcript. Dont add titles, but do add capitalisation and punctuation. The speakers name is Martin Hinshelwood and the company is NKDAgility or Naked Agility. \n\n $captionsText"
+    $prompt = @"
+
+    Turn this YouTube srt transcript into readable Markdown using only the original words of the transcript in the language of the transcript.
+
+    - Do not add titles, speaker names, or company names.
+    - Do not add explanations, attributes, or additional text.
+    - Only use the words from the transcript between the tildes (~).
+    - Ensure correct capitalisation and punctuation.
+    - Ensure the text is readable.
+    - Output only the cleaned transcript content. 
+    
+    ~~~
+    $captionsText
+    ~~~
+
+"@ 
     $newDescription = Get-OpenAIResponse -Prompt $prompt
     return $newDescription
 }
@@ -41,17 +56,25 @@ function Update-YoutubeTranscriptMarkdown {
                 # Load the video data from data.json if available
                 if (Test-Path $captionPath) {
                     $captionsData = Get-Content -Path $captionPath
-        
-                    # Load existing markdown or create a new HugoMarkdown object
-                    if (-not (Test-Path $markdownFile)) {
-                        Write-InfoLog "Markdown file not found for video: $videoId"
-                        $captionsText = Get-CaptionsText -captionsText $captionsData
-                        Set-Content -Path $markdownFile -Value $captionsText -Encoding UTF8NoBOM -NoNewline
-                        Write-InfoLog "Markdown created or updated for video: $videoId"
-                    }  
-                    else {
-                        Write-InfoLog "Markdown exists: $videoId"
+                    if ($hasWords = $captionsData -match '[a-zA-Z]') {
+                        # Load existing markdown or create a new HugoMarkdown object
+                        if (-not (Test-Path $markdownFile)) {
+
+                            Write-InfoLog "Markdown file not found for video: $videoId"
+
+                            $captionsText = Get-CaptionsText -captionsText $captionsData
+                            Set-Content -Path $markdownFile -Value $captionsText -Encoding UTF8NoBOM -NoNewline
+                            Write-InfoLog "Markdown created or updated for video: $videoId"
+                        }  
+                        else {
+                            Write-InfoLog "Markdown exists: $videoId"
+                        }
                     }
+                    else {
+                        Write-InfoLog "Should be deleted"
+                        Remove-Item -Path $captionPath
+                    }
+                   
         
                     
                 }
