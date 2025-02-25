@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
 - /resources/videos/kanban-boards
 - /resources/kanban-boards
-aliasesFor404:
-- /resources/videos/kanban-boards
-- /resources/kanban-boards
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true

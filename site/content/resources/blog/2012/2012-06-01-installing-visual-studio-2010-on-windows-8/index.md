@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/installing-visual-studio-2010-on-windows-8
 - /installing-visual-studio-2010-on-windows-8
 - /resources/blog/installing-visual-studio-2010-on-windows-8
-aliasesFor404:
-- /installing-visual-studio-2010-on-windows-8
-- /blog/installing-visual-studio-2010-on-windows-8
-- /resources/blog/installing-visual-studio-2010-on-windows-8
 tags:
 - Windows
 categories: []

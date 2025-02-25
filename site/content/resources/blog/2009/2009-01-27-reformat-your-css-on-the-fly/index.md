@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/reformat-your-css-on-the-fly
 - /reformat-your-css-on-the-fly
 - /resources/blog/reformat-your-css-on-the-fly
-aliasesFor404:
-- /reformat-your-css-on-the-fly
-- /blog/reformat-your-css-on-the-fly
-- /resources/blog/reformat-your-css-on-the-fly
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

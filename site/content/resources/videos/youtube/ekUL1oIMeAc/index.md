@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of-
-aliasesFor404:
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

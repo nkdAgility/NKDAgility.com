@@ -25,12 +25,6 @@ aliasesArchive:
 - /windows-8-issue--local-network-is-detected-as-public
 - /blog/windows-8-issue--local-network-is-detected-as-public
 - /resources/blog/windows-8-issue-local-network-is-detected-as-public
-aliasesFor404:
-- /windows-8-issue-local-network-is-detected-as-public
-- /blog/windows-8-issue-local-network-is-detected-as-public
-- /windows-8-issue--local-network-is-detected-as-public
-- /blog/windows-8-issue--local-network-is-detected-as-public
-- /resources/blog/windows-8-issue-local-network-is-detected-as-public
 tags:
 - Windows
 - Install and Configuration

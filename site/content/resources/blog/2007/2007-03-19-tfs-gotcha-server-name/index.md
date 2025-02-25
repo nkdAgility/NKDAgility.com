@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-gotcha-(server-name)
 - /blog/tfs-gotcha-(server-name)
 - /resources/blog/tfs-gotcha-server-name
-aliasesFor404:
-- /tfs-gotcha-server-name
-- /blog/tfs-gotcha-server-name
-- /tfs-gotcha-(server-name)
-- /blog/tfs-gotcha-(server-name)
-- /resources/blog/tfs-gotcha-server-name
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:

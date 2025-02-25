@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/special-sprints-agile-banditry-or-risk-management
 - /resources/videos/5-kinds-of-agile-bandits-special-sprints
 - /resources/5-kinds-of-agile-bandits-special-sprints
-aliasesFor404:
-- /resources/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
-- /resources/5-kinds-of-agile-bandits-special-sprints
 sitemap:
   filename: sitemap.xml
   priority: 0.6

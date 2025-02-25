@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
-aliasesFor404:
-- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
 - Scrum
 - Social Technologies

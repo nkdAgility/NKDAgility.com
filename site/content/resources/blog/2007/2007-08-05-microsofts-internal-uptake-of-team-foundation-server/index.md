@@ -25,12 +25,6 @@ aliasesArchive:
 - /microsoft's-internal-uptake-of-team-foundation-server
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
 - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
-aliasesFor404:
-- /microsofts-internal-uptake-of-team-foundation-server
-- /blog/microsofts-internal-uptake-of-team-foundation-server
-- /microsoft's-internal-uptake-of-team-foundation-server
-- /blog/microsoft's-internal-uptake-of-team-foundation-server
-- /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 tags:
 - Products and Books
 - News and Reviews

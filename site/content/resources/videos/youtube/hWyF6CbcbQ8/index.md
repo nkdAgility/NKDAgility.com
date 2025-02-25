@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/mastering-data-integrity-the-key-to-successful-devops-migrations
 - /resources/videos/devops-migration-data-integrity-issues
 - /resources/devops-migration-data-integrity-issues
-aliasesFor404:
-- /resources/videos/devops-migration-data-integrity-issues
-- /resources/devops-migration-data-integrity-issues
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false

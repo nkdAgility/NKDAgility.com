@@ -25,12 +25,6 @@ aliasesArchive:
 - /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
-aliasesFor404:
-- /find-mappings-states-defined-test-suit-work-item-type
-- /blog/find-mappings-states-defined-test-suit-work-item-type
-- /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
-- /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
-- /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
 - Install and Configuration
 - System Configuration

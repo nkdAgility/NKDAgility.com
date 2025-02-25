@@ -25,12 +25,6 @@ aliasesArchive:
 - /solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
-aliasesFor404:
-- /solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
-- /blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
-- /solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
-- /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
-- /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
 - Troubleshooting
 - Install and Configuration

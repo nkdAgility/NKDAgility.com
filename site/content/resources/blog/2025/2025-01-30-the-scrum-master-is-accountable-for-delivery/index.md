@@ -26,9 +26,6 @@ aliases:
 aliasesArchive:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
-aliasesFor404:
-- /the-scrum-master-is-accountable-for-delivery
-- /blog/the-scrum-master-is-accountable-for-delivery
 tags:
 - Accountability
 - Scrum Team

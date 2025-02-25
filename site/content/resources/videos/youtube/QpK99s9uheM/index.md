@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
 - /resources/videos/is-a-scrum-master-an-agile-project-manager-
 - /resources/is-a-scrum-master-an-agile-project-manager-
-aliasesFor404:
-- /resources/videos/is-a-scrum-master-an-agile-project-manager-
-- /resources/is-a-scrum-master-an-agile-project-manager-
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: true

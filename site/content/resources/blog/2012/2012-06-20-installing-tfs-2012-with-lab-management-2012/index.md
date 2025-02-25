@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/installing-tfs-2012-with-lab-management-2012
 - /installing-tfs-2012-with-lab-management-2012
 - /resources/blog/installing-tfs-2012-with-lab-management-2012
-aliasesFor404:
-- /installing-tfs-2012-with-lab-management-2012
-- /blog/installing-tfs-2012-with-lab-management-2012
-- /resources/blog/installing-tfs-2012-with-lab-management-2012
 tags:
 - Install and Configuration
 - System Configuration

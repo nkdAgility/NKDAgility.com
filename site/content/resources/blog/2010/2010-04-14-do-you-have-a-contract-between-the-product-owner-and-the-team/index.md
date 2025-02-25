@@ -25,12 +25,6 @@ aliasesArchive:
 - /do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
-aliasesFor404:
-- /do-you-have-a-contract-between-the-product-owner-and-the-team
-- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
-- /do-you-have-a-contract-between-the-product-owner-and-the-team-
-- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
-- /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 tags:
 - Agile Product Management
 - Agile Project Management

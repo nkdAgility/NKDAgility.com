@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
-aliasesFor404:
-- /become-the-leader-that-you-were-meant-to-to-be
-- /blog/become-the-leader-that-you-were-meant-to-to-be
-- /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
 - People and Process
 - Scrum Master

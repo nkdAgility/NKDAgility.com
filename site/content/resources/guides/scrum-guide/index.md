@@ -17,11 +17,6 @@ aliasesArchive:
 - /guides/Scrum-Guide.html
 - /learn/agile-delivery-kit/guides/scrum-guide
 - /resources/guides/_guides/scrum-guide.md
-aliasesFor404:
-- /guides/Scrum-Guide/
-- /guides/Scrum-Guide.html
-- /learn/agile-delivery-kit/guides/scrum-guide
-- /resources/guides/_guides/scrum-guide.md
 downloads:
 - title: Scrum Guide 2020
   type: pdf

@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
 - /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
-aliasesFor404:
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
-- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false

@@ -19,9 +19,6 @@ aliasesArchive:
 - /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
-aliasesFor404:
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/identity-crisis
 - /identity-crisis
 - /resources/blog/identity-crisis
-aliasesFor404:
-- /identity-crisis
-- /blog/identity-crisis
-- /resources/blog/identity-crisis
 tags:
 - Windows
 - Practical Techniques and Tooling

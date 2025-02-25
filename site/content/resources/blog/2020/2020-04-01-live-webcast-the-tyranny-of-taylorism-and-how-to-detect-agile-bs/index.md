@@ -25,12 +25,6 @@ aliasesArchive:
 - /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-aliasesFor404:
-- /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 tags:
 - People and Process
 categories:

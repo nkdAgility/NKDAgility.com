@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/harris-beach-sds-ultrabook-unbox
 - /resources/harris-beach-sds-ultrabook-unbox
-aliasesFor404:
-- /resources/videos/harris-beach-sds-ultrabook-unbox
-- /resources/harris-beach-sds-ultrabook-unbox
 preview: https://i.ytimg.com/vi/msmlRibX2zE/maxresdefault.jpg
 duration: 19
 isShort: true

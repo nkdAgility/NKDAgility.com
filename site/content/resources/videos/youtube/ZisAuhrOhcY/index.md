@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-aliasesFor404:
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

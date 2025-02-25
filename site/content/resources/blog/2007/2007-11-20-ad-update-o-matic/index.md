@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/ad-update-o-matic
 - /ad-update-o-matic
 - /resources/blog/ad-update-o-matic
-aliasesFor404:
-- /ad-update-o-matic
-- /blog/ad-update-o-matic
-- /resources/blog/ad-update-o-matic
 tags:
 - Technical Mastery
 - Operational Practices

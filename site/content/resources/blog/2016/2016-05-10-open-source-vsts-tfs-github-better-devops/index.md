@@ -25,12 +25,6 @@ aliasesArchive:
 - /open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
-aliasesFor404:
-- /open-source-vsts-tfs-github-better-devops
-- /blog/open-source-vsts-tfs-github-better-devops
-- /open-source-with-vsts-or-tfs-and-github-for-better-devops
-- /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
-- /resources/blog/open-source-vsts-tfs-github-better-devops
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

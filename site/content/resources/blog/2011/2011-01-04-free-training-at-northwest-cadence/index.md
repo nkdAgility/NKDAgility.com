@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/free-training-at-northwest-cadence
 - /free-training-at-northwest-cadence
 - /resources/blog/free-training-at-northwest-cadence
-aliasesFor404:
-- /free-training-at-northwest-cadence
-- /blog/free-training-at-northwest-cadence
-- /resources/blog/free-training-at-northwest-cadence
 tags:
 - Events and Presentations
 - Miscellaneous

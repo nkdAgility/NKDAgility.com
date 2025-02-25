@@ -25,12 +25,6 @@ aliasesArchive:
 - /evolution-not-transformation--this-is-the-inevitability-of-change
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
-aliasesFor404:
-- /evolution-not-transformation-this-is-the-inevitability-of-change
-- /blog/evolution-not-transformation-this-is-the-inevitability-of-change
-- /evolution-not-transformation--this-is-the-inevitability-of-change
-- /blog/evolution-not-transformation--this-is-the-inevitability-of-change
-- /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags:
 - Organisational Agility
 - Experimentation

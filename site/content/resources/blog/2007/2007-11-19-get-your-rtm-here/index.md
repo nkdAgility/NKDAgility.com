@@ -25,12 +25,6 @@ aliasesArchive:
 - /get-your-rtm-here-
 - /blog/get-your-rtm-here-
 - /resources/blog/get-your-rtm-here
-aliasesFor404:
-- /get-your-rtm-here
-- /blog/get-your-rtm-here
-- /get-your-rtm-here-
-- /blog/get-your-rtm-here-
-- /resources/blog/get-your-rtm-here
 tags:
 - Software Development
 - News and Reviews

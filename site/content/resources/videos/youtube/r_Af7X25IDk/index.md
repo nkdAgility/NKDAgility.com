@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/ep-leading-agile-change
 - /resources/videos/ep005-leading-agile-change
 - /resources/ep005-leading-agile-change
-aliasesFor404:
-- /resources/videos/ep005-leading-agile-change
-- /resources/ep005-leading-agile-change
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false

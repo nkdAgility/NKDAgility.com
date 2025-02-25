@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance
 - /resources/videos/the-superpower-of-quality-engineering
 - /resources/the-superpower-of-quality-engineering
-aliasesFor404:
-- /resources/videos/the-superpower-of-quality-engineering
-- /resources/the-superpower-of-quality-engineering
 preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true

@@ -25,12 +25,6 @@ aliasesArchive:
 - /installing-release-management-server-for-tfs-2013
 - /blog/installing-release-management-server-for-tfs-2013
 - /resources/blog/installing-release-management-server-tfs-2013
-aliasesFor404:
-- /installing-release-management-server-tfs-2013
-- /blog/installing-release-management-server-tfs-2013
-- /installing-release-management-server-for-tfs-2013
-- /blog/installing-release-management-server-for-tfs-2013
-- /resources/blog/installing-release-management-server-tfs-2013
 tags:
 - Install and Configuration
 categories:

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/installing-office-2013-on-windows-8
 - /installing-office-2013-on-windows-8
 - /resources/blog/installing-office-2013-on-windows-8
-aliasesFor404:
-- /installing-office-2013-on-windows-8
-- /blog/installing-office-2013-on-windows-8
-- /resources/blog/installing-office-2013-on-windows-8
 tags:
 - Windows
 - Install and Configuration

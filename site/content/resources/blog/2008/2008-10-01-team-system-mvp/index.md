@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/team-system-mvp
 - /team-system-mvp
 - /resources/blog/team-system-mvp
-aliasesFor404:
-- /team-system-mvp
-- /blog/team-system-mvp
-- /resources/blog/team-system-mvp
 tags:
 - Personal
 - News and Reviews

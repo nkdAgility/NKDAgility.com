@@ -25,12 +25,6 @@ aliasesArchive:
 - /access-denied-for-orchestration-plan-on-build
 - /blog/access-denied-for-orchestration-plan-on-build
 - /resources/blog/access-denied-orchestration-plan-build
-aliasesFor404:
-- /access-denied-orchestration-plan-build
-- /blog/access-denied-orchestration-plan-build
-- /access-denied-for-orchestration-plan-on-build
-- /blog/access-denied-for-orchestration-plan-on-build
-- /resources/blog/access-denied-orchestration-plan-build
 tags:
 - Troubleshooting
 categories:

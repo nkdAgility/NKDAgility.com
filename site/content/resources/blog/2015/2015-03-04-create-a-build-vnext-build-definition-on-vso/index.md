@@ -25,12 +25,6 @@ aliasesArchive:
 - /create-a-build-vnext-build-definition
 - /blog/create-a-build-vnext-build-definition
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
-aliasesFor404:
-- /create-a-build-vnext-build-definition-on-vso
-- /blog/create-a-build-vnext-build-definition-on-vso
-- /create-a-build-vnext-build-definition
-- /blog/create-a-build-vnext-build-definition
-- /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
 - Practical Techniques and Tooling
 - Software Development

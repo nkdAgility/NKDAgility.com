@@ -27,13 +27,6 @@ aliasesArchive:
 - /visual-studio-2010-overview---microsoft-test-manager
 - /blog/visual-studio-2010-overview---microsoft-test-manager
 - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
-aliasesFor404:
-- /visual-studio-2010-overview-microsoft-test-manager
-- /blog/visual-studio-2010-overview-microsoft-test-manager
-- /visual-studio-2010-overview---microsoft-test-manager
-- /blog/visual-studio-2010-overview---microsoft-test-manager
-- /visual-studio-2010-overview
-- /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management

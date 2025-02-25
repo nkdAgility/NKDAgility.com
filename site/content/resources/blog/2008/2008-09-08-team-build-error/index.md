@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/team-build-error
 - /team-build-error
 - /resources/blog/team-build-error
-aliasesFor404:
-- /team-build-error
-- /blog/team-build-error
-- /resources/blog/team-build-error
 tags:
 - Windows
 - Troubleshooting

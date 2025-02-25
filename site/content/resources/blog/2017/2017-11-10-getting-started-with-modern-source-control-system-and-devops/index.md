@@ -26,12 +26,6 @@ aliasesArchive:
 - /getting-started-with-a-modern-source-control-system-and-devops
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
-aliasesFor404:
-- /getting-started-with-modern-source-control-system-and-devops
-- /blog/getting-started-with-modern-source-control-system-and-devops
-- /getting-started-with-a-modern-source-control-system-and-devops
-- /blog/getting-started-with-a-modern-source-control-system-and-devops
-- /resources/blog/getting-started-with-modern-source-control-system-and-devops
 tags:
 - Software Development
 categories:

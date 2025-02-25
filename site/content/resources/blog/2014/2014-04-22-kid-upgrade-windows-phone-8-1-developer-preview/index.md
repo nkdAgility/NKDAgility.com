@@ -25,12 +25,6 @@ aliasesArchive:
 - /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
-aliasesFor404:
-- /kid-upgrade-windows-phone-8-1-developer-preview
-- /blog/kid-upgrade-windows-phone-8-1-developer-preview
-- /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
-- /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
-- /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
 tags:
 - Windows
 - Install and Configuration

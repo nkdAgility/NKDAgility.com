@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/the-overlooked-virtue-of-agility-diligence
 - /resources/videos/7-virtues-of-agile-diligence
 - /resources/7-virtues-of-agile-diligence
-aliasesFor404:
-- /resources/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
-- /resources/7-virtues-of-agile-diligence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

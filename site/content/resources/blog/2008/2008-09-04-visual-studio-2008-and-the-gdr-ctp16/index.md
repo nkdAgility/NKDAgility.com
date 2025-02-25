@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/visual-studio-2008-and-the-gdr-ctp16
 - /visual-studio-2008-and-the-gdr-ctp16
 - /resources/blog/visual-studio-2008-and-the-gdr-ctp16
-aliasesFor404:
-- /visual-studio-2008-and-the-gdr-ctp16
-- /blog/visual-studio-2008-and-the-gdr-ctp16
-- /resources/blog/visual-studio-2008-and-the-gdr-ctp16
 tags:
 - Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png

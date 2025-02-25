@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
 - /resources/videos/introduction-to-evidence-based-management-excerpt-2
 - /resources/introduction-to-evidence-based-management-excerpt-2
-aliasesFor404:
-- /resources/videos/introduction-to-evidence-based-management-excerpt-2
-- /resources/introduction-to-evidence-based-management-excerpt-2
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true

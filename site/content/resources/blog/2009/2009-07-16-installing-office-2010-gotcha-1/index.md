@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/installing-office-2010-gotcha-1
 - /installing-office-2010-gotcha-1
 - /resources/blog/installing-office-2010-gotcha-1
-aliasesFor404:
-- /installing-office-2010-gotcha-1
-- /blog/installing-office-2010-gotcha-1
-- /resources/blog/installing-office-2010-gotcha-1
 tags:
 - Install and Configuration
 - Troubleshooting

@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-aliasesFor404:
-- /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-- /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-- /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 tags:
 - Agile Values and Principles
 - Software Development

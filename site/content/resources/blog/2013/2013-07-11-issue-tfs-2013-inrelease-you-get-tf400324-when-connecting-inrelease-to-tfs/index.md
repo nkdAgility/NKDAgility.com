@@ -25,12 +25,6 @@ aliasesArchive:
 - /issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
-aliasesFor404:
-- /issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
-- /blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
-- /issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
-- /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
-- /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 tags:
 - Troubleshooting
 - Practical Techniques and Tooling

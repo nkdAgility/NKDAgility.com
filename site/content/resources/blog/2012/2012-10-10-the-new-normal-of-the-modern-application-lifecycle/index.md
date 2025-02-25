@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
-aliasesFor404:
-- /the-new-normal-of-the-modern-application-lifecycle
-- /blog/the-new-normal-of-the-modern-application-lifecycle
-- /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
 - People and Process
 - Application Lifecycle Management

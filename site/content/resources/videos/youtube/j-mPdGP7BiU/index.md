@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/videos/ppdv-learning-outcomes
 - /resources/ppdv-learning-outcomes
-aliasesFor404:
-- /resources/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
-- /resources/ppdv-learning-outcomes
 sitemap:
   filename: sitemap.xml
   priority: 0.6

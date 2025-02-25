@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-integration-tools–issue--analysisprovider-not-found
 - /blog/tfs-integration-tools–issue--analysisprovider-not-found
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
-aliasesFor404:
-- /tfs-integration-toolsissue-analysisprovider-not-found
-- /blog/tfs-integration-toolsissue-analysisprovider-not-found
-- /tfs-integration-tools–issue--analysisprovider-not-found
-- /blog/tfs-integration-tools–issue--analysisprovider-not-found
-- /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
 - Practical Techniques and Tooling

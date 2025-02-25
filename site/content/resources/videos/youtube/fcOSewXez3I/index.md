@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
-aliasesFor404:
-- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
-- /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false

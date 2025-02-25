@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/vb-9
 - /vb-9
 - /resources/blog/vb-9
-aliasesFor404:
-- /vb-9
-- /blog/vb-9
-- /resources/blog/vb-9
 tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

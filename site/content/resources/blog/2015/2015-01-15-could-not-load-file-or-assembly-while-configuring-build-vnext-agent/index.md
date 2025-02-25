@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
-aliasesFor404:
-- /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
-- /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
-- /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 tags:
 - Windows
 - Install and Configuration

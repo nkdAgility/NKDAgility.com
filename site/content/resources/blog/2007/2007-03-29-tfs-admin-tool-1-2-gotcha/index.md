@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-admin-tool-1-2-gotcha
 - /tfs-admin-tool-1-2-gotcha
 - /resources/blog/tfs-admin-tool-1-2-gotcha
-aliasesFor404:
-- /tfs-admin-tool-1-2-gotcha
-- /blog/tfs-admin-tool-1-2-gotcha
-- /resources/blog/tfs-admin-tool-1-2-gotcha
 tags:
 - Troubleshooting
 categories: []

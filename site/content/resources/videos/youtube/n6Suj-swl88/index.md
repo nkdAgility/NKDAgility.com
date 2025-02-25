@@ -17,10 +17,6 @@ aliasesArchive:
 - /resources/videos/who-should-lead-the-sprint-review-
 - /resources/who-should-lead-the-sprint-review-why-how
 - /resources/who-should-lead-the-sprint-review-
-aliasesFor404:
-- /resources/videos/who-should-lead-the-sprint-review-
-- /resources/who-should-lead-the-sprint-review-why-how
-- /resources/who-should-lead-the-sprint-review-
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false

@@ -25,12 +25,6 @@ aliasesArchive:
 - /branch-madness-
 - /blog/branch-madness-
 - /resources/blog/branch-madness
-aliasesFor404:
-- /branch-madness
-- /blog/branch-madness
-- /branch-madness-
-- /blog/branch-madness-
-- /resources/blog/branch-madness
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

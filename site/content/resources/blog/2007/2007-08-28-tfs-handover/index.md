@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-handover
 - /tfs-handover
 - /resources/blog/tfs-handover
-aliasesFor404:
-- /tfs-handover
-- /blog/tfs-handover
-- /resources/blog/tfs-handover
 tags:
 - Install and Configuration
 - System Configuration

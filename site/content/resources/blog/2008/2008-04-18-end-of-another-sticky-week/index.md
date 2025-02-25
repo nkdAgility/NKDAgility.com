@@ -25,12 +25,6 @@ aliasesArchive:
 - /blog/end-of-another-sticky-week---
 - /end-of-another-sticky-week
 - /resources/blog/end-of-another-sticky-week
-aliasesFor404:
-- /end-of-another-sticky-week
-- /blog/end-of-another-sticky-week
-- /end-of-another-sticky-week---
-- /blog/end-of-another-sticky-week---
-- /resources/blog/end-of-another-sticky-week
 tags:
 - Software Development
 categories: []

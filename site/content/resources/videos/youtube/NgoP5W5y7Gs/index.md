@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/security-by-design-building-secure-software
 - /resources/security-by-design-building-secure-software
-aliasesFor404:
-- /resources/videos/security-by-design-building-secure-software
-- /resources/security-by-design-building-secure-software
 preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false

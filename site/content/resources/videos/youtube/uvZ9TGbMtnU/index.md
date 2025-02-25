@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
-aliasesFor404:
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
 preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 isShort: true

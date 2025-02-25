@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-aliasesFor404:
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false

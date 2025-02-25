@@ -25,12 +25,6 @@ aliasesArchive:
 - /one-team-project-to-rule-them-all
 - /blog/one-team-project-to-rule-them-all
 - /resources/blog/one-team-project
-aliasesFor404:
-- /one-team-project
-- /blog/one-team-project
-- /one-team-project-to-rule-them-all
-- /blog/one-team-project-to-rule-them-all
-- /resources/blog/one-team-project
 tags:
 - Agile Planning Tools
 - Practical Techniques and Tooling

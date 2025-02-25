@@ -15,9 +15,6 @@ aliases:
 aliasesArchive:
 - /methods/kanban-method/
 - /learn/agile-delivery-kit/strategies/kanban-method/
-aliasesFor404:
-- /methods/kanban-method/
-- /learn/agile-delivery-kit/strategies/kanban-method/
 card:
   button:
     content: More info

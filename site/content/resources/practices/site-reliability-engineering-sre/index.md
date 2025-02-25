@@ -11,8 +11,6 @@ aliases:
 - /resources/K0i7PIZARDw
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
-aliasesFor404:
-- /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 references:
 - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)'
   url: https://nkdagility.net/ndcoslo19-LiveSiteCulture

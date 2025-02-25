@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
-aliasesFor404:
-- /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
-- /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
-- /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

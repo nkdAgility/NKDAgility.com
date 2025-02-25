@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/the-power-of-immersive-learning-bridging-theory-and-experience
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
-aliasesFor404:
-- /resources/the-power-of-immersive-learning-bridging-theory-and-experience
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6

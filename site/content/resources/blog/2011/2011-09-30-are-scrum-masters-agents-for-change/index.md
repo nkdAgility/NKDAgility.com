@@ -25,12 +25,6 @@ aliasesArchive:
 - /are-scrum-masters-agents-for-change-
 - /blog/are-scrum-masters-agents-for-change-
 - /resources/blog/are-scrum-masters-agents-for-change
-aliasesFor404:
-- /are-scrum-masters-agents-for-change
-- /blog/are-scrum-masters-agents-for-change
-- /are-scrum-masters-agents-for-change-
-- /blog/are-scrum-masters-agents-for-change-
-- /resources/blog/are-scrum-masters-agents-for-change
 tags:
 - People and Process
 - Scrum Master

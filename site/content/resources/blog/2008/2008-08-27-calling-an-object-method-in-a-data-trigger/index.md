@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/calling-an-object-method-in-a-data-trigger
 - /calling-an-object-method-in-a-data-trigger
 - /resources/blog/calling-an-object-method-in-a-data-trigger
-aliasesFor404:
-- /calling-an-object-method-in-a-data-trigger
-- /blog/calling-an-object-method-in-a-data-trigger
-- /resources/blog/calling-an-object-method-in-a-data-trigger
 tags:
 - Troubleshooting
 - Technical Mastery

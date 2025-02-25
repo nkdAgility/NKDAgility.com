@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/creating-a-data-access-layer-using-unity
 - /creating-a-data-access-layer-using-unity
 - /resources/blog/creating-a-data-access-layer-using-unity
-aliasesFor404:
-- /creating-a-data-access-layer-using-unity
-- /blog/creating-a-data-access-layer-using-unity
-- /resources/blog/creating-a-data-access-layer-using-unity
 tags:
 - Software Development
 - Practical Techniques and Tooling

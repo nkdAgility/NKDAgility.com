@@ -23,11 +23,6 @@ aliasesArchive:
 - /resources/what-is-scrum-2
 - /resources/videos/what-is-scrum-
 - /resources/what-is-scrum-
-aliasesFor404:
-- /resources/what-is-scrum-3
-- /resources/what-is-scrum-2
-- /resources/videos/what-is-scrum-
-- /resources/what-is-scrum-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

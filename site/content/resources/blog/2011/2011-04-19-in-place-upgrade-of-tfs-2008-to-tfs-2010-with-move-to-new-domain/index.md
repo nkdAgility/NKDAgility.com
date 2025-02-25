@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 - /in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 - /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
-aliasesFor404:
-- /in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
-- /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
-- /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 tags:
 - Install and Configuration
 - System Configuration

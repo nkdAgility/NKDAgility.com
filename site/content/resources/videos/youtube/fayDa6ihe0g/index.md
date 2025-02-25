@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
 - /resources/live-virtual-professional-scrum-product-owner-in-5-minutes!
-aliasesFor404:
-- /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
-- /resources/live-virtual-professional-scrum-product-owner-in-5-minutes!
 preview: https://i.ytimg.com/vi/fayDa6ihe0g/maxresdefault.jpg
 duration: 301
 isShort: false

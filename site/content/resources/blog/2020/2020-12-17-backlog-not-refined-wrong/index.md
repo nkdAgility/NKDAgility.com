@@ -26,12 +26,6 @@ aliasesArchive:
 - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/blog/backlog-not-refined-wrong
-aliasesFor404:
-- /backlog-not-refined-wrong
-- /blog/backlog-not-refined-wrong
-- /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
-- /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
-- /resources/blog/backlog-not-refined-wrong
 tags:
 - Scrum Product Development
 - Product Backlog

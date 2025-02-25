@@ -23,11 +23,6 @@ aliasesArchive:
 - /automated-testing-in-a-modern-application-lifecycle/
 - /automated-testing-in-a-modern-application-lifecycle
 - /resources/blog/automated-testing-in-a-modern-application-lifecycle
-aliasesFor404:
-- /automated-testing-in-a-modern-application-lifecycle
-- /blog/automated-testing-in-a-modern-application-lifecycle
-- /automated-testing-in-a-modern-application-lifecycle/
-- /resources/blog/automated-testing-in-a-modern-application-lifecycle
 tags:
 - Software Development
 - Test Automation

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-aliasesFor404:
-- /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-- /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-- /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 tags:
 - Events and Presentations
 categories:

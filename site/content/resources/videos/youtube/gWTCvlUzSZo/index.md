@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
 - /resources/videos/5-tools-that-scrum-masters-love-part-3
 - /resources/5-tools-that-scrum-masters-love-part-3
-aliasesFor404:
-- /resources/videos/5-tools-that-scrum-masters-love-part-3
-- /resources/5-tools-that-scrum-masters-love-part-3
 preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
 duration: 45
 isShort: true

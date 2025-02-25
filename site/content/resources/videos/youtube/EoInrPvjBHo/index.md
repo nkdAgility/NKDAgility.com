@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/5-kinds-of-agile-bandits-product-owner-bandits
-aliasesFor404:
-- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-- /resources/5-kinds-of-agile-bandits-product-owner-bandits
 sitemap:
   filename: sitemap.xml
   priority: 0.6

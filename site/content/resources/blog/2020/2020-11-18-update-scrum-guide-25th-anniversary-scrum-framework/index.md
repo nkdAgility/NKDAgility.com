@@ -25,12 +25,6 @@ aliasesArchive:
 - /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
-aliasesFor404:
-- /update-scrum-guide-25th-anniversary-scrum-framework
-- /blog/update-scrum-guide-25th-anniversary-scrum-framework
-- /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
-- /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
-- /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 tags:
 - Professional Scrum
 categories:

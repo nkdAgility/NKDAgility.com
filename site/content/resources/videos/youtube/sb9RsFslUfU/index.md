@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 - /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
-aliasesFor404:
-- /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
-- /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
-- /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

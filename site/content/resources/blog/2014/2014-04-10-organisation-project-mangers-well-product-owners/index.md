@@ -25,12 +25,6 @@ aliasesArchive:
 - /does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
 - /blog/does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
 - /resources/blog/organisation-project-mangers-well-product-owners
-aliasesFor404:
-- /organisation-project-mangers-well-product-owners
-- /blog/organisation-project-mangers-well-product-owners
-- /does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
-- /blog/does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
-- /resources/blog/organisation-project-mangers-well-product-owners
 tags:
 - Agile Product Operating Model
 - Agile Product Management

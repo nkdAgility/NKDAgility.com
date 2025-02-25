@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/videos/choosing-scrum-org-over-scrum-alliance!
 - /resources/choosing-scrum-org-over-scrum-alliance!
-aliasesFor404:
-- /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/videos/choosing-scrum-org-over-scrum-alliance!
-- /resources/choosing-scrum-org-over-scrum-alliance!
 sitemap:
   filename: sitemap.xml
   priority: 0.6

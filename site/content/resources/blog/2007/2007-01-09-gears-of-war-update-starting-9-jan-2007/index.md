@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/gears-of-war-update-starting-9-jan-2007
 - /gears-of-war-update-starting-9-jan-2007
 - /resources/blog/gears-of-war-update-starting-9-jan-2007
-aliasesFor404:
-- /gears-of-war-update-starting-9-jan-2007
-- /blog/gears-of-war-update-starting-9-jan-2007
-- /resources/blog/gears-of-war-update-starting-9-jan-2007
 tags:
 - Troubleshooting
 - Frequent Releases

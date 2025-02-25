@@ -15,8 +15,6 @@ aliases:
 - /resources/p1bdjnIJDmW
 aliasesArchive:
 - /principles/customer-focus/
-aliasesFor404:
-- /principles/customer-focus/
 card:
   button:
     content: Start Optimizing Now

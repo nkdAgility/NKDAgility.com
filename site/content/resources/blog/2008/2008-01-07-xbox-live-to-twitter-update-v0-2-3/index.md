@@ -27,14 +27,6 @@ aliasesArchive:
 - /resources/blog/xbox-live-to-twitter-update-v0-2-3
 - /xbox--live-to-twitter-update-(v0-2-3)
 - /blog/xbox--live-to-twitter-update-(v0-2-3)
-aliasesFor404:
-- /xbox-live-to-twitter-update-v0-2-3
-- /blog/xbox-live-to-twitter-update-v0-2-3
-- /xbox--live-to-twitter-update-(v0-2-3)
-- /blog/xbox--live-to-twitter-update-(v0-2-3)
-- /xbox-live-to-twitter-update-(v0-2-3)
-- /blog/xbox-live-to-twitter-update-(v0-2-3)
-- /resources/blog/xbox-live-to-twitter-update-v0-2-3
 tags:
 - Discovery and Learning
 - Technical Mastery

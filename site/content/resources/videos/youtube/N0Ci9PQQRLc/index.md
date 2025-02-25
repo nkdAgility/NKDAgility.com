@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
 - /resources/how-does-your-real-world-experience-translate-into-your-training-style-
-aliasesFor404:
-- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
-- /resources/how-does-your-real-world-experience-translate-into-your-training-style-
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
 isShort: false

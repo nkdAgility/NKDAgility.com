@@ -25,12 +25,6 @@ aliasesArchive:
 - /team-server-event-handlers-made-easy---
 - /blog/team-server-event-handlers-made-easy---
 - /resources/blog/team-server-event-handlers-made-easy
-aliasesFor404:
-- /team-server-event-handlers-made-easy
-- /blog/team-server-event-handlers-made-easy
-- /team-server-event-handlers-made-easy---
-- /blog/team-server-event-handlers-made-easy---
-- /resources/blog/team-server-event-handlers-made-easy
 categories:
 - Engineering Excellence
 tags:

@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/7-harbingers-of-the-agile-apocalypse-chaos
 - /resources/videos/chaos!-7-harbingers-agile-apocalypse
 - /resources/chaos!-7-harbingers-agile-apocalypse
-aliasesFor404:
-- /resources/7-harbingers-of-the-agile-apocalypse-chaos
-- /resources/videos/chaos!-7-harbingers-agile-apocalypse
-- /resources/chaos!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6

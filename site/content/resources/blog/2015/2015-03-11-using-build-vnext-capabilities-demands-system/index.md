@@ -25,12 +25,6 @@ aliasesArchive:
 - /using-the-build-vnext-capabilities-and-demands-system
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/blog/using-build-vnext-capabilities-demands-system
-aliasesFor404:
-- /using-build-vnext-capabilities-demands-system
-- /blog/using-build-vnext-capabilities-demands-system
-- /using-the-build-vnext-capabilities-and-demands-system
-- /blog/using-the-build-vnext-capabilities-and-demands-system
-- /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
 - Windows
 - Install and Configuration

@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-sticky-buddy-poc-(wpf)-release
 - /blog/tfs-sticky-buddy-poc-(wpf)-release
 - /resources/blog/tfs-sticky-buddy-poc-wpf-release
-aliasesFor404:
-- /tfs-sticky-buddy-poc-wpf-release
-- /blog/tfs-sticky-buddy-poc-wpf-release
-- /tfs-sticky-buddy-poc-(wpf)-release
-- /blog/tfs-sticky-buddy-poc-(wpf)-release
-- /resources/blog/tfs-sticky-buddy-poc-wpf-release
 tags:
 - Install and Configuration
 - Software Development

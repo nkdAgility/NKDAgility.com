@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/advanced-email-content
 - /advanced-email-content
 - /resources/blog/advanced-email-content
-aliasesFor404:
-- /advanced-email-content
-- /blog/advanced-email-content
-- /resources/blog/advanced-email-content
 tags:
 - Windows
 categories: []

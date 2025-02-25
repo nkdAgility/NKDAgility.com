@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 - /resources/nkd-agility-your-partner-in-engineering-excellence
-aliasesFor404:
-- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
-- /resources/nkd-agility-your-partner-in-engineering-excellence
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
 duration: 127
 isShort: false

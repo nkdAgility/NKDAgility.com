@@ -25,12 +25,6 @@ aliasesArchive:
 - /what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 - /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 - /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
-aliasesFor404:
-- /what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
-- /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
-- /what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
-- /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
-- /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 tags:
 - Evidence Based Management
 categories:

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/windows-live-skydrive-beta
 - /windows-live-skydrive-beta
 - /resources/blog/windows-live-skydrive-beta
-aliasesFor404:
-- /windows-live-skydrive-beta
-- /blog/windows-live-skydrive-beta
-- /resources/blog/windows-live-skydrive-beta
 tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

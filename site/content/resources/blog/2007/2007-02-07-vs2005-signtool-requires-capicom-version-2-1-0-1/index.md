@@ -27,13 +27,6 @@ aliasesArchive:
 - /vs2005---signtool-requires-capicom-version-2-1-0-1
 - /blog/vs2005---signtool-requires-capicom-version-2-1-0-1
 - /resources/blog/vs2005-signtool-requires-capicom-version-2-1-0-1
-aliasesFor404:
-- /vs2005-signtool-requires-capicom-version-2-1-0-1
-- /blog/vs2005-signtool-requires-capicom-version-2-1-0-1
-- /vs2005---signtool-requires-capicom-version-2-1-0-1
-- /blog/vs2005---signtool-requires-capicom-version-2-1-0-1
-- /vs2005
-- /resources/blog/vs2005-signtool-requires-capicom-version-2-1-0-1
 tags:
 - Windows
 - Install and Configuration

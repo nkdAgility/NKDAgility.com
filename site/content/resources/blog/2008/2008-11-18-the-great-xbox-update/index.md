@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-great-xbox-update
 - /the-great-xbox-update
 - /resources/blog/the-great-xbox-update
-aliasesFor404:
-- /the-great-xbox-update
-- /blog/the-great-xbox-update
-- /resources/blog/the-great-xbox-update
 tags:
 - News and Reviews
 categories: []

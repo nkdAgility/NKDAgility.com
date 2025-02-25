@@ -20,11 +20,6 @@ aliasesArchive:
 - /blog/no-such-thing-as-a-junior-scrum-master
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
-aliasesFor404:
-- /no-such-thing-as-a-junior-scrum-master
-- /blog/no-such-thing-as-a-junior-scrum-master
-- /there-is-no-such-thing-as-a--junior--scrum-master
-- /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
 - Scrum Master
 - Agile Project Management

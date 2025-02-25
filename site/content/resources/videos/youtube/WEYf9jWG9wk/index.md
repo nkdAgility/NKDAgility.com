@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
 - /resources/videos/unleash-your-team's-full-potential
 - /resources/unleash-your-team's-full-potential
-aliasesFor404:
-- /resources/videos/unleash-your-team's-full-potential
-- /resources/unleash-your-team's-full-potential
 preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true

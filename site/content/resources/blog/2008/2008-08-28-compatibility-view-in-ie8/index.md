@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/compatibility-view-in-ie8
 - /compatibility-view-in-ie8
 - /resources/blog/compatibility-view-in-ie8
-aliasesFor404:
-- /compatibility-view-in-ie8
-- /blog/compatibility-view-in-ie8
-- /resources/blog/compatibility-view-in-ie8
 tags:
 - Windows
 - Troubleshooting

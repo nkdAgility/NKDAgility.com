@@ -25,12 +25,6 @@ aliasesArchive:
 - /what's-in-a-burndown-
 - /blog/what's-in-a-burndown-
 - /resources/blog/whats-in-a-burndown
-aliasesFor404:
-- /whats-in-a-burndown
-- /blog/whats-in-a-burndown
-- /what's-in-a-burndown-
-- /blog/what's-in-a-burndown-
-- /resources/blog/whats-in-a-burndown
 tags:
 - Scrum Product Development
 - Scrum Team

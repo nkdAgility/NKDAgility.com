@@ -15,9 +15,6 @@ aliasesArchive:
 - /resources/videos/why-pursuing-agile-certifications-is-your-key-to-career-advancement
 - /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 - /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
-aliasesFor404:
-- /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
-- /resources/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: false

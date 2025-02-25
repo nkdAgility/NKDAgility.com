@@ -25,12 +25,6 @@ aliasesArchive:
 - /should-the-scrum-master-always-remove-impediments-
 - /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/blog/should-the-scrum-master-always-remove-impediments
-aliasesFor404:
-- /should-the-scrum-master-always-remove-impediments
-- /blog/should-the-scrum-master-always-remove-impediments
-- /should-the-scrum-master-always-remove-impediments-
-- /blog/should-the-scrum-master-always-remove-impediments-
-- /resources/blog/should-the-scrum-master-always-remove-impediments
 tags:
 - Scrum Master
 - Scrum Team

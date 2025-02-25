@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/another-day-another-codeplex-project
 - /another-day-another-codeplex-project
 - /resources/blog/another-day-another-codeplex-project
-aliasesFor404:
-- /another-day-another-codeplex-project
-- /blog/another-day-another-codeplex-project
-- /resources/blog/another-day-another-codeplex-project
 tags:
 - Practical Techniques and Tooling
 - Troubleshooting

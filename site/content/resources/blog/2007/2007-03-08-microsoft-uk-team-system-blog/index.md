@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/microsoft-uk-team-system-blog
 - /microsoft-uk-team-system-blog
 - /resources/blog/microsoft-uk-team-system-blog
-aliasesFor404:
-- /microsoft-uk-team-system-blog
-- /blog/microsoft-uk-team-system-blog
-- /resources/blog/microsoft-uk-team-system-blog
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:

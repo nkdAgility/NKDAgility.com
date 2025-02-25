@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/windows-mobile-device-center
 - /windows-mobile-device-center
 - /resources/blog/windows-mobile-device-center
-aliasesFor404:
-- /windows-mobile-device-center
-- /blog/windows-mobile-device-center
-- /resources/blog/windows-mobile-device-center
 tags:
 - Windows
 - Install and Configuration

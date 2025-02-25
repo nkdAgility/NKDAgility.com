@@ -15,9 +15,6 @@ aliases:
 aliasesArchive:
 - /practices/Definition-of-Done-DoD.html
 - /learn/agile-delivery-kit/practices/definition-of-done-dod
-aliasesFor404:
-- /practices/Definition-of-Done-DoD.html
-- /learn/agile-delivery-kit/practices/definition-of-done-dod
 references:
 - title: Getting started with a Definition of Done (DoD)
   url: https://www.scrum.org/resources/blog/getting-started-definition-done-dod

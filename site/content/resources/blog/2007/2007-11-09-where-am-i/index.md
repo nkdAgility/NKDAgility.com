@@ -25,12 +25,6 @@ aliasesArchive:
 - /where-am-i-
 - /blog/where-am-i-
 - /resources/blog/where-am-i
-aliasesFor404:
-- /where-am-i
-- /blog/where-am-i
-- /where-am-i-
-- /blog/where-am-i-
-- /resources/blog/where-am-i
 tags:
 - Windows
 - Technical Mastery

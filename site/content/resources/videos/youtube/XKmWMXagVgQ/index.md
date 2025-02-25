@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-power-of-continuous-learning-for-product-owners
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
-aliasesFor404:
-- /resources/the-power-of-continuous-learning-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6

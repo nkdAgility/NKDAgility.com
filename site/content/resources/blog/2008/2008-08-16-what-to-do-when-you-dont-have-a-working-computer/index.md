@@ -25,12 +25,6 @@ aliasesArchive:
 - /what-to-do-when-you-dont-have-a-working-computer-
 - /blog/what-to-do-when-you-dont-have-a-working-computer-
 - /resources/blog/what-to-do-when-you-dont-have-a-working-computer
-aliasesFor404:
-- /what-to-do-when-you-dont-have-a-working-computer
-- /blog/what-to-do-when-you-dont-have-a-working-computer
-- /what-to-do-when-you-dont-have-a-working-computer-
-- /blog/what-to-do-when-you-dont-have-a-working-computer-
-- /resources/blog/what-to-do-when-you-dont-have-a-working-computer
 tags:
 - Miscellaneous
 categories: []

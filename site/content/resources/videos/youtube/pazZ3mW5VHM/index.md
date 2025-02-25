@@ -24,12 +24,6 @@ aliasesArchive:
 - /resources/most-common-thing-you-hear-in-a-pspo-course
 - /resources/most-influential-people-in-agile-simon-reindl
 - /resources/videos/most-influential-people-in-agile-simon-reindl
-aliasesFor404:
-- /resources/part-2-most-influential-people-in-agile-2
-- /resources/part-2-most-influential-people-in-agile
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/most-influential-people-in-agile-simon-reindl
-- /resources/videos/most-influential-people-in-agile-simon-reindl
 sitemap:
   filename: sitemap.xml
   priority: 0.6

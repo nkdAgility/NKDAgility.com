@@ -25,12 +25,6 @@ aliasesArchive:
 - /slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
-aliasesFor404:
-- /live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
-- /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
-- /slaying-the-dragons-and-how-to-successfully-descale-at-scale
-- /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
-- /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 tags:
 - Events and Presentations
 - Organisational Agility

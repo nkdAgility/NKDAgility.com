@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/advanced-psm-ii-immersive-learning-classes
 - /resources/advanced-psm-ii-immersive-learning-classes
-aliasesFor404:
-- /resources/videos/advanced-psm-ii-immersive-learning-classes
-- /resources/advanced-psm-ii-immersive-learning-classes
 preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true

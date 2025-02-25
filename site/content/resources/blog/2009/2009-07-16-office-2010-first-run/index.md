@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/office-2010-first-run
 - /office-2010-first-run
 - /resources/blog/office-2010-first-run
-aliasesFor404:
-- /office-2010-first-run
-- /blog/office-2010-first-run
-- /resources/blog/office-2010-first-run
 tags:
 - Windows
 - Customer Feedback Loops

@@ -25,12 +25,6 @@ aliasesArchive:
 - /product-owners-are-not-a-myth
 - /blog/product-owners-are-not-a-myth
 - /resources/blog/product-owners-are-not-a-myth-2
-aliasesFor404:
-- /product-owners-are-not-a-myth-2
-- /blog/product-owners-are-not-a-myth-2
-- /product-owners-are-not-a-myth
-- /blog/product-owners-are-not-a-myth
-- /resources/blog/product-owners-are-not-a-myth-2
 tags:
 - Product Owner
 - Accountability

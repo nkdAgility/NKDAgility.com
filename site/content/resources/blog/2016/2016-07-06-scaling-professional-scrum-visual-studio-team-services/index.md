@@ -25,12 +25,6 @@ aliasesArchive:
 - /scaling-professional-scrum-with-visual-studio-team-services
 - /blog/scaling-professional-scrum-with-visual-studio-team-services
 - /resources/blog/scaling-professional-scrum-visual-studio-team-services
-aliasesFor404:
-- /scaling-professional-scrum-visual-studio-team-services
-- /blog/scaling-professional-scrum-visual-studio-team-services
-- /scaling-professional-scrum-with-visual-studio-team-services
-- /blog/scaling-professional-scrum-with-visual-studio-team-services
-- /resources/blog/scaling-professional-scrum-visual-studio-team-services
 tags:
 - Events and Presentations
 categories:

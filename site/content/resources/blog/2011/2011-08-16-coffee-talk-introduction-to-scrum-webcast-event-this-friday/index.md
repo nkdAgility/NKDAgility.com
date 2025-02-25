@@ -25,12 +25,6 @@ aliasesArchive:
 - /coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
-aliasesFor404:
-- /coffee-talk-introduction-to-scrum-webcast-event-this-friday
-- /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
-- /coffee-talk--introduction-to-scrum---webcast-event-this-friday-
-- /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
-- /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 tags:
 - People and Process
 - Scrum Product Development

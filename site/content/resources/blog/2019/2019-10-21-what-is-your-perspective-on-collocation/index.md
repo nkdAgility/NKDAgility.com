@@ -25,12 +25,6 @@ aliasesArchive:
 - /what-is-your-perspective-on-collocation-
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/blog/what-is-your-perspective-on-collocation
-aliasesFor404:
-- /what-is-your-perspective-on-collocation
-- /blog/what-is-your-perspective-on-collocation
-- /what-is-your-perspective-on-collocation-
-- /blog/what-is-your-perspective-on-collocation-
-- /resources/blog/what-is-your-perspective-on-collocation
 tags:
 - Organisational Culture
 - Scrum Team

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-
-aliasesFor404:
-- /resources/worst-trait-in-unskilled-scrum-masters
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/worst-trait-in-unskilled-scrum-masters-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

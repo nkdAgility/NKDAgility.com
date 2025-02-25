@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 - /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 - /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
-aliasesFor404:
-- /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
-- /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 - /enable-feedback-support-for-users-in-team-foundation-server-2012
 - /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
-aliasesFor404:
-- /enable-feedback-support-for-users-in-team-foundation-server-2012
-- /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
-- /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management

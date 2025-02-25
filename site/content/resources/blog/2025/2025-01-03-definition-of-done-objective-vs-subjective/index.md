@@ -21,11 +21,6 @@ aliasesArchive:
 - /blog/definition-of-done-objective-vs-subjective
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
-aliasesFor404:
-- /definition-of-done-objective-vs-subjective
-- /blog/definition-of-done-objective-vs-subjective
-- /definition-of-done---objective-vs-subjective
-- /blog/definition-of-done---objective-vs-subjective
 tags:
 - Definition of Done
 - Increment

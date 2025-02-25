@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-event-handler-for-team-foundation-server-2010
 - /tfs-event-handler-for-team-foundation-server-2010
 - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
-aliasesFor404:
-- /tfs-event-handler-for-team-foundation-server-2010
-- /blog/tfs-event-handler-for-team-foundation-server-2010
-- /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 tags:
 - Practical Techniques and Tooling
 - Software Development

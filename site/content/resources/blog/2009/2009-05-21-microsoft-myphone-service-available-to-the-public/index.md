@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/microsoft-myphone-service-available-to-the-public
 - /microsoft-myphone-service-available-to-the-public
 - /resources/blog/microsoft-myphone-service-available-to-the-public
-aliasesFor404:
-- /microsoft-myphone-service-available-to-the-public
-- /blog/microsoft-myphone-service-available-to-the-public
-- /resources/blog/microsoft-myphone-service-available-to-the-public
 tags:
 - Install and Configuration
 - News and Reviews

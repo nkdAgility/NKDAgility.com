@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-vs--subversion-fact-check
 - /blog/tfs-vs--subversion-fact-check
 - /resources/blog/tfs-vs-subversion-fact-check
-aliasesFor404:
-- /tfs-vs-subversion-fact-check
-- /blog/tfs-vs-subversion-fact-check
-- /tfs-vs--subversion-fact-check
-- /blog/tfs-vs--subversion-fact-check
-- /resources/blog/tfs-vs-subversion-fact-check
 tags:
 - Install and Configuration
 - Modern Source Control

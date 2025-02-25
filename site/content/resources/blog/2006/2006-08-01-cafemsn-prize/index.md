@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/cafemsn-prize
 - /cafemsn-prize
 - /resources/blog/cafemsn-prize
-aliasesFor404:
-- /cafemsn-prize
-- /blog/cafemsn-prize
-- /resources/blog/cafemsn-prize
 tags:
 - Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png

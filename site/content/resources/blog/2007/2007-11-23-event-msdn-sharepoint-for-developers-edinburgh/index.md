@@ -25,12 +25,6 @@ aliasesArchive:
 - /event--msdn--sharepoint-for-developers-(edinburgh)
 - /blog/event--msdn--sharepoint-for-developers-(edinburgh)
 - /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
-aliasesFor404:
-- /event-msdn-sharepoint-for-developers-edinburgh
-- /blog/event-msdn-sharepoint-for-developers-edinburgh
-- /event--msdn--sharepoint-for-developers-(edinburgh)
-- /blog/event--msdn--sharepoint-for-developers-(edinburgh)
-- /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
 tags:
 - Events and Presentations
 - News and Reviews

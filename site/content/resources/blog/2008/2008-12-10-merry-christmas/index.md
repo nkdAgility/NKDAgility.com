@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/merry-christmas
 - /merry-christmas
 - /resources/blog/merry-christmas
-aliasesFor404:
-- /merry-christmas
-- /blog/merry-christmas
-- /resources/blog/merry-christmas
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:

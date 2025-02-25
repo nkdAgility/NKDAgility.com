@@ -25,12 +25,6 @@ aliasesArchive:
 - /post-event--msdn-roadshow-(glasgow)
 - /blog/post-event--msdn-roadshow-(glasgow)
 - /resources/blog/post-event-msdn-roadshow-glasgow
-aliasesFor404:
-- /post-event-msdn-roadshow-glasgow
-- /blog/post-event-msdn-roadshow-glasgow
-- /post-event--msdn-roadshow-(glasgow)
-- /blog/post-event--msdn-roadshow-(glasgow)
-- /resources/blog/post-event-msdn-roadshow-glasgow
 tags:
 - Events and Presentations
 - Miscellaneous

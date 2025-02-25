@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/xbox-360-elite
 - /xbox-360-elite
 - /resources/blog/xbox-360-elite
-aliasesFor404:
-- /xbox-360-elite
-- /blog/xbox-360-elite
-- /resources/blog/xbox-360-elite
 tags: []
 categories: []
 preview: metro-xbox-360-link-1-1.png

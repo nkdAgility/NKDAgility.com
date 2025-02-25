@@ -23,11 +23,6 @@ aliasesArchive:
 - /resources/what-is-a-product-goal
 - /resources/videos/what-is-a-product-goal-
 - /resources/what-is-a-product-goal-
-aliasesFor404:
-- /resources/what-is-a-sprint-goal
-- /resources/what-is-a-product-goal
-- /resources/videos/what-is-a-product-goal-
-- /resources/what-is-a-product-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

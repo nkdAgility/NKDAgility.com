@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
 - /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 - /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
-aliasesFor404:
-- /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
-- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
-- /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 sitemap:
   filename: sitemap.xml
   priority: 0.6

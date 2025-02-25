@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development
-aliasesFor404:
-- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
-- /resources/nkd-agility-your-partner-in-cost-effective-software-development
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
 duration: 150
 isShort: false

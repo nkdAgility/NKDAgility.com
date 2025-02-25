@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /setting-up-sharepoint-for-the-enterprise
 - /resources/blog/setting-up-sharepoint-for-the-enterprise
-aliasesFor404:
-- /setting-up-sharepoint-for-the-enterprise
-- /blog/setting-up-sharepoint-for-the-enterprise
-- /resources/blog/setting-up-sharepoint-for-the-enterprise
 tags:
 - Install and Configuration
 - Deployment Strategies

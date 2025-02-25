@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/selling-the-benefits-of-team-system
 - /selling-the-benefits-of-team-system
 - /resources/blog/selling-the-benefits-of-team-system
-aliasesFor404:
-- /selling-the-benefits-of-team-system
-- /blog/selling-the-benefits-of-team-system
-- /resources/blog/selling-the-benefits-of-team-system
 tags:
 - Products and Books
 - People and Process

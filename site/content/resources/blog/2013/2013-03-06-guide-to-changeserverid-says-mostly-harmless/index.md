@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/guide-to-changeserverid-says-mostly-harmless
 - /guide-to-changeserverid-says-mostly-harmless
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
-aliasesFor404:
-- /guide-to-changeserverid-says-mostly-harmless
-- /blog/guide-to-changeserverid-says-mostly-harmless
-- /resources/blog/guide-to-changeserverid-says-mostly-harmless
 tags:
 - Troubleshooting
 categories:

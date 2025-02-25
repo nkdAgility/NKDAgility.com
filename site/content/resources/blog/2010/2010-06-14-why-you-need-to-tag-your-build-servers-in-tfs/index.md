@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/why-you-need-to-tag-your-build-servers-in-tfs
 - /why-you-need-to-tag-your-build-servers-in-tfs
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
-aliasesFor404:
-- /why-you-need-to-tag-your-build-servers-in-tfs
-- /blog/why-you-need-to-tag-your-build-servers-in-tfs
-- /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
 - Install and Configuration
 - Software Developers

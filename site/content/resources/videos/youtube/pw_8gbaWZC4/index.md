@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 - /resources/videos/how-top-teams-use-pull-systems!
 - /resources/how-top-teams-use-pull-systems!
-aliasesFor404:
-- /resources/videos/how-top-teams-use-pull-systems!
-- /resources/how-top-teams-use-pull-systems!
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false

@@ -25,12 +25,6 @@ aliasesArchive:
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
-aliasesFor404:
-- /vsts-sync-migration-tool-update-bugfix
-- /blog/vsts-sync-migration-tool-update-bugfix
-- /vsts-sync-migration-tool-update-and-bugfix
-- /blog/vsts-sync-migration-tool-update-and-bugfix
-- /resources/blog/vsts-sync-migration-tool-update-bugfix
 tags:
 - Install and Configuration
 - Products and Books

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/hosted-team-foundation-server
 - /hosted-team-foundation-server
 - /resources/blog/hosted-team-foundation-server
-aliasesFor404:
-- /hosted-team-foundation-server
-- /blog/hosted-team-foundation-server
-- /resources/blog/hosted-team-foundation-server
 tags:
 - Products and Books
 - Practical Techniques and Tooling

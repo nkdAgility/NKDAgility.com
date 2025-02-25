@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /methods/ebm/
 - /learn/agile-delivery-kit/strategies/evidence-based-management/
-aliasesFor404:
-- /methods/ebm/
-- /learn/agile-delivery-kit/strategies/evidence-based-management/
 card:
   button:
     content: Start Optimizing Now

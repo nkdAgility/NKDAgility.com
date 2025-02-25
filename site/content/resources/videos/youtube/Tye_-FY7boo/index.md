@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/vision-value-and-validation-the-keys-to-successful-product-management
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
-aliasesFor404:
-- /resources/vision-value-and-validation-the-keys-to-successful-product-management
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6

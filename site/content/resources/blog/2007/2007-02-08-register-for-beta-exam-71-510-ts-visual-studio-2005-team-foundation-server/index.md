@@ -25,12 +25,6 @@ aliasesArchive:
 - /register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /blog/register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /resources/blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-aliasesFor404:
-- /register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-- /blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-- /register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
-- /blog/register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
-- /resources/blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

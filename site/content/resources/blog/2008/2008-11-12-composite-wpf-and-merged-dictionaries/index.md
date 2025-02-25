@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/composite-wpf-and-merged-dictionaries
 - /composite-wpf-and-merged-dictionaries
 - /resources/blog/composite-wpf-and-merged-dictionaries
-aliasesFor404:
-- /composite-wpf-and-merged-dictionaries
-- /blog/composite-wpf-and-merged-dictionaries
-- /resources/blog/composite-wpf-and-merged-dictionaries
 tags:
 - Technical Mastery
 - Software Development

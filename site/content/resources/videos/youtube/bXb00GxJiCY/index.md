@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/the-power-of-immersive-learning-in-scrum-training
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
-aliasesFor404:
-- /resources/the-power-of-immersive-learning-in-scrum-training
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6

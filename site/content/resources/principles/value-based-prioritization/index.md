@@ -15,8 +15,6 @@ aliases:
 - /resources/HzW0lKldLP9
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
-aliasesFor404:
-- /learn/agile-delivery-kit/first-principals/value-based-prioritization/
 card:
   button:
     content: Learn More

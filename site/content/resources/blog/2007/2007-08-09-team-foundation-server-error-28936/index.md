@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/team-foundation-server-error-28936
 - /team-foundation-server-error-28936
 - /resources/blog/team-foundation-server-error-28936
-aliasesFor404:
-- /team-foundation-server-error-28936
-- /blog/team-foundation-server-error-28936
-- /resources/blog/team-foundation-server-error-28936
 tags:
 - Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png

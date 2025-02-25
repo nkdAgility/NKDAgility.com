@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 - /integrate-sharepoint-2013-with-team-foundation-server-2012
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2012
-aliasesFor404:
-- /integrate-sharepoint-2013-with-team-foundation-server-2012
-- /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
-- /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 tags:
 - Install and Configuration
 categories:

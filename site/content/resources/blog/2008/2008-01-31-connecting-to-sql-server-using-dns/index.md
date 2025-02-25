@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/connecting-to-sql-server-using-dns
 - /connecting-to-sql-server-using-dns
 - /resources/blog/connecting-to-sql-server-using-dns
-aliasesFor404:
-- /connecting-to-sql-server-using-dns
-- /blog/connecting-to-sql-server-using-dns
-- /resources/blog/connecting-to-sql-server-using-dns
 tags:
 - Install and Configuration
 - Troubleshooting

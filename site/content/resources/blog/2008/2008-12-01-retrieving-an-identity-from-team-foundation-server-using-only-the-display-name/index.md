@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
-aliasesFor404:
-- /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
-- /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
-- /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

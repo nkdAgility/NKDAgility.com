@@ -25,12 +25,6 @@ aliasesArchive:
 - /guidance--a-branching-strategy-for-scrum-teams
 - /blog/guidance--a-branching-strategy-for-scrum-teams
 - /resources/blog/guidance-a-branching-strategy-for-scrum-teams
-aliasesFor404:
-- /guidance-a-branching-strategy-for-scrum-teams
-- /blog/guidance-a-branching-strategy-for-scrum-teams
-- /guidance--a-branching-strategy-for-scrum-teams
-- /blog/guidance--a-branching-strategy-for-scrum-teams
-- /resources/blog/guidance-a-branching-strategy-for-scrum-teams
 tags:
 - Software Development
 categories:

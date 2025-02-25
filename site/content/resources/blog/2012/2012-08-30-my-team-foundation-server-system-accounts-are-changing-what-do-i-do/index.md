@@ -25,12 +25,6 @@ aliasesArchive:
 - /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-aliasesFor404:
-- /my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-- /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-- /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
-- /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
-- /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 tags:
 - Install and Configuration
 - System Configuration

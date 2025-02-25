@@ -20,9 +20,6 @@ aliasesArchive:
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
 - /resources/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
-aliasesFor404:
-- /resources/overview-of-applying-metrics-for-predictability-kanban-course
-- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

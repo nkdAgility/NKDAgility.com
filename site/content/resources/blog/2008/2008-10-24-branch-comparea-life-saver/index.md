@@ -25,12 +25,6 @@ aliasesArchive:
 - /branch-compare…a-life-saver
 - /blog/branch-compare…a-life-saver
 - /resources/blog/branch-comparea-life-saver
-aliasesFor404:
-- /branch-comparea-life-saver
-- /blog/branch-comparea-life-saver
-- /branch-compare…a-life-saver
-- /blog/branch-compare…a-life-saver
-- /resources/blog/branch-comparea-life-saver
 tags:
 - Practical Techniques and Tooling
 - Modern Source Control

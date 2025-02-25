@@ -28,13 +28,6 @@ aliasesArchive:
 - /why-most-scrum-masters-are-failing-and-what-they-should-know
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-aliasesFor404:
-- /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-- /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-- /why-most-scrum-masters-are-failing-and-what-they-should-know
-- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
-- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
-- /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Agile Project Management
 - Scrum Master

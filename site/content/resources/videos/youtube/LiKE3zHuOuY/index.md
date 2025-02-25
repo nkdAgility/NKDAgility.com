@@ -20,9 +20,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 - /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-aliasesFor404:
-- /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 sitemap:
   filename: sitemap.xml
   priority: 0.6

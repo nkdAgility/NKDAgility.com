@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 - /resources/videos/the-cost-saving-power-of-automation
 - /resources/the-cost-saving-power-of-automation
-aliasesFor404:
-- /resources/videos/the-cost-saving-power-of-automation
-- /resources/the-cost-saving-power-of-automation
 preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBkj3eLxuykEKxltLkuDDf4Y7aXHw
 duration: 613
 isShort: false

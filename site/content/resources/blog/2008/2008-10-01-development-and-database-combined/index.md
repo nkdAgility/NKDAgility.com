@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/development-and-database-combined
 - /development-and-database-combined
 - /resources/blog/development-and-database-combined
-aliasesFor404:
-- /development-and-database-combined
-- /blog/development-and-database-combined
-- /resources/blog/development-and-database-combined
 tags:
 - News and Reviews
 preview: nakedalm-logo-128-link-1-1.png

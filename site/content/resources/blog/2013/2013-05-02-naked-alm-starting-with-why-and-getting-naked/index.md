@@ -25,12 +25,6 @@ aliasesArchive:
 - /naked-alm--starting-with-why-and-getting-naked
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
-aliasesFor404:
-- /naked-alm-starting-with-why-and-getting-naked
-- /blog/naked-alm-starting-with-why-and-getting-naked
-- /naked-alm--starting-with-why-and-getting-naked
-- /blog/naked-alm--starting-with-why-and-getting-naked
-- /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Application Lifecycle Management
 - Discovery and Learning

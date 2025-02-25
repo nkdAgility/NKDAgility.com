@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
-aliasesFor404:
-- /full-fidelity-history-and-data-migration-are-mutually-exclusive
-- /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
-- /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling

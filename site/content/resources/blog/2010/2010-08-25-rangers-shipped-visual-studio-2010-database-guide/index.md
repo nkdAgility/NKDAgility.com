@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/rangers-shipped-visual-studio-2010-database-guide
 - /rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
-aliasesFor404:
-- /rangers-shipped-visual-studio-2010-database-guide
-- /blog/rangers-shipped-visual-studio-2010-database-guide
-- /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/does-starting-with-why-simon-sinek-really-matter
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/does-'starting-with-why'-simon-sinek-really-matter-
-aliasesFor404:
-- /resources/does-starting-with-why-simon-sinek-really-matter
-- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
-- /resources/does-'starting-with-why'-simon-sinek-really-matter-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

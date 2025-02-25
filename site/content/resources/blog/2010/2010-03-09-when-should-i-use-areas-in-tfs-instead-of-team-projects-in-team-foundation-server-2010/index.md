@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
-aliasesFor404:
-- /when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
-- /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
-- /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 tags:
 - Application Lifecycle Management
 - Modern Source Control

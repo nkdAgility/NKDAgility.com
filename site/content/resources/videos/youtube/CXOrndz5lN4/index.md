@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
 - /resources/videos/building-a-culture-of-engineering-excellence
 - /resources/building-a-culture-of-engineering-excellence
-aliasesFor404:
-- /resources/videos/building-a-culture-of-engineering-excellence
-- /resources/building-a-culture-of-engineering-excellence
 preview: https://i.ytimg.com/vi/CXOrndz5lN4/maxresdefault.jpg
 duration: 40
 isShort: true

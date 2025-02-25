@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /quality-enablement-to-achieve-predictable-delivery
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
-aliasesFor404:
-- /quality-enablement-to-achieve-predictable-delivery
-- /blog/quality-enablement-to-achieve-predictable-delivery
-- /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags:
 - Operational Practices
 - Acceptance Test Driven Development

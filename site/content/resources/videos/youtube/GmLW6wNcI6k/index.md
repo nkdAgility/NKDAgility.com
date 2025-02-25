@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
 - /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
-aliasesFor404:
-- /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
-- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
-- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

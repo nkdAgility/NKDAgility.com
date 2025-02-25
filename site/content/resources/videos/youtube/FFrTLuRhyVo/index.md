@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
 - /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
 - /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
-aliasesFor404:
-- /resources/videos/missed-opportunities,-the-hidden-cost-of-technical-debt
-- /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
 preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true

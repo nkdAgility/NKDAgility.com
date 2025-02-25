@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
-aliasesFor404:
-- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
-- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
-- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

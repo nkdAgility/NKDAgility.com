@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 - /resources/videos/building-a-high-performance-delivery-engine
 - /resources/building-a-high-performance-delivery-engine
-aliasesFor404:
-- /resources/videos/building-a-high-performance-delivery-engine
-- /resources/building-a-high-performance-delivery-engine
 preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
 duration: 266
 isShort: false

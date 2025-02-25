@@ -25,12 +25,6 @@ aliasesArchive:
 - /always-prompted-for-credentials-in-tfs-2010-
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/blog/always-prompted-for-credentials-in-tfs-2010
-aliasesFor404:
-- /always-prompted-for-credentials-in-tfs-2010
-- /blog/always-prompted-for-credentials-in-tfs-2010
-- /always-prompted-for-credentials-in-tfs-2010-
-- /blog/always-prompted-for-credentials-in-tfs-2010-
-- /resources/blog/always-prompted-for-credentials-in-tfs-2010
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

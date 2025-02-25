@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-data-manager
 - /tfs-data-manager
 - /resources/blog/tfs-data-manager
-aliasesFor404:
-- /tfs-data-manager
-- /blog/tfs-data-manager
-- /resources/blog/tfs-data-manager
 tags:
 - Products and Books
 preview: nakedalm-logo-128-link-1-1.png

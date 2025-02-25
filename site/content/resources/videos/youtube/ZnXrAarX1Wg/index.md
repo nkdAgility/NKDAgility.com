@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-
 - /resources/no-go-zone-for-agile-consultants-
-aliasesFor404:
-- /resources/no-go-zone-for-agile-consultants
-- /resources/videos/no-go-zone-for-agile-consultants-
-- /resources/no-go-zone-for-agile-consultants-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

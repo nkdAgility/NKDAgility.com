@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 - /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
-aliasesFor404:
-- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
-- /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
 isShort: false

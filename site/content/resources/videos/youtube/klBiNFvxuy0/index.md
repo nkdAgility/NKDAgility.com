@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
 - /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 - /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
-aliasesFor404:
-- /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
-- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
-- /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

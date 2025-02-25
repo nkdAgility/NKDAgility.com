@@ -25,12 +25,6 @@ aliasesArchive:
 - /teamplain-error--tf14002
 - /blog/teamplain-error--tf14002
 - /resources/blog/teamplain-error-tf14002
-aliasesFor404:
-- /teamplain-error-tf14002
-- /blog/teamplain-error-tf14002
-- /teamplain-error--tf14002
-- /blog/teamplain-error--tf14002
-- /resources/blog/teamplain-error-tf14002
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:

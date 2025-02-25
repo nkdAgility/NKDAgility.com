@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-dynamics
 - /resources/videos/the-importance-of-knowing-the-territory-
 - /resources/the-importance-of-knowing-the-territory-
-aliasesFor404:
-- /resources/videos/the-importance-of-knowing-the-territory-
-- /resources/the-importance-of-knowing-the-territory-
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
 isShort: false

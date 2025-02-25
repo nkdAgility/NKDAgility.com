@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 - /resources/videos/redefining-test-driven-development
 - /resources/redefining-test-driven-development
-aliasesFor404:
-- /resources/videos/redefining-test-driven-development
-- /resources/redefining-test-driven-development
 preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
 duration: 53
 isShort: true

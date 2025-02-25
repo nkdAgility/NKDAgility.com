@@ -25,12 +25,6 @@ aliasesArchive:
 - /ghost-build-controllers-in-team-foundation-server
 - /blog/ghost-build-controllers-in-team-foundation-server
 - /resources/blog/ghost-team-foundation-build-controllers
-aliasesFor404:
-- /ghost-team-foundation-build-controllers
-- /blog/ghost-team-foundation-build-controllers
-- /ghost-build-controllers-in-team-foundation-server
-- /blog/ghost-build-controllers-in-team-foundation-server
-- /resources/blog/ghost-team-foundation-build-controllers
 tags:
 - Troubleshooting
 - Practical Techniques and Tooling

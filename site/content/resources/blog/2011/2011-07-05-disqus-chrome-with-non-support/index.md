@@ -25,12 +25,6 @@ aliasesArchive:
 - /disqus-&-chrome-with-non-support
 - /blog/disqus-&-chrome-with-non-support
 - /resources/blog/disqus-chrome-with-non-support
-aliasesFor404:
-- /disqus-chrome-with-non-support
-- /blog/disqus-chrome-with-non-support
-- /disqus-&-chrome-with-non-support
-- /blog/disqus-&-chrome-with-non-support
-- /resources/blog/disqus-chrome-with-non-support
 tags:
 - Troubleshooting
 - Miscellaneous

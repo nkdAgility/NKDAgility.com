@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity
-aliasesFor404:
-- /resources/videos/-shorts-7-virtues-of-agile-chastity
-- /resources/-shorts-7-virtues-of-agile-chastity
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true

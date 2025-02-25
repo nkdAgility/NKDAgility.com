@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/installing-windows-7
 - /installing-windows-7
 - /resources/blog/installing-windows-7
-aliasesFor404:
-- /installing-windows-7
-- /blog/installing-windows-7
-- /resources/blog/installing-windows-7
 tags:
 - Windows
 preview: nakedalm-logo-128-link-18-18.png

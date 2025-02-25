@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/application-lifecycle-management-with-office-2013-on-windows-8
 - /application-lifecycle-management-with-office-2013-on-windows-8
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
-aliasesFor404:
-- /application-lifecycle-management-with-office-2013-on-windows-8
-- /blog/application-lifecycle-management-with-office-2013-on-windows-8
-- /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 tags:
 - Windows
 - Practical Techniques and Tooling

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/heat-itsm
 - /heat-itsm
 - /resources/blog/heat-itsm
-aliasesFor404:
-- /heat-itsm
-- /blog/heat-itsm
-- /resources/blog/heat-itsm
 tags:
 - Products and Books
 - Practical Techniques and Tooling

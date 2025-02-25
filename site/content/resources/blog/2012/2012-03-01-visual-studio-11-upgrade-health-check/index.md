@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/visual-studio-11-upgrade-health-check
 - /visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
-aliasesFor404:
-- /visual-studio-11-upgrade-health-check
-- /blog/visual-studio-11-upgrade-health-check
-- /resources/blog/visual-studio-11-upgrade-health-check
 tags:
 - People and Process
 - Team Performance

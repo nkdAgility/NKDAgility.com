@@ -22,11 +22,6 @@ aliasesArchive:
 - /blog/stop-hiding-behind-complexity-deliver-continuously
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
-aliasesFor404:
-- /stop-hiding-behind-complexity-deliver-continuously
-- /blog/stop-hiding-behind-complexity-deliver-continuously
-- /stop-hiding-behind-complexity-and-start-delivering-continuously
-- /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
 - Frequent Releases
 - Software Development

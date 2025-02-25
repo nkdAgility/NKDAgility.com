@@ -21,9 +21,6 @@ aliasesArchive:
 - /resources/videos/-day-pspo-versus-week-pspo
 - /resources/videos/2-day-pspo-versus-8-week-pspo
 - /resources/2-day-pspo-versus-8-week-pspo
-aliasesFor404:
-- /resources/2-day-pspo-versus-8-week-pspo
-- /resources/videos/2-day-pspo-versus-8-week-pspo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

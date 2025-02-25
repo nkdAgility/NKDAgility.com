@@ -23,11 +23,6 @@ aliasesArchive:
 - /resources/worst-agile-advice-heard
 - /resources/videos/worst-agile-advice-heard-
 - /resources/worst-agile-advice-heard-
-aliasesFor404:
-- /resources/worst-agile-advice-youve-ever-heard
-- /resources/worst-agile-advice-heard
-- /resources/videos/worst-agile-advice-heard-
-- /resources/worst-agile-advice-heard-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

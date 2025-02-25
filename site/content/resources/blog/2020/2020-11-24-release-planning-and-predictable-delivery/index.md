@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/release-planning-and-predictable-delivery
 - /release-planning-and-predictable-delivery
 - /resources/blog/release-planning-and-predictable-delivery
-aliasesFor404:
-- /release-planning-and-predictable-delivery
-- /blog/release-planning-and-predictable-delivery
-- /resources/blog/release-planning-and-predictable-delivery
 tags:
 - Software Development
 - Product Delivery

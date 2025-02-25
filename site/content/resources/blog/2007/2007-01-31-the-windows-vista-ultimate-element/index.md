@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-windows-vista-ultimate-element
 - /the-windows-vista-ultimate-element
 - /resources/blog/the-windows-vista-ultimate-element
-aliasesFor404:
-- /the-windows-vista-ultimate-element
-- /blog/the-windows-vista-ultimate-element
-- /resources/blog/the-windows-vista-ultimate-element
 tags:
 - Windows
 preview: nakedalm-logo-128-link-2-2.png

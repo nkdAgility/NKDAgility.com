@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 - /active-directory-groups-not-syncing-with-team-foundation-server-2010
 - /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
-aliasesFor404:
-- /active-directory-groups-not-syncing-with-team-foundation-server-2010
-- /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
-- /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 tags:
 - Troubleshooting
 preview: metro-SSWLogo-128-link-7-7.png

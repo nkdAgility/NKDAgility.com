@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-sticky-buddy-v2-0
 - /tfs-sticky-buddy-v2-0
 - /resources/blog/tfs-sticky-buddy-v2-0
-aliasesFor404:
-- /tfs-sticky-buddy-v2-0
-- /blog/tfs-sticky-buddy-v2-0
-- /resources/blog/tfs-sticky-buddy-v2-0
 tags:
 - Code and Complexity
 - Working Software

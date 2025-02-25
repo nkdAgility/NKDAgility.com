@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
 - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
-aliasesFor404:
-- /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true

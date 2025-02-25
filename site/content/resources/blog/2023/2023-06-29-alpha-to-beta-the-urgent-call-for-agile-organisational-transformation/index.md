@@ -26,12 +26,6 @@ aliasesArchive:
 - /the-urgent-call-for-agile-organisational-transformation
 - /blog/the-urgent-call-for-agile-organisational-transformation
 - /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
-aliasesFor404:
-- /alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
-- /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
-- /the-urgent-call-for-agile-organisational-transformation
-- /blog/the-urgent-call-for-agile-organisational-transformation
-- /resources/blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 tags:
 - Organisational Change
 categories:

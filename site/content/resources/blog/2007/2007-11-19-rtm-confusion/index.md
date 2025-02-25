@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/rtm-confusion
 - /rtm-confusion
 - /resources/blog/rtm-confusion
-aliasesFor404:
-- /rtm-confusion
-- /blog/rtm-confusion
-- /resources/blog/rtm-confusion
 tags:
 - Miscellaneous
 categories: []

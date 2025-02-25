@@ -25,12 +25,6 @@ aliasesArchive:
 - /blogging-from-2500-meters
 - /blog/blogging-from-2500-meters
 - /resources/blog/blogging-2500-meters
-aliasesFor404:
-- /blogging-2500-meters
-- /blog/blogging-2500-meters
-- /blogging-from-2500-meters
-- /blog/blogging-from-2500-meters
-- /resources/blog/blogging-2500-meters
 categories: []
 preview: nakedalm-logo-260-7-7.png
 tags:

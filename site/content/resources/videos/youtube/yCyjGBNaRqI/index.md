@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 - /resources/videos/nkd-agility-mission-and-purpose
 - /resources/nkd-agility-mission-and-purpose
-aliasesFor404:
-- /resources/videos/nkd-agility-mission-and-purpose
-- /resources/nkd-agility-mission-and-purpose
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false

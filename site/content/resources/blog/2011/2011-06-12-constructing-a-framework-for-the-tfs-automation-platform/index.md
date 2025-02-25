@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/constructing-a-framework-for-the-tfs-automation-platform
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
-aliasesFor404:
-- /constructing-a-framework-for-the-tfs-automation-platform
-- /blog/constructing-a-framework-for-the-tfs-automation-platform
-- /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

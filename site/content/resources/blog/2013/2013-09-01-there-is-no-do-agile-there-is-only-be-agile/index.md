@@ -25,12 +25,6 @@ aliasesArchive:
 - /there-is-no--do-agile--there-is-only--be-agile-
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
-aliasesFor404:
-- /there-is-no-do-agile-there-is-only-be-agile
-- /blog/there-is-no-do-agile-there-is-only-be-agile
-- /there-is-no--do-agile--there-is-only--be-agile-
-- /blog/there-is-no--do-agile--there-is-only--be-agile-
-- /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - Transparency
 - People and Process

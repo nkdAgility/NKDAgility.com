@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/wpf-threading
 - /wpf-threading
 - /resources/blog/wpf-threading
-aliasesFor404:
-- /wpf-threading
-- /blog/wpf-threading
-- /resources/blog/wpf-threading
 tags:
 - Troubleshooting
 categories: []

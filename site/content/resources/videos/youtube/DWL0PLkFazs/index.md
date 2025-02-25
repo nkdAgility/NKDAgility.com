@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 - /resources/why-did-healthgrades-choose-martin-hinshelwood
-aliasesFor404:
-- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
-- /resources/why-did-healthgrades-choose-martin-hinshelwood
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 isShort: false

@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
 - /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/plague-7-harbingers-agile-apocalypse-but-shorter!
-aliasesFor404:
-- /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/plague-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false

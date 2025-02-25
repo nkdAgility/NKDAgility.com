@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/how-to-rename-a-team-project-in-tfs-2015
 - /how-to-rename-a-team-project-in-tfs-2015
 - /resources/blog/how-to-rename-a-team-project-in-tfs-2015
-aliasesFor404:
-- /how-to-rename-a-team-project-in-tfs-2015
-- /blog/how-to-rename-a-team-project-in-tfs-2015
-- /resources/blog/how-to-rename-a-team-project-in-tfs-2015
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

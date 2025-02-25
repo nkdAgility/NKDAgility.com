@@ -25,12 +25,6 @@ aliasesArchive:
 - /ahaaaa-
 - /blog/ahaaaa-
 - /resources/blog/ahaaaa
-aliasesFor404:
-- /ahaaaa
-- /blog/ahaaaa
-- /ahaaaa-
-- /blog/ahaaaa-
-- /resources/blog/ahaaaa
 tags:
 - Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png

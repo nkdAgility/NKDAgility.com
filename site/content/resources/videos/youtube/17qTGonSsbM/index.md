@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
 - /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
-aliasesFor404:
-- /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
-- /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
-- /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 sitemap:
   filename: sitemap.xml
   priority: 0.6

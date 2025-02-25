@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-eventhandler--message-queuing
 - /blog/tfs-eventhandler--message-queuing
 - /resources/blog/tfs-eventhandler-message-queuing
-aliasesFor404:
-- /tfs-eventhandler-message-queuing
-- /blog/tfs-eventhandler-message-queuing
-- /tfs-eventhandler--message-queuing
-- /blog/tfs-eventhandler--message-queuing
-- /resources/blog/tfs-eventhandler-message-queuing
 tags:
 - Technical Mastery
 - Software Development

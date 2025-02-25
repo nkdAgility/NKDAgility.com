@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
 - /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 - /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
-aliasesFor404:
-- /resources/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
-- /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
-- /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 sitemap:
   filename: sitemap.xml
   priority: 0.6

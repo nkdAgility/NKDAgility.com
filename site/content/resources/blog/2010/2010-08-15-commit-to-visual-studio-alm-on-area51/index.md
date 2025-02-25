@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/commit-to-visual-studio-alm-on-area51
 - /commit-to-visual-studio-alm-on-area51
 - /resources/blog/commit-to-visual-studio-alm-on-area51
-aliasesFor404:
-- /commit-to-visual-studio-alm-on-area51
-- /blog/commit-to-visual-studio-alm-on-area51
-- /resources/blog/commit-to-visual-studio-alm-on-area51
 tags:
 - Team Collaboration
 - News and Reviews

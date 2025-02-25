@@ -25,12 +25,6 @@ aliasesArchive:
 - /what-the-0x80072020-
 - /blog/what-the-0x80072020-
 - /resources/blog/what-the-0x80072020
-aliasesFor404:
-- /what-the-0x80072020
-- /blog/what-the-0x80072020
-- /what-the-0x80072020-
-- /blog/what-the-0x80072020-
-- /resources/blog/what-the-0x80072020
 tags:
 - Troubleshooting
 - Software Development

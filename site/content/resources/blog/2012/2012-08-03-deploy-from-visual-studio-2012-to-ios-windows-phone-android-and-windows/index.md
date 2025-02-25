@@ -29,14 +29,6 @@ aliasesArchive:
 - /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-aliasesFor404:
-- /deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-- /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-- /deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
-- /blog/deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
-- /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
-- /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
-- /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management

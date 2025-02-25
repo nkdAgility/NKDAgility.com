@@ -25,12 +25,6 @@ aliasesArchive:
 - /installing-tfs-2013-from-scratch-is-easy
 - /blog/installing-tfs-2013-from-scratch-is-easy
 - /resources/blog/installing-tfs-2013-scratch-easy
-aliasesFor404:
-- /installing-tfs-2013-scratch-easy
-- /blog/installing-tfs-2013-scratch-easy
-- /installing-tfs-2013-from-scratch-is-easy
-- /blog/installing-tfs-2013-from-scratch-is-easy
-- /resources/blog/installing-tfs-2013-scratch-easy
 tags:
 - Install and Configuration
 categories: []

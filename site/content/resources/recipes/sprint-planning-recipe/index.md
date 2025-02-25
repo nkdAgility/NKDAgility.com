@@ -14,8 +14,6 @@ aliases:
 - /resources/D1dSEM9ni3C
 aliasesArchive:
 - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
-aliasesFor404:
-- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
 recommendedContent:
 - collection: practices
   path: _practices/professional-sprint-planning.md

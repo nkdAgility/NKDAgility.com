@@ -25,12 +25,6 @@ aliasesArchive:
 - /change-the-release-management-server-that-your-client-connects-to
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
-aliasesFor404:
-- /change-release-management-server-client-connects
-- /blog/change-release-management-server-client-connects
-- /change-the-release-management-server-that-your-client-connects-to
-- /blog/change-the-release-management-server-that-your-client-connects-to
-- /resources/blog/change-release-management-server-client-connects
 tags:
 - Release Management
 - Install and Configuration

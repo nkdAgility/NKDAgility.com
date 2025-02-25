@@ -25,12 +25,6 @@ aliasesArchive:
 - /beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /blog/beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /resources/blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-aliasesFor404:
-- /beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-- /blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-- /beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
-- /blog/beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
-- /resources/blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 preview: nakedalm-logo-128-link-2-2.png
 categories: []
 tags:

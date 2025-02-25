@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
-aliasesFor404:
-- /anatomy-of-an-automation-for-the-tfs-automation-platform
-- /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
-- /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 tags:
 - Software Development
 - Install and Configuration

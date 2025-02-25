@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
 - /resources/videos/5-october-2023-agile-leader-webinar
 - /resources/5-october-2023-agile-leader-webinar
-aliasesFor404:
-- /resources/videos/5-october-2023-agile-leader-webinar
-- /resources/5-october-2023-agile-leader-webinar
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: false

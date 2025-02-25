@@ -25,12 +25,6 @@ aliasesArchive:
 - /create-log-entries-in-release-management
 - /blog/create-log-entries-in-release-management
 - /resources/blog/create-log-entries-release-management
-aliasesFor404:
-- /create-log-entries-release-management
-- /blog/create-log-entries-release-management
-- /create-log-entries-in-release-management
-- /blog/create-log-entries-in-release-management
-- /resources/blog/create-log-entries-release-management
 tags:
 - Windows
 - Release Management

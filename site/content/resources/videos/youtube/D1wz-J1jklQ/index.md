@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
 - /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 - /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
-aliasesFor404:
-- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
-- /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
 duration: 362
 isShort: false

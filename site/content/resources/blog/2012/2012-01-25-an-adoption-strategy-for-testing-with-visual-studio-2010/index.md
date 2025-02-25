@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 - /an-adoption-strategy-for-testing-with-visual-studio-2010
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
-aliasesFor404:
-- /an-adoption-strategy-for-testing-with-visual-studio-2010
-- /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
-- /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
 - Products and Books
 - Practical Techniques and Tooling

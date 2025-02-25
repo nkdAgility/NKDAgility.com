@@ -25,12 +25,6 @@ aliasesArchive:
 - /unable-to-load-task-handler-powershell-for-task-vsbuild
 - /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
 - /resources/blog/unable-load-task-handler-powershell-task-vsbuild
-aliasesFor404:
-- /unable-load-task-handler-powershell-task-vsbuild
-- /blog/unable-load-task-handler-powershell-task-vsbuild
-- /unable-to-load-task-handler-powershell-for-task-vsbuild
-- /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
-- /resources/blog/unable-load-task-handler-powershell-task-vsbuild
 tags:
 - Windows
 - Install and Configuration

@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-event-handler--prototype-released
 - /blog/tfs-event-handler--prototype-released
 - /resources/blog/tfs-event-handler-prototype-released
-aliasesFor404:
-- /tfs-event-handler-prototype-released
-- /blog/tfs-event-handler-prototype-released
-- /tfs-event-handler--prototype-released
-- /blog/tfs-event-handler--prototype-released
-- /resources/blog/tfs-event-handler-prototype-released
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

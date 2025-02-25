@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/what-is-project-management
 - /resources/videos/what-is-project-management-
 - /resources/what-is-project-management-
-aliasesFor404:
-- /resources/what-is-project-management
-- /resources/videos/what-is-project-management-
-- /resources/what-is-project-management-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

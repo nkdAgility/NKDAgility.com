@@ -15,8 +15,6 @@ aliases:
 - /resources/g4M_sdh5Fg2
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/emergant-work/
-aliasesFor404:
-- /learn/agile-delivery-kit/first-principals/emergant-work/
 card:
   button:
     content: Learn More

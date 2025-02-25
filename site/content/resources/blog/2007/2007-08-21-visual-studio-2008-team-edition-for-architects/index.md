@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/visual-studio-2008-team-edition-for-architects
 - /visual-studio-2008-team-edition-for-architects
 - /resources/blog/visual-studio-2008-team-edition-for-architects
-aliasesFor404:
-- /visual-studio-2008-team-edition-for-architects
-- /blog/visual-studio-2008-team-edition-for-architects
-- /resources/blog/visual-studio-2008-team-edition-for-architects
 tags:
 - Application Lifecycle Management
 - Software Development

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-importance-of-delivering-working-software-every-iteration
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-aliasesFor404:
-- /resources/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6

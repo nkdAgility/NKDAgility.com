@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/get-analysis-services-last-processed-date
 - /get-analysis-services-last-processed-date
 - /resources/blog/get-analysis-services-last-processed-date
-aliasesFor404:
-- /get-analysis-services-last-processed-date
-- /blog/get-analysis-services-last-processed-date
-- /resources/blog/get-analysis-services-last-processed-date
 tags:
 - Troubleshooting
 - Technical Mastery

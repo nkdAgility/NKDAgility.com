@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/import-excel-data-into-tfs-with-history
 - /import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
-aliasesFor404:
-- /import-excel-data-into-tfs-with-history
-- /blog/import-excel-data-into-tfs-with-history
-- /resources/blog/import-excel-data-into-tfs-with-history
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

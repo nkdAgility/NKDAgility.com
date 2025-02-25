@@ -25,12 +25,6 @@ aliasesArchive:
 - /issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /blog/issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
-aliasesFor404:
-- /issue-tfs-2013-tf255466-previous-update-installation-requires-restart
-- /blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
-- /issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
-- /blog/issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
-- /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 tags:
 - Troubleshooting
 categories: []

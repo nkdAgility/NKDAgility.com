@@ -27,13 +27,6 @@ aliasesArchive:
 - /upgrade-to-visual-studio-11-team-foundation-service---done
 - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
-aliasesFor404:
-- /upgrade-to-visual-studio-11-team-foundation-service-done
-- /blog/upgrade-to-visual-studio-11-team-foundation-service-done
-- /upgrade-to-visual-studio-11-team-foundation-service---done
-- /blog/upgrade-to-visual-studio-11-team-foundation-service---done
-- /upgrade-to-visual-studio-11-team-foundation-service
-- /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
 - Modern Source Control
 - Practical Techniques and Tooling

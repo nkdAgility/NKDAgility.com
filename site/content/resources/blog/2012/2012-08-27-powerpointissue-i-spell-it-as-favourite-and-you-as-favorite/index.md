@@ -25,12 +25,6 @@ aliasesArchive:
 - /i-spell-it-as-favourite-and-you-as-favorite
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-aliasesFor404:
-- /powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-- /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
-- /i-spell-it-as-favourite-and-you-as-favorite
-- /blog/i-spell-it-as-favourite-and-you-as-favorite
-- /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 tags:
 - Practical Techniques and Tooling
 - Miscellaneous

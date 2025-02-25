@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/
-aliasesFor404:
-- /newsletters/newsletter-2022/
-- /resources/newsletters/newsletter-2022/
 categories:
 - Scrum
 - Product Management

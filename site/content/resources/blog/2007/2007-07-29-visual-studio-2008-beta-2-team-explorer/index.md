@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/visual-studio-2008-beta-2-team-explorer
 - /visual-studio-2008-beta-2-team-explorer
 - /resources/blog/visual-studio-2008-beta-2-team-explorer
-aliasesFor404:
-- /visual-studio-2008-beta-2-team-explorer
-- /blog/visual-studio-2008-beta-2-team-explorer
-- /resources/blog/visual-studio-2008-beta-2-team-explorer
 tags:
 - Install and Configuration
 - Products and Books

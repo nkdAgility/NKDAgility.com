@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/vs2008-update
 - /vs2008-update
 - /resources/blog/vs2008-update
-aliasesFor404:
-- /vs2008-update
-- /blog/vs2008-update
-- /resources/blog/vs2008-update
 tags:
 - Events and Presentations
 categories: []

@@ -25,12 +25,6 @@ aliasesArchive:
 - /stuck-with-vista-
 - /blog/stuck-with-vista-
 - /resources/blog/stuck-with-vista
-aliasesFor404:
-- /stuck-with-vista
-- /blog/stuck-with-vista
-- /stuck-with-vista-
-- /blog/stuck-with-vista-
-- /resources/blog/stuck-with-vista
 tags:
 - Windows
 - Miscellaneous

@@ -25,12 +25,6 @@ aliasesArchive:
 - /what-is-dyslexia-
 - /blog/what-is-dyslexia-
 - /resources/blog/what-is-dyslexia
-aliasesFor404:
-- /what-is-dyslexia
-- /blog/what-is-dyslexia
-- /what-is-dyslexia-
-- /blog/what-is-dyslexia-
-- /resources/blog/what-is-dyslexia
 tags:
 - Personal
 preview: nakedalm-logo-128-link-1-1.png

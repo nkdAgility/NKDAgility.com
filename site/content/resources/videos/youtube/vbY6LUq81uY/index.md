@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 - /resources/videos/maximizing-value-with-minimum-viable-products-mvps
 - /resources/maximizing-value-with-minimum-viable-products-mvps
-aliasesFor404:
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
-- /resources/maximizing-value-with-minimum-viable-products-mvps
 preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
 duration: 437
 isShort: false

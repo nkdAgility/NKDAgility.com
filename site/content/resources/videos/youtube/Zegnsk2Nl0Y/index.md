@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
 - /resources/videos/5-tools-that-scrum-masters-love-part-5
 - /resources/5-tools-that-scrum-masters-love-part-5
-aliasesFor404:
-- /resources/videos/5-tools-that-scrum-masters-love-part-5
-- /resources/5-tools-that-scrum-masters-love-part-5
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true

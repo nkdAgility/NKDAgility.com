@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-event-handler-revisited
 - /tfs-event-handler-revisited
 - /resources/blog/tfs-event-handler-revisited
-aliasesFor404:
-- /tfs-event-handler-revisited
-- /blog/tfs-event-handler-revisited
-- /resources/blog/tfs-event-handler-revisited
 tags:
 - Practical Techniques and Tooling
 - Troubleshooting

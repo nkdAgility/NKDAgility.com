@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
 - /batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
-aliasesFor404:
-- /batched-domain-migration-with-tfs-while-maintaining-identity
-- /blog/batched-domain-migration-with-tfs-while-maintaining-identity
-- /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
 - Pragmatic Thinking
 - Practical Techniques and Tooling

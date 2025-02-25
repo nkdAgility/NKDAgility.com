@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 - /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
-aliasesFor404:
-- /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
-- /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

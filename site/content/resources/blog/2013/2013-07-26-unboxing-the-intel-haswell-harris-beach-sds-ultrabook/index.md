@@ -25,12 +25,6 @@ aliasesArchive:
 - /review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /blog/review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-aliasesFor404:
-- /unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /blog/review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 tags:
 - Windows
 - Products and Books

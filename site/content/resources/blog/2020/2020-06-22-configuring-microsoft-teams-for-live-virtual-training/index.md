@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/configuring-microsoft-teams-for-live-virtual-training
 - /configuring-microsoft-teams-for-live-virtual-training
 - /resources/blog/configuring-microsoft-teams-for-live-virtual-training
-aliasesFor404:
-- /configuring-microsoft-teams-for-live-virtual-training
-- /blog/configuring-microsoft-teams-for-live-virtual-training
-- /resources/blog/configuring-microsoft-teams-for-live-virtual-training
 categories:
 - Scrum
 - Social Technologies

@@ -25,12 +25,6 @@ aliasesArchive:
 - /bug-in-observablecollection-
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
-aliasesFor404:
-- /bug-in-observablecollection
-- /blog/bug-in-observablecollection
-- /bug-in-observablecollection-
-- /blog/bug-in-observablecollection-
-- /resources/blog/bug-in-observablecollection
 tags:
 - Troubleshooting
 - Technical Mastery

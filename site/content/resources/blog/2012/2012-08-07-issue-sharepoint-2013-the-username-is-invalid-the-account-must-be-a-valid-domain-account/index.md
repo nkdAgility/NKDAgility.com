@@ -25,12 +25,6 @@ aliasesArchive:
 - /issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 - /blog/issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
 - /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
-aliasesFor404:
-- /issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
-- /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
-- /issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
-- /blog/issue-sharepoint-2013--the-username-is-invalid--the-account-must-be-a-valid-domain-account
-- /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

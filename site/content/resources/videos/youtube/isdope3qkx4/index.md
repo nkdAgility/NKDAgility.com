@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/11th-april-2020-office-hours-ask-me-anything
 - /resources/11th-april-2020-office-hours-ask-me-anything
-aliasesFor404:
-- /resources/videos/11th-april-2020-office-hours-ask-me-anything
-- /resources/11th-april-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: false

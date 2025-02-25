@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-aliasesFor404:
-- /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-- /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-- /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
-- /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
-- /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

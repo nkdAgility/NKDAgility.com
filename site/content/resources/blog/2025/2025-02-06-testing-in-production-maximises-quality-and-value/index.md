@@ -22,9 +22,6 @@ aliases:
 aliasesArchive:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
-aliasesFor404:
-- /testing-in-production-maximises-quality-and-value
-- /blog/testing-in-production-maximises-quality-and-value
 tags:
 - Software Development
 - Deployment Strategies

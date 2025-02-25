@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-field-annotator
 - /tfs-field-annotator
 - /resources/blog/tfs-field-annotator
-aliasesFor404:
-- /tfs-field-annotator
-- /blog/tfs-field-annotator
-- /resources/blog/tfs-field-annotator
 tags:
 - Troubleshooting
 - Install and Configuration

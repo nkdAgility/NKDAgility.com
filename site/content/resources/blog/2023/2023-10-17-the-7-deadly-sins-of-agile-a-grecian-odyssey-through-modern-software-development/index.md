@@ -26,12 +26,6 @@ aliasesArchive:
 - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-aliasesFor404:
-- /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-- /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-- /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
-- /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
-- /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
 - Agile Project Management
 - Software Development

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/online-is-the-new-co-located
 - /online-is-the-new-co-located
 - /resources/blog/online-is-the-new-co-located
-aliasesFor404:
-- /online-is-the-new-co-located
-- /blog/online-is-the-new-co-located
-- /resources/blog/online-is-the-new-co-located
 tags:
 - Transparency
 - People and Process

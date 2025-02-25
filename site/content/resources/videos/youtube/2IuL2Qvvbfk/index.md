@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
-aliasesFor404:
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,12 +25,6 @@ aliasesArchive:
 - /why-should-i-use-visual-studio-alm
 - /blog/why-should-i-use-visual-studio-alm
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-aliasesFor404:
-- /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-- /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-- /why-should-i-use-visual-studio-alm
-- /blog/why-should-i-use-visual-studio-alm
-- /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 tags:
 - Application Lifecycle Management
 categories:

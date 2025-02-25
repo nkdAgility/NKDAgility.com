@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-event-handler-prototype-feedback
 - /tfs-event-handler-prototype-feedback
 - /resources/blog/tfs-event-handler-prototype-feedback
-aliasesFor404:
-- /tfs-event-handler-prototype-feedback
-- /blog/tfs-event-handler-prototype-feedback
-- /resources/blog/tfs-event-handler-prototype-feedback
 tags:
 - Customer Feedback Loops
 - Product Validation

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/agile-leadership-empowering-managers-with-the-right-skills
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
-aliasesFor404:
-- /resources/agile-leadership-empowering-managers-with-the-right-skills
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
-- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6

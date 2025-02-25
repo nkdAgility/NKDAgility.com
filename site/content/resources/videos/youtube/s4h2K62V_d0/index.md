@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/videos/shifting-left-quality-from-the-start
 - /resources/shifting-left-quality-from-the-start
-aliasesFor404:
-- /resources/videos/shifting-left-quality-from-the-start
-- /resources/shifting-left-quality-from-the-start
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 isShort: false

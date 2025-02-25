@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/multi-targeting-in-visual-studio-2010
 - /multi-targeting-in-visual-studio-2010
 - /resources/blog/multi-targeting-in-visual-studio-2010
-aliasesFor404:
-- /multi-targeting-in-visual-studio-2010
-- /blog/multi-targeting-in-visual-studio-2010
-- /resources/blog/multi-targeting-in-visual-studio-2010
 tags:
 - Technical Mastery
 - Software Development

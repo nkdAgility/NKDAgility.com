@@ -15,9 +15,6 @@ aliasesArchive:
 - /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 - /resources/videos/ep-007-running-a-live-virtual-classroom
 - /resources/ep-007-running-a-live-virtual-classroom
-aliasesFor404:
-- /resources/videos/ep-007-running-a-live-virtual-classroom
-- /resources/ep-007-running-a-live-virtual-classroom
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 isShort: false

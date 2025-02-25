@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/how-to-become-a-multi-dimensional-free-thinker
 - /how-to-become-a-multi-dimensional-free-thinker
 - /resources/blog/how-to-become-a-multi-dimensional-free-thinker
-aliasesFor404:
-- /how-to-become-a-multi-dimensional-free-thinker
-- /blog/how-to-become-a-multi-dimensional-free-thinker
-- /resources/blog/how-to-become-a-multi-dimensional-free-thinker
 tags:
 - Software Development
 - Software Developers

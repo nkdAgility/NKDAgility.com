@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
-aliasesFor404:
-- /upgrading-from-tfs-2008-to-tfs-2010-overview
-- /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
-- /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

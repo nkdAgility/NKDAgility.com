@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-is-a-product-backlog-2
 - /resources/videos/what-is-a-product-backlog-
 - /resources/what-is-a-product-backlog-
-aliasesFor404:
-- /resources/what-is-a-product-backlog-2
-- /resources/videos/what-is-a-product-backlog-
-- /resources/what-is-a-product-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

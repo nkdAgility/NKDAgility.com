@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/videos/momentum
 - /resources/momentum-2
 - /resources/momentum
-aliasesFor404:
-- /resources/momentum-2
-- /resources/videos/momentum
-- /resources/momentum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

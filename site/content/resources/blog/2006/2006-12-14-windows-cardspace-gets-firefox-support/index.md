@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/windows-cardspace-gets-firefox-support
 - /windows-cardspace-gets-firefox-support
 - /resources/blog/windows-cardspace-gets-firefox-support
-aliasesFor404:
-- /windows-cardspace-gets-firefox-support
-- /blog/windows-cardspace-gets-firefox-support
-- /resources/blog/windows-cardspace-gets-firefox-support
 tags:
 - Windows
 - News and Reviews

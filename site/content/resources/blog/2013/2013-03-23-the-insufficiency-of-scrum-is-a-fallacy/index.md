@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
-aliasesFor404:
-- /the-insufficiency-of-scrum-is-a-fallacy
-- /blog/the-insufficiency-of-scrum-is-a-fallacy
-- /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
 - People and Process
 - Technical Debt

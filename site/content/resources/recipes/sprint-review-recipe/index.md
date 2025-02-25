@@ -13,8 +13,6 @@ aliases:
 - /resources/K4kkSAG3R7m
 aliasesArchive:
 - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
-aliasesFor404:
-- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 creator: Martin Hinshelwood
 recommendedContent:
 - collection: guides

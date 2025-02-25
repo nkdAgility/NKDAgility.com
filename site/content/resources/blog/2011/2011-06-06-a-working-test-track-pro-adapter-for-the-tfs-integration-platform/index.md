@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
-aliasesFor404:
-- /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
-- /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
-- /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

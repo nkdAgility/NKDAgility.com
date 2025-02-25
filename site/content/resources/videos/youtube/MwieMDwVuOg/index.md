@@ -18,13 +18,6 @@ aliasesArchive:
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
 - /resources/the-key-to-scaling-successfully-agile-as-an-enabler
-aliasesFor404:
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/MwieMDwVuOg
-- /resources/videos/MwieMDwVuOg
-- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
-- /resources/the-key-to-scaling-successfully-agile-as-an-enabler
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false

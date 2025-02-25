@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/quality-enablement-with-visual-studio-2012
 - /quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
-aliasesFor404:
-- /quality-enablement-with-visual-studio-2012
-- /blog/quality-enablement-with-visual-studio-2012
-- /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
 - Working Software
 - Software Development

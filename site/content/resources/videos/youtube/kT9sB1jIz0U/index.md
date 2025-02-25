@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence
-aliasesFor404:
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence
 preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
 duration: 62
 isShort: false

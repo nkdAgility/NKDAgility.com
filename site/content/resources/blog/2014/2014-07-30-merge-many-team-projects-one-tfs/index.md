@@ -25,12 +25,6 @@ aliasesArchive:
 - /merge-team-projects-into-one-in-tfs
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
-aliasesFor404:
-- /merge-many-team-projects-one-tfs
-- /blog/merge-many-team-projects-one-tfs
-- /merge-team-projects-into-one-in-tfs
-- /blog/merge-team-projects-into-one-in-tfs
-- /resources/blog/merge-many-team-projects-one-tfs
 tags:
 - Install and Configuration
 categories:

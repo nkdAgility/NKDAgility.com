@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
-aliasesFor404:
-- /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true

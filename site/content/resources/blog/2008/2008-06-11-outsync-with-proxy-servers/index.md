@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/outsync-with-proxy-servers
 - /outsync-with-proxy-servers
 - /resources/blog/outsync-with-proxy-servers
-aliasesFor404:
-- /outsync-with-proxy-servers
-- /blog/outsync-with-proxy-servers
-- /resources/blog/outsync-with-proxy-servers
 tags:
 - Install and Configuration
 - Troubleshooting

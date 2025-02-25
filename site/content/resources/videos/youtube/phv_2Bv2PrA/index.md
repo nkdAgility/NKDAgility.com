@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/what-is-agile
 - /resources/videos/what-is-agile-
 - /resources/what-is-agile-
-aliasesFor404:
-- /resources/videos/what-is-agile-
-- /resources/what-is-agile-
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
 isShort: false

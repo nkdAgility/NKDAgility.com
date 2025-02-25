@@ -25,12 +25,6 @@ aliasesArchive:
 - /teamplain---install-and-initial-views
 - /blog/teamplain---install-and-initial-views
 - /resources/blog/teamplain-install-and-initial-views
-aliasesFor404:
-- /teamplain-install-and-initial-views
-- /blog/teamplain-install-and-initial-views
-- /teamplain---install-and-initial-views
-- /blog/teamplain---install-and-initial-views
-- /resources/blog/teamplain-install-and-initial-views
 tags:
 - Install and Configuration
 categories: []

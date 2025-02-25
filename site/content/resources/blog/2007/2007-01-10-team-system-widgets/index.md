@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/team-system-widgets
 - /team-system-widgets
 - /resources/blog/team-system-widgets
-aliasesFor404:
-- /team-system-widgets
-- /blog/team-system-widgets
-- /resources/blog/team-system-widgets
 tags:
 - Products and Books
 - Practical Techniques and Tooling

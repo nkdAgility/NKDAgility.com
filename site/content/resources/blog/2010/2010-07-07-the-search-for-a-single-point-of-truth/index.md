@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-search-for-a-single-point-of-truth
 - /the-search-for-a-single-point-of-truth
 - /resources/blog/the-search-for-a-single-point-of-truth
-aliasesFor404:
-- /the-search-for-a-single-point-of-truth
-- /blog/the-search-for-a-single-point-of-truth
-- /resources/blog/the-search-for-a-single-point-of-truth
 tags:
 - Windows
 categories: []

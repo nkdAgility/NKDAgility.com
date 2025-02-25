@@ -25,12 +25,6 @@ aliasesArchive:
 - /wpf-ninject-dojo--the-data-provider
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/blog/wpf-ninject-dojo-the-data-provider
-aliasesFor404:
-- /wpf-ninject-dojo-the-data-provider
-- /blog/wpf-ninject-dojo-the-data-provider
-- /wpf-ninject-dojo--the-data-provider
-- /blog/wpf-ninject-dojo--the-data-provider
-- /resources/blog/wpf-ninject-dojo-the-data-provider
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery

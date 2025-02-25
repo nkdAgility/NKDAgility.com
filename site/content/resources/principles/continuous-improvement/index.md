@@ -15,8 +15,6 @@ aliases:
 - /resources/ncwxEspXRQm
 aliasesArchive:
 - /principles/continuous-improvement/
-aliasesFor404:
-- /principles/continuous-improvement/
 card:
   button:
     content: Start Optimizing Now

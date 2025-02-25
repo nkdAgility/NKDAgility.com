@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
 - /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/technical-debt-management-for-long-term-quality
-aliasesFor404:
-- /resources/videos/technical-debt-management-for-long-term-quality
-- /resources/technical-debt-management-for-long-term-quality
 preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
 duration: 459
 isShort: false

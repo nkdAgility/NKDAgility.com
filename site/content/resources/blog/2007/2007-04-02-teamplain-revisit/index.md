@@ -25,12 +25,6 @@ aliasesArchive:
 - /teamplain---revisit
 - /blog/teamplain---revisit
 - /resources/blog/teamplain-revisit
-aliasesFor404:
-- /teamplain-revisit
-- /blog/teamplain-revisit
-- /teamplain---revisit
-- /blog/teamplain---revisit
-- /resources/blog/teamplain-revisit
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:

@@ -25,12 +25,6 @@ aliasesArchive:
 - /lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
 - /blog/lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
 - /resources/blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
-aliasesFor404:
-- /windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
-- /blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
-- /lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
-- /blog/lab-management-issue--enable-file-and-printer-sharing-for-lab-management-standard-environments
-- /resources/blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 tags:
 - Windows
 categories: []

@@ -11,8 +11,6 @@ aliases:
 - /resources/uD_5MdHKu1Q
 aliasesArchive:
 - /learn/agile-delivery-kit/guides/kanban-guide
-aliasesFor404:
-- /learn/agile-delivery-kit/guides/kanban-guide
 references:
 - title: The Kanban Guide
   url: https://kanbanguides.org/english/

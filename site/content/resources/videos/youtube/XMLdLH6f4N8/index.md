@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/nkdagility-healthgrades-interview-katherine-maddox
-aliasesFor404:
-- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
-- /resources/nkdagility-healthgrades-interview-katherine-maddox
 preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 isShort: false

@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
-aliasesFor404:
-- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
-- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
 sitemap:
   filename: sitemap.xml
   priority: 0.6

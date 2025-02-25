@@ -25,12 +25,6 @@ aliasesArchive:
 - /you-can't-stack-rank-hierarchical-work-items-
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
-aliasesFor404:
-- /you-cant-stack-rank-hierarchical-work-items
-- /blog/you-cant-stack-rank-hierarchical-work-items
-- /you-can't-stack-rank-hierarchical-work-items-
-- /blog/you-can't-stack-rank-hierarchical-work-items-
-- /resources/blog/you-cant-stack-rank-hierarchical-work-items
 tags:
 - Scrum Product Development
 - Software Development

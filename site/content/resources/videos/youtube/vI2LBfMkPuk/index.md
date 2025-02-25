@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why
 - /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
-aliasesFor404:
-- /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
-- /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false

@@ -25,12 +25,6 @@ aliasesArchive:
 - /guidance--how-to-layout-you-files-for-an-ideal-solution
 - /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
-aliasesFor404:
-- /guidance-how-to-layout-you-files-for-an-ideal-solution
-- /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
-- /guidance--how-to-layout-you-files-for-an-ideal-solution
-- /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
-- /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags:
 - Software Development
 - Software Developers

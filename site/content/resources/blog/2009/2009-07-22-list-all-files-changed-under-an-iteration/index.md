@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/list-all-files-changed-under-an-iteration
 - /list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
-aliasesFor404:
-- /list-all-files-changed-under-an-iteration
-- /blog/list-all-files-changed-under-an-iteration
-- /resources/blog/list-all-files-changed-under-an-iteration
 tags:
 - Practical Techniques and Tooling
 - Azure Repos

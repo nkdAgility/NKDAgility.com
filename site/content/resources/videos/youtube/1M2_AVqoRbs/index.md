@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
 - /resources/videos/technical-debt-costs-you-more-than-you-think
 - /resources/technical-debt-costs-you-more-than-you-think
-aliasesFor404:
-- /resources/videos/technical-debt-costs-you-more-than-you-think
-- /resources/technical-debt-costs-you-more-than-you-think
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true

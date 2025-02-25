@@ -25,12 +25,6 @@ aliasesArchive:
 - /solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-aliasesFor404:
-- /solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 tags:
 - Software Development
 preview: metro-visual-studio-2010-128-link-6-6.png

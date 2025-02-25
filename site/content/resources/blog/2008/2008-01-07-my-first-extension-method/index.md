@@ -25,12 +25,6 @@ aliasesArchive:
 - /blog/my-first-extension-method---
 - /my-first-extension-method
 - /resources/blog/my-first-extension-method
-aliasesFor404:
-- /my-first-extension-method
-- /blog/my-first-extension-method
-- /my-first-extension-method---
-- /blog/my-first-extension-method---
-- /resources/blog/my-first-extension-method
 tags:
 - Technical Mastery
 - Software Development

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/information-sync
 - /information-sync
 - /resources/blog/information-sync
-aliasesFor404:
-- /information-sync
-- /blog/information-sync
-- /resources/blog/information-sync
 tags:
 - Windows
 - Products and Books

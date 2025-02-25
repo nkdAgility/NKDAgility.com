@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
-aliasesFor404:
-- /integrating-project-server-2013-with-team-foundation-server-2012
-- /blog/integrating-project-server-2013-with-team-foundation-server-2012
-- /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
 tags:
 - Install and Configuration
 categories:

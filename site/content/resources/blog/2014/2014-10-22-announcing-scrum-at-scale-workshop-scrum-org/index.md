@@ -25,12 +25,6 @@ aliasesArchive:
 - /upcomming-scrum-at-scale-workshop-from-scrum-org
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
-aliasesFor404:
-- /announcing-scrum-at-scale-workshop-scrum-org
-- /blog/announcing-scrum-at-scale-workshop-scrum-org
-- /upcomming-scrum-at-scale-workshop-from-scrum-org
-- /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
-- /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
 - People and Process
 - Organisational Change

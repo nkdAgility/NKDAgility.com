@@ -25,12 +25,6 @@ aliasesArchive:
 - /professional-scrum-teams-build-software-that-works
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
-aliasesFor404:
-- /professional-scrum-teams-build-software-works
-- /blog/professional-scrum-teams-build-software-works
-- /professional-scrum-teams-build-software-that-works
-- /blog/professional-scrum-teams-build-software-that-works
-- /resources/blog/professional-scrum-teams-build-software-works
 tags:
 - Working Software
 - Software Development

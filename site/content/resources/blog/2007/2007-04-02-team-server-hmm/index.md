@@ -25,12 +25,6 @@ aliasesArchive:
 - /team-server-hmm-
 - /blog/team-server-hmm-
 - /resources/blog/team-server-hmm
-aliasesFor404:
-- /team-server-hmm
-- /blog/team-server-hmm
-- /team-server-hmm-
-- /blog/team-server-hmm-
-- /resources/blog/team-server-hmm
 tags:
 - Modern Source Control
 - Products and Books

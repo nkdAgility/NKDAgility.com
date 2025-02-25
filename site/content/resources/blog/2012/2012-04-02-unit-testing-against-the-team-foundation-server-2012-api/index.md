@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/unit-testing-against-the-team-foundation-server-2012-api
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
-aliasesFor404:
-- /unit-testing-against-the-team-foundation-server-2012-api
-- /blog/unit-testing-against-the-team-foundation-server-2012-api
-- /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
 - Test Driven Development
 - Test First Development

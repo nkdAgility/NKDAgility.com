@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 - /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 - /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
-aliasesFor404:
-- /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
-- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
-- /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 sitemap:
   filename: sitemap.xml
   priority: 0.6

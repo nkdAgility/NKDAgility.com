@@ -15,8 +15,6 @@ aliases:
 - /resources/I3eGjbYOnzu
 aliasesArchive:
 - /principles/competence/
-aliasesFor404:
-- /principles/competence/
 card:
   button:
     content: Start Optimizing Now

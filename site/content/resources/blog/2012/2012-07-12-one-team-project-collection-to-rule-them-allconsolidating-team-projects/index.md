@@ -27,13 +27,6 @@ aliasesArchive:
 - /one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-aliasesFor404:
-- /one-team-project-collection-to-rule-them-allconsolidating-team-projects
-- /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-- /one-team-project-collection-to-rule-them-all---consolidating-team-projects
-- /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
-- /one-team-project-collection-to-rule-them-all
-- /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 tags:
 - Troubleshooting
 categories:

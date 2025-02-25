@@ -18,9 +18,6 @@ aliases:
 aliasesArchive:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
-aliasesFor404:
-- /stop-promoting-branches
-- /blog/stop-promoting-branches
 tags:
 - Software Development
 - Technical Excellence

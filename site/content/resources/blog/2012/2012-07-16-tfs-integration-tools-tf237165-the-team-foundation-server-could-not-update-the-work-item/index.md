@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
-aliasesFor404:
-- /tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
-- /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
-- /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
-- /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
-- /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags:
 - Troubleshooting
 - Install and Configuration

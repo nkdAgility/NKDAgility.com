@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-event-handler--coverage-&-comments
 - /blog/tfs-event-handler--coverage-&-comments
 - /resources/blog/tfs-event-handler-coverage-comments
-aliasesFor404:
-- /tfs-event-handler-coverage-comments
-- /blog/tfs-event-handler-coverage-comments
-- /tfs-event-handler--coverage-&-comments
-- /blog/tfs-event-handler--coverage-&-comments
-- /resources/blog/tfs-event-handler-coverage-comments
 tags:
 - Customer Feedback Loops
 - Troubleshooting

@@ -25,12 +25,6 @@ aliasesArchive:
 - /how-'e'-are-you-
 - /blog/how-'e'-are-you-
 - /resources/blog/how-e-are-you
-aliasesFor404:
-- /how-e-are-you
-- /blog/how-e-are-you
-- /how-'e'-are-you-
-- /blog/how-'e'-are-you-
-- /resources/blog/how-e-are-you
 tags: []
 categories: []
 preview: metro-sharepoint-128-link-1-1.png

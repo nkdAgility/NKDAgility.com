@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
-aliasesFor404:
-- /professional-kanban-trainer-for-applying-professional-kanban
-- /blog/professional-kanban-trainer-for-applying-professional-kanban
-- /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
 - Products and Books
 - Practical Techniques and Tooling

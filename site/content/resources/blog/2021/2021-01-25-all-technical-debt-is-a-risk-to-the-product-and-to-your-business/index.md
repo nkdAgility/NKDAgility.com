@@ -26,12 +26,6 @@ aliasesArchive:
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-aliasesFor404:
-- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-- /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
-- /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
-- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 tags:
 - Technical Debt
 categories:

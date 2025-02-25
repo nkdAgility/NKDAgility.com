@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/an-application-deployment
 - /an-application-deployment
 - /resources/blog/an-application-deployment
-aliasesFor404:
-- /an-application-deployment
-- /blog/an-application-deployment
-- /resources/blog/an-application-deployment
 tags:
 - Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png

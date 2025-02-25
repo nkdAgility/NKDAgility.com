@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/infragistics-wpf
 - /infragistics-wpf
 - /resources/blog/infragistics-wpf
-aliasesFor404:
-- /infragistics-wpf
-- /blog/infragistics-wpf
-- /resources/blog/infragistics-wpf
 tags:
 - Troubleshooting
 - Technical Mastery

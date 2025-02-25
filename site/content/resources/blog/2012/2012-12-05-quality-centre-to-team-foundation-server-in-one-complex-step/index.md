@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
 - /quality-centre-to-team-foundation-server-in-one-complex-step
 - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
-aliasesFor404:
-- /quality-centre-to-team-foundation-server-in-one-complex-step
-- /blog/quality-centre-to-team-foundation-server-in-one-complex-step
-- /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
 - Products and Books
 categories:

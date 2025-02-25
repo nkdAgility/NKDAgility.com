@@ -25,12 +25,6 @@ aliasesArchive:
 - /does-test-driven-development-speed-up-development-
 - /blog/does-test-driven-development-speed-up-development-
 - /resources/blog/does-test-driven-development-speed-up-development
-aliasesFor404:
-- /does-test-driven-development-speed-up-development
-- /blog/does-test-driven-development-speed-up-development
-- /does-test-driven-development-speed-up-development-
-- /blog/does-test-driven-development-speed-up-development-
-- /resources/blog/does-test-driven-development-speed-up-development
 tags:
 - Software Development
 - Software Developers

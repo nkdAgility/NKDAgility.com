@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
-aliasesFor404:
-- /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
-- /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
-- /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
 - Install and Configuration
 - Products and Books

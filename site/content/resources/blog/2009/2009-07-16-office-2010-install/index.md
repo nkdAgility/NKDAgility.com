@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/office-2010-install
 - /office-2010-install
 - /resources/blog/office-2010-install
-aliasesFor404:
-- /office-2010-install
-- /blog/office-2010-install
-- /resources/blog/office-2010-install
 tags:
 - Windows
 - Install and Configuration

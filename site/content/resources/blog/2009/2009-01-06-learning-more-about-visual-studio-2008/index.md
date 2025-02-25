@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/learning-more-about-visual-studio-2008
 - /learning-more-about-visual-studio-2008
 - /resources/blog/learning-more-about-visual-studio-2008
-aliasesFor404:
-- /learning-more-about-visual-studio-2008
-- /blog/learning-more-about-visual-studio-2008
-- /resources/blog/learning-more-about-visual-studio-2008
 tags:
 - Discovery and Learning
 - Products and Books

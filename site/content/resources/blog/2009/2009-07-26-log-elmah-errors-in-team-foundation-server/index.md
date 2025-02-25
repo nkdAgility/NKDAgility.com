@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/log-elmah-errors-in-team-foundation-server
 - /log-elmah-errors-in-team-foundation-server
 - /resources/blog/log-elmah-errors-in-team-foundation-server
-aliasesFor404:
-- /log-elmah-errors-in-team-foundation-server
-- /blog/log-elmah-errors-in-team-foundation-server
-- /resources/blog/log-elmah-errors-in-team-foundation-server
 tags:
 - Software Development
 preview: metro-binary-vb-128-link-1-1.png

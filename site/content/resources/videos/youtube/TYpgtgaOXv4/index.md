@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
 - /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
-aliasesFor404:
-- /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
-- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
-- /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,12 +25,6 @@ aliasesArchive:
 - /adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/blog/hinshelm-on-composite-ui-application-block
-aliasesFor404:
-- /hinshelm-on-composite-ui-application-block
-- /blog/hinshelm-on-composite-ui-application-block
-- /adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
-- /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
-- /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery

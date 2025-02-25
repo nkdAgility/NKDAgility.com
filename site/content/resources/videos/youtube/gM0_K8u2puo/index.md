@@ -24,14 +24,6 @@ aliasesArchive:
 - /resources/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/videos/be-a-market-leader,-not-a-follower
 - /resources/be-a-market-leader,-not-a-follower
-aliasesFor404:
-- /resources/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
-- /resources/how-does-a-scrum-team-create-a-sprint-goal-
-- /resources/gM0_K8u2puo
-- /resources/videos/gM0_K8u2puo
-- /resources/videos/be-a-market-leader,-not-a-follower
-- /resources/be-a-market-leader,-not-a-follower
 sitemap:
   filename: sitemap.xml
   priority: 0.4

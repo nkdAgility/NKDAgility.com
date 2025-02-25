@@ -27,13 +27,6 @@ aliasesArchive:
 - /tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
 - /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
-aliasesFor404:
-- /tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
-- /blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
-- /tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
-- /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
-- /tfs-2012-update-1
-- /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
 - Windows
 - Install and Configuration

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/custom-wcf-proxy
 - /custom-wcf-proxy
 - /resources/blog/custom-wcf-proxy
-aliasesFor404:
-- /custom-wcf-proxy
-- /blog/custom-wcf-proxy
-- /resources/blog/custom-wcf-proxy
 tags:
 - Technical Mastery
 - Software Development

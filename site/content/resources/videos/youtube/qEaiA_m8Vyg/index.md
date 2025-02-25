@@ -19,9 +19,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
-aliasesFor404:
-- /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
-- /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 sitemap:
   filename: sitemap.xml
   priority: 0.6

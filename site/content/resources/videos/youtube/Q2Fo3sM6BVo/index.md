@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/the-scrum-framework
 - /resources/videos/the-scrum-framework!
 - /resources/the-scrum-framework!
-aliasesFor404:
-- /resources/videos/the-scrum-framework!
-- /resources/the-scrum-framework!
 preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false

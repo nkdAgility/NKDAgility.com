@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/understanding-the-power-of-kanban-in-scrum
 - /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
 - /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
-aliasesFor404:
-- /resources/understanding-the-power-of-kanban-in-scrum
-- /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
-- /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
 sitemap:
   filename: sitemap.xml
   priority: 0.6

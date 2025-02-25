@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/videos/5-ghosts-of-agile-past-certification
 - /resources/5-ghosts-of-agile-past-certification
-aliasesFor404:
-- /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-- /resources/videos/5-ghosts-of-agile-past-certification
-- /resources/5-ghosts-of-agile-past-certification
 sitemap:
   filename: sitemap.xml
   priority: 0.6

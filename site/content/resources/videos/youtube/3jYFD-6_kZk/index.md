@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/navigating-the-complex-world-of-azure-devops-data-migration
 - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
-aliasesFor404:
-- /resources/navigating-the-complex-world-of-azure-devops-data-migration
-- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
-- /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6

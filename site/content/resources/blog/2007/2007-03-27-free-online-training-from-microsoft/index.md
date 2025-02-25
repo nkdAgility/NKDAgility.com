@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/free-online-training-from-microsoft
 - /free-online-training-from-microsoft
 - /resources/blog/free-online-training-from-microsoft
-aliasesFor404:
-- /free-online-training-from-microsoft
-- /blog/free-online-training-from-microsoft
-- /resources/blog/free-online-training-from-microsoft
 tags:
 - Events and Presentations
 - Software Development

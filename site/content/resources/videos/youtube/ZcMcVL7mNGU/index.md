@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 - /resources/videos/product-management-mentor-program-final
 - /resources/product-management-mentor-program-final
-aliasesFor404:
-- /resources/videos/product-management-mentor-program-final
-- /resources/product-management-mentor-program-final
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false

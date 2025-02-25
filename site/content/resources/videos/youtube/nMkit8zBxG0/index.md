@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-is-sprint-planning
 - /resources/videos/what-is-sprint-planning-
 - /resources/what-is-sprint-planning-
-aliasesFor404:
-- /resources/what-is-sprint-planning
-- /resources/videos/what-is-sprint-planning-
-- /resources/what-is-sprint-planning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success
 - /resources/videos/-shorts-7-virtues-of-agile-humility
 - /resources/-shorts-7-virtues-of-agile-humility
-aliasesFor404:
-- /resources/videos/-shorts-7-virtues-of-agile-humility
-- /resources/-shorts-7-virtues-of-agile-humility
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true

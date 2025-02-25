@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/deploying-team-server
 - /deploying-team-server
 - /resources/blog/deploying-team-server
-aliasesFor404:
-- /deploying-team-server
-- /blog/deploying-team-server
-- /resources/blog/deploying-team-server
 tags:
 - Practical Techniques and Tooling
 - Events and Presentations

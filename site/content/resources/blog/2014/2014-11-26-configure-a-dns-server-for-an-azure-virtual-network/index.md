@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /configure-a-dns-server-for-an-azure-virtual-network
 - /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
-aliasesFor404:
-- /configure-a-dns-server-for-an-azure-virtual-network
-- /blog/configure-a-dns-server-for-an-azure-virtual-network
-- /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

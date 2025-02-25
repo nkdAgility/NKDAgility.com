@@ -23,11 +23,6 @@ aliasesArchive:
 - /resources/why-i-love-hierarchies-of-competence-2
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence
-aliasesFor404:
-- /resources/why-i-love-heirarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence-2
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

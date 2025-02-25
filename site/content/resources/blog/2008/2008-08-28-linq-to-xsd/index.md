@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/linq-to-xsd
 - /linq-to-xsd
 - /resources/blog/linq-to-xsd
-aliasesFor404:
-- /linq-to-xsd
-- /blog/linq-to-xsd
-- /resources/blog/linq-to-xsd
 tags:
 - Install and Configuration
 - Software Development

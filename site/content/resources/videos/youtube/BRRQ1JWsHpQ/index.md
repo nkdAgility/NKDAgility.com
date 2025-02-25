@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these
 - /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
-aliasesFor404:
-- /resources/videos/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
-- /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false

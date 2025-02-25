@@ -25,12 +25,6 @@ aliasesArchive:
 - /creating-training-virtual-machines-in-azure
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/blog/creating-training-virtual-machines-azure
-aliasesFor404:
-- /creating-training-virtual-machines-azure
-- /blog/creating-training-virtual-machines-azure
-- /creating-training-virtual-machines-in-azure
-- /blog/creating-training-virtual-machines-in-azure
-- /resources/blog/creating-training-virtual-machines-azure
 tags:
 - Install and Configuration
 - Windows

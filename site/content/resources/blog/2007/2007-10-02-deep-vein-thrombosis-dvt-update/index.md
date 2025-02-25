@@ -25,12 +25,6 @@ aliasesArchive:
 - /deep-vein-thrombosis-(dvt)-update
 - /blog/deep-vein-thrombosis-(dvt)-update
 - /resources/blog/deep-vein-thrombosis-dvt-update
-aliasesFor404:
-- /deep-vein-thrombosis-dvt-update
-- /blog/deep-vein-thrombosis-dvt-update
-- /deep-vein-thrombosis-(dvt)-update
-- /blog/deep-vein-thrombosis-(dvt)-update
-- /resources/blog/deep-vein-thrombosis-dvt-update
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:

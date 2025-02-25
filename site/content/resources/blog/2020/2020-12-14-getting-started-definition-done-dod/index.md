@@ -26,12 +26,6 @@ aliasesArchive:
 - /getting-started-with-a-definition-of-done-(dod)
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
-aliasesFor404:
-- /getting-started-definition-done-dod
-- /blog/getting-started-definition-done-dod
-- /getting-started-with-a-definition-of-done-(dod)
-- /blog/getting-started-with-a-definition-of-done-(dod)
-- /resources/blog/getting-started-definition-done-dod
 tags:
 - Increment
 - Definition of Done

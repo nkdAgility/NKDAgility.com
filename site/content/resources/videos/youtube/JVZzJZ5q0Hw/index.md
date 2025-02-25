@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/what-is-a-sprint-goal
 - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/what-is-the-most-common-mistake-in-sprint-planning-
-aliasesFor404:
-- /resources/what-is-the-most-common-mistake-in-sprint-planning
-- /resources/what-is-a-sprint-goal
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
-- /resources/what-is-the-most-common-mistake-in-sprint-planning-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

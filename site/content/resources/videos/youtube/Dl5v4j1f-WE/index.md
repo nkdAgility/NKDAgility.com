@@ -23,11 +23,6 @@ aliasesArchive:
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
-aliasesFor404:
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
-- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

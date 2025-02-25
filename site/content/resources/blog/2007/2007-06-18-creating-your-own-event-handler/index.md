@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/creating-your-own-event-handler
 - /creating-your-own-event-handler
 - /resources/blog/creating-your-own-event-handler
-aliasesFor404:
-- /creating-your-own-event-handler
-- /blog/creating-your-own-event-handler
-- /resources/blog/creating-your-own-event-handler
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery

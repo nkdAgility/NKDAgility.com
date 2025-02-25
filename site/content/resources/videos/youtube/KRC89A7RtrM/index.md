@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 - /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
-aliasesFor404:
-- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
-- /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
 isShort: false

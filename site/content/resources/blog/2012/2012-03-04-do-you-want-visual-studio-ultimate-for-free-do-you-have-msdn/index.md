@@ -25,12 +25,6 @@ aliasesArchive:
 - /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
-aliasesFor404:
-- /do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
-- /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
-- /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
-- /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
-- /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 tags:
 - Windows
 - Software Development

@@ -26,12 +26,6 @@ aliasesArchive:
 - /risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
-aliasesFor404:
-- /risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
-- /blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
-- /risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
-- /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
-- /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 tags:
 - Pragmatic Thinking
 - Strategy

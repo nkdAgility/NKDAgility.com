@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-event-handler-in--net-3-5-part-1---the-architecture
 - /blog/tfs-event-handler-in--net-3-5-part-1---the-architecture
 - /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
-aliasesFor404:
-- /tfs-event-handler-in-net-3-5-part-1-the-architecture
-- /blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
-- /tfs-event-handler-in--net-3-5-part-1---the-architecture
-- /blog/tfs-event-handler-in--net-3-5-part-1---the-architecture
-- /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
 tags:
 - Code and Complexity
 - Practical Techniques and Tooling

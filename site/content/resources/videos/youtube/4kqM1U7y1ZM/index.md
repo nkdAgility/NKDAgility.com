@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 - /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 - /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
-aliasesFor404:
-- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
-- /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false

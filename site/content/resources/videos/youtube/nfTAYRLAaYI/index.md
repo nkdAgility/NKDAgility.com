@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/mastering-kanban-a-simple-guide-to-its-core-principles
 - /resources/videos/kanban-principles
 - /resources/kanban-principles
-aliasesFor404:
-- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/videos/kanban-principles
-- /resources/kanban-principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /newsletters/april-2023-nkdagility-applying-professional-scrum/
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
-aliasesFor404:
-- /newsletters/april-2023-nkdagility-applying-professional-scrum/
-- /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 categories:
 - Scrum
 - Social Technologies

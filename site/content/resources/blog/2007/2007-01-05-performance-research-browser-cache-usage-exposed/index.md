@@ -31,15 +31,6 @@ aliasesArchive:
 - /performance-research--browser-cache-usage---exposed-
 - /blog/performance-research--browser-cache-usage---exposed-
 - /resources/blog/performance-research-browser-cache-usage-exposed
-aliasesFor404:
-- /performance-research-browser-cache-usage-exposed
-- /blog/performance-research-browser-cache-usage-exposed
-- /performance-research,-browser-cache-usage---exposed-
-- /blog/performance-research,-browser-cache-usage---exposed-
-- /performance-research--browser-cache-usage---exposed-
-- /blog/performance-research--browser-cache-usage---exposed-
-- /performance-research,-browser-cache-usage
-- /resources/blog/performance-research-browser-cache-usage-exposed
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

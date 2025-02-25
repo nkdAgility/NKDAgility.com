@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/messenger-united
 - /messenger-united
 - /resources/blog/messenger-united
-aliasesFor404:
-- /messenger-united
-- /blog/messenger-united
-- /resources/blog/messenger-united
 tags:
 - Products and Books
 - News and Reviews

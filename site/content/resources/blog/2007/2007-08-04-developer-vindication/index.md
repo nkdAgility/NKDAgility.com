@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/developer-vindication
 - /developer-vindication
 - /resources/blog/developer-vindication
-aliasesFor404:
-- /developer-vindication
-- /blog/developer-vindication
-- /resources/blog/developer-vindication
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:

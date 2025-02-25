@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/kanban-with-team-foundation-service
 - /resources/kanban-with-team-foundation-service
-aliasesFor404:
-- /resources/videos/kanban-with-team-foundation-service
-- /resources/kanban-with-team-foundation-service
 preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
 isShort: false

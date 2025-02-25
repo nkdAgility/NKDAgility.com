@@ -27,13 +27,6 @@ aliasesArchive:
 - /engaging-with-complexity---team-foundation-server-edition
 - /blog/engaging-with-complexity---team-foundation-server-edition
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
-aliasesFor404:
-- /engaging-with-complexity-team-foundation-server-edition
-- /blog/engaging-with-complexity-team-foundation-server-edition
-- /engaging-with-complexity---team-foundation-server-edition
-- /blog/engaging-with-complexity---team-foundation-server-edition
-- /engaging-with-complexity
-- /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
 - Windows
 categories:

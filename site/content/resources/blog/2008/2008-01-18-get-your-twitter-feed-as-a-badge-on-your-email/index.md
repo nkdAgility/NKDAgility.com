@@ -25,12 +25,6 @@ aliasesArchive:
 - /get-your-twitter-feed-as-a-badge-on-your-email-
 - /blog/get-your-twitter-feed-as-a-badge-on-your-email-
 - /resources/blog/get-your-twitter-feed-as-a-badge-on-your-email
-aliasesFor404:
-- /get-your-twitter-feed-as-a-badge-on-your-email
-- /blog/get-your-twitter-feed-as-a-badge-on-your-email
-- /get-your-twitter-feed-as-a-badge-on-your-email-
-- /blog/get-your-twitter-feed-as-a-badge-on-your-email-
-- /resources/blog/get-your-twitter-feed-as-a-badge-on-your-email
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 tags: []

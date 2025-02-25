@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/team-foundation-server-2013-is-production-ready
 - /team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
-aliasesFor404:
-- /team-foundation-server-2013-is-production-ready
-- /blog/team-foundation-server-2013-is-production-ready
-- /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
 - Technical Debt
 - Products and Books

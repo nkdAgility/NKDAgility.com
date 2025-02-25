@@ -25,12 +25,6 @@ aliasesArchive:
 - /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-aliasesFor404:
-- /coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-- /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-- /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
-- /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
-- /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 tags:
 - Software Development
 - Events and Presentations

@@ -25,12 +25,6 @@ aliasesArchive:
 - /why-is-the-vs2010-iso-so-small-
 - /blog/why-is-the-vs2010-iso-so-small-
 - /resources/blog/why-is-the-vs2010-iso-so-small
-aliasesFor404:
-- /why-is-the-vs2010-iso-so-small
-- /blog/why-is-the-vs2010-iso-so-small
-- /why-is-the-vs2010-iso-so-small-
-- /blog/why-is-the-vs2010-iso-so-small-
-- /resources/blog/why-is-the-vs2010-iso-so-small
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

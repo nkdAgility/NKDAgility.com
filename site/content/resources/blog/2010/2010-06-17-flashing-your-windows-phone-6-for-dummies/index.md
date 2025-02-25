@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/flashing-your-windows-phone-6-for-dummies
 - /flashing-your-windows-phone-6-for-dummies
 - /resources/blog/flashing-your-windows-phone-6-for-dummies
-aliasesFor404:
-- /flashing-your-windows-phone-6-for-dummies
-- /blog/flashing-your-windows-phone-6-for-dummies
-- /resources/blog/flashing-your-windows-phone-6-for-dummies
 tags:
 - Windows
 - Install and Configuration

@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
-aliasesFor404:
-- /pragmatism-crushes-dogma-in-the-wild
-- /blog/pragmatism-crushes-dogma-in-the-wild
-- /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
 - Scrum
 - Social Technologies

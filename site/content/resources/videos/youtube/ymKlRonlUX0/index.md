@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 - /resources/videos/5-ghosts-of-agile-past-burndown-charts
 - /resources/5-ghosts-of-agile-past-burndown-charts
-aliasesFor404:
-- /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
-- /resources/videos/5-ghosts-of-agile-past-burndown-charts
-- /resources/5-ghosts-of-agile-past-burndown-charts
 sitemap:
   filename: sitemap.xml
   priority: 0.6

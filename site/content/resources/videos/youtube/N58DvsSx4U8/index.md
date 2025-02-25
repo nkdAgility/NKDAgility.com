@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-is-your-favourite-devops-consulting-outcome
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome-
 - /resources/what-is-your-favourite-devops-consulting-outcome-
-aliasesFor404:
-- /resources/what-is-your-favourite-devops-consulting-outcome
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome-
-- /resources/what-is-your-favourite-devops-consulting-outcome-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

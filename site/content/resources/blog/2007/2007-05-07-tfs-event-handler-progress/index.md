@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-event-handler-progress
 - /tfs-event-handler-progress
 - /resources/blog/tfs-event-handler-progress
-aliasesFor404:
-- /tfs-event-handler-progress
-- /blog/tfs-event-handler-progress
-- /resources/blog/tfs-event-handler-progress
 tags:
 - Troubleshooting
 - Software Development

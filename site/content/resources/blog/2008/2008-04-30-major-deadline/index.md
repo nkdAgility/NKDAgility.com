@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/major-deadline
 - /major-deadline
 - /resources/blog/major-deadline
-aliasesFor404:
-- /major-deadline
-- /blog/major-deadline
-- /resources/blog/major-deadline
 tags:
 - Troubleshooting
 - Software Development

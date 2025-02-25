@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 - /configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 - /resources/blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
-aliasesFor404:
-- /configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
-- /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
-- /resources/blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 tags:
 - System Configuration
 preview: metro-aggreko-128-link-17-17.png

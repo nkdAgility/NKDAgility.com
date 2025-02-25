@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/agile-in-nigeria-the-inevitability-of-change
 - /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
 - /resources/agile-in-nigeria-2020-the-inevitability-of-change
-aliasesFor404:
-- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
-- /resources/agile-in-nigeria-2020-the-inevitability-of-change
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false

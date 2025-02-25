@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 - /resources/videos/-shorts-7-virtues-of-agile-temperance
 - /resources/-shorts-7-virtues-of-agile-temperance
-aliasesFor404:
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
-- /resources/-shorts-7-virtues-of-agile-temperance
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true

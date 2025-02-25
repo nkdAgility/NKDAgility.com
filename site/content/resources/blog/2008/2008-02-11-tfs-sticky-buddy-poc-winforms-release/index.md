@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-sticky-buddy-poc-(winforms)-release
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
-aliasesFor404:
-- /tfs-sticky-buddy-poc-winforms-release
-- /blog/tfs-sticky-buddy-poc-winforms-release
-- /tfs-sticky-buddy-poc-(winforms)-release
-- /blog/tfs-sticky-buddy-poc-(winforms)-release
-- /resources/blog/tfs-sticky-buddy-poc-winforms-release
 tags:
 - Release Management
 - Install and Configuration

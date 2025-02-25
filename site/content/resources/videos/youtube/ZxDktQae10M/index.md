@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/-vsts-sync-migration-tools-overview
 - /resources/videos/2018-vsts-sync-migration-tools-overview
 - /resources/2018-vsts-sync-migration-tools-overview
-aliasesFor404:
-- /resources/videos/2018-vsts-sync-migration-tools-overview
-- /resources/2018-vsts-sync-migration-tools-overview
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 isShort: false

@@ -19,9 +19,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
 - /resources/why-is-devops-such-a-critical-element-of-software-engineering
-aliasesFor404:
-- /resources/why-is-devops-such-a-critical-element-of-software-engineering
-- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
 sitemap:
   filename: sitemap.xml
   priority: 0.6

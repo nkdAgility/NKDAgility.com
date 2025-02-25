@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/service-manager-factory
 - /service-manager-factory
 - /resources/blog/service-manager-factory
-aliasesFor404:
-- /service-manager-factory
-- /blog/service-manager-factory
-- /resources/blog/service-manager-factory
 tags:
 - Install and Configuration
 categories: []

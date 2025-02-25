@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
-aliasesFor404:
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
 preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true

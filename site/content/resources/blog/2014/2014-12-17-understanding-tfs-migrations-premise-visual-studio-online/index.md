@@ -25,12 +25,6 @@ aliasesArchive:
 - /understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /blog/understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
-aliasesFor404:
-- /understanding-tfs-migrations-premise-visual-studio-online
-- /blog/understanding-tfs-migrations-premise-visual-studio-online
-- /understanding-tfs-migrations-from-on-premise-to-visual-studio-online
-- /blog/understanding-tfs-migrations-from-on-premise-to-visual-studio-online
-- /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
 tags:
 - Practical Techniques and Tooling
 - Software Development

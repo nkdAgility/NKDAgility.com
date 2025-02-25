@@ -15,9 +15,6 @@ aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 - /resources/videos/devops-migration-lack-of-expertise
 - /resources/devops-migration-lack-of-expertise
-aliasesFor404:
-- /resources/videos/devops-migration-lack-of-expertise
-- /resources/devops-migration-lack-of-expertise
 preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false

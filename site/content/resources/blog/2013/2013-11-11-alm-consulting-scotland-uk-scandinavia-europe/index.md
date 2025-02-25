@@ -29,14 +29,6 @@ aliasesArchive:
 - /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
-aliasesFor404:
-- /alm-consulting-scotland-uk-scandinavia-europe
-- /blog/alm-consulting-scotland-uk-scandinavia-europe
-- /alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
-- /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
-- /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
-- /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
-- /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 tags:
 - Coaching
 - Application Lifecycle Management

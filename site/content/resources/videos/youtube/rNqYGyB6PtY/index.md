@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-should-a-product-owner-do-with-an-incompetent-team
 - /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
 - /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
-aliasesFor404:
-- /resources/what-should-a-product-owner-do-with-an-incompetent-team
-- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
-- /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
 - /resources/videos/product-development-mentoring-program
 - /resources/product-development-mentoring-program
-aliasesFor404:
-- /resources/videos/product-development-mentoring-program
-- /resources/product-development-mentoring-program
 preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: false

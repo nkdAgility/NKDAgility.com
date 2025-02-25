@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
-aliasesFor404:
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

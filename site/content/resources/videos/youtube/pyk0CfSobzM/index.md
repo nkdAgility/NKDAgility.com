@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
-aliasesFor404:
-- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
-- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
-- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-aliasesFor404:
-- /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-- /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 categories:
 - Product Management
 - Social Technologies

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/evidence-based-management-the-key-to-agile-success
 - /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
 - /resources/why-evidence-based-management-how-has-it-improved-agile-
-aliasesFor404:
-- /resources/evidence-based-management-the-key-to-agile-success
-- /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
-- /resources/why-evidence-based-management-how-has-it-improved-agile-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

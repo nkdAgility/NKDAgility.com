@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-importance-of-validation-in-product-development-a-strategic-approach
 - /resources/videos/what-is-product-validation-and-why-does-it-matter
 - /resources/what-is-product-validation-and-why-does-it-matter
-aliasesFor404:
-- /resources/the-importance-of-validation-in-product-development-a-strategic-approach
-- /resources/videos/what-is-product-validation-and-why-does-it-matter
-- /resources/what-is-product-validation-and-why-does-it-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6

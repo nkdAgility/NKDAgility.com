@@ -25,12 +25,6 @@ aliasesArchive:
 - /managing-the-“vsts-developers”-linkedin-group-
 - /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/blog/managing-the-vsts-developers-linkedin-group
-aliasesFor404:
-- /managing-the-vsts-developers-linkedin-group
-- /blog/managing-the-vsts-developers-linkedin-group
-- /managing-the-“vsts-developers”-linkedin-group-
-- /blog/managing-the-“vsts-developers”-linkedin-group-
-- /resources/blog/managing-the-vsts-developers-linkedin-group
 tags:
 - People and Process
 - Team Collaboration

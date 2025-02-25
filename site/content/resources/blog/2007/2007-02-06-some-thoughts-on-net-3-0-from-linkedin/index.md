@@ -25,12 +25,6 @@ aliasesArchive:
 - /some-thoughts-on--net-3-0-from-linkedin
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
-aliasesFor404:
-- /some-thoughts-on-net-3-0-from-linkedin
-- /blog/some-thoughts-on-net-3-0-from-linkedin
-- /some-thoughts-on--net-3-0-from-linkedin
-- /blog/some-thoughts-on--net-3-0-from-linkedin
-- /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 tags:
 - Technical Mastery
 - Software Development

@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 - /resources/videos/managing-technical-debt-to-minimize-costs
 - /resources/managing-technical-debt-to-minimize-costs
-aliasesFor404:
-- /resources/videos/managing-technical-debt-to-minimize-costs
-- /resources/managing-technical-debt-to-minimize-costs
 preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
 duration: 668
 isShort: false

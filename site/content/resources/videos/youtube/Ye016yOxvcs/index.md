@@ -24,11 +24,6 @@ aliasesArchive:
 - /resources/5-critical-skill-to-master-as-an-agile-consultant-part-1
 - /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
 - /resources/5-critical-skill-to-master-as-an-agile-consultant,-part-1
-aliasesFor404:
-- /resources/5-critical-skills-to-master-as-an-agile-consultant-part-1
-- /resources/5-critical-skill-to-master-as-an-agile-consultant-part-1
-- /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
-- /resources/5-critical-skill-to-master-as-an-agile-consultant,-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6

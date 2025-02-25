@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/why-definition-of-done-is-crucial-for-success-in-scrum
 - /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 - /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
-aliasesFor404:
-- /resources/why-definition-of-done-is-crucial-for-success-in-scrum
-- /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
-- /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

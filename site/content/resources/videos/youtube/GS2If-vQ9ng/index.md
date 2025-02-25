@@ -20,9 +20,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/agile-training-versus-agile-consulting
 - /resources/agile-training-versus-agile-consulting
-aliasesFor404:
-- /resources/agile-training-versus-agile-consulting
-- /resources/videos/agile-training-versus-agile-consulting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

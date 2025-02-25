@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management
 - /resources/traditional-management-vs-evidence-based-management
-aliasesFor404:
-- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
-- /resources/videos/traditional-management-vs-evidence-based-management
-- /resources/traditional-management-vs-evidence-based-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

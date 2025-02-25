@@ -25,12 +25,6 @@ aliasesArchive:
 - /my-journey-into-professional-scrum
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
-aliasesFor404:
-- /journey-professional-scrum
-- /blog/journey-professional-scrum
-- /my-journey-into-professional-scrum
-- /blog/my-journey-into-professional-scrum
-- /resources/blog/journey-professional-scrum
 tags:
 - People and Process
 - Scrum Product Development

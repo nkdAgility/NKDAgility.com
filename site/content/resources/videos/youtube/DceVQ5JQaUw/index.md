@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
 - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
-aliasesFor404:
-- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
-- /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 isShort: false

@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
-aliasesFor404:
-- /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
 sitemap:
   filename: sitemap.xml
   priority: 0.6

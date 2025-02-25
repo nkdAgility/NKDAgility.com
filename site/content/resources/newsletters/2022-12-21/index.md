@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-aliasesFor404:
-- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 categories:
 - Scrum
 - Social Technologies

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/soapbox-beta
 - /soapbox-beta
 - /resources/blog/soapbox-beta
-aliasesFor404:
-- /soapbox-beta
-- /blog/soapbox-beta
-- /resources/blog/soapbox-beta
 tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

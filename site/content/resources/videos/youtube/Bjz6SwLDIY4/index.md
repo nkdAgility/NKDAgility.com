@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/continuous-adaptation-the-key-to-success-in-a-dynamic-market
 - /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 - /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
-aliasesFor404:
-- /resources/continuous-adaptation-the-key-to-success-in-a-dynamic-market
-- /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
-- /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,12 +25,6 @@ aliasesArchive:
 - /is-alm-a-useful-term-
 - /blog/is-alm-a-useful-term-
 - /resources/blog/is-alm-a-useful-term
-aliasesFor404:
-- /is-alm-a-useful-term
-- /blog/is-alm-a-useful-term
-- /is-alm-a-useful-term-
-- /blog/is-alm-a-useful-term-
-- /resources/blog/is-alm-a-useful-term
 tags:
 - Software Developers
 - People and Process

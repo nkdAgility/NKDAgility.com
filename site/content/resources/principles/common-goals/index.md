@@ -14,8 +14,6 @@ aliases:
 - /resources/K-0Kt7CHeQw
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/common-goals/
-aliasesFor404:
-- /learn/agile-delivery-kit/first-principals/common-goals/
 card:
   button:
     content: Learn More

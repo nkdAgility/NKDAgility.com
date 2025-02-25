@@ -25,12 +25,6 @@ aliasesArchive:
 - /deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
-aliasesFor404:
-- /deploying-visual-studio-2010-team-foundation-server-beta-2-done
-- /blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
-- /deploying-visual-studio-2010-team-foundation-server-beta-2---done
-- /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
-- /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

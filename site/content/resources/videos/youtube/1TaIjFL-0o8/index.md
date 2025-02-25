@@ -15,9 +15,6 @@ aliasesArchive:
 - /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 - /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
-aliasesFor404:
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
-- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false

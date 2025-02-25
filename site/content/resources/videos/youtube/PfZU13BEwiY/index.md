@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague
-aliasesFor404:
-- /resources/videos/7-signs-of-the-agile-apocalypse-plague
-- /resources/7-signs-of-the-agile-apocalypse-plague
 preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true

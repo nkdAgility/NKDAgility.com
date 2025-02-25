@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /luddites-have-no-place-in-the-modern-organisation
 - /resources/blog/luddites-have-no-place-in-the-modern-organisation
-aliasesFor404:
-- /luddites-have-no-place-in-the-modern-organisation
-- /blog/luddites-have-no-place-in-the-modern-organisation
-- /resources/blog/luddites-have-no-place-in-the-modern-organisation
 tags:
 - People and Process
 - Organisational Culture

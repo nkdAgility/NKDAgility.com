@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
 - /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
-aliasesFor404:
-- /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true

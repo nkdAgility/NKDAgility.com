@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/what-does-your-dream-agile-consulting-week-look-like
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/what-does-your-dream-agile-consulting-week-look-like-
-aliasesFor404:
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/what-does-your-dream-agile-consulting-week-look-like
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/what-does-your-dream-agile-consulting-week-look-like-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview
-aliasesFor404:
-- /resources/videos/ppdv-course-overview
-- /resources/ppdv-course-overview
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 isShort: true

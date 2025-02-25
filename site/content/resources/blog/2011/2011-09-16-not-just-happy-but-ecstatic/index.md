@@ -29,14 +29,6 @@ aliasesArchive:
 - /not-just-happy--but-ecstatic
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
-aliasesFor404:
-- /not-just-happy-but-ecstatic
-- /blog/not-just-happy-but-ecstatic
-- /not-just-happy,-but-ecstatic
-- /blog/not-just-happy,-but-ecstatic
-- /not-just-happy--but-ecstatic
-- /blog/not-just-happy--but-ecstatic
-- /resources/blog/not-just-happy-but-ecstatic
 tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/serialize-assembly-for-service-calls-over-http
 - /serialize-assembly-for-service-calls-over-http
 - /resources/blog/serialize-assembly-for-service-calls-over-http
-aliasesFor404:
-- /serialize-assembly-for-service-calls-over-http
-- /blog/serialize-assembly-for-service-calls-over-http
-- /resources/blog/serialize-assembly-for-service-calls-over-http
 tags:
 - Troubleshooting
 - Technical Mastery

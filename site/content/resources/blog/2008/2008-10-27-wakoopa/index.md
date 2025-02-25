@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/wakoopa
 - /wakoopa
 - /resources/blog/wakoopa
-aliasesFor404:
-- /wakoopa
-- /blog/wakoopa
-- /resources/blog/wakoopa
 tags: []
 categories: []
 

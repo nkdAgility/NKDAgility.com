@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
 - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
-aliasesFor404:
-- /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
-- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

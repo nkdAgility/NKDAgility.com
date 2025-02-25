@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
-aliasesFor404:
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
 duration: 56
 isShort: true

@@ -25,12 +25,6 @@ aliasesArchive:
 - /issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /resources/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
-aliasesFor404:
-- /issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
-- /blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
-- /issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
-- /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
-- /resources/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 tags:
 - Install and Configuration
 - Troubleshooting

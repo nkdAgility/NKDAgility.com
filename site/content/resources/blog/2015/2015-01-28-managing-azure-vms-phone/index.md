@@ -25,12 +25,6 @@ aliasesArchive:
 - /managing-your-azure-vm's-with-your-phone
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
-aliasesFor404:
-- /managing-azure-vms-phone
-- /blog/managing-azure-vms-phone
-- /managing-your-azure-vm's-with-your-phone
-- /blog/managing-your-azure-vm's-with-your-phone
-- /resources/blog/managing-azure-vms-phone
 tags:
 - Products and Books
 - Practical Techniques and Tooling

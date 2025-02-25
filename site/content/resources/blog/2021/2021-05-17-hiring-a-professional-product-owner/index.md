@@ -37,10 +37,6 @@ aliasesArchive:
 - /blog/hiring-a-professional-product-owner
 - /hiring-a-professional-product-owner
 - /resources/blog/hiring-a-professional-product-owner
-aliasesFor404:
-- /hiring-a-professional-product-owner
-- /blog/hiring-a-professional-product-owner
-- /resources/blog/hiring-a-professional-product-owner
 tags:
 - Product Owner
 categories:

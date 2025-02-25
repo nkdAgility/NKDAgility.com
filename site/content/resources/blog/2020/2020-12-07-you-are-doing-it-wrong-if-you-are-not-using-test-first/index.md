@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
-aliasesFor404:
-- /you-are-doing-it-wrong-if-you-are-not-using-test-first
-- /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
-- /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 tags:
 - Test First Development
 - Software Development

@@ -31,15 +31,6 @@ aliasesArchive:
 - /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
-aliasesFor404:
-- /visual-studio-2010-overview-a-day-in-the-life-of
-- /blog/visual-studio-2010-overview-a-day-in-the-life-of
-- /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
-- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
-- /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
-- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
-- /visual-studio-2010-overview
-- /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
 tags:
 - Practical Techniques and Tooling
 - Events and Presentations

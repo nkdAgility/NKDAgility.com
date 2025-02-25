@@ -19,9 +19,6 @@ aliasesArchive:
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
-aliasesFor404:
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/1-critical-skill-for-a-scrum-master-and-why-
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true

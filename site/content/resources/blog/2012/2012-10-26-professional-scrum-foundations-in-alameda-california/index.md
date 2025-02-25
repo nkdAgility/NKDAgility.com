@@ -29,14 +29,6 @@ aliasesArchive:
 - /professional-scrum-foundations-in-alameda--california
 - /blog/professional-scrum-foundations-in-alameda--california
 - /resources/blog/professional-scrum-foundations-in-alameda-california
-aliasesFor404:
-- /professional-scrum-foundations-in-alameda-california
-- /blog/professional-scrum-foundations-in-alameda-california
-- /professional-scrum-foundations-in-alameda,-california
-- /blog/professional-scrum-foundations-in-alameda,-california
-- /professional-scrum-foundations-in-alameda--california
-- /blog/professional-scrum-foundations-in-alameda--california
-- /resources/blog/professional-scrum-foundations-in-alameda-california
 tags:
 - Agile Project Management
 categories:

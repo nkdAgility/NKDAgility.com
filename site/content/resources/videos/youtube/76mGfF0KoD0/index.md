@@ -15,9 +15,6 @@ aliasesArchive:
 - /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
-aliasesFor404:
-- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
-- /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false

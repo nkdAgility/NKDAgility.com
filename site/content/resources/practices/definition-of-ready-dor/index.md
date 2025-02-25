@@ -13,9 +13,6 @@ aliases:
 aliasesArchive:
 - /practices/Definition-of-Ready-DoR.html
 - /learn/agile-delivery-kit/practices/definition-of-ready-dor
-aliasesFor404:
-- /practices/Definition-of-Ready-DoR.html
-- /learn/agile-delivery-kit/practices/definition-of-ready-dor
 recommendedContent:
 - /practices/Definition-of-Ready-DoR.html
 date: 2024-09-17

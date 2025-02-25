@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
 - /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
-aliasesFor404:
-- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false

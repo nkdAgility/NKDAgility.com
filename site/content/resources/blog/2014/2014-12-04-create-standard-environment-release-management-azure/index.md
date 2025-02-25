@@ -25,12 +25,6 @@ aliasesArchive:
 - /create-a-standard-environment-for-release-management-in-azure
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/blog/create-standard-environment-release-management-azure
-aliasesFor404:
-- /create-standard-environment-release-management-azure
-- /blog/create-standard-environment-release-management-azure
-- /create-a-standard-environment-for-release-management-in-azure
-- /blog/create-a-standard-environment-for-release-management-in-azure
-- /resources/blog/create-standard-environment-release-management-azure
 tags:
 - Release Management
 - Application Lifecycle Management

@@ -25,12 +25,6 @@ aliasesArchive:
 - /do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
-aliasesFor404:
-- /do-you-know-about-the-visual-studio-2010-database-projects-guidance
-- /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
-- /do-you-know-about-the-visual-studio-2010-database-projects-guidance-
-- /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
-- /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 tags:
 - Products and Books
 - Practical Techniques and Tooling

@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-aliasesFor404:
-- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-- /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: true

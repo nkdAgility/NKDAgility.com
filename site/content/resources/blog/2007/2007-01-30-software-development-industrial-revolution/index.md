@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/software-development-industrial-revolution
 - /software-development-industrial-revolution
 - /resources/blog/software-development-industrial-revolution
-aliasesFor404:
-- /software-development-industrial-revolution
-- /blog/software-development-industrial-revolution
-- /resources/blog/software-development-industrial-revolution
 tags:
 - Pragmatic Thinking
 - Working Software

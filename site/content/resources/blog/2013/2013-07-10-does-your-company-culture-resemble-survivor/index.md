@@ -25,12 +25,6 @@ aliasesArchive:
 - /does-your-company-culture-resemble-survivor-
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/blog/does-your-company-culture-resemble-survivor
-aliasesFor404:
-- /does-your-company-culture-resemble-survivor
-- /blog/does-your-company-culture-resemble-survivor
-- /does-your-company-culture-resemble-survivor-
-- /blog/does-your-company-culture-resemble-survivor-
-- /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Transformation
 - People and Process

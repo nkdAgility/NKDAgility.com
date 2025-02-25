@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/mozy-backup
 - /mozy-backup
 - /resources/blog/mozy-backup
-aliasesFor404:
-- /mozy-backup
-- /blog/mozy-backup
-- /resources/blog/mozy-backup
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 tags:

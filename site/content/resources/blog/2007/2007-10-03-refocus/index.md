@@ -25,12 +25,6 @@ aliasesArchive:
 - /blog/refocus---
 - /refocus
 - /resources/blog/refocus
-aliasesFor404:
-- /refocus
-- /blog/refocus
-- /refocus---
-- /blog/refocus---
-- /resources/blog/refocus
 tags:
 - Miscellaneous
 preview: metro-sharepoint-128-link-1-1.png

@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
-aliasesFor404:
-- /tfs-cross-team-cross-business-line-work-item-tracking
-- /blog/tfs-cross-team-cross-business-line-work-item-tracking
-- /tfs-for-cross-team-and-cross-business-line-work-item-tracking
-- /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
-- /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 tags:
 - Software Development
 categories:

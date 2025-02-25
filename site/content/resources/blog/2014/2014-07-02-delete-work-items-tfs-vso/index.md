@@ -25,12 +25,6 @@ aliasesArchive:
 - /how-to-delete-work-items-from-tfs-or-vso
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
-aliasesFor404:
-- /delete-work-items-tfs-vso
-- /blog/delete-work-items-tfs-vso
-- /how-to-delete-work-items-from-tfs-or-vso
-- /blog/how-to-delete-work-items-from-tfs-or-vso
-- /resources/blog/delete-work-items-tfs-vso
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

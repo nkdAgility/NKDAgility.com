@@ -25,12 +25,6 @@ aliasesArchive:
 - /agility-and-windows-10--upgrading-my-surface-pro-2
 - /blog/agility-and-windows-10--upgrading-my-surface-pro-2
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
-aliasesFor404:
-- /agility-windows-10-upgrading-surface-pro-2
-- /blog/agility-windows-10-upgrading-surface-pro-2
-- /agility-and-windows-10--upgrading-my-surface-pro-2
-- /blog/agility-and-windows-10--upgrading-my-surface-pro-2
-- /resources/blog/agility-windows-10-upgrading-surface-pro-2
 tags:
 - Windows
 categories:

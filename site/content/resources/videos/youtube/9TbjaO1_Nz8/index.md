@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
 - /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 - /resources/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
-aliasesFor404:
-- /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
-- /resources/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 isShort: false

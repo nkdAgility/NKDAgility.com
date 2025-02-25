@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 - /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 - /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
-aliasesFor404:
-- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
-- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
-- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

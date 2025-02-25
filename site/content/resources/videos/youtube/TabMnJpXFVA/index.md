@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/why-are-you-going-the-immersive-scrum-training-route-
-aliasesFor404:
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
-- /resources/why-are-you-going-the-immersive-scrum-training-route-
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false

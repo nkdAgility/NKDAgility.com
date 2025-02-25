@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/scrum-master-versus-seasoned-agile-coach
 - /resources/videos/scrum-master-versus-seasoned-agile-coach-
 - /resources/scrum-master-versus-seasoned-agile-coach-
-aliasesFor404:
-- /resources/scrum-master-versus-seasoned-agile-coach
-- /resources/videos/scrum-master-versus-seasoned-agile-coach-
-- /resources/scrum-master-versus-seasoned-agile-coach-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

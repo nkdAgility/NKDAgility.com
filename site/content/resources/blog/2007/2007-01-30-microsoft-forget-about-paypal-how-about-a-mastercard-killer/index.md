@@ -29,14 +29,6 @@ aliasesArchive:
 - /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
 - /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
 - /resources/blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
-aliasesFor404:
-- /microsoft-forget-about-paypal-how-about-a-mastercard-killer
-- /blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
-- /microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
-- /blog/microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
-- /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
-- /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
-- /resources/blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

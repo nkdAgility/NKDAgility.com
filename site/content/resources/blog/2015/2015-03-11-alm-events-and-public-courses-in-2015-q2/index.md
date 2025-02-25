@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/alm-events-and-public-courses-in-2015-q2
 - /alm-events-and-public-courses-in-2015-q2
 - /resources/blog/alm-events-and-public-courses-in-2015-q2
-aliasesFor404:
-- /alm-events-and-public-courses-in-2015-q2
-- /blog/alm-events-and-public-courses-in-2015-q2
-- /resources/blog/alm-events-and-public-courses-in-2015-q2
 tags:
 - Events and Presentations
 - News and Reviews

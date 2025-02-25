@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-aliasesFor404:
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

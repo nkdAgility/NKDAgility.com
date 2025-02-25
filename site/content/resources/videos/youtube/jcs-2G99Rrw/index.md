@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 - /resources/videos/top-4-rookie-mistakes-in-azure-devops
 - /resources/top-4-rookie-mistakes-in-azure-devops
-aliasesFor404:
-- /resources/videos/top-4-rookie-mistakes-in-azure-devops
-- /resources/top-4-rookie-mistakes-in-azure-devops
 preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 isShort: false

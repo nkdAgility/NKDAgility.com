@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/web-2-0
 - /web-2-0
 - /resources/blog/web-2-0
-aliasesFor404:
-- /web-2-0
-- /blog/web-2-0
-- /resources/blog/web-2-0
 tags:
 - Miscellaneous
 preview: nakedalm-logo-128-link-1-1.png

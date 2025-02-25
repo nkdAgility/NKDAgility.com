@@ -29,14 +29,6 @@ aliasesArchive:
 - /msbuild-and-business-intelligence-packages--ahhhhhh-
 - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
-aliasesFor404:
-- /msbuild-and-business-intelligence-packages-ahhhhhh
-- /blog/msbuild-and-business-intelligence-packages-ahhhhhh
-- /msbuild-and-business-intelligence-packages,-ahhhhhh-
-- /blog/msbuild-and-business-intelligence-packages,-ahhhhhh-
-- /msbuild-and-business-intelligence-packages--ahhhhhh-
-- /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
-- /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 tags:
 - Practical Techniques and Tooling
 - Test Automation

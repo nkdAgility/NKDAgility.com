@@ -25,12 +25,6 @@ aliasesArchive:
 - /small---new-business-websites
 - /blog/small---new-business-websites
 - /resources/blog/small-new-business-websites
-aliasesFor404:
-- /small-new-business-websites
-- /blog/small-new-business-websites
-- /small---new-business-websites
-- /blog/small---new-business-websites
-- /resources/blog/small-new-business-websites
 tags:
 - Estimation
 - Troubleshooting

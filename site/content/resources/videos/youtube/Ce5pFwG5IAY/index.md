@@ -21,9 +21,6 @@ aliasesArchive:
 - /resources/videos/-tools-that-scrum-masters-love-part-
 - /resources/videos/5-tools-that-scrum-masters-love-part-1
 - /resources/5-tools-that-scrum-masters-love-part-1
-aliasesFor404:
-- /resources/5-tools-that-scrum-masters-love-part-1
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/amusing-job-requirements
 - /amusing-job-requirements
 - /resources/blog/amusing-job-requirements
-aliasesFor404:
-- /amusing-job-requirements
-- /blog/amusing-job-requirements
-- /resources/blog/amusing-job-requirements
 tags:
 - Miscellaneous
 categories:

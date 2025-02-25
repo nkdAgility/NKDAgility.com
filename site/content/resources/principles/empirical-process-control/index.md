@@ -15,8 +15,6 @@ aliases:
 - /resources/VBf7KL90jRm
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/empirical-process-control/
-aliasesFor404:
-- /learn/agile-delivery-kit/first-principals/empirical-process-control/
 card:
   button:
     content: Learn More

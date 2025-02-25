@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-cjsingh
 - /resources/nkdagility-healthgrades-interview-cjsingh
-aliasesFor404:
-- /resources/videos/nkdagility-healthgrades-interview-cjsingh
-- /resources/nkdagility-healthgrades-interview-cjsingh
 preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: false

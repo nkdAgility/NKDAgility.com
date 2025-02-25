@@ -25,12 +25,6 @@ aliasesArchive:
 - /finding-features--conversations
 - /blog/finding-features--conversations
 - /resources/blog/finding-features-conversations
-aliasesFor404:
-- /finding-features-conversations
-- /blog/finding-features-conversations
-- /finding-features--conversations
-- /blog/finding-features--conversations
-- /resources/blog/finding-features-conversations
 tags:
 - Windows
 preview: nakedalm-logo-128-link-5-5.png

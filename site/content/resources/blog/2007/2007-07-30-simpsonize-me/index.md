@@ -25,12 +25,6 @@ aliasesArchive:
 - /simpsonize-me-
 - /blog/simpsonize-me-
 - /resources/blog/simpsonize-me
-aliasesFor404:
-- /simpsonize-me
-- /blog/simpsonize-me
-- /simpsonize-me-
-- /blog/simpsonize-me-
-- /resources/blog/simpsonize-me
 categories: []
 preview: nakedalm-logo-128-link-2-1.png
 tags: []

@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 - /resources/videos/27th-march-2020-office-hours-ask-me-anything
 - /resources/27th-march-2020-office-hours-ask-me-anything
-aliasesFor404:
-- /resources/videos/27th-march-2020-office-hours-ask-me-anything
-- /resources/27th-march-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
 duration: 1506
 isShort: false

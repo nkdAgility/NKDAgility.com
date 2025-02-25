@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/devops-consulting-overview
 - /resources/videos/devops-consulting-overview-
 - /resources/devops-consulting-overview-
-aliasesFor404:
-- /resources/devops-consulting-overview
-- /resources/videos/devops-consulting-overview-
-- /resources/devops-consulting-overview-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

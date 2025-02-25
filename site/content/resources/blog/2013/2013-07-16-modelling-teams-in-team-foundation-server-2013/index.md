@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /modelling-teams-in-team-foundation-server-2013
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
-aliasesFor404:
-- /modelling-teams-in-team-foundation-server-2013
-- /blog/modelling-teams-in-team-foundation-server-2013
-- /resources/blog/modelling-teams-in-team-foundation-server-2013
 tags:
 - Software Development
 - Application Lifecycle Management

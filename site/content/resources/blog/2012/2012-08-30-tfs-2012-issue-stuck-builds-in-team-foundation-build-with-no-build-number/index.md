@@ -27,13 +27,6 @@ aliasesArchive:
 - /tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
 - /blog/tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
 - /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
-aliasesFor404:
-- /tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
-- /blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
-- /tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
-- /blog/tfs-2012---issue--stuck-builds-in-team-foundation-build-with-no-build-number
-- /tfs-2012
-- /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 tags:
 - Troubleshooting
 categories:

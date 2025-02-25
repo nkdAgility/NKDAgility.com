@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity
-aliasesFor404:
-- /resources/videos/7-virtues-of-agile-chastity
-- /resources/7-virtues-of-agile-chastity
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false

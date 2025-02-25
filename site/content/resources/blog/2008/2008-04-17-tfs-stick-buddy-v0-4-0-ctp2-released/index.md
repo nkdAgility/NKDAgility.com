@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
 - /tfs-stick-buddy-v0-4-0-ctp2-released
 - /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
-aliasesFor404:
-- /tfs-stick-buddy-v0-4-0-ctp2-released
-- /blog/tfs-stick-buddy-v0-4-0-ctp2-released
-- /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
 tags:
 - Products and Books
 - Practical Techniques and Tooling

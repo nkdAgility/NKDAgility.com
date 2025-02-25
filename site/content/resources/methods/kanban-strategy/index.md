@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /methods/kanban-strategy/
 - /learn/agile-delivery-kit/strategies/kanban-strategy/
-aliasesFor404:
-- /methods/kanban-strategy/
-- /learn/agile-delivery-kit/strategies/kanban-strategy/
 card:
   button:
     content: Start Optimizing Now

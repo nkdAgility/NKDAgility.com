@@ -15,9 +15,6 @@ aliases:
 aliasesArchive:
 - /CaaP
 - /learn/agile-delivery-kit/strategies/company-as-a-product-caap/
-aliasesFor404:
-- /CaaP
-- /learn/agile-delivery-kit/strategies/company-as-a-product-caap/
 card:
   button:
     content: More info

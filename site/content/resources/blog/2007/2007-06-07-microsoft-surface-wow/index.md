@@ -25,12 +25,6 @@ aliasesArchive:
 - /microsoft-surface--wow
 - /blog/microsoft-surface--wow
 - /resources/blog/microsoft-surface-wow
-aliasesFor404:
-- /microsoft-surface-wow
-- /blog/microsoft-surface-wow
-- /microsoft-surface--wow
-- /blog/microsoft-surface--wow
-- /resources/blog/microsoft-surface-wow
 tags:
 - News and Reviews
 preview: nakedalm-logo-128-link-1-1.png

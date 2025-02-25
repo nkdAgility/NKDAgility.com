@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-process-template-migration-script-updated
 - /tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
-aliasesFor404:
-- /tfs-process-template-migration-script-updated
-- /blog/tfs-process-template-migration-script-updated
-- /resources/blog/tfs-process-template-migration-script-updated
 tags:
 - System Configuration
 - Operational Practices

@@ -25,12 +25,6 @@ aliasesArchive:
 - /issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
 - /blog/issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
 - /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
-aliasesFor404:
-- /tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
-- /blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
-- /issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
-- /blog/issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
-- /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 tags:
 - Troubleshooting
 categories:

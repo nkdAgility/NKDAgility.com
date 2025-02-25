@@ -25,12 +25,6 @@ aliasesArchive:
 - /can-you-really-commit-to-delivering-work-
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
-aliasesFor404:
-- /can-you-really-commit-to-delivering-work
-- /blog/can-you-really-commit-to-delivering-work
-- /can-you-really-commit-to-delivering-work-
-- /blog/can-you-really-commit-to-delivering-work-
-- /resources/blog/can-you-really-commit-to-delivering-work
 tags:
 - Transparency
 - Forecasting

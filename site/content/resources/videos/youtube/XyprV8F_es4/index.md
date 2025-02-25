@@ -20,13 +20,6 @@ aliasesArchive:
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
 - /resources/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
-aliasesFor404:
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/XyprV8F_es4
-- /resources/videos/XyprV8F_es4
-- /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
-- /resources/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true

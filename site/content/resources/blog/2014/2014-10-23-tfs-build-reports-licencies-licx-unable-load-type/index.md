@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-build-reports-licencies-licx--unable-to-load-type
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
-aliasesFor404:
-- /tfs-build-reports-licencies-licx-unable-load-type
-- /blog/tfs-build-reports-licencies-licx-unable-load-type
-- /tfs-build-reports-licencies-licx--unable-to-load-type
-- /blog/tfs-build-reports-licencies-licx--unable-to-load-type
-- /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

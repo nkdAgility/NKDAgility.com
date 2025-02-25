@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
-aliasesFor404:
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: false

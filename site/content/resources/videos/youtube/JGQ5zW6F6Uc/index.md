@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
-aliasesFor404:
-- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
-- /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 isShort: false

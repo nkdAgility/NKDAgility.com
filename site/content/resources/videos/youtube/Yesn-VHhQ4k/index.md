@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 - /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
-aliasesFor404:
-- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
-- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
-- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

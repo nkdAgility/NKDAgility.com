@@ -25,12 +25,6 @@ aliasesArchive:
 - /what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
-aliasesFor404:
-- /get-visual-studio-2013-team-foundation-server-while-its-hot
-- /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
-- /what's-new-in-visual-studio-2013-team-foundation-server-preview
-- /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
-- /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
 - Agile Product Management
 - Team Collaboration

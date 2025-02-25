@@ -13,9 +13,6 @@ aliases:
 aliasesArchive:
 - /practices/product-backlog.html
 - /learn/agile-delivery-kit/practices/product-backlog
-aliasesFor404:
-- /practices/product-backlog.html
-- /learn/agile-delivery-kit/practices/product-backlog
 recommendedContent: 
 date: 2024-09-17
 creator: Martin Hinshelwood

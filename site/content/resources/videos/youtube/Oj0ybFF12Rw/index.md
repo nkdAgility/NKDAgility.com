@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
 - /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 - /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
-aliasesFor404:
-- /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
-- /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
-- /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

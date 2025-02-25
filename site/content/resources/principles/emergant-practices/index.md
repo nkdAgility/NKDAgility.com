@@ -14,8 +14,6 @@ aliases:
 - /resources/_MbvqRG_XNM
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/
-aliasesFor404:
-- /learn/agile-delivery-kit/first-principals/emergant-practices/
 card:
   button:
     content: Learn More

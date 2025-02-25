@@ -15,9 +15,6 @@ aliasesArchive:
 - /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 - /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
-aliasesFor404:
-- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
-- /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 isShort: false

@@ -26,12 +26,6 @@ aliasesArchive:
 - /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
-aliasesFor404:
-- /rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
-- /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
-- /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
-- /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
-- /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags:
 - Transparency
 - Scrum Product Development

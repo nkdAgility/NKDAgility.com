@@ -26,12 +26,6 @@ aliasesArchive:
 - /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
-aliasesFor404:
-- /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
-- /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
-- /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
-- /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
-- /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
 - People and Process
 - Change Management

@@ -27,13 +27,6 @@ aliasesArchive:
 - /sharepoint-content-request---what-would-you-like-to-see-
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
 - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
-aliasesFor404:
-- /sharepoint-content-request-what-would-you-like-to-see
-- /blog/sharepoint-content-request-what-would-you-like-to-see
-- /sharepoint-content-request---what-would-you-like-to-see-
-- /blog/sharepoint-content-request---what-would-you-like-to-see-
-- /sharepoint-content-request
-- /resources/blog/sharepoint-content-request-what-would-you-like-to-see
 categories: []
 tags:
 - Products and Books

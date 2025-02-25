@@ -25,12 +25,6 @@ aliasesArchive:
 - /configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /resources/blog/configuring-dc-azure-aad-integrated-release-management
-aliasesFor404:
-- /configuring-dc-azure-aad-integrated-release-management
-- /blog/configuring-dc-azure-aad-integrated-release-management
-- /configuring-a-dc-in-azure-for-aad-integrated-release-management
-- /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
-- /resources/blog/configuring-dc-azure-aad-integrated-release-management
 tags:
 - Install and Configuration
 categories:

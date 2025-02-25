@@ -25,12 +25,6 @@ aliasesArchive:
 - /big-scrum--are-you-doing-mechanical-scrum
 - /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
-aliasesFor404:
-- /big-scrum-are-you-doing-mechanical-scrum
-- /blog/big-scrum-are-you-doing-mechanical-scrum
-- /big-scrum--are-you-doing-mechanical-scrum
-- /blog/big-scrum--are-you-doing-mechanical-scrum
-- /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 tags:
 - Agile Values and Principles
 - Scrum Values

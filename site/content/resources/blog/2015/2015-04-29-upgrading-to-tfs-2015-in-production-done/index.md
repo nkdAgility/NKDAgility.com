@@ -27,13 +27,6 @@ aliasesArchive:
 - /upgrading-to-tfs-2015-in-production---done
 - /blog/upgrading-to-tfs-2015-in-production---done
 - /resources/blog/upgrading-to-tfs-2015-in-production-done
-aliasesFor404:
-- /upgrading-to-tfs-2015-in-production-done
-- /blog/upgrading-to-tfs-2015-in-production-done
-- /upgrading-to-tfs-2015-in-production---done
-- /blog/upgrading-to-tfs-2015-in-production---done
-- /upgrading-to-tfs-2015-in-production
-- /resources/blog/upgrading-to-tfs-2015-in-production-done
 tags:
 - Install and Configuration
 categories:

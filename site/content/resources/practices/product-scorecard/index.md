@@ -11,8 +11,6 @@ aliases:
 - /resources/g4aUBoHHLme
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/product-scorecard
-aliasesFor404:
-- /learn/agile-delivery-kit/practices/product-scorecard
 recommendedContent: 
 date: 2024-09-17
 creator: Martin Hinshelwood

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/interview-with-my-favourite-author
 - /interview-with-my-favourite-author
 - /resources/blog/interview-with-my-favourite-author
-aliasesFor404:
-- /interview-with-my-favourite-author
-- /blog/interview-with-my-favourite-author
-- /resources/blog/interview-with-my-favourite-author
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags: []

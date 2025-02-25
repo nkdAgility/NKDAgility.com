@@ -25,12 +25,6 @@ aliasesArchive:
 - /codeplex-project--rddotnet-white-label
 - /blog/codeplex-project--rddotnet-white-label
 - /resources/blog/codeplex-project-rddotnet-white-label
-aliasesFor404:
-- /codeplex-project-rddotnet-white-label
-- /blog/codeplex-project-rddotnet-white-label
-- /codeplex-project--rddotnet-white-label
-- /blog/codeplex-project--rddotnet-white-label
-- /resources/blog/codeplex-project-rddotnet-white-label
 tags: []
 categories: []
 preview: metro-binary-vb-128-link-1-1.png

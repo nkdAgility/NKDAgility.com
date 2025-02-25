@@ -23,14 +23,6 @@ aliasesArchive:
 - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
 - /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
-aliasesFor404:
-- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/KWiWgLFalyA
-- /resources/videos/KWiWgLFalyA
-- /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
-- /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
 sitemap:
   filename: sitemap.xml
   priority: 0.4

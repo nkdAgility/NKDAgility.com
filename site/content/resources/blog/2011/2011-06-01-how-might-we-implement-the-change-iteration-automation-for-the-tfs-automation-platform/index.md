@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
-aliasesFor404:
-- /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
-- /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
-- /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
 - Practical Techniques and Tooling
 - Platform Engineering

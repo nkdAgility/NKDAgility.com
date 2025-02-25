@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-aliasesFor404:
-- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false

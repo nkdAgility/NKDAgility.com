@@ -20,9 +20,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/must-have-trait-in-an-agile-consultant
 - /resources/must-have-trait-in-an-agile-consultant
-aliasesFor404:
-- /resources/must-have-trait-in-an-agile-consultant
-- /resources/videos/must-have-trait-in-an-agile-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6

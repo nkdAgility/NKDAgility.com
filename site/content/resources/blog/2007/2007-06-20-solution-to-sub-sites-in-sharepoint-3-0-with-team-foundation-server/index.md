@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-aliasesFor404:
-- /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-- /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-- /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

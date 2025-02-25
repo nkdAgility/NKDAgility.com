@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
 - /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
 - /resources/basic-work-item-migration-with-the-azure-devops-migration-tools
-aliasesFor404:
-- /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
-- /resources/basic-work-item-migration-with-the-azure-devops-migration-tools
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false

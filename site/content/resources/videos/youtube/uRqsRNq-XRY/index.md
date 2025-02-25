@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 - /resources/7-signs-of-the-agile-apocalypse-judgement
-aliasesFor404:
-- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
-- /resources/7-signs-of-the-agile-apocalypse-judgement
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true

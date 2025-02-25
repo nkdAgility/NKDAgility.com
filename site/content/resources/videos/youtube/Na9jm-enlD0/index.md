@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 - /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
-aliasesFor404:
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
-- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

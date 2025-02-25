@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
 - /resources/videos/-shorts-7-virtues-of-agile-patience
 - /resources/-shorts-7-virtues-of-agile-patience
-aliasesFor404:
-- /resources/videos/-shorts-7-virtues-of-agile-patience
-- /resources/-shorts-7-virtues-of-agile-patience
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true

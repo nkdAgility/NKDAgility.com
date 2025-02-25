@@ -19,9 +19,6 @@ aliasesArchive:
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
 - /resources/what-are-3-top-tips-for-a-new-agile-consultant-
-aliasesFor404:
-- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
-- /resources/what-are-3-top-tips-for-a-new-agile-consultant-
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false

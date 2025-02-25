@@ -25,12 +25,6 @@ aliasesArchive:
 - /adventures-in-scrum--lesson-2---for-the-record
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
-aliasesFor404:
-- /adventures-in-scrum-lesson-2-for-the-record
-- /blog/adventures-in-scrum-lesson-2-for-the-record
-- /adventures-in-scrum--lesson-2---for-the-record
-- /blog/adventures-in-scrum--lesson-2---for-the-record
-- /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
 - People and Process
 - Scrum Product Development

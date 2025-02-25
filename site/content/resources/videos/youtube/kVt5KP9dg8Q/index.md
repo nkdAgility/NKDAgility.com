@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/detecting-agile-bs-lessons-from-the-department-of-defense
 - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 - /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-aliasesFor404:
-- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 sitemap:
   filename: sitemap.xml
   priority: 0.6

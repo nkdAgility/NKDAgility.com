@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
 - /working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
-aliasesFor404:
-- /working-within-a-single-team-project-with-team-foundation-server-2012
-- /blog/working-within-a-single-team-project-with-team-foundation-server-2012
-- /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
 - People and Process
 - Practical Techniques and Tooling

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/deployment-documentation
 - /deployment-documentation
 - /resources/blog/deployment-documentation
-aliasesFor404:
-- /deployment-documentation
-- /blog/deployment-documentation
-- /resources/blog/deployment-documentation
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-1-1.png

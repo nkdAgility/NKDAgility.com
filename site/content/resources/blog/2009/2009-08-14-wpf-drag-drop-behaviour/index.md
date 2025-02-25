@@ -25,12 +25,6 @@ aliasesArchive:
 - /wpf-drag-&-drop-behaviour
 - /blog/wpf-drag-&-drop-behaviour
 - /resources/blog/wpf-drag-drop-behaviour
-aliasesFor404:
-- /wpf-drag-drop-behaviour
-- /blog/wpf-drag-drop-behaviour
-- /wpf-drag-&-drop-behaviour
-- /blog/wpf-drag-&-drop-behaviour
-- /resources/blog/wpf-drag-drop-behaviour
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery

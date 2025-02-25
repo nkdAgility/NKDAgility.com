@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-aliasesFor404:
-- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-- /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
 duration: 2961
 isShort: false

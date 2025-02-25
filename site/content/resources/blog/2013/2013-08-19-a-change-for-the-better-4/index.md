@@ -27,13 +27,6 @@ aliasesArchive:
 - /a-change-for-the-better--4---homecoming
 - /blog/a-change-for-the-better--4---homecoming
 - /resources/blog/a-change-for-the-better-4
-aliasesFor404:
-- /a-change-for-the-better-4
-- /blog/a-change-for-the-better-4
-- /a-change-for-the-better--4---homecoming
-- /blog/a-change-for-the-better--4---homecoming
-- /a-change-for-the-better--4
-- /resources/blog/a-change-for-the-better-4
 tags:
 - Coaching
 - Mentoring

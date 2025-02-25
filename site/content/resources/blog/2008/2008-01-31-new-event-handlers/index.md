@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/new-event-handlers
 - /new-event-handlers
 - /resources/blog/new-event-handlers
-aliasesFor404:
-- /new-event-handlers
-- /blog/new-event-handlers
-- /resources/blog/new-event-handlers
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

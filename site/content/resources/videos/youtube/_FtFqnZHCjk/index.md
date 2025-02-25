@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/the-evolution-of-product-management-in-the-agile-era
 - /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
 - /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
-aliasesFor404:
-- /resources/the-evolution-of-product-management-in-the-agile-era
-- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
-- /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
 sitemap:
   filename: sitemap.xml
   priority: 0.6

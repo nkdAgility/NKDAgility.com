@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 - /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills-2
 - /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills
-aliasesFor404:
-- /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills-2
-- /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills
-- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 sitemap:
   filename: sitemap.xml
   priority: 0.6

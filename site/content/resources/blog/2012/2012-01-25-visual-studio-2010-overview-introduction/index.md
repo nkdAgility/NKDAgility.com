@@ -27,13 +27,6 @@ aliasesArchive:
 - /visual-studio-2010-overview---introduction
 - /blog/visual-studio-2010-overview---introduction
 - /resources/blog/visual-studio-2010-overview-introduction
-aliasesFor404:
-- /visual-studio-2010-overview-introduction
-- /blog/visual-studio-2010-overview-introduction
-- /visual-studio-2010-overview---introduction
-- /blog/visual-studio-2010-overview---introduction
-- /visual-studio-2010-overview
-- /resources/blog/visual-studio-2010-overview-introduction
 tags:
 - Events and Presentations
 - Application Lifecycle Management

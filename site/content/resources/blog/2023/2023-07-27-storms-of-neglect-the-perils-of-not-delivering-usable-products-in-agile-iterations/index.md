@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-aliasesFor404:
-- /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-- /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
-- /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 tags:
 - Transparency
 - Increment

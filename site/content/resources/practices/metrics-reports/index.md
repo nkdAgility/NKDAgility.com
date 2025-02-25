@@ -11,8 +11,6 @@ aliases:
 - /resources/26FWeqJuu0P
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/metrics-reports
-aliasesFor404:
-- /learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
 - practices/Metrics-Reports/
 - practices/Metrics-Reports.html

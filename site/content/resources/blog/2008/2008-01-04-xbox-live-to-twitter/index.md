@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/xbox-live-to-twitter
 - /xbox-live-to-twitter
 - /resources/blog/xbox-live-to-twitter
-aliasesFor404:
-- /xbox-live-to-twitter
-- /blog/xbox-live-to-twitter
-- /resources/blog/xbox-live-to-twitter
 tags:
 - Troubleshooting
 categories: []

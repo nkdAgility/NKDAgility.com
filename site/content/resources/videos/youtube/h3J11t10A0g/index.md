@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 - /resources/videos/escaping-the-deadline-death-spiral
 - /resources/escaping-the-deadline-death-spiral
-aliasesFor404:
-- /resources/videos/escaping-the-deadline-death-spiral
-- /resources/escaping-the-deadline-death-spiral
 preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
 duration: 169
 isShort: false

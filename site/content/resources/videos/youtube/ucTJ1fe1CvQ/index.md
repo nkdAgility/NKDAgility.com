@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview
-aliasesFor404:
-- /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
-- /resources/videos/ppdv-course-overview
-- /resources/ppdv-course-overview
 sitemap:
   filename: sitemap.xml
   priority: 0.6

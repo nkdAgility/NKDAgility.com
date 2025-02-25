@@ -26,12 +26,6 @@ aliasesArchive:
 - /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-aliasesFor404:
-- /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-- /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-- /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
-- /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
-- /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
 - Pragmatic Thinking
 - Sensemaking

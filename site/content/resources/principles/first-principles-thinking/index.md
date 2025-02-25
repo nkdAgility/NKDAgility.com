@@ -15,8 +15,6 @@ aliases:
 - /resources/q6gClR4HS5c
 aliasesArchive:
 - /principles/first-principles-thinking/
-aliasesFor404:
-- /principles/first-principles-thinking/
 card:
   button:
     content: Start Optimizing Now

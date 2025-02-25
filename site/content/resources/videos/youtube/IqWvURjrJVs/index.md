@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/znaczenie-znajomoci-terenu
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu
-aliasesFor404:
-- /resources/videos/znaczenie-znajomości-terenu
-- /resources/znaczenie-znajomości-terenu
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false

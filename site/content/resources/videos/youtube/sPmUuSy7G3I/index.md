@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
 - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 - /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
-aliasesFor404:
-- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
-- /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: false

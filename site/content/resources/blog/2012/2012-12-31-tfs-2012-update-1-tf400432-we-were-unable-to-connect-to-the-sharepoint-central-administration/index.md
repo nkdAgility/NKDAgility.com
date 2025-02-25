@@ -27,13 +27,6 @@ aliasesArchive:
 - /tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 - /blog/tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 - /resources/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
-aliasesFor404:
-- /tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
-- /blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
-- /tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
-- /blog/tfs-2012-update-1---tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
-- /tfs-2012-update-1
-- /resources/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 tags:
 - Troubleshooting
 categories: []

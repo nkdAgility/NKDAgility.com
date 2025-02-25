@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/kalabule-or-a-professional-at-agile-in-africa
 - /kalabule-or-a-professional-at-agile-in-africa
 - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
-aliasesFor404:
-- /kalabule-or-a-professional-at-agile-in-africa
-- /blog/kalabule-or-a-professional-at-agile-in-africa
-- /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 tags:
 - Agile Values and Principles
 - Scrum Values

@@ -25,12 +25,6 @@ aliasesArchive:
 - /windows-vista--windows-mobile-device-center
 - /blog/windows-vista--windows-mobile-device-center
 - /resources/blog/windows-vista-windows-mobile-device-center
-aliasesFor404:
-- /windows-vista-windows-mobile-device-center
-- /blog/windows-vista-windows-mobile-device-center
-- /windows-vista--windows-mobile-device-center
-- /blog/windows-vista--windows-mobile-device-center
-- /resources/blog/windows-vista-windows-mobile-device-center
 tags:
 - Windows
 - Install and Configuration

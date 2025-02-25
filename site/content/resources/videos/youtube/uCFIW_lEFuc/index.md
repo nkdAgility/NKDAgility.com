@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
 - /resources/videos/sloth!-7-deadly-sins-of-agile-
 - /resources/sloth!-7-deadly-sins-of-agile-
-aliasesFor404:
-- /resources/videos/sloth!-7-deadly-sins-of-agile-
-- /resources/sloth!-7-deadly-sins-of-agile-
 preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: false

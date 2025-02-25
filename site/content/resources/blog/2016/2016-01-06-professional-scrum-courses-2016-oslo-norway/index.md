@@ -29,14 +29,6 @@ aliasesArchive:
 - /professional-scrum-courses-for-2016-in-oslo--norway
 - /blog/professional-scrum-courses-for-2016-in-oslo--norway
 - /resources/blog/professional-scrum-courses-2016-oslo-norway
-aliasesFor404:
-- /professional-scrum-courses-2016-oslo-norway
-- /blog/professional-scrum-courses-2016-oslo-norway
-- /professional-scrum-courses-for-2016-in-oslo,-norway
-- /blog/professional-scrum-courses-for-2016-in-oslo,-norway
-- /professional-scrum-courses-for-2016-in-oslo--norway
-- /blog/professional-scrum-courses-for-2016-in-oslo--norway
-- /resources/blog/professional-scrum-courses-2016-oslo-norway
 tags:
 - Practical Techniques and Tooling
 - Scrum Master

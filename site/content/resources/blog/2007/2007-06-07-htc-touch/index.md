@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/htc-touch
 - /htc-touch
 - /resources/blog/htc-touch
-aliasesFor404:
-- /htc-touch
-- /blog/htc-touch
-- /resources/blog/htc-touch
 tags:
 - Products and Books
 - News and Reviews

@@ -25,12 +25,6 @@ aliasesArchive:
 - /team-foundation-server-error-tf30177---team-project-creation-failed
 - /blog/team-foundation-server-error-tf30177---team-project-creation-failed
 - /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
-aliasesFor404:
-- /team-foundation-server-error-tf30177-team-project-creation-failed
-- /blog/team-foundation-server-error-tf30177-team-project-creation-failed
-- /team-foundation-server-error-tf30177---team-project-creation-failed
-- /blog/team-foundation-server-error-tf30177---team-project-creation-failed
-- /resources/blog/team-foundation-server-error-tf30177-team-project-creation-failed
 tags:
 - Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png

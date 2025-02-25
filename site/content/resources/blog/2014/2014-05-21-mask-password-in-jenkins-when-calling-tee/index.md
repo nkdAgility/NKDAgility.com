@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/mask-password-in-jenkins-when-calling-tee
 - /mask-password-in-jenkins-when-calling-tee
 - /resources/blog/mask-password-in-jenkins-when-calling-tee
-aliasesFor404:
-- /mask-password-in-jenkins-when-calling-tee
-- /blog/mask-password-in-jenkins-when-calling-tee
-- /resources/blog/mask-password-in-jenkins-when-calling-tee
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

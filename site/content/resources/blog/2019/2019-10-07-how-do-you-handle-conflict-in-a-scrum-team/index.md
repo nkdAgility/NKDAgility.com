@@ -25,12 +25,6 @@ aliasesArchive:
 - /how-do-you-handle-conflict-in-a-scrum-team-
 - /blog/how-do-you-handle-conflict-in-a-scrum-team-
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
-aliasesFor404:
-- /how-do-you-handle-conflict-in-a-scrum-team
-- /blog/how-do-you-handle-conflict-in-a-scrum-team
-- /how-do-you-handle-conflict-in-a-scrum-team-
-- /blog/how-do-you-handle-conflict-in-a-scrum-team-
-- /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 tags:
 - Coaching
 - People and Process

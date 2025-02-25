@@ -15,10 +15,6 @@ aliasesArchive:
 - /workshops/Sprint-Review-1.html
 - /learn/agile-delivery-kit/workshops/Sprint-Review-1
 - /learn/agile-delivery-kit/workshops/sprint-review-1/
-aliasesFor404:
-- /workshops/Sprint-Review-1.html
-- /learn/agile-delivery-kit/workshops/Sprint-Review-1
-- /learn/agile-delivery-kit/workshops/sprint-review-1/
 creator: Martin Hinshelwood
 references: 
 recommendedContent:

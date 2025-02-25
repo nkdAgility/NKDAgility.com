@@ -27,13 +27,6 @@ aliasesArchive:
 - /guidance---branching-for-each-sprint
 - /blog/guidance---branching-for-each-sprint
 - /resources/blog/guidance-branching-for-each-sprint
-aliasesFor404:
-- /guidance-branching-for-each-sprint
-- /blog/guidance-branching-for-each-sprint
-- /guidance---branching-for-each-sprint
-- /blog/guidance---branching-for-each-sprint
-- /guidance
-- /resources/blog/guidance-branching-for-each-sprint
 categories:
 - Scrum
 - Social Technologies

@@ -25,12 +25,6 @@ aliasesArchive:
 - /do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
-aliasesFor404:
-- /do-you-know-the-minimum-builds-to-create-on-any-branch
-- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
-- /do-you-know-the-minimum-builds-to-create-on-any-branch-
-- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
-- /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
 - Automated Testing
 - Practical Techniques and Tooling

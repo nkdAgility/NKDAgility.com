@@ -27,13 +27,6 @@ aliasesArchive:
 - /issue-[-tfs-2013-]-tf50309-when-configuring-features-in-team-foundation-server-2013
 - /blog/issue-[-tfs-2013-]-tf50309-when-configuring-features-in-team-foundation-server-2013
 - /resources/blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
-aliasesFor404:
-- /issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
-- /blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
-- /issue-[-tfs-2013-]-tf50309-when-configuring-features-in-team-foundation-server-2013
-- /blog/issue-[-tfs-2013-]-tf50309-when-configuring-features-in-team-foundation-server-2013
-- /issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/
-- /resources/blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 tags:
 - Troubleshooting
 - Install and Configuration

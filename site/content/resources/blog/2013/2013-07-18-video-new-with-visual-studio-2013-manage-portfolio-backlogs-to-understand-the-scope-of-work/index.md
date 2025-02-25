@@ -25,12 +25,6 @@ aliasesArchive:
 - /video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /blog/video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /resources/blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
-aliasesFor404:
-- /video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
-- /blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
-- /video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
-- /blog/video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
-- /resources/blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 tags:
 - Practical Techniques and Tooling
 - Portfolio Management

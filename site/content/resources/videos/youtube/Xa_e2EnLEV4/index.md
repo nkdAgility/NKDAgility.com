@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
 - /resources/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
-aliasesFor404:
-- /resources/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
-- /resources/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

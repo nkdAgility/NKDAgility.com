@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 - /resources/videos/debunking-the-myth-agile-is-not-about-speed
 - /resources/debunking-the-myth-agile-is-not-about-speed
-aliasesFor404:
-- /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
-- /resources/videos/debunking-the-myth-agile-is-not-about-speed
-- /resources/debunking-the-myth-agile-is-not-about-speed
 sitemap:
   filename: sitemap.xml
   priority: 0.6

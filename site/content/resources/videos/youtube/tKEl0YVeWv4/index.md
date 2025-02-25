@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/unlocking-the-future-of-software-development-why-automation-is-your-key-to-success
 - /resources/videos/automate-everything-building-reliable,-fast,-and-scalable-products
 - /resources/automate-everything-building-reliable,-fast,-and-scalable-products
-aliasesFor404:
-- /resources/videos/automate-everything-building-reliable,-fast,-and-scalable-products
-- /resources/automate-everything-building-reliable,-fast,-and-scalable-products
 preview: https://i9.ytimg.com/vi/tKEl0YVeWv4/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLA3dRTcLKc5KZt_uc_-QOOambvXxw
 duration: 477
 isShort: false

@@ -25,12 +25,6 @@ aliasesArchive:
 - /what-is-the-roll-of-the-project-manager-in-scrum-
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
 - /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
-aliasesFor404:
-- /what-is-the-roll-of-the-project-manager-in-scrum
-- /blog/what-is-the-roll-of-the-project-manager-in-scrum
-- /what-is-the-roll-of-the-project-manager-in-scrum-
-- /blog/what-is-the-roll-of-the-project-manager-in-scrum-
-- /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
 tags:
 - People and Process
 - Scrum Product Development

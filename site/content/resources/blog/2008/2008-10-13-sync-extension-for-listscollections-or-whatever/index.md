@@ -25,12 +25,6 @@ aliasesArchive:
 - /sync-extension-for-lists-collections-or-whatever
 - /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/blog/sync-extension-for-listscollections-or-whatever
-aliasesFor404:
-- /sync-extension-for-listscollections-or-whatever
-- /blog/sync-extension-for-listscollections-or-whatever
-- /sync-extension-for-lists-collections-or-whatever
-- /blog/sync-extension-for-lists-collections-or-whatever
-- /resources/blog/sync-extension-for-listscollections-or-whatever
 tags:
 - Technical Mastery
 - Software Development

@@ -25,12 +25,6 @@ aliasesArchive:
 - /found-gdr-bug--at-least-i-think-it-is-
 - /blog/found-gdr-bug--at-least-i-think-it-is-
 - /resources/blog/found-gdr-bug-at-least-i-think-it-is
-aliasesFor404:
-- /found-gdr-bug-at-least-i-think-it-is
-- /blog/found-gdr-bug-at-least-i-think-it-is
-- /found-gdr-bug--at-least-i-think-it-is-
-- /blog/found-gdr-bug--at-least-i-think-it-is-
-- /resources/blog/found-gdr-bug-at-least-i-think-it-is
 tags:
 - Troubleshooting
 - Software Development

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-aliasesFor404:
-- /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-- /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-- /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 tags:
 - Pragmatic Thinking
 - Software Development

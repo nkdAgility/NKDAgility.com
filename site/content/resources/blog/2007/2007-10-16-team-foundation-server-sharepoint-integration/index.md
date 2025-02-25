@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/team-foundation-server-sharepoint-integration
 - /team-foundation-server-sharepoint-integration
 - /resources/blog/team-foundation-server-sharepoint-integration
-aliasesFor404:
-- /team-foundation-server-sharepoint-integration
-- /blog/team-foundation-server-sharepoint-integration
-- /resources/blog/team-foundation-server-sharepoint-integration
 tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management

@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/best-scrum-advice-you-ever-received
 - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-aliasesFor404:
-- /resources/best-scrum-advice-you-ever-received-2
-- /resources/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

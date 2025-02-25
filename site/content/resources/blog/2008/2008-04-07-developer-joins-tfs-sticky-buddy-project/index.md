@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/developer-joins-tfs-sticky-buddy-project
 - /developer-joins-tfs-sticky-buddy-project
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
-aliasesFor404:
-- /developer-joins-tfs-sticky-buddy-project
-- /blog/developer-joins-tfs-sticky-buddy-project
-- /resources/blog/developer-joins-tfs-sticky-buddy-project
 tags:
 - People and Process
 - Software Development

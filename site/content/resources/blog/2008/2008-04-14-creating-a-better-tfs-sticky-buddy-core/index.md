@@ -25,12 +25,6 @@ aliasesArchive:
 - /creating-a-better-tfs-sticky-buddy-(core)
 - /blog/creating-a-better-tfs-sticky-buddy-(core)
 - /resources/blog/creating-a-better-tfs-sticky-buddy-core
-aliasesFor404:
-- /creating-a-better-tfs-sticky-buddy-core
-- /blog/creating-a-better-tfs-sticky-buddy-core
-- /creating-a-better-tfs-sticky-buddy-(core)
-- /blog/creating-a-better-tfs-sticky-buddy-(core)
-- /resources/blog/creating-a-better-tfs-sticky-buddy-core
 tags:
 - Technical Mastery
 - Software Development

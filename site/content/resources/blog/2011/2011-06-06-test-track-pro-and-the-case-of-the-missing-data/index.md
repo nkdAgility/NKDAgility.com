@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/test-track-pro-and-the-case-of-the-missing-data
 - /test-track-pro-and-the-case-of-the-missing-data
 - /resources/blog/test-track-pro-and-the-case-of-the-missing-data
-aliasesFor404:
-- /test-track-pro-and-the-case-of-the-missing-data
-- /blog/test-track-pro-and-the-case-of-the-missing-data
-- /resources/blog/test-track-pro-and-the-case-of-the-missing-data
 tags:
 - Troubleshooting
 - Code and Complexity

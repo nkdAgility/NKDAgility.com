@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
 - /resources/videos/what-is-empiricism
 - /resources/what-is-empiricism
-aliasesFor404:
-- /resources/videos/what-is-empiricism
-- /resources/what-is-empiricism
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true

@@ -25,12 +25,6 @@ aliasesArchive:
 - /microsoft-surface-3-unable-to-boot-from-usb
 - /blog/microsoft-surface-3-unable-to-boot-from-usb
 - /resources/blog/microsoft-surface-3-unable-boot-usb
-aliasesFor404:
-- /microsoft-surface-3-unable-boot-usb
-- /blog/microsoft-surface-3-unable-boot-usb
-- /microsoft-surface-3-unable-to-boot-from-usb
-- /blog/microsoft-surface-3-unable-to-boot-from-usb
-- /resources/blog/microsoft-surface-3-unable-boot-usb
 tags:
 - Windows
 - Troubleshooting

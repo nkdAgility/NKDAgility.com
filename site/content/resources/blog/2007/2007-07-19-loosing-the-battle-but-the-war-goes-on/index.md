@@ -29,14 +29,6 @@ aliasesArchive:
 - /loosing-the-battle--but-the-war-goes-on
 - /blog/loosing-the-battle--but-the-war-goes-on
 - /resources/blog/loosing-the-battle-but-the-war-goes-on
-aliasesFor404:
-- /loosing-the-battle-but-the-war-goes-on
-- /blog/loosing-the-battle-but-the-war-goes-on
-- /loosing-the-battle,-but-the-war-goes-on
-- /blog/loosing-the-battle,-but-the-war-goes-on
-- /loosing-the-battle--but-the-war-goes-on
-- /blog/loosing-the-battle--but-the-war-goes-on
-- /resources/blog/loosing-the-battle-but-the-war-goes-on
 tags:
 - People and Process
 - Release Management

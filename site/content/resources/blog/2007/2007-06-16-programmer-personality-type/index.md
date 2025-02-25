@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/programmer-personality-type
 - /programmer-personality-type
 - /resources/blog/programmer-personality-type
-aliasesFor404:
-- /programmer-personality-type
-- /blog/programmer-personality-type
-- /resources/blog/programmer-personality-type
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:

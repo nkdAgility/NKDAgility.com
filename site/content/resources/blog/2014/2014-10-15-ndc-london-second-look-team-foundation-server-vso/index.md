@@ -29,14 +29,6 @@ aliasesArchive:
 - /ndc-london--second-look--team-foundation-server-&amp;-vso
 - /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
-aliasesFor404:
-- /ndc-london-second-look-team-foundation-server-vso
-- /blog/ndc-london-second-look-team-foundation-server-vso
-- /ndc-london--second-look,-team-foundation-server-&amp;-vso
-- /blog/ndc-london--second-look,-team-foundation-server-&amp;-vso
-- /ndc-london--second-look--team-foundation-server-&amp;-vso
-- /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
-- /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
 - Application Lifecycle Management
 - Events and Presentations

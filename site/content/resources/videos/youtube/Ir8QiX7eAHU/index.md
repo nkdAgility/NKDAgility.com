@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
 - /resources/videos/wip-limits!-what-critical-factors-affect-them-
 - /resources/wip-limits!-what-critical-factors-affect-them-
-aliasesFor404:
-- /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
-- /resources/videos/wip-limits!-what-critical-factors-affect-them-
-- /resources/wip-limits!-what-critical-factors-affect-them-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

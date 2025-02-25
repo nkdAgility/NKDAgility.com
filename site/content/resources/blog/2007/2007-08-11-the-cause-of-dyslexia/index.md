@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-cause-of-dyslexia
 - /the-cause-of-dyslexia
 - /resources/blog/the-cause-of-dyslexia
-aliasesFor404:
-- /the-cause-of-dyslexia
-- /blog/the-cause-of-dyslexia
-- /resources/blog/the-cause-of-dyslexia
 tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

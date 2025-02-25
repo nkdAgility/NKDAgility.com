@@ -19,9 +19,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/fortnite
 - /resources/fortnite
-aliasesFor404:
-- /resources/videos/fortnite
-- /resources/fortnite
 preview: https://i.ytimg.com/vi/DK3axj21R4U/maxresdefault.jpg
 duration: 23
 isShort: true

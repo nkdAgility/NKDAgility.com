@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
-aliasesFor404:
-- /how-to-deal-with-a-stuck-or-infinitely-queued-build
-- /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
-- /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 tags:
 - Troubleshooting
 preview: metro-SSWLogo-128-link-11-11.png

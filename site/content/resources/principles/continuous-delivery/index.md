@@ -14,8 +14,6 @@ aliases:
 - /resources/ThwZ-YCKBf-
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/continuous-delivery/
-aliasesFor404:
-- /learn/agile-delivery-kit/first-principals/continuous-delivery/
 card:
   button:
     content: Learn More

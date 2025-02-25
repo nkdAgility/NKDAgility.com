@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/sharepoint-2007-and-silverlight
 - /sharepoint-2007-and-silverlight
 - /resources/blog/sharepoint-2007-and-silverlight
-aliasesFor404:
-- /sharepoint-2007-and-silverlight
-- /blog/sharepoint-2007-and-silverlight
-- /resources/blog/sharepoint-2007-and-silverlight
 tags:
 - Products and Books
 preview: metro-sharepoint-128-link-1-1.png

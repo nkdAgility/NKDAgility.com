@@ -27,13 +27,6 @@ aliasesArchive:
 - /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-aliasesFor404:
-- /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-- /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-- /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
-- /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
-- /tfs-integration-tools
-- /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

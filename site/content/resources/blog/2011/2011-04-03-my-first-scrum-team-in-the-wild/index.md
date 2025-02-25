@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/my-first-scrum-team-in-the-wild
 - /my-first-scrum-team-in-the-wild
 - /resources/blog/my-first-scrum-team-in-the-wild
-aliasesFor404:
-- /my-first-scrum-team-in-the-wild
-- /blog/my-first-scrum-team-in-the-wild
-- /resources/blog/my-first-scrum-team-in-the-wild
 tags:
 - Agile Project Management
 - Agile Product Management

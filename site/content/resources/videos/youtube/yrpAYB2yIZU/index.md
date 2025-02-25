@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
 - /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server
-aliasesFor404:
-- /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
-- /resources/install-&-configure-301-move-your-active-directory-domain-to-another-server
 preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
 isShort: false

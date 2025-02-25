@@ -25,12 +25,6 @@ aliasesArchive:
 - /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-aliasesFor404:
-- /installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-- /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
-- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
-- /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 tags:
 - Windows
 - Install and Configuration

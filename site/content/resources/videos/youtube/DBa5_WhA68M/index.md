@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
-aliasesFor404:
-- /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
-aliasesFor404:
-- /a-better-way-than-staggered-iterations-for-delivery
-- /blog/a-better-way-than-staggered-iterations-for-delivery
-- /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
 - Increment
 - Test First Development

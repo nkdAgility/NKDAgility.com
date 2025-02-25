@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/changing-the-team-project-collection-of-the-team-build-controller
 - /changing-the-team-project-collection-of-the-team-build-controller
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
-aliasesFor404:
-- /changing-the-team-project-collection-of-the-team-build-controller
-- /blog/changing-the-team-project-collection-of-the-team-build-controller
-- /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

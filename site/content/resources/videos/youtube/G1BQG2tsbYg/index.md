@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/how-to-achieve-predictability-in-business-through-agile-principles
 - /resources/videos/outcome-increased-business-predictability
 - /resources/outcome-increased-business-predictability
-aliasesFor404:
-- /resources/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/videos/outcome-increased-business-predictability
-- /resources/outcome-increased-business-predictability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

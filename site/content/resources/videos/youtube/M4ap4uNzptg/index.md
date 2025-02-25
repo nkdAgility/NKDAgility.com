@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations!
 - /resources/agile-is-failing-organizations!
-aliasesFor404:
-- /resources/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations!
-- /resources/agile-is-failing-organizations!
 sitemap:
   filename: sitemap.xml
   priority: 0.6

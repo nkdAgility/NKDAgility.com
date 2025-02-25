@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
 - /resources/overview-of-applying-professional-kanban-course-1
-aliasesFor404:
-- /resources/overview-of-applying-professional-kanban-course
-- /resources/videos/overview-of-applying-professional-kanban-course-1
-- /resources/overview-of-applying-professional-kanban-course-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6

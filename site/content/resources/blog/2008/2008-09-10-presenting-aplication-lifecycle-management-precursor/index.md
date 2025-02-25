@@ -25,12 +25,6 @@ aliasesArchive:
 - /presenting-aplication-lifecycle-management--precursor
 - /blog/presenting-aplication-lifecycle-management--precursor
 - /resources/blog/presenting-aplication-lifecycle-management-precursor
-aliasesFor404:
-- /presenting-aplication-lifecycle-management-precursor
-- /blog/presenting-aplication-lifecycle-management-precursor
-- /presenting-aplication-lifecycle-management--precursor
-- /blog/presenting-aplication-lifecycle-management--precursor
-- /resources/blog/presenting-aplication-lifecycle-management-precursor
 tags:
 - Events and Presentations
 - Personal

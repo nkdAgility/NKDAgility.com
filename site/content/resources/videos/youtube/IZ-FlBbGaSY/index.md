@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/building-a-culture-of-quality
 - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-aliasesFor404:
-- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-- /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false

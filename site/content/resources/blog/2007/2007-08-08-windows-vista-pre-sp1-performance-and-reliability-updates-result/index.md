@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
 - /windows-vista-pre-sp1-performance-and-reliability-updates-result
 - /resources/blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
-aliasesFor404:
-- /windows-vista-pre-sp1-performance-and-reliability-updates-result
-- /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
-- /resources/blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
 tags:
 - Windows
 preview: metro-merilllynch-128-link-1-1.png

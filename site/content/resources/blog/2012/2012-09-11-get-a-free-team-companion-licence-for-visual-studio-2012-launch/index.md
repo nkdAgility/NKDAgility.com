@@ -25,12 +25,6 @@ aliasesArchive:
 - /get-a-free-team-companion-licence-for-visual-studio-2012-launch-
 - /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch-
 - /resources/blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
-aliasesFor404:
-- /get-a-free-team-companion-licence-for-visual-studio-2012-launch
-- /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
-- /get-a-free-team-companion-licence-for-visual-studio-2012-launch-
-- /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch-
-- /resources/blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
 tags:
 - Products and Books
 categories: []

@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-eventhandler--msmq-refactor
 - /blog/tfs-eventhandler--msmq-refactor
 - /resources/blog/tfs-eventhandler-msmq-refactor
-aliasesFor404:
-- /tfs-eventhandler-msmq-refactor
-- /blog/tfs-eventhandler-msmq-refactor
-- /tfs-eventhandler--msmq-refactor
-- /blog/tfs-eventhandler--msmq-refactor
-- /resources/blog/tfs-eventhandler-msmq-refactor
 tags:
 - Software Development
 preview: nakedalm-logo-128-link-1-1.png

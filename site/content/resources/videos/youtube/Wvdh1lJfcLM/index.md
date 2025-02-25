@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 - /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
-aliasesFor404:
-- /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
-- /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
-- /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6

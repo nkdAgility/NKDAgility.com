@@ -25,12 +25,6 @@ aliasesArchive:
 - /-net-service-manager
 - /blog/-net-service-manager
 - /resources/blog/net-service-manager
-aliasesFor404:
-- /net-service-manager
-- /blog/net-service-manager
-- /-net-service-manager
-- /blog/-net-service-manager
-- /resources/blog/net-service-manager
 tags:
 - Release Management
 - Technical Mastery

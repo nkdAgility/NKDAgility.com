@@ -27,13 +27,6 @@ aliasesArchive:
 - /tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 - /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 - /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-aliasesFor404:
-- /tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-- /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-- /tfs-preview---issue--tf400898-the-underlying-connection-was-closed
-- /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
-- /tfs-preview
-- /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 tags:
 - Troubleshooting
 categories:

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/ihandlerfactory
 - /ihandlerfactory
 - /resources/blog/ihandlerfactory
-aliasesFor404:
-- /ihandlerfactory
-- /blog/ihandlerfactory
-- /resources/blog/ihandlerfactory
 tags:
 - Technical Mastery
 - Software Development

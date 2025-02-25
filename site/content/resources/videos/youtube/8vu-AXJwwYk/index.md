@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
-aliasesFor404:
-- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
-- /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false

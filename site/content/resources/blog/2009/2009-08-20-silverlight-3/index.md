@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/silverlight-3
 - /silverlight-3
 - /resources/blog/silverlight-3
-aliasesFor404:
-- /silverlight-3
-- /blog/silverlight-3
-- /resources/blog/silverlight-3
 tags:
 - Products and Books
 - News and Reviews

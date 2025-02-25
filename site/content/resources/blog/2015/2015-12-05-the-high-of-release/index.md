@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-high-of-release
 - /the-high-of-release
 - /resources/blog/the-high-of-release
-aliasesFor404:
-- /the-high-of-release
-- /blog/the-high-of-release
-- /resources/blog/the-high-of-release
 tags:
 - Events and Presentations
 - Product Delivery

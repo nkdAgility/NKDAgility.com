@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
 - /resources/videos/estimating-with-confidence
 - /resources/estimating-with-confidence
-aliasesFor404:
-- /resources/videos/estimating-with-confidence
-- /resources/estimating-with-confidence
 preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
 duration: 201
 isShort: false

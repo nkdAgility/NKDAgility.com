@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/live-framework
 - /live-framework
 - /resources/blog/live-framework
-aliasesFor404:
-- /live-framework
-- /blog/live-framework
-- /resources/blog/live-framework
 tags:
 - Collaboration Tools
 - Team Collaboration

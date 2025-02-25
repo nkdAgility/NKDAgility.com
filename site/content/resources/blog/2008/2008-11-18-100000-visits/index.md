@@ -29,14 +29,6 @@ aliasesArchive:
 - /100-000-visits
 - /blog/100-000-visits
 - /resources/blog/100000-visits
-aliasesFor404:
-- /100000-visits
-- /blog/100000-visits
-- /100,000-visits
-- /blog/100,000-visits
-- /100-000-visits
-- /blog/100-000-visits
-- /resources/blog/100000-visits
 tags:
 - Miscellaneous
 categories: []

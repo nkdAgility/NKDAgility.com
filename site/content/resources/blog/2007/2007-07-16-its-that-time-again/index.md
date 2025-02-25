@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/its-that-time-again
 - /its-that-time-again
 - /resources/blog/its-that-time-again
-aliasesFor404:
-- /its-that-time-again
-- /blog/its-that-time-again
-- /resources/blog/its-that-time-again
 tags:
 - Personal
 - Miscellaneous

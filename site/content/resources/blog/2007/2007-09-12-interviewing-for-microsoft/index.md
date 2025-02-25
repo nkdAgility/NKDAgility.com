@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/interviewing-for-microsoft
 - /interviewing-for-microsoft
 - /resources/blog/interviewing-for-microsoft
-aliasesFor404:
-- /interviewing-for-microsoft
-- /blog/interviewing-for-microsoft
-- /resources/blog/interviewing-for-microsoft
 tags:
 - Personal
 - Miscellaneous

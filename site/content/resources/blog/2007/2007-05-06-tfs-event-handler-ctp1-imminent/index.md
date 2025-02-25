@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-event-handler--ctp1-imminent
 - /blog/tfs-event-handler--ctp1-imminent
 - /resources/blog/tfs-event-handler-ctp1-imminent
-aliasesFor404:
-- /tfs-event-handler-ctp1-imminent
-- /blog/tfs-event-handler-ctp1-imminent
-- /tfs-event-handler--ctp1-imminent
-- /blog/tfs-event-handler--ctp1-imminent
-- /resources/blog/tfs-event-handler-ctp1-imminent
 tags:
 - Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-dogma
 - /resources/5-ghosts-of-agile-past-dogma
-aliasesFor404:
-- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-dogma
-- /resources/5-ghosts-of-agile-past-dogma
 sitemap:
   filename: sitemap.xml
   priority: 0.6

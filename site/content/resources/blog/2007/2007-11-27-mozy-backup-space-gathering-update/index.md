@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/mozy-backup-space-gathering-update
 - /mozy-backup-space-gathering-update
 - /resources/blog/mozy-backup-space-gathering-update
-aliasesFor404:
-- /mozy-backup-space-gathering-update
-- /blog/mozy-backup-space-gathering-update
-- /resources/blog/mozy-backup-space-gathering-update
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 tags: []

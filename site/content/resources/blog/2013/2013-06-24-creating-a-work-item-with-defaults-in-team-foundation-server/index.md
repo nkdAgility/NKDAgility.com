@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 - /creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
-aliasesFor404:
-- /creating-a-work-item-with-defaults-in-team-foundation-server
-- /blog/creating-a-work-item-with-defaults-in-team-foundation-server
-- /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

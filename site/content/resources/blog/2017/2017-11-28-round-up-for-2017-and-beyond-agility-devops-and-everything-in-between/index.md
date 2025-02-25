@@ -29,14 +29,6 @@ aliasesArchive:
 - /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
 - /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-aliasesFor404:
-- /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-- /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-- /round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
-- /blog/round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
-- /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
-- /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
-- /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 categories:
 - Social Technologies
 preview: -1-1.jpg

@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 - /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-aliasesFor404:
-- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: false

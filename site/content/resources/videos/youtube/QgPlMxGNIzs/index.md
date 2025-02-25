@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
-aliasesFor404:
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -26,12 +26,6 @@ aliasesArchive:
 - /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
-aliasesFor404:
-- /story-points-velocity-are-a-sign-of-an-unsuccessful-team
-- /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
-- /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
-- /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
-- /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
 - Estimation
 - Transparency

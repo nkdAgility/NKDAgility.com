@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
-aliasesFor404:
-- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
-- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
-- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

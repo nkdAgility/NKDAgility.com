@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-is-a-sprint-backlog
 - /resources/videos/what-is-a-sprint-backlog-
 - /resources/what-is-a-sprint-backlog-
-aliasesFor404:
-- /resources/what-is-a-sprint-backlog
-- /resources/videos/what-is-a-sprint-backlog-
-- /resources/what-is-a-sprint-backlog-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

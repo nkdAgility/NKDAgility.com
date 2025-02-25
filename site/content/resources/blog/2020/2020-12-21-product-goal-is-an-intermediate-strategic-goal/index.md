@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/product-goal-is-an-intermediate-strategic-goal
 - /product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
-aliasesFor404:
-- /product-goal-is-an-intermediate-strategic-goal
-- /blog/product-goal-is-an-intermediate-strategic-goal
-- /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags:
 - Experimentation
 - Agile Project Management

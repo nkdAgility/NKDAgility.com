@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-future-of-software-development
 - /the-future-of-software-development
 - /resources/blog/the-future-of-software-development
-aliasesFor404:
-- /the-future-of-software-development
-- /blog/the-future-of-software-development
-- /resources/blog/the-future-of-software-development
 tags:
 - Software Development
 - People and Process

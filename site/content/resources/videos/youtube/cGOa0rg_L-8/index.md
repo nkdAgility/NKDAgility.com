@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/is-your-project-ecosystem-truly-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
-aliasesFor404:
-- /resources/is-your-project-ecosystem-truly-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 sitemap:
   filename: sitemap.xml
   priority: 0.6

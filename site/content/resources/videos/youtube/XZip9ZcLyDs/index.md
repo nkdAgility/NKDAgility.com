@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option
 - /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option-
-aliasesFor404:
-- /resources/why-is-becoming-a-scrum-master-a-great-career-option
-- /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
-- /resources/why-is-becoming-a-scrum-master-a-great-career-option-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

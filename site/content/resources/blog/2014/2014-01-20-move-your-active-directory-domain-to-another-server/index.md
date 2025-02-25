@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/move-your-active-directory-domain-to-another-server
 - /move-your-active-directory-domain-to-another-server
 - /resources/blog/move-your-active-directory-domain-to-another-server
-aliasesFor404:
-- /move-your-active-directory-domain-to-another-server
-- /blog/move-your-active-directory-domain-to-another-server
-- /resources/blog/move-your-active-directory-domain-to-another-server
 tags:
 - Windows
 - Install and Configuration

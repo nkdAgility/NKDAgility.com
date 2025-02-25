@@ -26,12 +26,6 @@ aliasesArchive:
 - /the-definition-of-done--ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
-aliasesFor404:
-- /the-definition-of-done-ensuring-quality-without-compromising-value
-- /blog/the-definition-of-done-ensuring-quality-without-compromising-value
-- /the-definition-of-done--ensuring-quality-without-compromising-value
-- /blog/the-definition-of-done--ensuring-quality-without-compromising-value
-- /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
 - Transparency
 - Definition of Done

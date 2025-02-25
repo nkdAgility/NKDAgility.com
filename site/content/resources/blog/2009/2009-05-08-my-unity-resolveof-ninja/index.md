@@ -25,12 +25,6 @@ aliasesArchive:
 - /my-unity-resolve(of-ninja)
 - /blog/my-unity-resolve(of-ninja)
 - /resources/blog/my-unity-resolveof-ninja
-aliasesFor404:
-- /my-unity-resolveof-ninja
-- /blog/my-unity-resolveof-ninja
-- /my-unity-resolve(of-ninja)
-- /blog/my-unity-resolve(of-ninja)
-- /resources/blog/my-unity-resolveof-ninja
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/office-mobile-2007
 - /office-mobile-2007
 - /resources/blog/office-mobile-2007
-aliasesFor404:
-- /office-mobile-2007
-- /blog/office-mobile-2007
-- /resources/blog/office-mobile-2007
 tags:
 - Windows
 - Install and Configuration

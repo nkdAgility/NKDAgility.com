@@ -25,12 +25,6 @@ aliasesArchive:
 - /how-do-you-incorporate-a-design-sprint-in-scrum-
 - /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
 - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
-aliasesFor404:
-- /how-do-you-incorporate-a-design-sprint-in-scrum
-- /blog/how-do-you-incorporate-a-design-sprint-in-scrum
-- /how-do-you-incorporate-a-design-sprint-in-scrum-
-- /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
-- /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 tags:
 - Agile Project Management
 - People and Process

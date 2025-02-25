@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-fallacy-of-the-rejected-backlog-item
 - /the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
-aliasesFor404:
-- /the-fallacy-of-the-rejected-backlog-item
-- /blog/the-fallacy-of-the-rejected-backlog-item
-- /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
 - Scrum Product Development
 - Software Development

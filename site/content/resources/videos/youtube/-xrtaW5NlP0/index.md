@@ -19,10 +19,6 @@ aliasesArchive:
 - /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
 - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-aliasesFor404:
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 sitemap:
   filename: sitemap.xml
   priority: 0.6

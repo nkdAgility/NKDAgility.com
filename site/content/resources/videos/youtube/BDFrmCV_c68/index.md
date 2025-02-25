@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/7-deadly-sins-of-agile-pride
 - /resources/videos/pride!-7-deadly-sins-of-agile
 - /resources/pride!-7-deadly-sins-of-agile
-aliasesFor404:
-- /resources/7-deadly-sins-of-agile-pride
-- /resources/videos/pride!-7-deadly-sins-of-agile
-- /resources/pride!-7-deadly-sins-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6

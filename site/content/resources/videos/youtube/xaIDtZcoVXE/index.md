@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/how-do-you-know-how-long-it-takes-to-deliver-value
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-aliasesFor404:
-- /resources/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/virtual-labs-in-the-modern-application-lifecycle
 - /virtual-labs-in-the-modern-application-lifecycle
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
-aliasesFor404:
-- /virtual-labs-in-the-modern-application-lifecycle
-- /blog/virtual-labs-in-the-modern-application-lifecycle
-- /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 tags:
 - Application Lifecycle Management
 - Automated Testing

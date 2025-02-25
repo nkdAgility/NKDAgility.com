@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course
 - /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course-
-aliasesFor404:
-- /resources/what-will-you-learn-on-the-professional-scrum-master-course
-- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
-- /resources/what-will-you-learn-on-the-professional-scrum-master-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

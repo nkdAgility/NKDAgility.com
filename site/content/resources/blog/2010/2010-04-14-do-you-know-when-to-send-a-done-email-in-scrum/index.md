@@ -25,12 +25,6 @@ aliasesArchive:
 - /do-you-know-when-to-send-a-done-email-in-scrum-
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum-
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
-aliasesFor404:
-- /do-you-know-when-to-send-a-done-email-in-scrum
-- /blog/do-you-know-when-to-send-a-done-email-in-scrum
-- /do-you-know-when-to-send-a-done-email-in-scrum-
-- /blog/do-you-know-when-to-send-a-done-email-in-scrum-
-- /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags:
 - Scrum Team
 - People and Process

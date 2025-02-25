@@ -25,12 +25,6 @@ aliasesArchive:
 - /msn-cartoon-(beta)
 - /blog/msn-cartoon-(beta)
 - /resources/blog/msn-cartoon-beta
-aliasesFor404:
-- /msn-cartoon-beta
-- /blog/msn-cartoon-beta
-- /msn-cartoon-(beta)
-- /blog/msn-cartoon-(beta)
-- /resources/blog/msn-cartoon-beta
 tags:
 - Install and Configuration
 - Miscellaneous

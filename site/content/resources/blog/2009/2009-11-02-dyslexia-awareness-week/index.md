@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/dyslexia-awareness-week
 - /dyslexia-awareness-week
 - /resources/blog/dyslexia-awareness-week
-aliasesFor404:
-- /dyslexia-awareness-week
-- /blog/dyslexia-awareness-week
-- /resources/blog/dyslexia-awareness-week
 tags:
 - Personal
 - Miscellaneous

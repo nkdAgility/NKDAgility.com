@@ -25,12 +25,6 @@ aliasesArchive:
 - /review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 - /blog/review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
-aliasesFor404:
-- /review-developing-intel-haswell-harris-beach-sds-ultrabook
-- /blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
-- /review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
-- /blog/review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
-- /resources/blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
 tags:
 - Windows
 - Products and Books

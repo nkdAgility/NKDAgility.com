@@ -25,12 +25,6 @@ aliasesArchive:
 - /agile-in-africa-2016
 - /blog/agile-in-africa-2016
 - /resources/blog/agile-africa-2016
-aliasesFor404:
-- /agile-africa-2016
-- /blog/agile-africa-2016
-- /agile-in-africa-2016
-- /blog/agile-in-africa-2016
-- /resources/blog/agile-africa-2016
 tags:
 - Events and Presentations
 categories:

@@ -25,12 +25,6 @@ aliasesArchive:
 - /join-a-machine-to-your-azure-hosted-domain-controller
 - /blog/join-a-machine-to-your-azure-hosted-domain-controller
 - /resources/blog/join-machine-azure-hosted-domain-controller
-aliasesFor404:
-- /join-machine-azure-hosted-domain-controller
-- /blog/join-machine-azure-hosted-domain-controller
-- /join-a-machine-to-your-azure-hosted-domain-controller
-- /blog/join-a-machine-to-your-azure-hosted-domain-controller
-- /resources/blog/join-machine-azure-hosted-domain-controller
 tags:
 - System Configuration
 - Practical Techniques and Tooling

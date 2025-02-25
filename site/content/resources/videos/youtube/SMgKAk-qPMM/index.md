@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/temperance-in-agile-why-less-is-more
 - /resources/videos/7-virtues-of-agile-temperance
 - /resources/7-virtues-of-agile-temperance
-aliasesFor404:
-- /resources/temperance-in-agile-why-less-is-more
-- /resources/videos/7-virtues-of-agile-temperance
-- /resources/7-virtues-of-agile-temperance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

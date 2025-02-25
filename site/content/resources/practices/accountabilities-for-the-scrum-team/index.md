@@ -13,9 +13,6 @@ aliases:
 aliasesArchive:
 - /practices/Accountabilities-for-the-Scrum-Team.html
 - /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
-aliasesFor404:
-- /practices/Accountabilities-for-the-Scrum-Team.html
-- /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
 recommendedContent: 
 date: 2024-09-17
 creator: Martin Hinshelwood

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 - /the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
-aliasesFor404:
-- /the-great-team-foundation-server-2013-upgrade-weekend
-- /blog/the-great-team-foundation-server-2013-upgrade-weekend
-- /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
 - Install and Configuration
 - Products and Books

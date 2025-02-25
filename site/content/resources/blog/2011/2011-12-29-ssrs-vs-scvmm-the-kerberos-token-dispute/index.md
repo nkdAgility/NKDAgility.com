@@ -25,12 +25,6 @@ aliasesArchive:
 - /ssrs-vs-scvmm---the-kerberos-token-dispute
 - /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 - /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
-aliasesFor404:
-- /ssrs-vs-scvmm-the-kerberos-token-dispute
-- /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
-- /ssrs-vs-scvmm---the-kerberos-token-dispute
-- /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
-- /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 tags:
 - Install and Configuration
 - System Configuration

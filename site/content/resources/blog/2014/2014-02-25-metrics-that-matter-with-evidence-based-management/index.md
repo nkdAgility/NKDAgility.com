@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
-aliasesFor404:
-- /metrics-that-matter-with-evidence-based-management
-- /blog/metrics-that-matter-with-evidence-based-management
-- /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
 - Metrics and Learning
 - Evidence Based Management

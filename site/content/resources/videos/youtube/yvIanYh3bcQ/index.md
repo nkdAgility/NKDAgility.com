@@ -24,15 +24,6 @@ aliasesArchive:
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 - /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
-aliasesFor404:
-- /resources/best-scrum-advice-you-ever-received-2
-- /resources/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/yvIanYh3bcQ
-- /resources/videos/yvIanYh3bcQ
-- /resources/videos/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
-- /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 sitemap:
   filename: sitemap.xml
   priority: 0.4

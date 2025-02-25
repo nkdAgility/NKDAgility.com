@@ -15,9 +15,6 @@ aliases:
 aliasesArchive:
 - /recipes/Daily-Scrum-Recipe.html
 - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
-aliasesFor404:
-- /recipes/Daily-Scrum-Recipe.html
-- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
 recommendedContent:
 - collection: guides
   path: _guides/manifesto-for-agile-software-development.md

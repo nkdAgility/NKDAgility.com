@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
-aliasesFor404:
-- /newsletters/january-2023/
-- /resources/newsletters/january-2023/
 categories:
 - Social Technologies
 tags:

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/mastering-evidence-based-management-for-agile-success
 - /resources/videos/evidence-based-management-gathering-and-analyzing-data
 - /resources/evidence-based-management-gathering-and-analyzing-data
-aliasesFor404:
-- /resources/mastering-evidence-based-management-for-agile-success
-- /resources/videos/evidence-based-management-gathering-and-analyzing-data
-- /resources/evidence-based-management-gathering-and-analyzing-data
 sitemap:
   filename: sitemap.xml
   priority: 0.6

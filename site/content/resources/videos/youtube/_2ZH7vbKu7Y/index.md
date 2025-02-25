@@ -23,10 +23,6 @@ aliasesArchive:
 - /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 - /resources/training-a-bridge-to-knowledge-and-growth
 - /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
-aliasesFor404:
-- /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
-- /resources/training-a-bridge-to-knowledge-and-growth
-- /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 sitemap:
   filename: sitemap.xml
   priority: 0.6

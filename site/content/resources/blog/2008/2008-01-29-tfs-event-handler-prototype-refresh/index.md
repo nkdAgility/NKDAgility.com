@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-event-handler-(prototype)-refresh
 - /blog/tfs-event-handler-(prototype)-refresh
 - /resources/blog/tfs-event-handler-prototype-refresh
-aliasesFor404:
-- /tfs-event-handler-prototype-refresh
-- /blog/tfs-event-handler-prototype-refresh
-- /tfs-event-handler-(prototype)-refresh
-- /blog/tfs-event-handler-(prototype)-refresh
-- /resources/blog/tfs-event-handler-prototype-refresh
 tags:
 - Install and Configuration
 - Troubleshooting

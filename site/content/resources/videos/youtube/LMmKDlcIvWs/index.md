@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/what-is-kanban
 - /resources/videos/what-is-kanban-
 - /resources/what-is-kanban-
-aliasesFor404:
-- /resources/what-is-kanban
-- /resources/videos/what-is-kanban-
-- /resources/what-is-kanban-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

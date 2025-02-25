@@ -25,12 +25,6 @@ aliasesArchive:
 - /create-a-release-management-pipeline-for-professional-developers
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
-aliasesFor404:
-- /create-release-management-pipeline-professional-developers
-- /blog/create-release-management-pipeline-professional-developers
-- /create-a-release-management-pipeline-for-professional-developers
-- /blog/create-a-release-management-pipeline-for-professional-developers
-- /resources/blog/create-release-management-pipeline-professional-developers
 tags:
 - Install and Configuration
 - Release Management

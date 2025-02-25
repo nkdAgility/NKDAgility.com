@@ -29,14 +29,6 @@ aliasesArchive:
 - /the-trouble-with-iis6---pac-files-and-dns
 - /blog/the-trouble-with-iis6---pac-files-and-dns
 - /resources/blog/the-trouble-with-iis6-pac-files-and-dns
-aliasesFor404:
-- /the-trouble-with-iis6-pac-files-and-dns
-- /blog/the-trouble-with-iis6-pac-files-and-dns
-- /the-trouble-with-iis6,--pac-files-and-dns
-- /blog/the-trouble-with-iis6,--pac-files-and-dns
-- /the-trouble-with-iis6---pac-files-and-dns
-- /blog/the-trouble-with-iis6---pac-files-and-dns
-- /resources/blog/the-trouble-with-iis6-pac-files-and-dns
 tags:
 - Troubleshooting
 - System Configuration

@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential-
 - /resources/what-is-a-scrum-master-why-are-they-essential-
-aliasesFor404:
-- /resources/videos/what-is-a-scrum-master-why-are-they-essential-
-- /resources/what-is-a-scrum-master-why-are-they-essential-
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false

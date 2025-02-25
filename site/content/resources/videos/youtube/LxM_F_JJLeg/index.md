@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
 - /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 - /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
-aliasesFor404:
-- /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
-- /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false

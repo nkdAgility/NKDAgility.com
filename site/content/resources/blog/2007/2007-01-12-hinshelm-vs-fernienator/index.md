@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/hinshelm-vs-fernienator
 - /hinshelm-vs-fernienator
 - /resources/blog/hinshelm-vs-fernienator
-aliasesFor404:
-- /hinshelm-vs-fernienator
-- /blog/hinshelm-vs-fernienator
-- /resources/blog/hinshelm-vs-fernienator
 tags: []
 categories: []
 preview: metro-xbox-360-link-2-2.png

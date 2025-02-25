@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-aliasesFor404:
-- /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-- /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-- /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 tags:
 - Professional Scrum
 categories:

@@ -25,12 +25,6 @@ aliasesArchive:
 - /removing-acl's-for-dead-ad-accounts
 - /blog/removing-acl's-for-dead-ad-accounts
 - /resources/blog/removing-acls-for-dead-ad-accounts
-aliasesFor404:
-- /removing-acls-for-dead-ad-accounts
-- /blog/removing-acls-for-dead-ad-accounts
-- /removing-acl's-for-dead-ad-accounts
-- /blog/removing-acl's-for-dead-ad-accounts
-- /resources/blog/removing-acls-for-dead-ad-accounts
 tags:
 - Windows
 - System Configuration

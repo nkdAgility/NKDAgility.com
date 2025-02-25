@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
 - /resources/videos/-shorts-7-virtues-of-agile-charity
 - /resources/-shorts-7-virtues-of-agile-charity
-aliasesFor404:
-- /resources/videos/-shorts-7-virtues-of-agile-charity
-- /resources/-shorts-7-virtues-of-agile-charity
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true

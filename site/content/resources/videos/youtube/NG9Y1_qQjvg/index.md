@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/install-tfs-release-management
 - /resources/videos/install-tfs-2013-release-management
 - /resources/install-tfs-2013-release-management
-aliasesFor404:
-- /resources/videos/install-tfs-2013-release-management
-- /resources/install-tfs-2013-release-management
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 isShort: false

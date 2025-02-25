@@ -27,13 +27,6 @@ aliasesArchive:
 - /visual-studio-2010-overview---reporting-&-process
 - /blog/visual-studio-2010-overview---reporting-&-process
 - /resources/blog/visual-studio-2010-overview-reporting-process
-aliasesFor404:
-- /visual-studio-2010-overview-reporting-process
-- /blog/visual-studio-2010-overview-reporting-process
-- /visual-studio-2010-overview---reporting-&-process
-- /blog/visual-studio-2010-overview---reporting-&-process
-- /visual-studio-2010-overview
-- /resources/blog/visual-studio-2010-overview-reporting-process
 tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management

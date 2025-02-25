@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-aliasesFor404:
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true

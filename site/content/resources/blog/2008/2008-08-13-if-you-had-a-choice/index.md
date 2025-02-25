@@ -25,12 +25,6 @@ aliasesArchive:
 - /if-you-had-a-choice-
 - /blog/if-you-had-a-choice-
 - /resources/blog/if-you-had-a-choice
-aliasesFor404:
-- /if-you-had-a-choice
-- /blog/if-you-had-a-choice
-- /if-you-had-a-choice-
-- /blog/if-you-had-a-choice-
-- /resources/blog/if-you-had-a-choice
 tags:
 - Miscellaneous
 categories: []

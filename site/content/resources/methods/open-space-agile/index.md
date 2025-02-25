@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /methods/open-space-agile/
 - /learn/agile-delivery-kit/strategies/open-space-agile/
-aliasesFor404:
-- /methods/open-space-agile/
-- /learn/agile-delivery-kit/strategies/open-space-agile/
 card:
   button:
     content: Start Optimizing Now

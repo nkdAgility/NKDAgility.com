@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience
 - /resources/overview-of-the-8-week-immersive-learning-experience
-aliasesFor404:
-- /resources/videos/overview-of-the-8-week-immersive-learning-experience
-- /resources/overview-of-the-8-week-immersive-learning-experience
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false

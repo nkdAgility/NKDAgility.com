@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-installation
 - /visual-studio-team-system-2008-database-edition-gdr-installation
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-installation
-aliasesFor404:
-- /visual-studio-team-system-2008-database-edition-gdr-installation
-- /blog/visual-studio-team-system-2008-database-edition-gdr-installation
-- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-installation
 tags:
 - Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/moderating-for-community-credit
 - /moderating-for-community-credit
 - /resources/blog/moderating-for-community-credit
-aliasesFor404:
-- /moderating-for-community-credit
-- /blog/moderating-for-community-credit
-- /resources/blog/moderating-for-community-credit
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:

@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-aliasesFor404:
-- /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-- /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-- /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
-- /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
-- /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

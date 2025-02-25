@@ -25,12 +25,6 @@ aliasesArchive:
 - /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-aliasesFor404:
-- /process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-- /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-- /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
-- /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
-- /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 tags:
 - Install and Configuration
 categories:

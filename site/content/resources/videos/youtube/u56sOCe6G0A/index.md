@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
 - /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
-aliasesFor404:
-- /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
-- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
-- /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

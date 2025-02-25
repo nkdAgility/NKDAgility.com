@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/overcoming-the-ghost-of-agile-certifications
 - /resources/videos/5-ghosts-of-agile-past-3-questions
 - /resources/5-ghosts-of-agile-past-3-questions
-aliasesFor404:
-- /resources/overcoming-the-ghost-of-agile-certifications
-- /resources/videos/5-ghosts-of-agile-past-3-questions
-- /resources/5-ghosts-of-agile-past-3-questions
 sitemap:
   filename: sitemap.xml
   priority: 0.6

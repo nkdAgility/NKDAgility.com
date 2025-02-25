@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 - /upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 - /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
-aliasesFor404:
-- /upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
-- /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
-- /resources/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 tags:
 - Install and Configuration
 - System Configuration

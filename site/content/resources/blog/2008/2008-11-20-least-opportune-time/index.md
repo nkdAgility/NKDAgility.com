@@ -25,12 +25,6 @@ aliasesArchive:
 - /least-opportune-time-
 - /blog/least-opportune-time-
 - /resources/blog/least-opportune-time
-aliasesFor404:
-- /least-opportune-time
-- /blog/least-opportune-time
-- /least-opportune-time-
-- /blog/least-opportune-time-
-- /resources/blog/least-opportune-time
 tags:
 - Products and Books
 - Release Management

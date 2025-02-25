@@ -11,8 +11,6 @@ aliases:
 - /resources/b7fi5SAsyNb
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/service-level-expectation-sle
-aliasesFor404:
-- /learn/agile-delivery-kit/practices/service-level-expectation-sle
 recommendedContent:
 - practices/Service-Level-Expectation-SLE.html
 - practices/Service-Level-Expectation-SLE/

@@ -25,12 +25,6 @@ aliasesArchive:
 - /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-aliasesFor404:
-- /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-- /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-- /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
-- /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
-- /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
 - /deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
-aliasesFor404:
-- /deciphering-the-enigma-of-story-points-across-teams
-- /blog/deciphering-the-enigma-of-story-points-across-teams
-- /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
 - Throughput
 - Agile Product Management

@@ -15,9 +15,6 @@ aliases:
 aliasesArchive:
 - /methods/scrum-framework/
 - /learn/agile-delivery-kit/strategies/scrum-framework/
-aliasesFor404:
-- /methods/scrum-framework/
-- /learn/agile-delivery-kit/strategies/scrum-framework/
 card:
   button:
     content: More info

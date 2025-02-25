@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/mozy-backup-providing-extra-space-this-month
 - /mozy-backup-providing-extra-space-this-month
 - /resources/blog/mozy-backup-providing-extra-space-this-month
-aliasesFor404:
-- /mozy-backup-providing-extra-space-this-month
-- /blog/mozy-backup-providing-extra-space-this-month
-- /resources/blog/mozy-backup-providing-extra-space-this-month
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:

@@ -13,8 +13,6 @@ aliases:
 - /resources/KD08D48Weks
 aliasesArchive:
 - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
-aliasesFor404:
-- /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
 card:
   button:
     content: Learn More

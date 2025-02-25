@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/videos/work-less,-do-more-with-pull-in-kanban
 - /resources/work-less,-do-more-with-pull-in-kanban
-aliasesFor404:
-- /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-- /resources/videos/work-less,-do-more-with-pull-in-kanban
-- /resources/work-less,-do-more-with-pull-in-kanban
 sitemap:
   filename: sitemap.xml
   priority: 0.6

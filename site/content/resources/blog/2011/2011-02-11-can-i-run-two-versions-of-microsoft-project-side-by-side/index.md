@@ -25,12 +25,6 @@ aliasesArchive:
 - /can-i-run-two-versions-of-microsoft-project-side-by-side-
 - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side-
 - /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
-aliasesFor404:
-- /can-i-run-two-versions-of-microsoft-project-side-by-side
-- /blog/can-i-run-two-versions-of-microsoft-project-side-by-side
-- /can-i-run-two-versions-of-microsoft-project-side-by-side-
-- /blog/can-i-run-two-versions-of-microsoft-project-side-by-side-
-- /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
 tags:
 - Windows
 - Install and Configuration

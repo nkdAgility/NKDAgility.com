@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/windows-7-rc
 - /windows-7-rc
 - /resources/blog/windows-7-rc
-aliasesFor404:
-- /windows-7-rc
-- /blog/windows-7-rc
-- /resources/blog/windows-7-rc
 tags:
 - Windows
 preview: nakedalm-logo-128-link-1-1.png

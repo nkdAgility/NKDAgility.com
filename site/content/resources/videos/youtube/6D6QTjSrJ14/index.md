@@ -21,11 +21,6 @@ aliasesArchive:
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
-aliasesFor404:
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
-- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

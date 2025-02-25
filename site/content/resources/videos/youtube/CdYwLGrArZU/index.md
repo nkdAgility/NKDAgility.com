@@ -23,11 +23,6 @@ aliasesArchive:
 - /resources/most-common-thing-you-hear-in-a-pspo-course
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
 - /resources/most-common-thing-you-hear-in-a-pspo-course-
-aliasesFor404:
-- /resources/most-common-thing-you-hear-in-a-pspo-course-2
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
-- /resources/most-common-thing-you-hear-in-a-pspo-course-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

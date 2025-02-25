@@ -25,12 +25,6 @@ aliasesArchive:
 - /installing-the--net-framework-3-5-beta-2-on-vista
 - /blog/installing-the--net-framework-3-5-beta-2-on-vista
 - /resources/blog/installing-the-net-framework-3-5-beta-2-on-vista
-aliasesFor404:
-- /installing-the-net-framework-3-5-beta-2-on-vista
-- /blog/installing-the-net-framework-3-5-beta-2-on-vista
-- /installing-the--net-framework-3-5-beta-2-on-vista
-- /blog/installing-the--net-framework-3-5-beta-2-on-vista
-- /resources/blog/installing-the-net-framework-3-5-beta-2-on-vista
 tags:
 - Windows
 categories: []

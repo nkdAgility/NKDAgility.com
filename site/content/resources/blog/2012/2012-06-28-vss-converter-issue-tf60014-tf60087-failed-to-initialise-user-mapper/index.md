@@ -25,12 +25,6 @@ aliasesArchive:
 - /vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
 - /blog/vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
 - /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-aliasesFor404:
-- /vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-- /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-- /vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
-- /blog/vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
-- /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 tags:
 - Install and Configuration
 - Troubleshooting

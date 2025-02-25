@@ -25,12 +25,6 @@ aliasesArchive:
 - /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
-aliasesFor404:
-- /maven-release-perform-tries-get-workspace-sub-folder-tfs
-- /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
-- /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
-- /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
-- /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

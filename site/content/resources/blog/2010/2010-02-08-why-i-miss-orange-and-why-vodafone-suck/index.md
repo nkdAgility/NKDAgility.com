@@ -25,12 +25,6 @@ aliasesArchive:
 - /why-i-miss-orange-and-why-vodafone-suck-
 - /blog/why-i-miss-orange-and-why-vodafone-suck-
 - /resources/blog/why-i-miss-orange-and-why-vodafone-suck
-aliasesFor404:
-- /why-i-miss-orange-and-why-vodafone-suck
-- /blog/why-i-miss-orange-and-why-vodafone-suck
-- /why-i-miss-orange-and-why-vodafone-suck-
-- /blog/why-i-miss-orange-and-why-vodafone-suck-
-- /resources/blog/why-i-miss-orange-and-why-vodafone-suck
 tags:
 - Customer Satisfaction
 - Personal

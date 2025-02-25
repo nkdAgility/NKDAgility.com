@@ -25,12 +25,6 @@ aliasesArchive:
 - /teams-without-areas-using-a-team-field-in-tfs
 - /blog/teams-without-areas-using-a-team-field-in-tfs
 - /resources/blog/team-foundation-server-2012-teams-without-areas
-aliasesFor404:
-- /team-foundation-server-2012-teams-without-areas
-- /blog/team-foundation-server-2012-teams-without-areas
-- /teams-without-areas-using-a-team-field-in-tfs
-- /blog/teams-without-areas-using-a-team-field-in-tfs
-- /resources/blog/team-foundation-server-2012-teams-without-areas
 tags:
 - Practical Techniques and Tooling
 - Software Development

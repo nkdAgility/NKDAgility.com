@@ -25,12 +25,6 @@ aliasesArchive:
 - /tfs-integration-tools-–-issue--access-denied-to-program-files
 - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
-aliasesFor404:
-- /tfs-integration-platform-issue-access-denied-to-program-files
-- /blog/tfs-integration-platform-issue-access-denied-to-program-files
-- /tfs-integration-tools-–-issue--access-denied-to-program-files
-- /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
-- /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 tags:
 - Windows
 - Practical Techniques and Tooling

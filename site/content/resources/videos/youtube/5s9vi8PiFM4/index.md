@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
-aliasesFor404:
-- /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
-- /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
-- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6

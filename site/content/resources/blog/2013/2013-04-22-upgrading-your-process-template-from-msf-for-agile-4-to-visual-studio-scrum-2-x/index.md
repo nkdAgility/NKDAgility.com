@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
-aliasesFor404:
-- /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
-- /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
-- /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 tags:
 - Practical Techniques and Tooling
 - Agile Project Management

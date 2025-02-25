@@ -25,12 +25,6 @@ aliasesArchive:
 - /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-aliasesFor404:
-- /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-- /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-- /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
-- /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
-- /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery

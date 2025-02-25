@@ -25,12 +25,6 @@ aliasesArchive:
 - /the-benefits-of-visual-studio-online-for-the-enterprise
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
-aliasesFor404:
-- /benefits-visual-studio-online-enterprise
-- /blog/benefits-visual-studio-online-enterprise
-- /the-benefits-of-visual-studio-online-for-the-enterprise
-- /blog/the-benefits-of-visual-studio-online-for-the-enterprise
-- /resources/blog/benefits-visual-studio-online-enterprise
 tags:
 - Application Lifecycle Management
 - Products and Books

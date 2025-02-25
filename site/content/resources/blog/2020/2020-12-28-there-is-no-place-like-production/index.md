@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/there-is-no-place-like-production
 - /there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
-aliasesFor404:
-- /there-is-no-place-like-production
-- /blog/there-is-no-place-like-production
-- /resources/blog/there-is-no-place-like-production
 tags:
 - Increment
 - Product Validation

@@ -27,13 +27,6 @@ aliasesArchive:
 - /tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
-aliasesFor404:
-- /tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
-- /blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
-- /tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
-- /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
-- /tfs-integration-tools
-- /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

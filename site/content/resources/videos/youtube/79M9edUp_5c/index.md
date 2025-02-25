@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
 - /resources/videos/5-tools-that-scrum-masters-love-part-4
 - /resources/5-tools-that-scrum-masters-love-part-4
-aliasesFor404:
-- /resources/videos/5-tools-that-scrum-masters-love-part-4
-- /resources/5-tools-that-scrum-masters-love-part-4
 preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 isShort: true

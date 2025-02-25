@@ -25,12 +25,6 @@ aliasesArchive:
 - /requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
-aliasesFor404:
-- /requirement-management-in-the-modern-application-lifecycle
-- /blog/requirement-management-in-the-modern-application-lifecycle
-- /requirement-management-in-the-modern-application-lifecycle-with-tfs
-- /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
-- /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
 - Application Lifecycle Management
 - Agile Project Management

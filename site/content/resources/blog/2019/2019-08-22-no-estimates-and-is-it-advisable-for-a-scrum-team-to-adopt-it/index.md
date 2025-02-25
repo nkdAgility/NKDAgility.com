@@ -25,12 +25,6 @@ aliasesArchive:
 - /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
-aliasesFor404:
-- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
-- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
-- /no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
-- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
-- /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 tags:
 - Throughput
 - Estimation

@@ -25,12 +25,6 @@ aliasesArchive:
 - /fun-with-virgin+
 - /blog/fun-with-virgin+
 - /resources/blog/fun-with-virgin
-aliasesFor404:
-- /fun-with-virgin
-- /blog/fun-with-virgin
-- /fun-with-virgin+
-- /blog/fun-with-virgin+
-- /resources/blog/fun-with-virgin
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 tags:

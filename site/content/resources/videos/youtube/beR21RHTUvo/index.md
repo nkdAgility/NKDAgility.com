@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/story-points-a-ghost-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-story-points
 - /resources/5-ghosts-of-agile-past-story-points
-aliasesFor404:
-- /resources/story-points-a-ghost-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-story-points
-- /resources/5-ghosts-of-agile-past-story-points
 sitemap:
   filename: sitemap.xml
   priority: 0.6

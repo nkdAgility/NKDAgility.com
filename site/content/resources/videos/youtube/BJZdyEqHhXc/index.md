@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 - /resources/videos/nkd-agility-consulting-approach
 - /resources/nkd-agility-consulting-approach
-aliasesFor404:
-- /resources/videos/nkd-agility-consulting-approach
-- /resources/nkd-agility-consulting-approach
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: false

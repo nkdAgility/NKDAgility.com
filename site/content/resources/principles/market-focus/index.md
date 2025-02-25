@@ -15,8 +15,6 @@ aliases:
 - /resources/T6DrE9pN0ds
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/market-focus/
-aliasesFor404:
-- /learn/agile-delivery-kit/first-principals/market-focus/
 card:
   button:
     content: Learn More

@@ -25,12 +25,6 @@ aliasesArchive:
 - /office-2010-gotcha-2--visual-studio-2008-locks
 - /blog/office-2010-gotcha-2--visual-studio-2008-locks
 - /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
-aliasesFor404:
-- /office-2010-gotcha-2-visual-studio-2008-locks
-- /blog/office-2010-gotcha-2-visual-studio-2008-locks
-- /office-2010-gotcha-2--visual-studio-2008-locks
-- /blog/office-2010-gotcha-2--visual-studio-2008-locks
-- /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
 tags:
 - Install and Configuration
 - Troubleshooting

@@ -18,9 +18,6 @@ aliasesArchive:
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
-aliasesFor404:
-- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
-- /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 isShort: false

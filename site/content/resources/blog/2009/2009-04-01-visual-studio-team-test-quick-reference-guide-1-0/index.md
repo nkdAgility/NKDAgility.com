@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/visual-studio-team-test-quick-reference-guide-1-0
 - /visual-studio-team-test-quick-reference-guide-1-0
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
-aliasesFor404:
-- /visual-studio-team-test-quick-reference-guide-1-0
-- /blog/visual-studio-team-test-quick-reference-guide-1-0
-- /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
 tags:
 - Practical Techniques and Tooling
 - Products and Books

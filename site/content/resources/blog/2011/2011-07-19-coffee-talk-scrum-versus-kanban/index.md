@@ -25,12 +25,6 @@ aliasesArchive:
 - /coffee-talk--scrum-versus-kanban
 - /blog/coffee-talk--scrum-versus-kanban
 - /resources/blog/coffee-talk-scrum-versus-kanban
-aliasesFor404:
-- /coffee-talk-scrum-versus-kanban
-- /blog/coffee-talk-scrum-versus-kanban
-- /coffee-talk--scrum-versus-kanban
-- /blog/coffee-talk--scrum-versus-kanban
-- /resources/blog/coffee-talk-scrum-versus-kanban
 tags:
 - Software Development
 - Events and Presentations

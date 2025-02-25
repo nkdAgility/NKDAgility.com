@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
-aliasesFor404:
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-5th-kind
 preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true

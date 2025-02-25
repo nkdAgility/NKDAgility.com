@@ -20,10 +20,6 @@ aliasesArchive:
 - /methods/one-engineering-system/
 - /methods/1es/
 - /learn/agile-delivery-kit/strategies/one-engineering-system/
-aliasesFor404:
-- /methods/one-engineering-system/
-- /methods/1es/
-- /learn/agile-delivery-kit/strategies/one-engineering-system/
 card:
   button:
     content: Start Optimizing Now

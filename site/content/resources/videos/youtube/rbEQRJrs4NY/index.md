@@ -18,13 +18,6 @@ aliasesArchive:
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/videos/from-assumption-to-real-value-user-test
 - /resources/from-assumption-to-real-value-user-test
-aliasesFor404:
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
-- /resources/rbEQRJrs4NY
-- /resources/videos/rbEQRJrs4NY
-- /resources/videos/from-assumption-to-real-value-user-test
-- /resources/from-assumption-to-real-value-user-test
 preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false

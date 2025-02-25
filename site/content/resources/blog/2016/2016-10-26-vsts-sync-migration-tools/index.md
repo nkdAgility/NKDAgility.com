@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/vsts-sync-migration-tools
 - /vsts-sync-migration-tools
 - /resources/blog/vsts-sync-migration-tools
-aliasesFor404:
-- /vsts-sync-migration-tools
-- /blog/vsts-sync-migration-tools
-- /resources/blog/vsts-sync-migration-tools
 tags:
 - Practical Techniques and Tooling
 - Software Development

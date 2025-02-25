@@ -25,12 +25,6 @@ aliasesArchive:
 - /blog/blogging-about---
 - /blogging-about
 - /resources/blog/blogging-about
-aliasesFor404:
-- /blogging-about
-- /blog/blogging-about
-- /blogging-about---
-- /blog/blogging-about---
-- /resources/blog/blogging-about
 tags:
 - Miscellaneous
 - Personal

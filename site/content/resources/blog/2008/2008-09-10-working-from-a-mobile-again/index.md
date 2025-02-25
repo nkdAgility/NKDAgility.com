@@ -25,12 +25,6 @@ aliasesArchive:
 - /working-from-a-mobile-again-
 - /blog/working-from-a-mobile-again-
 - /resources/blog/working-from-a-mobile-again
-aliasesFor404:
-- /working-from-a-mobile-again
-- /blog/working-from-a-mobile-again
-- /working-from-a-mobile-again-
-- /blog/working-from-a-mobile-again-
-- /resources/blog/working-from-a-mobile-again
 tags:
 - Working Software
 - Miscellaneous

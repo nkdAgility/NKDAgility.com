@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/mvvm-for-dummies
 - /mvvm-for-dummies
 - /resources/blog/mvvm-for-dummies
-aliasesFor404:
-- /mvvm-for-dummies
-- /blog/mvvm-for-dummies
-- /resources/blog/mvvm-for-dummies
 tags:
 - Technical Mastery
 - Software Development

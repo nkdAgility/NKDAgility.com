@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
-aliasesFor404:
-- /solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
-- /blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
-- /resources/blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

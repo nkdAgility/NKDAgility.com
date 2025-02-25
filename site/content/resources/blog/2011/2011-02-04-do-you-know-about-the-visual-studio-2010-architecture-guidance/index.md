@@ -25,12 +25,6 @@ aliasesArchive:
 - /do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
-aliasesFor404:
-- /do-you-know-about-the-visual-studio-2010-architecture-guidance
-- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
-- /do-you-know-about-the-visual-studio-2010-architecture-guidance-
-- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
-- /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 tags:
 - Practical Techniques and Tooling
 - Products and Books

@@ -25,12 +25,6 @@ aliasesArchive:
 - /developer-day-scotland-
 - /blog/developer-day-scotland-
 - /resources/blog/developer-day-scotland-2
-aliasesFor404:
-- /developer-day-scotland-2
-- /blog/developer-day-scotland-2
-- /developer-day-scotland-
-- /blog/developer-day-scotland-
-- /resources/blog/developer-day-scotland-2
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:

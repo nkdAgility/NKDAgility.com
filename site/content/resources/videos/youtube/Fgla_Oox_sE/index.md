@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
-aliasesFor404:
-- /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6

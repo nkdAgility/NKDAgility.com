@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/install-tfs-2015-today
 - /install-tfs-2015-today
 - /resources/blog/install-tfs-2015-today
-aliasesFor404:
-- /install-tfs-2015-today
-- /blog/install-tfs-2015-today
-- /resources/blog/install-tfs-2015-today
 tags:
 - Install and Configuration
 - System Configuration

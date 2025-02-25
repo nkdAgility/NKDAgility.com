@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
-aliasesFor404:
-- /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
-- /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
-- /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

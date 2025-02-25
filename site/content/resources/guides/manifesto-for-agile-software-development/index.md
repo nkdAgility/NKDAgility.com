@@ -13,9 +13,6 @@ aliases:
 aliasesArchive:
 - guides/manifesto-for-agile-software-developmen/
 - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
-aliasesFor404:
-- guides/manifesto-for-agile-software-developmen/
-- /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
 references:
 - title: Manifesto for Agile Software Development
   url: https://agilemanifesto.org/

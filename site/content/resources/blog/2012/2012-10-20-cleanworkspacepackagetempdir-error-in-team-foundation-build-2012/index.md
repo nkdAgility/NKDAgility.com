@@ -27,13 +27,6 @@ aliasesArchive:
 - /team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
 - /blog/team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
 - /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
-aliasesFor404:
-- /cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
-- /blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
-- /team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
-- /blog/team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
-- /team-foundation-build-2012-issue
-- /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 tags:
 - Troubleshooting
 categories:

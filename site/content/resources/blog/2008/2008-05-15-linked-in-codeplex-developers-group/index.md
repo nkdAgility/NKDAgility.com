@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/linked-in-codeplex-developers-group
 - /linked-in-codeplex-developers-group
 - /resources/blog/linked-in-codeplex-developers-group
-aliasesFor404:
-- /linked-in-codeplex-developers-group
-- /blog/linked-in-codeplex-developers-group
-- /resources/blog/linked-in-codeplex-developers-group
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 tags: []

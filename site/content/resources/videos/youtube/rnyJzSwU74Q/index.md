@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/traditional-vs-empirical-whats-the-difference-agile-faces-off-agianst-waterfall
 - /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 - /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-aliasesFor404:
-- /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
-- /resources/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
 isShort: false

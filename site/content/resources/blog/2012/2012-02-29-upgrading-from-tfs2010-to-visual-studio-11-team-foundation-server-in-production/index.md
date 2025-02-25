@@ -25,12 +25,6 @@ aliasesArchive:
 - /upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
 - /blog/upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
 - /resources/blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
-aliasesFor404:
-- /upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
-- /blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
-- /upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
-- /blog/upgrading-from-tfs2010-to-visual-studio-2012-team-foundation-server-in-production
-- /resources/blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
 tags:
 - Install and Configuration
 - System Configuration

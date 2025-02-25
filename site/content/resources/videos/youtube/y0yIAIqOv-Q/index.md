@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/when-should-an-organization-consider-a-professional-agile-consultant
 - /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant-
 - /resources/when-should-an-organization-consider-a-professional-agile-consultant-
-aliasesFor404:
-- /resources/when-should-an-organisation-consider-a-professional-agile-consultant
-- /resources/when-should-an-organization-consider-a-professional-agile-consultant
-- /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant-
-- /resources/when-should-an-organization-consider-a-professional-agile-consultant-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

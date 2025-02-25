@@ -26,12 +26,6 @@ aliasesArchive:
 - /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-aliasesFor404:
-- /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
-- /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
-- /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
 - Business Agility
 - People and Process

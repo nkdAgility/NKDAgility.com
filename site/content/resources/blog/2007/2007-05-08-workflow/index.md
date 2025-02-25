@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/workflow
 - /workflow
 - /resources/blog/workflow
-aliasesFor404:
-- /workflow
-- /blog/workflow
-- /resources/blog/workflow
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery

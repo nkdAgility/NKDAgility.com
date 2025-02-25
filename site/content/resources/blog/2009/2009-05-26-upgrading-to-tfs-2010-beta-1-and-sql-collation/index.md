@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 - /upgrading-to-tfs-2010-beta-1-and-sql-collation
 - /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
-aliasesFor404:
-- /upgrading-to-tfs-2010-beta-1-and-sql-collation
-- /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
-- /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 tags:
 - Install and Configuration
 - Troubleshooting

@@ -25,12 +25,6 @@ aliasesArchive:
 - /blog/returning-an-anonymous-type---
 - /returning-an-anonymous-type
 - /resources/blog/returning-an-anonymous-type
-aliasesFor404:
-- /returning-an-anonymous-type
-- /blog/returning-an-anonymous-type
-- /returning-an-anonymous-type---
-- /blog/returning-an-anonymous-type---
-- /resources/blog/returning-an-anonymous-type
 tags:
 - Software Development
 categories: []

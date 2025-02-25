@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/mozy-update
 - /mozy-update
 - /resources/blog/mozy-update
-aliasesFor404:
-- /mozy-update
-- /blog/mozy-update
-- /resources/blog/mozy-update
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:

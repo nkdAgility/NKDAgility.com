@@ -27,13 +27,6 @@ aliasesArchive:
 - /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-aliasesFor404:
-- /project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-- /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-- /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
-- /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
-- /project-server-2013-issue
-- /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/search-just-got-better
 - /search-just-got-better
 - /resources/blog/search-just-got-better
-aliasesFor404:
-- /search-just-got-better
-- /blog/search-just-got-better
-- /resources/blog/search-just-got-better
 tags:
 - Miscellaneous
 categories: []

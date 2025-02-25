@@ -26,12 +26,6 @@ aliasesArchive:
 - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-aliasesFor404:
-- /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-- /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-- /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
-- /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
-- /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags:
 - Organisational Agility
 - Business Agility

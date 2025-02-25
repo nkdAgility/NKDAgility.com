@@ -25,12 +25,6 @@ aliasesArchive:
 - /a-change-for-the-better--2---aggreko-to-ssw
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 - /resources/blog/a-change-for-the-better-2
-aliasesFor404:
-- /a-change-for-the-better-2
-- /blog/a-change-for-the-better-2
-- /a-change-for-the-better--2---aggreko-to-ssw
-- /blog/a-change-for-the-better--2---aggreko-to-ssw
-- /resources/blog/a-change-for-the-better-2
 tags:
 - Miscellaneous
 - Personal

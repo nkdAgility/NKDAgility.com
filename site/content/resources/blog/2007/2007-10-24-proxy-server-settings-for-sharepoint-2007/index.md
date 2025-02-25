@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/proxy-server-settings-for-sharepoint-2007
 - /proxy-server-settings-for-sharepoint-2007
 - /resources/blog/proxy-server-settings-for-sharepoint-2007
-aliasesFor404:
-- /proxy-server-settings-for-sharepoint-2007
-- /blog/proxy-server-settings-for-sharepoint-2007
-- /resources/blog/proxy-server-settings-for-sharepoint-2007
 tags:
 - Install and Configuration
 - System Configuration

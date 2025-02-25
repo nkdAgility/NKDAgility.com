@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
 - /resources/videos/introduction-to-evidence-based-management-excerpt-1
 - /resources/introduction-to-evidence-based-management-excerpt-1
-aliasesFor404:
-- /resources/videos/introduction-to-evidence-based-management-excerpt-1
-- /resources/introduction-to-evidence-based-management-excerpt-1
 preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
 isShort: true

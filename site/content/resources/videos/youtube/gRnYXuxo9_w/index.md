@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 - /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
-aliasesFor404:
-- /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
-- /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false

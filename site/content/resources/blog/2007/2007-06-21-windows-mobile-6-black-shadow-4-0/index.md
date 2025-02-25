@@ -25,12 +25,6 @@ aliasesArchive:
 - /windows-mobile-6-black-shadow-(4-0)
 - /blog/windows-mobile-6-black-shadow-(4-0)
 - /resources/blog/windows-mobile-6-black-shadow-4-0
-aliasesFor404:
-- /windows-mobile-6-black-shadow-4-0
-- /blog/windows-mobile-6-black-shadow-4-0
-- /windows-mobile-6-black-shadow-(4-0)
-- /blog/windows-mobile-6-black-shadow-(4-0)
-- /resources/blog/windows-mobile-6-black-shadow-4-0
 tags:
 - Install and Configuration
 categories: []

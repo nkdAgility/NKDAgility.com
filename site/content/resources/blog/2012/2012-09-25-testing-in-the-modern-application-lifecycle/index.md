@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/testing-in-the-modern-application-lifecycle
 - /testing-in-the-modern-application-lifecycle
 - /resources/blog/testing-in-the-modern-application-lifecycle
-aliasesFor404:
-- /testing-in-the-modern-application-lifecycle
-- /blog/testing-in-the-modern-application-lifecycle
-- /resources/blog/testing-in-the-modern-application-lifecycle
 tags:
 - Windows
 - Application Lifecycle Management

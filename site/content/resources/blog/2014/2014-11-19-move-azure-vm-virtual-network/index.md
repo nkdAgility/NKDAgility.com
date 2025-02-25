@@ -25,12 +25,6 @@ aliasesArchive:
 - /move-your-azure-vm-to-a-virtual-network
 - /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/blog/move-azure-vm-virtual-network
-aliasesFor404:
-- /move-azure-vm-virtual-network
-- /blog/move-azure-vm-virtual-network
-- /move-your-azure-vm-to-a-virtual-network
-- /blog/move-your-azure-vm-to-a-virtual-network
-- /resources/blog/move-azure-vm-virtual-network
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

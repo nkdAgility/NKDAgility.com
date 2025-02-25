@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 - /resources/videos/talk-us-through-your-experience-with-azure-devops
 - /resources/talk-us-through-your-experience-with-azure-devops
-aliasesFor404:
-- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
-- /resources/talk-us-through-your-experience-with-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6

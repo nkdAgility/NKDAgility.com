@@ -22,10 +22,6 @@ aliasesArchive:
 - /blog/sprint-goal-is-an-immediate-tactical-goal
 - /sprint-goal-is-an-immediate-tactical-goal
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
-aliasesFor404:
-- /sprint-goal-is-an-immediate-tactical-goal
-- /blog/sprint-goal-is-an-immediate-tactical-goal
-- /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 tags:
 - Scrum Product Development
 - People and Process

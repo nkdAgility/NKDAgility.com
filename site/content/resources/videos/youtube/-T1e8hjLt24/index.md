@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
 - /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 - /resources/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
-aliasesFor404:
-- /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
-- /resources/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true

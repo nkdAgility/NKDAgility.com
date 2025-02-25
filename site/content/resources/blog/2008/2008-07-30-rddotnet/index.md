@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/rddotnet
 - /rddotnet
 - /resources/blog/rddotnet
-aliasesFor404:
-- /rddotnet
-- /blog/rddotnet
-- /resources/blog/rddotnet
 tags:
 - Miscellaneous
 - Software Development

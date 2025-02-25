@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-sticky-buddy-codeplex-project
 - /tfs-sticky-buddy-codeplex-project
 - /resources/blog/tfs-sticky-buddy-codeplex-project
-aliasesFor404:
-- /tfs-sticky-buddy-codeplex-project
-- /blog/tfs-sticky-buddy-codeplex-project
-- /resources/blog/tfs-sticky-buddy-codeplex-project
 tags:
 - Practical Techniques and Tooling
 - Software Development

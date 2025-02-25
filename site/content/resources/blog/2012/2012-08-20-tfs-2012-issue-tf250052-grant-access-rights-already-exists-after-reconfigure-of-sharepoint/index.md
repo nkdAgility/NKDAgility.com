@@ -27,13 +27,6 @@ aliasesArchive:
 - /tfs-2012---issue--tf250052--grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 - /blog/tfs-2012---issue--tf250052--grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 - /resources/blog/tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
-aliasesFor404:
-- /tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
-- /blog/tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
-- /tfs-2012---issue--tf250052--grant-access-rights-already-exists-after-reconfigure-of-sharepoint
-- /blog/tfs-2012---issue--tf250052--grant-access-rights-already-exists-after-reconfigure-of-sharepoint
-- /tfs-2012
-- /resources/blog/tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 tags:
 - Troubleshooting
 categories: []

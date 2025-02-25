@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management
 - /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management-
-aliasesFor404:
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

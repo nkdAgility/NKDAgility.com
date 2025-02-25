@@ -25,12 +25,6 @@ aliasesArchive:
 - /branch-policies-for-tfvc
 - /blog/branch-policies-for-tfvc
 - /resources/blog/branch-policies-tfvc
-aliasesFor404:
-- /branch-policies-tfvc
-- /blog/branch-policies-tfvc
-- /branch-policies-for-tfvc
-- /blog/branch-policies-for-tfvc
-- /resources/blog/branch-policies-tfvc
 tags:
 - Technical Mastery
 - Azure Repos

@@ -26,12 +26,6 @@ aliasesArchive:
 - /professional-scrum-is-for-everyone-in-your-organisation
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
-aliasesFor404:
-- /professional-scrum-everyone-organisation
-- /blog/professional-scrum-everyone-organisation
-- /professional-scrum-is-for-everyone-in-your-organisation
-- /blog/professional-scrum-is-for-everyone-in-your-organisation
-- /resources/blog/professional-scrum-everyone-organisation
 tags:
 - People and Process
 - Transparency

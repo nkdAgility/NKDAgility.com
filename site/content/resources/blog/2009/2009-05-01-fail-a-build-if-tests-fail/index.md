@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/fail-a-build-if-tests-fail
 - /fail-a-build-if-tests-fail
 - /resources/blog/fail-a-build-if-tests-fail
-aliasesFor404:
-- /fail-a-build-if-tests-fail
-- /blog/fail-a-build-if-tests-fail
-- /resources/blog/fail-a-build-if-tests-fail
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

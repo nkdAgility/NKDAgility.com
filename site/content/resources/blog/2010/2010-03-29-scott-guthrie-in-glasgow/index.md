@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/scott-guthrie-in-glasgow
 - /scott-guthrie-in-glasgow
 - /resources/blog/scott-guthrie-in-glasgow
-aliasesFor404:
-- /scott-guthrie-in-glasgow
-- /blog/scott-guthrie-in-glasgow
-- /resources/blog/scott-guthrie-in-glasgow
 tags:
 - News and Reviews
 - Events and Presentations

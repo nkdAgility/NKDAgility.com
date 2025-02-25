@@ -26,12 +26,6 @@ aliasesArchive:
 - /you-can't-stop-the-signal--but-you-can-ignore-it-
 - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
-aliasesFor404:
-- /you-cant-stop-the-signal-but-you-can-ignore-it
-- /blog/you-cant-stop-the-signal-but-you-can-ignore-it
-- /you-can't-stop-the-signal--but-you-can-ignore-it-
-- /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
-- /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 categories:
 - Product Management
 - Social Technologies

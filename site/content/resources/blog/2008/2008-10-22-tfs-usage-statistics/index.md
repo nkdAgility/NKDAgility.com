@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-usage-statistics
 - /tfs-usage-statistics
 - /resources/blog/tfs-usage-statistics
-aliasesFor404:
-- /tfs-usage-statistics
-- /blog/tfs-usage-statistics
-- /resources/blog/tfs-usage-statistics
 tags:
 - Modern Source Control
 - Metrics and Learning

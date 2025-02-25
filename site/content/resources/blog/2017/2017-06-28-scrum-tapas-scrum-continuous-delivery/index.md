@@ -25,12 +25,6 @@ aliasesArchive:
 - /scrum-tapas--scrum-and-continuous-delivery
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
-aliasesFor404:
-- /scrum-tapas-scrum-continuous-delivery
-- /blog/scrum-tapas-scrum-continuous-delivery
-- /scrum-tapas--scrum-and-continuous-delivery
-- /blog/scrum-tapas--scrum-and-continuous-delivery
-- /resources/blog/scrum-tapas-scrum-continuous-delivery
 tags:
 - Events and Presentations
 - Software Development

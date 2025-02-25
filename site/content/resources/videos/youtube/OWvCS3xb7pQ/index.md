@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
-aliasesFor404:
-- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
-- /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
 isShort: false

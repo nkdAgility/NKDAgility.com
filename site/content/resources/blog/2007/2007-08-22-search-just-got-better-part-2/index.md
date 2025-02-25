@@ -25,12 +25,6 @@ aliasesArchive:
 - /search-just-got-better--part-2
 - /blog/search-just-got-better--part-2
 - /resources/blog/search-just-got-better-part-2
-aliasesFor404:
-- /search-just-got-better-part-2
-- /blog/search-just-got-better-part-2
-- /search-just-got-better--part-2
-- /blog/search-just-got-better--part-2
-- /resources/blog/search-just-got-better-part-2
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

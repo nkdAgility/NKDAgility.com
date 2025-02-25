@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/windows-communication-framework-evaluation
 - /windows-communication-framework-evaluation
 - /resources/blog/windows-communication-framework-evaluation
-aliasesFor404:
-- /windows-communication-framework-evaluation
-- /blog/windows-communication-framework-evaluation
-- /resources/blog/windows-communication-framework-evaluation
 tags:
 - Software Development
 preview: metro-binary-vb-128-link-1-1.png

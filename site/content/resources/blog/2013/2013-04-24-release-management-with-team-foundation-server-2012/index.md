@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/release-management-with-team-foundation-server-2012
 - /release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
-aliasesFor404:
-- /release-management-with-team-foundation-server-2012
-- /blog/release-management-with-team-foundation-server-2012
-- /resources/blog/release-management-with-team-foundation-server-2012
 tags:
 - Release Management
 - Software Development

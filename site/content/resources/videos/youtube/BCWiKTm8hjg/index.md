@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 - /resources/videos/7-virtues-of-agile-charity
 - /resources/7-virtues-of-agile-charity
-aliasesFor404:
-- /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-- /resources/videos/7-virtues-of-agile-charity
-- /resources/7-virtues-of-agile-charity
 sitemap:
   filename: sitemap.xml
   priority: 0.6

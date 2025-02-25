@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/videos/the-power-of-automated-testing
 - /resources/the-power-of-automated-testing
-aliasesFor404:
-- /resources/videos/the-power-of-automated-testing
-- /resources/the-power-of-automated-testing
 preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false

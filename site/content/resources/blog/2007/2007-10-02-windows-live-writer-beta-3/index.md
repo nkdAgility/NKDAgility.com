@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/windows-live-writer-beta-3
 - /windows-live-writer-beta-3
 - /resources/blog/windows-live-writer-beta-3
-aliasesFor404:
-- /windows-live-writer-beta-3
-- /blog/windows-live-writer-beta-3
-- /resources/blog/windows-live-writer-beta-3
 tags:
 - Windows
 - Troubleshooting

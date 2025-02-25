@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/yorkhill-ice-bucket-challenge
 - /yorkhill-ice-bucket-challenge
 - /resources/blog/yorkhill-ice-bucket-challenge
-aliasesFor404:
-- /yorkhill-ice-bucket-challenge
-- /blog/yorkhill-ice-bucket-challenge
-- /resources/blog/yorkhill-ice-bucket-challenge
 tags:
 - Personal
 categories:

@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
 - /resources/videos/improving-workflow-with-kanban
 - /resources/improving-workflow-with-kanban
-aliasesFor404:
-- /resources/videos/improving-workflow-with-kanban
-- /resources/improving-workflow-with-kanban
 preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 isShort: true

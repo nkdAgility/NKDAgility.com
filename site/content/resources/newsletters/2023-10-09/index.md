@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-aliasesFor404:
-- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 categories:
 - Scrum
 - Product Management

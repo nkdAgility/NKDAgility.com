@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-aliasesFor404:
-- /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-- /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-- /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 tags:
 - Software Development
 preview: metro-visual-studio-2005-128-link-4-4.png

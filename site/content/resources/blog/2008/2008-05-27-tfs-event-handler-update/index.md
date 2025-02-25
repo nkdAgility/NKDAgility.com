@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-event-handler-update
 - /tfs-event-handler-update
 - /resources/blog/tfs-event-handler-update
-aliasesFor404:
-- /tfs-event-handler-update
-- /blog/tfs-event-handler-update
-- /resources/blog/tfs-event-handler-update
 tags:
 - Release Management
 - Practical Techniques and Tooling

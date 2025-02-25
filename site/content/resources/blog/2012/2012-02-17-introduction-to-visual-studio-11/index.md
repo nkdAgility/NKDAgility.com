@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/introduction-to-visual-studio-11
 - /introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
-aliasesFor404:
-- /introduction-to-visual-studio-11
-- /blog/introduction-to-visual-studio-11
-- /resources/blog/introduction-to-visual-studio-11
 tags:
 - Products and Books
 - Practical Techniques and Tooling

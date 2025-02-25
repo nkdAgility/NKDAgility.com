@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /connect-a-test-controller-to-team-foundation-service
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
-aliasesFor404:
-- /connect-a-test-controller-to-team-foundation-service
-- /blog/connect-a-test-controller-to-team-foundation-service
-- /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

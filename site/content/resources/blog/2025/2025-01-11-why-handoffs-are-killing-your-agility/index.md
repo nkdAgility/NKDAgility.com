@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /why-handoffs-are-killing-your-agility
 - /blog/why-handoffs-are-killing-your-agility
-aliasesFor404:
-- /why-handoffs-are-killing-your-agility
-- /blog/why-handoffs-are-killing-your-agility
 tags:
 - Software Development
 - Operational Practices

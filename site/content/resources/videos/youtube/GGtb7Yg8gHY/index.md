@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
 - /resources/videos/7-signs-of-the-agile-apocalypse-war
 - /resources/7-signs-of-the-agile-apocalypse-war
-aliasesFor404:
-- /resources/videos/7-signs-of-the-agile-apocalypse-war
-- /resources/7-signs-of-the-agile-apocalypse-war
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true

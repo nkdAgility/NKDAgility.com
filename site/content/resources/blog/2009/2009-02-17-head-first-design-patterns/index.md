@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/head-first-design-patterns
 - /head-first-design-patterns
 - /resources/blog/head-first-design-patterns
-aliasesFor404:
-- /head-first-design-patterns
-- /blog/head-first-design-patterns
-- /resources/blog/head-first-design-patterns
 tags:
 - Products and Books
 - Miscellaneous

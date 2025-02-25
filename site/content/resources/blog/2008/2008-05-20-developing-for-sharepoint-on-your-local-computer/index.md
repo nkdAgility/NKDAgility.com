@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/developing-for-sharepoint-on-your-local-computer
 - /developing-for-sharepoint-on-your-local-computer
 - /resources/blog/developing-for-sharepoint-on-your-local-computer
-aliasesFor404:
-- /developing-for-sharepoint-on-your-local-computer
-- /blog/developing-for-sharepoint-on-your-local-computer
-- /resources/blog/developing-for-sharepoint-on-your-local-computer
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

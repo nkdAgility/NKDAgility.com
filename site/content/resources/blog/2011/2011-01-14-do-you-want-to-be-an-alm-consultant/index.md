@@ -25,12 +25,6 @@ aliasesArchive:
 - /do-you-want-to-be-an-alm-consultant-
 - /blog/do-you-want-to-be-an-alm-consultant-
 - /resources/blog/do-you-want-to-be-an-alm-consultant
-aliasesFor404:
-- /do-you-want-to-be-an-alm-consultant
-- /blog/do-you-want-to-be-an-alm-consultant
-- /do-you-want-to-be-an-alm-consultant-
-- /blog/do-you-want-to-be-an-alm-consultant-
-- /resources/blog/do-you-want-to-be-an-alm-consultant
 tags:
 - Application Lifecycle Management
 - Software Development

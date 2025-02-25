@@ -25,12 +25,6 @@ aliasesArchive:
 - /custom-ui-colour-scheme-for-windows-forms--net
 - /blog/custom-ui-colour-scheme-for-windows-forms--net
 - /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
-aliasesFor404:
-- /custom-ui-colour-scheme-for-windows-forms-net
-- /blog/custom-ui-colour-scheme-for-windows-forms-net
-- /custom-ui-colour-scheme-for-windows-forms--net
-- /blog/custom-ui-colour-scheme-for-windows-forms--net
-- /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
 tags:
 - Windows
 - Technical Mastery

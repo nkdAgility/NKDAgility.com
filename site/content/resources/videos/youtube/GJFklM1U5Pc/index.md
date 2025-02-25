@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 - /resources/videos/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
 - /resources/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
-aliasesFor404:
-- /resources/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
-- /resources/videos/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
-- /resources/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

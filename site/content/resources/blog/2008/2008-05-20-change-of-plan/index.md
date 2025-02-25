@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/change-of-plan
 - /change-of-plan
 - /resources/blog/change-of-plan
-aliasesFor404:
-- /change-of-plan
-- /blog/change-of-plan
-- /resources/blog/change-of-plan
 tags:
 - Code and Complexity
 - Troubleshooting

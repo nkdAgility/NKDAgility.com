@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-event-handler-ctp1-released
 - /tfs-event-handler-ctp1-released
 - /resources/blog/tfs-event-handler-ctp1-released
-aliasesFor404:
-- /tfs-event-handler-ctp1-released
-- /blog/tfs-event-handler-ctp1-released
-- /resources/blog/tfs-event-handler-ctp1-released
 tags:
 - Frequent Releases
 - Software Development

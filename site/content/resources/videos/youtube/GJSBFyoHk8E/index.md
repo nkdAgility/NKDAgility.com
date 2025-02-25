@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/how-does-a-scrum-team-create-a-sprint-goal-
-aliasesFor404:
-- /resources/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
-- /resources/how-does-a-scrum-team-create-a-sprint-goal-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,12 +25,6 @@ aliasesArchive:
 - /ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
 - /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
-aliasesFor404:
-- /ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
-- /blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
-- /ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
-- /blog/ssw-brain-quest--team-foundation-server-and-sharepoint-2010-(london)
-- /resources/blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 tags:
 - Events and Presentations
 categories:

@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
 - /resources/videos/azure-devops-migration-services-part-1
 - /resources/azure-devops-migration-services-part-1
-aliasesFor404:
-- /resources/videos/azure-devops-migration-services-part-1
-- /resources/azure-devops-migration-services-part-1
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 isShort: true

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/agile-is-not-new-a-journey-back-to-the-basics
 - /resources/videos/the-intention-of-agile-and-scrum
 - /resources/the-intention-of-agile-and-scrum
-aliasesFor404:
-- /resources/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
-- /resources/the-intention-of-agile-and-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

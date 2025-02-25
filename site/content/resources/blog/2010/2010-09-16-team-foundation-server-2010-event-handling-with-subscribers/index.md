@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
-aliasesFor404:
-- /team-foundation-server-2010-event-handling-with-subscribers
-- /blog/team-foundation-server-2010-event-handling-with-subscribers
-- /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/kerberos-problems
 - /kerberos-problems
 - /resources/blog/kerberos-problems
-aliasesFor404:
-- /kerberos-problems
-- /blog/kerberos-problems
-- /resources/blog/kerberos-problems
 tags:
 - Troubleshooting
 categories: []

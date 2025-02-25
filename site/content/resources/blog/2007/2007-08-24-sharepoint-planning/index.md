@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/sharepoint-planning
 - /sharepoint-planning
 - /resources/blog/sharepoint-planning
-aliasesFor404:
-- /sharepoint-planning
-- /blog/sharepoint-planning
-- /resources/blog/sharepoint-planning
 tags:
 - Deployment Strategies
 - System Configuration

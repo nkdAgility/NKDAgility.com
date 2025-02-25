@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/envisioning-vs-provisioning
 - /envisioning-vs-provisioning
 - /resources/blog/envisioning-vs-provisioning
-aliasesFor404:
-- /envisioning-vs-provisioning
-- /blog/envisioning-vs-provisioning
-- /resources/blog/envisioning-vs-provisioning
 tags:
 - Software Development
 categories: []

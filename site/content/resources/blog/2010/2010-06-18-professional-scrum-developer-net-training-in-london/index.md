@@ -25,12 +25,6 @@ aliasesArchive:
 - /professional-scrum-developer-(-net)-training-in-london
 - /blog/professional-scrum-developer-(-net)-training-in-london
 - /resources/blog/professional-scrum-developer-net-training-in-london
-aliasesFor404:
-- /professional-scrum-developer-net-training-in-london
-- /blog/professional-scrum-developer-net-training-in-london
-- /professional-scrum-developer-(-net)-training-in-london
-- /blog/professional-scrum-developer-(-net)-training-in-london
-- /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
 - Scrum Product Development
 - Software Development

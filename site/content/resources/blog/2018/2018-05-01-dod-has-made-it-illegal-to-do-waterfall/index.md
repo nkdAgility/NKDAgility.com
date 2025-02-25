@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/dod-has-made-it-illegal-to-do-waterfall
 - /dod-has-made-it-illegal-to-do-waterfall
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
-aliasesFor404:
-- /dod-has-made-it-illegal-to-do-waterfall
-- /blog/dod-has-made-it-illegal-to-do-waterfall
-- /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
 - People and Process
 - Increment

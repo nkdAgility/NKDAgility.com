@@ -29,14 +29,6 @@ aliasesArchive:
 - /professional-scrum-in-immingham--uk
 - /blog/professional-scrum-in-immingham--uk
 - /resources/blog/professional-scrum-immingham-uk
-aliasesFor404:
-- /professional-scrum-immingham-uk
-- /blog/professional-scrum-immingham-uk
-- /professional-scrum-in-immingham,-uk
-- /blog/professional-scrum-in-immingham,-uk
-- /professional-scrum-in-immingham--uk
-- /blog/professional-scrum-in-immingham--uk
-- /resources/blog/professional-scrum-immingham-uk
 tags:
 - Scrum Product Development
 - Value Delivery

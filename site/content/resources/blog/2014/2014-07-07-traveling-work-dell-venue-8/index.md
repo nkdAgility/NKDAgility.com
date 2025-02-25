@@ -25,12 +25,6 @@ aliasesArchive:
 - /traveling-for-work-and-the-dell-venue-8
 - /blog/traveling-for-work-and-the-dell-venue-8
 - /resources/blog/traveling-work-dell-venue-8
-aliasesFor404:
-- /traveling-work-dell-venue-8
-- /blog/traveling-work-dell-venue-8
-- /traveling-for-work-and-the-dell-venue-8
-- /blog/traveling-for-work-and-the-dell-venue-8
-- /resources/blog/traveling-work-dell-venue-8
 tags:
 - Windows
 - Products and Books

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/updating-to-visual-studio-2008-sp1
 - /updating-to-visual-studio-2008-sp1
 - /resources/blog/updating-to-visual-studio-2008-sp1
-aliasesFor404:
-- /updating-to-visual-studio-2008-sp1
-- /blog/updating-to-visual-studio-2008-sp1
-- /resources/blog/updating-to-visual-studio-2008-sp1
 tags:
 - Install and Configuration
 - Troubleshooting

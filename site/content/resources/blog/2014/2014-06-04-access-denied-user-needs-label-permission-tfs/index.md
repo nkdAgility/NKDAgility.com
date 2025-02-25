@@ -25,12 +25,6 @@ aliasesArchive:
 - /access-denied-user-needs-label-permission-in-tfs
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
-aliasesFor404:
-- /access-denied-user-needs-label-permission-tfs
-- /blog/access-denied-user-needs-label-permission-tfs
-- /access-denied-user-needs-label-permission-in-tfs
-- /blog/access-denied-user-needs-label-permission-in-tfs
-- /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
 - Troubleshooting
 - Software Development

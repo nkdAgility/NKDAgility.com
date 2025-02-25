@@ -25,12 +25,6 @@ aliasesArchive:
 - /can-the-definition-of-done-change-per-sprint-
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
-aliasesFor404:
-- /can-the-definition-of-done-change-per-sprint
-- /blog/can-the-definition-of-done-change-per-sprint
-- /can-the-definition-of-done-change-per-sprint-
-- /blog/can-the-definition-of-done-change-per-sprint-
-- /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
 - Transparency
 - Definition of Done

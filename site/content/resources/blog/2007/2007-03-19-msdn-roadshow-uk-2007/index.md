@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/msdn-roadshow-uk-2007
 - /msdn-roadshow-uk-2007
 - /resources/blog/msdn-roadshow-uk-2007
-aliasesFor404:
-- /msdn-roadshow-uk-2007
-- /blog/msdn-roadshow-uk-2007
-- /resources/blog/msdn-roadshow-uk-2007
 tags:
 - Events and Presentations
 - Miscellaneous

@@ -27,13 +27,6 @@ aliasesArchive:
 - /engaging-with-complexity---sharepoint-edition
 - /blog/engaging-with-complexity---sharepoint-edition
 - /resources/blog/engaging-with-complexity-sharepoint-edition
-aliasesFor404:
-- /engaging-with-complexity-sharepoint-edition
-- /blog/engaging-with-complexity-sharepoint-edition
-- /engaging-with-complexity---sharepoint-edition
-- /blog/engaging-with-complexity---sharepoint-edition
-- /engaging-with-complexity
-- /resources/blog/engaging-with-complexity-sharepoint-edition
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

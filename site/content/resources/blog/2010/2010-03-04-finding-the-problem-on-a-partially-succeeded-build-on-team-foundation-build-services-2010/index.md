@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
-aliasesFor404:
-- /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
-- /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
-- /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
 - Troubleshooting
 - Scrum Product Development

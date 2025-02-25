@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
 - /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
 - /resources/what-is-a-definition-of-done-why-is-it-so-important-
-aliasesFor404:
-- /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
-- /resources/what-is-a-definition-of-done-why-is-it-so-important-
 preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false

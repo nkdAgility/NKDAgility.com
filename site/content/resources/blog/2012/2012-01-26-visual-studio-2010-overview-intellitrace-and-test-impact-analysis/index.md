@@ -27,13 +27,6 @@ aliasesArchive:
 - /visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
-aliasesFor404:
-- /visual-studio-2010-overview-intellitrace-and-test-impact-analysis
-- /blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
-- /visual-studio-2010-overview---intellitrace-and-test-impact-analysis
-- /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
-- /visual-studio-2010-overview
-- /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
 - Automated Testing
 - Practical Techniques and Tooling

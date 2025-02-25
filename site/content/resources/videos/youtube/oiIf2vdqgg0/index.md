@@ -22,10 +22,6 @@ aliasesArchive:
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-
 - /resources/what-is-a-product-vision-
-aliasesFor404:
-- /resources/what-is-a-product-vision
-- /resources/videos/what-is-a-product-vision-
-- /resources/what-is-a-product-vision-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -15,8 +15,6 @@ aliases:
 - /resources/31Zki4xCtFO
 aliasesArchive:
 - /principles/innovation/
-aliasesFor404:
-- /principles/innovation/
 card:
   button:
     content: Start Optimizing Now

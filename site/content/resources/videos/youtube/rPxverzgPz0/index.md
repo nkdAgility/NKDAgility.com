@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
-aliasesFor404:
-- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
-- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
-- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
-- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

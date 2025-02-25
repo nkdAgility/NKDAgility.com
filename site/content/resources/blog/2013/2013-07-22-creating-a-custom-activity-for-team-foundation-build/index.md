@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
-aliasesFor404:
-- /creating-a-custom-activity-for-team-foundation-build
-- /blog/creating-a-custom-activity-for-team-foundation-build
-- /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling

@@ -11,8 +11,6 @@ aliases:
 - /resources/v_AGzuOgZ0g
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/sprint-planning-event
-aliasesFor404:
-- /learn/agile-delivery-kit/practices/sprint-planning-event
 references: 
 recommendedContent:
 - collection: recipes

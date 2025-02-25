@@ -16,9 +16,6 @@ aliases:
 aliasesArchive:
 - /resources/videos/professional-agile-leadership-essentials-overview
 - /resources/professional-agile-leadership-essentials-overview
-aliasesFor404:
-- /resources/videos/professional-agile-leadership-essentials-overview
-- /resources/professional-agile-leadership-essentials-overview
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false

@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/upgrading-visual-studio-2010
 - /upgrading-visual-studio-2010
 - /resources/blog/upgrading-visual-studio-2010
-aliasesFor404:
-- /upgrading-visual-studio-2010
-- /blog/upgrading-visual-studio-2010
-- /resources/blog/upgrading-visual-studio-2010
 tags:
 - Install and Configuration
 preview: metro-visual-studio-2010-128-link-3-1.png

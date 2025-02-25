@@ -25,12 +25,6 @@ aliasesArchive:
 - /how-to--display-your-outlook-calendar-on-you’re-my-site
 - /blog/how-to--display-your-outlook-calendar-on-you’re-my-site
 - /resources/blog/how-to-display-your-outlook-calendar-on-youre-my-site
-aliasesFor404:
-- /how-to-display-your-outlook-calendar-on-youre-my-site
-- /blog/how-to-display-your-outlook-calendar-on-youre-my-site
-- /how-to--display-your-outlook-calendar-on-you’re-my-site
-- /blog/how-to--display-your-outlook-calendar-on-you’re-my-site
-- /resources/blog/how-to-display-your-outlook-calendar-on-youre-my-site
 tags:
 - Install and Configuration
 - System Configuration

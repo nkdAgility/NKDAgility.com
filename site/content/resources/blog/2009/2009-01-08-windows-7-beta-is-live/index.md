@@ -25,12 +25,6 @@ aliasesArchive:
 - /windows-7-beta-is-live-
 - /blog/windows-7-beta-is-live-
 - /resources/blog/windows-7-beta-is-live
-aliasesFor404:
-- /windows-7-beta-is-live
-- /blog/windows-7-beta-is-live
-- /windows-7-beta-is-live-
-- /blog/windows-7-beta-is-live-
-- /resources/blog/windows-7-beta-is-live
 tags:
 - Windows
 preview: nakedalm-logo-128-link-1-1.png

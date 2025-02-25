@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/first-day-at-aggreko
 - /first-day-at-aggreko
 - /resources/blog/first-day-at-aggreko
-aliasesFor404:
-- /first-day-at-aggreko
-- /blog/first-day-at-aggreko
-- /resources/blog/first-day-at-aggreko
 tags:
 - Miscellaneous
 categories: []

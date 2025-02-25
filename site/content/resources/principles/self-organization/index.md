@@ -15,8 +15,6 @@ aliases:
 - /resources/eyXbQF80i4R
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/self-organization/
-aliasesFor404:
-- /learn/agile-delivery-kit/first-principals/self-organization/
 card:
   button:
     content: Learn More

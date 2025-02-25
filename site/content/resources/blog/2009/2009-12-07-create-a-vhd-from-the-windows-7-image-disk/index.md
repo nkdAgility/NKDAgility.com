@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/create-a-vhd-from-the-windows-7-image-disk
 - /create-a-vhd-from-the-windows-7-image-disk
 - /resources/blog/create-a-vhd-from-the-windows-7-image-disk
-aliasesFor404:
-- /create-a-vhd-from-the-windows-7-image-disk
-- /blog/create-a-vhd-from-the-windows-7-image-disk
-- /resources/blog/create-a-vhd-from-the-windows-7-image-disk
 tags:
 - Windows
 - Install and Configuration

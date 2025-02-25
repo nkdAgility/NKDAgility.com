@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
 - /the-product-goal-is-a-commitment-for-the-product-backlog
 - /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
-aliasesFor404:
-- /the-product-goal-is-a-commitment-for-the-product-backlog
-- /blog/the-product-goal-is-a-commitment-for-the-product-backlog
-- /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
 tags:
 - Scrum Product Development
 - Product Backlog

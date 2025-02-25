@@ -22,11 +22,6 @@ aliasesArchive:
 - /resources/what-are-hierarchies-of-competence-vs-control
 - /resources/videos/what-are-hierarchies-of-competence-vs-control-
 - /resources/what-are-hierarchies-of-competence-vs-control-
-aliasesFor404:
-- /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
-- /resources/what-are-hierarchies-of-competence-vs-control
-- /resources/videos/what-are-hierarchies-of-competence-vs-control-
-- /resources/what-are-hierarchies-of-competence-vs-control-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

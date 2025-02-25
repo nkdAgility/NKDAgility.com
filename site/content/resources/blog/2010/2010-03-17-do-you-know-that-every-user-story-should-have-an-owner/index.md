@@ -25,12 +25,6 @@ aliasesArchive:
 - /do-you-know-that-every-user-story-should-have-an-owner-
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
-aliasesFor404:
-- /do-you-know-that-every-user-story-should-have-an-owner
-- /blog/do-you-know-that-every-user-story-should-have-an-owner
-- /do-you-know-that-every-user-story-should-have-an-owner-
-- /blog/do-you-know-that-every-user-story-should-have-an-owner-
-- /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
 - Scrum Product Development
 - Scrum Team

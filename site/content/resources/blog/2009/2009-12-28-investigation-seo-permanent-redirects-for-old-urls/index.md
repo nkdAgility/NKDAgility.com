@@ -25,12 +25,6 @@ aliasesArchive:
 - /investigation---seo-permanent-redirects-for-old-url’s-
 - /blog/investigation---seo-permanent-redirects-for-old-url’s-
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
-aliasesFor404:
-- /investigation-seo-permanent-redirects-for-old-urls
-- /blog/investigation-seo-permanent-redirects-for-old-urls
-- /investigation---seo-permanent-redirects-for-old-url’s-
-- /blog/investigation---seo-permanent-redirects-for-old-url’s-
-- /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 tags:
 - Windows
 - Install and Configuration

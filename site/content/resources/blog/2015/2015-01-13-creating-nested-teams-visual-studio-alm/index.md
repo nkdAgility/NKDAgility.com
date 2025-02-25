@@ -25,12 +25,6 @@ aliasesArchive:
 - /creating-nested-teams-in-visual-studio-alm
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/blog/creating-nested-teams-visual-studio-alm
-aliasesFor404:
-- /creating-nested-teams-visual-studio-alm
-- /blog/creating-nested-teams-visual-studio-alm
-- /creating-nested-teams-in-visual-studio-alm
-- /blog/creating-nested-teams-in-visual-studio-alm
-- /resources/blog/creating-nested-teams-visual-studio-alm
 tags:
 - Install and Configuration
 - System Configuration

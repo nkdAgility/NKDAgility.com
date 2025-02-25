@@ -17,9 +17,6 @@ aliases:
 aliasesArchive:
 - /methods/beta-codex-cell-structure-design/
 - /learn/agile-delivery-kit/strategies/beta-codex-cell-structure-design/
-aliasesFor404:
-- /methods/beta-codex-cell-structure-design/
-- /learn/agile-delivery-kit/strategies/beta-codex-cell-structure-design/
 card:
   button:
     content: Start Optimizing Now

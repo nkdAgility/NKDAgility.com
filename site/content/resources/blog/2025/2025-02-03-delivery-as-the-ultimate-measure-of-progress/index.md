@@ -24,11 +24,6 @@ aliasesArchive:
 - /blog/delivery-is-the-only-measure-of-progress
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
-aliasesFor404:
-- /delivery-is-the-only-measure-of-progress
-- /blog/delivery-is-the-only-measure-of-progress
-- /delivery-is-the-only-measure-of-progress-in-scrum
-- /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
 - Product Delivery
 - Increment

@@ -15,9 +15,6 @@ aliasesArchive:
 - /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 - /resources/videos/agile-consulting-services-overview
 - /resources/agile-consulting-services-overview
-aliasesFor404:
-- /resources/videos/agile-consulting-services-overview
-- /resources/agile-consulting-services-overview
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 isShort: false

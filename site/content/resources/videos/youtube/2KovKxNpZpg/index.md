@@ -16,9 +16,6 @@ aliasesArchive:
 - /resources/videos/beyond-the-rituals-embracing-the-core-principles-of-scrum-for-true-agile-success
 - /resources/videos/pet-peeve-in-scrum
 - /resources/pet-peeve-in-scrum
-aliasesFor404:
-- /resources/videos/pet-peeve-in-scrum
-- /resources/pet-peeve-in-scrum
 preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: true

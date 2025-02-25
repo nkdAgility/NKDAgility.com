@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/twitter-with-style
 - /twitter-with-style
 - /resources/blog/twitter-with-style
-aliasesFor404:
-- /twitter-with-style
-- /blog/twitter-with-style
-- /resources/blog/twitter-with-style
 tags:
 - Miscellaneous
 categories: []

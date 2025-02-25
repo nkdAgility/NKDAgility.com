@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/continuous-value-delivery-with-modern-business-applications
 - /continuous-value-delivery-with-modern-business-applications
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
-aliasesFor404:
-- /continuous-value-delivery-with-modern-business-applications
-- /blog/continuous-value-delivery-with-modern-business-applications
-- /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
 - Value Delivery
 - Software Developers

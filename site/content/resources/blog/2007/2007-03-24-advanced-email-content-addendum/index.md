@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/advanced-email-content-addendum
 - /advanced-email-content-addendum
 - /resources/blog/advanced-email-content-addendum
-aliasesFor404:
-- /advanced-email-content-addendum
-- /blog/advanced-email-content-addendum
-- /resources/blog/advanced-email-content-addendum
 tags:
 - Troubleshooting
 - Windows

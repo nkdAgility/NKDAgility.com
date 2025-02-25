@@ -27,13 +27,6 @@ aliasesArchive:
 - /tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /blog/tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
-aliasesFor404:
-- /tfs-integration-tools-issue-unable-to-find-a-unique-local-path
-- /blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
-- /tfs-integration-tools---issue--unable-to-find-a-unique-local-path
-- /blog/tfs-integration-tools---issue--unable-to-find-a-unique-local-path
-- /tfs-integration-tools
-- /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

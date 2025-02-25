@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
-aliasesFor404:
-- /new-un-versioned-repository-in-tfs-2012
-- /blog/new-un-versioned-repository-in-tfs-2012
-- /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - Modern Source Control
 - Practical Techniques and Tooling

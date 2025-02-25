@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/in-wip-less-is-more-why
 - /resources/videos/in-wip,-less-is-more,-why-
 - /resources/in-wip,-less-is-more,-why-
-aliasesFor404:
-- /resources/in-wip-less-is-more-why
-- /resources/videos/in-wip,-less-is-more,-why-
-- /resources/in-wip,-less-is-more,-why-
 sitemap:
   filename: sitemap.xml
   priority: 0.6

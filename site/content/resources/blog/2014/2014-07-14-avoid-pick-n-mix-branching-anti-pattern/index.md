@@ -25,12 +25,6 @@ aliasesArchive:
 - /avoid-the-pick-n-mix-branching-anti-pattern
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
-aliasesFor404:
-- /avoid-pick-n-mix-branching-anti-pattern
-- /blog/avoid-pick-n-mix-branching-anti-pattern
-- /avoid-the-pick-n-mix-branching-anti-pattern
-- /blog/avoid-the-pick-n-mix-branching-anti-pattern
-- /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
 - Technical Mastery
 categories:

@@ -21,9 +21,6 @@ aliasesArchive:
 - /resources/videos/-discount-for-existing-alumni-overview
 - /resources/videos/30-discount-for-existing-alumni-overview
 - /resources/30-discount-for-existing-alumni-overview
-aliasesFor404:
-- /resources/30-discount-for-existing-alumni-overview
-- /resources/videos/30-discount-for-existing-alumni-overview
 sitemap:
   filename: sitemap.xml
   priority: 0.6

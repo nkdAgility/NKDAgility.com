@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/even-scrum-should-have-detailed-task-descriptions
 - /even-scrum-should-have-detailed-task-descriptions
 - /resources/blog/even-scrum-should-have-detailed-task-descriptions
-aliasesFor404:
-- /even-scrum-should-have-detailed-task-descriptions
-- /blog/even-scrum-should-have-detailed-task-descriptions
-- /resources/blog/even-scrum-should-have-detailed-task-descriptions
 tags:
 - People and Process
 - Scrum Product Development

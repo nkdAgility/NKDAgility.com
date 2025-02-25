@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/removing-a-dead-solution-deployment-from-moss-2007
 - /removing-a-dead-solution-deployment-from-moss-2007
 - /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
-aliasesFor404:
-- /removing-a-dead-solution-deployment-from-moss-2007
-- /blog/removing-a-dead-solution-deployment-from-moss-2007
-- /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration

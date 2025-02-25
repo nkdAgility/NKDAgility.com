@@ -25,12 +25,6 @@ aliasesArchive:
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-aliasesFor404:
-- /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-- /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
-- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
-- /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
 - Modern Source Control
 - Products and Books

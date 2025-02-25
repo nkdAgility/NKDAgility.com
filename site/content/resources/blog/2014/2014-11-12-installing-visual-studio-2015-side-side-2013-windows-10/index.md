@@ -25,12 +25,6 @@ aliasesArchive:
 - /installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
-aliasesFor404:
-- /installing-visual-studio-2015-side-side-2013-windows-10
-- /blog/installing-visual-studio-2015-side-side-2013-windows-10
-- /installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
-- /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
-- /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
 tags:
 - Install and Configuration
 categories: []

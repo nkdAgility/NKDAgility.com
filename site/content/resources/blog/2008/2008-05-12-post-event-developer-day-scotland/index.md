@@ -25,12 +25,6 @@ aliasesArchive:
 - /post-event--developer-day-scotland---
 - /blog/post-event--developer-day-scotland---
 - /resources/blog/post-event-developer-day-scotland
-aliasesFor404:
-- /post-event-developer-day-scotland
-- /blog/post-event-developer-day-scotland
-- /post-event--developer-day-scotland---
-- /blog/post-event--developer-day-scotland---
-- /resources/blog/post-event-developer-day-scotland
 categories:
 - DevOps
 - Engineering Excellence

@@ -25,12 +25,6 @@ aliasesArchive:
 - /visual-studio-2012-launch-roadshows-around-the-world
 - /blog/visual-studio-2012-launch-roadshows-around-the-world
 - /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-aliasesFor404:
-- /visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-- /blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-- /visual-studio-2012-launch-roadshows-around-the-world
-- /blog/visual-studio-2012-launch-roadshows-around-the-world
-- /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
 tags:
 - Events and Presentations
 - News and Reviews

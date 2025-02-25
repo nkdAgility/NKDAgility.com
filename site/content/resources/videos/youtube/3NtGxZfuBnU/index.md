@@ -20,10 +20,6 @@ aliasesArchive:
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
-aliasesFor404:
-- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
-- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,12 +25,6 @@ aliasesArchive:
 - /visual-studio-2010-overview-webcasts
 - /blog/visual-studio-2010-overview-webcasts
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
-aliasesFor404:
-- /an-index-to-all-visual-studio-2010-overview-sessions
-- /blog/an-index-to-all-visual-studio-2010-overview-sessions
-- /visual-studio-2010-overview-webcasts
-- /blog/visual-studio-2010-overview-webcasts
-- /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
 - Application Lifecycle Management
 - Events and Presentations

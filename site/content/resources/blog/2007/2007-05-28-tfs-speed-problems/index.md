@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/tfs-speed-problems
 - /tfs-speed-problems
 - /resources/blog/tfs-speed-problems
-aliasesFor404:
-- /tfs-speed-problems
-- /blog/tfs-speed-problems
-- /resources/blog/tfs-speed-problems
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

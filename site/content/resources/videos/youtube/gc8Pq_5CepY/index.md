@@ -17,9 +17,6 @@ aliasesArchive:
 - /resources/videos/rd-june-office-hours-ask-me-anything
 - /resources/videos/3rd-june-2020-office-hours-ask-me-anything
 - /resources/3rd-june-2020-office-hours-ask-me-anything
-aliasesFor404:
-- /resources/videos/3rd-june-2020-office-hours-ask-me-anything
-- /resources/3rd-june-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
 duration: 1686
 isShort: false

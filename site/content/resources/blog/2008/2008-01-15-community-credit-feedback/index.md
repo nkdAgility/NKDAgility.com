@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/community-credit-feedback
 - /community-credit-feedback
 - /resources/blog/community-credit-feedback
-aliasesFor404:
-- /community-credit-feedback
-- /blog/community-credit-feedback
-- /resources/blog/community-credit-feedback
 tags:
 - Miscellaneous
 categories: []

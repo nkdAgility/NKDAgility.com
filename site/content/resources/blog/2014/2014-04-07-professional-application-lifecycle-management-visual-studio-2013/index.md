@@ -25,12 +25,6 @@ aliasesArchive:
 - /professional-application-lifecycle-management-with-visual-studio-2013
 - /blog/professional-application-lifecycle-management-with-visual-studio-2013
 - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
-aliasesFor404:
-- /professional-application-lifecycle-management-visual-studio-2013
-- /blog/professional-application-lifecycle-management-visual-studio-2013
-- /professional-application-lifecycle-management-with-visual-studio-2013
-- /blog/professional-application-lifecycle-management-with-visual-studio-2013
-- /resources/blog/professional-application-lifecycle-management-visual-studio-2013
 tags:
 - Products and Books
 categories:

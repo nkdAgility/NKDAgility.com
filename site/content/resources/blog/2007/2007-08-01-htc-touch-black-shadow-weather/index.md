@@ -27,13 +27,6 @@ aliasesArchive:
 - /htc-touch---black-shadow-weather
 - /blog/htc-touch---black-shadow-weather
 - /resources/blog/htc-touch-black-shadow-weather
-aliasesFor404:
-- /htc-touch-black-shadow-weather
-- /blog/htc-touch-black-shadow-weather
-- /htc-touch---black-shadow-weather
-- /blog/htc-touch---black-shadow-weather
-- /htc-touch
-- /resources/blog/htc-touch-black-shadow-weather
 categories: []
 tags:
 - Troubleshooting

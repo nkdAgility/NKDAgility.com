@@ -21,11 +21,6 @@ aliasesArchive:
 - /blog/without-delivery-no-value
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
-aliasesFor404:
-- /without-delivery-no-value
-- /blog/without-delivery-no-value
-- /without-delivery--there-is-no-value
-- /blog/without-delivery--there-is-no-value
 tags:
 - Increment
 - Value Delivery

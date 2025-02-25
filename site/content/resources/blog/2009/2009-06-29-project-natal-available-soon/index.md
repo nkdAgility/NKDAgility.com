@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/project-natal-available-soon
 - /project-natal-available-soon
 - /resources/blog/project-natal-available-soon
-aliasesFor404:
-- /project-natal-available-soon
-- /blog/project-natal-available-soon
-- /resources/blog/project-natal-available-soon
 tags: []
 categories: []
 preview: metro-xbox-360-link-1-1.png

@@ -21,10 +21,6 @@ aliasesArchive:
 - /resources/transforming-training-the-power-of-immersive-learning-in-scrum
 - /resources/videos/nkd-agility-training-approach
 - /resources/nkd-agility-training-approach
-aliasesFor404:
-- /resources/transforming-training-the-power-of-immersive-learning-in-scrum
-- /resources/videos/nkd-agility-training-approach
-- /resources/nkd-agility-training-approach
 sitemap:
   filename: sitemap.xml
   priority: 0.6

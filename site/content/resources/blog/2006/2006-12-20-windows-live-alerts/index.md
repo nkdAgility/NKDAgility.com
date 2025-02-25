@@ -21,10 +21,6 @@ aliasesArchive:
 - /blog/windows-live-alerts
 - /windows-live-alerts
 - /resources/blog/windows-live-alerts
-aliasesFor404:
-- /windows-live-alerts
-- /blog/windows-live-alerts
-- /resources/blog/windows-live-alerts
 tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

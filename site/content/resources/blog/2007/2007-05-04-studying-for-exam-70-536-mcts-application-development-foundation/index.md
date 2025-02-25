@@ -25,12 +25,6 @@ aliasesArchive:
 - /studying-for-exam-70-536--mcts-application-development-foundation
 - /blog/studying-for-exam-70-536--mcts-application-development-foundation
 - /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
-aliasesFor404:
-- /studying-for-exam-70-536-mcts-application-development-foundation
-- /blog/studying-for-exam-70-536-mcts-application-development-foundation
-- /studying-for-exam-70-536--mcts-application-development-foundation
-- /blog/studying-for-exam-70-536--mcts-application-development-foundation
-- /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
 tags:
 - Windows
 - Personal

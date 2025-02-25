@@ -18,10 +18,6 @@ aliasesArchive:
 - /APOM
 - /methods/agnostic-agile/
 - /learn/agile-delivery-kit/strategies/agnostic-agile/
-aliasesFor404:
-- /APOM
-- /methods/agnostic-agile/
-- /learn/agile-delivery-kit/strategies/agnostic-agile/
 card:
   button:
     content: More info
