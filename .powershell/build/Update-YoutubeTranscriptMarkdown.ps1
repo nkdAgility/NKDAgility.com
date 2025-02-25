@@ -21,7 +21,7 @@ function Get-CaptionsText {
     - Do not add explanations, attributes, or additional text.
     - Only use the words from the transcript between the tildes (~).
     - Ensure correct capitalisation and punctuation.
-    - Ensure the text is readable.
+    - Ensure the text is readable with paragraphs and line breaks.
     - Output only the cleaned transcript content. 
     
     ~~~
@@ -29,6 +29,9 @@ function Get-CaptionsText {
     ~~~
 
 "@ 
+    $tokenCount = python -c "import tiktoken; enc = tiktoken.encoding_for_model('gpt-4'); print(len(enc.encode('''$prompt''')))"
+    Write-InfoLog "Token count: $tokenCount"
+
     $newDescription = Get-OpenAIResponse -Prompt $prompt
     return $newDescription
 }

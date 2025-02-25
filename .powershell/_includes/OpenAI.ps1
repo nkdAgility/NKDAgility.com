@@ -43,7 +43,7 @@ function Call-OpenAI {
             $response = Invoke-RestMethod -Uri $apiUrl -Method Post -Headers @{
                 "Content-Type"  = "application/json; charset=utf-8"
                 "Authorization" = "Bearer $OPEN_AI_KEY"
-            } -Body $body -TimeoutSec 60
+            } -Body $body -TimeoutSec 300
 
             # Validate response structure
             if ($response -and $response.choices -and $response.choices.Count -gt 0 -and $response.choices[0].message) {
